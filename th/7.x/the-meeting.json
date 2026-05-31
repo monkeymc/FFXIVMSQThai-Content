@@ -1,0 +1,308 @@
+{
+  "id": "the-meeting",
+  "wiki_path": "/wiki/The_Meeting",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.2",
+  "title_en": "The Meeting",
+  "title": "การพบพาน",
+  "level": "100",
+  "location": "Solution Nine(X:17.8,Y:17.9)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What a cruel thing to say to Sphene...",
+      "text": "พูดจาใจร้ายกับคุณสฟีนเกินไปแล้วครับ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Alexandria has no need for Queen Sphene. It's the Queen of Reason─my Endless counterpart─that they love.",
+      "text": "อาณาจักรอเล็กซานเดรียไม่มีความจำเป็นต้องมีราชินีสฟีนหรอกค่ะ ราชินีแห่งเหตุผล—ซึ่งก็คือตัวฉันในร่างเอ็นด์เลส—ต่างหากล่ะคะที่พวกเขาเสื่อมใสรักใคร่"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And although it is a hard truth to accept...it is nevertheless the truth. I must find a new way to serve...",
+      "text": "และถึงแม้ว่ามันจะเป็นความจริงที่ยอมรับได้ยาก... แต่มันก็คือความจริงอยู่ดีค่ะ ฉันต้องหาหนทางใหม่เพื่อที่จะรับใช้ช่วยเหลือพวกเขา..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You're not alone. And together, we can get through anything.",
+      "text": "คุณไม่ได้อยู่ตัวคนเดียวนะครับ และถ้าเราอยู่ด้วยกัน พวกเราก็จะผ่านพ้นทุกอุปสรรคไปได้แน่นอนครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well said. And it just so happens there's something that only you can do right this moment...",
+      "text": "พูดได้ดีมากเลย และก็ประจวบเหมาะพอดีเลยล่ะ เพราะในเวลานี้มีบางอย่างที่มีแค่เธอเท่านั้นที่ทำได้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's start with Calyx. What can you tell us about him?",
+      "text": "มาเริ่มจากเรื่องของคาลิกซ์กันก่อนเถอะ ช่วยเล่าเรื่องของเขาให้พวกเราฟังหน่อยได้ไหม?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He was a prodigy who specialized in the field of electrope and made his mark during the Storm Surge. Yet even as he basked in the admiration of his peers, he struggled with an illness he had from birth, which left him with precious little time to live.",
+      "text": "เขาเป็นเด็กหนุ่มอัจฉริยะผู้เชี่ยวชาญด้านเทคโนโลยีอิเล็กโทรปที่สร้างชื่อเสียงในช่วงภัยพิบัติคลื่นพายุคลั่งค่ะ ทว่าถึงแม้เขาจะได้รับความเลื่อมใสชื่นชมจากผู้คนรอบข้างอย่างล้นพ้น แต่เขาก็ต้องต่อสู้กับโรคร้ายที่เป็นมาตั้งแต่เกิด ซึ่งทำให้เขามีเวลาเหลือในการใช้ชีวิตน้อยเหลือเกินค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For him to still be here four centuries on, I think it safe to assume that he too has become an Endless.",
+      "text": "การที่เขายังคงอยู่ที่นี่ได้หลังจากผ่านไปสี่ศตวรรษ ฉันคิดว่าคงคาดเดาได้ไม่ยากเลยค่ะว่าตัวเขาเองก็กลายเป็นเอ็นด์เลสไปแล้วเช่นกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... While we're somewhat familiar with Preservation, I never imagined we'd cross paths with one of them like this.",
+      "text": "อย่างนี้นี่เอง... แม้พวกเราจะพอคุ้นชื่อกลุ่มพรีเซิร์ฟเวชันอยู่บ้าง แต่ไม่เคยคิดฝันเลยว่าจะต้องมาเผชิญหน้ากับคนของพวกนั้นตรงๆ แบบนี้"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You know about Preservation?",
+      "text": "พวกคุณรู้จักกลุ่มพรีเซิร์ฟเวชันด้วยเหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We do. They're supposed to have created Everkeep's core system as well as the Endless Sphene.",
+      "text": "รู้จักสิ มีคนบอกว่าพวกนั้นเป็นคนสร้างระบบหลักของเอเวอร์คีป รวมถึงสฟีนในร่างเอ็นด์เลสด้วยน่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Did they? All while I was slumbering...",
+      "text": "อย่างนั้นหรอกเหรอคะ... ทั้งหมดนั้นเกิดขึ้นในระหว่างที่ฉันกำลังหลับใหลอยู่สินะคะ..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The members of Oblivion have spent a lot of time investigating Preservation. We should head to the Backroom and tell them what's happened.",
+      "text": "สมาชิกของเดอะแบ็ครูมใช้เวลาสืบเรื่องกลุ่มพรีเซิร์ฟเวชันมานานมากเลยครับ พวกเราควรจะมุ่งหน้าไปที่เดอะแบ็ครูมเพื่อบอกเรื่องที่เกิดขึ้นกับพวกเขาดีกว่าครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "To think that Krile's parents were once members of Preservation...",
+      "text": "ไม่คิดเลยนะคะว่าพ่อแม่ของคุณไครล์จะเคยเป็นสมาชิกของกลุ่มพรีเซิร์ฟเวชันมาก่อน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've given the others a summary, but we can wait on the details if you need some rest.",
+      "text": "พวกฉันเล่าเรื่องคร่าวๆ ให้คนอื่นฟังแล้วล่ะ แต่ถ้าเธออยากจะพักผ่อนก่อน รายละเอียดพวกนั้นค่อยคุยกันทีหลังก็ได้นะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Are you feeling alright?",
+      "text": "คุณรู้สึกไม่สบายตรงไหนหรือเปล่าครับ?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The sign might yield some clues...",
+      "text": "ป้ายนั่นอาจจะช่วยบอกใบ้อะไรให้เราได้บ้างนะคะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We heard about the ambush. You seem to have weathered it well, but try to avoid straining yourself, do you hear me?",
+      "text": "พวกเราได้ยินเรื่องการซุ่มโจมตีแล้วล่ะ ดูเหมือนนายจะรับมือได้ดีนะ แต่พยายามอย่าฝืนตัวเองเกินไปล่ะ ได้ยินที่ฉันพูดใช่ไหม?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've heard what happened. So, Preservation has revealed itself at last.",
+      "text": "พวกเราได้ยินเรื่องที่เกิดขึ้นแล้วล่ะค่ะ ในที่สุดกลุ่มพรีเซิร์ฟเวชันก็ยอมปรากฏตัวออกมาเสียทีนะคะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And using the key, they mean to turn even more people into Endless...",
+      "text": "และเมื่อใช้กุญแจนั่น แสดงว่าพวกเขาก็ตั้งใจจะทำให้คนกลายเป็นเอ็นด์เลสมากขึ้นไปอีกงั้นสินะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems safe to assume that they, too, intend to steal aether from the other reflections.",
+      "text": "คงคาดเดาได้ไม่ยากเลยล่ะว่าพวกเขาก็กำลังวางแผนที่จะช่วงชิงอีเธอร์จากโลกมิติคู่ขนานอื่นเช่นกัน"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But unlike the previous Sphene, they have no intention of saving everyone.",
+      "text": "แต่ไม่เหมือนกับสฟีนคนก่อน เพราะพวกเขาไม่มีความคิดที่จะช่วยทุกคนหรอก"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Calyx of all people would know precisely how much aether is required to sustain an Endless. Thus he is able to set a realistic limit to their creation, without being swayed by emotion.",
+      "text": "ในบรรดาคนทั้งหมด คาลิกซ์ย่อมเป็นคนที่รู้ดีที่สุดว่าต้องใช้อีเธอร์มากขนาดไหนในการคงสภาพร่างเอ็นด์เลสเอาไว้ ด้วยเหตุนี้ เขาจึงสามารถกำหนดขีดจำกัดที่เป็นจริงในการสร้างพวกเอ็นด์เลสได้ โดยไม่ปล่อยให้อารมณ์ความรู้สึกเข้ามามีอิทธิพล"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Carefully managed, eternal preservation... Whether or not this can be considered an evolution, 'tis plain that man's very existence would be forever changed.",
+      "text": "การเก็บรักษานิรันดร์ภายใต้การจัดการอย่างรอบคอบ... ไม่ว่านี่จะถือเป็นวิวัฒนาการได้หรือไม่ แต่ที่แน่ๆ คือการดำรงอยู่ของมนุษยชาติจะเปลี่ยนไปตลอดกาลอย่างแน่นอนค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Say... If this Calyx is as brilliant a scientist as everyone says, could he have been the one who erased everyone's memories of Endless Sphene's death?",
+      "text": "นี่... ถ้าหากคาลิกซ์คนนี้เป็นนักวิทยาศาสตร์ที่เก่งกาจอย่างที่ใครๆ เขาว่ากันจริง เขาจะเป็นคนที่ลบความทรงจำของทุกคนเรื่องการตายของสฟีนร่างเอ็นด์เลสหรือเปล่านะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That is a possibility, though I cannot speak to his motives...",
+      "text": "มีความเป็นไปได้ค่ะ ทว่าฉันก็ตอบไม่ได้เหมือนกันว่าแรงจูงใจของเขาคืออะไร..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though Calyx has outright stated his ultimate goal, how his actions will further this agenda remains unclear...",
+      "text": "ถึงแม้คาลิกซ์จะประกาศเป้าหมายสูงสุดของเขาออกมาชัดเจนแล้ว แต่ก็ยังไม่แน่ชัดเลยค่ะว่าการกระทำของเขาจะช่วยผลักดันให้บรรลุเป้าหมายนั้นได้อย่างไร..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That said, we have seen how anxiety towards death continues to spread amongst Alexandrians. Perhaps the simulant stokes this fear to entice them to become Endless.",
+      "text": "ถึงอย่างนั้น พวกเราก็เห็นแล้วว่าความกังวลเรื่องความตายยังคงแพร่กระจายในหมู่ชาวอเล็กซานเดรียไม่หยุดหย่อน บางทีร่างจำลองนั่นอาจจะคอยโหมกระพือความกลัวนี้ เพื่อล่อลวงให้พวกเขากลายเป็นเอ็นด์เลสก็ได้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Everyone is afraid of death. We try to put it out of our minds, and I do not blame the people for feeling as they do.",
+      "text": "ทุกคนต่างก็กลัวความตายกันทั้งนั้นค่ะ พวกเราพยายามสลัดมันออกไปจากความคิด และฉันก็ไม่คิดจะโทษประชาชนเลยค่ะที่พวกเขารู้สึกเช่นนั้น"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Nonetheless, I wish to stop the simulant. I wish to do what I can for those who believe in their queen.",
+      "text": "ทว่าฉันอยากจะหยุดร่างจำลองนั่นค่ะ ฉันอยากทำทุกอย่างที่พอจะทำได้เพื่อช่วยเหลือผู้คนที่ยังเชื่อมั่นในตัวราชินีของพวกเขา"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Although I wear no crown, were I to forsake the people...then I would truly have no place here.",
+      "text": "ถึงแม้ฉันจะไม่ได้สวมมงกุฎแล้วก็ตาม แต่ถ้าหากฉันละทิ้งประชาชนไป... ตัวฉันก็คงไม่มีสถานที่ให้อยู่ที่นี่อีกต่อไปแล้วจริงๆ ค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I don't know if this will help in that endeavor, but I've found something interesting.",
+      "text": "ฉันไม่รู้ว่านี่จะช่วยในเรื่องนั้นได้หรือเปล่านะคะ แต่ฉันบังเอิญเจอเรื่องน่าสนใจเข้าให้แล้วล่ะค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "When I analyzed the sign that Calyx appeared on, I was able to determine the source of transmission. I traced it back to a terminal used only by Preservation, located in the foundation sector.",
+      "text": "พอฉันลองวิเคราะห์สัญญาณที่คาลิกซ์ปรากฏตัวขึ้นมาแล้ว ก็สามารถระบุแหล่งที่มาของการส่งสัญญาณได้ค่ะ โดยแกะรอยย้อนกลับไปจนพบเทอร์มินัลเครื่องหนึ่งที่ใช้เฉพาะในกลุ่มพรีเซิร์ฟเวชัน ซึ่งตั้งอยู่ในเขตรากฐานค่ะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Foundation sector... That came up in my mother's records, didn't it? It's where the old castle was hidden.",
+      "text": "เขตรากฐาน... เรื่องนั้นเคยมีอยู่ในบันทึกของคุณแม่นี่ครับ? มันเป็นที่ซ่อนของปราสาทโบราณใช่ไหมครับ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Everkeep was built atop the castle of the former kingdom. Access to the immediate area─the foundation sector─is highly restricted, with map data accordingly classified.",
+      "text": "เอเวอร์คีปถูกสร้างขึ้นทับปราสาทของอาณาจักรเดิมค่ะ ทางเข้าพื้นที่ใกล้เคียง—ซึ่งก็คือเขตรากฐาน—จึงถูกจำกัดสิทธิ์อย่างเข้มงวด และข้อมูลแผนที่ก็ถูกเก็บเป็นความลับสุดยอดตามไปด้วยค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The old castle is inside this tower...?",
+      "text": "ปราสาทหลังเก่าอยู่ข้างในหอคอยนี้งั้นเหรอคะ...?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's an ideal place for Preservation to conceal a terminal, I must say. Having existed since the Storm Surge, they would be familiar with the castle's layout.",
+      "text": "ต้องบอกว่าเป็นสถานที่ที่เหมาะเจาะมากเลยค่ะสำหรับให้กลุ่มพรีเซิร์ฟเวชันซ่อนเทอร์มินัลเอาไว้ เพราะพวกนั้นดำรงอยู่มาตั้งแต่ยุคภัยพิบัติคลื่นพายุคลั่ง ย่อมต้องคุ้นเคยกับแผนผังของปราสาทเป็นอย่างดีแน่นอนค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But I wonder, would someone so versed in electrope such as Calyx be so careless as to leave a trail?",
+      "text": "แต่ฉันอดสงสัยไม่ได้ว่า คนที่เชี่ยวชาญด้านอิเล็กโทรปอย่างคาลิกซ์ จะประมาทเลินเล่อจนทิ้งร่องรอยเอาไว้ให้เราตามได้ง่ายๆ ขนาดนี้เชียวหรือคะ?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oh, I expect he intended for us to find the terminal.",
+      "text": "อ๋อ ฉันคิดว่าเขาตั้งใจให้พวกเราพบเทอร์มินัลนั่นมากกว่าค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It may be a trap, but it's our only lead. What do you think, my friend?",
+      "text": "มันอาจจะเป็นกับดัก แต่ก็เป็นเบาะแสเดียวที่เรามี นายคิดว่ายังไงบ้าง?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No, we cannot. We must learn exactly what he is plotting.",
+      "text": "ไม่ได้หรอก เราเลี่ยงไม่ได้หรอกนะ เราต้องรู้ให้ได้ว่าเขากำลังวางแผนอะไรกันแน่"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Agreed. And besides, you owe him for that bolt of lightning.",
+      "text": "เห็นด้วยเลย และอีกอย่าง นายยังมีบัญชีต้องสะสางกับเขาเรื่องสายฟ้านั่นด้วยนี่นะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That it is. While I'm glad you're safe, we cannot allow his offense to go unanswered.",
+      "text": "นั่นสินะ ถึงฉันจะดีใจที่นายปลอดภัยดี แต่เราก็ปล่อยให้การล่วงเกินของเขาผ่านไปเฉยๆ โดยไม่มีการตอบโต้อะไรไม่ได้หรอก"
+    },
+    {
+      "character": "Shale",
+      "text_en": "If you're set on this course of action, I'll work on getting you access to the foundation sector. Sit tight for now.",
+      "text": "ถ้าพวกคุณตัดสินใจที่จะเดินหน้าต่อทางนี้ ฉันจะจัดการหาทางเข้าเขตรากฐานให้เองค่ะ รออยู่ที่นี่สักพักก่อนนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Please let me come with you!",
+      "text": "ได้โปรดให้ฉันไปด้วยคนนะคะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I may not possess any special skills, but I know the castle better than any. So please...",
+      "text": "ถึงฉันจะไม่มีความสามารถพิเศษอะไร แต่ฉันรู้จักปราสาทหลังนี้ดีกว่าใครๆ เพราะฉะนั้น ได้โปรดเถอะค่ะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright.",
+      "text": "ตกลง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If that's what you want, then we go together. The rest of us will take point and secure the way, and we'll count on you to guide us in the castle.",
+      "text": "ถ้าเธอต้องการแบบนั้น พวกเราก็ไปด้วยกันเลย พวกฉันจะเดินนำเพื่อคอยคุ้มกันและเปิดทางให้เอง ส่วนเรื่องนำทางในปราสาทคงต้องฝากเธอด้วยนะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In the world of Sphene's memories, the town was already submerged. Given their dire circumstances, I expect the people considered stripping the castle for materials to rebuild.",
+      "text": "ในโลกแห่งความทรงจำของสฟีน ตัวเมืองได้จมอยู่ใต้น้ำไปแล้ว หากพิจารณาจากสถานการณ์ที่ยากลำบากของพวกเขา ฉันคิดว่าประชาชนคงเคยคิดที่จะรื้อเอาวัสดุจากปราสาทไปใช้ในการฟื้นฟูเมืองขึ้นมาใหม่น่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For the structure to endure even now... It speaks to its importance to the Alexandrians, as well as their resilience.",
+      "text": "การที่โครงสร้างนี้ยังคงทนทานมาได้จนถึงปัจจุบัน... มันสะท้อนให้เห็นถึงความสำคัญของปราสาทนี้ที่มีต่อชาวอเล็กซานเดรีย รวมถึงความแข็งแกร่งไม่ยอมแพ้ของพวกเขาด้วยเช่นกัน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Calyx determines how many will become Endless, but leaves the choice of who in the hands of the people...",
+      "text": "คาลิกซ์เป็นคนกำหนดจำนวนคนที่จะกลายเป็นเอ็นด์เลส แต่เขากลับปล่อยให้ทางเลือกที่ว่า 'ใคร' จะเป็นผู้ได้รับเลือกนั้นขึ้นอยู่กับประชาชนเอง..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is this his idea of fairness, or does he simply not care? Perhaps he considers all to be worthy of salvation...? Oh, but it's too early for such speculation...",
+      "text": "นี่คือแนวคิดเรื่องความยุติธรรมของเขา หรือแค่ความไม่ใส่ใจกันแน่นะคะ? บางทีเขาอาจจะคิดว่าทุกคนต่างก็คู่ควรกับการได้รับการช่วยเหลือ...? โอ๊ะ แต่ตอนนี้มันยังเร็วเกินไปที่จะคาดเดาแบบนั้นล่ะค่ะ..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm working on securing a route to the foundation sector. Please sit tight for a while.",
+      "text": "ฉันกำลังจัดการเปิดเส้นทางไปยังเขตรากฐานอยู่นะคะ รอกันที่นี่สักพักก่อนนะคะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "According to the records from Yuweyawata, my mother was investigating Origenics for her own research into souls.",
+      "text": "จากบันทึกในยูเวยาวาตา คุณแม่ของผมกำลังสืบสวนเรื่องออริเจนิกส์เพื่อใช้ในการวิจัยเกี่ยวกับจิตวิญญาณของเธอเองครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There was map data for Origenics in the records, and that's how we learned about the castle in the foundation sector.",
+      "text": "ในบันทึกมีข้อมูลแผนที่ของออริเจนิกส์อยู่ด้วยครับ นั่นคือวิธีที่พวกเราได้รู้เรื่องปราสาทในเขตรากฐานครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At last we have a plan. Let's make it count!",
+      "text": "ในที่สุดพวกเราก็มีแผนการแล้วล่ะ ทำให้สำเร็จกันเถอะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for allowing me to accompany you.",
+      "text": "ขอบคุณนะคะที่อนุญาตให้ฉันร่วมเดินทางไปด้วย"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It may take time for me to find my place in this new Alexandria, but I will. Slowly but surely.",
+      "text": "มันอาจจะใช้เวลาสักหน่อยกว่าที่ฉันจะค้นพบสถานที่ของตัวเองในอเล็กซานเดรียยุคใหม่นี้ แต่ฉันจะหาให้พบให้ได้ค่ะ ค่อยเป็นค่อยไปแต่ก้าวเดินอย่างมั่นคงแน่นอนค่ะ"
+    }
+  ]
+}

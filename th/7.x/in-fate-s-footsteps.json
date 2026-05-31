@@ -1,0 +1,743 @@
+{
+  "id": "in-fate-s-footsteps",
+  "wiki_path": "/wiki/In_Fate%27s_Footsteps",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d4/In_fate%27s_footsteps1.png",
+  "patch": "7.5",
+  "title_en": "In Fate's Footsteps",
+  "title": "ตามรอยโชคชะตา",
+  "level": "100",
+  "location": "Solution Nine(X:12.7,Y:6.0)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "Warm fare-thee-wells can ease the sting of partings, as we come to terms with an absence not soon forgotten.",
+      "text": "คำบอกลาอันอบอุ่นคงช่วยทุเลาความเจ็บปวดจากการจากลาได้บ้าง ยามที่เราต้องยอมรับความจริงเรื่องการจากไปของใครบางคนที่จะไม่มีวันลืมเลือน..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To tell those we hold dear what they've meant to us, and to wish them the best... We should seize that chance whensoever we can.",
+      "text": "การได้บอกคนสำคัญว่าพวกเขามีความหมายกับเราเพียงใด พร้อมทั้งอวยพรให้พวกเขาโชคดี... หากมีโอกาสเมื่อใด เราก็ควรคว้ามันเอาไว้เสมอนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I trust you were able to get plenty of rest? Good. I thought we might take a moment to ponder our next steps─and perhaps reflect on our recent journey.",
+      "text": "ฉันหวังว่าคุณกับระฮะจะได้พักผ่อนกันเต็มอิ่มแล้วนะคะ? ดีจังค่ะ... ฉันคิดว่าพวกเราน่าจะลองขบคิดถึงก้าวต่อไปกันสักหน่อย─รวมถึงทบทวนเรื่องการเดินทางที่ผ่านมาด้วยเลยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I must admit my thoughts often drift to the Mist Continent and our stay in Treno...",
+      "text": "ยอมรับตามตรงเลยนะคะว่าความคิดของฉันยังคงลอยล่องกลับไปที่ทวีปแห่งสายหมอกและการพักแรมในเทรโนอยู่บ่อยๆ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It was heartening to see the Milalla prosper despite the odds, and my own flesh and blood strive in that levin-wracked landscape.",
+      "text": "ดีใจเหลือเกินค่ะที่ได้เห็นชาวมิลาลลายังคงเติบโตอย่างมั่งคั่งแม้อุปสรรคจะรายล้อม และได้เห็นคนในสายเลือดเดียวกับฉันพยายามดิ้นรนต่อสู้อยู่ในดินแดนที่ถูกอัสนีบาตซัดกระหน่ำแห่งนั้น"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Sphene was eager to restore diplomatic relations, and I have no doubt that Alexandria will provide much-needed support for their neighbor.",
+      "text": "สฟีนเองก็กระตือรือร้นที่จะฟื้นฟูความสัมพันธ์ทางการทูตอยู่แล้วด้วย ฉันเชื่อสนิทใจเลยล่ะว่าอเล็กซานเดรียจะส่งแรงสนับสนุนที่จำเป็นอย่างยิ่งให้เพื่อนบ้านของพวกเขาแน่นอน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I too shall do everything I can to aid my home away from home─my wonderful, welcoming family included.",
+      "text": "ฉันเองก็จะทำทุกวิถีทางเพื่อช่วยเหลือบ้านหลังที่สองของฉันเหมือนกันค่ะ─รวมถึงครอบครัวอันแสนอบอุ่นและยินดีต้อนรับฉันเป็นอย่างดีด้วยนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "For the time being, though, I'd say we've accomplished all within our power.",
+      "text": "แต่สำหรับตอนนี้ ฉันว่าพวกเราได้ทำทุกอย่างที่อยู่ในกำลังความสามารถแล้วล่ะค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I suppose that just leaves the matter of Preservation's research...",
+      "text": "ถ้าอย่างนั้นก็คงเหลือแค่เรื่องงานวิจัยขององค์กรพรีเซิร์ฟเวชันแล้วสินะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It is yet unclear how Calyx learned the techniques he used to summon his dark primal.",
+      "text": "ยังไม่แน่ชัดเลยว่าคาลิกซ์ไปรู้วิธีอัญเชิญไพรมอลแห่งความมืดตนนั้นมาจากไหน"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And there is likewise much that remains unknown about the key. Let us hope that Shale's efforts bear more fruit.",
+      "text": "แล้วก็ยังมีเรื่องของกุญแจที่พวกเรายังไม่รู้อีกมากเหมือนกัน... หวังว่าการศึกษาของเชลจะคืบหน้าและเห็นผลมากขึ้นนะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Can you hear me?",
+      "text": "ได้ยินเสียงฉันไหมคะ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Shale and I have been reviewing the decrypted files, and have uncovered some intriguing details. Would you care to join us?",
+      "text": "ฉันกับเชลลองตรวจสอบไฟล์ที่ถอดรหัสเสร็จแล้ว และพบเบาะแสบางอย่างที่น่าสนใจไม่น้อยเลยค่ะ สะดวกจะมาหาพวกเราไหมคะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We'll be with you right away.",
+      "text": "เดี๋ยวพวกเราจะรีบไปหาเดี๋ยวนี้เลยค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Excellent. Shale seems rather eager to speak with you all. Come and find us in the deuterolab when you're ready.",
+      "text": "ดีเลยค่ะ ดูเหมือนเชลจะอยากคุยกับพวกคุณทุกคนมากเลย ถ้าพร้อมแล้วก็มาพบพวกเราที่ห้องวิจัยดิวเทอโรนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Uncanny timing indeed! Let us make for the containment complex.",
+      "text": "ช่างประจวบเหมาะเหลือเกินค่ะ! พวกเรามุ่งหน้าไปยังศูนย์กักกันกันเถอะค่ะ"
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "Heading for the containment complex? Right this way!",
+      "text": "จะเดินทางไปยังศูนย์กักกันหรือครับ? เชิญทางนี้เลยครับ!"
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "For security reasons, Containment Complex 10-29 has been registered as a materials distribution center. Keep this in mind and conduct yourself accordingly, both inside and outside the facility.",
+      "text": "เพื่อความปลอดภัยทางข้อมูล ศูนย์กักกัน 10-29 ได้รับการขึ้นทะเบียนในฐานข้อมูลเป็นศูนย์กระจายวัสดุภัณฑ์ โปรดระลึกถึงข้อปฏิบัติและวางตัวตามความเหมาะสม ทั้งภายในและภายนอกสถานปฏิบัติการ"
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Each employee must perform their tasks within their designated workrooms: the researchers' commons, the protolab, or the deuterolab. Entrance into another workroom without official clearance is strictly prohibited.",
+      "text": "พนักงานทุกคนต้องปฏิบัติงานภายในห้องที่ได้รับมอบหมายเท่านั้น ได้แก่ ห้องพักนักวิจัย ห้องปฏิบัติการโปรโต หรือห้องปฏิบัติการดิวเทอโร ห้ามเข้าห้องปฏิบัติการอื่นโดยไม่ได้รับอนุมัติอย่างเป็นทางการโดยเด็ดขาด"
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Carry your security card at all times. Your clearance level dictates the areas to which you have access.",
+      "text": "กรุณาพกบัตรผ่านรักษาความปลอดภัยติดตัวตลอดเวลา ระดับสิทธิ์เข้าถึงของท่านเป็นตัวกำหนดพื้นที่ที่สามารถเข้าออกได้"
+    },
+    {
+      "character": "Personnel Protocols",
+      "text_en": "Equip your regulator at all times. Due to the highly confidential nature of the research materials and other data managed within this complex, Preservation retains the ownership of─and the rights to modify─the memories of all registered personnel.",
+      "text": "กรุณาสวมใส่เรกูเลเตอร์ตลอดเวลา เนื่องจากข้อมูลและวัตถุดิบงานวิจัยภายในศูนย์กักกันแห่งนี้เป็นความลับขั้นสูงสุด พรีเซิร์ฟเวชันขอสงวนสิทธิ์ในความครอบครอง และสิทธิ์ในการดัดแปลงแก้ไขความทรงจำของเจ้าหน้าที่ที่ได้รับการขึ้นทะเบียนทุกคน"
+    },
+    {
+      "character": "Research Objectives",
+      "text_en": "The primary research objective of Containment Complex 10-29 is the indefinite preservation of the Endless.",
+      "text": "วัตถุประสงค์หลักของการวิจัย ณ ศูนย์กักกัน 10-29 คือการเก็บรักษาผู้ไร้สิ้นสุดเอาไว้อย่างไม่มีกำหนด"
+    },
+    {
+      "character": "Research Objectives",
+      "text_en": "Continued improvements to soul cell and regulator functionality are intended to facilitate the Endless Sphene's management of Living Memory. It is via this process of iteration that we endeavor to identify and resolve any and all issues inherent in Endless creation.",
+      "text": "การพัฒนาโซลเซลล์และประสิทธิภาพการทำงานของเรกูเลเตอร์อย่างต่อเนื่อง มีจุดมุ่งหมายเพื่ออำนวยความสะดวกในการบริหารจัดการลิฟวิ่งเมโมรีของสฟีนผู้ไร้สิ้นสุด กระบวนการประมวลผลซ้ำเหล่านี้เป็นช่องทางให้เราสืบเสาะและแก้ไขปัญหาเชิงระบบทั้งหมดเกี่ยวกับการให้กำเนิดผู้ไร้สิ้นสุด"
+    },
+    {
+      "character": "Research Objectives",
+      "text_en": "Chief among known issues is our present inability to control the key. For if we fail to secure the reflections as additional sources of aether, our ultimate goal will remain forever out of reach.",
+      "text": "ปัญหาหลักที่พบในขณะนี้คือความล้มเหลวในการควบคุมกุญแจ หากเราไม่สามารถยึดครองโลกเงาสะท้อนเพื่อนำมาเป็นแหล่งพลังงานเอเธอร์เพิ่มเติมได้ เป้าหมายสูงสุดของเราก็จะยังคงอยู่ห่างไกลเกินเอื้อมตลอดกาล"
+    },
+    {
+      "character": "Leadership Personnel",
+      "text_en": "Complex Director: Demetrius Protolab Chief: Eosphor Deuterolab Chief: Redacted",
+      "text": "ผู้อำนวยการศูนย์: ดีมีเทรียส | หัวหน้าห้องปฏิบัติการโปรโต: อีออสฟอร์ | หัวหน้าห้องปฏิบัติการดิวเทอโร: [ข้อมูลถูกปกปิด]"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Given that all the data is stored within electrope devices, Shale's expertise has proven invaluable.",
+      "text": "ในเมื่อข้อมูลทั้งหมดถูกจัดเก็บเอาไว้ในอุปกรณ์อิเล็กโทรป ความเชี่ยวชาญของเชลจึงมีประโยชน์ต่อพวกเราอย่างเหลือล้นทีเดียวค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ah, you're just in time for a progress report.",
+      "text": "อ๊ะ มาได้จังหวะรายงานความคืบหน้าพอดีเลยค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The decryption is finally complete. As we suspected, the data represents a partial record of Preservation's research documents.",
+      "text": "ในที่สุดการถอดรหัสก็เสร็จสมบูรณ์เสียทีค่ะ และก็เป็นไปตามที่พวกเราคาดไว้ ข้อมูลนี้เป็นเพียงบันทึกงานวิจัยบางส่วน ของ ของพรีเซิร์ฟเวชันเท่านั้น"
+    },
+    {
+      "character": "Shale",
+      "text_en": "A quick scan of the files, however, failed to turn up the information Y'shtola was after.",
+      "text": "แต่หลังจากลองสแกนดูไฟล์คร่าวๆ แล้ว ก็ยังไม่เจอข้อมูลที่คุณยาชโทลากำลังตามหาอยู่เลยค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed. No mention of the Ascians─or primal summoning techniques, for that matter.",
+      "text": "นั่นสิคะ ไม่มีพูดถึงพวกแอสเซียนเลย... กระทั่งเรื่องวิธีการอัญเชิญไพรมอลก็ไม่มีเบาะแสเลยสักนิด"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While Calyx doubtless received instruction from someone possessed of such knowledge, there was naught to identify this benevolent mentor.",
+      "text": "ถึงคาลิกซ์จะได้รับการชี้นำจากผู้มีภูมิความรู้ดังกล่าวอย่างไม่ต้องสงสัย แต่ก็ไม่มีเบาะแสอันใดที่จะระบุตัวตนของอาจารย์ผู้มีพระคุณคนนั้นได้เลยสักนิด"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am however pleased to say that we found several reports concerning the key.",
+      "text": "ทว่าก็ยังมีเรื่องน่ายินดีอยู่บ้างตรงที่พวกเราพบรายงานหลายฉบับที่พูดถึงเรื่องกุญแจค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "We know the key is used to open paths between worlds, and was a treasured relic of the Milalla.",
+      "text": "พวกเรารู้กันอยู่แล้วว่ากุญแจดอกนี้มีไว้สำหรับเปิดเส้นทางเชื่อมต่อระหว่างโลกต่างๆ และเคยเป็นสมบัติล้ำค่าของชาวมิลาลลามาก่อน"
+    },
+    {
+      "character": "Shale",
+      "text_en": "And just as the Milalla were unable to return after reaching the Mist Continent, so too was Preservation unable to gain a mastery of the prize which had passed into their possession.",
+      "text": "และเฉกเช่นเดียวกับที่ชาวมิลาลลาไม่อาจหวนคืนมาได้อีกหลังเดินทางไปถึงทวีปแห่งสายหมอก... ทางพรีเซิร์ฟเวชันเองก็ไม่เคยทำความเข้าใจหรือควบคุมสิ่งล้ำค่าที่ตกมาอยู่ในมือได้อย่างแท้จริงเช่นกัน"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The data suggests that a particular formula or procedure is required...",
+      "text": "ข้อมูลบ่งชี้ว่ามันจำเป็นต้องใช้สูตรเฉพาะหรือลำดับขั้นตอนเจาะจงบางประการ..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "A process which Calyx appears to have understood to some degree.",
+      "text": "และดูเหมือนคาลิกซ์จะพอเข้าใจกระบวนการที่ว่านี้อยู่ระดับหนึ่งเลยล่ะค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Yet the key proved fickle.",
+      "text": "ทว่าเจ้ากุญแจดอกนี้กลับเอาแน่เอานอนไม่ได้เลยสักนิดค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Perfectly replicating conditions was no guarantee of success. And even when they did manage to generate a modest portal, the destination was never the one they expected.",
+      "text": "การจำลองเงื่อนไขทุกอย่างขึ้นมาอย่างสมบูรณ์แบบไม่ได้เป็นหลักประกันความสำเร็จเลยค่ะ... และถึงจะพอเปิดประตูมิติย่อยๆ ขึ้นมาได้ ทว่าจุดหมายปลายทางกลับไม่เคยตรงกับที่คิดเอาไว้เลยสักครั้งเดียว"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The reports practically screamed their frustration, describing the experience as being dragged around by a traveler picking roads without rhyme or reason. Serves them right, I say.",
+      "text": "ในรายงานนั้นแทบจะตะโกนความอัดอั้นตันใจออกมารัวๆ เลยล่ะค่ะ โดยบรรยายประสบการณ์ช่วงนั้นว่าเหมือนกับการโดนนักเดินทางชักนำให้เดินสะเปะสะปะตามเส้นทางที่นึกอยากจะเลือกก็เลือกอย่างไร้เหตุผล... ซึ่งฉันว่าก็สมน้ำหน้าพวกเขาแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "After much trial and error, Preservation began to experiment with external actuation devices for the key.",
+      "text": "หลังลองผิดลองถูกอยู่เป็นเวลานาน ทางพรีเซิร์ฟเวชันก็เริ่มทดลองสร้างอุปกรณ์สั่งการภายนอกขึ้นมาควบคุมกุญแจ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Striving to maintain a stable pathway to a chosen location, they conceived of the technology that forms the gate to the golden city.",
+      "text": "ด้วยความพยายามที่จะควบคุมให้เส้นทางเชื่อมมิติมีความเสถียรเพื่อไปยังสถานที่ที่ต้องการ พวกเขาจึงให้กำเนิดเทคโนโลยีที่เป็นต้นแบบของประตูสู่นครทองคำในที่สุด"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So their tribulations ultimately afforded them control of the key─albeit in a limited capacity...",
+      "text": "สรุปก็คือความพยายามล้มลุกคลุกคลานของพวกเขาส่งผลให้เริ่มหาวิธีควบคุมกุญแจได้สำเร็จ... แม้จะยังทำได้ค่อนข้างจำกัดก็ตามสินะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Which, of course, explains why they were able to instruct Zoraal Ja in its use.",
+      "text": "ซึ่งนั่นก็ช่วยอธิบายว่าเหตุใดพวกเขาจึงสามารถสอนวิธีใช้งานกุญแจให้แก่โซราล จาได้ล่ะนะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Thus enabling the unprecedented feat of transferring Everkeep and its environs to the Source.",
+      "text": "จนเป็นผลให้พวกเขาสามารถกระทำเรื่องเหนือความคาดหมายที่ไม่เคยปรากฏมาก่อน อย่างการเคลื่อนย้ายเอเวอร์คีปและพื้นที่โดยรอบมายังโลกซอร์สได้นั่นเอง"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "After the Endless Sphene took the key unto herself, she opened pathways to other reflections in her hunt for aether, did she not?",
+      "text": "หลังจากสฟีนผู้ไร้สิ้นสุดช่วงชิงกุญแจดอกนั้นไป หล่อนก็นำมันมาเปิดประตูมิติเชื่อมไปยังโลกเงาสะท้อนอื่นๆ เพื่อล่าหาเอเธอร์... ใช่ไหมล่ะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Milalla merely used it to facilitate their exodus. To think what the key has now wrought in different hands...",
+      "text": "ชาวมิลาลลาเพียงแต่ใช้มันช่วยอำนวยความสะดวกในการอพยพหนีภัยเท่านั้น... แต่พอคิดดูว่ากุญแจดอกเดียวกันนี้ ยามตกไปอยู่ในมือผู้อื่น กลับสามารถสร้างเรื่องราวเลวร้ายได้ถึงเพียงนี้..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For all we know, the actuation device augmented the key's power beyond its intended scope.",
+      "text": "ไม่แน่ว่าเจ้าอุปกรณ์สั่งการภายนอกนั่น อาจไปช่วยเพิ่มพูนอานุภาพของกุญแจให้เหนือกว่าขอบเขตการใช้งานเดิมที่ผู้สร้างตั้งใจไว้แต่แรกก็ได้นะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Were your goal to plunder whole worlds of their aether, a tool designed to simply transfer people would likely be insufficient.",
+      "text": "หากเป้าหมายคือการปล้นชิงเอเธอร์จากโลกทั้งใบ ลำพังเครื่องมือที่ออกแบบมาเพื่อเคลื่อนย้ายผู้คนธรรมดาย่อมไม่น่าจะเพียงพอแน่นอน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shale, I don't suppose you would be able to remove the actuation device?",
+      "text": "คุณเชลคะ พอจะมีทางถอดอุปกรณ์สั่งการนั่นออกได้ไหมคะ?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The machine made for that very purpose is still functional, thankfully. It shouldn't be a problem.",
+      "text": "โชคดีที่เครื่องมือที่สร้างขึ้นเพื่อจุดประสงค์นี้โดยเฉพาะยังใช้งานได้ดีอยู่ค่ะ ไม่น่าจะมีปัญหาอะไรหรอก"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What do you think? We don't even know how the key works─if the device is somehow interfering or amplifying its capabilities, I believe we ought to remove it.",
+      "text": "ทุกคนคิดเห็นอย่างไรกันบ้างคะ? ลำพังแค่กลไกการทำงานของกุญแจพวกเราก็ยังไม่รู้เลย... หากอุปกรณ์นี้จะเข้ามารบกวนหรือขยายขีดความสามารถของกุญแจให้มากยิ่งขึ้นล่ะก็ ฉันคิดว่าเราควรถอดมันออกจะดีกว่าค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Give me a moment.",
+      "text": "ขอเวลาฉันสักประเดี๋ยวนะคะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My word!",
+      "text": "เหลือเชื่อจริงๆ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Y'shtola?",
+      "text": "คุณยาชโทลาคะ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This is the first time I've beheld the key in all its unobscured glory.",
+      "text": "นี่เป็นหนแรกเลยที่ฉันได้เห็นรูปลักษณ์อันแท้จริงของกุญแจดอกนี้อย่างเต็มตา ไร้สิ่งใดมาบดบัง..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The sheer density is extraordinary... 'Tis akin to the structures we saw beneath the Tempest.",
+      "text": "ความหนาแน่นของพลังช่างมหาศาลเหลือเกิน... รูปลักษณ์ชวนให้นึกถึงสิ่งก่อสร้างที่พวกเราเคยพบเห็นใต้เทมเพสต์ไม่มีผิด"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Now that you mention it, the ornamentation is reminiscent of Amaurot.",
+      "text": "จริงด้วยสิ พอพูดถึงเรื่องนี้ขึ้นมา ลวดลายประดับพวกนี้ก็ชวนให้นึกถึงอามอรอตอยู่เหมือนกันนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Have you noticed anything since the key has been in your possession?",
+      "text": "ตั้งแต่พกกุญแจดอกนี้ติดตัวไว้ [ชื่อ] สังเกตเห็นสิ่งผิดปกติบ้างหรือเปล่าคะ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You're suggesting the key has some connection with Azem?",
+      "text": "คุณจะบอกว่า กุญแจดอกนี้มีความเชื่อมโยงบางอย่างกับอาเซมอย่างนั้นหรือ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A plausible theory. Although one we are yet unequipped to prove.",
+      "text": "สมมติฐานนี้มีความเป็นไปได้ทีเดียว... แม้ว่าตอนนี้พวกเราจะยังไม่มีสิ่งใดพิสูจน์มันได้ก็ตาม"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, my apologies!",
+      "text": "อุ๊ย ขออภัยด้วยค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hello? Yes, this is Krile speaking.",
+      "text": "ฮัลโหล? ค่ะ ไครล์พูดสายอยู่ค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That was Ojika with a message for us.",
+      "text": "เมื่อครู่คุณโอจิกะติดต่อมาส่งข่าวถึงพวกเราค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "An urgent matter?",
+      "text": "เกิดเรื่องด่วนอะไรขึ้นงั้นเหรอ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm not altogether sure...",
+      "text": "ฉันเองก็ยังไม่ค่อยแน่ใจเหมือนกันค่ะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tataru requires our counsel, and hoped to call upon us in person at the Baldesion Annex.",
+      "text": "ดูเหมือนคุณทาทารุจะมีเรื่องอยากปรึกษาพวกเรา และหวังจะมาพบพวกเราด้วยตัวเองที่ตึกเสริมบัลเดสิออนค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though disappointed we were not present, she appeared content to wait until our travels brought us back to Sharlayan, insisting that it did not merit our immediate summons.",
+      "text": "ถึงจะเสียดายที่พวกเราไม่อยู่ที่นั่น แต่เธอก็บอกว่ารอให้พวกเราเดินทางกลับชาร์ลายันก่อนก็ได้ค่ะ ยืนยันหนักแน่นเลยว่าไม่ใช่เรื่องด่วนขนาดต้องรีบเรียกตัวพวกเรากลับในทันที"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Her tone suggested otherwise, however, and Ojika felt compelled to contact us directly.",
+      "text": "ทว่าน้ำเสียงของเธอกลับสวนทางกันอย่างสิ้นเชิง จนคุณโอจิกะรู้สึกไม่สบายใจและต้องติดต่อมาหาเราโดยตรงค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Mayhap the time has come for another journey across the salt.",
+      "text": "สงสัยคงได้เวลาเดินทางข้ามน้ำข้ามทะเลกันอีกรอบแล้วล่ะนะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "You'd best go. Though I'll not deny that I'll be sad to see you leave...",
+      "text": "รีบไปกันเถอะค่ะ แม้ฉันจะยอมรับว่าคงอดใจหายไม่ได้ที่จะเห็นพวกคุณต้องจากไป..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, Shale. I can't even begin to thank you for all you've done.",
+      "text": "โธ่ คุณเชลคะ... ฉันไม่รู้จะขอบคุณอย่างไรดีสำหรับความช่วยเหลือทุกอย่างที่คุณมอบให้"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We will be forever indebted to you and your Oblivion colleagues.",
+      "text": "พวกเราต้องขอติดค้างบุญคุณอันยิ่งใหญ่นี้ต่อคุณและเพื่อนๆ ในกลุ่มอ็อบลิเวียนทุกคนด้วยนะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "The debt is ours. We'll never forget the sacrifices you've made for us─for Alexandria.",
+      "text": "ฝั่งเราต่างหากล่ะคะที่เป็นหนี้บุญคุณ... พวกเราจะไม่มีวันลืมสิ่งที่พวกคุณยอมเสียสละเพื่อพวกเรา... เพื่ออเล็กซานเดรียเลยค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "In the meantime, I shall keep sifting through the data. You'll hear as soon as I find anything of note.",
+      "text": "ส่วนระหว่างนี้ ฉันจะคอยวิเคราะห์ข้อมูลที่เหลืออยู่ต่อไปค่ะ หากเจออะไรน่าสนใจขึ้นมาเมื่อไหร่ จะรีบติดต่อส่งข่าวบอกทันทีเลยค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Actually, I should like to stay here a little longer, if you don't mind?",
+      "text": "ความจริงแล้ว หากคุณไม่ขัดข้อง... ฉันใคร่ขอพำนักอยู่ที่นี่ต่ออีกสักหน่อยจะได้ไหมคะ?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "You are most welcome!",
+      "text": "ด้วยความยินดีอย่างยิ่งเลยค่ะ!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And might I borrow the key for a while? I wish to study it further─with the utmost care, I assure you.",
+      "text": "แล้วก็... ฉันพอจะขอยืมกุญแจดอกนี้ไว้สักครู่ได้ไหมคะ? อยากจะขอนำไปศึกษาต่ออีกสักนิด... รับรองว่าจะดูแลรักษาเป็นอย่างดีที่สุดค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well then, shall we be off? Ojika will be expecting us!",
+      "text": "เอาล่ะค่ะ ถ้าอย่างนั้นพวกเราก็ออกเดินทางกันเลยไหมคะ? ป่านนี้คุณโอจิกะคงตั้งตารอแย่แล้ว!"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "TRAIL TO THE HEAVENS",
+      "text": "เส้นทางสู่สรวงสวรรค์"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Given that Preservation could not unlock the secrets of the key, it should come as no surprise that we too struggle to understand its nature... In any event, do give Tataru my regards when you see her.",
+      "text": "ในเมื่อแม้แต่กลุ่มเพรสเซอเวชันยังมิอาจไขความลับของกุญแจดอกนี้ได้ ก็ไม่ใช่เรื่องแปลกที่พวกเราเองก็ยังต้องดิ้นรนทำความเข้าใจมัน... อย่างไรก็ตาม ฝากส่งความระลึกถึงถึงคุณทาทารุแทนฉันด้วยนะคะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah, I ought to mention that we also uncovered information unrelated to the key.",
+      "text": "อ้อ... แล้วก็มีเรื่องที่ฉันควรบอกไว้ด้วยค่ะ พวกเราพบข้อมูลบางส่วนที่ไม่เกี่ยวข้องกับกุญแจดอกนี้เข้าให้เหมือนกัน"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "According to Shale, certain confidential reports are now accessible via devices in the researchers' commons and the director's office. You might wish to peruse the files before you depart for Sharlayan.",
+      "text": "คุณเชลแจ้งว่า รายงานลับบางฉบับสามารถเข้าถึงได้ผ่านอุปกรณ์ในห้องพักผ่อนของนักวิจัยและห้องผู้อำนวยการแล้ว... หากสะดวก คุณอาจจะแวะไปลองดูไฟล์พวกนั้นก่อนจะออกเดินทางกลับชาร์ลายันก็ได้นะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "My colleagues will be just as saddened by your departure. Until we meet again, safe journeys!",
+      "text": "พวกพ้องของฉันเองก็คงใจหายกับการจากไปของพวกคุณไม่แพ้กัน... เอาไว้พบกันใหม่นะคะ ขอให้เดินทางโดยสวัสดิภาพค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I thought it best to hear what Ojika has to say ere we meet with Tataru. I do hope she is well...",
+      "text": "ฉันคิดว่าพวกเราลองฟังเรื่องจากคุณโอจิกะก่อนที่จะเข้าไปพบคุณทาทารุน่าจะดีที่สุดค่ะ หวังว่าเธอจะสบายดีนะคะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Oh dear... It occurs to me that I neglected to bring gifts from Tural. Considering the extra work they've had to handle in my absence, I daresay I owe them a veritable mountain of snacks, at the very least...",
+      "text": "แย่ล่ะสิ... เพิ่งนึกขึ้นได้ว่าไม่ได้หยิบของฝากจากทูราลติดมือกลับมาเลยแฮะ ยิ่งถ้าคิดถึงงานล้นมือที่พวกนั้นต้องเหนื่อยเพิ่มขึ้นตอนฉันไม่อยู่แล้วด้วย... อย่างน้อยๆ ฉันคงต้องชดใช้ด้วยขนมกองโตเท่าภูเขาเลยล่ะนะ"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Welcome back! And what a pleasure it is to see you too, Forename .",
+      "text": "ยินดีต้อนรับกลับมาครับ! และดีใจมากเลยครับที่ได้พบคุณเช่นกันนะคุณ [ชื่อ]"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you for contacting us, Ojika. We came as soon as we could.",
+      "text": "ขอบคุณที่อุตส่าห์ติดต่อส่งข่าวมานะคะคุณโอจิกะ พวกเราทราบปุ๊บก็รีบมากันทันทีเลยค่ะ"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Of course. I felt it prudent given how troubled Tataru was...",
+      "text": "ด้วยความยินดีครับ พอดีผมเห็นคุณทาทารุดูกังวลใจมาก ก็เลยคิดว่ารีบส่งข่าวบอกพวกคุณไว้น่าจะดีกว่า..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Your concern is much appreciated. As it so happens, we'd reached a convenient juncture in our investigation. Shale and Y'shtola have matters well in hand, leaving us free to make this trip.",
+      "text": "ขอบคุณสำหรับความห่วงใยนะคะ พอดีการสืบสวนฝั่งโน้นคืบหน้าไปจนถึงจุดที่พักได้พอดีค่ะ อีกอย่างคุณเชลกับคุณยาชโทลาก็คอยดูแลทางนั้นอยู่ พวกเราก็เลยเดินทางมาได้อย่างหมดห่วงค่ะ"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "That's a relief to hear. Now, let me fetch Tataru for you.",
+      "text": "ได้ยินแบบนั้นก็เบาใจครับ งั้นเดี๋ยวผมขอตัวไปเรียนคุณทาทารุให้ทราบก่อนนะครับ"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Why don't you take a moment to relax in the main hall? I'm sure you're all still fatigued from your journey!",
+      "text": "เข้าไปนั่งพักผ่อนในห้องโถงใหญ่กันก่อนสิครับ เดินทางมาเหนื่อยๆ คงล้ากันน่าดูเลย!"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "I shan't be long, but you can unwind in the main hall while I'm gone.",
+      "text": "ผมไปประเดี๋ยวเดียวครับ พักผ่อนตามสบายในห้องโถงใหญ่ระหว่างรอได้เลยนะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Given how frequently Tataru is away on business these days, 'tis a small miracle we're in the same place at the same time.",
+      "text": "ช่วงนี้ทาทารุเดินทางออกไปทำธุระข้างนอกบ่อยมาก การที่พวกเราได้มาอยู่พร้อมหน้าพร้อมตากันแบบนี้ ชวนให้รู้สึกว่าเป็นปาฏิหาริย์เล็กๆ เหมือนกันนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Only now is it beginning to feel like we've actually returned. Such fond memories within these four walls!",
+      "text": "พอมาถึงตรงนี้ก็เริ่มรู้สึกเหมือนได้กลับบ้านจริงๆ แล้วสิคะ... ห้องสี่เหลี่ยมห้องนี้เปี่ยมล้นไปด้วยความทรงจำดีๆ มากมายเหลือเกิน"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Planning your next journey?",
+      "text": "กำลังวางแผนการเดินทางครั้งต่อไปอยู่หรือเปล่า?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, no. Just reminiscing...",
+      "text": "อุ๊ย เปล่าหรอกค่ะ... แค่คิดถึงเรื่องเก่าๆ ขึ้นมาน่ะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thinking back to when you bought this map─and how you all encouraged me to make the voyage to Tural...",
+      "text": "คิดย้อนไปตอนที่ระฮะซื้อแผนที่แผ่นนี้มา... แล้วก็ตอนที่พวกนายทุกคนช่วยกันผลักดันให้ฉันเดินทางไปทูราลน่ะค่ะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Are you glad you did?",
+      "text": "แล้วดีใจหรือเปล่าล่ะที่ตัดสินใจไปน่ะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As if you need ask!",
+      "text": "แหม ยังต้องถามอีกเหรอคะ!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Welcome back!",
+      "text": "ยินดีต้อนรับกลับมาค่า!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I'm so glad you're here!",
+      "text": "ดีใจเหลือเกินค่ะที่พวกคุณมาถึงเสียที!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ojika contacted us. He intimated that you were rather concerned.",
+      "text": "คุณโอจิกะเป็นคนติดต่อพวกเรามาน่ะครับ เขาเปรยว่าคุณดูจะกังวลใจอยู่ไม่น้อยเลย"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Come to think of it, Alphinaud said he and Alisaie would pay you a visit upon their return. Have you not seen them?",
+      "text": "จะว่าไป อัลฟิโนเคยบอกว่าเขากับอลิเซจะแวะมาหาทันทีที่กลับมาถึง ทั้งสองคนยังไม่ได้มาพบคุณหรือครับ?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh, no, they were here! I was regaled with many a tale of your Turali adventures.",
+      "text": "โอ๊ะ เปล่าหรอกค่ะ พวกเขาแวะมาแล้วล่ะจ๊ะ! แถมยังเล่าเรื่องราวการผจญภัยในทูรัลของพวกคุณให้ฉันฟังเสียจุใจเลยค่ะ"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It was only once they'd departed for Garlemald that the rumors came to my attention.",
+      "text": "แต่พอพวกเขารีบออกเดินทางไปยังการ์เลมัลด์ ข่าวลือแปลก ๆ ก็เริ่มหนาหูขึ้นมาน่ะค่ะ"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Rather alarmingly, voidsent sightings seem to be on the rise across the star.",
+      "text": "น่าตกใจตรงที่มีคนพบเห็นพวกวอยด์เซนต์ปรากฏตัวบ่อยขึ้นทั่วปฐพีเลยน่ะสิคะ"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I was reluctant to bother you with mere hearsay, especially when you had more pressing matters to contend with...",
+      "text": "ตอนแรกฉันก็ไม่อยากเอาเรื่องเล่าโคมลอยมารบกวนให้พวกคุณต้องกังวลหรอกนะคะ ยิ่งในยามที่คุณมีเรื่องคอขาดบาดตายต้องคอยสะสางด้วยแล้ว..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "But earlier I received a confidential report from the Grand Company of Eorzea.",
+      "text": "ทว่าไม่นานมานี้ ฉันเพิ่งได้รับรายงานลับส่งตรงมาจากแกรนด์คอมพานีแห่งเอออร์เซียค่ะ"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It's as if a mighty dam has been breached, flooding the land with foul creatures!",
+      "text": "ราวกับเขื่อนยักษ์พังทลายลงมาไม่มีผิด ปล่อยให้อสุรกายร้ายหลั่งไหลเข้ามาจนท่วมท้นผืนแผ่นดิน!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "For a blessing, most nations have managed to keep the invaders in check, and casualties appear to be minimal thus far. Though the same cannot be said for those regions with a deeper connection to the void...",
+      "text": "ยังเคราะห์ดีที่แว่นแคว้นส่วนใหญ่ยังพอต้านทานพวกมันเอาไว้ได้ ยอดผู้บาดเจ็บล้มตายในเวลานี้จึงยังถือว่าน้อยอยู่... ทว่าดินแดนที่มีความเชื่อมโยงกับห้วงอเวจีอย่างลึกซึ้งกลับไม่เป็นเช่นนั้นเลยค่ะ"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "There, fissures continue to manifest without end, putting countless innocents in danger!",
+      "text": "ที่นั่น รอยแยกมิติยังคงผุดขึ้นมาอย่างไม่สิ้นสุด คอยคุกคามชีวิตผู้บริสุทธิ์นับไม่ถ้วนให้ตกอยู่ในอันตราย!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A deeper connection to the void...",
+      "text": "สายสัมพันธ์อันลึกซึ้งกับห้วงอเวจี..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Garlemald is the home of the reapers, is it not?",
+      "text": "การ์เลมัลด์คือถิ่นกำเนิดของพวกยมทูต... ใช่ไหมคะ?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It is! Alphinaud and Alisaie were there when the trouble began and have since sent word that the situation has taken a dreadful turn...",
+      "text": "ใช่แล้วค่ะ! ทั้งสองคนอยู่ที่นั่นตอนเริ่มเกิดเรื่องขึ้นพอดี ล่าสุดเพิ่งส่งข่าวมาบอกว่าสถานการณ์ทางฝั่งนั้นย่ำแย่ลงมากเลยค่ะ..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Thus concludes the abridged account of our time in Tural. Now, I shall leave you with the words of the late Dawnservant, Gulool Ja Ja.",
+      "text": "...และเรื่องราวการเดินทางในทูรัลโดยสังเขปของพวกเราก็จบลงเพียงเท่านี้ครับ ทว่าต่อจากนี้ ผมอยากขอฝากถ้อยคำของท่าน Dawnservant กูลูล จา จา ผู้ล่วงลับ เอาไว้ให้ทุกท่านได้ตระหนักถึงกันครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "“Ignorance begets strife. Understanding begets fellowship.”",
+      "text": "“ความไม่รู้นำมาซึ่งความขัดแย้ง ความเข้าใจนำมาซึ่งมิตรภาพ”"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A notion that rings true for Eorzeans no less than it does for the diverse peoples of Tuliyollal.",
+      "text": "แนวคิดนี้เป็นความจริงแท้สำหรับชาวเอออร์เซีย ไม่ยิ่งหย่อนไปกว่าผู้คนหลากหลายกลุ่มในทูลิยอลลัลเลยครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And for Garleans as well. Even sharing something as simple as a local dish can pave avenues of understanding.",
+      "text": "และสำหรับชาวการ์ลีนเองก็เหมือนกันนั่นแหละ แค่ได้ร่วมแบ่งปันอาหารพื้นถิ่นง่าย ๆ สักจาน ก็ช่วยเปิดทางไปสู่ความเข้าใจกันได้แล้ว"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's up to all of us to forge new bonds─together.",
+      "text": "จากนี้ไปมันขึ้นอยู่กับพวกเราทุกคนแล้วล่ะ ที่จะช่วยกันสร้างสายสัมพันธ์ใหม่ขึ้นมา... ร่วมกัน"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Thank you for sharing your tale.",
+      "text": "ขอบคุณที่ยอมแบ่งปันเรื่องราวให้ฟังนะครับ"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Better they hear it firsthand than endure my clumsy retelling.",
+      "text": "ให้พวกเขาได้ฟังจากปากพวกคุณเองโดยตรง ยังดีกว่าต้องมาทนฟังผมถ่ายทอดแบบกระท่อนกระแท่นล่ะครับ"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Your words give me hope that we might achieve something similar here in Garlemald.",
+      "text": "คำพูดของพวกคุณทำให้ผมเริ่มมีความหวัง ว่าพวกเราอาจสร้างสิ่งเดียวกันนั้นขึ้นมาได้ที่การ์เลมัลด์แห่งนี้ครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We all have the capacity to effect change! Our time in Tural taught us that much.",
+      "text": "พวกเราทุกคนต่างมีพลังที่จะสร้างความเปลี่ยนแปลงได้ทั้งนั้นแหละ! ช่วงเวลาในทูรัลสอนเรื่องนี้ให้พวกเราเข้าใจกระจ่างเลย"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And now that we've returned, it's time we rolled up our sleeves and got back to work!",
+      "text": "และในเมื่อตอนนี้พวกเรากลับมาแล้ว ก็ได้เวลาถลกแขนเสื้อลุยงานกันต่อเสียที!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've already sent missives to the other nations informing them of our Alexandrian friends.",
+      "text": "ผมได้ส่งจดหมายแจ้งไปยังนานาประเทศเรื่องมิตรสหายชาวอเล็กซานเดรียของเราแล้วครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I also intend to notify the Garlean community officially. If both sides are amenable to the proposition, we shall gladly assist in establishing diplomatic relations with Alexandria and Tuliyollal.",
+      "text": "และผมก็ตั้งใจจะแจ้งเรื่องนี้แก่ชุมชนชาวการ์ลีนอย่างเป็นทางการด้วยครับ หากทั้งสองฝ่ายยินยอมรับข้อเสนอนี้ พวกเราก็ยินดีอย่างยิ่งที่จะช่วยประสานการสถาปนาความสัมพันธ์ทางการทูตระหว่างอเล็กซานเดรีย ทูลิยอลลัล และการ์เลมัลด์ครับ"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Thank you.",
+      "text": "ขอบคุณมากนะครับ"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "But are you sure you've recovered from your journey? It sounded like you've hardly had time to catch your breath...",
+      "text": "ว่าแต่พวกคุณหายเหนื่อยจากการเดินทางกันดีแล้วหรือครับ? ฟังดูเหมือนเพิ่งกลับมาก็แทบไม่มีเวลาให้ได้หยุดพักหายใจหายคอเลย..."
+    },
+    {
+      "character": "Panicked Imperial Soldier",
+      "text_en": "Sir!",
+      "text": "รายงานครับท่าน!"
+    },
+    {
+      "character": "Panicked Imperial Soldier",
+      "text_en": "Lapis Manalis is overrun with voidsent! We've sustained heavy civilian casualties!",
+      "text": "ลาพิส มานาลิส โดนพวกวอยด์เซนต์บุกถล่มยับเยินแล้วครับ! ฝั่งพลเรือนล้มตายและบาดเจ็บสาหัสเป็นจำนวนมากเลยครับ!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "What!?",
+      "text": "ว่าไงนะ!?"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "Clyteum squadron reporting in. We're under attack!",
+      "text": "หน่วยลาดตระเวนไคลเทียมรายงานตัวครับ! พวกเรากำลังถูกโจมตี!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "Voidsent appeared out of nowhere and ambushed us during a routine inspection!",
+      "text": "จู่ ๆ พวกวอยด์เซนต์ก็โผล่มาจากไหนไม่ทราบ ซุ่มจู่โจมพวกเราตอนกำลังออกตรวจเวรตามปกติครับ!"
+    },
+    {
+      "character": "Imperial Soldier",
+      "text_en": "Dammit, is that another fissure? ...No-no-no─aaargh!",
+      "text": "โธ่เว้ย! นั่นรอยแยกมิติอีกจุดงั้นเหรอ?... ไม่นะ ไม่-ไม่-ไม่─อ๊ากกก!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "My comrades are under attack. We have to do something.",
+      "text": "พวกพ้องของผมกำลังถูกโจมตี เราต้องทำอะไรสักอย่างแล้วครับ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There's no time to lose. Come on!",
+      "text": "ไม่มีเวลามาลังเลแล้ว รีบไปกันเถอะ!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "The Garlean community is ill-equipped to defend themselves against such a threat. Even with the aid of the twins and the Ilsabard contingent, they face daunting odds...",
+      "text": "ลำพังชุมชนชาวการ์ลีนเองก็แทบไม่มีกำลังป้องกันตัวเองจากภัยร้ายขนาดนี้อยู่แล้วค่ะ ถึงจะมีสองฝาแฝดกับกองกำลังอิลซาบาร์ดคอยช่วยเหลือ แต่พวกเขาก็ยังต้องเผชิญศึกที่หนักหนาสาหัสเหลือเกิน..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We shall leave for Garlemald immediately.",
+      "text": "พวกเราจะออกเดินทางไปยังการ์เลมัลด์ทันทีครับ"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Thank you...",
+      "text": "ขอบคุณมากเลยนะคะ..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I was able to contact Thancred and Urianger too─they're already on their way. With any luck, you'll be able to rendezvous with them on arrival!",
+      "text": "ฉันติดต่อคุณธันเครดกับคุณอูริอองเฌเรียบร้อยแล้วค่ะ ตอนนี้พวกเขาก็กำลังรุดหน้าไปแล้วเหมือนกัน ถ้าโชคดีก็น่าจะได้ไปสมทบกันพอดีตอนพวกคุณไปถึงนะคะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I don't believe we've seen Thancred and Urianger since our battle with the Endless Sphene, have we? They too must have returned here at some point.",
+      "text": "พวกเราไม่ได้พบกับคุณธันเครดและคุณอูริอองเฌเลยนับตั้งแต่เสร็จศึกตัดสินกับเอนด์เลสสฟีนเลยนะครับ พวกเขาก็คงจะกลับมาถึงที่นี่ในช่วงที่พวกเราไม่อยู่เหมือนกัน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Clearly we made the right decision to come to Sharlayan. Though I dearly wish the circumstances of our return were not so grave...",
+      "text": "การที่พวกเราเลือกกลับมาที่ชาลาร์ยันในเวลานี้ ถือเป็นการตัดสินใจที่ถูกต้องจริง ๆ ค่ะ... แม้ใจจริงแล้ว ฉันจะไม่อยากให้มีสถานการณ์ร้ายแรงมารอรับการกลับบ้านของเราแบบนี้ก็ตาม"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Voidsent emerging across the star!? How fortunate I contacted you when I did... Please do take care of yourselves!",
+      "text": "เคราะห์ดีเหลือเกินที่ผมติดต่อพวกคุณไปในเวลานั้น... ยังไงก็ดูแลตัวเองกันดี ๆ ด้วยนะครับ!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I've been told Alphinaud and Alisaie have withdrawn to Tertium to request aid on the front lines.",
+      "text": "เห็นว่าตอนนี้อัลฟิโนกับอลิเซล่าถอยไปที่สถานีเทอร์เทียมเพื่อขอกำลังเสริมในแนวหน้าน่ะค่ะ"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "They seemed intent on rejoining the battle once reinforcements were ready, but I shall tell them to wait until you arrive!",
+      "text": "เห็นว่าตั้งใจจะกลับเข้าสนามรบทันทีที่กำลังเสริมพร้อม แต่เดี๋ยวฉันจะรีบบอกให้พวกเขารอจนกว่าพวกคุณจะไปถึงก่อนนะจ๊ะ!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Sorry to send you packing so soon after your homecoming, but Garlemald desperately needs your aid!",
+      "text": "ขอโทษด้วยจริง ๆ นะคะที่ต้องส่งพวกคุณเดินทางต่อทันทีที่เพิ่งกลับมาถึงบ้านแบบนี้ แต่ทางฝั่งการ์เลมัลด์ต้องการความช่วยเหลือจากพวกคุณอย่างที่สุดเลยค่ะ!"
+    }
+  ]
+}

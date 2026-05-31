@@ -1,0 +1,473 @@
+{
+  "id": "blessed-siblings",
+  "wiki_path": "/wiki/Blessed_Siblings",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Blessed Siblings",
+  "title": "พี่น้องผู้ได้รับพร",
+  "level": "94",
+  "location": "Yak T'el(X:26.1,Y:34.3)",
+  "npc_start": "Miilal Ja",
+  "dialogues": [
+    {
+      "character": "Erenville",
+      "text_en": "What I know about Mamool Ja extremism is limited to what I've heard through rumors. The same is true for most who hail from Xak Tural.",
+      "text": "ข้อมูลความรู้ที่ผมมีเกี่ยวกับกลุ่มแนวคิดสุดโต่งของชาวมามูอูล จา นั้นค่อนข้างจำกัดมากครับ ส่วนใหญ่เป็นเพียงแค่ข่าวลือคำเล่าอ้างที่ได้ยินมาเท่านั้นล่ะครับ และประชาชนส่วนใหญ่ที่อาศัยอยู่ในแถบซัคทูรัลก็คิดเห็นเช่นเดียวกันล่ะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I expect it was for his devotees that Bakool Ja Ja joined the rite of succession.",
+      "text": "ฉันคิดว่าบาคูล จา จา คงเข้าร่วมพิธีการสืบทอดราชบัลลังก์เพื่อตอบสนองความหวังของเหล่าผู้คนที่ศรัทธาในตัวเขาแน่ ๆ เลยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "“The price we pay”... Is she referring to the marriages between the Hoobigo and Boonewa clans?",
+      "text": "“ราคาที่พวกเราต้องจ่าย”... ที่เธอพูดถึงนี่หมายความถึงการแต่งงานกันข้ามตระกูลระหว่างตระกูลฮูบิโกและบูนีวาหรือเปล่าคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I can use my status as the Dawnservant's daughter to help the people of Mamook, I'm happy to do so. But I'd like to better understand Miilal Ja's motivations first.",
+      "text": "หากฉันสามารถใช้ฐานะและสิทธิ์ความเป็นบุตรสาวของท่านดอว์นเซิร์ฟวันต์ในการช่วยเหลือเยียวยาปัดเป่าทุกข์ภัยให้แก่ชาวมามูคได้ ฉันก็ยินดีทำอย่างเต็มที่แน่นอนค่ะ แต่ก่อนอื่นฉันอยากจะทำความเข้าใจเกี่ยวกับแรงผลักดันและแรงจูงใจที่แท้จริงของคุณมีลัล จา ให้ดีขึ้นก่อนค่ะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Gulool Ja Ja labored to break down walls. That his very existence would instead lead some to raise them is unfortunate...",
+      "text": "ท่านกูลูล จา จา ทุ่มเทหยาดเหงื่อแรงกายมาตลอดชีวิตเพื่อพังกำแพงความขัดแย้งประสานรอยร้าว ทว่าการที่การมีตัวตนอยู่ของเขากลับเป็นสาเหตุที่ทำให้คนบางกลุ่มพยายามสร้างกำแพงความขัดแย้งขึ้นมาใหม่นี่ ช่างเป็นเรื่องที่น่าเศร้าใจเหลือเกินครับ..."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "There is a place that will help you to understand our plight.",
+      "text": "มีสถานที่แห่งหนึ่งที่จะช่วยให้พวกเธอได้เข้าใจถึงความทุกข์ระทมและความยากลำบากของพวกเราจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It lies far to the west of here. Follow me.",
+      "text": "สถานที่แห่งนั้นตั้งอยู่ลึกเข้าไปทางทิศตะวันตกไกลจากที่นี่จ้ะ ตามฉันมาเลย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You won't find sights like these anywhere else.",
+      "text": "คุณไม่มีวันได้พบเห็นทัศนียภาพแปลกตาแบบนี้จากที่อื่นแน่นอนล่ะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that a meteorite up there?",
+      "text": "นั่นมันสะเก็ดดาวตกที่ตกลงมาฝังอยู่ข้างบนนั่นใช่ไหมคะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye. And judging by their attachment, that tree must benefit from the meteorite's unique aether.",
+      "text": "ใช่แล้วครับ และเมื่อประเมินวิเคราะห์จากลักษณะโครงสร้างรากที่พันเหนียวแน่นแล้ว ต้นไม้ใหญ่นั่นคงได้รับสารอาหารประโยชน์จากอีเธอร์ที่มีเอกลักษณ์เฉพาะของสะเก็ดดาวตกนั่นล่ะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Anyway, we should press on. Miilal Ja was anxious for us to see whatever it is she has to show us.",
+      "text": "อย่างไรก็ตาม พวกเราควรรีบออกเดินทางกันต่อเถอะครับ ดูเหมือนคุณมีลัล จา จะร้อนใจอยากให้พวกเราได้แวะชมสิ่งที่เธอตั้งใจจะนำเสนอมากเลยครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The canopy blocks out the sun so completely, it's as if we're in a room without windows...",
+      "text": "ผืนป่าด้านบนบดบังแสงอาทิตย์เบื้องบนซะมิดเลยล่ะค่ะ ราวกับพวกเรากำลังเดินอยู่ในห้องมืดที่ไม่มีหน้าต่างสักบานเลยล่ะค่ะ..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A hunting camp, like as not.",
+      "text": "ดูเหมือนน่าจะเป็นค่ายพักแรมของกลุ่มพรานล่าสัตว์มากกว่านะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'd love to talk to Mamool Ja hunters and learn about their ways, except they'd probably ignore me...",
+      "text": "ฉันล่ะอยากจะแวะพูดคุยเจรจากับกลุ่มพรานล่าสัตว์ชาวมามูอูล จา เพื่อศึกษาเรียนรู้วิถีชีวิตของพวกเขาดูจังเลยค่ะ ยกเว้นแต่ว่าพวกเขาคงจะยอมเมินใส่เย็นชาใส่ฉันเหมือนเดิมล่ะนะคะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The others have continued on. Let's catch up to them.",
+      "text": "คนอื่น ๆ เดินล่วงหน้าไปไกลแล้วล่ะค่ะ รีบตามพวกเขาไปให้ทันกันเถอะนะคะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Having seen how dark this forest is, I can understand why so many Mamool Ja chose to live in Tuliyollal instead.",
+      "text": "หลังจากได้เห็นว่าผืนป่าแห่งนี้มืดมิดและอับชื้นเพียงใด ผมก็เข้าใจทันทีเลยล่ะครับว่าทำไมชาวมามูอูล จา จำนวนมากถึงเลือกย้ายถิ่นฐานไปปักหลักใช้ชีวิตอยู่ในทูลิโยลลัลแทน"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What are we looking at, then?",
+      "text": "แล้วนั่นพวกเรากำลังยืนจ้องมองดูอะไรกันอยู่เหรอคะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I was not aware that such tunnels could be found in the Ja Tiika Heartland. A well-kept secret indeed...",
+      "text": "ข้าไม่เคยล่วงรู้ข้อมูลมาก่อนเลยครับว่าจะมีอุโมงค์ทางเดินลับซ่อนตัวอยู่ในใจกลางป่าจาทีกาแบบนี้ด้วย ช่างเป็นความลับที่เก็บรักษาไว้ได้อย่างยอดเยี่ยมจริง ๆ ครับ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A cavern. And it looks deep...",
+      "text": "ถ้ำลึกนี่นา และดูเหมือนจะลึกมากซะด้วยสิค่ะ..."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "The place I would show you is just ahead.",
+      "text": "สถานที่ที่ฉันอยากจะแสดงให้พวกเธอเห็นอยู่ตรงหน้าทางเดินนี้แล้วจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the place you wanted to show us?",
+      "text": "นี่คือสถานที่ที่คุณตั้งใจจะพาพวกเรามาชมงั้นเหรอคะ?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It lies just beyond this passage.",
+      "text": "อยู่ลึกเข้าไปในอุโมงค์ทางเดินข้างหน้านี้จ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Entry to these grounds is not permitted even to the devout.",
+      "text": "ปกติแล้ว พื้นที่ศักดิ์สิทธิ์ส่วนนี้จะไม่ได้รับอนุญาตให้ใครย่างกรายเข้ามาเลย แม้แต่ผู้ที่ศรัทธาเลื่อมใสที่สุดก็ตามจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Nonetheless, I would reveal our secrets to you. Rest assured I shall take full responsibility.",
+      "text": "อย่างไรก็ตาม ฉันปรารถนาจะเปิดเผยความจริงและความลับข้อนี้ให้พวกเธอได้รับรู้ ขอให้มั่นใจได้เลยว่าฉันจะเป็นผู้รับผิดชอบผลลัพธ์ที่จะเกิดขึ้นทั้งหมดเองจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Come. See for yourself the truth of the blessed.",
+      "text": "มาสิ มาร่วมเป็นพยานมองดูความจริงเบื้องหลังความเป็นอยู่ของพี่น้องผู้ได้รับพรด้วยตาตัวเองเถอะจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I shouldn't have looked down...",
+      "text": "ฉันไม่น่าเผลอก้มมองลงไปข้างล่างเลยค่ะ... ใจมันหวิว ๆ แปลก ๆ แฮะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "The stone pier yonder... That is our destination.",
+      "text": "ท่าเรือหินที่ยื่นออกไปตรงนั้น... คือจุดหมายปลายทางของพวกเราจ้ะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To erect it there would have been no small feat.",
+      "text": "การจะสร้างสิ่งก่อสร้างขนาดใหญ่ขึ้นมาในพื้นที่หลุมลึกแบบนี้ ย่อมไม่ใช่เรื่องง่ายเลยล่ะครับ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "The work of Yok Huy hands, built long, long ago. Our forebears merely altered the entrance.",
+      "text": "ที่นี่เป็นผลงานจากฝีมือของชาวยอคฮุยโบราณจ้ะ สร้างขึ้นมายาวนานมากแล้ว บรรพบุรุษของพวกเราเพียงแค่ดัดแปลงทางเข้าเพื่อนำมาใช้ประโยชน์เท่านั้นเองจ้ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Altered? To what end?",
+      "text": "ดัดแปลงงั้นเหรอคะ? เพื่อจุดประสงค์อะไรเหรอคะ?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It will be quicker to show you. We have beasts that can carry us below.",
+      "text": "การเดินทางลงไปดูด้วยตาตัวเองน่าจะช่วยให้ได้คำตอบที่รวดเร็วและชัดเจนที่สุดจ้ะ พวกเรามีสัตว์พาหนะที่สามารถช่วยพาลงไปด้านล่างได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja?",
+      "text": "บาคูล จา จา?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "...What, couldn't wait to laugh at the failure?",
+      "text": "...อะไรกัน ทนรอไม่ไหวจนต้องรีบตามมาสมทบเพื่อหัวเราะเยาะถากถางคนแพ้ฟาวล์อย่างข้าเลยงั้นรึ?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "You've always come here to cry. Ever since you were little.",
+      "text": "ลูกมักจะเดินทางมาแอบนอนร้องไห้เยียวยาตัวเองที่นี่เสมอเลยล่ะจ้ะ ตั้งแต่สมัยที่ยังเป็นเด็กตัวเล็ก ๆ แล้วนะ"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Mother!",
+      "text": "ท่านแม่!"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "The Third Promise seeks to learn about Mamook. She may be our chance to finally end what we have been powerless to stop.",
+      "text": "ท่านสัญญาที่สามมีความปรารถนาที่จะศึกษาเรียนรู้วิถีชีวิตของชาวมามูคอย่างจริงใจจ้ะ บางทีเธออาจจะเป็นความหวังและโอกาสเดียวที่จะช่วยยุติโศกนาฏกรรมที่พวกเราไม่มีวันหยุดยั้งมันได้ด้วยตัวเองมาโดยตลอดจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Talk with her. Tell her...what we have done.",
+      "text": "ลองพูดคุยกับเธอเถอะจ้ะ เล่าเรื่องราว... สิ่งที่พวกเราได้ทำลงไปให้เธอฟังทีนะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Fine. Perhaps it's only right that we be the ones to speak of it. “Blessed” as we are...",
+      "text": "ก็ได้ บางทีมันอาจจะเป็นหน้าที่และความถูกต้องที่เหมาะสมแล้วล่ะมั้งที่พวกเราซึ่งเป็นผู้ที่ได้รับคำยกย่องว่าเป็น “ผู้ได้รับพร” จะเป็นคนพูดเล่าเปิดเผยเรื่องราวนี้ออกมาเอง..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Here.",
+      "text": "ตรงนี้"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "This vessel holds the remains of a two-headed Mamool Ja. An infant.",
+      "text": "โถหินใบนี้เก็บรักษาอัฐิเศษร่างที่หลงเหลืออยู่ของเด็กทารกมามูอูล จา สองหัวจ้ะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "We converted the ruins into a cenotaph so the souls of these children wouldn't return as vengeful spirits.",
+      "text": "พวกเราดัดแปลงซากโบราณสถานแห่งนี้ให้กลายเป็นอนุสรณ์ระลึกถึงผู้ล่วงลับ เพื่อช่วยส่งดวงวิญญาณของเด็ก ๆ เหล่านี้ให้ไปสู่สุคติ จะได้ไม่ต้องทนทุกข์และกลับมาหลอกหลอนเป็นวิญญาณพยาบาทน่ะจ้ะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Do you know how blessed siblings are made?",
+      "text": "พวกเธอรู้ไหมว่าการจะให้กำเนิดพี่น้องผู้ได้รับพรสองหัวน่ะมีขั้นตอนและราคาอย่างไรบ้าง?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've heard that they are born to Hoobigo and Boonewa parents.",
+      "text": "ฉันเคยได้ยินมาว่าพวกเขาจะถือกำเนิดขึ้นมาได้ก็ต่อเมื่อมีพ่อแม่มาจากตระกูลฮูบิโกและตระกูลบูนีวาแต่งงานกันค่ะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Such unions between clans were originally arranged to stop infighting. The war against the Xbr'aal was going poorly, and we needed to be united.",
+      "text": "เดิมทีการแต่งงานแต่งงานแต่งงานข้ามตระกูลถูกจัดตั้งขึ้นมาเพื่อเป้าหมายในการยุติศึกความตึงเครียดการนองเลือดกันเองภายในเผ่าจ้ะ เพราะยามนั้นการทำศึกสงครามกับชาวยิบราลกำลังตกเป็นรองและย่ำแย่มาก พวกเราจึงจำเป็นต้องรวมใจเป็นหนึ่งเดียวเพื่อความอยู่รอด"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Then one day, a child was born. One blessed with two heads...and tremendous power.",
+      "text": "แล้ววันหนึ่ง ปาฏิหาริย์ก็เกิดขึ้นเมื่อเด็กทารกที่มีสองหัวถือกำเนิดขึ้นมา... ทารกที่ได้รับพรพร้อมพละกำลังอำนาจอันมหาศาลเหลือเชื่อ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "When this child grew old enough to lead our army, we became unstoppable. The Xbr'aal had no answer, and we drove them all the way back to the trees above.",
+      "text": "พอยามที่เด็กคนนั้นเติบโตขึ้นจนถึงวัยแกร่งพอที่จะนำทัพสู้ศึก กองทัพของพวกเราก็กลายเป็นกองทัพที่ไม่มีใครสามารถต้านทานได้ ชาวยิบราลไม่มีหนทางตอบโต้เอาชนะได้เลย และพวกเราก็สามารถขับไล่พวกเขาให้ถอยร่นกลับขึ้นไปอาศัยอยู่บนกิ่งไม้ด้านบนผืนป่าได้สำเร็จ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "That taste of victory awakened our greed. We became obsessed with conceiving more and more of these superior children. No matter the cost...",
+      "text": "รสชาติแห่งชัยชนะในยามนั้นได้ปลุกไฟความโลภและความกระหายขึ้นมาในใจของพวกเรา พวกเรากลายเป็นพวกที่หลงใหลคลั่งไคล้และหมกมุ่นกับการพยายามให้กำเนิดเด็กทารกที่เก่งกาจสมบูรณ์แบบเช่นนี้เพิ่มขึ้นเรื่อย ๆ ไม่ว่าจะต้องแลกด้วยราคาที่แสนแพงเพียงใดก็ตาม..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Of the countless born, most die...trapped in their shells.",
+      "text": "ทว่า ในจำนวนเด็กทารกมากมายที่เกิดมา ส่วนใหญ่กลับต้องเสียชีวิตลง... โดยติดค้างอยู่แต่ในเปลือกไข่โดยไม่มีโอกาสได้ลืมตาดูโลก"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Only one in a hundred survive.",
+      "text": "มีเพียงแค่หนึ่งในร้อยคนเท่านั้นที่จะสามารถมีชีวิตรอดออกมารับแสงสว่างได้จ้ะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "If we are “blessed,” it is only because we yet live. Unlike our brothers and sisters who were sacrificed for the glory of Mamook.",
+      "text": "หากพวกเราได้รับการยกย่องว่าเป็น “ผู้ได้รับพร” นั่นก็เป็นเพราะว่าพวกเราแค่มีโชคดีเหลือรอดชีวิตมาได้เท่านั้นแหละ แตกต่างจากพวกพี่ ๆ น้อง ๆ อีกนับร้อยนับพันชีวิตที่ต้องยอมอุทิศพลีชีพสังเวยไปเพื่อเกียรติยศชื่อเสียงอันไร้ค่าของมามูค"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's...horrible...",
+      "text": "เรื่องแบบนั้นมัน... โหดร้ายชั่วร้ายเกินไปแล้วค่ะ..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Of course it's horrible! It's an atrocity we can never take back!",
+      "text": "มันก็ต้องโหดร้ายอยู่แล้วสิ! มันคือความผิดบาปอันชั่วร้ายมหันต์ที่พวกเราไม่มีวันจะชดใช้หรือย้อนกลับไปแก้ไขมันได้อีกตลอดกาล!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Those children died so that we could live! So we had to succeed, no matter what! To fail would mean it was all for nothing! ... Nothing !",
+      "text": "เด็ก ๆ เหล่านั้นยอมสละชีพตายไปก็เพื่อให้พวกเราสามารถมีชีวิตอยู่ได้! เพราะงั้นพวกเราจึงจำเป็นต้องประสบความสำเร็จมีชัยชนะเหนือใครทั้งหมดไม่ว่าจะต้องใช้วิธีการใดก็ตาม! ความพ่ายแพ้จะหมายความว่าชีวิตของพวกเขาต้องสูญเปล่าไปโดยเปล่าประโยชน์! ... ไร้ค่าสิ้นดี !"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "...But I did fail. I squandered their sacrifice.",
+      "text": "...แต่สุดท้ายข้าก็ทำพลาด ข้าทำให้การยอมเสียสละแลกชีวิตของพวกเขาต้องสูญเปล่าไร้ค่าลงด้วยมือข้าเอง"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I...I should never have been born.",
+      "text": "ข้า... ข้าไม่ควรจะเกิดมาลืมตาดูโลกตั้งแต่แรกเลยด้วยซ้ำ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're wrong.",
+      "text": "แกเข้าใจผิดแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You didn't ask to be born as you are, and─you aren't responsible for your siblings' deaths.",
+      "text": "แกไม่ได้อ้อนวอนร้องขอที่จะเกิดมามีร่างกายเป็นแบบนี้สักหน่อย และ—แกไม่ได้เป็นคนต้องรับผิดชอบต่อการสูญเสียชีวิตของพี่น้องพวกนั้นด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The people obsessed with blessed siblings are. They made their choices...but they don't make yours!",
+      "text": "กลุ่มคนที่หมกมุ่นและคลั่งไคล้ในประเพณีการให้กำเนิดพี่น้องผู้ได้รับพรสองหัวต่างหากที่เป็นคนต้องรับผิดชอบ พวกเขาเลือกเส้นทางของพวกเขาเอง... แต่พวกเขาไม่มีสิทธิ์มาเลือกหนทางเดินชีวิตของแกนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Since when do you let others push you around, Bakool Ja Ja? What do you want? Say it!",
+      "text": "ตั้งแต่เมื่อไหร่กันที่บาคูล จา จา ยอมให้คนอื่นมาชี้นำจูงจมูกแบบนี้ห้ะ? สิ่งที่แกปรารถนาที่แท้จริงคืออะไรกันแน่? พูดมันออกมาสิ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I...want it to end.",
+      "text": "ข้า... อยากให้เรื่องราวพวกนี้มันสิ้นสุดลงซะที"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I don't want any more to die.",
+      "text": "ข้าไม่อยากเห็นใครต้องล้มตายเพราะเรื่องนี้อีกแล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then you have my word. We'll put a stop to this madness.",
+      "text": "ถ้าอย่างนั้น แกได้รับคำมั่นสัญญาคำสัตย์ปฏิญาณจากฉันเลยล่ะ พวกเราจะร่วมมือกันยุติความบ้าคลั่งชั่วร้ายนี้ให้ได้"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Blessed siblings are revered by their supporters as a means to achieve dominance in Tural.",
+      "text": "พี่น้องผู้ได้รับพรสองหัวเป็นที่เคารพศรัทธาอย่างสูงในกลุ่มผู้สนับสนุน เพราะเป็นเครื่องมือสำคัญในการแผ่ขยายแสนยานุภาพและอ้างสิทธิ์ครองแผ่นดินทูรัลครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If we understand why they harbor such aspirations in the first place, we would be better equipped to treat with them.",
+      "text": "หากพวกเราสามารถทำความเข้าใจว่าทำไมพวกเขาถึงมีความทะเยอทะยานแรงกล้าเช่นนั้นตั้งแต่แรกได้ พวกเราก็น่าจะตระเตรียมเจรจาหว่านล้อมให้พวกเขายอมรับฟังเหตุผลได้ง่ายขึ้นครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed. I just hope they will be open to discourse...",
+      "text": "จริงด้วยค่ะ ฉันแค่หวังว่าพวกเขาจะยอมเปิดใจเจรจารับฟังเหตุผลกับพวกเราดี ๆ นะคะ..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Take me with you. Those fanatics treat my words as gospel.",
+      "text": "พาข้าเดินทางร่วมทีมไปกับพวกเจ้าด้วยเถอะ เจ้าพวกคนที่งมงายพวกนั้นพร้อมจะรับฟังคำพูดของข้าราวกับเป็นถ้อยคำสิทธิ์ขาดอยู่แล้ว"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "No. There will be trouble if your father finds out you're still here.",
+      "text": "ไม่ได้หรอกจ้ะ เดี๋ยวจะเกิดเรื่องเดือดร้อนขึ้นมาแน่ ๆ หากพ่อของเจ้ารู้เรื่องเข้าว่าเจ้ายังคงแวะเวียนวนเวียนอยู่ที่นี่"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Moxutural Zooj─there we will gather the people, and ask anything the Third Promise wishes to know.",
+      "text": "ที่ม็อกซูทูรัล ซูจ (Moxutural Zooj)—พวกเราจะแวะรวบรวมกลุ่มชาวบ้านมาพบปะกันที่นั่น และพร้อมจะตอบคำถามทุกข้อที่ท่านสัญญาที่สามปรารถนาจะสืบรู้จ้ะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Then take one of my scales, one that blends the Hoobigo and Boonewa coloring. It'll serve as proof that you have our trust.",
+      "text": "ถ้าอย่างนั้น เจ้าเอาเกล็ดของข้าไปก้อนหนึ่งสิ เกล็ดก้อนนี้มีส่วนผสมสีสันที่เป็นเอกลักษณ์ของตระกูลฮูบิโกและบูนีวาปะปนกันอยู่ มันจะเป็นเครื่องพิสูจน์ยืนยันได้ว่าพวกเจ้าได้รับความไว้วางใจจากข้าพเจ้าแล้ว"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "People will do as you say if you show it to them.",
+      "text": "ชาวบ้านจะยินยอมทำตามถ้อยคำของพวกเจ้าทันทีที่พวกเจ้าแสดงเกล็ดก้อนนี้ให้พวกเขาเห็น"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'm sorry. For what I've said...and done. I don't expect your forgiveness.",
+      "text": "ข้าต้องขอโทษด้วยนะ... สำหรับถ้อยคำร้ายกาจชั่วร้ายและการกระทำทั้งหมดที่ผ่านมา ข้าไม่ได้คาดหวังจะได้รับการอภัยจากพวกเจ้าหรอก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You had your reasons. I'm glad I could know them.",
+      "text": "แกมีเหตุผลและความจำเป็นเบื้องหลังของแก และฉันก็ดีใจที่ได้มีโอกาสทำความเข้าใจเรื่องนั้นค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Which is to say...you're not a complete alpaca's ass.",
+      "text": "ซึ่งมันก็หมายความว่า... แกเองก็ไม่ได้ทำตัวงี่เง่าเหมือนก้นอัลปาก้าไปซะทั้งหมดหรอกนะ"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[Laughs]",
+      "text": "<หัวเราะเบา ๆ>"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Thanks, Wuk Lamat.",
+      "text": "ขอบใจนะ วุค ลามัต"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, maybe it's for the best. Hatred is exhausting, after all.",
+      "text": "ก็นะ บางทีแบบนี้อาจจะเป็นทางออกที่ดีที่สุดแล้วล่ะค่ะ การจมปลักอยู่กับความโกรธแค้นชิงชังน่ะมันเหนื่อยล้าเกินไปจริง ๆ นั่นแหละค่ะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. So let us make the most of our newfound friendship and bring together the people of Mamook. We have much to discover.",
+      "text": "ใช่แล้วครับ ดังนั้นพวกเรามาร่วมมือสร้างสายสัมพันธ์มิตรภาพใหม่นี้ให้เกิดประโยชน์สูงสุด และรวบรวมประชาชนของมามูคมาพูดคุยกันเถอะครับ พวกเรายังมีเรื่องราวอีกมากที่ต้องแวะสืบเสาะเรียนรู้ล่ะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Forename ... Before we rejoin the others, can we talk for a moment?",
+      "text": "นี่ คุณ [ชื่อ] ... ก่อนที่พวกเราจะย้อนกลับไปสมทบกับคนอื่น ๆ ขอเวลาฉันคุยธุระด้วยสักครู่ได้ไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I really hated him, you know. Bakool Ja Ja. With every fiber of my being.",
+      "text": "ความจริงแล้วฉันเคยโกรธแค้นเขามาก ๆ เลยล่ะค่ะ บาคูล จา จา น่ะ โกรธแค้นจนแทบจะทนดูหน้าไม่ได้เลยล่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He tried to ruin Ihih'hana, sabotaged us on the river, kidnapped me for my keystone, and released the most vicious tural vidraal of all time! Anything he could do to cause us pain, he did!",
+      "text": "เขาพยายามจะทำลายพิธีอีฮิฮานา แกล้งขัดขวางขจัดเรือของพวกเราในแม่น้ำ ลักพาตัวฉันไปเพื่อแย่งชิงศิลาหลัก แถมยังปล่อยอสูรร้ายในตำนานที่น่ากลัวที่สุดออกมาสร้างเคราะห์ร้ายภัยพิบัติอีก! อะไรก็ตามที่ทำให้พวกเราต้องเจ็บปวดทรมานได้ เขาก็ทำมันทั้งหมดเลยค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Never in a million years would I forgive him...",
+      "text": "ไม่มีทางเลยที่ฉันจะยอมให้อภัยคนพรรค์นั้นได้ในชั่วชีวิตนี้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But the moment I understood why he did what he did─the pain he's been carrying this whole time─all my anger just...evaporated.",
+      "text": "แต่ในวินาทีที่ฉันได้ทำความเข้าใจเหตุผลและความจำเป็นเบื้องหลังการกระทำของเขา—ความเจ็บปวดร้าวรานและความรับผิดชอบอันหนักอึ้งที่เขาต้องแบกรับมาตลอดชีวิต—ความโกรธแค้นทั้งหมดที่มีมันก็... มลายหายไปในพริบตาเลยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hear you. Bakool Ja Ja's motives don't absolve him of his crimes. He must answer for them, like anyone else.",
+      "text": "ฉันเข้าใจดีค่ะ แรงจูงใจเบื้องหลังของบาคูล จา จา ไม่ได้ช่วยลดหย่อนความผิดบาปที่เขาเคยก่อไว้หรอก เขาต้องเผชิญหน้าและยอมรับผลลัพธ์ของการกระทำของตัวเองเหมือนกับคนอื่น ๆ อยู่ดี"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But right now, my duty is to ensure that no one in Mamook feels desperate enough to go to such lengths ever again.",
+      "text": "แต่ในตอนนี้ หน้าที่ที่สำคัญที่สุดของฉันคือการลงมือจัดการและสร้างความมั่นใจให้ได้ว่า จะไม่มีใครในเมืองมามูคต้องเผชิญความกดดันและความสิ้นหวังจนต้องเลือกเส้นทางชั่วร้ายแบบเดียวกันนี้อีกตลอดไปค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Anyway, thanks for listening. Now that I've voiced that, I feel readier for the challenges ahead. Come on, let's head back to the city!",
+      "text": "ยังไงก็ขอบคุณมากนะคะที่ยอมสลัดเวลารับฟังฉันระบาย พอได้พูดมันออกมาแล้ว ฉันรู้สึกเบาสบายใจและพร้อมที่จะเผชิญหน้าอุปสรรคข้างหน้าขึ้นเยอะเลยค่ะ ไปกันเถอะ ย้อนกลับไปในเมืองกันนะคะ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To think that there was such a dark secret behind blessed siblings... Even among the Mamool Ja, I cannot imagine many know the whole truth─especially not those who reside in the capital.",
+      "text": "ไม่คิดไม่ฝันมาก่อนเลยว่าจะมีความลับอันมืดมนชั่วร้ายซ่อนอยู่เบื้องหลังการถือกำเนิดของพี่น้องผู้ได้รับพรสองหัว... ข้าคิดว่าแม้แต่ในกลุ่มชาวมามูอูล จา เองก็น่าจะมีคนไม่มากนักที่รู้ความจริงข้อนี้—โดยเฉพาะอย่างยิ่ง ประชาชนที่ย้ายถิ่นฐานไปใช้ชีวิตอยู่ในเมืองหลวงครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I had no idea Bakool Ja Ja was bearing such a burden. Had he but chosen a different path...",
+      "text": "ผมไม่เคยรู้เรื่องราวมาก่อนเลยครับว่าบาคูล จา จา จะต้องแบกรับความรับผิดชอบอันหนักอึ้งและตึงเครียดเช่นนี้อยู่เบื้องหลัง หากเขาเลือกเส้นทางเดินชีวิตที่แตกต่างออกไปตั้งแต่แรก..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Still, I believe our true character is demonstrated not by right action, but rather by our conduct upon recognizing our faults. It is a struggle I know all too well...",
+      "text": "แต่ถึงอย่างนั้น ผมก็เชื่อมั่นว่าตัวตนและคุณค่าที่แท้จริงของพวกเราไม่ได้แสดงออกผ่านการกระทำที่ถูกต้องเสมอไปหรอกครับ แต่แสดงออกผ่านลักษณะนิสัยท่าทางของพวกเรายามที่ตระหนักรู้และยอมรับในความผิดพลาดของตัวเองต่างหาก มันเป็นความพยายามสู้ชีวิตที่ผมเองก็คุ้นเคยดีครับ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's amazing how Wuk Lamat can connect with anyone. She has an incredible gift.",
+      "text": "ช่างน่าทึ่งจริง ๆ เลยค่ะที่วุค ลามัต สามารถเชื่อมต่อจิตใจสร้างสายสัมพันธ์กับใครก็ได้รอบตัวแบบนี้ เธอมีพรสวรรค์และของขวัญอันวิเศษที่สุดเลยล่ะค่ะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Sometimes it's best to just forgive and move on. It can be difficult─gods, don't I know it─but that's all the more reason to try your damndest to look past how you were wronged and let bygones be bygones.",
+      "text": "...บางครั้งการยอมปล่อยวางและให้อภัยก็คือทางออกที่ดีที่สุดนะคะ แม้ว่ามันจะเป็นเรื่องที่ยากลำบากแสนสาหัส—เฮ้อ ซึ่งฉันเองก็รู้ซึ้งถึงความยากนั้นดี—แต่นั่นแหละคือเหตุผลที่พวกเราต้องยอมพยายามสู้ชีวิตอย่างเต็มความสามารถเพื่อก้าวข้ามผ่านมันไปให้ได้ค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja's scale represents his faith in us.",
+      "text": "เกล็ดของบาคูล จา จา ชิ้นนี้เป็นเสมือนสัญลักษณ์ความไว้วางใจและศรัทธาที่เขามีให้แก่พวกเราค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We won't fail him or his people.",
+      "text": "พวกเราจะไม่มีวันทำให้เขาหรือประชาชนของเขาต้องผิดหวังแน่นอนค่ะ"
+    }
+  ]
+}

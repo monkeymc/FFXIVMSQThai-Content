@@ -1,0 +1,463 @@
+{
+  "id": "the-nation-of-tuliyollal",
+  "wiki_path": "/wiki/The_Nation_of_Tuliyollal",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/8a/The_Nation_of_Tuliyollal.png",
+  "patch": "7.0",
+  "title_en": "The Nation of Tuliyollal",
+  "title": "นครทูลิโยลลัล",
+  "level": "90",
+  "location": "Tuliyollal(X:9.2,Y:11.2)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "I wonder what kind of trouble those soldiers are expecting?",
+      "text": "พวกทหารพวกนั้นกำลังระวังตัวจากเรื่องเดือดร้อนอะไรกันอยู่นะ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "According to Erenville, the Vanu I thought I saw belongs to a clan known as the Hanuhanu. It seems they share more than a physical resemblance.",
+      "text": "เอเรนวิลล์บอกว่า ชนเผ่าวานูที่ผมคิดว่าเห็นเมื่อกี้ จริงๆ แล้วเป็นชาวเผ่าที่ชื่อว่าฮานูฮานูน่ะครับ ดูเหมือนว่าสิ่งที่พวกเขาคล้ายกันจะไม่ได้มีแค่รูปร่างภายนอกเท่านั้นนะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What an amazing city─as lively as Ul'dah, and even more colorful...",
+      "text": "เป็นเมืองที่น่าทึ่งจังเลยนะ คึกคักเหมือนอุล'ดาห์ แถมยังมีสีสันมากกว่าตั้งเยอะ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I would ask if the journey tired you, but...I'm sure you've endured far worse.",
+      "text": "ผมว่าจะถามอยู่พอดีว่าเหนื่อยกับการเดินทางไหม... แต่คิดอีกที คุณคงเคยเจอเรื่องที่หนักหนากว่านี้มาเยอะแล้วล่ะมั้ง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, then! First things first...",
+      "text": "เอาล่ะ! ก่อนอื่นเลย..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I...ugh. Still a bit queasy... No more boats for a while...",
+      "text": "ฉัน... อุ้ก... ยังพะอืดพะอมอยู่นิดหน่อยแฮะ... ขอเว้นระยะห่างจากเรือยาวๆ เลยช่วงนี้..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I realize we've just arrived, but we should get you familiar with the city before the rite of succession begins.",
+      "text": "ถึงจะเพิ่งมาถึงก็เถอะ แต่ผมว่าเราควรพาพวกคุณไปทำความคุ้นเคยกับเมืองนี้ก่อนที่พิธีสืบทอดราชบัลลังก์จะเริ่มขึ้นนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No arguments here. I should very much like to explore.",
+      "text": "ผมเห็นด้วยอย่างยิ่งเลยครับ อยากลองเดินดูรอบๆ เมืองดูเหมือนกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then I'll...guide you...",
+      "text": "ถ้าอย่างนั้น... ฉันจะเป็นคนนำทาง... ให้เอง..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you sure you're in any condition to do so...?",
+      "text": "สภาพแบบนั้นจะไหวแน่เหรอ...?"
+    },
+    {
+      "character": "Curious Passerby",
+      "text_en": "Ah hah! We were wondering who these strange folk were. So the Third Promise has found herself some new followers, then!",
+      "text": "อ้อ! พวกเรากำลังสงสัยอยู่พอดีว่าคนแปลกหน้าพวกนี้เป็นใคร ที่แท้ท่านสัญญาที่สามก็หาผู้ติดตามกลุ่มใหม่ได้แล้วนี่เอง!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "“Followers”...?",
+      "text": "“ผู้ติดตาม” งั้นเหรอ...?"
+    },
+    {
+      "character": "Curious Passerby",
+      "text_en": "Wuk Lamat? Are you unwell?",
+      "text": "ท่านวุค ลามัต? สีหน้าไม่ค่อยดีเลย เป็นอะไรหรือเปล่าครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "N-No, not at all! Couldn't be better! The Third Promise does not get seasick, no sir!",
+      "text": "ป-เปล่าสักหน่อย! สบายมาก! ระดับท่านสัญญาที่สามไม่มีทางเมาเรืออยู่แล้ว ไม่มีวันซะหรอก!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As for my handpicked entourage here, I've recruited them to help me win the rite of succession. I was about to show them around the city, in fact.",
+      "text": "ส่วนผู้ติดตามที่ฉันคัดสรรมากับมือพวกนี้น่ะ ฉันเชิญมาร่วมทีมเพื่อช่วยชิงชัยในพิธีสืบทอดราชบัลลังก์ต่างหากล่ะ กะว่าจะพาเดินชมรอบเมืองอยู่พอดีเลยด้วย"
+    },
+    {
+      "character": "Inquisitive Passerby",
+      "text_en": "That sounds lovely.",
+      "text": "ฟังดูดีจังเลยนะครับ"
+    },
+    {
+      "character": "Inquisitive Passerby",
+      "text_en": "But a group of foreigners is going to attract attention, especially if they're in the company of the Third Promise. Everyone will be curious. We certainly were!",
+      "text": "แต่กลุ่มคนต่างถิ่นแบบนี้คงดึงดูดสายตาไม่น้อยเลย ยิ่งถ้าเดินมากับท่านสัญญาที่สามด้วยแล้ว ใครๆ ก็ต้องสงสัยเป็นธรรมดา ขนาดพวกเรายังอดมองไม่ได้เลยครับ!"
+    },
+    {
+      "character": "Curious Passerby",
+      "text_en": "Your siblings have a tendency to, uh, command a respectful distance. But you─you're just so easy to approach!",
+      "text": "พวกรัชทายาทองค์อื่นๆ มักจะดู... น่าเกรงขามจนเข้าถึงยากน่ะครับ แต่สำหรับท่าน... ท่านเป็นกันเองและเข้าหาง่ายมากจริงๆ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I enjoy it so much when you do. Please, don't ever worry that you're a bother to me.",
+      "text": "ฉันเองก็ชอบเวลาพวกเจ้าเข้ามาคุยด้วยเหมือนกัน เพราะงั้นไม่ต้องกังวลหรอกว่าจะมารบกวนอะไรฉันน่ะ"
+    },
+    {
+      "character": "Curious Passerby",
+      "text_en": "You're very kind. Good day to you, Third Promise.",
+      "text": "ท่านช่างเมตตาเหลือเกิน ขอให้เป็นวันที่ดีนะครับ ท่านสัญญาที่สาม"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They did have a point.",
+      "text": "ที่พวกเขาพูดมาก็มีเหตุผลนะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wuk Lamat is technically royalty here. Like it or not, a person of her station surrounded by this many outsiders is bound to draw a crowd.",
+      "text": "ถ้าว่ากันตามยศแล้ว ยัยนี่ก็เป็นถึงเชื้อพระวงศ์ของที่นี่นะ จะชอบหรือไม่ชอบก็ตาม การที่คนระดับเธอมาเดินรายล้อมด้วยคนนอกกลุ่มใหญ่ขนาดนี้ ยังไงก็ต้องตกเป็นเป้าสายตาอยู่แล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, what do you mean “technically”!?",
+      "text": "เดี๋ยวสิ ยะ... 'ตามยศ' ที่ว่านั่นหมายความว่ายังไงยะ!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I suggest we move in two groups so as to attract less attention.",
+      "text": "ผมเสนอให้เราแยกกลุ่มกันเดินดีกว่า จะได้ไม่เป็นที่สังเกตมากนัก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Just “technically” ignoring me, then...",
+      "text": "นี่จงใจเมินข้าหน้าตาเฉยเลยสินะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forename , you and Krile can come with me.",
+      "text": "Forename นายกับไครล์มากับฉันทางนี้แล้วกัน"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll take the twins, then.",
+      "text": "ถ้าอย่างนั้น ฝาแฝดสองคนนี้ผมจะดูแลเอง"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We'll get in touch once we've had a good look around.",
+      "text": "ถ้าพวกเราเดินสำรวจรอบๆ เสร็จเรียบร้อยแล้ว เดี๋ยวจะติดต่อไปนะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That voyage was hard on all of us, so take it slow and recuperate. We have time enough for that.",
+      "text": "การเดินทางเรือรอบนี้เล่นงานพวกเราเอาเรื่องอยู่เหมือนกัน เพราะงั้นค่อยๆ เดินไม่ต้องรีบ พักเหนื่อยกันไปก่อนเถอะ เรายังมีเวลาเหลือเฟือ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Enjoy your wanderings.",
+      "text": "ขอให้สนุกกับการเดินเล่นล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps we should wait a bit. At least until Wuk Lamat's nausea subsides.",
+      "text": "พวกเราพักรอกันสักหน่อยดีไหมคะ อย่างน้อยรอให้อาการเมาเรือของวุค ลามัต ดีขึ้นอีกนิดนึงก่อนดีกว่า"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No need for that! Look, I'm ready to go!",
+      "text": "ไม่ต้องหรอกน่า! ดูสิ ฉันฟิตปั๋งพร้อมลุยแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Urgh.",
+      "text": "...อุ้ก"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tuliyollal isn't going anywhere. Let's give Wuk Lamat a little more time.",
+      "text": "เมืองทูลิโยลลัลไม่หนีพวกเราไปไหนหรอกค่ะ ปล่อยให้วุค ลามัต พักอีกสักหน่อยเถอะนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm fine now, really. Can't stand around all day feeling sorry for myself, what with the contest looming and all.",
+      "text": "ฉันไม่เป็นไรแล้วจริงๆ จะมายืนสำออยอยู่ทั้งวันได้ยังไงกัน ในเมื่อพิธีประลองใกล้จะเริ่มอยู่รำไรแบบนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now, then. Seeing as we're already here, I might as well tell you about the harbor.",
+      "text": "เอาล่ะ ในเมื่อยืนอยู่ตรงนี้แล้ว ฉันจะเล่าเรื่องเกี่ยวกับท่าเรือแห่งนี้ให้ฟังก็แล้วกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville already mentioned the reefs in our coastal waters, which explains why you don't see any big ships moored at the docks.",
+      "text": "เอเรนวิลล์น่าจะเคยพูดถึงแนวปะการังแถวน่านน้ำชายฝั่งของเราไปแล้ว นั่นแหละคือเหตุผลว่าทำไมถึงไม่มีเรือลำใหญ่แล่นเข้ามาจอดเทียบท่าเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Only vessels with shallow drafts can navigate the bay─mostly small fishing boats or barges ferrying cargo up and down the rivers from inland settlements.",
+      "text": "จะมีก็แต่พวกเรือกินน้ำตื้นเท่านั้นที่จะแล่นผ่านอ่าวนี้ได้ ส่วนมากก็เลยมีแค่เรือประมงลำเล็กๆ หรือเรือบรรทุกสินค้าคอยลำเลียงของขึ้นลงแม่น้ำไปตามชุมชนต่างๆ ในแผ่นดินน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Much of the incoming traffic is from Yok Tural, the southern landmass. The clans there produce various goods for export.",
+      "text": "เรือส่วนใหญ่ที่แล่นเข้ามามักจะมาจากยอคทูรัล ดินแดนทางใต้นู่น พวกชนเผ่าฝั่งนั้นเขาผลิตสินค้าหลายอย่างเพื่อส่งออกมาขายที่นี่"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Their wares are unloaded here and carted off to the merchant stalls in the neighboring markets. Speaking of which, Bayside Bevy should be our next stop.",
+      "text": "พวกของป่าของค้าขายก็จะถูกขนขึ้นฝั่งตรงนี้แหละ ก่อนจะขนใส่เกวียนไปตามแผงค้าของตลาดแถวนี้ พูดถึงตลาดแล้ว... จุดหมายต่อไปของเราก็น่าจะเป็นตลาดเบย์ไซด์เบวี่ (Bayside Bevy) นะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tuliyollal is like my own garden─I could lead you around with my eyes closed. If this tour were a ship, it'd be plain sailing all the way!",
+      "text": "ทูลิโยลลัลก็เหมือนสวนหลังบ้านของฉันนั่นแหละ ต่อให้หลับตาก็ยังพาพวกนายเดินเล่นได้สบายมาก! ถ้านี่เป็นการล่องเรือล่ะก็ บอกเลยว่าน้ำนิ่งแล่นฉลุยตลอดทางแน่นอน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Urgh... The word “ship” alone is enough to curdle my stomach...",
+      "text": "อุ้ก... แค่ได้ยินคำว่า 'เรือ' ท้องไส้ก็เริ่มปั่นป่วนขึ้นมาอีกแล้วแฮะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wandering around this city is so exciting! Unfamiliar wonders everywhere we look!",
+      "text": "ได้เดินเล่นรอบเมืองแบบนี้ตื่นเต้นจังเลยนะคะ! ไม่ว่าจะมองไปทางไหนก็มีแต่นวัตกรรมแปลกตาเต็มไปหมดเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did you miss a meal or something? We'll wait for you at the harbor, so hurry back!",
+      "text": "มีธุระด่วนหรือเปล่าน่ะ? พวกเราจะยืนรออยู่แถวท่าเรือนี้นะ รีบตามมาล่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Something urgent to attend to? Not to worry, we can meet you at the harbor.",
+      "text": "มีธุระด่วนเหรอคะ? ไม่ต้องห่วงนะคะ เดี๋ยวพวกเราไปเจอกันที่ท่าเรือได้เลยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, there you are. Let's get back to it!",
+      "text": "อ๊ะ มาแล้วเหรอ ไปลุยกันต่อเถอะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everything all right? Then on with the tour!",
+      "text": "เรียบร้อยดีไหมคะ? ถ้าอย่างนั้นเราไปทัวร์กันต่อเลยเนอะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is Bayside Bevy, Tuliyollal's largest marketplace.",
+      "text": "ตรงนี้เรียกว่าเบย์ไซด์เบวี่ เป็นแหล่งค้าขายที่ใหญ่ที่สุดในทูลิโยลลัลเลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Being right on the harbor, everything from fresh fish to imported wares go directly to the shelves. Anything you want, they most likely have.",
+      "text": "เพราะตั้งอยู่ติดกับท่าเรือพอดี สินค้าทุกอย่างตั้งแต่ปลาสดๆ ไปจนถึงของนำเข้าก็เลยส่งตรงขึ้นแผงทันที อยากได้อะไรรับรองว่าหาซื้อได้จากที่นี่เกือบหมดนั่นแหละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, right, I should mention that here in Tuliyollal we buy things with “pel,” a currency that the Pelupelu created.",
+      "text": "อ้อ จริงสิ ลืมบอกไปเลยว่าในทูลิโยลลัลเราจะซื้อของกันด้วยเงินที่เรียกว่า 'เพล' (pel) ซึ่งเป็นสกุลเงินที่ชาวเปลูเปลูเป็นคนคิดค้นขึ้นมาน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But don't worry! More and more trade is coming in from Eorzea, so most shops are happy to accept your gil.",
+      "text": "แต่ไม่ต้องห่วงไปหรอก! พักหลังๆ มีพ่อค้าแม่ค้าจากฝั่งอีออร์เซียแล่นเรือมาค้าขายเยอะขึ้น ร้านส่วนใหญ่เขาก็เลยยินดีรับเงินกิลเหมือนกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's also Wachumeqimeqi, another market to the east of here, but that can wait for another time. I have other places I want to show you first.",
+      "text": "ทางตะวันออกยังมีตลาดอีกแห่งชื่อว่าวาชูเมกิเมกิ (Wachumeqimeqi) แต่นั่นเอาไว้ก่อนเถอะ มีอีกที่ที่ฉันอยากพานายไปดูเป็นอันดับแรกน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Next, we'll head back a bit, then northwards up the stairs to a certain plaza. Hehe, I can't wait to see the look on your faces!",
+      "text": "ต่อไปเราจะเดินย้อนกลับไปนิดหน่อย แล้วขึ้นบันไดไปทางเหนือเพื่อไปยังลานกว้างด้านบน หึๆ บอกเลยว่านายสองคนเห็นแล้วต้องทึ่งแน่!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As long as you remember it was invented by the “ Pelu pelu,” you'll never forget what our currency is called!",
+      "text": "จำง่ายๆ เลยว่ามันเป็นเงินที่คิดค้นขึ้นมาโดยชาว 'เปลูเปลู' แค่นี้ก็จะไม่มีวันลืมชื่อสกุลเงินของเราแล้วล่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "'Tis reassuring to know we can use our gil for shopping here!",
+      "text": "รู้แบบนี้ค่อยเบาใจหน่อยค่ะ นึกว่าจะใช้เงินกิลของพวกเราซื้อของที่นี่ไม่ได้ซะแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What do you think of that, eh?",
+      "text": "เป็นยังไงล่ะ เจ๋งไปเลยใช่ไหม?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Goodness me, you have aetherytes in Tuliyollal?",
+      "text": "ตายจริง! ที่ทูลิโยลลัลนี่มีอีเธอร์ไรต์ตั้งอยู่ด้วยเหรอคะเนี่ย?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I told you before, but my brother, Koana, spent three years studying in Sharlayan.",
+      "text": "ฉันน่าจะเคยเล่าให้ฟังแล้วล่ะมั้ง พี่โคอานาพี่ชายของฉันน่ะ เขาเคยไปเรียนต่อที่ชาร์ลายันอยู่ตั้งสามปีเต็มเลยนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He fell in love with the nation and its ways, and brought back to us the knowledge of aetheryte construction. Papa warmed to the idea at once─had one built immediately .",
+      "text": "เขาชอบที่นั่นและวิทยาการของฝั่งโน้นมาก พอกลับมาก็เลยเอาความรู้เรื่องการสร้างอีเธอร์ไรต์กลับมาพัฒนาบ้านเราด้วย ท่านพ่อได้ฟังแนวคิดนี้เข้าก็ถูกใจใหญ่ สั่งให้สร้างขึ้นมาทันทีเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did you do the “attuning” thing? If you're ready to continue, we'll head down again and then up the slope to the side. Right at the top is the gate which leads to Xak Tural.",
+      "text": "ว่าแต่ ได้เปิดใช้งานมันเสร็จเรียบร้อยแล้วหรือยัง? ถ้าพร้อมลุยต่อแล้ว เราจะเดินย้อนกลับไปด้านล่างแล้วขึ้นเนินด้านข้างกัน ตรงปลายทางด้านบนนั่นแหละคือประตูทางผ่านที่มุ่งหน้าไปสู่ซักทูรัล (Xak Tural)"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's make a stop at Brightploom Post on the way, though─that's the headquarters for the Landsguard.",
+      "text": "แต่ระหว่างทางเราแวะที่ไบรท์พลูมโพสต์ (Brightploom Post) กันหน่อยดีกว่า ที่นั่นเป็นศูนย์บัญชาการหลักของกองทัพแลนด์สการ์ดน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Make sure you attune to the aetheryte! I don't fully understand how it works, but I do know you'll regret it if you forget.",
+      "text": "อย่าลืมเปิดใช้งานอีเธอร์ไรต์เด็ดขาดล่ะ! ถึงฉันจะไม่ค่อยเข้าใจหลักการทำงานของมันเท่าไหร่ แต่ที่แน่ๆ คือถ้าลืมเปิดล่ะก็ ได้เหนื่อยสายตัวแทบขาดทีหลังชัวร์!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank goodness for aetherytes. Though I don't share Wuk Lamat's dislike of ships, I'm not especially eager to make that voyage again...",
+      "text": "โชคดีจริงๆ ที่มีอีเธอร์ไรต์คอยช่วยผ่อนแรง ถึงฉันจะไม่ได้เมาเรือเหมือนอย่างวุค ลามัต ก็เถอะ แต่ให้แล่นเรือไกลๆ แบบนั้นอีกรอบก็ไม่ค่อยไหวเหมือนกันค่ะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We have a lot of narrow, winding streets that crawl up the sides of the mountain. As you can see, though, the builders made sure the city's main thoroughfares were wide enough to accommodate wagons.",
+      "text": "เมืองของเรามีตรอกซอกซอยแคบๆ คดเคี้ยวเลาะตามไหล่เขาเยอะมากก็จริง แต่พวกนายก็น่าจะเห็นแล้วว่า ถนนเส้นหลักของเมืองถูกออกแบบมาให้กว้างพอจะให้พวกเกวียนวิ่งสวนกันได้สบายๆ เลยล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Trudging up and down all these slopes and stairs is exhausting. I understand now where Wuk Lamat gets her endless endurance.",
+      "text": "เดินขึ้นลงบันไดกับเนินพวกนี้เล่นเอาหอบเลยล่ะค่ะ ตอนนี้ฉันเข้าใจแจ่มแจ้งเลยว่าทำไมวุค ลามัต ถึงได้มีพละกำลังล้นเหลือขนาดนั้น"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here we are─Brightploom Post. The soldiers stationed here are responsible for defending Tuliyollal and preserving the peace.",
+      "text": "ถึงแล้วล่ะ ไบรท์พลูมโพสต์ ทหารทุกคนที่ประจำการอยู่ที่นี่มีหน้าที่คอยปกป้องทูลิโยลลัลและรักษาความสงบสุขของประชาชน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Landsguard are led by our nation's strongest warrior, and so naturally Papa has commanded them since the beginning.",
+      "text": "กองทัพแลนด์สการ์ดจะต้องมีนักรบที่แข็งแกร่งที่สุดในแผ่นดินเป็นผู้นำทัพ เพราะงั้นแต่ไหนแต่ไรมาท่านพ่อเลยเป็นผู้บัญชาการทหารสูงสุดด้วยตัวเองมาโดยตลอด"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...At least until three years ago, when Zoraal Ja took over as commander. The title is no empty honor─it means the First Promise is considered equal to the Dawnservant in martial strength.",
+      "text": "...จนกระทั่งเมื่อสามปีก่อนที่พี่โซราล จา จะเข้ามารับตำแหน่งผู้บัญชาการแทน ตำแหน่งนี้ไม่ได้มีไว้ประดับเกียรติยศเก๋ๆ หรอกนะ แต่มันเป็นสิ่งยืนยันว่าฝีมือการต่อสู้ของพี่ใหญ่ซึ่งเป็นสัญญาที่หนึ่งนั้นเทียบเคียงได้กับท่านดอว์นเซิร์ฟวันต์เลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Meanwhile, I haven't even managed to...",
+      "text": "ในขณะที่ตัวฉันยังไม่เอาไหนเลยสักนิด..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, I'll discuss my brothers and their accomplishments later. Alphinaud and Alisaie should be around to hear it, too.",
+      "text": "ช่างเถอะ เรื่องฝีมือกับผลงานของพวกพี่ชาย เดี๋ยวค่อยคุยรายละเอียดกันทีหลังแล้วกัน รอให้อัลฟิโนกับอลิเซมาอยู่พร้อมหน้ากันก่อนค่อยเล่ารวดเดียว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, it's time I showed you the skygate. It's right at the northern end of Talonmarch!",
+      "text": "ไปกันเถอะ ได้เวลาที่ฉันจะพานายไปดูประตูเวหา (skygate) แล้ว มันตั้งอยู่สุดปลายทางทิศเหนือของเขตแทลอนมาร์ช (Talonmarch) นู่นแน่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I'm to succeed Papa, then it's my brothers I need to surpass first...",
+      "text": "ถ้าฉันอยากจะสืบทอดตำแหน่งต่อจากท่านพ่อล่ะก็ คนกลุ่มแรกที่ข้าต้องก้าวข้ามไปให้ได้ก็คือพวกพี่ชายนี่แหละ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Zoraal Ja─that's clearly a Mamool Ja name. An interesting family.",
+      "text": "โซราล จา... ฟังจากชื่อแล้วน่าจะเป็นชาวมามูอูล จา ชัดๆ เลยนะคะ เป็นครอบครัวที่หลากหลายและน่าสนใจดีจัง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Massive, isn't it?",
+      "text": "ใหญ่โตมโหฬารสุดๆ ไปเลยใช่ไหมล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And on the other side is an equally massive bridge to match. Both were constructed by a race of giants─the Yok Huy.",
+      "text": "แล้วฝั่งตรงข้ามนั่นก็มีสะพานขนาดมหึมาที่สมน้ำสมเนื้อกันตั้งอยู่ด้วย ทั้งประตูและสะพานนี้ถูกสร้างขึ้นโดยชนเผ่าคนยักษ์โบราณที่เรียกว่ายอคฮุย (Yok Huy) น่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Strictly speaking, Tural is actually two separate continents: Yok Tural, the southern lands of the Mother; and Xak Tural, the northern lands of the Father, which lie beyond the bridge.",
+      "text": "ถ้าจะพูดให้ถูกก็คือ ดินแดนทูรัลจริงๆ แล้วแบ่งออกเป็นสองทวีปแยกจากกัน ทวีปใต้เรียกว่า ยอคทูรัล (Yok Tural) หรือดินแดนแห่งมารดา ส่วนทวีปเหนือที่อยู่พ้นสะพานข้ามฝั่งไปเรียกว่า ซักทูรัล (Xak Tural) หรือดินแดนแห่งบิดาน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Legends say it used to be one great landmass. But long, long ago, the two gods fought a titanic battle, and when one threw the other to the ground, the impact was so devastating as to split the continent in twain.",
+      "text": "ตำนานเล่าว่าเมื่อก่อนที่นี่เคยเป็นแผ่นดินผืนเดียวกัน แต่เมื่อนานมาแล้ว เทพเจ้าสององค์สู้รบกันครั้งใหญ่หลวง พอองค์หนึ่งฟาดอีกองค์ร่วงลงกระแทกพื้น แรงปะทะรุนแรงวิบัติถึงขนาดทำให้ผืนแผ่นดินแยกขาดออกจากกันเป็นสองซีกเลยล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A familiar-sounding tale... I am put in mind of the conflict between Hydaelyn and Zodiark.",
+      "text": "ฟังดูเป็นตำนานที่คุ้นหูพิกลนะคะ... ชวนให้นึกถึงศึกสายเลือดระหว่างไฮดาเอลินกับโซดิอาร์กขึ้นมาเลย"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But getting back to Xak Tural. Those lands are also part of the Tuliyollal nation, correct?",
+      "text": "แต่พอพูดถึงซักทูรัลแล้ว แผ่นดินแถบนั้นก็ถือเป็นอาณาเขตส่วนหนึ่งของประเทศทูลิโยลลัลด้วยเหมือนกันใช่ไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right. Isn't my father incredible? He united the peoples of two continents into a single nation.",
+      "text": "ถูกต้อง! ท่านพ่อของฉันสุดยอดไปเลยใช่ไหมล่ะ? เขารวบรวมผู้คนจากสองทวีปแยกย่อยให้กลายมาเป็นทองแผ่นเดียวกันได้น่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The many clans of Tural had been at war for generations. It was only when Papa traveled the lands and put a stop to their myriad conflicts that we finally had peace.",
+      "text": "เมื่อก่อนพวกชนเผ่าต่างๆ ในทูรัลรบราฆ่าฟันกันเองมาหลายชั่วอายุคนแล้ว จนกระทั่งท่านพ่อเดินทางไปทั่วผืนแผ่นดินเพื่อยุติความขัดแย้งนับร้อยแปดพวกนั้นนั่นแหละ พวกเราถึงได้สัมผัสความสงบสุขที่แท้จริงเสียที"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And that's the main reason I want to win the throne: so I can preserve the peace he built.",
+      "text": "และนี่แหละคือเหตุผลสำคัญที่สุดที่ฉันต้องคว้าบัลลังก์มาครอบครองให้ได้ เพื่อที่ข้าจะได้ปกป้องรอยยิ้มและความสงบสุขที่ท่านพ่อทุ่มเทสร้างขึ้นมาน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...But I see you're more interested in what's behind the gate than hearing about my aspirations.",
+      "text": "...แต่ดูเหมือนพวกลูกพี่จะสนใจอยากรู้เรื่องข้างหลังประตูนี้ มากกว่าฟังความตั้งใจของฉันซะอีกนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Crossing the bridge to Xak Tural requires a special travel pass. Unfortunately, they won't issue any new permits until the rite of succession is over. I promise to get you one when I'm Dawnservant, but until then...you'll just have to wait!",
+      "text": "การจะข้ามสะพานไปยังซักทูรัลต้องใช้ใบผ่านแดนพิเศษน่ะ แต่น่าเสียดายที่ทางการเขาจะไม่ออกใบผ่านแดนใหม่ให้ใครเลยจนกว่าพิธีสืบทอดบัลลังก์จะเสร็จสิ้น แต่ข้าสัญญาเลยนะว่าถ้าฉันได้เป็นดอว์นเซิร์ฟวันต์เมื่อไหร่ จะรีบออกใบผ่านแดนให้ทันทีเลย! แต่จนกว่าจะถึงตอนนั้น... พวกนายก็ต้องรอกันไปก่อนล่ะนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've never broken my word! Once the throne is mine, that travel permit is yours!",
+      "text": "ข้าไม่เคยผิดคำพูดอยู่แล้ว! ทันทีที่บัลลังก์ตกเป็นของฉัน ใบผ่านแดนนั่นจะเป็นของพวกนายแน่นอน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You really mean that... Heh, woe to anyone who stands between you and adventure!",
+      "text": "พูดจริงเหรอเนี่ย... หึๆ ใครที่บังอาจมาขวางทางผจญภัยของพวกนายนี่เตรียมตัวซวยได้เลยแฮะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Be patient. I swear that once the throne is mine, that travel permit is yours.",
+      "text": "ใจเย็นๆ น่า ฉันสาบานเลยว่าถ้าสืบทอดบัลลังก์เมื่อไหร่ ใบผ่านแดนนั่นส่งตรงถึงมือนายแน่นอน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tired from all this walking? Take a moment to rest, and we'll continue the tour!",
+      "text": "เดินซะเหนื่อยเลยใช่ไหมล่ะ? พักขากันสักแป๊บก่อนนะ แล้วเราค่อยไปทัวร์กันต่อ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must have covered half the city by now...",
+      "text": "พวกเราน่าจะเดินมาได้เกือบครึ่งเมืองแล้วนะคะเนี่ย..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tuliyollal is unlike any other place I've visited. I'm thoroughly enjoying myself!",
+      "text": "ทูลิโยลลัลช่างเป็นเมืองที่มีเสน่ห์ไม่เหมือนที่ไหนที่ฉันเคยไปเลยค่ะ ยอมรับเลยว่าตอนนี้ฉันกำลังสนุกสุดๆ ไปเลยล่ะ!"
+    }
+  ]
+}

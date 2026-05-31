@@ -1,0 +1,573 @@
+{
+  "id": "and-the-land-would-tremble",
+  "wiki_path": "/wiki/And_the_Land_Would_Tremble",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/a/a6/And_the_Land_Would_Tremble.png",
+  "patch": "7.0",
+  "title_en": "And the Land Would Tremble",
+  "title": "และผืนแผ่นดินจักสั่นสะเทือน",
+  "level": "96",
+  "location": "Shaaloani(X:28.3,Y:12.6)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Hhwato",
+      "text_en": "We must talk again soon. Next time, perhaps, on a hunt together.",
+      "text": "เราคงต้องคุยกันใหม่เร็วๆ นี้ คราวหน้าอาจจะออกล่าด้วยกัน"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "You'll come back, won't you? There's so much I'd like to know about the lands beyond Tural.",
+      "text": "คุณจะกลับมาแล้วใช่ไหม? มีเรื่องมากมายที่ฉันอยากรู้เกี่ยวกับดินแดนที่อยู่นอกเหนือจาก Tural"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "While we wait, we could get started moving the timber somewhere more accessible.",
+      "text": "ในระหว่างที่พวกเราเฝ้ารอคอยอยู่ ลองมาช่วยกันทยอยเคลื่อนย้ายกองไม้โบราณไปไว้ในทำเลที่ยกขึ้นรถไฟได้สะดวกดีไหมครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It shouldn't take long if we split the work.",
+      "text": "ถ้าพวกเราแบ่งหน้าที่แชร์กำลังสู้ชีวิตกัน แป๊บเดียวก็เสร็จสิ้นเรียบร้อยครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What are a few logs compared to the nigh-countless crates of Labyrinthos.",
+      "text": "ท่อนไม้ไม่กี่ท่อนแค่นี้จะไปเทียบงานแบกหามกล่องลังเก็บเสบียงจำนวนมหาศาลนับไม่ถ้วนในลาบิรินธอส (Labyrinthos) ได้อย่างไรล่ะครับ สบายมาก"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I should think this will be enough.",
+      "text": "ผมประเมินผลว่ากองไม้เท่านี้น่าจะเพียงพอต่อความต้องการแล้วล่ะครับ"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "That was mighty kind of you to move all that lumber. Sorry we didn't make it back sooner.",
+      "text": "นั่นเป็นความกรุณาอย่างยิ่งของคุณที่จะย้ายไม้ทั้งหมดนั้น ขออภัยเราไม่ได้ทำให้มันกลับมาเร็วกว่านี้"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We'll see to the rest.",
+      "text": "เราจะมาดูส่วนที่เหลือ"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Once we've repaired the tracks, we'll have you on the first train out of town. Ain't that right, chief?",
+      "text": "เมื่อเราซ่อมรางเสร็จแล้ว เราจะพาคุณขึ้นรถไฟขบวนแรกออกจากเมือง ไม่เป็นไรใช่ไหมหัวหน้า?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Er... As much as I'd love to make it so, there aren't any spots available.",
+      "text": "เอ่อ... ถึงฉันจะอยากทำก็เถอะ ไม่มีที่ว่างเลย"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "You'll have to wait for the one after, I'm afraid, but you'll be riding free of charge. It's the least we can do to repay your kindness.",
+      "text": "ฉันกลัวว่าคุณจะต้องรอทีหลัง แต่คุณจะได้ขี่ฟรี อย่างน้อยที่สุดที่เราสามารถทำได้เพื่อตอบแทนความเมตตาของคุณ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's fine. Namikka and no few others were here long before we arrived. It's only right they go before us.",
+      "text": "ไม่เป็นไร. นามิกาและคนอื่นๆ อีกไม่กี่คนอยู่ที่นี่นานก่อนที่เราจะมาถึง ถูกต้องแล้วที่พวกเขาไปก่อนเรา"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I hope you'll stop by and see the train off.",
+      "text": "ฉันหวังว่าคุณจะแวะมาดูว่ารถไฟจะออก"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "It's a breathtaking sight, let me tell you!",
+      "text": "นับเป็นภาพที่น่าทึ่ง บอกเลยว่า!"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "And Nitowikwe will be driving! No engineer compares to her, and it's always a treat to watch her work!",
+      "text": "และนิโตวิกเวจะขับรถ! ไม่มีวิศวกรคนไหนเทียบได้กับเธอ และการชมผลงานของเธอถือเป็นเรื่องน่ายินดีเสมอ!"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "The only work we should be worried about is our own, Shenza. And we've still more to do.",
+      "text": "งานเดียวที่เราควรกังวลคือของเราเอง เสินซ่า และเรายังมีอีกมากที่ต้องทำ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll find somewhere quiet near the station to pass the time. If there's anything else in Shaaloani you're keen to see, I'll leave you to it.",
+      "text": "เดี๋ยวผมจะเดินไปหาทำเลเงียบ ๆ แถวใกล้สถานีเพื่อพักผ่อนฆ่าเวลานะครับ หากคุณยังมีพิกัดสถานที่ท่องเที่ยวอื่นในชาโลเอนีที่อยากแวะไปสำรวจชมทัศนียภาพเพิ่มเติม ก็เชิญตามสบายใจได้เลยครับ"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "We'll handle the rest of the work from here. You just sit tight now!",
+      "text": "เราจะจัดการงานที่เหลือต่อจากนี้ คุณแค่นั่งให้แน่นตอนนี้!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "My thanks again for your timely assistance. Won't be long now before the tracks are fixed and you're on your way.",
+      "text": "ฉันขอขอบคุณอีกครั้งสำหรับความช่วยเหลือทันเวลาของคุณ อีกไม่นานเส้นทางจะได้รับการแก้ไขและคุณก็ไปได้แล้ว"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "It'll be good to have the train running again. I missed the sound of her barreling down the tracks.",
+      "text": "คงจะดีถ้ารถไฟวิ่งอีกครั้ง ฉันคิดถึงเสียงที่เธอพุ่งไปตามรางรถไฟ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Had your fill of the sights? Well, they appear to have almost finished...",
+      "text": "เดินชมวิวทัศนียภาพจนอิ่มเอมใจแล้วสินะครับ ดูเหมือนคนงานจะตระเตรียมงานปรับปรุงเส้นทางเสร็จสิ้นพอดีเลยครับ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A glorious, grand machine indeed... I hope Namikka was able to secure a seat.",
+      "text": "เป็นยานพาหนะเหล็กที่ดูสง่างามอลังการน่าทึ่งจริง ๆ ครับ... หวังว่าคุณน้านามิกก้าจะได้ที่นั่งเดินทางอย่างสะดวกสบายราบรื่นนะครับ"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Here she comes!",
+      "text": "เธอมาแล้ว!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Thanks to you, we managed to resume service much faster than anticipated. You have our gratitude.",
+      "text": "ขอขอบคุณคุณที่ทำให้เราสามารถกลับมาให้บริการได้เร็วกว่าที่คาดไว้มาก คุณมีความกตัญญูของเรา"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Ahhh, there's nothing so enchanting as a ceruleum-powered engine in motion!",
+      "text": "อ่า ไม่มีอะไรน่าหลงใหลเท่ากับเครื่องยนต์ที่ขับเคลื่อนด้วยซีรูเลี่ยมที่กำลังเคลื่อนที่!"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "Ain't that the truth. Don't think I'll ever tire of watching them chugging along. They make wagons look like toys.",
+      "text": "นั่นไม่ใช่ความจริงเหรอ อย่าคิดว่าฉันจะเบื่อที่จะดูพวกเขาเล่นกัน พวกเขาทำให้เกวียนดูเหมือนของเล่น"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "And so long as we can lay the tracks, she can go on and on and on. Before you know it, she'll be crossing the entire continent!",
+      "text": "และตราบใดที่เราวางรางได้ เธอก็ไปต่อได้เรื่อยๆ ก่อนที่คุณจะรู้ตัว เธอจะข้ามทวีปไปแล้ว!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Railroads are a somewhat recent addition to Tural. As it stands, we can only ferry folks as far as Yyasulani.",
+      "text": "รถไฟเป็นส่วนเสริมล่าสุดของ Tural ในตอนนี้ เราทำได้เพียงข้ามฟากผู้คนไปไกลถึง ยาสุลานี เท่านั้น"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "And from an operational standpoint, we still have much to learn. There's always some problem or another to deal with.",
+      "text": "และจากจุดยืนในการปฏิบัติงาน เรายังมีอีกมากที่ต้องเรียนรู้ มักจะมีปัญหาหรือเรื่องอื่นที่ต้องจัดการอยู่เสมอ"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "But we'll keep working at it. We'll hone our craft and continue expanding till, one day, our trains are running coast-to-coast. That's the ultimate dream.",
+      "text": "แต่เราจะทำงานต่อไป เราจะขัดเกลาฝีมือของเราและขยายขอบเขตต่อไป จนกระทั่งวันหนึ่ง รถไฟของเรากำลังวิ่งจากฝั่งหนึ่งไปอีกฝั่งหนึ่ง นั่นคือความฝันอันสูงสุด"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Goodness, I completely lost track of time. By now, I expect the train will be nearing Yyasulani.",
+      "text": "ความดี ฉันลืมเวลาไปโดยสิ้นเชิง ตอนนี้คาดว่ารถไฟคงจะใกล้ถึง ยาสุลานี แล้ว"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "When it returns, we'll see you on your way. So if you've got any preparations to make, you'd better make 'em quick.",
+      "text": "เมื่อกลับมาเราจะพบคุณระหว่างทาง ดังนั้นหากคุณมีการเตรียมการใดๆ ก็ควรทำให้พวกมันเร็วขึ้น"
+    },
+    {
+      "character": "Shenza",
+      "text_en": "Not another one!?",
+      "text": "ไม่ใช่อย่างอื่น!?"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "You can't be serious!",
+      "text": "อย่าจริงจังนะ!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Gods have mercy...",
+      "text": "เทวดาทรงเมตตา..."
+    },
+    {
+      "character": "Shenza",
+      "text_en": "What in the flying─ What's happening!?",
+      "text": "เกิดอะไรขึ้นในการบิน─ เกิดอะไรขึ้น!?"
+    },
+    {
+      "character": "Zawpya",
+      "text_en": "The train! Nitowikwe and the others!",
+      "text": "รถไฟ! นิโตวิกเวและคนอื่นๆ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "My home lies that way as well...",
+      "text": "พิกัดบ้านเกิดของผมก็ตั้งอยู่ทิศทางนั้นเช่นเดียวกันครับ..."
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We're going to investigate─right now!",
+      "text": "เราจะไปสอบสวน─ตอนนี้!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What in the world... Are they heading for Tuliyollal!?",
+      "text": "นี่มันเรื่องบ้าอะไรกันครับเนี่ย... เรือรบจักรกลพวกนั้นกำลังมุ่งเป้าแผ่ขยายพลังไปทางทูลิโยลลัลอย่างงั้นเหรอครับ!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Heavens forfend...",
+      "text": "สวรรค์ช่วยด้วยเถอะ... หายนะรบกวนบ้านเมืองแล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're here! Good, good─they came from the sky and attacked without any warning.",
+      "text": "นายมาแล้ว! ดีจริง ๆ—พวกมันบินลงมาจากฟากฟ้าแล้วบุกโจมตีใส่พวกเราโดยไม่ทันตั้งตัวหรือมีสัญญาณเตือนภัยล่วงหน้าเลยล่ะค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The people need our help!",
+      "text": "ประชาชนผู้เดือดร้อนกำลังต้องการความช่วยเหลือคุ้มกันจากพวกเราค่ะ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hyah!",
+      "text": "เฮ้!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Can you stand?",
+      "text": "คุณยืนได้ไหม?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Try to remain calm, everyone!",
+      "text": "พยายามใจเย็นนะทุกคน!"
+    },
+    {
+      "character": "Mamool Ja Soldier",
+      "text_en": "Hyah!",
+      "text": "เฮ้!"
+    },
+    {
+      "character": "Mamool Ja Soldier",
+      "text_en": "What the─!?",
+      "text": "อะไรนะ─!?"
+    },
+    {
+      "character": "Mamool Ja Soldier",
+      "text_en": "Argh!",
+      "text": "อ๊ะ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't know what they are...but they're not men!",
+      "text": "ฉันไม่รู้ว่าพวกเขาเป็นอะไร...แต่พวกเขาไม่ใช่ผู้ชาย!"
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "Someone help me! Please!",
+      "text": "ใครก็ได้ช่วยฉันที! โปรด!"
+    },
+    {
+      "character": "Peshiwa",
+      "text_en": "Ugh...",
+      "text": "ฮึ..."
+    },
+    {
+      "character": "Landsguard Soldier",
+      "text_en": "Bastard!",
+      "text": "ไอ้สารเลว!"
+    },
+    {
+      "character": "Landsguard Soldier",
+      "text_en": "Argh!",
+      "text": "อ๊ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What did it just do!?",
+      "text": "มันทำอะไรลงไป!?"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Hraaah!",
+      "text": "ฮ่าฮ่า!"
+    },
+    {
+      "character": "Tonawawtan Youth",
+      "text_en": "Th-Thank you!",
+      "text": "ท-ขอบคุณนะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Save the thanks─just get to safety!",
+      "text": "เอาไว้ขอบคุณ─แค่ไปที่ปลอดภัย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll hold the line here! Fall back to the palace!",
+      "text": "ฉันจะถือสายที่นี่! ถอยกลับวัง!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Quickly, before it's overrun!",
+      "text": "ด่วนก่อนจะโอเวอร์!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Bakool Ja Ja!",
+      "text": "ขอบคุณมากนะ บาคูล จา จา!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Hmph.",
+      "text": "ฮึ่ม"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "This is simply how I do things now.",
+      "text": "นี่เป็นเพียงวิธีที่ฉันทำสิ่งต่าง ๆ ตอนนี้"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "So, who wants to taste my blade next!?",
+      "text": "แล้วใครจะอยากชิมดาบของฉันเป็นรายต่อไปล่ะ!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "That you should still live.",
+      "text": "คิดไม่ถึงว่าแกจะยังมีชีวิตรอดอยู่อีกนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja...?",
+      "text": "พี่ใหญ่โซราล จา...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "By the gods... What has happened to you?",
+      "text": "คุณพระช่วย... มันเกิดเรื่องราวชั่วร้ายบ้าอะไรขึ้นกับร่างกายและจิตใจของพี่กันแน่ครับเนี่ย?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is your butchery, isn't it?",
+      "text": "การฆ่าฟันนองเลือดสังหารประชาชนผู้บริสุทธิ์อย่างไร้เมตตาตรงหน้านี้ ทั้งหมดนี้เป็นฝีมือแผนการอันชั่วร้ายของพี่ใช่ไหมคะ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After everything you've done in service to the throne, how could you betray us!?",
+      "text": "หลังจากสิ่งดี ๆ ที่พี่เคยทำรับใช้ราชบัลลังก์มาโดยตลอด พี่ทำลายความไว้ใจและทรยศหักหลังแผ่นดินเกิดของพวกเราลงคอได้ยังไงกันคะ!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "My demand is simple: the dissolution of Tuliyollal and surrender of all its territories.",
+      "text": "ข้อเรียกร้องของข้านั้นแสนจะเรียบง่าย คือการยุบราชอาณาจักรทูลิโยลลัลทิ้งซะ และจงยอมจำนนมอบดินแดนทั้งหมดให้แก่ข้าแต่โดยดี"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Refuse, and I will kill every last one of you.",
+      "text": "หากยอมปฏิเสธ ข้าจะสังหารล้างบางพวกแกทุกคนไม่ให้เหลือรอดชีวิตแม้แต่คนเดียว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have you gone mad!?",
+      "text": "นี่พี่เสียสติเป็นบ้าไปแล้วหรือยังไงคะ!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No. My ambition remains unchanged.",
+      "text": "เปล่าเลย ปณิธานความทะเยอทะยานฝันชี้ชะตาโลกของข้ายังคงแน่วแน่ไม่แปรเปลี่ยน"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "To teach the masses the folly of war that they cry out for peace, and thus unite the world.",
+      "text": "คือการสั่งสอนให้พวกมนุษย์โง่เขลาได้ประจักษ์ถึงความน่ากลัวของศึกสงคราม จนพวกมันต้องร้องโหยหาความสงบสุข และเมื่อนั้น ข้าก็จะเป็นผู้รวบรวมโลกนี้ให้เป็นหนึ่งเดียวภายใต้สิทธิ์อำนาจการสั่งการของข้า"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "What has changed you so much, and in so short a time?",
+      "text": "อะไรดลใจสั่งการให้เจ้าแปรเปลี่ยนจิตใจจนกู่ไม่กลับได้ขนาดนี้ ในช่วงเวลาอันสั้นเพียงแค่นี้กันฮะ?"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "To harm the very people you swore to serve...",
+      "text": "ถึงขั้นกล้ายื่นมือมาทำร้ายประชาชนที่ตัวเองเคยให้สัตย์ปฏิญาณว่าจะคอยคุ้มครองเยียวยา..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "This is an unforgivable deed─committed by my son! My son !",
+      "text": "นี่คือความชั่วร้ายและบาปมหันต์ที่ข้าไม่มีวันยอมให้อภัยเด็ดขาด—การกระทำชั่วร้ายนี้ก่อขึ้นโดยฝีมือลูกชายของข้า! ลูกชายของข้าเองงั้นรึ!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You have heard my ultimatum.",
+      "text": "พวกเจ้าได้รับรู้ข้อเสนอสุดท้ายของข้าแล้ว"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "And you will have my answer...",
+      "text": "และข้าก็จะมอบคำตอบและข้อสรุปให้เจ้าเช่นกัน..."
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "By my hands, I will end your madness.",
+      "text": "ด้วยน้ำมือของข้าพเจ้าคนนี้ ข้าจะขอเป็นผู้หยุดยั้งความคลุ้มคลั่งชั่วร้ายของเจ้าเอง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa, wait! I should be the one to do this!",
+      "text": "ท่านพ่อคะ หยุดก่อนค่ะ! ลูกควรจะเป็นคนก้าวเข้าไปจัดการสู้รบในศึกครั้งนี้เองค่ะ!"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "No. His sins are mine to bear.",
+      "text": "ไม่ได้หรอกลูก บาปความชั่วร้ายของเขาคือสิ่งที่ข้าผู้เป็นพ่อต้องเป็นคนแบกรับเยียวยาและชดใช้เอง"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Fear not. While Zoraal Ja is strong, he has never been Father's equal in combat.",
+      "text": "ไม่ต้องกังวลไปหรอกครับ แม้พี่ใหญ่โซราล จาจะแข็งแกร่งปานใด แต่เขาก็ไม่เคยมีทักษะระดับที่จะเทียบชั้นกับท่านพ่อในสนามรบได้เลยสักครั้งครับ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I believed you long dead. To have the chance to kill you myself is an unforeseen blessing.",
+      "text": "ข้านึกว่าท่านหมดอายุขัยตายตกไปตั้งนานแล้วซะอีก การได้รับโอกาสสังหารท่านด้วยน้ำมือของข้าเอง ยามนี้ถือเป็นพรที่เหนือความคาดหมายจริง ๆ"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Farewell, Zoraal Ja, my son... And forgive me...",
+      "text": "ลาก่อน โซราล จา ลูกข้า... และโปรดให้อภัยในความผิดพลาดของพ่อคนนี้ด้วยเถิด..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What?",
+      "text": "อะไร"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How?",
+      "text": "ยังไง?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Despite his old age, the mighty Gulool Ja Ja remains a fearsome foe indeed.",
+      "text": "แม้จะอยู่ในวัยชรา แต่ดอว์นเซิร์ฟวันต์กูลูล จา จาผู้ยิ่งใหญ่ก็ยังคงเป็นคู่ต่อสู้ที่น่าเกรงขามสู้ศึกได้ยากเย็นจริง ๆ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You retain the vitality of two souls despite the passing of one.",
+      "text": "ท่านยังคงรักษาความอึดพลังงานอันล้นพ้นของสองดวงจิตเอาไว้ได้ดีเยี่ยม แม้ว่าหัวแห่งปัญญาจะมลายสิ้นสูญเสียวิญญาณไปแล้วก็ตามสินะ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I shall even the odds.",
+      "text": "งั้นข้าจะขอถ่วงดุลความเท่าเทียมในศึกครั้งนี้ให้สมน้ำสมเนื้อหน่อยก็แล้วกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa...?",
+      "text": "ท่านพ่อ...?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Even the blessed are mortal...",
+      "text": "ต่อให้เป็นผู้ได้รับพรสองหัวผู้ยิ่งใหญ่ สุดท้ายก็ไม่มีวันหนีพ้นความตายไปได้หรอก..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Father!",
+      "text": "ท่านพ่อครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Jaaa!!!",
+      "text": "โซราล จา!!!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You are no match for me.",
+      "text": "ฝีมือระดับพวกแกไม่มีทางเอาชนะข้าได้หรอก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Murderer! On my honor as Vow of Resolve, I'll make you pay!",
+      "text": "ไอ้คนชั่วปลิดชีพพ่อ! ในนามเกียรติยศแห่งท่านสัญญาแห่งปณิธาน ฉันจะเค้นพลังทั้งหมดสะสางแค้นทำให้แกต้องชดใช้ผลลัพธ์อย่างสาสม!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "So the once faint-hearted girl would live up to her title.",
+      "text": "หึ ในที่สุดยัยเด็กขี้ขลาดตาขาวในวันวาน ก็เริ่มทำตัวสมกับตำแหน่งยศอันรุ่งโรจน์ของตัวเองขึ้นมาบ้างแล้วสินะ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Very well. If only to demonstrate the disparity between us, I give you a chance to prove yourself.",
+      "text": "ก็ดี เพื่อเป็นการแสดงให้เห็นถึงทักษะสู้รบและความห่างชั้นระหว่างพวกเราสองคน ข้าจะเปิดโอกาสให้แกได้พิสูจน์ศักยภาพตัวเอง"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Rally the entirety of your strength. Lay siege to my kingdom.",
+      "text": "จงรวบรวมขุมกำลังพละกำลังทั้งหมดที่มี และยกทัพมาล้อมสู้ศึกอาณาจักรของข้าซะ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Strike me down, like I did Father. Then will you be his worthy successor.",
+      "text": "จงบุกเข้ามาโค่นล้มสยบข้าลงให้ได้ เหมือนอย่างที่ข้าเพิ่งปลิดชีพท่านพ่อไปเมื่อกี้ หากทำได้สำเร็จ ยามนั้นแกถึงจะคู่ควรเป็นผู้สืบทอดบัลลังก์ที่แท้จริงของท่าน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja, wait!",
+      "text": "โซราล จา หยุดก่อนนะ!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "My warships will remain in your skies.",
+      "text": "เรือรบจักรกลของข้าจะลอยลำเฝ้ารอบนฟ่านฟ้าทูลิโยลลัลของพวกแกต่อไป"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "When you fail to prove your worth, I shall order them to lay waste to Tuliyollal.",
+      "text": "หากพวกแกไร้ศักยภาพไม่สามารถพิสูจน์คุณค่าในตัวเองได้ ข้าจะสั่งการให้กองทัพแผ่ขยายการทำลายล้างกวาดล้างลบเมืองทูลิโยลลัลทิ้งซะ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Choose your next steps wisely.",
+      "text": "เลือกเดินหมากตระเตรียมตัวเดินก้าวต่อไปให้ดี ๆ ล่ะ"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Twelve have mercy...",
+      "text": "สิบสองขอความเมตตา..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We did everything we could. Everything... But it simply wasn't enough...",
+      "text": "เราทำทุกอย่างที่ทำได้ ทุกสิ่งทุกอย่าง...แต่มันยังไม่เพียงพอ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can scarcely believe my eyes...",
+      "text": "ฉันแทบไม่เชื่อสายตาตัวเอง..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "How could this happen?",
+      "text": "สิ่งนี้เกิดขึ้นได้อย่างไร?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Father, no! This cannot be!",
+      "text": "ท่านพ่อครับ ไม่จริง! มันต้องไม่ใช่แบบนี้สิครับ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "character": "Sunperch Guard",
+      "text_en": "Do you have business at Sunperch?",
+      "text": "คุณมีธุรกิจที่ แท่นเพลิงสุริยัน หรือไม่?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No... Papa can't die... He can't...",
+      "text": "ไม่... พ่อจะตายไม่ได้... เขาไม่สามารถ..."
+    }
+  ]
+}

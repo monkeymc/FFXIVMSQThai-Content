@@ -1,0 +1,480 @@
+{
+  "quest_id": "spirithold-broken",
+  "dialogues": [
+    {
+      "key": "adventurerthankthegodsyouvecome",
+      "text_en": "Adventurer! Thank the gods you've come!",
+      "text": "นักผจญภัย! ขอบคุณเหล่าทวยเทพที่ท่านมาถึงเสียที!"
+    },
+    {
+      "key": "wehaveapotentialcrisisonourhandsandiwouldappreciateyourassistancewillyouhearmeout",
+      "text_en": "We have a potential crisis on our hands, and I would appreciate your assistance. Will you hear me out?",
+      "text": "วิกฤตการณ์ร้ายแรงกำลังจะก่อตัวขึ้น และข้าอยากขอความช่วยเหลือจากท่าน... ท่านพอจะสละเวลาฟังข้าสักนิดได้หรือไม่"
+    },
+    {
+      "key": "listenwellforwehaventmuchtime",
+      "text_en": "Listen well, for we haven't much time.",
+      "text": "ฟังให้ดีเถิด เพราะเราเหลือเวลาไม่มากแล้ว"
+    },
+    {
+      "key": "tothesoutheastofhereliesadungeonknownasspiritholditwasallbutdestroyedduringthecalamity",
+      "text_en": "To the southeast of here lies a dungeon known as Spirithold. It was all but destroyed during the Calamity.",
+      "text": "ทางทิศตะวันออกเฉียงใต้ของที่นี่คือคุกใต้ดินนามว่าสปิริตโฮลด์ ซึ่งเกือบพังพินาศไปสิ้นในช่วงมหันตภัย"
+    },
+    {
+      "key": "desiringtooffertheruinsbacktotheforestahearerventuredinsidetocarryouttheriteofreturning",
+      "text_en": "Desiring to offer the ruins back to the forest, a Hearer ventured inside to carry out the Rite of Returning.",
+      "text": "ด้วยความตั้งใจจะส่งคืนซากปรักหักพังแห่งนี้ให้แก่ผืนป่า ฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร) ท่านหนึ่งจึงย่างเท้าเข้าไปเพื่อประกอบพิธีกรรมส่งคืนผืนป่า"
+    },
+    {
+      "key": "alasitwouldseemsomethinghasgoneawrywordarrivedjustmomentsagothatthehearerandhisguardshavebeenattackedbyatoweringshadowayeyouheardmetrueashadow",
+      "text_en": "Alas, it would seem something has gone awry. Word arrived just moments ago that the Hearer and his guards have been attacked by a towering shadow. Aye, you heard me true - a shadow .",
+      "text": "ทว่า ดูเหมือนจะเกิดเรื่องผิดพลาดร้ายแรงขึ้นเสียแล้ว ข่าวเพิ่งส่งมาถึงเมื่อครู่นี้เองว่าเงามืดขนาดยักษ์ตนหนึ่งเข้าโจมตีฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร) และทหารคุ้มกัน... ใช่ ท่านฟังไม่ผิดหรอก... เงานั่นแหละ"
+    },
+    {
+      "key": "onanyotherdayiwoulddispatchmybestquivermentoprovidesupportbutisentthemtorepelanixaliincursioninthewestshroudnaryabellago",
+      "text_en": "On any other day, I would dispatch my best Quivermen to provide support, but I sent them to repel an Ixali incursion in the West Shroud nary a bell ago.",
+      "text": "หากเป็นเวลาปกติ ข้าคงส่งพลธนูหน่วยอารักษ์พงไพรฝีมือดีที่สุดไปช่วยเหลือแล้ว แต่ข้าเพิ่งส่งคนไปขับไล่การรุกรานของพวกอิกซาลีในเวสต์ชราวด์ (ป่าฝั่งตะวันตก) เมื่อไม่ถึงหนึ่งชั่วโมงก่อนนี้เอง"
+    },
+    {
+      "key": "thetimingoftheseeventscannotbemerecoincidenceifeartheixalsomehowcaughtwindofourplansandareattemptingtodisrupttheriteinanefforttoweakenthebondbetweenmanandelemental",
+      "text_en": "The timing of these events cannot be mere coincidence. I fear the Ixal somehow caught wind of our plans, and are attempting to disrupt the rite in an effort to weaken the bond between man and elemental.",
+      "text": "ช่วงเวลาที่เกิดเรื่องเหล่านี้ประจวบเหมาะเกินกว่าจะเป็นแค่เรื่องบังเอิญ ข้าเกรงว่าพวกอิกซาลคงรู้ระแคะระคายแผนการของเรา และพยายามขัดขวางพิธีกรรมเพื่อสั่นคลอนสายสัมพันธ์ระหว่างมนุษย์กับเอเลเมนทัล (จิตวิญญาณแห่งพงไพร)"
+    },
+    {
+      "key": "theymustnotbeallowedtosucceedandsoibidyougotospiritholdanddowhateverisnecessarytoresolvethesituationpleasesayyouwillhelpus",
+      "text_en": "They must not be allowed to succeed. And so I bid you go to Spirithold and do whatever is necessary to resolve the situation. Please, say you will help us.",
+      "text": "จะปล่อยให้ทำสำเร็จไม่ได้เด็ดขาด ข้าจึงอยากขอให้ท่านเดินทางไปยังสปิริตโฮลด์ และทำทุกวิถีทางเพื่อคลี่คลายสถานการณ์นี้ ได้โปรดเถอะ... ช่วยรับปากว่าจะช่วยเหลือพวกเรา"
+    },
+    {
+      "key": "iknewyouwouldnotletmedownyouwillhaveallthesupporticanmuster",
+      "text_en": "I knew you would not let me down. You will have all the support I can muster.",
+      "text": "ข้ารู้ดีว่าท่านไม่มีวันทำให้ผิดหวัง ข้าจะรวบรวมกำลังสนับสนุนทุกทางเท่าที่จะหาได้เพื่อช่วยท่าน"
+    },
+    {
+      "key": "nowweareracingagainsttimesoyouhadbestmakehaste",
+      "text_en": "Now, we are racing against time, so you had best make haste.",
+      "text": "ตอนนี้เรากำลังแข่งกับเวลา รีบเดินทางเสียเถอะ"
+    },
+    {
+      "key": "whogoesthereanadventurerisit",
+      "text_en": "Who goes there? An adventurer, is it?",
+      "text": "ใครมาน่ะ นักผจญภัยหรือ"
+    },
+    {
+      "key": "hereatinstructorgalfridsrequestyousaythankthematron",
+      "text_en": "Here at Instructor Galfrid's request, you say? Thank the Matron!",
+      "text": "มาตามคำขอของครูฝึกเกลฟริดอย่างนั้นหรือ ขอบคุณพระแม่ผู้พิทักษ์ (เทพีโนฟิกา)!"
+    },
+    {
+      "key": "doubtlessyoualreadyknowthisbutatoweringshadowmanifestedwithoutwarningandattackedthehearerinthemidstoftherite",
+      "text_en": "Doubtless you already know this, but a towering shadow manifested without warning and attacked the Hearer in the midst of the rite.",
+      "text": "เธอคงรู้เรื่องนี้อยู่แล้ว แต่จู่ๆ เงามืดขนาดยักษ์ก็ผุดขึ้นมาโจมตีฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร) กลางพิธี"
+    },
+    {
+      "key": "mostofhispartyhasbeensuccessfullyevacuatedbutfiveremainunaccountedfor",
+      "text_en": "Most of his party has been successfully evacuated, but five remain unaccounted for.",
+      "text": "คนส่วนใหญ่ในกลุ่มหนีรอดมาได้อย่างปลอดภัยแล้ว แต่ยังมีอีกห้าคนที่ยังหาตัวไม่พบ"
+    },
+    {
+      "key": "pleasefindthemandseethemoutofharmsway",
+      "text_en": "Please find them, and see them out of harm's way.",
+      "text": "โปรดช่วยตามหาพวกเขาแล้วพาไปให้พ้นอันตรายด้วย"
+    },
+    {
+      "key": "ashadowtoweringovermewhatinthetwelvesgoodgrace",
+      "text_en": "<groan> A shadow... towering over me... What in the Twelve's good grace?",
+      "text": "<ครวญคราง> เงามืด...ทอดทับร่างข้า... เทพทั้งสิบสองทรงโปรด นี่มันตัวอะไรกัน"
+    },
+    {
+      "key": "aanadventurerpleaseyoumustsavethehearer",
+      "text_en": "A-an adventurer!? Please, you must save the Hearer!",
+      "text": "น-นักผจญภัยรึ! ได้โปรดเถอะ ช่วยชีวิตฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร) ด้วย!"
+    },
+    {
+      "key": "galfridsentyou",
+      "text_en": "Galfrid... sent you?",
+      "text": "เกลฟริด...ส่งท่านมาหรือ"
+    },
+    {
+      "key": "iamnolongerofusehereprayhelpthehearerinmystead",
+      "text_en": "I am no longer... of use here. Pray help the Hearer... in my stead.",
+      "text": "ข้าคงช่วยเหลืออะไร...ไม่ได้อีกแล้ว โปรดช่วยฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร)...แทนข้าด้วย"
+    },
+    {
+      "key": "awayvilefiendawayisayidefyyouidefyyooouuuuhohanadventurer",
+      "text_en": "Away, vile fiend! Away, I say! I defy you! I defy yooouuu !!! ...Uh? ...Oh! An adventurer!",
+      "text": "ถอยไปนะ เจ้าปีศาจชั่วร้าย! ถอยไป ฉันบอกให้ถอยไปไง! ฉันไม่ยอมจำนนต่อแกหรอก! ไม่ยอมจำนนต่อแกหร๊อกกก!!! ...เอ๊ะ? ...โอ้! นักผจญภัยนี่!"
+    },
+    {
+      "key": "wwewereambushedambushedinthemidstoftheritualandthenandthenimnotsurewhathappened",
+      "text_en": "W-We were ambushed - ambushed in the midst of the ritual! And then... And then... I'm not sure what happened.",
+      "text": "พ-พวกเราถูกลอบโจมตี... ถูกลอบโจมตีกลางคันระหว่างทำพิธี! แล้วจากนั้น... แล้วจากนั้น... ฉันก็ไม่แน่ใจแล้วว่าเกิดอะไรขึ้น"
+    },
+    {
+      "key": "youweresenttohelpifearyouaretoolatetheritualhasfailed",
+      "text_en": "...You were sent to help? I fear you are too late - the ritual has failed.",
+      "text": "...ท่านมาเพื่อช่วยเหลืออย่างนั้นหรือ ข้าเกรงว่าท่านจะมาสายไปเสียแล้ว พิธีกรรมล้มเหลวสิ้นแล้ว"
+    },
+    {
+      "key": "imustneedsreturntogridaniatheseedseersmustknowofthis",
+      "text_en": "I must needs return to Gridania. The Seedseers must know of this.",
+      "text": "ข้าจำเป็นต้องรีเทิร์นกลับไปยังกริดาเนีย เหล่าซีดเซียร์ต้องได้รับรู้เรื่องนี้"
+    },
+    {
+      "key": "thatthingwasnoelementalbutabeingbornofdarkness",
+      "text_en": "That thing was no elemental, but a being born of darkness.",
+      "text": "สิ่งนั้นไม่ใช่เอเลเมนทัล (จิตวิญญาณแห่งพงไพร) หรอก แต่เป็นสิ่งมีชีวิตที่ถือกำเนิดขึ้นจากความมืดต่างหาก"
+    },
+    {
+      "key": "thehearerlanguishesaloneinthedepthsyoumusthelphim",
+      "text_en": "The Hearer languishes alone in the depths. You must help him!",
+      "text": "ฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร) กำลังทนทุกข์อยู่ตามลำพังในส่วนลึก เจ้าต้องรีบไปช่วย!"
+    },
+    {
+      "key": "omournfulvoiceofcreationgrantyethishumblestoneasoulthatitmaywaketolife",
+      "text_en": "O mournful voice of creation! Grant ye this humble stone a soul, that it may wake to life!",
+      "text": "โอ้ สุรเสียงแห่งการสรรค์สร้างอันแสนโศกเศร้า! โปรดประทานดวงวิญญาณแก่ศิลาอันต่ำต้อยก้อนนี้ เพื่อให้ฟื้นตื่นขึ้นมามีชีวิต!"
+    },
+    {
+      "key": "thatthegolemcouldbevanquished",
+      "text_en": "That the golem could be vanquished...",
+      "text": "ไม่คิดเลยว่าจะโค่นโกเลมลงได้..."
+    },
+    {
+      "key": "thatmanladyisnoordinaryadventurer",
+      "text_en": "That man / lady is no ordinary adventurer.",
+      "text": "คนผู้นั้นไม่ใช่นักผจญภัยธรรมดาเลย"
+    },
+    {
+      "key": "damnationhehaseludedusyetagain",
+      "text_en": "Damnation! He has eluded us yet again!",
+      "text": "บ้าจริง! มันหนีรอดพวกเราไปได้อีกแล้ว!"
+    },
+    {
+      "key": "ohfancymeetingyouherehowarethings",
+      "text_en": "Oh, fancy meeting you here! How are things?",
+      "text": "อ้าว! บังเอิญเจอที่นี่เฉยเลย! เป็นยังไงบ้างล่ะ"
+    },
+    {
+      "key": "hmwhateverareyou",
+      "text_en": "Hm? Whatever are you-",
+      "text": "หืม? เธอทำอะไรน่--"
+    },
+    {
+      "key": "shhhmorebirdsthismakesithowmanytimestodayseven",
+      "text_en": "Shhh! More birds! This makes it how many times today? Seven?",
+      "text": "ชู่! นกบินมาอีกแล้ว! วันนี้รอบที่เท่าไหร่แล้วนะ เจ็ดรอบแล้วเหรอ"
+    },
+    {
+      "key": "theirmovementsarebeyondourfathoming",
+      "text_en": "Their movements are beyond our fathoming.",
+      "text": "พวกเราไม่อาจหยั่งรู้ความเคลื่อนไหวได้เลย"
+    },
+    {
+      "key": "hmmmdoyouthinkmaybetheyretryingtosummontheirprimal",
+      "text_en": "Hmmm. Do you think maybe... they're trying to summon their primal?",
+      "text": "อืม... นายคิดว่าบางที... พวกนั้นอาจจะพยายามอัญเชิญไพรมอล (เทพจุติ) หรือเปล่า"
+    },
+    {
+      "key": "ihopenotforalloursakesyetwemustbepreparedfortheworst",
+      "text_en": "I hope not, for all our sakes. Yet we must be prepared for the worst.",
+      "text": "ขออย่าให้เป็นอย่างนั้นเลย เพื่อความปลอดภัยของพวกเราทุกคน แต่ถึงอย่างนั้น ก็ต้องเตรียมพร้อมรับมือกับเรื่องที่เลวร้ายที่สุด"
+    },
+    {
+      "key": "witheredthesamefatehasbefallenemeraldmoss",
+      "text_en": "Withered. The same fate has befallen Emerald Moss.",
+      "text": "เหี่ยวเฉาหมดสิ้น... เอเมอรัลด์มอสเองก็ต้องเผชิญชะตากรรมเดียวกัน"
+    },
+    {
+      "key": "itisaswefeareddalamudsanomalyisaffectinglifeinthetwelveswood",
+      "text_en": "It is as we feared: Dalamud's anomaly is affecting life in the Twelveswood.",
+      "text": "เป็นจริงอย่างที่กลัว ความผิดปกติของดาลาบุดกำลังส่งผลกระทบต่อสิ่งมีชีวิตในทเวลฟส์วูด"
+    },
+    {
+      "key": "youmeanthedisturbanceintheaethericflow",
+      "text_en": "You mean the disturbance in the aetheric flow?",
+      "text": "นายหมายถึงกระแสเอเธอร์ที่ปั่นป่วนงั้นเหรอ"
+    },
+    {
+      "key": "theverysamethegarleanshavealottoanswerfor",
+      "text_en": "The very same. The Garleans have a lot to answer for.",
+      "text": "ใช่แล้วล่ะ พวกชาวการ์เลียนต้องชดใช้กับเรื่องนี้อย่างสาสมทีเดียว"
+    },
+    {
+      "key": "theimbalancetheyhavecreatedisplungingthelandintochaosjustaslouisoixforewarned",
+      "text_en": "The imbalance they have created is plunging the land into chaos, just as Louisoix forewarned.",
+      "text": "ความไม่สมดุลที่พวกนั้นก่อขึ้นกำลังทำให้แผ่นดินจมดิ่งสู่ความโกลาหล เหมือนอย่างที่ท่านลูอิซัวส์เตือนไว้ไม่มีผิด"
+    },
+    {
+      "key": "itsnowondertheprimalshavestartedappearing",
+      "text_en": "It's no wonder the primals have started appearing...",
+      "text": "มิน่าล่ะ พวกเทพมายาถึงเริ่มปรากฏตัวออกมา..."
+    },
+    {
+      "key": "timeisagainstusbutthereisstillhopefortheland",
+      "text_en": "Time is against us, but there is still hope for the land.",
+      "text": "เวลาไม่คอยเราแล้ว แต่แผ่นดินนี้ยังคงมีความหวัง"
+    },
+    {
+      "key": "wemustholdfasttothathopeandfighttotheverylast",
+      "text_en": "We must hold fast to that hope and fight to the very last.",
+      "text": "เราต้องรักษาความหวังนั้นไว้ให้มั่น แล้วสู้จนถึงที่สุด"
+    },
+    {
+      "key": "agreed",
+      "text_en": "Agreed!",
+      "text": "เห็นด้วยเลย!"
+    },
+    {
+      "key": "waaah",
+      "text_en": "Waaah!",
+      "text": "วาห์!"
+    },
+    {
+      "key": "ackstupidthings",
+      "text_en": "Ack! Stupid things...",
+      "text": "โอ๊ย! ของบ้าๆ นี่..."
+    },
+    {
+      "key": "thesestupidthingshappentobetheverylatestinsharlayaninnovationshowsomerespect",
+      "text_en": "These stupid things happen to be the very latest in Sharlayan innovation! Show some respect!",
+      "text": "เจ้าของบ้าๆ ที่เธอว่าเนี่ย คือนวัตกรรมชิ้นล่าสุดของชาร์ลาแยนเชียวนะ! หัดให้เกียรติมันบ้างสิ!"
+    },
+    {
+      "key": "buttheyresouncomfortableandandugly",
+      "text_en": "But they're so uncomfortable and... and... ugly !",
+      "text": "แต่ทั้งใส่อึดอัด แล้วก็... แล้วก็... ขี้เหร่ชะมัดเลย!"
+    },
+    {
+      "key": "ifyouaskmetheyreanimprovementoverthatmaskofyours",
+      "text_en": "If you ask me, they're an improvement over that mask of yours.",
+      "text": "ถ้าถามผมล่ะก็ ยังดีกว่าหน้ากากของเธอนั่นตั้งเยอะ"
+    },
+    {
+      "key": "hardtobelieveitsalreadybeenfivewholeyearsisntit",
+      "text_en": "<sigh> Hard to believe it's already been five whole years, isn't it?",
+      "text": "เฮ้อ... ไม่อยากจะเชื่อเลยเนอะว่าผ่านไปตั้งห้าปีเต็มแล้ว"
+    },
+    {
+      "key": "alreadyfiveyearsisbutaheartbeatinthelifeoftheplanet",
+      "text_en": "Already ? Five years is but a heartbeat in the life of the planet!",
+      "text": "ห้าปีแล้วงั้นรึ ห้าปีนี่สั้นเพียงชั่วพริบตาเดียวสำหรับอายุขัยของดวงดาวดวงนี้เท่านั้นแหละ!"
+    },
+    {
+      "key": "isupposeyourerightnowthatithinkaboutitthetwelveswoodsbarelyrecoveredatallandthegridaniansstillhavethesameoldproblems",
+      "text_en": "I suppose you're right... Now that I think about it, the Twelveswood's barely recovered at all, and the Gridanians still have the same old problems.",
+      "text": "ก็คงจริงของนาย... พอมาคิดดูแล้ว ทเวลฟส์วูดแทบจะไม่ฟื้นตัวขึ้นเลย แถมชาวกรีดาเนียก็ยังเจอปัญหาเดิมๆ เหมือนเดิมไม่เปลี่ยน"
+    },
+    {
+      "key": "ayealongwithsomenewonesjustincasetheixalandgarudawerenttroublesomeenoughthesylphshadtogoandinviteramuhdidntthey",
+      "text_en": "Aye, along with some new ones. Just in case the Ixal and Garuda weren't troublesome enough, the sylphs had to go and invite Ramuh, didn't they?",
+      "text": "ใช่ แถมยังมีปัญหาใหม่ๆ เพิ่มเข้ามาอีก ลำพังแค่พวกอิกซาลกับการูด้ายังสร้างความเดือดร้อนไม่พอ เผ่าซิลฟ์ยังอุตส่าห์ไปเชิญรามูห์มาอีกใช่ไหมล่ะ"
+    },
+    {
+      "key": "doyoueverthinkaboutthoseadventurerswhofoughtalongsideusidoandthenfiveyearsseemslikeagesiwonderwhatbecameofthem",
+      "text_en": "...Do you ever think about those adventurers who fought alongside us? I do. And then five years seems like ages... I wonder what became of them.",
+      "text": "...นายเคยคิดถึงพวกนักผจญภัยที่เคยร่วมสู้เคียงบ่าเคียงไหล่กับเราบ้างไหม ฉันคิดถึงนะ พอคิดขึ้นมาทีไร ห้าปีนี่ดูยาวนานเหลือเกิน... อยากรู้จังว่าป่านนี้จะเป็นยังไงกันบ้าง"
+    },
+    {
+      "key": "ah",
+      "text_en": "Ah...",
+      "text": "อ๊ะ..."
+    },
+    {
+      "key": "ydalook",
+      "text_en": "Yda, look.",
+      "text": "อีด้า ดูนั่นสิ"
+    },
+    {
+      "key": "hm",
+      "text_en": "Hm?",
+      "text": "หืม?"
+    },
+    {
+      "key": "gollyandthisiswhatexactly",
+      "text_en": "Golly! ...And this is what, exactly?",
+      "text": "คุณพระช่วย! ...แล้วนี่คืออะไรกันแน่ล่ะเนี่ย"
+    },
+    {
+      "key": "yetanotherdisturbanceintheaetherandfreshlymanifestedatthat",
+      "text_en": "Yet another disturbance in the aether, and freshly manifested at that.",
+      "text": "เอเธอร์เกิดปั่นป่วนขึ้นอีกจุดแล้ว แถมยังเพิ่งผุดขึ้นมาใหม่ๆ เสียด้วย"
+    },
+    {
+      "key": "itseemstobeemanatingfromlifemendstumpwemusthurry",
+      "text_en": "It seems to be emanating from Lifemend Stump. We must hurry!",
+      "text": "ดูเหมือนจะแผ่ออกมาจากตอไม้ไลฟ์เมนด์นะ พวกเราต้องรีบกันแล้ว!"
+    },
+    {
+      "key": "areyouallrightyoureyesglazedoverforawhilethere",
+      "text_en": "Are you all right? Your eyes glazed over for a while there.",
+      "text": "เป็นอะไรหรือเปล่า เมื่อกี้เห็นตาลอยไปพักหนึ่งแน่ะ"
+    },
+    {
+      "key": "thegoodnewsisthatthehearerisunharmedsomewhatdazedyesbutwholeofmindandbodythebadnewsconcernseverythingelse",
+      "text_en": "The good news is that the Hearer is unharmed. Somewhat dazed, yes, but whole of mind and body. The bad news... concerns everything else.",
+      "text": "ข่าวดีก็คือฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร)ปลอดภัยดี อาจจะมึนงงไปบ้าง แต่ร่างกายและสติสัมปชัญญะยังสมบูรณ์ดี ส่วนข่าวร้าย... คือเรื่องที่เหลือทั้งหมด"
+    },
+    {
+      "key": "lestyouforgetthetwelveswoodisthedomainoftheelementalsitisbytheirleavethatmanabidesintheforestandavailshimselfofitsbountythegroundwhichthedungeonoccupiesisnodifferent",
+      "text_en": "Lest you forget, the Twelveswood is the domain of the elementals; it is by their leave that man abides in the forest and avails himself of its bounty. The ground which the dungeon occupies is no different.",
+      "text": "อย่าลืมเสียล่ะว่าทเวลฟส์วูดเป็นอาณาเขตของเอลิเมนทัล มนุษย์อาศัยอยู่ในผืนป่าและเก็บเกี่ยวความอุดมสมบูรณ์ได้ก็ด้วยความยินยอมของพวกท่าน ผืนดินที่ตั้งคุกใต้ดินนี้ก็ไม่ต่างกัน"
+    },
+    {
+      "key": "havingnomoreuseforthedungeonthegridanianssentahearertooffertheplacebacktotheelementalsbywayoftheriteofreturningwhichisessentiallyanexpressionofgratitude",
+      "text_en": "Having no more use for the dungeon, the Gridanians sent a Hearer to offer the place back to the elementals by way of the Rite of Returning, which is essentially an expression of gratitude.",
+      "text": "เมื่อไม่มีความจำเป็นต้องใช้ประโยชน์จากคุกใต้ดินแล้ว ชาวกรีดาเนียจึงส่งฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร)มาส่งมอบสถานที่คืนแก่เอลิเมนทัลผ่านพิธีกรรมส่งคืนผืนป่า ซึ่งโดยแท้จริงแล้วก็คือการแสดงความขอบคุณนั่นเอง"
+    },
+    {
+      "key": "alashefailedtocompletetheritualforobviousreasons",
+      "text_en": "Alas, he failed to complete the ritual for obvious reasons.",
+      "text": "แต่อนิจจา ทำพิธีกรรมไม่สำเร็จด้วยเหตุผลที่รู้ๆ กันดีอยู่แล้ว"
+    },
+    {
+      "key": "whilethepoorsoulcannotbeblamedforthisthefactremainsthatunlesstheelementalsaregiventheirduetheymaywellconsideritaslightandtheverylastthingthegridanianscanaffordtodointheseuncertaintimesisriskalienatingthetwelveswoodseternalguardians",
+      "text_en": "While the poor soul cannot be blamed for this, the fact remains that unless the elementals are given their due, they may well consider it a slight. And the very last thing the Gridanians can afford to do in these uncertain times is risk alienating the Twelveswood's eternal guardians.",
+      "text": "ถึงจะโทษคนน่าสงสารคนนั้นไม่ได้ แต่หากเอลิเมนทัลไม่ได้รับไมตรีอันควรแสดงต่อพวกท่าน พวกท่านก็อาจมองว่าเป็นการลบหลู่ และในยามที่บ้านเมืองปั่นป่วนเช่นนี้ สิ่งสุดท้ายที่ชาวกรีดาเนียจะรับมือไหวคือการเสี่ยงผิดใจกับผู้ปกปักษ์รักษานิรันดร์แห่งทเวลฟส์วูด"
+    },
+    {
+      "key": "butyouhavemorethandoneyourpartweshallseethehearertosafetyandsendforhispeerstofinishtherite",
+      "text_en": "But you have more than done your part. We shall see the Hearer to safety, and send for his peers to finish the rite.",
+      "text": "แต่ทำหน้าที่ได้ยอดเยี่ยมเกินพอแล้วล่ะ พวกเราจะพาฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร)ไปส่งยังที่ปลอดภัยเอง แล้วค่อยส่งคนไปตามเพื่อนร่วมงานของเขามาประกอบพิธีต่อให้เสร็จสิ้น"
+    },
+    {
+      "key": "inthemeantimepleasemakeyourwayoutsideandreporttoalestan",
+      "text_en": "In the meantime, please make your way outside and report to Alestan.",
+      "text": "ระหว่างนี้ ออกไปรายงานตัวกับแอลสแตนข้างนอกก่อนเถอะ"
+    },
+    {
+      "key": "ahbutwherearemymanners",
+      "text_en": "Ah, but where are my manners?",
+      "text": "อ๊ะ เสียมารยาทจริงเชียว"
+    },
+    {
+      "key": "iampapalymoandthetactlesswomanbesidemehereis",
+      "text_en": "I am Papalymo, and the tactless woman beside me here is-",
+      "text": "ฉันชื่อพาพารีโม ส่วนแม่คนไร้กาลเทศะข้างๆ นี่ก็คือ..."
+    },
+    {
+      "key": "yda",
+      "text_en": "Yda!",
+      "text": "อีด้า!"
+    },
+    {
+      "key": "papalymoandiaresurveyingthetwelveswoodtogether",
+      "text_en": "Papalymo and I are surveying the Twelveswood together!",
+      "text": "ฉันกับพาพารีโมกำลังสำรวจทเวลฟส์วูดอยู่ด้วยกันล่ะ!"
+    },
+    {
+      "key": "pleasedtomeetyou",
+      "text_en": "Pleased to meet you!",
+      "text": "ยินดีที่ได้รู้จักนะ!"
+    },
+    {
+      "key": "ydagivemeahandwouldyou",
+      "text_en": "Yda, give me a hand, would you?",
+      "text": "อีด้า มาช่วยทางนี้หน่อยสิ"
+    },
+    {
+      "key": "waitthereissomethingfamiliaraboutyoucoulditbethatyouare",
+      "text_en": "Wait. There is something... familiar about you. Could it be that you are...?",
+      "text": "เดี๋ยวก่อน... ดูคุ้นหน้าคุ้นตาเหลือเกิน หรือว่าจะเป็น...?"
+    },
+    {
+      "key": "nneverminddoubtlessmyeyesareplayingtrickstillwemeetagain",
+      "text_en": "N-Never mind. Doubtless my eyes are playing tricks. Till we meet again!",
+      "text": "ชะ-ช่างเถอะ สายตาคงฝาดไปเองแน่ๆ แล้วค่อยพบกันใหม่!"
+    },
+    {
+      "key": "allthishappenedinsidespiritholdtwelvepreserveus",
+      "text_en": "All this happened inside Spirithold? Twelve preserve us...",
+      "text": "เรื่องทั้งหมดนี้เกิดขึ้นในสปิริตโฮลด์งั้นหรือ... ทวยเทพทั้งสิบสองโปรดคุ้มครองด้วยเถิด..."
+    },
+    {
+      "key": "whowasthatmaskedmageandbywhatdarkambitionishedrivensomanythingsshroudedinmystery",
+      "text_en": "Who was that masked mage, and by what dark ambition is he driven? SO many things shrouded in mystery...",
+      "text": "จอมเวทสวมหน้ากากผู้นั้นเป็นใครกัน และมีความทะยานอยากอันดำมืดใดคอยผลักดันอยู่ ทุกสิ่งทุกอย่างช่างลึกลับซับซ้อนเหลือเกิน..."
+    },
+    {
+      "key": "wellishantfindanyanswersonmyownimustneedsdiscussthiswithgalfridthematterwarrantsafullinvestigationifiamanyjudgeandthatshallcertainlybemyrecommendation",
+      "text_en": "Well, I shan't find any answers on my own. I must needs discuss this with Galfrid. The matter warrants a full investigation, if I am any judge, and that shall certainly be my recommendation.",
+      "text": "เอาเถอะ ลำพังตัวข้าคงหาคำตอบไม่ได้แน่ จำเป็นต้องนำเรื่องนี้ไปหารือกับแกลฟริด หากให้ข้าประเมิน เรื่องนี้สมควรสืบสวนอย่างละเอียดถี่ถ้วนที่สุด และจะเสนอแนะเช่นนั้นอย่างแน่นอน"
+    },
+    {
+      "key": "yourcouragehassavedmanylivesthisdayadventurerforthisyouhavemydeepestgratitude",
+      "text_en": "Your courage has saved many lives this day, adventurer. For this you have my deepest gratitude.",
+      "text": "ความกล้าหาญของท่านช่วยชีวิตผู้คนไว้มากมายเหลือเกินในวันนี้ นักผจญภัย ข้าพเจ้าขอขอบคุณท่านจากใจจริง"
+    },
+    {
+      "key": "prayreturntogridaniaandseekoutmiounne",
+      "text_en": "Pray return to Gridania and seek out Miounne.",
+      "text": "โปรดรีเทิร์นไปยังกริดาเนียและตามหาเมียวเน่เถิด"
+    },
+    {
+      "key": "iunderstandshewishestothankyouforyoureffortsonourbehalf",
+      "text_en": "I understand she wishes to thank you for your efforts on our behalf.",
+      "text": "ข้าพเจ้าเข้าใจว่าเธอปรารถนาจะขอบคุณท่านที่ช่วยเหน็ดเหนื่อยแทนพวกเรา"
+    },
+    {
+      "key": "welcomebackadventureralittlebirdtellsmethatthehearerandhispartyoweyoutheirlives",
+      "text_en": "Welcome back, Adventurer. A little bird tells me that the Hearer and his party owe you their lives.",
+      "text": "ยินดีต้อนรับกลับมานะ นักผจญภัย นกน้อยคาบข่าวมาบอกฉันว่าฮีเรอร์ (ผู้รับฟังสุรเสียงแห่งพงไพร)และคณะรอดชีวิตมาได้ก็เพราะเธอแท้ๆ"
+    },
+    {
+      "key": "ataleforthetavernifevertherewereoneitisonlyashamethatimustaskyounottotellitforthetimebeingatleastdoimakemyselfclear",
+      "text_en": "A tale for the tavern if ever there were one! ...It is only a shame that I must ask you not to tell it - for the time being, at least. Do I make myself clear?",
+      "text": "ถ้าจะมีเรื่องไหนเหมาะเอาไปคุยโวในร้านเหล้าละก็ ต้องเป็นเรื่องนี้แหละ! ...แต่ช่างน่าเสียดายเหลือเกินที่ต้องขอร้องไม่ให้เธอนำไปพูดต่อ อย่างน้อยก็ในตอนนี้ เข้าใจที่ฉันพูดใช่ไหม"
+    },
+    {
+      "key": "untilthehearershavemadetheirwillonthematterknownitwouldbebesttoavoidunsettlingpeoplewithstoriesofwalkingstatues",
+      "text_en": "Until the Hearers have made their will on the matter known, it would be best to avoid unsettling people with stories of walking statues.",
+      "text": "จนกว่าเหล่าฮีเรอร์สจะประกาศจุดยืนเรื่องนี้ให้ประจักษ์ เลี่ยงการพูดคุยเรื่องรูปปั้นเดินได้ที่จะชวนให้ผู้คนตื่นตระหนกน่าจะดีที่สุด"
+    },
+    {
+      "key": "nowthenyoumusthavesuitablerecompenseforyourvaliantservice",
+      "text_en": "Now then, you must have suitable recompense for your valiant service.",
+      "text": "เอาละ ทีนี้ก็ถึงเวลาสำหรับรางวัลตอบแทนอันคู่ควรกับการอุทิศตนอย่างกล้าหาญของเธอแล้ว"
+    },
+    {
+      "key": "forthefirsthalfofyourrewardigiveyouleavetomakeuseoftheaccommodationshereattheguild",
+      "text_en": "For the first half of your reward, I give you leave to make use of the accommodations here at the guild.",
+      "text": "รางวัลครึ่งแรกนี้ ฉันอนุญาตให้เธอเข้าพักผ่อนในห้องพักของกิลด์ได้ตามสบาย"
+    },
+    {
+      "key": "arrangementshavebeenmadesoallyouneeddoisspeakwithantoinautwheneveryoucravethecomfortofafirmbedandasoftpillow",
+      "text_en": "Arrangements have been made, so all you need do is speak with Antoinaut whenever you crave the comfort of a firm bed and a soft pillow.",
+      "text": "ฉันจัดการทุกอย่างไว้เรียบร้อยแล้ว เพียงแค่ไปแจ้งอองตัวโนต์ได้ทุกเมื่อยามที่อยากเอนกายลงบนเตียงอุ่นๆ กับหมอนนุ่มๆ"
+    },
+    {
+      "key": "forthesecondhalfofyourrewardiofferyouanotherpathtofameandfortuneguildleves",
+      "text_en": "For the second half of your reward, I offer you another path to fame and fortune: guildleves.",
+      "text": "และสำหรับรางวัลครึ่งหลัง ฉันขอเสนออีกหนึ่งหนทางสู่ชื่อเสียงและเงินทอง นั่นคือ กิลด์ลีฟ"
+    },
+    {
+      "key": "guildlevesarerecordsofthevariousrequestswereceivefromthecitizenrytheyoutlineallmanneroftaskswhichambitiousyoungadventurerslikeyoucanelecttoundertake",
+      "text_en": "Guildleves are records of the various requests we receive from the citizenry. They outline all manner of tasks which ambitious young adventurers like you can elect to undertake.",
+      "text": "กิลด์ลีฟนี้รวบรวมคำร้องขอสารพัดรูปแบบจากชาวเมือง ในนั้นระบุภารกิจหลากประเภทให้นักผจญภัยรุ่นใหม่ไฟแรงอย่างเธอเลือกรับทำได้ตามใจชอบ"
+    },
+    {
+      "key": "gontrantisourguildleveofficialorlevemetehereatthecarlinecanopyihavespokenwithhimregardingyourknackforsolvingchallengingproblemsandheiseagertomakeyouracquaintance",
+      "text_en": "Gontrant is our guildleve official, or \"levemete,\" here at the Carline Canopy. I have spoken with him regarding your knack for solving challenging problems, and he is eager to make your acquaintance.",
+      "text": "กงตร็องคือเจ้าหน้าที่ดูแลกิลด์ลีฟ หรือที่เรียกกันว่า \"ลีฟเมท\" ประจำคาร์ไลน์ คาโนปีแห่งนี้ ฉันเล่าเรื่องพรสวรรค์ในการคลี่คลายปัญหาปราบเซียนของเธอให้ฟังแล้ว เขาเลยอยากทำความรู้จักใจจะขาด"
+    },
+    {
+      "key": "bythewayhaveyouperchanceheardaboutthecomingfestivalitistrulyasplendidoccasionlookedforwardtobyyoungandoldalikeandiheartilyrecommendthatyoutakethetimetoenjoy",
+      "text_en": "By the way, have you perchance heard about the coming festival? It is truly a splendid occasion, looked forward to by young and old alike, and I heartily recommend that you take the time to enjoy.",
+      "text": "จริงสิ พอจะได้ยินข่าวเรื่องเทศกาลที่กำลังจะจัดขึ้นบ้างหรือยัง งานนี้รื่นเริงวิเศษสุดยอดจริงๆ ไม่ว่าคนหนุ่มสาวหรือคนเฒ่าคนแก่ต่างเฝ้ารออย่างใจจดใจจ่อ ฉันขอแนะนำเลยนะว่าควรหาเวลาไปเที่ยวเล่นให้สนุกเสียหน่อย"
+    },
+    {
+      "key": "dontbetoodisappointediftherecenttroublescastashadowoverproceedingshoweverifearnothingshortofthemysteriousinterlopersapprehensioncanpreventthat",
+      "text_en": "Don't be too disappointed if the recent troubles cast a shadow over proceedings, however. I fear nothing short of the mysterious interloper's apprehension can prevent that...",
+      "text": "แต่ก็นะ อย่าเพิ่งเสียใจไปเลยหากเรื่องยุ่งยากเมื่อเร็วๆ นี้จะทำให้งานกร่อยลงไปบ้าง ฉันเกรงว่าคงไม่มีอะไรหยุดยั้งเรื่องนี้ได้ ตราบใดที่ยังจับตัวผู้บุกรุกลึกลับคนนั้นไม่ได้..."
+    },
+    {
+      "key": "butweweretalkingaboutyouadventureryouhavemademotherproudiexpectgreatthingsofyouyoungmanlady",
+      "text_en": "But we were talking about you, Adventurer. You have made Mother proud. I expect great things of you, young man / lady !",
+      "text": "แต่เรากำลังคุยเรื่องของเธออยู่นี่นะ นักผจญภัย ทำเอาแม่คนนี้ภูมิใจเหลือเกิน ฉันคาดหวังในตัวเธอไว้สูงมากเชียวละ พ่อหนุ่ม/แม่สาวน้อย!"
+    }
+  ]
+}

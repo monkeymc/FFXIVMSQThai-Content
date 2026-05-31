@@ -1,0 +1,483 @@
+{
+  "id": "the-lifting-of-wings",
+  "wiki_path": "/wiki/The_Lifting_of_Wings",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "7.0",
+  "title_en": "The Lifting of Wings",
+  "title": "พิธีสะบัดปีก",
+  "level": "90",
+  "location": "Kozama'uka(X:19.5,Y:10.8)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Linuhanu",
+      "text_en": "As Wuk Evu said, the festival really is a spectacle to behold.",
+      "text": "จริงอย่างที่วุคเอวูพูดนั่นแหละ เทศกาลนี้ช่างเป็นภาพที่วิจิตรตระการตาอย่างยิ่ง"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm excited to see how Ihih'hana turns out!",
+      "text": "ฉันตื่นเต้นจังเลยค่ะที่จะได้เห็นผลลัพธ์ของงานเทศกาลอิฮิฮานานี้!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We should get some rest before the excitement begins...",
+      "text": "พวกเราควรพักผ่อนกันสักหน่อยก่อนที่ความสนุกสนานจะเริ่มต้นขึ้นนะ..."
+    },
+    {
+      "character": "Hanu Gossiper",
+      "text_en": "Over there, by the float─isn't that the Third Promise? Then the rumors are true. She's trying to complete the Feat of Reeds by reviving Ihih'hana.",
+      "text": "ตรงนั้นข้างๆ เกี้ยวเทศกาล─นั่นใช่ท่านสัญญาที่สามหรือเปล่าน่ะ? แสดงว่าข่าวลือเป็นจริงสินะ นางกำลังพยายามจะซ่อมแซมฟื้นคืนเทศกาลอิฮิฮานาเพื่อผ่านด่านทดสอบต้นอ้อล่ะ"
+    },
+    {
+      "character": "Hanu Rumormonger",
+      "text_en": "The festival is a prayer for healthy crops, but does she honestly believe that will be enough to save our harvest?",
+      "text": "เทศกาลนี้เป็นพิธีสวดอ้อนวอนเพื่อพืชผลเก็บเกี่ยวอันอุดมสมบูรณ์ก็จริง แต่นางเชื่อจริงๆ หรือว่าแค่เรื่องพรรค์นั้นจะช่วยฟื้นฟูผลผลิตของเราได้น่ะ?"
+    },
+    {
+      "character": "Hanu Rumormonger",
+      "text_en": "The Second Promise, meanwhile, barely glanced at the fields before leaving Ok'hanu altogether. Maybe we asked too much of our young claimants...",
+      "text": "ในขณะเดียวกัน ท่านสัญญาที่สองกลับเพิ่งมาปรายตามองแปลงนาก่อนจะรีบเสด็จออกไปจากหมู่บ้านโอคฮานูทันที บางทีพวกเราอาจจะคาดหวังเรื่องยากๆ เกินตัวจากผู้ท้าชิงที่ยังเยาว์วัยพวกนี้ไปกระมัง..."
+    },
+    {
+      "character": "Hanu Gossiper",
+      "text_en": "Oh, I wouldn't be too quick to count Koana out. A friend of mine overheard him muttering by the reeds. Something about what “needs to be done.”",
+      "text": "โอ้ อย่าเพิ่งด่วนสบประมาทมองข้ามท่านโคอาน่าไปสิ เพื่อนข้าได้ยินท่านยืนพึมพำอะไรบางอย่างอยู่แถวๆ กองต้นอ้อน่ะ พูดเรื่องสิ่งที่ 'จำเป็นต้องจัดการ' อะไรสักอย่างนี่แหละ"
+    },
+    {
+      "character": "Hanu Rumormonger",
+      "text_en": "Is that so!? Perhaps we'll get to see another of his innovations firsthand.",
+      "text": "จริงหรือนี่!? บางทีพวกเราอาจจะได้เห็นการรังสรรค์วิทยาการใหม่ๆ ของท่านกับตาตัวเองก็เป็นได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, that sounds like our Koana. One look at the reeds was all he needed to think up a solution...",
+      "text": "เหอะ ฟังดูสมเป็นโคอาน่าจริงๆ แค่เห็นต้นอ้อทีเดียวก็คิดหาทางออกได้เลยงั้นเหรอ..."
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Be that as it may, our own solution is nearly ready.",
+      "text": "ถึงจะเป็นเช่นนั้นก็ตาม แต่หนทางแก้ไขปัญหาของฝั่งเราเองก็ใกล้จะพร้อมแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Indeed! As soon as the others get back, our long-awaited festival can begin!",
+      "text": "นั่นสินะ! พอคนอื่นๆ กลับมาเมื่อไร เทศกาลที่พวกเรารอคอยมาแสนนานก็จะได้เริ่มต้นขึ้นสักที!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It took some doing, but we managed to gather competitors to vie for the title of Wind's Chosen. The winner was only too happy to donate his feathers.",
+      "text": "ต้องลงแรงไปไม่น้อยเลยครับ แต่ในที่สุดพวกเราก็สามารถรวบรวมผู้เข้าแข่งขันมาประลองชิงตำแหน่งผู้ได้รับเลือกแห่งสายลมได้สำเร็จ และผู้ชนะก็ยินดีมอบขนของตนเองมาให้ด้วยความเต็มใจอย่างยิ่งครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You should've seen it! He called forth an incredible gust that sent his feather sailing for malms!",
+      "text": "นายน่าจะได้เห็นนะ! เขาอัญเชิญสายลมพัดแรงกล้าเป่าขนนกของเขาปลิวไปไกลตั้งหลายไมล์แน่ะ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We had a turn ourselves, but it's more difficult than it looks. Poor Erenville's twirled in the air for a moment before landing on his foot...",
+      "text": "พวกเราเองก็ลองเล่นดูเหมือนกัน แต่มันยากกว่าที่คิดไว้เยอะเลยล่ะ น่าสงสารเอเรนวิลล์นะ ขนนกของเขาหมุนคว้างกลางอากาศอยู่วูบนึงก่อนจะตกลงมาแปะอยู่บนเท้าตัวเองเฉยเลย..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I am a gleaner. Magic is not part of our training.",
+      "text": "ผมเป็นนักเก็บกวาดข้อมูลครับ เรื่องเวทมนตร์ไม่ได้อยู่ในหลักสูตรการฝึกฝนของเราหรอกนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As for us, we've brought the wood and gemstone replacements crafted by Wuk Evu. All that's left is to attach them.",
+      "text": "ส่วนทางฝั่งพวกเรา ก็นำคานหามไม้และอัญมณีดวงตาใหม่ที่คุณวุคเอวูช่วยสร้างมาให้แล้วค่ะ ที่เหลือก็แค่ประกอบพวกมันเข้าที่ค่ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Has it been decided who will ride the float?",
+      "text": "ตกลงได้คนที่จะขึ้นไปนั่งบนเกี้ยวหรือยังครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa was the guest of honor the last time I was here. I remember being surprised they could even lift the thing with his hulking weight on top of it.",
+      "text": "คราวก่อนตอนที่ฉันมาที่นี่ ท่านพ่อเป็นแขกผู้มีเกียรติล่ะ ฉันจำได้ว่ายังแอบตกใจเลยที่พวกเขาแบกเกี้ยวนั่นไหว ทั้งที่ตัวท่านพ่อหนักอึ้งขนาดนั้นน่ะ"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "The rider must be a personage of great esteem, which is why an invitation is usually extended to the Dawnservant. This time, however, I have another in mind.",
+      "text": "ผู้ที่จะขึ้นไปนั่งบนเกี้ยวจะต้องเป็นบุคคลที่มีเกียรติและเป็นที่เคารพนับถืออย่างสูง ซึ่งปกติแล้วเราจะอัญเชิญท่านดอว์นเซิร์ฟวันต์มาร่วมงาน แต่ทว่าในครั้งนี้ ข้ากลับมีอีกคนหนึ่งอยู่ในใจแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, who is it?",
+      "text": "เอ๊ะ ใครกันเหรอ?"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Our beloved Ihih'hana, the Lifting of Wings, is only being held because of you and your companions. Thus do I nominate you, Wuk Lamat, as our guest of honor.",
+      "text": "เทศกาลอิฮิฮานาอันเป็นที่รักยิ่งของพวกเราจะไม่มีวันจัดขึ้นได้เลยหากไม่มีท่านและเหล่าสหายคอยช่วยเหลือ ดังนั้น ข้าขอเสนอชื่อของท่าน ท่านวุคลามัต ให้เป็นแขกผู้มีเกียรติขึ้นเกี้ยวในครั้งนี้ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh? Me!?",
+      "text": "หา? ฉันเนี่ยนะ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...This boat won't make me seasick, will it?",
+      "text": "...เรือลำนี้จะไม่ทำให้ฉันเมาเรือใช่ไหม?"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I...don't think so?",
+      "text": "ข้า... คิดว่าคงไม่มั้งครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then weigh anchor! I can hardly refuse a request from one even more enthusiastic about the festival than me!",
+      "text": "ถ้างั้นก็ถอนสมอเลย! มีหรือที่ฉันจะปฏิเสธคำขอจากคนที่มีใจรักในงานเทศกาลยิ่งกว่าฉันเสียอีก! ฉันยินดีที่จะขึ้นนั่งบนเกี้ยวของพวกเธออย่างยิ่งเลยล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I would be delighted to ride your float!",
+      "text": "ขอบคุณครับ ท่านวุคลามัต"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Thank you, Wuk Lamat.",
+      "text": "ข้าก็มีหน้าที่สำหรับทุกท่านที่เหลือเช่นกันครับ ขบวนแห่ของพวกเราจะทำการเคลื่อนย้ายเกี้ยวเทศกาลอย่างช้าๆ ไปยังโคซานูอากีย์ (Kozanuakiy) ซึ่งเป็นสถานที่ประดิษฐานเทวรูปศักดิ์สิทธิ์คิกไซฮิห์ (Kixaihih) ครับ"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I have roles for the rest of you as well. We'll be carrying the festival float in a slow procession towards Kozanuakiy, where the sacred likeness of Kixaihih is ensconced.",
+      "text": "สิ่งที่ข้าอยากขอความช่วยเหลือจากพวกท่านก็คือ ช่วยเคลียร์เส้นทางจากสัตว์ร้ายอันตรายต่างๆ เพื่อให้ขบวนแห่ดำเนินไปได้อย่างราบรื่นไม่มีอุปสรรคขัดขวางครับ"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "What I'd like you to do is clear the path of dangerous wildlife, so that the procession can move along unimpeded.",
+      "text": "ปล่อยให้เป็นหน้าที่ของพวกเราเถอะครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Consider it done.",
+      "text": "จะให้ฉันนั่งรอเฉยๆ จนกว่าวุคเอวูจะซ่อมเกี้ยวเสร็จงั้นเหรอ? ให้ฉันตามไปช่วยจัดการเคลียร์ทางด้วยคนสิ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You expect me to sit still until Wuk Evu has finished with the float? Let me come along and help with the clearing!",
+      "text": "อย่างที่คุณรู้ ผมไม่ถนัดเรื่องการต่อสู้เท่าไรนัก ผมจะขออยู่ที่นี่เพื่อช่วยวุคเอวูซ่อมเกี้ยวดีกว่าครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As you know, I'm not much for fighting. I'll stay behind and assist Wuk Evu with the repairs.",
+      "text": "หากท่านไม่แน่ใจเรื่องเส้นทาง ทางเดินที่ข้าพูดถึงจะเริ่มจากทางใต้ของหมู่บ้านและแยกไปทางตะวันออก ซึ่งจะนำท่านข้ามสะพานเชื่อมไปยังทางเดินสุริยาครับ"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "If you aren't sure where you need to go, the path I spoke of begins at the south of the village and branches off to the east. That will lead you across the bridges to the Stride of the Sun.",
+      "text": "ถ้าอย่างนั้น พวกเราจะช่วยจัดการเคลียร์พื้นที่ตลอดเส้นทางให้ราบคาบเองครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then we shall see to clearing it end to end.",
+      "text": "ด้วยฝีมือการต่อสู้อันน้อยนิดของผม ไปด้วยก็คงมีแต่จะเกะกะเปล่าๆ ขอให้ล่ากันให้สนุกนะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "With my lack of combat skills, I would only get underfoot. Happy hunting.",
+      "text": "ขบวนแห่อิฮิฮานามักจะถูกโจมตีโดยพวกสัตว์ร้ายที่หวงถิ่นระหว่างเดินทางไปยังโคซานูอากีย์อยู่บ่อยครั้ง ข้าจะรู้สึกขอบคุณอย่างยิ่งหากพวกท่านช่วยกำจัดพวกมันล่วงหน้าครับ"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "The Ihih'hana procession often runs afoul of territorial creatures on the way to Kozanuakiy. I would greatly appreciate you removing those threats in advance.",
+      "text": "พวกเจ้าออกไปเคลียร์ทางได้เลยครับ กว่าจะจัดการพวกร้ายเสร็จ เกี้ยวเทศกาลก็คงจะซ่อมเสร็จสมบูรณ์พร้อมใช้งานแน่นอน"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I'll get to work. By the time you're done mashing monsters, the float will be good as new.",
+      "text": "หากเกี้ยวเทศกาลทำงานตามที่ผมคิดไว้ ก็ไม่แปลกใจเลยครับที่มันจะดึงดูดสัตว์อสูรเข้ามา เพราะความเข้มข้นของกระแสเอเธอร์ย่อมเป็นสิ่งล่อตาล่อใจที่ยากจะต้านทานสำหรับพวกมันครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If the float functions as I think it does, I would not be surprised if it were attracting the creatures. The concentration of aether would be an irresistible lure.",
+      "text": "เตรียมอาวุธให้พร้อม! พวกเราจะจัดการงานนี้ให้เสร็จสิ้นในพริบตาเอง!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Weapons at the ready! We'll make short work of this task!",
+      "text": "ความจริงจังในการศึกษาเรื่องที่เขาสนใจของคุณวุคเอวูนี่น่าทึ่งมากเลยนะคะ เห็นว่าการวิจัยเรื่องดินแดนโคซามาอูกาทำให้เขาตื่นตาตื่นใจมากจนถึงขนาดตัดสินใจย้ายมาอยู่ที่นี่เพื่อซึมซับวัฒนธรรมด้วยตัวเองเลยล่ะค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The degree to which Wuk Evu pursues his interests is remarkable. Apparently his studies of the Kozama'uka region were so invigorating that he decided to move here and immerse himself in the culture.",
+      "text": "อย่างที่ลินูฮาลีบอกแหละ โคซานูอากีย์น่าจะไปทางด้านนี้ แล้วพอถึงทางแยกก็เลี้ยวไปทางตะวันออก จากนั้นก็มีข้ามสะพานกับทางเดินสุริยาอะไรสักอย่างล่ะมั้ง...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As Linuhanu said, Kozanuakiy should be down this way, then off to the east when the path branches. Then something about bridges and the Stride of the Sun...?",
+      "text": "เอาเป็นว่าแยกย้ายกันไปจัดการเถอะ พอเคลียร์อันตรายทั้งหมดที่เจอแล้ว ค่อยไปเจอกันที่หน้าเทวรูปคิกไซฮิห์ (Kixaihih) นะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Anyway, let's split up and get to work. Once you've culled all the threats you can find, we'll meet up in front of Kixaihih!",
+      "text": "ฮ่า! จัดการได้ตัวนึงแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hah! That's one down!",
+      "text": "แบบนี้สิ ค่อยเป็นงานถนัดของฉันหน่อย!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Now this is my kind of busywork!",
+      "text": "บอกแล้วไงคะว่าไม่ต้องคอยดูแลฉันตลอดเวลาแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I told you, you don't need to watch over me anymore.",
+      "text": "ถ้าเป็นแบบนี้ต่อไป อีกไม่นานเส้นทางไปสู่โคซานูอากีย์ก็คงจะปลอดภัยแน่นอนครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "At this rate, we'll soon have the route to Kozanuakiy secured.",
+      "text": "อ้าว เดินนำหน้าพวกเราไปก้าวนึงแล้วเหรอเนี่ย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, you were a step ahead of us.",
+      "text": "นี่คงจะเป็นเทวรูปคิกไซฮิห์สินะครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This must be the likeness of Kixaihih.",
+      "text": "เทวรูปคิกไซฮิห์ เทพแห่งการเก็บเกี่ยวของชาวฮานูฮานู"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Hanuhanu deity of the harvest.",
+      "text": "เห็นแล้วทำให้รู้สึกเลยนะว่าวัฒนธรรมของพวกเขาหมุนรอบการเก็บเกี่ยวต้นอ้อขนาดไหน มีคนบอกว่าเทพคิกไซฮิห์เคยเป็นที่เคารพบูชาในอีกทวีปหนึ่ง ความเชื่อโบราณนี้ถูกนำเข้ามาในทูรัลโดยชาวฮานูฮานูกลุ่มแรกน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Makes you appreciate how much their culture revolves around the reed harvest, doesn't it? It's said that Kixaihih was worshipped on another continent. This ancient faith was then brought to Tural by the first Hanuhanu.",
+      "text": "วาฬเหรอ? ทำไมต้องเป็นวาฬด้วยล่ะ...? เอาเถอะ อย่างไรก็ตาม มีคนบอกว่าเทพคิกไซฮิห์เคยเป็นที่เคารพบูชาในอีกทวีปหนึ่ง ความเชื่อโบราณนี้ถูกนำเข้ามาในทูรัลโดยชาวฮานูฮานูกลุ่มแรกน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A whale? Why a whale of all things...? Anyway, it's said that Kixaihih here was worshipped on another continent. This ancient faith was then brought to Tural by the first Hanuhanu.",
+      "text": "หรือจะเป็นหนึ่งในสิ่งประดิษฐ์ของผู้คนในยุคโบราณกันนะ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "One of the ancients' creations?",
+      "text": "เป็นไปได้ว่าความทรงจำที่ยังหลงเหลืออยู่จากยุคสมัยนั้นอาจคงอยู่มาจนถึงปัจจุบัน ความทรงจำใต้สำนึกจากดวงจิตที่สืบทอดต่อกันมาจึงกลายเป็นรากฐานของศาสนาใหม่นี้ขึ้นมาครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis possible a vestigial memory of that time endured. A subconscious recollection from the inheriting soul providing the basis for an entirely new religion.",
+      "text": "ฉัน... ไม่เข้าใจความหมายที่พูดเลยแฮะ เท่าที่ฉันรู้มา เทพคิกไซฮิห์เคยเป็นที่เคารพบูชาในอีกทวีปหนึ่ง และความเชื่อโบราณนี้ถูกนำเข้ามาในทูรัลโดยชาวฮานูฮานูกลุ่มแรกเท่านั้นแหละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I...have no idea what that means.",
+      "text": "ชาวฮานูอพยพมาที่นี่จากอีกทวีปหนึ่งงั้นเหรอครับ? ถ้าอย่างนั้น บางทีทั้งสองฝ่ายอาจจะมีบรรพบุรุษร่วมกันก็เป็นได้นะครับ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As far as I know, Kixaihih was worshipped on another continent. This ancient faith was then brought to Tural by the first Hanuhanu.",
+      "text": "เรื่องนี้ก็น่าสนใจอยู่หรอกนะ แต่พวกเราควรรีบกลับไปหาลินูฮาลีกันก่อนดีกว่าไหม? เขาคงอยากรู้ว่าเส้นทางปลอดภัยพร้อมสำหรับขบวนแห่แล้วหรือยังน่ะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Hanu migrated here from another continent? Then mayhap the two do share a common ancestor...",
+      "text": "จริงด้วย! แล้วฉันต้องขึ้นไปนั่งบนเกี้ยวด้วยนี่นา! เดี๋ยวฉันวิ่งล่วงหน้าไปบอกเขาก่อนนะว่าทางนี้เคลียร์เสร็จแล้ว!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is all very fascinating, but shouldn't we be getting back to Linuhanu? He'll want to know the path is safe for the procession.",
+      "text": "ข้าได้ยินไม่ค่อยถนัดเลยว่ะ ตาแก่ ลองพูดใหม่อีกรอบซิ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, and I need to ride on the float! I'll run ahead and tell him we're done here!",
+      "text": "จะให้ข้าพูดสักกี่ร้อยรอบก็ได้ครับ ท่านสัญญาที่สามมอบหมายให้ข้าซ่อมแซมเกี้ยวนี้ และข้าไม่มีวันส่งมอบมันให้กับคนป่าเถื่อนไร้อารยธรรมเช่นเจ้าเด็ดขาด"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Not sure we heard you right, old man. Why don't you say that again.",
+      "text": "ยิ่งกับคนที่ไม่รู้จักมารยาทการทักทายพื้นฐานด้วยแล้ว ยิ่งไม่มีวัน"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "As many times as you like. The Third Promise tasked me with repairing this float, and I'll not relinquish it to an uncultured brute like you.",
+      "text": "ความจริงพวกเราก็อยากจะสะสางเรื่องนี้แบบคนศิวิไลซ์อยู่นะครับ แต่ถ้าจำเป็นต้องฆ่าพวกแกทิ้งเสียที่นี่ พวกเราก็ยินดีทำเป็นอย่างยิ่งเลยล่ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Much less one that can't even manage a simple greeting.",
+      "text": "ทางเรามีปัญหาเรื่องยักษ์สองหัวเข้ามาวุ่นวายครับ ใช่ครับ ได้โปรดรีบหน่อย"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "We wanted to handle this in a civilized way, but we're more than willing to kill you.",
+      "text": "...เธอกำลังเดินทางกลับมาแล้วงั้นเหรอครับ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We have a two-headed problem. Yes, please hurry.",
+      "text": "ถะ... ถอยไปก่อน วุคเอวู! ข้าจะปกป้องเกี้ยวนี้เอง!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...She's on her way back already?",
+      "text": "กำลังพยายามทำตัวกล้าหาญอยู่เหรอครับ เจ้านกน้อยตัวจ้อย?"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "S-S-Stand back, Wuk Evu! I will protect the float!",
+      "text": "ข้าไม่มีทางซ่อมแซมเกี้ยวนี้ได้ตามลำพังแน่─ไม่มีทางซ่อมได้สมบูรณ์แบบเช่นนี้เลย แต่ด้วยความช่วยเหลือจากท่านวุคลามัตและเหล่าสหายของนาง ทำให้พวกเราสามารถจัดงานอิฮิฮานาได้อีกครั้ง!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Are you trying to be brave, little bird?",
+      "text": "นี่คือสิ่งล้ำค่าที่หาอะไรเปรียบไม่ได้... และในฐานะผู้จัดงาน ข้ายอมสละชีพเพื่อปกป้องมัน!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I could never have repaired the float alone─not properly. But thanks to Wuk Lamat and her friends, we can hold Ihih'hana again!",
+      "text": "ดีมากครับ ถ้าเช่นนั้นก็ตามใจความต้องการของแกเลยละกัน"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "This is a priceless treasure...and as festival leader, I would die to protect it!",
+      "text": "บาคูล จา จา!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Very well, if that's what you want.",
+      "text": "อะ... อะไรกัน!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja!",
+      "text": "ฉันใส่พลังทั้งหมดลงไปในการโจมตีนั้นแล้วนะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wha─!?",
+      "text": "ดีแล้วครับ ยิ่งแกตระหนักถึงความห่างชั้นระหว่างพวกเราได้เร็วเท่าไรก็ยิ่งดี"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I put everything into that blow...",
+      "text": "แต่ดูเหมือนแกยังต้องการบทเรียนเพิ่มนะ! พวกข้าจะสลักมันลงบนผิวหนังเน่าๆ ของแกจนร้องห่มร้องไห้อ้อนวอนขอชีวิตเลยล่ะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Good. The better for you to understand the gulf between us.",
+      "text": "แผนการอันชาญฉลาดของแกก็คือการขโมยเกี้ยวแล้วฉกเอาความดีความชอบไปงั้นเหรอ? ไอ้ที่เรียกตัวเองว่า 'ทายาทผู้ได้รับพร' แท้จริงแล้วก็แค่พวกขี้โกงกระจอกๆ นี่เอง!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "But you need more lessons! We'll carve them into your mangy hide until you cry and beg forgiveness!",
+      "text": "คำสบประมาทของพวกแกเนี่ยฟังดูไพเราะเสนาะหูชะมัด! เข้ามาเลย ไอ้พวกกากทั้งหลาย─ข้าจะบดขยี้พวกแกทีละคน... หรือจะดาหน้าเข้ามาพร้อมกันเลยก็ได้นะ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Your brilliant plan was to steal the float and take the credit? The so-called “blessed siblings” are nothing but cheats!",
+      "text": "โปรดสงบสติอารมณ์ก่อนครับ ท่านผู้ถูกเลือก! หากท่านลงมือต่อสู้เอาจริงเอาจัง ที่นี่จะกลายสภาพเป็นลานสังหารหมู่เอานะครับ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Your scorn is sweet music. Come, weaklings─we'll crush you each in turn...or all together, if you like!",
+      "text": "ยิ่งไปกว่านั้น เราเพิ่งได้รับรายงานว่า แผนการ 'อีกด้านหนึ่ง' ของพวกเรากำลังจะประสบความสำเร็จแล้วครับ!"
+    },
+    {
+      "character": "Doppro Illusionist",
+      "text_en": "Calm yourself, chosen one! If you fight in earnest, this will end in a massacre!",
+      "text": "ถ้าเช่นนั้น การจะเสียพลังงานมาบดขยี้พวกฝูงแมลงหวี่แถวนี้ก็คงจะดูโง่เขลาเกินไปหน่อยนะครับ"
+    },
+    {
+      "character": "Doppro Illusionist",
+      "text_en": "What's more, we have word that our “other” prospect is on the verge of success!",
+      "text": "ถือว่าพวกแกดวงดีไปนะ หืม?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Then it would be foolish to expend effort swatting gnats.",
+      "text": "ยักษ์สองหัว... ดูเหมือนพวกมะมุก (Mamook) จะยังคงยึดติดอยู่กับความหวังอันน่ารังเกียจพรรค์นั้นอยู่สินะ..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Lucky for you, eh?",
+      "text": "ท่ะ... ท่านสัญญาที่สาม ได้โปรดพูดกับข้าหน่อย! ท่านคงยังไม่ตายใช่ไหม!?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Two-heads. I see Mamook still clings to that loathsome hope...",
+      "text": "หึ! ของแค่นี้ทำอะไรฉันไม่ได้หรอก! แล้ว... ตกลงว่าเราจะจัดงานเทศกาลนี้กันต่อไหมล่ะ?"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Talk to us, Third Promise! You're not dying, are you!?",
+      "text": "...ใช่ครับ! พวกเราจะจัดงานเทศกาลนี้แน่นอน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hah! It'll take more than that to kill me!",
+      "text": "ฉันดีใจนะที่เราปกป้องเกี้ยวไม่ให้ตกไปอยู่ในมือของบาคูล จา จา ได้ แต่ให้ตายสิ... เขาปัดฉันกระเด็นง่ายๆ เหมือนฉันเป็นแค่แมลงหวี่ที่น่ารำคาญตัวหนึ่งเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So...are we having this festival or not?",
+      "text": "เป็นการเผชิญหน้าที่ตึงเครียดมากจริงๆ ครับ ต้องขอบคุณที่คุณอัลฟิโน่คิดรอบคอบแบ่งปันลิงก์เพิร์ลพวกนั้นไว้ให้"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "...Yes! Yes, we are!",
+      "text": "โชคดีมากเลยค่ะที่พวกเรากลับมาถึงก่อนที่จะมีใครได้รับบาดเจ็บรุนแรง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm glad we kept the float out of Bakool Ja Ja's clutches, but gods... He brushed me aside like I was a bothersome gnat.",
+      "text": "เมื่อพิจารณาจากข้อกำหนดของพิธีสืบทอดราชบัลลังก์แล้ว การปะทะกันเช่นนี้น่าจะเป็นเรื่องที่หลีกเลี่ยงไม่ได้ล่ะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A tense encounter. I'm thankful Alphinaud thought to share those linkpearls.",
+      "text": "มันรอจังหวะให้พวกเราออกไปเพื่อจะมาขโมยเกี้ยวเทศกาล ช่างขี้ขลาดและน่าไม่อายจริงๆ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm thankful we made it back before anyone was seriously injured.",
+      "text": "หากชีวิตนี้สอนอะไรข้ามาสักอย่างล่ะก็ สิ่งนั้นคือการไร้มารยาทมักจะสะท้อนถึงสันดานดิบที่ย่ำแยของคนผู้นั้นเสมอ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Given the nature of the rite of succession, I expect such altercations are inevitable.",
+      "text": "ขอบคุณทุกท่านที่เข้ามาช่วยชีวิตพวกเราไว้นะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He waited for us to leave so he could steal the float. A coward and a thief!",
+      "text": "ข้าพยายามจะปกป้องเกี้ยวแล้ว แต่เมื่อต้องเผชิญหน้ากับเจ้ายักษ์สองหัวนั่น... ตัวข้าก็แทบจะไร้ค่าไร้ประโยชน์สิ้นดีเลย"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "If I've learned one thing in my life, it's that poor manners often betray poor character.",
+      "text": "พูดเหลวไหลน่า! นายยืนหยัดปกป้องเกี้ยวและช่วยถ่วงเวลาให้พวกเรากลับมาทันต่างหาก นายกล้าหาญมากเลยนะ!"
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "Thank you for coming to our rescue.",
+      "text": ""
+    },
+    {
+      "character": "Linuhanu",
+      "text_en": "I tried to protect the float, but against that two-head... I may as well have not been there at all.",
+      "text": ""
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nonsense! You stood your ground and bought us the time we needed to make it back. You were incredibly brave!",
+      "text": ""
+    }
+  ]
+}

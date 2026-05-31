@@ -1,0 +1,633 @@
+{
+  "id": "a-history-of-violence",
+  "wiki_path": "/wiki/A_History_of_Violence",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A History of Violence",
+  "title": "ประวัติศาสตร์แห่งความรุนแรง",
+  "level": "94",
+  "location": "Yak T'el(X:11.0,Y:13.0)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Spiced ibruq wrapped in najool leaves? That sounds like a winning combination to me!",
+      "text": "เนื้ออิบรุกคลุกเครื่องเทศห่อด้วยใบนาจูลแล้วนำไปอบใต้ดินงั้นเหรอ? ฟังดูชวนน้ำลายไหลและเปี่ยมด้วยรสชาติเข้ากันได้ยอดเยี่ยมสมเป็นจานเด็ดประลองชัยชนะจริงๆ เลยล่ะค่ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us see if there are najool leaves to be had in town.",
+      "text": "พวกเราลองเดินหาดูสิครับว่าจะมีใบนาจูลให้แลกเปลี่ยนในหมู่บ้านนี้บ้างไหม"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Perhaps the cook Urianger mentioned might be persuaded to spare us a few.",
+      "text": "บางทีพ่อครัวที่อุเรียนเจร์เอ่ยถึงอาจจะยินยอมพร้อมใจแบ่งปันมอบใบไม้ให้พวกเราบ้างสักสองสามใบนะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "An underground oven! This must be the cook Urianger was talking about.",
+      "text": "เตาอบใต้ดินนั่นเอง! คนคนนี้ต้องเป็นพ่อครัวที่อุเรียนเจร์เล่าถึงแน่นอนเลยค่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Hmm... The earth here is indeed fashioned into an oven of sorts. Fascinating.",
+      "text": "อืม... การขุดเจาะหลุมดินทำเป็นเตาอบแบบนี้น่าทึ่งจริงๆ ครับ"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Oh, hello again! Did you need something?",
+      "text": "โอ้ สวัสดีจ้าเจอกันอีกแล้วนะ! มีเรื่องอะไรให้ข้าช่วยเหลือหรือเปล่าจ๊ะ?"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Najool leaves! For purposes other than xibruq pibil, naturally...",
+      "text": "ใบนาจูลน่ะเหรอ! เพื่อจุดประสงค์อื่นที่ไม่ใช่การปรุงซิบรุก ปิบิล สินะจ๊ะ..."
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Unfortunately, I've just used up my last. You'll have to travel to the lower forests for more.",
+      "text": "เสียดายจริงๆ ที่ข้าเพิ่งจะใช้ใบไม้ใบสุดท้ายที่เหลือไปหมดเกลี้ยงซะแล้วล่ะจ้า พวกเจ้าคงจำเป็นต้องเดินทางลงไปยังป่าลึกเบื้องล่างเพื่อหาเก็บมันมาเพิ่มเติมแล้วล่ะ"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Golmajiik Grove is the source of the finest najool leaves you'll find. Wild variants you sometimes see in city markets can't compare.",
+      "text": "ป่ากอลมาจีค (Golmajiik Grove) คือแหล่งสะสมใบนาจูลธรรมชาติที่มีคุณภาพดีที่สุดเท่าที่เจ้าจะหาได้เลยล่ะจ้า ใบไม้ป่าทั่วไปที่มีขายตามแผงลอยในตลาดในเมืองหลวงเทียบไม่ติดเลยจริงๆ นะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I see... I had hoped to avoid such a lengthy venture, but if there's no other way to obtain our ingredient, then to the Ja Tiika Heartland we shall go.",
+      "text": "เข้าใจแล้วครับ... ใจจริงผมก็อยากหลีกเลี่ยงการเดินทางไกลที่เสียเวลาขนาดนั้นนะครับ แต่ในเมื่อไม่มีวิธีอื่นในการจัดหาวัตถุดิบแล้ว พวกเราก็คงต้องมุ่งหน้าสู่ใจกลางป่าจาทีกา (Ja Tiika Heartland) กันล่ะครับ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Allow me to save you the trip.",
+      "text": "ข้าขออนุญาตแจ้งข่าวเพื่อประหยัดเวลาการเดินทางของพวกเจ้าหน่อยนะ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Traveling there requires that you go through the Ty'iinbek Traverse, but it has caved in. Due to the recent storm, I expect.",
+      "text": "การเดินทางลงไปข้างล่างจำเป็นต้องข้ามผ่านช่องเขาไทอินเบก (Ty'iinbek Traverse) แต่ทว่าตอนนี้มันเกิดเหตุดินถล่มปิดกั้นทางผ่านไปเรียบร้อยแล้วล่ะจ้ะ น่าจะเป็นเพราะพายุพัดถล่มรุนแรงเมื่อไม่นานมานี้แหละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? But that means we can't get our najool leaves!",
+      "text": "เอ๊ะ!? แต่ถ้าเป็นแบบนั้นมันก็แปลว่าพวกเราไม่มีทางได้ใบนาจูลมาใช้งานเลยสิคะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...But we can , can't we? If there were no other way of procuring them, you would have suspended this feat, or else altered its objective.",
+      "text": "...แต่มันย่อมต้องมีวิธีอื่นอยู่ใช่ไหมครับ? เพราะหากพวกเราจนปัญญาหาวัตถุดิบได้จริงๆ ท่านก็คงจะสั่งระงับการประลองบททดสอบนี้ หรือไม่ก็เปลี่ยนเป้าหมายข้อกำหนดไปแล้วล่ะครับ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Perhaps...",
+      "text": "อาจจะใช่..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Anyway, I apologize for the interruption, but having overheard your conversation, I felt compelled to chime in.",
+      "text": "อย่างไรก็ตาม ข้าขออภัยด้วยที่แวะเข้ามาขัดจังหวะการเจรจานะจ๊ะ แต่พอดีข้าได้ยินบทสนทนาแว่วๆ ก็เลยรู้สึกว่าควรต้องส่งเสียงแจ้งข่าวเตือนน่ะจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's very kind of you. Any last-minute advice you'd be willing to share?",
+      "text": "นั่นเป็นความกว้างขวางของท่านมากค่ะ พอจะมีคำแนะนำเคล็ดลับสุดท้ายที่จะแบ่งปันบอกกล่าวเพิ่มเติมอีกไหมคะ?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Only to undertake the Feat of Repast with an empty stomach. You may find xibruq pibil to be a delicious but daunting dish to finish.",
+      "text": "ข้อเดียวคือขอแนะนำให้พวกเจ้าเข้าร่วมการประลองบททดสอบแห่งการกินเจรจาด้วยท้องที่ว่างเปล่าเท่านั้นแหละนะจ๊ะ เจ้าอาจจะพบว่าซิบรุก ปิบิล เป็นเมนูอาหารที่อร่อยล้ำเลิศแต่ก็ปริมาณมหาศาลจนกลืนลงคอได้ยากหากท้องของเจ้าอิ่มอยู่น่ะจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh! I can't wait!",
+      "text": "เฮะ! ข้าล่ะตั้งตารออยากชิมแทบไม่ไหวแล้วล่ะค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still...if there are no leaves here, and we can't travel for more, how are we supposed to gather all our ingredients?",
+      "text": "แต่ก็นั่นแหละ... ถ้าที่นี่ไม่มีใบไม้เหลืออยู่เลย และทางเชื่อมลงไปหาใบไม้ก็ดันมาพังถล่มปิดกั้นอีก แล้วพวกเราจะหาสะสมวัตถุดิบทั้งหมดมาทำอาหารส่งมอบตามกฎได้ยังไงกันล่ะคะ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "These feats are meant to deepen our understanding of the peoples and cultures of Tuliyollal.",
+      "text": "จุดประสงค์ของบททดสอบเหล่านี้ออกแบบมาเพื่อช่วยให้พวกเราเข้าถึงหัวใจและความเข้าใจในผู้คนและวัฒนธรรมของทูลิโยลลัลครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So perhaps there is something about xibruq pibil that we have yet to learn. Something of significance other than its recipe or ingredients.",
+      "text": "ดังนั้น บางทีมันอาจจะมีแง่มุมของซิบรุก ปิบิล ที่พวกเรายังไม่ได้ศึกษาเรียนรู้ก็นะครับ แง่มุมที่มีนัยสำคัญสำคัญมากกว่าสูตรอาหารหรือวัตถุดิบของมันน่ะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, I see... Like who was the first to make it─its history, that sort of thing!",
+      "text": "อ้อ ข้าเข้าใจแล้ว... อย่างเช่นใครคือคนแรกที่คิดค้นปรุงอาหารจานเด็ดนี้ขึ้นมา—ประวัติศาสตร์การต่อสู้ของมัน อะไรทำนองนั้นสินะคะ!"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Ahem! If it's Yak T'el's history you're interested in, you should start with the old war.",
+      "text": "อะแฮ่ม! หากพวกเจ้าสนใจศึกษาค้นหาประวัติศาสตร์ของยัคเทลละก็ เจ้าควรเริ่มต้นสืบเสาะจากเรื่องศึกสงครามในอดีตนะจ๊ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Between the Xbr'aal and the Mamool Ja, right?",
+      "text": "สงครามขัดแย้งแย่งชิงระหว่างชาวชิบราลและเผ่ามามูอูล จา ใช่ไหมคะ?"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "These forests have borne witness to centuries of warfare, the evidence of which remains a scar upon the earth.",
+      "text": "ผืนป่าแห่งนี้เคยเป็นประจักษ์พยานยืนหยัดต่อสู้ศึกสงครามมายาวนานหลายร้อยปี ร่องรอยบาดแผลที่หลงเหลือไว้บนผืนดินยังคงเด่นชัดจวบจนทุกวันนี้จ้ะ"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "To know the end of that bloodshed is to know xibruq pibil.",
+      "text": "การจะรู้จักเรียนรู้จุดสิ้นสุดของความขัดแย้งนองเลือดครั้งนั้น ก็คือหนทางเข้าถึงซิบรุก ปิบิล นั่นเองแหละจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh? What does steamed ibruq have to do with bloodshed?",
+      "text": "เอ๋? แล้วเมนูเนื้ออิบรุกอบใต้ดินแสนอร่อยมันไปเกี่ยวโยงกับการนองเลือดศึกสงครามได้ยังไงกันคะ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Precisely the question we must answer. Vexing though such a detour may seem, I can think of no other way to approach this feat.",
+      "text": "นั่นแหละคือประเด็นปัญหาที่พวกเราต้องเสาะหาคำตอบครับ แม้ว่าการต้องมาแวะสืบหาข้อมูลประวัติศาสตร์จะดูเสียเวลาทำแต้มไปบ้าง แต่ผมก็นึกวิธีอื่นในการพิชิตศึกบททดสอบนี้ไม่ออกเหมือนกันครับ"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "In that case, you may wish to visit the site of a settlement ruined by the war. The village of Ilyon Asoh─it lies a short distance to the east.",
+      "text": "ถ้าเป็นแบบนั้น เจ้าอาจต้องการแวะไปเยี่ยมเยือนอดีตชุมชนที่พังพินาศย่อยยับเพราะศึกสงครามดูนะจ๊ะ หมู่บ้านอิลยอน อาโซห์ (Ilyon Asoh) น่ะ ตั้งอยู่ถัดไปทางทิศตะวันออกไม่ไกลเท่าไหร่นะจ๊ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The village of Ilyon Asoh? Understood! Thank you for your help.",
+      "text": "หมู่บ้านอิลยอน อาโซห์งั้นเหรอคะ? รับทราบแล้วค่ะ! ขอบคุณสำหรับความช่วยเหลือชี้นำนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come, let's go and see this place!",
+      "text": "มาเถอะ พวกเรารีบไปดูสถานที่นั้นกันดีกว่า!"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "I was told not to talk about xibruq pibil. The history of our people and the─<cough>─ important developments therein are another matter.",
+      "text": "ข้าโดนสั่งห้ามไม่ให้พูดคุยเจรจาเรื่องซิบรุก ปิบิล ก็จริงจ้ะ แต่เรื่องเล่าประวัติศาสตร์ของประชาชนและเรื่องความก้าวหน้า—<ไอ>—สำคัญในการพัฒนานั้นเป็นข้อยกเว้นจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone knows there was a war between the Mamool Ja and Xbr'aal. But I, uh...may have forgotten some of the details.",
+      "text": "ทุกคนต่างก็รู้ดีว่าเคยมีศึกสงครามระหว่างเผ่ามามูอูล จา และชาวชิบราล แต่ข้า... อาจจะเผลอลืมรายละเอียดปลีกย่อยบางเรื่องไปบ้างแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The village of Ilyon Asoh must be further east.",
+      "text": "หมู่บ้านอิลยอน อาโซห์ต้องอยู่ถัดไปทางทิศตะวันออกข้างหน้าแน่นอนครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us continue with haste. For all we know, our competitors may be on our heels.",
+      "text": "พวกเรารีบเร่งความเร็วเดินทางกันเถอะครับ เผื่อกรณีคู่แข่งกำลังไล่ล่าตามหลังพวกเรามาติดๆ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "This place feels forgotten by time...",
+      "text": "สถานที่แห่งนี้ให้ความรู้สึกเหมือนโดนกาลเวลากลืนหายทิ้งร้างไปเลยนะครับ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is the village of Ilyon Asoh...or what's left of it.",
+      "text": "นี่น่ะเหรอหมู่บ้านอิลยอน อาโซห์... หรือสิ่งที่หลงเหลืออยู่จากสงครามน่ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It was a place of light and life. My great-grandfather called it home, in fact.",
+      "text": "อดีตเคยเป็นสถานที่ที่เปี่ยมด้วยแสงสีและความรุ่งเรืองเฟื่องฟูจ้ะ ท่านทวดของข้าเคยพักอาศัยและเรียกที่นี่ว่าบ้านเกิดของเขาเหมือนกันนะจ๊ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wuk Evu! I didn't know you were in Yak T'el!",
+      "text": "คุณวุค อีวู (Wuk Evu)! ข้าไม่เคยรู้เลยนะคะว่าคุณก็เดินทางมายัคเทลด้วยเหมือนกันน่ะ!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I was picking up lumber from Iq Br'aax when I heard the Third Promise was on her way to this site of deep historical significance.",
+      "text": "ข้ากำลังแวะมารับไม้กระดานจากอิคบราอัคส์อยู่พอดีจ้ะ แล้วได้ยินข่าวลือมาว่าท่านสัญญาที่สามกำลังเดินทางมุ่งหน้ามายังพื้นที่ที่มีความสำคัญทางประวัติศาสตร์อันลึกซึ้งแห่งนี้"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I immediately saw another opportunity to be of service, and so followed you here.",
+      "text": "ข้าเล็งเห็นโอกาสอันดีทันทีที่จะได้ยื่นมือช่วยเหลือแบ่งเบาภาระ ก็เลยเดินตามรอยเท้าสะกดรอยตามพวกท่านมาที่นี่แหละจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wuk Evu is a shipwright who came to our aid during the Feat of Reeds.",
+      "text": "คุณวุค อีวู เป็นช่างต่อเรือที่เคยยื่นมือเข้าช่วยเหลือพวกเราในตอนที่ทำบททดสอบแห่งต้นกก (Feat of Reeds) น่ะค่ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "A pleasure. You are a member of the Third Promise's retinue, I presume?",
+      "text": "ยินดีที่ได้รู้จักครับ คุณคงเป็นหนึ่งในคณะผู้ติดตามอารักขาของท่านสัญญาที่สามสินะครับ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "For the moment, I suppose I am. My name is Koana. Pleased to make your acquaintance.",
+      "text": "สำหรับช่วงเวลานี้ก็น่าจะเป็นแบบนั้นครับ ผมมีนามว่าโคอานา ยินดีที่ได้ทำความรู้จักเจรจาร่วมกันครับ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Koana! Now that's a good name. A familiar name! Where have I heard...",
+      "text": "โคอานา! โอ้ ช่างเป็นนามที่ไพเราะและฟังดูคุ้นหูคุ้นตาชอบกลยิ่งนัก ข้าเคยได้ยินชื่อนี้จากที่ไหนกันนะ..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Koana!? As in the Second Promise of Tuliyollal!?",
+      "text": "โคอานา!? ที่หมายถึงท่านสัญญาที่สองแห่งราชวงศ์ทูลิโยลลัลงั้นรึ!?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "To think that I addressed the Dawnservant's own son as some common retainer! Such disrespect cannot be excused. Please, take up your gun and─",
+      "text": "นี่ข้าเผลอเจรจาเรียกโอรสแท้ๆ ของท่านดอว์นเซิร์ฟวันต์เสมือนเป็นเพียงผู้ติดตามอารักขาทั่วไปงั้นรึ!? ความไร้มารยาทลบหลู่เช่นนี้ไม่สามารถยอมรับให้อภัยได้จริงๆ ได้โปรดหยิบปืนของท่านขึ้นมาแล้ว—"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, come on, not this again!",
+      "text": "โอ๊ย โธ่เอ๊ย เอาอีกแล้วนะคุณ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I take no offense, so please do not dwell on it.",
+      "text": "ผมไม่ได้ถือโทษโกรธเคืองอะไรหรอกครับ โปรดอย่าเก็บไปใส่ใจกังวลรบกวนใจเลยครับ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "All right, then. I shan't dwell on it.",
+      "text": "ถ้าเป็นเช่นนั้น ข้าก็จะไม่เก็บมาใส่ใจกังวลรบกวนใจจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A-And right on cue... At least he's consistent?",
+      "text": "แ-ละก็นั่นแหละ... อย่างน้อยเขาก็มีความเสมอต้นเสมอปลายดีล่ะนะ?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I understand you wish to learn about xibruq pibil. While I am forbidden by the Xbr'aax Rax to divulge any information regarding its preparation, I would be happy to share what I know of Yak T'el's history.",
+      "text": "ข้าพอจะเข้าใจว่าพวกท่านประสงค์จะเรียนรู้เคล็ดลับสูตรอาหารของซิบรุก ปิบิล แม้ว่าข้าจะโดนชิบร้ากส์ รักซ์ สั่งห้ามไม่ให้ชี้แนะข้อมูลการตระเตรียมใดๆ ก็ตาม แต่ข้าก็ยินดีอย่างยิ่งที่จะช่วยเล่าบันทึกประวัติศาสตร์ของยัคเทลให้ฟังแทนจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd appreciate that!",
+      "text": "พวกเรายินดีรับฟังอย่างยิ่งเลยค่ะ!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "In its most basic sense, the conflict between the Xbr'aal and Mamool Ja was one of land.",
+      "text": "หากจะอธิบายด้วยความเข้าใจที่ง่ายที่สุด ปมขัดแย้งปะทะระหว่างชาวชิบราลและเผ่ามามูอูล จา ก็คือเรื่องการแย่งชิงสิทธิ์ครอบครองผืนดินนั่นแหละจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The Mamool Ja live in the lower forest, where the thick canopy obscures the sun and the soil is unforgiving to crops. This drove them to covet the upper forest─the home of the Xbr'aal─and they launched a determined campaign to seize it for themselves.",
+      "text": "เผ่ามามูอูล จา พักอาศัยอยู่ในป่าเบื้องล่าง ซึ่งมีใบไม้หนาแน่นบดบังแสงตะวันจนเกือบมืดสนิท และผืนดินก็เปราะบางเพาะปลูกพืชผลอะไรไม่ขึ้นเลย นั่นจึงเป็นแรงผลักดันผลักดันให้พวกเขาต้องการแย่งชิงสิทธิ์ในป่าด้านบน—ซึ่งเป็นบ้านเกิดของชาวชิบราล—และเริ่มต้นศึกบุกเบิกโจมตีหมายจะยึดครองแผ่นดินมาเป็นของตนให้ได้"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Yet advantage ever favors higher ground, and the Xbr'aal forces held the upper hand against the invaders, rebuffing them time and again.",
+      "text": "ทว่าชัยชนะย่อมเข้าข้างผู้ที่ครอบครองพื้นที่สูงกว่าเสมอ กองกำลังชาวชิบราลจึงกุมความได้เปรียบเหนือกองทัพผู้บุกรุก และสามารถขับไล่ต่อต้านพวกเขาให้ล่าถอยกลับไปได้ครั้งแล้วครั้งเล่าจ้ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "But as the state of this village would attest, the tide eventually turned. What brought it about?",
+      "text": "แต่ดูจากสภาพความเสียหายพังยับเยินของหมู่บ้านนี้ ย่อมเป็นสิ่งพิสูจน์ว่าช่วงเวลาแห่งชัยชนะได้สิ้นสุดลงและสถานการณ์พลิกผันไปแล้ว เกิดเรื่องอะไรขึ้นงั้นเหรอครับ?"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Something you know all too well: blessed siblings.",
+      "text": "เกิดจากสิ่งที่พวกท่านคุ้นเคยเป็นอย่างดีนั่นแหละจ้ะ: แฝดผู้รับพร (blessed siblings)"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "You must understand. The Mamool Ja were once a people as much at war with themselves as they were with others.",
+      "text": "เจ้าต้องเข้าใจก่อนนะจ๊ะว่า ในอดีตเผ่ามามูอูล จา ก็สู้รบแย่งชิงอำนาจกันเองไม่ต่างกับศึกที่พวกเขาสู้กับคนอื่นเลยล่ะจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The Hoobigo, Boonewa, and Doppro each sought to assert dominance over the others, even as they engaged the Xbr'aal in battle.",
+      "text": "ตระกูลฮูบิโก (Hoobigo) ตระกูลบูนีวา (Boonewa) และตระกูลด็อปโปร (Doppro) ต่างก็พยายามชิงดีชิงเด่นเหนือกัน ในระหว่างที่สู้รบกับชาวชิบราลไปพร้อมๆ กันด้วย"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "In an effort to strengthen bonds and discourage infighting, Hoobigo and Boonewa leaders arranged a marriage between their children. However, this political measure altered the course of history in ways no one could have ever imagined.",
+      "text": "เพื่อสร้างพันธมิตรความร่วมมือและยุติศึกสายเลือดในหมู่ชนเผ่า ผู้นำตระกูลฮูบิโกและตระกูลบูนีวาจึงจัดงานหมั้นหมายแต่งงานระหว่างบุตรหลานขึ้น ทว่ามาตรการทางการเมืองครั้งนั้นกลับสั่นคลอนประวัติศาสตร์ในทิศทางที่ไม่มีใครคาดคิดฝันมาก่อนเลยจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It was long believed that partners of differing clans could not have children together.",
+      "text": "แต่โบราณกาลมา เชื่อกันว่าคู่รักต่างตระกูลไม่สามารถให้กำเนิดสืบทายาทร่วมกันได้"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "But then it happened. A child arrived who shared the blood of Hoobigo and Boonewa both─a two-headed Mamool Ja.",
+      "text": "แต่แล้วปาฏิหาริย์ก็เกิดขึ้น ทารกน้อยที่มีสายเลือดผสมผสานระหว่างฮูบิโกและบูนีวาได้ถือกำเนิดขึ้นมา—เป็นมามูอูล จา สองหัวนั่นเองจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Blessed with tremendous physical strength and magical prowess, he grew into a mighty warrior before eventually arising as the first Autarch─ruler of all three clans.",
+      "text": "ด้วยความโชคดีที่มีพละกำลังรบอันล้นเหลือและมีพลังเวทมนตร์อันยอดเยี่ยม เขาจึงเติบโตขึ้นเป็นนักรบที่เก่งกาจทรงพลัง ก่อนจะผงาดขึ้นเป็นออทาร์ก (Autarch) คนแรก—ผู้ปกครองสูงสุดของทั้งสามตระกูลนั่นเองจ้ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Such qualities would dispose anyone to leadership. Character notwithstanding.",
+      "text": "คุณสมบัติยอดเยี่ยมเช่นนั้นย่อมส่งเสริมหนุนนำให้ใครก็ตามก้าวขึ้นเป็นผู้นำได้อยู่แล้วครับ หากไม่นับเรื่องนิสัยใจคอน่ะนะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Under the Autarch's rule, the newly united Mamool Ja became a force to be feared, and the war soon came to a head.",
+      "text": "ภายใต้การปกครองของออทาร์ก เผ่ามามูอูล จา ที่รวมกันเป็นหนึ่งเดียวก็กลายเป็นกองกำลังที่น่าสะพรึงกลัวอย่างยิ่งยวด และในไม่ช้าศึกสงครามก็ลุกลามมาถึงจุดวิกฤติสูงสุด"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I think it best you see the results firsthand. Let us visit another battlefield from that time, and there I shall continue the tale.",
+      "text": "ข้าคิดว่าเป็นการดีที่สุดหากพวกท่านจะได้ไปเห็นร่องรอยผลลัพธ์ของสงครามด้วยตัวเองจ้ะ มุ่งหน้าไปยังอดีตสมรภูมิรบอีกแห่งในยุคนั้นกันเถอะ แล้วข้าจะเล่าเรื่องราวทั้งหมดต่อให้ฟังเองจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What happened here...?",
+      "text": "เกิดอะไรขึ้นที่นี่กันแน่เนี่ย...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "By the Twelve...",
+      "text": "คุณพระช่วย..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "This is where most battles were fought between the Xbr'aal and Mamool Ja─the Xobr'it Cinderfield.",
+      "text": "นี่คือสถานที่ที่การสู้รบปะทะระหว่างชาวชิบราลและมามูอูล จา ดำเนินไปอย่างรุนแรงโหดร้ายที่สุด—ทุ่งเถ้าถ่านโซบริต (Xobr'it Cinderfield) จ้ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A field of cinders, indeed... How fierce their clashes must have been.",
+      "text": "ทุ่งเถ้าถ่านสมชื่อจริงๆ... การปะทะสู้รบแย่งชิงของพวกเขาในอดีตต้องเกรี้ยวกราดรุนแรงขนาดไหนกันนะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The war over these lands began after the Yok Huy's departure some five hundred years ago.",
+      "text": "ศึกขัดแย้งแย่งชิงผืนป่าแห่งนี้เริ่มต้นขึ้นหลังการถอยทัพจากไปของชาวยอคฮุยเมื่อราวๆ ห้าร้อยปีก่อนจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "And for four centuries thereafter, the two enemies repaid violence with violence. A constant stream of minor skirmishes punctuated by massive slaughter.",
+      "text": "และตลอดสี่ศตวรรษหลังจากนั้น คู่แค้นทั้งสองฝ่ายต่างก็ชดใช้ความแค้นด้วยความรุนแรงนองเลือดไม่รู้จบ การปะทะย่อยๆ ดำเนินไปอย่างสม่ำเสมอสลับกับการเข่นฆ่าสังหารหมู่ในสเกลใหญ่โต"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Until Father ended their endless conflict eighty years ago.",
+      "text": "จนกระทั่งเมื่อแปดสิบปีก่อน เมื่อท่านพ่อเข้ามามีบทบาทช่วยยุติศึกสงครามอันยาวนานนี้ลงสำเร็จ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Accompanied by a retinue of only six, the Dawnservant opposed both armies and brought the fighting to a standstill.",
+      "text": "ด้วยคณะผู้ติดตามอารักขาเพียงหกคน ท่านดอว์นเซิร์ฟวันต์สามารถขัดขวางต้านทานกองทัพของทั้งสองฝ่ายและนำพาศึกขัดแย้งมาสู่จุดสงบนิ่งสะกดลงได้จ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "First they seal Valigarmanda at full strength, and now this...",
+      "text": "สะกดกักขังวาลิการ์มันดาตอนพลังรบเต็มร้อยได้ และตอนนี้ยังมาทำเรื่องน่าทึ่งขนาดนี้อีก..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It was during this armistice that both sides gathered for negotiations at the Dawnservant's behest.",
+      "text": "และในช่วงเวลาสงบศึกชั่วคราวนี้นี่เอง ที่ทั้งสองฝ่ายยอมมารวมตัวเจรจาข้อตกลงร่วมกันตามความประสงค์ของท่านดอว์นเซิร์ฟวันต์จ้ะ"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "For too long you have been bound by your ancestors' violent legacy. It is past time you broke free of it!",
+      "text": "พวกเจ้าทนทุกข์และจมปรักอยู่กับมรดกความรุนแรงนองเลือดของบรรพบุรุษมาเนิ่นนานเกินไปแล้ว ได้เวลาที่จะต้องปลดแอกข้ามผ่านก้าวพ้นมันไปเสียที!"
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "Tell that to the scale-scum! We fight to protect what is rightfully ours. If not for their greed, we'd be living in peace!",
+      "text": "ไปพูดบอกพวกเดรัจฉานเกล็ดนั่นเถอะ! พวกเราสู้ศึกเพื่อปกป้องสิ่งที่เป็นสิทธิ์อันชอบธรรมของพวกเราต่างหาก หากไม่มีความโลภอยากได้ของพวกมัน ป่านนี้พวกเราก็คงอยู่อย่างสงบสุขไปนานแล้ว!"
+    },
+    {
+      "character": "Forceful Warrior",
+      "text_en": "Puff your tails and scurry off, then! Cowards like you ill deserve the bounty of this forest.",
+      "text": "งั้นก็ขนหางของพวกแกแล้ววิ่งโกยสี่ขาหนีไปซะสิ! ไอ้พวกขี้ขลาดตาขาวอย่างพวกแกไม่คู่ควรจะได้รับผลประโยชน์จากผืนป่าแห่งนี้หรอก"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Even should one of you succeed in vanquishing the other, your triumph will last only until a new invader arrives.",
+      "text": "ต่อให้พวกเจ้าคนใดคนหนึ่งประสบความสำเร็จในการกำจัดทำลายอีกฝ่ายลงได้ ชัยชนะเกียรติยศนั้นก็ย่อมจะคงอยู่เพียงชั่วครู่จนกว่าผู้บุกรุกรายใหม่จะเดินทางมาถึงเท่านั้นแหละ"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Tell me─do you know of the vast continent that lies far to the east, where numerous nations vie for dominance?",
+      "text": "บอกข้าทีซิ—พวกเจ้ารู้จักดินแดนอันกว้างใหญ่ไพศาลทางทิศตะวันออก ที่ซึ่งมีหลากหลายประเทศสู้รบแย่งชิงความยิ่งใหญ่กันอยู่บ้างไหม?"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "You do not─and why should you? Affairs beyond the salt we have no intention to cross are of no consequence to us.",
+      "text": "พวกเจ้าไม่รู้หรอก—และทำไมต้องรู้ด้วยล่ะ? ในเมื่อพวกเราไม่มีเจตจำนงจะเดินทางข้ามน้ำข้ามทะเลเพื่อไปข้องเกี่ยวด้วยอยู่แล้ว"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Not until those affairs come to Tural─like our honored visitor here.",
+      "text": "แต่ก็นั่นแหละ จนกว่าภัยร้ายเหล่านั้นจะเดินทางข้ามมหาสมุทรมาเยือนทูรัลด้วยตัวเอง—เหมือนอย่างแขกผู้มีเกียรติของพวกเราที่อยู่ตรงนี้ยังไงล่ะ"
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "He's from across the ocean?",
+      "text": "เขาเดินทางข้ามมหาสมุทรมางั้นรึ?"
+    },
+    {
+      "character": "Forceful Warrior",
+      "text_en": "I've been to the ocean before, and it's nothing but water farther than the eye can see! What sort of vessel could possibly reach its end?",
+      "text": "ข้าเคยเดินทางไปที่ทะเลมาแล้วนะ และมันก็มีแต่น้ำกว้างไกลสุดลูกหูลูกตาเลยนี่นา! เรือประเภทไหนกันถึงจะมีความสามารถแล่นไปจนสุดขอบน้ำได้น่ะ?"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "That such technology exists is indisputable─as is foreign powers' awareness of Tural.",
+      "text": "การมีอยู่ของเทคโนโลยีที่ล้ำสมัยขนาดนั้นเป็นสิ่งที่เราปฏิเสธไม่ได้ครับ—เช่นเดียวกับความจริงที่ว่าประเทศเหล่านั้นเริ่มรับรู้การมีอยู่ของทูรัลแล้วด้วย"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "If any such country were to develop a taste for Turali soil, and bring to bear the might of innovations we can only imagine─what do you suppose happens then?",
+      "text": "หากมีประเทศใดเริ่มเกิดความโลภอยากได้ผืนดินของทูรัลขึ้นมา และนำพาเทคโนโลยีระดับนวัตกรรมล้ำจินตนาการมาใช้บุกเบิกโจมตี—พวกเจ้าคิดว่าจะเกิดอะไรขึ้นล่ะ?"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "You do not know the warlords of the east. But you know that if they came, they would not settle for a single forest.",
+      "text": "พวกเจ้าไม่รู้จักนักรบจอมพิชิตทางตะวันออกหรอกนะ แต่พวกเจ้าย่อมรู้ดีว่าถ้าพวกมันเดินทางมาจริง พวกมันคงไม่หยุดลงแค่ผืนป่าแห่งเดียวแน่นอน"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "By joining hands, we might create a unified front─an alliance capable of repelling them or any other foe.",
+      "text": "การจับมือประสานรอยร้าวร่วมกันสร้างแนวรับพันธมิตรที่แข็งแกร่ง—ย่อมเป็นสิ่งสำคัญที่จะช่วยปกป้องแผ่นดินป้องกันพวกมันหรือภัยร้ายใดๆ ได้ครับ"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "There is no greater proof of this than my companions and I. Alone we are weak, but together we triumphed over Valigarmanda.",
+      "text": "ไม่มีหลักฐานชิ้นใดจะพิสูจน์เรื่องนี้ได้ดีไปกว่าคณะผู้เดินทางของข้าอีกแล้ว ลำพังตัวข้าคนเดียวช่างอ่อนแอยิ่งนัก แต่เมื่อพวกเราจับมือร่วมศึกร่วมแรงกัน พวกเราก็สามารถเอาชนะศึกวาลิการ์มันดาลงได้"
+    },
+    {
+      "character": "Forceful Warrior",
+      "text_en": "What!? You defeated the Skyruin!?",
+      "text": "อะไรนะ!? พวกท่านโค่นศึกสกายรูอินลงได้งั้นเรอะ!?"
+    },
+    {
+      "character": "Forceful Warrior",
+      "text_en": "I'd take you for a liar if the sting of our own defeat wasn't still fresh.",
+      "text": "ข้าคงหาว่าแกพูดยกเมฆโกหกไปแล้วล่ะ หากว่าความพ่ายแพ้อันยับเยินของพวกข้าเองไม่ได้เพิ่งผ่านมาหมาดๆ น่ะนะ"
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "Their coordination was indeed impressive. How the Pelupelu stymied our efforts to cripple the Yok Huy's legs and defend our ballistas...",
+      "text": "การประสานงานประสานใจรบของพวกเขาน่าทึ่งมากจริงๆ การที่ชาวเปลูเปลูพยายามขัดขวางไม่ให้พวกเราพุ่งเป้าโจมตีข้อพับขาของคนยักษ์และช่วยทำลายเครื่องยิงหินของเรา..."
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "And when we withdrew to strike again from a distance, the Hanuhanu called the winds to make our arrows miss their marks. In seeking to exploit their weaknesses, we only subjected ourselves to their strengths.",
+      "text": "และเมื่อพวกเราถอยร่นเพื่อหมายจะสู้ระดมยิงโจมตีระยะไกล ชาวฮานูฮานูก็เรียกสายลมพัดกระโชกมาปัดเป่าให้ลูกธนูของเราเบี่ยงเบนพลาดเป้าไปหมด ในระหว่างที่เราพยายามจะเจาะจุดอ่อนของพวกเขา เรากลับโดนจุดเด่นความแข็งแกร่งของพวกเขาเข้าสยบทำลายลงแทนแฮะ"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Those strengths are born of cooperation─the guiding principle of the nation we envision.",
+      "text": "จุดเด่นความแข็งแกร่งเหล่านั้นถือกำเนิดมาจากความร่วมมือสอดประสานกันครับ—ซึ่งนั่นคือเสาหลักชี้แนะสำหรับทิศทางของอาณาจักรที่พวกเราวาดฝันจะสร้างขึ้นมาครับ"
+    },
+    {
+      "character": "Fierce Hunter",
+      "text_en": "But our feud has lasted for centuries. How do you expect us to join hands now?",
+      "text": "แต่หนี้แค้นของพวกเราดำเนินมายาวนานหลายร้อยปี แกคาดหวังให้พวกเรายอมหันมาจับมือประสานมิตรกันอย่างง่ายดายในตอนนี้ได้ยังไงกัน?"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Give us an evening to convince you.",
+      "text": "งั้นก็ขอเวลาให้พวกเราสักหนึ่งคืนเพื่อโน้มน้าวใจพวกเจ้าเถอะนะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "And so began that legendary banquet.",
+      "text": "และนั่นคือจุดเริ่มต้นของงานเลี้ยงสังสรรค์ในตำนานจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "One would not expect sworn enemies to abruptly drink to each other's health. And indeed, a tense silence hung over the venue.",
+      "text": "แทบไม่มีใครคาดคิดฝันว่าอริแค้นที่หมายหัวชีวิตกันมาตลอดจะยอมชนแก้วอวยพรดื่มน้ำเพื่อสุขภาพของอีกฝ่าย และความเงียบงันอึดอัดก็แผ่ปกคลุมไปทั่วสถานที่จัดงานในตอนแรก"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "But then the Dawnservant called for the exchange of traditional cuisine. So it was that the Mamool Ja partook of spiced meat, and the Xbr'aal steamed najool.",
+      "text": "ทว่าท่านดอว์นเซิร์ฟวันต์ได้สั่งให้มีการแลกเปลี่ยนลิ้มลองอาหารดั้งเดิมของแต่ละชนเผ่าขึ้นมาจ้ะ ฝ่ายมามูอูล จา ได้ลิ้มลองเนื้อสัตว์คลุกเครื่องเทศ ส่วนชาวชิบราลได้ลิ้มลองกล้วยนาจูลอบไอน้ำร้อนระอุ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Before long, delight manifested upon the faces of those present, each side impressed by the other's dish. Seeing this, the Dawnservant laughed and declared once more.",
+      "text": "หลังจากนั้นไม่นาน ใบหน้าเปี่ยมสุขของทุกคนก็เริ่มปรากฏให้เห็น ต่างฝ่ายต่างก็พึงพอใจและทึ่งในรสชาติอาหารอันโอชะของอีกฝ่าย เมื่อท่านดอว์นเซิร์ฟวันต์เห็นเช่นนั้นก็หัวเราะลั่นอย่างยินดีและประกาศความจริงข้อต่อไปทันทีจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Their flavors, he said, would be even better combined. And he proceeded to help them prepare the new creation.",
+      "text": "รสชาติอาหารของพวกเจ้า เขากล่าวว่า มันจะอร่อยเลิศล้ำยิ่งขึ้นไปอีกหากนำมารวมผสมผสานกัน และเขาก็เป็นคนลงมือช่วยตระเตรียมอาหารจานผสมผสานใหม่นี้ขึ้นมาด้วยตัวเองเลยจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's xibruq pibil, I'd wager!",
+      "text": "นั่นต้องเป็นจุดเริ่มต้นของซิบรุก ปิบิล แน่นอนเลยค่ะ!"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "It is a marriage of Xbr'aal and Mamool Ja cultures, and proof of their newfound cooperation.",
+      "text": "ใช่แล้วจ้ะ มันคือส่วนผสมประสานกลมเกลียวระหว่างวัฒนธรรมชิบราลและมามูอูล จา และเป็นสิ่งยืนยันความร่วมมือสันติภาพที่เริ่มผลิบานจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "The Dawnservant had asked for a single evening, but the feasting is said to have lasted three days and three nights, so delicious was their repast.",
+      "text": "ท่านดอว์นเซิร์ฟวันต์ขอเวลาเพียงแค่หนึ่งคืนเพื่อเจรจา แต่กล่าวกันว่างามเลี้ยงจัดขึ้นยาวนานถึงสามวันสามคืนเลยทีเดียว รสชาติอาหารช่วยโน้มน้าวใจประสานรอยร้าวได้เป็นอย่างดีจ้ะ"
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "In the end, a peace accord was reached, and the Dawnservant's words at that time still illuminate our way forward.",
+      "text": "ในท้ายที่สุด ข้อตกลงสันติภาพก็สัมฤทธิ์ผลสำเร็จ และถ้อยคำของท่านดอว์นเซิร์ฟวันต์ที่เอ่ยไว้ในยามนั้นยังคงส่องแสงนำทางให้แก่พวกเราจวบจนปัจจุบันจ้ะ"
+    },
+    {
+      "character": "Vow of Reason Gulool Ja Ja",
+      "text_en": "Ignorance begets strife.",
+      "text": "ความไม่รู้ นำมาซึ่งความขัดแย้งหนทางนองเลือด"
+    },
+    {
+      "character": "Vow of Resolve Gulool Ja Ja",
+      "text_en": "Understanding begets fellowship.",
+      "text": "ความเข้าใจ นำมาซึ่งมิตรภาพและภราดรภาพ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ahahahahahaha!",
+      "text": "อ้าฮะฮะฮะฮะฮะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, sorry...",
+      "text": "ขออภัยด้วยนะคะ ขออภัยด้วย..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's just...to think that he ended an age-old conflict with food... It's all so absurd, yet somehow so very Papa, I couldn't help but laugh.",
+      "text": "ก็แบบ... ไม่คิดไม่ฝันมาก่อนเลยว่าท่านพ่อจะสามารถยุติศึกสงครามแค้นร้อยปีลงได้ด้วยเรื่องของกินเนี่ย... มันดูตลกและเหลือเชื่อชวนหัวเราะมาก แต่มันก็สมเป็นวิถีทางของท่านพ่อจริงๆ ข้าเลยอดขำไม่ได้น่ะค่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "\"Ignorance begets strife. Understanding begets fellowship“...",
+      "text": "\"ความไม่รู้ นำมาซึ่งความขัดแย้ง. ความเข้าใจ นำมาซึ่งมิตรภาพ\"..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "Now then, I trust you understand the significance of xibruq pibil and the history it has written?",
+      "text": "เอาล่ะ ข้าเชื่อมั่นว่าพวกท่านคงเข้าใจในนัยสำคัญของซิบรุก ปิบิล และหน้าประวัติศาสตร์ประเพณีที่มันเขียนขึ้นมาแล้วสินะจ๊ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Absolutely! Thank you for sharing the story with us.",
+      "text": "เข้าใจอย่างลึกซึ้งเลยค่ะ! ขอบคุณมากนะคะคุณวุค อีวู ที่ช่วยเล่าเรื่องราวทั้งหมดให้พวกเราฟัง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's wrong?",
+      "text": "มีอะไรผิดปกติงั้นเหรอ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Someone was there, you say?",
+      "text": "นายบอกว่าเห็นใครบางคนแอบซุ่มซ่อนอยู่ตรงนั้นงั้นเหรอ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Perhaps our competition is cooking up some scheme or another.",
+      "text": "บางทีคู่แข่งของเราอาจจะกำลังวางแผนการสกปรกหรือตระเตรียมกลลวงอะไรบางอย่างอยู่ก็ได้นะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Something bitter and half-baked, no doubt...",
+      "text": "ชวนให้รู้สึกระแวงใจและดูไม่น่าไว้วางใจชอบกลจริงๆ แฮะ..."
+    },
+    {
+      "character": "Wuk Evu",
+      "text_en": "I hope I have been of sufficient service to the Third Promise.",
+      "text": "ข้าหวังว่าการมาส่งมอบข้อมูลครั้งนี้จะช่วยแบ่งเบาภาระและเป็นประโยชน์แก่ท่านสัญญาที่สามบ้างไม่มากก็น้อยนะจ๊ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I never imagined our father was instrumental to xibruq pibil's invention...",
+      "text": "ไม่เคยคิดมาก่อนเลยว่าท่านพ่อจะมีส่วนร่วมสำคัญในกระบวนการประดิษฐ์ปรุงเมนูซิบรุก ปิบิล ขึ้นมาแบบนี้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa really did live up to his words. He traveled the land and learned about our people's myriad cultures.",
+      "text": "ท่านพ่อใช้ชีวิตสอดคล้องกับคำพูดจริยธรรมของเขาเสมอจริงๆ ค่ะ เขาเดินทางเรียนรู้วัฒนธรรมประเพณีอันหลากหลายของประชาชนอย่างทั่วถึง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And we're doing the same now...",
+      "text": "และพวกเราก็กำลังก้าวไปตามรอยเท้าวิถีทางเดียวกันของเขาในตอนนี้ค่ะ..."
+    }
+  ]
+}

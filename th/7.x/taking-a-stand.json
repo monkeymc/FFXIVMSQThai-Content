@@ -1,0 +1,698 @@
+{
+  "id": "taking-a-stand",
+  "wiki_path": "/wiki/Taking_a_Stand",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/6/65/Taking_a_Stand.png",
+  "patch": "7.0",
+  "title_en": "Taking a Stand",
+  "title": "การหยัดยืน",
+  "level": "94",
+  "location": "Yak T'el(X:9.6,Y:13.4)",
+  "npc_start": "Hunmu Rruk",
+  "dialogues": [
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Recalling the past has rendered me...emotional.",
+      "text": "การนึกย้อนอดีตทำให้ข้า...รู้สึกอ่อนไหวขึ้นมานิดหน่อยน่ะ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I require a moment to compose myself. But please, do not keep the Third Promise waiting.",
+      "text": "ข้าขอเวลาสักครู่เพื่อสงบสติอารมณ์ แต่พวกเจ้าไม่ต้องปล่อยให้ท่านสัญญาที่สามยืนรอหรอกนะ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I feel better having spoken with you. My thanks.",
+      "text": "การได้ระบายพูดคุยกับเจ้าทำให้ข้ารู้สึกดีขึ้นมาก ขอบใจนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Finished speaking with Hunmu Rruk, have you?",
+      "text": "คุยเจรจากับฮุนมู รุก เสร็จแล้วเหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're back! So what did Hunmu Rruk want?",
+      "text": "กลับมาแล้วเหรอ! ฮุนมู รุก อยากคุยธุระอะไรกับนายน่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, it's all right, you don't have to say. More importantly, the Ty'iinbek Traverse still isn't clear yet. Something about even more rocks.",
+      "text": "เฮะ ไม่เป็นไรหรอก ไม่ต้องเล่าก็ได้ ที่สำคัญกว่านั้นคือช่องเขาไทอินเบกก็ยังเคลียร์เศษหินไม่เสร็จเลยล่ะค่ะ ได้ยินว่ามีหินถล่มลงมาเพิ่มอีกน่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then I think I'll take the opportunity to rest. All that cooking and preparing for it has worn me out...",
+      "text": "ถ้าอย่างนั้นฉันคิดว่าฉันจะขอตัวไปพักผ่อนสักหน่อยดีกว่าค่ะ การทำอาหารและตระเตรียมอะไรตั้งหลายอย่างเมื่อกี้ทำเอาฉันเหนื่อยล้าไปหมดเลยค่ะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A nap does sound tempting...",
+      "text": "แวะนอนกลางวันสักงีบก็น่าสนใจดีเหมือนกันนะ..."
+    },
+    {
+      "character": "???",
+      "text_en": "A moment, Promise.",
+      "text": "ขอเวลาสักครู่ ท่านสัญญา"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're one of Bakool Ja Ja's... What do you want?",
+      "text": "แกคือหนึ่งในพวกพ้องของบาคูล จา จา... มีธุระอะไรไม่ทราบ?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "I've come to fetch you. You're welcome to refuse, but know that it would be most unwise.",
+      "text": "ข้ามารับตัวเจ้าตามคำสั่ง จะปฏิเสธก็ได้นะ แต่ขอบอกไว้ก่อนว่านั่นเป็นทางเลือกที่ไม่ฉลาดเอาซะเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And why's that?",
+      "text": "แล้วมันทำไมล่ะ?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "I'm sure your salted friend has an idea. What do you think?",
+      "text": "ข้าเชื่อว่าเพื่อนที่เพิ่งล่าหาเกลือของเจ้าน่าจะพอเดาออกนะ เจ้าล่ะคิดว่ายังไง?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "And they say house cats don't come when called! Follow me, Promise.",
+      "text": "และพวกเขาก็เล่ากันว่าแมวบ้านเนี่ยไม่ค่อยยอมเดินมาตามเสียงเรียกซะด้วยสิ! ตามข้ามา ท่านสัญญา"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is the meaning of this? And just how far do you plan on taking us?",
+      "text": "หมายความว่ายังไงกัน? และแกวางแผนจะพาพวกเราไปไกลถึงไหนกันห้ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hunmu Rruk!?",
+      "text": "ฮุนมู รุก!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja, you snake! If you want my keystones so badly, you deal with me and me alone! Leave the elector out of this!",
+      "text": "บาคูล จา จา เจ้าคนทรยศ! ถ้าแกอยากได้ศิลาหลักของฉันนักล่ะก็ มาสู้กับฉันตัวต่อตัวสิ! อย่าเอาผู้คุมสอบมาข้องเกี่ยวด้วย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Ghahahahahaha!",
+      "text": "ฮ่าฮ่าฮ่าฮ่าฮ่า!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Is that all you think he is? Foolish kitty, this man is the reason we are here.",
+      "text": "คิดว่าเขาเป็นแค่ผู้คุมสอบงั้นรึ? เจ้าลูกแมวงี่เง่าเอ๊ย ชายคนนี้แหละคือเหตุผลที่ทำให้พวกเรามาอยู่ตรงนี้"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Take a good look at him. Go on, look . Surely you recognize your real father!",
+      "text": "มองเขาให้ดี ๆ สิ มองไปสิ! แกต้องจำพ่อแท้ ๆ ของแกได้แน่นอนอยู่แล้วจริงไหมล่ะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Don't believe us? Then ask your trusted sellsword─ she / he heard it straight from the old man's mouth!",
+      "text": "ไม่เชื่อพวกเรางั้นรึ? ลองไปถามทหารรับจ้างที่แกไว้ใจดูสิ—เขาได้ยินเรื่องนี้มาจากปากของตาแก่นั่นโดยตรงเลยล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it true? Is Hunmu Rruk my...",
+      "text": "เป็นความจริงเหรอ? ฮุนมู รุก คือ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Your silence says it all.",
+      "text": "...ความเงียบของนายคือคำตอบทุกอย่างแล้วสินะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Now that you understand the situation, let's see those keystones. I'll even let you fight for them─just you and me.",
+      "text": "ในเมื่อเข้าใจสถานการณ์แล้ว ก็ส่งศิลาหลักพวกนั้นมาซะ ข้าจะยอมให้แกสู้เพื่อแย่งชิงมันคืน—แค่แกกับข้าตัวต่อตัว"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "If that adventurer attempts to interfere...",
+      "text": "ถ้าเจ้านักผจญภัยคนนั้นแส่เข้ามาสอดมือล่ะก็..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll kill the old man myself!",
+      "text": "ข้าจะเป็นคนลงมือปลิดชีพตาแก่นี่ด้วยตัวเองเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You despicable, heartless fiend...",
+      "text": "แกมันชั่วช้า ไร้หัวใจสิ้นดี..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Kinsman or no, I won't stand for you taking hostages!",
+      "text": "จะเป็นสายเลือดเดียวกันหรือไม่ก็ตาม แต่ฉันจะไม่ยอมให้แกเอาตัวประกันมาข่มขู่เด็ดขาด!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, then! You want a fight? I'll give you a fight!",
+      "text": "งั้นก็เข้ามาเลย! อยากสู้ใช่ไหม? ฉันจะจัดให้สมใจอยากเลยล่ะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Oooh, such heroic caterwauling, Promise. I'm shaking.",
+      "text": "โอ้ ช่างเป็นเสียงร้องโวยวายของฮีโร่แมวบ้านที่น่ากลัวจังเลย ท่านสัญญา ข้าล่ะกลัวจนตัวสั่นไปหมดแล้วเนี่ย"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Guard our hostage well. We wouldn't want to tempt any thoughts of rescue.",
+      "text": "เฝ้าตัวประกันไว้ให้ดี ๆ ล่ะ อย่าปล่อยให้พวกมันคิดตลบหลังบุกช่วยตัวประกันได้เด็ดขาด"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "By the by, house cat. They've been instructed to put down Papa dearest when you lose. Hopefully he's settled his affairs.",
+      "text": "อีกอย่างนะลูกแมว ข้าสั่งให้พวกมันลงมือปลิดชีพคุณพ่อสุดที่รักของแกทันทีที่แกพ่ายแพ้ หวังว่าเขาจะสั่งเสียจัดการธุระส่วนตัวเรียบร้อยแล้วนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't worry. I'm not losing to the likes of him.",
+      "text": "ไม่ต้องห่วงหรอก ฉันไม่มีวันพ่ายแพ้ให้กับคนพรรค์แกแน่"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, what are you waiting for, you blessed bastards!? It's two against one! Don't tell me you're scared!",
+      "text": "แล้วมัวรอช้าอะไรกันอยู่ล่ะ เจ้าพวกสิบแปดมงกุฎสองหัวได้รับพรเอ๊ย!? รุมสองต่อหนึ่งเลยสิ! อย่าบอกนะว่าขลาดกลัวน่ะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I know I didn't hear you right...",
+      "text": "ข้าหวังว่าหูข้าคงจะไม่ได้ฝาดไปนะ..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "You dare call us cowards!?",
+      "text": "แกกล้าดีเจรจาหาว่าพวกเราขลาดกลัวงั้นรึ!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "You think this weakling could hurt me !?",
+      "text": "แกคิดว่าไอ้คนอ่อนแอพรรค์นี้จะทำอันตรายทำร้ายข้าได้จริง ๆ งั้นรึ!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Foreign scum! Who are you to mock me!?",
+      "text": "เจ้าสหายจากนอกด่าน! แกเป็นใครถึงได้กล้ามาลบหลู่ดูหมิ่นข้า!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll kill you─kill you─kill you all !",
+      "text": "ข้าจะฆ่าแก—จะฆ่าพวกแกให้ย่อยยับให้หมดเลย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Don't look away, salt! I want you to watch as I tear your beloved Promise to shreds!",
+      "text": "อย่าหันหลังหนีนะเจ้าคนนอกด่าน! ข้าอยากให้แกจ้องมองดูยามที่ข้าฉีกกระชากท่านสัญญาผู้น่ารักของแกให้เป็นชิ้น ๆ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, eyes on me. The house cat, remember?",
+      "text": "เฮ้ จ้องมองมาที่ฉันนี่สิ ลืมแล้วเหรอว่าคู่ต่อสู้ของแกคือแมวบ้านตัวนี้?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll say it again: I'm not losing to the likes of you!",
+      "text": "ฉันจะพูดอีกครั้ง: ฉันไม่มีวันพ่ายแพ้ให้กับคนพรรค์แกเด็ดขาด!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm going to become Dawnservant─and I will protect my people!",
+      "text": "ฉันจะเป็นดอว์นเซิร์ฟวันต์คนต่อไป—และฉันจะปกป้องประชาชนของฉันให้ได้!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Come, you mangy house cat, so I can rip you to pieces!",
+      "text": "เข้ามาเลย เจ้าแมวบ้านไร้ค่าน่ารำคาญ ข้าจะได้ขยี้แกให้แหลกคามือ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll cut you to shreds!",
+      "text": "ข้าจะสับแกให้เป็นชิ้น ๆ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "My magic should be more than enough for Miss Mittens!",
+      "text": "เวทมนตร์ของข้าก็น่าจะเกินพอที่จะจัดการกับยัยลูกแมวนี่แล้วล่ะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll make you eat dirt!",
+      "text": "ข้าจะทำให้แกต้องก้มกราบกินดิน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No more tricks, Bakool Ja Ja! We're settling this here and now!",
+      "text": "ไม่มีการเล่นตุกติกอีกแล้ว บาคูล จา จา! พวกเรามาตัดสินกันให้รู้ดำรู้แดงตรงนี้และตอนนี้เลย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Still playing the part of the brave warrior.",
+      "text": "ยังจะฝืนเล่นบทบาทเป็นนักรบผู้กล้าหาญอยู่อีกงั้นรึ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Miss Mittens...is no longer amusing me, Brother!",
+      "text": "ยัยลูกแมวนี่... เริ่มทำให้ข้าหมดสนุกแล้วนะ พี่ชาย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This rite has taught me so much...",
+      "text": "พิธีการสืบทอดราชบัลลังก์ครั้งนี้ช่วยสอนเรื่องราวต่าง ๆ ให้กับฉันมากมายเหลือเกิน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "About my nation, my people, and myself!",
+      "text": "ทั้งเรื่องอาณาจักร ประชาชน และความตั้งใจของตัวฉันเอง!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What, can't keep up?",
+      "text": "อะไรกัน ตามความเร็วไม่ทันแล้วงั้นรึ?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "How do you like this?",
+      "text": "เจอแบบนี้หน่อยเป็นไง!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Heeere kitty, kitty, kitty, kitty, kitty!",
+      "text": "เข้ามาสิลูกแมวตัวน้อย เหมียว ๆ ๆ ๆ ๆ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I finally understand what it means to live in peace.",
+      "text": "ในที่สุดฉันก็เข้าใจอย่างลึกซึ้งแล้วว่าการได้ใช้ชีวิตอยู่อย่างสงบสุขมันมีความหมายเพียงใด"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To greet each day in safety and happiness.",
+      "text": "การได้ตื่นเช้ามาอย่างปลอดภัยและมีความสุขในทุก ๆ วัน"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Irritating pest!",
+      "text": "เจ้าแมลงหวี่น่ารำคาญ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "It's time we finished her, Brother.",
+      "text": "ได้เวลาปิดบัญชีจัดการเธอแล้ว พี่ชาย"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "This is the end for you, kitten!",
+      "text": "นี่คือจุดจบของแกแล้ว เจ้าลูกแมวเอ๊ย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Know your place!",
+      "text": "สำนึกในความต่างชั้นของแกซะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's not enough to claim the title of Dawnservant.",
+      "text": "การเป็นดอว์นเซิร์ฟวันต์มันไม่ใช่แค่การครอบครองตำแหน่งหน้าที่และสิทธิ์อำนาจเท่านั้น"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I must carry on Papa's legacy─his love for our people!",
+      "text": "แต่ฉันต้องสืบทอดเจตนารมณ์ความรักอันยิ่งใหญ่ของท่านพ่อที่มีต่อประชาชนด้วย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I'll grind you beneath my heel!",
+      "text": "ข้าจะบดขยี้แกให้จมดินคาส้นเท้าเลย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What, can't keep up?",
+      "text": "อะไรกัน ตามความเร็วไม่ทันแล้วงั้นรึ?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Flea-ridden upstart! Why won't you die!?",
+      "text": "เจ้าแมวบ้านปากดีไร้ราคา! ทำไมแกไม่ยอมตาย ๆ ไปซะทีห้ะ!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Fine! I'll show you the true power of the blessed!",
+      "text": "ดีล่ะ! ข้าจะแสดงให้แกเห็นพลังที่แท้จริงของผู้ได้รับพรเอง!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will be the next Dawnservant! And I'll protect my people's happiness to the last!",
+      "text": "ฉันจะเป็นดอว์นเซิร์ฟวันต์คนต่อไป! และฉันจะปกป้องความสุขของประชาชนจนถึงที่สุด!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's why there's no way...I'll ever lose...to the likes...of you!",
+      "text": "เพราะงั้น... ไม่มีทาง... ที่คนพรรค์แก... จะชนะฉันได้หรอก!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What!? But that was everything I had!",
+      "text": "อะไรกัน!? นั่นมันพลังทั้งหมดที่ข้ามีแล้วนะ!"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "Argh, I can't stand it anymore! Attack!",
+      "text": "อึด ข้าทนมองดูเฉย ๆ ต่อไปไม่ไหวแล้ว! ลุยเลยพวกเรา!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "This is our fight! Stay out of it!",
+      "text": "นี่คือการต่อสู้สู้ศึกของพวกเรา! อย่าแส่เข้ามาสอดมือสิพวกแก!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "You bring shame upon us!",
+      "text": "พวกแกทำให้พวกเราต้องขายหน้าเสื่อมเสียเกียรตินะ!"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "You think we care about your stupid pride!?",
+      "text": "คิดว่าพวกเราจะสนใจศักดิ์ศรีโง่ ๆ ของพวกแกงั้นรึ!?"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "This is for Mamook! We cannot lose!",
+      "text": "เรื่องนี้ทำเพื่อมามูค! พวกเราจะพ่ายแพ้ไม่ได้เด็ดขาด!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oho! The great Bakool Ja Ja needs help, I see!",
+      "text": "โอ้โฮ! บาคูล จา จา ผู้ยิ่งใหญ่ต้องการคนมาช่วยซะแล้วสินะคะเนี่ย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Send your whole army! You still won't win!",
+      "text": "ขนกองทัพของพวกแกมาให้หมดเลยสิ! ยังไงพวกแกก็ไม่มีวันชนะหรอก!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will prove that my allies are right to believe in me.",
+      "text": "ฉันจะพิสูจน์ให้เห็นว่าเพื่อนร่วมเดินทางที่ไว้ใจเชื่อมั่นในตัวฉันคิดไม่ผิด"
+    },
+    {
+      "character": "Doppro Illusionist",
+      "text_en": "Such confidence... What changed? She wasn't like this before!",
+      "text": "ความมั่นใจขนาดนี้... เกิดอะไรขึ้นกันแน่? ก่อนหน้านี้เธอไม่ได้เก่งกาจขนาดนี้เลยนี่นา!"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "T-Too strong...",
+      "text": "แกร่ง... แกร่งเกินไปแล้ว..."
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "<pant> <pant>",
+      "text": "แฮ่ก... แฮ่ก..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I reclaim what you stole.",
+      "text": "ฉันขอทวงคืนสิ่งที่แกแย่งชิงไปกลับคืนมา"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "N-No... How can this be...?",
+      "text": "ม-ไม่จริง... เรื่องแบบนี้มันเกิดขึ้นได้ยังไงกัน...?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "How could that puny house cat beat all of us...?",
+      "text": "ลูกแมวบ้านที่แสนอ่อนแอตัวนั้นสามารถเอาชนะพวกเราทุกคนได้ยังไงกัน...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've caused nothing but trouble with your dirty tricks.",
+      "text": "แกก่อความเดือดร้อนสร้างแต่ปัญหาด้วยการเล่นตุกติกสกปรกมามากพอแล้วนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Threatening the Hanuhanu, releasing Valigarmanda─harassing me is one thing, but you've endangered too many innocents!",
+      "text": "ข่มขู่ชาวฮานูฮานู ปลดปล่อยวาลิการ์มันดา—การหาเรื่องโจมตีฉันน่ะยังพอทน แต่แกทำให้ผู้บริสุทธิ์จำนวนมากต้องตกอยู่ในอันตรายเยียวยาไม่ได้!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No more, Bakool Ja Ja! I will not stand for it! If you even think of tormenting my people again, you will answer to me!",
+      "text": "พอที บาคูล จา จา! ฉันจะไม่ยอมทนอีกต่อไปแล้ว! ถ้าแกคิดจะทำร้ายข่มขู่ประชาชนของฉันอีกแม้แต่ครั้งเดียว แกต้องเจอดีกับฉันแน่!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "No... No...",
+      "text": "ไม่นะ... ไม่จริง..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "No... No...",
+      "text": "ไม่นะ... ไม่จริง..."
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "[NOISE OF IRRITATION]",
+      "text": "ชิ! น่าเจ็บใจนัก!"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "And he goes and forgets he had the way blocked...",
+      "text": "แถมเขายังลืมเคลียร์ก้อนหินที่ถล่มปิดทางเดินไว้อีกซะงั้น..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? That was his doing?",
+      "text": "อะไรนะ? เรื่องที่ทางเดินถล่มปิดทางนั่นเป็นฝีมือของเขางั้นเหรอ?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "The only part left in the saga is the Lay of the Brotherhood─in Mamook.",
+      "text": "ขั้นตอนที่เหลืออยู่ของบทบันทึกมีเพียงแค่บททดสอบแห่งภราดรภาพในมามูคเท่านั้น"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "The plan was to force you here so we could take the rest of your keystones.",
+      "text": "พวกเราตั้งใจจะข่มขู่บังคับให้เจ้าเดินทางมาที่นี่เพื่อจะได้ดักแย่งชิงศิลาหลักที่เหลืออยู่ทั้งหมดน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So that's what he was up to... But, uh, should you be telling us this?",
+      "text": "ที่แท้แผนการของเขาก็เป็นแบบนี้นี่เอง... แต่ว่านะ แกควรจะเอาความลับแผนการพวกนี้มาบอกพวกเราง่าย ๆ แบบนี้เหรอ?"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "[SIGH]",
+      "text": "<ถอนหายใจ>"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "What does it matter? You've beaten us. It's over.",
+      "text": "มันจะไปสำคัญอะไรอีกล่ะ? พวกเจ้าเอาชนะพวกเราได้แล้ว ทุกอย่างจบสิ้นแล้วล่ะ"
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "We'll release the hostage.",
+      "text": "พวกเราจะยอมปล่อยตัวประกันไป"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I'm sorry. I was careless.",
+      "text": "ข้าขอโทษด้วยนะ ข้าเลินเล่อไม่ระวังตัวเองเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you all right?",
+      "text": "ท่านเป็นอะไรมากไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So what Bakool Ja Ja said... About you and me...",
+      "text": "แล้วเรื่องที่บาคูล จา จา พูดเมื่อกี้... เกี่ยวกับเรื่องของท่านกับฉัน..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "I─ Ah, but to single-handedly defeat Bakool Ja Ja! You truly are the Dawnservant's daughter.",
+      "text": "ข้า—อ๋า แต่เรื่องที่เจ้าสามารถเอาชนะบาคูล จา จา ได้ด้วยตัวคนเดียวน่ะ! เจ้าคู่ควรเป็นลูกสาวของท่านดอว์นเซิร์ฟวันต์อย่างแท้จริงเลยล่ะ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "It has been my honor to bear witness to your journey, Promise.",
+      "text": "เป็นเกียรติของข้าอย่างยิ่งยวดที่ได้มีโอกาสร่วมทางและเป็นพยานในความเติบโตของเจ้า ท่านสัญญา"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Promise... Yes, that's what I am.",
+      "text": "ท่านสัญญา... ใช่แล้วค่ะ นั่นคือสิ่งที่ฉันเป็น"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm Gulool Ja Ja's daughter, and Tuliyollal's next Dawnservant!",
+      "text": "ฉันคือลูกสาวของกูลูล จา จา และจะเป็นดอว์นเซิร์ฟวันต์คนต่อไปของทูลิโยลลัล!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on. Let's rejoin the others.",
+      "text": "ไปกันเถอะค่ะ ย้อนกลับไปสมทบกับคนอื่น ๆ กัน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "For as weathered as our Promise looks, she's positively glowing with confidence. What in the world happened?",
+      "text": "แม้ว่าท่านสัญญาของพวกเราจะดูสะบักสะบอมอิดโรยไปบ้าง แต่ดวงตาของเธอกลับประกายสุกสกาวเต็มไปด้วยความมั่นใจอย่างท่วมท้นเลยนะคะเนี่ย เกิดเรื่องอะไรขึ้นหรือเปล่าคะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The twins ran me from one end of the Ut'ohmu Horizon to the other, asking about everything of remote interest along the way...",
+      "text": "คู่แฝดนั่นลากข้าเดินสำรวจตั้งแต่สุดขอบฟ้าด้านหนึ่งไปยังอีกด้านหนึ่งของสุดขอบฟ้าวูตอฮ์มูเลยล่ะครับ พร้อมแวะถามโน่นถามนี่ในจุดที่น่าสนใจตลอดทางเลยล่ะครับ..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville's tour was both educational and exciting! I hope we can persuade him to conduct another in the lower forests.",
+      "text": "การนำทัวร์ของเอเรนวิลล์ทั้งได้ความรู้และน่าตื่นเต้นตื่นตูมมากเลยครับ! หวังว่าพวกเราจะสามารถโน้มน้าวให้เขาช่วยนำทางพวกเราต่อในผืนป่าเบื้องล่างได้นะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Did something happen while we were away? There's a certain satisfied air about you...",
+      "text": "มีเรื่องอะไรเกิดขึ้นตอนที่พวกเราไม่อยู่หรือเปล่าคะ? ดูพวกคุณท่าทางภูมิใจพึงพอใจกันเป็นพิเศษเลยนะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems we were last to return. I'm glad everyone made it back safely.",
+      "text": "ดูเหมือนพวกเราจะเป็นกลุ่มสุดท้ายที่เดินทางกลับมานะ ข้าดีใจที่ทุกคนกลับมาได้อย่างปลอดภัยดี"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you for having faith in me. Keeping out of the fight even when it got dirty couldn't have been easy for you.",
+      "text": "ขอบคุณนะที่คุณยอมไว้ใจเชื่อมั่นในตัวฉัน การที่ยอมยืนดูอยู่ห่าง ๆ โดยไม่ยื่นมือเข้ามาสอดแทรกแม้ว่าคู่ต่อสู้จะเล่นตุกติกเล่นสกปรกขนาดนั้นคงไม่ง่ายเลยใช่ไหมล่ะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But Bakool Ja Ja won't be the last person to threaten those I care about.",
+      "text": "แต่บาคูล จา จา คงไม่ใช่คนสุดท้ายที่คิดใช้วิธีชั่วร้ายมาทำร้ายคนที่ฉันรักและห่วงใยหรอกค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wanted to prove to myself that I can stand up to such villains, even when I stand alone.",
+      "text": "ฉันอยากจะพิสูจน์ให้ตัวเองเห็นว่าฉันสามารถหยัดยืนเผชิญหน้ากับศัตรูชั่วร้ายเหล่านั้นได้ แม้ว่าในยามนั้นฉันต้องยืนหยัดต่อสู้เพียงลำพังก็ตาม"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Which isn't to say I won't ask for your help when I need it, of course! I know better than that now!",
+      "text": "ซึ่งมันไม่ได้หมายความว่าฉันจะไม่ขอความช่วยเหลือจากพวกคุณเมื่อยามจำเป็นหรอกนะ! ตอนนี้ฉันเรียนรู้วิถีทางและเข้าใจเรื่องนั้นดีขึ้นแล้วล่ะค่ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The passage to Mamook remains blocked. For now, all we can do is try to rest and recover.",
+      "text": "เส้นทางมุ่งหน้าสู่มามูคยังคงถล่มปิดทางอยู่ สำหรับตอนนี้ สิ่งที่พวกเราทำได้ดีที่สุดคือการแวะพักผ่อนเยียวยาร่างกายให้ฟื้นคืนพลังครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Perhaps with a meal, as my sister would no doubt suggest. Shall we borrow the kitchens and prepare some xibruq pibil?",
+      "text": "...บางทีอาจจะเริ่มต้นด้วยการทานอาหารมื้ออร่อยสักมื้อ เหมือนที่น้องสาวของผมชอบแนะนำเป็นประจำล่ะนะครับ พวกเราไปขอยืมห้องครัวทำซิบรุก ปิบิล ทานกันดีไหมครับ?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "[FOND CHUCKLE]",
+      "text": "<หัวเราะเบา ๆ อย่างเอ็นดู>"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "So thou hast taken a liking to the dish.",
+      "text": "ดูเหมือนว่าท่านจะเริ่มติดอกติดใจในรสชาติของอาหารจานนี้เข้าให้แล้วสินะครับ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As we learn to appreciate the unfamiliar, 'tis only natural that we develop new affinities. There is no shame in this.",
+      "text": "ยามที่พวกเราเรียนรู้ที่จะชื่นชมยอมรับในสิ่งที่ไม่คุ้นเคย ย่อมเป็นธรรมดาที่ความชอบใหม่ ๆ จะก่อกำเนิดขึ้นมาในใจครับ ไม่ใช่เรื่องที่ต้องรู้สึกเขินอายแต่อย่างใดครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "But there is in ignorance. I had barely considered what the people of Tuliyollal hold dear. What hopes they harbor for the future.",
+      "text": "แต่การนิ่งเฉยจมอยู่กับความไม่รู้น่ะคือสิ่งที่ต้องอายครับ ที่ผ่านมาผมแทบไม่ได้ใส่ใจพิจารณาเลยว่าประชาชนของทูลิโยลลัลให้ความสำคัญกับสิ่งใด หรือพวกเขามีความหวังอันสุกสกาวแบบไหนต่ออนาคต"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Our nation is built upon the bonds that Father forged during his journey across Tural.",
+      "text": "แผ่นดินและอาณาจักรของพวกเราสร้างขึ้นมาได้ด้วยสายสัมพันธ์มิตรภาพที่ท่านพ่อสร้างขึ้นระหว่างออกเดินทางเรียนรู้ไปทั่วทูรัล"
+    },
+    {
+      "character": "Koana",
+      "text_en": "But so single-minded have I been in my advocacy of foreign innovations...that I failed to understand my own people.",
+      "text": "แต่ผมกลับมุ่งมั่นอยู่กับการนำเสนอวิวัฒนาการเทคโนโลยีของต่างแดนอย่างตาบอด... จนหลงลืมที่จะศึกษาเรียนรู้และเข้าใจประชาชนของตัวเองไปซะสนิท"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Could someone who struggles to connect with the populace ever make a worthy Dawnservant?",
+      "text": "คนที่ไม่รู้จักวิธีสร้างสายสัมพันธ์และเชื่อมโยงกับประชาชนของตัวเอง จะคู่ควรเป็นดอว์นเซิร์ฟวันต์ที่ดีได้ยังไงกันล่ะครับ?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "To understand and connect with people is by no means easy.",
+      "text": "การจะทำความเข้าใจและเข้าถึงจิตใจของผู้คนน่ะไม่ใช่เรื่องง่ายเลยล่ะ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But there is something you can do to pave the way.",
+      "text": "แต่ก็มีบางสิ่งที่คุณสามารถทำเพื่อเปิดทางปูพรมนำทางได้นะ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Let them see you for who you really are. What makes you laugh and cry and rage. That sort of honesty is the first step towards mutual understanding─and connection.",
+      "text": "แสดงตัวตนที่แท้จริงของคุณให้พวกเขาเห็นสิ สิ่งที่ทำให้คุณหัวเราะ ร้องไห้ หรือโกรธแค้น ความจริงใจอย่างตรงไปตรงมาเช่นนั้นแหละคือก้าวแรกของการสร้างความเข้าใจและการเชื่อมต่อจิตใจระหว่างกัน"
+    },
+    {
+      "character": "Koana",
+      "text_en": "“Understanding begets fellowship.” As my father said...",
+      "text": "“ความไม่รู้ นำมาซึ่งความขัดแย้ง. ความเข้าใจ นำมาซึ่งมิตรภาพ”... อย่างที่ท่านพ่อเคยกล่าวไว้จริง ๆ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "And yet, what you suggest does not come naturally to me...",
+      "text": "แต่ก็นั่นแหละ สิ่งที่คุณเสนอแนะมาเนี่ยมันไม่ใช่เรื่องที่ผมคุ้นเคยหรือถนัดเลยสักนิดครับ..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I, too, have found it difficult to speak from the heart. In thy struggles, I see mine own─painful in their familiarity.",
+      "text": "ข้าเองก็เคยรู้สึกว่าการพูดความจริงจากก้นบึ้งของหัวใจเป็นเรื่องที่ยากลำบากยิ่งนักครับ ยามที่ข้ามองดูความพยายามของท่าน ข้าจึงรู้สึกเห็นใจราวกับมองดูเงาสะท้อนปัญหาของตัวข้าเองในอดีตไม่มีผิดเลยล่ะครับ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yet frightening though it may feel, if we are to move forward, we must indeed take that first step. Dispense with pretense and simply be .",
+      "text": "แต่แม้ว่ามันจะชวนให้น่าหวั่นเกรงใจเพียงใด หากพวกเราปรารถนาจะก้าวไปข้างหน้าเพื่ออนาคต พวกเราก็ต้องกล้าที่จะเริ่มก้าวแรกนั้นครับ ปลดปล่อยการแสร้งทำสวมหน้ากากทิ้งไปและยอมรับการเป็นตัวของตัวเองอย่างเรียบง่ายครับ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Do you remember when you first approached us, and we asked you why you wanted to become Dawnservant?",
+      "text": "จำตอนที่คุณเดินมาหาพวกเราครั้งแรกได้ไหม แล้วพวกเราถามคุณว่าทำไมถึงอยากเป็นดอว์นเซิร์ฟวันต์น่ะ?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You said you wished to use the knowledge you acquired in Sharlayan for your country─and in doing so repay your father for the opportunities he afforded you.",
+      "text": "คุณบอกว่าอยากเอาความรู้ทางวิชาการที่ศึกษาเรียนรู้มาจากชาเลียน (Sharlayan) มาใช้พัฒนาแผ่นดินเกิด—และเพื่อเป็นการตอบแทนบุญคุณที่ท่านพ่อมอบโอกาสการเรียนรู้ให้แก่คุณ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What won me over was not your ambition, but your motivation.",
+      "text": "สิ่งที่ทำให้ฉันยอมร่วมเดินทางสู้ศึกสนับสนุนคุณ ไม่ใช่เรื่องความทะเยอทะยานกระหายตำแหน่งหรอกนะ แต่เป็นแรงผลักดันและแรงจูงใจเบื้องหลังของคุณต่างหาก"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So let your people know this. And in time, they'll come to support you as we do.",
+      "text": "เพราะงั้น จงบอกเล่าเรื่องราวความตั้งใจจริงข้อนี้ให้ประชาชนของคุณได้รับรู้สิ แล้วเมื่อเวลาผ่านไป พวกเขาจะยอมรับและสนับสนุนคุณเหมือนอย่างที่พวกเราคอยช่วยเหลือสนับสนุนคุณอยู่แน่นอนล่ะ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You can't hide behind that stoicism forever.",
+      "text": "คุณไม่สามารถซ่อนตัวหลบภัยอยู่หลังความเย็นชาเฉยเมยนั่นไปได้ตลอดหรอกนะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Very well, then. I will make a greater effort to be myself...by not being my usual self so much.",
+      "text": "เข้าใจแล้วครับ ถ้าอย่างนั้น ผมจะพยายามทำตัวเป็นตัวเองให้มากขึ้น... โดยการลดการเกร็งเครียดเย็นชาปกติลงดูครับ"
+    }
+  ]
+}

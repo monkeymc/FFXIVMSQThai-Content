@@ -1,0 +1,683 @@
+{
+  "id": "a-grave-presentiment",
+  "wiki_path": "/wiki/A_Grave_Presentiment",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/e/e6/A_grave_presentiment1.png",
+  "patch": "7.5",
+  "title_en": "A Grave Presentiment",
+  "title": "ลางร้ายอันน่าหวาดหวั่น",
+  "level": "100",
+  "location": "Garlemald(X:32.1,Y:16.8)",
+  "npc_start": "Thancred",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Jullus was quick to put our words─or rather, those of the Dawnservant─into practice!",
+      "text": "จุลลัสรีบนำคำพูดของพวกเรา—หรือจะพูดให้ถูกคือถ้อยคำของท่าน Dawnservant—ไปปฏิบัติจริงรวดเร็วดีจังเลยนะ!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You have my heartfelt appreciation. Without your intervention, I have no doubt the casualties would have been far greater.",
+      "text": "ผมขอขอบคุณพวกคุณจากใจจริงเลยครับ หากไม่มีพวกคุณเข้ามาช่วยเหลือแล้วล่ะก็ ผมมั่นใจว่าคงจะสูญเสียกำลังพลบาดเจ็บล้มตายมากกว่านี้อีกหลายเท่าแน่นอนครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Voidsent not only absorb the aether of those they consume, but their thoughts as well... With such a legion of minds at their disposal, one hopes they prove a capable ally for Zero.",
+      "text": "พวกวอยด์เซนต์ไม่เพียงแต่จะดูดซับเอเธอร์จากเหยื่อที่กลืนกินเข้าไปเท่านั้น แต่ยังซึมซับเอาความรู้สึกนึกคิดของพวกเขามาด้วยครับ... ด้วยเหตุนี้ การมีเจตจำนงของจิตวิญญาณมากมายอยู่ในร่างกายนั่น หวังว่าจะช่วยให้พวกเขากลายเป็นพันธมิตรที่ดีและมีความสามารถของซีโร่ได้นะครับ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "With the Clyteum's fissure sealed, I daresay the voidsent incursion is at an end.",
+      "text": "ในเมื่อรอยแยกมิติแห่งไคลเทียมถูกปิดผนึกเรียบร้อยแล้ว ผมกล้ากล่าวได้เลยว่าการรุกรานของพวกวอยด์เซนต์ที่นี่ได้สิ้นสุดลงแล้วครับ"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "As you might have gathered, the Dawnservant's wisdom struck a chord... I only hope my words resonate as strongly with the voidsent we met.",
+      "text": "อย่างที่ทุกท่านเห็นนั่นแหละครับ ปรัชญาและปัญญาของท่าน Dawnservant ช่างจับใจเข้าถึงความรู้สึกผมอย่างลึกซึ้ง... ผมได้แต่หวังว่าถ้อยคำของผม จะส่งไปถึงเข้าถึงความรู้สึกของพวกวอยด์เซนต์ตนนั้นได้ลึกซึ้งไม่แพ้กันครับ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Ilsabard contingent have contained the threat on their front. Things appear to be under control for the time being.",
+      "text": "ทางกองกำลังอิลซาบาร์ดควบคุมภัยคุกคามในฝั่งของพวกเขาเอาไว้ได้แล้วล่ะ ดูเหมือนว่าสถานการณ์จะเรียบร้อยดีในตอนนี้"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Though it remains unclear why the fissures opened up in the first place. According to Tataru, similar ruptures are occurring across the star.",
+      "text": "แต่เราก็ยังไม่รู้แน่ชัดอยู่ดีว่าทำไมรอยแยกพวกนี้ถึงเปิดขึ้นมาตั้งแต่แรก ตามที่คุณทาทารุบอกมา ดูเหมือนว่ารอยแยกแบบเดียวกันนี้กำลังเกิดขึ้นไปทั่วดวงดาวเลยล่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "One thing is clear, however: the phenomenon is not without pattern.",
+      "text": "แต่มีสิ่งหนึ่งที่ชัดเจนครับ นั่นคือปรากฏการณ์นี้ไม่ได้เกิดขึ้นอย่างไร้ทิศทาง"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The tendency for fissures to emerge is pronounced in regions deeply connected to the void─places where the barrier between the two worlds is at its thinnest.",
+      "text": "แนวโน้มการเกิดรอยแยกมิติมักจะเด่นชัดขึ้นในดินแดนที่มีความเชื่อมโยงกับห้วงอเวจีอย่างลึกซึ้ง—ซึ่งก็คือสถานที่ที่มิติปิดกั้นระหว่างสองโลกเบาบางที่สุดนั่นเองครับ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...I fear there may be a place in far greater peril than Garlemald.",
+      "text": "ข้าเกรงว่า... อาจจะมีสถานที่ที่ตกอยู่ในภยันตรายร้ายแรงยิ่งกว่าการ์เลมัลด์เสียอีกครับ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though it hath since been sealed, you will recall there is a great voidgate that we ourselves had cause to open.",
+      "text": "แม้ว่าในตอนนี้มันจะถูกปิดผนึกไปแล้ว แต่ทุกท่านคงยังจำได้ว่ามีประตูกลวอยด์เกต (voidgate) บานใหญ่ที่พวกเราจำต้องเปิดขึ้นด้วยตัวเอง"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A gate which was instrumental in our bid to reunite Vrtra with his sister and put an end to Golbez's dark plot.",
+      "text": "ประตูบานที่เป็นกุญแจสำคัญในความพยายามพาตัววฤตรากลับมาพบกับน้องสาวของเขา และยุติแผนการอันชั่วร้ายของโกลเบซลง"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Oh gods, the moon!",
+      "text": "โอ้ เทพเจ้า... ดวงจันทร์งั้นหรือครับ!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "With our attention fixed upon planar fissures, I failed to consider this vulnerability. All other paths unto the void are but pinpricks in the veil compared to that great lunar rift...",
+      "text": "ด้วยความที่จิตใจของพวกเราพุ่งความสนใจไปที่รอยแยกมิติ ข้าจึงละเลยจุดเปราะบางนี้ไป เส้นทางเชื่อมต่อสู่วอยด์อื่นๆ ทั้งหมดเป็นเพียงแค่รอยเข็มเล็กๆ บนม่านหมอกเมื่อเทียบกับรอยแยกบนดวงจันทร์อันยิ่งใหญ่นั่น..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And that rift might be yawning open as we speak. We'd better hurry.",
+      "text": "และรอยแยกที่ว่าก็อาจจะกำลังเปิดอ้าอยู่ในขณะที่เราพูดกันอยู่นี่ก็ได้ พวกเรารีบไปกันเถอะ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Let us make for Bestways Burrow. I daresay the Loporrits are well aware of current events.",
+      "text": "พวกเราจงมุ่งหน้าไปยังเบสต์เวย์สเบอร์โรว์ (Bestways Burrow) เถอะครับ ข้ากล้ากล่าวว่าเหล่าโลพอร์ริตเองก็น่าจะรับรู้ถึงสถานการณ์ในยามนี้แล้วเช่นกัน"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We ought to have Krile join us once she finishes tending to the wounded.",
+      "text": "เราควรให้คุณไครล์ตามไปสมทบด้วย เมื่อเธอปฐมพยาบาลคนเจ็บเสร็จเรียบร้อยแล้วครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I shall likewise contact Y'shtola. Her knowledge of the moon's voidgate is second to none.",
+      "text": "แล้วผมจะติดต่อคุณวาย'ชโตลาด้วยครับ ความรู้ความเข้าใจของเธอเกี่ยวกับวอยด์เกตบนดวงจันทร์นั้นเรียกได้ว่าไม่มีใครเทียบได้เลย"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "A number of my fellow Garleans now call Mare Lamentorum home... Alphinaud, Alisaie, please see they come to no harm.",
+      "text": "ตอนนี้มีชาวการ์ลีนจำนวนไม่น้อยที่ย้ายไปอาศัยอยู่ที่มาเรลาเมนโทลัม (Mare Lamentorum)... คุณอัลฟิโน คุณอลิเซ ฝากช่วยดูแลความปลอดภัยของพวกเขาด้วยนะครับ"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Alphinaud, Alisaie, please do what you must to keep our world safe.",
+      "text": "คุณอัลฟิโน คุณอลิเซ รบกวนช่วยทำทุกวิถีทางเพื่อปกป้องโลกของเราให้ปลอดภัยทีนะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll be back before you know it!",
+      "text": "พวกเราจะรีบกลับมาให้เร็วที่สุดเลยล่ะ!"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "A quick word, if you will.",
+      "text": "ขอผมคุยด้วยสักครู่ได้ไหมครับ"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I'm not sure whether you'll run into Zero during the course of all this, but if you do...would you give this to her?",
+      "text": "ผมไม่แน่ใจว่าระหว่างทำภารกิจคุณจะบังเอิญเจอกับซีโร่รึเปล่า แต่ถ้าเจอล่ะก็...ฝากส่งเจ้านี่ให้เธอทีได้ไหมครับ?"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Emergency rations, in case of a protracted battle. Can't imagine she's eating all that well in the void.",
+      "text": "เสบียงฉุกเฉินน่ะครับ เผื่อต้องเจอศึกยืดเยื้อ จินตนาการไม่ออกเลยว่าเธอจะกินอยู่อย่างไรในโลกวอยด์ที่แห้งแล้งขนาดนั้น"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "...She likes dumplings.",
+      "text": "...เธอชอบกินเกี๊ยวน่ะครับ"
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "We're doomed! Doomed, I say!",
+      "text": "พวกเราเสร็จแน่! จบสิ้นกันแล้ว!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Given thy panicked state, I presume the Loporrits too are beset with voidsent...",
+      "text": "เมื่อเห็นท่านตื่นตระหนกเช่นนี้ ข้าก็คาดเดาได้ว่าพวกโลพอร์ริตเองก็กำลังเผชิญกับการคุกคามของพวกวอยด์เซนต์เช่นเดียวกัน..."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "Oh, what sweet relief it is to see you all!",
+      "text": "โอ้ เจอทุกคนแล้วค่อยโล่งอกขึ้นมาหน่อย!"
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "Yes, voidsent─and lots of them! They suddenly came pouring forth from the crater!",
+      "text": "ใช่แล้วล่ะครับ! พวกวอยด์เซนต์น่ะ แถมยังแห่กันมาไม่หยุดเลย! จู่ๆ พวกมันก็พรั่งพรูออกมาจากปากปล่องภูเขาไฟ!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I had dearly hoped to find my worries unfounded...",
+      "text": "ข้าได้แต่ปรารถนาว่า ความวิตกกังวลของข้านั้นจะเป็นเพียงความกังวลที่ไร้มูลความจริง..."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "For some unknown reason, the voidgate seems to have partially opened.",
+      "text": "ด้วยเหตุผลกลใดไม่ทราบได้ ตอนนี้วอยด์เกตดูเหมือนจะเปิดออกบางส่วนแล้วล่ะครับ"
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "Livingway dashed off to activate the brands and halt the fiends' invasion...",
+      "text": "ลิฟวิ่งเวย์รีบวิ่งแจ้นออกไปเปิดใช้งานตราประทับ (brands) เพื่อหยุดการรุกรานของพวกอสุรกายพวกนั้นแล้ว..."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "But she hasn't come back, and we've since lost contact!",
+      "text": "แต่จนถึงตอนนี้เธก็ยังไม่กลับมาเลย แถมพวกเรายังขาดการติดต่อกับเธอไปแล้วด้วย!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I suggest we make for the brands without delay.",
+      "text": "ข้าคิดว่าพวกเราควรมุ่งหน้าไปยังตราประทับโดยพลันเถอะครับ"
+    },
+    {
+      "character": "Beleaguered Loporrit",
+      "text_en": "My valiant savior! I was so frightened I dared not move an ilm...",
+      "text": "ข้ากลัวมากจนไม่กล้าขยับตัวเลยแม้แต่หนึ่งอิลม์..."
+    },
+    {
+      "character": "Beleaguered Loporrit",
+      "text_en": "Oh, you're looking for Livingway? I think I saw her heading southwest, towards the Drowning Brand.",
+      "text": "เอ๋ กำลังตามหาลิฟวิ่งเวย์เหรอครับ? ผมคิดว่าเห็นเธอเดินทางไปทางตะวันตกเฉียงใต้ มุ่งหน้าไปยังตราดราวน์นิ่งแบรนด์ (Drowning Brand) นะครับ"
+    },
+    {
+      "character": "Beleaguered Loporrit",
+      "text_en": "She had several slaughter-bots in tow, but I worry they won't be enough for all the voidsent. You'd better hurry!",
+      "text": "เธอพากองทัพจักรกลสังหาร (slaughter-bots) ติดสอยห้อยตามไปด้วยหลายตัวเลย แต่ผมกลัวว่าแค่นั้นอาจจะไม่พอมารับมือพวกวอยด์เซนต์ทั้งหมดน่ะสิครับ รีบไปช่วยเธอทีนะครับ!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Ugh...",
+      "text": "อูย..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "I'm saved! I dread to think what would have befallen me if you hadn't intervened!",
+      "text": "ฉันรอดตายแล้ว! ไม่อยากจะคิดเลยจริงๆ ว่าถ้าเธอไม่ยื่นมือเข้ามาช่วย ฉันจะเป็นยังไงบ้าง!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh, I was never in any real danger, of course! I knew you would realize our plight and rush to our rescue!",
+      "text": "โอ้ แน่นอนว่าฉันไม่ได้ตกอยู่ในอันตรายจริงๆ หรอกนะ! ฉันรู้อยู่แล้วว่าเธอต้องรับรู้ถึงความยากลำบากของพวกเราและรีบแจ้นมาช่วยแน่ๆ!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Etheirys is likewise plagued with voidsent?",
+      "text": "บนเอเธียริส (Etheirys) ก็เผชิญหน้ากับพวกวอยด์เซนต์รังควานเหมือนกันงั้นเหรอ?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "If only we'd prioritized further development of the voidsent slaughter-bots. We could have stemmed the tide ourselves!",
+      "text": "ถ้าเพียงแต่พวกเราให้ความสำคัญกับการพัฒนาจักรกลสังหารวอยด์เซนต์ให้ดียิ่งขึ้นล่ะก็ พวกเราคงสามารถสกัดกั้นการรุกคืบนี้ได้ด้วยตัวเองไปแล้ว!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh, what a tremendous demonstration that would have been. Irrefutable proof that I was mankind's staunchest ally, and the greatest Loporrit to ever live! I can practically taste the praise!",
+      "text": "โอ้ ถ้าทำได้ล่ะก็ มันจะเป็นการแสดงแสนยานุภาพที่ยอดเยี่ยมมากเลยล่ะ! เป็นหลักฐานที่ปฏิเสธไม่ได้เลยว่าฉันคนนี้แหละคือพันธมิตรที่ซื่อสัตย์ที่สุดของมนุษยชาติ และเป็นโลพอร์ริตที่ยิ่งใหญ่ที่สุดเท่าที่เคยมีมา! แค่คิดถึงคำชมเชยที่พรั่งพรูเข้ามา ฉันก็ปลาบปลื้มแล้วล่ะ!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Ahem!",
+      "text": "อะแฮ่ม!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Fortunately, I was able to activate the brands. Should any more voidsent emerge from the gate, they ought to be confined to the crater.",
+      "text": "แต่เคราะห์ยังดีที่ฉันสามารถเปิดใช้งานตราประทับได้ทันเวลา หากมีพวกวอยด์เซนต์เล็ดลอดออกมาจากประตูมิติอีก พวกมันก็น่าจะถูกกักขังเอาไว้ให้อยู่แต่ภายในแอ่งภูเขาไฟนั่นแหละ"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Unless, of course, the voidgate begins to expand of its own accord, or some gargantuan monstrosity tries to barge through, I don't foresee any major problems...",
+      "text": "นอกจากเสียว่า วอยด์เกตจะเริ่มขยายใหญ่ขึ้นด้วยตัวของมันเอง หรือมีสัตว์ประหลาดยักษ์ใหญ่โตมโหฬารพยายามพังประตูบุกเข้ามา ซึ่งฉันก็ไม่เห็นวี่แววว่าจะมีปัญหาใหญ่โตอะไรขนาดนั้นหรอกนะ..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh. Nope. We're doomed.",
+      "text": "อ๊ะ... ไม่จริงใช่ไหม พวกเราเสร็จแน่"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There you are!",
+      "text": "อยู่นี่เองเหรอครับ!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I left the data in Shale's capable hands and teleported here as soon as I heard.",
+      "text": "ฉันฝากข้อมูลการวิจัยไว้ในการดูแลของเชลแล้ว และรีบเทเลพอร์ตมาที่นี่ทันทีที่ได้ยินข่าวค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And ere you ask, I made sure to bring the key with me.",
+      "text": "และก่อนที่คุณจะถาม... ฉันมั่นใจว่าได้นำกุญแจติดตัวมาด้วยเรียบร้อยแล้วค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then the real threat yet awaits us.",
+      "text": "ถ้าอย่างนั้น ภัยคุกคามที่แท้จริงก็กำลังรอคอยพวกเราอยู่สินะครับ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis Golbez's domain beyond the voidgate...",
+      "text": "หลังบานประตูวอยด์เกตนี้คือดินแดนส่วนของโกลเบซ..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I wonder how he and Zero are faring.",
+      "text": "ไม่รู้ว่าตอนนี้ตัวเขาและซีโร่จะเป็นอย่างไรบ้างนะคะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "By the Twelve!",
+      "text": "เทพเจ้าทั้งสิบสอง!"
+    },
+    {
+      "character": "???",
+      "text_en": "Behold—the gift of Ethos.",
+      "text": "จงทัศนา—ของกำนัลแห่งอีธอส (Ethos)"
+    },
+    {
+      "character": "???",
+      "text_en": "Yours is a journey without end, conceived and guided by principle.",
+      "text": "การเดินทางของพวกเจ้าจักไม่มีวันสิ้นสุด ถูกสรรค์สร้างและนำทางด้วยหลักธรรมเจตจำนง"
+    },
+    {
+      "character": "???",
+      "text_en": "Hold fast to what you must, and meet your fate without fear.",
+      "text": "จงยึดมั่นในสิ่งที่คุณต้องทำ และเผชิญหน้ากับโชคชะตาโดยปราศจากความกลัว"
+    },
+    {
+      "character": "???",
+      "text_en": "Go forth. Discover. Unite the stars unto one.",
+      "text": "จงก้าวไปข้างหน้า ค้นหา และหลอมรวมดวงดาวทั้งหลายให้เป็นหนึ่งเดียว"
+    },
+    {
+      "character": "???",
+      "text_en": "Let none bar your path.",
+      "text": "อย่าให้อุปสรรคใดๆ มาขวางกั้นเส้นทางของเจ้าได้"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "They're headed your way!",
+      "text": "พวกมันกำลังมุ่งหน้าไปทางพวกเจ้าแล้ว!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Let them come!",
+      "text": "เข้ามาเลย!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "What are you doing here!?",
+      "text": "นายมาทำอะไรที่นี่กัน!?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Only you could be so carefree amidst all this...",
+      "text": "มีแค่นายเท่านั้นแหละที่ทำตัวสบายใจเฉิบได้ในสถานการณ์แบบนี้..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Trust you to state the obvious.",
+      "text": "สมกับเป็นนายที่ชอบพูดเรื่องที่ใครๆ ก็รู้อยู่แล้ว"
+    },
+    {
+      "character": "Zero",
+      "text_en": "May as well make yourself useful.",
+      "text": "ไหนๆ ก็มาแล้ว ทำตัวให้เป็นประโยชน์หน่อยก็แล้วกัน"
+    },
+    {
+      "character": "Zero",
+      "text_en": "The gate's sheer size appears to have made it a tempting target.",
+      "text": "ดูเหมือนว่าขนาดอันมหึมาของประตูมิติจะดึงดูดความสนใจให้พวกมันตกเป็นเป้าหมายได้ง่ายขึ้น"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Enuo... A dread voidsent risen from the benighted depths of the ocean.",
+      "text": "เอนูโอ... วอยด์เซนต์ระดับสูงผู้น่าสะพรึงกลัวที่ฟื้นคืนชีพขึ้นมาจากส่วนลึกอันมืดมิดของมหาสมุทร"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "They kept to the confines of their domain while Zeromus endured. No longer, it would seem.",
+      "text": "พวกมันเคยเก็บตัวอยู่แต่ในเขตแดนของตนตราบที่ซีโรมุสยังอยู่ ทว่ายามนี้ดูเหมือนจะไม่เป็นเช่นนั้นแล้ว"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "And once they had discovered a path to the red moon, they wasted no time in making the journey.",
+      "text": "และเมื่อพวกมันค้นพบหนทางที่ทอดสู่ดวงจันทร์สีชาด พวกมันก็ไม่รอช้าที่จะเดินทางมาในทันที"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Leave the voidsent nearby to us. You take care of Enuo!",
+      "text": "ปล่อยพวกวอยด์เซนต์แถวนี้ให้พวกเราจัดการเอง นายไปรับมือกับเอนูโอซะ!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Facing this many foes calls for a more...familiar approach.",
+      "text": "การเผชิญหน้ากับศัตรูจำนวนมากขนาดนี้ จำเป็นต้องใช้วิธีที่... คุ้นเคยหน่อยนะ"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Voidsent can change their form at will─both Light and Darkness are mine to wield.",
+      "text": "พวกวอยด์เซนต์สามารถปรับเปลี่ยนรูปร่างได้ตามต้องการ—และฉันเองก็กวัดแกว่งและใช้พลังได้ทั้งแสงสว่างและความมืด"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Besides, what better to purge Darkness from the void than Darkness itself!",
+      "text": "อีกอย่าง ไม่มีอะไรที่จะช่วยชำระล้างความมืดมิดออกไปจากความว่างเปล่าได้ดีไปกว่าความมืดอีกแล้ว!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Who dares face me? A mere mortal?",
+      "text": "ผู้ใดช่างสามหาวเผชิญหน้ากับข้า? มนุษย์เดินดินธรรมดาอย่างนั้นรึ?"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Hast thou come in search of power? Renown?",
+      "text": "เจ้าก้าวเข้ามาที่นี่เพื่อเสาะหาพลังอำนาจ? หรือชื่อเสียงเกียรติยศกันล่ะ?"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "I fight to end this world without end! All who stand before me shall fall!",
+      "text": "ข้าต่อสู้เพื่อยุติโลกอันไร้สิ้นสุดใบนี้! ผู้ใดที่ยืนต่อหน้าข้าจักต้องดับสูญ!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "All who dare oppose me shall quake before the silken Dark...",
+      "text": "ผู้ใดที่คิดต่อต้านข้าจักต้องสั่นสะท้านต่อความมืดมิดอันละเอียดอ่อนนี้..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "The void's power is mine to wield.",
+      "text": "พลังแห่งวอยด์คือสิ่งที่ข้าสามารถกวัดแกว่งควบคุม"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Perish.",
+      "text": "จงมลายสิ้น"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Be still.",
+      "text": "จงหยุดนิ่ง"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Accept your downfall.",
+      "text": "จงน้อมรับความพินาศของเจ้าซะ"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Doth the yawning rift not tempt you?",
+      "text": "รอยแยกอันกว้างใหญ่ที่อ้าปากรออยู่นั่น มิเย้ายวนใจเจ้าบ้างรึ?"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "The void consumes...",
+      "text": "ห้วงอเวจีจะกลืนกินทุกสิ่ง..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Naught will endure...",
+      "text": "มิมีสิ่งใดจักคงเหลือ..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Neither past nor future...",
+      "text": "ไม่ว่าจะอดีตหรืออนาคต..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Only one certainty remains...",
+      "text": "สิ่งเดียวที่เที่ยงแท้แน่นอน..."
+    },
+    {
+      "character": "Enuo",
+      "text_en": "My triumph!",
+      "text": "ชัยชนะของข้า!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "You have no place here.",
+      "text": "ที่นี่มิใช่ที่ของเจ้า"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Struggle is futile.",
+      "text": "ดิ้นรนไปก็ไร้ค่า"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I've breached the darkness! Let the Light guide you!",
+      "text": "ฉันทะลวงความมืดมิดได้แล้ว! ให้แสงสว่างนำทางนายซะ!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You must break free!",
+      "text": "เจ้าต้องสลัดมันให้หลุด!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "The underlings are no more. Now to deal with Enuo!",
+      "text": "พวกสมุนลิ่วล้อถูกกำจัดหมดแล้ว ตอนนี้เหลือแค่จัดการกับเอนูโอเท่านั้น!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Life and death rendered meaningless...",
+      "text": "ความตายและชีวิตล้วนไร้ความหมายสิ้น..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Light protect us!",
+      "text": "ขอแสงสว่างช่วยปกป้องพวกเราด้วย!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I will not yield my domain!",
+      "text": "ข้าไม่มีวันยอมยกอาณาเขตของข้าให้ใคร!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Such is the power of the void!",
+      "text": "นี่แหละคือพลังแห่งห้วงอเวจี!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "The void shall never cease to be!",
+      "text": "ห้วงอเวจีจักไม่มีวันสิ้นสุด!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "My power is absolute!",
+      "text": "พลังของข้าคือที่สุด!"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "The void's power is mine to wield.",
+      "text": "พลังแห่งวอยด์คือพลังที่ข้าบัญชา"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "And thus did all boundaries cease to be.",
+      "text": "และด้วยเหตุนั้น อาณาเขตปิดกั้นทั้งปวงจักมลายสิ้นลง"
+    },
+    {
+      "character": "Enuo",
+      "text_en": "Behold the truth of this world!",
+      "text": "จงดูความจริงของโลกใบนี้ซะ!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "They must be sealed away!",
+      "text": "พวกมันจะต้องถูกปิดผนึกไปซะ!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "It's over...",
+      "text": "มันจบลงแล้ว..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Enuo's reign is at an end.",
+      "text": "การปกครองของเอนูโอสิ้นสุดลงแล้ว"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I'm glad you came. We would have struggled to face Enuo alone.",
+      "text": "ดีใจจริงๆ ที่นายมาช่วย ลำพังแค่พวกเราสองคนคงลำบากไม่น้อยในการรับมือกับเอนูโอ"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I presume you journeyed here to prevent more voidsent from passing through the gate?",
+      "text": "ฉันเดาว่านายเดินทางมาที่นี่เพื่อป้องกันไม่ให้พวกวอยด์เซนต์ข้ามผ่านประตูมิติไปมากกว่านี้ใช่ไหม?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "With Enuo defeated, there are none left in this realm who pose a serious threat. I daresay the problem is resolved.",
+      "text": "เมื่อเอนูโอพ่ายแพ้ไป ก็ไม่มีใครในภพนี้ที่เป็นภัยคุกคามร้ายแรงได้อีก ปัญหาคงจะคลี่คลายแล้วล่ะ"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Cause for alarm, indeed. Tell us more.",
+      "text": "นั่นเป็นเรื่องที่น่ากังวลจริงๆ เล่าให้พวกเราฟังเพิ่มหน่อยสิ"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Nothing comes to mind. Why do you ask?",
+      "text": "ฉันนึกอะไรไม่ออกเลยล่ะ ทำไมถึงถามอย่างนั้นล่ะ?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "So the breach wasn't limited to the voidgate...",
+      "text": "งั้นแสดงว่ารอยแยกมิติไม่ได้เกิดขึ้นเฉพาะที่วอยด์เกตเท่านั้นสินะ..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "For better or worse, precious little has changed in the Thirteenth since Zeromus fell.",
+      "text": "ไม่ว่าจะดีหรือร้าย ตั้งแต่ซีโรมุสพ่ายแพ้ไป ก็แทบไม่มีอะไรเปลี่ยนแปลงไปเลยในโลกที่สิบสาม"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Have you noticed anything unusual?",
+      "text": "นายสังเกตเห็นสิ่งผิดปกติอะไรบ้างไหม?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I know not the reason events have unfolded this way, but there is, perhaps, an explanation as to why the voidgate and the fissures opened.",
+      "text": "ข้าไม่ทราบเหตุผลที่สถานการณ์ดำเนินไปเช่นนี้ แต่บางทีอาจมีคำอธิบายว่าทำไมวอยด์เกตและรอยแยกมิติทั้งหลายถึงเปิดออก"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Here in my domain, even the slightest change is keenly felt...",
+      "text": "ณ ดินแดนแห่งนี้ แม้แต่ความเปลี่ยนแปลงเพียงเล็กน้อยข้าก็สัมผัสได้อย่างชัดเจน..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "When the gate opened, I sensed not the workings of some external force.",
+      "text": "ยามที่ประตูมิติเปิดออก ข้ามิได้รับรู้ถึงพลังภายนอกที่จงใจเข้ามาแทรกแซงเลย"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Rather, it felt as if the barrier between our worlds was weakening naturally, moment by moment, until the two came to meet.",
+      "text": "กลับรู้สึกราวกับว่า มิติกั้นระหว่างโลกของเราสองอ่อนกำลังลงตามธรรมชาติ ทีละนิดทีละน้อย จนกระทั่งโลกทั้งสองมาประสานกัน"
+    },
+    {
+      "character": "Zero",
+      "text_en": "And you think this...weakening could be happening elsewhere?",
+      "text": "และนายคิดว่า...ความเบาบางนี้อาจจะกำลังเกิดขึ้นในสถานที่อื่นด้วยงั้นเหรอ?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "'Tis a possibility.",
+      "text": "มีความเป็นไปได้เช่นนั้น"
+    },
+    {
+      "character": "Zero",
+      "text_en": "What of Radz-at-Han and Garlemald?",
+      "text": "แล้วทางราซ-อัต-ฮันกับการ์เลมัลด์ล่ะเป็นอย่างไรบ้าง?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Jullus took mercy upon the interloper?",
+      "text": "จุลลัสยอมปรานีต่อผู้บุกรุกอย่างนั้นเหรอ?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Whether voidsent or Garlean, we all share the same longing for home.",
+      "text": "ไม่ว่าจะเป็นพวกวอยด์เซนต์หรือชาวการ์ลีน ต่างก็มีความรู้สึกถวิลหาบ้านเกิดเมืองนอนเหมือนกันทั้งนั้น"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Should we meet, I will gladly offer them aid. Please tell Jullus as much.",
+      "text": "หากได้พบเจอพวกเขา ฉันก็ยินดีที่จะให้ความช่วยเหลือ ฝากไปบอกจุลลัสตามนี้ทีนะ"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Wait─how exactly did you get here? No mortal could traverse the voidgate in its current state.",
+      "text": "เดี๋ยวก่อน—แล้วนายเดินทางมาที่นี่ได้อย่างไรกัน? มนุษย์เดินดินธรรมดาไม่น่าจะสามารถก้าวผ่านวอยด์เกตในสภาพปัจจุบันนี้ได้เลยนี่"
+    },
+    {
+      "character": "Zero",
+      "text_en": "And this path of yours is still there...? I cannot see it.",
+      "text": "แล้วเส้นทางของนายนั่นยังอยู่ตรงนั้นงั้นเหรอ...? ฉันมองไม่เห็นมันเลย"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Nor does it reveal itself to me. Perhaps the path serves only the key-bearer.",
+      "text": "ทางนั้นก็ไม่ปรากฏให้ข้าเห็นเช่นกัน บางที เส้นทางนี้อาจต้อนรับเพียงผู้ถือครองกุญแจเท่านั้น"
+    },
+    {
+      "character": "Zero",
+      "text_en": "So it is not a means to travel freely back and forth. A pity. I would have liked to see my friends again...",
+      "text": "งั้นมันก็ไม่ใช่เส้นทางที่จะใช้เดินทางไปกลับได้อย่างอิสระสินะ น่าเสียดายจัง... ความจริงฉันเองก็อยากกลับไปเจอเพื่อนๆ อีกสักครั้งเหมือนกัน..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "That key of yours intrigues me. Had my former self known of its existence, I might have sought different means to reach the Source...",
+      "text": "กุญแจดอกนั้นช่างน่าสนใจยิ่งนัก หากตัวข้าในอดีตรับรู้ว่ามีของสิ่งนี้ดำรงอยู่ ข้าอาจจะแสวงหาหนทางอื่นในการมุ่งหน้าสู่เดอะซอร์สแทนแล้ว..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Where in the blazes did you go!? Y'shtola and G'raha Tia went off to help the others, in case you were wondering.",
+      "text": "เธอหายตัวไปอยู่ส่วนไหนของโลกกันเนี่ย!? เผื่อจะอยากรู้นะ วาย'ชโตลากับจี'ราฮา เทียออกเดินทางไปช่วยเหลือคนอื่นๆ แล้วล่ะ!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Hmm? Something for me?",
+      "text": "หืม? ของสำหรับฉันงั้นเหรอ?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "That smell... Food, is it?",
+      "text": "กลิ่นแบบนี้... ของกินงั้นเหรอ?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Ah, I recall Jullus speaking of the dumplings his mother used to make.",
+      "text": "อา ฉันจำได้ว่าจุลลัสเคยพูดถึงเกี๊ยวฝีมือแม่ของเขา"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Thank you for the parcel...and the fond memories.",
+      "text": "ขอบคุณสำหรับห่อของขวัญนี้... และความทรงจำดีๆ นะ"
+    },
+    {
+      "character": "Zero",
+      "text_en": "There's more than enough to share with Golbez. Now that he forgoes the aether of others, I'm sure he'll appreciate the sustenance.",
+      "text": "มีเยอะเกินพอที่จะแบ่งปันให้โกลเบซด้วยล่ะ ในเมื่อตอนนี้เขาไม่กลืนกินเอเธอร์ของผู้อื่นแล้ว ฉันมั่นใจว่าเขาจะต้องยินดีกับอาหารมื้อนี้แน่นอน"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I sometimes wonder what the void would be like if culinary traditions flourished here once more─whether it would suffice to break the cycle of mutual consumption. A heartening thought, if nothing else...",
+      "text": "บางครั้งฉันก็นึกสงสัยอยู่เหมือนกันว่า ดินแดนแห่งความว่างเปล่านี้จะเป็นอย่างไรหากวัฒนธรรมการปรุงอาหารกลับมารุ่งเรืองอีกครั้ง—มันจะเพียงพอต่อการยุติวัฏจักรการกลืนกินซึ่งกันและกันหรือไม่นะ แค่คิดก็น่าชื่นใจแล้วล่ะ..."
+    }
+  ]
+}

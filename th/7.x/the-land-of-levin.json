@@ -1,0 +1,648 @@
+{
+  "id": "the-land-of-levin",
+  "wiki_path": "/wiki/The_Land_of_Levin",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c8/The_Land_of_Levin.png",
+  "patch": "7.0",
+  "title_en": "The Land of Levin",
+  "title": "ดินแดนแห่งสายฟ้า",
+  "level": "97",
+  "location": "Heritage Found(X:34.4,Y:35.3)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "This is Yyasulani...?",
+      "text": "นี่คือยาสุรานีจริงๆ เหรอ...?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There was no sensation of passing into a different world. This couldn't be a reflection...could it?",
+      "text": "ตอนเข้ามาก็ไม่ยักรู้สึกว่าข้ามไปอีกโลกหนึ่งเลยแฮะ หรือว่าที่นี่จะไม่ใช่โลกต่างมิติกันนะ...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't know what I was expecting, but it wasn't this.",
+      "text": "ฉันเองก็ไม่รู้เหมือนกันว่าคาดหวังจะเจออะไร แต่ต้องไม่ใช่สภาพแบบนี้แน่ๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Things keep getting stranger and stranger...",
+      "text": "เรื่องราวชวนปวดหัวประดังประเดเข้ามาไม่หยุดเลย..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It doesn't make sense...",
+      "text": "มันไม่สมเหตุสมผลเลย..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That tower—was it always there?",
+      "text": "ไอ้หอคอยนั่น... มันตั้งอยู่ตรงนี้แต่แรกแล้วเหรอ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No, definitely not. Nor the wall over there.",
+      "text": "ไม่มีทางแน่นอนครับ รวมถึงกำแพงตรงนั้นด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The material's not something we use in Tural. It's closer to what we saw at the gate to the golden city, or those mechanical soldiers.",
+      "text": "วัสดุพวกนั้นไม่ใช่สิ่งที่เราใช้ในทูรัลเลย มันใกล้เคียงกับสิ่งที่เราเห็นตรงประตูสู่เมืองทองคำ หรือพวกทหารกลไกพวกนั้นมากกว่า"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Such a massive structure couldn't possibly have been built in so short a time.",
+      "text": "สิ่งก่อสร้างขนาดใหญ่โตมโหฬารขนาดนี้ ไม่มีทางสร้างเสร็จในระยะเวลาสั้นๆ ได้แน่นอนค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then I'm inclined to assume we've been transported to another location. Or perhaps...",
+      "text": "งั้นผมก็เอนเอียงไปทางสมมติฐานที่ว่าพวกเราอาจจะถูกส่งตัวมายังสถานที่อื่น หรือไม่ก็..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, speculation will avail us naught. We need to learn more before we can draw conclusions.",
+      "text": "เอาเถอะ... คาดเดาไปตอนนี้ก็ไม่มีประโยชน์อะไร พวกเราต้องสืบหาข้อมูลให้มากกว่านี้ก่อนจะด่วนสรุปดีกว่าครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's take a look around, then.",
+      "text": "งั้นลองไปสำรวจรอบๆ กันเถอะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This place is isolated by the dome, yet the skies are heavy with thunderclouds. The air oversaturated with lightning-aspected aether...",
+      "text": "สถานที่แห่งนี้ถูกแยกตัวออกไปด้วยโดมบาเรีย แต่บนฟากฟ้ากลับเต็มไปด้วยเมฆฝนฟ้าคะนอง อากาศรอบตัวอัดแน่นไปด้วยอีเธอร์ธาตุสายฟ้าจนเกินขนาด..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I recognize the lay of the land. It's definitely Yyasulani. And yet...",
+      "text": "ผมจำลักษณะภูมิประเทศรอบๆ ได้ครับ ที่นี่คือยาสุรานีไม่ผิดแน่ แต่ถึงอย่างนั้น..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Haven't seen anyone so far...",
+      "text": "จนถึงตอนนี้ยังไม่เห็นใครสักคนเลย..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This place is unnatural in a way I've never seen before.",
+      "text": "ที่นี่ดูผิดธรรมชาติในแบบที่ผมไม่เคยพบเห็นมาก่อนเลยล่ะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That looks like a train station, doesn't it?",
+      "text": "นั่นดูเหมือนสถานีรถไฟเลยใช่ไหมล่ะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That must be Yyasulani Station, where the passengers disembarked!",
+      "text": "นั่นต้องเป็นสถานียาสุรานี จุดที่ผู้โดยสารลงรถแน่ๆ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then perhaps we'll find someone to talk to there. Let's go and investigate.",
+      "text": "ถ้าอย่างนั้น เราอาจจะเจอใครบางคนพอให้สอบถามได้ที่นั่น ลองไปตรวจสอบกันดูเถอะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This aetheryte is of Turali design.",
+      "text": "อีเธอร์ไรต์ตรงนี้มีรูปแบบโครงสร้างแบบชาวทูรัลล่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's fallen into total disrepair. Almost as if it hasn't been used in decades...",
+      "text": "มันพังเสียหายยับเยินเลย... เกือบจะเหมือนกับว่าไม่ได้เปิดใช้งานมาเป็นสิบๆ ปีแล้วงั้นแหละ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Amidst enormous alien structures, we have more familiar sights like this station...",
+      "text": "ท่ามกลางสิ่งก่อสร้างแปลกตาขนาดมหึมาพวกนี้ ยังมีสิ่งที่เราคุ้นเคยอย่างสถานีแห่งนี้อยู่ด้วยสินะ..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is a water tower for trains, isn't it?",
+      "text": "นี่คือหอเก็บน้ำสำหรับเติมรถไฟใช่ไหมนะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmm. I'm pretty sure this is Yyasulani Station...",
+      "text": "อืม... ฉันมั่นใจว่านี่คือสถานียาสุรานีนะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But from the state of it, I'd swear it was abandoned years ago.",
+      "text": "แต่สภาพแบบนี้ ฉันกล้าสาบานเลยว่ามันน่าจะถูกทิ้งร้างมาหลายปีแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm not sure what to make of this. We should look around a bit more.",
+      "text": "ฉันสับสนไปหมดแล้วสิ ลองเดินดูรอบๆ กันอีกหน่อยเถอะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think this thing is broken.",
+      "text": "ฉันว่าไอ้เครื่องนี้มันพังไปแล้วนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Finished poking around, have you? Let's gather everyone, then. I want you all to take a look at this.",
+      "text": "สำรวจกันเรียบร้อยแล้วใช่ไหม? งั้นเรียกทุกคนมารวมตัวกันเถอะ ฉันอยากให้ทุกคนมาดูนี่หน่อย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's one of the mechanical soldiers. Long since broken, apparently.",
+      "text": "มันคือหนึ่งในพวกทหารกลไกน่ะ ดูเหมือนว่าจะพังมานานแล้วล่ะนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I'd say its presence confirms this is indeed Zoraal Ja's domain we're in.",
+      "text": "แต่การมีอยู่ของมันก็น่าจะยืนยันได้แล้วว่าเรากำลังอยู่ในดินแดนของโซราล จา จริงๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What about the rest of you? Did you learn anything?",
+      "text": "แล้วพวกเธอที่เหลือล่ะ เจอข้อมูลอะไรน่าสนใจบ้างไหม?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So all evidence suggests this is Yyasulani Station...",
+      "text": "หลักฐานทุกอย่างบ่งชี้ว่านี่คือสถานียาสุรานีจริงๆ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Aye, and I've no doubt we're in Yyasulani. But I don't understand why these buildings are so run-down.",
+      "text": "ครับ และผมเองก็มั่นใจว่าที่นี่คือยาสุรานี แต่ไม่เข้าใจว่าทำไมสิ่งก่อสร้างพวกนี้ถึงได้ทรุดโทรมขนาดนี้"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They were completed barely a year ago.",
+      "text": "พวกมันเพิ่งจะสร้างเสร็จได้ไม่ถึงปีด้วยซ้ำ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "For new structures to deteriorate and enormous ones to appear in a flash... If I didn't know better, I'd say time flows differently here.",
+      "text": "การที่สิ่งก่อสร้างใหม่ๆ จะทรุดโทรมลงได้ขนาดนี้ แถมยังมีสิ่งก่อสร้างขนาดยักษ์โผล่มาทันทีทันใด... ถ้าไม่คิดอะไรมาก ฉันคงนึกว่าเวลาของที่นี่เดินเร็กว่าปกติไปแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is such a thing even possible?",
+      "text": "เรื่องแบบนั้นมันจะเป็นไปได้ยังไงกัน?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We have encountered this phenomenon before, as it so happens.",
+      "text": "บังเอิญว่าพวกเราเคยเผชิญกับปรากฏการณ์ทำนองนี้มาก่อนแล้วน่ะสิครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though it may be difficult to believe, our world is but one of several. In some respects they are similar to one another, but in others wholly different. We call them reflections.",
+      "text": "แม้จะยากที่จะเชื่อ แต่โลกของเราเป็นเพียงหนึ่งในหลายๆ โลกที่แยกออกจากกัน ในบางแง่มุมก็คล้ายกัน แต่ในแง่มุมอื่นกลับแตกต่างกันโดยสิ้นเชิง พวกเราเรียกพวกมันว่าโลกเงาสะท้อนครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Simply put, the rift between dimensions causes time to flow at a different pace in each world. While hours pass in one, years may have come and gone in another.",
+      "text": "พูดง่ายๆ ก็คือ รอยแยกมิตินั้นส่งผลให้เวลาเดินด้วยความเร็วที่แตกต่างกันในแต่ละโลก ในขณะที่โลกหนึ่งเพิ่งผ่านไปไม่กี่ชั่วโมง แต่อีกโลกหนึ่งอาจผ่านไปแล้วหลายปีเลยก็ได้ครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But if this is Yyasulani, then we should still be in the Source. The flow of time should be synchronized.",
+      "text": "แต่ถ้าที่นี่คือยาสุรานี พวกเราก็น่าจะยังอยู่ในโลกเดิม (Source) สิคะ การไหลของเวลาก็ควรจะเท่ากันกับปกติ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm not sure I follow all this talk of reflections and dimensions...",
+      "text": "ฉันไม่ค่อยเข้าใจเรื่องโลกเงาสะท้อนกับมิติอะไรพวกนี้เท่าไหร่หรอกนะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if Erenville says this is Yyasulani, then it must be.",
+      "text": "แต่ในเมื่อเอเรนวิลล์ยืนยันว่านี่คือยาสุรานี มันก็ต้องใช่ตามนั้นแหละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your village is a little further along, right?",
+      "text": "หมู่บ้านของนายอยู่ถัดไปอีกนิดใช่ไหม?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville!",
+      "text": "เอเรนวิลล์!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Oh, uh...",
+      "text": "อ๊ะ... เอ้อ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Y-Yes. It's a short distance to the northwest.",
+      "text": "คะ... ครับ เดินไปอีกไม่ไกลทางตะวันตกเฉียงเหนือ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's head there next, then. Rather than talk theory, it's always better to confirm things firsthand.",
+      "text": "งั้นจุดหมายต่อไปคือที่นั่นแหละ แทนที่จะมานั่งเถียงทฤษฎีกัน ไปเห็นให้รู้กับตาตัวเองเลยดีกว่า"
+    },
+    {
+      "character": "???",
+      "text_en": "<bzzzt> May I...be of assistance?",
+      "text": "<ซ่า... ซ่า...> มีอะไร... ให้ช่วยเหลือไหมครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I-It's still functioning!?",
+      "text": "มะ... มันยังทำงานได้อยู่อีกเหรอ!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It doesn't seem to be hostile, at least. Perhaps we can ask it some questions.",
+      "text": "อย่างน้อยมันก็ดูไม่มีท่าทีเป็นศัตรูนะ ลองถามข้อมูลจากมันดูดีไหม"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Can you tell us where we are?",
+      "text": "ช่วยบอกเราหน่อยได้ไหมว่าที่นี่คือที่ไหน?"
+    },
+    {
+      "character": "Defective Automaton",
+      "text_en": "Unable to confirm credentials. <bzzzt> Please present citizen identification.",
+      "text": "ไม่สามารถตรวจสอบสิทธิ์การใช้งานได้ <ซ่า... ซ่า...> กรุณาแสดงบัตรประจำตัวประชาชน"
+    },
+    {
+      "character": "Defective Automaton",
+      "text_en": "Unable to confirm credentials. <bzzzt> Confirm. <bzzzt> Confirm. <bzzzt>",
+      "text": "ไม่สามารถตรวจสอบสิทธิ์การใช้งานได้ <ซ่า... ซ่า...> ยืนยันการทำงาน <ซ่า... ซ่า...> ยืนยันการทำงาน <ซ่า... ซ่า...>"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Seems it's broken after all...",
+      "text": "ดูเหมือนว่ามันจะพังจริงๆ นั่นแหละ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "T-Too strange by half... Let's leave it be and get going.",
+      "text": "ชวนหัวจะปวดชะมัด... ปล่อยมันไว้ตรงนี้แล้วไปต่อกันเถอะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Are those lightning rods?",
+      "text": "นั่นคือเสาล่อฟ้าเหรอครับ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Would you accompany me for a moment? There's something I wish to investigate.",
+      "text": "มากับผมสักครู่ได้ไหมครับ? มีบางอย่างที่ผมอยากลองไปตรวจสอบดูหน่อยน่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Look there. The lightning appears to be drawn to those pole-shaped structures over yonder.",
+      "text": "ดูตรงนั้นสิครับ สายฟ้าดูเหมือนจะถูกดึงดูดเข้าหาโครงสร้างรูปเสาพวกนั้นน่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The design suggests they're some manner of lightning rod.",
+      "text": "ดูจากดีไซน์แล้ว มันน่าจะเป็นเสาล่อฟ้าประเภทหนึ่งนะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let's go and take a closer look.",
+      "text": "พวกเราลองไปดูใกล้ๆ กันเถอะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This material appears to be the same as that used in the mechanical soldiers and warships.",
+      "text": "วัสดุชิ้นนี้ดูจะเหมือนกับวัสดุที่ใช้ทำทหารกลไกกับเรือรบเลยแฮะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "On closer inspection, it appears to bear fine etchings... Rather reminiscent of arcane runes, these. I suspect they're not merely decorative.",
+      "text": "พอเพ่งมองดูดีๆ จะเห็นว่ามีลวดลายสลักอย่างประณีต... สภาพเหมือนกับอักษรรูนโบราณเลยครับ ผมคิดว่าไม่ใช่แค่ลายตกแต่งธรรมดาแน่"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I would posit it's used to harness lightning as a source of energy. Quite impressive technology.",
+      "text": "ผมนึกเดาเอาว่ามันน่าจะใช้สำหรับกักเก็บและควบคุมพลังงานสายฟ้ามาใช้งาน เทคโนโลยีล้ำยุคจนน่าทึ่งทีเดียวครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I'll share this observation with Y'shtola. For a blessing, the dome doesn't appear to interfere with linkpearls.",
+      "text": "เดี๋ยวผมจะเอาข้อสังเกตนี้ไปเล่าให้วาย'ชโตลาฟังนะ โชคดีที่โดมนี่ไม่ได้รบกวนสัญญาณลิงก์เพิร์ล"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Thanks for accompanying me. Let's head to the village and find the others.",
+      "text": "ขอบคุณที่เดินมาเป็นเพื่อนนะครับ รีบตามไปสมทบกับพวกที่เหลือในหมู่บ้านกันเถอะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is Erenville's village...?",
+      "text": "นี่คือหมู่บ้านของเอเรนวิลล์เหรอ...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, Erenville...",
+      "text": "โธ่ เอเรนวิลล์..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's stay vigilant.",
+      "text": "เตรียมตัวระวังภัยไว้ให้ดีนะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No sign of anyone...",
+      "text": "ไม่เห็นวี่แววของใครเลยแฮะ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What in the world...?",
+      "text": "เกิดอะไรขึ้นกันแน่เนี่ย...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "My home... It's in ruins. But why—what happened here?",
+      "text": "บ้านของผม... มันพังทลายเป็นซากหมดเลย แต่เพราะอะไรล่ะ... มันเกิดอะไรขึ้นที่นี่กันแน่?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And where is everyone?",
+      "text": "แล้วทุกคนหายไปไหนหมด?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I had a look in a few of the other houses, but they had clearly been abandoned.",
+      "text": "ฉันลองชะโงกหน้าเข้าไปดูในบ้านหลังอื่นๆ สองสามหลังแล้วล่ะค่ะ ดูท่าทางจะถูกทิ้งร้างไปหมดแล้วจริงๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it all! None of this makes sense!",
+      "text": "บ้าเอ๊ย! ไม่เข้าใจเลยสักอย่างเดียว!"
+    },
+    {
+      "character": "???",
+      "text_en": "Excuse me... Are you looking for someone?",
+      "text": "ขอประทานโทษนะคะ... กำลังตามหาใครกันอยู่หรือเปล่าเอ่ย?"
+    },
+    {
+      "character": "???",
+      "text_en": "[GIGGLING]",
+      "text": "[เสียงหัวเราะคิกคัก]"
+    },
+    {
+      "character": "???",
+      "text_en": "I apologize for giving you a fright. However, I did have reason to keep to the shadows.",
+      "text": "ขอโทษด้วยนะคะที่ทำให้ตกใจ แต่ที่ต้องคอยแอบๆ ซ่อนๆ แบบนี้ก็มีเหตุผลจำเป็นอยู่ค่ะ"
+    },
+    {
+      "character": "???",
+      "text_en": "Zoraal Ja has told me a great deal about you.",
+      "text": "โซราล จา เล่าเรื่องราวเกี่ยวกับพวกคุณให้ฉันฟังเยอะแยะเลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja?",
+      "text": "โซราล จา งั้นเหรอ?"
+    },
+    {
+      "character": "???",
+      "text_en": "Greetings, and welcome to the realm of Alexandria.",
+      "text": "ยินดีต้อนรับสู่ดินแดนแห่งอเล็กซานเดรียค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am Sphene, the Queen of Reason.",
+      "text": "ฉันชื่อสฟีน เป็นราชินีแห่งเหตุผล (Queen of Reason)"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Queen of Reason?",
+      "text": "ราชินีแห่งเหตุผล?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If you are the Queen of Reason, is there perhaps a...?",
+      "text": "ถ้าคุณคือราชินีแห่งเหตุผล แสดงว่าที่นี่ก็น่าจะมี...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes—if you mean to ask if there is a King of Resolve. Zoraal Ja holds that title, and together do we reign.",
+      "text": "ใช่ค่ะ... ถ้าคุณจะถามว่ามีราชาแห่งปณิธาน (King of Resolve) หรือเปล่า โซราล จา ครองตำแหน่งนั้นอยู่ และเราปกครองดินแดนแห่งนี้ร่วมกันค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then you're both behind the attack on Tuliyollal!",
+      "text": "ถ้างั้น พวกเธอก็ร่วมมือกันบุกโจมตีทูลิโยลลัลสิ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And I doubt you're here to offer us a warm reception.",
+      "text": "และฉันก็คิดว่าเธอไม่ได้มาปรากฏตัวเพื่อต้อนรับขับสู้พวกเราอย่างเป็นมิตรแน่"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, you have it all wrong. I am not come to fight.",
+      "text": "ไม่เลยค่ะ เข้าใจผิดกันไปใหญ่แล้ว ฉันไม่ได้มาเพื่อสู้หรอกนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Zoraal Ja rules alongside me, but that is a matter of expedience. In truth, we are at odds, he and I.",
+      "text": "เรื่องที่โซราล จา มาปกครองร่วมกับฉัน เป็นเพราะสถานการณ์บังคับต่างหากล่ะคะ ความจริงแล้ว ฉันกับเขามีเป้าหมายที่ขัดแย้งกันอย่างสิ้นเชิง"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It is at considerable risk to myself and my people that I come before you to beg your aid.",
+      "text": "การที่ฉันกล้ามาปรากฏตัวต่อหน้าพวกคุณเพื่อขอความช่วยเหลือแบบนี้ ถือเป็นความเสี่ยงครั้งใหญ่ต่อทั้งตัวฉันและประชาชนของฉันเลยล่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Our aid? I'll admit I cannot imagine King Zoraal Ja is keen to share and share alike, but if what you say is true, you're still the queen.",
+      "text": "ขอความช่วยเหลือจากพวกเราเหรอ? ฉันยอมรับนะว่านึกภาพราชาโซราล จา แบ่งปันอำนาจให้ใครไม่ออกจริงๆ แต่ถ้าที่เธอพูดเป็นความจริง เธอก็ยังเป็นถึงราชินีนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...Indeed. But I was once the sole ruler of Alexandria.",
+      "text": "...ก็จริงค่ะ แต่ก่อนหน้านี้ฉันเคยเป็นผู้ปกครองเพียงหนึ่งเดียวของอเล็กซานเดรีย"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Until, one day, he appeared, bent on conquest. In my weakness, I feared his power...",
+      "text": "จนกระทั่งวันหนึ่ง จู่ๆ เขาก็ปรากฏตัวขึ้นโดยมีจุดประสงค์ที่จะยึดครองดินแดนนี้ ในยามที่ฉันอ่อนแอ ฉันหวาดกลัวในพลังของเขาเหลือเกิน..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So I persuaded him to forego violence and strike a bargain. I would remain queen, and he would receive technology that would empower him to achieve even loftier ambitions—along with the knowledge to use it.",
+      "text": "ฉันก็เลยเกลี้ยกล่อมให้เขาละเว้นการใช้ความรุนแรงแล้วทำข้อตกลงร่วมกัน โดยแลกกับที่ฉันจะได้ดำรงตำแหน่งราชินีต่อไป และเขาจะได้รับเทคโนโลยีรวมถึงองค์ความรู้ที่จะทำให้เขาสมความปรารถนาในเป้าหมายอันยิ่งใหญ่ของตนเอง"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A gamble, to be sure, but if it might spare my people...",
+      "text": "มันคือการเดิมพันครั้งใหญ่เลยล่ะค่ะ แต่หากช่วยรักษาชีวิตประชาชนของฉันไว้ได้..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I may—the dome surrounding these lands was erected but recently.",
+      "text": "ขอถามหน่อยนะคะ... โดมบาเรียที่ล้อมรอบดินแดนแถบนี้เพิ่งจะถูกสร้างขึ้นมาไม่นานนี้เอง"
+    },
+    {
+      "character": "Krile",
+      "text_en": "How is it he was able to not only invade, but instate a new system of leadership in a mere matter of days?",
+      "text": "เป็นไปได้ยังไงที่เขาจะสามารถรุกราน แถมยังตั้งระบบการปกครองใหม่ขึ้นมาได้ภายในเวลาเพียงไม่กี่วันล่ะคะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've never heard of your realm. And this place is—or at least, was—Yyasulani.",
+      "text": "ผมไม่เคยได้ยินชื่ออาณาจักรของคุุณมาก่อนเลย และสถานที่แห่งนี้... อย่างน้อยก็เคยเป็นยาสุรานีมาก่อน"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The house I grew up in is still here.",
+      "text": "บ้านที่ผมเติบโตมาก็ยังตั้งอยู่ที่นี่"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But three years ago, that tower and these strange contrivances weren't. Nor was our village in ruins.",
+      "text": "แต่ทว่าเมื่อสามปีก่อน หอคอยนั่นรวมถึงอุปกรณ์ประหลาดพวกนี้ไม่ได้อยู่ตรงนี้แน่ และหมู่บ้านของเราก็ไม่ได้พังยับเยินขนาดนี้ด้วย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Where did you come from, and what happened to the people who lived here? You must know!",
+      "text": "พวกคุณมาจากไหนกันแน่ แล้วเกิดอะไรขึ้นกับผู้คนที่เคยอาศัยอยู่ที่นี่กันครับ? คุณต้องรู้เรื่องนี้แน่ๆ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I realize how confusing this all must be. Truth be told, I don't fully understand it myself.",
+      "text": "ฉันเข้าใจดีค่ะว่าพวกคุณคงจะสับสนกันมาก เอาเข้าจริง แม้แต่ตัวฉันเองก็ยังไม่ค่อยเข้าใจสถานการณ์ดีนักหรอกค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What I can say is that, one day, people from your Tuliyollal suddenly appeared here in Alexandria. Or perhaps it was we who found ourselves in Tuliyollal...",
+      "text": "สิ่งที่ฉันบอกได้ก็คือ วันหนึ่ง จู่ๆ ผู้คนจากทูลิโยลลัลของคุณก็โผล่มาที่อเล็กซานเดรียแห่งนี้ หรือไม่... ก็อาจจะเป็นฝั่งพวกเราเองที่ข้ามมิติมาโผล่ที่ทูลิโยลลัลกันแน่..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Until but recently, we were completely unaware of events taking place beyond the barrier surrounding our realm.",
+      "text": "จนกระทั่งเมื่อไม่นานมานี้ พวกเราไม่รู้เรื่องอะไรเลยเกี่ยวกับเหตุการณ์ที่เกิดขึ้นภายนอกโดมบาเรียที่ล้อมรอบดินแดนของเราค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Does this not remind you of the Crystal Tower? How after the Eighth Umbral Calamity, we devised a means to transport the spire across time and space from the Source unto the First?",
+      "text": "เรื่องนี้ชวนให้นึกถึงหอคอยคริสตัล (Crystal Tower) เลยนะครับ ที่หลังจากมหาวิบัติอัมบรัลที่แปด พวกเราคิดค้นหาวิธีส่งหอคอยข้ามเวลาและมิติจากโลกเดิม (Source) ไปยังโลกที่หนึ่ง (First) น่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Granted, this is on a much larger scale, if that is indeed what has happened. Not only the people and structures, but also the surrounding environment...",
+      "text": "ถึงแม้ว่าถ้าเรื่องที่เกิดขึ้นนี้เป็นเรื่องจริง ขนาดของมันจะใหญ่โตกว่ามากก็เถอะครับ เพราะไม่ได้มีแค่คนกับสิ่งก่อสร้าง แต่ยังรวมถึงสภาพแวดล้อมโดยรอบทั้งหมดด้วย..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Regardless, the people of Lakeland perceived the arrival of the Crystal Tower much as the queen describes her own experience—sudden and inexplicable.",
+      "text": "อย่างไรก็ตาม ชาวเมืองเลคแลนด์เองก็รู้สึกถึงการปรากฏตัวของหอคอยคริสตัลในแบบเดียวกันกับที่ราชินีอธิบายประสบการณ์ของเธอเลยครับ... คือเกิดขึ้นอย่างกะทันหันและไม่สามารถหาคำอธิบายได้"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Well then. You appear to have a better grasp of our circumstances than we do. Indeed, more than I dared hope.",
+      "text": "วิเศษไปเลยค่ะ ดูเหมือนพวกคุณจะเข้าใจสถานการณ์ของพวกเราได้ดีกว่าฝั่งเราเองเสียอีกนะคะเนี่ย เข้าใจได้ดีเกินกว่าที่ฉันกล้าหวังไว้เสียอีก"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In which case, a closer examination of the effects of this phenomenon may afford us more insights. Allow me to take you to the outskirts.",
+      "text": "ถ้าอย่างนั้น หากเราลองไปตรวจสอบผลกระทบของปรากฏการณ์นี้ในจุดอื่นๆ อย่างละเอียด ก็น่าจะช่วยให้พวกเราได้เบาะแสมากขึ้นนะคะ เดี๋ยวฉันจะพาทุกคนไปที่พื้นที่แถบชานเมืองค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A number of the Shetona live there as well. Perhaps your acquaintances are among them.",
+      "text": "ที่นั่นมีชาวเชโตนาอาศัยอยู่จำนวนหนึ่งด้วยล่ะค่ะ เผลอๆ คนที่พวกคุณรู้จักอาจจะอยู่ที่นั่นกันก็ได้นะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hold on. If we accept, there's no guarantee we're not walking into a trap.",
+      "text": "เเดี๋ยวก่อนสิ ถ้าพวกเราตกลงตามไป ก็ไม่มีอะไรมารับประกันเลยนะว่าพวกเราจะไม่ป้อนตัวเองเข้าสู่กับดักน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if we're to defeat Zoraal Ja, we need to understand how he grew so strong. Besides...",
+      "text": "แต่ถ้าเราคิดจะโค่นโซราล จา ลงให้ได้ เราก็จำเป็นต้องเข้าใจนะว่าทำไมเขาถึงแข็งแกร่งขึ้นขนาดนี้ อีกอย่าง..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're right.",
+      "text": "นั่นสินะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Queen Sphene? Before we go, Your Majesty, I have to ask. Did you really have nothing to do with the attack on Tuliyollal?",
+      "text": "ราชินีสฟีน? ก่อนจะเดินทาง ฉันต้องขอถามเพื่อความแน่ใจหน่อยค่ะ ฝ่าบาทไม่มีส่วนรู้เห็นเกี่ยวกับการบุกโจมตีทูลิโยลลัลจริงๆ หรือคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Noble Wuk Lamat—shall we dispense with the formalities?",
+      "text": "วุค ลามัต ผู้สูงส่ง... เราเลิกใช้คำราชาศัพท์ที่เป็นทางการพวกนั้นดีกว่าไหมคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'll not deny the soldiers and airships that attacked your people are products of Alexandria, but it was Zoraal Ja, not we, who fashioned them into weapons of war and laid siege to Tuliyollal.",
+      "text": "ฉันไม่ปฏิเสธหรอกค่ะว่าทหารและเรือรบเหาะที่ไปโจมตีประชาชนของพวกคุณเป็นสิ่งที่สร้างขึ้นมาจากเทคโนโลยีของอเล็กซานเดรีย แต่ทว่าคนที่เอามันไปดัดแปลงเป็นอาวุธสงครามเพื่อล้อมโจมตีทูลิโยลลัลคือโซราล จา ไม่ใช่ฝั่งพวกเราค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So he alone is to blame.",
+      "text": "แสดงว่าความผิดทั้งหมดเป็นของเขาคนเดียวสินะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...No. I may not have prosecuted this war, but I nevertheless bear responsibility for it.",
+      "text": "...ไม่ใช่หรอกค่ะ ถึงฉันจะไม่ได้เป็นคนเริ่มทำสงครามนี้ขึ้นมา แต่ฉันก็เลี่ยงความรับผิดชอบไปไม่ได้อยู่ดี"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Perhaps. I know next to nothing about you, let alone what you've been through.",
+      "text": "ก็อาจจะจริง แต่ตอนนี้ฉันแทบไม่รู้จักอะไรเกี่ยวกับตัวเธอเลย ยิ่งไม่ต้องพูดถึงเรื่องที่เธอเคยผ่านมาด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So by all means—show us around. I think we'll learn a lot from meeting your people.",
+      "text": "เพราะงั้น นำทางไปได้เลยค่ะ... ฉันคิดว่าการได้พบปะกับประชาชนของเธอคงจะช่วยให้เราได้เรียนรู้อะไรอีกเยอะแยะเลยล่ะ"
+    },
+    {
+      "character": "Sphene (no text)",
+      "text_en": "Oh...",
+      "text": "อ๊ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wonderful! If you would follow me.",
+      "text": "ดีจังเลยค่ะ! งั้นเชิญตามฉันมาทางนี้ได้เลยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Is that concern? Or suspicion?",
+      "text": "นั่นคือความเป็นห่วงงั้นเหรอคะ? หรือว่ากำลังระแวงฉันอยู่กันแน่นะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If things should take a turn for the worse...",
+      "text": "สมมติว่าถ้าเกิดเรื่องเลวร้ายขึ้นมาจริงๆ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Might I call upon your aid?",
+      "text": "ฉันจะขอความช่วยเหลือจากคุณบ้างได้ไหมคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I jest, of course! But you do strike me as the most capable here.",
+      "text": "พูดเล่นน่ะค่ะ! แต่คุณดูเหมือนจะเป็นคนที่พึ่งพาได้มากที่สุดในกลุ่มนี้เลยนะคะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I think it goes without saying, but we're not going to trust her just like that, right?",
+      "text": "ไม่ต้องเตือนก็คงรู้นะว่าเราไม่มีทางเชื่อใจยัยนั่นง่ายๆ ใช่ไหมล่ะ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Any way you look at it, a mysterious girl who appears out of nowhere, proclaiming herself a queen is suspicious...",
+      "text": "ไม่ว่าจะมองมุมไหน เด็กสาวลึกลับที่จู่ๆ ก็โผล่มาจากไหนไม่รู้แล้วอ้างตัวเป็นราชินีนี่มันก็น่าสงสัยชะมัด..."
+    }
+  ]
+}

@@ -1,0 +1,830 @@
+{
+  "quest_id": "operation-archon",
+  "dialogues": [
+    {
+      "key": "allpresentthenletusbegin",
+      "text_en": "All present? Then let us begin.",
+      "text": "มากันพร้อมหน้าแล้วใช่ไหม ถ้าอย่างนั้นก็เริ่มกันเลย"
+    },
+    {
+      "key": "wehavereceivedthedetailsoftheimpendingoperation",
+      "text_en": "We have received the details of the impending operation.",
+      "text": "เราได้รับรายละเอียดของปฏิบัติการที่กำลังจะเกิดขึ้นแล้ว"
+    },
+    {
+      "key": "inwhatpromisestobethelargestsinglecounteroffensiveintherealmstroubledhistorythealliancewillstrikeateveryimperialstrongholdstandinguponeorzeansoil",
+      "text_en": "In what promises to be the largest single counteroffensive in the realm's troubled history, the Alliance will strike at every imperial stronghold standing upon Eorzean soil.",
+      "text": "ในการรบที่มั่นหมายว่าจะเป็นการโต้กลับครั้งยิ่งใหญ่ที่สุดในประวัติศาสตร์อันแสนปั่นป่วนของดินแดนนี้ พันธมิตรจะบุกโจมตีค่ายทหารของจักรวรรดิทุกแห่งที่ตั้งอยู่บนแผ่นดินเอออร์เซีย"
+    },
+    {
+      "key": "asmightbeexpectedtheoperationwillbecomplexbutyouneednotcommititsintricaciestomemory",
+      "text_en": "As might be expected, the operation will be complex, but you need not commit its intricacies to memory.",
+      "text": "อย่างที่พอจะเดาได้ ปฏิบัติการนี้ย่อมซับซ้อน แต่ไม่จำเป็นต้องจำรายละเอียดอันยิบย่อยทั้งหมดหรอก"
+    },
+    {
+      "key": "itisenoughthateachmanunderstandshispartandplaysittothebestofhisability",
+      "text_en": "It is enough that each man understands his part and plays it to the best of his ability.",
+      "text": "ขอเพียงทุกคนเข้าใจหน้าที่ของตนเองและทำหน้าที่ให้ดีที่สุดก็พอแล้ว"
+    },
+    {
+      "key": "thefinerinstructionsyouwillreceiveateachstagingpoint",
+      "text_en": "The finer instructions, you will receive at each staging point.",
+      "text": "ส่วนคำสั่งอย่างละเอียดจะแจ้งให้ทราบ ณ จุดรวมพลแต่ละแห่ง"
+    },
+    {
+      "key": "tobeginletusreviewthedistributionofourforces",
+      "text_en": "To begin, let us review the distribution of our forces.",
+      "text": "ก่อนอื่น เรามาทบทวนการจัดวางกำลังพลกันก่อน"
+    },
+    {
+      "key": "fromwesttoeastthemaelstromoflimsalominsatheimmortalflamesofuldahandtheorderofthetwinadderofgridania",
+      "text_en": "From west to east─the Maelstrom of Limsa Lominsa, the Immortal Flames of Ul'dah, and the Order of the Twin Adder of Gridania.",
+      "text": "ไล่จากทิศตะวันตกไปตะวันออก—กองพลเมลสตรอมแห่งลิมซา โลมินซา, อิมมอร์ทัล เฟลมส์แห่งอุลดาห์ และภาคีทวินแอดเดอร์แห่งกริดาเนีย"
+    },
+    {
+      "key": "nextletusexaminethelocationsoftheimperialstrongholds",
+      "text_en": "Next, let us examine the locations of the imperial strongholds.",
+      "text": "ต่อจากนี้ เรามาดูตำแหน่งที่ตั้งค่ายทหารของจักรวรรดิกัน"
+    },
+    {
+      "key": "nearlimsalominsawehavecastrumoccidenssituatedineasternvylbrandandcastrummarinumwhichliestothesouthandeastinthemidstoftherhotanosea",
+      "text_en": "Near Limsa Lominsa, we have Castrum Occidens, situated in eastern Vylbrand, and Castrum Marinum, which lies to the south and east, in the midst of the Rhotano Sea.",
+      "text": "บริเวณใกล้ลิมซา โลมินซา คาสทรัม ออคซิเดนส์ตั้งอยู่ทางตะวันออกของวิลแบรนด์ และแคสทรัม มารีนัมตั้งอยู่ทางทิศใต้และทิศตะวันออก ท่ามกลางทะเลโรทาโน"
+    },
+    {
+      "key": "nearuldahwehavecastrummeridianumtothenorthandthecoastaloutpostatcapewestwindwhichconnectscastrummarinumtothemainlandbymeansofamagitektransporter",
+      "text_en": "Near Ul'dah, we have Castrum Meridianum to the north, and the coastal outpost at Cape Westwind which connects Castrum Marinum to the mainland by means of a magitek transporter.",
+      "text": "แถบอุลดาห์นั้น คาสตรัม เมอริเดียนุม ตั้งตระหง่านอยู่ทางตอนเหนือ ส่วนแนวชายฝั่งบริเวณแหลมเวสต์วินด์ก็เป็นที่ตั้งของด่านทหารที่เชื่อมแคสทรัม มารีนัม เข้ากับแผ่นดินใหญ่ด้วยเครื่องเคลื่อนย้ายมาจิเทค"
+    },
+    {
+      "key": "neargridaniawehavecastrumorienswhichliesupontheeasternedgeofthetwelveswood",
+      "text_en": "Near Gridania, we have Castrum Oriens, which lies upon the eastern edge of the Twelveswood.",
+      "text": "สำหรับทางฝั่งกริดาเนีย แคสทรัม โอเรียนส์ ตั้งมั่นอยู่บนชายขอบตะวันออกของทเวลฟส์วูด"
+    },
+    {
+      "key": "andfinallyinmordhonastandscastrumcentriathornintheheartofeorzea",
+      "text_en": "And finally, in Mor Dhona...stands Castrum Centri. A thorn in the heart of Eorzea.",
+      "text": "และสุดท้าย ในมอร์ โดนา... คาสตรัม เซนทริ ตั้งตระหง่านอยู่... ดั่งหนามยอกอกในใจของเอโอลเซีย"
+    },
+    {
+      "key": "theforthcomingoperationwillseealliedforcesassaulteachoftheaforementionedlocationswiththeultimateobjectiveofdestroyingtheempiresnewweaponhousedwithincastrummeridianum",
+      "text_en": "The forthcoming operation will see Allied forces assault each of the aforementioned locations, with the ultimate objective of destroying the Empire's new weapon, housed within Castrum Meridianum.",
+      "text": "ยุทธการที่กำลังจะเปิดฉากขึ้นนี้ กองกำลังร่วมพันธมิตรจะเข้าบุกจู่โจมฐานที่มั่นทุกแห่งที่กล่าวมา โดยมุ่งเป้าสูงสุดไปที่การทำลายอาวุธใหม่ของจักรวรรดิซึ่งซ่อนอยู่ภายในคาสตรัม เมอริเดียนุม"
+    },
+    {
+      "key": "asonemightexpectoftheblackwolfsseatofpowercastrummeridianumboastsallbutimpenetrabledefensesifwearetobreachitwemustneedsisolateitfromitssisterstrongholds",
+      "text_en": "As one might expect of the Black Wolf's seat of power, Castrum Meridianum boasts all but impenetrable defenses. If we are to breach it, we must needs isolate it from its sister strongholds.",
+      "text": "สมกับเป็นฐานที่มั่นของหมาป่าทมิฬ คาสตรัม เมอริเดียนุม รายล้อมด้วยปราการป้องกันแน่นหนาจนยากจะหักโค่น หากพวกเราคิดจะบุกฝ่าเข้าไป ก็จำเป็นต้องตัดขาดมันออกจากป้อมปราการบริวารแห่งอื่นๆ เสียก่อน"
+    },
+    {
+      "key": "todootherwisewouldbetoriskbeingcaughttwixthammerandanvil",
+      "text_en": "To do otherwise would be to risk being caught 'twixt hammer and anvil.",
+      "text": "หากทำเป็นอย่างอื่น พวกเราคงเลี่ยงไม่ได้ที่ต้องเสี่ยงตกอยู่ระหว่างค้อนกับทั่งเหล็ก"
+    },
+    {
+      "key": "theoperationwillcomprisefourdistinctphasesalltold",
+      "text_en": "The operation will comprise four distinct phases, all told.",
+      "text": "หากพูดโดยรวม ยุทธการครั้งนี้จะแบ่งออกเป็นสี่ขั้นตอนอย่างชัดเจนครับ"
+    },
+    {
+      "key": "thefirstshallseeuseliminateoneoftheblackwolfsmosttrustedlieutenantsrhitahtynsasarvina",
+      "text_en": "The first shall see us eliminate one of the Black Wolf's most trusted lieutenants─Rhitahtyn sas Arvina.",
+      "text": "สำหรับขั้นตอนแรก พวกเราต้องกำจัดริทาทิน แซส อาร์วินา หนึ่งในขุนพลคู่ใจที่หมาป่าทมิฬไว้วางใจที่สุดครับ"
+    },
+    {
+      "key": "accordingtoourintelligencethepraefectusisduetovisittheimperialoutpostatcapewestwindforaninspection",
+      "text_en": "According to our intelligence, the praefectus is due to visit the imperial outpost at Cape Westwind for an inspection.",
+      "text": "สายข่าวของเรารายงานว่า ท่านผู้บัญชาการมีกำหนดการเดินทางไปตรวจด่านนอกของจักรวรรดิที่แหลมเวสต์วินด์ครับ"
+    },
+    {
+      "key": "whenhearrivesweshalldispatchaneliteadventurerunittoeliminatehimforenamewewouldhaveyouleadthisassault",
+      "text_en": "When he arrives, we shall dispatch an elite adventurer unit to eliminate him. Forename , we would have you lead this assault.",
+      "text": "ทันทีที่เขามาถึง พวกเราจะส่งหน่วยนักผจญภัยระดับยอดฝีมือไปจัดการปลิดชีพเขา... คุณ Forename ผมอยากให้คุณรับหน้าที่เป็นผู้นำการจู่โจมครั้งนี้ครับ"
+    },
+    {
+      "key": "rhitahtynisapeerlessfieldtacticianshornofhisleadershipthegarrisonatcastrumoccidenswillbeasasnakewithoutitshead",
+      "text_en": "Rhitahtyn is a peerless field tactician. Shorn of his leadership, the garrison at Castrum Occidens will be as a snake without its head.",
+      "text": "ริทาทินเป็นนักยุทธวิธีภาคสนามที่หาตัวจับยาก หากไร้ผู้นำ กองกำลังประจำการที่คาสทรัม ออคซิเดนส์ คงเป็นดั่งอสรพิษที่ไร้หัว"
+    },
+    {
+      "key": "phasetwowillseeussevercastrummeridianumsprimarylinesofsupply",
+      "text_en": "Phase two will see us sever Castrum Meridianum's primary lines of supply.",
+      "text": "สำหรับขั้นตอนที่สอง เราจะตัดเส้นทางส่งเสบียงสายหลักของคาสตรัม เมอริเดียนุมครับ"
+    },
+    {
+      "key": "assoonasrhitahtynspresenceisconfirmedatthecoastaloutpostthemaelstromwilllaysiegetocastrumoccidens",
+      "text_en": "As soon as Rhitahtyn's presence is confirmed at the coastal outpost, the Maelstrom will lay siege to Castrum Occidens.",
+      "text": "ทันทีที่ยืนยันการปรากฏตัวของริทาทิน ณ ด่านนอกชายฝั่งได้ กองพลเมลสตรอมจะเริ่มปิดล้อมคาสทรัม ออคซิเดนส์ทันทีครับ"
+    },
+    {
+      "key": "atthatveryhourthelominsanarmadahelmedbytheadmiralherselfshallmovetoblockadecastrummarinum",
+      "text_en": "At that very hour, the Lominsan Armada, helmed by the Admiral herself, shall move to blockade Castrum Marinum.",
+      "text": "ในเวลาเดียวกัน กองเรือโลมินซันซึ่งนำโดยท่านผู้บัญชาการทหารเรือเอง จะเคลื่อนพลเข้าปิดล้อมแคสทรัม มารีนัมครับ"
+    },
+    {
+      "key": "meanwhileinthetwelveswoodtheorderofthetwinadderwillsurroundcastrumoriens",
+      "text_en": "Meanwhile, in the Twelveswood, the Order of the Twin Adder will surround Castrum Oriens.",
+      "text": "ในขณะเดียวกัน ทางฝั่งทเวลฟส์วูด ภาคีทวินแอดเดอร์จะเข้าโอบล้อมแคสทรัม โอเรียนส์ไว้ค่ะ"
+    },
+    {
+      "key": "andtheyllhavethesylphstohelpthemfrixiosbeenwaitingforachancetoavengetheseones",
+      "text_en": "And they'll have the sylphs to help them! Frixio's been waiting for a chance to avenge these ones!",
+      "text": "แถมพวกเขายังได้เผ่าซิลฟ์มาช่วยอีกแรงด้วย! ฟริกซิโอรอโอกาสทวงแค้นให้พวกพ้องมานานแล้ว!"
+    },
+    {
+      "key": "phasethreeshallseeusneutralizecastrummeridianumsdefenses",
+      "text_en": "Phase three shall see us neutralize Castrum Meridianum's defenses.",
+      "text": "สำหรับขั้นตอนที่สาม เราจะเข้าทำลายการป้องกันของคาสตรัม เมอริเดียนุมครับ"
+    },
+    {
+      "key": "formingourmainthrusttheimmortalflameswillmarchagainstthestrongholdwithalltheirstrengthwhiletheenemyseyesarethusdrawnoutwardsanothereliteadventurerunitshallinfiltratethecastrum",
+      "text_en": "Forming our main thrust, the Immortal Flames will march against the stronghold with all their strength. While the enemy's eyes are thus drawn outwards, another elite adventurer unit shall infiltrate the castrum.",
+      "text": "โดยมีอิมมอร์ทัล เฟลมส์เป็นทัพหลักเคลื่อนพลเข้าโจมตีป้อมปราการด้วยกำลังทั้งหมดที่มี และในระหว่างที่ศัตรูมุ่งความสนใจออกไปด้านนอก หน่วยนักผจญภัยระดับยอดฝีมืออีกกลุ่มจะลอบแทรกซึมเข้าไปในคาสตรัมครับ"
+    },
+    {
+      "key": "itsmissiontodisablethemagitekfieldgeneratorwhichprotectsthepraetoriumafortresswithinafortresswhereintheultimaweaponisbelievedtobehousedforenamewewouldhaveyoutakecommandoncemore",
+      "text_en": "Its mission: to disable the magitek field generator which protects the Praetorium , a fortress within a fortress wherein the Ultima Weapon is believed to be housed. Forename , we would have you take command once more.",
+      "text": "ภารกิจคือปิดเครื่องกำเนิดสนามพลังมาจิเทคที่ปกป้องเพรทอเรียม ป้อมปราการที่ซ้อนอยู่ภายในป้อมปราการอีกที และคาดว่าเป็นที่เก็บรักษาอัลติมาเวพอนไว้... คุณ Forename เราอยากให้คุณเป็นผู้นำการโจมตีอีกครั้งครับ"
+    },
+    {
+      "key": "meanwhiletheorderofthetwinadderwillblockadetherailwaywhichconnectscentriandmeridianumpreventingthetimelyarrivalofreinforcementsfrommordhona",
+      "text_en": "Meanwhile, the Order of the Twin Adder will blockade the railway which connects Centri and Meridianum, preventing the timely arrival of reinforcements from Mor Dhona.",
+      "text": "ในขณะเดียวกัน ภาคีทวินแอดเดอร์จะปิดกั้นเส้นทางรถไฟที่เชื่อมระหว่างเซนทริกับเมอริเดียนุม เพื่อสกัดไม่ให้กองกำลังเสริมจากมอร์ โดนายกมาสมทบได้ทันเวลาค่ะ"
+    },
+    {
+      "key": "awiseprecautionthemonstrouslocomotivewhichrunsbackandforthbetweenthetwocastraiscapaciousenoughtotransportasmallarmybyallaccounts",
+      "text_en": "A wise precaution. The monstrous locomotive which runs back and forth between the two castra is capacious enough to transport a small army, by all accounts.",
+      "text": "ช่างเป็นการระแวดระวังที่ชาญฉลาดเหลือเกิน ตามที่เล่าลือกัน หัวรถจักรขนาดยักษ์ที่วิ่งไปมาระหว่างค่ายทหารทั้งสองแห่งนั้นกว้างขวางพอจะขนส่งกองทัพย่อมๆ ได้สบาย"
+    },
+    {
+      "key": "itiswellthegarleansdidnotthinktogiveitwings",
+      "text_en": "It is well the Garleans did not think to give it wings.",
+      "text": "ช่างดีเหลือเกินที่ชาวการ์เลียนไม่ได้คิดจะติดปีกให้"
+    },
+    {
+      "key": "oncemeridianumsdefenseshavebeencompromisedtheoperationwillenteritsfourthandfinalphase",
+      "text_en": "Once Meridianum's defenses have been compromised, the operation will enter its fourth and final phase.",
+      "text": "เมื่อแนวป้องกันของเมอริเดียนุมพังทลายลง ยุทธการนี้ก็จะได้ก้าวเข้าสู่ระยะที่สี่อันเป็นระยะสุดท้าย"
+    },
+    {
+      "key": "thiswillseetheimmortalflamesenterthestrongholdandsuppresstheremnantsoftheenemygarrison",
+      "text_en": "This will see the Immortal Flames enter the stronghold and suppress the remnants of the enemy garrison.",
+      "text": "เมื่อเป็นเช่นนี้ อิมมอร์ทัล เฟลมส์จะบุกเข้ายึดป้อมปราการและปราบปรามกองทหารรักษาการณ์ที่เหลือของข้าศึก"
+    },
+    {
+      "key": "allowingforenamesunittopassunopposedintothepraetoriumwheretheywilllocateanddestroytheultimaweapon",
+      "text_en": "...Allowing Forename 's unit to pass unopposed into the Praetorium, where they will locate and destroy the Ultima Weapon.",
+      "text": "...เพื่อเปิดทางให้หน่วยของ [ชื่อ] ผ่านเข้าสู่เพรทอเรียมโดยปราศจากผู้ต้านทาน เพื่อค้นหาและทำลายอัลติมาเวพอนที่นั่น"
+    },
+    {
+      "key": "bythisfeatshalltheoperationbedeemedasuccess",
+      "text_en": "By this feat shall the operation be deemed a success.",
+      "text": "ด้วยวีรกรรมนี้ ยุทธการนี้จึงจะถือว่าประสบความสำเร็จอย่างแท้จริง"
+    },
+    {
+      "key": "inadditiontothegrandcompanieswecancountuponthesupportofavarietyofotherpartiesfromthepiratesoflimsalominsatothemonetaristsofuldahinalltheoperationwillinvolvenofewerthantwelvemajorfactions",
+      "text_en": "In addition to the Grand Companies, we can count upon the support of a variety of other parties, from the pirates of Limsa Lominsa to the Monetarists of Ul'dah. In all, the operation will involve no fewer than twelve major factions.",
+      "text": "นอกจากแกรนด์คอมปะนีแล้ว เรายังได้รับการสนับสนุนจากกลุ่มอื่นอีกมากมาย ตั้งแต่กลุ่มโจรสลัดแห่งลิมซา โลมินซา ไปจนถึงฝ่ายนายทุนแห่งอุลดาห์ รวมแล้ว ปฏิบัติการนี้จะมีกองกำลังฝ่ายใหญ่เข้าร่วมไม่น้อยกว่าทวยเทพทั้งสิบสองฝ่าย"
+    },
+    {
+      "key": "legendholdsthatthearchonsweretwelveinoneandoneintwelve",
+      "text_en": "Legend holds that the Archons were twelve in one, and one in twelve...",
+      "text": "ตำนานเล่าว่า เหล่าอาร์คอนคือทวยเทพทั้งสิบสองในหนึ่งเดียว และหนึ่งเดียวในทวยเทพทั้งสิบสอง..."
+    },
+    {
+      "key": "itisforthisreasonthatourgrandendeavorhasbeendubbedoperationarchon",
+      "text_en": "It is for this reason that our grand endeavor has been dubbed “Operation Archon.”",
+      "text": "ด้วยเหตุนี้ เราจึงขนานนามความพยายามอันยิ่งใหญ่ครั้งนี้ว่า “ปฏิบัติการอาร์คอน”"
+    },
+    {
+      "key": "countlessfreecompanieshavealsopledgedtheirswordsandmorejoinusbythedayatlonglastallofeorzeaisrisingasone",
+      "text_en": "Countless free companies have also pledged their swords, and more join us by the day. At long last, all of Eorzea is rising as one.",
+      "text": "กองกำลังอิสระอีกนับไม่ถ้วนต่างก็ปวารณาตัวจับดาบเข้าร่วมสู้ศึก และผู้คนก็หลั่งไหลมาสมทบกับเราเพิ่มขึ้นทุกวัน ในที่สุด ทั่วทั้งเอโอลเซียต่างก็ลุกขึ้นสู้เป็นน้ำหนึ่งใจเดียวกันเสียที"
+    },
+    {
+      "key": "asbeforewescionsshallworkinconcertwiththegrandcompaniesydapapalymoyshtolaprayaccompanyyourrespectiveorganizationsontheirmissions",
+      "text_en": "As before, we Scions shall work in concert with the Grand Companies. Yda, Papalymo, Y'shtola─pray accompany your respective organizations on their missions.",
+      "text": "พวกเราชาวไซออนส์จะทำงานร่วมกับแกรนด์คอมปะนีเหมือนเช่นเคย อีดา พาพารีโม อีชโทลา—ฝากร่วมเดินทางไปปฏิบัติภารกิจพร้อมกับองค์กรของแต่ละคนด้วยนะ"
+    },
+    {
+      "key": "uriangeriwouldhaveyourepresentusinuldahreassurethefinanciersthattheyhavemadeasoundinvestmentwhenthatisdoneprayreturnhereandaidinthecoordinationofourforces",
+      "text_en": "Urianger, I would have you represent us in Ul'dah. Reassure the financiers that they have made a sound investment. When that is done, pray return here and aid in the coordination of our forces.",
+      "text": "อูรีย็องเชต์ ฉันอยากให้เธอเป็นตัวแทนพวกเราในอุลดาห์ ช่วยไปสร้างความมั่นใจให้พวกนายทุนทีว่าพวกเขาตัดสินใจลงทุนได้อย่างคุ้มค่าแล้ว เสร็จเรื่องแล้วก็รีเทิร์นกลับมาช่วยประสานงานกองกำลังของพวกเราที่นี่นะ"
+    },
+    {
+      "key": "tatarupleaseassisturiangerinanywayyouareableandensurethateveryoneiskeptabreastofthelatestdevelopments",
+      "text_en": "Tataru, please assist Urianger in any way you are able, and ensure that everyone is kept abreast of the latest developments.",
+      "text": "ทาทารุ ช่วยอูรีย็องเชต์เท่าที่ทำได้ และคอยดูแลให้ทุกคนได้รับทราบข่าวสารความคืบหน้าล่าสุดอย่างทั่วถึงด้วยนะ"
+    },
+    {
+      "key": "minfiliacidandishallaccompanythemainhostinanadvisorycapacityitwillbeourtasktoanalyzeintelligenceasitcomesintoourpossessionandmakethenecessaryrecommendationstocommand",
+      "text_en": "Minfilia, Cid, and I shall accompany the main host in an advisory capacity. It will be our task to analyze intelligence as it comes into our possession, and make the necessary recommendations to command.",
+      "text": "มินฟิเลีย ซิด และฉันจะร่วมเดินทางไปกับกองทัพหลักในฐานะที่ปรึกษา หน้าที่ของพวกเราคือการวิเคราะห์ข้อมูลข่าวกรองทันทีที่ได้รับมา เพื่อเสนอคำแนะนำที่จำเป็นแก่หน่วยบัญชาการ"
+    },
+    {
+      "key": "asalphinaudmentionedyouaretoleadtheeliteunitofadventurerswhosetaskitwillbetoseeeachofoperationarchonsmainobjectivesfulfilledyoursisthemostimportantroleofallandliketobethemostdangerouspraychooseyourpartywellandstintnotinyourpreparation",
+      "text_en": "As Alphinaud mentioned, you are to lead the elite unit of adventurers whose task it will be to see each of Operation Archon's main objectives fulfilled. Yours is the most important role of all, and like to be the most dangerous. Pray choose your party well, and stint not in your preparation.",
+      "text": "อย่างที่อัลฟิโน่บอก เธอต้องเป็นผู้นำหน่วยนักผจญภัยระดับยอดฝีมือเพื่อบรรลุเป้าหมายหลักแต่ละอย่างของปฏิบัติการอาร์คอน บทบาทของเธอมีความสำคัญที่สุดและน่าจะอันตรายที่สุดด้วย ขอให้เลือกกลุ่มเพื่อนร่วมทางให้ดี และเตรียมตัวให้พร้อมที่สุดเถอะ"
+    },
+    {
+      "key": "thebattleforthefutureoftherealmisabouttobegintogetherletusshowtheblackwolfthepowerofaunitedeorzea",
+      "text_en": "The battle for the future of the realm is about to begin. Together, let us show the Black Wolf the power of a united Eorzea!",
+      "text": "ศึกตัดสินอนาคตของดินแดนนี้กำลังจะเริ่มต้นขึ้นแล้ว มาร่วมใจกันแสดงพลังแห่งเอโอลเซียอันเป็นหนึ่งเดียวให้หมาป่าทมิฬได้ประจักษ์เถอะ!"
+    },
+    {
+      "key": "prayreporttotheimmortalflamesencampmentsituatedtothenorthofherewhenyouarereadytobebriefedonyourfirstmission",
+      "text_en": "Pray report to the Immortal Flames encampment situated to the north of here when you are ready to be briefed on your first mission.",
+      "text": "เมื่อพร้อมรับฟังข้อมูลภารกิจแรกแล้ว โปรดเดินทางไปรายงานตัวที่ค่ายทหารกองกำลังอิมมอร์ทัล เฟลมส์ ทางทิศเหนือของที่นี่"
+    },
+    {
+      "key": "icannotstressthisenoughbutpleasebecarefulmayyouwalkinthelightofthecrystal",
+      "text_en": "I cannot stress this enough, but please be careful. May you walk in the light of the Crystal.",
+      "text": "ไม่ว่าจะอย่างไรก็ขอให้ระมัดระวังตัวให้ดีนะ ขอให้ก้าวเดินใต้แสงนำทางแห่งคริสตัล"
+    },
+    {
+      "key": "asbriefedyouaretoleadasquadofeliteadventurersoninfiltrationmissionsyouwillreceivedetailedordersateachstagingpoint",
+      "text_en": "As briefed, you are to lead a squad of elite adventurers on infiltration missions. You will receive detailed orders at each staging point.",
+      "text": "ตามที่ชี้แจงไว้ ต้องนำกลุ่มนักผจญภัยฝีมือดีปฏิบัติภารกิจแทรกซึม และจะได้รับคำสั่งโดยละเอียดที่จุดรวมพลแต่ละแห่ง"
+    },
+    {
+      "key": "thefutureofeorzeahingesuponthesuccessofoperationarchonandcasualtiesareinevitablemaythecrystalwatchoverusall",
+      "text_en": "The future of Eorzea hinges upon the success of Operation Archon, and casualties are inevitable. May the Crystal watch over us all.",
+      "text": "อนาคตของเอโอลเซียขึ้นอยู่กับความสำเร็จของปฏิบัติการอาร์คอนครั้งนี้ และการสูญเสียย่อมหลีกเลี่ยงไม่ได้ ขอคริสตัลจงปกป้องคุ้มครองพวกเราทุกคน"
+    },
+    {
+      "key": "ournumbershaveswelledsomuchoflateittakesanagetokeeprecordsuptodateheeheethatrhymes",
+      "text_en": "<sigh> Our numbers have swelled so much of late, it takes an age to keep records up to date. ...Hee hee, that rhymes!",
+      "text": "<ถอนหายใจ> ช่วงนี้คนเพิ่มขึ้นตั้งมากมาย กว่าจะบันทึกให้ทันสมัยก็เหนื่อยแทบตาย ...คิกๆ คล้องจองกันเฉยเลย!"
+    },
+    {
+      "key": "ohandihopeyoudontmindbutitookthelibertyofdrawingaprettylittleflowernexttoyournamethiswayicanfindyouquickly",
+      "text_en": "Oh, and I hope you don't mind, but I took the liberty of drawing a pretty little flower next to your name. This way I can find you quickly!",
+      "text": "อ้อ หวังว่าจะไม่ว่ากันนะ พอดีถือวิสาสะวาดดอกไม้เล็กๆ น่ารักไว้ข้างชื่อ จะได้หาตัวเจอได้เร็วๆ!"
+    },
+    {
+      "key": "thiswasallhisideayetintheendhewastheonewhohadtogoandgodsdamnedfool",
+      "text_en": "This was all his idea. Yet, in the end, he was the one who had to go and... <sigh> Godsdamned fool.",
+      "text": "ทั้งหมดนี้เป็นความคิดของเขาแท้ๆ แต่สุดท้าย กลับต้องเป็นฝ่ายจากไปซะเอง... <ถอนหายใจ> เจ้าคนบ้าเอ๊ย"
+    },
+    {
+      "key": "sixtytwosixtythreesixty",
+      "text_en": "...Sixty-two, sixty-three, sixty—",
+      "text": "...หกสิบสอง หกสิบสาม หกสิบ—"
+    },
+    {
+      "key": "ohforenamejustwarmingupfortheoperationweregoingtoaccompanythegridaniansumhowmanytimeswasthat",
+      "text_en": "Oh, Forename ! Just warming up...<pant>...for the operation. We're going to accompany...<pant>...the Gridanians. Um...<pant>...how many times was that...?",
+      "text": "อ้าว Forename! แค่กำลังอบอุ่นร่างกาย...<หอบ>...เตรียมตัวสำหรับปฏิบัติการน่ะ พวกเราต้องเดินทางร่วมไปกับ...<หอบ>...ชาวกรีดาเนีย เอ...<หอบ>...เมื่อกี้กี่ครั้งแล้วนะ..."
+    },
+    {
+      "key": "godssakeydawehavetheoperationtothinkaboutandyourewearingyourselfdownbyexercisingyourformisntevencorrectitscheatingtoswingyourarms",
+      "text_en": "Gods' sake, Yda! We have the operation to think about, and you're wearing yourself down by exercising!? Your form isn't even correct! It's cheating to swing your arms!",
+      "text": "ให้ตายสิ อีดา! พวกเราต้องเตรียมตัวรับมือกับปฏิบัติการแท้ๆ แต่เธอกลับมาออกกำลังกายให้เหนื่อยเปล่าๆ เนี่ยนะ!? ท่าทางก็ไม่ถูกด้วยซ้ำ! ใช้แรงเหวี่ยงแขนช่วยน่ะขี้โกงชัดๆ!"
+    },
+    {
+      "key": "iappreciatethatyouhavenervousenergybuttherewillbenoshortageofopportunitiestoexpenditwhenwegotoetotoeagainstthegarleans",
+      "text_en": "I appreciate that you have nervous energy, but there will be no shortage of opportunities to expend it when we go toe-to-toe against the Garleans!",
+      "text": "ฉันรู้ว่าเธอกระสับกระส่ายจนอยู่ไม่สุข แต่รับรองว่าได้ระบายออกจนหมดแน่ยามที่เราต้องเข้าปะทะกับชาวการ์เลียนตัวต่อตัว!"
+    },
+    {
+      "key": "listentothesetwoswappintheirstorieslifeaintalwaysgottobeanadventureisaymeimthesortwhoenjoysanicerelaxincarriageridepairedwithabottleofbacchuslikethattimeimetyoucometothinkofit",
+      "text_en": "Listen to these two, swappin' their stories. Life ain't always got to be an adventure, I say. Me, I'm the sort who enjoys a nice, relaxin' carriage ride, paired with a bottle of Bacchus—like that time I met you, come to think of it.",
+      "text": "ฟังสองคนนี้ผลัดกันคุยเรื่องเก่าสิ ฉันว่าชีวิตไม่จำเป็นต้องผจญภัยตลอดเวลาหรอก ส่วนฉันน่ะ ขอแค่ได้นั่งรถม้าพักผ่อนสบายๆ แกล้มเหล้าบักคัสสักขวดก็พอ—จะว่าไป ก็เหมือนตอนที่เราพบกันนั่นแหละ"
+    },
+    {
+      "key": "bahbrendtthinkshehaditbadtrybribinapirateanseewherethatgetsyou",
+      "text_en": "Bah, Brendt thinks he had it bad. Try bribin' a pirate an' see where that gets you!",
+      "text": "ปัดโธ่ เบรนต์นึกว่าตัวเองลำบากนักรึไง ลองไปเสนอสินบนให้โจรสลัดดูสิ แล้วจะรู้ซึ้ง!"
+    },
+    {
+      "key": "haveaseatladlassiwasjusttellinmebrothersaboutthetimetheseamaljaasavedmefromthebrassbladeshardtobelieveiknowbutitstrue",
+      "text_en": "Have a seat, lad / lass ! I was just tellin' me brothers about the time these Amalj'aa saved me from the Brass Blades. Hard to believe, I know, but it's true!",
+      "text": "นั่งลงก่อนสิ! ฉันกำลังเล่าให้พวกน้องๆ ฟังพอดีว่าพวกอะมาลจาเคยช่วยฉันรอดพ้นจากเงื้อมมือของหน่วยดาบทองเหลือง เข้าใจว่าเชื่อยาก แต่มันเป็นเรื่องจริงนะ!"
+    },
+    {
+      "key": "tataruisupposeitwasntmeanttobe",
+      "text_en": "<sigh> Tataru... I suppose it wasn't meant to be...",
+      "text": "<เฮ้อ> ทาทารุ... คงไม่ได้ถูกกำหนดมาคู่กันล่ะมั้ง..."
+    },
+    {
+      "key": "thechieftobehonestidontknowwhereheisorwhathesuptoatthemomentprobablybusydoingsomethingonlyhecando",
+      "text_en": "The chief? To be honest, I don't know where he is or what he's up to at the moment. Probably busy doing something only he can do.",
+      "text": "หัวหน้าเหรอ? พูดตามตรงนะ ฉันไม่รู้ว่าเขาอยู่ที่ไหนหรือกำลังทำอะไรอยู่ตอนนี้ คงกำลังยุ่งอยู่กับเรื่องที่มีแต่เขาเท่านั้นที่ทำได้"
+    },
+    {
+      "key": "themaelstromhascommitteditsforcestotheoperationinfactthepirateslookforwardtotheirpartinthisnavalwarfarewithsomethingapproachingunholyglee",
+      "text_en": "The Maelstrom has committed its forces to the operation. In fact, the pirates look forward to their part in this naval warfare with something approaching unholy glee.",
+      "text": "กองพลเมลสตรอมส่งกองกำลังเข้าร่วมปฏิบัติการนี้แล้ว อันที่จริง พวกโจรสลัดต่างเฝ้ารอที่จะได้ทำศึกทางน้ำด้วยความยินดีปรีดาอย่างบ้าคลั่ง"
+    },
+    {
+      "key": "youneedonlyconcentrateonthetaskthatliesbeforeyouwestandvigilantatyourback",
+      "text_en": "You need only concentrate on the task that lies before you. We stand vigilant at your back.",
+      "text": "ขอเพียงเพ่งสมาธิไปที่งานตรงหน้าก็พอ พวกเราจะระวังหลังให้คุณเอง"
+    },
+    {
+      "key": "eachphaseofoperationarchonmustbeexecutedtoperfectionforenamethefateofeorzeahangsinthebalance",
+      "text_en": "Each phase of Operation Archon must be executed to perfection, Forename . The fate of Eorzea hangs in the balance!",
+      "text": "ปฏิบัติการอาร์คอนในแต่ละเฟสต้องดำเนินไปอย่างสมบูรณ์แบบที่สุด โฟร์เนม ชะตากรรมของเอโอลเซียแขวนอยู่บนเส้นด้ายแล้ว!"
+    },
+    {
+      "key": "youarewellcomeforenamesurnameofthescionsascommunicationsofficeritfallstometoissueyouyourordersandprovideguidanceonforthcomingmissions",
+      "text_en": "You are well come, Forename Surname of the Scions. As communications officer, it falls to me to issue you your orders, and provide guidance on forthcoming missions.",
+      "text": "ยินดีต้อนรับ คุณผู้เป็นสมาชิกของไซออนส์ ในฐานะเจ้าหน้าที่สื่อสาร ผมมีหน้าที่แจ้งคำสั่งและชี้แจงแนวทางปฏิบัติสำหรับภารกิจที่กำลังจะมาถึง"
+    },
+    {
+      "key": "yourfirstmissionistoinfiltratetheimperialoutpostatcapewestwindandeliminatepraefectusrhitahtynsasarvina",
+      "text_en": "Your first mission is to infiltrate the imperial outpost at Cape Westwind and eliminate Praefectus Rhitahtyn sas Arvina.",
+      "text": "ภารกิจแรกคือการลอบเข้าไปในค่ายทหารด่านหน้าของจักรวรรดิ ณ แหลมเวสต์วินด์ และกำจัดผู้บัญชาการทหารรีทาทิน แซส อาร์วินา"
+    },
+    {
+      "key": "allparticipatingunitsarenowinpositionandawaitingyourarrivalpleaseproceedtothestagingpointandreporttolieutenantadalbert",
+      "text_en": "All participating units are now in position and awaiting your arrival. Please proceed to the staging point and report to Lieutenant Adalbert.",
+      "text": "หน่วยรบทุกหน่วยเข้าประจำตำแหน่งเรียบร้อยแล้วและกำลังรอการมาถึงของคุณ โปรดมุ่งหน้าไปยังจุดเตรียมพลและรายงานตัวกับร้อยโทอดาลเบิร์ต"
+    },
+    {
+      "key": "thisisbutthefirststepinourbidtopurgetherealmofthegarleanmenaceishallprayforyoursuccess",
+      "text_en": "This is but the first step in our bid to purge the realm of the Garlean menace. I shall pray for your success!",
+      "text": "นี่เป็นเพียงก้าวแรกของความพยายามกวาดล้างภัยคุกคามจากการ์เลียนให้หมดสิ้นไปจากดินแดน ผมจะสวดอ้อนวอนขอให้คุณประสบความสำเร็จ!"
+    },
+    {
+      "key": "theassaultoncapewestwindisbutthefirststepinourbidtopurgetherealmofthegarleanmenaceishallprayforyoursuccess",
+      "text_en": "The assault on Cape Westwind is but the first step in our bid to purge the realm of the Garlean menace. I shall pray for your success!",
+      "text": "การโจมตีแหลมเวสต์วินด์เป็นเพียงก้าวแรกในความพยายามกวาดล้างภัยคุกคามจากการ์เลียนให้พ้นไปจากดินแดน ผมจะสวดอ้อนวอนขอให้คุณประสบความสำเร็จ!"
+    },
+    {
+      "key": "soyoureforenamesurnamethefearlessleaderoftheeliteadventurerunitwevebeenexpectingyou",
+      "text_en": "So you're Forename Surname , the fearless leader of the elite adventurer unit. We've been expecting you.",
+      "text": "คุณ Forename Surname หัวหน้าผู้ไม่กลัวเกรงสิ่งใดของหน่วยนักผจญภัยยอดฝีมือสินะครับ พวกเราเฝ้ารอคุณอยู่เลย"
+    },
+    {
+      "key": "ourmaelstromfriendsreportthatrhitahtynsasarvinadepartedcastrumoccidensabellago",
+      "text_en": "Our Maelstrom friends report that Rhitahtyn sas Arvina departed Castrum Occidens a bell ago.",
+      "text": "สหายจากกองกำลังเมลสตรอมแจ้งว่า ริทาทิน ซาส อาร์วีนา เดินทางออกจากคาสทรัม ออคซิเดนส์ ไปเมื่อหนึ่งชั่วโมงก่อนแล้วครับ"
+    },
+    {
+      "key": "andsureenoughaconvoyofimperialairshipslandedherejustnow",
+      "text_en": "And sure enough, a convoy of imperial airships landed here just now.",
+      "text": "และก็เป็นไปตามคาด ขบวนเรือเหาะของจักรวรรดิเพิ่งร่อนลงจอดที่นี่เมื่อครู่นี้เองครับ"
+    },
+    {
+      "key": "thelikelihoodishighthatourtargetwasaboardoneofthevesselsivedispatchedscoutstoverifyhispresencebeforewestrike",
+      "text_en": "The likelihood is high that our target was aboard one of the vessels. I've dispatched scouts to verify his presence before we strike.",
+      "text": "เป้าหมายน่าจะอยู่บนเรือลำใดลำหนึ่งเป็นแน่ ผมส่งหน่วยสอดแนมออกไปยืนยันการปรากฏตัวก่อนเราจะเริ่มเปิดฉากโจมตีครับ"
+    },
+    {
+      "key": "commandtoallunitsrequestingstatusreport",
+      "text_en": "Command to all units. Requesting status report.",
+      "text": "ศูนย์บัญชาการถึงทุกหน่วย ขอทราบรายงานสถานการณ์"
+    },
+    {
+      "key": "thisisantlionitargethasnotbeensighted",
+      "text_en": "This is Antlion I. Target has not been sighted.",
+      "text": "นี่คือ Antlion I ยังไม่พบเป้าหมาย"
+    },
+    {
+      "key": "thisisantlioniilikewisetargethasnotbeensighted",
+      "text_en": "This is Antlion II. Likewise, target has not been sighted.",
+      "text": "นี่คือ Antlion II ยังไม่พบเป้าหมายเช่นกัน"
+    },
+    {
+      "key": "antlioniiiherewevegotnothinforyeneither",
+      "text_en": "Antlion III here. We've got nothin' for ye neither.",
+      "text": "Antlion III พูด ทางนี้ก็ยังไม่เจออะไรเลยเหมือนกันครับ"
+    },
+    {
+      "key": "thisisantlionivnothingtoreportasof",
+      "text_en": "This is Antlion IV. Nothing to report as of─",
+      "text": "นี่คือ Antlion IV ยังไม่มีรายงานใดๆ จนถึง─"
+    },
+    {
+      "key": "waitdisregardpreviousmessagetargetsightedisayagaintargetsighted",
+      "text_en": "Wait! Disregard previous message! Target sighted. I say again: target sighted.",
+      "text": "เดี๋ยวก่อน! ขอยกเลิกข้อความก่อนหน้า! พบเป้าหมายแล้ว ขอย้ำอีกครั้ง: พบเป้าหมายแล้ว"
+    },
+    {
+      "key": "understoodholdyourposition",
+      "text_en": "Understood. Hold your position.",
+      "text": "รับทราบ ประจำตำแหน่งไว้ก่อน"
+    },
+    {
+      "key": "attentionallunitsthisislieutenantadalbertcotter",
+      "text_en": "Attention, all units. This is Lieutenant Adalbert Cotter.",
+      "text": "ทหารทุกหน่วยโปรดฟัง นี่คือร้อยโทอดาลเบิร์ต คอตเตอร์"
+    },
+    {
+      "key": "thefirststepofoperationarchonbeginswithusshouldwefalterhereallhopeofvictorywillbelost",
+      "text_en": "The first step of Operation Archon begins with us. Should we falter here, all hope of victory will be lost.",
+      "text": "ก้าวแรกของปฏิบัติการอาร์คอนเริ่มต้นขึ้นที่พวกเรา หากพลาดพลั้งที่นี่ ความหวังที่จะคว้าชัยชนะทั้งหมดก็เป็นอันสูญสิ้น"
+    },
+    {
+      "key": "tisnosmallburdenbutknowthatibelieveinallofyousobelieveinyourselvesandtogetherwewillblazeapathforourbrothersandsistersofthealliancetofollow",
+      "text_en": "'Tis no small burden, but know that I believe in all of you. So believe in yourselves, and together we will blaze a path for our brothers and sisters of the Alliance to follow.",
+      "text": "นี่ไม่ใช่ภาระเล็กน้อยเลย แต่ขอให้รู้ไว้ว่าผมเชื่อมั่นในตัวพวกคุณทุกคน ดังนั้นจงเชื่อมั่นในตัวเอง แล้วพวกเราจะร่วมกันเบิกทางให้พี่น้องร่วมพันธมิตรก้าวเดินตามมา"
+    },
+    {
+      "key": "wewillcreatemultiplediversionsanddispersetheenemygarrisonthatshouldgiveyouachancetobreachtheirdefenses",
+      "text_en": "We will create multiple diversions and disperse the enemy garrison. That should give you a chance to breach their defenses.",
+      "text": "พวกเราจะสร้างสถานการณ์เบี่ยงเบนความสนใจหลายจุดเพื่อกระจายกำลังทหารของศัตรูออกไป นั่นจะช่วยเปิดโอกาสให้คุณบุกฝ่าแนวป้องกันเข้าไปได้"
+    },
+    {
+      "key": "gonowforenameandbringusrhitahtynsheadmayrhalgrgrantyoustrength",
+      "text_en": "Go now, Forename , and bring us Rhitahtyn's head! May Rhalgr grant you strength!",
+      "text": "ไปเถอะ Forename แล้วนำศีรษะของริทาทินกลับมาให้พวกเรา! ขอราลเกอร์ประทานพละกำลังให้!"
+    },
+    {
+      "key": "commencediversionarymaneuvers",
+      "text_en": "Commence diversionary maneuvers!",
+      "text": "เริ่มแผนเบี่ยงเบนความสนใจได้!"
+    },
+    {
+      "key": "itwouldappearwehaveunexpectedguests",
+      "text_en": "It would appear we have unexpected guests.",
+      "text": "ดูเหมือนจะมีแขกที่ไม่ได้รับเชิญมาเยือนเข้าเสียแล้ว"
+    },
+    {
+      "key": "nowwherehaveiseenyoubeforeahbutofcoursethemanwomanwhofelledthemightytitan",
+      "text_en": "Now, where have I seen you before? Ah, but of course─the man / woman who felled the mighty Titan.",
+      "text": "เดี๋ยวนะ...เคยเห็นเจ้าที่ไหนมาก่อนนะ... อ้อ แน่ละ—คนที่โค่นไททันผู้เกรียงไกรคนนั้นนี่เอง"
+    },
+    {
+      "key": "thisistheeikonslayer",
+      "text_en": "This is the eikon-slayer!?",
+      "text": "นี่น่ะหรือผู้ปราบไอคอน!?"
+    },
+    {
+      "key": "iseethecommotionwithoutisnaughtbutadiversion",
+      "text_en": "I see. The commotion without is naught but a diversion.",
+      "text": "เข้าใจละ ความวุ่นวายข้างนอกนั่นเป็นแค่แผนลวงสินะ"
+    },
+    {
+      "key": "allowmetohazardaguessbyeliminatingmeyouhopetounderminethegarrisonatoccidens",
+      "text_en": "Allow me to hazard a guess: by eliminating me, you hope to undermine the garrison at Occidens.",
+      "text": "ข้าขอเดาหน่อยเถอะ การกำจัดข้าก็เพื่อหวังจะลดทอนกำลังพลที่ออคซิเดนส์สินะ"
+    },
+    {
+      "key": "aboldstrategytobesurebuthaveyouthestrengthtoseeittofruition",
+      "text_en": "A bold strategy, to be sure, but have you the strength to see it to fruition?",
+      "text": "ช่างเป็นแผนการที่อาจหาญนัก แต่มีพละกำลังพอจะทำให้สำเร็จหรือเปล่า"
+    },
+    {
+      "key": "leaveusnoneofyouareamatchforhimher",
+      "text_en": "Leave us. None of you are a match for him / her .",
+      "text": "ถอยไปซะ ไม่มีใครในพวกเจ้าที่เป็นคู่มือของเขาได้หรอก"
+    },
+    {
+      "key": "sendwordtocastrumoccidenstellthemthelominsansarecoming",
+      "text_en": "Send word to Castrum Occidens. Tell them the Lominsans are coming.",
+      "text": "ส่งข่าวไปที่คาสทรัม ออคซิเดนส์ บอกพวกนั้นว่าชาวโลมินซากำลังมา"
+    },
+    {
+      "key": "atoncemylord",
+      "text_en": "At once, my lord!",
+      "text": "รับบัญชาครับ ท่านลอร์ด!"
+    },
+    {
+      "key": "fifteenyearshavecomeandgonesincelordvanbaelsarfirstsetfootineorzeayethisambitionfortherealmburnsasstrongaseveritdidknowyouwhatfuelsitadventurerthedesiretodeliverthepeoplefromtheirsuffering",
+      "text_en": "Fifteen years have come and gone since Lord van Baelsar first set foot in Eorzea, yet his ambition for the realm burns as strong as ever it did. Know you what fuels it, adventurer? The desire to deliver the people from their suffering.",
+      "text": "สิบห้าปีผ่านพ้นไปนับตั้งแต่ท่านลอร์ดแวน เบลซาร์ เหยียบย่างเข้าสู่เอโอลเซียเป็นครั้งแรก ทว่าความทะยานอยากที่มีต่อดินแดนนี้ยังคงคุโชนแรงกล้าไม่เคยเปลี่ยน เจ้ารู้ไหมว่าอะไรคือสิ่งหล่อเลี้ยงเปลวไฟนั้น นักผจญภัย... มันคือความปรารถนาที่จะปลดเปลื้องผู้คนให้พ้นจากความทุกข์ยากอย่างไรเล่า"
+    },
+    {
+      "key": "thelandshehasconqueredwereallbesetwithproblemspovertystarvationlawlessnessandstrifemyhomelandwasnoexceptionhadmylordnotreachedoutandclaimeditfortheempireitwouldeventuallyhavedestroyeditself",
+      "text_en": "The lands he has conquered were all beset with problems─poverty, starvation, lawlessness, and strife. My homeland was no exception. Had my lord not reached out and claimed it for the Empire, it would eventually have destroyed itself.",
+      "text": "ดินแดนทั้งหลายที่ท่านสยบลงได้ล้วนรุมเร้าด้วยปัญหา—ทั้งความยากจน ความอดอยากยากไร้ การไร้ขื่อแป และความขัดแย้งเข่นฆ่า บ้านเกิดของข้าก็ไม่ใช่ข้อยกเว้น หากท่านลอร์ดไม่ยื่นมือเข้ามายึดครองไว้ใต้ร่มธงของจักรวรรดิ ในที่สุดมันคงทำลายตัวเองจนย่อยยับไปสิ้น"
+    },
+    {
+      "key": "butunderhissageleadershipmypeopleenjoyedsuchpeaceandstabilityaswehadneverknownandheonlydesirestheselfsameforthepeopleofthisrealmunderhisruleeorzeawouldbefreefromtheshackleswhichbindittheshacklesoffalsefaith",
+      "text_en": "But under his sage leadership, my people enjoyed such peace and stability as we had never known. And he only desires the selfsame for the people of this realm. Under his rule, Eorzea would be free from the shackles which bind it─the shackles of false faith.",
+      "text": "แต่ภายใต้การนำอันปราดเปรื่องของท่านลอร์ด คนของข้ากลับได้พบกับความสงบสุขและความมั่นคงอย่างที่ไม่เคยพานพบมาก่อน และท่านก็ปรารถนาสิ่งเดียวกันนี้ให้แก่ผู้คนในดินแดนนี้เช่นกัน ภายใต้การปกครองของท่าน เอโอลเซียจะหลุดพ้นจากโซ่ตรวนที่พันธนาการไว้—โซ่ตรวนแห่งความศรัทธาอันจอมปลอม"
+    },
+    {
+      "key": "therewouldbenofeebleleaderstomisguidethemassesnoeikonstobleedtherealmdrytruepeacewouldreignandthepeoplewouldbefreetolivetheirliveswithoutfearofpersecutionoroppression",
+      "text_en": "There would be no feeble leaders to misguide the masses, no eikons to bleed the realm dry. True peace would reign, and the people would be free to live their lives without fear of persecution or oppression.",
+      "text": "จะไม่มีผู้นำอันอ่อนแอคอยชักนำมวลชนไปในทางที่ผิด ไม่มีไอคอน (อสูรมายา) คอยสูบเลือดสูบเนื้อดินแดนนี้จนแห้งขอด สันติภาพที่แท้จริงจะครองแผ่นดิน และผู้คนจะใช้ชีวิตได้อย่างเสรีโดยไม่ต้องหวาดกลัวการตามล่ารังควานหรือการกดขี่ข่มเหง"
+    },
+    {
+      "key": "shouldyoudoubtthetruthofmywordsibidyoulookuponmeiamnosonofgarlemaldyetlordvanbaelsarsawfittoraisemetoastationofgreathonor",
+      "text_en": "Should you doubt the truth of my words, I bid you look upon me. I am no son of Garlemald, yet Lord van Baelsar saw fit to raise me to a station of great honor.",
+      "text": "หากเจ้ายังกังขาในความสัตย์จริงของวาจาข้า ก็จงมองดูตัวข้าเป็นประจักษ์พยาน ข้าไม่ใช่สายเลือดแห่งการ์เลมัลด์ ทว่าท่านลอร์ดแวน เบลซาร์ ยังเห็นชอบให้ชูข้าขึ้นสู่ตำแหน่งอันเปี่ยมเกียรติยศยิ่ง"
+    },
+    {
+      "key": "hemeasuresamannotbyhisbirthbutbyhisworthsuchishissenseofjusticebythegraceofhisexcellencyiamwhereiwasborntobeuponthefieldofbattle",
+      "text_en": "He measures a man not by his birth, but by his worth. Such is his sense of justice. By the grace of His Excellency, I am where I was born to be─upon the field of battle.",
+      "text": "ท่านไม่ได้ประเมินค่าคนจากชาติกำเนิด ทว่าวัดจากความรู้ความสามารถในตัวคน นั่นแหละคือความยุติธรรมในแบบของท่าน ด้วยความเมตตาของท่านลอร์ด ข้าจึงได้ยืนอยู่ในจุดที่ตนถือกำเนิดมาเพื่ออยู่—นั่นคือกลางสมรภูมิรบแห่งนี้"
+    },
+    {
+      "key": "hehasgivenmeanoblecausetofightforandworthyadversariestosmite",
+      "text_en": "He has given me a noble cause to fight for, and worthy adversaries to smite.",
+      "text": "ท่านมอบอุดมการณ์อันสูงเกียรติให้ข้าสู้เพื่อมัน และมอบศัตรูที่คู่ควรให้ข้าบดขยี้"
+    },
+    {
+      "key": "iamnotwonttobaremysteelneedlesslybutifyouaredeaftoreason",
+      "text_en": "I am not wont to bare my steel needlessly. But if you are deaf to reason...",
+      "text": "ปกติข้าไม่ใช่คนที่จะชักดาบออกมาโดยไม่มีเหตุจำเป็น ทว่าหากเจ้าไม่รับฟังเหตุผลใดๆ..."
+    },
+    {
+      "key": "inthenameoflordvanbaelsarirhitahtynsasarvinadosweartostrikeyoudown",
+      "text_en": "In the name of Lord van Baelsar, I, Rhitahtyn sas Arvina, do swear to strike you down!",
+      "text": "ในนามแห่งท่านลอร์ดแวน เบลซาร์ ข้า ริทาทิน แซส อาร์วินา ขอสาบานว่าจะบดขยี้เจ้าลงให้ได้!"
+    },
+    {
+      "key": "iwillsuffernonetoopposelordvanbaelsar",
+      "text_en": "I will suffer none to oppose Lord van Baelsar!",
+      "text": "ไม่มีวันยอมให้ใครขัดขวางท่านฟาน เบลซาร์!"
+    },
+    {
+      "key": "yourdefeatwillbringlordvanbaelsarsnobleconquestonestepclosertofruition",
+      "text_en": "Your defeat will bring Lord van Baelsar's noble conquest one step closer to fruition!",
+      "text": "ความพ่ายแพ้ของเจ้าจะทำให้การศึกอันเกริกเกียรติของท่านฟาน เบลซาร์ ขยับเข้าใกล้ความสำเร็จอีกก้าว!"
+    },
+    {
+      "key": "myshieldsareimpregnable",
+      "text_en": "My shields are impregnable!",
+      "text": "โล่ของข้าไม่มีวันเจาะทะลวงได้!"
+    },
+    {
+      "key": "letmeshowyouatechniquepasseddowninmyhomelandhecaststartareantomb",
+      "text_en": "Let me show you a technique passed down in my homeland! [He casts Tartarean Tomb.]",
+      "text": "จะแสดงเคล็ดวิชาที่สืบทอดกันมาในบ้านเกิดให้ดู! [ร่ายทาร์ทาเรียนทูม]"
+    },
+    {
+      "key": "youdonotholdbackverywellneithershalli",
+      "text_en": "You do not hold back! Very well, neither shall I!",
+      "text": "ไม่ออมมือเลยสินะ! ดีละ งั้นก็จะไม่ยั้งมือเหมือนกัน!"
+    },
+    {
+      "key": "ughsothisisthestrengthofheshewhovanquishedtitan",
+      "text_en": "Ugh... So this is the strength of he / she who vanquished Titan...",
+      "text": "อึก... ที่แท้ก็เป็นพลังของผู้ที่ปราบไททันรึ..."
+    },
+    {
+      "key": "letusaidyoumylord",
+      "text_en": "Let us aid you, my lord!",
+      "text": "ให้พวกเราช่วยเถิดครับท่าน!"
+    },
+    {
+      "key": "whatithoughtiorderedyoutoleave",
+      "text_en": "What? I thought I ordered you to leave!",
+      "text": "อะไรกัน! นึกว่าสั่งให้ถอยไปแล้วเสียอีก!"
+    },
+    {
+      "key": "forgiveusmylordbutwecouldntletyoufacetheenemyalone",
+      "text_en": "Forgive us, my lord, but we couldn't let you face the enemy alone!",
+      "text": "ขออภัยด้วยครับท่าน แต่ไม่อาจปล่อยให้ท่านเผชิญหน้ากับศัตรูตามลำพังได้!"
+    },
+    {
+      "key": "weveraisedthealarmasyoubadeandnowwewouldfightwithyou",
+      "text_en": "We've raised the alarm as you bade...and now we would fight with you!",
+      "text": "ส่งสัญญาณเตือนภัยตามคำสั่งเรียบร้อยแล้วครับ... คราวนี้ขอร่วมสู้เคียงบ่าเคียงไหล่กับท่าน!"
+    },
+    {
+      "key": "dontbefoolsgetawayfromhere",
+      "text_en": "Don't be fools, get away from here!",
+      "text": "อย่าโง่น่า! รีบหนีไปจากที่นี่ซะ!"
+    },
+    {
+      "key": "pardonmylord",
+      "text_en": "Pardon, my lord.",
+      "text": "ขอประทานอภัยครับท่าน"
+    },
+    {
+      "key": "noooyouyoubastard",
+      "text_en": "Nooo! You... You bastard.",
+      "text": "ไม่มีวัน! แก... ไอ้สารเลว!"
+    },
+    {
+      "key": "yaaaaargh",
+      "text_en": "Yaaaaargh!",
+      "text": "ย้ากกกก!"
+    },
+    {
+      "key": "yourconvictionandcouragewillnotbefornaughtthisiswear",
+      "text_en": "Your conviction and courage will not be for naught! This I swear!",
+      "text": "ปณิธานและความกล้าหาญของเจ้าจะไม่สูญเปล่า! ข้าขอสาบาน!"
+    },
+    {
+      "key": "forvictoryandvengeanceiwillstrikeyoudown",
+      "text_en": "For victory and vengeance, I will strike you down!",
+      "text": "เพื่อชัยชนะและหนี้แค้น ข้าจะโค่นเจ้าลงให้ได้!"
+    },
+    {
+      "key": "ignorepainigniterageandfightwiththefuryofwildfire",
+      "text_en": "Ignore pain... Ignite rage... And fight with the fury of wildfire!",
+      "text": "สลัดความเจ็บปวด... ปลุกเร้าโทสะ... แล้วสู้สุดใจด้วยเดอะ ฟิวรี่แห่งไฟป่า!"
+    },
+    {
+      "key": "youwillhavenomercyfromme",
+      "text_en": "You will have no mercy from me!",
+      "text": "ข้าจะไม่มีวันปรานีเจ้า!"
+    },
+    {
+      "key": "ignorepainigniterageandfightwiththefuryofwildfire",
+      "text_en": "Ignore pain... Ignite rage... And fight with the fury of wildfire!",
+      "text": "สลัดความเจ็บปวด... ปลุกเร้าโทสะ... แล้วสู้สุดใจด้วยเดอะ ฟิวรี่แห่งไฟป่า!"
+    },
+    {
+      "key": "aaarrrgh",
+      "text_en": "Aaarrrgh!",
+      "text": "อ๊ากกกก!"
+    },
+    {
+      "key": "youarestrongerthanihadexpected",
+      "text_en": "<pant> <pant> You are stronger than I had expected...",
+      "text": "*แฮก... แฮก...* แข็งแกร่งกว่าที่คิดไว้มาก..."
+    },
+    {
+      "key": "butihavemyhonoricannotiwillnotyield",
+      "text_en": "But I have my honor! I cannot─I will not yield!",
+      "text": "แต่เกียรติยศค้ำคออยู่! ไม่มีวัน—ไม่มีวันยอมจำนน!"
+    },
+    {
+      "key": "hahihaveyounow",
+      "text_en": "Hah, I have you now!",
+      "text": "หึ เสร็จข้าละ!"
+    },
+    {
+      "key": "weshallgotogetheramidstaraginginferno",
+      "text_en": "We shall go together, amidst a raging inferno!",
+      "text": "เราจะมอดไหม้ไปด้วยกัน ท่ามกลางเปลวเพลิงที่โหมกระหน่ำ!"
+    },
+    {
+      "key": "noamountofpaincanloosenmygrip",
+      "text_en": "No amount of pain can loosen my grip!",
+      "text": "เจ็บปวดเพียงใดก็ไม่มีวันปล่อยมือ!"
+    },
+    {
+      "key": "unghyouwillnotescape",
+      "text_en": "Ungh... You will not escape...",
+      "text": "อึก... ไม่มีวันหนีรอดไปได้..."
+    },
+    {
+      "key": "restinpeacemenishalljoinyousoon",
+      "text_en": "Rest in peace, men... I shall join you soon...",
+      "text": "หลับให้สบายเถิดสหาย... อีกประเดี๋ยวจะตามไป..."
+    },
+    {
+      "key": "itsoverstrongasyouareyoucannotsurvivethis",
+      "text_en": "<pant> <pant> It's over... Strong as you are, you cannot survive this!",
+      "text": "*แฮก... แฮก...* จบสิ้นกันที... ต่อให้เก่งกาจปานใด ก็ไม่มีวันรอดไปได้!"
+    },
+    {
+      "key": "",
+      "text_en": "<gasp> <pant>",
+      "text": "*เฮือก... แฮก...*"
+    },
+    {
+      "key": "forgivemeihavefailedyou",
+      "text_en": "Forgive me... I have failed you...",
+      "text": "อภัยให้ข้าด้วย... ข้าทำให้ท่านต้องผิดหวัง..."
+    },
+    {
+      "key": "lordvanbaelsar",
+      "text_en": "Lord van Baelsar!!!",
+      "text": "ท่านแวน เบลซาร์!!!"
+    },
+    {
+      "key": "thatlightthemagitektransporter",
+      "text_en": "That light─ <gasp> The magitek transporter!",
+      "text": "แสงนั่น─ <เฮือก> เครื่องเคลื่อนย้ายมาจิเทค!"
+    },
+    {
+      "key": "forenameareyoutherewhatnewsofrhitahtynfallen",
+      "text_en": "Forename , are you there? What news of Rhitahtyn? ... Fallen ?",
+      "text": "เธอ อยู่ที่นั่นไหม ข่าวของริทาทินเป็นอย่างไรบ้าง... ล้มลงแล้วหรือ"
+    },
+    {
+      "key": "withthisdeedyouhavesowntheseedsofourultimatevictory",
+      "text_en": "With this deed, you have sown the seeds of our ultimate victory.",
+      "text": "วีรกรรมครั้งนี้ช่วยหว่านเมล็ดพันธุ์สู่ชัยชนะครั้งสุดท้ายของพวกเราแล้ว"
+    },
+    {
+      "key": "thefadingofthatlightpresagesanendtotheempirestyranny",
+      "text_en": "The fading of that light presages an end to the Empire's tyranny!",
+      "text": "แสงที่หรี่ดับลงนี้เป็นสัญญาณว่าการกดขี่ข่มเหงของจักรวรรดิกำลังจะสิ้นสุดลง!"
+    },
+    {
+      "key": "rhitahtynsasarvinaisnomore",
+      "text_en": "Rhitahtyn sas Arvina is no more!",
+      "text": "ริทาทิน ซาส อาร์วีนา สิ้นชื่อแล้ว!"
+    },
+    {
+      "key": "letthenextphaseofoperationarchoncommence",
+      "text_en": "Let the next phase of Operation Archon commence!",
+      "text": "เริ่มขั้นตอนต่อไปของปฏิบัติการอาร์คอนได้ ณ บัดนี้!"
+    },
+    {
+      "key": "hurrah",
+      "text_en": "HURRAH!",
+      "text": "ไชโย!"
+    },
+    {
+      "key": "tisiitseemsyouvedoneitagainforename",
+      "text_en": "'Tis I! It seems you've done it again, Forename !",
+      "text": "ฉันเอง! ดูเหมือนเธอจะทำสำเร็จอีกแล้วนะ"
+    },
+    {
+      "key": "idraiseatankardtoyoubutimafraidwevenotimetosavorthevictorytheresstillthesmallmatterofinfiltratingcastrummeridianumanddestroyingtheultimaweapon",
+      "text_en": "I'd raise a tankard to you, but I'm afraid we've no time to savor the victory. There's still the small matter of infiltrating Castrum Meridianum and destroying the Ultima Weapon!",
+      "text": "อยากจะยกจอกฉลองให้เธออยู่หรอก แต่เกรงว่าพวกเราไม่มีเวลาชื่นชมชัยชนะเสียแล้ว เรายังต้องลอบเข้าไปในคาสตรัม เมอริเดียนุม เพื่อทำลายอัลติมาเวพอนกันอีก!"
+    },
+    {
+      "key": "iknowiknownorestforthepreternaturallygiftednowstopfeelingsorryforyourselfandmakeyourwaybacktotheimmortalflamesencampmentthecommunicationsofficerwillissueyouyourordersillbewaitingforyouwiththemainhost",
+      "text_en": "I know, I know...no rest for the preternaturally gifted. Now stop feeling sorry for yourself, and make your way back to the Immortal Flames' encampment. The communications officer will issue you your orders. I'll be waiting for you with the main host.",
+      "text": "รู้แล้ว รู้แล้ว... คนมีพรสวรรค์พิเศษก็อย่างนี้แหละ ไม่มีเวลาพักผ่อนหรอก เอาละ เลิกคร่ำครวญได้แล้ว แล้วรีบกลับไปที่ค่ายทหารของอิมมอร์ทัล เฟลมส์ เจ้าหน้าที่สื่อสารจะมอบคำสั่งให้ ส่วนฉันจะรออยู่ที่กองกำลังหลัก"
+    },
+    {
+      "key": "lookhydaelynyourminioncomesbringingthelight",
+      "text_en": "Look, Hydaelyn─Your minion comes... bringing the Light .",
+      "text": "ดูสิ ไฮเดลิน─สมุนของเจ้ามาแล้ว... นำพาแสงสว่างมาด้วย"
+    },
+    {
+      "key": "alasthegatetothevoidalreadystandsopensoondarknessshallconsumeallandyoushallbowdownbeforetheonetruegod",
+      "text_en": "Alas, the gate to the void already stands open. Soon, Darkness shall consume all, and you shall bow down before the one true god.",
+      "text": "ช่างน่าเสียดาย ประตูสู่ความว่างเปล่าเปิดออกแล้ว อีกไม่นาน ความมืดมิดจะกลืนกินทุกสิ่ง แล้วพวกแกจะต้องคุกเข่าสยบต่อพระผู้เป็นเจ้าที่แท้จริงเพียงหนึ่งเดียว"
+    },
+    {
+      "key": "ahahahahaha",
+      "text_en": "Ahahahahaha!",
+      "text": "ฮ่าฮ่าฮ่าฮ่า!"
+    },
+    {
+      "key": "thepraefectusslain",
+      "text_en": "The praefectus...slain?",
+      "text": "ผู้บัญชาการ... ถูกฆ่าตายแล้วรึ"
+    },
+    {
+      "key": "regrettablysomylordandatthehandoftheeikonslayerifthecenturionwhosurvivedtheattackistobebelieved",
+      "text_en": "Regrettably so, my lord. And at the hand of the eikon-slayer, if the centurion who survived the attack is to be believed.",
+      "text": "น่าเสียดายที่เป็นเช่นนั้นครับท่าน และด้วยน้ำมือของผู้ปราบไอคอน หากจะเชื่อคำของร้อยเอกที่รอดชีวิตจากการโจมตี"
+    },
+    {
+      "key": "rhitahtyn",
+      "text_en": "Rhitahtyn...",
+      "text": "ริทาทิน..."
+    },
+    {
+      "key": "wherewerehismenwhenhefacedtheenemyfleeingevenastheircommanderyieldeduphislastbreathifitshouldprovetheyquestionedhisright",
+      "text_en": "Where were his men when he faced the enemy!? Fleeing, even as their commander yielded up his last breath!? If it should prove they questioned his right...",
+      "text": "พวกทหารไปมุดหัวอยู่ที่ไหนตอนที่เผชิญหน้ากับศัตรู!? พากันหนีเตลิดขณะผู้บัญชาการสิ้นลมหายใจเฮือกสุดท้ายอย่างนั้นรึ!? หากพิสูจน์ได้ว่าพวกมันกังขาในสิทธิ์การนำทัพ..."
+    },
+    {
+      "key": "iicannotspeakforthemmylord",
+      "text_en": "I-I cannot speak for them, my lord.",
+      "text": "ก...กระผมมิอาจตอบแทนได้ครับท่าน"
+    },
+    {
+      "key": "begpardonsmylordbutthereismorethemaelstromhaslaidsiegetocastrumoccidens",
+      "text_en": "...Beg pardons, my lord, but there is more. The Maelstrom has laid siege to Castrum Occidens.",
+      "text": "...ขออภัยครับท่าน ทว่ายังมีรายงานแจ้งเข้ามาเพิ่มเติม กองพลเมลสตรอมกำลังปิดล้อมคาสทรัม ออคซิเดนส์"
+    },
+    {
+      "key": "likewisethecrimsonfleetmovestoblockadecastrummarinum",
+      "text_en": "Likewise, the Crimson Fleet moves to blockade Castrum Marinum.",
+      "text": "ในทำนองเดียวกัน กองเรือคริมสันก็เริ่มเคลื่อนกำลังพลเข้าปิดล้อมแคสทรัม มารีนัม"
+    },
+    {
+      "key": "sothisistheiranswer",
+      "text_en": "So this is their answer...",
+      "text": "นี่คือคำตอบของพวกแกสินะ..."
+    },
+    {
+      "key": "verywellweshallcrushthemaswecrushedtheeikons",
+      "text_en": "Very well! We shall crush them as we crushed the eikons!",
+      "text": "ดีละ! เราจะบดขยี้พวกแกให้ย่อยยับเหมือนอย่างที่เคยทำกับพวกไอคอน (อสูรมายา)!"
+    },
+    {
+      "key": "goforthandshowthemthefutilityoftheirresistance",
+      "text_en": "Go forth and show them the futility of their resistance!",
+      "text": "จงออกไป และแสดงให้พวกมันเห็นว่ากองกำลังต่อต้านของพวกมันช่างเปล่าประโยชน์สิ้นดี!"
+    },
+    {
+      "key": "yesmylord",
+      "text_en": "Yes, my lord!",
+      "text": "รับบัญชาครับ!"
+    },
+    {
+      "key": "scionsurnameyourdeedsthisdayareaninspirationtousall",
+      "text_en": "Scion Surname ! Your deeds this day are an inspiration to us all!",
+      "text": "ไซออน Surname! วีรกรรมของเธอในวันนี้สร้างแรงบันดาลใจให้แก่พวกเราทุกคนยิ่งนัก!"
+    },
+    {
+      "key": "withthedeathofthepraefectusoperationarchonhasentereditssecondphaseevenaswespeakthemaelstrommovestoblockadecastrumoccidensandcastrummarinum",
+      "text_en": "With the death of the praefectus, Operation Archon has entered its second phase. Even as we speak, the Maelstrom moves to blockade Castrum Occidens and Castrum Marinum.",
+      "text": "เมื่อผู้บัญชาการทหารสิ้นชีพ ปฏิบัติการอาร์คอน ก็เข้าสู่ระยะที่สอง ในตอนนี้ กองพลเมลสตรอม กำลังเคลื่อนพลเข้าปิดล้อมคาสทรัม ออคซิเดนส์ และแคสทรัม มารีนัม"
+    },
+    {
+      "key": "andfartotheeastintheblackshroudtheorderofthetwinadderadvancesuponcastrumoriens",
+      "text_en": "And far to the east, in the Black Shroud, the Order of the Twin Adder advances upon Castrum Oriens.",
+      "text": "และไกลออกไปทางทิศตะวันออก ณ ป่าแบล็กเชราด ภาคีทวินแอดเดอร์ กำลังเคลื่อนพลมุ่งหน้าสู่แคสทรัม โอเรียนส์"
+    },
+    {
+      "key": "alreadyyouhavedonemuchtoadvanceourcauseperformingsuchfeatsasareworthyofsongbutifourplanistosucceedmoreisrequiredofyou",
+      "text_en": "Already, you have done much to advance our cause, performing such feats as are worthy of song─but if our plan is to succeed, more is required of you.",
+      "text": "ที่ผ่านมา เธอช่วยหนุนนำเป้าหมายของเราไว้มากมายเหลือเกิน วีรกรรมอันยอดเยี่ยมของเธอนั้นคู่ควรค่าแก่การร้องขับขานเป็นบทเพลง─แต่หากต้องการให้แผนการของเราสัมฤทธิ์ผล เรายังต้องพึ่งพาเธอมากกว่านี้"
+    },
+    {
+      "key": "letmeknowwhenyourpreparationsareinorderandishallrelaytoyoutheparticularsofyournextmission",
+      "text_en": "Let me know when your preparations are in order, and I shall relay to you the particulars of your next mission.",
+      "text": "ถ้าเตรียมตัวพร้อมเมื่อไรก็บอกฉันได้เลย แล้วฉันจะชี้แจงรายละเอียดของภารกิจต่อไปให้ฟัง"
+    }
+  ]
+}

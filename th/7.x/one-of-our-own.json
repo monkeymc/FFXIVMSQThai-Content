@@ -1,0 +1,548 @@
+{
+  "id": "one-of-our-own",
+  "wiki_path": "/wiki/One_of_Our_Own",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
+  "patch": "7.3",
+  "title_en": "One of Our Own",
+  "title": "หนึ่งในคนของเรา",
+  "level": "100",
+  "location": "The Backroom(X:6.0,Y:6.4)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "Shale has been out of sorts ever since we got back. I don't think she liked what Calyx said... But don't worry, I'll do my best to cheer her up!",
+      "text": "ตั้งแต่กลับมา พี่เชลดูหงุดหงิดพิกลครับ คงไม่ชอบใจคำพูดของคาลิกซ์เท่าไหร่... แต่ไม่ต้องห่วงนะครับ ผมจะพยายามช่วยทำให้พี่เขาร่าเริงขึ้นเองครับ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've passed on the short version of events to our comrades so that we can all prepare for the challenge ahead.",
+      "text": "ฉันแจ้งเรื่องราวคร่าวๆ ให้พวกพ้องของเราทราบเรียบร้อยแล้วค่ะ ทุกคนจะได้เตรียมตัวรับมือกับศึกหนักที่รออยู่เบื้องหน้าได้ค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's time to put an end to this. Calyx won't stop until we stop him.",
+      "text": "ถึงเวลาต้องจบเรื่องนี้ลงเสียที คาลิกซ์ไม่มีวันหยุดมือแน่ จนกว่าพวกเราจะเข้าไปหยุดเขา!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The situation isn't the best out there... But at least you've come back to us safe and sound.",
+      "text": "สถานการณ์ข้างนอกดูไม่ค่อยสู้ดีนัก... แต่อย่างน้อยคุณก็กลับมาหาพวกเราได้อย่างปลอดภัยดี"
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's a shame that punching an Endless does no damage. I'd love to rearrange that serene face of his...",
+      "text": "น่าเสียดายนะคะที่ต่อยพวกเอ็นด์เลสไปก็ไม่ระคายผิวเลย ไม่อย่างนั้นฉันละอยากจะจัดระเบียบใบหน้าแสนสงบนิ่งของหมอนั่นใหม่เสียจริงค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forename ... We've briefed Erenville on everything that has happened and sent word to the others.",
+      "text": "[ชื่อ]... พวกเราแจ้งเรื่องที่เกิดขึ้นทั้งหมดให้เอเรนวิลล์ทราบแล้วค่ะ และส่งข่าวถึงคนอื่นๆ เรียบร้อยแล้วด้วยเช่นกัน"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We've now but to consider what our next actions will be.",
+      "text": "ยามนี้เหลือเพียงพิจารณาว่าพวกเราจะดำเนินขั้นตอนต่อไปอย่างไรดีค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx has offered you the opportunity to confront him directly...",
+      "text": "คาลิกซ์เสนอโอกาสให้คุณได้เผชิญหน้ากับเขาโดยตรงแล้ว..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And though it feels much like striding face-first into an ambush, we have little choice. If we are to destroy the memories he supposedly has stored in the upper reaches of the Meso Terminal, then that is where we must go.",
+      "text": "และแม้จะรู้สึกเหมือนกำลังเอาตัวเข้าไปติดกับของเขาตรงๆ แต่พวกเราก็แทบไม่มีทางเลือกอื่นแล้วค่ะ หากคิดจะทำลายความทรงจำที่คาดว่าเขาเก็บรักษาไว้ที่ชั้นบนสุดของเมโซเทอร์มินัล พวกเราก็มีแต่ต้องมุ่งหน้าไปที่นั่นเท่านั้นค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "While I'm still upset at being deprived of my moment, I nevertheless did my due diligence...",
+      "text": "ถึงจะแอบเคืองอยู่บ้างที่โดนแย่งซีนเด่นไปเสียดื้อๆ แต่ฉันก็ตรวจเช็กส่วนของตัวเองอย่างรอบคอบไม่มีขาดตกบกพร่องแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I can confirm that the relay we found was indeed transmitting surveillance data to a device somewhere in Living Memory.",
+      "text": "ฉันยืนยันได้แน่นอนแล้วค่ะว่าเครื่องส่งสัญญาณที่พวกเราพบ กำลังส่งผ่านข้อมูลการสอดแนมไปยังอุปกรณ์บางอย่างในลิฟวิ่งเมโมรีจริงๆ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "When you go to fight Calyx, pray let me fight alongside you.",
+      "text": "ในยามที่คุณไปสู้กับคาลิกซ์ ได้โปรดให้ฉันร่วมสู้เคียงข้างคุณด้วยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let me fight for the memory of Otis and Zelenia, and for the other Sphene I may have become. But most importantly, for my beloved kingdom and a joyful tomorrow!",
+      "text": "ให้ฉันได้สู้เพื่อความทรงจำของโอทิสและเซเลเนีย รวมถึงเพื่อสฟีนอีกตัวตนที่ฉันอาจจะเคยกลายเป็นด้วยเถอะค่ะ แต่เหนือสิ่งอื่นใด ก็เพื่ออาณาจักรอันเป็นที่รักยิ่ง และวันพรุ่งนี้ที่เปี่ยมไปด้วยรอยยิ้มค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for understanding what this means to me.",
+      "text": "ขอบคุณที่เข้าใจนะคะว่าสิ่งนี้สำคัญต่อฉันเพียงใด"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, I understand. I promise not to subject myself or the party to needless danger.",
+      "text": "ค่ะ ฉันเข้าใจดี ฉันสัญญาว่าจะไม่พาตัวเองหรือทุกคนไปเสี่ยงอันตรายโดยไม่จำเป็นเด็ดขาดค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I shall hold you to that. But I will also protect you in turn...because that is what comrades do.",
+      "text": "ฉันจะจำคำสัญญานั้นไว้ให้มั่นนะคะ แต่ฉันเองก็พร้อมจะปกป้องคุณเป็นการตอบแทนด้วยเช่นกัน... เพราะนั่นคือสิ่งที่พวกพ้องกระทำต่อกันนี่คะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll be coming with you, as well. You know my reasons.",
+      "text": "ฉันก็จะไปกับนายด้วยเหมือนกัน นายก็น่าจะรู้เหตุผลของฉันดีอยู่แล้วใช่ไหมล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It hardly needs saying, but your fellow Scions also have every intention of accompanying you into battle.",
+      "text": "แทบไม่ต้องบอกก็คงพอเดาได้นะคะว่าเพื่อนๆ กลุ่มไซออนคนอื่นเองก็ตั้งใจที่จะร่วมศึกครั้งนี้เคียงข้างคุณอย่างเต็มที่เช่นกันค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So adamant were Alisaie and the others on this point that they have already left for Living Memory. I am more than ready to do the same.",
+      "text": "โดยเฉพาะอลิเซย์และคนอื่นๆ ที่ยืนกรานเรื่องนี้หนักแน่นเสียจนออกเดินทางไปลิฟวิ่งเมโมรีก่อนแล้วล่ะค่ะ ส่วนฉันเองก็พร้อมที่จะตามไปทุกเมื่อแล้วเหมือนกันค่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll keep patrolling the streets for signs of trouble─especially from anyone wearing neo regulators.",
+      "text": "ผมจะคอยลาดตระเวนตามถนนเพื่อเฝ้าระวังเหตุวุ่นวายครับ─โดยเฉพาะพวกคนที่สวมนีโอเรกูเลเตอร์"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Should you need anything from me, I'll be on standby here in the Backroom.",
+      "text": "หากต้องการอะไรเพิ่มเติม ฉันจะคอยสแตนด์บายรออยู่ที่เดอะแบ็ครูม (Backroom) แห่งนี้นะคะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I really want to go with you too, but I know I can't. I know that sometimes you have to be patient and trust in your friends.",
+      "text": "ผมอยากไปกับพี่ๆ ด้วยจริงๆ นะครับ แต่ก็รู้ดีว่าไปไม่ได้... ผมรู้ครับว่าบางครั้งคนเราก็ต้องอดทนรอ และเชื่อมั่นในตัวพวกพี่ๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, Forename . Krile and I think that we should talk to Gossan before we leave for Living Memory.",
+      "text": "อ๊ะ [ชื่อ] ฉันกับไครล์คิดว่าก่อนที่จะไปลิฟวิ่งเมโมรี พวกเราควรไปคุยกับกอสซานกันก่อนนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Under Calyx's direction, Preservation has helped shape Alexandria's society for centuries. Taking him down will have serious consequences, and we need to warn the officials in charge about what we intend.",
+      "text": "ภายใต้การนำของคาลิกซ์ พรีเซิร์ฟเวชันได้ชี้นำสังคมของอเล็กซานเดรียมานานหลายร้อยปี การโค่นเขาลงย่อมส่งผลกระทบใหญ่หลวงตามมาแน่ๆ ดังนั้นเราจึงต้องแจ้งให้พวกเจ้าหน้าที่ผู้รับผิดชอบได้รับรู้ถึงความตั้งใจของเราล่วงหน้าน่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Justifications aside, we shall be acting against the wishes of all who desire to become Endless...",
+      "text": "ไม่ว่าจะด้วยเหตุผลอันชอบธรรมใดก็ตาม สิ่งที่เรากำลังจะทำนี้ถือเป็นการขัดต่อความปรารถนาของทุกคนที่ต้องการเป็นเอ็นด์เลสอยู่ดีนะคะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Exactly. We don't know if Gossan will approve or oppose our chosen course, but either way, leaving without a word is the wrong thing to do.",
+      "text": "จริงอย่างที่เธอพูดเลย พวกเราไม่รู้หรอกว่ากอสซานจะเห็นด้วยหรือคัดค้านหนทางที่เราเลือก แต่ถึงจะเป็นอย่างนั้น การจากไปโดยไม่มีคำบอกกล่าวสักคำก็ไม่ใช่เรื่องที่ถูกต้องหรอกนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Come, we should be on our way. Resolution first, yes?",
+      "text": "เอาละค่ะ พวกเราออกเดินทางกันได้แล้ว ต้องสะสางเรื่องราวตรงหน้าก่อน จริงไหมคะ?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Be safe, everyone! We'll see you when it's over!",
+      "text": "ขอให้ปลอดภัยกันทุกคนนะครับพี่ๆ! แล้วเจอกันตอนที่ทุกอย่างคลี่คลายเรียบร้อยนะครับ!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll do whatever I can to help Shale and Erenville. It may not be much, but small things add up when you do enough of them!",
+      "text": "ผมจะช่วยพี่เชลกับพี่เอเรนวิลล์เท่าที่ตัวเองทำได้ครับ ถึงจะเป็นเรื่องเล็กๆ น้อยๆ แต่ถ้าเราทำมากพอ มันก็จะสะสมจนช่วยได้เยอะเลยล่ะครับ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Even people from my village have taken to wearing neo regulators. I can only hope it doesn't end badly...",
+      "text": "แม้แต่ผู้คนจากหมู่บ้านของผมก็ยังเริ่มหันมาสวมนีโอเรกูเลเตอร์กันแล้ว ได้แต่หวังว่าผลลัพธ์สุดท้ายจะไม่ลงเอยแบบเลวร้ายหรอกนะ..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "As I said, I'll be ready and waiting if and when you have need of me. Just make sure you come back in one piece.",
+      "text": "อย่างที่คุณเชลบอกนั่นแหละค่ะ ฉันเตรียมพร้อมคอยช่วยเหลือทุกเมื่อที่คุณต้องการ ขอแค่คุณกลับมาอย่างปลอดภัยไร้รอยขีดข่วนก็พอค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Government officials must be fielding demands from all quarters. I do not envy Gossan his position.",
+      "text": "พวกเจ้าหน้าที่รัฐคงต้องคอยรับมือกับเสียงเรียกร้องจากทุกสารทิศ ฉันละไม่นึกอิจฉาหน้าที่ของกอสซานในตอนนี้เลยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The air is thick with a sense of unease─not least around Gossan himself.",
+      "text": "บรรยากาศโดยรอบดูอบอวลไปด้วยความหวั่นวิตกอย่างยิ่งค่ะ ไม่เว้นแม้กระทั่งตัวกอสซานเองด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see Gossan's wearing a neo regulator. He'll have some thoughts to share on the subject, I'll wager...",
+      "text": "ฉันเห็นกอสซานสวมนีโอเรกูเลเตอร์ด้วยแฮะ พนันได้เลยว่าหมอนั่นต้องมีความเห็นบางอย่างเกี่ยวกับเรื่องนี้แน่..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I see... A difficult situation.",
+      "text": "งั้นหรือครับ... เป็นสถานการณ์ที่รับมือได้ยากจริงๆ"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "In the absence of an official sovereign, I agree that it is not Preservation's place to dictate the future of our nation.",
+      "text": "ในยามที่ยังขาดผู้ปกครองอย่างเป็นทางการ ผมเห็นด้วยว่าพรีเซิร์ฟเวชันไม่ควรเป็นฝ่ายมากำหนดอนาคตประเทศชาติของเราครับ"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "However, I also cannot simply take a side and declare my support for your efforts to defeat Calyx.",
+      "text": "แต่กระนั้น ผมก็ไม่สามารถเลือกข้างแล้วป่าวประกาศสนับสนุนความตั้งใจของพวกคุณในการกำจัดคาลิกซ์ได้ในทันทีเช่นกันครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that because of the new regulator you wear...?",
+      "text": "ที่พูดเช่นนั้น เป็นเพราะตัวเรกูเลเตอร์รุ่นใหม่ที่คุณกำลังสวมใส่อยู่หรือเปล่าคะ...?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I've yet to register it. I find myself caught between the fear of dying and the desire to carry out the duties of governance.",
+      "text": "ผมยังไม่ได้ลงทะเบียนหรอกครับ เพียงแต่ยามนี้ผมกำลังลังเลใจอยู่ระหว่างความหวาดกลัวต่อความตาย กับความมุ่งมั่นที่จะทำหน้าที่บริหารบ้านเมืองให้สำเร็จลุล่วง"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "My greatest concern is how we shall stem this ever-increasing terror of mortality when becoming Endless is no longer an option.",
+      "text": "ความกังวลใจสูงสุดของผมก็คือ พวกเราจะช่วยบรรเทาความหวาดกลัวต่อความตายที่นับวันจะยิ่งรุมเร้าจิตใจของผู้คนได้อย่างไร หากการแปรเปลี่ยนเป็นเอ็นด์เลสไม่สามารถทำได้อีกต่อไปแล้ว"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "And that's to say nothing of the recent slaughter committed by our own soldiers. The fact that such violence was perpetrated for the very purpose of creating Endless will, paradoxically, make it more difficult to endorse your chosen course.",
+      "text": "และนี่ยังไม่รวมถึงการประหัตประหารชีวิตผู้คนด้วยน้ำมือของทหารฝ่ายเราเองเมื่อไม่นานมานี้ ความจริงที่ว่าความรุนแรงเหล่านั้นเกิดขึ้นเพื่อเป้าหมายในการสร้างเอ็นด์เลส ย่อมเป็นเรื่องย้อนแย้งที่ยิ่งทำให้การเห็นดีเห็นงามกับหนทางที่พวกคุณเลือกนั้นเป็นไปได้ยากขึ้นไปอีกครับ"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "It may not seem logical, but for those who lost friends and family in the attacks, halting the creation process altogether would render the deaths of their loved ones utterly meaningless.",
+      "text": "มันอาจจะฟังดูไร้เหตุผลไปบ้าง แต่สำหรับผู้ที่ต้องสูญเสียญาติมิตรและคนในครอบครัวไปกับการโจมตีเหล่านั้น การระงับกระบวนการสร้างเอ็นด์เลสลงโดยสิ้นเชิง จะยิ่งทำให้การจากไปของบุคคลอันเป็นที่รักสูญเปล่าและไร้ความหมายไปในทันทีครับ"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Is it not cruel to rob them of what little solace they could claim when we have only just learned what it is to mourn?",
+      "text": "มันไม่ใจร้ายเกินไปหรือครับที่จะไปพรากสิ่งยึดเหนี่ยวจิตใจอันน้อยนิดที่พวกเขาพอจะหาได้ ในยามที่พวกเราเพิ่งจะรู้จักเรียนรู้ที่จะเศร้าโศกเสียใจเช่นนี้?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Tell me... How are we meant to overcome such tragedies!?",
+      "text": "บอกผมหน่อยเถอะครับ... พวกเราจะผ่านพ้นโศกนาฏกรรมเช่นนี้ไปได้อย่างไรกัน!?"
+    },
+    {
+      "character": "???",
+      "text_en": "We stop begging others to teach us, for a start.",
+      "text": "เริ่มต้นง่ายๆ ด้วยการเลิกวิ่งไปขอร้องให้ใครอื่นมาสอนพวกเราเสียทีครับ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "For the longest time, we've been protected by Queen Sphene and the systems put in place by our forebears.",
+      "text": "ที่ผ่านมาพวกเราได้รับการคุ้มครองจากองค์ราชินีสฟีนรวมถึงระบบที่บรรพบุรุษสร้างเอาไว้มานานแสนนาน"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "The hardships and responsibilities of life were distant things, and we felt entitled to our comforts...even as we barely noticed those who risked everything to keep us sheltered.",
+      "text": "ความยากลำบากและความรับผิดชอบในชีวิตกลายเป็นเรื่องไกลตัว และพวกเราก็พากันเสวยสุขกับความสะดวกสบายจนเคยตัว... ทั้งที่แทบไม่เคยเหลียวแลผู้คนที่ยอมเอาชีวิตเข้าแลกเพื่อเป็นโล่กำบังให้พวกเราเลยสักนิด"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "...But no more. From now on, we need to learn on our own.",
+      "text": "...แต่ยามนี้จะไม่เป็นเช่นนั้นอีกแล้วนับจากวันนี้ไป พวกเราต้องเรียนรู้ทุกสิ่งทุกอย่างด้วยตัวเองครับ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "How to live with the promise of death. How to endure the pain of loss.",
+      "text": "ต้องเรียนรู้ที่จะอยู่กับความจริงที่ว่าความตายจะมาเยือนสักวัน และต้องเรียนรู้วิธีทนรับความทรมานใจจากการสูญเสียคนที่รักไปให้ได้"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "We may never learn to love such things, but we may learn to survive them.",
+      "text": "จริงอยู่ว่าพวกเราอาจไม่มีวันชอบเรื่องพรรค์นั้นลงหรอกครับ แต่พวกเราก็ต้องเรียนรู้ที่จะประคับประคองชีวิตรอดผ่านมันไปให้ได้"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "The people beyond the barrier, even the Alexandrians of old, they've all had to live with these fears. There's no reason we can't do it too!",
+      "text": "ผู้คนนอกบาเรีย หรือแม้แต่ชาวอเล็กซานเดรียในยุคโบราณ ต่างก็ต้องใช้ชีวิตอยู่ร่วมกับความกลัวเหล่านี้ด้วยกันทั้งนั้น ไม่มีเหตุผลเลยที่พวกเราจะทำไม่ได้ครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What are you all doing here...?",
+      "text": "พวกเธอมาทำอะไรที่นี่กันน่ะ...?"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Malachite called us in, and the Oblivion members briefed us on the current crisis.",
+      "text": "มาลาไคต์เรียกพวกเรามาน่ะค่ะ แล้วสมาชิกของอ็อบลิเวียนก็เล่าเรื่องวิกฤตที่กำลังเกิดขึ้นให้ฟังเรียบร้อยแล้วค่ะ"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "You don't stand idly by while your house burns down.",
+      "text": "บ้านตัวเองกำลังถูกไฟแผดเผาอยู่ทั้งหลัง จะให้พวกเรายืนดูอยู่เฉยๆ ได้ยังไงกันล่ะคะ"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "We came together and thought about how we could help.",
+      "text": "พวกเราก็เลยมารวมกลุ่มกันเพื่อช่วยกันขบคิดว่าจะมีทางช่วยได้อย่างไรบ้างน่ะค่ะ"
+    },
+    {
+      "character": "Taapu",
+      "text_en": "Long story short, we've decided to join the fight alongside Oblivion.",
+      "text": "สรุปสั้นๆ ก็คือ พวกเราตัดสินใจแล้วว่าจะเข้าร่วมการต่อสู้เคียงข้างกลุ่มอ็อบลิเวียนน่ะค่ะ"
+    },
+    {
+      "character": "Taapu",
+      "text_en": "I say “fight,” but we're well aware of how little use we'd be in actual combat.",
+      "text": "ถึงจะเรียกว่า 'ต่อสู้' ก็เถอะ แต่พวกเราก็รู้ตัวดีว่าในสนามรบจริงๆ คงจะช่วยอะไรได้ไม่มากเท่าไหร่หรอกค่ะ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "A battle of ideas , on the other hand─now that we might be qualified to do something about.",
+      "text": "ทว่าหากเป็นการต่อสู้ในเชิงความคิดล่ะก็... บางทีนั่นอาจเป็นเรื่องที่พวกเราพอจะมีความสามารถยื่นมือเข้าช่วยได้บ้างครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "We'll talk to our neighbors, and do our best to quell their fears. Convince them to make the most of this life and enjoy all it has to offer...",
+      "text": "พวกเราจะลองไปพูดคุยกับเพื่อนบ้าน และพยายามอย่างสุดความสามารถเพื่อคลายความวิตกกังวลในใจของพวกเขา คอยโน้มน้าวให้พวกเขากลับมาใช้ชีวิตที่เหลืออยู่ให้คุ้มค่าที่สุด และเพลิดเพลินกับทุกสิ่งที่ชีวิตจะมอบให้ได้..."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Perhaps that will help to ease your burden?",
+      "text": "แบบนั้นจะพอช่วยแบ่งเบาภาระของพวกคุณลงได้บ้างไหมครับ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It certainly will. Even if a few are assuaged by your words, it will make things easier!",
+      "text": "ช่วยได้มากแน่นอนเลยค่ะ! ต่อให้จะมีผู้คนเพียงไม่กี่คนที่คลายความกังวลลงเพราะคำพูดของพวกคุณ แต่นั่นก็ช่วยให้เรื่องราวต่างๆ ง่ายขึ้นมากแล้วล่ะค่ะ!"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Those who have already registered will be difficult to sway...but there are still many who waver.",
+      "text": "สำหรับคนที่ยอมลงทะเบียนไปแล้วคงจะโน้มน้าวใจยากสักหน่อย... ทว่าก็ยังมีผู้คนอีกมากที่ยังลังเลใจอยู่ครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Those are the ones we'll concentrate on.",
+      "text": "คนกลุ่มนั้นแหละครับคือกลุ่มที่พวกเราจะพุ่งเป้าไปช่วยเหลือเป็นหลัก"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Gossan. If you truly care for the people of Alexandria, then now's the time to start thinking of ways to prevent more deaths.",
+      "text": "กอสซัน ถ้าคุณห่วงใยประชาชนชาวอเล็กซานเดรียจริงๆ ละก็ ตอนนี้แหละคือเวลาที่คุณต้องเริ่มคิดหาทางป้องกันไม่ให้มีใครต้องล้มตายไปมากกว่านี้แล้ว"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Were I to become Endless at the expense of my countrymen's lives, I would regret it for the rest of my existence.",
+      "text": "หากผมต้องแปรเปลี่ยนเป็นเอ็นด์เลสโดยแลกด้วยชีวิตของเพื่อนร่วมชาติแล้วละก็ ผมคงจะต้องนึกเสียใจไปตลอดชั่วชีวิตที่เหลืออยู่อย่างแน่นอนครับ"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Forgive my weakness. When the people have lost their way, it falls to the government to support and guide them.",
+      "text": "โปรดอภัยในความอ่อนแอของผมด้วยครับ ในยามที่ประชาชนสูญเสียหนทางเช่นนี้ มันจึงเป็นหน้าที่ของรัฐบาลที่จะต้องคอยค้ำจุนและนำทางพวกเขา"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Alexandria can rise above this sorrow, and find its way forward once more.",
+      "text": "อเล็กซานเดรียจะต้องก้าวข้ามผ่านความโศกเศร้าในครั้งนี้ และค้นพบเส้นทางที่จะก้าวเดินต่อไปได้อีกครั้งหนึ่ง"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "...Is that not so, Your Majesty?",
+      "text": "...ใช่ไหมครับ ฝ่าบาท?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Indeed it is!",
+      "text": "แน่นอนค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, that wasn't─ What I meant to say was─",
+      "text": "เอ๊ะ ไม่ใช่สิคะ... ที่ฉันตั้งใจจะพูดก็คือ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Calm down, Sphene!",
+      "text": "ใจเย็นก่อนสิ สฟีน!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Lamaty'i, you used her name!",
+      "text": "รามาตี เธอเรียกชื่อเธอออกไปแล้วนี่นา!"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "The perfect resemblance to our beloved Queen Sphene has not escaped our notice. Yet we also understand that you are not her.",
+      "text": "พวกเราเองก็สังเกตเห็นค่ะว่าคุณดูคล้ายคลึงกับองค์ราชินีสฟีนผู้เป็นที่รักของพวกเราไม่มีผิดเพี้ยน ทว่าพวกเราก็เข้าใจดีค่ะว่าคุณไม่ใช่พระองค์"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "Having to live in secret, unable to share who you really are... That must have been hard on you.",
+      "text": "การที่ต้องใช้ชีวิตอยู่แต่ในเงามืดโดยไม่อาจบอกให้ใครรู้ได้ว่าแท้จริงแล้วตัวเองเป็นใคร... ช่วงเวลาที่ผ่านมามันคงยากลำบากสำหรับคุณมากเลยไหมคะ"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "When you come back, please tell us all about yourself. I imagine yours is a rather outlandish story, but we're eager to hear it all the same.",
+      "text": "เมื่อคุณกลับมาแล้ว ช่วยเล่าเรื่องราวของคุณให้พวกเราฟังทีนะคะ ถึงมันจะดูแปลกประหลาดมหัศจรรย์เพียงใด แต่พวกเราก็ยังปรารถนาที่จะรับฟังอยู่ดีค่ะ"
+    },
+    {
+      "character": "Mahuwsa",
+      "text_en": "You're one of us─an Alexandrian─and we don't abandon our own.",
+      "text": "คุณเองก็เป็นคนหนึ่งในพวกเรา เป็นชาวอเล็กซานเดรีย... และพวกเราไม่มีวันทอดทิ้งคนของเราอย่างแน่นอนค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I promise to return.",
+      "text": "ฉันสัญญาค่ะว่าจะกลับมา"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And when I do, I look forward to speaking with you all.",
+      "text": "และเมื่อเวลานั้นมาถึง ฉันจะตั้งตารอคอยที่จะได้พูดคุยกับทุกคนนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad we were able to hear the will of the Alexandrian people. Now it falls to us to see the rest of it through!",
+      "text": "ดีใจจังเลยนะคะที่พวกเราได้รับรู้ถึงความปรารถนาของชาวอเล็กซานเดรียเช่นนี้ คราวนี้ก็เหลือแค่หน้าที่ของพวกเราแล้วล่ะค่ะที่จะต้องจัดการเรื่องที่เหลือให้เสร็จสิ้น!"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "It is a relief to be freed from my indecision. Until I had removed my regulator, I hadn't realized quite how heavy it weighed upon me.",
+      "text": "รู้สึกโล่งอกขึ้นเยอะเลยครับที่สลัดความโลเลหลุดพ้นไปได้เสียที ก่อนที่จะถอดเรกูเลเตอร์ออก ผมไม่เคยรับรู้เลยจริงๆ ว่ามันสร้างภาระหนักอึ้งในใจให้ผมมากขนาดนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene must be overjoyed to be so welcomed by her countrymen. For their sakes, we need to bring her back safely.",
+      "text": "สฟีนคงจะดีใจมากๆ เลยล่ะที่ชาวเมืองต้อนรับเธออย่างอบอุ่นขนาดนี้ เพื่อเห็นแก่พวกเขา พวกเราต้องพาเธอกลับมาให้ได้อย่างปลอดภัยนะ"
+    },
+    {
+      "character": "Strika",
+      "text_en": "Hello, remember me? The hunter from the Thunderyards? It's been a while, but we met when you first arrived in the dome.",
+      "text": "ไง จำฉันได้ไหม? นักล่าจากธันเดอร์ยาร์ด (Thunderyards) น่ะ? ไม่ได้เจอกันนานเลยนะ แต่พวกเราเคยเจอกันตอนที่คุณเพิ่งจะมาถึงในโดมครั้งแรกไงล่ะ"
+    },
+    {
+      "character": "Strika",
+      "text_en": "We've been talking with Lithander and the others and, thanks to some very convincing arguments, we've come around to the idea that we need to start taking responsibility for the future of our nation.",
+      "text": "พวกเราได้ลองคุยกับลิแธนเดอร์และคนอื่นๆ แล้วล่ะ และเพราะเหตุผลที่น่ารับฟังมากๆ ของพวกเขา พวกเราเลยเริ่มหันมาเห็นด้วยว่า พวกเราควรจะลุกขึ้นมารับผิดชอบอนาคตของประเทศเราเองเสียที"
+    },
+    {
+      "character": "Strika",
+      "text_en": "There are those like us who rely on regulators for their work, and others who aren't quite ready to give up what they have...but we all share a desire to make things better.",
+      "text": "แม้จะมีบางคนเหมือนพวกเราที่ยังต้องพึ่งพาเรกูเลเตอร์เพื่อทำงาน หรือคนอื่นๆ ที่ยังไม่พร้อมจะละทิ้งสิ่งที่มีอยู่... แต่พวกเราทุกคนต่างก็มีความปรารถนาร่วมกันที่จะทำให้อะไรๆ มันดีขึ้น"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Everyone was so warm and welcoming. Alexandrians are, as ever, a stalwart people.",
+      "text": "ทุกคนช่างอบอุ่นและให้การต้อนรับอย่างดีเหลือเกินค่ะ ชาวอเล็กซานเดรียยังคงเป็นผู้ที่เข้มแข็งเด็ดเดี่ยวเสมอไม่เคยเปลี่ยนเลยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How glad I am to be home...",
+      "text": "ฉันดีใจเหลือเกินค่ะที่ได้กลับบ้าน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Gossan. That decision must have been difficult to make.",
+      "text": "ขอบใจมากนะ กอสซัน การตัดสินใจครั้งนี้คงยากลำบากสำหรับนายมากเลยใช่ไหมล่ะ"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "If only I could claim the courage to do so came from within. The final push came from Alexandria's citizens, and their bravery in taking the first step towards change.",
+      "text": "หากผมจะบอกว่าความกล้าหาญนั้นเกิดขึ้นมาจากภายในจิตใจของผมเองก็คงจะพูดได้ไม่เต็มปากหรอกครับ แรงผลักดันขั้นสุดท้ายนั้นมาจากเหล่าประชาชนของอเล็กซานเดรีย และความกล้าหาญของพวกเขาในการก้าวเดินก้าวแรกเพื่อนำไปสู่การเปลี่ยนแปลงต่างหากครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Speaking of which, can I ask you to lock that neo regulator away where no one can get to it? That should prevent the registrations from reaching the target number.",
+      "text": "จะว่าไปแล้ว ฉันขอให้นายช่วยเอานีโอเรกูเลเตอร์เครื่องนั้นไปเก็บล็อคไว้ไม่ให้ใครเข้าถึงได้หน่อยได้ไหม วิธีนี้ก็น่าจะช่วยขัดขวางไม่ให้จำนวนคนลงทะเบียนครบตามเป้าหมายได้น่ะ"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I should be glad to do so, but I fear it would be to no avail. According to our most recent surveys, the number of neo regulators in circulation exceeds the stated five thousand.",
+      "text": "ผมยินดีจะทำตามนั้นอย่างยิ่งครับ ทว่าเกรงว่ามันคงจะไร้ประโยชน์ เพราะจากผลสำรวจล่าสุดของพวกเรา จำนวนนีโอเรกูเลเตอร์ที่แพร่กระจายหมุนเวียนอยู่นั้น มันเกินกว่าห้าพันเครื่องตามที่แจ้งไว้ไปแล้วล่ะครับ"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "I surmise the surplus units are to account for those like myself who have had a change of heart, or are otherwise hesitant to register.",
+      "text": "ผมคาดเดาว่าส่วนที่เกินมาเหล่านั้นคงมีไว้สำหรับรองรับกลุ่มคนที่เปลี่ยนใจเหมือนอย่างผม หรือไม่ก็คนที่ยังลังเลที่จะลงทะเบียนนั่นแหละครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah... That does sound like something Calyx would do. Well, we'll have to face him either way, so no point in delaying the inevitable. On to Living Memory!",
+      "text": "เฮ้อ... ฟังดูเป็นเรื่องที่คาลิกซ์น่าจะทำจริงๆ นั่นแหละ เอาเถอะ ไม่ว่ายังไงพวกเราก็ต้องเผชิญหน้ากับเขาอยู่ดี ดังนั้นไม่มีประโยชน์ที่จะประวิงเวลาให้ช้าไปกว่านี้แล้วล่ะ มุ่งหน้าสู่ลิฟวิ่งเมโมรีกันเลย!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Things seem...much the same.",
+      "text": "ทุกอย่างดู... แทบไม่ต่างไปจากเดิมเลยนะครับ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "So, listen, you have nothing more to fear than any other normal day. Deep breaths! We'll get through this!",
+      "text": "เพราะงั้น ฟังให้ดีนะ พวกคุณไม่มีอะไรต้องกลัวไปมากกว่าวันปกติธรรมดาทั่วไปหรอก สูดหายใจเข้าลึกๆ! พวกเราต้องผ่านมันไปได้แน่!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You'd be telling them much the same if you were here. I suppose it falls to me now...",
+      "text": "ถ้าหากคุณแม่อยู่ที่นี่ ก็คงจะบอกพวกเขาแบบนั้นเหมือนกันสินะครับ... คราวนี้คงถึงคราวผมแล้วสิ..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Last time I had to wait in the cenote, but there's nothing to stop me from joining this fight!",
+      "text": "คราวที่แล้วฉันทำได้แค่รออยู่เฉยๆ ในซีโนต์ แต่ครั้งนี้ไม่มีทางที่จะหยุดฉันจากการเข้าร่วมสู้ศึกนี้ได้หรอก!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I had scarcely awakened here when I fell unconscious. Now that I can fully enjoy the gentle silence of this place, it brings tears to my eyes.",
+      "text": "ฉันเพิ่งลืมตาตื่นขึ้นมาที่นี่ได้ไม่นานก็หมดสติไปน่ะค่ะ พอตอนนี้มีโอกาสได้ชื่นชมความเงียบสงบอันอ่อนโยนของดินแดนแห่งนี้อย่างเต็มที่แล้ว มันก็ทำให้ฉันรู้สึกตื้นตันจนน้ำตาไหลออกมาเลยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seems Alphinaud and Alisaie were the ones to explain to Koana our need to enter the cenote. He urged us to be extremely careful, of course!",
+      "text": "ดูเหมือนว่าอัลฟิโนกับอลิเซจะเป็นคนที่ช่วยอธิบายให้โคอานาเข้าใจว่าทำไมพวกเราต้องลงไปในซีโนต์นะ แน่นอนว่าเขากำชับพวกเราให้ระวังตัวอย่างที่สุดเลยล่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Coming here reminds me of my parents. Of the courage they gave me...",
+      "text": "พอมาถึงที่นี่แล้ว มันชวนให้ฉันคิดถึงพ่อแม่ขึ้นมาเลยค่ะ คิดถึงความกล้าหาญที่พวกท่านเคยมอบไว้ให้..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis good to rejoin you all. I needed to step away briefly that I might make arrangements for a certain precautionary measure...",
+      "text": "ยินดีที่ได้กลับมาร่วมทางกับทุกท่านอีกครั้งครับ ก่อนหน้านี้ผมจำเป็นต้องขอตัวไปเตรียมมาตรการป้องกันไว้ล่วงหน้าสักเล็กน้อยน่ะครับ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We've all been so busy, it seems an age since last we gathered in such a manner. I must say, we do make for a formidable group!",
+      "text": "พวกเรายุ่งกันมากเสียจนรู้สึกเหมือนไม่ได้มารวมตัวกันแบบนี้นานแสนนานเลยนะ แต่ฉันขอบอกเลยว่า พอมารวมกลุ่มกันแบบนี้แล้ว พวกเราดูเป็นกองกำลังที่น่าเกรงขามจริงๆ!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah, 'tis good to see our comrades hale and girded for battle.",
+      "text": "ดีใจที่เห็นสหายของเราทุกคนปลอดภัยและเตรียมพร้อมรับศึกใหญ่นะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As for us, we've been ahead to inspect the lay of the land. There were no changes of note...aside from with the Meso Terminal itself.",
+      "text": "ส่วนพวกเราล่วงหน้าไปสำรวจลู่ทางมาก่อนแล้วล่ะ ไม่พบความเปลี่ยนแปลงใดที่สลักสำคัญ... นอกเสียจากตัวเมโซเทอร์มินัลเอง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why, what's happened to the Meso Terminal?",
+      "text": "เอ๋ เกิดอะไรขึ้นกับเมโซเทอร์มินัลอย่างนั้นเหรอ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The wall has receded to provide a convenient entrance into the structure's interior. There was no such ingress when last we were here, so we must assume that Calyx has since manipulated the terminal's electrope.",
+      "text": "กำแพงส่วนนั้นร่นระยะกลับไปจนเปิดเป็นช่องทางให้เข้าไปข้างในโครงสร้างได้อย่างสะดวก ตอนที่พวกเรามาที่นี่คราวก่อนยังไม่มีทางเข้าแบบนี้เลย ดังนั้นจึงสันนิษฐานได้ว่าคาลิกซ์คงจะเข้ามาดัดแปลงแร่เอเลกโทรปของเทอร์มินัลนับแต่นั้น"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "All to facilitate his most gracious invitation to the upper levels.",
+      "text": "ทั้งหมดนี้ก็เพื่ออำนวยความสะดวกให้พวกเราตอบรับคำเชิญอันแสนเอื้ออารีของเขาขึ้นไปยังชั้นบนนั่นแหละ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "An invitation I am eager to accept... For the sake of all who love Alexandria, I will not yield nor leave them to despair.",
+      "text": "คำเชื้อเชิญที่ฉันยินดีจะตอบรับอย่างยิ่งค่ะ... เพื่อเห็นแก่ทุกๆ คนที่รักอเล็กซานเดรีย ฉันจะไม่ยอมแพ้และไม่มีวันทอดทิ้งพวกเขาให้ต้องสิ้นหวังเด็ดขาดค่ะ"
+    }
+  ]
+}

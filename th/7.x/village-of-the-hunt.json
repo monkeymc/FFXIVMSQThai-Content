@@ -1,0 +1,653 @@
+{
+  "id": "village-of-the-hunt",
+  "wiki_path": "/wiki/Village_of_the_Hunt",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/18/Village_of_the_Hunt.png",
+  "patch": "7.0",
+  "title_en": "Village of the Hunt",
+  "title": "หมู่บ้านแห่งการล่า",
+  "level": "94",
+  "location": "Yak T'el(X:14.4,Y:12.8)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "Are all cenotes this deep, I wonder?",
+      "text": "อยากรู้จังว่าหลุมยุบพวกนี้จะลึกเท่ากันหมดทุกหลุมหรือเปล่านะคะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We should press on. The other candidates may be well ahead of us.",
+      "text": "พวกเราควรรีบเดินทางต่อเถอะ ผู้ท้าชิงคนอื่นๆ อาจจะล่วงหน้าทำแต้มทิ้งห่างพวกเราไปไกลแล้วก็ได้"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Are we ready to proceed? I am eager to learn more about Iq Br'aax and Xbr'aal customs.",
+      "text": "พวกเราพร้อมเดินทางไปต่อกันหรือยังครับ? ผมกระตือรือร้นใคร่รู้เรื่องราววิถีชีวิตและประเพณีของอิคบราอัคส์และชาวชิบราลเต็มแก่แล้วล่ะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just so you know, I shall be very cross if you push me.",
+      "text": "บอกไว้ก่อนเลยนะ ฉันจะโกรธนายมากจริงๆ ด้วยล่ะถ้านายเผลอผลักฉันตกหน้าผาลงไปน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ready to head on in?",
+      "text": "พร้อมจะเดินเข้าไปข้างในกันหรือยังคะ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our first task should be finding the elector. Hopefully our relative tardiness will not reflect poorly upon us...",
+      "text": "ภารกิจแรกของพวกเราควรเป็นการตามหาตัวผู้เลือกสรรก่อนครับ หวังว่าการเดินทางมาถึงช้ากว่าคนอื่นจะไม่ส่งผลกระทบแง่ลบต่อทัศนคติที่มีต่อพวกเรานะครับ..."
+    },
+    {
+      "character": "Gentle Villager",
+      "text_en": "The Third Promise and her retinue, I presume.",
+      "text": "ว่าที่ท่านสัญญาที่สามและผู้ติดตามรบ ข้าคาดการณ์ไว้ไม่มีผิดเพี้ยน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You presume right. I seek the Dawnservant's elector.",
+      "text": "คาดการณ์ถูกต้องแล้วล่ะ ข้ากำลังสืบหาตัวผู้เลือกสรรของท่านดอว์นเซิร์ฟวันต์อยู่พอดี"
+    },
+    {
+      "character": "Gentle Villager",
+      "text_en": "Then come and join us in the Garden of the Stars, at the village center. Everyone is waiting for you.",
+      "text": "ถ้าอย่างนั้น โปรดตามข้าไปที่สวนแห่งดวงดารา (Garden of the Stars) ตรงจุดศูนย์กลางของหมู่บ้านเถอะครับ ทุกคนกำลังรอคอยพวกคุณอยู่เลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "“Everyone”?",
+      "text": "“ทุกคน” งั้นเหรอ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And who might that be...?",
+      "text": "แล้วทุกคนที่ว่านั่นหมายถึงใครกันคะ...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There is but one way to find out. Come, let us follow him.",
+      "text": "หนทางเดียวที่จะรู้ได้คือการตามไปดูครับ มาเถอะ เดินตามเขาไปกัน"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "At last we are graced by the presence of the Third Promise.",
+      "text": "ในที่สุดพวกเราก็ได้รับเกียรติจากการปรากฏตัวของท่านสัญญาที่สามเสียทีนะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "If I'd known we'd be waiting on your mangy hide, I wouldn't have bothered with Valigarmanda in the first place.",
+      "text": "ถ้ารู้แต่แรกว่าพวกข้าต้องมายืนคอยยัยแมวซอมซ่ออย่างแก ป่านนี้ข้าคงไม่เสียเวลาไปยุ่งยากเรื่องปลดปล่อยวาลิการ์มันดาแต่แรกหรอก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You self-serving piece of wivre dung! Do you have any idea how many could've been hurt!?",
+      "text": "ไอ้คนเห็นแก่ตัวชั่วช้า เศษมูลมังกรเอ๊ย! แกเคยคิดหัวสมองบ้างไหมว่าจะมีผู้คนต้องล้มตายเจ็บระเนระนาดเพราะการกระทำเลวทรามของแกมากขนาดไหนน่ะ!?"
+    },
+    {
+      "character": "Gentle Villager",
+      "text_en": "Now that we are assembled, let us begin.",
+      "text": "ในเมื่อทุกคนมาพร้อมหน้ากันหมดแล้ว งั้นพวกเรามาเริ่มต้นกันเถอะครับ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "My name is Hunmu Rruk. As Xbr'aax Rax, I have the honor of serving as elector on behalf of my people.",
+      "text": "ข้ามีนามว่าฮุนมู รุก (Hunmu Rruk) ในฐานะชิบร้ากส์ รักซ์ (Xbr'aax Rax) ข้าได้รับเกียรติให้ทำหน้าที่เป็นผู้เลือกสรรในนามของประชาชนชาวชิบราล"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "As all four claimants must be present for this feat, we have eagerly awaited your arrival.",
+      "text": "เนื่องจากบททดสอบนี้กำหนดเงื่อนไขให้ผู้ท้าชิงทั้งสี่คนต้องอยู่พร้อมหน้ากัน พวกเราจึงเฝ้ารอการมาถึงของเจ้าอย่างจดจ่อ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Third Promise, if you would please join us.",
+      "text": "ท่านสัญญาที่สาม โปรดเดินเข้ามาร่วมกลุ่มกับพวกเราตรงนี้เถิด"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Thus far, you have faced each other as rivals. The Feat of Repast, however, will test your cooperation. You must complete this challenge in teams of two.",
+      "text": "ที่ผ่านมาพวกเจ้าอาจจะเผชิญหน้ากันในฐานะคู่แข่ง ทว่าบททดสอบแห่งการกินเจรจา (Feat of Repast) นี้ จะช่วยทดสอบความสามารถในการร่วมมือของพวกเจ้า เจ้าจำเป็นต้องทำแต้มพิชิตศึกครั้งนี้เป็นทีม ทีมละสองคน"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "What!? You expect us to work with one of these weaklings!?",
+      "text": "อะไรนะ!? แกคาดหวังให้พวกข้าต้องลดตัวร่วมมือสอดประสานกับไอ้พวกอ่อนแอนี่งั้นเรอะ!?"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Be warned─only the triumphant team will receive keystones. I advise you to cooperate with your partner.",
+      "text": "จงจำใส่ใจไว้ด้วย—เฉพาะทีมที่คว้าชัยชนะเท่านั้นที่จะได้รับศิลาหลักไป ข้าขอแนะนำให้เจ้าพยายามให้ความร่วมมือช่วยเหลือคู่หูของเจ้าให้ดีล่ะ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Teams will be decided by lots. Those who draw the same color will be paired accordingly.",
+      "text": "การจับคู่แบ่งทีมจะใช้วิธีการจับฉลากเลือกสี ผู้ที่หยิบได้สีเดียวกันจะได้ร่วมทีมเดียวกันตามกฎ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Twelve forbid Wuk Lamat is paired with Bakool Ja Ja. After all he's put her through, I wouldn't blame her if she did something rash. I might even help.",
+      "text": "ขอเทพเจ้าสิบสองพระองค์โปรดคุ้มครอง อย่าให้วุค ลามัต ได้คู่กับบาคูล จา จา เลยนะ หลังจากเรื่องเลวทรามที่มันทำไว้ทั้งหมด ฉันจะไม่แปลกใจเลยถ้าเธอเผลอลงไม้ลงมือจัดการมันซะก่อน และฉันก็อาจจะก้าวเข้าไปช่วยปะทะด้วยล่ะนะ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Claimants, please present your colors.",
+      "text": "ผู้ท้าชิงทุกคน โปรดชูสีฉลากที่จับได้ขึ้นมาให้ข้าเห็นด้วย"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I have red.",
+      "text": "ผมจับได้สีแดงครับ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Blue.",
+      "text": "สีน้ำเงิน"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "On separate teams, then. And the rest?",
+      "text": "จับคู่แยกทีมกันสินะ แล้วที่เหลือล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Red. Which means...",
+      "text": "สีแดง แปลว่า..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Together again, as fate would have it.",
+      "text": "ได้ร่วมศึกเคียงบ่าเคียงไหล่ร่วมทีมกันอีกครั้ง สมเป็นโชคชะตาลิขิตจริงๆ ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Victory's as good as ours!",
+      "text": "งั้นชัยชนะครั้งนี้ก็อยู่แค่เอื้อมแล้วล่ะ!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "With our claimants thus paired, so too is their opposition...",
+      "text": "เมื่อผู้ท้าชิงของพวกเราจับคู่ร่วมทีมกันได้เช่นนี้ ฝั่งตรงข้ามของพวกเขาก็ย่อมต้องเป็นคู่หูร่วมศึกกันโดยเลี่ยงไม่ได้..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Ugh, not the one-head...",
+      "text": "ชิ ทำไมต้องมาได้คู่กับไอ้คนหัวเดียวด้วยเนี่ย..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Listen well, for the trial that awaits you is as follows...",
+      "text": "จงเปิดหูรับฟังให้ดี บททดสอบท้าทายที่รอคอยพวกเจ้าอยู่คือสิ่งนี้..."
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Each team is to prepare a sample of traditional Xbr'aal cuisine─xibruq pibil.",
+      "text": "แต่ละทีมจะต้องจัดเตรียมอาหารตัวอย่างสูตรโบราณของชาวชิบราล—ซิบรุก ปิบิล (xibruq pibil) มาส่งมอบ"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "And now we must cook. Another ludicrous feat.",
+      "text": "และคราวนี้พวกเราต้องมาสวมบทบาทเป็นพ่อครัวงั้นรึ ช่างเป็นบททดสอบที่เหลวไหลสิ้นดี"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So it might seem, but there's bound to be deeper meaning to it.",
+      "text": "เจ้าอาจจะประเมินมองดูแบบนั้น ทว่ามันย่อมต้องมีบทเรียนความหมายที่ซ่อนอยู่อย่างลึกซึ้งแน่นอนล่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Agreed. Given that the very future of our nation is at stake, all parts of this rite must have significance.",
+      "text": "เห็นด้วยครับ เมื่อพิจารณาว่าอนาคตของอาณาจักรทั้งหมดแขวนอยู่บนเส้นด้ายของการประลองครั้งนี้ ทุกองค์ประกอบของพิธีกรรมย่อมต้องมีนัยสำคัญแฝงอยู่แน่นอน"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Our Promises have grown rather promising, wouldn't you say?",
+      "text": "ว่าที่ดอว์นเซิร์ฟวันต์ของพวกเราเริ่มมีเค้าลางฉายแววความสามารถที่น่าภาคภูมิใจขึ้นเรื่อยๆ แล้วใช่ไหมครับ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. If I were to guess at the significance of the feat...",
+      "text": "ใช่ครับ หากผมจะคาดเดาความหมายนัยสำคัญของบททดสอบครั้งนี้ละก็..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Few things reflect the history and development of a culture so clearly as its culinary traditions.",
+      "text": "แทบไม่มีสิ่งใดจะช่วยสะท้อนให้เห็นภาพประวัติศาสตร์และการพัฒนาทางอารยธรรมวัฒนธรรมของชนเผ่าได้ชัดเจนเท่ากับประเพณีอาหารการกินของพวกเขาอีกแล้วล่ะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The variety of stewed dishes in Garlean cuisine bespeaks their agricultural roots and cold climes, true.",
+      "text": "ความหลากหลายของเมนูอาหารเคี่ยวในตระกูลกับข้าวของชาวการ์ลีน ก็ช่วยสะท้อนเรื่องราวรากฐานเกษตรกรรมและภูมิอากาศที่เหน็บหนาวของพวกเขาได้ดีจริงๆ ค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The peoples we've met on our journey─they've all had different practices involving food and drink.",
+      "text": "ผู้คนหลากหลายชนเผ่าที่เราได้พบเจอระหว่างการเดินทางผจญภัย—พวกเขาก็มีประเพณีที่เกี่ยวข้องกับการกินและดื่มแตกต่างกันไปหมดเลยล่ะนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Hanuhanu replenish their magical energies with reeds, while the Pelupelu have turned their fondness of beverages into a living.",
+      "text": "ชาวฮานูฮานูฟื้นฟูพลังเวทมนตร์ด้วยต้นกก ในขณะที่ชาวเปลูเปลูแปรเปลี่ยนรสนิยมความชอบดื่มสุราเครื่องดื่มให้กลายเป็นอาชีพทำมาหากินสร้างชีวิตได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So basically, to know a people's cuisine is to know something of their ways!",
+      "text": "เพราะฉะนั้น พูดง่ายๆ คือ การที่พวกเรารู้จักเรียนรู้อาหารการกินของแต่ละเผ่า ก็คือหนทางช่วยให้รู้จักเข้าถึงวิถีชีวิตของพวกเขานั่นเอง!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "With each feat, we have deepened our familiarity with a given community's history and culture...",
+      "text": "ในแต่ละบททดสอบ พวกเราได้ขยับเข้าใกล้ทำความคุ้นเคยประวัติศาสตร์และวัฒนธรรมของแต่ละชุมชนมากขึ้นเรื่อยๆ..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Is this what Father intended for us all along...?",
+      "text": "นี่คือเจตนารมณ์แท้จริงที่ท่านพ่อคาดหวังให้พวกเราเรียนรู้มาโดยตลอดหรือเปล่านะครับ...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "But a leader with his vision must see that the past doesn't hold the answers we need. It is through embracing innovation, not adhering to tradition, that we will usher Tuliyollal unto a more prosperous future.",
+      "text": "ทว่าผู้นำที่มีวิสัยทัศน์กว้างไกลแบบเขาก็ย่อมต้องเข้าใจว่าอดีตไม่ได้กักเก็บคำตอบสำหรับอนาคตที่เราตามหาหรอก การยอมรับและริเริ่มสร้างนวัตกรรมใหม่ๆ ต่างหาก ไม่ใช่การยึดติดกับประเพณีโบราณ ที่จะนำพาทูลิโยลลัลไปสู่ยุคสมัยแห่งความรุ่งเรืองเฟื่องฟูที่แท้จริงได้"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "The rules are simple.",
+      "text": "กฎกติกาการแข่งขันเรียบง่ายมาก"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "The first team to prepare and partake of satisfactory xibruq pibil will be deemed victorious. You will be judged by your samples' taste and appearance, as well as your adherence to appropriate cooking techniques.",
+      "text": "ทีมแรกที่สามารถตระเตรียมและลิ้มลองรสชาติของซิบรุก ปิบิล ที่ผ่านการประเมินประทับใจเสร็จสิ้น จะถือว่าเป็นฝ่ายชนะ เจ้าจะได้รับการตัดสินคะแนนจาก รสชาติ รูปลักษณ์ภายนอกของอาหารตัวอย่าง รวมถึงความสอดคล้องในการใช้เทคนิควิธีปรุงอาหารแบบดั้งเดิมอย่างเหมาะสมด้วย"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Kitchens have been made available for your use. Note that you may be asked to retry should your dish fail to pass muster.",
+      "text": "โรงครัวเครื่องครัวได้รับการจัดสรรตระเตรียมไว้บริการพวกเจ้าเรียบร้อยแล้ว จงจำไว้ด้วยว่าเจ้าอาจโดนสั่งให้ลงมือทำซ้ำใหม่หากผลงานอาหารตัวอย่างไม่ผ่านการประเมินเกณฑ์มาตรฐานนะ"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "Let the Feat of Repast begin.",
+      "text": "ขอเปิดฉากการประลองบททดสอบแห่งการกินเจรจา ณ บัดนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I've never actually heard of xibruq pibil before. What's it like, I wonder...",
+      "text": "ข้าไม่เคยได้ยินชื่อซิบรุก ปิบิล มาก่อนเลยแฮะ รสชาติมันจะเป็นยังไงกันนะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I consider myself a connoisseur of all things tasty and Turali, but this is the first I've heard of xibruq pibil...",
+      "text": "ข้านึกว่าตัวเองเป็นผู้เชี่ยวชาญลิ้มลองของอร่อยมาทั่วทั้งแผ่นดินทูรัลแล้วนะ แต่ยอมรับเลยว่านี่เป็นครั้งแรกที่ข้าได้ยินชื่อซิบรุก ปิบิล เนี่ย..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The First Promise and Bakool Ja Ja are formidable on the field, but in the kitchen? I think the odds are in our favor.",
+      "text": "สัญญาที่หนึ่งและบาคูล จา จา อาจจะดูเก่งกาจทรงพลังเมื่ออยู่ในสมรภูมิรบจริง แต่ถ้าเป็นในห้องครัวล่ะก็? ฉันคิดว่าชัยชนะน่าจะเอนเอียงมาทางฝั่งเราแล้วล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Only two claimants can receive keystones from this feat. Intimidating, perhaps, but irrelevant─we shall prevail!",
+      "text": "มีเพียงผู้ท้าชิงสองคนเท่านั้นที่จะได้รับศิลาหลักไปครองจากบททดสอบนี้ ดูน่ากลัวและกดดันไม่น้อยเลยค่ะ แต่ช่างมันเถอะ—พวกเราจะต้องคว้าชัยชนะมาให้ได้ค่ะ!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Second Promise will no doubt have thoughts on how best to proceed. Let us ask for his perspective.",
+      "text": "ท่านสัญญาที่สองย่อมต้องมีแผนการวางลำดับความคิดที่ดีที่สุดในการเริ่มลงมือแน่ครับ ลองแวะไปขอคำแนะนำของเขาดูก่อนดีกว่าครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Do you suppose the First Promise and Bakool Ja Ja will wear matching aprons? I dearly hope so.",
+      "text": "นายคิดว่าสัญญาที่หนึ่งกับบาคูล จา จา จะยอมสวมผ้ากันเปื้อนลายแมทช์คู่กันไหมคะ? ฉันล่ะตั้งตารออยากเห็นภาพนั้นจริงๆ เลยล่ะค่ะ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "As much as I would have loved to defeat you all in a high-stakes culinary battle, I couldn't have asked for better allies.",
+      "text": "แม้ว่าใจจริงข้าจะอยากโค่นพวกนายให้ราบคาบในการต่อสู้รบแย่งชิงสูตรอาหารครั้งนี้แค่ไหน แต่ก็ก็นะ ข้าคงไม่อาจจัดสรรหาพันธมิตรคนไหนที่ดีไปกว่าพวกนายได้อีกแล้วล่ะ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For the pairings to be thus decided, the stars align for us indeed.",
+      "text": "การจับคู่แบ่งทีมที่ได้รับการจัดสรรออกมาเช่นนี้ นับว่าดวงดาวส่องแสงนำทางให้แก่พวกเราจริงๆ ครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "How fortunate that this feat's unique stipulations have frustrated Bakool Ja Ja's attempts to delay us.",
+      "text": "นับว่าเป็นโชคดีอย่างยิ่งที่เงื่อนไขและกติกาพิเศษของบททดสอบครั้งนี้ ช่วยสกัดปัดเป่าแผนการปั่นป่วนของบาคูล จา จา ไปได้สำเร็จ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Serves him right! That's what he gets for endangering my people with his schemes!",
+      "text": "สมน้ำหน้ามันแล้วล่ะ! นั่นแหละคือบทเรียนที่มันควรได้รับจากการกล้าเอาชีวิตและความสุขของประชาชนไปเสี่ยงภัยกักขังอสุรกาย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Why doesn't he just compete fairly? He's plenty strong─and obviously has a mind for strategy, twisted though it may be.",
+      "text": "ทำไมหมอนั่นถึงไม่ยอมลงมือแข่งกันอย่างยุติธรรมนะ? ทั้งๆ ที่ฝีมือพละกำลังรบมันก็เก่งกาจ—แถมสมองยังหัวไวรู้จักวางกลยุทธ์วางแผนการ ถึงจะเป็นแผนการที่บิดเบี้ยวชั่วร้ายก็เถอะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll never understand him...",
+      "text": "ข้าคงไม่มีวันเข้าใจความคิดของมันได้จริงๆ นั่นแหละนะ..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Putting aside our competition for the moment, allow me to express how glad I am for this opportunity to work together. As I see it, our team possesses a distinct advantage─",
+      "text": "หากตัดเรื่องการประลองชิงดีชิงเด่นออกไปชั่วคราว ผมขอเอ่ยปากบอกเลยครับว่ายินดีเป็นอย่างยิ่งที่มีโอกาสได้ร่วมทีมสู้ศึกเคียงข้างคุณในศึกครั้งนี้ ในมุมมองของผม ทีมของพวกเรามีความได้เปรียบที่ชัดเจนอยู่ข้อหนึ่งครับ—"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh. Of course we do! Any team I'm on is bound to succeed.",
+      "text": "เหะ แน่นอนอยู่แล้วล่ะ! ทีมที่มีข้าอยู่ด้วยย่อมต้องประสบความสำเร็จแน่นอนสิ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Precisely.",
+      "text": "...ก็นะ ใช่เลยครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You mean we have an advantage in numbers , yes?",
+      "text": "นายหมายถึงพวกเรามีข้อดีความได้เปรียบเรื่องจำนวนกำลังคนใช่ไหม?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Our competition has a team of six─the two claimants, Sareel Ja, and Bakool Ja Ja's lackeys.",
+      "text": "ฝั่งตรงข้ามของพวกเรามีสมาชิกทีมเพียงหกคน—ก็คือผู้ท้าชิงสองคน ซารีล จา และพรรคพวกทหารเลวสมุนของบาคูล จา จา"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Whereas we are a team of nine. That's three more people we can mobilize.",
+      "text": "ในขณะที่ฝั่งทีมของเรามีสมาชิกถึงเก้าคน นั่นแปลว่าพวกเรามีกำลังพลเพิ่มขึ้นถึงสามคนที่พร้อมจะระดมส่งไปช่วยปฏิบัติภารกิจนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With the tasks suitably delegated, it should be a brisk affair to learn the recipe and assemble necessary ingredients.",
+      "text": "เมื่อพวกเราช่วยกันแบ่งสรรหน้าที่อย่างเหมาะสม การศึกษาสูตรอาหารและการจัดหาวัตถุดิบที่จำเป็นก็น่าจะสำเร็จเสร็จสิ้นได้อย่างรวดเร็วครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Too easy!",
+      "text": "ง่ายนิดเดียวเอง!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, we mustn't be over confident, lest we make a careless mistake that could've been easily avoided.",
+      "text": "แต่ก็นะ พวกเราต้องไม่แสดงความมั่นใจประมาทเลินเล่อเกินไปนะคะ ไม่งั้นอาจจะเผลอทำพลาดเรื่องง่ายๆ ที่หลีกเลี่ยงได้น่ะค่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Our first order of business should be determining the recipe for xibruq pibil. We can hardly gather ingredients for a dish we know nothing about.",
+      "text": "หน้าที่แรกเริ่มที่ควรลงมือทำคือสืบหาข้อมูลสูตรการปรุงซิบรุก ปิบิล ก่อนครับ พวกเราคงไม่สามารถเดินหาสะสมวัตถุดิบสำหรับเมนูอาหารที่พวกเราไม่มีความรู้อะไรเลยได้หรอกครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Given the nature of this feat, asking for answers directly may prove less effective than simply observing the daily habits of the Xbr'aal people.",
+      "text": "และเมื่อพิจารณาเงื่อนไขของบททดสอบนี้ การแวะไปไต่ถามขอคำตอบตรงๆ อาจจะไม่ได้ผลดีเท่ากับการลองแอบสังเกตพฤติกรรมชีวิตประจำวันของชาวชิบราลดูครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us gather here once we have seen what clues this village has to offer.",
+      "text": "จงไปรวบรวมเบาะแสข้อคิดเห็นในหมู่บ้านเสร็จแล้ว ค่อยกลับมาเจอกันตรงนี้นะครับ"
+    },
+    {
+      "character": "Light-hearted Lady",
+      "text_en": "<chuckle> That one's called “achiote.” We mostly use it to add a bit of color to, er, our most popular cuisine ...but its medicinal benefits are significant as well.",
+      "text": "<หัวเราะคิกคัก> ผลไม้สีแสดนั่นเรียกว่า 'อชิโอเต' (achiote) น่ะจ้ะ ส่วนใหญ่พวกเรานิยมใช้มันเพื่อเติมเฉดสีแดงสุกสกาวให้อาหารจานเด่นของพวกเราดูน่ากินขึ้น... แต่ก็มีสรรพคุณทางยาช่วยบำรุงสุขภาพร่างกายที่ดีเยี่ยมด้วยนะจ๊ะ"
+    },
+    {
+      "character": "Fastidious Fellow",
+      "text_en": "The recipe for xibruq pibil?",
+      "text": "สูตรการทำซิบรุก ปิบิล งั้นเหรอจ๊ะ?"
+    },
+    {
+      "character": "Fastidious Fellow",
+      "text_en": "I wish I could tell you, friend! A dish so delicious is meant to be shared. Alas, we are forbidden from divulging anything ─orders from Hunmu Rruk himself.",
+      "text": "ข้าล่ะอยากจะบอกพวกเจ้าใจจะขาดนะเพื่อนเอ๋ย! อาหารอร่อยๆ แบบนั้นย่อมคู่ควรแก่การแบ่งปันเคล็ดลับให้ทุกคนรับรู้ เสียดายที่พวกเราโดนสั่งห้ามไม่ให้ชี้แนะข้อมูลอะไรเด็ดขาด—คำสั่งชี้ขาดตรงจากคุณฮุนมู รุก เองเลยล่ะ"
+    },
+    {
+      "character": "Fastidious Fellow",
+      "text_en": "But your mentioning it has given me a fierce craving! I only hope there's still ibruq to be had at market... <wink>",
+      "text": "แต่การที่เจ้ามาเอ่ยถึงมันเนี่ย ทำเอาต่อมน้ำลายข้าสั่นพั่บๆ อยากกินเนื้ออิบรุกแสนอร่อยขึ้นมาเลยล่ะ! ได้แต่หวังว่าในตลาดจะยังมีเนื้อเหลือพอให้ข้าซื้อหาไปกินนะ... <ขยิบตาใบ้คำให้อย่างเป็นมิตร>"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "Tch. So much for our plan...",
+      "text": "ชิ แผนการที่เตรียมไว้ดันล้มเหลวไม่เป็นท่าซะได้..."
+    },
+    {
+      "character": "Hoobigo Guardian",
+      "text_en": "We ought to cut our losses and head to Mamook. This feat is nothing but a fool's errand.",
+      "text": "พวกเราควรรีบถอยกลับไปตั้งหลักที่มามูก (Mamook) ดีกว่านะ บททดสอบบ้านี่มันช่างเป็นการเสียเวลาทำแต้มโดยเปล่าประโยชน์จริงๆ"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "You're the fool if you think he won't tan our hides for leather if we dare to return without enough keystones! Besides, we've taken from the house cat before─how difficult could a second time be?",
+      "text": "แกน่ะสิเป็นคนโง่เง่า! แกคิดว่าหมอนั่นจะไม่ถลกหนังพวกเราไปทำเครื่องหนังรึไงถ้าพวกเรากล้าเดินทางกลับไปโดยสะสมศิลาหลักไม่พอใช้งานน่ะ!? อีกอย่าง พวกเราก็เคยแย่งชิงขโมยของจากยัยแมวบ้านนั่นมาได้แล้วรอบนึงหนิ จะให้ทำอีกสักรอบมันจะยากเย็นแสนเข็ญขนาดไหนกันเชียว!"
+    },
+    {
+      "character": "Hoobigo Lancer",
+      "text_en": "Wh-What are you looking at, salt-licker!? Mind your own business!",
+      "text": "จ-จ้องมองอะไรมิทราบ เจ้าพวกคนต่างแดน!? ไปสนใจเรื่องของตัวเองซะไป๊!"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Oh no! It appears I've gone and dropped my najool─I mean, Ja Tiika banana peel! I could barely see it for all the steam issuing from my underground oven . Ahhh, there's nothing like enjoying a tasty banana while you use the leaves in your cooking!",
+      "text": ""
+    },
+    {
+      "character": "Alphinaud (text bubble)",
+      "text_en": "I see...",
+      "text": "ผมเข้าใจแล้วครับ..."
+    },
+    {
+      "character": "Krile (text bubble)",
+      "text_en": "And what flavor would that be?",
+      "text": "แล้วมันคือเฉดสีอะไรเหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat (text bubble)",
+      "text_en": "A banana...?",
+      "text": "กล้วยงั้นเหรอคะ...?"
+    },
+    {
+      "character": "Urianger (text bubble)",
+      "text_en": "That smoke...",
+      "text": "ไอร้อนควันนั่น..."
+    },
+    {
+      "character": "Erenville (text bubble)",
+      "text_en": "Come with me for a moment.",
+      "text": "รบกวนตามฉันมาทางนี้สักครู่สิครับ"
+    },
+    {
+      "character": "Ty'at Tst'ei",
+      "text_en": "The food ain't ready yet, you hear!? ...Oh, you aren't here for that? Apologies, I get people breathin' down my neck constantly, like they don't realize a proper meal takes time.",
+      "text": "อาหารยังปรุงไม่เสร็จเรียบร้อยเลยนะ ได้ยินไหม!? ...อ้าว ไม่ได้มารอคิวซื้อหรอกรึ? ขออภัยด้วยนะ ข้าโดนคนมายืนบ่นบ่นกดดันเรื่องอาหารไม่สบอารมณ์บ่อยๆ น่ะ ราวกับพวกเขาไม่เข้าใจว่าอาหารจานอร่อยมันต้องการเวลาปรุงอย่างพิถีพิถันน่ะ"
+    },
+    {
+      "character": "Light-hearted Lady",
+      "text_en": "This should be all I need...",
+      "text": "วัตถุดิบนี้น่าจะเพียงพอช่วยให้ข้าจัดเตรียมอาหารได้แล้วจ้ะ..."
+    },
+    {
+      "character": "Fastidious Fellow",
+      "text_en": "Hmm? I was simply thinking aloud about my next meal! No harm in that.",
+      "text": "หืม? ข้าก็แค่กำลังพูดคิดออกเสียงดังๆ กับตัวเองเรื่องอาหารมื้อถัดไปเท่านั้นเองจ้า! ไม่ได้ทำผิดกฎกติกาอะไรสักหน่อยนี่นา"
+    },
+    {
+      "character": "Cheerful Cook",
+      "text_en": "Hehe... What fun this is!",
+      "text": "คิกคิก... สนุกสนานดีจังเลยแฮะ!"
+    },
+    {
+      "character": "Hunmu Rruk",
+      "text_en": "You may make use of the kitchens at any time. I look forward to tasting your xibruq pibil.",
+      "text": "เจ้าสามารถเข้าใช้โรงครัวเครื่องครัวเพื่อตระเตรียมอาหารได้ทุกเมื่อเลยนะ ข้าตั้งตารอคอยที่จะได้ลิ้มลองรสชาติซิบรุก ปิบิล ฝีมือพวกเจ้าอยู่เลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, sorry! I'm back!",
+      "text": "ขออภัยด้วยค่ะ! ข้าเดินทางกลับมาแล้วค่ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "What did we discover about xibruq pibil?",
+      "text": "แล้วตกลงพวกเราสืบพบข้อมูลเบาะแสอะไรเกี่ยวกับซิบรุก ปิบิล บ้างไหมครับ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "True to your prediction, the villagers were forbidden from educating us, er, directly .",
+      "text": "เป็นไปตามที่คุณคาดการณ์ไว้เลยครับ ชาวบ้านโดนสั่งห้ามไม่ให้ให้ความรู้คำแนะนำกับพวกเราตรงๆ ครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "However, many were still preparing it as one might a staple dish, and observation of their techniques yielded clues enough.",
+      "text": "อย่างไรก็ตาม ชาวบ้านหลายคนยังคงจัดเตรียมปรุงมันเป็นอาหารหลักในชีวิตประจำวัน และการเฝ้าสังเกตการณ์ใช้เทคนิควิธีปรุงอาหารของพวกเขาก็ช่วยให้ได้รับเบาะแสเพียงพอครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A lady blending local herbs and spices was only too happy to describe the ones I didn't recognize─while neither confirming nor denying any relation to xibruq pibil.",
+      "text": "มีแม่บ้านใจดีที่กำลังจัดสรรปรุงสมุนไพรและเครื่องเทศท้องถิ่น ยอมพรรณนาชี้แจงลักษณะของวัตถุดิบที่ฉันไม่รู้จักให้ฟังค่ะ—โดยที่นางไม่ได้เอ่ยปากยืนยันหรือปฏิเสธเลยว่ามันเกี่ยวข้องกับซิบรุก ปิบิล หรือเปล่านะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But one in particular she attributed to all common Xbr'aal dishes. “Achiote,” she called it.",
+      "text": "แต่นางบอกว่ามีส่วนผสมชนิดหนึ่งที่เป็นเสมือนหัวใจหลักของเมนูอาหารพื้นบ้านชาวชิบราลทั้งหมดเลย นางเรียกว่า 'อชิโอเต' (achiote) ค่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I see. Then if xibruq pibil is indeed a dish as ubiquitous as Alphinaud claims, we have confirmed our first ingredient.",
+      "text": "เข้าใจแล้วครับ หากซิบรุก ปิบิล เป็นเมนูอาหารพื้นบ้านทั่วไปอย่างที่คุณอัลฟิโนบอกจริง ย่อมถือว่าพวกเราสามารถยืนยันวัตถุดิบชิ้นแรกสำเร็จแล้วล่ะครับ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Meanwhile, I did observe a cook burying bundles wrapped in the leaf of najool─or banana, in certain localities. 'Twould seem the use of subterranean ovens is commonplace.",
+      "text": "ในขณะเดียวกัน ข้าแอบสังเกตเห็นพ่อครัวคนนึงกำลังฝังห่ออาหารที่พันม้วนไว้ด้วยใบนาจูล—หรือใบกล้วยป่าในบางพื้นที่ลงในหลุมดินครับ ดูเหมือนว่าการใช้เตาอบใต้ดินจะเป็นเรื่องปกติธรรมดาของที่นี่นะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I saw the same! I think we all know what's inside those bundles, then, don't you?",
+      "text": "ข้าเองก็เห็นแบบนั้นเหมือนกัน! ข้าคิดว่าพวกเราทุกคนย่อมคาดเดาได้ใช่ไหมล่ะว่ามีอะไรซ่อนอยู่ในห่อใบไม้นั่นน่ะ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "As would be expected of a dish called “xibruq pibil,” indeed.",
+      "text": "ก็สมเหตุสมผลสำหรับอาหารจานเด็ดที่ชื่อว่า 'ซิบรุก ปิบิล' ล่ะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I think you were smelling what you wanted to smell. Cattle is uncommon in Yok Tural and unlikely to be an ingredient used in Xbr'aal traditional cuisine.",
+      "text": "ฉันคิดว่านายกำลังดมกลิ่นเนื้อตามความหิวในใจตัวเองมากกว่านะ ฝูงปศุสัตว์วัวควายพบเจอได้ยากมากในยอคทูรัล และไม่น่าจะใช่ส่วนผสมหลักที่ใช้ปรุงอาหารดั้งเดิมของชาวชิบราลหรอกนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What kind of creature is that? There seem to be more hunters than fishers here, so I think we're looking for a different meat─but I'd be keen to give it a try next time!",
+      "text": "อสุรกายเนื้อตัวนั้นมันคือตัวอะไรกันล่ะนั่น? ดูเหมือนชาวบ้านที่นี่จะนิยมการล่าสัตว์ป่ามากกว่าจับปลานะ ข้าเลยคิดว่าพวกเราน่าจะตามล่าเนื้อชนิดอื่นมาปรุงอาหารมากกว่า—แต่ก็นะ ข้าอยากจะลองกินมันดูสักรอบในโอกาสหน้าล่ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So to summarize, this dish is one of ibruq, flavored with a combination of spices that includes achiote, and steamed underground within najool─or banana─leaves.",
+      "text": "ดังนั้น เพื่อสรุปใจความหลัก อาหารจานเด็ดนี้ปรุงจากเนื้ออิบรุก ปรุงแต่งรสชาติด้วยส่วนผสมเครื่องเทศที่มีอชิโอเตผสมอยู่ และใช้วิธีอบไอน้ำใต้ดินด้วยห่อใบนาจูล—หรือใบกล้วยป่านั่นเองครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Given our assumptions are correct, we must now learn where and how to procure our ingredients.",
+      "text": "ในเมื่อสมมติฐานหลักของพวกเรามีความถูกต้อง คราวนี้ก็ถึงเวลาสืบหาข้อมูลแหล่งสะสมวัตถุดิบเหล่านั้นแล้วครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As a staple cuisine, its ingredients would be close at hand─which is why Thancred and I scouted the surrounding forests while you all were exploring the village.",
+      "text": "เนื่องจากมันเป็นอาหารหลักในชีวิตประจำวัน วัตถุดิบย่อมสามารถหาได้รอบๆ หมู่บ้านนี่เองแหละ—นั่นคือเหตุผลที่ฉันกับแธนเครดออกไปช่วยกันสำรวจป่าโดยรอบในระหว่างที่พวกนายเดินหาข้อมูลในหมู่บ้านน่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Between the local vegetation and wild ibruq, we should have everything we need in regards to meat and spices.",
+      "text": "พวกวัตถุดิบจำพวกสมุนไพรและเนื้ออิบรุกป่าในธรรมชาติ พวกเราน่าจะรวบรวมเตรียมไว้พร้อมใช้งานได้ทันทีเลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, leave it to a master gleaner!",
+      "text": "เหะ สมเป็นยอดฝีมือนักเก็บกวาดตัวจริงเลยนะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "With that, we should next divvy up our tasks. While some gather ingredients, others should make ready the kitchen.",
+      "text": "ถ้าอย่างนั้น คราวนี้พวกเรามาช่วยกันแบ่งปันหน้าที่กันเถอะครับ ในขณะที่บางคนออกไปรวบรวมวัตถุดิบ คนอื่นๆ ก็ควรอยู่ตระเตรียมห้องครัวให้พร้อมรบครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can help prepare the kitchen.",
+      "text": "ฉันจะอยู่ช่วยตระเตรียมความพร้อมในห้องครัวเองค่ะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Permit me to assist as well. Our ovens will doubtless require firewood, and I have some experience in its gathering.",
+      "text": "อนุญาตให้ผมอยู่ช่วยเหลือเรื่องนี้ด้วยคนครับ เตาอบของพวกเราย่อมต้องการฟืนไม้แห้งจำนวนมากเพื่อใช้เป็นเชื้อเพลิง และผมก็มีประสบการณ์สะสมฟืนมาบ้างครับ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I, too, should be glad to volunteer mine aid.",
+      "text": "ข้าเองก็ยินดีมากที่จะขออาสาช่วยเหลือแบ่งเบาภาระเรื่องนี้อีกแรงครับ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Then the rest of us will gather ingredients. I can make quick work of the spices and herbs myself.",
+      "text": "งั้นพวกเราที่เหลือจะออกไปรวบรวมวัตถุดิบเอง ข้าสามารถรวบรวมวัตถุดิบจำพวกเครื่องเทศและสมุนไพรมาใช้งานได้อย่างรวดเร็วแน่นอนล่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I am happy to lead someone to a suitable ibruq, if they will perform the requisite deed. Alisaie?",
+      "text": "ฉันยินดีนำทางใครสักคนไปตามหาเนื้ออิบรุกที่เหมาะสมให้เองค่ะ หากพวกเขายอมร่วมมือช่วยกันล่าจัดการลงมือทำน่ะนะ อลิเซ สะดวกไหม?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "As for the najool leaves, I believe I am capable of acquiring that much on my own.",
+      "text": "สำหรับเรื่องการเสาะหาใบนาจูล ข้าคิดว่าตัวผมก็น่าจะสามารถหาซื้อบ barter รวบรวมมาใช้งานได้ด้วยตัวเองครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Be warned─you won't find najool in these parts. They only grow in the Ja Tiika Heartland, forests far below these.",
+      "text": "เตือนไว้ก่อนนะ—นายไม่มีวันหาใบนาจูลแถวนี้เจอหรอก มันเติบโตเฉพาะในป่าลึกจาทีกา (Ja Tiika Heartland) เท่านั้นแหละ ป่าเบื้องล่างใต้หน้าผาชันลึกลงไปจากตรงนี้น่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Hm. Such an excursion may be time-consuming. Perhaps we ought to try bartering first.",
+      "text": "อืม การเดินทางลาดชันลงไปข้างล่างน่าจะใช้เวลาการเดินเท้าค่อนข้างนานพอดูเลยนะครับ บางทีพวกเราควรลองใช้วิธีเจรจาแลกเปลี่ยนของ (barter) ดูก่อนดีกว่าครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "This feat encourages our communication with the locals, after all.",
+      "text": "ก็สมเหตุสมผลอยู่ครับ บททดสอบครั้งนี้สนับสนุนเรื่องการเจรจาพูดคุยสื่อสารกับคนในท้องถิ่นนี่ครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i, Forename . If you would accompany me on my errand?",
+      "text": "ลามัตยี่ [ชื่อ] รบกวนเดินทางร่วมทางไปช่วยฉันสะสางธุระเรื่องนี้หน่อยได้ไหมครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No better way to whet my appetite!",
+      "text": "ได้เลย! ถือว่าเป็นการไปเดินยืดเส้นยืดสายเรียกน้ำย่อยในกระเพาะไปในตัวด้วย!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Good. Let us be about our tasks, then.",
+      "text": "ดีครับ งั้นพวกเราก็แยกย้ายไปเคลียร์ภารกิจหน้าที่ของตัวเองกันเถอะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Lamaty'i had no specific task assigned to her, so I had her accompany me. No more, no less.",
+      "text": "...ลามัตยี่ไม่มีภารกิจหน้าที่เฉพาะเจาะจงที่ต้องทำ ผมเลยให้นางเดินทางร่วมทางไปช่วยงานผมด้วยเท่านั้นเองครับ ไม่มีเป้าหมายอะไรแอบแฝงหรอกครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on! Let's go and get those najool leaves.",
+      "text": "มาเถอะ! พวกเราไปช่วยกันสืบหาใบนาจูลมาใช้งานกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The sooner we do, the sooner we can eat!",
+      "text": "ยิ่งพวกเราทำเสร็จเร็วเท่าไหร่ ก็ยิ่งได้ลิ้มลองรสชาติอาหารจานเด็ดเร็วขึ้นเท่านั้นล่ะ!"
+    }
+  ]
+}

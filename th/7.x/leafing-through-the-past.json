@@ -1,0 +1,848 @@
+{
+  "id": "leafing-through-the-past",
+  "wiki_path": "/wiki/Leafing_through_the_Past",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Leafing through the Past",
+  "title": "พลิกอ่านหน้าอดีต",
+  "level": "100",
+  "location": "Living Memory(X:35.4,Y:15.3)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That went really well! And you, Forename —your sense of balance is something else!",
+      "text": "ทุกอย่างผ่านไปได้ด้วยดีเลยล่ะ! ส่วนนายน่ะ Forename ─การทรงตัวของนายมันสุดยอดชะมัดยาดเลย!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though it had no taste, the ice cream was a treat for the eyes. I'm glad it served to ease the tension.",
+      "text": "ถึงแม้จะไม่มีรสชาติอะไรเลย แต่ไอศกรีมนั่นก็ดูสวยงามสะดุดตาดีนะครับ ดีใจจริงๆ ที่มันช่วยบรรเทาความตึงเครียดลงได้"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As my parents told us, the cavern inside the volcano is a place for learning about the Milalla's ancient homeland.",
+      "text": "อย่างที่คุณพ่อคุณแม่บอกพวกเราไว้ ถ้ำที่อยู่ด้านในภูเขาไฟเป็นสถานที่สำหรับเรียนรู้เกี่ยวกับบ้านเกิดโบราณของชาวมิลาลลาค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But I'm hoping it will yield other information as well.",
+      "text": "แต่ฉันก็หวังว่ามันจะให้ข้อมูลอื่นๆ เพิ่มเติมด้วยเหมือนกันค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Namely, information on Preservation.",
+      "text": "โดยเฉพาะข้อมูลของพวกเพรสเซอเวชันน่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Preservation... The scientists who were researching interdimensional fusion.",
+      "text": "เพรสเซอเวชัน... พวกนักวิทยาศาสตร์ที่ทำวิจัยเรื่องการหลอมรวมข้ามมิติงั้นเหรอ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And prior to that, created the Endless.",
+      "text": "และก่อนหน้านั้น ก็คือคนที่สร้างพวกเอ็นด์เลสขึ้นมาค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As Living Memory is likely also their creation, I expect they would carefully curate any details concerning themselves, but I wish to keep an eye out nonetheless.",
+      "text": "และเพราะลิฟวิ่งเมโมรีเองก็น่าจะเป็นผลงานสร้างสรรค์ของพวกนั้นด้วย ฉันคิดว่าพวกเขาคงคัดกรองข้อมูลเกี่ยวกับตัวเองมาเป็นอย่างดี แต่ถึงอย่างนั้นก็อยากลองจับตาดูไว้หน่อยน่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm all for it, of course. Seeing as the key once belonged to the Milalla, it couldn't hurt to learn about them.",
+      "text": "ฉันเห็นด้วยอยู่แล้วล่ะ ในเมื่อกุญแจดอกนั้นเคยเป็นของชาวมิลาลลามาก่อน การเรียนรู้เรื่องราวของพวกเขาก็ไม่มีอะไรเสียหายอยู่แล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, let's head inside!",
+      "text": "เอาล่ะ งั้นพวกเราเข้าไปข้างในกันเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So this is how it is in here!",
+      "text": "ข้างในนี้มันเป็นแบบนี้เองเรอะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "These panels contain information about the Milalla. It's very much like a museum.",
+      "text": "แผงควบคุมพวกนี้มีข้อมูลเกี่ยวกับชาวมิลาลลาอยู่ด้วยล่ะครับ บรรยากาศคล้ายๆ กับพิพิธภัณฑ์เลยนะครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This place has the look of an ancient ruin, but I suppose it's an illusion as well.",
+      "text": "สถานที่แห่งนี้ดูคล้ายกับซากปรักหักพังโบราณ แต่ฉันคิดว่ามันคงเป็นภาพลวงตาเหมือนกันนั่นแหละค่ะ"
+    },
+    {
+      "character": "Chapter I",
+      "text_en": "In the distant past, the Milalla abided in peace upon isles of eternal summer. Winter never visited that bountiful land, and the flowers ever bloomed in all the colors of the rainbow.",
+      "text": "บทที่ 1: ในอดีตอันแสนไกล ชาวมิลาลลาอาศัยอยู่อย่างสงบสุขบนเกาะแห่งฤดูร้อนอันเป็นนิรันดร์ ฤดูหนาวไม่เคยมาเยือนดินแดนอันอุดมสมบูรณ์แห่งนั้น และดอกไม้ก็ผลิบานเป็นสีรุ้งสวยงามอยู่เสมอ"
+    },
+    {
+      "character": "Chapter I",
+      "text_en": "But such idyllic days did not last. For just when it seemed the westerly wind had turned cold, the seas suddenly froze over. From the fish in the water to the birds in the sky, all of the animals soon perished.",
+      "text": "บทที่ 1: ทว่าวันเวลาอันแสนสุขนั้นกลับไม่ยั่งยืน เมื่อลมตะวันตกเริ่มพัดพาความหนาวเหน็บเข้ามา ผืนทะเลก็พลันจับตัวเป็นน้ำแข็ง สัตว์ทั้งหลายตั้งแต่ปลาในน้ำไปจนถึงนกบนท้องฟ้า ต่างพากันล้มตายลงในเวลาไม่นาน"
+    },
+    {
+      "character": "Chapter I",
+      "text_en": "This unnatural weather continued with seemingly no end, and one by one the Milalla fell until the death toll was beyond counting. Those who lived still could do naught but pray as they huddled together for precious warmth.",
+      "text": "บทที่ 1: สภาพอากาศที่ผิดธรรมชาตินี้ยังคงดำเนินต่อไปอย่างไร้จุดหมาย ชาวมิลาลลาล้มตายลงทีละคนจนยอดผู้เสียชีวิตนั้นเกินจะนับไหว ผู้ที่ยังรอดชีวิตทำได้เพียงสวดภาวนาขณะเบียดกายเข้าหากันเพื่อแบ่งปันไออุ่นอันน้อยนิด"
+    },
+    {
+      "character": "Chapter II",
+      "text_en": "The Milalla are the keepers of a mighty relic passed down through the ages. While it has the appearance of a crystal, by whose hand it was wrought is unknown.",
+      "text": "บทที่ 2: ชาวมิลาลลาคือผู้ดูแลรักษาโบราณวัตถุอันทรงพลังที่สืบทอดกันมารุ่นสู่รุ่น แม้มันจะมีรูปร่างลักษณะคล้ายกับคริสตัล แต่ก็ไม่มีใครรู้ว่ามันถูกสร้างขึ้นมาด้วยมือของใคร"
+    },
+    {
+      "character": "Chapter II",
+      "text_en": "When a great calamity froze their isles, the Speaker, their spiritual leader, fervently prayed to the relic for salvation.",
+      "text": "บทที่ 2: เมื่อมหาวิบัติครั้งใหญ่ทำให้อธิคมเกาะของพวกเขากลายเป็นน้ำแข็ง ผู้เผยพระวจนะซึ่งเป็นผู้นำทางจิตวิญญาณของพวกเขา ได้สวดอ้อนวอนต่อโบราณวัตถุอย่างแรงกล้าเพื่อขอความช่วยเหลือ"
+    },
+    {
+      "character": "Chapter II",
+      "text_en": "In answer to their prayers, the relic opened for them a golden path, one that shone like the light of dawn, and through it they fled unto a new land.",
+      "text": "บทที่ 2: และเพื่อตอบรับต่อคำสวดอ้อนวอนของพวกเขา โบราณวัตถุก็ดลบันดาลให้เกิดเส้นทางสีทองที่ทอแสงประกายราวกับแสงแรกของรุ่งอรุณ และพวกเขาก็ใช้เส้นทางนั้นหลบหนีไปยังดินแดนแห่งใหม่"
+    },
+    {
+      "character": "Chapter III",
+      "text_en": "Since ancient times, the Milalla have excelled in calculations. By using formulae and figures to represent all natural phenomena, they had succeeded in devising a unique system of magic.",
+      "text": "บทที่ 3: ตั้งแต่ยุคโบราณกาล ชาวมิลาลลามีความเชี่ยวชาญเป็นเลิศในด้านการคำนวณ ด้วยการใช้สูตรและตัวเลขมาอธิบายปรากฏการณ์ทางธรรมชาติทั้งหมด พวกเขาจึงประสบความสำเร็จในการคิดค้นระบบเวทมนตร์ที่เป็นเอกลักษณ์เฉพาะตัวขึ้นมา"
+    },
+    {
+      "character": "Chapter III",
+      "text_en": "This gift proved invaluable in their new homeland, where they employed their calculations to etch arcane circuits upon the ore which later came to be known as electrope.",
+      "text": "บทที่ 3: พรสวรรค์นี้กลายเป็นสิ่งล้ำค่าในดินแดนใหม่ของพวกเขา โดยพวกเขาใช้การคำนวณสลักวงจรเวทมนตร์ลงบนแร่ธาตุ ซึ่งต่อมาเป็นที่รู้จักกันในชื่อ \"เอเลกโทรป\""
+    },
+    {
+      "character": "Chapter III",
+      "text_en": "Through this ingenious technique, electrope was transformed into a tool that could not only store lightning, but convert it into energy of any element.",
+      "text": "บทที่ 3: ด้วยเทคนิคอันชาญฉลาดนี้ เอเลกโทรปจึงถูกเปลี่ยนให้เป็นเครื่องมือที่ไม่เพียงแต่จะกักเก็บสายฟ้าไว้ได้เท่านั้น แต่ยังสามารถแปลงมันเป็นพลังงานธาตุใดก็ได้อีกด้วย"
+    },
+    {
+      "character": "Chapter IV",
+      "text_en": "Esteemed for their excellence in the study of electrope, the Milalla were favored by the rulers of many a nation.",
+      "text": "บทที่ 4: จากความสามารถอันโดดเด่นในการศึกษาเกี่ยวกับเอเลกโทรป ส่งผลให้ชาวมิลาลลาเป็นที่โปรดปรานของบรรดาผู้ปกครองในหลายๆ ประเทศ"
+    },
+    {
+      "character": "Chapter IV",
+      "text_en": "Some among them have attempted to invoke the power of their ancient relic to return to their homeland, but their efforts were to no avail. Never again has the golden path opened that allowed their ancestors to flee to safety.",
+      "text": "บทที่ 4: มีบางคนพยายามจะปลุกพลังของโบราณวัตถุโบราณเพื่อเดินทางกลับไปยังบ้านเกิดเดิมของตน แต่ทว่าความพยายามเหล่านั้นกลับไม่เป็นผล เส้นทางสีทองที่เคยนำพาบรรพบุรุษหลบหนีมาสู่ความปลอดภัย ไม่เคยเปิดขึ้นมาอีกเลย"
+    },
+    {
+      "character": "Chapter IV",
+      "text_en": "Eventually, the relic came to be forgotten, and some now question whether it ever actually existed.",
+      "text": "บทที่ 4: ในที่สุด โบราณวัตถุชิ้นนั้นก็ถูกลืมเลือนหายไปตามกาลเวลา จนบางคนในยุคนี้ถึงกับกังขาว่ามันเคยมีตัวตนอยู่จริงรึเปล่า"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Quite a mystical atmosphere here. Is this what the Milalla homeland was like?",
+      "text": "บรรยากาศดูลึกลับน่าอัศจรรย์ใจจังเลยนะคะ บ้านเกิดโบราณของชาวมิลาลลาเคยเป็นแบบนี้งั้นเหรอคะ?"
+    },
+    {
+      "character": "???",
+      "text_en": "Ding, ding! Correct!",
+      "text": "ติ๊งต่อง! ถูกต้องนะคร้าบ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-What's going on!?",
+      "text": "อะ... เกิดอะไรขึ้นน่ะ!?"
+    },
+    {
+      "character": "Talkative Mechanical Soldier",
+      "text_en": "The ancient home of the Milalla people is recreated here in exacting detail thanks to the marvel of electrope. The scale alone has been adjusted in order to accommodate folk of all proportions.",
+      "text": "บ้านเกิดโบราณของชาวมิลาลลาได้รับการจำลองขึ้นที่นี่อย่างละเอียดละออ ต้องขอบคุณความมหัศจรรย์ของเอเลกโทรปเลยล่ะครับ ส่วนเรื่องขนาดนั้นได้รับการปรับเปลี่ยนเพื่อให้เหมาะสมกับผู้เข้าชมทุกสัดส่วนครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Ah, but I have neglected to introduce myself. I am the guide for this facility, the Steps of the Speaker. It shall be my pleasure to assist you as you embark upon your educational journey.",
+      "text": "อ๊ะ กระผมลืมแนะนำตัวไปเลยแฮะ กระผมคือผู้นำทางของสถานที่แห่งนี้ \"บันไดของผู้เผยพระวจนะ\" ครับ ยินดีและเป็นเกียรติอย่างยิ่งที่จะได้ช่วยเหลือทุกท่านในตลอดเส้นทางการเรียนรู้นี้ครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There's even a guide? How considerate.",
+      "text": "มีผู้นำทางให้ด้วยเหรอครับ? ช่างใส่ใจจังเลยนะครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alright, then. As we wander around, if there is something we do not understand, we'll be certain to ask you.",
+      "text": "เข้าใจแล้วค่ะ ถ้าหากพวกเราเดินชมรอบๆ แล้วมีเรื่องอะไรที่ไม่เข้าใจ จะถามคุณแน่นอนค่ะ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Bzzzt! Incorrect!",
+      "text": "ติ๊ด! ผิดแล้วครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Visits to our facility take the form of a quizzed tour, so the correct answer is: follow the instructions of your guide. That's yours truly!",
+      "text": "การเข้าชมสถานที่ของพวกเราจะจัดขึ้นในรูปแบบทัวร์ตอบคำถามครับ ดังนั้นคำตอบที่ถูกต้องคือ: ต้องปฏิบัติตามคำสั่งของผู้นำทาง ซึ่งก็คือกระผมคนนี้ยังไงล่ะครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sounds like a pain in the ass...",
+      "text": "ฟังดูยุ่งยากน่ารำคาญชะมัด..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm sure it will be both enlightening and entertaining. Let's have them guide us.",
+      "text": "ฉันคิดว่ามันน่าจะช่วยเปิดหูเปิดตาและสนุกดีออกนะคะ ให้เขาช่วยนำทางพวกเราเถอะค่ะ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Very good, madam! I have registered the four of you as visitors. Please proceed through yonder passageway to the chamber beyond!",
+      "text": "ยอดเยี่ยมมากเลยครับคุณผู้หญิง! กระผมทำการลงทะเบียนผู้เข้าชมให้ทั้งสี่ท่านเรียบร้อยแล้ว เชิญเดินผ่านอุโมงค์ทางเชื่อมทางนั้นไปยังห้องโถงถัดไปได้เลยครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The wall is illuminated! It's so beautiful!",
+      "text": "กำแพงส่องแสงด้วยล่ะ! สวยจังเลยแฮะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that pattern a Milalla motif...?",
+      "text": "ลวดลายบนนั้นคือลวดลายของชาวมิลาลลาเหรอครับ...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Judging by the elaborate decoration, this was a place of import to the Milalla.",
+      "text": "เมื่อดูจากการตกแต่งที่ประณีตงดงามขนาดนี้ สถานที่แห่งนี้น่าจะเป็นจุดสำคัญของชาวมิลาลลาแน่ๆ ค่ะ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "If I may have your attention!",
+      "text": "ทุกท่านโปรดฟังทางนี้สักนิดครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "You stand within a shrine of the Milalla, a migrant people who roamed until they found new lands to call their own.",
+      "text": "ตอนนี้ทุกท่านกำลังยืนอยู่ภายในวิหารของชาวมิลาลลา ชนเผ่าอพยพผู้ร่อนเร่ไปเรื่อยๆ จนกระทั่งได้พบดินแดนแห่งใหม่เพื่อตั้งรกรากเป็นของตัวเองครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "According to folklore, they originally hailed from a paradise of eternal summer. Alas, they had no choice but to abandon it when a great calamity froze the very seas.",
+      "text": "ตามเรื่องเล่าขานสืบต่อกันมา เดิมทีพวกเขามาจากดินแดนสวรรค์แห่งฤดูร้อนอันเป็นนิรันดร์ ทว่าพวกเขาก็ไม่มีทางเลือกอื่นนอกจากต้องละทิ้งมันไป เมื่อภัยพิบัติครั้งใหญ่ทำให้น้ำทะเลทั้งหมดกลายเป็นน้ำแข็งครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "The Speaker, their spiritual leader, guided them to safety, and she is enshrined here with the sacred relic she wielded. In this place, they performed rituals dedicated to the dream that, one day, they might return to their ancestral home.",
+      "text": "ผู้เผยพระวจนะซึ่งเป็นผู้นำทางจิตวิญญาณได้นำทางพวกเขาไปสู่ความปลอดภัย และเธอได้รับการประดิษฐานไว้ที่นี่พร้อมกับโบราณวัตถุศักดิ์สิทธิ์ที่เธอเคยถือครอง ณ สถานที่แห่งนี้ พวกเขาเคยทำพิธีกรรมเพื่อระลึกถึงความฝันว่า สักวันหนึ่งจะได้เดินทางกลับไปยังบ้านเกิดของบรรพบุรุษครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A sacred relic... That must be the key used to initiate interdimensional fusion.",
+      "text": "โบราณวัตถุศักดิ์สิทธิ์... นั่นต้องหมายถึงกุญแจที่ใช้เพื่อเริ่มการหลอมรวมข้ามมิติแน่ๆ ค่ะ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Interdimensional fusion...? If such a wondrous power existed, I can only imagine what great feats it could be used to achieve!",
+      "text": "การหลอมรวมข้ามมิติเหรอครับ...? ถ้าหากมีพลังงานอันน่าทึ่งแบบนั้นอยู่จริง กระผมก็จินตนาการไม่ออกเลยล่ะครับว่ามันจะถูกนำไปใช้สร้างความสำเร็จอันยิ่งใหญ่ขนาดไหนกันนะ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Now then, it's time for a history quiz!",
+      "text": "เอาล่ะครับ ได้เวลาทำแบบทดสอบประวัติศาสตร์แล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ugh, here we go...",
+      "text": "เฮ้อ เอาอีกแล้ว..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "There are four braziers in this room, each of which is accompanied by a panel bearing a statement.",
+      "text": "ภายในห้องนี้มีกระถางคบเพลิงอยู่สี่ใบ ซึ่งแต่ละใบจะมาพร้อมกับแผงข้อความอธิบายอยู่ข้างๆ ครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "If you believe a statement is true, then you must light its brazier by operating the panel. Simple, yes?",
+      "text": "หากทุกท่านคิดว่าข้อความในแผงไหนเป็นความจริง ก็แค่เปิดใช้งานเพื่อจุดไฟในกระถางคบเพลิงใบนั้นครับ ง่ายๆ ใช่ไหมล่ะครับ?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Without further ado, please nominate a representative and begin!",
+      "text": "เพื่อไม่ให้เป็นการเสียเวลา โปรดส่งตัวแทนของกลุ่มออกมาร่วมตอบคำถามได้เลยครับ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If there are no objections, let us have Forename do the honors. Go on and take a look at the panels, my friend.",
+      "text": "หากไม่มีใครคัดค้าน ให้ Forename เป็นตัวแทนทำหน้าที่นี้เถอะครับ ลองไปเดินดูที่แผงข้อความพวกนั้นดูสิครับเพื่อน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All the statements could be true, right? Or even false!? Gah, the suspense is killing me!",
+      "text": "ข้อความพวกนี้มันอาจจะจริงหมดเลยก็ได้ใช่ไหม? หรือไม่ก็เท็จทั้งหมดเลย!? โอย ลุ้นจนใจจะขาดแล้วเนี่ย!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I daresay the panels in the previous chamber may also hold clues.",
+      "text": "ผมคิดว่าข้อความบนแผงข้อมูลในห้องแรกก็น่าจะช่วยบอกใบ้เราได้เหมือนกันนะครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "For a mechanical soldier to serve as guide, it seems safe to assume that Preservation was aware of the information presented here and had no objections to its dissemination.",
+      "text": "การที่มีทหารจักรกลคอยทำหน้าที่นำทางแบบนี้ แปลว่าทางเพรสเซอเวชันเองก็น่าจะรับรู้ถึงข้อมูลที่นำเสนอในวิหารแห่งนี้ และไม่ได้คัดค้านที่จะเผยแพร่มันออกไปนะคะ"
+    },
+    {
+      "character": "Brazier of Eternal Summer",
+      "text_en": "Long ago, our people dwelled on isles of eternal summer, where the flowers ever bloomed. Yet eternity did not last, for a calamity turned the bounteous waters to barren ice.",
+      "text": "ในอดีตอันแสนไกล ผู้คนของพวกเราอาศัยอยู่บนหมู่เกาะแห่งฤดูร้อนอันเป็นนิรันดร์ ที่ซึ่งดอกไม้ผลิบานอยู่เสมอ ทว่า ความเป็นนิรันดร์นั้นกลับไม่ยั่งยืน เมื่อภัยพิบัติครั้งใหญ่เปลี่ยนผืนน้ำอันอุดมสมบูรณ์ให้กลายเป็นน้ำแข็งอันแห้งแล้ง"
+    },
+    {
+      "character": "Brazier of the Relic",
+      "text_en": "Praying fervently upon the sacred relic, the Speaker opened a portal through which our people fled. However, she alone had to remain behind in order to sustain the power.",
+      "text": "ด้วยการสวดอ้อนวอนอย่างแรงกล้าต่อโบราณวัตถุศักดิ์สิทธิ์ ผู้เผยพระวจนะได้เปิดประตูมิติที่นำพาผู้คนของเราหลบหนีไป ทว่า เธอต้องยอมอยู่เบื้องหลังเพียงลำพังเพื่อคงพลังงานเอาไว้"
+    },
+    {
+      "character": "Brazier of Calculations",
+      "text_en": "Owing to our innate gift in arcane calculations, we Milalla not only transformed electrope into a miraculous tool, but excelled in its study besides. As such, despite originally being outsiders, we were favored by the rulers of many a nation.",
+      "text": "ด้วยพรสวรรค์ที่มีมาแต่เกิดในด้านการคำนวณเวทมนตร์ พวกเราชาวมิลาลลาไม่เพียงแต่จะเปลี่ยนเอเลกโทรปให้กลายเป็นเครื่องมือมหัศจรรย์ได้เท่านั้น แต่ยังมีความเป็นเลิศในด้านการศึกษาเรื่องนี้อีกด้วย ดังนั้น แม้เดิมทีจะเป็นคนนอก แต่พวกเราก็ได้รับความโปรดปรานจากผู้ปกครองในหลายๆ ประเทศ"
+    },
+    {
+      "character": "Brazier of the Homecoming",
+      "text_en": "When lightning threatened the world, we Milalla turned to our relic once more. Invoking its power, we opened a portal and returned to our ancient homeland.",
+      "text": "เมื่อสายฟ้าเริ่มคุกคามโลกนี้ พวกเราชาวมิลาลลาจึงหันไปหาโบราณวัตถุของพวกเราอีกครั้ง ด้วยการปลุกพลังของมัน พวกเราได้เปิดประตูมิติและเดินทางกลับไปยังบ้านเกิดเดิมของบรรพบุรุษ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Remember, you must light the braziers whose statements you believe are true! Are you ready for your answers to be judged?",
+      "text": "โปรดจำไว้ว่า ต้องจุดไฟเฉพาะในกระถางที่คิดว่าเป็นจริงเท่านั้นนะครับ! พร้อมที่จะให้ตรวจสอบคำตอบหรือยังครับ?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Very well! Let the judging begin!",
+      "text": "ตกลงครับ! งั้นขอเริ่มการตรวจสอบ ณ บัดนี้!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Bzzzt! You have chosen poorly!",
+      "text": "ติ๊ด! เลือกคำตอบได้ไม่ถูกต้องครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "You are welcome to try again, however. Think carefully on what you have learned, and consider reviewing the panels in the first chamber.",
+      "text": "แต่อย่างไรก็ตาม สามารถลองตอบใหม่อีกครั้งได้นะครับ ลองคิดทบทวนสิ่งที่ได้เรียนรู้มาให้ดี และแวะไปเช็กแผงข้อมูลในห้องแรกอีกรอบได้ครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "To give you a little hint, two of the statements are true, and they are not next to each other!",
+      "text": "เพื่อเป็นคำใบ้เล็กๆ น้อยๆ... มีข้อความที่เป็นจริงอยู่สองข้อ และพวกมันไม่ได้อยู่ติดกันครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Ding, ding! You have answered correctly! Congratulations!",
+      "text": "ติ๊งต่อง! คุณตอบได้ถูกต้องแล้วครับ! ยินดีด้วยนะครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "You have answered correctly—and on your very first attempt besides! Amazing!",
+      "text": "คุณตอบได้ถูกต้องแล้วครับ─แถมยังทำสำเร็จตั้งแต่ความพยายามครั้งแรกเลยด้วย! สุดยอดไปเลยครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Great work, Forename ! I knew you could do it!",
+      "text": "เจ๋งมาก Forename ! ฉันรู้อยู่แล้วว่านายต้องทำได้!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Taken at face value, the information here would suggest that the Milalla had simply migrated from a distant land.",
+      "text": "หากมองแค่เผินๆ ข้อมูลในสถานที่แห่งนี้น่าจะสื่อว่าชาวมิลาลลาก็แค่ย้ายถิ่นฐานมาจากดินแดนอันห่างไกลเท่านั้นนะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But we know better. We are aware of the existence of reflections, umbral calamities, and interdimensional fusion.",
+      "text": "แต่พวกเราล่วงรู้ความจริงมากกว่านั้น เพราะพวกเราตระหนักดีถึงการมีอยู่ของมิติเงาสะท้อน (reflections), มหาวิบัติอัมบรัล (umbral calamities) และการหลอมรวมข้ามมิติครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "For an event that froze the seas, the Fifth Umbral Calamity comes to mind—that which ushered in the Age of Endless Frost.",
+      "text": "ถ้าพูดถึงเหตุการณ์ที่ทำให้น้ำทะเลทั้งหมดกลายเป็นน้ำแข็ง ฉันนึกถึงมหาวิบัติอัมบรัลครั้งที่ห้าขึ้นมาเลยค่ะ─ซึ่งเป็นจุดเริ่มต้นของยุคแห่งน้ำแข็งอันเป็นนิรันดร์"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And legend holds that, during that age, the entire population of the south sea isles vanished overnight.",
+      "text": "และในตำนานยังระบุด้วยว่า ในยุคสมัยนั้น ประชากรทั้งหมดของหมู่เกาะทะเลใต้ได้อันตรธานหายไปอย่างไร้ร่องรอยในชั่วข้ามคืนเดียวค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forename —in the course of your adventures, might you have learned aught of this legend?",
+      "text": "Forename ─ในระหว่างการเดินทางผจญภัยของเธอ เธอพอจะเคยล่วงรู้เรื่องราวเกี่ยวกับตำนานนี้มาบ้างไหมคะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not only did you visit a shrine of the forgotten people of Aloalo, but you did battle with a statue of the Speaker as well?",
+      "text": "นี่นอกจากเธอจะได้ไปเยือนวิหารของชาวอโลอโลผู้ถูกลืมเลือนแล้ว เธอยังได้ต่อสู้กับรูปปั้นของผู้เผยพระวจนะด้วยงั้นเหรอคะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The things you get up to never cease to amaze...",
+      "text": "เรื่องราวการผจญภัยของเธอนี่มีเรื่องน่าตกใจให้ทึ่งได้ไม่เว้นแต่ละวันเลยนะคะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The art of arcanima, too, traces its roots to the calculations of the south sea islanders. While we cannot outright conclude that these people were the Milalla, there are at least enough points of similarity to support the theory.",
+      "text": "ศาสตร์เวทมนตร์อัญเชิญ (arcanima) เอง ก็มีต้นกำเนิดมาจากการคำนวณของชาวเกาะทะเลใต้เช่นกันครับ ถึงแม้เราจะยังฟันธงไม่ได้ทันทีว่าผู้คนกลุ่มนั้นคือชาวมิลาลลา แต่ก็มีจุดเชื่อมโยงและจุดที่คล้ายคลึงกันมากพอที่จะสนับสนุนทฤษฎีนี้ได้ครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Ahem! If you have mused to your satisfaction, let us move to the next chamber. Another quiz awaits!",
+      "text": "อะแฮ่ม! หากวิเคราะห์กันจนพึงพอใจแล้ว เชิญเดินทางไปยังห้องโถงถัดไปได้เลยครับ แบบทดสอบชิ้นต่อไปกำลังรออยู่ครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How many of these quizzes are there...?",
+      "text": "แบบทดสอบพวกนี้มันจะมีเยอะแยะไปถึงไหนกันเนี่ย...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wh-What's with all these massive faces!?",
+      "text": "อะ... หน้ากากรูปหน้ายักษ์พวกนี้มันอะไรกันเนี่ย!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There appear to be a few expressions for these masks.",
+      "text": "ดูเหมือนว่าหน้ากากพวกนี้จะแสดงอารมณ์และสีหน้าที่หลากหลายอยู่นะครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What could these masks represent, I wonder...",
+      "text": "หน้ากากพวกนี้สื่อถึงอะไรกันแน่คะเนี่ย..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "We have come to the most enigmatic location in the museum.",
+      "text": "ตอนนี้พวกเราเดินทางมาถึงสถานที่ที่เต็มไปด้วยความลึกลับซับซ้อนที่สุดของพิพิธภัณฑ์แล้วครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "While it is known as the Speakers' Rest, everything else remains a mystery. No one knows what purpose it served—not even the Milalla themselves.",
+      "text": "ถึงแม้ที่แห่งนี้จะถูกเรียกขานว่าแดนพักผ่อนของผู้เผยพระวจนะ แต่เรื่องอื่นๆ ทั้งหมดก็ยังคงเป็นปริศนา ไม่มีใครรู้เลยว่ามันมีไว้เพื่อจุดประสงค์อะไร─แม้กระทั่งตัวชาวมิลาลลาเองก็ตามครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That's rather curious...",
+      "text": "แปลกประหลาดจริงๆ เลยนะคะ..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Isn't it, though? Some have suggested that this place is purely the creation of the facility's designer—that it didn't actually exist in the Milalla homeland.",
+      "text": "น่าประหลาดใจใช่ไหมล่ะครับ? บางคนสันนิษฐานว่าสถานที่แห่งนี้เกิดจากจิตนาการของผู้ออกแบบวิหารแห่งนี้ล้วนๆ─ซึ่งตัววิหารจริงๆ ในดินแดนดั้งเดิมของชาวมิลาลลาอาจไม่มีห้องนี้อยู่เลยด้วยซ้ำครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "It's generally believed, however, that the adornments upon the wall are masks that represent the emotions of men.",
+      "text": "ทว่า โดยทั่วไปแล้วเชื่อกันว่า ของตกแต่งบนกำแพงก็คือหน้ากากที่สื่อถึงอารมณ์ความรู้สึกต่างๆ ของมนุษย์ครับ"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "And that brings us to the final quiz! The question is simple: how many types of masks are there?",
+      "text": "และนั่นก็นำพวกเรามาสู่แบบทดสอบสุดท้ายแล้วครับ! คำถามนั้นง่ายแสนง่าย: มีหน้ากากอยู่ทั้งหมดกี่ประเภทกันครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's the last one already!?",
+      "text": "มาถึงข้อสุดท้ายแล้วเรอะ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmmm... Something tells me it's not going to be as simple as it sounds...",
+      "text": "หืม... ลางสังหรณ์บอกฉันว่ามันคงไม่ได้ง่ายๆ เหมือนน้ำคำที่พูดหรอกนะ..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Please take all the time you require. I shall be here when you are ready with the answer.",
+      "text": "ใช้เวลาคิดพิจารณาได้เต็มที่ตามที่ต้องการเลยนะครับ เมื่อไหร่ที่พร้อมตอบคำถาม กระผมจะรออยู่ตรงนี้ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, what...? Gah, I keep on losing track!",
+      "text": "เดี๋ยวนะ... อะไรนะ? โอย นับไปนับมาเริ่มงงสับสนแล้วเนี่ย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I might have to borrow a brush from Krile...",
+      "text": "สงสัยฉันต้องขอยืมพู่กันของไครล์มาจดแต้มไว้หน่อยแล้วมั้ง..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Three. The answer is three...I think.",
+      "text": "สามอันครับ คำตอบน่าจะเป็นสามอัน... ละมั้งนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Masks representing emotions... This is just a thought, but if emotions and memories are intrinsically bound, could they be the Milalla's way of expressing the different faces of Living Memory?",
+      "text": "หน้ากากที่แสดงอารมณ์ความรู้สึก... ฉันแค่คิดขึ้นมาเล่นๆ นะคะว่า ถ้าหากอารมณ์และความทรงจำผูกพันเชื่อมโยงกันอย่างแยกไม่ออก หน้ากากพวกนี้อาจเป็นวิธีการของชาวมิลาลลาในการแสดงออกถึงสีหน้าที่แตกต่างกันของลิฟวิ่งเมโมรีหรือเปล่าคะ?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "So, how many kinds of masks are there? Have you determined the answer?",
+      "text": "ตกลงว่ามีหน้ากากอยู่ทั้งหมดกี่ชนิดกันครับ? ได้คำตอบหรือยังครับ?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "That's incorrect, I'm afraid! Try counting again...or just go with your heart!",
+      "text": "เกรงว่าจะเป็นคำตอบที่ยังไม่ถูกต้องนะครับ! ลองนับใหม่อีกรอบ... หรือไม่ก็ซื่อสัตย์กับหัวใจดูครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "That's incorrect, I'm afraid! Try counting again...or just go with your heart!",
+      "text": "เกรงว่าจะเป็นคำตอบที่ยังไม่ถูกต้องนะครับ! ลองนับใหม่อีกรอบ... หรือไม่ก็ซื่อสัตย์กับหัวใจดูครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "So your answer is four. How about everyone else?",
+      "text": "ดังนั้น คำตอบของคุณคือสี่ แล้วท่านอื่นๆ คิดเห็นอย่างไรกันบ้างครับ?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "That's incorrect, I'm afraid! Try counting again...or just go with your heart!",
+      "text": "เกรงว่าจะเป็นคำตอบที่ยังไม่ถูกต้องนะครับ! ลองนับใหม่อีกรอบ... หรือไม่ก็ซื่อสัตย์กับหัวใจดูครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seriously!? I thought it was six!",
+      "text": "จริงดิ!? ฉันนึกว่ามีหกซะอีก!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Like Forename , I also believe it is four.",
+      "text": "ฉันก็คิดว่ามีสี่เหมือนกันค่ะ Forename"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As do I!",
+      "text": "ผมก็คิดแบบนั้นเหมือนกันครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "And the correct answer is...",
+      "text": "และคำตอบที่ถูกต้องก็คือ..."
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "Four! Congratulations to the three of you!",
+      "text": "สี่ครับ! ขอแสดงความยินดีกับทั้งสามท่านด้วยนะครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it! Where the hells did I mess up?",
+      "text": "บัดซบเอ๊ย! นี่ฉันไปพลาดตรงไหนกันวะเนี่ย?"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "And that concludes the quizzed tour for the Steps of the Speaker!",
+      "text": "และนั่นคือบทสรุปของทัวร์ตอบคำถามที่บันไดของผู้เผยพระวจนะครับ!"
+    },
+    {
+      "character": "Mechanical Guide",
+      "text_en": "I thank you for your visit today, and eagerly look forward to your next!",
+      "text": "กระผมขอขอบคุณทุกท่านที่แวะมาเยี่ยมชมในวันนี้ และตั้งตารอคอยที่จะได้ต้อนรับในครั้งถัดไปอย่างยิ่งครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Finished at last... Gods, I'm exhausted...",
+      "text": "จบสิ้นซะที... โอย เหนื่อยเป็นบ้าเลย..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If the legend is true, the Milalla were refugees from the Source.",
+      "text": "ถ้าหากตำนานนี้เป็นความจริง ชาวมิลาลลาก็คือนักอพยพที่หลบหนีมาจากโลกเดิม (Source) สิคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But what is this relic of theirs that can bridge worlds? Who made it, and to what end?",
+      "text": "แต่โบราณวัตถุชิ้นนี้ของพวกเขามันคืออะไรกันแน่ ถึงสามารถเชื่อมโยงโลกต่างๆ เข้าด้วยกันได้? ใครเป็นคนสร้างมันขึ้นมา และมีจุดประสงค์อะไรกันแน่คะ?"
+    },
+    {
+      "character": "Robor",
+      "text_en": "Much about the key remains shrouded in mystery.",
+      "text": "เรื่องราวของกุญแจดอกนี้ยังคงเต็มไปด้วยปริศนามากมายครับ"
+    },
+    {
+      "character": "Robor",
+      "text_en": "By augmenting it with electrope, Preservation did succeed in opening a portal. Yet they could never grasp how they had managed to do so, much less the underlying principles of the technology.",
+      "text": "ด้วยการผสานมันเข้ากับเอเลกโทรป ทางเพรสเซอเวชันก็สามารถเปิดประตูมิติได้สำเร็จ แต่ถึงกระนั้น พวกเขาก็ไม่เคยเข้าใจเลยว่าทำไมมันถึงเปิดออกได้ และยิ่งไม่ล่วงรู้หลักการทำงานเบื้องลึกของเทคโนโลยีนี้เลยครับ"
+    },
+    {
+      "character": "Robor",
+      "text_en": "To this day, not a single person understands the mechanics of interdimensional fusion. Let alone who imbued the key with its power, when they did so, or why.",
+      "text": "จนถึงทุกวันนี้ ไม่มีใครเข้าใจกลไกการทำงานของการหลอมรวมข้ามมิติเลยครับ ยิ่งเรื่องที่ว่าใครเป็นผู้ประสิทธิ์ประสาทพลังงานนั้นให้กับกุญแจ ตอนไหน หรือเพื่ออะไร ก็ไม่มีใครตอบได้ครับ"
+    },
+    {
+      "character": "Robor",
+      "text_en": "But remember this.",
+      "text": "แต่จงจำสิ่งนี้ไว้ให้ดีนะครับ"
+    },
+    {
+      "character": "Robor",
+      "text_en": "The key is a tool. And like all tools, in and of itself it is a force for neither good nor evil.",
+      "text": "กุญแจนี้เป็นเพียงแค่เครื่องมือชิ้นหนึ่ง และมันก็เหมือนกับเครื่องมืออื่นๆ ทั้งหมด ที่โดยเนื้อแท้ของตัวมันเองแล้ว ไม่ได้มีความดีหรือความชั่วร้ายใดๆ เลยครับ"
+    },
+    {
+      "character": "Robor",
+      "text_en": "Once taken in hand, however, its capacity for both is made plain. In delivering one man, it may doom another—making a lie of its bearer's every good intention.",
+      "text": "ทว่า ทันทีที่มันถูกนำมาใช้งาน พลังที่พร้อมจะตอบสนองทั้งทางที่ดีและทางที่ร้ายจะแสดงผลอย่างแจ่มแจ้ง ในการช่วยคนคนหนึ่งให้รอดพ้น มันอาจจะนำพาหายนะมาสู่คนอีกคนได้─จนทำให้ความตั้งใจดีทั้งหมดของผู้ถือครองกลายเป็นเรื่องหลอกลวงไปสิ้นครับ"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "As did Preservation, Queen Sphene seeks to wield the key in the name of those she loves.",
+      "text": "เช่นเดียวกับพวกเพรสเซอเวชัน ราชินีสฟีนปรารถนาที่จะถือครองกุญแจดอกนี้ในนามของผู้คนอันเป็นที่รักของเธอ"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "And, in so doing, makes her people party to the destruction of countless souls.",
+      "text": "และในการทำเช่นนั้น เธอยังทำให้ประชาชนของเธอกลายเป็นผู้มีส่วนร่วมในการบดขยี้ทำลายดวงวิญญาณอื่นๆ อีกจำนวนนับไม่ถ้วนค่ะ"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "We have told you all we can. To be able to share this with you at the last... It feels as though we've fulfilled our purpose.",
+      "text": "พวกเราบอกเล่าทุกอย่างที่รู้ให้ฟังหมดแล้วล่ะค่ะ การที่ได้มีโอกาสเล่าเรื่องราวทั้งหมดนี้ให้ลูกฟังในท้ายที่สุด... พ่อกับแม่รู้สึกเหมือนได้ทำหน้าที่ตามจุดประสงค์ของตัวเองเสร็จสิ้นแล้วล่ะจ้ะ"
+    },
+    {
+      "character": "Robor",
+      "text_en": "You've come to shut down the terminal?",
+      "text": "ลูกเดินทางมาที่นี่เพื่อปิดการทำงานของเทอร์มินัลสินะครับ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Yes, we have.",
+      "text": "...ใช่ค่ะ พวกเรามาเพื่อการนั้นค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But perhaps there's another way? One that doesn't require the terminal's deactivation...",
+      "text": "แต่... มันอาจจะพอมีหนทางอื่นบ้างไหมคะ? หนทางที่ไม่จำเป็นต้องปิดระบบการทำงานของเทอร์มินัลน่ะค่ะ..."
+    },
+    {
+      "character": "Robor",
+      "text_en": "For the longest time, we've sought a means to erase ourselves before our knowledge could be used for ill. And in you we have found it.",
+      "text": "พวกเราตามหาหนทางที่จะลบตัวตนของตัวเองมาเนิ่นนาน เพื่อป้องกันไม่ให้องค์ความรู้ของเราถูกนำไปใช้ในทางที่ชั่วร้าย และในที่สุดพวกเราก็ได้พบหนทางนั้นในตัวลูกแล้วล่ะครับ"
+    },
+    {
+      "character": "Robor",
+      "text_en": "So press on. Press on, and don't look back.",
+      "text": "ดังนั้น จงก้าวต่อไปข้างหน้าเถอะครับ ก้าวต่อไปโดยไม่ต้องหันหลังกลับมามอง"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I will...",
+      "text": "ฉันจะทำตามนั้นค่ะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Um... May I ask you one last question?",
+      "text": "เอ้อ... ฉันขอถามคำถามสุดท้ายสักข้อได้ไหมคะ?"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Of course, my dear.",
+      "text": "ได้สิจ๊ะ ลูกรัก"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The earring... Why did you leave it with me?",
+      "text": "ต่างหูอันนี้... ทำไมคุณพ่อคุณแม่ถึงทิ้งมันไว้กับฉันเหรอคะ?"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Because, Krile, we wanted to see you again.",
+      "text": "เพราะว่าพวกเราอยากจะได้พบกับลูกอีกครั้งน่ะสิจ๊ะ ไครล์"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "This may seem self-serving...but we wanted to leave a trace of ourselves with you.",
+      "text": "มันอาจจะฟังดูเห็นแก่ตัวไปหน่อย... แต่พวกเราอยากจะฝากส่วนหนึ่งของร่องรอยชีวิตเราไว้กับลูก"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "A hint to guide you to us, so that we could live in hope.",
+      "text": "ฝากเบาะแสที่จะนำทางลูกมาหาพวกเรา เพื่อให้ชีวิตที่เหลืออยู่ของพวกเราเต็มไปด้วยความหวังจ้ะ"
+    },
+    {
+      "character": "Robor",
+      "text_en": "We've dreamed of this day for so long. But now that it's become reality, we wonder if we deserve to enjoy it.",
+      "text": "พ่อกับแม่เฝ้าฝันถึงวันนี้มาเนิ่นนานเหลือเกิน แต่พอฝันนั้นกลายเป็นความจริงขึ้นมา พวกเรากลับลังเลว่าตนเองสมควรจะได้รับความสุขนี้รึเปล่า"
+    },
+    {
+      "character": "Robor",
+      "text_en": "We wanted naught but the best for you, yet we've always wondered how much you might have suffered in our absence...",
+      "text": "พวกเราไม่มีความปรารถนาอื่นใดนอกเหนือจากอยากให้ลูกได้รับสิ่งที่ดีที่สุด ทว่า พวกเราก็คอยกังวลอยู่ตลอดว่าลูกต้องทนทุกข์ทรมานขนาดไหนยามที่ไม่มีพวกเราอยู่เคียงข้าง..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Do not torment yourselves so. As fate would have it, you entrusted me to a good man. His name is Galuf, and he raised me as his own.",
+      "text": "อย่าทรมานตัวเองด้วยความคิดแบบนั้นเลยนะคะ โชคชะตาเข้าข้างฉันที่ทำให้คุณพ่อคุณแม่ส่งมอบตัวฉันให้แก่คนดีคนหนึ่ง ท่านมีชื่อว่าคุณปู่กาลูฟค่ะ ท่านเลี้ยงดูฟูมฟักฉันมาเปรียบเสมือนลูกในไส้แท้ๆ เลยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What's more, I've been blessed with the finest comrades anyone could have.",
+      "text": "ยิ่งไปกว่านั้น ฉันยังได้รับพรที่วิเศษสุดด้วยการมีเพื่อนร่วมทางที่ยอดเยี่ยมที่สุดเท่าที่คนคนหนึ่งจะพึงมีด้วยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's thanks to you that I am here now, hale and happy.",
+      "text": "ต้องขอบคุณพวกท่านที่ทำให้ฉันสามารถมายืนอยู่ตรงนี้ได้อย่างปลอดภัยและมีความสุขดีค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So please, be at peace. Be at peace, Mother, Father.",
+      "text": "เพราะฉะนั้น ได้โปรดหมดห่วงเถอะนะคะ สบายใจเถอะค่ะ คุณพ่อ คุณแม่"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "You already have a beautiful name. But if we might call you by the one we gave you...",
+      "text": "ลูกมีชื่อเดิมที่ไพเราะมากอยู่แล้วจ้ะ แต่ว่า... หากแม่จะขอเรียกชื่อที่พวกเราเคยตั้งให้ลูกได้ไหมจ๊ะ..."
+    },
+    {
+      "character": "Alayla",
+      "text_en": "Maya, our dearest Maya. We love you more than life itself.",
+      "text": "มายา... มายารักของแม่ พ่อกับแม่รักลูกยิ่งกว่าชีวิตของตัวเองอีกนะจ๊ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Maya... M-My name...my name is Maya...",
+      "text": "มายา... ช-ชื่อของฉัน... ชื่อของฉันคือมายา..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you sure about this? You can leave the terminal to us, you know.",
+      "text": "แน่ใจแล้วเหรอ? เรื่องปิดเทอร์มินัลเนี่ย ปล่อยให้เป็นหน้าที่พวกเราก็ได้นะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "No—I must do this. Krile Maya Baldesion must press on. Press on, and...",
+      "text": "ไม่ค่ะ─ฉันต้องทำสิ่งนี้ด้วยตัวเอง ไครล์ มายา บัลเดสิออน จะต้องก้าวต่อไปข้างหน้า ก้าวไปและ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Farewell, Mother!",
+      "text": "ลาก่อนนะคะ คุณแม่!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Farewell, Father!",
+      "text": "ลาก่อนนะคะ คุณพ่อ!"
+    },
+    {
+      "character": "Robor",
+      "text_en": "Farewell.",
+      "text": "ลาก่อนนะลูก"
+    },
+    {
+      "character": "Alayla",
+      "text_en": "[HAPPY CHUCKLE “Hehe”]",
+      "text": "[หัวเราะเบาๆ อย่างมีความสุข “เฮะๆ”]"
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I may confide in you, Forename ... I've been anxious ever since I chose to accompany you to Tural.",
+      "text": "ถ้าให้ฉันสารภาพความในใจกับเธอตรงๆ นะคะ Forename ... ฉันรู้สึกกังวลอยู่ตลอดเลยค่ะตั้งแต่ตอนที่ตัดสินใจร่วมเดินทางมายังทูรัลกับเธอ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I was afraid of what I might discover. Perhaps I'd learn nothing—or worse, that my parents didn't love me.",
+      "text": "ฉันกลัวสิ่งที่ตัวเองอาจจะได้ค้นพบ กลัวว่าจะไม่พบเบาะแสอะไรเลย หรือที่แย่กว่านั้นคือ... กลัวว่าคุณพ่อคุณแม่จะไม่ได้รักฉันค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But now I know the truth, and I couldn't be happier.",
+      "text": "แต่ตอนนี้ฉันได้ล่วงรู้ความจริงทั้งหมดแล้ว และฉันก็ไม่มีความสุขไหนจะเทียบเท่าได้อีกแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad I took up pictomancy. And I'm glad I mustered up the courage to say that I wanted to join you.",
+      "text": "ดีใจจริงๆ ค่ะที่เลือกศึกษาศาสตร์เวทพิกโตแมนซี และดีใจที่รวบรวมความกล้าบอกออกไปว่าอยากจะร่วมเดินทางไปกับเธอด้วย"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you, Forename , for trusting me with your life and walking with me all this way.",
+      "text": "ขอบคุณมากนะ Forename ที่ไว้วางใจและมอบชีวิตไว้กับฉัน รวมถึงร่วมก้าวเดินมาด้วยกันไกลถึงขนาดนี้ค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "...Well, that's all I wanted to say! I'll see this through—rather, we'll see this through together.",
+      "text": "...เอาล่ะ นั่นคือทั้งหมดที่ฉันอยากพูดค่ะ! ฉันจะเผชิญหน้าจนถึงที่สุด─หรือต้องพูดว่า พวกเราจะเผชิญหน้าและก้าวผ่านมันไปด้วยกันค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "My apologies for keeping you. Come, let's catch up to the others!",
+      "text": "ขอโทษด้วยนะคะที่ดึงตัวเธอไว้ตั้งนาน มาเถอะค่ะ รีบตามไปสมทบกับคนอื่นๆ กันดีกว่า!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville isn't here yet...",
+      "text": "เอเรนวิลล์ยังไม่มาเลยแฮะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Lovely people, Robor and Alayla.",
+      "text": "คุณโรบอร์กับคุณอาไลลาเป็นคนดีมากๆ เลยนะครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Worry not, I shall be fine.",
+      "text": "ไม่ต้องกังวลหรอกนะคะ ฉันไม่เป็นไรแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The others have told me all. I'm glad Krile could bid her parents a proper farewell.",
+      "text": "คนอื่นๆ เล่าเรื่องทั้งหมดให้ฉันฟังแล้วล่ะ ดีใจด้วยจริงๆ นะที่ไครล์ได้มีโอกาสกล่าวบอกลาพ่อกับแม่ของเธออย่างเป็นทางการน่ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now then, to ask this question for the second-to-last time...",
+      "text": "เอาล่ะจ้ะ ถ้าอย่างนั้น ขอถามคำถามนี้เป็นครั้งรองสุดท้ายหน่อยแล้วกันนะ..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Are you ready to shut down the terminal?",
+      "text": "พร้อมที่จะปิดระบบการทำงานของเทอร์มินัลหรือยังจ๊ะ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You know how to do it?",
+      "text": "รู้วิธีการปิดมันแล้วใช่ไหม?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I do.",
+      "text": "ทราบค่ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now that Elene'shpya has joined us, let's head to the last zone.",
+      "text": "ในเมื่อเอเลเนสเพียมารวมกลุ่มกับพวกเราแล้ว งั้นก็มุ่งหน้าไปยังโซนสุดท้ายกันเถอะจ้ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Just one zone remaining...",
+      "text": "เหลือโซนสุดท้ายเพียงแค่โซนเดียวแล้วสินะครับ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Their memories may be gone, but their love will be with me always...",
+      "text": "แม้ความทรงจำของพวกท่านจะมลายหายไป แต่ความรักของพวกท่านจะคงอยู่เคียงข้างฉันเสมอค่ะ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you all right, Krile?",
+      "text": "เธอโอเคไหม ไครล์?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I am. I chose to forge on no matter what.",
+      "text": "สบายมากค่ะ ฉันตัดสินใจแล้วว่าจะก้าวเดินต่อไปข้างหน้าไม่ว่าจะเกิดอะไรขึ้นก็ตาม"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And I've had the courage to do so because of you all. Thank you, from the bottom of my heart.",
+      "text": "และฉันมีความกล้าที่จะทำอย่างนั้นได้ก็เพราะพวกคุณทุกคน ขอบคุณพวกคุณจริงๆ นะคะจากก้นบึ้งของหัวใจเลยค่ะ"
+    }
+  ]
+}

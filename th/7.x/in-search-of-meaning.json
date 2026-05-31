@@ -1,0 +1,523 @@
+{
+  "id": "in-search-of-meaning",
+  "wiki_path": "/wiki/In_Search_of_Meaning",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.2",
+  "title_en": "In Search of Meaning",
+  "title": "สืบค้นความหมายแห่งชีวิต",
+  "level": "100",
+  "location": "Solution Nine(X:5.5,Y:13.9)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "They were worried about not having neo regulators, but Lamaty'i cheered them up.",
+      "text": "พวกเขากังวลเรื่องที่ไม่มีนีโอเรกูเลเตอร์กันน่ะครับ แต่คุณวุค ลามัต ช่วยพูดให้พวกเขาอารมณ์ดีขึ้นแล้วครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you have any troubles or anything else you want to talk about, I'm always here to lend an ear.",
+      "text": "ถ้ามีเรื่องเดือดเนื้อร้อนใจหรืออยากจะระบายอะไรล่ะก็ บอกฉันได้เสมอนะ ฉันพร้อมจะรับฟังเสมอเลย"
+    },
+    {
+      "character": "Delia",
+      "text_en": "Come again any time.",
+      "text": "โอกาสหน้าแวะมาใหม่ได้เสมอนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forgive me. I didn't mean to darken the mood.",
+      "text": "ขออภัยด้วยนะคะ ฉันไม่ได้ตั้งใจจะทำให้บรรยากาศกร่อยลงเลยค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Still, I feel better for having shared my feelings with you. Thank you.",
+      "text": "แต่พอได้ระบายความรู้สึกในใจให้พวกคุณฟังแบบนี้แล้ว ก็รู้สึกโล่งอกขึ้นเยอะเลยค่ะ ขอบคุณนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry I'm not being much of a guide. I don't usually get approached this often.",
+      "text": "ขอโทษทีนะที่ทำหน้าที่ไกด์นำทางได้ไม่ดีเท่าไหร่ ปกติแล้วไม่ค่อยมีคนเดินเข้ามาทักทายฉันบ่อยขนาดนี้น่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's quite all right. The people have been through so much. It's only natural for them to seek comfort and assurance from someone they trust.",
+      "text": "ไม่เป็นไรเลยค่ะ ชาวเมืองผ่านเรื่องราวหนักหนาสาหัสมามากเหลือเกิน จึงไม่แปลกหรอกค่ะที่พวกเขาจะต้องการคำปลอบโยนและความมั่นใจจากคนที่พวกเขาเชื่อถือ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Besides, I was able to relax with a delicious cup of coffee and have a lovely chat with Forename .",
+      "text": "อีกอย่าง ฉันเองก็ได้ผ่อนคลายกับกาแฟรสชาติกลมกล่อม แถมยังได้พูดคุยอย่างสนุกสนานกับ [ชื่อ] ด้วยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I appreciate your understanding.",
+      "text": "ขอบใจนะที่เข้าใจฉัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, where to next... We could take a look inside the Nexus Arcade, but it can probably wait for when we actually need something.",
+      "text": "เอาละ ด่านต่อไปจะไปไหนกันดีล่ะ... พวกเราแวะเข้าไปดูข้างในเน็กซัสอาร์เคดก็ได้นะ แต่คิดว่ารอไว้ตอนที่เราจำเป็นต้องซื้อของจริงๆ ค่อยไปน่าจะดีกว่า"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "In that case, let's head back to the recreation zone. There's plenty to see on True Vue.",
+      "text": "ถ้าอย่างนั้น พวกเรากลับไปที่เขตนันทนาการกันดีไหมครับ บนทรูวิวมีทิวทัศน์สวยๆ ให้ดูเยอะแยะเลยครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He was this way when we arrived...",
+      "text": "เขาฟุบอยู่แบบนี้ตั้งแต่ตอนที่พวกเรามาถึงแล้วล่ะค่ะ..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "Ungh...",
+      "text": "อือ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, are you alright?",
+      "text": "เฮ้ เธอเป็นอะไรไหม?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "He looks pale... We need to find a place for him to rest.",
+      "text": "หน้าเขาดูซีดเซียวมากเลยครับ... พวกเราต้องรีบพาเขาไปหาที่พักผ่อนก่อนนะครับ"
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "<pant> Thank you...",
+      "text": "<แฮ่ก> ขอบคุณมากนะครับ..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "I was on my way to attend to some business...when the memory of being killed here came flooding back... The danger has passed, I know, but the terror lingers...",
+      "text": "ผมกำลังเดินทางไปทำธุระแท้ๆ... ทว่าจู่ๆ ภาพความทรงจำตอนที่โดนฆ่าตายตรงนี้มันก็ผุดย้อนกลับเข้ามาในหัวน่ะครับ... ถึงจะรู้ดีว่าอันตรายผ่านพ้นไปแล้ว แต่ความหวาดกลัวมันยังไม่ยอมจางหายไปเลย..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "<sigh> For all the comfort I've offered others in my work, I can't seem to comfort myself...",
+      "text": "<เฮ้อ> ทั้งที่งานของผมคือการคอยพูดปลอบโยนผู้อื่นแท้ๆ แต่กลับไม่สามารถเยียวยาจิตใจของตัวเองได้เลย..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The regulators and souls they used to spare themselves the horror of death ended up subjecting them to it over and over again. If only we'd come to their aid sooner...",
+      "text": "เรกูเลเตอร์กับดวงวิญญาณที่ใช้เพื่อหลบหนีความกลัวต่อความตาย สุดท้ายกลับทำให้พวกเขาต้องเผชิญกับมันซ้ำแล้วซ้ำเล่าแบบนี้ หากพวกเรายื่นมือเข้าช่วยเหลือพวกเขาได้เร็วกว่านี้ล่ะก็..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But we're here now. We can offer this man the comfort he can't give himself.",
+      "text": "แต่ตอนนี้พวกเราอยู่ที่นี่แล้วล่ะ เราจะคอยช่วยเหลือเพื่อมอบความอบอุ่นใจให้ชายคนนี้ในส่วนที่เขาทำเพื่อตัวเองไม่ได้เอง"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I see... When the soldiers attacked, he...",
+      "text": "งั้นเหรอครับ... ตอนที่พวกทหารจักรกลบุกโจมตี เขาคง..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He may be physically none the worse for wear, but unseen wounds also require time to heal...",
+      "text": "ถึงร่างกายภายนอกจะไม่ได้บาดเจ็บตรงไหน ทว่าบาดแผลในใจที่มองไม่เห็นก็จำเป็นต้องใช้เวลาในการรักษาเช่นกันนะคะ..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "Try as I might, I can't shake this fear... My courage has completely deserted me...",
+      "text": "พยายามเท่าไหร่ก็สลัดความหวาดกลัวนี้ไม่หลุดเสียที... ความกล้าหาญของผมมันอันตรธานหายไปหมดสิ้นแล้ว..."
+    },
+    {
+      "character": "Stricken Citizen",
+      "text_en": "Thank you, I feel better already... Your encouragement was exactly what I needed...",
+      "text": "ขอบคุณมากนะครับ รู้สึกดีขึ้นเยอะเลย... คำให้กำลังใจของพวกคุณคือสิ่งที่ผมต้องการที่สุดเลยครับ..."
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Ah, but where are my manners? My name is Malachite, and I am an usher.",
+      "text": "อ๊ะ ขออภัยที่เสียมารยาทด้วยครับ ผมชื่อมาลาไคต์ เป็นผู้นำทางวิญญาณ (Usher) ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "An usher? They're the ones who came to those without long to live, right?",
+      "text": "ผู้นำทางวิญญาณเหรอ? พวกที่คอยเดินทางไปพบผู้ที่กำลังจะละโลกนี้ไปใช่ไหม?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But given everything that's happened, I expect your duties have changed.",
+      "text": "แต่จากเรื่องราวทั้งหมดที่เกิดขึ้น ฉันคิดว่าหน้าที่การงานของนายน่าจะเปลี่ยนไปแล้วล่ะสิ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "That's correct. We no longer attend to the dying. It is only after they have passed away in their families' care that we convey their remains to a government storage facility.",
+      "text": "ถูกต้องแล้วครับ พวกเราไม่ได้มีหน้าที่คอยดูแลผู้ที่ใกล้จะสิ้นลมอีกต่อไปแล้ว หลังจากที่พวกเขาจากไปอย่างสงบท่ามกลางการดูแลของครอบครัว พวกเราจึงจะทำหน้าที่เคลื่อนย้ายร่างไปยังสถานจัดเก็บของทางการครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A storage facility? What for?",
+      "text": "สถานจัดเก็บเหรอ? เอาไปเก็บไว้ทำไมกัน?"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Henceforth we must inter the deceased─but as the specifics are undecided, the bodies must be kept in cold storage for the time being.",
+      "text": "หลังจากนี้พวกเราจำเป็นต้องทำพิธีฝังร่างผู้ล่วงลับน่ะครับ แต่เนื่องจากยังไม่มีข้อสรุปในรายละเอียดที่ชัดเจน ตอนนี้จึงต้องนำร่างไปเก็บรักษาไว้ในห้องแช่เย็นชั่วคราวก่อนครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I didn't know... I'd heard there were graveyards over by the submerged city, but like funerals, burial customs must be long forgotten.",
+      "text": "ฉันไม่เคยรู้เลยนะเนี่ย... เคยได้ยินมาว่ามีสุสานอยู่ใกล้ๆ กับซากเมืองที่จมน้ำน่ะ แต่คิดว่าวัฒนธรรมการทำพิธีศพและการฝังร่างคงจะถูกลืมเลือนไปนานแสนนานแล้วล่ะสิ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Did you have usher duties? If so, we could help.",
+      "text": "คุณมาลาไคต์มีหน้าที่นำทางที่ต้องทำอยู่เหรอครับ? ถ้าอย่างนั้น ให้พวกเราช่วยดีไหมครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I'm not actually here in an official capacity, so I am loath to trouble you further. But since you asked, I shall explain why I've come.",
+      "text": "ความจริงแล้ววันนี้ผมไม่ได้ปฏิบัติหน้าที่ในนามของทางการหรอกครับ เลยรู้สึกเกรงใจที่จะรบกวนพวกคุณ แต่ในเมื่อพวกคุณถามไถ่มา ผมจะอธิบายสาเหตุที่มาที่นี่ให้ฟังครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I've taken to delivering the personal effects of the departed to their families. Even though their memories have been entrusted to the cloud, I still remember where they once lived.",
+      "text": "ผมตั้งใจจะนำเอาของดูต่างหน้าของผู้ล่วงลับไปส่งมอบให้แก่ครอบครัวของพวกเขาน่ะครับ ถึงแม้ความทรงจำเกี่ยวกับตัวตนของพวกเขาจะถูกฝากไว้บนคลาวด์ไปแล้ว แต่ผมก็ยังคงจดจำสถานที่ที่พวกเขาเคยอาศัยอยู่ได้ดีครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "The rule was to dispose of any belongings─to do anything else was strictly forbidden. But it saddened me to see them discarded like waste, so I began secreting away what I could.",
+      "text": "ตามกฎแล้ว ข้าวของเครื่องใช้ทั้งหมดจะต้องถูกทำลายทิ้ง และการทำสิ่งอื่นใดนอกเหนือจากนั้นถือเป็นข้อห้ามเด็ดขาดครับ ทว่ามันทำให้ผมรู้สึกปวดใจเหลือเกินที่ต้องเห็นของเหล่านั้นถูกโยนทิ้งเหมือนขยะ เลยริเริ่มแอบเก็บรวบรวมเท่าที่พอจะทำได้เอาไว้น่ะครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Of course, I understand that not everyone shares my sentiments, and I leave it to the families to decide what to do with these items. Some accept my deliveries, others reject them.",
+      "text": "แน่นอนครับ ผมเข้าใจดีว่าไม่ใช่ทุกคนจะคิดเห็นเหมือนผม ผมเลยเปิดโอกาสให้ครอบครัวของพวกเขาเป็นคนตัดสินใจว่าจะทำอย่างไรกับสิ่งของเหล่านี้ บางครอบครัวก็ยอมรับเอาไว้ แต่บางครอบครัวก็ปฏิเสธไปครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Whether I'm doing the right thing, I cannot say, but I feel the families should be given the choice.",
+      "text": "ผมไม่อาจบอกได้ว่าสิ่งที่ทำลงไปนี้เป็นเรื่องที่ถูกต้องหรือไม่ แต่ผมรู้สึกว่าครอบครัวของผู้ล่วงลับควรมีสิทธิ์เลือกครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Oh... They didn't have it before, then...",
+      "text": "งั้นเหรอครับ... แสดงว่าเมื่อก่อนไม่มีสิทธิ์เลือกเลยสินะครับ..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's important to think about what people leave to us. I want to help.",
+      "text": "การคำนึงถึงสิ่งของที่ผู้ล่วงลับทิ้งไว้ให้เราเป็นเรื่องสำคัญมากเลยนะครับ ผมอยากช่วยคุณครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Do you want to help too, Forename ?",
+      "text": "พี่ [ชื่อ] ก็อยากช่วยด้วยเหมือนกันใช่ไหมครับ?"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "I'm truly grateful. Now, there are four items to be delivered here in the recreation zone. I leave them in your care.",
+      "text": "ขอบคุณจากใจจริงครับ เอาล่ะ ของดูต่างหน้าที่ต้องส่งมอบในเขตนันทนาการแห่งนี้มีอยู่ทั้งหมดสี่ชิ้นครับ ผมขอฝากให้พวกคุณช่วยดูแลด้วยนะครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "In the meantime, I will head to the residential sector to make deliveries there. After you've finished, please meet me back here─I would like to know the families' reaction.",
+      "text": "ระหว่างนี้ ผมจะมุ่งหน้าไปยังเขตที่อยู่อาศัยเพื่อส่งของของฝั่งนั้นครับ พอกระจัดการส่งเสร็จเรียบร้อยแล้ว รบกวนกลับมาพบกันที่นี่อีกครั้งนะครับ ผมอยากทราบปฏิกิริยาของครอบครัวพวกเขาน่ะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know, there've been people in Tuliyollal who had similar episodes due to the trauma of the siege...",
+      "text": "นั่นสิเนอะ ที่ทูลิโยลลัลเองก็มีคนที่เกิดอาการหวาดผวาแบบนี้เพราะผลกระทบทางจิตใจจากการโดนโจมตีเหมือนกัน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Would you mind if I went with Malachite, just to keep an eye on him? Only if you can handle those deliveries without me, of course.",
+      "text": "จะว่าอะไรไหมถ้าฉันจะขอตามมาลาไคต์ไปส่งของด้วย คอยดูแลเขาน่ะ เฉพาะในกรณีที่พวกนายส่งของสี่ชิ้นนี้กันไหวโดยไม่มีฉันนะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's fine, it's fine! I'm sure he'll be happy for the company.",
+      "text": "ไม่เป็นไรเลยครับ สบายมาก! ผมมั่นใจว่าเขาต้องดีใจที่มีเพื่อนร่วมเดินทางไปด้วยแน่นอนครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Come, let's deliver these keepsakes to the families!",
+      "text": "มาครับ พวกเราเอาของดูต่างหน้าเหล่านี้ไปส่งให้ครอบครัวของพวกเขาน่ะครับ!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Come, let's deliver these keepsakes to the families!",
+      "text": "มาครับ พวกเราเอาของดูต่างหน้าเหล่านี้ไปส่งให้ครอบครัวของพวกเขาน่ะครับ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So, there are four items in total to deliver?",
+      "text": "ถ้าอย่างนั้น ของที่ต้องส่งมอบมีทั้งหมดสี่ชิ้นสินะคะ?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Right. Three for people on True Vue, and one for someone over by the Neon Stein. Let's visit them in that order.",
+      "text": "ใช่ครับ สามชิ้นสำหรับคนบนทรูวิว ส่วนอีกชิ้นส่งให้คนแถวๆ ร้านนีออนสไตน์ครับ พวกเราไปส่งตามลำดับนี้กันเถอะครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Might I trouble you to do the talking, Forename ? I fear my voice may betray my identity...",
+      "text": "ฉันต้องรบกวนให้คุณ [ชื่อ] ช่วยเป็นคนพูดคุยแทนจะได้ไหมคะ... ฉันเกรงว่าเสียงของฉันอาจจะทำให้ความลับเรื่องตัวตนรั่วไหลน่ะค่ะ..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Lead the way. We'll be right behind you.",
+      "text": "นำทางไปได้เลยครับพี่ พวกเราจะคอยเดินตามหลังไปติดๆ เลยครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even though they're gone, the mementos of our loved ones give us the means to reconnect with them in spirit. I'm sure the people who receive these items will treasure them greatly.",
+      "text": "ถึงแม้พวกเขาจะจากเราไปแล้ว ทว่าสิ่งของดูต่างหน้าของบุคคลอันเป็นที่รักจะช่วยให้เราเชื่อมโยงถึงพวกเขาในจิตใจได้เสมอค่ะ ฉันมั่นใจว่าผู้ที่ได้รับสิ่งของเหล่านี้จะรักษามันไว้อย่างดีที่สุดแน่นอนค่ะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I heard before about ushers clearing out the homes of the departed. No wonder he started thinking about their belongings.",
+      "text": "ผมเคยได้ยินเรื่องที่ผู้นำทางวิญญาณคอยไปเคลียร์ของใช้ในบ้านของผู้จากไปมาก่อนน่ะครับ มิน่าล่ะ เขาถึงเริ่มหันมาใส่ใจเรื่องข้าวของพวกนี้ขึ้นมา"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Has something come up? Alright, we'll wait for you back where we started.",
+      "text": "มีธุระด่วนอะไรเกิดขึ้นหรือเปล่าครับ? ไม่ต้องห่วงนะครับ พวกเราจะรอคุณอยู่ที่จุดสตาร์ทตรงนี้ครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If you have urgent matters, then please see to them. I'll take in the view in the meantime.",
+      "text": "หากคุณมีกิจธุระเร่งด่วนล่ะก็ เชิญไปจัดการก่อนได้เลยค่ะ ระหว่างนี้ฉันจะขอยืนชมวิวรอบๆ รอนะคะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There you are! Come on, let's deliver the keepsakes.",
+      "text": "มาแล้วเหรอครับ! มาครับ พวกเราไปส่งของดูต่างหน้ากันต่อเถอะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Taken care of business, have you? Then let us be about our business.",
+      "text": "จัดการธุระเสร็จเรียบร้อยแล้วสินะคะ? ถ้าอย่างนั้นพวกเรามาทำงานของเราต่อเถอะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The way the buildings are all in a row reminds me of the old castle town. Lively as it is here, I can see why Oblivion can blend in.",
+      "text": "การสร้างตึกรามบ้านช่องเรียงรายเป็นแถวแนวแบบนี้ ชวนให้คิดถึงย่านการค้าในเมืองหลวงโบราณจังเลยค่ะ คึกคักสมชื่อจริงๆ ถึงได้เข้าใจเลยว่าทำไมคนของเดอะแบ็ครูมถึงกลมกลืนไปกับฝูงชนได้ง่ายดายขนาดนี้"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The people around True Vue seemed scary at first, but most of them are really kind.",
+      "text": "ตอนแรกคนรอบๆ ทรูวิวดูน่ากลัวนิดหน่อยนะครับ แต่พอได้คุยจริงๆ ส่วนใหญ่พวกเขาใจดีมากเลยล่ะครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "When I see someone passed out on the street now, I worry if they'll be alright...",
+      "text": "เดี๋ยวนี้เวลาเห็นใครนอนสลบอยู่ข้างถนน ผมอดยังรู้สึกเป็นห่วงไม่ได้เลยครับว่าพวกเขาจะเป็นอะไรหรือเปล่า..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So you can purchase beverages from these machines? That's wonderful. I've always believed that technology should be developed for the benefit of the people.",
+      "text": "จริงสิคะ ตู้พวกนี้สามารถกดซื้อเครื่องดื่มได้ด้วยเหรอคะ? วิเศษจริง ฉันเชื่อมั่นมาโดยตลอดเลยล่ะค่ะว่าเทคโนโลยีควรจะถูกพัฒนาขึ้นมาเพื่อสร้างความสุขให้แก่ผู้คน"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Genolt's favorite energy tonic is a special formula, not like the ones they sell here. I wanted to try one, but Shale wouldn't let me.",
+      "text": "เครื่องดื่มบำรุงกำลังที่คุณเกโนลต์ชอบดื่มเป็นสูตรพิเศษ ไม่เหมือนกับที่มีขายที่ตู้พวกนี้หรอกครับ ผมเคยอยากจะลองจิบดูสักครั้ง แต่พี่เชลไม่ยอมท่าเดียวเลยครับ"
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "Hm? Is there something you need?",
+      "text": "หืม? มีธุระอะไรกับฉันงั้นเหรอ?"
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "Ah, so Malachite sent you! He was very considerate. When he offered to bring me the keepsake, he stressed that I didn't have to accept it if I felt uncomfortable.",
+      "text": "อ้อ มาลาไคต์ส่งพวกเธอมางั้นเรอะ! หมอนั่นรอบคอบใจดีจริงๆ ตอนที่มาบอกว่าจะเอาของต่างหน้ามาส่งให้ เขยังย้ำอยู่เลยว่าถ้าทำให้ฉันอึดอัดใจก็ปฏิเสธที่จะรับไว้ได้เลยน่ะ"
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "I see why some would say no, but I couldn't do that. Not when it's something that belonged to my parents...who I understand now I will never see again.",
+      "text": "ฉันเข้าใจความรู้สึกของคนที่ปฏิเสธนะ แต่สำหรับฉันคงทำใจปฏิเสธไม่ลงหรอก โดยเฉพาะของที่เป็นสมบัติต่างหน้าของคุณพ่อคุณแม่... ซึ่งตอนนี้ฉันรู้ซึ้งแก่ใจแล้วว่าคงไม่มีวันได้พบกับพวกท่านอีกแล้วตลอดกาล"
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "Having spare souls won't save us from the inevitable. That's always been the case. But now, I find myself wondering about this and that. Like how much longer can I afford to muck around with my brothers...",
+      "text": "การตุนวิญญาณสำรองเอาไว้ก็ไม่ได้ช่วยให้เรารอดพ้นจากสัจธรรมสุดท้ายของชีวิตไปได้หรอก มันเป็นแบบนั้นมาโดยตลอดนั่นแหละ ทว่าในตอนนี้ ฉันกลับอดไม่ได้ที่จะคิดทบทวนเรื่องต่างๆ ในหัว เช่น ฉันจะยังมัวเล่นสนุกเพลิดเพลินกับพวกพี่น้องไปได้นานแค่ไหนกันนะ..."
+    },
+    {
+      "character": "Energetic Citizen",
+      "text_en": "...But I won't bore you with my ramblings. Thanks for bringing me the keepsake, and give my regards to Malachite!",
+      "text": "...แต่เอาเถอะ ฉันไม่รบกวนเวลาให้เธอมาฟังคำพล่ามพวกนี้หรอกนะ ขอบใจมากที่อุตส่าห์เอาของดูต่างหน้ามาส่งให้ ฝากทักทายมาลาไคต์ด้วยล่ะ!"
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "What is it? If you're trying to sell me something, I'm not interested.",
+      "text": "มีอะไรเรอะ? ถ้าจะมาเสนอขายของล่ะก็ ฉันไม่สนใจหรอกนะ"
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "Ohhh, you brought the keepsake. Thank you. I've been looking forward to this, hoping that it might help me remember...but no such luck, it seems.",
+      "text": "โอ้... เอาของดูต่างหน้ามาส่งงั้นเหรอ ขอบใจมากนะ ฉันตั้งตารอสิ่งนี้อยู่ตลอดเลยล่ะ หวังใจไว้ลึกๆ ว่ามันจะช่วยปลุกความทรงจำในอดีตขึ้นมาได้บ้าง... แต่ดูเหมือนดวงจะไม่มีโชคแบบนั้นเลยแฮะ"
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "The owner is dead, and they'll never become one of these “Endless” Queen Sphene tells us about. It's a sad thought...",
+      "text": "เจ้าของของชิ้นนี้จากโลกนี้ไปแล้ว และพวกท่านคงไม่มีวันได้กลายไปเป็นหนึ่งใน 'ผู้ไร้สิ้นสุด' อย่างที่ราชินีสฟีนเคยป่าวประกาศไว้แน่ๆ ชวนให้รู้สึกโศกเศร้าเหลือเกิน..."
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "Even so, I'm not sure I want to become Endless myself. If they're made by putting your memories into a new body made of aether, doesn't that mean you yourself still have to die first?",
+      "text": "ถึงจะเป็นอย่างนั้น ฉันเองก็ยังไม่แน่ใจนักหรอกว่าอยากจะแปรเปลี่ยนเป็นผู้ไร้สิ้นสุดกับเขาด้วยหรือเปล่า ถ้าหากการเป็นผู้ไร้สิ้นสุดคือการเอาความทรงจำของเราไปใส่ในร่างใหม่ที่สร้างขึ้นจากเอเธอร์ นั่นก็หมายความว่าตัวเราในตอนนี้ต้องตายจากไปก่อนเป็นคนแรกไม่ใช่เรอะ?"
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "The thought of not having to worry about souls was appealing, so I was happy to receive a neo regulator, but I've only had doubts since then...",
+      "text": "การที่ได้รับการบอกกล่าวว่าไม่ต้องมานั่งกังวลเรื่องดวงวิญญาณอีกมันฟังดูเย้ายวนใจมาก ตอนนั้นฉันเลยยอมรับนีโอเรกูเลเตอร์มาอย่างยินดี ทว่าตั้งแต่วันนั้นเป็นต้นมา ในหัวของฉันกลับมีแต่ความลังเลแคลงใจไม่ยอมหยุดเลย..."
+    },
+    {
+      "character": "Brooding Citizen",
+      "text_en": "If Queen Sphene herself recommends it, I want to believe that all will be well, but still... <sigh> Sorry, I need to clear my head.",
+      "text": "ในเมื่อองค์ราชินีสฟีนเป็นผู้เอ่ยแนะนำด้วยตัวเอง ฉันก็อยากจะเชื่อมั่นว่าทุกอย่างจะผ่านไปด้วยดีอยู่หรอก แต่ว่า... <เฮ้อ> ขอตัวก่อนนะ ฉันขอไปเดินพักสมองหน่อย"
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "Oh, hello. Do I know you?",
+      "text": "อ้าว สวัสดีค่ะ พวกเรารู้จักกันมาก่อนหรือเปล่าคะ?"
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "Ah, so this is the keepsake... Truth be told, I've been wavering as to whether or not I should accept it. I mean, it belonged to someone that died...",
+      "text": "เอ๊ะ นี่คือของดูต่างหน้าของเขาเหรอคะ... พูดตามตรงนะคะ ฉันยังรู้สึกลังเลใจอยู่เลยว่าจะยอมรับมันไว้ดีไหม เพราะยังไงมันก็เคยเป็นของของคนที่ตายจากไปแล้ว..."
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "It's got me thinking about what we did to Tuliyollal. I didn't even know we'd killed so many of their people, not until the funeral... What if they decide to retaliate?",
+      "text": "ของชิ้นนี้มันทำให้ฉันย้อนกลับมานึกถึงสิ่งที่เราเคยก่อไว้กับทูลิโยลลัลน่ะค่ะ ฉันไม่เคยรู้เลยด้วยซ้ำว่าพวกเราได้พรากชีวิตผู้คนของพวกเขาไปมากมายขนาดนั้น จนกระทั่งได้มารับรู้ในพิธีศพ... แล้วถ้าหากพวกเขาคิดจะตอบโตแก้แค้นพวกเราล่ะคะ?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Lamaty'i─Wuk Lamat would never do that. She and everyone in Tuliyollal know that my father was to blame for the attack, not the Alexandrian people.",
+      "text": "คุณวุค ลามัต ไม่มีวันทำเรื่องแบบนั้นหรอกครับ ทั้งเธอและทุกคนในทูลิโยลลัลต่างรู้ดีว่าความผิดทั้งหมดในการโจมตีครั้งนั้นเป็นเพราะพ่อของผม ไม่ใช่ความผิดของประชาชนชาวอเล็กซานเดรียเลยครับ"
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "Oh dear, I'm sorry... I didn't mean to make you speak ill of your father.",
+      "text": "ตายจริง ฉันขอโทษด้วยนะคะ... ฉันไม่ได้ตั้งใจจะทำให้คุณต้องเอ่ยปากพูดถึงคุณพ่อในแง่ร้ายเลยค่ะ"
+    },
+    {
+      "character": "Disconcerted Citizen",
+      "text_en": "It's just...I can't stop worrying about death, and hearing that they're running out of neo regulators makes it worse. I don't know what to do anymore...",
+      "text": "มันก็แค่... ฉันอดเป็นกังวลเรื่องความตายไม่ได้เลยค่ะ ยิ่งได้ยินแว่วมาว่านีโอเรกูเลเตอร์กำลังจะหมดจากคลังด้วยแล้ว มันก็ยิ่งรู้สึกเครียดและหวาดระแวงไปใหญ่ ฉันไม่รู้จะทำตัวยังไงต่อไปแล้วล่ะค่ะ..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "That's everyone on True Vue. Let's go to the Neon Stein.",
+      "text": "ส่งมอบให้ทุกคนบนทรูวิวเรียบร้อยแล้วครับ ด่านต่อไปพวกเราไปที่ร้านนีออนสไตน์กันเถอะครับ"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Hm? Are you talking to me?",
+      "text": "หืม? นายพูดกับฉันงั้นเรอะ?"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Oh, right, this. I can't say it stirs any memories...but it does feel familiar somehow.",
+      "text": "อ้อ เจ้าของชิ้นนี้เองเหรอ จะบอกว่ามันช่วยฟื้นความทรงจำก็คงไม่ใช่... แต่มันก็รู้สึกคุ้นเคยอย่างประหลาดแฮะ"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "You know, you look familiar yourself. Where do I know you from...?",
+      "text": "ว่าแต่ หน้าของนายนี่ก็คุ้นๆ เหมือนกันแฮะ ฉันเคยเจอนายที่ไหนมาก่อนหรือเปล่าหว่า...?"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Ah, of course! You're the unenhanced challenger─no, champion !",
+      "text": "อ๊ะ นึกออกแล้ว! นายคือผู้ท้าชิงที่ไม่ได้พึ่งพาพลังวิญญาณ... ไม่ใช่สิ แชมเปี้ยนต่างหากล่ะ!"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "I can't stress how incredible it is, what you've achieved without using feral souls. It's a genuine honor to meet you─though not for the first time, I realize...",
+      "text": "ฉันอธิบายไม่ถูกเลยว่าสิ่งที่นายทำสำเร็จโดยไม่ยอมพึ่งพาพลังวิญญาณอสูรมันยอดเยี่ยมขนาดไหน นับเป็นเกียรติของฉันจริงๆ ที่ได้พบตัวจริงเสียงจริงของนาย... ถึงฉันจะพอรู้ตัวว่านี่ไม่ใช่ครั้งแรกที่เราเจอกันก็เถอะ..."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Ahhh, I remember now.",
+      "text": "อ๊า... นึกออกแล้วจริงๆ ด้วย"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "It was at the infusion station in the government sector...and it wasn't my finest moment, as you might recall.",
+      "text": "ตอนนั้นเจอกันที่สถานีประสานวิญญาณในเขตการปกครอง... และมันไม่ใช่ภาพที่น่าดูชมเท่าไหร่เลยล่ะ ถ้านายยังพอจำวีรกรรมของฉันในตอนนั้นได้นะ"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "That's right... I'm sorry you had to see me like that.",
+      "text": "ใช่แล้วล่ะ... ขอโทษด้วยนะที่นายต้องมาเห็นสภาพอนาถของฉันในตอนนั้นน่ะ"
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "I-I apologized, didn't I? I was so desperate then, I wasn't thinking straight...",
+      "text": "ตอนนั้นฉันเอ่ยขอโทษไปแล้วใช่ไหมนะ? คือตอนนั้นฉันมืดแปดด้านและร้อนใจจนไม่มีสติจะคิดทบทวนอะไรเลยน่ะ..."
+    },
+    {
+      "character": "Lively Citizen",
+      "text_en": "Ah, well... Never mind. It's fine if you don't remember me being desperate and rude.",
+      "text": "อ่า... ช่างมันเถอะ ถ้าหากนายจำไม่ได้ว่าฉันเคยร้อนรนทำตัวไร้มารยาทใส่ ก็ถือเป็นเรื่องดีของฉันแล้วล่ะ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Anyway, seeing as we're meeting properly now, the name's Lithander.",
+      "text": "ยังไงก็เถอะ ในเมื่อมีโอกาสได้แนะนำตัวกันแบบเป็นทางการแล้ว ฉันชื่อลิแธนเดอร์นะ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "I used to fight in the Arcadion, but not anymore. I took Queen Sphene's words to heart and found a new job, one where I can put my knowledge of physical conditioning to use.",
+      "text": "เมื่อก่อนฉันเคยสู้ในอาร์เคเดียนน่ะ แต่ตอนนี้เลิกแล้วล่ะ ฉันเก็บเอาคำพูดของราชินีสฟีนมาคิดทบทวนในใจ แล้วก็ออกไปหางานใหม่ทำ งานที่ฉันสามารถเอาความรู้เรื่องการฝึกฝนฟื้นฟูร่างกายมาใช้ประโยชน์ได้น่ะ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "As you know, lots of people were badly hurt when the mechanical soldiers malfunctioned, and I've been assisting with their rehabilitation. It's not something I ever imagined myself doing, but here we are.",
+      "text": "อย่างที่นายรู้ดี มีคนบาดเจ็บล้มตายเยอะแยะตอนที่ทหารจักรกลเกิดขัดข้องขึ้นมา ฉันเลยคอยทำหน้าที่ช่วยฟื้นฟูสภาพร่างกายของพวกเขาให้กลับมาเดินเหินได้อีกครั้ง มันเป็นเรื่องที่ฉันไม่เคยคิดฝันมาก่อนเลยว่าจะทำสำเร็จในชีวิต แต่สุดท้ายเราก็มาอยู่ตรงนี้จนได้"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Not many people can help others like you can. I think it's great what you're doing.",
+      "text": "มีคนไม่มากหรอกครับที่จะมีจิตใจงดงามและช่วยเหลือผู้อื่นได้แบบพี่ลิแธนเดอร์ สิ่งที่พี่กำลังทำอยู่ตอนนี้มันสุดยอดมากเลยครับ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Heh, thanks. It's encouraging to hear that.",
+      "text": "หึๆ ขอบใจนะ ได้ยินแบบนี้แล้วก็มีแรงขึ้นมาเยอะเลยล่ะ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "There's this fellow who has to learn how to walk all over again. Becoming Endless would solve his problems, but he's determined to overcome them the hard way, with the body he's got.",
+      "text": "มีผู้ป่วยคนหนึ่งที่จำเป็นต้องฝึกก้าวเดินใหม่อีกรอบตั้งแต่ศูนย์เลย การเลือกที่จะแปรเปลี่ยนเป็นผู้ไร้สิ้นสุดอาจจะแก้ปัญหาของเขาได้ง่ายดายก็จริง ทว่าเจ้าตัวกลับแน่วแน่ว่าจะต้องฟันฝ่าขีดจำกัดเหล่านั้นไปให้ได้ด้วยตัวคนเดียว โดยใช้ร่างเนื้อชิ้นเดิมที่ตัวเองมีอยู่นี่แหละ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Seeing that gave me a newfound appreciation for my own body. It's a gift from my parents─a sturdy thing that's survived the arena─and I need to take better care of it.",
+      "text": "พอเห็นความมุ่งมั่นของหมอนั่นแล้ว มันทำให้ฉันกลับมารู้ซึ้งและรักร่างกายของตัวเองขึ้นมาเยอะเลยล่ะ ร่างนี้คือของขวัญล้ำค่าที่พ่อแม่มอบให้มา ร่างกายอันแกร่งกล้าที่รอดชีวิตมาจากลานประลอง... ฉันต้องดูแลรักษามันให้ดีกว่านี้ซะแล้ว"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm the only blue-scaled Hoobigo besides my father. Lamaty'i once told me that.",
+      "text": "นอกจากท่านพ่อแล้ว ผมเป็นฮูบิโกเกล็ดสีน้ำเงินเพียงคนเดียวเลยล่ะครับ พี่สาวเคยวาดภาพเปรียบเทียบให้ฟังแบบนั้นครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I don't know how my father felt about it. And there are times when it hurts to think about the things we share.",
+      "text": "ผมไม่รู้เลยว่าท่านพ่อจะรู้สึกยังไงกับเรื่องนี้ และบางครั้ง มันก็อดยังเจ็บแปลบในใจไม่ได้ยามที่ต้องนึกย้อนถึงสิ่งต่างๆ ที่พวกเรามีร่วมกัน"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Still, I don't want to lose that. Even if I could look the same as an Endless, I would never throw away this body.",
+      "text": "ทว่า ถึงจะเป็นแบบนั้น ผมก็ไม่อยากจะสูญเสียอัตลักษณ์นั้นไปหรอกครับ ต่อให้ร่างของผู้ไร้สิ้นสุดจะทำให้ผมดูดีเหมือนเดิมทุกประการ แต่ผมก็ไม่มีวันยอมโยนร่างกายของตัวเองทิ้งไปเด็ดขาดครับ"
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Most people would find it hard to do so, I imagine. Just the thought makes me feel uncomfortable about the whole becoming Endless affair...",
+      "text": "คนส่วนใหญ่ก็คงทำใจละทิ้งร่างกายของตัวเองได้ยากเหมือนกันนั่นแหละ แค่คิดขึ้นมาทีไร มันก็ชวนให้ฉันรู้สึกอึดอัดใจกับกระบวนการเปลี่ยนร่างเป็นผู้ไร้สิ้นสุดทั้งหมดนั่นขึ้นมาทุกทีเลย..."
+    },
+    {
+      "character": "Lithander",
+      "text_en": "Ah, but I need to get back to work. Was nice talking to you─and thanks for the delivery.",
+      "text": "อ๊ะ ฉันต้องรีบกลับไปทำงานต่อแล้วล่ะ ดีใจที่ได้พูดคุยแลกเปลี่ยนกันนะ... แล้วก็ขอบใจมากที่อุตส่าห์เอาของมาส่งให้"
+    }
+  ]
+}

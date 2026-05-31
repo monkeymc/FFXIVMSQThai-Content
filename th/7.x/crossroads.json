@@ -1,0 +1,913 @@
+{
+  "id": "crossroads",
+  "wiki_path": "/wiki/Crossroads_(Quest)",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/bb/Crossroads_Dawntrail.png",
+  "patch": "7.1",
+  "title_en": "Crossroads",
+  "title": "ทางแยกสู่โชคชะตา",
+  "level": "100",
+  "location": "Shaaloani(X:18.0,Y:13.9)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Erenville",
+      "text_en": "It won't be as I once envisioned...but perhaps someday we can take that train journey to Yyasulani together.",
+      "text": "มันอาจจะไม่เหมือนกับที่ผมเคยจินตนาการไว้... แต่บางทีวันหนึ่ง พวกเราอาจจะได้นั่งรถไฟไปยาซูรานีด้วยกันนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, it's possible that Shale's made some headway by now. And regardless, we should spread word that the railroad's been restored to service.",
+      "text": "บางทีตอนนี้เชลอาจจะก้าวหน้าไปบ้างแล้วล่ะ อีกอย่าง เราก็ควรจะกระจายข่าวเรื่องที่รถไฟกลับมาแล่นได้แล้วเหมือนกันนะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Shale? What do you have her working on?",
+      "text": "เชลเหรอ? เธอให้เชลช่วยทำอะไรอยู่งั้นเหรอ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Gulool Ja's mother...",
+      "text": "เรื่องแม่ของกูลูล จาสินะ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'd feel the same in his shoes. Have felt the same. Some questions are painful to leave unanswered...",
+      "text": "ถ้าผมตกอยู่ในสถานการณ์เดียวกับเขา ผมก็คงจะรู้สึกแบบเดียวกัน... ผมเคยผ่านมาแล้วล่ะ คำถามบางอย่างพอมันไม่ได้รับคำตอบ มันก็เจ็บปวดทรมานใจเหลือเกิน..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's no cause to look at me like that. The Cahciua we met may have only been a simulacrum, but her memory was real.",
+      "text": "ไม่ต้องมองผมด้วยสายตาแบบนั้นหรอกน่า คาชิวาที่เราได้เจออาจจะเป็นแค่ภาพจำลองจำแลง แต่ความทรงจำของเธอนั้นเป็นของจริง"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I needn't search for what she left behind, because she left it with me. And I will carry it always...",
+      "text": "ผมไม่จำเป็นต้องตามหาสิ่งที่เธอทิ้งไว้เบื้องหลังหรอก เพราะเธอฝากมันไว้กับผมแล้ว และผมจะเก็บรักษามันติดตัวไว้ตลอดไป..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Speaking of things you're carrying...",
+      "text": "พูดถึงของที่นายเก็บรักษาไว้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that a teeny-tiny Cahciua?",
+      "text": "นั่นใช่คาชิวาตัวจิ๋วหรือเปล่าน่ะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "What!? No!",
+      "text": "อะไรนะ!? เปล่าซะหน่อย!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It is merely a token from Alexandria. Our friends in Oblivion would not take no for an answer, and I thought it as good a souvenir as any...",
+      "text": "มันก็แค่ของที่ระลึกจากอเล็กซานเดรียเท่านั้นแหละ เพื่อนๆ ในเดอะแบ็ครูมตื๊อไม่ยอมให้ผมปฏิเสธเลย และผมก็คิดว่ามันเป็นของฝากที่ดูไม่เลวเหมือนกัน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whatever you say... For what it's worth, I think it's a nice way to bring her with you on your travels.",
+      "text": "จะว่ายังไงก็ช่างเถอะ... แต่ฉันคิดว่าการพาเธอร่วมเดินทางไปด้วยแบบนี้ก็เป็นเรื่องที่ดีนะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Yes. Well. You're off to the dome now, aren't you?",
+      "text": "...นั่นสินะ เอาเถอะ ตอนนี้เธอต้องเดินทางไปที่โดมแล้วใช่ไหมล่ะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I thought I might join you for a time. See if there is aught I can do for the people there. Much changed though it is, I still consider it my home.",
+      "text": "ผมคิดว่าจะขอร่วมทางไปด้วยสักพักน่ะ จะไปดูว่ามีอะไรพอจะช่วยคนที่นั่นได้บ้างไหม ถึงแม้ว่ามันจะเปลี่ยนไปมากแล้ว แต่สำหรับผม ที่นั่นก็ยังคงเป็นบ้านอยู่ดี"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course! We can give you the full story on the way.",
+      "text": "แน่นอนอยู่แล้ว! เดี๋ยวระหว่างทางฉันจะเล่าเรื่องทั้งหมดให้นายฟังเอง"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You must be exhausted. Shall I nip out for an energy tonic?",
+      "text": "เหนื่อยแย่เลยนะคะ ให้ฉันออกไปหายาบำรุงกำลังมาให้สักหน่อยไหมคะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So Zoraal Ja was conducting secret research in Yuweyawata... I have some memories of the place from my childhood.",
+      "text": "แสดงว่าโซราล จา แอบทำวิจัยลับอยู่ในยูเวเยวาตาสินะครับ... ผมพอมีความทรงจำเกี่ยวกับที่นั่นอยู่บ้างตอนเด็กๆ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Glad you're back. We wouldn't want to keep Gulool Ja here waiting any longer than necessary.",
+      "text": "ยินดีต้อนรับกลับมานะ พวกเราไม่อยากให้กูลูล จาต้องนั่งรออยู่ที่นี่นานเกินความจำเป็นน่ะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Erenville is wearing his Cahciua! That makes me happy.",
+      "text": "พี่เอเรนวิลล์พกคาชิวาตัวน้อยไปด้วยล่ะครับ! เห็นแบบนี้แล้วผมดีใจจังเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like we arrived at a good time.",
+      "text": "ดูเหมือนว่าพวกเราจะมาได้ถูกจังหวะพอดีนะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Seeing Erenville never fails to remind me of Cahciua...and I wouldn't have it any other way.",
+      "text": "พอได้เห็นเอเรนวิลล์ทีไร มันก็อดทำให้ฉันคิดถึงคาชิวาไม่ได้ทุกทีเลย... แต่ก็นะ เป็นแบบนี้นั่นแหละดีแล้วล่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The dead should be remembered, this I firmly believe. Gulool Ja's mother deserves that too.",
+      "text": "ผู้ที่ล่วงลับไปแล้วสมควรได้รับการจดจำ เรื่องนี้ฉันเชื่อแบบนั้นสุดใจเลยล่ะ และแม่ของกูลูล จาเองก็สมควรได้รับสิ่งนั้นเช่นเดียวกัน"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "...A simple yet elegant solution. And thus is the railroad back in operation.",
+      "text": "...เป็นทางแก้ปัญหาที่เรียบง่ายแต่เปี่ยมประสิทธิภาพทีเดียวนะครับ เท่านี้รถไฟก็กลับมาใช้งานได้อีกครั้งแล้ว"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Meanwhile, Shale has nearly finished processing the data. She will be able to share her findings with us imminently.",
+      "text": "ในระหว่างนี้ เชลก็เกือบจะประมวลผลข้อมูลเสร็จแล้วล่ะครับ อีกประเดี๋ยวเธอคงจะแบ่งปันข้อมูลที่ค้นพบให้พวกเราได้ทราบกัน"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...I'm interrupting something, I gather.",
+      "text": "...ดูเหมือนฉันจะเข้ามาขัดจังหวะอะไรเข้าสินะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Why, Y'shtola! What brings you here?",
+      "text": "เอ๊ะ วาย'ชโตลา! อะไรพาเธอมาที่นี่งั้นเหรอคะ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I've seen enough of the gate in the Skydeep Cenote for now, so I'm shifting my investigation to Living Memory.",
+      "text": "สำหรับเรื่องประตูตรงสกายดีปซีโนเต้ ตอนนี้ฉันพอจะจับจุดได้ระดับหนึ่งแล้วล่ะค่ะ เลยคิดว่าจะย้ายเป้าหมายการสำรวจไปที่ลิฟวิ่งเมโมรีแทน"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While there, I thought I would do well to have the company of an expert on electrope.",
+      "text": "ในระหว่างที่อยู่ที่นั่น ฉันคิดว่าถ้ามีผู้เชี่ยวชาญด้านอิเล็กโทรปคอยนำทางไปด้วยก็น่าจะดีน่ะค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'd like to take a closer look at the place myself. I can join you once we've finished here.",
+      "text": "ฉันเองก็อยากจะไปตรวจสอบที่นั่นอย่างใกล้ชิดดูเหมือนกันค่ะ เดี๋ยวพอพวกเราสะสางงานตรงนี้เสร็จแล้ว ฉันจะขอร่วมเดินทางไปด้วยนะคะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Lest you fear I've forgotten, once I've made headway with Living Memory, the key in your keeping shall be the next subject of my scrutiny.",
+      "text": "เพื่อไม่ให้คุณกังวลว่าฉันจะลืมเรื่องนั้นไป ทันทีที่การสำรวจในลิฟวิ่งเมโมรีเริ่มมีความคืบหน้า เป้าหมายการวิจัยถัดไปของฉันก็คือกุญแจที่อยู่ในความดูแลของคุณนั่นแหละค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "There was a mountain of data to sift through─much of it tantalizing, I admit.",
+      "text": "บอกตามตรงว่ามีข้อมูลกองพะเนินเทินทึกให้ต้องกรองเลยค่ะ แถมหลายส่วนก็น่าสนใจชวนให้ค้นหามากเลยทีเดียว"
+    },
+    {
+      "character": "Shale",
+      "text_en": "But it will take time to fully decrypt everything that piques my interest, so to answer our immediate question, I've been concentrating my efforts on the audio saved by Teeshal Ja herself.",
+      "text": "แต่มันต้องใช้เวลานานกว่าจะถอดรหัสของที่ฉันสนใจได้ทั้งหมด ดังนั้นเพื่อตอบข้อสงสัยเฉพาะหน้าในตอนนี้ ฉันเลยมุ่งความสนใจไปที่ไฟล์เสียงที่คุณทีชาล จา บันทึกเอาไว้ด้วยตัวเองเป็นหลักค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "While I've not listened to it yet, I have a selection ready for playback. Would you like to hear it now?",
+      "text": "ถึงฉันจะยังไม่ได้เปิดฟังเป็นการส่วนตัว แต่ก็จัดหมวดหมู่คัดสรรไฟล์ที่พร้อมเล่นไว้แล้วค่ะ อยากจะลองฟังดูตอนนี้เลยไหมคะ?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Yes, please!",
+      "text": "ฟังครับ!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "All right. Several audio files will now play in sequence.",
+      "text": "ตกลงค่ะ เดี๋ยวฉันจะเริ่มเล่นไฟล์เสียงหลายๆ ไฟล์ต่อเนื่องกันไปเลยนะ"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "...I, er... Ahem. My name is Teeshal Ja, and I've decided to record this to...to help me put my thoughts in order, I suppose.",
+      "text": "...คือว่า... อะแฮ่ม ดิฉันชื่อทีชาล จาค่ะ และดิฉันตัดสินใจบันทึกเสียงนี้ไว้เพื่อ... ช่วยเรียบเรียงความคิดของตัวเองให้เป็นระเบียบล่ะมั้งคะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Mother...?",
+      "text": "คุณแม่...?"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Officially, I am─was?─a chirurgeon with the Landsguard. I was part of a contingent dispatched to Yyasulani to hunt a tural vidraal that was wreaking havoc.",
+      "text": "หากพูดตามหน้าที่การงาน ดิฉันเคยเป็น... หรือเคยทำหน้าที่น่ะเหรอคะ? แพทย์สนามของกองทัพแลนด์สการ์ดค่ะ ตอนนั้นดิฉันเป็นส่วนหนึ่งของหน่วยปราบปรามที่เดินทางมายังยาซูรานี เพื่อตามล่าทูรัลวิดราลที่กำลังอาละวาดสร้างความเดือดร้อนอย่างหนัก"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "After our mission was complete, I elected to remain. It was the perfect opportunity to document the geographic distribution of medicinal herbs in this region.",
+      "text": "หลังจากเสร็จสิ้นภารกิจ ดิฉันเลือกที่จะอยู่ที่นี่ต่อ เพราะคิดว่าเป็นโอกาสทองที่จะได้ศึกษาและทำบันทึกเกี่ยวกับพิกัดการกระจายตัวของสมุนไพรในภูมิภาคนี้ค่ะ"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "...Or so I said when requesting special dispensation. In truth...I could not bear to return to Tuliyollal.",
+      "text": "...หรือนั่นคือข้ออ้างที่ดิฉันเขียนรายงานเพื่อขออนุมัติเป็นกรณีพิเศษน่ะค่ะ ความจริงก็คือ... ดิฉันทำใจกลับทูลิโยลลัลไม่ได้ต่างหาก"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I had hoped to aid Commander Zoraal Ja in the rite of succession, but he did not so much as look my way. I was never in contention, of course─one of the nameless many in his army...",
+      "text": "ดิฉันเคยคาดหวังอยากจะช่วยเหลือท่านผู้บัญชาการโซราล จา ในพิธีสืบทอดราชบัลลังก์ แต่เขาไม่เคยแม้แต่จะชายตามองดิฉันเลยด้วยซ้ำ แน่นอนสิคะ... คนที่ไม่ได้อยู่ในสายตาอย่างดิฉัน ก็เป็นเพียงทหารไร้ชื่อคนหนึ่งในกองทัพอันเกรียงไกรของเขาเท่านั้น..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "To go back and face that reality was too much for me, so I ran. And in my cowardice, I stumbled upon this path. A path that changed my life.",
+      "text": "การต้องยอมรับความจริงอันโหดร้ายข้อนั้นมันทรมานใจเกินไป ดิฉันก็เลยตัดสินใจหนีมา... และในความขลาดเขลาของตัวเอง ดิฉันกลับจับพลัดจับผลูมาเจอกับเส้นทางนี้ เส้นทางที่เปลี่ยนชีวิตดิฉันไปโดยสิ้นเชิง"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "When the dome appeared, I found myself trapped within...and reunited with my commander.",
+      "text": "พอมีโดมปรากฏขึ้นมา ฉันก็พบว่าตัวเองติดอยู่ในนี้... และนั่นก็ทำให้ได้กลับมาพบกับท่านผู้บัญชาการอีกครั้ง"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I... How am I to speak of Commander Zoraal Ja?",
+      "text": "ดิฉัน... ดิฉันควรจะเอ่ยถึงท่านผู้บัญชาการโซราล จา ยังไงดีนะ?"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I admired him. His incontestable strength. His unwavering focus. He was...a man of great passions.",
+      "text": "ดิฉันชื่นชมเลื่อมใสเขามาก ทั้งความแข็งแกร่งอันไร้ข้อกังขา และความมุ่งมั่นอันแน่วแน่ไม่มีสั่นคลอนของเขา... He was...a man of great passions."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I watched him, captivated by his intensity. From afar─I would not dare approach. And in watching, I came to know him.",
+      "text": "ดิฉันคอยเฝ้ามองเขา หลงใหลในความเอาจริงเอาจังของเขาอยู่ห่างๆ... ไม่กล้าแม้แต่จะเอื้อมมือเข้าไปใกล้เลยค่ะ และจากการเฝ้าดูนั้นเองที่ทำให้ดิฉันได้รู้จักตัวตนของเขา"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "His eyes, too, sought the distance─but not as mine did. He yearned not for another, but something else, beyond the horizon.",
+      "text": "สายตาของเขาเองก็มุ่งมองไปยังที่แสนไกล... แต่ไม่ได้มองหาใครเหมือนอย่างฉันหรอกค่ะ เขาไม่ได้โหยหาใครคนอื่น แต่ปรารถนาในสิ่งอื่นที่อยู่ห่างไกลออกไปเหนือน่านฟ้ากว้างใหญ่ต่างหาก"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "That gaze would never fall upon me, I knew. I knew...",
+      "text": "สายตาคู่นั้นไม่มีวันเหลียวมองมาที่ดิฉัน เรื่องนั้นรู้ดีอยู่แก่ใจ... รู้ดีเลยล่ะค่ะ..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "The experiment will soon proceed to its next phase. And when it does, as he promised...",
+      "text": "อีกไม่นานการทดลองจะดำเนินเข้าสู่เฟสถัดไป และเมื่อเวลานั้นมาถึง ตามคำสัญญาของเขา..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I will have my heart's desire.",
+      "text": "ดิฉันจะสมหวังดังใจปรารถนาเสียที"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Today... Today...",
+      "text": "วันนี้... วันนี้แล้วสินะ..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "It should have been today. A new beginning. What I have dreamed of for so long...",
+      "text": "มันควรจะเป็นวันนี้แท้ๆ... วันเริ่มต้นชีวิตใหม่ วันที่เฝ้าใฝ่ฝันถึงมาเนิ่นนาน..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "I hold a future in my arms. If he could see him─embrace him... Surely, surely, that would be enough...",
+      "text": "ดิฉันกำลังโอบอุ้มอนาคตเอาไว้ในอ้อมแขน... ถ้าหากเขาได้เห็นเด็กคนนี้... ได้โอบกอดลูกไว้... เพียงเท่านี้มันก็คงจะเพียงพอแล้ว... เพียงพอจริงๆ..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "So full of hope I was. A foolish hope...",
+      "text": "ช่างเปี่ยมล้นไปด้วยความหวังเหลือเกิน... ความหวังอันโง่เขลา..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Its scales...are blue...",
+      "text": "เกล็ดของมัน... สีฟ้า..."
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "He's your son.",
+      "text": "เด็กคนนี้คือลูกชายของคุณค่ะ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "My...",
+      "text": "ลูกของข้า..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No! I...I can't...",
+      "text": "ไม่! ข้า... ข้าทำไม่ได้..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I...I-I don't know how─how could I...? How!?",
+      "text": "ข้า... ข้าไม่รู้ว่าจะทำยังไง... ข้าจะเลี้ยงดูเด็กคนนี้ได้ยังไงกัน!? ยังไงกัน!?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "To raise a child─be a fa-father...",
+      "text": "ให้เลี้ยงดูเด็ก... ให้เป็นพ่... พ่อคน..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I don't... I-I can't!",
+      "text": "ข้าไม่รู้... ข้าทำไม่ได้หรอก!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "No... No! Get it away from me...",
+      "text": "ไม่... ไม่นะ! เอาเด็กคนนี้ออกไปห่างๆ จากข้า..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Get that thing away from me!",
+      "text": "เอาเด็กนี่ออกไปให้พ้นหน้าข้าเดี๋ยวนี้!"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Shhh... It's all right, little one. Papa was just surprised, that's all.",
+      "text": "ชู่... ไม่เป็นไรนะจ๊ะเด็กดี คุณพ่อเขาแค่ตกใจไปนิดหน่อยเท่านั้นเอง"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "He'll come around. We'll be a happy family.",
+      "text": "เดี๋ยวเขาก็ทำใจรับได้เองแหละจ้ะ พวกเราจะเป็นครอบครัวที่มีความสุขกันนะ"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "...Kanilokka's shouting for me. The research hasn't been going well...but I can't let him take it out on my baby.",
+      "text": "...คานิล็อกก้ากำลังตะโกนเรียกฉันอยู่ ผลการวิจัยเริ่มไม่สู้ดีนัก... แต่ฉันไม่มีวันยอมให้เขามาระบายอารมณ์ใส่ลูกน้อยของฉันเด็ดขาด"
+    },
+    {
+      "character": "Teeshal Ja",
+      "text_en": "Hush now, little one. I know... I know just where to hide you...",
+      "text": "เงียบก่อนนะเด็กดี แม่รู้แล้ว... แม่รู้แล้วล่ะว่าจะซ่อนลูกไว้ที่ไหนดี..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "...That's all of them.",
+      "text": "ไฟล์ทั้งหมดมีเท่านี้แหละค่ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "He was abandoned, the poor dear. We found him in the driftdowns a few years ago.",
+      "text": "เด็กคนนี้ถูกทอดทิ้ง น่าสงสารเหลือเกิน... พวกเราไปเจอเขาอยู่ในดริฟต์ดาวน์สเมื่อไม่กี่ปีก่อนน่ะจ้ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "We know some manner of accident happened at the facility after this was recorded. Perhaps your mother couldn't come back for you.",
+      "text": "พวกเราพอจะทราบว่ามีอุบัติเหตุบางอย่างเกิดขึ้นในสถานีวิจัยหลังจากที่บันทึกเสียงนี้ไว้ บางที... คุณแม่ของเธออาจจะไม่มีโอกาสกลับมารับตัวเธอก็ได้นะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Gulool Ja...",
+      "text": "นี่ กูลูล จา..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm fine, Lamaty'i.",
+      "text": "ผมไม่เป็นไรครับ พี่ลามาตี้"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Father and Mother, they were both so lonely...",
+      "text": "ทั้งคุณพ่อและคุณแม่ ต่างก็ต้องอยู่อย่างโดดเดี่ยวทั้งคู่เลยนะครับ..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "If we could've been together, maybe they wouldn't have been. But sometimes things don't work out, no matter how hard you try.",
+      "text": "ถ้าพวกเราได้อยู่ด้วยกัน บางทีพวกเขาอาจจะไม่ต้องเหงาขนาดนี้ก็ได้... แต่บางครั้งเรื่องราวมันก็ไม่ได้เป็นไปอย่างที่หวัง ไม่ว่าเราจะพยายามมากแค่ไหนก็ตามนะครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I...I can't tell if I'm happier now...",
+      "text": "ผม... ผมไม่รู้หรอกครับว่าตอนนี้จะมีความสุขกว่าไหม..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "...But it's better to know, I think. Thank you, everyone.",
+      "text": "แต่ผมคิดว่าการได้รับรู้นั้นมันดีกว่าครับ ขอบคุณพี่ๆ ทุกคนมากนะครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Why leave such a record, you ask? I cannot be certain, but I believe Teeshal Ja simply wanted someone to know how she felt. To understand.",
+      "text": "คุณถามว่าทำไมเธอถึงทิ้งบันทึกเสียงแบบนี้ไว้เหรอคะ? ฉันเองก็ไม่แน่ใจนักหรอกค่ะ แต่เชื่อว่าคุณทิชาล จา แค่อยากจะให้ใครสักคนได้รับรู้ความรู้สึกของเธอ... อยากให้มีคนเข้าใจน่ะค่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "No matter how brave a face Gulool Ja puts on, I expect it will take him time to come to terms with this.",
+      "text": "ไม่ว่าภายนอกกูลูล จาจะแสดงออกว่าเข้มแข็งแค่ไหน แต่ผมคิดว่าเขาคงต้องใช้เวลาพอสมควรกว่าที่จะทำใจยอมรับเรื่องนี้ได้"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "He is a strong one, though. You needn't worry too much.",
+      "text": "แต่ถึงอย่างนั้นเขาก็เป็นเด็กที่เข้มแข็งมากนะ คุณไม่ต้องเป็นห่วงจนเกินไปหรอก"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Teeshal Ja left written records as well. I'll compile them for Gulool Ja. Perhaps something in them will be of comfort.",
+      "text": "คุณทิชาล จายังหลงเหลือบันทึกที่เป็นลายลักษณ์อักษรทิ้งไว้ด้วยค่ะ เดี๋ยวฉันจะรวบรวมส่งต่อให้กูลูล จานะคะ เผื่อว่าจะมีบางอย่างในนั้นช่วยปลอบประโลมใจเขาได้บ้าง"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's okay. I wanted to know more about my parents, and now I do. And I don't regret it.",
+      "text": "ไม่เป็นไรครับ ผมอยากรู้เรื่องของพ่อแม่ให้มากขึ้น และตอนนี้ผมก็ได้รู้แล้ว... ผมไม่เสียใจเลยครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I have Lamaty'i, and Koana, and you, Forename . I'm not lonely now.",
+      "text": "เพราะผมมีพี่ลามาตี้ มีพี่โคอานา แล้วก็มีคุณ [Forename]... ตอนนี้ผมไม่เหงาแล้วครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...You may find it hard to believe, but until the rite of succession, Zoraal Ja was a good brother to me. Always. And I thought that Papa was the best father anyone could ask for.",
+      "text": "...นายอาจจะไม่อยากเชื่อ แต่จนกระทั่งถึงพิธีสืบทอดราชบัลลังก์ โซราล จาเป็นพี่ชายที่ดีของฉันเสมอมา... ตลอดเวลาเลยล่ะ และฉันก็คิดว่าท่านพ่อเป็นพ่อที่ดีที่สุดเท่าที่ใครจะมีได้แล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't want to think the time we spent together as a family was a lie. But by the same token, the bitterness my brother harbored was all too real...",
+      "text": "ฉันไม่อยากจะคิดเลยว่าช่วงเวลาที่เราได้อยู่ร่วมกันแบบครอบครัวจะเป็นเรื่องโกหก... แต่ในขณะเดียวกัน ความขมขื่นทรมานที่พี่ชายของฉันแบกรับไว้ มันก็เป็นเรื่องจริงอย่างที่สุด..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If the dome had not appeared, Teeshal Ja's tale would have been very different. Yet whether or not she would have been happier, I cannot say.",
+      "text": "หากโดมนี้ไม่ปรากฏขึ้นมา เรื่องราวของคุณทิชาล จา ก็คงจะต่างออกไปจากนี้มาก แต่เธอจะมีความสุขมากกว่านี้หรือเปล่า เรื่องนั้นผมก็ไม่อาจตอบได้เหมือนกันครับ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "What a mess...",
+      "text": "เรื่องราวช่างยุ่งเหยิงชวนปวดหัวชะมัด..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "\"It's better to know“... A profound response, for one so young.",
+      "text": "\"การได้รับรู้นั้นย่อมดีกว่า\"... เป็นคำพูดที่ลึกซึ้งเกินวัยมากเลยนะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Though I wish he didn't have to be, Gulool Ja is indeed wise beyond his years.",
+      "text": "ถึงจะแอบอยากให้เขาได้ใช้ชีวิตสมวัยเด็กมากกว่านี้ก็เถอะ แต่กูลูล จาเป็นเด็กที่ฉลาดและโตเกินวัยจริงๆ ค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yet one never outgrows the need for dependable companions. 'Tis fortunate that he has you.",
+      "text": "แต่ไม่ว่าจะโตแค่ไหน คนเราก็ยังต้องการเพื่อนพ้องที่พึ่งพาได้เสมอนั่นแหละค่ะ ถือเป็นความโชคดีของเด็กคนนั้นจริงๆ ที่มีพวกคุณอยู่เคียงข้าง"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thank you, Shale. Because of you, I got to hear my mother's whole story.",
+      "text": "ขอบคุณพี่เชลมากนะครับ เพราะพี่เลยทำให้ผมได้ยินเรื่องราวทั้งหมดของคุณแม่"
+    },
+    {
+      "character": "Shale",
+      "text_en": "You heard it because you were brave enough to listen, Gulool Ja. If you remember one thing, remember that.",
+      "text": "ที่เธอได้ยินเรื่องทั้งหมดนี้ ก็เพราะตัวเธอมีความกล้าหาญมากพอที่จะรับฟังยังไงล่ะกูลูล จา จำเรื่องนี้ขึ้นใจไว้ให้ดีนะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Now then─having shared what I can at present, I am ready to head to Living Memory when you are.",
+      "text": "เอาล่ะค่ะ ในเมื่อแบ่งปันข้อมูลที่มีทั้งหมดในตอนนี้เรียบร้อยแล้ว ฉันก็พร้อมที่จะออกเดินทางไปลิฟวิ่งเมโมรีได้ทุกเมื่อที่คุณพร้อมเลยค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am planning to be thorough, so we will need to stop for supplies on the way.",
+      "text": "ฉันตั้งใจจะสำรวจอย่างละเอียดถี่ถ้วน เพราะฉะนั้นเราคงต้องแวะเตรียมเสบียงและข้าวของระหว่างทางกันก่อนนะคะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That said, I promise we won't remain overlong. I know we all have much and more to attend to.",
+      "text": "แต่รับรองค่ะว่าจะไม่ใช้เวลานานเกินไป เพราะฉันรู้ดีว่าทุกคนยังมีภารกิจและเรื่องที่ต้องจัดการอีกเพียบเลย"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For now, farewell.",
+      "text": "ถ้าอย่างนั้น ฉันขอตัวก่อนนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "One wouldn't know it to look at them, but Shale and Y'shtola are birds of a feather. An incorrigibly restless feather...",
+      "text": "ดูผิวเผินอาจจะไม่รู้ แต่เชลกับวาย'ชโตลานี่ถอดแบบกันมาเปี๊ยบเลยล่ะค่ะ พวกชอบทำงานจนลืมพักผ่อนชนิดกู่ไม่กลับ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'll stick around for a while. Let me know if you need me.",
+      "text": "ผมจะอยู่แถวนี้อีกสักพักนะ มีอะไรอยากให้ช่วยก็บอกได้เลย"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Is Shale going to be alright out there? The whole time she was working on the data, I never saw her take a break...",
+      "text": "พี่เชลจะไปเป็นอะไรไหมครับเนี่ย? ตอนที่พี่เขาทำงานวิเคราะห์ข้อมูลอยู่ ผมไม่เห็นพี่เขาพักผ่อนเลยสักนิด..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With the railroad ready, I'd like to get some idea of how many returnees we can expect before heading back to Tuliyollal.",
+      "text": "ในเมื่อทางรถไฟพร้อมใช้งานแล้ว ฉันก็อยากจะเช็กดูสักหน่อยว่ามีคนที่อยากกลับทูลิโยลลัลมากน้อยแค่ไหน ก่อนที่เราจะเดินทางกลับกันน่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The twins have yet to return. I hope everything is all right.",
+      "text": "ฝาแฝดสองคนนั้นยังไม่กลับมาเลย หวังว่าจะไม่มีเรื่องอะไรเกิดขึ้นนะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "A word, before you leave.",
+      "text": "ขอฉันคุยด้วยสักคำก่อนที่พวกเธอจะไปหน่อยสิ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Our network's already spreading word of the railroad. We expected people would be clamoring to get on the first train back...",
+      "text": "ตอนนี้เครือข่ายของเรากระจายข่าวเรื่องรถไฟกลับมาแล่นได้แล้วล่ะ เดิมทีคิดว่าผู้คนคงจะแย่งชิงกันตีตั๋วกลับบ้านเกิดตั้งแต่ขบวนแรก..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Yet the reaction's been the polar opposite. Scant few seem inclined to depart Alexandria any time soon.",
+      "text": "แต่ผลตอบรับกลับตรงกันข้ามโดยสิ้นเชิงเลย แทบจะไม่มีใครสนใจอยากจะย้ายออกจากอเล็กซานเดรียในเวลานี้สักเท่าไหร่เลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? When we spoke before, you said many from Tuliyollal were eager to reunite with friends and family.",
+      "text": "เอ๊ะ? ตอนที่เราคุยกันก่อนหน้านี้ นายบอกเองไม่ใช่เหรอว่ามีคนจากทูลิโยลลัลมากมายที่อยากจะกลับไปพบปะเพื่อนฝูงและครอบครัวน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Maybe they're concerned about getting through Vanguard? If so, we could take turns accompanying them...",
+      "text": "หรือว่าพวกเขากังวลเรื่องการเดินทางผ่านแวนการ์ดกันนะ? ถ้าเป็นเพราะเรื่องนั้น พวกเราอาจจะสลับกันไปคอยคุ้มกันนำทางให้ก็ได้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In any case, we need to speak with the people ourselves. Let's start at leynode nine.",
+      "text": "แต่ไม่ว่ายังไง พวกเราก็ควรจะไปพูดคุยสอบถามจากปากผู้คนโดยตรงนะ เริ่มจากแถวเลย์โหนดเก้าก่อนเลยแล้วกัน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The people were so nervous about remaining in Alexandria... I cannot help but wonder what prompted this sudden change of heart.",
+      "text": "ทั้งที่เมื่อก่อนผู้คนดูหวาดวิตกกับการอาศัยอยู่ในอเล็กซานเดรียกันขนาดนั้น... ฉันอดสงสัยไม่ได้จริงๆ ค่ะว่าอะไรทำให้พวกเขาเปลี่ยนใจกันปุบปับขนาดนี้"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I've asked Geode to fill me in on all that has happened in the dome of late. If I hear anything of interest, I'll be sure to pass it on.",
+      "text": "ผมขอให้จีโอดช่วยเล่าเรื่องราวทั้งหมดที่เกิดขึ้นในโดมช่วงนี้ให้ฟังแล้วล่ะครับ ถ้าได้ยินเรื่องอะไรน่าสนใจ จะรีบคาบข่าวมาบอกนะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Now that the railroad's working again, it'll be much easier to visit Tuliyollal. It would be nice to see Koana again as well.",
+      "text": "พอรถไฟกลับมาแล่นได้อีกครั้ง การไปเที่ยวทูลิโยลลัลก็คงง่ายขึ้นเยอะเลยนะครับ... ถ้าได้เจอพี่โคอานาอีกก็คงดีไม่น้อยเลยฮะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perhaps we will venture out for a bit ourselves.",
+      "text": "พวกเราก็ออกไปเดินสำรวจข้างนอกกันหน่อยดีไหมครับ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'm as surprised as you are. Everyone was keen to pack their bags before, but now that the journey's possible, they can't be bothered?",
+      "text": "ฉันเองก็ประหลาดใจไม่ต่างจากพวกเธอหรอก ตอนแรกเห็นทุกคนกระตือรือร้นรีบแพ็กกระเป๋าเตรียมตัวกันยกใหญ่ แต่พอเดินทางได้จริงขึ้นมา กลับทำตัวเฉยชาสะงั้น?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There may still be people gathering in Praxis Park. Let's try there first.",
+      "text": "น่าจะยังมีคนมารวมตัวกันอยู่ที่สวนสาธารณะแพร็กซิสนะ ลองไปดูที่นั่นก่อนเถอะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The people look uneasy. Did something happen?",
+      "text": "ทำไมทุกคนดูหน้าตาตื่นตระหนกกันจัง เกิดเรื่องอะไรขึ้นหรือเปล่านะ?"
+    },
+    {
+      "character": "Unsettled Mourner",
+      "text_en": "Have you heard? Someone was killed in the Thunderyards.",
+      "text": "นี่ ได้ยินข่าวหรือยัง? มีคนเสียชีวิตในธันเดอร์ยาร์ดสน่ะ"
+    },
+    {
+      "character": "Cynical Alexandrian",
+      "text_en": "The Thunderyards? Was one of the hunters slain by a beast?",
+      "text": "ในธันเดอร์ยาร์ดสงั้นเหรอ? มีนายพรานโดนพวกสัตว์ร้ายเล่นงานหรือไง?"
+    },
+    {
+      "character": "Unsettled Mourner",
+      "text_en": "It was a hunter all right, and a veteran at that. But it was no fiend that did him in─only a random bolt of lightning.",
+      "text": "เป็นนายพรานจริงๆ นั่นแหละ แถมยังเป็นพวกเจนสนามด้วยซ้ำ แต่ไม่ใช่ฝีมือของอสูรร้ายตัวไหนหรอก... แค่โดนฟ้าผ่าโดยบังเอิญเท่านั้นเอง"
+    },
+    {
+      "character": "Mourning Woman",
+      "text_en": "Such a senseless way to die. They say that he expended his last soul cells during Zoraal Ja's attack on the city...",
+      "text": "ตายอย่างไร้ค่าสิ้นดีเลยนะคะ ได้ยินมาว่าวิญญาณสำรองดวงสุดท้ายของเขาถูกใช้ไปหมดตั้งแต่ตอนที่โซราล จา บุกถล่มเมืองแล้วล่ะค่ะ..."
+    },
+    {
+      "character": "Unsettled Mourner",
+      "text_en": "For an upright, hardworking man to meet such an unceremonious end... It feels wrong...",
+      "text": "สำหรับคนดีขยันขันแข็งที่ต้องมาพบกับจุดจบอย่างปุบปับไม่คาดฝันแบบนี้... มันรู้สึกใจหายยังไงไม่รู้แฮะ..."
+    },
+    {
+      "character": "Anxious Alexandrian",
+      "text_en": "But we'll be fine, won't we? Even if the system no longer erases our memory of the departed, the regulators continue to function!",
+      "text": "แต่พวกเราจะไม่เป็นไรใช่ไหมคะ? ถึงแม้ระบบจะไม่ช่วยลบความทรงจำเกี่ยวกับผู้ล่วงลับให้เราแล้ว แต่เรกูเลเตอร์ก็ยังทำงานอยูี่นี่นา!"
+    },
+    {
+      "character": "Anxious Alexandrian",
+      "text_en": "I shan't go before my time. Growing old and passing peacefully with the help of the ushers is only natural!",
+      "text": "ฉันไม่มีวันตายก่อนวัยอันควรหรอก การแก่ตัวลงและจากไปอย่างสงบโดยมีพวกอัชเชอร์คอยช่วยเหลือมันเป็นเรื่องธรรมดาธรรมชาติอยู่แล้ว!"
+    },
+    {
+      "character": "Cynical Alexandrian",
+      "text_en": "You may think so, but how are we to know? We have no memory of those who have gone. More may have met violent deaths than passed from old age, and we would be blissfully unaware!",
+      "text": "เธอคิดแบบนั้นจริงเหรอ แต่จะไปรู้ได้ยังไงล่ะ? ในเมื่อพวกเราไม่หลงเหลือความทรงจำเกี่ยวกับคนที่จากไปเลยสักนิด บางทีคนที่ตายเพราะอุบัติเหตุรุนแรงอาจจะมีมากกว่าคนที่หมดอายุขัยตามธรรมชาติก็ได้ และพวกเราก็ไม่มีทางรับรู้เลย!"
+    },
+    {
+      "character": "Cynical Alexandrian",
+      "text_en": "It could happen to you or me─to any of us!",
+      "text": "เรื่องพรรค์นั้นอาจจะเกิดขึ้นกับฉัน กับเธอ หรือกับใครในพวกเราคนไหนก็ได้ทั้งนั้น!"
+    },
+    {
+      "character": "Boy's Mother",
+      "text_en": "Then what are we to do? Spend every waking moment thinking only of how we might die?",
+      "text": "ถ้าอย่างนั้นพวกเราควรทำยังไงดีล่ะคะ? ต้องทนใช้ชีวิตอยู่ทุกเมื่อเชื่อวันโดยเอาแต่คิดถึงความตายของตัวเองงั้นเหรอ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With time, I had hoped that they'd be able to adjust to their new situation...but it's only gotten worse.",
+      "text": "ฉันเคยหวังไว้ว่าพอเวลาผ่านไป พวกเขาจะค่อยๆ ปรับตัวเข้ากับสถานการณ์ใหม่ได้... แต่ดูเหมือนมันจะแย่ลงกว่าเดิมเสียอีก"
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "Look, it's Queen Sphene!",
+      "text": "ดูนั่นสิ! องค์ราชินีสฟีนนี่นา!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What?",
+      "text": "อะไรนะ?"
+    },
+    {
+      "character": "Pensive Boy",
+      "text_en": "Help, Queen Sphene! The grown-ups are really upset, and I don't know what to do!",
+      "text": "ช่วยด้วยครับองค์ราชินีสฟีน! พวกผู้ใหญ่กำลังเครียดกันใหญ่เลย ผมไม่รู้จะทำยังไงดีแล้วครับ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I see that you are as kind-hearted as ever, Nico. Never fear─I'm here to set things aright!",
+      "text": "เธอยังคงเป็นเด็กที่มีจิตใจดีงามเสมอเลยนะนิโก้ ไม่ต้องกลัวไปหรอก... ฉันมาที่นี่เพื่อแก้ไขทุกอย่างให้เรียบร้อยแล้วจ้ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't understand. Sphene is gone...forever...",
+      "text": "ไม่เข้าใจเลย... สฟีนจากไปแล้ว... ตลอดกาลแล้วนี่นา..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You there, Gossan! You were the queen's aide, weren't you?",
+      "text": "กอสซันตรงนั้นน่ะ! นายเคยเป็นคนสนิทขององค์ราชินีไม่ใช่เหรอ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's the meaning of this?",
+      "text": "นี่มันหมายความว่ายังไงกันแน่?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Begging your pardon, Vow of Resolve...",
+      "text": "ต้องขออภัยด้วยครับ ท่านคำปฏิญาณแห่งปณิธาน..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "But Her Majesty Queen Sphene is paying visit to her people, as is her wont.",
+      "text": "แต่ฝ่าบาท องค์ราชินีสฟีนกำลังเสด็จมาเยี่ยมเยียนประชาชนของพระองค์ตามปกติวิสัยอยู่ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What are you talking about!?",
+      "text": "นายกำลังพูดเรื่องบ้าอะไรน่ะ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene is dead! You officiated the funeral yourself!",
+      "text": "สฟีนตายไปแล้ว! นายก็เป็นคนจัดพิธีศพของเธอด้วยตัวเองแท้ๆ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We all placed flowers to mourn her passing!",
+      "text": "พวกเราทุกคนยังร่วมวางดอกไม้เพื่อไว้อาลัยให้แก่การจากไปของเธออยู่เลยนะ!"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "A funeral...? For Her Majesty?",
+      "text": "พิธีศพอย่างนั้นเหรอครับ...? แด่องค์ราชินีงั้นเหรอ?"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "What a curious jest. You know full well that ceremony was to commemorate those lives lost during the attack of Alexandria.",
+      "text": "ช่างเป็นเรื่องล้อเล่นที่แปลกประหลาดจริง ท่านรู้อยู่เต็มอกนี่ครับว่าพิธีการนั้นจัดขึ้นเพื่อรำลึกถึงผู้ล่วงลับที่สูญเสียชีวิตในเหตุการณ์โจมตีอเล็กซานเดรียต่างหาก"
+    },
+    {
+      "character": "Gossan",
+      "text_en": "Her Majesty walks among her people that she might support them in this most trying of times. Surely that is not cause for consternation?",
+      "text": "ฝ่าบาทเสด็จออกมาเดินปะปนกับราษฎรเพื่อเป็นที่พึ่งทางใจในช่วงเวลาที่ยากลำบากที่สุดต่างหากครับ นั่นย่อมไม่ใช่เรื่องชวนตื่นตระหนกตกใจมิใช่หรือ?"
+    },
+    {
+      "character": "Boy's Mother",
+      "text_en": "Your Majesty, won't you free us from these terrible memories of the departed?",
+      "text": "ฝ่าบาท ได้โปรดช่วยปลดปล่อยพวกเราให้พ้นจากความทรงจำอันเจ็บปวดเลวร้ายเกี่ยวกับผู้ล่วงลับด้วยเถิดเพคะ"
+    },
+    {
+      "character": "Boy's Mother",
+      "text_en": "This is no way to live─not for us nor our children...",
+      "text": "ทนใช้ชีวิตอยู่แบบนี้ต่อไปไม่ไหวแล้วเพคะ... ทั้งเพื่อพวกเราและเพื่อลูกหลานด้วย..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...I wish that I could. Truly, I do. But with Living Memory shut down, even I cannot restore the system that once afforded us that comfort.",
+      "text": "เราก็ปรารถนาจะช่วยแบบนั้นจริงๆ จ้ะ แต่เมื่อลิฟวิ่งเมโมรีปิดตัวลงไปแล้ว แม้แต่เราก็ไม่สามารถกู้คืนระบบที่เคยคอยมอบความสบายใจเช่นนั้นให้แก่พวกเธอได้อีกต่อไปแล้ว"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You needn't fret, however. I have prepared an alternate solution.",
+      "text": "แต่ไม่ต้องกังวลไปหรอกนะ เราได้จัดเตรียมทางออกอื่นเอาไว้เรียบร้อยแล้วจ้ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "All of us shall be made Endless!",
+      "text": "พวกเราทุกคนจะกลายสภาพเป็นเอ็นด์เลส!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I have created a new system that allows you to transplant your memories directly into an aetherial vessel─one not reliant upon soul cells.",
+      "text": "เราได้สร้างระบบใหม่ขึ้นมา ซึ่งจะช่วยย้ายถ่ายโอนความทรงจำของพวกเธอเข้าสู่ภาชนะอีเธอร์โดยตรง... โดยไม่ต้องพึ่งพาพลังงานวิญญาณสำรองเลยสักนิด"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This way, you need never again fear death. You may live as you please─and for as long as you like!",
+      "text": "ด้วยวิธีนี้ พวกเธอจะไม่ต้องเกรงกลัวความตายอีกต่อไป จะได้ใช้ชีวิตตามใจปรารถนา... และยาวนานเท่าที่ต้องการเลยจ้ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Our stores of aether are, at present, not sufficient to provide this boon to everyone...",
+      "text": "ถึงแม้ว่าตอนนี้ แหล่งกักเก็บอีเธอร์ของเราจะยังมีไม่มากพอที่จะมอบสิ่งนี้ให้แก่ทุกคนได้ในคราวเดียว..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But some of you received neo regulators for the funeral ceremony, did you not?",
+      "text": "แต่มีบางส่วนในพวกเธอที่ได้รับนีโอเรกูเลเตอร์สำหรับพิธีศพไปแล้วใช่ไหมจ๊ะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And there are still more we have yet to distribute. Five thousand in all!",
+      "text": "และเรายังมีส่วนที่หลงเหลือที่เตรียมแจกจ่ายอีก รวมทั้งหมดห้าพันชิ้นด้วยกัน!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "One day soon, those with neo regulators will be called to join the Endless, and thence be free of suffering forevermore!",
+      "text": "ในเร็วๆ นี้ ผู้ที่ครอบครองนีโอเรกูเลเตอร์จะถูกเรียกตัวมาร่วมเป็นหนึ่งในเอ็นด์เลส และหลุดพ้นจากความทุกข์ทรมานทั้งปวงตลอดกาลจ้ะ!"
+    },
+    {
+      "character": "Anxious Alexandrian",
+      "text_en": "But...only five thousand of us?",
+      "text": "แต่... แค่ห้าพันคนในพวกเราอย่างนั้นเหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You vidraal!",
+      "text": "แกมันพวกทูรัลวิดราล!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The real Sphene would never be content to save only some of her people!",
+      "text": "สฟีนตัวจริงไม่มีวันพอใจกับการช่วยประชาชนแค่บางส่วนแน่!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Who are you!?",
+      "text": "แกเป็นใครกันแน่!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am Sphene, the Queen of Reason.",
+      "text": "เราคือสฟีน ราชินีแห่งเหตุผลจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's return to the Backroom. I need to calm down...and then we'll talk.",
+      "text": "กลับไปที่เดอะแบ็ครูมกันเถอะ... ขอฉันไปตั้งสติก่อน แล้วเราค่อยมาคุยกัน"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You saw Sphene with your own eyes, then? So it wasn't someone else...",
+      "text": "งั้นพวกเธอเห็นสฟีนมากับตาตัวเองเลยงั้นเหรอ? แสดงว่าไม่ใช่คนอื่นคนไกลที่ไหนสินะ..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've heard about the Queen of Reason's proclamation. The rumors spread through the district like wildfire.",
+      "text": "พวกเราได้ยินข่าวประกาศของราชินีแห่งเหตุผลแล้วครับ ข่าวลือแพร่สะพัดไปทั่วเขตอย่างกับไฟลามทุ่งเลย"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Without the Meso Terminal, how does she propose to create new Endless? We must contact Y'shtola as soon as possible.",
+      "text": "ถ้าไม่มีเมโซเทอร์มินัลแล้ว เธอจะสร้างเอ็นด์เลสตนใหม่ขึ้นมาได้ยังไงกันแน่? พวกเราต้องรีบติดต่อคุณวาย'ชโตลาให้เร็วที่สุดแล้วละครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Queen Sphene has returned? How?",
+      "text": "องค์ราชินีสฟีนกลับมาแล้วเหรอครับ? ได้ยังไงกันนะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seriously, what was that!?",
+      "text": "ถามจริงเถอะ นี่มันเรื่องบ้าอะไรกันเนี่ย!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Sphene was erased. If she's back, then are the Endless...?",
+      "text": "สฟีนโดนลบเลือนไปแล้วนี่นา ถ้าเธอกลับมาได้ แล้วพวกเอ็นด์เลสตนอื่นๆ ล่ะ...?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "There's naught to report yet, but we have all eyes and ears out in Everkeep and Heritage Found.",
+      "text": "ตอนนี้ยังไม่มีเรื่องอะไรคืบหน้าให้รายงานหรอกนะ แต่ฉันส่งหูส่งตาคอยเฝ้าระวังอยู่ในเอเวอร์คีพและเฮอริเทจฟาวนด์ทุกซอกทุกมุมแล้วละ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We only caught the proclamation from a distance, but I can tell you that the message about neo regulators was received with utmost clarity.",
+      "text": "พวกเราได้ยินคำประกาศจากระยะไกลเท่านั้น แต่ขอบอกเลยค่ะว่าข้อความเรื่องนีโอเรกูเลเตอร์นั้นส่งไปถึงหูทุกคนอย่างชัดเจนไร้ข้อกังขาเลย"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It couldn't have been Sphene. She should've been destroyed when the Meso Terminal shut down...",
+      "text": "ไม่มีทางที่จะเป็นสฟีนตัวจริงไปได้หรอก เธอควรจะถูกลบเลือนหายไปพร้อมกับการปิดตัวของเมโซเทอร์มินัลแล้วสิ..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Without a single Alexandrian to bear witness. Presented with an identical figure claiming to be their beloved queen, 'tis no surprise that they would choose to believe she's alive.",
+      "text": "...โดยที่ไม่มีชาวอเล็กซานเดรียสักคนอยู่เป็นพยานเลย พอมีร่างที่มีหน้าตาเหมือนกันเปี๊ยบมาปรากฏตัวแล้วอ้างว่าเป็นราชินีอันเป็นที่รักของพวกเขา จึงไม่แปลกใจเลยที่พวกเขาจะเลือกเชื่อว่าเธอคนนั้นยังมีชีวิตอยู่"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What is troubling, however, is their denial that the funeral was held in her honor. 'Tis as if their memories have been erased...",
+      "text": "แต่สิ่งที่น่ากังวลก็คือ การที่พวกเขาปฏิเสธว่าไม่ได้มีการจัดพิธีศพขึ้นเพื่อเป็นเกียรติแก่เธอ ราวกับว่าความทรงจำของพวกเขาถูกลบออกไปอย่างนั้นแหละ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Given that the members of Oblivion remain unaffected, that was likely the work of the regulators. But by whose design?",
+      "text": "เมื่อดูจากการที่สมาชิกของเดอะแบ็ครูมไม่ได้รับผลกระทบใดๆ ก็น่าจะเป็นฝีมือของเรกูเลเตอร์ล่ะครับ แต่ประเด็นคือมันเป็นแผนการของใครกันแน่?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Someone smart enough to play at being the Queen of Reason. In that guise, even if some suspect deception, most of Alexandria will be on her side.",
+      "text": "ใครบางคนที่ฉลาดพอจะแอบอ้างเป็นราชินีแห่งเหตุผลล่ะสิ พอมารูปนี้ ต่อให้มีบางคนสงสัยว่าเป็นการหลอกลวง แต่ชาวอเล็กซานเดรียส่วนใหญ่ก็คงจะเลือกอยู่ข้างเธออยู่ดี"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We need to find out who she really is.",
+      "text": "เราต้องหาคำตอบให้ได้ว่าแท้จริงแล้วเธอคนนั้นเป็นใครกันแน่"
+    },
+    {
+      "character": "Krile",
+      "text_en": "While I agree wholeheartedly, we should avoid drawing more attention than we already have. We must be patient until Oblivion's network turns up a lead...or until our self-proclaimed queen makes her next move.",
+      "text": "ฉันเห็นด้วยอย่างยิ่งค่ะ แต่ทางที่ดีเราควรหลีกเลี่ยงการทำตัวเป็นจุดสนใจไปมากกว่านี้ก่อนนะ พวกเราต้องอดใจรอจนกว่าเครือข่ายของเดอะแบ็ครูมจะค้นพบเบาะแส... หรือไม่ก็รอจนกว่าราชินีที่ตั้งตัวเองคนนี้จะขยับตัวทำอะไรในก้าวต่อไปค่ะ"
+    },
+    {
+      "character": "???",
+      "text_en": "Where...am I...",
+      "text": "ที่นี่... ที่ไหนกัน..."
+    },
+    {
+      "character": "???",
+      "text_en": "My people! Are they...are they safe...?",
+      "text": "ประชาชนของข้า! พวกเขา... ปลอดภัยดีหรือเปล่า...?"
+    },
+    {
+      "character": "???",
+      "text_en": "Why am I...",
+      "text": "ทำไมข้าถึง..."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "IN FEAR OF DEATH, THE PEOPLE TURN",
+      "text": "เมื่อมวลประชาต่างหวาดสะพรึงต่อความตาย"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "TO QUEEN REBORN, THEIR FATES TO LEARN",
+      "text": "จึงหันพึ่งราชินีผู้จุติใหม่เพื่อฝากฝังโชคชะตา"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A pity Y'shtola was not present for “Sphene's” return. A cursory glance at the impostor's aether would have doubtless been enough to confirm our suspicions beyond a doubt....",
+      "text": "น่าเสียดายที่วาย'ชโตลาไม่ได้อยู่ด้วยตอนที่ “สฟีน” ปรากฏตัวนะคะ แค่เหลือบมองอีเธอร์ของตัวปลอมคนนั้นแวบเดียว ก็คงยืนยันข้อสงสัยของพวกเราได้โดยไม่มีข้อกังขาแล้วล่ะค่ะ..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Shale said she left this machine running to process more of the data from the field station. Is it done yet?",
+      "text": "พี่เชลบอกว่าเปิดเครื่องนี้ทิ้งไว้เพื่อประมวลผลข้อมูลของสถานีภาคสนามต่อ ตอนนี้เสร็จเรียบร้อยหรือยังนะฮะ?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Neo regulators... I heard the idea came from the citizenry, but something doesn't sit right. We'll look into this.",
+      "text": "นีโอเรกูเลเตอร์... ฉันได้ยินมาว่าไอเดียนี้มาจากชาวบ้านเองเลย แต่บอกตรงๆ ว่ามันมีกลิ่นแปลกๆ ชวนไม่สบายใจยังไงพิกล เดี๋ยวฉันจะขุดคุ้ยสืบเรื่องนี้ดูหน่อยแล้วกัน"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though we have too little information to draw any useful conclusions as yet, I daresay the Queen of Reason's behavior henceforth will be illuminating.",
+      "text": "ถึงตอนนี้เราจะยังมีข้อมูลน้อยเกินกว่าจะหาข้อสรุปอะไรได้ แต่ผมคิดว่าพฤติกรรมต่อจากนี้ของราชินีแห่งเหตุผลน่าจะช่วยเผยความจริงให้เราเห็นได้มากขึ้นครับ"
+    }
+  ]
+}

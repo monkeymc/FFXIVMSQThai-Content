@@ -1,0 +1,1583 @@
+{
+  "id": "the-protector-and-the-destroyer",
+  "wiki_path": "/wiki/The_Protector_and_the_Destroyer",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/e/e9/The_Protector_and_the_Destroyer.png",
+  "patch": "7.0",
+  "title_en": "The Protector and the Destroyer",
+  "title": "ผู้พิทักษ์และผู้ทำลายล้าง",
+  "level": "98",
+  "location": "Heritage Found(X:15.5,Y:8.0)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Lamaty'i is right. Let's have faith in everyone and do what we can.",
+      "text": "ละมาตี้พูดถูกแล้วล่ะ พวกเราจงเชื่อมั่นในตัวทุกคนแล้วทำในส่วนที่พวกเราทำได้กันเถอะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Before we get going, I have a request to make of you.",
+      "text": "ก่อนที่พวกเราจะออกเดินทางกัน ฉันมีเรื่องอยากจะขอร้องพวกเธอหน่อยน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When we confront Zoraal Ja, you must let me face him alone.",
+      "text": "ตอนที่พวกเราเผชิญหน้ากับโซราล จา ขอให้ฉันได้สู้กับเขาตัวต่อตัวคนเดียวเถอะนะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What!? No, that's far too dangerous! Why put you at such risk if we don't have to?",
+      "text": "หา!? ไม่นะ นั่นมันอันตรายเกินไปแล้ว! ทำไมต้องเอาตัวเธอไปเสี่ยงขนาดนั้นด้วยในเมื่อพวกเราไม่จำเป็นต้องทำอย่างนั้นเลย?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We have two priorities.",
+      "text": "พวกเรามีเรื่องสำคัญที่ต้องจัดการสองเรื่อง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The first is to hold Zoraal Ja within the dome and protect Tuliyollal.",
+      "text": "เรื่องแรกคือการตรึงตัวโซราล จา ไว้ภายในโดมแห่งนี้เพื่อปกป้องทูลิโยลลัล"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The second is to free Wayakkwe if she's been captured.",
+      "text": "เรื่องที่สองคือการช่วยเหลือวายัคเวออกมาในกรณีที่เธอโดนจับตัวไป"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To make sure we succeed, I need to play the worthy foe for Zoraal Ja.",
+      "text": "เพื่อรับประกันว่าพวกเราจะทำสำเร็จ ฉันต้องรับบทเป็นคู่ต่อสู้ที่คู่ควรของโซราล จา"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I come at him with help, he'll likely lose interest and proceed with his attack on the city. That's why it needs to be a duel.",
+      "text": "ถ้าฉันยกพวกไปสู้กับเขา เขาคงจะหมดความสนใจแล้วมุ่งหน้าไปโจมตีเมืองหลวงต่อแน่ๆ เพราะงั้นนี่จึงต้องเป็นการดวลเดี่ยวเท่านั้น"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Even if Tuliyollal is better prepared this time, it's true that it would be best to avoid another battle. And failing that, we might at least weaken Zoraal Ja...",
+      "text": "ถึงคราวนี้ทางทูลิโยลลัลจะเตรียมตัวรับมือได้ดีขึ้นก็เถอะ แต่มันก็จริงนะที่ว่าหลีกเลี่ยงการเปิดศึกใหญ่ได้จะดีที่สุด และถึงเลี่ยงไม่ได้ อย่างน้อยพวกเราก็น่าจะช่วยบั่นทอนกำลังของโซราล จา ลงได้บ้าง..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Rest assured I'm not going into this without a strategy. Our time in the dome has given us invaluable insights into Alexandrian culture.",
+      "text": "ไว้ใจได้เลย ฉันไม่ได้จะบุกเข้าไปโดยไม่มีแผนการหรอกนะ ช่วงเวลาที่พวกเราอยู่ในโดมทำให้พวกเราเข้าใจวิถีวัฒนธรรมของอเล็กซานเดรียอย่างลึกซึ้งเลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The use of regulators, for one. The secret to Zoraal Ja's strength.",
+      "text": "อย่างแรกเลยก็คือการใช้งานเรกลูเตอร์ ความลับเบื้องหลังพละกำลังของโซราล จา นั่นไง"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then you mean to...",
+      "text": "งั้นเธอตั้งใจจะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right. If I destroy his regulator, he'll be unable to draw upon souls. We'll see how much he wants a duel after that.",
+      "text": "ใช่แล้ว ถ้าฉันทำลายเครื่องควบคุมของเขาได้ เขาก็จะไม่สามารถดึงพลังวิญญาณมาใช้ได้อีก ทีนี้เราจะได้เห็นกันว่าเขาจะยังอยากดวลเดี่ยวอยู่อีกไหม"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, will you leave Zoraal Ja to me?",
+      "text": "เพราะงั้น ปล่อยโซราล จา ให้เป็นหน้าที่ของฉันนะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Forename !",
+      "text": "ขอบใจมากนะ [ชื่อ]!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's true that this is your fight, and how you choose to handle it is your decision.",
+      "text": "ก็จริงนะที่ว่านี่คือการต่อสู้ของเธอ และวิธีที่เธอเลือกจะเผชิญหน้ากับมันก็เป็นการตัดสินใจของเธอเอง"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But if we see you struggling, or Zoraal Ja attempts to call upon his minions, we will go to your aid!",
+      "text": "แต่ถ้าพวกเราเห็นว่าเธอเริ่มแย่ หรือโซราล จา คิดจะเรียกพวกสมุนของมันออกมาล่ะก็ พวกเราจะเข้าไปช่วยทันทีเลยนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, fair enough! Knowing you'll be there, I can give it my all.",
+      "text": "เฮะๆ เอาตามนั้นเลย! แค่รู้ว่าพวกเธอคอยหนุนหลังอยู่ ฉันก็พร้อมใส่สุดแรงแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Together with Koana, I'll keep Tuliyollal safe!",
+      "text": "ฉันจะปกป้องทูลิโยลลัลให้ปลอดภัยร่วมกับพี่โคอานาเอง!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja!",
+      "text": "โซราล จา!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "H-Hello!",
+      "text": "ทะ-ท่านวุค ลามัต!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You disappoint me, Wuk Lamat. We are foes, yet you had my admiration for defeating Father and claiming the throne.",
+      "text": "เจ้าทำให้ข้าผิดหวังนัก วุค ลามัต แม้เราจะเป็นศัตรูกัน แต่ข้าก็อุตส่าห์ยอมรับนับถือที่เจ้าสามารถโค่นล้มท่านพ่อและคว้าบัลลังก์มาครองได้"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But instead of coming for me, you gallivant with the resistance. Do I intimidate you?",
+      "text": "ทว่าแทนที่จะมุ่งตรงมาหาข้า เจ้ากลับมัวแต่ไปวิ่งเล่นคลุกคลีอยู่กับพวกกบฏต่อต้าน ข้าทำให้เจ้าขลาดกลัวงั้นรึ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I am here, Brother. I did not run, nor hide. I have come to kill you.",
+      "text": "ฉันอยู่ที่นี่แล้ว พี่ชาย ฉันไม่ได้หนีหรือซ่อนตัวเลย ฉันเดินทางมาเพื่อสังหารแก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let her go. Your quarrel is with me.",
+      "text": "ปล่อยตัวเธอไปซะ เรื่องที่แกติดค้างอยู่คือฉันคนนี้"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "And will you settle it one-on-one? Or call upon all and sundry yet again?",
+      "text": "แล้วเจ้าจะยอมสะสางมันตัวต่อตัวรึ? หรือจะเรียกพวกพ้องหน้าไหนมารุมข้าอีกเหมือนเคยล่ะ?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Not that it would make any difference.",
+      "text": "แต่ถึงทำเช่นนั้น ก็ไม่ได้ช่วยให้อะไรเปลี่ยนไปหรอก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No. Like Papa did, I'll face you alone.",
+      "text": "ไม่หรอก เหมือนอย่างที่ท่านพ่อเคยทำ ฉันจะเผชิญหน้ากับแกเพียงลำพัง"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Really? You believe you stand a chance? Have you forgotten how it ended for Father?",
+      "text": "งั้นรึ? เจ้าคิดว่าตัวเองมีโอกาสชนะงั้นรึ? เจ้าลืมเลือนจุดจบของท่านพ่อไปแล้วรึอย่างไร?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I remember you couldn't win without relying on other people's souls. Alone I may be weak, but so are you!",
+      "text": "ฉันจำได้ดีว่าแกไม่มีวันชนะหรอกถ้าไม่พึ่งพาพลังวิญญาณของคนอื่น ลำพังตัวฉันอาจจะอ่อนแอ แต่ตัวแกเองก็ไม่ต่างกันหรอก!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "So be it. Do not regret your decision.",
+      "text": "ก็เอาสิ อย่ามาเสียใจภายหลังแล้วกัน"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Release her.",
+      "text": "ปล่อยตัวนางไป"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Oh, thank you!",
+      "text": "โอ้ ขอบคุณมากค่ะ!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "I thought I was done for...",
+      "text": "ฉันนึกว่าจะไม่รอดซะแล้ว..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[LEAPING EXERT]",
+      "text": "[ร้องคำรามขณะกระโจนใส่]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No you don't!",
+      "text": "ฝันไปเถอะ!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[DERISIVE SNORT “Hmph”]",
+      "text": "[พ่นลมหายใจอย่างดูแคลน — “หึ”]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Had you let her die, you could have dealt me a telling blow. Your compassion will be the end of you.",
+      "text": "หากเจ้ายอมปล่อยให้นางตายไปเมื่อครู่ เจ้าก็คงเปิดโอกาสโจมตีข้าได้อย่างจังไปแล้ว ความใจอ่อนเมตตาของเจ้านี่แหละที่จะนำพาความพินาศมาสู่ตัวเจ้าเอง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm not letting anyone else die!",
+      "text": "ฉันจะไม่ยอมให้ใครต้องตายอีกแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And you—you will never surpass Papa!",
+      "text": "และแก—ไม่มีวันที่จะก้าวข้ามท่านพ่อไปได้หรอก!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But I have. With these very hands I slew him.",
+      "text": "แต่ข้าทำได้แล้ว ด้วยสองมือของข้านี่แหละที่ปลิดชีพท่านลง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "His body may be gone, but his spirit lives on in us!",
+      "text": "ร่างกายของท่านอาจจะดับสูญไปแล้ว แต่จิตวิญญาณของท่านยังคงสถิตอยู่ในตัวพวกเรา!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "The Yok Huy's delusion is catching, I see.",
+      "text": "ดูท่าความเพ้อฝันของพวกยอคฮุยจะระบาดใส่เจ้าเข้าแล้วสินะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's no delusion. Papa's love for Tuliyollal gives me strength even now!",
+      "text": "มันไม่ใช่ความเพ้อฝันหรอก ความรักที่ท่านพ่อมีต่อทูลิโยลลัลคอยมอบพลังให้ฉันอยู่เสมอ แม้กระทั่งในตอนนี้!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[SWINGING AXE ROAR “Yaaargh!]",
+      "text": "[คำรามขณะฟาดฟันขวาน — “ย้ากกก!”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come—let's get this over with! For my people and Sphene's!",
+      "text": "เข้ามาเลย—มาจบเรื่องนี้กันเถอะ! เพื่อประชาชนของฉันและประชาชนของสฟีน!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "How gullible you are. All of this is Sphene's doing.",
+      "text": "ช่างเบาปัญญานัก เรื่องทั้งหมดนี้ล้วนเป็นฝีมือของสฟีนทั้งสิ้น"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Her objective is to harvest all life outside the barrier. Our interests happened to align, hence our alliance.",
+      "text": "เป้าหมายของนางคือการเก็บเกี่ยวทุกชีวิตที่อยู่นอกบาเรีย บังเอิญว่าผลประโยชน์ของพวกเราตรงกัน การเป็นพันธมิตรนี้จึงถือกำเนิดขึ้น"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Liar! Sphene would never do that!",
+      "text": "โกหก! สฟีนไม่มีวันทำเรื่องแบบนั้นหรอก!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The King of Resolve speaks the truth.",
+      "text": "ราชาแห่งปณิธานพูดความจริงค่ะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How did she—!?",
+      "text": "เธอมาได้ยังไงกัน—!?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The attack on Tural was no less my desire than Zoraal Ja's.",
+      "text": "การโจมตีทูรัลก็เป็นความต้องการของฉันไม่ต่างจากโซราล จา หรอกค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You said you wanted none of this. It was a farce from the very start!",
+      "text": "เธอบอกว่าเธอไม่ต้องการสงครามนี้เลยนี่นา... ที่แท้ทั้งหมดมันก็เป็นแค่เรื่องลวงโลกมาตั้งแต่แรกงั้นเหรอ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes. I used you.",
+      "text": "ใช่ค่ะ ฉันหลอกใช้พวกเธอ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So it was all just a lie, then? What you said about loving your people as family, about wanting to see them smile...",
+      "text": "งั้นทั้งหมดก็คือเรื่องโกหกใช่ไหม? ทั้งที่บอกว่ารักประชาชนเหมือนครอบครัว ทั้งที่บอกว่าอยากเห็นพวกเขามีรอยยิ้ม..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do this for them!",
+      "text": "ที่ฉันทำไปก็เพื่อพวกเขาต่างหากค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For what it's worth, I'm sorry I deceived you. But I had no choice.",
+      "text": "จะคิดยังไงก็ช่าง ฉันต้องขอโทษด้วยนะคะที่หลอกลวงพวกเธอ แต่ฉันไม่มีทางเลือกจริงๆ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If I'm to save my people, I must take the lives of yours!",
+      "text": "หากฉันจะช่วยเหลือประชาชนของฉัน ฉันก็จำเป็นต้องพรากชีวิตของพวกเธอไป!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[SHOCKED GASP]",
+      "text": "[สูดหายใจด้วยความตกใจ]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Behold, Wuk Lamat! The benevolent Queen Sphene.",
+      "text": "จงดูเถิด วุค ลามัต! นี่แหละองค์ราชินีสฟีนผู้เปี่ยมความเมตตาปรานี"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "An illusion that orchestrated a massacre.",
+      "text": "ภาพลวงตาที่เป็นผู้อยู่เบื้องหลังการสังหารหมู่ครั้งนี้ยังไงล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Endless or machine, or whatever you are now, you bear the memories of the person you once were! You should still have a heart!",
+      "text": "ไม่ว่าแกจะเป็นเอ็นด์เลส เครื่องจักร หรืออะไรก็ตาม แต่แกก็สืบทอดความทรงจำในตอนที่ยังเป็นมนุษย์มานะ! แกก็น่าจะยังมีหัวใจอยู่สิ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When you speak of slaughtering my people, do you feel nothing?",
+      "text": "ตอนที่แกพูดเรื่องเข่นฆ่าประชาชนของฉันน่ะ ในใจแกไม่รู้สึกอะไรบ้างเลยงั้นเหรอ?!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Nothing is dearer to me than my people. It matters not whether they are living or Endless.",
+      "text": "ไม่มีสิ่งใดจะล้ำค่าสำหรับฉันไปกว่าประชาชนของฉันอีกแล้วล่ะค่ะ ไม่สำคัญเลยว่าพวกเขาจะมีชีวิตอยู่หรือเป็นเอ็นด์เลสก็ตาม"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As queen, I will do anything to protect them!",
+      "text": "ในฐานะราชินี ฉันยินดีทำทุกอย่างเพื่อปกป้องพวกเขา!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If it were you, could you have found another way? With your strength, could you have held fast to that which is dear without sacrifice?",
+      "text": "หากเป็นเธอ เธอจะหาหนทางอื่นได้งั้นเหรอคะ? ด้วยพละกำลังของเธอ เธอจะสามารถปกป้องรอยยิ้มและสิ่งที่รักไว้ได้โดยไม่มีการสูญเสียเสียสละเลยงั้นรึ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What exactly do you seek to do? What are you protecting your people from?",
+      "text": "ตกลงเธอต้องการจะทำอะไรกันแน่? และเธอกำลังปกป้องประชาชนของเธอจากอะไรกัน?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "You waste your words. There is no turning back.",
+      "text": "พวกเจ้ากำลังเสียเวลาเปล่า ไม่มีทางหวนกลับหลังแล้วล่ะ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[SLASHING WITH SWORD EXERT “Hah”]",
+      "text": "[คำรามขณะตวัดดาบฟาดฟัน — “ฮะ”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "[STRUCK BY BLOW EXERT “Ugh”]",
+      "text": "[ร้องเสียงหลงขณะโดนฟัน — “อั่ก”]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Is this the strength that the love of Tuliyollal lends you?",
+      "text": "นี่รึคือพละกำลังที่ความรักต่อทูลิโยลลัลมอบให้แก่เจ้า?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "A weak ruler walks a path of ruin. Tell me—which of us is worthy of their throne?",
+      "text": "ผู้ปกครองที่อ่อนแอนั้นย่อมนำพาความพินาศมาสู่ตนเอง บอกข้าทีซิ—พวกเราคนใดกันแน่ที่คู่ควรกับราชบัลลังก์นี้?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I already know...it will never be you!",
+      "text": "ฉันรู้คำตอบอยู่แล้ว... ไม่มีทางเป็นแกเด็ดขาด!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As long as you think only of yourself, you'll never be worthy! You'll never surpass Father—or me!",
+      "text": "ตราบใดที่แกยังคิดถึงแต่ตัวเอง แกก็ไม่มีวันคู่ควรหรอก! แกไม่มีวันก้าวข้ามท่านพ่อ—หรือแม้แต่ตัวฉันไปได้หรอก!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[ANNOYED GRUNT “Hmph”]",
+      "text": "[ฮึดฮัดอย่างหงุดหงิด — “ชิ”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You can't rely on souls anymore. It's over.",
+      "text": "แกไม่สามารถพึ่งพาดวงจิตวิญญาณได้อีกแล้วล่ะ เรื่องบ้าๆ นี้จบลงแล้ว"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Don't think you've won yet. Oh no, far from it.",
+      "text": "อย่าเพิ่งหลงคิดว่าเจ้าชนะแล้วสิ... ไม่มีทางหรอก"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Give the order to the fleet: raze Tuliyollal to the ground and harvest every last soul!",
+      "text": "ส่งคำสั่งไปที่กองเรือหลวง: จงถล่มทูลิโยลลัลให้ราบคาบเป็นหน้ากลอง และเก็บเกี่ยวพลังงานวิญญาณดวงจิตสุดท้ายมาให้สิ้น!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "It is over—for Tuliyollal. Your works, your people—all will be ash before the day is done.",
+      "text": "มันจบสิ้นลงแล้ว—สำหรับทูลิโยลลัล ผลงานของพวกเจ้า ประชาชนของพวกเจ้า—ทุกสิ่งทุกอย่างจะมอดไหม้กลายเป็นเถ้าถ่านก่อนที่อาทิตย์จะลับขอบฟ้าในวันนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't tell me you've forgotten? I'm not the only Dawnservant.",
+      "text": "แกจำไม่ได้งั้นเหรอ? ฉันไม่ได้เป็นดอว์นเซิร์ฟวันต์คนเดียวสักหน่อย"
+    },
+    {
+      "character": "Dustwatch Officer",
+      "text_en": "Th-They're coming!",
+      "text": "พะ-พวกมันบุกมาแล้ว!"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "[LONG, STEADYING EXHALE]",
+      "text": "[พ่นลมหายใจออกยาวๆ อย่างตั้งสติ]"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "Well come on then, you tin bastards!",
+      "text": "งั้นก็เข้ามาเลย เจ้าพวกหุ่นเหล็กเวร!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If I didn't know better, I'd say you're enjoying yourself.",
+      "text": "ถ้าไม่ได้เห็นคาตา ฉันคงคิดว่าเธอกำลังสนุกอยู่เลยนะเนี่ย"
+    },
+    {
+      "character": "Kemakka",
+      "text_en": "I'm Hhetsarro. Nothing gets a hunter's blood pumping like a little danger.",
+      "text": "ฉันเป็นชาวเฮตซาร์โร ไม่มีอะไรทำให้เลือดในกายของนักล่าสูบฉีดได้ดีไปกว่าความอันตรายอีกแล้วล่ะนะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well now, it seems we have that in common. I haven't felt this alive in a good while.",
+      "text": "แหม่ ดูท่าพวกเราจะมีรสนิยมคล้ายกันสินะ ฉันเองก็ไม่ได้รู้สึกกระปรี้กระเปร่าแบบนี้มานานแล้วเหมือนกัน"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "[CASTING SPELL EXERT “Haaah!”]",
+      "text": "[ร้องคำรามขณะร่ายเวท — “ฮ้าาา!”]"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "That's the spirit! We promised Vow Koana we'd deliver him a mountain of scrap—and I'm not about to let these hollow men make a liar out of me!",
+      "text": "มันต้องอย่างนั้นสิ! พวกเราสัญญากับท่านสัญญาแห่งปัญญาโคอานาไว้แล้วว่าจะส่งกองซากเศษเหล็กไปให้ภูเขาเลากา—และฉันก็ไม่ยอมเสียคำพูดเพราะเจ้าพวกทหารไร้ไส้พวกนี้หรอกนะ!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Hey, kid. The ones below are yours.",
+      "text": "เฮ้ เจ้าหนู ตัวที่อยู่ข้างล่างนั่นเป็นของเจ้านะ"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "You got it!",
+      "text": "จัดไปเลยพี่!"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Wait... What do you mean “below”?",
+      "text": "เดี๋ยวสิ... ที่ว่า 'ข้างล่าง' นี่หมายความว่ายังไงกันนะ?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "[LEAPING INTO THE AIR EXERT]",
+      "text": "[คำรามขณะกระโดดขึ้นสู่อากาศ]"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "[LAUNCHING AT ENEMY EXERT “Haaah!”]",
+      "text": "[ร้องคำรามขณะพุ่งเข้าใส่ศัตรู — “ฮ้าาา!”]"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "[IMPRESSED WHISTLING]",
+      "text": "[ผิวปากด้วยความทึ่ง]"
+    },
+    {
+      "character": "Zekowa",
+      "text_en": "Don't see that every day!",
+      "text": "ใช่ว่าจะได้เห็นอะไรแบบนี้ทุกวันนะเนี่ย!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Hardly sporting. And this despite our best efforts to thin the enemy ranks.",
+      "text": "ช่างไม่ยุติธรรมเอาเสียเลย ทั้งที่พวกเราอุตส่าห์ช่วยลดจำนวนของศัตรูให้ตั้งเยอะแยะขนาดนี้แท้ๆ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "While it's not quite what we had planned, I'm glad we chose to remain in Tural.",
+      "text": "ถึงมันจะไม่ได้เป็นไปตามแผนที่พวกเราคิดไว้ตอนแรก แต่ฉันก็ดีใจนะที่พวกเราเลือกจะปักหลักอยู่ที่ทูรัลต่อ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As am I. 'Twas an unexpected but welcome opportunity to join in the defense of this realm.",
+      "text": "ข้าพเจ้าเองก็เช่นกัน นับเป็นโอกาสอันเหนือความคาดหมายทว่าน่ายินดียิ่งที่ได้ร่วมปกป้องผืนแผ่นดินนี้"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And to his credit, Koana did ask very nicely. Still, it's a pity his brother had to delay our pleasure jaunt. But business always comes first.",
+      "text": "และต้องยอมรับนะว่าโคอานาขอร้องพวกเรามาได้สุภาพนุ่มนวลดีมาก ช่างน่าเสียดายที่พี่ชายของเขามาทำให้ทริปท่องเที่ยวพักผ่อนของพวกเราต้องล่าช้าไป แต่อย่างว่าแหละ งานต้องมาก่อนเสมอ"
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "Damn it! Come no closer, you bastards!",
+      "text": "บัดซบเอ๊ย! อย่าเข้ามาใกล้มากกว่านี้นะ เจ้าพวกเวร!"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[LEAPING INTO THE FRAY EXERT]",
+      "text": "[ร้องคำรามขณะกระโจนเข้าสู่การต่อสู้]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[SLASHING ENEMIES EXERT “Yaaah!”]",
+      "text": "[ร้องคำรามขณะหวดฟันศัตรู — “ย้าาา!”]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Gehehehe!",
+      "text": "เกเฮเฮเฮ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "That was a near thing. Are you all right?",
+      "text": "เฉียดฉิวไปนิดเดียวเอง เป็นอะไรหรือเปล่า?"
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "Y-You...",
+      "text": "จะ-เจ้า..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Saved your life? Yes, I know. Don't squander it!",
+      "text": "ช่วยชีวิตเจ้าไว้เหรอ? ใช่ ข้ารู้ตัวดี เพราะงั้นก็รักษาชีวิตเอาไว้ให้ดีๆ ล่ะ!"
+    },
+    {
+      "character": "Mamool Ja Landsguard",
+      "text_en": "I never thought you of all people would come to my rescue, Bakool Ja Ja. Thank you.",
+      "text": "ข้าไม่เคยคิดเลยว่าคนอย่างเจ้าจะยื่นมือมาช่วยข้า บาคูล จา จา... ขอบใจมากนะ"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[UNCERTAIN] Huh...",
+      "text": "[เสียงลังเล] — “หือ...”"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Still rings odd in my ears, the “thank you”s...",
+      "text": "คำว่า 'ขอบคุณ' เนี่ย ยังฟังดูจั๊กจี้แปลกหูอยู่เลยแฮะ..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "But I could get used to it.",
+      "text": "แต่ข้าคิดว่าเดี๋ยวก็คงจะชินไปเองแหละ"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "Gehehehe!",
+      "text": "เกเฮเฮเฮ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Right, we're not done yet!",
+      "text": "เอาล่ะ งานนี้ยังไม่จบหรอกนะ!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "[CASTING SPELL EXERT “Hah!”]",
+      "text": "[ร้องคำรามขณะร่ายเวท — “ฮะ!”]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "[CHARGING ROAR “Yaaargh!”]",
+      "text": "[คำรามขณะพุ่งเข้าชาร์จ — “ย้ากกก!”]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "[SLASHING SWORD EXERT “Hah!]",
+      "text": "[คำรามขณะฟาดดาบฟัน — “ฮะ!”]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "[SLASHING SWORD EXERT “Yah!]",
+      "text": "[คำรามขณะฟาดดาบฟัน — “ย่ะ!”]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "[SLASHING SWORD EXERT “Hyah!]",
+      "text": "[คำรามขณะฟาดดาบฟัน — “ฮึ่ย!”]"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "We're holdin' our own against their infantry, but what of that monstrosity and its escort?",
+      "text": "พวกเรายังพอรับมือพวกทหารราบของมันได้อยู่ แต่แล้วเจ้าอสูรกายบินได้นั่นกับขบวนคุ้มกันของมันล่ะจะทำยังไง?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "If they start bombardin' us with cannon fire, we'll have no means of fightin' back!",
+      "text": "ถ้าพวกมันเริ่มระดมยิงปืนใหญ่ถล่มลงมาล่ะก็ พวกเราไม่มีทางโต้กลับได้เลยนะโว้ย!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Worry not, we have a countermeasure.",
+      "text": "ไม่ต้องกังวลไปหรอกครับ พวกเรามีมาตรการโต้กลับเตรียมไว้แล้วล่ะ"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "A bleedin' dragon!?",
+      "text": "มังกรตัวเป็นๆ งั้นเหรอ!?"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "What in the Navigator's name is it doin' here?",
+      "text": "สาบานต่อเนวิเกเตอร์เถอะ เจ้ามังกรนี่มาทำอะไรที่นี่กันฟะ?!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Tuliyollal has entered into an alliance with Radz-at-Han. A wise and timely decision on Vow Koana's part.",
+      "text": "ทูลิโยลลัลเพิ่งได้ร่วมเป็นพันธมิตรกับรัซ-อัต-ฮัน น่ะครับ ถือเป็นแผนการตัดสินใจที่ชาญฉลาดและทันเวลามากของท่านสัญญาแห่งปัญญาโคอานาเลยล่ะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Right in the nick... Tuliyollal shall never forget this debt.",
+      "text": "มาได้ทันเวลาจริงๆ... ทูลิโยลลัลจะไม่มีวันลืมหนี้บุญคุณในครั้งนี้เลยครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We will hold out, Lamaty'i.",
+      "text": "พวกเราจะต้านไว้ที่นี่เอง ละมาตี้"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So keep your eyes forward and do what only you can do.",
+      "text": "ดังนั้น ขอให้เจ้ามองตรงไปข้างหน้าแล้วทำในสิ่งที่เจ้าเท่านั้นที่ทำได้เถอะนะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Finish this, and return home—safe and sound.",
+      "text": "สะสางมันให้จบ แล้วกลับบ้านเราอย่างปลอดภัยล่ะ"
+    },
+    {
+      "character": "Alexandrian Signaler",
+      "text_en": "Report from the fleet. The enemy has offered unexpected resistance. We've been forced to withdraw.",
+      "text": "รายงานจากกองเรือหลวงครับ! ศัตรูทำการโต้กลับอย่างรุนแรงและเหนือความคาดหมาย ยามนี้พวกเราจึงจำเป็นต้องถอนกำลังล่าถอยชั่วคราวครับ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "[HEAVY SIGH]",
+      "text": "[ถอนหายใจยาวๆ อย่างหนักหน่วง]"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Useless. All of you.",
+      "text": "พวกไม่ได้เรื่อง... สิ้นดี"
+    },
+    {
+      "character": "Alexandrian Signaler",
+      "text_en": "[CUT DOWN EXERT “Argh!”]",
+      "text": "[ร้องโอดครวญขณะโดนสังหาร — “อ๊าก!”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Stop!",
+      "text": "หยุดนะ!"
+    },
+    {
+      "character": "Alexandrian Signaler",
+      "text_en": "Y-Your Majesty...?",
+      "text": "ฝะ-ฝ่าบาท...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Enough of this! Enough!",
+      "text": "พอที! หยุดได้แล้ว!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You swore you wouldn't harm my people!",
+      "text": "แกสาบานแล้วนี่ว่าจะไม่มีวันทำร้ายประชาชนของฉัน!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Out of my way!",
+      "text": "หลีกไป!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "[CUT DOWN EXERT “Ungh”]",
+      "text": "[ร้องเสียงหลงขณะโดนโจมตี — “อึ่ก”]"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have you gone mad!?",
+      "text": "แกเสียสติไปแล้วรึไง?!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "When the army fails in its duty, it is the charge of the King of Resolve to clean up its mess.",
+      "text": "เมื่อกองทัพไม่สามารถทำหน้าที่สำเร็จ หน้าที่สะสางความผิดพลาดจึงตกเป็นของราชาแห่งปณิธานผู้นี้"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "To achieve victory by any means necessary.",
+      "text": "เพื่อคว้าชัยชนะมาครอบครอง ไม่ว่าจะต้องใช้วิธีการใดก็ตาม"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Zoraal Ja to Everkeep. Initiate Code Blood.",
+      "text": "ส่งรหัสไปยังเอเวอร์คีป เริ่มใช้การรหัสโค้ดบลัด"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Execute all civilians and commandeer their souls!",
+      "text": "สังหารพลเรือนทั้งหมดและริบเอาดวงจิตพลังงานวิญญาณของพวกมันมาให้สิ้น!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No!",
+      "text": "ไม่นะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn you.",
+      "text": "ไอ้คนสารเลวเอ๊ย"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Stop!",
+      "text": "หยุดนะ!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Please, Father! Stop!",
+      "text": "ได้โปรดหยุดเถอะครับคุณพ่อ! หยุดเถอะครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gulool Ja! I told you not to come!",
+      "text": "กูลูล จา! ฉันบอกแล้วไงว่าห้ามตามมาน่ะ!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "“Gulool Ja”?",
+      "text": "'กูลูล จา' งั้นรึ?"
+    },
+    {
+      "character": "Otis",
+      "text_en": "You must flee, Gulool Ja! It isn't safe!",
+      "text": "หลบหนีไปเร็ว กูลูล จา! ที่นี่ไม่ปลอดภัย!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'm not going anywhere! I have to stop my father!",
+      "text": "ผมจะไม่หนีไปไหนทั้งนั้น! ผมต้องหยุดคุณพ่อให้ได้ครับ!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I am not your father!",
+      "text": "ข้าไม่ใช่พ่อของเจ้า!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "[CHOKED, STRUGGLING FOR BREATH “Ugh... Ungh...”]",
+      "text": "[เสียงไอสำลักเพราะหายใจไม่ออก — “อึก... อือ...”]"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let him go!",
+      "text": "ปล่อยตัวเขาเดี๋ยวนี้นะ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Using a child as a shield!? Have you no shame!?",
+      "text": "ใช้เด็กเป็นโล่กำบังงั้นเหรอ?! แกไม่มีความละอายใจบ้างเลยรึไง?!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Release him at once, or you shall answer to me!",
+      "text": "ปล่อยตัวเด็กน้อยเดี๋ยวนี้นะ หาไม่แล้วเจ้าจะได้เห็นดีกับข้าพเจ้าแน่นอน!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Pitiful relic. Kneel before your king!",
+      "text": "เจ้าซากผุพังที่น่าสมเพช จงคุกเข่าลงต่อหน้ากษัตริย์ของเจ้าเสีย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Otis? What's wrong?",
+      "text": "โอทิส? เกิดอะไรขึ้นน่ะ?"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Find me at the top of Everkeep.",
+      "text": "จงไปหาข้าที่จุดสูงสุดของเอเวอร์คีป"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "There we will determine who is fit to rule.",
+      "text": "ที่นั่นแหละที่เราจะได้ตัดสินกันว่าใครคู่ควรจะเป็นผู้ปกครองที่แท้จริง"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I must protect them...",
+      "text": "ฉันต้องปกป้องพวกเขา..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That he should take his own child hostage...",
+      "text": "ถึงขนาดจับลูกแท้ๆ ของตัวเองเป็นตัวประกันเลยเนี่ยนะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We must hurry back to Everkeep!",
+      "text": "พวกเราต้องรีบกลับไปที่เอเวอร์คีปด่วนเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja thinks nothing of others' lives. He will kill his own people!",
+      "text": "โซราล จา ไม่ใส่ใจในชีวิตคนอื่นเลย เขาต้องสังหารประชาชนของตัวเองแน่ๆ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Chances are we'll have to face a good part of his army, with Otis among them...",
+      "text": "มีโอกาสสูงมากเลยล่ะที่พวกเราจะต้องสู้กับกองทัพส่วนใหญ่ของเขา และในนั้นคงมีโอทิสรวมอยู่ด้วย..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's take all care!",
+      "text": "พวกเราต้องระวังตัวให้มากที่สุดนะ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Come, let's protect the people!",
+      "text": "ไปกันเถอะ ไปช่วยประชาชนกัน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Are you ready, Forename ?",
+      "text": "นายพร้อมหรือยัง [ชื่อ]?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Owww...",
+      "text": "โอ๊ย..."
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "I have no more use for you. Begone.",
+      "text": "ข้าไม่มีประโยชน์อะไรจากเจ้าอีกแล้ว ไสหัวไปซะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Father, wait! Father!",
+      "text": "คุณพ่อครับ เดี๋ยวครับ! คุณพ่อ!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Otis... Lamaty'i... You have to stop him... You have to...",
+      "text": "คุณโอทิส... พี่ละมาตี้... ต้องหยุดเขาให้ได้นะครับ... ต้องหยุดให้ได้..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What have you done?",
+      "text": "แกทำอะไรลงไปน่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene! Can't you order them to stand down!?",
+      "text": "สฟีน! เธอสั่งให้พวกหุ่นยนต์หยุดโจมตีไม่ได้งั้นเหรอ?!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The King of Resolve holds military authority. I cannot overrule his commands.",
+      "text": "ราชาแห่งปณิธานเป็นผู้กุมอำนาจทางทหารสูงสุดค่ะ ฉันมิอาจคัดค้านยกเลิกคำสั่งของเขาได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If there's something you can do, then do it!",
+      "text": "ถ้ามีอะไรที่เธอพอจะทำได้ ก็ทำเข้าเถอะนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your crimes are beyond forgiveness, but your people are innocent.",
+      "text": "ความผิดของเธอมันร้ายแรงเกินกว่าจะได้รับการอภัย แต่ประชาชนของเธอนั้นบริสุทธิ์นะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "[OVERWHELMED, SHARP EXHALE]",
+      "text": "[เสียงถอนใจอย่างเครียดและสะเทือนอารมณ์]"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "[OVERWHELMED EXHALE “Ah...”]",
+      "text": "[ถอนหายใจอย่างสิ้นหวัง — “อา...”]"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I deceived you all, and still...",
+      "text": "ฉันหลอกลวงพวกเธอมาตลอดแท้ๆ แต่พวกเธอก็ยัง..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The talk can wait. When you said that you wanted to protect your people, I trust you weren't lying?",
+      "text": "เรื่องพูดคุยเก็บไว้ก่อนเถอะ ตอนที่เธอบอกว่าอยากจะปกป้องประชาชนน่ะ ฉันหวังว่านั่นจะไม่ใช่เรื่องโกหกนะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course not! There's nothing I wouldn't do for them!",
+      "text": "ไม่มีทางโกหกแน่นอนค่ะ! ไม่มีเรื่องใดที่ฉันไม่ยอมทำเพื่อพวกเขาหรอก!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then let's split up and get to work!",
+      "text": "ถ้าอย่างนั้นแยกย้ายกันไปเริ่มงานเลย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do what you can do...",
+      "text": "ทำในสิ่งที่พอจะทำได้..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Please everyone, lend me your strength.",
+      "text": "ได้โปรดทุกคน ช่วยมอบพลังให้ฉันทีนะคะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The citizens... This is horrible...",
+      "text": "พวกชาวเมือง... นี่มันโหดร้ายเกินไปแล้ว..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The way's blocked!",
+      "text": "ทางโดมปิดกั้นซะแล้ว!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I have authority enough to move structures. A moment!",
+      "text": "ฉันมีสิทธิ์อำนาจพอที่จะขยับปรับเปลี่ยนโครงสร้างตึกได้ค่ะ รอสักครู่!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's gone!?",
+      "text": "ตึกหายไปแล้วงั้นเหรอ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're good to go!",
+      "text": "ทางเปิดสะดวกแล้ว ลุยโลด!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There... Now, please help as many as you can!",
+      "text": "เรียบร้อยค่ะ... ทีนี้ได้โปรดช่วยชีวิตผู้คนให้ได้มากที่สุดเท่าที่จะทำได้นะคะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's deal with these ones first!",
+      "text": "เอาล่ะ จัดการเจ้าพวกหุ่นตรงนี้ก่อนเลย!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll clean them all out!",
+      "text": "พวกเราจะกวาดล้างพวกมันให้ราบคาบเอง!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is awful...",
+      "text": "นี่มันโหดร้ายเหลือเกิน..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How terrified you must have been...",
+      "text": "พวกเธอคงจะหวาดกลัวกันมากเลยสินะคะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm truly in your debt...",
+      "text": "ฉันเป็นหนี้บุญคุณพวกเธอจริงๆ ค่ะ..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There are still those we can save! We keep moving!",
+      "text": "ยังมีคนที่พวกเราสามารถช่วยเหลือได้อยู่! เดินหน้าลุยต่อเถอะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will make us a path. O Everkeep, hearken to me!",
+      "text": "ฉันจะเปิดทางให้เองนะคะ เอเวอร์คีปเอย จงสดับรับฟังคำฉัน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This saves us a detour.",
+      "text": "ช่วยลดเวลาไม่ต้องเดินอ้อมไปได้เยอะเลย"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Excellent! Let's press on!",
+      "text": "เยี่ยมมาก! ลุยต่อไปกันเถอะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So many still crying out in fear and in pain... Please hold on!",
+      "text": "ยังมีคนอีกมากมายที่กำลังร้องไห้ด้วยความหวาดกลัวและเจ็บปวด... ได้โปรดอดทนไว้ก่อนนะคะ!"
+    },
+    {
+      "character": "Scrambling Citizen 1",
+      "text_en": "Heeelp!",
+      "text": "ช่วยด้วย!"
+    },
+    {
+      "character": "Scrambling Citizen 2",
+      "text_en": "Uwaaah!",
+      "text": "อว้าาา!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No...",
+      "text": "ไม่นะ..."
+    },
+    {
+      "character": "Scrambling Citizen 1",
+      "text_en": "Ugh...",
+      "text": "อั่ก..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry...I'm so sorry...",
+      "text": "ฉันขอโทษ... ฉันขอโทษจริงๆ..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Fiends too? Damn you, Zoraal Ja!",
+      "text": "มีพวกอสูรกายด้วยงั้นเหรอ?! บัดซบเอ๊ย โซราล จา!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's up to us to stop them!",
+      "text": "หน้าที่หยุดยั้งพวกมันต้องเป็นของพวกเราแล้ว!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Look! Survivors!",
+      "text": "ดูตรงนั้นสิ! มีผู้รอดชีวิตอยู่!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's check on them.",
+      "text": "พวกเราแวะไปตรวจเช็กดูพวกเขากัน"
+    },
+    {
+      "character": "Milalla Oblivion Member",
+      "text_en": "Where's the support we called for!?",
+      "text": "กำลังสนับสนุนที่พวกเราขอไปอยู่ไหนเนี่ย?!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're safe now!",
+      "text": "พวกเธอปลอดภัยดีแล้วล่ะ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you alright?",
+      "text": "ปลอดภัยดีใช่ไหม?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You're safe now. Be at ease.",
+      "text": "พวกเธอปลอดภัยแล้วล่ะค่ะ ทำใจให้สบายเถอะนะ"
+    },
+    {
+      "character": "Distraught Evacuee 1",
+      "text_en": "I-I have no souls left... If I get killed again, I...I...",
+      "text": "ผะ-ผมไม่เหลือพลังวิญญาณติดตัวแล้ว... ถ้าผมโดนสังหารอีกครั้งล่ะก็ ผม... ผมคง..."
+    },
+    {
+      "character": "Distraught Evacuee 1",
+      "text_en": "Haaah... Haaah... I'm still alive... I'm still alive...",
+      "text": "แฮ่ก... แฮ่ก... ผมยังรอดชีวิตอยู่... ผมยังไม่ตายจริงๆ..."
+    },
+    {
+      "character": "Distraught Evacuee 1",
+      "text_en": "I-It's nothing serious. I fell down, that's all. I'll be fine.",
+      "text": "มะ-ไม่ได้สาหัสอะไรหรอกครับ แค่สะดุดล้มลงไปเท่านั้นเอง เดี๋ยวก็ดีขึ้นแล้วล่ะครับ"
+    },
+    {
+      "character": "Distraught Evacuee 1",
+      "text_en": "All my souls, gone in a blink... This is a nightmare...",
+      "text": "วิญญาณสำรองทั้งหมดหายวับไปในพริบตาเดียว... นี่มันฝันร้ายชัดๆ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry for putting you through such an ordeal... It will soon be over, so please stay strong.",
+      "text": "ฉันต้องขอโทษด้วยนะคะที่ทำให้พวกเธอต้องเผชิญกับสถานการณ์เลวร้ายปานนี้... อีกประเดี๋ยวทุกอย่างก็จะจบลงแล้ว ดังนั้นได้โปรดเข้มแข็งไว้นะคะ"
+    },
+    {
+      "character": "Distraught Evacuee (Background 1)",
+      "text_en": "We won't give up, Your Majesty!",
+      "text": "พวกเราไม่มีวันยอมแพ้หรอกค่ะ องค์ราชินี!"
+    },
+    {
+      "character": "Distraught Evacuee (Background 2)",
+      "text_en": "Aye! We'll get through this!",
+      "text": "ใช่แล้ว! พวกเราจะต้องผ่านพ้นเรื่องนี้ไปให้ได้!"
+    },
+    {
+      "character": "Distraught Evacuee (Background 3)",
+      "text_en": "It's not over till it's over!",
+      "text": "มันยังไม่จบจนกว่าจะจบลงนั่นแหละ!"
+    },
+    {
+      "character": "Distraught Evacuee 2",
+      "text_en": "Oh, thank you for coming to save us! It's such a relief to see Her Majesty is unharmed...",
+      "text": "โอ้ ขอบคุณมากนะคะที่มาช่วยพวกเรา! โล่งอกไปทีที่เห็นฝ่าบาทปลอดภัยไม่ได้รับบาดเจ็บอะไร..."
+    },
+    {
+      "character": "Distraught Evacuee 2",
+      "text_en": "It's only a graze. You needn't worry about me─just help those who are still out there.",
+      "text": "มันเป็นเพียงแผลถลอกตื้นๆ เองค่ะ ไม่ต้องเป็นห่วงฉันหรอก—ได้โปรดไปช่วยเหลือคนที่ติดอยู่ข้างนอกนั่นต่อเถอะค่ะ"
+    },
+    {
+      "character": "Distraught Evacuee 2",
+      "text_en": "We're in your debt! We'll try to get to safety before more of them come.",
+      "text": "พวกเราเป็นหนี้ชีวิตคุณจริงๆ! เดี๋ยวพวกเราจะรีบหนีไปยังที่ปลอดภัยก่อนที่พวกมันจะแห่กันมาอีก"
+    },
+    {
+      "character": "Distraught Evacuee 2",
+      "text_en": "We'll get through this! We will!",
+      "text": "พวกเราจะผ่านพ้นวิกฤตนี้ไปให้ได้! แน่นอน!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They should be fine here.",
+      "text": "ตรงนี้พวกเขาน่าจะปลอดภัยแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's press on!",
+      "text": "ลุยต่อไปกันเถอะ!"
+    },
+    {
+      "character": "Oblivion Member",
+      "text_en": "More machines over there!",
+      "text": "ตรงฝั่งนู้นก็มีพวกหุ่นยนต์เพิ่มมาอีก!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You came!",
+      "text": "พวกเธอมาช่วยแล้ว!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must hold them off!",
+      "text": "พวกเราต้องต้านพวกมันเอาไว้!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "More of them!",
+      "text": "พวกมันแห่กันมาเพิ่มอีกแล้ว!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Confound it...",
+      "text": "บ้าจริง..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There...",
+      "text": "ตรงนั้น..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that all of them?",
+      "text": "พวกมันหมดเกลี้ยงแล้วใช่ไหม?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Looks like that does it for this area.",
+      "text": "ดูเหมือนตรงบริเวณนี้จะจัดการเคลียร์เสร็จแล้วล่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Look—the king's forces are on the move!",
+      "text": "ดูตรงนั้นสิคะ—กองทัพของพระราชากำลังเคลื่อนไหวแล้ว!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There are still civilians on True Vue!",
+      "text": "ยังมีพลเรือนติดอยู่ที่ทรูวิวอยู่อีกนะคะ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, we can't leave the wounded. Let's divide into two groups.",
+      "text": "เอาล่ะ พวกเราทิ้งผู้ได้รับบาดเจ็บไว้ไม่ได้หรอกนะ แยกออกเป็นสองกลุ่มกันเถอะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Krile, Raha—please stay here and render aid.",
+      "text": "ไครล์ ราฮา—พวกเธอฝากช่วยสแตนด์บายปฐมพยาบาลคนเจ็บอยู่ที่นี่ทีนะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The rest of us will go and deal with the machines!",
+      "text": "ส่วนคนอื่นๆ ที่เหลือจะบุกไปจัดการลุยกับพวกหุ่นยนต์เอง!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright!",
+      "text": "เอาตามนั้นเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Otis! You've got to wake up!",
+      "text": "โอทิส! คุณต้องตื่นได้แล้วนะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "“Otis”...?",
+      "text": "“โอทิส”...?"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "For the honor of the royal knights! Forward!",
+      "text": "เพื่อเกียรติยศแห่งกองอัศวินหลวง! บุกเข้าไป!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Snap out of it, Otis! Don't you recognize us!?",
+      "text": "ตั้งสติหน่อยสิโอทิส! จำพวกเราไม่ได้งั้นเหรอ?!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "First formation! Show them a knight's valor!",
+      "text": "กระบวนท่าแถวที่หนึ่ง! จงแสดงความกล้าหาญของอัศวินให้ประจักษ์!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We need to spread out!",
+      "text": "พวกเราจำเป็นต้องแยกย้ายกระจายตัวกัน!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "For honor!",
+      "text": "เพื่อเกียรติยศ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The machines obey him!",
+      "text": "พวกหุ่นยนต์ยอมฟังคำสั่งของเขาด้วย!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "Second formation! Seize the glory of victory!",
+      "text": "กระบวนท่าแถวที่สอง! จงช่วงชิงความรุ่งโรจน์แห่งชัยชนะมาครอบครอง!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Everyone, gather close!",
+      "text": "ทุกคน รวบรวมตัวกันเข้ามาใกล้ๆ เร็ว!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "We will not fall!",
+      "text": "พวกเราไม่มีวันล้มลงหรอก!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Something about him is familiar... But...it couldn't be...",
+      "text": "ท่าทางบางอย่างของเขาฟังดูคุ้นเคยมากเลย... แต่ว่า... มันคงไม่ใช่หรอกนะ..."
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "Third formation! Onward, for Alexandria!",
+      "text": "กระบวนท่าแถวที่สาม! เดินหน้าต่อไป เพื่ออเล็กซานเดรีย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It is him—the captain of the knights!",
+      "text": "เป็นเขาจริงๆ... หัวหน้าอัศวินในความทรงจำนั่น!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't like the looks of this...Everyone, keep your guard up!",
+      "text": "ดูท่าทางไม่ค่อยเข้าทีเลยแฮะ... ทุกคน ตั้งการ์ดระวังตัวกันไว้ให้ดีๆ นะ!"
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "Feel the sting of my blade!",
+      "text": "จงลิ้มรสคมดาบอันแหลมคมของข้าพเจ้าเสีย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Damn it... How do we bring him to his senses!?",
+      "text": "โธ่เอ๊ย... ทำยังไงถึงจะช่วยดึงสติของเขากลับคืนมาได้ล่ะเนี่ย?!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If he still remembers me, then perhaps...",
+      "text": "หากเขายังคงจดจำฉันได้อยู่ บางที..."
+    },
+    {
+      "character": "Otis Oathbroken",
+      "text_en": "...protect...Her Majesty...",
+      "text": "...ปกป้อง...ฝ่าบาท..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, he's deactivated.",
+      "text": "เอาล่ะ ระบบเครื่องจักรของเขาดับไปชั่วขณะแล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It should be safe to approach.",
+      "text": "ตอนนี้น่าจะเข้าไปใกล้ๆ ได้อย่างปลอดภัยแล้วนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Otis! No!",
+      "text": "โอทิส! ไม่นะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I remember you, Otis. So please, remember yourself.",
+      "text": "ฉันจดจำคุณได้เสมอนะคะโอทิส ดังนั้น ได้โปรดจำตัวตนที่แท้จริงของคุณเองให้ได้ด้วยเถอะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You're a proud knight of Alexandria. A man who lives to serve the kingdom and its subjects!",
+      "text": "คุณคืออัศวินผู้เต็มเปี่ยมด้วยความภาคภูมิใจแห่งอเล็กซานเดรีย บุรุษผู้มีชีวิตอยู่เพื่อรับใช้แผ่นดินและปกป้องประชาชนร่วมชาติ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Otis!",
+      "text": "โอทิส!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Pray stand back, Your Majesty.",
+      "text": "ได้โปรดเสด็จหลบไปข้างหลังเถิด ฝ่าบาท"
+    },
+    {
+      "character": "Otis",
+      "text_en": "I am Ser Otis Velona, lord captain of the royal knights of Alexandria!",
+      "text": "ข้าพเจ้า เซอร์โอทิส เวโลนา หัวหน้ากองอัศวินหลวงแห่งอเล็กซานเดรีย!"
+    },
+    {
+      "character": "Otis",
+      "text_en": "Upon mine honor, you shall harm neither my fair queen nor our citizens!",
+      "text": "ด้วยเกียรติยศแห่งข้าพเจ้า พวกเจ้าไม่มีวันทำร้ายราชินีผู้งดงามของข้าพเจ้ารวมถึงประชาชนของพวกเราได้หรอก!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Apologies for the trouble I've caused.",
+      "text": "ข้าพเจ้าต้องขออภัยเป็นอย่างยิ่งสำหรับปัญหาความวุ่นวายที่ข้าพเจ้าได้ก่อขึ้น"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "So long as this body holds, I shall fight with you!",
+      "text": "ตราบเท่าที่ร่างกายเหล็กนี้ยังคงยืนหยัดไหว ข้าพเจ้าจะขอร่วมต่อสู้เคียงข้างพวกท่าน!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "'Tis but a flesh wound!",
+      "text": "นี่เป็นเพียงแค่แผลถลอกเล็กๆ น้อยๆ เท่านั้น!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's building up energy! Have care!",
+      "text": "มันกำลังสะสมพลังงานอยู่ค่ะ! ระวังตัวกันด้วยนะคะ!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "For queen and country!",
+      "text": "เพื่อองค์ราชินีและผืนแผ่นดินบ้านเกิด!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "It gathers lightning to itself!",
+      "text": "มันกำลังรวบรวมสายฟ้าเข้าหาตัวเอง!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's split up and deal with them!",
+      "text": "พวกเราแยกย้ายกันไปจัดการทีละตัวเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hmph! Not holding anything back, are we?",
+      "text": "ฮึ่ม! ไม่คิดจะออมมือไว้ให้พวกเราเลยใช่ไหมเนี่ย?!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Leave this to me!",
+      "text": "เรื่องนี้ปล่อยให้เป็นหน้าที่ของข้าพเจ้าเองเถิด!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Behold the bladework of a royal knight!",
+      "text": "จงประจักษ์แก่สายตาในวิชาเพลงดาบแห่งอัศวินราชสำนักเสียเถิด!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it over...?",
+      "text": "จบเรื่องรึยังนะ...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Dare I hope...?",
+      "text": "จะหวังได้ไหมนะ...?"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Such tremendous lightning!",
+      "text": "สายฟ้านั่นช่างทรงพลังและรุนแรงเหลือเกิน!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So many... This is going to be tough.",
+      "text": "แห่กันมาตั้งเยอะแยะขนาดนี้... งานหนักแน่ๆ เลยแฮะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh no...",
+      "text": "แย่แล้ว..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Watch out!",
+      "text": "ระวังตัวด้วย!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "I...cannot move...",
+      "text": "ข้าพเจ้า... เคลื่อนไหวร่างกายมิได้แล้ว..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Not good... At this rate...",
+      "text": "ท่าไม่ดีแล้ว... ขืนปล่อยไว้แบบนี้ล่ะก็..."
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Upon mine honor, we shall weather this storm!",
+      "text": "ด้วยเกียรติยศแห่งข้าพเจ้า พวกเราจะก้าวฝ่ามรสุมสายฟ้านี้ไปด้วยกันให้ได้!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Now! Lay the fiend low!",
+      "text": "ยามนี้แหละ! จงปลิดชีพจู่โจมอสูรร้ายนั่นเสีย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Otis, you must stop! Your body can't survive this!",
+      "text": "โอทิส คุณต้องหยุดนะ! ร่างกายของคุณทนทานพลังงานขนาดนี้ไม่ไหวหรอกค่ะ!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "Nay, I cannot yield...even should it cost me my life!",
+      "text": "มิได้หรอก ข้าพเจ้ายอมแพ้มิได้... ต่อให้ต้องแลกด้วยชีวิตก็ตามที!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Otiiis!",
+      "text": "โอทิสสส!"
+    },
+    {
+      "character": "Otis Oathmender",
+      "text_en": "My queen... Are you unharmed?",
+      "text": "องค์ราชินีของข้าพเจ้า... พระองค์ทรงปลอดภัยดีใช่หรือไม่?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Otis...",
+      "text": "โอทิส..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thank you, Lord Captain. For the delicious repast. For everything.",
+      "text": "ขอบคุณมากนะท่านหัวหน้าอัศวิน สำหรับมื้ออาหารแสนอร่อย และสำหรับทุกสิ่งทุกอย่างที่ผ่านมา"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The old units do not have regulators. Their souls cannot be recovered.",
+      "text": "หุ่นรุ่นเก่านั้นไม่ได้ติดตั้งเครื่องควบคุมดวงจิตวิญญาณเอาไว้ค่ะ ดวงจิตของพวกเขาจึงไม่สามารถกู้คืนมาได้อีกแล้ว..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He is gone... The Otis who so valiantly fought for us...",
+      "text": "เขาจากไปแล้วจริงๆ... คุณโอทิสผู้ร่วมต่อสู้อย่างกล้าหาญเพื่อพวกเรา..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm truly grateful for your help. Would that I had the time to thank you properly...",
+      "text": "ฉันรู้สึกซาบซึ้งใจในความช่วยเหลือของพวกเธอจริงๆ ค่ะ อยากจะมีเวลาขอบคุณพวกเธอให้ดีกว่านี้จังเลย..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But I'm afraid I cannot linger.",
+      "text": "แต่เกรงว่าฉันคงอยู่ที่นี่ต่อไม่ได้แล้วล่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There are urgent duties I must perform.",
+      "text": "มีภารกิจหน้าที่เร่งด่วนที่ฉันจำต้องไปจัดการน่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, wait!",
+      "text": "นี่ เดี๋ยวสิ!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Is everyone all right!?",
+      "text": "ทุกคนปลอดภัยดีใช่ไหมจ๊ะ?!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're fine, but Otis is...",
+      "text": "พวกเราไม่เป็นไรหรอก แต่โอทิสเขา..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "So he's the one who was looking after Gulool Ja...",
+      "text": "ที่แท้เขาก็คือคนคอยดูแลปกป้องกูลูล จา มาตลอดสินะ..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thanks to you, Solution Nine has been spared the worst, but the situation on the other levels is grim.",
+      "text": "ต้องขอบคุณพวกเธอเลยจ้ะ โซลูชันไนน์ถึงได้รอดพ้นจากสถานการณ์ที่เลวร้ายที่สุดมาได้ แต่สถานการณ์ในระดับชั้นอื่นๆ ยังวิกฤตอยู่นะจ๊ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "We're currently assessing the full extent of the casualties. In the meantime, could you help us treat the wounded?",
+      "text": "ยามนี้พวกเรากำลังประเมินขอบเขตยอดผู้เสียชีวิตและบาดเจ็บทั้งหมดอยู่ ระหว่างนี้ พวกเธอฝากช่วยดูแลรักษาคนเจ็บไปก่อนได้ไหมจ๊ะ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thank you, Otis... I pray your soul is at peace.",
+      "text": "ขอบคุณมากนะคะโอทิส... ขอให้ดวงวิญญาณของคุณได้พักผ่อนอย่างสงบสุขนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "To slaughter his adopted people too... Is there no end to his villainy?",
+      "text": "ถึงขนาดสังหารพลเรือนของแผ่นดินที่เขายอมรับเลี้ยงดูมาด้วยเลยเหรอ... ความโฉดชั่วช้าชั่วร้ายของเขาจะไม่มีวันสิ้นสุดเลยรึยังไงกัน?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I did not expect that such carnage would unfold here...",
+      "text": "ฉันไม่ได้คิดเลยว่าภาพการสังหารหมู่อันน่าสลดใจแบบนี้จะมาเกิดขึ้นที่นี่ได้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Godsdammit... What is Zoraal Ja trying to achieve by slaughtering his own people!?",
+      "text": "บัดซบเอ๊ย... โซราล จา ตั้งใจจะบรรลุเป้าหมายบ้าอะไรกันแน่ ถึงยอมลงมือฆ่าแกงประชาชนของตัวเองได้ขนาดนี้?!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That he's still bent on surpassing Papa is clear, but why this massacre? I don't understand...",
+      "text": "ที่เขาพยายามดิ้นรนเพื่อก้าวข้ามท่านพ่อให้ได้น่ะมันชัดเจนอยู่หรอก แต่ทำไมต้องถึงขั้นสังหารหมู่แบบนี้ด้วยล่ะ? ฉันไม่เข้าใจจริงๆ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Right now we can only guess at his intent, but his obsession must be strong indeed to endure after thirty years...",
+      "text": "ยามนี้พวกเราทำได้เพียงคาดเดาความตั้งใจของเขาเท่านั้นแหละค่ะ แต่ความยึดติดลุ่มหลงของเขามันคงจะฝังรากลึกและแรงกล้ามากจริงๆ ถึงได้ยืนหยัดข้ามผ่านเวลามาได้ตั้งสามสิบปีแบบนี้..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But now isn't the time to ponder such things. The people need our help.",
+      "text": "ทว่ายามนี้ไม่ใช่เวลาที่จะมานั่งใคร่ครวญคิดมากกับเรื่องนั้นหรอกค่ะ ประชาชนกำลังต้องการความช่วยเหลือจากพวกเราอยู่นะคะ"
+    }
+  ]
+}

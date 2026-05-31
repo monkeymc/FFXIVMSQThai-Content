@@ -1,0 +1,373 @@
+{
+  "id": "scale-of-trust",
+  "wiki_path": "/wiki/Scale_of_Trust",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Scale of Trust",
+  "title": "สายสัมพันธ์แห่งความไว้วางใจ",
+  "level": "94",
+  "location": "Yak T'el(X:35.8,Y:32.3)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The only way to help Mamook is to understand Mamook. We won't let Bakool Ja Ja down!",
+      "text": "หนทางเดียวที่จะช่วยเหลือมามูคได้ คือการทำความเข้าใจมามูคให้ได้เสียก่อน พวกเราจะไม่ทำให้บาคูล จา จา ต้องผิดหวังแน่นอน!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "To think that there was such a dark secret behind blessed siblings... Even among the Mamool Ja, I cannot imagine many know the whole truth─especially not those who reside in the capital.",
+      "text": "ไม่คิดเลยว่าจะมีเบาะแสความลับอันดำมืดซ่อนอยู่เบื้องหลังการถือกำเนิดของพี่น้องผู้ได้รับพร... ข้าคิดว่าแม้แต่ในกลุ่มชาวมามูอูล จา เองก็น่าจะมีคนไม่มากนักที่รู้ความจริงทั้งหมด โดยเฉพาะคนที่อาศัยอยู่ในเมืองหลวงครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Sometimes it's best to just forgive and move on. It can be difficult─gods, don't I know it─but that's all the more reason to try your damndest to look past how you were wronged and let bygones be bygones.",
+      "text": "...บางครั้งการยอมปล่อยวางและให้อภัยก็คือทางออกที่ดีที่สุดนะ ถึงมันจะยากแสนยาก—เฮ้อ ฉันเองก็รู้ซึ้งถึงความยากนั้นดี—แต่นั่นแหละคือเหตุผลที่เราต้องยอมพยายามสู้ชีวิตอย่างเต็มความสามารถเพื่อก้าวข้ามความแค้นและให้มันผ่านพ้นไป"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's amazing how Wuk Lamat can connect with anyone. She has an incredible gift.",
+      "text": "ช่างน่าทึ่งจริง ๆ เลยค่ะที่วุค ลามัต สามารถเชื่อมโยงจิตใจกับใครก็ได้แบบนี้ เธอมีพรสวรรค์ที่วิเศษสุด ๆ ไปเลยค่ะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We haven't a moment to lose.",
+      "text": "พวกเราไม่มีเวลาให้เสียแล้วล่ะครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "According to Miilal Ja, Moxutural Zooj is an abandoned settlement northwest of the city. It should afford us the privacy we require.",
+      "text": "ตามที่คุณมีลัล จา บอก ม็อกซูทูรัล ซูจ คือหมู่บ้านร้างทางทิศตะวันตกเฉียงเหนือของเมือง ที่นั่นน่าจะเงียบพอให้พวกเราคุยกันเป็นส่วนตัวได้ครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must work quickly, lest Zereel Ja discover our intentions. Fortunately, Bakool Ja Ja thought to give us additional scales, so we might cover more ground in less time.",
+      "text": "พวกเราต้องรีบลงมือทำ ก่อนที่คุณเซรีล จา จะล่วงรู้แผนการเข้า โชคดีที่บาคูล จา จา มอบเกล็ดของเขาเพิ่มมาให้พวกเราด้วย เราจะได้แยกย้ายกันไปรวบรวมคนได้เร็วขึ้นครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone should take one and get going. Use them to gather as many people as you can.",
+      "text": "ทุกคนเอาเกล็ดนี่ไปคนละชิ้นแล้วแยกย้ายกันเถอะ ใช้เกล็ดพวกนี้รวบรวมผู้คนมาให้ได้มากที่สุดนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forename , let's retrace our steps. Maybe this time we can convince folks to lend an ear.",
+      "text": "คุณ [ชื่อ] พวกเราลองย้อนกลับไปทางเดิมกันเถอะ คราวนี้น่าจะกล่อมให้พวกเขายอมรับฟังพวกเราได้บ้างนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look! I've already made a new friend!",
+      "text": "ดูสิ! ฉันได้เพื่อนใหม่แล้วคนหนึ่งล่ะ!"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Did I not tell you to move along? I can't be seen talking with the likes of you!",
+      "text": "ข้าไม่ได้บอกให้พวกเจ้าไสหัวไปรึไง? ข้าไม่อยากให้ใครเห็นว่าข้าคุยกับพวกนอกด่านอย่างพวกเจ้าหรอกนะ!"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "A blessed scale? In an outsider's hands? ...What business do you have with me?",
+      "text": "เกล็ดผู้ได้รับพรงั้นรึ? ไปอยู่ในมือของคนนอกด่านได้ยังไงกัน?... พวกเจ้ามีธุระอะไรกับข้า?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "So Bakool Ja Ja sent you to call an assembly... I'm not sure what to make of this, but I shall go to Moxutural Zooj at once.",
+      "text": "ที่แท้บาคูล จา จา ก็ส่งพวกเจ้ามาเรียกประชุมงั้นรึ... ข้าไม่ค่อยเข้าใจเจตนาของเขานักหรอกนะ แต่ข้าจะไปที่ม็อกซูทูรัล ซูจ เดี๋ยวนี้แหละ"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "...That scale. If the blessed trust you, then so will I.",
+      "text": "...ขนาดนั้น หากผู้ได้รับพรเชื่อใจคุณ ฉันก็จะเชื่อใจคุณเช่นกัน"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "So, what is it that you require of me?",
+      "text": "แล้วพวกเจ้าต้องการให้ข้าทำอะไรล่ะ?"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Bakool Ja Ja bids us come to Moxutural Zooj?",
+      "text": "บาคูล จา จา อยากให้พวกเราไปรวมตัวกันที่ม็อกซูทูรัล ซูจงั้นรึ?"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "A strange place for an assembly, but very well. I will not refuse he who fights for our dreams.",
+      "text": "เป็นจุดนัดพบที่แปลกประหลาดดีแท้ แต่ก็เอาเถอะ ข้าไม่มีทางปฏิเสธคำขอของผู้ที่คอยต่อสู้เพื่อความฝันของพวกเราอยู่แล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have you managed to gather some of the good folks?",
+      "text": "ทางฝั่งนายรวบรวมผู้คนมาได้บ้างหรือเปล่า?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wonderful! The esteemed Bakool Ja Ja will be pleased. This fellow here will be coming to Moxutural Zooj as well.",
+      "text": "ยอดเยี่ยมมาก! บาคูล จา จา ผู้ยิ่งใหญ่ต้องยินดีแน่นอน คนคนนี้ก็ตกลงจะไปที่ม็อกซูทูรัล ซูจ กับพวกเราเหมือนกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Apparently, there's a najool nursery to the west called Golmajiik Grove. Could you go and see who you can talk to there as well?",
+      "text": "เห็นว่าทางทิศตะวันตกมีสวนเพาะชำกล้วยนาจูลที่ชื่อว่า ป่ากอลมาจีค อยู่ด้วยล่ะ รบกวนนายช่วยลองแวะไปคุยกับคนที่นั่นหน่อยได้ไหม?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll meet you in Moxutural Zooj afterwards. There's just one more person I need to find!",
+      "text": "เสร็จแล้วเดี๋ยวพวกเราค่อยไปเจอกันที่ม็อกซูทูรัล ซูจ นะ พอดีฉันยังมีอีกคนหนึ่งที่ต้องไปตามหาตัวน่ะ!"
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Leave this place, outsider.",
+      "text": "ออกไปจากที่นี่ซะ คนนอกด่าน"
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Oh! My apologies, I was unaware. I thank you, blessed scale bearer, for bringing me word of this gathering.",
+      "text": "โอ๊ะ! ข้าต้องขออภัยด้วย ข้าไม่รู้เรื่องมาก่อนเลย ต้องขอบคุณท่านผู้ถือเกล็ดของผู้ได้รับพรมากนะที่สละเวลามาแจ้งข่าวประชุมนี้"
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "I shall away to Moxutural Zooj at once.",
+      "text": "ข้าจะรีบมุ่งหน้าไปยังม็อกซูทูรัล ซูจ เดี๋ยวนี้แหละ"
+    },
+    {
+      "character": "Hapoll Ja",
+      "text_en": "I have nothing to say to outsiders.",
+      "text": "ข้าไม่มีอะไรจะพูดกับคนนอกด่าน"
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Now that I think on it, why would Bakool Ja Ja grant you his scale...?",
+      "text": "จะว่าไป ทำไมบาคูล จา จา ถึงยอมยกเกล็ดของเขาให้พวกนอกด่านอย่างพวกเจ้ากันนะ...?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "What a curious place to gather...",
+      "text": "เป็นสถานที่รวมตัวที่ชวนให้ฉงนใจจริง ๆ..."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Whatever Bakool Ja Ja requires of me, I shall happily provide.",
+      "text": "ไม่ว่าบาคูล จา จา ต้องการอะไร ข้าก็ยินดีจัดหาให้ด้วยความเต็มใจเสมอ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Where's Wuk Lamat?",
+      "text": "วุค ลามัต ไปไหนซะแล้วล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry to keep you waiting!",
+      "text": "ขอโทษทีนะที่ปล่อยให้รอกันนาน!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You invited the Second Promise as well?",
+      "text": "เธอเชิญท่านสัญญาที่สองมาร่วมประชุมด้วยงั้นเหรอครับ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "<sigh> Lamaty'i. Need I remind you that this rite is a competition?",
+      "text": "<ถอนหายใจ> ลามาตีอิ ฉันจำเป็นต้องเตือนคุณว่าพิธีกรรมนี้เป็นการแข่งขันหรือไม่?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Whatever advantage you're about to share with me, you ought to utilize to your own benefit. I have barely made headway in communicating with the locals─at this rate, you lead the race to the golden city.",
+      "text": "ไม่ว่าข้อมูลสำคัญอะไรก็ตามที่เธอจะแบ่งปันกับพี่ เธอควรเก็บเอาไว้ใช้เพื่อประโยชน์ของตัวเองจะดีกว่านะ ตอนนี้พี่แทบไม่คืบหน้าในการเจรจากับคนท้องถิ่นเลยด้วยซ้ำ หากปล่อยไว้แบบนี้ เธอคงชิงนำหน้าพี่ในการเสาะหานครแห่งทองคำไปไกลแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I need your help.",
+      "text": "ฉันต้องการความช่วยเหลือจากพี่น่ะสิคะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "To complete the feat?",
+      "text": "เพื่อทำบททดสอบให้สำเร็จงั้นเหรอ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no. Mamook has a problem I can't solve on my own, and you're the most clever person I know.",
+      "text": "ไม่ใช่ค่ะ เมืองมามูคมีปัญหายุ่งยากที่ฉันไม่สามารถแก้ไขด้วยตัวคนเดียวได้ และพี่ก็เป็นคนที่ฉลาดหลักแหลมที่สุดเท่าที่ฉันรู้จักเลยนี่นา"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I want you to hear the people firsthand, so that we might come up with a way to help them.",
+      "text": "ฉันอยากให้พี่มาร่วมฟังความเดือดร้อนจากปากของประชาชนด้วยตัวเอง พวกเราจะได้ช่วยกันคิดหาทางช่วยเหลือเยียวยาพวกเขาได้ค่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Very well. I am at your disposal.",
+      "text": "เข้าใจแล้ว ยินดีรับใช้ตามที่เธอปรารถนาเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone, thank you for gathering on such short notice! I am Wuk Lamat, Third Promise of Tuliyollal.",
+      "text": "ทุกคนคะ ขอบคุณมากนะคะที่สละเวลามาประชุมด่วนกันในวันนี้ ฉันคือ วุค ลามัต สัญญาที่สามแห่งทูลิโยลลัลค่ะ"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Promise? I thought you served Bakool Ja Ja!",
+      "text": "สัญญาที่สามงั้นรึ? ข้านึกว่าเจ้าเป็นคนรับใช้คอยทำตามคำสั่งของบาคูล จา จา ซะอีก!"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "You deceived us!?",
+      "text": "นี่เจ้าหลอกพวกเรางั้นรึ!?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "No. They did not.",
+      "text": "ไม่ พวกเขาไม่ได้"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "The scales they showed you were mine. I entrusted them to the Third Promise and her retinue.",
+      "text": "เกล็ดที่พวกเขาแสดงให้พวกเจ้าเห็นเป็นของข้าเอง ข้าส่งมอบเกล็ดนั้นให้ท่านสัญญาที่สามและคณะเดินทางของเธอ"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Why honor these outsiders so?",
+      "text": "ทำไมท่านต้องให้เกียรติคนนอกด่านพวกนี้ถึงเพียงนี้ด้วยเล่า?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Because Wuk Lamat has won my trust. Now, you will hear her words.",
+      "text": "ก็เพราะว่าวุค ลามัต ได้รับความไว้วางใจจากข้าแล้ว ยามนี้ พวกเจ้าจงตั้งใจฟังถ้อยคำของเธอซะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bakool Ja Ja shared with me the truth about blessed siblings. About the price you pay to conceive them.",
+      "text": "บาคูล จา จา เล่าความจริงเรื่องพี่น้องผู้ได้รับพรให้ฉันฟังหมดแล้วล่ะค่ะ รวมถึงราคาอันแสนแพงที่พวกคุณต้องจ่ายเพื่อแลกกับการถือกำเนิดของพวกเขาด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As an outsider to your community, it is not my place to judge you or your culture.",
+      "text": "ในฐานะคนนอกด่าน ฉันคงไม่มีสิทธิ์ไปตัดสินหรือก้าวก่ายในขนบธรรมเนียมวัฒนธรรมของพวกคุณหรอกค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Culture is born of the experiences of its people. Of their lives and their land.",
+      "text": "วัฒนธรรมย่อมก่อกำเนิดขึ้นมาจากประสบการณ์ของคนในพื้นที่ จากวิถีชีวิตและความเป็นอยู่ของผืนดินแห่งนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But it breaks my heart to know that yours has brought you all so much suffering.",
+      "text": "แต่ฉันรู้สึกสะเทือนใจเหลือเกินที่ได้รู้ว่า วัฒนธรรมของพวกคุณกลับนำพาความเจ็บปวดรวดร้าวมาให้พวกคุณมากมายขนาดนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If any here wish to break from the cycle of tragedy that creating blessed siblings demands, I ask that you join us.",
+      "text": "หากมีใครในที่นี้ปรารถนาจะปลดแอกตัวเองออกจากวงจรอันน่าเศร้าสลดของการให้กำเนิดพี่น้องผู้ได้รับพร ขอให้มาร่วมมือกับพวกเราเถอะนะจ๊ะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Please. I don't want any more of our children to die.",
+      "text": "ได้โปรดเถอะ ข้าไม่อยากเห็นเด็ก ๆ ของพวกเราต้องล้มตายเพราะเรื่องนี้อีกต่อไปแล้ว"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "...You think we want this!?",
+      "text": "...นี่เจ้าคิดว่าพวกเราอยากให้เป็นแบบนี้งั้นรึ!?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "We have no choice! Only blessed siblings can liberate us from our suffering. Without them, we have nothing!",
+      "text": "พวกเราไม่มีทางเลือกเลยต่างหาก! มีเพียงพี่น้องผู้ได้รับพรเท่านั้นที่จะช่วยปลดปล่อยพวกเราให้พ้นจากความทุกข์ยากลำบากนี้ได้ หากไม่มีพวกเขา พวกเราก็ไม่มีสิ่งใดเหลือเลย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "That remains to be seen. Speak with the Third Promise. Share with her your worries and your pain, and together we may find a new way forward.",
+      "text": "เรื่องนั้นก็คงต้องคอยดูกันต่อไป ลองเปิดใจคุยกับท่านสัญญาที่สามสิ เล่าความกังวลและความเจ็บปวดรวดร้าวของพวกเจ้าให้เธอฟัง แล้วพวกเราจะช่วยกันคิดหาทางออกใหม่ร่วมกัน"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Together...?",
+      "text": "ร่วมมือกันงั้นรึ...?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "If she is trustworthy...then I will speak with her.",
+      "text": "หากเธอเป็นคนที่ไว้ใจได้จริง ๆ... ข้าก็จะยอมคุยกับเธอก็ได้"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "It would be best if you withdrew, my son. Many cannot yet speak freely in your presence.",
+      "text": "แม่ว่าลูกควรจะแวะออกไปพักผ่อนข้างนอกก่อนเถอะจ้ะ หลายคนยังไม่กล้าเอ่ยปากพูดความจริงยามที่ลูกยืนอยู่ตรงนี้จ้ะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's keep an eye out for Zereel Ja. He wouldn't take kindly to this sort of gathering.",
+      "text": "พวกเราต้องคอยจับตาเฝ้าระวังคุณเซรีล จา ไว้ให้ดีนะ เขาคงไม่พอใจแน่ถ้ารู้ว่าพวกเรามารวมกลุ่มประชุมกันแบบนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Once we understand everyone's concerns, we'll be better equipped to help them. Let's make sure they feel heard.",
+      "text": "ทันทีที่เราเข้าใจความกังวลของทุกคน เราก็จะเตรียมตัวหาหนทางเยียวยาได้ตรงจุดขึ้นนะ มาช่วยกันรับฟังเสียงของพวกเขากันเถอะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not even I imagined that my sister would one day befriend Bakool Ja Ja...",
+      "text": "แม้แต่พี่เองก็ไม่เคยคาดคิดมาก่อนเลยว่าวันหนึ่งน้องสาวจะแวะมาเป็นมิตรกับบาคูล จา จา ได้แบบนี้..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wuk Lamat risks her standing in the rite to attend to her people's needs. 'Tis a degree of selflessness few can claim to share.",
+      "text": "วุค ลามัต ยอมเสี่ยงลดทอนข้อได้เปรียบในพิธีการสืบทอดบัลลังก์เพื่อลงมาใส่ใจช่วยเหลือประชาชนของเธอ ความเสียสละระดับนี้น้อยคนนักที่จะทำได้ครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Everyone looks uneasy, but their faith in Bakool Ja Ja guides them even now.",
+      "text": "ทุกคนดูท่าทางระมัดระวังตัวกันอยู่ แต่ความเลื่อมใสศรัทธาที่มีต่อบาคูล จา จา ก็ยังช่วยชี้ทางมอบประกายความหวังให้แก่พวกเขาอยู่ค่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Now we come to the heart of it.",
+      "text": "เอาละ คราวนี้ก็เข้าถึงแก่นแท้ของปัญหาแล้วล่ะ"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Belief in blessed siblings and the salvation they would bring has sustained me for years and years. But if there's another way...if the Third Promise can truly help us...",
+      "text": "ความเชื่อเรื่องพี่น้องผู้ได้รับพรและการนำพาความสุขสบายมาให้ คอยค้ำจุนชีวิตข้ามาเนิ่นนานหลายปี แต่หากมันมีหนทางอื่นที่ดีกว่าจริง ๆ... หากท่านสัญญาที่สามสามารถช่วยเหลือพวกเราได้จริง ๆ ล่ะก็..."
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "I don't know what to think or how to feel about this...",
+      "text": "ข้าสับสนไปหมดแล้ว ไม่รู้เลยว่าควรจะคิดหรือรู้สึกยังไงกับเรื่องนี้ดี..."
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "An end to blessed siblings...?",
+      "text": "การยุติเรื่องพี่น้องผู้ได้รับพรงั้นรึ...?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I'm sure my son would have preferred to stay, but his presence alone still greatly sways our people's behavior.",
+      "text": "แม่มั่นใจว่าลูกชายของแม่คงอยากจะอยู่ช่วยที่นี่ต่อจ้ะ แต่เพียงแค่การปรากฏตัวของเขาก็ยังคงส่งผลต่อท่าทางของชาวบ้านมากเกินไปอยู่ดีจ้ะ"
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "Even if Bakool Ja Ja trusts the Third Promise, I don't know if I'm comfortable discussing this with her...",
+      "text": "ถึงบาคูล จา จา จะไว้ใจท่านสัญญาที่สามก็เถอะ แต่ข้าก็ยังไม่ค่อยสบายใจที่จะพูดคุยเล่าเรื่องละเอียดอ่อนนี้กับเธออยู่ดี..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm glad Koana agreed to help us.",
+      "text": "ฉันดีใจจริง ๆ ค่ะที่พี่โคอานายอมสละเวลามาช่วยพวกเรา"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's always been good at solving complicated problems. Me, not so much─but I'll support Mamook's people however I can.",
+      "text": "พี่เขาเก่งกาจเรื่องการแก้ปัญหายุ่งยากซับซ้อนเสมอมา ส่วนฉันน่ะเรื่องหัวคิดไม่ค่อยได้เรื่องเท่าไหร่—แต่ฉันก็ตั้งใจจะสนับสนุนเยียวยาชาวมามูคสุดกำลังความสามารถค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "By combining our respective strengths, we'll help them discover a new source of hope. I know we will!",
+      "text": "เมื่อพวกเรานำเเอาจุดเด่นของแต่ละคนมาร่วมมือกัน พวกเราต้องช่วยให้พวกเขาได้ค้นพบประกายสุกสกาวของความหวังใหม่ได้แน่นอนค่ะ ฉันมั่นใจ!"
+    }
+  ]
+}

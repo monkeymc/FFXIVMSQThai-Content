@@ -1,0 +1,1133 @@
+{
+  "id": "the-feat-of-the-brotherhood",
+  "wiki_path": "/wiki/The_Feat_of_the_Brotherhood",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of the Brotherhood",
+  "title": "บททดสอบแห่งภราดรภาพ",
+  "level": "95",
+  "location": "Yak T'el(X:21.1,Y:21.5)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Unsure Citizen",
+      "text_en": "I don't think I trust the Third Promise yet. But if she can offer us some tangible hope, then maybe...",
+      "text": "ฉันคิดว่าฉันยังไม่เชื่อสัญญาที่สามเลย แต่ถ้าเธอให้ความหวังที่จับต้องได้แก่เรา บางที..."
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Many are reluctant to trust the Third Promise, but all agreed to wait for her return. That alone gives me cause to hope.",
+      "text": "หลายคนไม่เต็มใจที่จะเชื่อถือสัญญาที่สาม แต่ทุกคนก็ตกลงที่จะรอการกลับมาของเธอ เพียงอย่างเดียวนั้นทำให้ฉันมีความหวัง"
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "Honestly, I don't know what I hope to hear...",
+      "text": "จริงๆ แล้วฉันไม่รู้ว่าฉันหวังจะได้ยินอะไร..."
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "If you can truly help us, I'll wait here for as long as you need.",
+      "text": "หากคุณสามารถช่วยเราได้จริงๆ ฉันจะรออยู่ที่นี่นานเท่าที่คุณต้องการ"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "I remain here out of deference to Miilal Ja. As the mother of our chosen one, her wishes deserve to be honored.",
+      "text": "ฉันอยู่ที่นี่เพื่อแสดงความเคารพต่อ Miilal Ja ในฐานะแม่ของผู้ที่เราเลือก ความปรารถนาของเธอสมควรได้รับการยกย่อง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sure Zereel Ja would have choice words for us if he knew what we were up to.",
+      "text": "ฉันแน่ใจว่าเซเรล จาคงจะมีคำพูดดีๆ ให้เราถ้าเขารู้ว่าเรากำลังทำอะไรอยู่"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But his people are my people, and I can't ignore their plight.",
+      "text": "แต่คนของเขาคือคนของฉัน และฉันไม่สามารถเพิกเฉยต่อชะตากรรมของพวกเขาได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If I'm to call myself Dawnservant one day, I have to bring an end to the tragedy here. Many are depending on me, Bakool Ja Ja not least of all.",
+      "text": "หากวันหนึ่งฉันจะเรียกตัวเองว่า ดอว์นเซิร์ฟวันต์ ฉันจะต้องยุติโศกนาฏกรรมที่นี่ หลายคนพึ่งฉัน บาคูล จาจา ไม่น้อยเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Anyway, I'm sure Koana and the others will be back with their report soon.",
+      "text": "อย่างไรก็ตาม ฉันมั่นใจว่าโคอาน่าและคนอื่นๆ จะกลับมาพร้อมรายงานเร็วๆ นี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They shouldn't be much longer now!",
+      "text": "พวกเขาไม่ควรนานกว่านี้อีกแล้ว!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Good, everyone is assembled. In light of our news, I thought it only right to call the others.",
+      "text": "ดีทุกคนมารวมตัวกัน จากข่าวของเรา ฉันคิดว่ามันถูกต้องแล้วที่จะโทรหาคนอื่นๆ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thanks to the efforts of all, I'm pleased to say our analysis has yielded many valuable insights.",
+      "text": "ต้องขอบคุณความพยายามของทุกคน ฉันยินดีที่จะบอกว่าการวิเคราะห์ของเราให้ข้อมูลเชิงลึกที่มีคุณค่ามากมาย"
+    },
+    {
+      "character": "Koana",
+      "text_en": "And I daresay the prognosis is hopeful.",
+      "text": "และฉันกล้าบอกว่าการพยากรณ์โรคนั้นมีความหวัง"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Earlier, we asked about the hopes you place in blessed siblings. Why they are important to you.",
+      "text": "ก่อนหน้านี้เราถามเกี่ยวกับความหวังที่คุณมีต่อพี่น้องที่ได้รับพร ทำไมพวกเขาถึงสำคัญสำหรับคุณ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Your overwhelming response was a frustration towards this forest.",
+      "text": "การตอบสนองอย่างล้นหลามของคุณคือความหงุดหงิดต่อป่าแห่งนี้"
+    },
+    {
+      "character": "Koana",
+      "text_en": "From a lack of natural resources to the inability to cultivate crops, in all respects have you ever struggled to build a prosperous home. Thus your understandable desire for new land.",
+      "text": "ตั้งแต่การขาดแคลนทรัพยากรธรรมชาติไปจนถึงการไม่สามารถเพาะปลูกพืชผล คุณเคยต่อสู้ดิ้นรนเพื่อสร้างบ้านที่เจริญรุ่งเรืองทุกประการหรือไม่ ดังนั้นความปรารถนาอันเข้าใจได้ของคุณสำหรับดินแดนใหม่"
+    },
+    {
+      "character": "Koana",
+      "text_en": "However, this would be an unfortunate dismissal of what makes your forest uniquely valuable.",
+      "text": "อย่างไรก็ตาม นี่ถือเป็นการละเลยสิ่งที่ทำให้ป่าไม้ของคุณมีคุณค่าอย่างมีเอกลักษณ์"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That is, the soil. Our tests have proven, without a doubt, that the Ja Tiika Heartland is abundantly fertile.",
+      "text": "นั่นก็คือดิน การทดสอบของเราได้พิสูจน์แล้วอย่างไม่ต้องสงสัยว่า Ja Tiika Heartland มีความอุดมสมบูรณ์อุดมสมบูรณ์"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This may be surprising to hear, as you have seen crops fail time and time again. But we have discovered the root of this problem as well.",
+      "text": "สิ่งนี้อาจเป็นเรื่องที่น่าแปลกใจที่คุณได้ยินมาเนื่องจากคุณเคยเห็นพืชผลล้มเหลวครั้งแล้วครั้งเล่า แต่เราก็ได้ค้นพบต้นตอของปัญหานี้แล้วเช่นกัน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The meteorites scattered throughout your forest emit an unusual energy that greatly influences the development of surrounding plant life.",
+      "text": "อุกกาบาตที่กระจัดกระจายไปทั่วป่าของคุณปล่อยพลังงานที่ผิดปกติซึ่งมีอิทธิพลอย่างมากต่อการพัฒนาชีวิตพืชโดยรอบ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Some plants thrive on this energy─like the najool and the giant trees that create the canopy. But others, as you well know, are sickened by it.",
+      "text": "พืชบางชนิดเจริญเติบโตได้ด้วยพลังงานนี้ เช่น นาจูลและต้นไม้ขนาดยักษ์ที่สร้างทรงพุ่ม แต่คนอื่น ๆ อย่างที่คุณทราบก็รู้สึกแย่กับมัน"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Fortunately, the solution is simple.",
+      "text": "โชคดีที่วิธีแก้ปัญหานั้นง่ายมาก"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Across the salt in a place called Sharlayan, there is a peerless collection of flora sampled from every corner of the world.",
+      "text": "ทั่วทั้งเกลือในสถานที่ที่เรียกว่า Sharlayan มีพืชพรรณที่ไม่มีใครเทียบได้ซึ่งเก็บตัวอย่างมาจากทั่วทุกมุมโลก"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Now that we know what energies are most prevalent in your forest, we can offer you seeds and starters guaranteed to thrive here.",
+      "text": "ตอนนี้เรารู้แล้วว่าพลังงานชนิดใดแพร่หลายมากที่สุดในป่าของคุณ เราจึงสามารถเสนอเมล็ดพันธุ์และสารอาหารที่รับประกันว่าจะเติบโตได้ที่นี่"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I took the liberty of contacting a few colleagues via linkpearl. Should you desire them, a sample of our best candidates can be shipped here in short order.",
+      "text": "ฉันมีอิสระในการติดต่อเพื่อนร่วมงานสองสามคนผ่านทาง linkpearl หากคุณต้องการสิ่งเหล่านี้ คุณสามารถจัดส่งตัวอย่างผู้สมัครที่ดีที่สุดของเราได้ที่นี่ในลำดับอันสั้น"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Just as Eorzea acquired the popoto and tomato from Tural, so too might Mamook benefit from foreign crops.",
+      "text": "เช่นเดียวกับที่เออร์เซียได้รับโปโปโตและมะเขือเทศจากทูรัล มามุกก็อาจได้รับประโยชน์จากพืชต่างประเทศเช่นกัน"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "You mean...we'd be able to grow more than najool here?",
+      "text": "คุณหมายถึง...เราจะเติบโตได้มากกว่านาจูลที่นี่เหรอ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Precisely. While care must be taken to choose those species that will not have an adverse effect on the ecosystem, your agricultural options should increase markedly.",
+      "text": "แม่นยำ. แม้ว่าจะต้องระมัดระวังในการเลือกสายพันธุ์ที่จะไม่ส่งผลเสียต่อระบบนิเวศ แต่ทางเลือกทางการเกษตรของคุณควรเพิ่มขึ้นอย่างเห็นได้ชัด"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With the right crops, Mamook will have all it needs to prosper, both at home and in trade. Blessed siblings don't have to be the answer anymore!",
+      "text": "ด้วยพืชผลที่เหมาะสม มามุกจะมีทุกสิ่งที่จำเป็นเพื่อความเจริญรุ่งเรือง ทั้งที่บ้านและในการค้าขาย พี่น้องบุญไม่ต้องเป็นคำตอบอีกต่อไป!"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Then...there was never any need to fight? Never any need to sacrifice...",
+      "text": "แล้ว...ไม่จำเป็นต้องทะเลาะกันเลยเหรอ? ไม่จำเป็นต้องเสียสละใดๆ..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "We can't change the past. But we can try to make the future better.",
+      "text": "เราเปลี่ยนอดีตไม่ได้ แต่เราสามารถพยายามทำให้อนาคตดีขึ้นได้"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Let the old teachings end with us.",
+      "text": "ให้คำสอนเก่าจบลงที่เรา"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know blessed siblings represent absolute strength to you. Letting go of that idea can't be easy.",
+      "text": "ฉันรู้ว่าพี่น้องที่ได้รับพรเป็นตัวแทนของความเข้มแข็งที่แท้จริงต่อคุณ การปล่อยความคิดนั้นไม่ใช่เรื่องง่าย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I'll prove that when we work together, our combined strength can achieve anything!",
+      "text": "แต่ฉันจะพิสูจน์ว่าเมื่อเราทำงานร่วมกัน พลังที่รวมกันของเราสามารถบรรลุทุกสิ่งได้!"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "...Show us, Promise.",
+      "text": "...แสดงให้เราเห็นเถิด สัญญา"
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "If there's another way... For our children and our home... We'll no longer suffer in silence!",
+      "text": "หากมีทางอื่น... เพื่อลูกๆ และบ้านของเรา... เราจะไม่ทนทุกข์อยู่ในความเงียบอีกต่อไป!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sometimes, we have to fight alone─but not this time.",
+      "text": "บางครั้งเราต้องสู้คนเดียว แต่ไม่ใช่ครั้งนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Would you say a few words, Forename ?",
+      "text": "คุณช่วยพูดคำสองสามคำได้ไหม ชื่อหน้า ?"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "The Skyruin!? The great Gulool Ja Ja himself struggled to even seal it!",
+      "text": "สกายรูน!? กูลูลจาจาผู้ยิ่งใหญ่เองก็ดิ้นรนที่จะผนึกมันเอาไว้!"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Saving the star is far beyond the scope of our needs...but I acknowledge the value of allies.",
+      "text": "การออมดาวนั้นอยู่นอกเหนือขอบเขตความต้องการของเรา...แต่ฉันยอมรับคุณค่าของพันธมิตร"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Friends? A perplexing notion from an outsider...but not unwelcome.",
+      "text": "เพื่อน? ความคิดที่น่างงงวยจากคนนอก...แต่ก็ไม่เป็นที่พอใจ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've said what we wanted to say!",
+      "text": "เราได้พูดสิ่งที่เราอยากจะพูดแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now all that's left is to defeat my father's shade in the Feat of the Brotherhood and clear the way for Mamook's bright new future!",
+      "text": "ตอนนี้สิ่งที่เหลืออยู่คือเอาชนะเงาของพ่อฉันใน บททดสอบแห่งภราดรภาพ และเปิดทางสู่อนาคตใหม่ที่สดใสของ มามูค!"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "Do not give us cause to question our faith in you, please. Live up to your words.",
+      "text": "อย่าทำให้เราตั้งคำถามกับศรัทธาของเราในตัวคุณเลย ดำเนินชีวิตตามคำพูดของคุณ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will!",
+      "text": "ฉันจะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After we complete his feat, let's be sure to tell Zereel Ja the good news about his forest. I'm sure he's as eager as anyone to eat what tasty foods they'll grow here!",
+      "text": "หลังจากที่เราทำผลงานของเขาเสร็จแล้ว อย่าลืมบอกข่าวดีเกี่ยวกับป่าของเขาให้ Zereel Ja ฟังด้วย ฉันมั่นใจว่าเขาคงกระตือรือร้นพอๆ กับใครๆ ที่จะได้กินอาหารอร่อยๆ ที่พวกเขาจะปลูกที่นี่!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Compassion even for the likes of him. You continue to eclipse me in every way...",
+      "text": "ความเห็นอกเห็นใจแม้กระทั่งกับคนที่ชอบเขา คุณยังคงบดบังฉันทุกวิถีทาง ..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Then it is a simple choice.",
+      "text": "...ก็เป็นทางเลือกง่ายๆ"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "We're counting on you, Wuk Lamat...",
+      "text": "ไว้วางใจคุณ วุค ละมาด..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wuk Lamat's gone ahead to announce her readiness.",
+      "text": "วุค ละมาด ประกาศความพร้อมแล้ว"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I never imagined the samples we so feverishly collected for the exodus would find new purpose here...",
+      "text": "ฉันไม่เคยคิดเลยว่าตัวอย่างที่เรารวบรวมมาเพื่อการอพยพจะพบจุดประสงค์ใหม่ที่นี่..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But if they help these people improve their prospects, all the better.",
+      "text": "แต่ถ้าพวกเขาช่วยคนเหล่านี้ปรับปรุงโอกาสของพวกเขา อะไรๆ ก็ดีขึ้น"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Anyway, we should go and meet our comrades where Zoraal Ja made his own attempt. The final feat awaits...",
+      "text": "อย่างไรก็ตาม เราควรไปพบกับสหายของเราที่ โซราล จา พยายามด้วยตัวเอง ความสำเร็จครั้งสุดท้ายที่รอคอย..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This feat may bring us closer to the golden city, but for now we must stand strong for the people of Mamook!",
+      "text": "ความสำเร็จนี้อาจทำให้เราเข้าใกล้เมืองทองมากขึ้น แต่ตอนนี้ เราต้องยืนหยัดเพื่อชาวมามุกให้ได้ก่อน!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I can offer moral support at best. For whatever it's worth. Good luck.",
+      "text": "ฉันสามารถให้กำลังใจคุณได้ดีที่สุด เพื่อสิ่งใดก็ตามที่มันคุ้มค่า ขอให้โชคดี."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Zereel Ja's intention was for this feat to prove the supremacy of blessed siblings.",
+      "text": "ความตั้งใจของ Zereel Ja คือการแสดงความสำเร็จนี้เพื่อพิสูจน์ความยิ่งใหญ่ของพี่น้องที่ได้รับพร"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But Wuk Lamat shall instead prove that there are other ways for Mamook's people to empower themselves.",
+      "text": "แต่วุคละมาดจะพิสูจน์แทนว่าคนของมะมุกมีวิธีอื่นที่จะเสริมกำลังตัวเองได้"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Where did Koana go? Have you seen him?",
+      "text": "โคอาน่าไปไหน? คุณเคยเห็นเขาไหม?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Someone has gone to fetch Zereel Ja. He should be here soon.",
+      "text": "มีคนไปเอาเซเรลจาแล้ว เขาควรจะมาที่นี่เร็วๆ นี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zereel Ja! I'm ready for the final feat!",
+      "text": "คุณเซรีล จา! ฉันตระเตรียมตัวพร้อมสำหรับบททดสอบข้อสุดท้ายแล้วค่ะ!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Hmph. Grown weary of postponing the inevitable, have you?",
+      "text": "หึ ทนรอไม่ไหวจนอยากก้าวเข้ามาเผชิญชะตากรรมความพ่ายแพ้ที่หลีกเลี่ยงไม่ได้แล้วงั้นรึ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Something like that. You see, I've learned all sorts of things about Mamook and your people.",
+      "text": "บางอย่างเช่นนั้น เห็นไหมว่าฉันได้เรียนรู้ทุกอย่างเกี่ยวกับมามุกและคนของคุณแล้ว"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Is that supposed to impress me?",
+      "text": "นั่นควรจะทำให้ฉันประทับใจใช่ไหม?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I now understand why I need to surpass blessed siblings.",
+      "text": "ตอนนี้ฉันเข้าใจดีแล้วล่ะค่ะว่า ทำไมฉันถึงจำเป็นต้องก้าวข้ามผ่านเอาชนะพี่น้องผู้ได้รับพรสองหัวให้ได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The cost of producing “superior” offspring is destroying your people's souls. Look at them and you'll see this.",
+      "text": "ราคาที่แสนแพงที่พวกคุณต้องยอมสูญเสียไปเพื่อเป้าหมายในการให้กำเนิดเด็กทารกสองหัวที่ “เหนือกว่า” กำลังกัดกินจิตวิญญาณและความสุขของประชาชนคุณย่อยยับ ลองเปิดตากว้างมองดูความทุกข์ระทมของพวกเขาสิคะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So I'll defeat my father's shade and prove to you that there's a better path for Mamook!",
+      "text": "เพราะงั้น ฉันจะก้าวเข้าล้มเศษเสี้ยวความทรงจำของท่านพ่อลงให้ได้ เพื่อพิสูจน์ให้คุณเห็นประจักษ์ว่า มันมีหนทางเดินที่ดีกว่านี้สำหรับอนาคตของมามูคค่ะ!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "What drivel. Without the blessed, we are nothing but weaklings─doomed to fade into obscurity!",
+      "text": "ถ้อยคำเหลวไหลสิ้นดี! หากปราศจากความยิ่งใหญ่ของผู้ได้รับพร พวกเรามามูคก็เป็นได้แค่พวกอ่อนแอต่ำต้อย—ชะตากรรมมีแต่จะเหี่ยวเฉาลบเลือนหายไปจากหน้าประวัติศาสตร์เท่านั้น!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course you're weak. We all are, each and every one of us.",
+      "text": "ก็ใช่สิคะ มนุษย์เราน่ะอ่อนแอกันทั้งนั้นแหละ ไม่มีใครสมบูรณ์แบบหรอกค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But when we join hands, we gain the strength to overcome any foe─even Valigarmanda!",
+      "text": "แต่ยามใดที่พวกเรากุมมือกันก้าวข้ามผ่านอุปสรรค สายสัมพันธ์จะมอบพลังพละกำลังอันทรงพลังให้พวกเราสยบศัตรูชั่วร้ายลงได้—แม้แต่อสูรภัยพิบัติวาลิการ์มันดาก็ตามค่ะ!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Enough talk. Prove your mettle against Gulool Ja Ja, the finest warrior ever to have graced Tural!",
+      "text": "เลิกปากดีอวดเก่งได้แล้ว จงพิสูจน์ทักษะความสามารถของเจ้าด้วยการสยบกูลูล จา จา นักรบที่แกร่งที่สุดในหน้าประวัติศาสตร์ทูรัลลงให้ได้ซะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Fine by me. Not even Papa's shade will stop me from upholding his legacy!",
+      "text": "ดีเลยล่ะค่ะ! ต่อให้เป็นเงาร่างจำลองของท่านพ่อก็ไม่มีวันขัดขวางขจัดเจตจำนงการสืบทอดบัลลังก์ของฉันได้หรอกค่ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will fight alongside her.",
+      "text": "ผมจะร่วมสู้ศึกในศึกครั้งนี้เคียงข้างเธอด้วยครับ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Claimants are not permitted to assist one another, Second Promise. But you may observe your sister's pitiable attempt.",
+      "text": "ข้อตกลงของพิธีสืบทอดราชบัลลังก์ระบุไว้ชัดเจนว่า ห้ามผู้ท้าชิงช่วยเหลือเจรจากันเองในบททดสอบ ท่านสัญญาที่สอง แต่หากท่านต้องการ จะยืนดูความพ่ายแพ้อันน่าสมเพชของน้องสาวอยู่ห่าง ๆ ก็ได้นะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I see. In that case...",
+      "text": "ฉันเห็น. ในกรณีนั้น..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "It seems I'm no longer a claimant. I am now free to participate, I trust?",
+      "text": "ดูเหมือนว่ายามนี้ผมจะขอสละสิทธิ์ถอนตัวจากการเป็นผู้ท้าชิงแล้วล่ะครับ หวังว่าตอนนี้ผมคงมีอิสระที่จะก้าวเข้าร่วมสู้รบได้แล้วใช่ไหมครับ?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "What are you scheming?",
+      "text": "คุณกำลังวางแผนอะไรอยู่?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Nothing. I've simply come to realize who is worthy of following in Father's footsteps.",
+      "text": "ไม่ได้มีแผนตุกติกอะไรเลยครับ ผมแค่ตระหนักรู้และเข้าใจแล้วว่า ใครคือผู้ที่คู่ควรที่สุดที่จะสืบทอดมรดกเจตจำนงของท่านพ่อครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not our brother. Not Bakool Ja Ja. And not me.",
+      "text": "ไม่ใช่พี่ใหญ่โซราล จา ไม่ใช่บาคูล จา จา... และไม่ใช่ตัวผมด้วยครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You have always held the happiness of our people closest to your heart, Lamaty'i. So I will do everything in my power to ensure you ascend to the throne.",
+      "text": "เธอเป็นคนเดียวที่คอยเอาใจใส่ความสุขของประชาชนไว้ในใจส่วนลึกที่สุดเสมอ ลามัตยี่ ดังนั้น พี่จะทำทุกวิถีทางสุดกำลังความสามารถเพื่อสนับสนุนผลักดันให้เธอขึ้นครองราชบัลลังก์ให้ได้"
+    },
+    {
+      "character": "Koana",
+      "text_en": "This is how I shall repay Father for his kindness. This is how I shall serve Tuliyollal!",
+      "text": "นี่แหละคือหนทางที่ผมจะตอบแทนพระคุณอันล้นพ้นของท่านพ่อ และนี่คือวิธีที่ผมจะอุทิศตัวรับใช้แผ่นดินทูลิโยลลัลครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I could always count on you, Koana. Thank you.",
+      "text": "ฉันรู้เสมอว่าฉันสามารถพึ่งพาพี่ได้เสมอ ขอบคุณมากนะคะพี่โคอานา"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Hmph. It will make no difference. Numbers matter not in the face of true might.",
+      "text": "หึ! เปล่าประโยชน์สิ้นดี จำนวนคนไม่มีผลลัพธ์อะไรหรอกเมื่อต้องเผชิญหน้ากับพละกำลังที่แท้จริง"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Gulool Ja Ja, mightiest of the blessed...arise!",
+      "text": "กูลูล จา จา ผู้ได้รับพรที่แข็งแกร่งที่สุดในปฐพี... จงตื่นขึ้นมา!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone ready?",
+      "text": "ทุกคนพร้อมหรือยัง?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No hard feelings, Papa! I've got a lot of hopes riding on my shoulders─and the only way forward is through you!",
+      "text": "ไม่ไหวแล้วพ่อ! ฉันมีความหวังมากมายอยู่บนบ่าของฉัน─และหนทางเดียวที่จะก้าวไปข้างหน้าคือผ่านคุณ!"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Bear witness to our resolve!",
+      "text": "จงดูปณิธานความมุ่งมั่นของข้า!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "And the reason which guides our journey...",
+      "text": "และเหตุผลที่จะชี้นำทางในการเดินทางของพวกเรา..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So long as we stand together, we're unstoppable!",
+      "text": "ตราบใดที่พวกเราหยัดยืนสู้ศึกร่วมกัน ก็ไม่มีอะไรมาขัดขวางขจัดพวกเราได้หรอก!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What potent magic. In that case...",
+      "text": "ช่างเป็นเวทมนตร์อัญเชิญที่ทรงอิทธิพลมากทีเดียวครับ ถ้าอย่างนั้น..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall protect thee.",
+      "text": "ข้าพเจ้าจักขอทำหน้าที่ปกป้องคุ้มครองท่านเองครับ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Beware your surroundings!",
+      "text": "ระมัดระวังตัวเฝ้ารอบด้านไว้ให้ดีนะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Father's magicks are incredible...",
+      "text": "เวทมนตร์อัญเชิญของท่านพ่อช่างทรงพลังรุนแรงน่าทึ่งจริง ๆ..."
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "These blades sundered Valigarmanda's scales!",
+      "text": "คมดาบเหล่านี้เคยฟาดฟันกะเทาะเกล็ดของวาลิการ์มันดาย่อยยับมาแล้ว!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Mark the trajectory of his blades.",
+      "text": "โปรดสังเกตทิศทางวิถีการกวัดแกว่งดาบของเขาด้วยครับ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Promise!",
+      "text": "ท่านสัญญา!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No mercy, eh?",
+      "text": "ไม่ออมมือให้กันเลยนะคะท่านพ่อ!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Blades of fire rain.",
+      "text": "คมดาบเพลิงจักร่วงหล่นดั่งห่าฝน"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I-I'm fine, I'm fine!",
+      "text": "ฉัน-ฉันสบายดี ฉันสบายดี!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie! Are you all right!?",
+      "text": "อลิเซีย! สบายดีไหม!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Such power...",
+      "text": "พลังดังกล่าว..."
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Take that!",
+      "text": "รับนี่ไปซะ!"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Gahahahaha!",
+      "text": "กว้าฮ่าฮ่าฮ่า!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Spread out, spread out!",
+      "text": "แยกย้ายหลบกระจายกำลังด่วนเลยจ้ะ!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "What a chore...",
+      "text": "ช่างน่ารำคาญใจจริง ๆ..."
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Ever hungry for battle...",
+      "text": "กระหายศึกไม่เคยเปลี่ยนแปรเลยแฮะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This should help!",
+      "text": "เวทมนตร์นี้ช่วยเยียวยาได้ค่ะ!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You're not alone!",
+      "text": "คุณไม่ได้ต่อสู้เพียงลำพังนะครับ!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Go forth!",
+      "text": "จงก้าวเข้าไป!"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Heh. Overbearing bastard.",
+      "text": "หึ อวดดีชอบชี้นำสั่งการไม่เปลี่ยนเลยนะเจ้าหัวตัวดี"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "How is this?",
+      "text": "เป็นอย่างไรบ้างล่ะ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "He's beginning a ritual of flame!",
+      "text": "เขากำลังเริ่มประกอบพิธีร่ายเปลวเพลิงสังหารแล้วครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh!? I-I can't move!",
+      "text": "เอ๊ะ!? ข-ขยับเขยื้อนร่างกายไม่ได้เลยค่ะ!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This isn't good.",
+      "text": "ท่าไม่ดีซะแล้วแฮะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "These magicks are too strong!",
+      "text": "คาถาอาคมนี้ทรงอิทธิพลเหนือกฎเกณฑ์เกินไปแล้วครับ!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Curses...",
+      "text": "คำสาป..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Some manner of paralyzing effect—defend the afflicted!",
+      "text": "เป็นคาถาสะกดพันธนาการสะกดวิญญาณแน่—ช่วยคุ้มกันคนที่โดนคาถาด่วนครับ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must free them! Target the constricting flames!",
+      "text": "พวกเราต้องช่วยแก้มัดปัดเป่าภัยให้พวกเขาค่ะ! เล็งเป้าโจมตีทำลายเปลวเพลิงที่พันธนาการไว้ด่วนค่ะ!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "None can outrun my flames.",
+      "text": "ไม่มีใครสามารถวิ่งหนีเปลวเพลิงการแผดเผาของข้าพ้นหรอก"
+    },
+    {
+      "character": "Koana",
+      "text_en": "For Lamaty'i!",
+      "text": "เพื่อลามัตยี่!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not enough... But together, we shall triumph!",
+      "text": "แค่นี้ยังไม่พอ... แต่หากพวกเรากุมมือก้าวข้ามผ่าน เราย่อมคว้าชัยชนะได้แน่นอนครับ!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I thank you.",
+      "text": "ฉันขอบคุณ."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks! I owe you one.",
+      "text": "ขอบคุณ! ฉันเป็นหนี้คุณอย่างหนึ่ง"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank the Twelve...",
+      "text": "ขอบคุณสิบสอง..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "My thanks.",
+      "text": "ขอบคุณของฉัน"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Keep heart!",
+      "text": "รักษาใจ!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall protect thee.",
+      "text": "ข้าพเจ้าจักขอทำหน้าที่ปกป้องคุ้มครองท่านเองครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You're not alone!",
+      "text": "คุณไม่ได้ต่อสู้เพียงลำพังนะครับ!"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Blades of fire rain.",
+      "text": "คมดาบเพลิงจักร่วงหล่นดั่งห่าฝน"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "I know now who you are, but I applaud your tenacity.",
+      "text": "ตอนนี้ฉันรู้ว่าคุณเป็นใคร แต่ฉันขอชื่นชมความดื้อรั้นของคุณ"
+    },
+    {
+      "character": "Head of Reason",
+      "text_en": "Surely this will quench your thirst for battle.",
+      "text": "สิ่งนี้จะช่วยดับความกระหายในการต่อสู้ของคุณได้อย่างแน่นอน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wah!",
+      "text": "วะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "What!?",
+      "text": "อะไร!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Agh!",
+      "text": "อ๊ะ!"
+    },
+    {
+      "character": "Gulool Ja Ja's Glory",
+      "text_en": "Resolve and Reason kindle...",
+      "text": "เมื่อเปลวไฟแห่งปณิธานและเหตุผลประสานกลมเกลียวโชติช่วง..."
+    },
+    {
+      "character": "Gulool Ja Ja's Glory",
+      "text_en": "By crimson wrath be sundered!",
+      "text": "จงมลายสลายหายไปด้วยโทสะอัคคีสีชาดนี้ซะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Everyone, get behind me! I've got a bad feeling about this...",
+      "text": "ทุกคน รีบมาหลบอยู่ข้างหลังฉันด่วนเลยค่ะ! สังหรณ์ใจไม่ดีกับคาถาการโจมตีนี้เลยค่ะ..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Of course.",
+      "text": "แน่นอน."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're in your hands.",
+      "text": "เราอยู่ในมือของคุณ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understood!",
+      "text": "เข้าใจแล้ว!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "All right!",
+      "text": "เอาล่ะ!"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Will you have the strength to stand after this?",
+      "text": "คุณจะมีพลังที่จะยืนหยัดหลังจากนี้หรือไม่?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Do you need a hand?",
+      "text": "คุณต้องการมือไหม?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have your back!",
+      "text": "ฉันมีหลังของคุณ!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You're not alone!",
+      "text": "คุณไม่ได้ต่อสู้เพียงลำพังนะครับ!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall assist thee.",
+      "text": "ฉันจะช่วยคุณ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I will be the next Dawnservant...I will protect my people!",
+      "text": "ฉันจะเป็นดอว์นเซิร์ฟวันต์คนต่อไป... และฉันจะปกป้องเยียวยาประชาชนของฉันให้ได้ค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I won't lose...!",
+      "text": "ฉันไม่มีวันแพ้เด็ดขาด...!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hehehe... Is that the best you can do?",
+      "text": "ฮะฮะฮะ... ฝีมือของท่านพ่อมีอยู่แค่นี้เองงั้นเหรอคะ?"
+    },
+    {
+      "character": "Head of Resolve",
+      "text_en": "Impressive—but I'm not finished y et!",
+      "text": "ใช้ได้เลยนี่—แต่ข้ายังเหลือลูกเล่นสู้รบอีกเยอะนะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We will see Lamaty'i become Dawnservant. For Tuliyollal!",
+      "text": "พวกเราจะนำพาลามัตยี่ขึ้นครองบัลลังก์ดอว์นเซิร์ฟวันต์ให้จงได้ เพื่อทูลิโยลลัล!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This should help!",
+      "text": "เวทมนตร์นี้ช่วยเยียวยาได้ค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll protect everyone!",
+      "text": "ฉันจะปกป้องทุกคนเองค่ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Perhaps this will help.",
+      "text": "บางทีนี่อาจจะช่วยได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's my old man for you...",
+      "text": "สมกับเป็นพ่อของฉันจริง ๆ เลยค่ะ..."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "I refuse...to accept this...",
+      "text": "ข้า... ข้าไม่มีวันยอมรับผลการประเมินนี้เด็ดขาด..."
+    },
+    {
+      "character": "???",
+      "text_en": "Ain't that a bit stubborn? Even for you.",
+      "text": "แบบนั้นมันจะดูดื้อรั้นเกินไปหน่อยหรือเปล่า? ต่อให้เป็นแกก็เถอะนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A Roegadyn? It couldn't be...",
+      "text": "ชาวโรเอกาดินงั้นเหรอ? หรือว่าจะเป็น..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tankwa! It's been too long!",
+      "text": "ทังควา! ไม่เจอกันเสียนานเลยนะคะ!"
+    },
+    {
+      "character": "Tankwa",
+      "text_en": "It has indeed. You're lookin' more imposin' since last I saw you, Wuk Lamat.",
+      "text": "นั่นสิเนอะ วุค ลามัต เจ้าดูมีสง่าราศีบารมีและแข็งแกร่งขึ้นเยอะเลยนับตั้งแต่ครั้งสุดท้ายที่ข้าได้เจอเจ้านะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Tankwa?",
+      "text": "ตังค์วา?"
+    },
+    {
+      "character": "Tankwa",
+      "text_en": "My Turali moniker. Gulool Ja Ja insisted I take one, sayin' my birth name was too cumbersome for the local tongues.",
+      "text": "ฉายาในทูรัลของข้าน่ะ กูลูล จา จา เขาเซ้าซี้ขอให้ข้าใช้ชื่อนี้เองแหละ โดยอ้างว่าชื่อเกิดของข้ามันเรียกยากเกินไปสำหรับลิ้นของคนแถวนี้น่ะสิ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That birth name being “Ketenramm,” I presume.",
+      "text": "ซึ่งชื่อเกิดนั้นก็น่าจะเป็น “เคเทนแรมม์” สินะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "NO!",
+      "text": "เลขที่!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ketenramm's that legendary Eorzean sailor! The one with the pickled cabbage!",
+      "text": "คุณเคเทนแรมม์คือนักเดินเรือในตำนานชาวอีออร์เซียคนนั้นต่างหากล่ะคะ! คนที่พกกะหล่ำปลีดองกลิ่นฉุนนั่นน่ะ!"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "...We can talk about me cabbage later.",
+      "text": "...เรื่องกะหล่ำปลีดองของข้าเอาไว้คุยกันทีหลังเถอะนังหนู"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Zereel Ja. Whether you like it or no, these young'uns accomplished the feat.",
+      "text": "เซรีล จา ไม่ว่าแกจะชอบใจหรือไม่ก็ตาม แต่เด็กพวกนี้ก็สามารถก้าวผ่านและผ่านบททดสอบสยบเงาร่างนั้นได้สำเร็จแล้วนะ"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "To deny Wuk Lamat her reward would be to betray the Dawnservant's trust.",
+      "text": "การที่แกจะปฏิเสธไม่ยอมมอบของรางวัลให้แก่วุค ลามัต จะถือเป็นการทรยศต่อความไว้วางใจและเจตจำนงของท่านดอว์นเซิร์ฟวันต์นะ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "And what should she be rewarded for!? Calling upon her minions to carry her to victory!?",
+      "text": "แล้วเธอมีผลงานความดีความชอบอะไรให้ควรคู่รางวัลกันเล่า!? แค่เรียกพวกบริวารนอกด่านมาช่วยสู้ศึกหามเธอขึ้นสู่ชัยชนะอย่างงั้นรึ!?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Comrades... You believe a ruler should be reliant upon such?",
+      "text": "พันธมิตรงั้นรึ... เจ้าพวกคนเขลาเชื่อจริง ๆ หรือว่าผู้ที่จะขึ้นปกครองแผ่นดินสมควรพึ่งพาอาศัยสิ่งพรรค์นี้?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "I don't have dignity. Not anymore. I wagered everything on this feat.",
+      "text": "ข้าไม่มีเหลือเกียรติยศศักดิ์ศรีอะไรอีกแล้วในยามนี้ ข้ายอมเดิมพันหมดหน้าตักกับผลลัพธ์ของบททดสอบนี้ไปแล้ว"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "And by the same token, I understand the enormity of your accomplishment.",
+      "text": "และด้วยเหตุผลข้อเดียวกันนี้แหละ ข้าจึงตระหนักรู้และเข้าใจดีถึงความยิ่งใหญ่ของความสำเร็จที่พวกเจ้าคว้ามาได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Together, we can achieve anything. You needn't place your faith in the promise of blessed siblings.",
+      "text": "หากพวกเราร่วมมือร่วมใจกันเป็นหนึ่งเดียว พวกเราย่อมทำสำเร็จได้ทุกประการค่ะ คุณไม่จำเป็นต้องฝากความหวังลม ๆ แล้ง ๆ ไว้กับผลลัพธ์การถือกำเนิดของพี่น้องผู้ได้รับพรสองหัวคู่ควรหรอกนะคะ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "How would you have us reclaim our glory?",
+      "text": "แล้วเจ้าจะให้พวกเรากู้คืนเกียรติยศชื่อเสียงอันรุ่งโรจน์ของมามูคกลับมาได้ยังไงกันล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With friendship and community. With us.",
+      "text": "ก็ด้วยความร่วมมือสร้างสายสัมพันธ์มิตรภาพและการช่วยเหลือเกื้อกูลกันในฐานะชุมชนไงคะ ร่วมมือกับพวกเราสิคะ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "If you mean to rule, you should be more sparing with your offers of clemency. Especially to a man who has sacrificed countless young lives.",
+      "text": "หากเจ้าคิดจะก้าวขึ้นปกครองแผ่นดินจริง ๆ เจ้าควรรู้จักระมัดระวังตัวในการเสนอความเมตตาให้อภัยคนอื่นให้ดีกว่านี้นะจ๊ะ โดยเฉพาะอย่างยิ่งกับตาแก่ที่เคยก่อความชั่วร้ายสังเวยชีวิตเด็กทารกมานับไม่ถ้วนอย่างข้าน่ะ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Nevertheless...I will fulfill my charge as elector. In recognition of your feat...I bestow upon you a keystone.",
+      "text": "แต่อย่างไรก็ตาม... ข้าจะขอทำหน้าที่ในฐานะผู้คุมสอบชี้วัดให้ลุล่วง เพื่อยอมรับในความสำเร็จของพวกเจ้า... ข้าขอมอบศิลาหลักนี้ให้แก่พวกเจ้าครอง"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Congratulations...are nearly in order, I suppose. I'm confident that you will find the golden city in no time.",
+      "text": "ขอแสดงความยินดีด้วยนะ... การเตรียมตัวครองราชย์ใกล้จะสมบูรณ์แบบแล้วล่ะครับ พี่มั่นใจว่าเธอจะเสาะหานครแห่งทองคำเจอในไม่ช้านี้แน่นอน"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You've grown much and more during this journey. Become someone ready to lead our nation.",
+      "text": "เธอเติบโตเจริญขึ้นมากตลอดการเดินทางผจญภัยครั้งนี้ กลายเป็นผู้ที่มีความพร้อมในการปกครองนำพาแผ่นดินของพวกเราอย่างแท้จริงแล้วล่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Little Lamaty'i no longer. As your brother, I couldn't be more proud.",
+      "text": "ไม่ใช่ยัยหนูลามัตยี่ตัวเล็ก ๆ คนเดิมอีกต่อไปแล้วล่ะ ในฐานะพี่ชาย พี่ภูมิใจในตัวเธอมากจริง ๆ นะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana...thank you.",
+      "text": "โคอาน่า...ขอบคุณนะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I must express my gratitude for your cooperation...and my regret for failing to live up to expectations.",
+      "text": "ผมต้องขอขอบคุณพวกคุณมากสำหรับความร่วมมือร่วมใจตลอดมา... และต้องขออภัยด้วยที่ตัวผมไม่สามารถทำผลงานได้สำเร็จสมตามความคาดหมายครับ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Nonsense. If you believe Wuk Lamat is the woman for the job, then you have our wholehearted support.",
+      "text": "พูดเหลวไหลน่ะ หากคุณตัดสินใจว่าวุค ลามัต คือคนที่เหมาะสมที่สุดสำหรับหน้าที่นี้แล้วล่ะก็ พวกเราเองก็ยินดีช่วยเหลือสนับสนุนสุดความสามารถเช่นเดียวกันครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "One last thing. I wish to speak to you both from the heart. Unpracticed as I am, this may sound hackneyed, but...",
+      "text": "สิ่งสุดท้ายประการหนึ่ง ฉันอยากจะพูดกับคุณทั้งสองจากใจ แม้จะไม่ได้ฝึกฝนเหมือนฉัน นี่อาจฟังดูขัดเขิน แต่..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I am truly grateful to have met you.",
+      "text": "ผมรู้สึกยินดีและขอบคุณอย่างยิ่งจริง ๆ ครับที่ได้มีโอกาสแวะมาพบเจอพวกคุณ"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Words spoken with such feeling would resonate with any fortunate enough to hear them.",
+      "text": "คำพูดที่พูดด้วยความรู้สึกเช่นนั้นย่อมสะท้อนใจผู้โชคดีที่ได้ยินมัน"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though our journey together hath ended, ever shall we cherish the memories.",
+      "text": "แม้การร่วมเดินทางเดินทางของพวกเราจะสิ้นสุดลงแล้ว แต่พวกเราจะคอยเก็บรักษาความทรงจำที่สวยงามนี้ไว้ตลอดไปครับ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Aye. And should you require further esoteric musings or biting witticisms, don't hesitate to call. I daresay we'll come flocking.",
+      "text": "ใช่แล้วล่ะ และหากวันไหนเธอเหงาหรืออยากฟังคำปรึกษาปรัชญาชวนเวียนหัว หรือมุกจิกกัดแสบ ๆ อีก ก็เรียกใช้พวกเราได้ทุกเมื่อเลยนะ รับรองว่าพวกเราจะรีบบินแจ้นมาช่วยแน่นอน"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But I get ahead of myself. As I recall, our contract remains in effect until we've escorted the Second Promise back to the capital.",
+      "text": "แต่นี่ฉันคงพูดเร็วเกินไปหน่อย เท่าที่จำได้ สัญญาว่าจ้างของพวกเรายังมีผลอยู่จนกว่าจะช่วยส่งตัวท่านสัญญาที่สองกลับถึงเมืองหลวงอย่างปลอดภัยดีล่ะนะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I leave my sister in your capable hands. See that she returns home safely!",
+      "text": "ผมขอฝากฝังดูแลน้องสาวไว้ในความดูแลของพวกคุณด้วยนะครับ ช่วยพาเธอกลับบ้านอย่างปลอดภัยด้วยครับ!"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "You've still malms to go yet, Wuk Lamat. The rite ain't over till ye find the city of gold.",
+      "text": "เจ้ายังเหลือหนทางเดินอีกไกลนะ นังหนูวุค ลามัต พิธีสืบทอดบัลลังก์มันยังไม่สิ้นสุดลงจนกว่าพวกเจ้าจะเสาะหานครสีทองคำเจอหรอก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I know. But if I can come this far, I can go all the way.",
+      "text": "ฉันรู้. แต่ถ้ามาได้ไกลขนาดนี้ก็ไปได้ตลอดทาง"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Second Promise has warmed a great deal since we first met him. I daresay that wise and witty duo has been of no little influence.",
+      "text": "สัญญาฉบับที่สองทำให้รู้สึกอบอุ่นขึ้นอย่างมากตั้งแต่เราพบเขาครั้งแรก ฉันกล้าได้เลยว่าคู่หูที่ฉลาดและมีไหวพริบนั้นมีอิทธิพลไม่น้อย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I am glad to see you all remain in one piece.",
+      "text": "ผมดีใจจริง ๆ ครับที่ได้เห็นทุกคนเดินทางกลับมาโดยสภาพสมบูรณ์แบบไม่สะบักสะบอมบาดเจ็บน่ะครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Joyed though I am by this outcome, I am also eager to speak with Ketenramm while we have the chance.",
+      "text": "แม้ว่าฉันจะพอใจกับผลลัพธ์นี้ แต่ฉันก็ยังกระตือรือร้นที่จะพูดคุยกับ เคเทนแรมม์ ในขณะที่เรามีโอกาส"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Even as a shade, the Dawnservant's strength was incredible. I shudder to imagine how we might have fared without the Second Promise's support.",
+      "text": "ต่อให้เป็นแค่เงาร่างอัญเชิญ พละกำลังของท่านดอว์นเซิร์ฟวันต์ก็น่ากลัวและแกร่งเหลือเชื่อเลยล่ะ คิดแล้วก็น่าใจหายแฮะว่าถ้าพวกเราไม่ได้ท่านสัญญาที่สองมาช่วยสนับสนุนประเมินผลในสนามรบ ผลลัพธ์มันจะออกมาย่ำแย่ขนาดไหนกัน"
+    },
+    {
+      "character": "Ketenramm",
+      "text_en": "Naught like a bit o' hardship to see yer precious children grow into fine adults.",
+      "text": "ไม่มีอะไรดีไปกว่าการได้เห็นผลลัพธ์ของความยากลำบากคอยช่วยหล่อหลอมให้แก๊งทายาทเติบโตเป็นผู้ใหญ่ที่ดีหรอกจริงไหมล่ะ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "...I will not stand in your way.",
+      "text": "...ฉันจะไม่ยืนขวางทางคุณ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "But mark me─your victory does not afford you authority to dictate our future. We will decide what is best for Mamook. No one else.",
+      "text": "แต่จงฟังข้าให้ดี—ชัยชนะในการสู้ศึกของพวกเจ้าไม่ได้มอบสิทธิ์สิทธิ์อำนาจการตัดสินใจชี้ชะตาอนาคตของพวกเราหรอกนะ พวกเราชาวมามูคจะเป็นคนเลือกสรรและตัดสินเส้นทางที่ดีที่สุดสำหรับพวกเราเอง ไม่มีใครหน้าไหนมีสิทธิ์มาสั่งชี้นำสั่งการพวกเราได้ทั้งนั้น"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go and tell the people of our victory!",
+      "text": "พวกเราไปแจ้งข่าวดีเรื่องชัยชนะให้ทุกคนได้รับรู้กันเถอะค่ะ!"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Third Promise!",
+      "text": "สัญญาที่สาม!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You brought everyone? We were just coming to you!",
+      "text": "คุณพาทุกคนมาเหรอ? เราเพิ่งมาหาคุณ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We did it, Miilal Ja. We proved to the Autarch that not even my father's full power could overcome the strength of our fellowship.",
+      "text": "พวกเราทำได้แล้วล่ะค่ะคุณมีลัล จา พวกเราพิสูจน์ให้คุณออทาร์กเห็นแล้วว่า แม้แต่พละกำลังสูงสุดในวัยแกร่งของท่านพ่อก็ไม่อาจต้านทานเอาชนะพลังแห่งความสามัคคีและสายสัมพันธ์ของพวกเราได้ค่ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "I knew you would. I was right to trust you.",
+      "text": "ข้าพเจ้ารู้อยู่แล้วว่าท่านต้องทำได้จ้ะ การตัดสินใจยอมไว้ใจและเชื่อมั่นในตัวท่านคือสิ่งที่ถูกต้องที่สุดจริง ๆ จ้ะ"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "You fulfilled your promise. Now, it's our turn.",
+      "text": "ท่านรักษาคำมั่นสัญญาที่ให้ไว้แล้ว ยามนี้ ถึงตาของพวกเราที่จะต้องรักษาสัญญาบ้างแล้วล่ะ"
+    },
+    {
+      "character": "Grove Worker",
+      "text_en": "You've shown us another way. That we can build the lives we've always wanted. Here, in our homeland, without sacrifice!",
+      "text": "พวกท่านช่วยชี้ทางปูพรมหนทางใหม่ให้พวกเราประจักษ์ หนทางที่ช่วยให้สร้างครอบครัวและบ้านเกิดเมืองนอนที่กินดีอยู่ดีได้โดยไม่ต้องยอมทนสูญเสียชีวิตสังเวยเด็ก ๆ อีกแล้ว!"
+    },
+    {
+      "character": "Unsure Citizen",
+      "text_en": "Since our new crops will come from across the salt, I suppose we will have to treat with outsiders... A-As equals, of course.",
+      "text": "ในเมื่อเมล็ดพันธุ์พืชผลตัวใหม่จะถูกจัดส่งข้ามทะเลลึกมาจากแดนไกล ข้าเดาว่าพวกเราคงจำเป็นต้องเริ่มติดต่อเจรจากับคนนอกด่าน... ใ-ในฐานะที่เท่าเทียมกันอย่างมีเกียรติยศแน่นอนจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Inside or outside, we're all just people. No matter what we look like or where we're born.",
+      "text": "ไม่ว่าจะเป็นคนด่านในหรือคนนอกด่าน สุดท้ายพวกเราก็คือเพื่อนร่วมโลกที่เป็นมนุษย์เหมือนกันหมดนั่นแหละค่ะ ไม่เกี่ยงว่าจะมีลักษณะรูปร่างเป็นแบบไหนหรือเกิดในพิกัดความสูงเท่าไหร่หรอกค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When you're not used to all the color and variety, differences can feel like obstacles.",
+      "text": "ยามที่พวกคุณไม่คุ้นเคยกับความแตกต่างของชาติพันธุ์ ความหลากหลายเหล่านั้นย่อมรู้สึกราวกับเป็นอุปสรรคขัดขวางขวางกั้นจิตใจ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But by learning more about what makes us different, we can also find common ground in places we never expected. Something new may become something you love!",
+      "text": "แต่ทันทีที่พวกเรายอมเรียนรู้ใส่ใจในความแตกต่างนั้น พวกเราย่อมค้นพบจุดเชื่อมต่อสายสัมพันธ์ร่วมกันในจุดที่ไม่มีใครคาดฝันมาก่อน สิ่งใหม่ ๆ ที่ไม่คุ้นเคยในวันนี้น่าจะกลายมาเป็นสิ่งที่เป็นที่พึงพอใจและรักในวันหน้าได้แน่นอนค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And someone you once hated might one day become your friend.",
+      "text": "และคนที่คุณเคยโกรธแค้นชิงชังมาก่อน ก็อาจจะกลายมาเป็นมิตรแท้ที่ดีต่อกันได้ในอนาคตค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You'll never know unless you keep an open mind. And while it may feel scary, taking that first step towards understanding is always worth it.",
+      "text": "คุณจะไม่มีวันเข้าใจความลับข้อนี้ได้เลยหากไม่รู้จักเปิดใจให้กว้าง แม้ก้าวแรกของการยอมเจรจาทำความเข้าใจจะชวนให้อึดอัดระมัดระวังตัวเพียงใด แต่มันก็คู่ควรแก่การพยายามสู้ชีวิตเพื่อแลกมาเสมอค่ะ"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "Of course... Learning about outsiders may well help Mamook grow.",
+      "text": "จริงด้วยสินะ... การยอมศึกษาเรียนรู้วิถีชีวิตคนนอกด่านอาจช่วยเยียวยาและพัฒนาให้มามูคเติบโตขยายตัวขึ้น"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "But what happens when they learn about us ? About what we've done?",
+      "text": "แต่ปัญหาก็คือ... แล้วถ้าเกิดพวกเขาได้ล่วงรู้ความจริงเกี่ยวกับเรื่องของพวกเราเล่า? เกี่ยวกับเรื่องที่พวกเราเคยทำร้ายสังเวยชีวิตกันเองมาน่ะ?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "They will not.",
+      "text": "พวกเขาจะไม่มีวันได้ล่วงรู้เรื่องนั้นหรอก"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "For generations, our covenant has been kept secret, and so shall it remain.",
+      "text": "นับตั้งแต่ปู่ย่าตายาย ข้อตกลงความร่วมมือเรื่องนี้ถูกเก็บงำเป็นความลับสุดยอด และมันจะยังคงเป็นความลับแบบนั้นต่อไป"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "The atrocities committed here were facilitated by the Autarchs. We and no one else are responsible.",
+      "text": "ความโหดร้ายทารุณกรรมชั่วร้ายทั้งหมดที่เกิดขึ้นที่นี่เกิดขึ้นจากการสั่งการจัดตั้งของออทาร์กอย่างข้า ข้าและไม่มีใครอื่นอีกที่จะเป็นผู้รับผิดชอบผลลัพธ์ความผิดบาปนี้แต่เพียงผู้เดียว"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "For my deeds, I am prepared to forfeit my life. But I will not suffer others to be damned alongside me.",
+      "text": "สำหรับการกระทำชั่วร้ายทั้งหมดที่ผ่านมา ข้าตระเตรียมตัวยอมสละชีวิตเพื่อชดใช้โทษ แต่ข้าจะไม่มีวันยอมให้ใครอื่นต้องมารับเคราะห์กรรมโดนปรักปรำตกนรกไปพร้อมกับข้าเด็ดขาด"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No one's being damned. And your life isn't forfeit.",
+      "text": "ไม่มีใครต้องตกนรกทั้งนั้นแหละค่ะ และชีวิตของคุณก็ไม่จำเป็นต้องสูญเปล่าสังเวยไปด้วยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The last thing this city needs is more death. Bakool Ja Ja hasn't fought this hard for this long only to lose his father.",
+      "text": "เมืองแห่งนี้เผชิญหน้ากับการล้มตายและโศกนาฏกรรมมามากเกินพอแล้วค่ะ บาคูล จา จา เขาไม่ได้ทุ่มเทชีวิตดิ้นรนดึงดันพยายามอย่างหนักมายาวนานเพื่อลงเอยด้วยการสูญเสียคุณพ่อของตัวเองไปหรอกนะจ๊ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you truly feel responsible, be the first person to extend understanding to others on behalf of Mamook.",
+      "text": "หากคุณรู้สึกสำนึกรับผิดชอบอย่างแท้จริงล่ะก็ จงเปลี่ยนตัวตนให้กลายเป็นคนแรกที่จะยื่นมือสร้างสายสัมพันธ์มิตรภาพทำความเข้าใจกับผู้อื่นในนามตัวแทนของมามูคเถอะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your community is waiting for you─here and in Tuliyollal.",
+      "text": "ทุกคนในมามูครวมถึงคนที่ทูลิโยลลัลยังเฝ้ารอคอยคุณอยู่นะคะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "We can still make things right, my love. Choose a different side of history.",
+      "text": "พวกเรายังพอมีโอกาสเยียวยาชดใช้แก้ไขสิ่งที่ผิดพลาดได้นะจ๊ะ ยอดรักของฉัน ลองเปลี่ยนข้างหน้าประวัติศาสตร์ใหม่ดูเถอะจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Thank you, Third Promise. Thank you for everything.",
+      "text": "ขอบพระคุณท่านสัญญาที่สามมากนะจ๊ะ ขอบพระคุณสำหรับทุก ๆ สิ่งที่มอบให้จ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...You still owe me an explanation about that cabbage, you know.",
+      "text": "...คุณยังคงเป็นหนี้คำอธิบายเกี่ยวกับกะหล่ำปลีนั้นอยู่นะ"
+    }
+  ]
+}

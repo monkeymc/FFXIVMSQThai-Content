@@ -1,0 +1,668 @@
+{
+  "id": "the-feat-of-gold",
+  "wiki_path": "/wiki/The_Feat_of_Gold",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "The Feat of Gold",
+  "title": "บททดสอบทองคำ",
+  "level": "90",
+  "location": "Urqopacha(X:25.6,Y:12.0)",
+  "npc_start": "Erenville",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, uh...can you still smell it? Be honest.",
+      "text": "เอ่อ... คือว่า เจ้ายังได้กลิ่นมันอยู่ไหม? บอกตรงๆ นะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "As Wuk Lamat helped demonstrate, the valley alpacas are wary of people. Getting close enough to catch one will not be an easy task.",
+      "text": "อย่างที่ท่านวุคลามัตเพิ่งช่วยสาธิตให้เห็นนั่นแหละครับ อัลปาก้าป่าในหุบเขานั้นหวาดระแวงระวังภัยมนุษย์มาก การจะเข้าใกล้พวกมันจนจับตัวได้ย่อมไม่ใช่เรื่องง่ายแน่นอนครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You might have warned me about that earlier! I have enough trouble with tame alpacas─how do you expect me to wrangle a wild one!?",
+      "text": "ทำไมไม่บอกฉันเรื่องนั้นให้เร็วกว่านี้เล่า! แค่กับอัลปาก้าที่เชื่องๆ ฉันยังรับมือแทบไม่ไหวเลย แล้วนายจะคาดหวังให้ฉันไปปราบสายพันธุ์ป่าดุๆ ได้อย่างไรกัน!?"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "With the proper saddle. We infuse the leather with a relaxing scent that soothes the spitting beast.",
+      "text": "ถ้าหากใช้เกือกอานปราบสัตว์ที่เหมาะสม เราจะอาบตัวหนังด้วยกลิ่นหอมผ่อนคลายที่ช่วยสะกดบรรเทาความดุร้ายของสัตว์ได้ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wonderful! Give me one of those, then!",
+      "text": "เยี่ยมเลย! งั้นเอาอานนั้นมาให้ฉันอันหนึ่งสิ!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Have you perhaps forgotten we are a clan of merchants? If you want a taming saddle, then you'll need to find a saddler and make them an offer.",
+      "text": "พวกท่านลืมไปแล้วหรือว่าพวกเราคือเผ่าพันธุ์ของพ่อค้า? หากท่านต้องการอานปราบสัตว์ ท่านก็จำเป็นต้องไปสืบหาช่างทำอานม้าแล้วยื่นข้อเสนอกับเขาเองครับ"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "They don't come cheap, of course. Crafting a saddle will cost you the equivalent of ten pel...in the thousands column.",
+      "text": "แน่นอนว่าของดีก็ย่อมไม่มีราคาที่ถูกแน่ๆ การสร้างอานแบบนั้นจะมีค่าใช้จ่ายเทียบเท่ากับสิบเปล... ในระดับหลักพันครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You mean ten thousand pel!? I don't have that kind of coin!",
+      "text": "นายหมายถึงหนึ่งหมื่นเปลเลยเหรอ!? ฉันไม่มีเงินมากขนาดนั้นหรอกนะ!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Converting to gil, that comes to around a million or so. Mayhap if we all pitch in...",
+      "text": "หากตีค่าเป็นเงินกิลก็ราวๆ หนึ่งล้านกิลได้กระมังครับ บางทีหากพวกเราทุกคนช่วยกันรวบรวมลงขันกัน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, no, this is my feat to accomplish─I wouldn't feel right about having others pay the cost. I'll find the money. Somehow.",
+      "text": "ไม่ๆ นี่เป็นบททดสอบของฉันที่ต้องก้าวผ่านด้วยตัวเองนะ─ฉันคงรู้สึกไม่ดีหรอกถ้าจะให้คนอื่นมาช่วยออกเงินให้ ฉันจะหาทางหาเงินนั้นมาเองให้ได้ล่ะนะ!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "In that case...",
+      "text": "ในเมื่อเป็นเช่นนั้น..."
+    },
+    {
+      "character": "Tobli",
+      "text_en": "That basket of wool is worth the sum you paid me earlier: one pel, in the hundreds column.",
+      "text": "ขนสัตว์ในตะกร้านั้นมีมูลค่าเทียบเท่ากับที่ท่านเคยจ่ายให้ข้าก่อนหน้านี้: หนึ่งเปล ในระดับหลักร้อยครับ"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Beginning with the wool, you can trade for ever more valuable goods until you have something suitable to bargain with for the saddle.",
+      "text": "เริ่มต้นจากขนสัตว์ตะกร้านี้ ท่านสามารถนำไปเจรจาแลกเปลี่ยนสินค้าที่มีมูลค่าสูงขึ้นไปเรื่อยๆ จนกระทั่งได้สิ่งของที่สมน้ำสมเนื้อมาเจรจาแลกอานกับเขาได้ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's a nice gesture... But you think I can turn a hundred pel into a million? That's ten thousand times more!",
+      "text": "นั่นก็นับว่าหวังดีนะ... แต่นายคิดจริงๆ เหรอว่าฉันจะแปรเปลี่ยนเงินหนึ่งร้อยเปลเป็นหนึ่งล้านเปลได้น่ะ? นั่นมันตั้งหมื่นเท่าเชียวนะ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We need ten thousand pel, not a million. So we're looking at a hundred times more.",
+      "text": "พวกเราต้องการเงินหนึ่งหมื่นเปลครับ ไม่ใช่หนึ่งล้าน ดังนั้นความจริงแล้วมันก็แค่ร้อยเท่าตัวเท่านั้นเองครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh. Right. I panicked and got it confused with Alphinaud's million gil.",
+      "text": "อ๊ะ จริงด้วย ฉันตกใจมากเกินไปหน่อยเลยเอาไปจำสับสนกับเงินหนึ่งล้านกิลของคุณอัลฟิโน่น่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm not so sure about this trading idea... You were almost talked into buying a cloak you didn't need mere moments after you arrived.",
+      "text": "ผมไม่ค่อยแน่ใจกับแผนการเจรจาค้าขายนี้เท่าไรเลย... เธอเกือบจะโดนกล่อมให้ซื้อเสื้อคลุมที่ไม่ได้มีความจำเป็นต้องใช้ตั้งแต่ก้าวแรกที่เดินทางมาถึงอยู่แล้วนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But, I just... Gah, I hate it when you're right!",
+      "text": "แต่ฉันแค่... เฮ้อ เกลียดเวลาที่นายพูดถูกชะมัดเลย!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then let me help you with your dealmaking!",
+      "text": "ถ้าอย่างนั้น ให้ฉันช่วยในเรื่องเจรจาการค้าขายของพวกคุณเองค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, hello again...uh...",
+      "text": "โอ๊ะ สวัสดีอีกครั้งนะ... เอ้อ..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Mablu! I work here as a ranch hand, but I've also learned a lot about the peddler profession!",
+      "text": "ฉันชื่อมาบลูค่ะ! ฉันทำงานเป็นคนงานฟาร์มที่นี่ก็จริง แต่ก็เคยศึกษาเรื่องวิชาชีพพ่อค้าเร่มาไม่น้อยเลยล่ะค่ะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "It's alright if I aid them now, yes? I guided the claimants towards the first step of the feat, like you asked.",
+      "text": "ตอนนี้ฉันสามารถช่วยเหลือพวกเขาได้แล้วใช่ไหมคะคุณโทบลี? ฉันได้นำทางเหล่าทายาทผู้ท้าชิงไปสู่วิถีการทดสอบขั้นแรกตามที่คุณสั่งเรียบร้อยแล้วค่ะ"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "As long as Wuk Lamat goes alone to capture her alpaca, she is free to accept assistance from whomever she likes.",
+      "text": "ขอเพียงแค่ท่านวุคลามัตเดินทางไปจับอัลปาก้าป่าด้วยตัวของนางตามลำพัง นางก็มีสิทธิ์อิสระในการยอมรับความช่วยเหลือจากผู้ใดก็ได้ตามอัธยาศัยครับ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Hooray! Let's see about getting you that saddle, then, Third Promise.",
+      "text": "เย้! ถ้างั้นเรามาช่วยจัดหาอานม้าให้ท่านสัญญาที่สามกันเถอะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know why you made your offer, but I could use an ally with a beak for bargains. Welcome aboard, Mablu!",
+      "text": "ฉันไม่รู้หรอกนะว่าทำไมเธอถึงยื่นข้อเสนอช่วย แต่ฉันก็ต้องการพันธมิตรที่เจรจาเก่งพอดีเลยล่ะ ยินดีต้อนรับนะ มาบลู!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Should the rest of us stay behind, perhaps? It may be easier to haggle over prices without so many voices chiming in.",
+      "text": "พวกเราที่เหลือควรรออยู่ที่นี่ดีไหมครับ? การพูดคุยต่อรองราคาน่าจะลื่นไหลและตกลงกันได้ง่ายขึ้นหากไม่มีคนคอยพูดแทรกสอดเยอะไปครับ"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Yes, stay here and pitch in with the ranch work. With Mablu gone, I'll need extra hands to tend to the alpacas.",
+      "text": "ใช่แล้วครับ รอนี่แล้วก็ช่วยกันดูแลงานฟาร์มด้วยละกัน พอมาบลูไม่อยู่ ข้าก็ต้องการคนช่วยดูแลพวกอัลปาก้าเพิ่มพอดี"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Gladly! Although, Forename , I think you should go with Wuk Lamat.",
+      "text": "ด้วยความยินดีอย่างยิ่งค่ะ! แต่อย่างไรก็ดี คุณ Forename ฉันว่าคุณควรเดินทางไปร่วมกับคุณวุคลามัตดีกว่านะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You've seen markets and bazaars the world over, and surely have sage advice to share.",
+      "text": "คุณได้พบเห็นตลาดการค้าและย่านธุรกิจร้านรวงมาแล้วทั่วทุกมุมโลก ย่อมต้องมีคำแนะนำที่เฉียบแหลมคอยแบ่งปันให้แน่นอนค่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In that case, you should also hold on to the alpaca wool. If it's misplaced or soiled in some way, you'll have nothing to bargain with.",
+      "text": "ในเมื่อเป็นเช่นนั้น คุณก็ควรเป็นคนถือดูแลตะกร้าขนอัลปาก้านี้ไว้เองนะ Forename หากมันสูญหายหรือเกิดเปรอะเปื้อนคราบดินขึ้นมา เราจะไม่มีของไปใช้เจรจาแลกเปลี่ยนได้เลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As if I'd do such a thing! ...But I'll leave the wool with Forename anyway. The better to keep my hands free.",
+      "text": "ไม่มีทางที่ฉันจะทำแบบนั้นหรอกน่า! ...แต่ยังไงฉันก็ฝากขนอัลปาก้านี้ไว้กับ Forename ดีกว่า จะได้ทำมือให้ว่างไว้เตรียมเจรจาด้วย"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "To begin, I suggest we try trading the wool to Havli, the saddler. He won't agree to the deal, of course, but it'll give us an idea of how much he'll accept for his wares!",
+      "text": "ขั้นแรก ฉันขอแนะนำให้พวกเราลองนำขนสัตว์ไปเสนอแลกเปลี่ยนกับคุณฮาฟลี (Havli) ช่างทำอานม้าดูค่ะ แน่นอนว่าเขาคงจะไม่ตกลงด้วยทันทีหรอกนะคะ แต่การไปยื่นข้อเสนอก็ช่วยให้เราพอจะเดาออกว่าเขาต้องการมูลค่าการแลกเปลี่ยนเท่าไรสำหรับผลงานของเขาค่ะ!"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "Mablu hasn't given up, I see...",
+      "text": "ดูเหมือนมาบลูจะยังคงไม่ถอดใจสินะครับ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I have every confidence you'll come back with the saddle!",
+      "text": "ฉันมั่นใจอย่างที่สุดค่ะว่าพวกคุณจะสามารถนำอานม้าปราบสัตว์กลับมาได้อย่างแน่นอน!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Tending the alpacas, are we? I had some experience with that when I was younger...",
+      "text": "ให้มาช่วยเลี้ยงดูแลอัลปาก้างั้นรึ? ผมเองก็เคยมีประสบการณ์ทำงานทำนองนี้อยู่บ้างตอนสมัยยังเด็กๆ..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Turning a hundred pel worth of wool into a ten thousand pel saddle is exactly the kind of suggestion I'd expect from the head of a merchant clan.",
+      "text": "การให้แปรเปลี่ยนขนสัตว์มูลค่าหนึ่งร้อยเปลเป็นอานม้ามูลค่าหนึ่งหมื่นเปล ช่างเป็นการทดสอบที่สมกับที่หัวหน้ากลุ่มพ่อค้าจะคิดขึ้นมาจริงๆ เลยนะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'd worry if it was just Wuk Lamat, but it sounds like Mablu knows a thing or two about trading.",
+      "text": "ฉันคงแอบกังวลหนักแน่ถ้าให้วุคลามัตไปคนเดียว แต่ดูเหมือนว่ามาบลูจะมีความรอบรู้และเชี่ยวชาญการแลกเปลี่ยนค้าขายอยู่ไม่น้อยเลยนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is it really possible to make a hundred times what that wool is worth just through trading?",
+      "text": "มันเป็นไปได้จริงๆ เหรอคะที่จะแปรเปลี่ยนมูลค่าขนสัตว์นั้นเพิ่มขึ้นตั้งร้อยเท่าด้วยการค้าขายแลกเปลี่ยนน่ะ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "This is the artisan who makes our taming saddles!",
+      "text": "คนผู้นี้คือช่างศิลป์ผู้ออกแบบและประดิษฐ์อานปราบสัตว์พันธุ์พิเศษของพวกเราค่ะ!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Something I can do for you?",
+      "text": "มีธุระอะไรจะให้ข้าช่วยรึ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've come to bargain! I need one of your special taming saddles to catch a wild alpaca.",
+      "text": "พวกเรามาเพื่อเจรจาแลกเปลี่ยนค่ะ! ฉันต้องการอานปราบสัตว์พันธุ์พิเศษของนายเพื่อไปใช้จับอัลปาก้าป่าค่ะ"
+    },
+    {
+      "character": "Havli",
+      "text_en": "A saddle, is it? And how will you be paying for it?",
+      "text": "อานปราบสัตว์งั้นเรอะ? แล้วพวกเจ้าจะจ่ายค่าตอบแทนให้ข้าอย่างไรล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With this basket of fine alpaca wool!",
+      "text": "แลกกับขนอัลปาก้าชั้นเลิศในตะกร้านี้อย่างไรล่ะ!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "What use does a saddlemaker have for wool? Besides, this would barely cover the cost of a single strap buckle. Offer me something I actually want.",
+      "text": "ช่างทำอานอย่างข้าจะมีประโยชน์อะไรกับขนสัตว์ปุยๆ พรรค์นั้นล่ะ? อีกอย่าง มูลค่าของมันก็แทบจะไม่พอจ่ายค่าสลักหัวเข็มขัดอันเดียวด้วยซ้ำ ไปหาข้อเสนออะไรที่ข้าอยากได้มาคุยดีกว่า"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And what might that be?",
+      "text": "และสิ่งที่นายต้องการคืออะไรล่ะ?"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Mezcal. I like to nurse a cup at day's end while I inspect my finished work. Bring me a jug of quality stuff, and you've got yourself a deal.",
+      "text": "เหล้าเมซคาล ข้าชอบจิบสักแก้วตอนสิ้นวันระหว่างนั่งตรวจตราดูงานต่อหนังที่ทำเสร็จแล้วน่ะสิ หาเหล้าเมซคาลเกรดดีๆ มาให้ข้าสักไห แล้วเราค่อยมาตกลงซื้อขายกัน"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "This bodes well for us, Third Promise. Such mezcal can be had for only five pel in the thousands column!",
+      "text": "นี่ถือเป็นสัญญาณที่ดีสำหรับเรานะคะ ท่านสัญญาที่สาม สุราเมซคาลระดับนั้นปกติหาซื้อได้ในราคาเพียงห้าพันเปลเท่านั้นเองค่ะ!"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Hold on, hold on, did you say “Third Promise”? Then my offer has changed─the saddle is going to cost you a jug of premium mezcal, aged three years at least.",
+      "text": "เดี๋ยวก่อนๆ เมื่อกี้เจ้าพูดว่า 'ท่านสัญญาที่สาม' งั้นเรอะ? ถ้างั้นข้าขอเปลี่ยนข้อเสนอใหม่─อานม้าอันนี้ราคาประเมินจะเพิ่มขึ้นเป็นเหล้าเมซคาลเกรดพรีเมียมที่ผ่านการบ่มมาไม่ต่ำกว่าสามปีเท่านั้น"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Three years!? That stuff is valued at ten thousand pel or more! Why have you doubled the price!?",
+      "text": "บ่มนานสามปีเลยเหรอคะ!? สุราพวกนั้นมีราคาประเมินตั้งหนึ่งหมื่นเปลหรือมากกว่านั้นเลยนะ! ทำไมคุณถึงได้ขึ้นราคาตั้งเท่าตัวแบบนี้ล่ะคะ!?"
+    },
+    {
+      "character": "Havli",
+      "text_en": "Because I must support the man of ambition who'll see my business prosper. Zoraal Ja will go to war, and his cavalry will need saddles. Lots of saddles.",
+      "text": "ก็เพราะข้าต้องเลือกสนับสนุนผู้ท้าชิงที่มีความทะเยอทะยานที่จะช่วยเอื้อให้กิจการของข้าเจริญรุ่งเรืองอย่างไรล่ะ ท่านโซราล จา จะทำสงครามบุกเบิกดินแดนใหม่ และกองทหารม้าของท่านก็ย่อมต้องใช้เกือกอานจำนวนมหาศาล"
+    },
+    {
+      "character": "Havli",
+      "text_en": "It's nothing personal, Third Promise. But I won't sell you my craft for anything less than my asking price.",
+      "text": "ข้าไม่ได้มีเรื่องบาดหมางส่วนตัวอะไรกับท่านหรอกนะ ท่านสัญญาที่สาม แต่ข้าไม่มีวันยอมแลกเปลี่ยนผลงานของข้า in/ในราคาที่น้อยกว่าที่ระบุไว้เด็ดขาด"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Can't say that I blame him. I'm known for championing peace, and peace is unlikely to bring him more customers.",
+      "text": "จะไปโทษเขาก็คงไม่ได้หรอกนะ ฉันเป็นที่เลื่องลือในฐานะผู้ชูประเด็นรักสงบ และสันติภาพก็ดูเหมือนจะไม่ช่วยสร้างโอกาสค้าขายเกือกอานให้เขาเพิ่มขึ้นเลยสักนิด"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Those of our grandparents' generation remember the dark days when the clans were at war. Many of these Pelu pray for your victory, Wuk Lamat.",
+      "text": "ผู้คนในรุ่นปู่ย่าตายายของพวกเรายังจำช่วงเวลาอันเหน็ดเหนื่อยเลวร้ายยามที่เผ่าพันธุ์ต่างๆ ทำสงครามรบพุ่งกันได้ค่ะ ชาวเปลูหลายๆ คนที่นี่จึงอธิษฐานขอพรให้ท่านวุคลามัตได้รับชัยชนะค่ะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The younger ones, though...to them, strife and bloodshed are as children's stories. They think themselves safe from these horrors and take the peace we now enjoy for granted.",
+      "text": "แต่ทว่าคนรุ่นใหม่ในสมัยนี้... สำหรับพวกเขาแล้ว การต่อสู้เข่นฆ่าเป็นเพียงแค่เรื่องเล่าโบราณของเด็กๆ เท่านั้น พวกเขาคิดว่าตัวเองอยู่รอดปลอดภัยดีและมองข้ามคุณค่าของสันติภาพที่เรามีอยู่ในตอนนี้ไปค่ะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Still others are unsatisfied with this quiet prosperity and crave the future the Second Promise envisions. They've become obsessed with innovations like the dirigibles that have made trade swift and easy.",
+      "text": "นอกจากนี้ยังมีคนอีกกลุ่มหนึ่งที่ไม่พึงพอใจกับความเจริญเงียบๆ แบบนี้ และต้องการอนาคตแบบที่ท่านสัญญาที่สองวาดฝันไว้ พวกเขาเริ่มหลงใหลในเทคโนโลยีสมัยใหมอย่างบอลลูนลมร้อน (dirigibles) ที่ช่วยให้การขนส่งสินค้าเป็นไปอย่างสะดวกและรวดเร็วค่ะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then you have those like Havli, convinced that the First Promise's plans for conquest will afford them opportunities for great profit.",
+      "text": "และก็ยังมีคนอย่างคุณฮาฟลีที่เชื่อมั่นเหลือเกินว่า แผนการขยายอำนาจทำสงครามของท่านสัญญาที่หนึ่งจะช่วยสร้างผลกำไรมหาศาลให้กับการค้าของเขาค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But what about you, Mablu? Aren't you of the younger generation? At least a year or two younger than me, I'd say.",
+      "text": "แต่แล้วสำหรับเธอล่ะ มาบลู? เธอเองก็เป็นวัยรุ่นยุคใหม่ไม่ใช่เหรอ? ดูแล้วน่าจะเด็กกว่าฉันสักปีสองปีได้มั้ง"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Oh, I was raised on the old tales. I've memorized the accounts of what it was like when the Yok Huy ruled our village.",
+      "text": "อ๋อ ฉันถูกเลี้ยงดูมาด้วยการฟังเรื่องเล่าเก่าๆ น่ะค่ะ ฉันจดจำเหตุการณ์โบราณในช่วงที่พวกย็อคฮุย (Yok Huy) ปกครองหมู่บ้านของพวกเราได้ขึ้นใจเลยล่ะค่ะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "That's why I offered to help. I want you to become Dawnservant, to keep our nation from going back to the way it was.",
+      "text": "เพราะอย่างนั้นฉันจึงอยากจะมาช่วยค่ะ ฉันอยากให้ท่านได้ขึ้นครองตำแหน่งดอว์นเซิร์ฟวันต์ เพื่อช่วยไม่ให้ประเทศของเราย้อนกลับไปสู่จุดที่น่ากลัวเหมือนเมื่อก่อนค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, then, I guess I'd better make sure I win the contest!",
+      "text": "ถ้าอย่างนั้น ข้าก็ต้องมั่นใจว่าข้าจะเป็นผู้ชนะการประลองแย่งชิงบัลลังก์นี้ให้ได้!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "But the type of mezcal the saddlemaker wants is so very expensive...",
+      "text": "แต่ว่าสุราเมซคาลประเภทที่ช่างทำอานต้องการนั้นมีราคาที่สูงมากจริงๆ เลยนะคะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Weren't we expecting to need ten thousand pel from the outset? Nothing's changed, we just need to get on with it!",
+      "text": "พวกเราก็เตรียมใจไว้แล้วไม่ใช่เหรอว่าต้องใช้เงินหนึ่งหมื่นเปลตั้งแต่แรกน่ะ? ไม่มีอะไรเปลี่ยนแปลงไปหรอก เราแค่ต้องลุยทำมันต่อให้สำเร็จ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I may not have a head for trade or the stomach for alpacas, but I won't give up with the peace of Tuliyollal on the line!",
+      "text": "ถึงฉันจะไม่มีหัวทางการค้า หรือไม่มีความอดทนกับพวกอัลปาก้าเลยก็ตาม แต่ฉันจะไม่มีวันยอมแพ้เด็ดขาดเมื่อมีสันติภาพของนครทูลิโยลลัลเป็นเดิมพัน!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then neither will I! We will make you Dawnservant!",
+      "text": "ถ้าอย่างนั้นฉันก็ไม่มีวันยอมแพ้เช่นกันค่ะ! พวกเราจะช่วยส่งท่านขึ้นสู่ดอว์นเซิร์ฟวันต์ให้ได้ค่ะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Aiming for that ten thousand pel jug right away will only bring us failure and frustration. So let's first try exchanging the wool for anything even a touch more valuable.",
+      "text": "การที่พวกเรามุ่งเป้าไปหาของชิ้นใหญ่มูลค่าหนึ่งหมื่นเปลตั้งแต่ก้าวแรกย่อมนำพามาซึ่งความล้มเหลวและท้อใจแน่ค่ะ ดังนั้น เรามาเริ่มต้นจากการลองนำขนอัลปาก้านี้ไปแลกเปลี่ยนเป็นของชิ้นอื่นที่มีมูลค่าสูงขึ้นทีละนิดกันก่อนดีกว่านะคะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The trick is to find someone who needs alpaca wool and is willing to trade at a loss to acquire it. Someone who supports your bid for the throne, for instance.",
+      "text": "เคล็ดลับของเรื่องนี้คือ เราต้องหาใครสักคนที่กำลังมีความต้องการขนอัลปาก้านี้อย่างเร่งด่วน และยินยอมแลกเปลี่ยนยอมเสียเปรียบนิดหน่อยเพื่อที่จะได้มันไปครอบครอง เช่น คนที่คอยหนุนหลังสนับสนุนการครองบัลลังก์ของท่านอย่างไรล่ะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course, the weaver! Bol Noq' was his name, I believe!",
+      "text": "จริงด้วย ช่างทอผ้าคนนั้นไง! ข้าคิดว่าเขาน่าจะชื่อโบลน็อคนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He went out of his way to say he agreed with my vision and he was here to buy wool.",
+      "text": "เขาอุตส่าห์ดั้นด้นมาพูดว่าเขาเห็นพ้องกับวิสัยทัศน์ของข้า และเขาก็มาที่นี่เพื่อเสาะหาซื้อขนสัตว์พอดีด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I remember the direction he was going, but for now, let's head back to that road where we first met him.",
+      "text": "ฉันคิดว่าจำทิศทางที่เขาเดินไปได้นะ แต่ตอนนี้เรากลับไปยังถนนเส้นที่เราพบเขาครั้งแรกกันก่อนเถอะ"
+    },
+    {
+      "character": "Havli",
+      "text_en": "As you can see, only the finest leather for my saddles.",
+      "text": "อย่างที่พวกเจ้าเห็นนั่นแหละ ข้าเลือกใช้เฉพาะหนังวัวเกรดดีที่สุดในการประดิษฐ์อานของข้าเท่านั้น"
+    },
+    {
+      "character": "Tobli",
+      "text_en": "You might think catching an alpaca a trivial thing, but we shall see. As I said, there's a reason I chose it for my feat.",
+      "text": "พวกท่านอาจจะนึกคิดว่าการจับอัลปาก้าเป็นเพียงเรื่องเล่นๆ ง่ายดายธรรมดา แต่เดี๋ยวเราก็จะได้รู้กันครับ อย่างที่ข้าบอกไป มันมีเหตุผลเบื้องหลังในการที่ข้าเลือกด่านประลองนี้ขึ้นมา"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Is this where you met the weaver?",
+      "text": "คุณพบกับช่างทอผ้าที่บริเวณตรงนี้ใช่ไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is the spot. After Bol Noq' talked to us, he walked off to the south...",
+      "text": "คือตรงนี้แหละ หลังจากโบลน็อคพูดคุยกับพวกเรา เขาก็เดินมุ่งหน้าไปทางทิศใต้..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Then he was probably going to Icuvlo's Inn. Most visitors to Wachunpelo end up staying there.",
+      "text": "ถ้าอย่างนั้น เขาก็น่าจะเดินทางไปพักผ่อนที่โรงเตี๊ยมไอคุฟโล (Icuvlo's Inn) แน่เลยค่ะ นักท่องเที่ยวส่วนใหญ่ที่มาเยือนวาชุนเปลูล้วนมาพักกันที่นี่ทั้งนั้นค่ะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Let's go and check, shall we?",
+      "text": "พวกเราลองไปตรวจสอบดูกันดีไหมคะ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I hope he's willing to offer us something wonderful in exchange!",
+      "text": "ฉันหวังว่าเขาจะยอมมอบข้อเสนอแลกเปลี่ยนสิ่งของที่ยอดเยี่ยมให้กับพวกเรานะคะ!"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Ah, we meet again... But wait. Weren't you all on your way to Wachunpelo?",
+      "text": "อ๊ะ พวกเราได้พบกันอีกแล้วนะ... แต่เดี๋ยวก่อนนะครับ ทุกท่านไม่ได้กำลังเดินทางไปยังวาชุนเปลูหรอกหรือครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Can I have that basket, Forename ?",
+      "text": "Forename ฉันขอตะกร้าขนสัตว์นั่นหน่อยได้ไหม?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks! Now let's see if we can turn a profit!",
+      "text": "ขอบใจนะ! ทีนี้มาคอยดูกันว่าเราจะทำกำไรได้แค่ไหน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Bol Noq', I'm glad we found you. Are you interested in making a trade?",
+      "text": "คุณโบลน็อค ดีใจจังที่หาตัวคุณเจอ สนใจจะมาทำการแลกเปลี่ยนซื้อขายกับพวกเราไหมคะ?"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Third Promise, you...you wish to do business with me ? Might I ask what this is all about?",
+      "text": "ท่านสัญญาที่สาม ท่าน... ท่านประสงค์จะแลกเปลี่ยนเจรจาการค้ากับข้าจริงหรือครับ? ขออนุญาตถามได้ไหมครับว่านี่คือเรื่องอะไรกัน?"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "I see. So the goal is to turn that basket of wool into a jug of three-year-old premium mezcal...?",
+      "text": "เข้าใจแล้วครับ สรุปคือเป้าหมายของท่านคือการเปลี่ยนขนสัตว์ในตะกร้านี้ให้กลายเป็นเหล้าเมซคาลเกรดพรีเมียมบ่มสามปีสินะครับ...?"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Then allow me to invest in your efforts!",
+      "text": "ถ้าอย่างนั้น ได้โปรดให้ข้าได้มีส่วนร่วมลงทุนสนับสนุนความพยายามของท่านเถอะครับ! สันติภาพในทูรัลคือสิ่งสำคัญที่ช่วยเอื้อให้ข้าสามารถสัญจรข้ามดินแดนไปมาหาสู่แหล่งผลิตขนสัตว์ได้อย่างอิสระเสรี แน่นอนอยู่แล้วว่าข้าปรารถนาให้ผู้ที่สัญญาจะรักษาสันติภาพนี้ไว้เป็นผู้ชนะการขึ้นครองราชย์ ดังนั้นข้าขอส่งมอบเสื้อคลุมปอนโชขนสัตว์ผืนนี้ให้แก่ท่าน─เป็นสัญลักษณ์การสนับสนุนเล็กๆ น้อยๆ ที่หวังว่าจะมีส่วนช่วยอวยพรให้ท่านได้รับชัยชนะครับ!"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Peace in Tural is what allows me to cross freely into the lands of my suppliers. Naturally, I would prefer that one pledged to preserve that peace win the throne.",
+      "text": "โอ้ งานประณีตวิจิตรงดงามมากเลยค่ะ! เสื้อผ้าที่ดีขนาดนี้สามารถนำไปขายต่อได้ในราคาถึงห้าร้อยเปลสบายๆ เลยล่ะค่ะ!"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "Thus do I humbly offer you this wool poncho─a small token that I pray contributes to your victory!",
+      "text": "คุณมีน้ำใจมากเลยค่ะคุณโบลน็อค ขอบคุณนะคะ! ข้าสัญญาว่าจะไม่ทำให้คุณผิดหวังแน่นอน!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Oh, that's fine craftsmanship! A garment like that would easily fetch five pel...in the hundreds column!",
+      "text": "ข้าเชื่อมั่นในตัวท่านอย่างที่สุดครับ ท่านสัญญาที่สาม ขอให้โชคลาภเกื้อหนุนในการเจรจาแลกเปลี่ยนครั้งต่อๆ ไปของท่านด้วยนะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's very generous, Bol Noq', thank you! I promise I won't let you down!",
+      "text": "ฉันแทบไม่อยากเชื่อสายตาเลยค่ะว่าการแลกเปลี่ยนครั้งแรกของท่านจะสามารถทำกำไรเพิ่มขึ้นถึงห้าเท่าตัว! พวกเราเริ่มต้นได้อย่างวิเศษที่สุดเลยล่ะค่ะ!"
+    },
+    {
+      "character": "Bol Noq'",
+      "text_en": "I have every faith in you, Third Promise. May fortune bless your future dealings.",
+      "text": "เป็นเพราะ Forename จำเพื่อนช่างทอผ้าคนนี้ได้ต่างหากล่ะ ส่วนฉันก็แค่ยื่นส่งตะกร้าขนสัตว์ให้แค่นั้นเอง"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I can't believe you quintupled your investment with your first deal! We're off to a spectacular start!",
+      "text": "ไม่จริงหรอกค่ะ! ความผูกพันที่ท่านสร้างไว้กับผู้คนต่างหากคือสิ่งสำคัญ นี่คือหลักธรรมการค้าขายที่พื้นฐานที่สุดข้อหนึ่งเลยนะคะ ซึ่งท่านก็สามารถเข้าใจและควบคุมมันได้ด้วยสัญชาตญาณอันยอดเยี่ยมของตนเองเลยค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Only because Forename remembered our weaver friend. All I did was hand over the wool.",
+      "text": "เธะ... เธอคิดแบบนั้นจริงๆ เหรอ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "That's not true! The connections you build with people are vital. This is one of the most fundamental precepts of trading─one which you've instinctively mastered!",
+      "text": "จริงแท้แน่นอนค่ะ! ทีนี้เรามานำปอนโชมูลค่าห้าร้อยเปลผืนนี้ ไปลองแลกเปลี่ยนเป็นของชิ้นอื่นที่มีมูลค่าสูงขึ้นไปอีกกันเถอะค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Y-You think so?",
+      "text": "นี่ Forename ฝากเธอเก็บเสื้อคลุมปอนโชนี้ไว้หน่อยนะ ถ้าเกิดฉันทำมันสูญหายไปล่ะก็ เอเรนวิลล์คงจะเอาเรื่องนี้มาบ่นฉันไม่รู้จักจบจักสิ้นแน่ๆ..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I know so! Now, let's take our five hundred pel poncho and trade it for something even more valuable!",
+      "text": "พร้อมหรือยังคะ? ข้อเสนอแลกเปลี่ยนครั้งต่อไปรอให้พวกเราไปค้นพบอยู่แล้วค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here, Forename , you take the poncho. If I lost it somehow, Erenville would never let me hear the end of it...",
+      "text": "พวกเราแปรเปลี่ยนมูลค่าเงินหนึ่งร้อยเปลเป็นห้าร้อยเปลได้แล้ว ถึงแม้จะเป็นแค่ห้าเท่า แต่มันรู้สึกเหมือนเพิ่มขึ้นตั้งห้าร้อยเท่าเชียวนะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "All set? Our next deal is waiting to be found!",
+      "text": "การใช้ประโยชน์จากสายสัมพันธ์ที่มีก็นับเป็นกลยุทธ์ที่ดีค่ะ แต่เราต้องคำนวณปัจจัยในเรื่องความต้องการและกำลังการผลิต (supply and demand) ด้วยนะคะ หากเจอผู้ที่กำลังต้องการสวมใส่ปอนโชอย่างเร่งด่วน ย่อมยินยอมยื่นเสนอแลกเปลี่ยนมากกว่าพ่อค้าที่ต้องการตุนของขึ้นชั้นวางธรรมดาๆ แน่ค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We turned a hundred pel into five hundred. I know it's only five times more, but it feels like five hundred times more!",
+      "text": "ฟังดูมีเหตุผลดีนะ แต่ว่าเราจะรู้ได้อย่างไรล่ะว่าใครที่กำลังต้องการปอนโชอยู่น่ะ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Leveraging connections is a sound strategy, but we should also consider supply and demand. An individual in urgent need of a good poncho will offer more than a merchant simply looking to stock his shelves.",
+      "text": "คำตอบมันก็เด่นชัดแจ่มแจ้งอยู่แล้วไม่ใช่เหรอ? เราก็แค่ตามหาคนที่ไม่ได้สวมปอนโช แล้วก็คาดหวังว่าเขาอยากจะอุดหนุนสินค้าของพวกเรายังไงล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That makes sense. But how do we know if someone needs a poncho?",
+      "text": "มันเป็นปอนโชที่ดีและทนทานดีนะ แต่ว่าลวดลายและการออกแบบมันเป็นสไตล์ประเพณีดั้งเดิม ฉันไม่คิดว่าความทันสมัยหรือแฟชั่นจะเป็นจุดขายของมันหรอก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's the obvious answer, isn't it? We look for a person without a poncho, and hope they're eager to buy ours!",
+      "text": "แสดงว่ามีแค่ผู้ที่จำเป็นต้องนำมันไปใช้งานจริงเท่านั้นที่จะให้ความสนใจสินะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's a nice, sturdy poncho, but the design is traditional. I don't think fashion is part of its appeal.",
+      "text": "ช้าก่อน นั่นก็คือคำตอบที่ชัดเจนอยู่แล้วไม่ใช่เหรอ? เราก็แค่ตามหาคนที่ไม่มีปอนโชสวมใส่ แล้วก็หวังว่าพวกเขาจะอยากซื้อเสื้อของเรา!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So only those people with a practical need would be interested...",
+      "text": "ใช่แล้วค่ะ แบบนั้นแหละ! พวกเราต้องหาความต้องการของตลาดมาตอบสนองสินค้าที่เรามีอยู่ให้เจอค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, that's the obvious answer, isn't it? We look for a person without a poncho, and hope they're eager to buy ours!",
+      "text": "ถ้าอย่างนั้น เราควรจะเริ่มต้นการค้นหากลุ่มลูกค้าเป้าหมายจากที่ไหนกันดีล่ะ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Yes, there you go! We find the demand for our supply!",
+      "text": "มีสถานที่ให้เสาะหาอยู่ตั้งหลายแห่งเลยล่ะค่ะ แต่การเริ่มต้นหาข่าวจากบริเวณโรงเตี๊ยมแห่งนี้ก็ไม่ใช่ความคิดที่แย่อะไรนะ เผื่อจะมีนักท่องเที่ยวที่แอบสนใจสินค้าของพวกเราค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, where should we begin our search for prospective buyers?",
+      "text": "อืม ใครในที่นี้ที่จำเป็นต้องใช้ปอนโชบ้างนะ...? ส่วนใหญ่พวกมะมุกดา (Mamool Ja) ก็แทบจะไม่ค่อยสวมใส่อะไรอยู่แล้วแต่แรกด้วยสิ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "There are any number of places, but we could do worse than starting right here at the inn. There might be interested travelers.",
+      "text": "คนพวกนั้นน่าจะเป็นกองทหารราชองครักษ์หรือทหารรับจ้างค่ะ ชาวมะมุกดาที่ประกอบอาชีพทหารมักจะชอบไม่สวมใส่อะไรปกคลุมเหนือระดับเอวขึ้นไป เพราะเสื้อผ้าจะทำลายความคล่องตัวในการเคลื่อนไหวน่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hm, who here needs a poncho...? A lot of Mamool Ja hardly wear anything to begin with.",
+      "text": "แสดงว่าต่อให้พวกเขาจะเปลือยไหล่ แต่ถ้าเป็นชาวมะมุกดาที่พกพาอาวุธ ก็ขีดชื่อออกไปจากรายชื่อเป้าหมายได้เลยสินะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Those are probably Landsguard or sellswords. Mamool Ja who soldier for a living prefer not to wear much above the waist─it hampers their movements.",
+      "text": "นั่นคือกองทหารราชองครักษ์ (Landsguard) คงจะแวะเข้ามาที่โรงเตี๊ยมเพื่อพักผ่อนระหว่างรอบการเดินตรวจลาดตระเวนน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So even if they have bared shoulders, Mamool Ja carrying arms can be struck off the list.",
+      "text": "คนนี้ก็สวมเสื้อผ้าครบชุดเรียบร้อยดีแล้ว─น่าจะเป็นช่างฝีมือหรือพ่อค้าเร่กระมัง? ข้าเดาว่าคงแวะมาพักผ่อนหลังจากเสร็จสิ้นธุระในหมู่บ้านวาชุนเปลู เช่นเดียวกับคุณโบลน็อคแน่ๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's a Landsguard. Probably dropped by the inn to take a break between patrols.",
+      "text": "ชาวมะมุกดาคนนั้นพกอาวุธด้วยล่ะ น่าจะเป็นคนส่งสารชาวดอปโปร (Doppro) หรือเปล่านะ? ฉันเคยเห็นพวกเขาขี่สัตว์เลื้อยคลานเวฟเวอร์ (wivre) บินไปมา และคนพวกนั้นก็ดูไม่ค่อยชอบสวมใส่เสื้อผ้ารุงรังเหมือนกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This one's already fully dressed─an artisan or peddler, perhaps? Come to rest after visiting Wachunpelo, like Bol Noq', would be my guess.",
+      "text": "ดูสิ ไม่มีเสื้อโค้ตหรือเสื้อคลุมยาว... แต่ก็ไม่มีอาวุธติดตัวด้วยเหมือนกันงั้นเหรอ? โอ้ ตัวเก็งลูกค้ารายแรกของเราน่าจะอยู่ตรงนี้แล้วล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That Mamool Ja is armed. Could be a Doppro courier? I've seen them flying their wivres, and those types aren't fond of excessive clothing either.",
+      "text": "ลองบอกฉันหน่อยสิคะ─ท่านเดาว่าใครในหมู่นักเดินทางที่มารวมตัวกันเหล่านี้ ที่น่าจะเปิดใจยอมรับข้อเสนอปอนโชของพวกเราคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's see. No coat or cloak...but also no weapon? Oh, we might have a winner!",
+      "text": "พวกนักสู้มืออาชีพอย่างกองทหารราชองครักษ์คงไม่สนใจเสื้อผ้าพวกนี้หรอก และนั่นก็น่าจะใช้ได้กับชาวทูรัลทุกคนที่ให้ความสำคัญกับความคล่องตัวในการทำงานด้วยเช่นกัน..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Tell me─who among these gathered travelers do you think might be amenable to a proposal?",
+      "text": "สวัสดีค่ะเพื่อนพ้อง ท่านไม่ได้ทำงานเป็นทหารรับจ้างใช่ไหมคะ? ข้าแอบสงสัยเกี่ยวกับการแต่งกายอันสะดุดตาของท่าน... หรือจะเรียกว่าการขาดเสื้อผ้าดีล่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So professional fighters like those of the Landsguard would have little interest. Though the same could be said of any Turali who prioritizes ease of movement in their work...",
+      "text": "โอ้ มันไม่ใช่ความเต็มใจของข้าเลยจริงๆ โปรดเชื่อเถอะ! ข้าโดนพวกสัตว์ร้ายดักทำร้ายระหว่างเดินทางมาที่นี่ เอาชีวิตและเกล็ดของตัวเองรอดพ้นความตายมาได้ก็บุญหัวแล้วล่ะ แต่เสื้อโค้ตของข้าไม่ได้โชคดีแบบนั้นด้วยน่ะสิ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ho there, friend. You're not a mercenary by trade, right? I was curious about your bold choice of dress...or lack thereof.",
+      "text": "แท้จริงแล้วข้าเป็นช่างทำเครื่องมือที่เดินทางมาจากทูลิโยลลัล และปกติจะแต่งกายเรียบร้อยหรูหราดูดีมาก─เพื่อแสดงให้พวกชาวเปลูเห็นว่าข้าเป็นคนที่ใส่ใจภาพลักษณ์ภายนอกและงานชิ้นเอกของข้าเช่นกัน ทว่าดูสภาพข้าในตอนนี้สิ..."
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "Oh, it was no choice of mine, believe me! I was attacked by beasts on the way here, and barely escaped with my scales intact. My coat was not so lucky.",
+      "text": "ถ้าอย่างนั้น วันนี้ก็ถือเป็นวันโชคดีของท่านแล้วล่ะค่ะ!"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "I'm actually a toolmaker from Tuliyollal, and was dressed quite smartly─all the better to show the Pelu I am a man who takes pride in his appearance and therefore his work as well. But now look at me...",
+      "text": "โอ้โห ช่างเป็นปอนโชที่สวยงามตระการตาอะไรเช่นนี้! มันเหมาะเจาะที่จะนำมาสวมใส่แทนเสื้อโค้ตที่สูญหายไปของข้าพอดิบพอดีเลยล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, sir, this is your lucky day!",
+      "text": "พวกเรายินดีที่จะส่งมอบเสื้อตัวนี้ให้ หากท่านมีสิ่งของมาแลกเปลี่ยนกัน เช่น อุปกรณ์งานช่างดีๆ สักชิ้นของท่านไหมคะ?"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "What a splendid poncho! This would be the perfect replacement for the coat I lost!",
+      "text": "แล้วสำหรับขวานด้ามสั้นเล่มนี้เป็นอย่างไรล่ะ? ข้าประดิษฐ์ขึ้นมาด้วยมือตนเองและกล้ารับประกันคุณภาพความทนทานเลยนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd be willing to part with it, if you'd like to make a trade. For one of your fine tools, perhaps?",
+      "text": "ใบมีดดูคมกริบ ด้ามจับก็สร้างได้สมดุลดีมากค่ะ ฉันขอประเมินค่าชิ้นงานนี้ไว้ที่หนึ่งพันเปลค่ะ"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "What about this hatchet? I crafted it myself and will vouch for its quality.",
+      "text": "โอ้โห จากห้าร้อยแปรเปลี่ยนเป็นหนึ่งพันงั้นรึ? ตกลงตามข้อเสนอนี้เลยค่ะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The blade looks sharp, the haft well made. I'd value it at one pel in the thousands column.",
+      "text": "ยอดเยี่ยมที่สุด! เสื้อผ้าที่งดงามเช่นนี้จะช่วยยกฐานะของข้าให้เจรจาธุรกิจได้อย่างสมน้ำสมเนื้อกับพ่อค้าชาวเปลูทุกคน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oho, from five hundred to a thousand? We have a deal!",
+      "text": "แน่นอนว่ารวมถึงเจ้าของสวนใบชาเมทของมิปลู (Miplu's Mate Garden) ด้วย คนงานฟาร์มของนางจำเป็นต้องใช้ขวานสั้นในการเก็บเกี่ยวใบชา และตอนแรกข้าตั้งใจจะนำเครื่องมือที่ส่งมอบให้ท่านเล่มนี้ไปเสนอนางเพื่อสร้างความประทับใจน่ะ"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "Wonderful! A fine garment such as this should put me on even footing with any Pelu merchant.",
+      "text": "แต่ไม่เป็นไรหรอก ข้ายังมีสินค้างานช่างอย่างอื่นอีกมาก ดีใจจริงๆ ที่ได้พบและแลกเปลี่ยนกับพวกท่านนะ!"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "Like the eponymous owner of Miplu's Mate Garden, for one. Her field hands use hatchets to harvest the mate, and I thought to impress her with the tool I sold you.",
+      "text": "ได้ยินที่เขาพูดเมื่อกี้ไหม? พวกเราเจอเบาะแสของลูกค้ารายต่อไปแล้วล่ะ มุ่งหน้าสู่สวนใบชาเมทของมิปลู (Miplu's Mate Garden) กันเลย!"
+    },
+    {
+      "character": "Disconcerted Hoobigo",
+      "text_en": "No matter, I have other wares to sell. Glad I am to have met you!",
+      "text": "ใช่ค่ะ แต่ระยะทางค่อนข้างไกลทีเดียวนะคะหากเดินเท้าไป พวกเราควรขี่อัลปาก้าไปกันดีกว่าค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Did you hear that? We've already found our next buyer. To Miplu's Mate Garden we go!",
+      "text": "อัลปาก้าพวกนี้จะเป็นสายพันธุ์ที่เชื่องและสงบใช่ไหม...?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Yes, but it's a fair distance on foot. We should take alpacas!",
+      "text": "เอาอีกแล้ว... ต้องขี่อัลปาก้าอีกแล้วเหรอ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These ones will be the calm type...right?",
+      "text": "ยอดเยี่ยมมากเลยค่ะที่มองเห็นช่างทำอุปกรณ์คนนั้นเป็นลูกค้าเป้าหมาย! หากท่านคิดจะเปลี่ยนวิชาชีพมาเป็นพ่อค้าล่ะก็ ต้องประสบความสำเร็จในอนาคตแน่นอนค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here we go again...riding alpacas...",
+      "text": ""
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Well done recognizing that toolmaker as a potential customer! If you've a mind to change professions, you'd make an excellent merchant!",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,323 @@
+{
+  "id": "lost-promise",
+  "wiki_path": "/wiki/Lost_Promise",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Lost Promise",
+  "title": "คำสัญญาที่สาบสูญ",
+  "level": "92",
+  "location": "Kozama'uka(X:10.8,Y:28.2)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Rediroq",
+      "text_en": "This is most worrisome! If Rediroq hears anything, she will let you know!",
+      "text": "นี่มันน่ากังวลที่สุดเลยจ้ะ! หากเรดิร็อกได้ยินข่าวคราว (tongueflaps) อะไรขึ้นมา จะรีบแจ้งให้พวกท่านทราบทันทีเลยนะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "If Lamaty'i was returning to Earthenshire from the west, then she should have passed through here...except Rediroq swears she didn't see her.",
+      "text": "หากลามัตยี่กำลังเดินทางกลับมายังเอิร์ทเทนเชียร์จากทางทิศตะวันตกจริง ๆ เธอก็ควรจะผ่านทางนี้สิครับ... ยกเว้นแต่ว่าเรดิร็อกจะยืนยันเสียงแข็งว่าไม่เห็นตัวเธอเลย"
+    },
+    {
+      "character": "Koana",
+      "text_en": "In which case, 'tis entirely possible that Lamaty'i never made it back to the village at all.",
+      "text": "ถ้าเป็นอย่างนั้น ก็เป็นไปได้สูงมากครับว่าลามัตยี่อาจจะยังเดินทางกลับไม่ถึงหมู่บ้านเลยด้วยซ้ำ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The only way to be certain is to ask the sentry stationed at the opposite entrance.",
+      "text": "หนทางเดียวที่จะพิสูจน์ให้แน่ชัดได้คือต้องไปถามทหารยามที่ประจำการอยู่ตรงทางเข้าอีกฝั่งหนึ่งดูครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "If the guard did not see Lamaty'i, then we can be fairly sure she's not in Earthenshire. She's not one to pass without notice.",
+      "text": "ถ้าทหารยามไม่เห็นลามัตยี่ด้วยล่ะก็ พวกเราก็มั่นใจได้เลยว่าเธอไม่ได้อยู่ในเอิร์ทเทนเชียร์ครับ เพราะปกติแล้วเธอไม่ใช่คนที่ใครจะปล่อยให้ผ่านไปได้ง่าย ๆ โดยไม่สังเกตเห็นหรอก"
+    },
+    {
+      "character": "Earthenshire Sentry",
+      "text_en": "Pfff... Kohhh... The Third Promise? Mobbie has been standing at his post with diligent eyewatchings─he has seen no claimants pass this way.",
+      "text": "ฟู่... ฟู่โฮ่... ท่านสัญญาที่สามงั้นรึ? ม็อบลินยืนเฝ้ายามอย่างขยันขันแข็งด้วยดวงตาเบิกกว้าง (diligent eyewatchings)—แต่เขายังไม่เห็นผู้ท้าชิงคนไหนเดินผ่านทางนี้เลยนะจ๊ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "What of a Tonawawta with brightly colored hair?",
+      "text": "แล้วมีชาวโทนาวอว์ตาที่มีสีผมโดดเด่นสะดุดตาผ่านทางนี้บ้างไหมครับ?"
+    },
+    {
+      "character": "Earthenshire Sentry",
+      "text_en": "Mobbie knows something of this one! He hears tongueflaps about a Pelu peddler in Many Fires who was attacked by a crazyhair bandit on the road!",
+      "text": "ม็อบลินพอจะรู้อะไรบางอย่างเกี่ยวกับคนคนนี้อยู่จ้ะ! เขาได้ยินข่าวเล่าลือ (tongueflaps) มาว่ามีพ่อค้าชาวเปลูในเมนีไฟเออร์ส (Many Fires) โดนโจรผมทรงประหลาด (crazyhair bandit) ดักปล้นทำร้ายบนถนนน่ะจ้ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A bandit, you say...? Thank you, you've been most helpful.",
+      "text": "โจรดักปล้นงั้นเหรอครับ...? ขอบคุณมากครับ คุณช่วยพวกเราได้มากจริง ๆ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "My sister is clearly not here. Though I wish it were otherwise, we must consider the possibility that the Tonawawtan messenger and the brigand described by the sentry are one and the same, and that Lamaty'i is in very real danger.",
+      "text": "น้องสาวของผมไม่ได้อยู่ที่นี่จริง ๆ ด้วยครับ ถึงแม้ใจจริงผมจะอยากให้เป็นอย่างอื่น แต่พวกเราก็ต้องยอมรับความเป็นไปได้ที่ว่า ผู้นำสารชาวโทนาวอว์ตากับโจรที่ทหารยามพูดถึงอาจจะเป็นคนคนเดียวกัน และลามัตยี่กำลังตกอยู่ในอันตรายร้ายแรงจริง ๆ ครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Come, let us hurry to Many Fires. I'd like a word with this peddler should they still be around.",
+      "text": "ไปกันเถอะครับ พวกเรารีบไปที่เมนีไฟเออร์สกันดีกว่า ผมอยากจะพูดคุยกับพ่อค้าคนนั้นสักหน่อยหากเขายังป้วนเปี้ยนอยู่แถวนั้น"
+    },
+    {
+      "character": "Earthenshire Sentry",
+      "text_en": "Pfff... Kohhh... Mobbies' bandit problem is only getting worse!",
+      "text": "ฟู่... ฟู่โฮ่... ปัญหาเรื่องโจรป่าของพวกม็อบลินมีแต่จะรุนแรงเลวร้ายลงเรื่อย ๆ เลย!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Here, Forename . This is the merchant who ran afoul of the bandit.",
+      "text": "ที่นี่แหละครับคุณ [ชื่อ] นี่คือพ่อค้าที่เผชิญเคราะห์ร้ายโดนโจรร้ายทำร้ายมาครับ"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "Was there something I could help you with...?",
+      "text": "มีอะไรที่ข้าพอจะช่วยเหลือพวกท่านได้บ้างไหมครับ...?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'm told you were the victim of a bandit attack. Could you recount exactly what happened?",
+      "text": "ผมได้ยินมาว่าคุณตกเป็นเหยื่อของการดักโจมตีจากโจรป่า พอจะช่วยเล่ารายละเอียดเหตุการณ์ที่เกิดขึ้นให้ฟังอย่างละเอียดได้ไหมครับ?"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "My goodness─I thought I recognized you! I'll tell you everything I remember, Second Promise!",
+      "text": "โอ้ คุณพระช่วย—ข้านึกว่าข้าตาฝาดจำคนผิดซะอีก! ข้าจะเล่าทุกอย่างที่จำได้ให้ท่านฟังเองครับ ท่านสัญญาที่สอง!"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "It was that scoundrel Wawkesa who ambushed me.",
+      "text": "เป็นฝีมือของไอ้คนชั่วช้า วอเกซา (Wawkesa) ที่มาดักซุ่มโจมตีข้าครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You know the name of your attacker?",
+      "text": "คุณรู้จักชื่อของผู้ที่ดักปล้นคุณด้วยเหรอครับ?"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "There's no mistaking that hair. All my peddler friends have stories of that notorious bandit leader and his predations.",
+      "text": "ไม่มีทางจำผิดคนแน่ด้วยทรงผมสีสะดุดตานั่นแหละครับ เพื่อนๆ พ่อค้าของข้าต่างก็มีเรื่องเล่าเกี่ยวกับพฤติกรรมชั่วร้ายของหัวหน้าโจรชื่อกระฉ่อนคนนี้กันทั้งนั้น"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "Wawkesa and his gang will stoop to any low for the sake of a few pel. And with no fresh quarry coming up the broken stairs, they've had to become more creative.",
+      "text": "ไอ้วอเกซากับพรรคพวกของมันยอมทำเรื่องชั่วช้าต่ำตมได้ทุกอย่างเพื่อเงินเพียงไม่กี่เพล (pel) หรอกครับ ยิ่งช่วงนี้ไม่มีเหยื่อหน้าใหม่เดินทางผ่านบันไดเวหาที่พังเสียหายขึ้นมาได้ พวกมันเลยต้องหาเรื่องคิดทำแผนการที่พิสดารขึ้นกว่าเดิมน่ะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Little wonder he went after Lamaty'i. He likely thinks to ransom her for a royal sum.",
+      "text": "ไม่แปลกใจเลยครับว่าทำไมมันถึงพุ่งเป้าไปที่ลามัตยี่ มันคงจะคิดจับตัวเธอไปเรียกค่าไถ่เป็นเงินมหาศาลจากราชสำนักแน่ ๆ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I expect he'll soon make his demands...but I don't intend to wait. We'll find this villain first, and deliver his deserved payment in person.",
+      "text": "ผมคาดว่าไม่ช้าก็เร็ว มันคงจะยื่นข้อเสนอเรียกร้องมา... แต่ผมไม่คิดจะนั่งรออยู่เฉย ๆ หรอกครับ พวกเราจะเป็นฝ่ายออกตามหาไอ้คนชั่วคนนี้ก่อน และไปส่งมอบบทเรียนที่มันควรจะได้รับด้วยตัวเราเอง"
+    },
+    {
+      "character": "Koana",
+      "text_en": "What say you to a small deception? I will assume the role of a well-to-do merchant to lure Wawkesa out of hiding. Then, when he comes sniffing about, we catch the rat by the tail.",
+      "text": "คุณจะว่าอย่างไรหากเราจะใช้อุบายหลอกลวงสักหน่อย? ผมจะแกล้งสวมบทบาทเป็นพ่อค้าผู้ร่ำรวยเพื่อล่อลวงให้ออกมาจากที่ซ่อน จากนั้นพอสุนัขลอบสังเกตเริ่มได้กลิ่นและเข้ามาป้วนเปี้ยนหาโอกาส พวกเราก็จะได้จับหนูตัวนี้ได้ทันท่วงทีครับ"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "An excellent plan! And I have just the right garments for your disguise─at a specially discounted price, of course!",
+      "text": "เป็นแผนการที่ยอดเยี่ยมมากครับ! และข้าก็มีชุดเสื้อผ้าที่เหมาะเจาะสำหรับการปลอมตัวของท่านพอดีเลย—แน่นอนว่าข้าจะลดราคาพิเศษให้เป็นกรณีเฉพาะเลยครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A brush with bandits hasn't dampened your mercantile spirit, I see. Very well, I accept your generous deal.",
+      "text": "ดูเหมือนว่าแม้จะเพิ่งเผชิญหน้ากับพวกโจรป่ามาหยก ๆ จิตวิญญาณแห่งการเป็นพ่อค้าของคุณก็ไม่ได้ลดน้อยลงเลยนะครับ ตกลงครับ ผมยินดีน้อมรับข้อเสนออันแสนกว้างขวางของคุณ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now we lay the bait.",
+      "text": "เอาล่ะ คราวนี้พวกเรามาเริ่มวางเหยื่อล่อกันเถอะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will precede you into Many Fires to make my presence known. You follow on behind, boasting to those along the way how you paid me a hefty purse in exchange for a rare gemstone or some such.",
+      "text": "ผมจะเดินนำหน้าคุณเข้าไปในเมนีไฟเออร์สเพื่อแสดงตัวก่อน ส่วนคุณคอยเดินตามหลังมาห่างๆ แล้วแกล้งทำคุยอวดโม้โอ้อวดกับผู้คนตามทางว่า คุณเพิ่งจ่ายเงินถุงเงินถังให้ผมเพื่อแลกกับอัญมณีล้ำค่าหายากอะไรทำนองนั้นครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "If Wawkesa is as coin-hungry as they say, then a recently enriched peddler should be an irresistible mark. We let him strike, and then we spring our trap.",
+      "text": "หากไอ้วอเกซามันละโมบอยากได้เงินถุงเงินถังดั่งข่าวลือจริง การปรากฏตัวของพ่อค้าที่เพิ่งได้ลาภก้อนโตย่อมเป็นเป้าล่อที่น่าดึงดูดใจจนยากจะต้านทานได้แน่ พวกเราจะปล่อยให้มันลงมือก่อน แล้วเราค่อยตลบหลังจัดฉากกับดักจับกุมมันครับ"
+    },
+    {
+      "character": "Waylaid Peddler",
+      "text_en": "I pray that your scheme is successful!",
+      "text": "ข้าขอสวดอ้อนวอนให้แผนการของท่านประสบความสำเร็จงดงามครับ!"
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "Any good news lately?",
+      "text": "ช่วงนี้พอจะมีข่าวดีอะไรบ้างไหมนะ?"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... Mobbie enjoys being helphand for potsworn, but it's exhausting work. He hopes to find amusing distractions here in Many Fires!",
+      "text": "ฟู่... ฟู่โฮ่... ม็อบลินชอบการทำหน้าที่เป็นผู้ช่วยช่างฝีมือผู้ปฏิญาณต่อหม้อนะจ๊ะ แต่มันช่างเหน็ดเหนื่อยเหลือเกิน เขาหวังว่าจะได้เจอเรื่องราวน่าตื่นเต้นผ่อนคลายความล้าที่นี่ในเมนีไฟเออร์สบ้าง!"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "I'm always on the lookout for new opportunities─you need to keep an ear out if you want to succeed in business!",
+      "text": "ข้าคอยมองหาโอกาสใหม่ๆ ในการทำธุรกิจอยู่เสมอแหละ—การทำมาค้าขายให้รุ่งเรืองย่อมต้องหูไวตาไวเข้าไว้ล่ะนะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Time to play our parts.",
+      "text": "ถึงเวลาที่พวกเราต้องเริ่มแสดงตามบทบาทแล้วล่ะครับ"
+    },
+    {
+      "character": "Koana (text bubble)",
+      "text_en": "Follow me!",
+      "text": "(ตามผมมาครับ!)"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There. That Xbr'aal fellow.",
+      "text": "ตรงนั้นครับ ชาวชิบราล (Xbr'aal) คนนั้นแหละ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Share with him how happy your imaginary deal with me has made you. Once you've put on an appropriate display, we can continue to our next performance.",
+      "text": "ลองแวะเข้าไปพูดคุยอวดอ้างกับเขาว่าคุณมีความสุขปานใดที่ได้ทำข้อตกลงซื้อขายกับผม พอคุณแสดงบทบาทจนน่าเชื่อถือเพียงพอแล้ว พวกเราค่อยขยับไปทำการแสดงจุดถัดไปครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We want Wawkesa to notice us─be loud and convincing.",
+      "text": "พวกเราต้องการให้ข่าวนี้เข้าหูไอ้วอเกซา—เพราะฉะนั้นโปรดส่งเสียงดังและทำท่าทางให้สมจริงเข้าไว้นะครับ"
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "Something I can do for you, friend?",
+      "text": "มีอะไรให้ข้าช่วยเหลือรึเปล่า สหาย?"
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "Are you...confused? I know I am.",
+      "text": "เจ้า... กำลังมึนงงอยู่รึเปล่า? เพราะตัวข้าเองก็ชักจะมึนหัวแล้วสิ"
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "A rare gemstone from that Hhetsarro merchant, you say? I envy the profit he must have made from such a sale! Since the stairs were destroyed, I've not been able to peddle goods at my usual haunts!",
+      "text": "เจ้าบอกว่าเพิ่งซื้ออัญมณีล้ำค่าหายากมาจากพ่อค้าชาวเฮตซาร์โร (Hhetsarro) คนนั้นงั้นรึ? ข้าอิจฉากำไรเป็นกอบเป็นกำที่เขาได้จากการขายครั้งนี้จริง ๆ! ตั้งแต่บันไดเวหาพังเสียหาย ข้าก็ไม่สามารถหาโอกาสไปเร่ขายของในจุดค้าขายปกติของข้าได้เลย!"
+    },
+    {
+      "character": "Kind-eyed Xbr'aal",
+      "text_en": "I would advise that peddler to keep an eye out for shady characters. Rumors of good fortune have a way of attracting bandits in these parts.",
+      "text": "แต่ข้าขอเตือนพ่อค้าคนนั้นไว้หน่อยนะว่าให้คอยระวังพวกท่าทางไม่น่าไว้วางใจให้ดี ข่าวลือเรื่องลาภลอยก้อนโตมักจะดึงดูดพวกโจรป่าแถวนี้เข้าหาเสมอนั่นแหละ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A good start, but I would make certain Wawkesa is aware of me. Let's continue.",
+      "text": "เริ่มต้นได้ยอดเยี่ยมมากครับ แต่ผมอยากทำให้มั่นใจว่าไอ้วอเกซาจะได้รับรู้เรื่องราวเกี่ยวกับตัวผมอย่างแน่ชัด พวกเราไปกันต่อเถอะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That Moblin over there looks amenable to conversation. The stage is yours, Forename .",
+      "text": "ม็อบลินที่อยู่ตรงนั้นดูท่าทางยินยอมแลกเปลี่ยนเจรจาด้วยดีนะ เวทีต่อไปเป็นของคุณแล้วครับคุณ [ชื่อ]"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Share your “good fortune” with that Moblin merchant too, if you would. We need to make sure these rumors attract Wawkesa's notice.",
+      "text": "ช่วยนำเรื่อง 'ลาภลอยก้อนโต' ของคุณไปป่าวประกาศให้ม็อบลินคนนั้นฟังด้วยนะครับ พวกเราจำเป็นต้องส่งข่าวลือเพื่อดึงดูดความสนใจจากไอ้วอเกซาให้ได้"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... What can Mobbie do for you?",
+      "text": "ฟู่... ฟู่โฮ่... มีอะไรที่ม็อบลินพอจะช่วยคุณได้ไหมจ๊ะ?"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... Whatever you are doing, Mobbie would like you to stop!",
+      "text": "ฟู่... ฟู่โฮ่... ไม่ว่าคุณกำลังพยายามจะทำอะไรอยู่ ม็อบลินอยากให้หยุดประเดี๋ยวนี้เลยนะจ๊ะ!"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... The Hhetsarro sold you a sparklestone for your collection?",
+      "text": "ฟู่... ฟู่โฮ่... พ่อค้าชาวเฮตซาร์โรขายหินประกายสุกสกาว (sparklestone) ให้คุณไปเก็บสะสมงั้นรึจ๊ะ?"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Well that explains your giant joysmiles! Mobbie is happy for your happiness! Mobbie is also jealous of the merchant and all the jinglyshine he must have made!",
+      "text": "มิน่าล่ะ ใบหน้าของคุณถึงได้มีรอยยิ้มอิ่มใจกว้างขวางปานนั้น! ม็อบลินยินดีกับความแสนสุขของคุณด้วยนะจ๊ะ! แต่เขาก็แอบอิจฉาพ่อค้าคนนั้นและเหรียญทองแวววาว (jinglyshine) เป็นกอบเป็นกำที่ได้ไปจริง ๆ!"
+    },
+    {
+      "character": "Enthusiastic Moblin",
+      "text_en": "Pfff... Kohhh... Be careful when trading tongueflaps around here. There are sneaky, greedy brigands who will get bigeyes and grabsnatch that merchant's jinglyshine...and your sparklestone, too!",
+      "text": "ฟู่... ฟู่โฮ่... แต่โปรดระวังการเจรจา (tongueflaps) แถวนี้ให้จงดีล่ะ มีโจรป่าโลภมากซุ่มซ่อนอยู่เยอะแยะเลย พวกมันจะเบิกตากว้าง (bigeyes) ร้อนใจวิ่งมาแย่งชิง (grabsnatch) เอาเหรียญทองของพ่อค้าคนนั้น... รวมทั้งหินประกายของเจ้าไปด้วยน่ะสิจ๊ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That should be enough...but perhaps one last act to drive it home.",
+      "text": "เรื่องราวน่าจะแพร่กระจายไปเพียงพอแล้วล่ะครับ... แต่เพื่อความมั่นใจขั้นสุด ย้อนกลับไปทำอีกสักรอบเพื่อตอกย้ำข่าวลือนี้ดีกว่า"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Do you see that cheerful Pelu? Tell him the tale of your precious gemstone, and then we'll be done with this part of the charade.",
+      "text": "คุณเห็นชาวเปลูท่าทางร่าเริงคนนั้นไหมครับ? ลองนำเรื่องเล่าของอัญมณีล้ำค่าของคุณไปบอกกล่าวเขาดู แล้วพวกเราค่อยเสร็จสิ้นภารกิจช่วงของการแสดงละครตบตาครั้งนี้ครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Just this one last performance, I promise.",
+      "text": "ขอการแสดงรอบสุดท้ายรอบเดียวเท่านั้นครับ ผมรับปาก"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "How nice to see a smiling face! Care to share the reason for it? I've heard nothing but mumblings and grumblings since that storm passed through!",
+      "text": "ยินดีจริงๆ ที่ได้เห็นใบหน้าที่เปี่ยมไปด้วยรอยยิ้มเช่นนี้! พอจะยอมแบ่งปันบอกกล่าวเหตุผลให้ฟังหน่อยได้ไหมครับ? ตั้งแต่พายุพัดถล่มผ่านไป ข้าก็ได้ยินแต่เสียงบ่นพึมพำไม่สบอารมณ์จากทุกคนเสียทั่วเลย!"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "Hm? What am I to make of this!?",
+      "text": "เอ๋? นี่มันเรื่องจริงงั้นเหรอครับเนี่ย!?"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "A passing peddler had the very gemstone you sought for your collection!? That is a stroke of luck!",
+      "text": "มีพ่อค้าเร่เดินทางผ่านมาพร้อมกับอัญมณีที่เจ้าเสาะหามาเก็บสะสมพอดีเลยงั้นเรอะ!? ช่างเป็นโชคดีอันมหาศาลจริง ๆ!"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "And I'll wager the merchant was just as pleased to fill his pockets with your grateful coin, eh?",
+      "text": "และข้าพนันได้เลยว่าพ่อค้าคนนั้นก็คงจะมีความสุขแสนดีไม่แพ้กันที่ได้เงินเหรียญขอบพระคุณของเจ้าไปเต็มกระเป๋าจริงไหมล่ะครับ?"
+    },
+    {
+      "character": "Cheery Pelu",
+      "text_en": "Well, I'm inspired to go and earn some pel of my own. Who knows? Maybe opportunity will find me, even as it found you!",
+      "text": "เห็นอย่างนี้แล้ว ข้าเองก็มีแรงบันดาลใจอยากจะออกไปหาเงินหาทอง (pel) บ้างซะแล้วล่ะ ใครจะรู้ล่ะครับ? บางทีโอกาสอันดีอาจจะลอยมาหาข้าบ้างเหมือนอย่างที่คุณเพิ่งได้เจอยังไงล่ะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ah, my most valued customer. The profit from that single purchase of yours should see me through weeks of idle leisure!",
+      "text": "อา ยอดลูกค้าคนสำคัญที่สุดของข้า ผลกำไรจากการซื้อของเพียงชิ้นเดียวของท่านในครั้งนี้ มันน่าจะมากพอช่วยให้ข้าได้อยู่อย่างเพลิดเพลินสุขสบายไปได้ตั้งหลายสัปดาห์เลยเชียวล่ะครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Traveling with such a fat purse and no sellswords is tempting fate, so I shall make Earthenshire my last stop and then return forthwith to Tuliyollal.",
+      "text": "การเดินทางพร้อมกับกระเป๋าเงินตุงใหญ่โดยไม่มีทหารรับจ้างคอยอารักขาเนี่ย ช่างเป็นการท้าทายโชคชะตาแท้ ๆ ข้าเลยคิดว่าจะแวะพักเอิร์ทเทนเชียร์เป็นจุดหมายสุดท้าย แล้วรีบเดินทางย้อนกลับทูลิโยลลัลทันทีเลยล่ะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Did you see? The rat has come for a nibble.",
+      "text": "คุณสังเกตเห็นไหมครับ? เจ้าหนูสกปรกนั่นแอบมากัดกินเศษขนมปังแล้วละ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You played your part to perfection, Forename . A man / woman of many talents, just as Thancred and Urianger described.",
+      "text": "คุณแสดงบทบาทได้ยอดเยี่ยมอย่างไร้ที่ติเลยครับคุณ [ชื่อ] เป็นผู้ที่มีพรสวรรค์รอบด้านจริง ๆ สมคำเล่าอ้างชมเชยที่แธนเครดกับอุเรียนเจร์ (Urianger) บอกกล่าวผมไว้จริง ๆ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now let us lure Wawkesa out and spring our trap.",
+      "text": "คราวนี้ พวกเรามารอให้ไอ้วอเกซามาติดกับล่อของพวกเรา แล้วจัดการเปิดฉากล้อมจับมันกันเถอะครับ"
+    }
+  ]
+}

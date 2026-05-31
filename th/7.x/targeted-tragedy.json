@@ -1,0 +1,983 @@
+{
+  "id": "targeted-tragedy",
+  "wiki_path": "/wiki/Targeted_Tragedy",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/4/4c/Targeted_tragedy1.png",
+  "patch": "7.3",
+  "title_en": "Targeted Tragedy",
+  "title": "โศกนาฏกรรมเป้าหมาย",
+  "level": "100",
+  "location": "The Backroom(X:6.0,Y:6.3)",
+  "npc_start": "Shale",
+  "dialogues": [
+    {
+      "character": "Shale",
+      "text_en": "If you have a moment, Forename , Geode wants to take stock of the current crisis.",
+      "text": "ถ้าพอมีเวลาว่างสักครู่ละก็ [ชื่อ] คุณจีโอดอยากจะประเมินสถานการณ์วิกฤตในตอนนี้หน่อยค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oblivion may be lacking the finer details in certain areas, so we'd like you to lend your perspective to the conversation.",
+      "text": "ทางกลุ่มอ็อบลิเวียนอาจจะยังขาดข้อมูลรายละเอียดเชิงลึกในบางจุด ดังนั้นเราจึงอยากให้คุณมาร่วมแบ่งปันมุมมองและความคิดเห็นด้วยค่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Sorry to drag you into our meeting, but we need to get a better handle on the threats Alexandria is facing right now.",
+      "text": "ขอโทษที่ต้องดึงตัวคุณมาร่วมประชุมกะทันหันนะ แต่พวกเราจำเป็นต้องทำความเข้าใจเกี่ยวกับภัยคุกคามที่อเล็กซานเดรียกำลังเผชิญอยู่ในตอนนี้ให้ชัดเจนขึ้นน่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not at all. Much has happened since the state funeral, and a clearer idea of where things stand would be beneficial for us as well.",
+      "text": "ไม่เป็นไรเลยค่ะ นับตั้งแต่พิธีรัฐพิธีศพเสร็จสิ้นลง ก็มีเรื่องราวต่างๆ เกิดขึ้นมากมาย การได้ทำความเข้าใจสถานการณ์ปัจจุบันให้ชัดเจนขึ้นก็นับว่าเป็นประโยชน์ต่อพวกเราด้วยเช่นกันค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "First things first, then─let's discuss the state of the machine malfunctions.",
+      "text": "ถ้าอย่างนั้น เรื่องแรกเลยนะคะ─เรามาหารือกันเรื่องสภาพปัญหาการทำงานผิดปกติของเครื่องจักรกันก่อนดีกว่าค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Every single sector reported instances of sentries attacking citizens without provocation, and vehicles suddenly becoming unresponsive to controls.",
+      "text": "ทุกพื้นที่ต่างรายงานเหตุการณ์ที่ทหารยามจักรกล (เซนทรี) เข้าโจมตีประชาชนโดยไม่มีสาเหตุ รวมถึงพาหนะต่างๆ ที่จู่ๆ ก็ไม่ตอบสนองต่อการควบคุมค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "And while these malfunctions were resolved fairly quickly, they nevertheless resulted in a considerable number of injuries and deaths...",
+      "text": "และถึงแม้ว่าปัญหาการทำงานผิดปกติเหล่านั้นจะได้รับการแก้ไขค่อนข้างเร็ว แต่ก็ส่งผลให้มีผู้ได้รับบาดเจ็บและเสียชีวิตเป็นจำนวนมากอยู่ดีค่ะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But you haven't heard anything about new incidents since then, right?",
+      "text": "แต่หลังจากนั้น ก็ยังไม่มีรายงานเกี่ยวกับเหตุการณ์ใหม่ๆ เกิดขึ้นอีกใช่ไหม?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Right. No additional reports have been logged, as far as I know. That's the good news.",
+      "text": "ใช่ค่ะ เท่าที่ฉันทราบ ยังไม่มีรายงานเรื่องใหม่ๆ เข้ามาเพิ่มเติม นั่นถือเป็นข่าวดีค่ะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The bad news is, I tried to take control of the soldiers when they started hurting people, but they wouldn't listen to me─even though I have the king's authority.",
+      "text": "แต่ข่าวร้ายก็คือ ตอนที่พวกทหารเริ่มทำร้ายผู้คน ผมพยายามจะสั่งการให้พวกมันหยุด แต่พวกมันกลับไม่ยอมฟังผมเลยครับ─ทั้งๆ ที่ผมมีสิทธิ์อำนาจการสั่งการของราชาแล้วแท้ๆ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Once things calmed down, I was finally able to make them give up their weapons. But...if it happens again, I don't know if they'll ignore me like before.",
+      "text": "พอสถานการณ์สงบลง ในที่สุดผมก็ทำให้พวกมันยอมวางอาวุธลงได้ครับ... แต่ถ้าเกิดเรื่องแบบนี้ขึ้นอีก ผมก็ไม่รู้เหมือนกันว่าพวกมันจะหมางเมินไม่สนใจผมเหมือนครั้งนี้หรือเปล่า"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The King of Resolve's authority is about the highest there is. Who is this man that can override it with such impunity?",
+      "text": "สิทธิ์อำนาจของราชานั้นถือว่าสูงสุดแล้วนะ แล้วชายคนนี้เป็นใครกัน ถึงกล้าละเมิดอำนาจนั้นได้หน้าตาเฉยโดยไม่เกรงกลัวความผิดแบบนี้?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx... He lived in the age of the Storm Surge, as I did.",
+      "text": "คาลิกซ์ค่ะ... เขาเคยมีชีวิตอยู่ในยุคพายุอัสนีโหมกระหน่ำ (Storm Surge) เช่นเดียวกับฉันค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Lest you forget, he was known for his advancements in electrope technology, and it was he who established Preservation for the purpose of furthering his research.",
+      "text": "ถ้าพวกคุณยังจำกันได้ เขาเป็นที่รู้จักอย่างกว้างขวางในฐานะผู้พัฒนาเทคโนโลยีอิเล็กโทรป และเขานั่นเองที่เป็นผู้ก่อตั้งกลุ่มพรีเซิร์ฟเวชันขึ้นมา เพื่อวัตถุประสงค์ในการค้นคว้าวิจัยของเขานะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The wasting disease which afflicted him, however, was said to leave him scant years left to live... He must have chosen to undergo conversion into an Endless, that he might continue his efforts into the present day.",
+      "text": "อย่างไรก็ตาม โรคร้ายที่กัดกินร่างกายของเขาในตอนนั้น ทำให้เขามีเวลาเหลือชีวิตอยู่เพียงไม่กี่ปีเท่านั้น... เขาจึงคงตัดสินใจเข้ารับการเปลี่ยนร่างเป็นเอ็นด์เลส เพื่อที่จะได้สานต่อเจตนารมณ์ในการค้นคว้าของเขามาจนถึงทุกวันนี้ค่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Preservation's early goals seemed noble enough─exploring treatments for levin sickness, designing Everkeep's core system, that sort of thing.",
+      "text": "เป้าหมายแรกเริ่มของกลุ่มพรีเซิร์ฟเวชันก็ดูมีคุณธรรมดีแท้ๆ─ทั้งการคิดค้นวิธีรักษาโรคไข้สายฟ้า (levin sickness) หรือการออกแบบระบบแกนกลางของเอเวอร์คีป อะไรทำนองนั้น"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Why harm the people he was ostensibly trying to help...?",
+      "text": "แล้วทำไมเขาถึงต้องกลับมาทำร้ายประชาชนที่เขาตั้งใจจะช่วยเหลือตั้งแต่แรกกันล่ะ...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do not pretend to fully understand Calyx's motivations... Only that he appeared incensed by what he saw as mankind's failings.",
+      "text": "ฉันเองก็ไม่บังอาจอ้างว่าเข้าใจเจตนาทั้งหมดของคาลิกซ์หรอกนะคะ... เพียงแต่ดูเหมือนว่าเขาจะโกรธแค้นและชิงชังในสิ่งที่เขามองว่าเป็นความล้มเหลวของมนุษยชาติค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He asserted that the strategy of adapting our species through generational succession was outdated; that evolution now requires us to forsake bodies of flesh in favor of eternal preservation.",
+      "text": "เขายืนกรานว่ากลยุทธ์การปรับตัวของเผ่าพันธุ์มนุษย์ด้วยการสืบทอดสายเลือดจากรุ่นสู่รุ่นนั้นล้าสมัยเกินไปแล้ว ความวิวัฒนาการในตอนนี้เรียกร้องให้พวกเราละทิ้งสังขารที่เป็นเนื้อหนัง เพื่อมาโอบรับการคงอยู่เป็นนิรันดร์แทนค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've already seen how he's employed the simulant to convince Alexandrians that Endless conversion is their only hope for survival.",
+      "text": "พวกเราได้เห็นกันแล้วว่าเขาใช้ร่างจำลอง (simulant) เพื่อเกลี้ยกล่อมชาวอเล็กซานเดรียให้เชื่อว่า การเปลี่ยนร่างเป็นเอ็นด์เลสคือหนทางเดียวที่พวกเขาจะรอดชีวิตได้"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Eternal life is “assured” for the five thousand who register their neo regulators...",
+      "text": "ชีวิตนิรันดร์จะได้รับการ 'รับประกัน' สำหรับผู้โชคดีห้าพันคนที่ได้ลงทะเบียนนีโอเรกูเลเตอร์ของพวกเขา..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But this is merely one part of Calyx's greater plan.",
+      "text": "แต่นี่เป็นเพียงแค่ส่วนหนึ่งของแผนการที่ยิ่งใหญ่กว่านั้นของคาลิกซ์เท่านั้นค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "He wants the key to interdimensional fusion. With that relic in his possession, he will draw aether from the reflections, and expand his efforts to create Endless a thousandfold.",
+      "text": "สิ่งที่เขาต้องการจริงๆ คือกุญแจสำคัญในการหลอมรวมข้ามมิติ หากวัตถุโบราณชิ้นนั้นตกอยู่ในมือเขา เขาจะดึงเอาเอเธอร์มาจากโลกเงาสะท้อนต่างๆ แล้วแผ่ขยายขอบเขตการสร้างเอ็นด์เลสขึ้นเป็นพันเท่าทวีคูณค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "If we mean to foil Calyx's schemes, then our only option is to determine where he's hiding and put him down.",
+      "text": "หากพวกเราคิดจะขัดขวางแผนการของคาลิกซ์ หนทางเดียวที่ทำได้คือการระบุตำแหน่งที่ซ่อนของเขาและกำจัดเขาเสียค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Which, unfortunately, is easier said than done. I've been scouring the terminal we found in the depths of Everkeep, but I've failed to uncover even the slightest trace of his activities.",
+      "text": "แต่โชคร้ายที่พูดน่ะมันง่ายกว่าทำเยอะเลยค่ะ ฉันพยายามตรวจสอบข้อมูลในเทอร์มินอลที่พวกเราพบในส่วนลึกของเอเวอร์คีปอย่างละเอียดแล้ว แต่ก็ยังหาเบาะแสหรือร่องรอยการเคลื่อนไหวของเขาไม่ได้เลยสักนิดเดียวค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Give me a little more time, though, and I'm sure I can sniff him out.",
+      "text": "แต่ขอเวลาฉันอีกสักหน่อยนะคะ ฉันมั่นใจว่าจะแกะรอยหาตัวเขาพบอย่างแน่นอนค่ะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll help you!",
+      "text": "ผมจะช่วยพี่ด้วยครับ!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "While Gulool Ja and Shale are working on that, I think I'm going to take a look around town.",
+      "text": "ระหว่างที่กูลูล จา กับเชลกำลังช่วยกันทำเรื่องนั้น ฉันคิดว่าจะลองไปเดินสำรวจดูรอบๆ เมืองหน่อยน่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I want to make sure no new problems have cropped up, as well as search for any information that might lead us to Calyx.",
+      "text": "ฉันอยากจะตรวจตราให้แน่ใจว่าไม่มีปัญหาใหม่ๆ โผล่ขึ้นมาอีก แล้วก็อยากจะลองหาข่าวสารที่อาจจะช่วยนำทางพวกเราไปหาคาลิกซ์ได้ด้วย"
+    },
+    {
+      "character": "Geode",
+      "text_en": "You're welcome to come along. Another “malfunction” could happen at any time, and I'd be glad to have some brawlers at my back.",
+      "text": "ถ้าคุณอยากจะมาด้วยกันก็ยินดีเลยนะ ปัญหา 'การทำงานผิดปกติ' อาจจะเกิดขึ้นอีกเมื่อไหร่ก็ได้ ถ้ามีนักสู้ฝีมือดีคอยระวังหลังให้ล่ะก็ ฉันคงอุ่นใจขึ้นเยอะเลยล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Count me in!",
+      "text": "ฉันขอไปด้วยคนค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha and the others are helping Oblivion patrol the other levels of the keep, so shall we stick to the streets of Solution Nine?",
+      "text": "พวกราฮากำลังช่วยกลุ่มอ็อบลิเวียนลาดตระเวนอยู่ที่ชั้นอื่นๆ ของปราสาทเอเวอร์คีปอยู่ค่ะ งั้นพวกเราจะลาดตระเวนกันเฉพาะตามท้องถนนในโซลูชัน ไนน์ (Solution Nine) ดีไหมคะ?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Sounds like a plan. Thanks, you two, I appreciate the company!",
+      "text": "เป็นความคิดที่ดีเลย ขอบใจพวกเธอสองคนมากนะ ดีใจที่มีคนร่วมทางไปด้วย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I have to speak with the city's administrators about bringing in the Landsguard. I want our soldiers around to protect those who're moving to Tuliyollal.",
+      "text": "ฉันต้องไปคุยกับพวกผู้บริหารของเมืองเรื่องการส่งหน่วยแลนด์การ์ด (Landsguard) เข้ามาน่ะ ฉันอยากให้ทหารของพวกเราคอยดูแลคุ้มกันความปลอดภัยให้แก่ผู้ที่กำลังจะย้ายไปอยู่ที่ทูลิโยลลัล (Tuliyollal) ด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alphinaud and Alisaie will be joining me for the meeting, so the three of us can cover that sector as soon as we're done!",
+      "text": "อัลฟิโน่กับอลิเซก็จะไปเข้าร่วมประชุมกับฉันด้วยเหมือนกัน เพราะงั้นถ้าพวกเราคุยงานเสร็จเมื่อไหร่ เดี๋ยวทั้งสามคนจะไปช่วยสำรวจพื้นที่ในเขตนั้นให้ทันทีเลยล่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If I may...",
+      "text": "ถ้าหากไม่รังเกียจ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'd like to join Forename 's group, if you'll have me?",
+      "text": "ฉันขออนุญาตเข้าร่วมกลุ่มสำรวจกับคุณ [ชื่อ] ด้วยคนจะได้ไหมคะ?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The more mouths to ask questions, the merrier. As long as you're aware of the dangers.",
+      "text": "มีคนช่วยถามคำถามเยอะๆ ก็ดีเหมือนกันนะ ขอเพียงแค่เธอยอมรับความเสี่ยงเรื่องอันตรายได้ก็พอแล้วล่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you! I'll do my best not to be a burden.",
+      "text": "ขอบคุณมากค่ะ! ฉันสัญญาว่าจะพยายามอย่างเต็มที่ไม่ให้เป็นภาระของทุกคนนะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm more worried about you, Geode. Don't do anything stupid.",
+      "text": "ฉันน่ะเป็นห่วงคุณมากกว่านะคะ จีโอด อย่าทำอะไรโง่ๆ สติแตกขึ้นมาล่ะคะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Pfft, you'll change your tune once we get back with the goods on Calyx. Then the drinks are on you!",
+      "text": "เหอะ น่า แล้วเธอจะต้องเปลี่ยนคำพูดแน่ๆ เมื่อพวกเรากลับมาพร้อมกับข้อมูลชิ้นสำคัญของคาลิกซ์ ถึงตอนนั้นแล้ว เธอต้องเป็นเจ้ามือเลี้ยงเหล้าฉันนะโว้ย!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Come on, let's continue this outside.",
+      "text": "เอาล่ะ ไปเถอะ พวกเราออกไปสำรวจกันข้างนอกดีกว่า"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I wish I could grow up faster... There'll be so much more I can do when I'm bigger like you.",
+      "text": "ผมอยากจะโตให้เร็วกว่านี้จังเลยครับ... ถ้าผมตัวใหญ่และแข็งแกร่งเหมือนพวกพี่ๆ ล่ะก็ คงจะช่วยทำอะไรได้มากกว่านี้เยอะเลยครับ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Good luck with your patrol, and take your time. We can do without Geode until you're done with the old sot.",
+      "text": "ขอให้การลาดตระเวนเป็นไปด้วยดีนะคะ ไม่ต้องรีบร้อนหรอกค่ะ พวกเราอยู่กันได้โดยไม่มีจีโอด จนกว่าคุณจะคุยงานกับตาเฒ่าขี้เมาคนนั้นเสร็จนั่นแหละค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Ah, sorry. Just when I think I've internalized better manners, talking with Geode brings back all the old bad habits.",
+      "text": "อุ๊ย ขอโทษทีค่ะ พอฉันคิดว่าตัวเองเริ่มมีมารยาทในการพูดจาที่ดีขึ้นแล้วเชียว แต่พอได้คุยกับจีโอดทีไร กิริยานิสัยแย่ๆ สมัยก่อนมันก็ชอบหลุดออกมาทุกทีเลยค่ะ"
+    },
+    {
+      "character": "Genolt",
+      "text_en": "Seems the machines've gone quiet again, so I can get back to maintainin' the weapons around here. Hope for the best, but prepare for the worst, as they say!",
+      "text": "ดูเหมือนเจ้าพวกเครื่องจักรจะสงบลงอีกรอบแล้วสิโว้ย งั้นข้าจะได้กลับไปลุยงานปรับปรุงดูแลรักษาอาวุธแถวนี้ต่อซะที อย่างที่เขาว่ากันนั่นแหละ หวังในสิ่งที่ดีที่สุด แต่ต้องเตรียมรับมือกับสิ่งที่เลวร้ายที่สุดเอาไว้เสมอโว้ย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will do my utmost to ensure the happiness of Alexandria and its people...",
+      "text": "ฉันจะทำทุกวิถีทางเพื่อปกป้องรักษารอยยิ้มและความสุขของชาวอเล็กซานเดรียทุกคนเอาไว้ให้ได้ค่ะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The city looks as though it's regained a sense of normalcy. Alas, the people will not soon forget recent events...",
+      "text": "เมืองนี้ดูเหมือนจะเริ่มกลับคืนสู่ความสงบเรียบร้อยตามปกติแล้วนะคะ แต่ทว่า ความหวาดกลัวจากเหตุการณ์เมื่อไม่นานมานี้คงไม่อาจลบเลือนไปจากใจของผู้คนได้ง่ายๆ หรอกค่ะ..."
+    },
+    {
+      "character": "Disquieted Citizen",
+      "text_en": "I finally got my hands on a neo regulator─and then came this close to crashing into a hover cargo!",
+      "text": "ในที่สุดข้าก็ได้รับนีโอเรกูเลเตอร์มาครอบครองจนได้─แต่แล้วก็เกือบจะเดินชนกับรถขนส่งสินค้าลอยฟ้าเข้าให้ซะแล้วสิ!"
+    },
+    {
+      "character": "Disquieted Citizen",
+      "text_en": "The day I become Endless can't come soon enough... I only hope I live that long.",
+      "text": "เมื่อไหร่จะถึงวันที่ข้าได้กลายเป็นเอ็นด์เลสเสียทีนะ... ขอแค่อยู่ให้รอดชีวิตจนถึงตอนนั้นก็พอแล้วล่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "...Sorry, I was off in my own little world! Shall we get started?",
+      "text": "...ขอโทษทีนะ พอดีฉันเหม่อลอยไปหน่อยน่ะ! พวกเราเริ่มกันเลยดีไหม?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "They do, and can't say as I blame them.",
+      "text": "พวกเขาคิดแบบนั้นจริงๆ นั่นแหละ ซึ่งฉันเองก็ไม่โทษพวกเขาหรอกนะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Me...? I'm well enough, given the circumstances.",
+      "text": "ส่วนฉันน่ะเหรอ...? ก็สบายดีอยู่หรอกนะ เมื่อพิจารณาจากสถานการณ์โดยรวมในตอนนี้น่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Right you are. It's time we took some action.",
+      "text": "พูดได้ถูกต้องเลย มันถึงเวลาที่พวกเราต้องลงมือทำอะไรสักอย่างแล้วล่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "It was the queen's fondest wish that her subjects remain shielded from the horrors of death. And so they were for the longest time.",
+      "text": "มันเคยเป็นปณิธานอันแรงกล้าขององค์ราชินีสฟีนที่จะปกป้องดูแลให้ประชาชนรอดพ้นจากความหวาดกลัวในความตาย และพวกเขาก็อยู่อย่างปลอดภัยแบบนั้นมาเนิ่นนานแสนนาน"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Then, the moment mortality once again becomes an unavoidable fact of life, they're greeted with an outbreak of bloody violence.",
+      "text": "แต่แล้ว ในช่วงเวลาที่ความตายกลายมาเป็นความจริงอันหลีกเลี่ยงไม่ได้ของชีวิตอีกครั้ง พวกเขากลับต้องมาเผชิญกับการนองเลือดและโศกนาฏกรรมอันแสนโหดร้ายกระทันหันแบบนี้"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Many are bound to give the Endless alternative serious consideration.",
+      "text": "ก็ไม่แปลกหรอกที่คนส่วนใหญ่จะหันมาคิดทบทวนเรื่องทางเลือกในการกลายเป็นเอ็นด์เลสอย่างจริงจังน่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Indeed, and I do not blame them for that. It is only natural that such thoughts should come to mind.",
+      "text": "จริงค่ะ และฉันก็ไม่ได้คิดจะตำหนิพวกเขาในเรื่องนั้นเลยนะคะ เพราะการคิดเช่นนั้นมันเป็นเรื่องธรรมชาติที่เข้าใจได้อยู่แล้วล่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What I cannot forgive is the way Calyx wields fear and misery to manipulate people into making that choice.",
+      "text": "แต่สิ่งที่ฉันไม่อาจยอมอภัยให้ได้เลย คือการที่คาลิกซ์ใช้ความกลัวและความทุกข์ทรมานเป็นเครื่องมือในการชี้นำกระตุ้นให้ผู้คนต้องจำใจยอมเลือกหนทางนั้นต่างหากค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No one─not Calyx, nor anyone else─should dictate how we cope with the specter of death.",
+      "text": "ไม่ว่าใครหน้าไหน─รวมถึงคาลิกซ์ด้วย─ก็ไม่มีสิทธิ์มาออกคำสั่งคุมทิศทางว่าพวกเราควรจะเผชิญหน้ากับความตายอย่างไรทั้งนั้นค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As one who lived as an Alexandrian, I wish to put the choices for this country's future back into the hands of its citizens.",
+      "text": "ในฐานะคนที่มีชีวิตเติบโตมาในอเล็กซานเดรีย ฉันอยากจะคืนสิทธิ์อำนาจการตัดสินใจเลือกอนาคตของประเทศนี้ให้กลับไปอยู่ในมือของประชาชนอีกครั้งค่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "And you think we can handle that responsibility? After everything you've seen of us?",
+      "text": "แล้วเธอคิดว่าพวกเราจะสามารถรับผิดชอบต่อสิทธิ์หน้าที่อันยิ่งใหญ่นั้นได้จริงๆ เร้อ? หลังจากที่เธอได้เห็นเรื่องราวทั้งหมดเกี่ยวกับพวกเรามาน่ะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It is what I've seen that has convinced me you can.",
+      "text": "เป็นเพราะสิ่งที่ฉันได้พบเห็นมานั่นแหละค่ะ ที่ทำให้ฉันมั่นใจว่าพวกคุณทำได้แน่นอน"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I awoke four centuries later to find our people living and laughing beneath Alexandria's banner. Though surprised and bewildered, I was overjoyed to see it so. You all deserve to be happy...",
+      "text": "ฉันลืมตาตื่นขึ้นมาในอีกสี่ศตวรรษต่อมา แล้วพบว่าประชาชนของพวกเรายังมีชีวิตและหัวเราะร่าเริงอยู่ภายใต้ผืนธงแห่งอเล็กซานเดรีย ถึงแม้จะรู้สึกตกใจและสับสนอยู่บ้าง แต่ฉันก็ปิติยินดีอย่างยิ่งที่ได้เห็นภาพนั้นค่ะ... พวกคุณทุกคนสมควรได้รับความสุขนะคะ..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "...Well, then.",
+      "text": "...ถ้าอย่างนั้นล่ะก็"
+    },
+    {
+      "character": "Geode",
+      "text_en": "We'd best not let you down!",
+      "text": "พวกเราก็ต้องพยายามให้เต็มที่เพื่อไม่ให้เธอต้องผิดหวังแล้วล่ะ!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Now, I suggest we move as a group─we don't know if or when a battle might find us.",
+      "text": "เอาล่ะ ฉันคิดว่าพวกเราควรลาดตระเวนรวมกลุ่มกันไว้ดีกว่า─พวกเราไม่มีทางรู้เลยว่าการต่อสู้อันตรายจะมาเยือนตัวเมื่อไหร่น่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh. I believe someone came prepared for just such an eventuality.",
+      "text": "อ๊ะ ดูเหมือนว่าจะมีบางคนเตรียมตัวพร้อมรับมือกับสถานการณ์ฉุกเฉินแบบนั้นไว้เป็นอย่างดีแล้วนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that the grimoire you retrieved from the old castle?",
+      "text": "นั่นคือตำราเวทมนตร์ (grimoire) ที่คุณเก็บกู้มาจากปราสาทโบราณในคราวก่อนใช่ไหมคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, my parents gifted it to me when I was a child. They were adamant that I should learn to protect the things important to me.",
+      "text": "ใช่ค่ะ ท่านพ่อและท่านแม่มอบสมุดเล่มนี้ให้เป็นของขวัญแก่ฉันตั้งแต่ตอนยังเด็กค่ะ พวกท่านเน้นย้ำอยู่เสมอว่าฉันควรจะเรียนรู้วิธีปกป้องสิ่งสำคัญในชีวิตเอาไว้ด้วยตัวเอง"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I was fortunate enough to have a tutor in the arcane arts, so I lay claim to some small measure of skill.",
+      "text": "ฉันโชคดีมากที่มีครูสอนเวทมนตร์คอยถ่ายทอดศาสตร์ลึกลับให้ตั้งแต่เด็ก ก็เลยพอจะมีความรู้ความสามารถและฝีมือทางด้านเวทมนตร์ติดตัวอยู่บ้างเล็กน้อยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "If that's the case, it might be better if we split into two groups after all. 'Twould certainly be more efficient for information gathering!",
+      "text": "ถ้าเช่นนั้น ฉันคิดว่ามันจะดีกว่าถ้าพวกเราแยกกลุ่มออกเป็นสองกลุ่มนะคะ การทำแบบนั้นน่าจะช่วยเพิ่มประสิทธิภาพในการรวบรวมข่าวสารได้เยอะเลยล่ะค่ะ!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I, uh... I guess that makes sense?",
+      "text": "เอ่อ... ฟังดูสมเหตุสมผลดีเหมือนกันแฮะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The two of you can take the west side of the recreation zone, then.",
+      "text": "ถ้าอย่างนั้น พวกเธอสองคนลาดตระเวนฝั่งตะวันตกของเขตสันทนาการแล้วกันนะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Forename and I will take the east.",
+      "text": "ส่วนฉันกับ [ชื่อ] จะแยกไปสำรวจทางฝั่งตะวันออกเอง"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Very well. We shall end our patrol in the plaza just past True Vue and await you there.",
+      "text": "ตกลงค่ะ พวกเราจะสิ้นสุดการลาดตระเวนที่ลานกว้างตรงบริเวณถัดจากร้าน True Vue แล้วจะรอพวกคุณอยู่ที่นั่นนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My grimoire is inlaid with electrope in a manner which augments arcane power. It should prove a useful tool.",
+      "text": "ตำราเวทมนตร์ของฉันเล่มนี้สร้างขึ้นโดยการฝังแร่แก้วอิเล็กโทรปไว้ด้วย ซึ่งช่วยเสริมสร้างอำนาจพลังเวทมนตร์ให้รุนแรงยิ่งขึ้น น่าจะเป็นประโยชน์ในการต่อสู้ป้องกันตัวได้ดีค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll keep my eyes and ears open. Any information could be helpful, no matter how seemingly insignificant.",
+      "text": "ฉันจะคอยสังเกตและฟังข่าวสารอย่างรอบคอบค่ะ ข้อมูลใดๆ ก็น่าจะเป็นประโยชน์ต่อการสืบหาความจริงได้ แม้ว่าเบาะแสนั้นจะดูเล็กน้อยแค่ไหนก็ตามค่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Let's do the rounds, then. We'll see what's what, and chat to the people we meet along the way.",
+      "text": "งั้นพวกเราไปลุยกันเถอะ ไปเดินตรวจตรารอบๆ ดูว่าสถานการณ์เป็นอย่างไร แล้วก็พูดคุยกับผู้คนระหว่างทางกัน"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Pay special attention to anyone who looks overwhelmed or overly excited. Hopefully that will earn us a tidbit or two we didn't know before.",
+      "text": "คอยสังเกตพวกคนที่ดูมีท่าทีตื่นตระหนกหวาดระแวง หรือดูตื่นเต้นเกินเหตุเอาไว้เป็นพิเศษล่ะ หวังว่าการทำแบบนั้นจะช่วยให้ได้ข่าวเบาะแสอะไรใหม่ๆ ที่พวกเราไม่เคยรู้มาก่อนบ้างนะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'm guessing you would've preferred to go with Sphene and Krile, but I'm afraid you're stuck with me. I grow on people, though, I promise.",
+      "text": "ฉันเดาว่าคุณคงอยากจะแยกกลุ่มไปกับสฟีนและไครล์มากกว่า แต่เสียใจด้วยนะที่ต้องมาร่วมทางกับคนกวนๆ แบบฉันแทนน่ะ แต่รับรองเลยว่าอยู่ด้วยกันไปเรื่อยๆ แล้วคุณจะเริ่มชอบหน้าฉันเองชัวร์ สัญญาเลย"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Need to step away? Fair enough. I'll wait for you outside the Neon Stein.",
+      "text": "มีธุระต้องไปทำหรือเปล่า? ไม่เป็นไรนะ ฉันจะรอคุณอยู่ข้างนอกร้านนีออน สไตน์ (Neon Stein) แล้วกัน"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Ready to head out again?",
+      "text": "พร้อมจะลุยกันต่อหรือยังล่ะ?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Ah, the memories... I used to drink around here all the time.",
+      "text": "อ่า... คิดถึงความหลังชะมัด เมื่อก่อนฉันแวะมานั่งดื่มแถวนี้เป็นประจำเลยล่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I made sure not to overdo it when I had work the next day, but once we were past the busy season─or when the ladies weren't amenable to my company─well... You'd have to scrape me off the street outside in the morning. Or afternoon.",
+      "text": "ถ้าวันถัดไปมีงาน ฉันก็คอยระวังไม่ให้ดื่มหนักเกินไปหรอกนะ แต่ถ้าผ่านพ้นฤดูงานยุ่งไปแล้ว─หรือตอนที่สาวๆ ไม่ยอมคุยด้วยล่ะก็... หึๆ กว่าจะรู้ตัวอีกทีก็ล้มพับนอนแผ่หราอยู่ตามริมถนนตอนเช้า ตื่นอีกทีก็เกือบบ่ายแล้วล่ะแฮะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The worst I ever got was on what should have been the worst day of my life...if only I could remember it. I was still wearing a regulator back then.",
+      "text": "ครั้งที่ฉันเมาหนักที่สุด น่าจะเป็นวันที่ย่ำแย่ที่สุดในชีวิตของฉันด้วยล่ะมั้ง... ถ้าเพียงแต่ฉันจะจำเรื่องราวนั้นได้ล่ะก็นะ เพราะตอนนั้นฉันยังสวมใส่เครื่องเรกูเลเตอร์อยู่เลยน่ะสิ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "It was also the day I first met Shale, although I guarantee she's forgotten it completely.",
+      "text": "และนั่นก็เป็นวันแรกที่ฉันได้รู้จักกับเชลด้วยเหมือนกัน ถึงแม้ฉันจะรับประกันได้เลยว่ายัยนั่นคงลืมเลือนเรื่องราวในวันนั้นไปหมดเกลี้ยงแล้วล่ะแฮะ"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "There, it's done!",
+      "text": "เสร็จสิ้นเรียบร้อยแล้ว!"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "What has me in such a fine mood, you ask?",
+      "text": "ถามงั้นเรอะว่าทำไมข้าถึงได้อารมณ์ดีเบิกบานขนาดนี้น่ะ?"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "Well, I've just registered my new regulator. I was leery of becoming nothing but memories at first, but now that I've gone through with the registration, I've never felt more at ease!",
+      "text": "ก็ข้าเพิ่งจะลงทะเบียนนีโอเรกูเลเตอร์อันใหม่เสร็จน่ะสิ ตอนแรกก็กังวลและกลัวอยู่เหมือนกันว่าตัวข้าจะเลือนหายไปเหลือเพียงแค่ความทรงจำเปล่าๆ แต่พอทำเรื่องลงทะเบียนเสร็จเรียบร้อยแล้ว ข้าก็รู้สึกโล่งอกสบายใจขึ้นมาทันทีเลยล่ะ!"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "Also, once it was done, the regulator displayed the current numbers. Of the five thousand slots available, over thirty-eight hundred have already been filled.",
+      "text": "แถมพอทำเสร็จปุ๊บ หน้าจอตัวอุปกรณ์ก็แสดงจำนวนผู้ลงทะเบียนล่าสุดขึ้นมาด้วยล่ะ จากโควตาจำกัดทั้งหมดห้าพันคน ในตอนนี้มีคนลงทะเบียนเสร็จไปแล้วกว่าสามพันแปดร้อยคนแล้วนะ"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "So if you're still hesitant, you've not much time to make your mind up. Mark my words, friend: when there's only a few slots left, it's going to get very ugly.",
+      "text": "เพราะงั้นถ้าเจ้ายังลังเลอยู่ล่ะก็ จะไม่มีเวลาให้คิดตัดสินใจมากนักหรอกนะ เชื่อคำเตือนข้าเถอะเพื่อนฝูง: ขืนรอจนเหลือสิทธิ์ที่ว่างอยู่เพียงไม่กี่สิทธิ์ล่ะก็ สถานการณ์แย่งชิงมันต้องย่ำแย่ดุเดือดแน่ๆ"
+    },
+    {
+      "character": "Light-hearted Citizen",
+      "text_en": "We'll be seeing fights over neo regulators in the very near future. Should you get one, I suggest you register right away.",
+      "text": "พวกเราคงจะได้เห็นเหตุการเข่นฆ่าแย่งชิงนีโอเรกูเลเตอร์เกิดขึ้นในเร็วๆ นี้แน่นอน ถ้าเจ้าหามาได้สักอันล่ะก็ ข้าแนะนำให้รีบเปิดระบบลงทะเบียนใช้งานทันทีเลยล่ะ"
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "<sigh>",
+      "text": "*เฮ้อ*"
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "Are the sentries and air-wheelers safe to be around now?",
+      "text": "ในตอนนี้พวกเซนทรีกับพวกยานลอยฟ้าจะปลอดภัยและใช้งานได้ดีอยู่หรือยังนะ?"
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "I just know it's going to happen again...and maybe next time I'll be the one who dies in a horrible accident.",
+      "text": "ข้าสังหรณ์ใจว่าเหตุการณ์จักรกลคลั่งมันจะต้องเกิดขึ้นอีกแน่นอน... และบางทีครั้งถัดไป คนที่ต้องตายในอุบัติเหตุสยดสยองนั่นอาจจะเป็นตัวข้าเองก็ได้"
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "I need a neo regulator. Becoming Endless is the only way─even Queen Sphene said so!",
+      "text": "ข้าต้องการนีโอเรกูเลเตอร์สักอัน การกลายเป็นเอ็นด์เลสคือหนทางเดียวที่จะรอดชีวิตได้─ขนาดองค์ราชินีสฟีนยังพูดแบบนี้เลยนะ!"
+    },
+    {
+      "character": "Somber Citizen",
+      "text_en": "But how to get one...? Maybe I can convince someone who's unsure to give me theirs.",
+      "text": "แต่จะไปหามาได้จากที่ไหนกันล่ะ...? บางทีข้าอาจจะลองไปเกลี้ยกล่อมคนที่เขากำลังลังเลไม่แน่ใจ เพื่อขอแลกเอาอุปกรณ์ของเขามาใช้งานแทนดีไหมนะ"
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "You look familiar...",
+      "text": "หน้าตาของคุณดูคุ้นๆ จังเลยนะคะ..."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "You want to hear my story? While I appreciate you offering a sympathetic ear, there's not much to tell...",
+      "text": "อยากจะฟังเรื่องเล่าของข้าอย่างนั้นเหรอคะ? ขอบคุณในความเห็นอกเห็นใจที่พร้อมจะรับฟังปัญหาของผู้อื่นนะคะ แต่ว่ามันไม่มีเรื่องอะไรน่าสนใจที่จะเล่าให้ฟังนักหรอกค่ะ..."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "If you must know, a good friend of mine died when those machines went crazy. His air-wheeler dropped right out of the sky, and he didn't survive the crash.",
+      "text": "ถ้าต้องการรู้จริงๆ ล่ะก็ เพื่อนสนิทของข้าเพิ่งจะเสียชีวิตไปตอนที่พวกเครื่องจักรเกิดคลุ้มคลั่งนั่นแหละค่ะ ยานลอยฟ้า (air-wheeler) ของเขาร่วงหล่นลงมาจากท้องฟ้าดิ่งสู่พื้นดิน และเขาก็ไม่รอดชีวิตจากแรงกระแทกของอุบัติเหตุในครั้งนั้น..."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "Damn fool wasn't wearing a regulator... I know that's not so strange these days, but he'd never bothered with one.",
+      "text": "เจ้าคนโง่เง่าคนนั้นไม่ได้สวมใส่เรกูเลเตอร์เอาไว้เลยค่ะ... ข้ารู้ว่าทุกวันนี้การไม่ใส่เรกูเลเตอร์จะไม่ใช่เรื่องแปลกใหม่อะไรนัก แต่เขาก็ไม่เคยสนใจอยากจะสวมใส่มันเลยสักครั้งในชีวิต"
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "He was at peace with the idea of dying someday, and I thought I understood what that meant. Until it happened...",
+      "text": "เขายอมรับความจริงในเรื่องที่ว่าวันหนึ่งตนเองก็ต้องเผชิญกับความตายได้ และข้าก็คิดว่าข้าเข้าใจความหมายของคำพูดนั้นดี จนกระทั่งเรื่องเศร้านี้เกิดขึ้นจริงกับตัวเขานั่นแหละค่ะ..."
+    },
+    {
+      "character": "Grieving Citizen",
+      "text_en": "We used to forget people after they died. No memories. No grief. I'm not sure if we'd be better off if that was still the case.",
+      "text": "เมื่อก่อนพวกเราเคยลืมเลือนตัวตนของผู้คนหลังจากที่เขาจากไป ไม่มีทั้งความทรงจำหลงเหลือ ไม่มีทั้งความโศกเศร้าทรมานใจ ข้าเองก็ไม่แน่ใจเหมือนกันว่าถ้าชีวิตพวกเรายังเป็นเช่นเดิมในตอนนั้น มันจะดีกว่าการเป็นอยู่ในตอนนี้หรือเปล่านะคะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Forename , a word?",
+      "text": "[ชื่อ] ฉันขอคุยอะไรด้วยหน่อยสิ?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I feel like there was a new factor in these stories we've heard. One we hadn't considered during our discussion with everyone in the Backroom...",
+      "text": "ฉันรู้สึกว่ามีจุดร่วมหรือปัจจัยสำคัญบางอย่างที่เพิ่งได้ยินมาจากเรื่องเล่าของคนพวกนี้ ซึ่งพวกเรายังไม่ทันได้คิดวิเคราะห์ถึงเรื่องนี้ตอนหารือร่วมกับทุกคนในเดอะแบ็ครูม (Backroom) เลยล่ะ..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "That's a point of concern, don't get me wrong, but I think we were acutely aware of it already...",
+      "text": "นั่นก็นับว่าเป็นจุดที่น่าเป็นกังวลอยู่นะ อย่าเข้าใจฉันผิดล่ะ แต่เรื่องนั้นฉันคิดว่าพวกเราก็พอจะสังเกตและรับรู้ถึงปัญหานั้นกันดีอยู่แล้วล่ะ..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "The fact that nearly four thousand people have registered is worthy of its own report. But are you sure there wasn't anything else...?",
+      "text": "ความจริงเรื่องที่ว่ามีคนลงทะเบียนใช้งานไปเกือบสี่พันคนแล้วก็นับว่าน่าสนใจจนควรนำไปรายงานแยกต่างหากอยู่หรอกนะ แต่คุณแน่ใจเหรอว่ามันไม่มีเบาะแสเรื่องอื่นอีกจริงๆ น่ะ...?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Yes, that's it!",
+      "text": "ใช่แล้วล่ะ เรื่องนั้นแหละ!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The vast majority of residents have always worn regulators, so it's not a detail we'd normally think about. With the supply of souls cut off, though, more and more people have been going without them...",
+      "text": "ที่ผ่านมาประชาชนเกือบทั้งหมดของที่นี่มักจะสวมใส่เรกูเลเตอร์อยู่ตลอดเวลาอยู่แล้ว มันจึงไม่ใช่รายละเอียดแปลกประหลาดที่พวกเราจะหันมาสนใจคิดถึงกันนักหรอก แต่ทว่า พอกระแสแหล่งพลังงานดวงวิญญาณถูกตัดขาดลงไปแบบนี้ ผู้คนก็ยิ่งต้องจำใจใช้ชีวิตโดยไม่พึ่งพามันมากขึ้นเรื่อยๆ..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "We need to look into the casualties from the recent attacks, and check whether or not they were equipped with regulators.",
+      "text": "พวกเราจำเป็นต้องตรวจสอบรายชื่อผู้บาดเจ็บและเสียชีวิตจากเหตุการณ์เครื่องจักรบุกโจมตีเมื่อไม่นานมานี้ เพื่อดูว่าตอนเกิดเหตุพวกเขาสวมใส่เรกูเลเตอร์อยู่หรือเปล่าน่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Let's ask around on the street over to the east. It was pretty chaotic at the time, but maybe we'll find eyewitnesses who can help us confirm if this was a pattern or not.",
+      "text": "ลองเดินถามผู้คนตามถนนเส้นทางฝั่งตะวันออกดูสิ ตอนเกิดเรื่องสภาพความปั่นป่วนวุ่นวายมันค่อนข้างหนักหนาเอาการ แต่บางทีพวกเราอาจจะพบผู้เห็นเหตุการณ์ที่สามารถช่วยยืนยันได้ว่า เรื่องนี้มันมีรูปแบบจงใจคัดเลือกเหยื่อหรือเปล่าน่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Aside from Oblivion members, only a handful of people used to go out and about without regulators. How times have changed.",
+      "text": "เมื่อก่อนนอกจากพวกสมาชิกกลุ่มอ็อบลิเวียนแล้ว ก็มีเพียงแค่คนจำนวนน้อยนิดเท่านั้นแหละที่กล้าเดินไปไหนมาไหนในเมืองโดยไม่ใส่เรกูเลเตอร์ ยุคสมัยมันเปลี่ยนไปไวจริงๆ เลยนะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "It was once my job to deliver goods by hover cargo. That's why I know a fair number of names and faces throughout the city.",
+      "text": "เมื่อก่อนหน้าที่ของฉันคือการขับรถลอยฟ้าขนส่งสินค้าส่งตามบ้านเรือนต่างๆ ฉันก็เลยพอจะรู้จักหน้าค่าตาคุ้นเคยชื่อผู้คนในเมืองแห่งนี้อยู่มากพอสมควรเลยล่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "The little ones who'd jump for joy when I brought them packages... The old lady who'd always greet me with a smile... I'd hate for anything bad to happen to them.",
+      "text": "พวกเด็กๆ ตัวน้อยที่จะกระโดดโลดเต้นดีใจเวลาที่ฉันนำพัสดุไปส่งให้... คุณยายแก่ๆ ที่คอยส่งยิ้มทักทายฉันเสมอ... ฉันไม่อยากเห็นเรื่องร้ายๆ เกิดขึ้นกับพวกเขาสักคนเลยล่ะ"
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "Hello, how are you today? Please let me know if I may be of service.",
+      "text": "สวัสดีค่ะ วันนี้เป็นอย่างไรบ้างคะ? หากมีสิ่งใดให้ข้อมูลหรือบริการ โปรดแจ้งรหัสคำสั่งได้ทันทีค่ะ"
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "...City-wide casualty data unavailable. Government officials are currently processing reports from all affected zones.",
+      "text": "...ไม่สามารถเข้าถึงข้อมูลสถิติผู้บาดเจ็บและเสียชีวิตทั่วเมืองได้ในขณะนี้ค่ะ เจ้าหน้าที่รัฐบาลกำลังอยู่ระหว่างการประเมินรวบรวมรายงานจากทุกเขตพื้นที่ที่ได้รับผลกระทบค่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Can you narrow it down to the recreation zone, then? You must have some estimates on hand?",
+      "text": "ถ้าอย่างนั้น ลองระบุข้อมูลเฉพาะในเขตสันทนาการนี้หน่อยได้ไหม? เธอก็น่าจะพอมีตัวเลขคาดการณ์เบื้องต้นอยู่บ้างสิ?"
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "Recalibrating parameters. Injured: Eighty-seven individuals. Casualties: Nineteen individuals.",
+      "text": "กำลังปรับเทียบพารามิเตอร์การค้นหาใหม่ค่ะ พบจำนวนผู้ได้รับบาดเจ็บ: แปดสิบเจ็ดราย จำนวนผู้เสียชีวิต: สิบเก้ารายค่ะ"
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "Casualties equipped with regulators: Zero.",
+      "text": "จำนวนผู้เสียชีวิตที่สวมใส่อุปกรณ์เรกูเลเตอร์ขณะเกิดเหตุ: ศูนย์รายค่ะ"
+    },
+    {
+      "character": "Unarmed Sentry",
+      "text_en": "Please remain calm: I am under orders to ensure the safety of our citizens. In the unlikely event of another mass malfunction, I will act to subdue any affected machines.",
+      "text": "โปรดอยู่ในความสงบและมั่นใจในความปลอดภัยนะคะ: ฉันได้รับคำสั่งควบคุมหน้าที่ให้ดูแลรักษาความปลอดภัยของประชาชนทุกท่าน ในกรณีที่ไม่คาดคิดว่าหากเกิดเหตุทำงานผิดปกติขนาดใหญ่อีกครั้ง ฉันจะดำเนินการระงับควบคุมเครื่องจักรที่ได้รับผลกระทบในทันทีค่ะ"
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "I'm too scared of the sentries to clean anywhere near them...",
+      "text": "ฉันรู้สึกหวาดกลัวพวกทหารยามจักรกล (เซนทรี) จนไม่กล้าเข้าไปทำความสะอาดตรงบริเวณใกล้ๆ ตัวพวกมันเลยค่ะ..."
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "You wish to know if the people who died in the machine rampage were wearing regulators?",
+      "text": "คุณอยากจะทราบข้อมูลว่าผู้เสียชีวิตในเหตุการณ์คลุ้มคลั่งของเครื่องจักร สวมใส่เรกูเลเตอร์อยู่หรือเปล่าอย่างนั้นเหรอคะ?"
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "I'm sorry, but I was assigned to clearing away debris. I didn't see any of the deceased.",
+      "text": "ขอโทษด้วยนะคะ แต่หน้าที่รับผิดชอบของฉันคือการเก็บกวาดซากปรักหักพังและทำความสะอาดน่ะค่ะ ฉันไม่ทันได้เห็นร่างของผู้เสียชีวิตเลยค่ะ"
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "No bodies were present by the time I arrived, so I assume the ushers had already done their work...",
+      "text": "ตอนที่ฉันเดินทางไปถึงพื้นที่ ก็ไม่หลงเหลือร่างของผู้เสียชีวิตอยู่แล้วค่ะ ฉันเลยคิดว่าพวกเจ้าหน้าที่จัดการวิญญาณ (usher) คงจะดำเนินหน้าที่จัดการเคลื่อนย้ายร่างไปหมดแล้วน่ะค่ะ..."
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "I do remember there being patches of white dust scattered about that were quite a chore to clean up, but nothing else worthy of mention.",
+      "text": "แต่ฉันพอจะจำได้อยู่บ้างว่ามีเศษฝุ่นผงสีขาวแปลกๆ ตกกระจายตัวอยู่ตามพื้น ซึ่งเก็บกวาดยากเอาการเลยล่ะค่ะ นอกจากเรื่องนี้แล้วก็ไม่มีข้อมูลอื่นที่น่าสังเกตอีกเลยค่ะ"
+    },
+    {
+      "character": "Unsettled Sanitation Worker",
+      "text_en": "It's terrifying to think that death might be waiting for us around every corner. But what can you do but keep working and hope for the best...?",
+      "text": "มันชวนให้รู้สึกสยดสยองจริงๆ เลยนะคะที่คิดว่าความตายอาจจะคอยจ้องมองพวกเราอยู่ตามมุมถนนต่างๆ ตลอดเวลา แต่จะทำอย่างไรได้ล่ะนอกเหนือจากก้มหน้าก้มตาทำงานต่อไป และหวังว่าจะไม่เกิดเรื่องร้ายแรงขึ้นกับตัวเองน่ะค่ะ..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "... Forename . I think it's time we rejoined Krile and Sphene.",
+      "text": "...[ชื่อ] ฉันคิดว่ามันถึงเวลาที่พวกเราต้องกลับไปรวมกลุ่มกับไครล์และสฟีนแล้วล่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I was half-joking with my boast to Shale, but we may have stumbled upon something major here. We should share our findings and keep pursuing this avenue of inquiry.",
+      "text": "ตอนที่ฉันคุยโม้ท้าทายกับเชลไว้ก็นึกสนุกไปอย่างนั้นเองหรอกนะ แต่ดูเหมือนว่าในตอนนี้พวกเราอาจจะบังเอิญไปเจอเบาะแสชิ้นสำคัญเบ้อเริ่มเข้าให้แล้วล่ะ พวกเราควรจะรวบรวมนำข้อมูลนี้ไปแจ้งกับทุกคน และสืบหาความจริงตามเส้นทางเบาะแสนี้ต่อกันดู"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Didn't Krile say to meet them in the plaza just outside of True Vue? Let's get going.",
+      "text": "เมื่อกี้ไครล์บอกว่าให้ไปเจอกันที่ลานกว้างข้างนอกร้าน True Vue ใช่ไหม? รีบไปกันเถอะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Come on, we should meet Krile and Sphene at the plaza. Can't say I'm thrilled to have Shale owe me a drink over something like this...",
+      "text": "มาเถอะ พวกเราไปสมทบกับไครล์และสฟีนที่ลานกว้างกันเถอะ ฉันไม่ได้ดีใจนักหรอกนะที่ได้ชนะพนันเรื่องเหล้ากับเชลในโศกนาฏกรรมย่ำแย่แบบนี้น่ะ..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Shall we go find Krile and Sphene, then?",
+      "text": "พวกเราออกไปหาตัวไครล์กับสฟีนกันเลยดีกว่าไหม?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...Is Geode not with you?",
+      "text": "...คุณจีโอดไม่ได้มาพร้อมกับคุณเหรอคะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh? Did Geode have something else to attend to?",
+      "text": "อ้าว? คุณจีโอดมีธุระด่วนอะไรต้องไปทำก่อนหรือเปล่าคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We've finished our patrol as well. Did it not seem that more people wanted neo regulators than before...?",
+      "text": "ทางพวกเราเองก็เดินลาดตระเวนเสร็จเรียบร้อยแล้วเหมือนกันค่ะ ดูเหมือนว่าจำนวนคนที่ต้องการแสวงหานีโอเรกูเลเตอร์จะเพิ่มสูงขึ้นกว่าแต่ก่อนเยอะเลยนะคะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So, essentially, you're saying that the people who were killed by malfunctioning machines weren't wearing regulators!?",
+      "text": "สรุปก็คือ คุณจะบอกว่าประชาชนที่ถูกเข่นฆ่าโดยพวกเครื่องจักรทำงานผิดปกติ ไม่มีใครสวมใส่เรกูเลเตอร์อยู่เลยสักคนเดียวอย่างนั้นเหรอคะ!?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Well, the numbers are still tentative, and only apply to that one zone. We don't know how they'll stack up against the overall data, but...this is definitely more than a coincidence.",
+      "text": "เอ่อ ตัวเลขเหล่านี้ยังเป็นแค่การประเมินเบื้องต้น และก็เก็บสถิติเฉพาะแค่ในเขตนั้นเขตเดียวเท่านั้นแหละนะ พวกเรายังไม่รู้ว่าพอเอาไปเทียบกับสถิติรวมของทั้งเมืองแล้วผลลัพธ์จะตรงกันไหม แต่... เรื่องนี้ไม่มีทางเป็นแค่เรื่องบังเอิญอย่างแน่นอนล่ะ"
+    },
+    {
+      "character": "Geode",
+      "text_en": "I think it's safe to say that anyone who had removed their regulator was a priority target.",
+      "text": "ฉันกล้าพูดเลยว่า ใครก็ตามที่ถอดเรกูเลเตอร์ออกไป จะต้องตกเป็นเป้าหมายโจมตีอันดับแรกของพวกมันอย่างจงใจเลยล่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now that you mention it, the person I was treating for injuries wasn't wearing one either...",
+      "text": "พอคุณพูดถึงเรื่องนี้ขึ้นมา คนบาดเจ็บที่ฉันช่วยปฐมพยาบาลดูแลให้เมื่อกี้ ก็ไม่ได้สวมเรกูเลเตอร์เอาไว้เช่นกันค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But, why? Why are they being targeted over everyone else?",
+      "text": "แต่ทำไมกันล่ะคะ? ทำไมคนกลุ่มนั้นถึงต้องตกเป็นเป้าหมายเพ่งเล็งโจมตีมากกว่าคนอื่นๆ กันคะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Based solely on the lack of a neo regulator, we cannot judge if a person has no desire to become Endless, or if they simply failed to acquire one of the limited devices.",
+      "text": "เพียงแค่การที่พวกเขาไม่มีอุปกรณ์เรกูเลเตอร์ตัวใหม่ใช้งาน พวกเรายังไม่สามารถตัดสินสรุปได้ชัดเจนหรอกค่ะว่าคนๆ นั้นไม่มีความต้องการที่จะกลายเป็นเอ็นด์เลส หรือว่าแค่เพียงไม่ได้รับสิทธิ์อุปกรณ์ที่มีจำกัดเท่านั้นน่ะค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But those who wear no regulator at all...",
+      "text": "แต่ทว่า สำหรับผู้ที่ไม่สวมใส่เรกูเลเตอร์เลยแม้แต่อันเดียวนั้น..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "They have clearly rejected the old system of using souls to revive themselves.",
+      "text": "พวกเขากำลังแสดงเจตนารมณ์ในการปฏิเสธระบบดั้งเดิมที่คอยใช้ดวงวิญญาณในการฟื้นคืนชีพชีวิตของตนเองอย่างชัดเจนเลยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Put another way, they have chosen to live their lives in the knowledge that death is an inevitability.",
+      "text": "หรือพูดอีกนัยหนึ่งก็คือ พวกเขาเลือกที่จะใช้ชีวิตต่อไปโดยยอมรับความจริงที่ว่าความตายเป็นเรื่องธรรมดาที่ไม่อาจหลีกเลี่ยงได้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The chances that such resolute people would wish to become Endless are far lower, I would imagine.",
+      "text": "สัดส่วนความเป็นไปได้ที่บุคคลผู้มีปณิธานแน่วแน่เช่นนั้นจะยอมสมัครใจกลายเป็นเอ็นด์เลส คงจะต่ำลงไปมากเลยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And so Calyx has chosen those least likely to accept his vision as victims to stoke fear and panic...",
+      "text": "คาลิกซ์จึงอาจจงใจเลือกเอาผู้ที่มีแนวโน้มจะปฏิเสธแนวคิดของเขามาเป็นเหยื่อสังเวยในแผนการ เพื่อจงใจสร้างความหวาดกลัวและตื่นตระหนกให้เกิดขึ้นในใจของผู้คนค่ะ..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "But there was no need to kill anyone!",
+      "text": "แต่มันไม่มีความจำเป็นอะไรต้องเข่นฆ่าผู้คนเลยสักนิดเดียว!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "With the way things were, the people were already fearful enough─he could have found five thousand willing citizens without all this madness!",
+      "text": "จากสภาพความเป็นอยู่ในตอนนี้น่ะ ลำพังแค่ความตื่นกลัวของผู้คนมันก็มากพออยู่แล้ว─เขาจะหาคนห้าพันคนที่สมัครใจและพร้อมจะเข้าร่วมระบบได้ง่ายๆ โดยไม่ต้องสร้างเรื่องราวบ้าบอฆ่าแกงกันแบบนี้เลยด้วยซ้ำ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You make a good point. Perhaps this sowing of terror is in service to another scheme, or he had some other need for the lives he's taken...",
+      "text": "คุณตั้งข้อน่าสังเกตได้ดีมากเลยค่ะ บางที การปลุกระดมสร้างความหวาดกลัวในครั้งนี้อาจจะเป็นไปเพื่อรับใช้แผนการอื่น หรือเขาอาจจะมีวัตถุประสงค์เจตนาเฉพาะบางอย่างที่ต้องการชิงเอาชีวิตของคนพวกนั้นไปก็เป็นได้ค่ะ..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "Right, the sanitation worker's story. She saw no bodies, but mentioned piles of white dust...",
+      "text": "ใช่สิ เรื่องเล่าของคนงานทำความสะอาดคนนั้นน่ะ ยัยนั่นบอกว่าไม่พบร่างเหยื่อผู้เสียชีวิตเลย แต่กลับพูดถึงเศษฝุ่นผงสีขาวกองใหญ่แทน..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I wonder... What about that sanitation worker's story? She saw no bodies, but mentioned piles of white dust...",
+      "text": "ฉันอดสงสัยไม่ได้จริงๆ... เรื่องที่คนทำความสะอาดคนนั้นเห็นฝุ่นผงสีขาวแต่ไร้ร่างของผู้เสียชีวิตน่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Dust, but no bodies? Now where have I heard that before...",
+      "text": "ฝุ่นผงงั้นเหรอคะ แต่ไม่มีร่างของผู้เสียชีวิต...? เรื่องแบบนี้ฉันเหมือนเคยได้ยินจากที่ไหนมาก่อนกันนะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do you recall when we went to save Erenville from the sentries in the outskirts? That usher Malachite told us much the same thing.",
+      "text": "คุณจำตอนที่พวกเราเดินทางไปช่วยเหลือเอเรนวิลล์จากพวกทหารยามจักรกลที่พื้นที่แถบชานเมืองได้ไหมคะ? มาลาไคต์ (Malachite) ผู้จัดการวิญญาณคนนั้นก็เคยบอกเรื่องที่คล้ายๆ กันนี้กับพวกเราค่ะ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "When I arrived, I found no body. Only a pile of dust, which the wind quickly scattered.",
+      "text": "เมื่อผมเดินทางไปถึง ก็ไม่พบร่างของผู้เสียชีวิตเลยครับ พบเพียงแค่กองฝุ่นผงที่ถูกสายลมพัดปลิวหายไปอย่างรวดเร็วเท่านั้นครับ"
+    },
+    {
+      "character": "Malachite",
+      "text_en": "Confused, I questioned the residents, but none knew what had become of it.",
+      "text": "ผมรู้สึกสับสนมาก จึงได้สอบถามผู้พักอาศัยแถวนั้นดู แต่ไม่มีใครล่วงรู้เลยว่าร่างนั้นหายไปไหนครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That both stories speak of missing remains is suspicious enough, but the shared mention of this dust is too much to ignore.",
+      "text": "การที่ทั้งสองเรื่องเล่าต่างกล่าวถึงร่างเหยื่อที่อันตรธานหายไปก็นับว่าน่าสงสัยมากพอแล้ว แต่การที่มีเศษฝุ่นผงสีขาวปรากฏขึ้นเหมือนกันอีก เรื่องนี้จึงไม่อาจปล่อยผ่านเลยตามเลยไปได้จริงๆ ค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "In that case, we should confirm if this substance was present at other sites, and attempt to ascertain its nature.",
+      "text": "ถ้าเช่นนั้น พวกเราควรไปยืนยันและสืบดูว่าสารชนิดนี้ปรากฏอยู่ในพื้นที่จุดอื่นๆ ที่ถูกโจมตีด้วยหรือไม่ รวมถึงพยายามค้นหาธาตุแท้และที่มาของสารนี้ด้วยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Following this thread may lead us not only to an explanation for the missing bodies, but also the intent behind Calyx's murderous actions.",
+      "text": "การแกะรอยตามเบาะแสเรื่องฝุ่นผงนี้อาจช่วยชี้แจงไขข้อสงสัยเรื่องร่างผู้เสียชีวิตที่หายไป และช่วยชี้ให้เห็นถึงเจตนารมณ์ที่แท้จริงเบื้องหลังการฆาตกรรมอันโหดเหี้ยมของคาลิกซ์ได้ด้วยค่ะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Forename , we need your help! I've lost control over the soldiers in the residential area. They might be trying to hurt people again.",
+      "text": "พี่ [ชื่อ] ครับ ช่วยพวกเราด้วยครับ! ผมสูญเสียการควบคุมสั่งการทหารยามจักรกลในเขตที่อยู่อาศัยแล้วครับ พวกมันอาจจะกำลังเริ่มทำร้ายทำลายชีวิตผู้คนอีกแล้วครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Oblivion members are on their way now, but are you close enough to join them?",
+      "text": "ตอนนี้พวกพี่ๆ สมาชิกกลุ่มอ็อบลิเวียนกำลังรุดหน้าเดินทางไปที่นั่นกันแล้วครับ พี่ [ชื่อ] พอจะอยู่ใกล้ๆ และรีบไปสมทบกับพวกเขาได้ไหมครับ?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Dammit! Our new investigation will have to wait... Let's go!",
+      "text": "โถ่เว้ย! งานสืบสวนหาข้อมูลของพวกเราคงต้องพักไว้ก่อนชั่วคราวแล้วล่ะ... พวกเรารีบไปกันเถอะ!"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "S-Stay back! Stay away from me!",
+      "text": "ยะ-อย่าเข้ามานะ! ออกไปห่างๆ ข้านะ!"
+    },
+    {
+      "character": "Geode",
+      "text_en": "Leave him alone!",
+      "text": "ปล่อยชายคนนั้นซะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Are you alright?",
+      "text": "คุณปลอดภัยดีและไม่เป็นอะไรใช่ไหมคะ?"
+    },
+    {
+      "character": "Geode",
+      "text_en": "What happened here?",
+      "text": "มันเกิดเรื่องอะไรขึ้นที่นี่กันน่ะ?"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "A sentry walked into my apartment...even though I'd locked the door and everything!",
+      "text": "จู่ๆ ทหารยามจักรกล (เซนทรี) ก็พังประตูบุกเข้ามาในห้องพักของข้า... ทั้งๆ ที่ข้าลงกลอนหน้าต่างและล็อกประตูบ้านไว้อย่างหนาแน่นแล้วแท้ๆ!"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "I managed to run, but the man who tried to save me...",
+      "text": "ข้าตะเกียกตะกายหนีรอดมาได้ แต่ผู้ชายอีกคนที่พยายามจะเข้ามาช่วยเหลือข้าน่ะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "No weapons. Which is to be expected, considering all the sentries were meant to be disarmed.",
+      "text": "ตัวหุ่นไม่มีการติดตั้งอาวุธ ซึ่งก็นับว่าเป็นไปตามคาดล่ะนะคะ เพราะทหารยามจักรกลทั้งหมดควรจะถูกถอดอาวุธออกไปแล้ว"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet it was ordered to attack all the same...even if that meant using its bare hands...",
+      "text": "แต่ทว่า พวกมันยังคงได้รับคำสั่งควบคุมให้บุกเข้าทำร้ายเป้าหมายอยู่ดี... แม้ว่านั่นหมายถึงการต้องใช้เพียงมือเปล่าเข่นฆ่าผู้คนก็ตาม..."
+    },
+    {
+      "character": "Geode",
+      "text_en": "I'll leave matters here to you. I'm going to do a sweep of the surrounding area.",
+      "text": "ฉันจะฝากพวกเธอให้คอยดูแลพื้นที่ทางฝั่งนี้ด้วยแล้วกันนะ เดี๋ยวฉันจะรีบไปวิ่งสำรวจรอบๆ บริเวณนี้ดูอีกที"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do you know anyone else in this sector who no longer wears a regulator?",
+      "text": "คุณพอจะทราบไหมคะว่ามีใครคนอื่นในเขตพื้นที่แถบนี้ที่ไม่ได้สวมใส่เรกูเลเตอร์อีกบ้างไหมคะ?"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "Uh... Oh, I don't think I've seen Isadora and her boy with theirs recently...",
+      "text": "เอ่อ... อ๋อ ข้าคิดว่าช่วงนี้ไม่เห็นอิซาดอร่า (Isadora) กับลูกชายของเธอสวมใส่เรกูเลเตอร์เลยนะครับ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Go to them─quickly!",
+      "text": "รีบไปหาพวกเขาด่วนเลยค่ะ─เร็วเข้า!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wayakkwe!",
+      "text": "คุณวายักเว (Wayakkwe)!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "I'll be fine. But Isadora's in bad shape...",
+      "text": "ฉันไม่เป็นอะไรมากหรอกค่ะ แต่ว่าอาการของอิซาดอร่าย่ำแย่หนักมากเลยค่ะ..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Mother! Mother, please...",
+      "text": "ท่านแม่! ท่านแม่ครับ ลืมตาขึ้นมาคุยกับผมเถอะครับ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Isadora!",
+      "text": "อิซาดอร่า!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank goodness, she wasn't struck anywhere vital...",
+      "text": "โล่งอกไปที บาดแผลของเธอไม่ได้โดนจุดสำคัญใดๆ ค่ะ..."
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "I'm sorry... If only I'd gotten here sooner...",
+      "text": "ฉันขอโทษนะคะ... ถ้าเพียงแต่ฉันจะเดินทางมาถึงที่นี่ให้เร็วกว่านี้สักนิดละก็..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Everything will be all right. I promise to make your mother better.",
+      "text": "ทุกอย่างจะไม่เป็นไรอย่างแน่นอนค่ะ ฉันสัญญาว่าจะช่วยรักษาร่างกายของท่านแม่คุณให้กลับมาแข็งแรงดีเหมือนเดิมนะคะ"
+    },
+    {
+      "character": "Milos",
+      "text_en": "Thank you, miss...",
+      "text": "ขอบคุณพี่สาวมากเลยนะครับ..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Will she sleep like that forever...?",
+      "text": "ท่านแม่จะหลับลึกไปตลอดกาลแบบนั้นหรือเปล่าครับ...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, not forever. She'll wake soon, I'm sure of it.",
+      "text": "ไม่หรอกค่ะ ไม่ใช่ตลอดกาลแน่นอนค่ะ ท่านแม่จะลืมตาตื่นขึ้นมาในเร็วๆ นี้ ฉันมั่นใจในเรื่องนั้นค่ะ"
+    },
+    {
+      "character": "Milos",
+      "text_en": "That's good to hear...",
+      "text": "ได้ยินแบบนี้ก็ค่อยอุ่นใจขึ้นมาหน่อยครับ..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "Thank you for saving her.",
+      "text": "ขอบคุณพี่สาวที่ช่วยชีวิตของท่านแม่เอาไว้ด้วยนะครับ"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "THE PROMISE OF TOMORROW",
+      "text": "คำมั่นสัญญาแห่งวันพรุ่งนี้"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "She should recover in due course. I'm glad we arrived when we did...",
+      "text": "อาการของเธอจะค่อยๆ ฟื้นตัวกลับมาดีขึ้นตามลำดับในไม่ช้าค่ะ ดีใจจริงๆ ที่พวกเราเดินทางมาช่วยรักษาได้ทันท่วงที..."
+    },
+    {
+      "character": "Milos",
+      "text_en": "When I was sick and couldn't move, my mother was always at my side, always keeping me company. And I'm going to do the same for her!",
+      "text": "ตอนที่ผมป่วยหนักจนขยับร่างกายไม่ได้ ท่านแม่คอยอยู่ดูแลเคียงข้างกายผมเสมอ คอยเฝ้าไม่ห่างไปไหนเลยครับ และตอนนี้ผมก็ตั้งใจจะอยู่ดูแลเคียงข้างเฝ้าท่านแม่แบบนั้นเหมือนกันครับ!"
+    },
+    {
+      "character": "Radius Resident",
+      "text_en": "Why...? Why is this happening...?",
+      "text": "ทำไมกัน...? ทำไมเรื่องร้ายแรงแบบนี้ถึงต้องมาเกิดขึ้นกับพวกเราด้วย...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll take care of this gentleman. Go and check on Isadora and Milos!",
+      "text": "เดี๋ยวทางสุภาพบุรุษคนนี้ฉันจะคอยช่วยเหลือดูแลความปลอดภัยให้เองค่ะ คุณรีบไปดูอาการของอิซาดอร่ากับไมลอสเถอะค่ะ!"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Forgive me, I was reckless... You shouldn't have had to waste time tending my wounds as well.",
+      "text": "ขอโทษด้วยนะคะ ฉันประมาทเลินเล่อไปเอง... พวกคุณไม่ควรต้องมาเสียเวลาจัดการทำแผลให้ฉันเลยค่ะ"
+    },
+    {
+      "character": "Wayakkwe",
+      "text_en": "Did you see our other comrade back there? He stayed behind in the lobby, but I heard the sounds of fighting...",
+      "text": "พวกคุณเห็นสหายอีกคนของพวกเราแถวๆ นั้นไหมคะ? เขาอาสาเฝ้าระวังความปลอดภัยอยู่ด้านล่างโถงทางเข้า แต่เมื่อกี้ฉันได้ยินเสียงการต่อสู้ดังขึ้นจากฝั่งนั้นด้วยค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "He... I am sorry. He must have fallen protecting the residents...",
+      "text": "เขา... ฉันเสียใจด้วยจริงๆ ค่ะ เขาคงต้องสละชีพเพื่อปกป้องรักษาร่างกายของประชาชนไว้ค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For their sakes, I have to remain calm...",
+      "text": "เพื่อเป็นหลักใจของพวกเขา ฉันจำเป็นต้องตั้งสติและทำใจเข้มแข็งเข้าไว้ค่ะ..."
+    }
+  ]
+}

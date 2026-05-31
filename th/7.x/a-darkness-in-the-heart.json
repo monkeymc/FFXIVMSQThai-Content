@@ -1,0 +1,448 @@
+{
+  "id": "a-darkness-in-the-heart",
+  "wiki_path": "/wiki/A_Darkness_in_the_Heart",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.3",
+  "title_en": "A Darkness in the Heart",
+  "title": "ความมืดมิดในหัวใจ",
+  "level": "100",
+  "location": "Earthen Sky Hideout(X:6.2,Y:5.9)",
+  "npc_start": "Shale",
+  "dialogues": [
+    {
+      "character": "Shale",
+      "text_en": "It's time I went back to locating Calyx's lair.",
+      "text": "ถึงเวลาที่ฉันต้องกลับไปค้นหาแหล่งกบดานของคาลิกซ์ต่อแล้วค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I have a new strategy in mind, but it remains to be seen if it will aid in narrowing down the possibilities.",
+      "text": "ฉันมีกลยุทธ์ใหม่อยู่ในใจแล้วค่ะ แต่ก็ยังต้องรอดูกันต่อไปว่าจะช่วยตีวงจำกัดความเป็นไปได้ให้แคบลงได้หรือเปล่าน่ะค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll ask Krile for help. I want to reexamine the data, starting with that of her parents.",
+      "text": "เดี๋ยวฉันจะไปขอให้คุณไครล์ช่วยค่ะ ฉันอยากจะลองตรวจสอบข้อมูลใหม่อีกครั้ง โดยเริ่มจากข้อมูลของท่านพ่อท่านแม่ของเธอค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "After all, they were the first to break away from Preservation and establish an organized resistance with Oblivion. There must be something in there that can point us in the right direction.",
+      "text": "เพราะยังไงเสีย พวกเขาก็เป็นกลุ่มแรกที่ตัดสินใจแยกตัวออกมาจากพรีเซิร์ฟเวชัน (Preservation) และก่อตั้งกลุ่มขบวนการต่อต้านที่เป็นระบบร่วมกับอ็อบลิเวียนขึ้นมา มันต้องมีเบาะแสบางอย่างในนั้นที่สามารถช่วยชี้นำเส้นทางที่ถูกต้องให้แก่พวกเราได้แน่นอนค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "What are your plans, Forename ?",
+      "text": "แล้วคุณวางแผนจะทำอะไรต่อเหรอคะ [ชื่อ]?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forename , is that you? Apologies for calling suddenly.",
+      "text": "[ชื่อ] สะดวกคุยไหมคะ? ขอโทษทีนะคะที่จู่ๆ ก็ติดต่อมาหาคุณกะทันหันแบบนี้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I've been making the rounds in the outskirts, and I cannot help but feel as though something is amiss.",
+      "text": "ฉันลองเดินสำรวจดูรอบๆ พื้นที่ชานเมืองน่ะค่ะ แล้วก็อดรู้สึกไม่ได้จริงๆ ว่ามีบางอย่างดูปั่นป่วนผิดปกติไปค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Might I ask you to join me? Your perspective would be most appreciated. It can wait until you've finished attending to Shale, of course.",
+      "text": "ฉันขอรบกวนให้คุณมาเดินสำรวจร่วมกับฉันหน่อยจะได้ไหมคะ? อยากจะได้มุมมองและความคิดเห็นของคุณช่วยประเมินสถานการณ์ดูสักนิดน่ะค่ะ แน่นอนว่าเรื่องนี้ไว้หลังจากที่คุณคุยธุระกับเชลเสร็จเรียบร้อยแล้วค่อยมาก็ได้ค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "It seems your plans have been decided for you. Go on─I've others to speak with before I return to the Backroom.",
+      "text": "ดูเหมือนว่าแผนการเดินทางของคุณจะถูกกำหนดไว้ให้เรียบร้อยแล้วนะคะ ไปเถอะค่ะ─ทางฉันเองก็ยังมีคนอื่นที่ต้องแวะไปคุยด้วยก่อนจะกลับเข้าเดอะแบ็ครูมเหมือนกันค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "As long as the memories remain, this wound in my heart will never fully heal. But it might be better that way.",
+      "text": "ตราบใดที่ความทรงจำยังคงหลงเหลืออยู่ บาดแผลลึกในใจของฉันนี้คงไม่มีวันสมานตัวหายดีได้สนิทหรอกค่ะ แต่บางที การให้มันเป็นเช่นนั้นมันอาจจะดีกว่าก็ได้นะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "To feel something─even pain─is to remember that they lived. And to know that I am still alive.",
+      "text": "การที่ยังสามารถรับรู้ถึงความรู้สึกใดๆ ได้─แม้ว่านั่นจะเป็นความเจ็บปวดทรมานก็ตาม─มันคือเครื่องเตือนใจว่าพวกเขาก็เคยมีชีวิตอยู่จริงค่ะ และทำให้ตัวฉันรู้ว่าฉันยังมีชีวิตอยู่ด้วยค่ะ"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I'll be fine now, just fine...",
+      "text": "ข้าไม่เป็นไรแล้วล่ะ ปลอดภัยดีแล้ว..."
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "I can't... I can't go on like this...",
+      "text": "ข้าทนไม่ไหวแล้ว... ข้าใช้ชีวิตอย่างหวาดกลัวแบบนี้ต่อไปไม่ไหวแล้ว..."
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "Wh-What do you want...? You can't have my regulator!",
+      "text": "จะ-เจ้าต้องการอะไรกันแน่...? ข้าไม่มีวันส่งมอบเรกูเลเตอร์ของข้าให้หรอกนะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Forename , thank you for coming!",
+      "text": "[ชื่อ] ขอบคุณมากเลยนะคะที่เดินทางมาหาฉันตามนัดค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As I mentioned, I would benefit from your worldly experience.",
+      "text": "อย่างที่ฉันบอกไปนั่นแหละค่ะ ฉันอยากจะขอพึ่งพาและรับฟังมุมมองจากประสบการณ์การเดินทางอันกว้างไกลของคุณน่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Perhaps it is my imagination, but the townspeople appear to be acting oddly. That is, even considering the current state of affairs.",
+      "text": "บางทีมันอาจจะเป็นแค่จินตนาการฟุ้งซ่านไปเองของฉันก็ได้นะคะ แต่ในตอนนี้ฉันอดรู้สึกไม่ได้จริงๆ ว่าชาวบ้านชาวเมืองแถวนี้ดูมีท่าทีและกิริยาที่พิลึกแปลกประหลาดมากเลยค่ะ แม้ว่าจะพิจารณาเทียบจากสถานการณ์วิกฤตที่ย่ำแย่อยู่ในตอนนี้แล้วก็ตาม"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As I am yet unfamiliar with the outskirts, I thought you might be better equipped to judge if their behavior is unusual or not.",
+      "text": "เนื่องจากตัวฉันยังไม่ค่อยคุ้นเคยกับวิถีชีวิตแถบชานเมืองเท่าไหร่นัก ก็เลยคิดว่าคุณน่าจะสามารถช่วยตัดสินดูได้ดีกว่า ว่าพฤติกรรมของพวกเขามันดูแปลกไปจากเดิมหรือเปล่าน่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Would you speak with them and see what you think? Though I hope to be proven wrong, I fear something is not right here...",
+      "text": "คุณพอจะช่วยเข้าไปพูดคุยหารือกับพวกเขาดูหน่อยได้ไหมคะ? ถึงแม้ฉันจะภาวนาขอให้ตัวเองคิดผิดไปเอง แต่ก็นั่นแหละค่ะ ฉันกลัวเหลือเกินว่าจะมีบางอย่างผิดปกติเกิดขึ้นที่นี่ค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's nothing so obvious as loud wailing or acts of violence, but... Well, it would be best if you saw for yourself.",
+      "text": "มันอาจจะไม่ใช่พฤติกรรมปั่นป่วนที่เด่นชัดแบบการร้องไห้คร่ำครวญโวยวาย หรือการใช้ความรุนแรงหรอกนะคะ แต่ว่า... ก็นั่นแหละค่ะ อยากให้คุณลองไปพูดคุยเฝ้าสังเกตดูด้วยตาตัวเองจะดีที่สุดค่ะ"
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "You... You're not wearing a regulator!? Don't you know the end is coming!?",
+      "text": "เจ้า... เจ้าไม่ได้สวมใส่เรกูเลเตอร์งั้นเร้อ!? นี่เจ้าไม่รู้หรือยังไงกันว่าวันสิ้นโลกกำลังจะมาเยือนแล้วน่ะ!?"
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "Well, it's your life to lose. Me? I got myself one of those neo regulators and registered a little while ago.",
+      "text": "ก็นะ นั่นมันชีวิตของเจ้าเองที่จะต้องเสี่ยงภัยเอาเองล่ะนะ ส่วนข้าน่ะเหรอ? ข้าไปไขว่คว้าหาเจ้านีโอเรกูเลเตอร์มาครอบครอง และจัดการลงทะเบียนใช้งานเสร็จเรียบร้อยไปเมื่อไม่นานมานี้เองล่ะ"
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "As soon as I did, a display appeared showing the number of registered users. Right now it's sitting at four thousand one hundred and sixty-eight.",
+      "text": "พอระบบเริ่มทำงาน หน้าจอของอุปกรณ์ก็แสดงตัวเลขยอดผู้ลงทะเบียนใช้งานล่าสุดขึ้นมาทันทีเลยล่ะ ตอนนี้ตัวเลขพุ่งไปถึงสี่พันหนึ่งร้อยหกสิบแปดคนแล้วนะ"
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "The upper limit was five thousand, wasn't it? Seems the total shot up right after those machine malfunctions. It's only a matter of time before everyone's registered.",
+      "text": "โวตาขีดจำกัดสูงสุดคือห้าพันคนใช่ไหมล่ะ? ดูเหมือนยอดจะพุ่งขึ้นไวมากทันทีหลังจากที่พวกหุ่นยนต์จักรกลเกิดคลั่งทำงานผิดปกติขึ้นมาน่ะ อีกไม่นานพวกที่เหลือก็คงต้องลงทะเบียนจนเต็มโควตาแน่นอน"
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "I pity those who weren't chosen, but I'm going to be an Endless. I'm going to evolve, and live happily ever after...",
+      "text": "ข้าล่ะรู้สึกเวทนาสงสารคนที่ไม่ได้รับเลือกจริงๆ แต่ข้าตัดสินใจแล้วว่าจะไปเป็นเอ็นด์เลส ข้ากำลังจะได้วิวัฒนาการและใช้ชีวิตอย่างมีความสุขไปตลอดกาล..."
+    },
+    {
+      "character": "Neo Regulator-equipped Resident",
+      "text_en": "I hope you come to your senses and get your hands on a neo regulator, friend!",
+      "text": "ข้าหวังว่าเจ้าจะคิดได้และเร่งหาทางเป็นเจ้าของนีโอเรกูเลเตอร์สักอันนะเพื่อน!"
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "Oh, please tell me you brought more neo regulators! Officially , they've all been handed out already, but I've heard rumors there were a few left over...",
+      "text": "โอ้ ได้โปรดบอกข้าทีเถอะว่าคุณนำพานีโอเรกูเลเตอร์มาเพิ่มน่ะ! ตามประกาศอย่างเป็นทางการประกาศว่าสิทธิ์ทั้งหมดถูกแจกจ่ายไปหมดเกลี้ยงแล้วก็จริง แต่ข้าได้ยินข่าวลือแว่วๆ มาว่ายังมีอุปกรณ์สำรองเหลืออยู่บ้าง..."
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "Surely the government still has some? Or perhaps Queen Sphene!?",
+      "text": "ทางรัฐบาลต้องแอบเก็บซ่อนเอาไว้บ้างแหละน่า? หรือบางทีองค์ราชินีสฟีนอาจจะมีเก็บไว้กับตัวบ้างไหมนะ!?"
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "I may not look it, but I was a hunter once. Back then, I hardly gave death a second thought. But now that I know the truth, it's all I can think about!",
+      "text": "รูปร่างข้าอาจจะดูเหี่ยวแห้งแบบนี้ แต่เมื่อก่อนข้าเคยเป็นนายพรานนักล่าสัตว์ป่ามาก่อนนะโว้ย ตอนนั้นข้าไม่เคยกลัวหรือคิดกังวลเรื่องความตายเลยสักนิดเดียว แต่พอข้าได้รับรู้สัจธรรมความจริงในตอนนี้ ความคิดเรื่องตายมันก็คอยหลอกหลอนจนข้าคิดเรื่องอื่นไม่ได้เลย!"
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "There has to be a way to hold on. There has to...",
+      "text": "มันต้องมีหนทางให้ยึดเหนี่ยวเพื่อรอดชีวิตสิ มันต้องมีสักทางสิ..."
+    },
+    {
+      "character": "Trembling Resident",
+      "text_en": "I can't go on like this...",
+      "text": "ข้าใช้ชีวิตแบบหวาดระแวงนี้ต่อไปไม่ไหวแล้ว..."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Greetings! I remember when you visited with Queen Sphene... Come to check on our well-being, have you?",
+      "text": "สวัสดีครับ! ผมจำได้ว่าคุณเคยเดินทางมาเยือนที่นี่พร้อมกับองค์ราชินีสฟีนในคราวก่อน... แวะมาเดินตรวจตราถามไถ่สารทุกข์สุกดิบของพวกเราเหรอครับ?"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Well, I can say that things are rather stressful out here as well.",
+      "text": "ก็นะ ผมพูดได้เต็มปากเลยว่าสถานการณ์รอบๆ ตัวพวกเราในตอนนี้ก็น่าตึงเครียดหนักหนาเอาการอยู่เหมือนกันครับ"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Without knowing if or when our machinery might turn murderous, the specter of death is ever present. People are terrified, and the clamor for neo regulators has reached a fever pitch.",
+      "text": "โดยที่ไม่อาจล่วงรู้ได้เลยว่าพวกอุปกรณ์เครื่องจักรจะเกิดบ้าคลั่งลุกขึ้นมาฆ่าคนอีกเมื่อไหร่ ความหวาดกลัวเรื่องความตายมันก็ลอยวนเวียนอยู่รอบตัวตลอดเวลา ผู้คนต่างพากันตื่นตระหนกหวาดผวา และความต้องการเรียกร้องอยากได้นีโอเรกูเลเตอร์ก็พุ่งสูงขึ้นจนน่าตกใจเลยครับ"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I, personally, was fortunate to have claimed a new device early on, and have long since completed the registration. Death has no hold over me now.",
+      "text": "สำหรับตัวผมเองก็นับว่าโชคดีมากที่หาเครื่องรุ่นใหม่มาครอบครองได้ตั้งแต่แรกๆ และทำเรื่องลงทะเบียนใช้งานเสร็จสิ้นไปตั้งนานแล้วล่ะครับ ความตายจึงไม่มีอำนาจเหนือชีวิตผมอีกต่อไปแล้วครับ"
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "Now, I must begin my prayers. The darkness draws closer, grows deeper...and we must cast it out...",
+      "text": "เอาล่ะ ตอนนี้ผมจำเป็นต้องเริ่มสวดภาวนาแล้วครับ ความมืดมิดกำลังคืบคลานเข้ามาใกล้และเข้มข้นขึ้นเรื่อยๆ... และพวกเราจำเป็นต้องขับไล่มันออกไปให้ได้..."
+    },
+    {
+      "character": "Pepoane",
+      "text_en": "I must pray...",
+      "text": "ผมจำเป็นต้องภาวนาต่อแล้วครับ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So, what do you think? Was I right to worry?",
+      "text": "เป็นอย่างไรบ้างคะ? ความคิดเห็นของคุณเห็นตรงกับความกังวลของฉันไหมคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yes, that is exactly it...",
+      "text": "ใช่ค่ะ เรื่องนั้นแหละคือสิ่งที่น่ากลัวที่สุด..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The people are overwhelmed by uncertainty and fear. And with each new registration, that fear inside them grows more insistent...",
+      "text": "ผู้คนต่างถูกครอบงำด้วยความไม่แน่นอนและความหวาดระแวง และยิ่งยอดจำนวนคนลงทะเบียนเพิ่มมากขึ้นเท่าไหร่ ความกลัวในจิตใจของพวกเขาก็ยิ่งทวีความรุนแรงเกาะกินหัวใจมากขึ้นเรื่อยๆ ค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How long until it drives them into full-blown panic?",
+      "text": "อีกนานแค่ไหนกันคะที่ความหวาดกลัวนี้จะผลักดันพวกเขาให้เข้าสู่ภาวะตื่นตระหนกโกลาหลอย่างสิ้นเชิงน่ะค่ะ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Forename ! Can you come to Resolution?",
+      "text": "[ชื่อ]! คุณรีบเดินทางมาที่ย่านเรโซลูชัน (Resolution) ด่วนเลยได้ไหมคะ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We have a problem... I'm already here with Lamaty'i and Alphinaud.",
+      "text": "พวกเรามีเรื่องด่วนปวดหัวเกิดขึ้นน่ะค่ะ... ตอนนี้ฉันอยู่กับรามาตี (Lamaty'i) และพี่อัลฟิโนที่นี่เรียบร้อยแล้วค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It sounds like she wants us there in a hurry. We should go!",
+      "text": "ฟังจากน้ำเสียงดูท่าทางเธอจะร้อนรนและต้องการให้พวกเราไปช่วยอย่างเร่งด่วนเลยนะคะ พวกเรารีบไปกันเถอะค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What's happened?",
+      "text": "มันเกิดเรื่องอะไรขึ้นเหรอคะ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Sorry to drag you out here, but I thought it best you see for yourself...",
+      "text": "ขอโทษด้วยนะคะที่ต้องตามตัวคุณมาที่นี่กะทันหัน แต่ฉันคิดว่าการมาดูและฟังเรื่องราวนั่นด้วยตาตัวเองจะดีที่สุดค่ะ..."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Death is your constant companion.",
+      "text": "[เสียงประกาศสาธารณะ] ความตายคือเงาตามตัวคอยเฝ้าเคียงข้างพวกเจ้าอยู่ตลอดเวลา"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Though you toil with diligence, death may come ere your reward is bestowed. Though your grand works be poised for completion, death may come ere you wake the following morn.",
+      "text": "แม้ว่าเจ้าจะเหน็ดเหนื่อยทุ่มเททำงานอย่างพากเพียร ความตายก็อาจจะมาเยือนก่อนที่เจ้าจะได้รับผลตอบแทน แม้ว่าผลงานอันยิ่งใหญ่ของเจ้าจะเตรียมพร้อมแล้วเสร็จ ความตายก็อาจจะมาพรากชีวิตไปก่อนที่เจ้าจะลืมตาตื่นในเช้าวันถัดไป"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Though you enjoy a life of peace and good fortune, death needs but one instant to claim you.",
+      "text": "แม้ว่าเจ้าจะมีชีวิตความเป็นอยู่ที่สงบร่มเย็นและเปี่ยมด้วยโชคลาภวาสนา ความตายก็ต้องการเวลาเพียงพริบตาเดียวเท่านั้นในการชิงเอาชีวิตของเจ้าไป"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Your bodies are weak. Your heart, your brain, every fragile organ rolls the dice from moment to moment, sheer chance deciding if they function or fail.",
+      "text": "สังขารของพวกเจ้านั้นอ่อนแออย่างยิ่ง หัวใจ สมอง หรือทุกๆ อวัยวะอันบอบบางต่างพึ่งพาดวงชะตาคอยโยนลูกเต๋าตัดสินในทุกเสี้ยววินาที ว่าระบบจะยังขยับทำงานต่อไปหรือจะพังทลายล้มเหลวลงในทันที"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Be you stoic or generous or righteous, no virtues tip the scales in that fatal reckoning.",
+      "text": "ต่อให้เจ้าจะเป็นผู้มีความอดทนอดกลั้น เป็นคนเอื้อเฟื้อเผื่อแผ่ หรือเป็นคนมีคุณธรรมมีศีลธรรมอันดีงามมากเพียงใด ก็ไม่มีแต้มความดีงามใดๆ ที่จะช่วยถ่วงดุลตาชั่งเพื่อรอดพ้นความตายไปได้"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "The choice is made without reason. The end is cloaked in terror. That is what it means to die.",
+      "text": "ชะตากรรมความตายถูกเลือกโดยไร้ซึ่งเหตุผล จุดจบสุดท้ายถูกห่อหุ้มด้วยความหวาดกลัวและสยดสยอง นั่นแหละคือความหมายของคำว่าตาย"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The announcement began after we finished our meeting with Gossan. As for its source, well...",
+      "text": "เสียงประกาศนี้เริ่มดังขึ้นทันทีหลังจากที่พวกเราเสร็จสิ้นการหารือร่วมกับคุณกอสซัน (Gossan) ครับ ส่วนแหล่งที่มาของสัญญาณนั่น..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx...",
+      "text": "คาลิกซ์..."
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "There is no shame in being afraid. It is that very fear which will drive you to conquer death.",
+      "text": "มันไม่ใช่เรื่องน่าอับอายเลยสักนิดในการที่จิตใจจะเกิดความเกรงกลัวในความตาย เพราะความหวาดกลัวเหล่านั้นนั่นเองที่จะคอยกระตุ้นผลักดันให้พวกเจ้ายอมลุกขึ้นสู้เพื่อเอาชนะความตายให้สำเร็จ"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Let us set a new course for mankind. Let us preserve our existence unto perpetuity.",
+      "text": "มาช่วยกันร่วมกำหนดเส้นทางเดินทางใหม่ของมนุษยชาติกันเถิด มาร่วมมือกันรักษาความคงอยู่ของพวกเราให้เป็นนิรันดร์ชั่วกัลปาวสาน"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "Hope for it. Wish for it. Pray for it. We will become Endless.",
+      "text": "จงฝากความหวัง จงเปี่ยมด้วยความปรารถนา และจงหมั่นสวดภาวนาต่อสิ่งนี้ พวกเราจะได้วิวัฒนาการไปเป็นเอ็นด์เลสร่วมกัน"
+    },
+    {
+      "character": "Public Announcement",
+      "text_en": "With evolution's brilliance will we banish the ever-present darkness of mortality...",
+      "text": "ด้วยประกายแสงสว่างอันยอดเยี่ยมแห่งวิวัฒนาการนี้ พวกเราจะช่วยกันขับไล่ความมืดมิดของความตายที่คอยหลอกหลอนอยู่ตลอดเวลาออกไปได้..."
+    },
+    {
+      "character": "Neo Regulator-equipped Citizen",
+      "text_en": "Change isn't easy. No one ever wants to take the first step.",
+      "text": "ความเปลี่ยนแปลงมันไม่ใช่เรื่องง่ายๆ เลย ไม่มีใครอยากจะเป็นคนเริ่มต้นก้าวแรกหรอก"
+    },
+    {
+      "character": "Neo Regulator-equipped Citizen",
+      "text_en": "But this...this is the right path for us. What other way could there be? I'm gonna do it─I'm going to register!",
+      "text": "แต่ว่า... สิ่งนี้นี่แหละคือเส้นทางที่ถูกต้องที่สุดสำหรับพวกเราแล้วล่ะ มันจะมีหนทางอื่นใดที่ดีกว่านี้อีกเร้อ? ข้าเอาด้วยแน่─ข้าจะลงทะเบียนใช้งานอุปกรณ์เดี๋ยวนี้แหละ!"
+    },
+    {
+      "character": "Agitated Citizen",
+      "text_en": "Vow Wuk Lamat!",
+      "text": "องค์ราชาผู้พิทักษ์ วุค ลามัต!"
+    },
+    {
+      "character": "Agitated Citizen",
+      "text_en": "You couldn't have come at a better time. Please, you have to let us move to Tuliyollal!",
+      "text": "ท่านเดินทางมาช่วยเหลือได้ถูกเวลาพอดิบพอดีเลยค่ะ ได้โปรดเถอะค่ะ ช่วยอนุมัติอนุญาตให้พวกเราอพยพไปอยู่ที่ทูลิโยลลัลด้วยเถอะนะคะ!"
+    },
+    {
+      "character": "Confounded Citizen",
+      "text_en": "It's too dangerous to stay here. And who knows when the next sentry will turn on us...",
+      "text": "อาศัยอยู่ที่นี่มันอันตรายและน่ากลัวเกินไปแล้วค่ะ แถมใครจะรู้ล่ะว่าพวกทหารยามจักรกลจะบุกเข้ามาฆ่าแกงพวกเราอีกเมื่อไหร่..."
+    },
+    {
+      "character": "Confounded Citizen",
+      "text_en": "Even if we wanted to become Endless, there are no more neo regulators to be had... Fleeing is our only option.",
+      "text": "ต่อให้พวกเราอยากจะเปลี่ยนร่างเป็นเอ็นด์เลสใจจะขาด แต่ในตอนนี้ก็ไม่มีอุปกรณ์นีโอเรกูเลเตอร์เหลือให้ใช้อีกแล้วล่ะค่ะ... การอพยพหนีออกไปจึงเป็นทางรอดเดียวที่พวกเราทำได้ในตอนนี้ค่ะ"
+    },
+    {
+      "character": "Neo Regulator-equipped Citizen",
+      "text_en": "If the solution was as simple as leaving, then we'd all have left already. Did you not hear the announcement? For the living, death is a foregone conclusion.",
+      "text": "ถ้าปัญหามันแก้ไขได้ง่ายๆ แค่การเดินทางย้ายออกไปล่ะก็ พวกเราทุกคนคงจะอพยพหนีไปตั้งนานแล้วล่ะ เจ้าไม่ได้ยินเสียงประกาศเมื่อกี้หรือยังไง? สำหรับสิ่งมีชีวิตที่ยังมีลมหายใจอยู่ ความตายคือชะตากรรมจุดจบสุดท้ายที่ไม่อาจเลี่ยงได้อยู่ดี"
+    },
+    {
+      "character": "Neo Regulator-equipped Citizen",
+      "text_en": "No matter where we go, or who we shelter with, we won't get another chance like this to overcome our fate.",
+      "text": "ต่อให้พวกเราจะหนีอพยพไปอยู่ที่ไหน หรือจะไปอาศัยพึ่งพิงฐานทัพของใครก็ตาม พวกเราก็ไม่มีวันได้รับโอกาสทองในการฝืนก้าวข้ามโชคชะตาความตายแบบในอเล็กซานเดรียนี้อีกนะ"
+    },
+    {
+      "character": "Agitated Citizen",
+      "text_en": "Easy for you to say when you have that regulator!",
+      "text": "พูดง่ายดีนี่ ก็เจ้ามีอุปกรณ์เรกูเลเตอร์เครื่องใหม่ครอบครองสวมใส่อยู่นี่นา!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Landsguard are on their way as we speak, and arrangements have been made to see that you all will be safely evacuated.",
+      "text": "ในตอนนี้นักรบหน่วยแลนด์สการ์ดกำลังเดินทางมาช่วยเหลือแล้วนะ และพวกเราได้จัดเตรียมมาตรการความพร้อมในการอพยพทุกคนออกไปอย่างปลอดภัยเรียบร้อยแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Tuliyollal will aid you in whatever way we can...",
+      "text": "ทางทูลิโยลลัลจะคอยช่วยเหลือดูแลพวกเธออย่างเต็มความสามารถเท่าที่จะทำได้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So please, remain calm.",
+      "text": "เพราะฉะนั้น ได้โปรดอยู่ในความสงบและทำใจให้สบายเถอะนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I want to help Alexandria. I want to save its people...",
+      "text": "ฉันอยากจะช่วยเหลือคุ้มครองอเล็กซานเดรีย อยากจะช่วยปกป้องชีวิตประชาชนทุกคนไว้ค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But what can I do?",
+      "text": "แต่ตัวฉันจะทำอะไรได้ล่ะคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I am not their queen...",
+      "text": "ฉันไม่ได้เป็นราชินีของพวกเขาอีกต่อไปแล้ว..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "First those deadly malfunctions, and now a city-wide announcement. He has spent considerable effort recruiting his five thousand Endless. Perhaps more than necessary, even...",
+      "text": "เริ่มแรกสุดก็จงใจสร้างความปั่นป่วนจักรกลคลั่งเพื่อฆ่าคน และในตอนนี้ก็ใช้เครื่องประกาศเสียงดังสะท้อนไปทั่วเมือง เขาคงทุ่มเทความพยายามอย่างมหาศาลเพื่อดึงดูดผู้คนให้ยอมไปเป็นเอ็นด์เลสห้าพันคนแรก หรือบางที มันอาจจะมีเจตนารมณ์อื่นซ่อนอยู่นอกเหนือจากแค่ยอดโควตานั้นอีกครับ..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We had the hopefuls who descended on Lamaty'i disperse for now. We could see tempers in the crowd were starting to fray...",
+      "text": "พวกเราเพิ่งขอร้องให้พวกกลุ่มคนที่มาคอยรบเร้าอ้อนวอนกับรามาตีแยกย้ายสลายตัวกันไปชั่วคราวน่ะค่ะ สังเกตเห็นได้ชัดเจนเลยว่าอารมณ์ความฉุนเฉียวและแรงกดดันของฝูงชนเริ่มจะพร้อมปะทุตลอดเวลาแล้วล่ะค่ะ..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This latest wave of attacks may not have been as widespread, but people are reaching their breaking point. We have to stop Calyx, and soon.",
+      "text": "ถึงแม้การโจมตีระลอกล่าสุดนี้จะไม่ได้ลุกลามขยายพื้นที่กว้างใหญ่นัก แต่ประชาชนก็ใกล้จะถึงขีดจำกัดความอดทนทนทานรับมือแล้วค่ะ พวกเราจำเป็นต้องหยุดยั้งคาลิกซ์ให้ได้โดยเร็วที่สุดค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm sorry I couldn't be there in time. Krile told me everything that happened while we were away...",
+      "text": "ฉันขอโทษด้วยนะที่เดินทางไปช่วยเหลือพวกเธอที่นั่นไม่ทันน่ะ ไครล์เล่ารายละเอียดเกี่ยวกับเรื่องร้ายที่เกิดขึ้นตอนพวกเราไม่อยู่ให้ฉันฟังหมดแล้วล่ะ..."
+    },
+    {
+      "character": "Gossan",
+      "text_en": "My apologies. The sign is not responding to any of our attempts to change the display or switch it off...",
+      "text": "ผมต้องขออภัยอย่างยิ่งครับ หน้าจอโฆษณาประชาสัมพันธ์แผ่นใหญ่แผ่นนี้ไม่ตอบสนองต่อความพยายามใดๆ ในการปรับแก้ไขการแสดงผลหรือสั่งการปิดระบบการทำงานเลยครับ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Calyx has access to the core system... Which means that if he chose to do so, he could deploy the soldiers beyond the barrier.",
+      "text": "คาลิกซ์มีสิทธิ์อำนาจการเจาะและเข้าถึงระบบแกนกลางทั้งหมดได้... นั่นหมายความว่าหากเขาปรารถนาที่จะทำเช่นนั้น เขาก็สามารถสั่งเคลื่อนพลส่งทหารออกไปโจมตีภายนอกบาเรียเขตแดนสายฟ้าได้ด้วยเช่นกันค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even if our people learn to live with death and decide to leave the dome behind, they will not be beyond his reach.",
+      "text": "ต่อให้ประชาชนของพวกเรายอมรับความจริงในความตายและตัดสินใจจะอพยพย้ายหนีทิ้งโดมแห่งนี้ไป พวกเขาก็ยังคงอยู่ในระยะขอบเขตอันตรายที่เอื้อมมือของเขาจะเอื้อมไปทำร้ายได้อยู่ดีค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet if it serves to allay their fears even a little, I beg you, Wuk Lamat: please let them shelter in Tuliyollal.",
+      "text": "แต่อย่างไรก็ตาม หากมันช่วยบรรเทาเบาบางความหวาดกลัวของพวกเขาลงได้บ้าง แม้เพียงเล็กน้อยก็ยังดี ฉันขอวิงวอนอ้อนวอนต่อคุณนะคะ วุค ลามัต: ได้โปรดช่วยให้พวกเขาได้อพยพไปพักอาศัยอยู่ในทูลิโยลลัลด้วยเถอะนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We will welcome any and all who want to come. We've already begun evacuations, and we'll be able to pick up the pace once the Landsguard arrives.",
+      "text": "พวกเรายินดีต้อนรับทุกคนที่ปรารถนาจะย้ายไปอยู่ร่วมกันนั่นแหละ ตอนนี้พวกเราก็เริ่มจัดระเบียบพาหนะอพยพผู้คนไปบ้างแล้ว และเราจะสามารถเร่งความเร็วในการทำงานเพิ่มขึ้นได้ทันทีที่พวกทหารหน่วยแลนด์สการ์ดเดินทางมาถึงล่ะนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In which case, we had best spread out and keep an eye on the crowds. The mood is tense, and we must prepare for possible violence.",
+      "text": "ถ้าเช่นนั้น พวกเราควรจะแยกย้ายกระจายตัวกันออกไปคอยเฝ้าสังเกตการณ์ฝูงชนอย่างใกล้ชิดครับ บรรยากาศตึงเครียดหนักหนาพอดู และพวกเราจำเป็นต้องเตรียมความพร้อมรับมือหากเกิดเหตุการณ์ความรุนแรงปะทะขึ้นมาครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If you happen to determine where Calyx is hiding, though, we'll be ready to move at a moment's notice.",
+      "text": "แต่ทว่า ถ้าหากคุณสามารถสืบทราบจนรู้ตำแหน่งที่ซ่อนตัวของคาลิกซ์พบเมื่อไหร่ ส่งสัญญาณมาบอกได้ทันทีเลยนะคะ พวกเราพร้อมจะเคลื่อนพลออกรบในชั่วพริบตาเดียวค่ะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Surely we'll find a clue of some kind soon. He can't elude us forever.",
+      "text": "มั่นใจเลยค่ะว่าพวกเราต้องพบเบาะแสสำคัญอะไรบางอย่างในเร็วๆ นี้แน่นอน ตาแก่นั่นไม่มีทางกบดานหนีพ้นเงื้อมมือพวกเราไปได้ตลอดกาลหรอกค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Violence and fear... This is not the future she envisioned for her nation.",
+      "text": "ความรุนแรงและความหวาดกลัว... นี่ไม่ใช่ภาพความฝันของอนาคตที่เธอปรารถนาจะสร้างขึ้นให้แก่ประเทศชาติของเธอเลยสักนิดเดียว"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You give so much of yourselves to aid those in need. I must endeavor to find my own small way to help...",
+      "text": "พวกคุณยอมเสียสละและอุทิศตนช่วยเหลือผู้คนที่ตกทุกข์ได้ยากอย่างสุดความสามารถจริงๆ ค่ะ ฉันเองก็ต้องพยายามค้นหาหนทางในการช่วยเหลืออเล็กซานเดรียในแบบเล็กๆ น้อยๆ ของฉันเองให้ได้บ้างค่ะ..."
+    }
+  ]
+}

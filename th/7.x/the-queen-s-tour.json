@@ -1,0 +1,738 @@
+{
+  "id": "the-queen-s-tour",
+  "wiki_path": "/wiki/The_Queen%27s_Tour",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d3/The_Queen%27s_Tour.png",
+  "patch": "7.0",
+  "title_en": "The Queen's Tour",
+  "title": "ทัวร์ขององค์ราชินี",
+  "level": "97",
+  "location": "Solution Nine(X:9.6,Y:13.2)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With Sphene as our guide, we needn't fear getting lost!",
+      "text": "มีสฟีนนำทางให้แบบนี้ พวกเราก็ไม่ต้องกลัวว่าจะหลงแล้วล่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let's begin then, shall we?",
+      "text": "ถ้าอย่างนั้น พวกเรามาเริ่มกันเลยดีไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I must say I'm really grateful. This place is so vast and confusing, I didn't even know where to begin.",
+      "text": "ต้องบอกว่าฉันขอบใจมากจริงๆ นะ ที่นี่กว้างขวางแถมยังน่าสับสนซะขนาดนี้ ตอนแรกฉันไม่รู้เลยด้วยซ้ำว่าจะเริ่มจากตรงไหนดี"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "While the district may seem daunting in size and structure, all the key facilities are situated near leynodes—what you call aetherytes. Remember this and you won't lose your way.",
+      "text": "ถึงแม้เขตนี้จะดูมีขนาดและโครงสร้างที่ใหญ่โตจนน่าหวั่นใจ แต่สิ่งอำนวยความสะดวกหลักๆ ทั้งหมดจะตั้งอยู่ใกล้กับเลย์โนด—หรือที่คุณเรียกว่าอีเธอร์ไรต์น่ะค่ะ จำข้อนี้ไว้แล้วคุณจะไม่มีวันหลงทางแน่นอนค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Now then, seeing as it is right here, I will show you the Nexus Arcade first.",
+      "text": "เอาล่ะค่ะ ในเมื่อพวกเราอยู่ตรงนี้แล้ว เดี๋ยวฉันจะพาไปชมเน็กซัสอาร์เคดเป็นที่แรกนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Please follow me!",
+      "text": "เชิญตามฉันมาได้เลยค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This complex is home to all manner of shops. From food and daily necessities to technological conveniences, you can find most everything here.",
+      "text": "อาคารแห่งนี้เป็นศูนย์รวมของร้านค้าสารพัดรูปแบบเลยค่ะ ตั้งแต่อาหาร ข้าวของเครื่องใช้ในชีวิตประจำวัน ไปจนถึงเทคโนโลยีอำนวยความสะดวกต่างๆ คุณสามารถหาซื้อเกือบทุกอย่างได้จากที่นี่เลยล่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Everkeep's interior is vast, as you've observed. This arcade makes it possible for people to acquire what they need in one centralized location.",
+      "text": "ภายในหอคอยเอเวอร์คีปนั้นกว้างใหญ่มากอย่างที่คุณเห็นนี่แหละค่ะ อาร์เคดแห่งนี้เลยช่วยให้ผู้คนสามารถมาหาซื้อของที่ต้องการได้ครบจบในที่เดียวค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Amazing!",
+      "text": "สุดยอดไปเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "How do you get to the upper levels? I don't see stairs...",
+      "text": "แล้วจะขึ้นไปชั้นบนยังไงเหรอ? ฉันไม่เห็นบันไดเลย..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Do you see the glowing pattern over yonder? That is an automatic conveyor.",
+      "text": "เห็นลวดลายเรืองแสงตรงโน้นไหมคะ? นั่นคือสายพานส่งกำลังอัตโนมัติน่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Such contraptions are found throughout Everkeep, allowing us to swiftly move between faraway places.",
+      "text": "เครื่องมือพวกนี้มีติดตั้งอยู่ทั่วทุกแห่งในเอเวอร์คีปเลยล่ะค่ะ ช่วยให้พวกเราเดินทางเคลื่อนย้ายระหว่างสถานที่ไกลๆ ได้อย่างรวดเร็วค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That will spare us some walking. Are they also made from that strange metal? Elec...whatsit.",
+      "text": "แบบนี้ก็ช่วยทุ่นแรงเดินไปได้เยอะเลยสิ แล้วมันทำมาจากโลหะประหลาดนั่นด้วยหรือเปล่า? เอเลก... อะไรนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "<chuckle> Yes, the conveyors are powered by electrope.",
+      "text": "<หัวเราะเบาๆ> ใช่ค่ะ สายพานลำเลียงขับเคลื่อนด้วยเอเลกโทรปค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As a matter of fact, the ore is integrated into just about everything in Everkeep. Even the floors and walls.",
+      "text": "อันที่จริง แร่ชนิดนี้ถูกนำมาใช้ผสมผสานอยู่ในเกือบทุกสิ่งทุกอย่างในเอเวอร์คีปเลยล่ะค่ะ แม้กระทั่งพื้นและผนังห้องด้วยค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "By etching arcane circuits upon it, electrope can be used to convert lightning energy to those of other elements.",
+      "text": "ด้วยการสลักวงจรเวทมนตร์ลงไปบนแร่ เอเลกโทรปจะสามารถแปลงพลังงานสายฟ้าให้กลายเป็นพลังงานธาตุอื่นๆ ได้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "In so doing, we can achieve various effects. For instance, a conversion to wind produces flotation, which is required for the propulsion of our flying vehicles.",
+      "text": "การทำเช่นนี้ทำให้เราสร้างผลลัพธ์ได้หลากหลายรูปแบบเลยค่ะ ตัวอย่างเช่น การแปลงเป็นพลังงานลมจะช่วยสร้างแรงลอยตัว ซึ่งจำเป็นต่อการขับเคลื่อนยานพาหนะบินได้ของพวกเราค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "A conversion to fire, meanwhile, produces light and heat, and it is employed in devices such as street lamps and heaters. There are even self-heating cups that keep your drink warm.",
+      "text": "ในขณะเดียวกัน การแปลงเป็นพลังงานไฟจะสร้างแสงสว่างและความร้อน ซึ่งใช้ในอุปกรณ์อย่างพวกโคมไฟถนนและเครื่องทำความร้อนค่ะ แถมยังมีถ้วยทำความร้อนในตัวที่คอยช่วยให้เครื่องดื่มอุ่นอยู่ตลอดเวลาด้วยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Can you make a drink cold if you convert to ice instead?",
+      "text": "แล้วถ้าแปลงเป็นพลังงานน้ำแข็ง จะทำให้เครื่องดื่มเย็นเจี๊ยบได้เหมือนกันไหมล่ะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You certainly can! Our vending machines do just that.",
+      "text": "ทำได้แน่นอนค่ะ! ตู้จำหน่ายสินค้าอัตโนมัติของพวกเราก็ทำงานแบบนั้นเลยค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What's more, multiple energies can also be combined to produce some clever effects. For instance, by manipulating the air with wind while projecting light with lightning, it is possible to alter one's appearance.",
+      "text": "ยิ่งไปกว่านั้น เรายังรวมพลังงานหลายประเภทเข้าด้วยกันเพื่อสร้างผลลัพธ์ที่ชาญฉลาดได้ด้วยนะคะ เช่น การควบคุมอากาศด้วยลมควบคู่กับการฉายแสงด้วยสายฟ้า จะช่วยให้เราปรับเปลี่ยนรูปลักษณ์ภายนอกของคนได้ด้วยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's almost scary what you can do with electrope... If such a wondrous material existed in our world, I imagine everyone would be fighting over it.",
+      "text": "ทำเรื่องแบบนั้นได้ด้วยเอเลกโทรปเนี่ย น่ากลัวชะมัดเลยแฮะ... ถ้ามีวัตถุวิเศษแบบนี้ในโลกฝั่งของเราล่ะก็ ฉันเดาเลยว่าทุกคนคงจะแย่งชิงมันกันวุ่นวายแน่ๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This shop over here—what does it sell?",
+      "text": "แล้วร้านตรงนี้ล่ะ—ขายอะไรเหรอ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, yes. Let's go and take a look!",
+      "text": "อ๊ะ ใช่ค่ะ พวกเราลองเข้าไปดูกันเถอะค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I daresay you will find it interesting.",
+      "text": "ฉันกล้ารับประกันเลยล่ะค่ะว่าคุณจะต้องสนใจแน่ๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What's all this...?",
+      "text": "นี่มันคืออะไรกันน่ะ...?"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Welcome, sir / miss . Care to peruse today's selection?",
+      "text": "ยินดีต้อนรับครับ สนใจเลือกชมสินค้าแนะนำของวันนี้หน่อยไหมครับ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This shop sells food. Those are the items on the counter.",
+      "text": "ร้านนี้ขายอาหารค่ะ ของพวกนั้นที่วางอยู่บนเคาน์เตอร์นั่นแหละค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's food!? I can't imagine what they taste like...",
+      "text": "นั่นคือน้ำอาหารเหรอ!? ฉันจินตนาการไม่ออกเลยจริงๆ ว่ารสชาติจะเป็นยังไง..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "<chuckle> I thought you might be surprised.",
+      "text": "<หัวเราะเบาๆ> ฉันคิดไว้แล้วเชียวค่ะว่าคุณจะต้องตกใจ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Your countrymen were too in the beginning.",
+      "text": "คนในแผ่นดินของพวกคุณตอนที่มาถึงช่วงแรกๆ ก็ตกใจแบบนี้เหมือนกันค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Come, you must sample something. Choose one and I will purchase it.",
+      "text": "มาเถอะค่ะ ต้องลองชิมดูสักหน่อยนะ เลือกมาสักอย่างสิคะ เดี๋ยวฉันซื้อให้เองค่ะ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Welcome, friends! How lucky you are for Her Majesty to treat you!",
+      "text": "ยินดีต้อนรับครับเพื่อนๆ! โชคดีจังเลยนะครับที่ได้รับเกียรติจากองค์ราชินีมาเป็นเจ้ามือเลี้ยงแบบนี้!"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "The five items on display are our most popular. I recommend one of them if this is your first time.",
+      "text": "สินค้าห้าอย่างที่โชว์อยู่นี่คือของยอดนิยมที่สุดของทางร้านเราครับ ขอแนะนำให้เลือกสักอย่างในนี้ดูหากเป็นการลองชิมครั้งแรกนะครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "The synthetic fruit pellets? They're our best approximation of the taste and texture of grape.",
+      "text": "เม็ดผลไม้สังเคราะห์งั้นเหรอครับ? เจ้านี่คือการจำลองรสชาติและเนื้อสัมผัสขององุ่นให้ใกล้เคียงที่สุดครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "I've never tried the real fruit so I can't say how faithful they are, but there's no denying their popularity.",
+      "text": "ผมเองก็ไม่เคยชิมผลองุ่นจริงๆ เหมือนกัน เลยบอกไม่ได้ว่าเหมือนแค่ไหน แต่ความนิยมของมันนี่ไม่มีใครเถียงได้แน่นอนครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Ah, the revivifying tonic. I take it you're thirsty.",
+      "text": "อ๋อ โทนิกฟื้นฟูกำลังครับ แสดงว่าพวกคุณกำลังหิวน้ำสินะครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "The flavor is a sublime blend of sweet and salty, and it stays fresh for over ten years thanks to the special container.",
+      "text": "รสชาติผสมผสานความหวานปนเค็มได้อย่างยอดเยี่ยมมากเลยครับ แถมยังรักษาความสดใหม่ไว้ได้นานกว่าสิบปีด้วยบรรจุภัณฑ์สูตรพิเศษของทางร้านครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Keen on the perfect meal bar, are you? It's all the nutrients your body needs packed into a single foodstuff.",
+      "text": "สนใจเมนูบาร์อาหารสูตรสมบูรณ์งั้นเหรอครับ? เจ้านี่อุดมไปด้วยสารอาหารทั้งหมดที่ร่างกายต้องการ อัดแน่นรวมไว้ในอาหารชิ้นเดียวเลยครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "The flavor is formulated to never taste dull, and one bar will satisfy you for a whole day. Many folks prefer this to taking multiple meals.",
+      "text": "รสชาติถูกออกแบบมาให้ไม่มีวันจืดชืด และบาร์ชิ้นเดียวนี้จะช่วยให้คุณอิ่มไปได้ตลอดทั้งวันเลยครับ หลายๆ คนชอบชิ้นนี้มากกว่าการต้องมานั่งกินอาหารวันละหลายๆ มื้อเสียอีกครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Ah yes, the salad paste. This is designed for those who are concerned about their figure. With its blend of nine varieties of vegetables, it'll help your efforts to slim down.",
+      "text": "อ๋อ ใช่ครับ สลัดเพสต์สูตรข้น เมนูนี้ดีไซน์มาสำหรับคนที่กังวลเรื่องรูปร่างและสุขภาพครับ ด้วยการผสมผสานผักกว่าเก้าชนิด จะช่วยอำนวยความสะดวกในความพยายามลดความอ้วนของคุณได้เป็นอย่างดีครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Fashion models swear by it, and youths can't get enough of the stuff either.",
+      "text": "พวกนางแบบแฟชั่นนี่ขาดไม่ได้เลยครับ แถมพวกวัยรุ่นก็ชอบอกชอบใจกินกันไม่รู้เบื่อเลยล่ะครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "This here is cultivated steak. It's not quite the same as the real thing they produce in the outskirts, but it's a sight more affordable.",
+      "text": "ส่วนนี่คือสเต๊กเพาะเลี้ยงครับ รสชาติอาจจะไม่เหมือนเนื้อจริงที่ผลิตในเขตนอกโดมเป๊ะๆ แต่ว่าราคาประหยัดกว่ากันเยอะมากเลยครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "This particular product is known as “gold label,” and it's a delicious hybrid of beef and chicken grown at the plant on the fourth level.",
+      "text": "สินค้าชิ้นนี้เป็นเกรดพิเศษที่เรียกว่า “โกลด์เลเบิล” ครับ เป็นเนื้อลูกผสมแสนอร่อยระหว่างเนื้อวัวและเนื้อไก่ที่เพาะเลี้ยงขึ้นในโรงงานบนชั้นสี่ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "While they're all very tempting...",
+      "text": "ถึงมันจะดูน่าลองชิมไปหมดซะทุกอย่างก็เถอะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm going to have the steak like you, Forename . I'm absolutely starving!",
+      "text": "ฉันจะเอาสเต๊กแบบเดียวกันกับนายแล้วกันนะ Forename ตอนนี้หิวจนไส้จะกิ่วอยู่แล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm going to have the steak. I'm absolutely starving!",
+      "text": "ฉันจะเอาสเต๊กนี่แหละ ตอนนี้หิวจนไส้จะกิ่วอยู่แล้ว!"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Thank you for your custom. This being Her Majesty's treat, it's bound to taste all the better!",
+      "text": "ขอบคุณที่อุดหนุนครับ ในเมื่อได้รับเกียรติเป็นเจ้ามือเลี้ยงจากองค์ราชินีแบบนี้ รสชาติของมันต้องอร่อยขึ้นเป็นกองแน่ครับ!"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Say, would you mind sampling your selections here and now? It's been a long time since we had newcomers, and I'd love to see your reactions!",
+      "text": "ว่าแต่ จะรบกวนช่วยลองชิมผลงานที่เลือกตรงนี้เดี๋ยวนี้เลยได้ไหมครับ? นานมากแล้วที่ไม่มีผู้มาเยือนหน้าใหม่เลย ผมอยากจะเห็นปฏิกิริยาของพวกคุณจังเลยครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is a great chance to learn about Alexandrian culture, Forename . Let's dig in!",
+      "text": "นี่เป็นโอกาสดีที่จะได้เรียนรู้วัฒนธรรมของอเล็กซานเดรียเลยนะ Forename มาลุยกันเถอะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, here I go!",
+      "text": "เอาล่ะนะ จะทานแล้วจ้า!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A-Amazing! I've never had any meat like this before!",
+      "text": "สุ... สุดยอดไปเลย! ฉันไม่เคยชิมเนื้อที่มีรสชาติแบบนี้มาก่อนเลยล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's tender like chicken but flavorsome like rroneek, and the spices give it just the right amount of kick. I could eat this every day!",
+      "text": "เนื้อมันนุ่มละมุนลิ้นเหมือนเนื้อไก่ แต่กลับมีรสชาติเข้มข้นอร่อยชุ่มคอเหมือนเนื้อโรนิก แถมเครื่องเทศที่โรยมาก็ช่วยชูรสได้กลมกล่อมเผ็ดร้อนกำลังดีเลยล่ะ กินได้ทุกวันไม่เบื่อเลยนะเนี่ย!"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Hah, don't mind them. They're just happy to see your honest reaction.",
+      "text": "ฮะๆ อย่าถือสาพวกเขาเลยครับ พวกเขาแค่ดีใจที่ได้เห็นปฏิกิริยาตอบรับอย่างตรงไปตรงมาของคุณน่ะครับ"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "And how about you?",
+      "text": "แล้วทางฝั่งคุณล่ะครับ รสชาติเป็นอย่างไรบ้าง?"
+    },
+    {
+      "character": "Ganister",
+      "text_en": "Hahaha! It's always such a pleasure! My thanks for humoring me.",
+      "text": "ฮ่าๆๆ! ได้เห็นท่าทางแบบนี้แล้วชื่นใจจริงๆ ครับ! ขอบคุณมากนะครับที่ช่วยลองชิมให้ดู"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This does take me back. Though it was chaotic when the people of Tuliyollal first arrived, we endeavored to learn about one another and embraced our differences.",
+      "text": "เรื่องนี้ทำให้คิดถึงอดีตจริงๆ เลยค่ะ ถึงตอนที่ผู้คนจากทูลิโยลลัลเดินทางมาถึงช่วงแรกๆ จะดูวุ่นวายไปหน่อย แต่พวกเราก็พยายามเรียนรู้ซึ่งกันและกันและยอมรับในความแตกต่างของกันและกันค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, right! What about you, Sphene? Aren't you having something to eat too?",
+      "text": "จริงด้วยสิ! แล้วสฟีนล่ะ? เธอไม่ลองหาอะไรกินหน่อยเหรอ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I appreciate the thought, but I'm fine for now, thank you.",
+      "text": "ขอบคุณในความหวังดีนะคะ แต่ตอนนี้ฉันยังไม่หิวเลยค่ะ ขอบคุณนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright. But what's your favorite food, if you don't mind me asking?",
+      "text": "งั้นเหรอ แต่ถ้าไม่รังเกียจ ขอถามหน่อยสิว่าของโปรดของเธอคืออะไรเหรอ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My...favorite food?",
+      "text": "ของโปรด... ของฉันเหรอคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...Why do you wish to know this?",
+      "text": "...ทำไมถึงอยากรู้เรื่องนี้ขึ้นมาล่ะคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Because I want to get to know you better. Why else?",
+      "text": "ก็เพราะว่าฉันอยากจะทำความรู้จักตัวตนของเธอให้มากขึ้นยังไงล่ะ จะมีเหตุผลอื่นได้ไง?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The more you know someone, the more you grow fond of them.",
+      "text": "ยิ่งเรารู้จักใครสักคนมากขึ้น เราก็จะยิ่งชอบและผูกพันกับพวกเขามากขึ้นนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's what my old man believed, and my experiences have led me to believe the same.",
+      "text": "นั่นคือสิ่งที่พ่อแก่ของฉันเชื่อมั่นมาตลอด และประสบการณ์ที่ผ่านมาของฉันก็ทำให้ฉันเชื่อแบบนั้นเหมือนกัน"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My favorite food...",
+      "text": "ของโปรดของฉัน..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hm...",
+      "text": "อืม..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Is it such a difficult question?",
+      "text": "...มันตอบยากขนาดนั้นเลยเหรอ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry. It's just...when I think of those who labor to bring us the food, I find I can't settle on one thing...",
+      "text": "ขอโทษนะคะ คือ... พอฉันนึกถึงความเหนื่อยยากของทุกคนที่ทำงานเพื่อผลิตอาหารให้พวกเรากินแล้ว ฉันก็เลือกของโปรดแค่อย่างเดียวไม่ได้เลยล่ะค่ะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hahaha! I thought I was indecisive, but you're something else!",
+      "text": "ฮ่าๆๆ! ฉันนึกว่าตัวเองเป็นคนโลเลเลือกยากแล้วนะ แต่เธอนี่อาการหนักกว่าฉันเยอะเลย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Indecisive...? Perhaps I am...but you didn't need to laugh about it...",
+      "text": "โลเลงั้นเหรอคะ...? ก็อาจจะจริงค่ะ... แต่ถึงอย่างนั้นก็ไม่ต้องหัวเราะเยาะกันขนาดนี้ก็ได้นะคะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My favorite food... That is a question I may never be able to answer.",
+      "text": "ของโปรดของฉัน... น่าจะเป็นคำถามที่ฉันไม่มีวันหาคำตอบได้ตลอดกาลเลยล่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know about you, but I'm satisfied. Let's keep moving!",
+      "text": "ไม่รู้สิ แต่สำหรับฉันอิ่มหนำสำราญเรียบร้อยแล้วล่ะ พวกเราเดินทางกันต่อเถอะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Very well. Next, I was thinking of showing you the residential sector, but it's in part so I can tend to personal matters.",
+      "text": "ตกลงค่ะ ต่อไปฉันกะจะพาพวกคุณไปชมเขตที่พักอาศัยนะคะ แต่เหตุผลส่วนหนึ่งคือฉันมีธุระส่วนตัวที่ต้องไปจัดการด้วยน่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's a visitation, to be precise...and I believe it will be educational for you as well. Would the two of you mind accompanying me?",
+      "text": "เป็นการเดินทางไปเข้าเยี่ยมน่ะค่ะ... และฉันเชื่อว่าน่าจะเป็นประโยชน์และให้ความรู้แก่พวกคุณด้วยเหมือนกัน สนใจจะเดินทางไปกับฉันไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not at all!",
+      "text": "ไม่มีปัญหาเลย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Wonderful. Let me know when you have seen enough here, and we'll make our way.",
+      "text": "วิเศษค่ะ แจ้งฉันได้เลยนะคะเมื่อไหร่ที่ชมที่นี่จนพอใจแล้ว พวกเราจะได้ออกเดินทางกันค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I was just wondering what kind of homes they have here.",
+      "text": "ฉันกำลังนึกสงสัยอยู่พอดีเลยว่าบ้านช่องของคนที่นี่จะมีสภาพเป็นยังไงบ้าง"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ready? Then let's head to the residential sector. It lies to the southwest.",
+      "text": "พร้อมแล้วใช่ไหมคะ? งั้นพวกเรามุ่งหน้าไปที่เขตที่พักอาศัยกันเถอะค่ะ อยู่ทางทิศตะวันตกเฉียงใต้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As we walk, I would be glad to tell you about any places of interest that we come upon.",
+      "text": "ในระหว่างที่เดินเท้าไป เดี๋ยวฉันจะช่วยเล่าข้อมูลเกี่ยวกับสถานที่น่าสนใจต่างๆ ที่เราเดินผ่านให้ฟังนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Lamaty'i trusts you without question. How nice it would be to have such a friend.",
+      "text": "ลามาตี้เชื่อมั่นในตัวคุณโดยไม่มีข้อกังขาใดๆ เลยนะคะ การมีเพื่อนแท้แบบนี้ช่างเป็นเรื่องที่ดีจังเลยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That meat was sooo good... I have to get everyone at home to try it!",
+      "text": "เนื้อสเต๊กนั่นอร่อยสุดยอดไปเลย... ไว้ต้องหาโอกาสชวนทุกคนที่บ้านมาลองชิมให้ได้เลย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Of course. Take your time—we shall await you back at the Nexus Arcade.",
+      "text": "แน่นอนค่ะ ตามสบายเลยนะคะ เดี๋ยวพวกเราจะยืนรอคุณอยู่ที่เน็กซัสอาร์เคดค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have things you need to tend to? Alright, we'll look for you back at that arcade after you're done.",
+      "text": "มีธุระที่ต้องไปจัดการงั้นเหรอ? ได้เลย เดี๋ยวถ้าเสร็จแล้วพวกเราจะไปยืนรอเธอที่อาร์เคดตรงนั้นนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Welcome back. If you are ready, then let us resume the tour.",
+      "text": "ยินดีต้อนรับกลับมาค่ะ หากพร้อมแล้ว พวกเรากลับมาร่วมเดินทางสำรวจทัวร์กันต่อนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All sorted? Then let's get moving.",
+      "text": "จัดการธุระเรียบร้อยแล้วใช่ไหม? งั้นพวกเราไปกันเถอะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is Mosaic, a café. Here you can buy drinks to enjoy while you relax.",
+      "text": "ที่นี่คือโมเสก เป็นร้านกาแฟค่ะ คุณสามารถหาซื้อเครื่องดื่มมานั่งจิบชิลๆ พักผ่อนหย่อนใจได้ที่นี่ค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see. In Tuliyollal, there's a similar establishment called Xbalyav Ty'e—that's “seashell” in the local tongue. Is there a story behind the name Mosaic?",
+      "text": "เข้าใจล่ะ ที่ทูลิโยลลัลก็มีร้านแบบนี้เหมือนกัน ชื่อว่าอิกซ์บัลยิฟ ตี แปลว่า “เปลือกหอย” ในภาษาพื้นเมืองน่ะ ว่าแต่มีตำนานเรื่องเล่าเบื้องหลังชื่อโมเสกนี่ไหม?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There is. In our continent, the races are named for stones. There's the Hyune, who resemble some Tonawawta; the tall and graceful Eldite; and the diminutive and affable Milalla.",
+      "text": "มีค่ะ ในทวีปของพวกเรา เผ่าพันธุ์ต่างๆ จะถูกตั้งชื่อตามอัญมณีและหินค่ะ เช่น เผ่าฮิวน์ ซึ่งมีลักษณะคล้ายๆ กับชาวโทนาวอว์ตาบางส่วน, เผ่าเอลไดต์ที่สูงโปร่งและสง่างาม, และเผ่ามิลาลล่าที่มีขนาดตัวเล็กน่ารักและเป็นมิตรค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "When they all gather here, they appear as a mosaic of colors. Thus did the founder choose to name the café.",
+      "text": "เมื่อทุกคนมาอยู่ร่วมกันที่นี่ ภาพที่เห็นจะเหมือนกับงานโมเสกที่มีสีสันหลากหลายเฉดสีสลับกันน่ะค่ะ ผู้ก่อตั้งก็เลยเลือกที่จะตั้งชื่อคาเฟ่แห่งนี้แบบนั้นค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, that's nice. If they served tacos here, it'd be perfect!",
+      "text": "เหะ เก๋ไก๋ดีจัง ถ้าที่นี่เสิร์ฟทาโก้ด้วยล่ะก็ จะสมบูรณ์แบบร้อยเปอร์เซ็นต์เลยล่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Tacos...?",
+      "text": "ทาโก้... เหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A traditional Turali dish, and one of my favorite foods. You must try it one day!",
+      "text": "อาหารพื้นบ้าน of ชาวทูรัลน่ะ และก็เป็นหนึ่งในของโปรดที่สุดของฉันด้วย ไว้วันหลังเธอต้องลองชิมให้ได้นะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh...uh, yes. Definitely!",
+      "text": "โอ๊ะ... เอ่อ ยินดีค่ะ แน่นอนที่สุดค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll make it happen once we've restored peace to Tuliyollal. Right, let's continue on!",
+      "text": "ไว้หลังจากที่เราคืนความสงบสุขให้ทูลิโยลลัลสำเร็จแล้ว เราต้องทำแบบนั้นแน่นอน เอาล่ะ มุ่งหน้าไปต่อกันเลย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have you eaten these...tacos before? For Lamaty'i to recommend them so highly, they must be delicious indeed.",
+      "text": "คุณเคยชิม... ทาโก้ที่ว่านี่มาก่อนไหมคะ? ขนาดลามาตี้ออกปากแนะนำขนาดนี้ รสชาติมันต้องอร่อยเลิศรสมากแน่ๆ เลยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go for some tacos at Xbalyav Ty'e, the three of us!",
+      "text": "เดี๋ยวถ้ามีโอกาส พวกเราสามคนไปลุยทาโก้ที่ร้านอิกซ์บัลยิฟ ตี ด้วยกันนะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And here we are. These buildings are where our citizens live.",
+      "text": "และนี่ก็คือพื้นที่เป้าหมายค่ะ ตึกพวกนี้คือย่านที่อยู่อาศัยของประชาชนชาวอเล็กซานเดรียค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They're massive! Each one is bigger than the palace!",
+      "text": "ใหญ่โตมโหฬารชะมัด! ตึกแต่ละหลังนี่ดูใหญ่กว่าพระราชวังอีกนะเนี่ย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They have to be, for just about all Alexandrians have apartments here.",
+      "text": "ต้องใหญ่ขนาดนี้แหละค่ะ เพราะประชาชนเกือบทั้งหมดของอเล็กซานเดรียต่างก็มีห้องพักส่วนตัวอาศัยอยู่ในนี้กันค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Lest you wonder, I'm here to visit some people. Their apartment is in the building on the left here at residential radius 9-14.",
+      "text": "เผื่อพวกคุณจะสงสัยนะคะ ธุระของฉันคือการมาเยี่ยมผู้ป่วยและประชาชนในพื้นที่ค่ะ ห้องพักของพวกเขาอยู่ในตึกทางฝั่งซ้ายตรงนี้ ณ รัศมีที่พักอาศัย 9-14 ค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Residential...radius?",
+      "text": "รัศมี... ที่พักอาศัยงั้นเหรอ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That's right. Come, the door opens automatically.",
+      "text": "ใช่ค่ะ เชิญเข้ามาสิคะ ประตูเปิดอัตโนมัตินะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do hope you like the district. The people worked hard to build it, paying attention to every little detail.",
+      "text": "ฉันหวังจริงๆ ค่ะว่าพวกคุณจะชอบเขตนี้ ประชาชนทุ่มเทแรงกายแรงใจอย่างหนักเพื่อสร้างที่นี่ขึ้นมา โดยใส่ใจระมัดระวังในรายละเอียดเล็กๆ น้อยๆ ทุกจุดเลยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You really get the sense that Sphene loves her nation, don't you?",
+      "text": "นายรู้สึกได้ชัดเจนเลยใช่ไหมล่ะว่าสฟีนเขารักและผูกพันกับประเทศของเธอมากจริงๆ น่ะ?"
+    },
+    {
+      "character": "Clerk P7-1091",
+      "text_en": "Current location: residential radius 9-14, section 02. Visitors must be equipped with a regulator or present a valid visitor permit.",
+      "text": "พิกัดปัจจุบัน: รัศมีที่พักอาศัย 9-14 แผนกย่อย 02 ผู้มาเยือนต้องสวมใส่เรกูเลเตอร์ หรือแสดงใบอนุญาตเข้าเยี่ยมที่ถูกต้องและยังไม่หมดอายุ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is the lobby, a common area for residents.",
+      "text": "ตรงนี้คือล็อบบี้ค่ะ เป็นพื้นที่ส่วนกลางสำหรับผู้อยู่อาศัยมาใช้ร่วมกันค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... And what does that machine there do?",
+      "text": "เข้าใจล่ะ... แล้วเครื่องจักรตรงนั้นมีไว้ทำอะไรเหรอ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, the concierge. They look after the residents. If you require assistance or have questions, they would be glad to assist.",
+      "text": "อ๋อ เจ้าหน้าที่คอนสิเอิร์จน่ะค่ะ คอยทำหน้าที่ดูแลอำนวยความสะดวกให้แก่ผู้อยู่อาศัย หากต้องการความช่วยเหลือหรือมีข้อสงสัยใดๆ พวกเขายินดีให้บริการและช่วยเหลือเสมอนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is that so? I've no shortage of questions, but I'll direct them at you for now.",
+      "text": "งั้นเหรอ? ฉันเองก็มีคำถามเต็มหัวไปหมดเลยล่ะ แต่สำหรับตอนนี้ฉันขอหันไปถามเธอแทนก่อนแล้วกันนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "By all means. You may consider me your personal concierge!",
+      "text": "ได้แน่นอนค่ะ คุณคิดซะว่าฉันเป็นคอนสิเอิร์จส่วนตัวของคุณได้เลยค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Sphene. Can anyone live in this place?",
+      "text": "นี่สฟีน ใครๆ ก็เข้ามาอาศัยอยู่ในที่แบบนี้ได้จริงเหรอ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Naturally! In fact, many of your countrymen make their homes here.",
+      "text": "แน่นอนค่ะ! อันที่จริง ประชาชนร่วมแผ่นดินของพวกคุณจำนวนมากก็ตั้งรกรากสร้างบ้านอาศัยอยู่ที่นี่ด้วยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No matter your origin or race, occupation or regulator usage, all Alexandrian citizens are eligible for an apartment. This includes those you met who work in the outskirts.",
+      "text": "ไม่ว่าคุณจะมีต้นกำเนิดมาจากไหน เผ่าพันธุ์ใด ประกอบอาชีพอะไร หรือจะเลือกสวมใส่เรกูเลเตอร์หรือไม่ก็ตาม ประชาชนชาวอเล็กซานเดรียทุกคนล้วนมีสิทธิ์ได้รับห้องพักในอพาร์ตเมนต์นี้ค่ะ รวมถึงพวกคนที่คุณพบปะทำงานอยู่เขตนอกโดมด้วยเช่นกันค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You've taken care of everyone for thirty years. I'm truly grateful.",
+      "text": "เธอเฝ้าดูแลและปกป้องทุกคนมาตลอดตั้งสามสิบปี ฉันรู้สึกซาบซึ้งและขอบคุณจากใจจริงเลยนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "This is the place. A mother and son live here.",
+      "text": "ถึงแล้วค่ะ ห้องนี้แหละ มีสองแม่ลูกอาศัยอยู่ด้วยกันค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hello, Isadora!",
+      "text": "สวัสดีค่ะ คุณอิซาโดรา!"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "Your Majesty! You came!",
+      "text": "องค์ราชินี! ท่านเดินทางมาเยี่ยมพวกเราจริงๆ ด้วย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I have friends with me today. Is that all right?",
+      "text": "วันนี้ฉันพาพรรคพวกเพื่อนฝูงมาร่วมทัวร์ด้วยนะคะ สะดวกไหมคะ?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "Of course! Friends of the queen are friends of ours. Please, make yourselves at home.",
+      "text": "แน่นอนค่ะ! แขกพันธมิตรขององค์ราชินีก็เปรียบเสมือนแขกของเราด้วยเช่นกัน เชิญเข้ามาทำตัวตามสบายเลยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "How has Milos been?",
+      "text": "อาการของไมลอสเป็นอย่างไรบ้างคะช่วงนี้?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "There's been no change, but the symptoms are thankfully mild today.",
+      "text": "อาการยังทรงตัวไม่มีการเปลี่ยนแปลงใดๆ ค่ะ แต่โชคดีเหลือเกินที่วันนี้อาการค่อนข้างเบาบางและไม่กำเริบรุนแรงค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hello, Milos. Have you missed me?",
+      "text": "สวัสดีจ้าไมลอส คิดถึงฉันบ้างไหมเอ่ย?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "My son was born with levin sickness—a severe aetheric imbalance towards lightning.",
+      "text": "ลูกชายของฉันเกิดมาพร้อมกับโรคแพ้กระแสไฟฟ้าค่ะ... สภาวะของกระแสอีเธอร์ในร่างกายเสียสมดุลโน้มเอียงไปทางพลังงานสายฟ้าอย่างรุนแรงค่ะ"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "As a result, he suffers from paralysis. He cannot walk and struggles to speak.",
+      "text": "ผลลัพธ์ทำให้เขาเป็นอัมพาตและเคลื่อนไหวไม่ได้ ไม่สามารถเดินเท้าได้ด้วยตนเองและพูดจาได้ลำบากมากค่ะ"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "For a blessing, he still has his hearing, and even on bad days he can communicate with his eyes.",
+      "text": "แต่ยังดีที่หูของเขายังคงได้ยินเสียงชัดเจนดี และแม้ในวันที่อาการไม่ค่อยดี เขาก็ยังพอสื่อสารผ่านทางสายตาได้บ้างค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... Sphene visits often, does she?",
+      "text": "งั้นเหรอ... แสดงว่าสฟีนแวะมาเข้าเยี่ยมบ่อยสินะ?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "She does. Milos simply adores her. He sometimes even manages a smile when she's here.",
+      "text": "ใช่ค่ะ ไมลอสรักเธอมากเลยล่ะค่ะ บางครั้งเขายังสามารถส่งยิ้มให้ได้ตอนที่เธอมานั่งคุยข้างๆ ด้วยน่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What of yourself, Isadora? How are you holding up?",
+      "text": "แล้วตัวคุณเองล่ะคะ คุณอิซาโดรา? สภาพร่างกายและจิตใจเป็นอย่างไรบ้างคะ?"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "You needn't worry about me, Your Majesty. You always make time for us, and we have everything we need.",
+      "text": "ไม่ต้องเป็นห่วงฉันหรอกค่ะองค์ราชินี ท่านคอยเจียดเวลามาดูแลพวกเราเสมอ แถมพวกเราก็มีทรัพยากรทุกอย่างที่จำเป็นครบถ้วนแล้วค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm glad to hear that. But you mustn't strain yourself, understood?",
+      "text": "ได้ยินแบบนี้ก็โล่งอกค่ะ แต่คุณเองก็ห้ามหักโหมทำงานหนักจนเกินไปนะคะ เข้าใจไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There is nothing you can do for him? Perhaps a treatment with souls or...",
+      "text": "ไม่มีหนทางที่จะช่วยรักษาเยียวยาเขาได้เลยเหรอ? อย่างการบำบัดรักษาโดยใช้ดวงวิญญาณช่วยเหลือ หรือ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Unfortunately no. While souls can revive those who have met with an accident, they cannot reverse the effects of old age and illness.",
+      "text": "โชคร้ายที่ทำไม่ได้ค่ะ ถึงดวงวิญญาณจะช่วยคืนชีวิตให้แก่ผู้ที่ประสบอุบัติเหตุได้ แต่พวกมันไม่สามารถย้อนวัยหรือรักษาผลกระทบจากความชราและอาการป่วยไข้ตามธรรมชาติได้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Truth be told, many children are born like Milos. The illness has existed for generations, but we've been unable to find a cure.",
+      "text": "พูดกันตรงๆ มีเด็กจำนวนมากที่เกิดมาพร้อมโรคภัยแบบเดียวกันกับไมลอสค่ะ โรคนี้เป็นปัญหาเรื้อรังมาหลายชั่วอายุคนแล้ว แต่พวกเราก็ยังไม่พบหนทางรักษาให้หายขาดได้เลยค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The cause is quite clear, though—the excess lightning in the environment. It's no coincidence the number of cases has risen dramatically these past thirty years.",
+      "text": "ถึงกระนั้น สาเหตุมันก็ค่อนข้างแน่ชัดค่ะ—เกิดจากพลังงานสายฟ้าที่มีอยู่หนาแน่นเกินไปในสิ่งแวดล้อมโดยรอบน่ะค่ะ ไม่ใช่เรื่องบังเอิญเลยที่จำนวนเคสผู้ป่วยพุ่งสูงขึ้นอย่างก้าวกระโดดในช่วงสามสิบปีที่ผ่านมานี้"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's all my fault...",
+      "text": "ทั้งหมดเป็นความผิดของฉันเอง..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What was that?",
+      "text": "เมื่อกี้เธอว่าอะไรนะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry, Isadora, but I must be going. I promise to make it a proper visit next time, with treats to share.",
+      "text": "ขอโทษด้วยนะคะคุณอิซาโดรา แต่ฉันจำเป็นต้องขอตัวไปทำธุระก่อนแล้วล่ะค่ะ สัญญาว่าครั้งหน้าจะมานั่งคุยนานๆ และหาของอร่อยๆ มาฝากนะคะ"
+    },
+    {
+      "character": "Isadora",
+      "text_en": "There's no need to apologize, Your Majesty. If it weren't for you, Milos and I wouldn't still be here.",
+      "text": "ไม่ต้องขอโทษหรอกค่ะองค์ราชินี ถ้าหากไม่ใช่เพราะพระมหากรุณาธิคุณของท่าน ฉันกับไมลอสคงไม่มีชีวิตรอดมาได้จนถึงทุกวันนี้หรอกค่ะ"
+    },
+    {
+      "character": "Milos",
+      "text_en": "Thank you...Queen Sphene...",
+      "text": "ขอบคุณ... ครับ... ราชินี... สฟีน..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It's my pleasure, Milos. I'll be back soon, so be a good boy. For your mother and for me.",
+      "text": "ยินดีเสมอจ้าไมลอส เดี๋ยวฉันจะกลับมาหาใหม่นะ เพราะฉะนั้นคอยเป็นเด็กดี เชื่อฟังคำสั่งสอนของคุณแม่ และเชื่อฟังฉันด้วยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "To think that there was such an illness...",
+      "text": "ไม่นึกเลยแฮะว่าจะมีโรคร้ายแรงพรรค์นี้อยู่ด้วย..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My thanks for accompanying me on the visit.",
+      "text": "ขอบคุณมากนะคะที่ช่วยร่วมทางมาเข้าเยี่ยมด้วยกันในวันนี้"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The illness is a part of life in Alexandria, and I thought that you should know about it.",
+      "text": "โรคภัยไข้เจ็บนี้เปรียบเสมือนวิถีชีวิตส่วนหนึ่งของอเล็กซานเดรียที่หลีกเลี่ยงไม่ได้ และฉันคิดว่าพวกคุณควรจะรับรู้เรื่องราวนี้ไว้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We'll find a cure one day, mark my words. We'll make it so unfortunate children like Milos smile again.",
+      "text": "จำคำของฉันไว้นะคะ วันหนึ่งพวกเราจะหาวิธีรักษาโรคนี้ให้ได้ชัวร์ เราต้องทำทุกวิถีทางเพื่อให้เด็กที่โชคร้ายอย่างไมลอสได้กลับมามีรอยยิ้มที่มีความสุขอีกครั้งให้ได้ค่ะ"
+    }
+  ]
+}

@@ -1,0 +1,738 @@
+{
+  "id": "those-who-live-forever",
+  "wiki_path": "/wiki/Those_Who_Live_Forever",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/18/Those_Who_Live_Forever.png",
+  "patch": "7.0",
+  "title_en": "Those Who Live Forever",
+  "title": "ผู้คงอยู่ชั่วนิรันดร์",
+  "level": "99",
+  "location": "Living Memory(X:21.4,Y:28.7)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "While Sphene's intentions are good, her methods are anything but. We cannot yield at any cost.",
+      "text": "แม้ปณิธานความตั้งใจของสฟีนจะดีงาม แต่ทว่าวิธีการของเธอช่างผิดมหันต์ พวกเรายอมถอยให้ไม่ได้เด็ดขาดค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Endless were unsustainable from the first. Sphene has been fighting a lost cause.",
+      "text": "ระบบของเอ็นด์เลสนั้นไม่สามารถคงอยู่ได้ตลอดไปตั้งแต่แรกเริ่มอยู่แล้วล่ะครับ สิ่งที่สฟีนกำลังดิ้นรนต่อสู้อยู่นี้เป็นการกระทำที่ไม่มีทางเอาชนะได้เลย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Endless exist in defiance of the laws of nature. But they exist nonetheless, with Sphene holding them to be no different from the living...",
+      "text": "กลุ่มเอ็นด์เลสมีชีวิตอยู่โดยฝ่าฝืนกฎธรรมชาติอย่างชัดเจน แต่ถึงกระนั้นพวกเขาก็ยังดำรงอยู่ตรงนี้ โดยสฟีนมองว่าพวกเขาไม่ได้มีความแตกต่างไปจากคนเป็นเลย..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It doesn't seem like we can do much else here. Let's return to the aetheryte for now.",
+      "text": "ดูเหมือนพวกเราจะทำอะไรเพิ่มเติมตรงนี้ไม่ได้มากแล้วล่ะ ช่วงนี้ย้อนกลับไปที่เสาอีเธอร์ไรต์กันก่อนดีกว่า"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The caretaker, Constancy. Perhaps he can tell us more about this business of Sphene going into a slumber.",
+      "text": "ผู้ดูแลอย่างคอนสแตนซีน่ะ บางทีเขาอาจจะสามารถบอกข้อมูลอะไรเพิ่มเติมให้เราเรื่องสฟีนเตรียมตัวจำศีลนอนหลับลึกก็ได้"
+    },
+    {
+      "character": "Krile",
+      "text_en": "No sign of Constancy...",
+      "text": "ไม่เห็นวี่แววของคอนสแตนซีเลยค่ะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that...? No, that's not him.",
+      "text": "นั่นใช่...? ไม่ใช่ครับ ไม่ใช่เขา"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "He's left the area.",
+      "text": "เขาออกจากบริเวณนี้ไปแล้วล่ะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't tell me he's gone somewhere else!?",
+      "text": "อย่าบอกนะว่าเขาเดินไปที่อื่นแล้วน่ะ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's nowhere in sight...",
+      "text": "ไม่เห็นตัวเขาเลยแฮะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps he has taken other recent arrivals on a tour.",
+      "text": "บางทีเขาอาจจะกำลังพาผู้มาใหม่คนอื่นๆ เดินทัวร์ชมเมืองอยู่ก็ได้ค่ะ"
+    },
+    {
+      "character": "???",
+      "text_en": "Looking for someone, are you?",
+      "text": "กำลังตามหาตัวใครกันอยู่เหรอจ๊ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes... He was here just earlier, a fellow named Constancy.",
+      "text": "ใช่... เมื่อกี้เขายังอยู่ตรงนี้เลย คนที่ชื่อคอนสแตนซีน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, what!?",
+      "text": "เอ๊ะ เดี๋ยวนะ!?"
+    },
+    {
+      "character": "???",
+      "text_en": "Hello, everyone. You made it here, as I knew you would.",
+      "text": "สวัสดีจ้ะทุกคน ในที่สุดพวกเธอก็เดินทางมาถึงที่นี่กันจนได้นะจ๊ะ แม่รู้อยู่แล้วเชียวว่าต้องทำได้"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that who I think it is?",
+      "text": "คนคนนั้น... ใช่คนที่ฉันคิดไว้หรือเปล่าคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It is! It's Cahciua!",
+      "text": "จริงด้วย! คุณคาชิวานี่นา!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "None other. This is the first time some of you are seeing me in the proverbial flesh, isn't it?",
+      "text": "ใช่แล้วจ้ะ ตัวจริงเสียงจริงเลย ครั้งนี้ถือเป็นครั้งแรกที่บางคนในกลุ่มได้เห็นร่างเนื้อจริงๆ ของฉันใช่ไหมล่ะ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Feast your eyes, then! She who was controlling that unassuming machine was a ravishing Shetona maiden!",
+      "text": "ถ้าอย่างนั้นก็เบิกตาดูให้เต็มคราบเลยจ้ะ! คนที่คอยควบคุมเจ้าเครื่องจักรหน้าตาธรรมดาก่อนหน้านี้ แท้จริงแล้วเป็นสาวสวยสะพรั่งแห่งเผ่าเชโตนาคนนี้เอง!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "...That was a bit much, wasn't it? Ignore me.",
+      "text": "...เอ่อ พูดเว่อร์วังไปหน่อยสินะจ๊ะ? ช่างมันเถอะ ลืมๆ ที่พูดไปเมื่อกี้ไปนะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "So it was true. That you're here means...",
+      "text": "สรุปเป็นเรื่องจริงสินะครับ... การที่คุณแม่มาอยู่ที่นี่ หมายความว่า..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I tried to tell you. So many times. But my courage always failed me...",
+      "text": "แม่พยายามจะบอกลูกแล้วล่ะ หลายต่อหลายครั้งเลย แต่พอเอาเข้าจริง ความกล้าของแม่มันกลับหายไปทุกที..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I am indeed an Endless. Have been for quite a while now.",
+      "text": "แม่เป็นเอ็นด์เลสจริงๆ นั่นแหละจ้ะ... แถมเป็นมาได้พักใหญ่แล้วด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Erenville...",
+      "text": "เอเรนวิลล์..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Now, you've come to stop Sphene, yes? I can help with that, but I have a request to make.",
+      "text": "เอาล่ะ พวกเธอเดินทางมาที่นี่เพื่อต้องการขัดขวางสฟีนใช่ไหมล่ะจ๊ะ? เรื่องนั้นฉันพอจะช่วยสนับสนุนได้นะ แต่ฉันมีเรื่องอยากจะร้องขอพวกเธอสักหน่อยน่ะจ้ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You know how to stop her, then?",
+      "text": "แสดงว่าคุณรู้วิธีขัดขวางฝ่าบาทงั้นเหรอครับ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "While there are no guarantees, your coming here makes it a distinct possibility.",
+      "text": "ถึงจะยังไม่มีอะไรรับประกันร้อยเปอร์เซ็นต์ แต่การเดินทางมาถึงที่นี่ของพวกเธอก็ช่วยให้มันมีความเป็นไปได้สูงขึ้นเยอะเลยล่ะจ้ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As my wish is relevant to your mission, will you hear me out? You can decide what to do afterwards.",
+      "text": "เนื่องจากความปรารถนาของฉันเกี่ยวข้องโดยตรงกับภารกิจของพวกเธอ ลองรับฟังดูก่อนดีไหมจ๊ะ? แล้วหลังจากนั้นพวกเธอจะตัดสินใจยังไงต่อก็ค่อยว่ากัน"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Excellent. To begin, we'll need to head to a different area.",
+      "text": "วิเศษมากจ้ะ ถ้าอย่างนั้น ขั้นแรกพวกเราจำเป็นต้องย้ายไปยังเขตพื้นที่อื่นก่อนนะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "See that sentry? I'll have them grant you access to the zip line.",
+      "text": "เห็นผู้คุมทหารยามตรงนั้นไหมจ๊ะ? เดี๋ยวฉันจะจัดการให้พวกเขาเปิดสิทธิ์ใช้งานซิปไลน์ (zip line) ให้พวกเธอนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zip line? What is that?",
+      "text": "ซิปไลน์งั้นเหรอ? มันคืออะไรน่ะ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "A fun little mode of transport. They don't see much use, though, as we Endless can teleport freely within Living Memory.",
+      "text": "เป็นรูปแบบการเดินทางที่สนุกสนานดีเลยล่ะจ้ะ แต่ปกติไม่ค่อยมีใครใช้งานมันเท่าไหร่หรอก เพราะพวกเราชาวเอ็นด์เลสสามารถเคลื่อนย้ายมิติวาร์ปไปมาภายในลิฟวิ่งเมโมรีได้ตามใจชอบอยู่แล้วน่ะจ้ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "This particular line will take you to a zone called Canal Town. I'll be waiting for you there.",
+      "text": "สายเชื่อมเส้นนี้จะนำทางพวกเธอไปยังเขตพื้นที่ที่เรียกว่า คาแนลทาวน์ (Canal Town) จ้ะ เดี๋ยวแม่จะไปยืนรอพวกเธออยู่ที่ฝั่งโน้นนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "<chuckle> With that endearing pushiness, it could only be Cahciua. Let's go!",
+      "text": "<หัวเราะ> นิสัยชอบมัดมือชกแบบน่ารักๆ แบบนี้ มีแค่คุณคาชิวาคนเดียวเท่านั้นแหละค่ะ พวกเราไปกันเถอะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It has the look of the contraptions found throughout the Isle of Haam, does it not?",
+      "text": "รูปร่างหน้าตามันดูเหมือนพวกอุปกรณ์กลไกที่พบได้ตามเกาะฮาม (Isle of Haam) เลยใช่ไหมคะ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Cahciua has already teleported ahead, it seems.",
+      "text": "ดูเหมือนคุณคาชิวาจะวาร์ปล่วงหน้าไปฝั่งโน้นเรียบร้อยแล้วล่ะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I'm sorry, it's just...she's gone, yet to see and hear her carrying on like nothing's... I don't know how to feel.",
+      "text": "ขอโทษด้วยนะครับ คือ... ทั้งๆ ที่เธอจากไปแล้วแท้ๆ แต่พอได้มาเห็นและได้ยินเธอทำตัวร่าเริงแจ่มใสเหมือนไม่มีอะไรเกิดขึ้นแบบนี้... ผมล่ะจับจุดความรู้สึกตัวเองไม่ถูกเลยครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I think I know how it works! I've got this!",
+      "text": "ฉันคิดว่าเข้าใจวิธีใช้งานมันแล้วล่ะ! ปล่อยเป็นหน้าที่ฉันเอง!"
+    },
+    {
+      "character": "Canal Town Guard",
+      "text_en": "Hm? You don't seem to be— <bleep> <bloop> Error. Error. User registration...c-c-confirmed.",
+      "text": "หืม? ดูเหมือนพวกคุณจะไม่ใช่— <บี๊บ> <บู๊บ> ขัดข้อง... ขัดข้อง... ยืนยันการลงทะเบียน...เรียบร้อยแล้ว"
+    },
+    {
+      "character": "Canal Town Guard",
+      "text_en": "I bid you welcome to Canal Town, the resort of romance and relaxation! Please enjoy your stay!",
+      "text": "ยินดีต้อนรับสู่คาแนลทาวน์ แหล่งพักผ่อนหย่อนใจแสนโรแมนติก! ขอให้เพลิดเพลินกับช่วงเวลาที่นี่นะครับ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a charming place...",
+      "text": "เป็นสถานที่ที่ดูมีเสน่ห์จังเลยนะคะ..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That's them. The people Sphene strives to protect.",
+      "text": "คนกลุ่มนั้นแหละจ้ะ... ราษฎรที่สฟีนกำลังพยายามดิ้นรนต่อสู้เพื่อปกป้องเอาไว้น่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They look happy.",
+      "text": "ทุกคนดูมีความสุขดีนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So, what's this request of yours?",
+      "text": "แล้วเรื่องที่คุณอยากจะขอร้องพวกเราคืออะไรเหรอจ๊ะ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I want you to erase us. Erase the Endless.",
+      "text": "ฉันอยากให้พวกเธอช่วยลบตัวตนของพวกเราทิ้งซะ... ลบกลุ่มเอ็นด์เลสออกไปให้หมดจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What?",
+      "text": "เอ๊ะ... ว่าไงนะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And by “erase,” she means...",
+      "text": "ที่บอกว่า 'ลบ' นั่นน่ะ หมายความว่า..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For now, let us hear the rest.",
+      "text": "ตอนนี้พวกเราลองรับฟังรายละเอียดส่วนที่เหลือจากเธอก่อนเถอะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Cahciua must have her reasons.",
+      "text": "คุณคาชิวาต้องมีเหตุผลของเธอแน่ๆ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Oh, come now, spare me those gloomy faces.",
+      "text": "โธ่เอ๋ย อย่าทำสีหน้าหม่นหมองเศร้าสร้อยแบบนั้นใส่ฉันสิจ๊ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Being alive, you're the only ones who can do this. And we won't have a better opportunity than now, while Queen Sphene is busy preparing to initiate interdimensional fusion.",
+      "text": "ในฐานะคนเป็นที่ยังมีชีวิตอยู่ พวกเธอเป็นเพียงกลุ่มเดียวเท่านั้นที่สามารถลงมือทำเรื่องนี้ได้ และช่วงเวลานี้คือโอกาสที่ดีที่สุดในขณะที่ราชินีสฟีนกำลังติดภารกิจเตรียมการเชื่อมโยงหลอมรวมต่างมิติจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's wrong to sacrifice others to sustain the Endless. This I firmly believe.",
+      "text": "การเอาชีวิตและสิทธิ์ของคนอื่นมาเซ่นสังเวยเพื่อต่ออายุคงสภาพกลุ่มเอ็นด์เลสไว้มันเป็นเรื่องที่ผิดมหันต์... เรื่องนี้ฉันเชื่อมั่นอย่างสุดหัวใจ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But talking to you now, you seem as real as any of us. And if you need an answer right away, I don't know if I can give it.",
+      "text": "แต่พอได้มาพูดคุยกับเธอในตอนนี้ เธอดูกลับมีตัวตนมีจิตใจเหมือนพวกเราไม่มีผิดเลย และถ้าหากเธอต้องการคำตอบจากปากฉันในตอนนี้ทันที ฉันเองก็ยังสับสนไม่รู้จะตอบยังไงดีเหมือนกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is there a reason we need to act so soon?",
+      "text": "มันมีเหตุผลอะไรที่พวกเราต้องรีบลงมือทำเรื่องนี้กะทันหันขนาดนี้งั้นเหรอ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Because, as you've just said, it's wrong to sacrifice others to sustain us. Remember, we need life force—other forms of aether don't cut it.",
+      "text": "ก็อย่างที่เธอเพิ่งพูดนั่นแหละจ้ะ ว่าการสังเวยชีวิตผู้อื่นเพื่อพยุงพวกเราไว้มันเป็นสิ่งที่ผิด อย่าลืมนะว่าระบบนี้จำเป็นต้องใช้พลังงานชีวิต... พลังงานอีเธอร์รูปแบบอื่นไม่สามารถเอามาทดแทนได้เลย"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "In the beginning, we managed with the aether of those who died in the barrier. But as our numbers grew, there began to be a shortage.",
+      "text": "ในช่วงเริ่มต้น พวกเรายังพอประคองตัวอยู่ได้ด้วยการใช้อีเธอร์ของผู้ที่ล่วงลับไปภายในโดมบาเรีย แต่ทว่ายามที่จำนวนประชากรเอ็นด์เลสเพิ่มพูนมากขึ้นเรื่อยๆ แหล่งพลังงานชีวิตจึงเริ่มขาดแคลน"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "That's why Queen Sphene looked to other sources. Even the aether I'm composed of may have come from the victims of the attack on Tuliyollal.",
+      "text": "นั่นเป็นเหตุผลให้ราชินีสฟีนต้องหาแหล่งพลังงานจากภายนอก... แม้แต่อีเธอร์ที่ประกอบขึ้นเป็นร่างกายของแม่ในตอนนี้ ก็อาจจะมาจากการสังเวยชีวิตของเหล่าผู้เคราะห์ร้ายจากเหตุการณ์บุกโจมตีทูลิโยลลัลด้วยซ้ำ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I can't bear that thought. Can't bear to exist because someone died.",
+      "text": "แม่ทนคิดเรื่องนี้ไม่ได้จริงๆ จ้ะ ทนไม่ได้ที่จะต้องมีตัวตนอยู่บนโลกนี้เพราะความตายของใครสักคน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'd probably feel the same way if we were in your shoes... But what exactly are you asking us to do?",
+      "text": "ถ้าพวกเราตกอยู่ในสถานะแบบเดียวกับเธอ ก็คงจะรู้สึกแย่แบบนั้นเหมือนกัน... แต่ว่าสิ่งที่อยากให้พวกเราทำจริงๆ มันคืออะไรเหรอ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "In each zone, there is an enormous data storage device called a terminal. That is where our memories are kept.",
+      "text": "ในแต่ละเขตพื้นที่ จะมีเครื่องเก็บข้อมูลขนาดมหึมาที่เรียกว่า เทอร์มินัล (terminal) ตั้งอยู่จ้ะ ซึ่งนั่นเป็นสถานที่กักเก็บรวบรวมข้อมูลความทรงจำทั้งหมดของพวกเราเอาไว้"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If you shut down a terminal, the memories within will disappear—along with those Endless created from them.",
+      "text": "หากพวกเธอทำการปิดการใช้งานเครื่องเทอร์มินัล ข้อมูลความทรงจำทั้งหมดข้างในนั้นก็จะสูญหายไป... พร้อมๆ กับกลุ่มเอ็นด์เลสที่ถูกจำลองร่างขึ้นมาจากข้อมูลเหล่านั้นด้วยจ้ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "But does this need to be done now? Can't we stop Sphene first, and then take it from there?",
+      "text": "แต่เรื่องนั้นจำเป็นต้องทำในตอนนี้เลยเหรอครับ? พวกเราขัดขวางสฟีนก่อน แล้วหลังจากนั้นค่อยมาคิดหาวิธีแก้ปัญหาอื่นไม่ได้งั้นเหรอ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It's precisely in order to stop Sphene that it must be done now.",
+      "text": "เพราะว่าการปิดเทอร์มินัลพวกนี้แหละจ้ะ คือกุญแจสำคัญในการขัดขวางและหยุดยั้งสฟีน"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Her own memories are stored within the Meso Terminal, which stands at the heart of Living Memory.",
+      "text": "ความทรงจำของสฟีนร่างจริงถูกกักเก็บไว้ภายในเมโซเทอร์มินัล ซึ่งตั้งอยู่ตรงศูนย์กลางของลิฟวิ่งเมโมรี"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "As you would expect, the terminal's defenses are extremely tight. But it has moments of vulnerability, such as when it has just finished calculations, which we can exploit to shut it down from within.",
+      "text": "อย่างที่พอจะเดากันได้นั่นแหละจ้ะ ว่าระบบป้องกันของเครื่องเมโซเทอร์มินัลแน่นหนามาก ทว่ามันจะมีช่วงที่ระบบเปิดช่องว่างให้อยู่บ้าง เช่น ยามที่มันเพิ่งจะคำนวณสูตรประมวลผลเสร็จสิ้น ซึ่งพวกเราสามารถใช้จังหวะนั้นแทรกแซงเข้าไปปิดระบบจากภายในได้"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "While we wait for that opening, we erase the Endless. Once we are gone, Sphene will no longer have a reason to plunder aether from other worlds.",
+      "text": "และในระหว่างที่เฝ้ารอคอยจังหวะนั้น พวกเราจะค่อยๆ ทยอยลบตัวตนเอ็นด์เลสออกไป เมื่อพวกเราสลายไปหมดแล้ว สฟีนก็จะไม่เหลือเหตุผลอะไรให้ต้องไปแย่งชิงอีเธอร์มาจากโลกมิติอื่นอีกจ้ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Would Sphene simply allow us to shut down the terminals?",
+      "text": "แล้วทางฝั่งสฟีนจะยอมปล่อยให้พวกเราเดินไปปิดระบบเครื่องเทอร์มินัลเฉยๆ งั้นเหรอครับ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "In preparation for fusion, the Meso Terminal is currently performing massive calculations while gathering energy. Even if the system notices us, it cannot easily suspend the process.",
+      "text": "เพื่อเตรียมพร้อมสำหรับการหลอมรวมต่างมิติ ขณะนี้เมโซเทอร์มินัลกำลังจมอยู่กับการคำนวณข้อมูลขนาดใหญ่หลวงพร้อมกับกักเก็บพลังงานไปด้วย ต่อให้ระบบจะรับรู้ถึงการกระทำของพวกเรา แต่ก็ไม่สามารถยกเลิกขั้นตอนประมวลผลนั้นได้ง่ายๆ หรอกจ้ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Rather than doing so, I believe it will attempt to accelerate the timetable and bridge worlds before the plan can be thwarted.",
+      "text": "แทนที่จะกดยกเลิก แม่เชื่อว่าตัวระบบจะเลือกพยายามเร่งรัดความเร็วของกำหนดเวลาการเชื่อมต่อโลก เพื่อให้เสร็จสิ้นก่อนที่พวกเราจะดำเนินการขัดขวางสำเร็จเสียมากกว่าจ้ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It wouldn't be a decision Sphene would wish to make, but she would be able to save those who are stored in the Meso Terminal, at least...",
+      "text": "นั่นไม่ใช่ผลลัพธ์ที่สฟีนปรารถนาหรอกจ้ะ แต่อย่างน้อยเธอก็จะสามารถรักษาตัวตนของกลุ่มคนที่บันทึกข้อมูลไว้ในเมโซเทอร์มินัลเอาไว้ได้..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There's sense in your strategy, and in resolving to stop Sphene, we had anticipated that it might come to this. But to actually talk about erasing the Endless...is difficult.",
+      "text": "กลยุทธ์ของคุณมีเหตุผลมากค่ะ และการที่พวกเราตัดสินใจจะหยุดยั้งสฟีน พวกเราก็พอจะคาดเดาไว้แล้วว่าสุดท้ายต้องลงเอยแบบนี้ แต่พอถึงเวลาที่ต้องมาพูดถึงเรื่องลบกลุ่มเอ็นด์เลสจริงๆ... มันก็ทำใจยอมรับยากเหลือเกินค่ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You needn't feel any guilt. No matter how lifelike we may seem, we Endless are but facsimiles crafted from memories.",
+      "text": "พวกเธอไม่จำเป็นต้องรู้สึกผิดอะไรเลยนะจ๊ะ ต่อให้พวกเราจะดูเหมือนมีชีวิตชีวาสักแค่ไหน แต่สุดท้ายพวกเราชาวเอ็นด์เลสก็เป็นแค่ภาพจำลองที่ถูกถอดแบบขึ้นมาจากความทรงจำเท่านั้นเอง"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Besides, stopping Sphene requires that you shut down the Meso Terminal, which sustains all of us. Sooner or later, it will need to be done.",
+      "text": "อีกอย่าง การจะหยุดสฟีนให้ได้ก็จำเป็นต้องปิดระบบเมโซเทอร์มินัลที่เป็นแหล่งหล่อเลี้ยงดวงวิญญาณพวกเราทั้งหมดอยู่ดี ไม่ช้าก็เร็ว เรื่องนี้ก็ต้องถูกสะสางจ้ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "If we are to be erased, then let it be before more people come to harm. Living, breathing people with futures they deserve to experience.",
+      "text": "หากต้องสูญสลายไปจริงๆ ก็ขอให้มันเกิดขึ้นก่อนที่จะมีผู้บริสุทธิ์ต้องได้รับความเดือดร้อนไปมากกว่านี้เถอะจ้ะ คนจริงๆ ที่ยังมีลมหายใจและมีอนาคตอันสดใสคู่ควรแก่การออกไปใช้ชีวิตเรียนรู้น่ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Thank you. For respecting my wish.",
+      "text": "ขอบใจมากนะจ๊ะ... ที่ยอมรับและเคารพความปรารถนาของฉัน"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'm afraid not. We spent years scouring Preservation's records, but found nothing. It's truly a bothersome system they've created.",
+      "text": "เกรงว่าจะไม่มีเลยล่ะจ้ะ พวกเราอุตสาหะค้นหาข้อมูลบันทึกของเพรสเซอเวชันมาเป็นเวลาหลายปีแต่กลับไม่พบทางออกอื่นเลย เป็นระบบที่เข้มงวดและน่ารำคาญใจจริงๆ ที่พวกนั้นสร้างขึ้นมาน่ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "<chuckle> While I appreciate the thought, we can't afford to miss this chance. Do this for me, will you?",
+      "text": "แม้จะซาบซึ้งใจในความห่วงใยนะจ๊ะ แต่พวกเราจะปล่อยให้โอกาสทองนี้หลุดลอยไปไม่ได้เด็ดขาด ช่วยทำเพื่อแม่ทีนะจ๊ะ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "And, as a personal request... While her actions cannot be condoned, I ask that you afford Queen Sphene a measure of understanding. Know that she herself didn't choose to become an Endless.",
+      "text": "และขอร้องเรื่องส่วนตัวอีกสักเรื่องเถอะนะจ๊ะ... แม้ว่าพฤติกรรมการกระทำของเธอจะไม่สามารถยกโทษให้ได้ แต่แม่ก็อยากจะขอให้ทุกคนโปรดเห็นอกเห็นใจและเข้าใจราชินีสฟีนสักนิดเถอะจ้ะ จงจำไว้ว่าเธอเองไม่ได้เป็นคนเลือกที่จะกลายมาเป็นเอ็นด์เลสเลยสักนิด"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It was Preservation that made the choice for her.",
+      "text": "เป็นกลุ่มเพรสเซอเวชันต่างหากล่ะจ้ะที่เป็นคนยัดเยียดเลือกเส้นทางนี้ให้เธอ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "She is powerless to resist her purpose.",
+      "text": "เธอไม่มีพลังอำนาจใดๆ ที่จะต่อต้านขัดขืนเป้าหมายภารกิจที่ถูกตั้งโปรแกรมไว้ได้หรอกจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What do you mean?",
+      "text": "หมายความว่ายังไงน่ะ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "The Sphene you know is an ideal that Preservation brought to life.",
+      "text": "สฟีนที่พวกเธอรู้จักในตอนนี้ คือตัวตนในอุดมคติที่เพรสเซอเวชันจำลองสร้างให้มีชีวิตขึ้นมา"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "Harnessing the love the living Sphene bore for her people, they brought forth an eternal queen whose primary directive is to preserve the Endless.",
+      "text": "โดยดึงเอาความรักอันยิ่งใหญ่ที่สฟีนร่างมีชีวิตเคยมีต่อประชาชนของเธอมาใช้งาน เพื่อสร้างราชินีผู้เป็นนิรันดร์ที่มีคำสั่งเป้าหมายหลักคือการปกป้องรักษากลุ่มเอ็นด์เลสเอาไว้ให้ได้"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But as you know, the Endless consume aether. Sphene was compelled to find ways to procure it, and that compulsion has driven her to resort to interdimensional fusion.",
+      "text": "แต่ทว่าอย่างที่รู้ดีนั่นแหละจ้ะ ว่าเอ็นด์เลสจำเป็นต้องกลืนกินอีเธอร์ สฟีนจึงถูกบีบบังคับให้ต้องหาหนทางชิงแหล่งพลังงานนั้นมา และแรงผลักดันนั้นเองที่ชี้นำให้เธอต้องหันไปพึ่งพาแผนการหลอมรวมต่างมิติ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What? Are you telling me the original Sphene wouldn't have chosen this?",
+      "text": "เอ๊ะ? จะบอกว่าสฟีนตัวจริงร่างเดิมจะไม่มีวันเลือกทำเรื่องเลวร้ายแบบนี้งั้นเหรอ?"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "What the queen might have done, only she herself would know.",
+      "text": "เรื่องที่ว่าองค์ราชินีร่างจริงจะเลือกตัดสินใจอย่างไร มีเพียงตัวเธอคนเดียวเท่านั้นที่จะรู้จ้ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "But the scientists of Preservation have vanished, leaving their created queen to walk alone.",
+      "text": "แต่ทว่าตอนนี้นักวิทยาศาสตร์ของเพรสเซอเวชันต่างพากันสาบสูญไปหมดแล้ว ทิ้งไว้เพียงราชินีที่พวกเขาสร้างขึ้นให้ต้องเผชิญหนทางอันโดดเดี่ยวลำพัง"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "So as you go about your mission, think not that you're stopping a ruthless villain. But rather, that you're relieving a troubled soul of her burden.",
+      "text": "เพราะฉะนั้น ในระหว่างดำเนินภารกิจนี้ ขออย่าได้คิดว่าพวกเธอกำลังเดินหน้าไปขัดขวางวายร้ายผู้อำมหิตเลยนะจ๊ะ แต่ขอให้คิดเสียว่าพวกเธอกำลังช่วยปลดเปลื้องภาระอันหนักอึ้งออกจากจิตวิญญาณอันแสนทนทุกข์ของเธอเถอะจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, Cahciua. We understand now. Both your reasoning and your feelings.",
+      "text": "เข้าใจแล้วล่ะคุณคาชิวา พวกเราเข้าใจทั้งเหตุผลและคำนึงถึงความรู้สึกของคุณดีแล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But before we erase the Endless, I'd like to know them. I'd like to know what she fights tooth and nail for.",
+      "text": "แต่ก่อนที่พวกเราจะลงมือลบกลุ่มเอ็นด์เลสออกไป ฉันอยากจะทำความรู้จักพวกเขาให้มากกว่านี้ก่อน ฉันอยากรู้ว่าชีวิตของคนที่สฟีนพยายามต่อสู้ปกป้องสุดชีวิตนั้นเป็นอย่างไร"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If we're going to reject someone's beliefs, let it be after we've come to understand them. This is a lesson I learned from the rite of succession.",
+      "text": "หากพวกเราจะปฏิเสธความเชื่อของใครสักคน ก็ควรจะเป็นหลังจากที่พวกเราได้พยายามทำความเข้าใจพวกเขาอย่างถ่องแท้แล้วเท่านั้น นี่คือบทเรียนสำคัญที่ฉันได้รับเรียนรู้มาจากพิธีสืบทอดราชบัลลังก์น่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I realize we're pressed for time, but if it's alright with you, I want to meet as many people as I can.",
+      "text": "ฉันรู้ดีว่าพวกเรามีเวลาเหลือน้อยเต็มทีแล้ว แต่ถ้าคุณไม่ขัดข้อง ฉันอยากจะขอไปพูดคุยพบปะกับผู้คนของที่นี่ให้ได้มากที่สุดเท่าที่จะทำได้นะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "You truly are Gulool Ja Ja's kitten... Well, the calculations will take a while still. It should be fine if we do this as we proceed to the terminals.",
+      "text": "สมกับเป็นลูกแมวน้อยของกูลูล จา จา จริงๆ เลยนะจ๊ะ... เอาเถอะ ขั้นตอนประมวลผลคำนวณก็น่าจะใช้เวลาอีกสักพักใหญ่ๆ ระหว่างที่พวกเราเดินทางมุ่งหน้าไปยังเครื่องเทอร์มินัล ก็ค่อยๆ แวะทักทายพูดคุยกับผู้คนไปด้วยก็ได้จ้ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm with you. We might not be able to learn everything, but it would nevertheless be meaningful if we could glimpse the hearts of those who inhabit this place before we set them free.",
+      "text": "ฉันเห็นด้วยค่ะ ถึงแม้เราจะไม่มีเวลาเรียนรู้เรื่องราวทั้งหมดได้ทัน แต่อย่างน้อยการได้เข้าไปสัมผัสและเรียนรู้จิตใจของผู้อยู่อาศัยที่นี่ก่อนที่จะปลดปล่อยให้พวกเขาสลายไป ก็ถือเป็นเรื่องที่มีความหมายมากทีเดียวค่ะ"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I'll leave you to it, then. When you've finished here, come and find me at the fountain near that big clock tower.",
+      "text": "ถ้าอย่างนั้นก็ฝากด้วยนะจ๊ะ เมื่อพูดคุยแถวนี้เสร็จเรียบร้อยแล้ว ค่อยไปเจอฉันตรงบริเวณน้ำพุใกล้กับหอนาฬิกาเรือนใหญ่นะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's split up and find some locals to speak with!",
+      "text": "เอาล่ะ แยกย้ายกันไปพูดคุยทำความคุ้นเคยกับชาวเมืองแถวนี้กันเถอะ!"
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "It really is a lovely place. You should run along and enjoy it while you can.",
+      "text": "ที่นี่เป็นสถานที่ที่งดงามมากจริงๆ นะจ๊ะ รีบเดินทางและเก็บเกี่ยวช่วงเวลาดีๆ ไว้ในขณะที่ยังทำได้เถอะจ้ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A part of me hopes that my parents are here too, but it's probably too much to ask for...",
+      "text": "ลึกๆ ในใจแล้วฉันก็แอบหวังอยู่เหมือนกันค่ะว่าพ่อแม่ของฉันอาจจะพำนักอยู่ที่นี่ด้วย... แต่อาจจะเป็นความหวังที่ดูเพ้อฝันเกินไปหน่อยล่ะมั้งคะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Endless seem to eat the food with relish, but it couldn't be real...could it?",
+      "text": "กลุ่มเอ็นด์เลสดูจะรับประทานอาหารกันอย่างเอร็ดอร่อยเลยนะครับ แต่ว่าของพวกนั้นมันไม่น่าจะใช่ของจริงใช่ไหมครับ...?"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Welcome! We have popcorn and cookies by way of snacks, and mugs and plushies for the memories!",
+      "text": "ยินดีต้อนรับครับ! ทางร้านเรามีป๊อปคอร์นกับคุกกี้ไว้บริการสำหรับของว่างทานเล่นนะ แล้วก็มีพวกแก้วน้ำกับตุ๊กตาพรีเมียมไว้สำหรับระลึกความทรงจำด้วยครับ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I will not object to your decision... And as my mother says, you needn't feel any guilt.",
+      "text": "ผมจะไม่คัดค้านการตัดสินใจของคุณหรอกครับ... และก็อย่างที่คุณแม่บอกนั่นแหละ คุณไม่จำเป็นต้องรู้สึกผิดอะไรเลย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yet I admit I myself am still conflicted. To have such doubts after coming all this way... It's laughable, isn't it?",
+      "text": "แต่ถึงอย่างนั้น ผมก็ต้องยอมรับว่าลึกๆ ในใจผมเองก็ยังคงสับสนขัดแย้งอยู่ดี การที่ยังมีความรู้สึกลังเลสับสนหลังจากดั้นด้นเดินทางมาถึงจุดนี้ได้... มันดูน่าขันสิ้นดีเลยว่าไหมครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Your ancestors were refugees from Lindblum? What tales they must have...",
+      "text": "บรรพบุรุษของพวกเธออพยพหนีภัยมาจากลินด์บลูมงั้นเหรอ? สงสัยจังว่าพวกเขาจะมีเรื่องเล่าแบบไหนกันบ้างนะ..."
+    },
+    {
+      "character": "Cahciua",
+      "text_en": "I must say, I'm starting to enjoy myself. Even if it's only brief, this has the feel of a journey.",
+      "text": "บอกตามตรงนะ แม่เองก็เริ่มจะรู้สึกสนุกขึ้นมาแล้วล่ะจ้ะ ถึงแม้จะเป็นช่วงเวลาสั้นๆ แต่มันก็ให้ความรู้สึกเหมือนกับการเดินทางท่องเที่ยวจริงๆ เลยนะ"
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "Well now, I don't believe I've seen you around before. A newcomer, I take it?",
+      "text": "อ้าว หน้าตาไม่คุ้นเลยนะเนี่ย ฉันคิดว่าไม่เคยเจอเธอแถวนี้มาก่อนเลย เป็นสมาชิกใหม่ที่เพิ่งย้ายเข้ามาใช่ไหมจ๊ะ?"
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "It's wonderful here, let me tell you! Why, I just bumped into a dear friend in life, and we've been whiling away the hours reminiscing.",
+      "text": "ขอบอกเลยนะจ๊ะว่าที่นี่วิเศษสุดยอดไปเลยล่ะ! เมื่อกี้ฉันเพิ่งจะบังเอิญเดินไปชนเข้ากับเพื่อนรักสมัยยังมีชีวิตอยู่เข้าพอดีเลยล่ะ ตอนนี้พวกเราก็เลยมานั่งจับเข่าคุยรื้อฟื้นเรื่องเก่าๆ กันจนลืมเวล่ำเวลาเลย"
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "It might have been more like days, actually. You don't get a sense of the time here.",
+      "text": "เอ... หรือจริงๆ อาจจะคุยกันเป็นวันๆ แล้วก็ไม่รู้เหมือนกันนะจะ เพราะอยู่ที่นี่แล้วมันไม่รู้เรื่องเวลาเลยจริงๆ"
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "By the way, did you hear the announcement earlier? As much as I love this place, I wonder if Queen Sphene can really sustain us forever...",
+      "text": "จะว่าไป เธอได้ยินเสียงประกาศเตือนเมื่อกี้หรือเปล่าจ๊ะ? ถึงแม้ฉันจะรักดินแดนแห่งนี้มากก็เถอะ แต่ก็อดสงสัยไม่ได้เหมือนกันว่าราชินีสฟีนจะสามารถปกป้องดูแลและประคองพวกเราให้อยู่รอดตลอดไปได้จริงๆ หรือเปล่านะ..."
+    },
+    {
+      "character": "Cheerful Endless",
+      "text_en": "But I suppose there's no use worrying about such things. Anyway, thanks to you, we found a break in our conversation. We'll go and ride the gondola next!",
+      "text": "แต่ช่างเถอะ คิดมากกังวลไปก็ไม่มีประโยชน์อะไรขึ้นมาหรอกเนอะ ยังไงก็ขอบใจเธอมากนะจ๊ะที่เดินเข้ามาทักทายจนพวกเราได้จังหวะเปลี่ยนเรื่องคุยพอดี เดี๋ยวพวกเราจะไปนั่งเล่นเรือกอนโดลาต่อแล้วล่ะ!"
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "Oh, hello there. Taking in the sights of Canal Town too, are you? Both my wife and I just adore this place.",
+      "text": "อ้าว สวัสดีครับ เดินเที่ยวชมทิวทัศน์ของคาแนลทาวน์เหมือนกันอยู่เหรอครับ? ทั้งตัวผมและภรรยาต่างก็โปรดปรานรักที่นี่มากๆ เลยล่ะครับ"
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "We had become estranged in life, she and I, but being here gave us the chance to reconcile.",
+      "text": "สมัยที่พวกเรายังมีชีวิตอยู่ พวกเรามีเรื่องระหองระแหงผิดใจกันจนห่างเหินไปน่ะครับ แต่การได้มาอยู่ที่นี่ทำให้พวกเราได้รับโอกาสที่ดีในการปรับความเข้าใจและคืนดีกันอีกครั้ง"
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "I couldn't be more grateful for the chance to spend these blessed little moments together again.",
+      "text": "ผมรู้สึกขอบคุณโอกาสอันประเสริฐนี้มากๆ เลยล่ะครับ ที่ช่วยให้พวกเราได้กลับมาใช้ช่วงเวลาสั้นๆ อันแสนวิเศษร่วมกันอีกครั้ง"
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "I have no more regrets. Whether Her Majesty's plan succeeds or no, I can rest with peace in my heart.",
+      "text": "ตอนนี้ผมไม่หลงเหลือความเสียใจอะไรอีกแล้วล่ะครับ ไม่ว่าแผนการของฝ่าบาทจะประสบความสำเร็จหรือไม่ก็ตาม ผมก็สามารถพักผ่อนได้อย่างสงบสุขไร้ความกังวลในจิตใจแล้วครับ"
+    },
+    {
+      "character": "Genial Endless",
+      "text_en": "Well, we shall continue on our way, but we hope to see you again. Till next time.",
+      "text": "เอาล่ะครับ พวกเราคงต้องขอตัวเดินทางต่อแล้ว แต่ก็หวังว่าจะได้พบกันใหม่นะครับ ไว้เจอกันคราวหน้าครับ"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "You there! Have you tried the popcorn from that stall?",
+      "text": "นี่คุณตรงนั้นน่ะ! ได้ลองชิมป๊อปคอร์นของร้านรถเข็นตรงนั้นหรือยังครับ?"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "You haven't? You don't know what you're missing!",
+      "text": "ยังไม่เคยลองเหรอครับ? โธ่เอ๋ย คุณพลาดของดีสุดๆ ไปเลยนะครับ!"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "I consider myself something of a gourmand, and believe me when I say the classic salt flavor is amazing! The saltiness is simply exquisite —that's the only way to describe it. Once you have a mouthful, it's impossible to stop until it's all gone!",
+      "text": "ผมค่อนข้างจะมั่นใจในรสสัมผัสระดับนักชิมของตัวเองเลยนะครับ และขอให้เชื่อคำพูดผมเถอะว่าป๊อปคอร์นรสเกลือแบบดั้งเดิมเนี่ยมันสุดยอดมาก! ความเค็มมันช่างพอดีและกลมกล่อมอย่างไม่มีที่ติจริงๆ ครับ... พูดได้แค่คำนี้แหละ พอลองหยิบเข้าปากคำแรกแล้วล่ะก็ มันจะหยุดเคี้ยวไม่ได้เลยจนกว่าจะหมดถุงโน่นเลยครับ!"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "And after you've tried that, I urge you to seek out other stalls. There are lots of them everywhere, offering all manner of delights.",
+      "text": "และหลังจากได้ลองลิ้มชิมรสแล้ว ผมขอแนะนำให้ลองไปเดินตามหาร้านค้ารถเข็นร้านอื่นๆ ดูด้วยนะครับ มีตั้งอยู่ทั่วไปหมดเลย นำเสนอของอร่อยสารพัดรูปแบบเลยล่ะครับ"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "For another recommendation off the top of my head...the ice cream over in Asyle Volcane! It's so smooth and rich and—",
+      "text": "ถ้านึกอยากแนะนำอย่างอื่นเพิ่มกะทันหันล่ะก็... ไอศกรีมตรงแถบอาไซล์โวลเคนเลยครับ! รสชาติช่างเนียนนุ่มและเข้มข้นกลมกล่อมเสียจน—"
+    },
+    {
+      "character": "Satisfied Endless",
+      "text_en": "<slurp> Just thinking about it has given me a hankering... That's it—I'm going to go and have some right now!",
+      "text": "<ซี๊ด> แค่นึกถึงมันก็น้ำลายสอขึ้นมาเลยครับ... เอาล่ะสิ ตัดสินใจได้แล้ว—ผมจะรีบเดินไปซื้อกินตอนนี้เลยดีกว่า!"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Welcome, welcome! Have a browse and let me know when you're ready to order.",
+      "text": "ยินดีต้อนรับครับ ยินดีต้อนรับนะ! เชิญเลือกชมดูก่อนได้เลย และถ้าพร้อมสั่งเมื่อไหร่ก็บอกผมได้ทันทีนะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You're here on that lady's recommendation as well, I take it?",
+      "text": "คุณเองก็เดินมาอุดหนุนตามคำแนะนำของสุภาพสตรีท่านเมื่อกี้เหมือนกันใช่ไหมครับ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I had been wondering what the Endless do for sustenance, so it seemed a good opportunity to learn.",
+      "text": "พอดีผมแอบสงสัยอยู่พอดีเลยล่ะครับว่ากลุ่มเอ็นด์เลสเขาใช้ชีวิตเรื่องการดื่มกินเพื่อหล่อเลี้ยงชีพระบบกันอย่างไร เลยถือโอกาสอันดีนี้แวะมาเรียนรู้สักหน่อยน่ะครับ"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Oho, this is your first time eating, is it?",
+      "text": "โอ้โฮ นี่ถือเป็นครั้งแรกที่คุณจะได้ลิ้มรสอาหารของที่นี่ใช่ไหมครับ?"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "The food here is created using aether and memory data. To us, it tastes just like the real thing.",
+      "text": "อาหารของที่นี่ถูกเนรมิตประดิษฐ์ขึ้นมาโดยใช้พลังงานอีเธอร์และข้อมูลความทรงจำร่วมกันครับ สำหรับพวกเราแล้ว รสชาติมันเหมือนของจริงไม่มีผิดเพี้ยนเลยล่ะครับ"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "So, how about it? Would you care for some popcorn?",
+      "text": "เพราะงั้น สนใจลองชิมดูหน่อยไหมครับ? รับป๊อปคอร์นสักถุงไหม?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let's give it a try, shall we?",
+      "text": "พวกเราลองชิมดูหน่อยดีกว่าไหมครับ?"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "That's the spirit! Find a table you like, and I'll bring it right out. And lest you worry, there's no charge—all the food is free here.",
+      "text": "ต้องแบบนั้นสิครับ! เชิญไปเลือกโต๊ะนั่งตามใจชอบได้เลย เดี๋ยวผมจะนำไปเสิร์ฟให้ถึงที่เลยครับ แล้วก็ไม่ต้องกังวลเรื่องราคาไปหรอกนะครับ ที่นี่ไม่มีการเก็บเงิน บริการอาหารเครื่องดื่มฟรีทั้งหมดครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Food created with memory data... How will this taste to the living, I wonder.",
+      "text": "อาหารที่สร้างขึ้นมาจากข้อมูลความทรงจำ... สงสัยจังว่าสำหรับคนเป็นที่มีชีวิตอยู่ รสชาติมันจะเป็นยังไงกันแน่นะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, as they say, there's only one way to find out!",
+      "text": "อืม แต่ก็นั่นแหละครับ ตามที่เขาว่ากัน วิธีเดียวที่จะรู้ได้คือต้องลองพิสูจน์ด้วยตัวเองเท่านั้น!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Good gods... It tastes like nothing at all...",
+      "text": "พระช่วย... มันไม่รู้สึกถึงรสชาติอะไรเลยสักนิดเดียวครับ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Er, I-I mean...it's amazing! I've never had such tasty popcorn!",
+      "text": "เอ่อ... ม-หมายถึงว่า มันวิเศษสุดๆ ไปเลยล่ะครับ! ผมไม่เคยทานป๊อปคอร์นที่รสชาติเลิศเลอขนาดนี้มาก่อนเลย!"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Hehe, it's not our best seller for nothing!",
+      "text": "ฮะๆๆ แน่นอนอยู่แล้วครับ ของเขาขายดีเป็นอันดับหนึ่งก็เพราะแบบนี้แหละ!"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "And what about you?",
+      "text": "แล้วสำหรับคุณล่ะครับ?"
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Hahaha! It's always special, watching newcomers eat for the first time!",
+      "text": "ฮ่าๆๆ! การได้ยืนดูสีหน้าอาการของผู้มาใหม่ยามลิ้มชิมอาหารคำแรกเนี่ย มันเป็นเรื่องที่พิเศษสำหรับผมเสมอเลยล่ะครับ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They're just like the people of Everkeep.",
+      "text": "ทุกคนที่นี่ดูไม่แตกต่างจากประชาชนในเอเวอร์คีปเลยนะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Their communal spirit, their delighted smiles. Exactly the same...",
+      "text": "น้ำใจไมตรีจิตที่อบอุ่น รอยยิ้มที่แสดงความยินดีร่าเริง... ช่างเหมือนกันไม่มีผิดเพี้ยนเลย..."
+    },
+    {
+      "character": "Erastus",
+      "text_en": "Thank you for your custom. Come again any time!",
+      "text": "ขอบคุณที่มาอุดหนุนนะครับ ไว้แวะมาใช้บริการได้ตลอดเวลาเลยนะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "By the way, prior to this, a young man caught my eye near the canal. He appeared to be searching for something, and rather frantically.",
+      "text": "จะว่าไป ก่อนหน้านี้ ผมเหลือบไปเห็นชายหนุ่มคนหนึ่งตรงแถวๆ ริมคลองน่ะครับ ท่าทางเขากำลังมองหาอะไรบางอย่างอย่างรีบร้อนและลนลานเอามากๆ เลยล่ะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Did you perchance see him too?",
+      "text": "คุณบังเอิญสังเกตเห็นตัวเขาบ้างหรือเปล่าครับ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No? I must say I'm curious as to what has him so flustered. Could you help me look for the fellow?",
+      "text": "ไม่เห็นเหรอครับ? บอกตามตรงว่าผมอดสงสัยไม่ได้จริงๆ ว่ามีปัญหาอะไรทำให้เขาดูร้อนรนขนาดนั้น คุณพอจะช่วยผมลองตามหาตัวเขาหน่อยได้ไหมครับ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "My thanks. Let's head to where I saw him.",
+      "text": "ขอบคุณมากครับ พวกเราลองมุ่งหน้าไปดูตรงจุดที่ผมเจอเขาเมื่อกี้กันเถอะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Twould seem he is no longer in the vicinity.",
+      "text": "ดูเหมือนตอนนี้เขาจะไม่อยู่แถวนี้แล้วล่ะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us keep looking. Whatever it is that troubles him, perhaps we can be of assistance.",
+      "text": "พวกเราลองช่วยกันตามหาต่อเถอะครับ ไม่ว่าสิ่งที่ทำให้เขาเดือดร้อนอยู่จะเป็นเรื่องอะไร บางทีพวกเราอาจจะพอช่วยเหลือเขาได้บ้างครับ"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "id": "sibling-rescue",
+  "wiki_path": "/wiki/Sibling_Rescue",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "Sibling Rescue",
+  "title": "ช่วยชีวิตน้องสาว",
+  "level": "92",
+  "location": "Kozama'uka(X:31.8,Y:25.5)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Koana",
+      "text_en": "Thancred must know something by now...",
+      "text": "ป่านนี้แธนเครดคงจะรู้อะไรบางอย่างแล้วล่ะครับ..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You found her!?",
+      "text": "คุณพบตัวเธอแล้วงั้นเหรอ!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...Understood. Thank you.",
+      "text": "...รับทราบครับ ขอบคุณมาก"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I had but to invoke his name. Thancred followed the Hoobigo's boat to its destination, and confirmed that they are indeed holding my sister captive.",
+      "text": "แค่พูดถึงก็มาเลยครับ แธนเครดสะกดรอยตามเรือของเจ้าฮูบิโกไปจนถึงที่หมาย และยืนยันแน่ชัดแล้วว่าพวกมันจับตัวน้องสาวของผมไว้จริง ๆ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "“They,” of course, being Bakool Ja Ja and his minions. I swear, I will make them regret this.",
+      "text": "'พวกมัน' ที่ว่า... ย่อมเป็นใครไปไม่ได้นอกจากบาคูล จา จา และสมุนของมัน ผมขอสาบานเลยว่าจะต้องทำให้พวกมันเสียใจภายหลังที่กล้าทำเช่นนี้"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i is in Richleaf tunnels. The moment the harness is repaired, we strap in the punutiy and make our way back down Ihuykatumu!",
+      "text": "ลามัตยี่ถูกคุมตัวอยู่ในอุโมงค์ริชลีฟ (Richleaf tunnels) ทันทีที่บังเหียนสายรัดซ่อมเสร็จ พวกเราจะรีบสวมตัวปูนูทิย์แล้วล่องเรือทวนน้ำกลับลงไปตามแม่น้ำอิฮุยคาตูมู (Ihuykatumu) ทันทีครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thancred!",
+      "text": "แธนเครด!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Third Promise is up ahead. She's unharmed, but we'd best not dally.",
+      "text": "ท่านสัญญาที่สามอยู่ข้างหน้านี้แล้วล่ะครับ เธอไม่ได้รับบาดเจ็บอะไร แต่พวกเราไม่ควรชักช้าเสียเวลาจะดีกว่า"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[BAKOOL ELDER LAUGHTER - “Gehehehe!”]",
+      "text": "[หัวเราะลั่นเสียงต่ำอย่างสะใจ — “เกะเหะเหะ!”]"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I spit on these pathetic feats─far more satisfying to claim the baubles by force!",
+      "text": "ข้าถ่มน้ำลายใส่บททดสอบง่อย ๆ พวกนี้ว่ะ แย่งชิงหินศิลาพวกนี้มาด้วยกำลังมันน่าสะใจกว่าตั้งเยอะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Give it back! Fonjeantaine poured his everything into that stone! You've no right to touch it!",
+      "text": "เอาคืนมานะ! ฟงชองแตนทุ่มเททุกสิ่งทุกอย่างเพื่อแผ่นศิลานั่น! แกไม่มีสิทธิ์มาแตะต้องมันเด็ดขาด!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Aw, was that the name of your artisan? How could you allow something so precious to be stolen!?",
+      "text": "โอ้โฮ นั่นคือชื่อช่างฝีมือของแกงั้นเรอะ? แล้วทำไมแกถึงโง่ปล่อยให้ของล้ำค่าปานนี้โดนแย่งไปง่าย ๆ ได้ล่ะจ๊ะ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You thieving cheat! You're no true claimant!",
+      "text": "แกมันไอ้โจรขี้โกง! แกไม่มีค่าพอจะเป็นผู้ท้าชิงบัลลังก์ด้วยซ้ำ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "What does that make the foolish kitty who fell into my trap? If pitiful roars were all it took to claim the throne, you'd be first in line!",
+      "text": "แล้วยัยแมวโง่ที่เดินมาติดกับดักของข้าล่ะเรียกว่าอะไรดี? หากเสียงขู่ฟ่อ ๆ ไร้น้ำยาของลูกแมวมันช่วยให้ได้ครองบัลลังก์ได้ แกก็คงชนะเป็นคนแรกไปนานแล้วล่ะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Now, now, Brother, you shouldn't tease her. Look, the poor thing's on the verge of tears.",
+      "text": "เอาล่ะ ๆ น้องข้า แกอย่าไปหยอกล้อล้อเลียนเธอสิ ดูสิ ยัยนั่นน่าสงสารจนน้ำตาคลอเบ้าจวนจะร้องไห้อยู่รอมร่อแล้วนะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Meow! Someone save me!",
+      "text": "เหมียว! ใครก็ได้ช่วยเหมียวด้วย!"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[BAKOOL ELDER LAUGHTER - “Gehehehe!”]",
+      "text": "[หัวเราะลั่นเสียงต่ำอย่างสะใจ — “เกะเหะเหะ!”]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[BAKOOL YOUNGER LAUGHTER - “Kyahahaha!”]",
+      "text": "[หัวเราะคิกคักเสียงแหลมอย่างสะใจ — “เคียฮ่าฮ่าฮ่า!”]"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Ow!",
+      "text": "โอ๊ย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Who did that!?",
+      "text": "ใครมันกล้าลอบทำร้ายข้า!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Hmph, his scales are as thick as his skulls.",
+      "text": "หึ เกล็ดของมันดูจะหนาพอ ๆ กับกะโหลกศีรษะที่ไร้สมองของมันนั่นแหละครับ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Coward! You dare ambush me!?",
+      "text": "ไอ้พวกขลาดเขลา! พวกแกบังอาจมาลอบโจมตีข้างั้นเรอะ!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "'Tis the blessed siblings' favored tactic.",
+      "text": "ก็นึกว่าเป็นวิธีการสกปรกยอดนิยมของสองพี่น้องแฝดผู้รับพรซะอีกนะครับ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "That useless Boonewa sycophant. He was supposed to keep the lackeys running in circles!",
+      "text": "ไอ้บูนีวา (Boonewa) สอพลอไร้น้ำยาตัวนั้น! มันควรจะคอยล่อหลอกถ่วงเวลาพวกปลายแถวให้เดินวนไปวนมาสิ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Oh, you must tell me all about that.",
+      "text": "โอ้ เรื่องนั้นน่ะ คุณต้องคายรายละเอียดให้ผมฟังอย่างละเอียดเลยล่ะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Careful now! You wouldn't want to hit our hostage!",
+      "text": "ระวังตัวไว้หน่อยนะ! พวกแกคงไม่อยากให้อาวุธพลาดไปโดนตัวประกันหรอกมั้ง!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "That one's not to be underestimated!",
+      "text": "แต่ไอ้คนนี้ประมาทฝีมือไม่ได้เลยนะพี่!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "They can do nothing while we have─",
+      "text": "พวกมันทำอะไรเราไม่ได้หรอกตราบใดที่เรามี—"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[ROARS IN SUDDEN PAIN - “Gah!”]",
+      "text": "[ร้องโอดครวญด้วยความเจ็บปวดกะทันหัน — “ก๊ะ!”]"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[ROARS IN SUDDEN PAIN - “Gah!”]",
+      "text": "[ร้องโอดครวญด้วยความเจ็บปวดกะทันหัน — “ก๊ะ!”]"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Impeccable timing!",
+      "text": "จังหวะเวลาเฉียบคมและแม่นยำมาก!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i, are you all right!?",
+      "text": "ลามัตยี่! ปลอดภัยดีไหมครับ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Aye, thanks to you!",
+      "text": "อื้อ! รอดตัวมาได้เพราะพวกนายแท้ ๆ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "These weaklings think they can defy us! We'll slaughter the lot of them!",
+      "text": "ไอ้พวกสวะพวกนี้คิดว่าตัวเองจะต่อต้านพวกข้าได้รึไง! ข้าจะเฉือนเชือดฆ่าล้างพวกแกให้หมดทุกคนเดี๋ยวนี้แหละ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Patience, Brother! The keystone is ours─there is no need to fight this day! And Zoraal Ja has left us hurting...",
+      "text": "ใจเย็นก่อนพี่! หินศิลาก็ตกอยู่ในมือพวกเราแล้ว—วันนี้ไม่มีความจำเป็นต้องเสี่ยงสู้รบตบมือกับพวกมันหรอก! แถมเพิ่งจะโดนโซราล จา อัดสะบักสะบอมมาด้วย..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "No! I won't stop until I gut these maggots and feed them their entrails!",
+      "text": "ไม่! ข้าจะไม่มีวันยอมหยุดยั้งจนกว่าจะได้แหกอกพวกหนอนแมลงพวกนี้แล้วเอาเครื่องในยัดปากมันซะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "If we fall here, we fail our siblings for nothing. Is that what you want?",
+      "text": "หากพวกเราต้องมาพ่ายพังพินาศพลาดยั้งที่นี่ ความหวังของพวกน้อง ๆ ย่อมล่มสลายลงโดยเปล่าประโยชน์นะพี่ แกต้องการให้มันเป็นแบบนั้นจริง ๆ เรอะ?"
+    },
+    {
+      "character": "Bakool Ja Ja",
+      "text_en": "[GRUNTS IN GRUDGING ACCEPTANCE]",
+      "text": "[ส่งเสียงครางฮึดฮัดยอมรับอย่างไม่เต็มใจ]"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "No, Brother...",
+      "text": "โธ่เอ๊ย น้องข้า..."
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Break off! We retreat!",
+      "text": "ถอยทัพ! พวกเราถอย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait! Damn you, Bakool Ja Ja!",
+      "text": "เดี๋ยวสิ! หนอยแน่แก ไอ้วายร้ายบาคูล จา จา!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Do we give chase?",
+      "text": "จะให้ไล่ล่าตามล่าพวกมันไปไหมครับ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We head back. Lamaty'i is safe, and that is what matters.",
+      "text": "พวกเราถอยกลับกันเถอะครับ ลามัตยี่ปลอดภัยดีแล้ว นั่นคือสิ่งที่สำคัญที่สุดในตอนนี้"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I am glad to see you unharmed, Lamaty'i.",
+      "text": "ผมดีใจจริง ๆ ครับที่เห็นลามัตยี่ไม่ได้รับอันตรายอะไร"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Thanks again for coming to my rescue, Koana.",
+      "text": "ฉันต้องขอบใจพี่อีกครั้งนะที่ยอมมาช่วยชีวิตฉันน่ะ พี่โคอานา"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And all of you too.",
+      "text": "แล้วก็ขอบคุณทุกคนด้วยนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Bakool Ja Ja must be desperate indeed to resort to such aggressive tactics.",
+      "text": "ดูท่าบาคูล จา จา คงจะจนตรอกสิ้นคิดมากจริง ๆ ครับ ถึงได้ยอมใช้วิธีรุนแรงและป่าเถื่อนขนาดนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I shouldn't have been so careless. I underestimated him, and it cost me a keystone!",
+      "text": "ฉันไม่น่าปล่อยตัวสะเพร่าขนาดนั้นเลย ฉันประเมินมันต่ำเกินไปแท้ ๆ จนทำให้ต้องสูญเสียหินศิลาไปแผ่นหนึ่งเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Fonjeantaine upended his life so that I could accomplish the Moblin's feat. He believed in me─believed in my cause─and I've let him down!",
+      "text": "ฟงชองแตนอุตส่าห์ยอมสละทิ้งวิถีชีวิตเดิมมาเพื่อช่วยให้ฉันผ่านบททดสอบของพวกม็อบลินได้แท้ ๆ เขาเชื่อมั่นในตัวฉัน—เชื่อมั่นในปณิธานของฉัน—แต่ฉันกลับทำเรื่องล้มเหลวแบบนี้ซะได้!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're right. It's not over till it's over!",
+      "text": "นายพูดถูกแล้วล่ะ มันยังไม่จบจนกว่าการประลองจะสิ้นสุดลง!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes... We'll do exactly that!",
+      "text": "ใช่... พวกเราจะทำตามแบบนั้นแหละ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're godsdamned right about that!",
+      "text": "นายพูดถูกเผงที่สุดเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The next time I meet that brute, I'll knock him straight on his scaly behind and take back my keystone!",
+      "text": "ครั้งหน้าที่ฉันเจอหน้าไอ้สัตว์ป่านั่นอีกรอบ ฉันจะอัดมันให้หงายหลังเกล็ดทิ่มพื้นดิน แล้วแย่งชิงเอาหินศิลาของฉันคืนมาให้ได้!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Speaking of vengeance, didn't Bakool Ja Ja curse some “useless Boonewa sycophant” when he caught sight of us?",
+      "text": "หากจะพูดถึงเรื่องการซ้อนแผนตลบหลัง เมื่อกี้ตอนที่บาคูล จา จา เห็นพวกเรา มันสบถด่าว่า 'ไอ้บูนีวาสอพลอไร้น้ำยา' ใช่ไหมครับ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A reference to Sareel Ja, I would assume. He is devoted to our brother, and is the only Boonewa I know of participating in the rite of succession.",
+      "text": "ผมคิดว่ามันน่าจะหมายถึงซารีล จา (Sareel Ja) ครับ เขาอุทิศตนให้แก่พี่ชายของเราอย่างสุดตัว และเป็นชาวบูนีวาเพียงคนเดียวที่เข้าร่วมในการประลองครั้งนี้เท่าที่ผมทราบครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "If Zoraal Ja was somehow involved in this...",
+      "text": "หากพี่โซราล จา มีส่วนรู้เห็นร่วมมือกับแผนชั่วช้านี้ละก็..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will never forgive him for putting our sister in danger! He will have forfeited his right to be called brother!",
+      "text": "ผมจะไม่มีวันให้อภัยเขาเด็ดขาดที่กล้าทำให้น้องสาวต้องตกอยู่ในอันตราย! เขาจะหมดสิทธิ์ความเป็นพี่ชายของพวกเราทันที!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ahem... Bakool Ja Ja should face punishment, of course, but so must the bandits who had the temerity to abduct Lamaty'i.",
+      "text": "อืม... บาคูล จา จา สมควรได้รับการลงโทษอย่างแน่นอนอยู่แล้วครับ แต่รวมถึงพวกโจรป่าที่บังอาจมาลักพาตัวลามัตยี่ไปเช่นเดียวกัน"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I shall request that Father send a contingent of Landsguard to enforce the law in this region.",
+      "text": "ผมจะกราบทูลขอร้องให้ท่านพ่อส่งกองทัพผู้พิทักษ์แลนด์สการ์ดมารักษากฎหมายความสงบเรียบร้อยในพื้นที่แถบนี้ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I agree that measures need be taken to keep travelers safe.",
+      "text": "ฉันก็เห็นด้วยนะว่าควรมีมาตรการเพื่อรักษาความปลอดภัยให้นักเดินทางน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But I wonder what pushed these people towards a life of banditry in the first place? If we dig deeper, we might find a way to improve things for everyone.",
+      "text": "แต่ฉันก็อดสงสัยไม่ได้ว่า อะไรมันบีบบังคับให้คนพวกนี้ต้องผันตัวมาเป็นโจรป่ากันนะ? หากพวกเราได้ลองขุดคุ้ยสืบหาความจริงลึกขึ้น บางทีเราอาจจะค้นพบวิธีช่วยพัฒนาชีวิตความเป็นอยู่ของทุกคนให้ดีขึ้นได้"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...'Tis something to think about. For now, however, the rite continues. I thank you all for your help.",
+      "text": "...นั่นก็เป็นเรื่องสมควรนำไปไตร่ตรองครุ่งคิดดูครับ แต่อย่างไรก็ตาม สำหรับตอนนี้ พิธีสืบทอดราชบัลลังก์ยังคงดำเนินต่อไป ขอบพระคุณทุกคนมากครับสำหรับความช่วยเหลือในครั้งนี้"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We should be moving on, as well. Are you feeling fit to travel, Wuk Lamat?",
+      "text": "พวกเราเองก็ควรออกเดินทางกันต่อได้แล้วล่ะครับ วุค ลามัต คุณพร้อมจะเดินทางต่อแล้วใช่ไหมครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You bet I am! Zoraal Ja's gained a good head start, and it's time we clawed back some lost ground!",
+      "text": "แน่อยู่แล้ว! พี่โซราล จา นำหน้าพวกเราไปไกลแล้ว ถึงเวลาที่พวกเราต้องเร่งฝีเท้าทวงคืนส่วนที่ล่าช้าไปกลับมาแล้วล่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Koana is the picture of composure and rationality...except when it comes to matters concerning Wuk Lamat's safety. Far be it from me to fault a brother for being protective, but still.",
+      "text": "พี่โคอานานี่ดูภายนอกเป็นตัวแทนของความสงบขรึมและตรรกะเหตุผลสุด ๆ ไปเลยนะคะ... ยกเว้นก็แต่พอเกิดเรื่องความปลอดภัยของวุค ลามัต ขึ้นมาน่ะค่ะ ฉันไม่ได้คิดตำหนิพี่ชายที่เป็นห่วงน้องสาวหรอกนะคะ แต่แหม ก็นะ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Wuk Lamat I once knew would have been inconsolable at the loss of a keystone.",
+      "text": "ถ้าเป็นวุค ลามัต คนเก่าที่ข้ารู้จักล่ะก็ ยัยนั่นคงเสียอกเสียใจโวยวายแทบเป็นแทบตายยามที่สูญเสียหินศิลาไปแล้วล่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This journey─and your companionship─is doing her a world of good.",
+      "text": "ดูท่าการผจญภัยเดินทางครั้งนี้—และการมีเจ้าคอยร่วมทางเคียงข้าง จะช่วยขัดเกลาตัวเธอไปในทางที่ดีขึ้นจมเลยนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We'll need to take that keystone back from Bakool Ja Ja before we arrive at the city of gold. He will not relinquish it without a fight, though...",
+      "text": "พวกเราคงจำเป็นต้องแย่งชิงหินศิลาแผ่นนั้นคืนมาจากบาคูล จา จา ให้ได้ก่อนที่พวกเราจะเดินทางถึงนครแห่งทองคำครับ แม้ว่ามันคงจะไม่ยอมคืนให้อย่างง่ายดายโดยไม่มีการปะทะรบราแน่..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Though they share a single body, it's obvious Bakool Ja Ja has two minds when you see one head calming the other head down.",
+      "text": "ต่อให้พวกมันจะแชร์ร่างเดียวกัน แต่ก็เห็นได้ชัดว่าบาคูล จา จา มีสองความคิดแฝงอยู่ ตอนที่แกได้เห็นหัวหนึ่งพยายามคอยพูดกล่อมอีกหัวให้ใจเย็นลงน่ะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "His personalities are as distinct as two individuals could be.",
+      "text": "บุคลิกท่าทางของพวกมันทั้งสองคนช่างต่างกันราวฟ้ากับเหวอย่างกับเป็นคนละคนเลยละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I really am sorry this happened. From now on, I won't let my guard down around suspicious strangers.",
+      "text": "ฉันต้องกราบขอโทษทุกคนจริง ๆ นะสำหรับเรื่องที่เกิดขึ้น นับจากนี้ไป ฉันสัญญาว่าจะไม่ปล่อยตัวลดการระวังตัวกับพวกคนแปลกหน้าท่าทางน่าสงสัยอีกเด็ดขาดเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And again, I do appreciate you all coming to save me!",
+      "text": "และก็ต้องขอบใจทุกคนมากจริง ๆ นะจ๊ะที่อุตส่าห์บุกมาช่วยชีวิตฉันน่ะ!"
+    }
+  ]
+}

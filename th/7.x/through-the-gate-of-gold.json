@@ -1,0 +1,763 @@
+{
+  "id": "through-the-gate-of-gold",
+  "wiki_path": "/wiki/Through_the_Gate_of_Gold",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/b7/Through_the_Gate_of_Gold.png",
+  "patch": "7.0",
+  "title_en": "Through the Gate of Gold",
+  "title": "ก้าวผ่านประตูทองคำ",
+  "level": "99",
+  "location": "Tuliyollal(X:12.4,Y:12.9)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll bet it looks good on you!",
+      "text": "ผมว่าใส่แล้วต้องดูดีแน่ๆ เลยครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "These arms and armor are the work of our finest artisans. I can vouch for their quality and functionality both.",
+      "text": "ยุทโธปกรณ์เหล่านี้เป็นผลงานจากช่างฝีมือชั้นเลิศที่สุดของพวกเรา ผมรับประกันได้ทั้งเรื่องคุณภาพและความเหมาะสมในการใช้งานจริงเลยครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "With your shiny new gear, I reckon you're ready for anything!",
+      "text": "มีอุปกรณ์ใหม่เอี่ยมอ่องแบบนี้แล้ว ฉันว่านายพร้อมสำหรับทุกสถานการณ์แล้วล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come, let's head to the Skydeep Cenote!",
+      "text": "มาเถอะ พวกเรามุ่งหน้าไปที่สกายดีปซีโนเตกัน!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Access to the area is presently restricted per my orders, so I shall accompany you.",
+      "text": "เนื่องจากขณะนี้พื้นที่ดังกล่าวยังถูกจำกัดการเข้าออกตามคำสั่งของผม ดังนั้นผมจะร่วมเดินทางไปด้วยครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This place is a little scary... I don't know if I could come here alone.",
+      "text": "ที่นี่ดูน่ากลัวนิดหน่อยนะครับ... ผมไม่รู้เลยว่าจะมาที่นี่คนเดียวไหวหรือเปล่า"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It feels like a lifetime ago that we were last here.",
+      "text": "รู้สึกเหมือนผ่านมานานแสนนานเลยนะ ตั้งแต่ที่พวกเรามาที่นี่ครั้งล่าสุดน่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The city of gold. Where it all began...",
+      "text": "นครแห่งทองคำ... จุดเริ่มต้นของทุกสิ่งอย่าง..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And here we are again...",
+      "text": "และพวกเราก็กลับมาที่นี่กันอีกครั้ง..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana has already gone inside, but I couldn't help but take a moment. Just being here takes me back.",
+      "text": "โคอานาเดินเข้าไปข้างในแล้วล่ะ แต่ฉันอดไม่ได้ที่จะหยุดยืนดูสักพัก พอได้มาอยู่ตรงนี้แล้วมันคิดถึงวันเก่าๆ จริงๆ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And it wasn't even that long ago that we visited for the rite. So much has happened since then.",
+      "text": "แถมพวกเราเพิ่งแวะมาตอนทำพิธีสืบทอดบัลลังก์ได้ไม่นานนี้เองนะเนี่ย แต่หลังจากนั้นกลับมีเรื่องราวเกิดขึ้นตั้งมากมาย"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Truly. Guided by my grandfather's letter, I crossed the seas in search of answers...",
+      "text": "จริงด้วยค่ะ ฉันข้ามน้ำข้ามทะเลมาเพื่อตามหาคำตอบโดยมีจดหมายของคุณปู่คอยนำทาง..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What awaits us on the road ahead, I know not. But I shall walk it to the end with you all.",
+      "text": "แม้จะไม่รู้ว่ามีอะไรรอเราอยู่บนเส้นทางข้างหน้า แต่ฉันก็จะขอเดินหน้าไปให้ถึงที่สุดพร้อมกับทุกๆ คนค่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Come on, let's go.",
+      "text": "...เอาล่ะ ไปกันเถอะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Electrope everywhere one turns, harboring vast amounts of lightning... This place is very much alive.",
+      "text": "มองไปทางไหนก็เจอแต่เอเลกโทรปที่กักเก็บพลังงานสายฟ้าเอาไว้มหาศาล... ที่นี่ดูเหมือนมีชีวิตขึ้นมาเลยล่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Krile, try holding your earring to the terminal.",
+      "text": "ไครล์ ลองเอาต่างหูของเธอไปแตะที่เครื่องเทอร์มินัลดูสิ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "No luck...",
+      "text": "ไม่ได้ผลแฮะ..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Don't give up yet. The terminal reads the code—it might just need higher clearance.",
+      "text": "อย่าเพิ่งยอมแพ้สิคะ เครื่องเทอร์มินัลมันอ่านรหัสได้อยู่นะคะ เพียงแต่อาจจะต้องใช้ระดับสิทธิ์การเข้าถึงที่สูงกว่านี้เท่านั้นเอง"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Gulool Ja, would you give it a try?",
+      "text": "กูลูล จา ลองแตะดูหน่อยไหม?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Me?",
+      "text": "ผมเหรอครับ?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "If the king's authority has passed to you, then the gate ought to open.",
+      "text": "ถ้าสิทธิ์ในการปกครองแผ่นดินขององค์ราชาตกทอดมาถึงเธอแล้วล่ะก็ ประตูก็น่าจะเปิดออกนะ"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "But I leave behind that which I've gained by the sweat of my brow... It is yours to embrace...or spurn...",
+      "text": "ทว่าข้าขอทิ้งสิ่งที่ได้มาด้วยหยาดเหงื่อแรงกายเอาไว้เบื้องหลัง... เจ้าจะรับมันไว้...หรือจะปฏิเสธมันก็แล้วแต่..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Uwaaah!",
+      "text": "อูวาาาห์!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The earring... It really was...",
+      "text": "ต่างหูนี่... มันคือสิ่งนี้จริงๆ ด้วย..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Remarkable... A voidgate is forced open with a blast of aether, and thus appears as a tear in the fabric of reality.",
+      "text": "น่าทึ่งมาก... ปกติแล้วประตูเชื่อมมิติความว่างเปล่า (voidgate) จะถูกบีบให้เปิดออกด้วยการระเบิดพลังงานอีเธอร์ ซึ่งจะทำให้เกิดรอยฉีกขาดในมิติโครงสร้างความเป็นจริง"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In contrast, this is the stitchwork of a master. Neatly hemmed, without a thread out of place. A power to be reckoned with...",
+      "text": "แต่ในทางกลับกัน ประตูนี้เปรียบเสมือนผลงานการเย็บปักถักร้อยของช่างฝีมือผู้ชำนาญ เย็บขอบได้อย่างประณีตเรียบร้อยไม่มีด้ายหลุดรุ่ยสักเส้นเลย เป็นพลังที่น่าทึ่งมากจริงๆ..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But now isn't the time to marvel. If Gulool Ja can open the gate, then so too can Sphene close it.",
+      "text": "แต่ตอนนี้ไม่ใช่เวลามามัวทึ่งหรอกนะ ในเมื่อกูลูล จา เปิดประตูได้ สฟีนเองก็คงจะปิดมันได้เหมือนกัน"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twould be wise to employ magicks in its defense—both to maintain its stability and ward off interference.",
+      "text": "ดังนั้นพวกเราควรจะกางเวทมนตร์คุ้มกันมันไว้ เพื่อรักษาความเสถียรและป้องกันการแทรกแซงจากภายนอก"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While I am able to invoke said magicks, I cannot sustain them alone. I require another to channel with me, and in unison.",
+      "text": "แม้ฉันจะสามารถร่ายเวทมนตร์นี้ได้ แต่ก็ไม่สามารถประคองมันไว้คนเดียวได้ตลอดเวลา ฉันต้องการใครสักคนมาร่วมกันแผ่พลังเวทมนตร์ประสานกันไปพร้อมๆ กัน"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For that role I do humbly volunteer myself, but even our combined efforts offer no certainty of success. Might we prevail upon the two of you to lend your support?",
+      "text": "สำหรับหน้าที่นั้น กระผมขออาสาด้วยความเต็มใจครับ แต่ถึงแม้พวกเราจะร่วมมือกันก็ใช่ว่าจะการันตีความสำเร็จได้ ไม่ทราบว่าพอจะรบกวนทั้งสองท่านให้ช่วยสนับสนุนพวกเราอีกแรงได้ไหมครับ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course. If coordination between mages is required, few would be better suited than Alisaie and myself.",
+      "text": "แน่นอนครับ ถ้าต้องการการประสานงานระหว่างจอมเวทด้วยกันแล้ว คงไม่มีใครจะเหมาะสมไปกว่าอลิเซและผมอีกแล้วล่ะครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Shall I remain as well?",
+      "text": "ให้ผมอยู่ช่วยด้วยอีกคนไหมครับ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While your presence would be welcome, I'd rather you joined the expedition team.",
+      "text": "ถึงแม้จะมีเธอคอยช่วยจะดีมาก แต่ฉันอยากให้เธอร่วมเดินทางไปกับทีมสำรวจมากกว่านะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For despite our earnest efforts, the gate may well end up closed once more.",
+      "text": "เพราะต่อให้พวกเราจะพยายามกันอย่างเต็มที่ ประตูบานนี้ก็อาจจะปิดตัวลงอีกครั้งได้เหมือนกัน"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In such a situation, it may fall to those on the other side to devise a method to reconnect our worlds. A task with which you are not unfamiliar, as I recall?",
+      "text": "ในกรณีเช่นนั้น คงต้องเป็นหน้าที่ของคนที่อยู่อีกฝั่งที่จะคิดหาวิธีเชื่อมต่อโลกของเราทั้งสองเข้าด้วยกันอีกครั้ง ซึ่งนั่นเป็นงานที่เธอคุ้นเคยเป็นอย่างดีอยู่แล้วใช่ไหมล่ะ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have faith it will not come to that, but should it, I will endeavor not to disappoint.",
+      "text": "ผมเชื่อมั่นว่ามันจะไม่เกิดเรื่องแบบนั้นขึ้นครับ แต่ถ้าหากเกิดขึ้นจริงๆ ผมจะพยายามอย่างเต็มความสามารถเพื่อไม่ให้ทุกคนต้องผิดหวังครับ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So, assuming Wuk Lamat, Krile, and Erenville are a given for this foray...",
+      "text": "งั้นถ้าสมมติว่าวุค ลามัต, ไครล์ และเอเรนวิลล์ จะต้องร่วมเดินทางไปในรอบนี้แน่นอนแล้ว..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'll make myself useful here by guarding those who are maintaining the gate.",
+      "text": "ฉันก็จะคอยทำตัวให้เป็นประโยชน์แถวนี้ด้วยการเฝ้าระวังความปลอดภัยให้กลุ่มคนที่คอยตรึงประตูเอาไว้เอง"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Should any threats emerge, from the world beyond or otherwise, I'll deal with them.",
+      "text": "ถ้าหากมีอันตรายใดๆ โผล่มาจากอีกโลกหนึ่ง หรือจากที่อื่นก็ตาม เดี๋ยวฉันจะคอยจัดการให้เอง"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "As will I.",
+      "text": "ฉันด้วยเหมือนกัน"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Which leaves you free to head in there—and do what you do best.",
+      "text": "เพราะงั้นนายจะได้เดินทางเข้าไปข้างในนั้นได้อย่างสบายใจ—แล้วก็ไปแสดงฝีมือในแบบที่นายถนัดซะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's fine. Really. Mostly.",
+      "text": "ไม่เป็นไรหรอก สบายมาก...จริงๆ นะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just don't let her / him bear the burden alone, do you hear?",
+      "text": "แค่ห้ามปล่อยให้เขาแบกรับภาระเอาไว้คนเดียวเด็ดขาดล่ะ เข้าใจไหม?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "This power I've inherited, I'll use for good. I will!",
+      "text": "พลังที่ผมได้รับสืบทอดมานี้ ผมจะใช้มันในทางที่ดีครับ! ผมสัญญา!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Once again I must leave Lamaty'i in your care. Please return safely.",
+      "text": "ผมต้องขอฝากลามัตยี่ไว้ในความดูแลของคุณอีกครั้งนะครับ ขอให้ทุกคนกลับมาอย่างปลอดภัยนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I would dearly love to accompany you. But this time I will content myself with seeing you off.",
+      "text": "ใจจริงผมอยากจะร่วมเดินทางไปกับพวกคุณด้วยเหลือเกินครับ แต่ครั้งนี้ผมคงต้องทำหน้าที่คอยส่งพวกคุณตรงนี้"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Where you now go, I pray you find hope. I look forward to hearing your account upon your return.",
+      "text": "ไม่ว่าหนทางข้างหน้าของพวกคุณจะเป็นอย่างไร ผมขออธิษฐานให้พวกคุณได้พบเจอกับความหวังนะครับ และผมจะรอฟังเรื่องเล่าหลังจากพวกคุณเดินทางกลับมานะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm needed here, I accept that. I'm not a child anymore.",
+      "text": "ฉันเข้าใจดีล่ะว่าที่นี่จำเป็นต้องมีฉันอยู่ ฉันไม่ใช่เด็กๆ แล้วนะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll spare no effort doing my part, so you do yours too. Together, we'll protect what we hold dear!",
+      "text": "ฉันจะตั้งใจทำหน้าที่ในส่วนของตัวเองอย่างเต็มที่ เพราะฉะนั้นนายก็ตั้งใจทำในส่วนของตัวเองด้วยล่ะ พวกเรามาร่วมมือกันปกป้องสิ่งสำคัญของพวกเรากันเถอะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Twenty years ago I emerged from that gate. Whether or not the answers I seek lie on the other side, I will see things through.",
+      "text": "เมื่อยี่สิบปีก่อน ฉันก้าวออกมาจากประตูบานนั้น ไม่ว่าคำตอบที่ฉันตามหาจะรออยู่ตรงอีกฟากหนึ่งหรือไม่ แต่ฉันก็ตั้งใจจะเผชิญหน้ากับมันให้ถึงที่สุดค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I would be lying if I said I'm not nervous, but your presence gives me comfort and courage. I imagine your other travel companions often feel the same.",
+      "text": "ถ้าจะบอกว่าไม่ประหม่าเลยก็คงเป็นการโกหกแน่ๆ แต่การมีคุณอยู่เคียงข้างมันช่วยให้ฉันอุ่นใจและมีความกล้าขึ้นเยอะเลยล่ะค่ะ ฉันคิดว่าเพื่อนร่วมเดินทางคนอื่นๆ ก็คงจะรู้สึกแบบเดียวกันเหมือนกันค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If Sphene is intent on plundering aether from other worlds, then our task is clear: we must stop her.",
+      "text": "หากเป้าหมายของสฟีนคือการปล้นชิงพลังงานอีเธอร์จากโลกอื่น งานของพวกเราก็ชัดเจนแล้วครับ นั่นคือการขัดขวางเธอให้ได้"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "She cannot be allowed to harm anyone else. Neither those who are dear to us, nor strangers we have never met.",
+      "text": "จะปล่อยให้เธอทำร้ายใครไปมากกว่านี้ไม่ได้อีกแล้ว ไม่ว่าจะเป็นคนที่พวกเรายอมสละชีวิตให้ได้ หรือแม้แต่คนแปลกหน้าแปลกตาที่พวกเราไม่เคยพบเจอมาก่อนก็ตาม"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To be completely honest, it is all I can do not to throw myself into that light.",
+      "text": "พูดกันตามตรงเลยนะ ฉันเองก็ต้องข่มใจตัวเองอย่างหนักเหมือนกันที่จะไม่พุ่งตัวเข้าไปในแสงสว่างนั้นน่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But I must resist the urge, for my presence will be required here should the gate close. It wouldn't do to lose everyone, our champion not least of all.",
+      "text": "แต่ฉันต้องหักห้ามใจเอาไว้ เพราะถ้าหากประตูเกิดปิดขึ้นมา ที่นี่ก็จำเป็นต้องมีฉันอยู่ และเราจะเสียทุกคนไปพร้อมกันหมดไม่ได้ โดยเฉพาะผู้กล้าคนเก่งของพวกเรา"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We who shall remain want for neither expertise nor experience. Worry not on our account, and fix thy gaze upon the path ahead.",
+      "text": "พวกเราที่รั้งท้ายอยู่ตรงนี้ไม่มีปัญหาเรื่องทักษะความรู้หรือประสบการณ์แน่นอนครับ ขอท่านอย่าได้เป็นห่วงพวกเราเลย ขอจงมุ่งสมาธิสายตาไปยังเส้นทางเบื้องหน้าเถิด"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'll keep everyone safe. Just concentrate on your own task.",
+      "text": "ฉันจะคอยดูแลทุกคนให้ปลอดภัยเอง นายตั้งสมาธิอยู่กับหน้าที่ของตัวเองเถอะ"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "En route here, I caught sight of a large lizard. It looked palatable enough, so I shall hunt it later.",
+      "text": "ตอนเดินทางมาที่นี่ ฉันเหลือบไปเห็นกิ้งก่าตัวใหญ่เบิ้มตัวหนึ่ง ดูท่าน่าจะอร่อยดีเหมือนกัน เดี๋ยวว่างแล้วฉันจะไปล่ามันมาทำอาหาร"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We can enjoy the meat while you regale me with tales of the world beyond after you've returned.",
+      "text": "ไว้พอนายเดินทางกลับมาแล้ว พวกเราจะได้ล้อมวงกินเนื้อย่างกันไปพลาง ฟังนายเล่าเรื่องโลกฝั่งโน้นให้ฟังไปพลางล่ะนะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I've done all I can. If you should meet Cahciua...please tell her I said thank you.",
+      "text": "ฉันทำทุกอย่างเท่าที่ทำได้แล้วล่ะค่ะ ถ้าเกิดคุณได้พบกับคุณคาชิวา... รบกวนช่วยฝากบอกขอบคุณเธอแทนฉันทีนะคะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's no telling what dangers we'll face, I know. But if my mother is out there, I need to find her. And give her a piece of my mind...",
+      "text": "ผมรู้ดีครับว่าไม่อาจคาดเดาถึงอันตรายที่รอพวกเราอยู่ข้างหน้าได้เลย แต่ถ้าเกิดคุณแม่อยู่ในนั้นจริงๆ ผมก็จำเป็นต้องตามหาตัวเธอให้เจอ... แล้วก็อยากจะขอบ่นใส่เธอให้หายคาใจสักหน่อย..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis done. Whenever you're ready.",
+      "text": "เรียบร้อยแล้วครับ เมื่อไหร่ที่คุณพร้อมก็ลุยได้เลย"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll protect the portal. Keep it open no matter what.",
+      "text": "พวกเราจะคุ้มกันพอร์ทัลไว้เอง จะไม่ยอมให้มันปิดตัวลงเด็ดขาดไม่ว่าจะยังไงก็ตาม"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Beyond lies an unknown reflection.",
+      "text": "ดินแดนที่อยู่เบื้องหลังประตูบานนั้นคือต่างมิติที่ไม่อาจทราบชื่อ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Short of asking an Ascian, we unfortunately have no way of identifying which one it is.",
+      "text": "หากไม่ได้ไปลองเค้นถามจากพวกแอสเชียน พวกเราก็น่าจะไม่มีหนทางระบุตัวตนของมันได้เลยล่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, what we do know is that it's Sphene's domain—a place where she brings back those who've been lost. So for now, why don't we call it...",
+      "text": "อืม แต่สิ่งเดียวที่พวกเรารู้ตอนนี้ก็คือมันเป็นอาณาเขตของสฟีน—ดินแดนที่เธอใช้ชุบชีวิตผู้คนที่ล่วงลับไปแล้ว เพราะงั้นช่วงนี้พวกเราเรียกมันว่า..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The unlost world!",
+      "text": "ต่างโลกที่ไม่สูญสลาย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's go!",
+      "text": "เอาล่ะ ลุยกันเลย!"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "How to describe the sheer amazement we felt when we emerged on the other side of the portal? I fear words do not do it justice.",
+      "text": "จะบรรยายความตื่นตะลึงอันมากล้นยามที่ก้าวพ้นพอร์ทัลออกไปสู่โลกอีกฝั่งอย่างไรดีนะ? ผมเกรงว่าถ้อยคำใดๆ ก็ไม่อาจเปรียบเปรยภาพตรงหน้าได้เลย"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Before us was a vibrant world where the memories of the departed abided and reveled in bygone days.",
+      "text": "ณ เบื้องหน้าของพวกเรา คือโลกอันมีชีวิตชีวา ที่ซึ่งจิตวิญญาณแห่งความทรงจำของผู้วายชนม์พำนักอาศัยและเพลิดเพลินใจกับวันวานที่ล่วงเลย"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "Living Memory, or so the Endless called it.",
+      "text": "ลิฟวิ่งเมโมรี... หรือที่กลุ่มเอ็นด์เลสขนานนามไว้แบบนั้น"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "How they laughed and smiled as they reminisced upon unfulfilled dreams. Alive in all perceivable ways...yet knowing no loss.",
+      "text": "ทุกคนต่างร่าเริงหัวเราะ ยามหวนนึกถึงความฝันที่ไม่เคยบรรลุผล ช่างดูมีชีวิตชีวาในทุกการรับรู้... ทว่ากลับไม่เคยรู้จักความสูญเสียใดๆ เลย"
+    },
+    {
+      "character": "Erenville (Narration)",
+      "text_en": "So resplendent was every ilm of this paradise, the words rose unbidden to my lips:",
+      "text": "ทุกตารางนิ้วของสวรรค์บนดินแห่งนี้งดงามเจิดจ้าเสียจนถ้อยคำพรั่งพรูออกมาจากปากผมโดยไม่ทันตั้งตัวว่า..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "All this time, it was here—the city of gold.",
+      "text": "ที่แท้ตลอดเวลาที่ผ่านมา... เมืองแห่งทองคำก็ตั้งอยู่ที่นี่เอง..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "This is my world. My home...",
+      "text": "นี่คือโลกของฉัน... บ้านเกิดของฉัน..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Neither the void nor the First... We are indeed come to an unknown reflection.",
+      "text": "ไม่ใช่ทั้งความว่างเปล่าหรือโลกที่หนึ่ง... พวกเรามาเยือนมิติต่างโลกที่ไม่มีใครรู้จักจริงๆ สินะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The “city of gold” is an apt description indeed...",
+      "text": "คำจำกัดความว่า 'เมืองแห่งทองคำ' ช่างเหมาะสมกับที่นี่จริงๆ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Amazing! Absolutely amazing!",
+      "text": "สุดยอด! มันสุดยอดไปเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've literally stepped into the Yok Huy legend!",
+      "text": "พวกเราได้ก้าวเข้ามาเหยียบในตำนานของชาวยอคฮุยของจริงเลยนะเนี่ย!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Whichever reflection this may be, 'twould seem the barrier between here and the Source is thin in Yak T'el.",
+      "text": "ไม่ว่าโลกนี้จะเป็นมิติไหนก็ตาม ดูเหมือนว่าม่านบาเรียรอยแยกที่กั้นระหว่างที่นี่กับโลกเดิม (Source) จะค่อนข้างบางมากในแถบยัคเทลสินะคะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That would explain the Yok Huy's visions and the location of the gate.",
+      "text": "นั่นน่าจะเป็นคำอธิบายที่ดีว่าทำไมชาวยอคฮุยถึงได้มองเห็นภาพนิมิต และทำไมตัวประตูถึงได้มาตั้งอยู่ที่นั่น"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hey, Erenville. That volcano over there—you don't suppose it's real, is it?",
+      "text": "นี่ เอเรนวิลล์ ภูเขาไฟตรงฝั่งโน้นน่ะ... นายคิดว่ามันเป็นของจริงหรือเปล่า?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "An actual volcano, spewing forth lava, in the middle of a city? I'd like to see that.",
+      "text": "ภูเขาไฟของจริงที่ปะทุพ่นลาวาออกมากลางใจเมืองเนี่ยนะ? ถ้ามีจริงผมก็อยากจะลองเห็นกับตาดูเหมือนกันนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "H-Hey, you never know!",
+      "text": "นี่! ใครจะไปรู้ล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look, there's a path down. Let's see where it goes.",
+      "text": "ดูโน่นสิ มีทางเดินลงไปข้างล่างด้วย ไปดูกันเถอะว่ามันจะพาไปไหน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The people here. Could they be...?",
+      "text": "ผู้คนที่อาศัยอยู่ที่นี่... หรือว่าพวกเขาจะเป็น...?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There's no mistaking the design of this aetheryte.",
+      "text": "การออกแบบโครงสร้างของอีเธอร์ไรต์นี้ ไม่มีผิดเพี้ยนไปได้เลยครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I see electrope is used here too.",
+      "text": "ดูเหมือนที่นี่ก็มีการนำเอเลกโทรปมาใช้งานเหมือนกันสินะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's strange... Though I've never been to this place before, it somehow makes me feel nostalgic.",
+      "text": "แปลกจังนะ... ทั้งๆ ที่ฉันไม่เคยเหยียบมาที่นี่เลยสักครั้ง แต่ทำไมพอมองดูแล้วมันรู้สึกคิดถึงวันเก่าๆ อย่างบอกไม่ถูกแฮะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Unlike Everkeep with all its advanced technology, here it's brick and stone. It's like we've traveled to the past.",
+      "text": "ต่างจากเอเวอร์คีปที่มีเทคโนโลยีล้ำยุคพวกนั้นอย่างสิ้นเชิงเลย ที่นี่สร้างขึ้นจากอิฐและหินเต็มไปหมด ราวกับพวกเราย้อนเวลามาสู่อดีตเลยล่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The differences may be more superficial than you think. Take a good look at the buildings around us.",
+      "text": "ความแตกต่างนั้นอาจจะแค่เปลือกภายนอกเท่านั้นแหละ ลองเพ่งดูพวกอาคารบ้านเรือนรอบตัวพวกเราดีๆ สิ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's electrope everywhere, along with myriad contraptions.",
+      "text": "มีแร่เอเลกโทรปติดตั้งอยู่เต็มไปหมด รวมถึงอุปกรณ์กลไกอื่นๆ อีกตั้งมากมาย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Like how Sphene projects her image onto soldiers, I believe this city's appearance is artificial.",
+      "text": "ทำนองเดียวกับวิธีที่สฟีนฉายภาพจำลองของเธอไปที่พวกทหารนั่นแหละ ผมคาดว่าทัศนียภาพของเมืองนี้ก็น่าจะเป็นสิ่งประดิษฐ์จำลองเหมือนกัน"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This aetheryte is identical to the one in Everkeep, is it not?",
+      "text": "อีเธอร์ไรต์ต้นนี้เหมือนกับต้นที่ตั้งอยู่ในเอเวอร์คีปเป๊ะเลยใช่ไหมครับ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This suggests that this place is Alexandrian.",
+      "text": "นั่นย่อมแสดงว่าดินแดนแห่งนี้เกี่ยวข้องกับชาวอเล็กซานเดรียอย่างแน่นอน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That would seem a fair assumption. In light of all this, could it be this city is Everkeep's missing twelfth level?",
+      "text": "น่าจะวิเคราะห์ถูกต้องแล้วล่ะค่ะ ถ้าอย่างนั้น เป็นไปได้ไหมคะว่าเมืองนี้คือพื้นที่ชั้นสิบสองที่ขาดหายไปของเอเวอร์คีปน่ะ?"
+    },
+    {
+      "character": "???",
+      "text_en": "Welcome, friends! Welcome!",
+      "text": "ยินดีต้อนรับครับผู้มาเยือน! ยินดีต้อนรับนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Who are you?",
+      "text": "นายคือใครกันน่ะ?"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "My name is Constancy, and like you, I am an Endless.",
+      "text": "กระผมมีนามว่าคอนสแตนซีครับ และก็เช่นเดียวกับพวกท่าน กระผมเป็นเอ็นด์เลสครับ"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "We have been recreated from the memories of those who have exhausted their souls—the departed, in other words.",
+      "text": "พวกเราคือผู้ที่ถูกจำลองสร้างขึ้นใหม่จากจิตวิญญาณแห่งความทรงจำของผู้ที่สูญสิ้นดวงวิญญาณไปแล้ว... หรือถ้าพูดง่ายๆ ก็คือผู้ล่วงลับนั่นเองครับ"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Great effort is taken to ensure the integrity of your memories, so it will feel no different from when you were flesh and blood.",
+      "text": "ระบบได้ทุ่มเทอย่างหนักเพื่อรักษาความครบถ้วนสมบูรณ์ของความทรงจำของทุกท่านเอาไว้ เพราะฉะนั้น ทุกท่านจะรู้สึกไม่มีอะไรแตกต่างจากตอนที่มีเลือดเนื้อร่างกายมนุษย์ปกติเลยครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "(Let's go along with it for now.)",
+      "text": "（เออ... แสร้งเออออตามน้ำไปก่อนแล้วกัน）"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "I am a caretaker here at Living Memory, city of the Endless, and it is my pleasure to provide guidance to newcomers such as your good selves.",
+      "text": "กระผมรับหน้าที่เป็นผู้ดูแลของที่ลิฟวิ่งเมโมรี นครแห่งกลุ่มเอ็นด์เลสแห่งนี้ครับ ถือเป็นเกียรติและยินดีอย่างยิ่งที่จะช่วยแนะนำแนวทางให้กับผู้มาเยือนใหมอย่างทุกท่านครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "City of the Endless... At a glance, there seems to be many different facilities. What kind of place is this?",
+      "text": "นครแห่งเอ็นด์เลส... พอมองดูแล้วดูเหมือนจะมีสิ่งอำนวยความสะดวกหลากหลายรูปแบบตั้งอยู่เลยนะคะ ที่นี่เป็นสถานที่แบบไหนกันแน่เหรอคะ?"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Simply put, it is a recreational attraction. The city is divided into four areas, each of which captures scenery that once defined our continent.",
+      "text": "สรุปสั้นๆ ก็คือ มันเป็นสถานที่พักผ่อนหย่อนใจและท่องเที่ยวครับ ตัวเมืองจะถูกแบ่งออกเป็นสี่เขตพื้นที่ ซึ่งแต่ละเขตจะจำลองทัศนียภาพดั้งเดิมที่เคยหล่อเลี้ยงประวัติศาสตร์ทวีปของเราเอาไว้ครับ"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "In this way we ensure that what is lost is not forgotten. That all precious memories endure forevermore.",
+      "text": "ด้วยวิธีนี้ พวกเราจึงมั่นใจได้ว่าสิ่งที่สูญสลายไปจะไม่ถูกเลือนหาย และความทรงจำอันแสนล้ำค่าทั้งหมดจะได้รับการสืบทอดตราบนานเท่านานครับ"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "In Everkeep's early days, this place was used by the living, but it was made a haven for the Endless hundreds of years later.",
+      "text": "ในช่วงแรกเริ่มก่อตั้งเอเวอร์คีป พื้นที่แห่งนี้เคยเปิดให้ผู้มีชีวิตทั่วไปใช้งานครับ แต่ทว่าอีกหลายร้อยปีต่อมา มันก็ได้แปรเปลี่ยนสภาพเป็นสวรรค์สำหรับการพักพิงของกลุ่มเอ็นด์เลสแทนครับ"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Now then, if you would please follow me, I shall give you a guided tour. Do take care, as wildlife brought here for preservation roams freely.",
+      "text": "เอาล่ะครับ ถ้าหากทุกท่านพร้อมแล้ว เชิญเดินตามกระผมมาได้เลยครับ เดี๋ยวจะนำทัวร์ชมรอบๆ ให้เอง แต่โปรดระมัดระวังตัวด้วยนะครับ เนื่องจากมีสัตว์ป่าบางประเภทที่พวกเรานำมาอนุรักษ์เพาะเลี้ยงไว้ปล่อยให้เดินเล่นอย่างอิสระครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "H-Hold on a moment!",
+      "text": "เดี๋ย-เดี๋ยวก่อนสิ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "While a tour would be interesting, it's Sphene that we've come to see.",
+      "text": "การเดินชมก็น่าสนุกอยู่หรอกนะ แต่จุดประสงค์ที่พวกเราเดินทางมาที่นี่คืออยากพบตัวสฟีนน่ะ"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Oh, so you wish to meet the queen! In that case, you are in luck.",
+      "text": "โอ้ ทุกท่านต้องการเข้าเฝ้าองค์ราชินีสินะครับ! ถ้าอย่างนั้น ถือว่าทุกท่านโชคดีมากเลยล่ะครับ"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "It was just announced that Her Majesty will enter into a slumber, but there is still time.",
+      "text": "เมื่อสักครู่นี้เพิ่งจะมีประกาศแจ้งเตือนว่าฝ่าบาทกำลังจะเตรียมตัวเข้าสู่โหมดจำศีลนอนหลับลึก แต่ตอนนี้ยังพอมีเวลาเหลืออยู่ครับ"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "If you try calling to her before the Meso Terminal, at the center of the city, she will likely appear.",
+      "text": "หากลองไปส่งเสียงเรียกหาฝ่าบาทตรงบริเวณด้านหน้าของเมโซเทอร์มินัล ซึ่งตั้งอยู่ตรงจุดศูนย์กลางของเมือง ฝ่าบาทก็น่าจะปรากฏตัวมาพบแน่นอนครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm not sure how things work around here, but let's head to this Meso Terminal.",
+      "text": "ถึงจะไม่ค่อยเข้าใจระบบของที่นี่เท่าไหร่ แต่พวกเราลองไปที่เมโซเทอร์มินัลนั่นกันเถอะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Our thanks, Constancy. We'll take you up on the tour next time.",
+      "text": "ขอบใจมากนะคอนสแตนซี ไว้คราวหน้าพวกเราค่อยให้เจ้านำทัวร์แล้วกัน"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "I shall look forward to it. Good luck seeking out Her Majesty!",
+      "text": "กระผมจะตั้งตารอคอยวันนั้นนะครับ ขอให้ทุกท่านโชคดีในการเข้าเฝ้าพบตัวองค์ราชินีครับ!"
+    },
+    {
+      "character": "Constancy",
+      "text_en": "Queen Sphene enjoys meeting her people. I am quite confident she will appear for you at the Meso Terminal.",
+      "text": "ปกติราชินีสฟีนโปรดปรานการมาพบปะพูดคุยกับราษฎรของเธออยู่แล้วครับ กระผมค่อนข้างมั่นใจทีเดียวว่าฝ่าบาทจะมาปรากฏตัวต่อหน้าทุกท่านที่เมโซเทอร์มินัลแน่นอนครับ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Like the chamber in the Skydeep Cenote, the electrope here produces a strong golden light. A difference in energy levels, perhaps.",
+      "text": "แร่เอเลกโทรปที่นี่แผ่แสงสีทองเจิดจ้ามาก เหมือนกับห้องวิจัยในสกายดีปซีโนเตเลยนะครับ แต่อาจจะเป็นความแตกต่างในเรื่องระดับพลังงานหรือเปล่านะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The plants are real as far as I can tell. Not everything is an illusion.",
+      "text": "พวกต้นไม้ที่ตั้งอยู่ดูเป็นของจริงนะ แสดงว่าไม่ได้มีเฉพาะของประดิษฐ์หรือภาพลวงตาอย่างเดียว"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I wonder, can the Endless venture elsewhere, or can they only survive here?",
+      "text": "ฉันสงสัยจังเลยค่ะว่ากลุ่มเอ็นด์เลสสามารถออกเดินทางไปมิติอื่นได้ไหม หรือว่าจะสามารถพำนักอาศัยได้เฉพาะภายในพื้นที่แห่งนี้เท่านั้นกันนะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene! Are you there?",
+      "text": "สฟีน! เธออยู่แถวนี้หรือเปล่า!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you are, say something! We need to talk!",
+      "text": "ถ้าเธอได้ยินเสียงฉัน ช่วยตอบกลับมาที! พวกเรามีเรื่องสำคัญต้องคุยกัน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene!",
+      "text": "สฟีน!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hmm... That you should come here...",
+      "text": "อืม... ไม่นึกเลยนะว่าพวกเธอจะตามมาถึงที่นี่ได้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I haven't known you long, Sphene, but I know you have a good heart. Your love for your people is proof of this.",
+      "text": "ถึงฉันจะรู้จักเธอได้ไม่นานนะสฟีน แต่ฉันก็รู้ดีว่าเธอเป็นคนมีจิตใจดีงาม ความรักที่เธอมีต่อประชาชนของเธอมันคือข้อพิสูจน์ที่ชัดเจนที่สุด"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't let you do what you're trying to do. And deep down, I don't think you want to do it either.",
+      "text": "ฉันปล่อยให้เธอทำตามแผนการนั่นต่อไปไม่ได้หรอก และลึกๆ ในใจแล้ว ฉันก็คิดว่าตัวเธอเองก็ไม่ได้อยากจะทำเรื่องร้ายกาจแบบนั้นเหมือนกันใช่ไหมล่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I want a world without suffering. A world where nothing is lost... Would that such a place existed.",
+      "text": "ฉันปรารถนาถึงโลกที่ไม่มีความทุกข์ยาก โลกที่ไม่ต้องสูญเสียสิ่งใดไปเลย... ถ้าหากมีสถานที่แบบนั้นอยู่จริงก็คงจะดีไม่น้อย"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But the Endless only grow in number, and ever more life force is needed to sustain them.",
+      "text": "แต่ทว่าจำนวนของกลุ่มเอ็นด์เลสกลับเพิ่มขึ้นเรื่อยๆ และการจะคงสภาพความทรงจำของพวกเขาไว้ก็ต้องการพลังงานชีวิตมากขึ้นตามไปด้วย"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Within the barrier, we have managed to curb the cycle of rebirth these few hundred years. But we've reached the limit.",
+      "text": "ภายในโดมบาเรียนี้ พวกเราพยายามควบคุมวงจรการเวียนว่ายตายเกิดมาได้หลายร้อยปีแล้ว แต่ตอนนี้พวกเราเดินทางมาถึงจุดสิ้นสุดของขีดจำกัดแล้วค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That is why I looked to interdimensional fusion. To harvest what we needed from your world.",
+      "text": "นั่นคือสาเหตุที่ทำไมฉันจึงต้องหันมาพึ่งพาแผนการหลอมรวมต่างมิติ เพื่อเสาะหาชิงพลังงานที่พวกเราต้องการมาจากโลกของพวกเธอ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "From your people. And with the key, we will have it.",
+      "text": "ช่วงชิงมาจากประชาชนของพวกเธอ และเมื่อได้กุญแจสำคัญมาครอบครอง แผนการนั้นย่อมประสบความสำเร็จอย่างแน่นอน"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And once you've plundered our world of aether, what then? Will you do the same to others?",
+      "text": "แล้วหลังจากที่ท่านปล้นชิงพลังงานอีเธอร์ไปจนหมดโลกของเราแล้วล่ะครับ จะต้องไปทำเรื่องทำนองเดียวกันกับโลกมิติอื่นๆ ต่ออีกงั้นเหรอ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "All men eventually die. If you make Endless of everyone, you will never have enough aether to sustain them. You but prolong the inevitable.",
+      "text": "มนุษย์ทุกคนย่อมต้องถึงแก่ความตายในสักวันหนึ่ง หากท่านชุบชีวิตทุกคนให้กลายเป็นเอ็นด์เลสไปหมด พลังงานอีเธอร์ก็ไม่มีวันที่จะเพียงพอต่อการหล่อเลี้ยงได้อยู่ดี นั่นเป็นเพียงแค่การยืดเวลาจุดจบที่ต้องเกิดขึ้นแน่ๆ ออกไปเท่านั้นแหละครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Sphene. If you would nevertheless persist in this folly, we must stand against you.",
+      "text": "สฟีนคะ หากเธอยังดึงดันที่จะก้าวเดินต่อบนเส้นทางที่ผิดพลาดนี้ พวกเราก็มีความจำเป็นต้องหันหลังและเผชิญหน้าขัดขวางเธอค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "For we too have people we cannot lose. Places to which our hearts belong.",
+      "text": "เพราะฝั่งพวกเราเองก็มีคนที่ไม่อาจสูญเสียไปได้เช่นกัน มีสถานที่ที่เป็นดั่งดวงใจของพวกเราพำนักอยู่"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Lamaty'i... I would have loved nothing more than to work hand in hand with you to tend our nations.",
+      "text": "ลามัตยี่... ใจจริงฉันไม่มีความปรารถนาใดจะมากไปกว่าการได้ร่วมทำงานจับมือเคียงข้างไปกับเธอเพื่อดูแลอาณาจักรของพวกเราทั้งสองฝั่งหรอกนะจ๊ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But fate is cruel. By the time it had brought us together, our futures had already been written.",
+      "text": "แต่ทว่าโชคชะตากลับช่างโหดร้ายนัก ยามที่พวกเราได้มาพานพบกัน อนาคตเบื้องหน้า of พวกเราก็ถูกลิขิตขีดเขียนเอาไว้เสร็จสรรพเรียบร้อยแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The kind and gentle Queen Sphene was too weak to serve her people. And so she will serve them no more.",
+      "text": "ราชินีสฟีนผู้แสนอ่อนโยนและมีเมตตานั้น อ่อนแอเกินกว่าที่จะปกป้องราษฎรของตนเองได้ ดังนั้น เธอจึงจะไม่ขอทำหน้าที่รับใช้ประชาชนในฐานะเดิมอีกต่อไปแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I will erase all memories of the living Sphene—she who has cursed me with this soft and powerless nature.",
+      "text": "ฉันจะลบเลือนข้อมูลความทรงจำทั้งหมดของสฟีนร่างคนมีชีวิตทิ้งไป—ผู้ที่คอยสาปแช่งให้ตัวฉันต้องมีนิสัยอ่อนไหวไร้พลังเกรงอกเกรงใจคนอื่นแบบนี้"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Freed from conscience, I shall become a ruler that can protect Alexandria. A devourer of worlds.",
+      "text": "ยามที่หลุดพ้นจากพันธนาการแห่งความรู้สึกผิดชอบชั่วดี ฉันจะสามารถก้าวขึ้นเป็นผู้ปกครองแผ่นดินที่ปกป้องคุ้มครองอเล็กซานเดรียได้จริง... ในฐานะผู้กลืนกินดวงดาว"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "When two nations cannot protect their own without doing harm to the other, there can be only one resolution. It is a hard truth...but one you understand, don't you?",
+      "text": "เมื่อต่างฝั่งสองประเทศไม่สามารถปกป้องสิ่งสำคัญของตนเองได้โดยไม่เบียดเบียนก่ออันตรายให้อีกฝ่าย ผลลัพธ์สุดท้ายย่อมมีเพียงเป้าหมายเดียวเท่านั้น... มันคือความจริงอันแสนเจ็บปวด...แต่เรื่องนี้นายเองก็น่าจะเข้าใจดีใช่ไหมล่ะคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm afraid we're out of time. The process has begun. And it cannot be stopped.",
+      "text": "เกรงว่าพวกเราจะหมดเวลาแล้วล่ะค่ะ กระบวนการขั้นตอนได้เริ่มทำงานแล้ว และจะไม่มีสิ่งใดสามารถหยุดยั้งมันได้อีกต่อไป"
+    },
+    {
+      "character": "Meso Terminal",
+      "text_en": "Meso Terminal memory deletion in progress.",
+      "text": "เมโซเทอร์มินัล กำลังอยู่ระหว่างกระบวนการลบข้อมูลความทรงจำ"
+    },
+    {
+      "character": "Meso Terminal",
+      "text_en": "Meso Terminal memory deletion in progress. Upon completion, interdimensional fusion will commence.",
+      "text": "เมโซเทอร์มินัล กำลังอยู่ระหว่างกระบวนการลบข้อมูลความทรงจำ เมื่อกระบวนการเสร็จสมบูรณ์ ระบบจะเริ่มดำเนินขั้นตอนการหลอมรวมต่างมิติ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene!",
+      "text": "สฟีน!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "While Sphene's intentions are good, her methods are anything but. We cannot yield at any cost.",
+      "text": "แม้ปณิธานความตั้งใจของสฟีนจะดีงาม แต่ทว่าวิธีการของเธอช่างผิดมหันต์ พวกเรายอมถอยให้ไม่ได้เด็ดขาดค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Endless were unsustainable from the first. Sphene has been fighting a lost cause.",
+      "text": "ระบบของเอ็นด์เลสนั้นไม่สามารถคงอยู่ได้ตลอดไปตั้งแต่แรกเริ่มอยู่แล้วล่ะครับ สิ่งที่สฟีนกำลังดิ้นรนต่อสู้อยู่นี้เป็นการกระทำที่ไม่มีทางเอาชนะได้เลย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The Endless exist in defiance of the laws of nature. But they exist nonetheless, with Sphene holding them to be no different from the living...",
+      "text": "กลุ่มเอ็นด์เลสมีชีวิตอยู่โดยฝ่าฝืนกฎธรรมชาติอย่างชัดเจน แต่ถึงกระนั้นพวกเขาก็ยังดำรงอยู่ตรงนี้ โดยสฟีนมองว่าพวกเขาไม่ได้มีความแตกต่างไปจากคนเป็นเลย..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Argh! What are we to do now, damn it!?",
+      "text": "โธ่เอ๊ย! แล้วทีนี้พวกเราจะเอายังไงกันต่อดีเนี่ย!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I felt that I had come to understand Sphene, but I'm still clueless. Utterly clueless!",
+      "text": "ฉันนึกว่าตัวเองจะเข้าใจความรู้สึกของสฟีนขึ้นมาบ้างแล้วแท้ๆ แต่สุดท้ายก็ยังไม่เข้าใจอะไรเลย... ไม่รู้อะไรเลยสักอย่างเดียว!"
+    }
+  ]
+}

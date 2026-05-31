@@ -1,0 +1,810 @@
+{
+  "quest_id": "the-gridanian-envoy",
+  "dialogues": [
+    {
+      "key": "thankyouforhearingmeout",
+      "text_en": "Thank you for hearing me out.",
+      "text": "ขอบคุณที่ยอมรับฟังเรา"
+    },
+    {
+      "key": "ihavewrittenalettertomycounterpartsintheeorzeanalliance",
+      "text_en": "I have written a letter to my counterparts in the Eorzean Alliance.",
+      "text": "ข้าพเจ้าเขียนสาส์นส่งถึงเหล่าผู้นำชาติพันธมิตรเอออร์เซียนแล้ว"
+    },
+    {
+      "key": "thebattleofcartenaeuandthecalamitythatfollowedclaimedcountlesssoulsandleftcountlessmorebereftandaloneinthedarkdaysthatfollowedmanywerethesurvivorswhothoughtthemselveslessfortunatethanthedead",
+      "text_en": "The Battle of Cartenaeu and the Calamity that followed claimed countless souls, and left countless more bereft and alone. In the dark days that followed, many were the survivors who thought themselves less fortunate than the dead.",
+      "text": "การรบแห่งคาร์เตอโนและมหันตภัยที่ตามมาพรากชีวิตผู้คนไปนับไม่ถ้วน ทั้งยังทิ้งผู้รอดชีวิตอีกมากมายให้อ้างว้างโดดเดี่ยว ในวันเวลาอันมืดมิดหลังจากนั้น ผู้รอดชีวิตมากมายกลับคิดว่าตนช่างโชคร้ายเสียยิ่งกว่าผู้ที่ล้มตายไปแล้ว"
+    },
+    {
+      "key": "fiveyearshavecomeandgonebutthelandandthepeoplestillbearthewoundsofthedevastation",
+      "text_en": "Five years have come and gone, but the land and the people still bear the wounds of the devastation.",
+      "text": "เวลาผ่านพ้นไปห้าปีแล้ว ทว่าแผ่นดินและผู้คนยังคงแบกรับบาดแผลจากความพินาศย่อยยับครั้งนั้น"
+    },
+    {
+      "key": "norareweanyclosertolearningthefateofthewarriorsoflight",
+      "text_en": "Nor are we any closer to learning the fate of the Warriors of Light.",
+      "text": "อีกทั้งพวกเราก็ยังไม่มีข่าวคราวเกี่ยวกับชะตากรรมของเหล่านักรบแห่งแสงเลยแม้แต่น้อย"
+    },
+    {
+      "key": "yetsolongaswelivenevermustwegiveuphopeweowethistothosewholaiddowntheirlivesthatwemightbeholdanotherdawn",
+      "text_en": "Yet so long as we live, never must we give up hope. We owe this to those who laid down their lives that we might behold another dawn.",
+      "text": "ทว่าตราบเท่าที่ยังมีชีวิต จะต้องไม่ละทิ้งความหวังเด็ดขาด พวกเราต้องทำเช่นนี้เพื่อตอบแทนผู้ที่สละชีพเพื่อให้พวกเราได้เห็นแสงอรุณของวันใหม่"
+    },
+    {
+      "key": "inremembranceofthemamemorialservicewillsoonbeheldupontheanniversaryofthebattleofcartenauthismissivebearsthedetailsofthatservice",
+      "text_en": "In remembrance of them, a memorial service will soon be held upon the anniversary of the Battle of Cartenau. This missive bears the details of that service.",
+      "text": "เพื่อระลึกถึงพวกเขา พิธีรำลึกจะจัดขึ้นในวันครบรอบการรบแห่งคาร์เตอโนนี้ สาส์นฉบับนี้มีรายละเอียดของพิธีดังกล่าว"
+    },
+    {
+      "key": "yougraciouslyacceptedthepartofemissaryintherecentceremony",
+      "text_en": "You graciously accepted the part of Emissary in the recent ceremony.",
+      "text": "ท่านยอมรับหน้าที่เป็นผู้นำสารในพิธีที่เพิ่งผ่านพ้นไปอย่างมีเมตตา"
+    },
+    {
+      "key": "shouldyoubesowillingiwouldnowmakeyoumyenvoyandhaveyoubearmymessagetoourallies",
+      "text_en": "Should you be so willing, I would now make you my envoy, and have you bear my message to our allies.",
+      "text": "หากท่านยินดี ข้าพเจ้าใคร่ขอแต่งตั้งให้ท่านเป็นทูตนำสารเพื่อนำความนี้ไปส่งยังมิตรประเทศพันธมิตร"
+    },
+    {
+      "key": "yourdedicationtothepeopleofgridaniarousesfondmemoriesinmeandiwouldchoosenootherfortherolewillyoudomethisfavor",
+      "text_en": "Your dedication to the people of Gridania rouses fond memories in me, and I would choose no other for the role. Will you do me this favor?",
+      "text": "ความทุ่มเทของท่านต่อชาวกริดาเนียทำให้ข้าพเจ้าระลึกถึงความหลังอันงดงาม และไม่มีใครอื่นเหมาะสมกับหน้าที่นี้ไปกว่าท่านอีกแล้ว จะกรุณาช่วยทำตามคำขอนี้ได้หรือไม่"
+    },
+    {
+      "key": "humblyithankyou",
+      "text_en": "Humbly, I thank you.",
+      "text": "ข้าพเจ้าขอขอบคุณท่านด้วยใจจริง"
+    },
+    {
+      "key": "asyouarenodoubtawareourpartnersintheeorzeanallianceliesomeconsiderabledistanceawaynorareuldahandlimsalominsaclosetooneanother",
+      "text_en": "As you are no doubt aware, our partners in the Eorzean Alliance lie some considerable distance away. Nor are Ul'dah and Limsa Lominsa close to one another.",
+      "text": "ดังที่ท่านทราบดีอยู่แล้ว พันธมิตรเอออร์เซียนแต่ละนครรัฐตั้งอยู่ห่างไกลกันยิ่งนัก ทั้งอุลดาห์และลิมซา โลมินซาต่างก็มิได้ตั้งอยู่ใกล้ชิดติดกัน"
+    },
+    {
+      "key": "yetfearnotforihavenointentionofsubjectingyoumineownnewlyanointedenvoytoajourneywhichwouldtakeweeksbyland",
+      "text_en": "Yet fear not, for I have no intention of subjecting you, mine own newly anointed envoy, to a journey which would take weeks by land.",
+      "text": "ทว่าโปรดอย่าได้กังวล ข้าพเจ้าหาได้ประสงค์จะให้ทูตผู้เพิ่งได้รับแต่งตั้งเช่นท่าน ต้องตรากตรำเดินทางทางบกซึ่งกินเวลาร่วมแรมสัปดาห์"
+    },
+    {
+      "key": "noimeanforyoutotravelbyairreceiveofmethisairshippasswithityoumaymakeuseoftheskywaysthatconnectthethreecitystatesofthealliance",
+      "text_en": "No, I mean for you to travel by air. Receive of me this airship pass. With it, you may make use of the skyways that connect the three city-states of the Alliance.",
+      "text": "ข้าพเจ้าใคร่ให้ท่านเดินทางทางอากาศ โปรดรับใบผ่านทางเรือเหาะนี้ไว้ ด้วยสิ่งนี้ ท่านจะสามารถสัญจรผ่านเส้นทางเวหาที่เชื่อมโยงสามนครรัฐแห่งภาคีพันธมิตรเข้าด้วยกัน"
+    },
+    {
+      "key": "theairshiplandingissituateduponthelowerfloorofthecarlinecanopysimplyshowyourpassandyouwillbeadmittedtothedepartureareabeforeyouembarkuponthisjourneyhoweveryouwoulddowelltoseektheworldlywisdomofmiounnefewforestborngridaniansknowmoreofthelandsbeyondthetwelveswoodthanshe",
+      "text_en": "The airship landing is situated upon the lower floor of the Carline Canopy. Simply show your pass, and you will be admitted to the departure area. Before you embark upon this journey, however, you would do well to seek the worldly wisdom of Miounne. Few forestborn Gridanians know more of the lands beyond the Twelveswood than she.",
+      "text": "ลานจอดเรือเหาะตั้งอยู่ชั้นล่างของคาร์ไลน์ คาโนปี เพียงแสดงใบผ่านทาง เจ้าหน้าที่จะเปิดทางให้เข้าสู่จุดขึ้นบิน ทว่าก่อนจะออกเดินทางไกล สมควรไปขอคำชี้แนะจากมาเธอร์ เมียวเน่ เสียก่อน ในหมู่ชาวกรีดาเนียผู้ถือกำเนิดในผืนป่าแห่งนี้ คงหาผู้ใดรอบรู้เรื่องราวนอกทเวลฟส์วูดดีไปกว่านางได้ยากยิ่ง"
+    },
+    {
+      "key": "inbettertimesairshipswereavailablefortheconvenienceofoneandallalastheriskthatourcraftsmayfalltoimperialattackhasforcedareductioninthenumberofflights",
+      "text_en": "In better times, airships were available for the convenience of one and all. Alas, the risk that our crafts may fall to imperial attack has forced a reduction in the number of flights.",
+      "text": "ในยามที่บ้านเมืองสงบสุข เรือเหาะย่อมเปิดให้บริการแก่ทุกคนอย่างสะดวกสบาย แต่น่าเศร้าที่ยามนี้ กองทัพจักรวรรดิคอยจ้องโจมตีเรือเหาะของเราอยู่ตลอดเวลา เราจึงจำใจลดจำนวนเที่ยวบินลงอย่างเลี่ยงไม่ได้"
+    },
+    {
+      "key": "consequentlyithasbecomenecessarytorestrictairtravelonlytothosewhoseneedisgreatsuchindividualsmaypetitiontherelevantpartiestobeissuedanairshippassasyoumayhavededucedimyselfamonesuchparty",
+      "text_en": "Consequently, it has become necessary to restrict air travel only to those whose need is great. Such individuals may petition the relevant parties to be issued an airship pass. As you may have deduced, I myself am one such party.",
+      "text": "การสัญจรทางเวหาจึงจำกัดไว้เพียงผู้มีกิจธุระสำคัญยิ่งยวดเท่านั้น โดยผู้ประสงค์จะเดินทางต้องยื่นขอใบผ่านทางจากผู้ดูแล ซึ่งท่านคงพอเดาออกว่าข้าพเจ้าคือหนึ่งในผู้มีอำนาจตัดสินใจนั้น"
+    },
+    {
+      "key": "yetiwasnotaloneindesiringthatyoubegrantedtheprivilegeofairtravel",
+      "text_en": "...Yet I was not alone in desiring that you be granted the privilege of air travel.",
+      "text": "...ทว่า มิใช่เพียงข้าพเจ้าผู้เดียวที่ปรารถนาจะมอบเอกสิทธิ์ในการสัญจรทางเวหานี้แก่ท่าน"
+    },
+    {
+      "key": "suchisthepotentialyoushow",
+      "text_en": "Such is the potential you show.",
+      "text": "นั่นเพราะท่านได้แสดงให้เห็นถึงศักยภาพอันล้ำค่า"
+    },
+    {
+      "key": "wehavenodoubtbutthatyouwillrewardourfaithinyouforename",
+      "text_en": "We have no doubt but that you will reward our faith in you, Forename .",
+      "text": "เราเชื่อมั่นเหลือเกินว่าท่านจะไม่ทำให้ความไว้วางใจของพวกเราต้องสูญเปล่า Forename"
+    },
+    {
+      "key": "bythepowervestedinmeibidyoujourneyforthasmyenvoyintothegreatrealmofeorzea",
+      "text_en": "By the power vested in me, I bid you journey forth as my envoy into the great realm of Eorzea.",
+      "text": "ด้วยอำนาจที่มอบให้แก่ข้าพเจ้า ข้าพเจ้าขอส่งท่านออกเดินทางในฐานะทูต สู่อาณาจักรอันยิ่งใหญ่แห่งเอโอลเซีย"
+    },
+    {
+      "key": "walkherfieldsbraveherseasandstrivetoknowherbetter",
+      "text_en": "Walk her fields, brave her seas, and strive to know her better.",
+      "text": "จงก้าวเดินไปตามผืนทุ่ง ฝ่าฟันผืนทะเล และพยายามรู้จักดินแดนแห่งนี้ให้ดียิ่งขึ้น"
+    },
+    {
+      "key": "andwheresoeveryougogowithoutfearforthepathshalleverberevealedtothosewhoaretrueofheart",
+      "text_en": "And wheresoever you go, go without fear, for the path shall ever be revealed to those who are true of heart.",
+      "text": "และไม่ว่าท่านจะไปที่ใด จงไปโดยปราศจากความหวาดกลัว เพราะหนทางจะเปิดเผยแก่ผู้มีใจซื่อตรงเสมอ"
+    },
+    {
+      "key": "guidedbythecrystalslightsetforthanddiscoveryourdestiny",
+      "text_en": "Guided by the Crystal's light, set forth, and discover your destiny.",
+      "text": "จงออกเดินทางภายใต้แสงนำทางแห่งคริสตัล เพื่อค้นหาโชคชะตาของท่าน"
+    },
+    {
+      "key": "tisgoodtoseeyouupandaboutagainforenametellmedidyoupaytheelderseedseeravisitasibade",
+      "text_en": "'Tis good to see you up and about again, Forename . Tell me, did you pay the Elder Seedseer a visit as I bade?",
+      "text": "ดีใจที่ได้เห็นเธอหายดีจนกลับมาเดินเหินได้อีกครั้งนะ Forename บอกฉันหน่อยซิ ได้ไปพบท่านเอลเดอร์ซีดเซียร์ตามที่ฉันบอกหรือเปล่า"
+    },
+    {
+      "key": "appointedpersonalenvoy",
+      "text_en": "Appointed personal envoy!?",
+      "text": "ได้รับแต่งตั้งเป็นทูตส่วนตัวเลยงั้นหรือ!?"
+    },
+    {
+      "key": "andnowyouaretobeartheelderseedseersmissivetoourallies",
+      "text_en": "And now you are to bear the Elder Seedseer's missive to our allies...",
+      "text": "แล้วตอนนี้เธอก็ต้องนำสาส์นของท่านเอลเดอร์ซีดเซียร์ไปส่งให้เหล่าพันธมิตรของเรา..."
+    },
+    {
+      "key": "wellitseemsyouvemadeanimpressiononthegreatwomanicantarguewithherjudgmentthoughyouveearnedthishonorwithtirelesshardworkandanyonewhosaysyoudontdeserveithadbetternotdosoinmyhearing",
+      "text_en": "Well! It seems you've made an impression on the great woman! I can't argue with her judgment, though. You've earned this honor with tireless hard work, and anyone who says you don't deserve it had better not do so in my hearing!",
+      "text": "แหม! ดูเหมือนเธอจะทำให้สตรีผู้ยิ่งใหญ่ท่านนั้นประทับใจเข้าแล้วสินะ! แต่ฉันก็คงเถียงการตัดสินใจของท่านไม่ได้หรอก เธอคู่ควรกับเกียรติยศนี้ด้วยความเพียรพยายามของตัวเองแท้ๆ และถ้าใครกล้าพูดว่าเธอไม่คู่ควรละก็ อย่ามาพูดให้ฉันได้ยินเชียว!"
+    },
+    {
+      "key": "ifindmyselfpraisingyouoftenoflatebutmotheristrulyproudofyou",
+      "text_en": "I find myself praising you often of late, but Mother is truly proud of you.",
+      "text": "พักหลังมานี้ฉันชมเธอออกจะบ่อยไปหน่อย แต่แม่ภูมิใจในตัวเธอจริงๆ นะ"
+    },
+    {
+      "key": "shortofawarrioroflighticanimaginenobetteradventurertorepresentusandthatmyladgirlissomecompliment",
+      "text_en": "Short of a Warrior of Light, I can imagine no better adventurer to represent us—and that, my lad / girl , is some compliment!",
+      "text": "หากไม่นับนักรบแห่งแสงแล้ว ฉันก็นึกไม่ออกเลยว่านักผจญภัยคนใดจะเหมาะเป็นตัวแทนของเราได้ดีกว่าเธออีกแล้ว—และนั่นน่ะ ถือเป็นคำชมที่ยิ่งใหญ่มากเลยนะ พ่อหนุ่ม / แม่หนู!"
+    },
+    {
+      "key": "butiveflatteredyouenoughforonedayandidontwantyourheadtogettoobigoryoullstruggletolugitaroundtherealmspeakingofwhicheorzeaisabigoldplace",
+      "text_en": "But I've flattered you enough for one day. And I don't want your head to get too big, or you'll struggle to lug it around the realm. Speaking of which, Eorzea is a big old place.",
+      "text": "แต่ฉันเยินยอเธอมากพอแล้วสำหรับวันนี้ และไม่อยากให้เหลิงจนตัวลอย ประเดี๋ยวจะลำบากเวลาเดินทางไปทั่วดินแดน พูดถึงเรื่องนี้แล้ว เอโอลเซียก็กว้างใหญ่ใช่ย่อยทีเดียว"
+    },
+    {
+      "key": "nowthatyouhaveanairshippassyoucanreallystarttobroadenyourhorizonstheskysquiteliterallythelimit",
+      "text_en": "Now that you have an airship pass, you can really start to broaden your horizons. The sky's quite literally the limit.",
+      "text": "ในเมื่อมีบัตรโดยสารเรือบินแล้ว ก็เริ่มเปิดโลกทัศน์ให้กว้างขึ้นได้เลย ท้องฟ้าผืนนี้ไม่มีขอบเขตจำกัดขวางกั้นเธออีกแล้ว"
+    },
+    {
+      "key": "evenifyourerranddidntcallforitiwouldstronglysuggestvisitingthetwoothercitystatesofthealliancebeforeyougoanywhereelsetheyareofcourselimsalominsacityofpiratesanduldahjewelofthedesert",
+      "text_en": "Even if your errand didn't call for it, I would strongly suggest visiting the two other city-states of the Alliance before you go anywhere else. They are, of course, Limsa Lominsa, city of pirates, and Ul'dah, jewel of the desert.",
+      "text": "ถึงแม้เรื่องด่วนของเธอจะไม่บังคับ แต่ฉันแนะนำอย่างยิ่งให้ไปเยือนอีกสองนครรัฐแห่งพันธมิตรก่อนจะไปที่อื่น ซึ่งก็คือ ลิมซา โลมินซา เมืองแห่งโจรสลัด และอุลดาห์ อัญมณีแห่งทะเลทราย"
+    },
+    {
+      "key": "onceyouveacquaintedyourselfwiththemyoucanturnyoursightsonwhicheverlessertroddenregiontakesyourfancy",
+      "text_en": "Once you've acquainted yourself with them, you can turn your sights on whichever lesser-trodden region takes your fancy.",
+      "text": "พอทำความคุ้นเคยกับสองเมืองนั้นแล้ว ค่อยมุ่งหน้าสู่ภูมิภาคห่างไกลอื่นๆ ที่เธอสนใจต่อได้เลย"
+    },
+    {
+      "key": "thecalamitychangedthefaceofeorzeaandmuchofhernowliesinshadowbeyondmanskenitsaveritableplaygroundforawideeyedadventurerlikeyourgoodself",
+      "text_en": "The Calamity changed the face of Eorzea, and much of her now lies in shadow, beyond man's ken. It's a veritable playground for a wide-eyed adventurer like your good self.",
+      "text": "มหันตภัยเปลี่ยนโฉมหน้าของเอโอลเซียไปมาก พื้นที่ส่วนใหญ่ยังตกอยู่ใต้เงามืดพ้นวิสัยทัศน์ของผู้คน ที่นี่จึงเป็นดั่งสนามเด็กเล่นชั้นยอดสำหรับนักผจญภัยผู้อยากรู้อยากเห็นอย่างเธอ"
+    },
+    {
+      "key": "mindyouitwontallbefunandgames",
+      "text_en": "Mind you, it won't all be fun and games.",
+      "text": "แต่จำไว้เถอะนะว่าการเดินทางครั้งนี้ไม่ได้มีแต่เรื่องสนุกสนานอย่างเดียว"
+    },
+    {
+      "key": "eachnationfacesitsfairshareofproblemsfrominternalstrifetoconflictwiththebeasttribesandtheirprimalssodontbetoosurprisedifyoufindyourselfembroiledintheoddunsavorysituationonyourtravels",
+      "text_en": "Each nation faces its fair share of problems, from internal strife to conflict with the beast tribes and their primals. So don't be too surprised if you find yourself embroiled in the odd unsavory situation on your travels.",
+      "text": "แต่ละแว่นแคว้นต่างก็เผชิญปัญหาของตัวเอง ตั้งแต่ความขัดแย้งภายในไปจนถึงการต่อสู้กับพวกเผ่าอมนุษย์และเทพมายาของพวกมัน ดังนั้นอย่าแปลกใจไปเลยหากเธอต้องเข้าไปพัวพันกับเรื่องเดือดเนื้อร้อนใจระหว่างเดินทาง"
+    },
+    {
+      "key": "butnomatterwhatdifficultiesyouencounteriamconfidentthatyouwillpullthroughandemergethestrongerfortheexperience",
+      "text_en": "But no matter what difficulties you encounter, I am confident that you will pull through, and emerge the stronger for the experience.",
+      "text": "ทว่าไม่ว่าจะเผชิญความยากลำบากเพียงใด ฉันมั่นใจว่าเธอจะผ่านมันไปได้ และเติบโตอย่างแข็งแกร่งขึ้นจากประสบการณ์เหล่านั้น"
+    },
+    {
+      "key": "theseareinterestingtimesforeorzeaforenameitsbeenfiveyearsnowsincethecalamitybutfolkarefinallybeginningtolooktothefuture",
+      "text_en": "These are interesting times for Eorzea, Forename . It's been five years now since the Calamity, but folk are finally beginning to look to the future.",
+      "text": "เอโอลเซียในช่วงเวลานี้น่าสนใจมากนะ Forename เวลาผ่านไปห้าปีแล้วนับตั้งแต่มหันตภัย ทว่าในที่สุดผู้คนก็เริ่มหันมองไปยังอนาคตเสียที"
+    },
+    {
+      "key": "aperiodofgreatchangeisuponusandyouhaveaparttoplayinitandifthatprospectdoesntexciteyouidontknowwhatwill",
+      "text_en": "A period of great change is upon us, and you have a part to play in it. And if that prospect doesn't excite you, I don't know what will!",
+      "text": "ยุคสมัยแห่งการเปลี่ยนแปลงครั้งใหญ่มาเยือนพวกเราแล้ว และเธอก็มีบทบาทสำคัญในนั้นด้วย หากโอกาสตรงหน้าไม่ทำให้เธอตื่นเต้นล่ะก็ ฉันก็ไม่รู้แล้วว่าจะมีอะไรทำให้เธอตื่นเต้นได้อีก!"
+    },
+    {
+      "key": "greetingsgoodsirmadamthisisthereservationcounterforlimsalominsaboundflights",
+      "text_en": "Greetings, good sir / madam . This is the reservation counter for Limsa Lominsa-bound flights.",
+      "text": "สวัสดีขอรับ ท่านสุภาพบุรุษ / สุภาพสตรี ที่นี่คือเคาน์เตอร์สำรองที่นั่งสำหรับเที่ยวบินมุ่งหน้าสู่ลิมซา โลมินซา ขอรับ"
+    },
+    {
+      "key": "ohareyounotforenamesurnametheelderseedseerspersonalenvoyweathighwindskywaysarehonoredtoserveyouwillyoubeflyingwithustoday",
+      "text_en": "Oh, are you not Forename Surname , the Elder Seedseer's personal envoy? We at Highwind Skyways are honored to serve you! Will you be flying with us today?",
+      "text": "โอ้ ท่านคือ Forename Surname ผู้ส่งสารส่วนตัวของท่านเอลเดอร์ซีดเซียร์ใช่ไหมขอรับ พวกเราชาวไฮวินด์ สกายเวย์สรู้สึกเป็นเกียรติอย่างยิ่งที่ได้คอยรับใช้ท่าน! วันนี้จะเดินทางไปกับพวกเราไหมขอรับ"
+    },
+    {
+      "key": "verywellwhenyouarereadytoboardpleaseletmeknow",
+      "text_en": "Very well. When you are ready to board, please let me know.",
+      "text": "รับทราบขอรับ เมื่อใดที่ท่านพร้อมจะขึ้นเครื่อง โปรดแจ้งให้ข้าพเจ้าทราบได้เลยนะขอรับ"
+    },
+    {
+      "key": "attentionallpassengerstheairshipboundforlimsalominsaisabouttodepartpleasemakeyourwaytotheboardinggate",
+      "text_en": "Attention, all passengers: the airship bound for Limsa Lominsa is about to depart. Please make your way to the boarding gate.",
+      "text": "เรียนท่านผู้โดยสารทุกท่านโปรดทราบ เรือเหาะมุ่งหน้าสู่ลิมซา โลมินซากำลังจะออกเดินทางแล้วค่ะ โปรดไปยังประตูขึ้นเครื่องด้วยค่ะ"
+    },
+    {
+      "key": "farewellforename",
+      "text_en": "Farewell, Forename .",
+      "text": "ลาก่อนนะ Forename"
+    },
+    {
+      "key": "onedayminstrelswillsingofyourdeeds",
+      "text_en": "One day, minstrels will sing of your deeds.",
+      "text": "สักวันหนึ่ง เหล่านักขับลำนำคงจะนำวีรกรรมของเธอไปขับขาน"
+    },
+    {
+      "key": "mayyoueverwalkinthelightofthecrystal",
+      "text_en": "May you ever walk in the light of the Crystal.",
+      "text": "ขอให้เธอได้ก้าวเดินในแสงสว่างแห่งคริสตัลเสมอไป"
+    },
+    {
+      "key": "ithasbeenfifteenyearsbutthebittertasteofdefeatlingersstill",
+      "text_en": "It has been fifteen years, but the bitter taste of defeat lingers still...",
+      "text": "สิบห้าปีล่วงเลย ทว่ารสชาติขมขื่นของความพ่ายแพ้ยังคงไม่จางหาย..."
+    },
+    {
+      "key": "fifteenyearssincetheimperialfleetsetcourseformordhonaledbytheagriusmightiestofallvessels",
+      "text_en": "Fifteen years since the imperial fleet set course for Mor Dhona, led by the Agrius, mightiest of all vessels.",
+      "text": "สิบห้าปีแล้วนับตั้งแต่กองเรือจักรวรรดิมุ่งหน้าสู่มอร์ โดนา โดยมีเอเกรียส เรือรบที่ทรงอานุภาพที่สุดเป็นผู้นำทัพ"
+    },
+    {
+      "key": "silvertearlakelayripeforthetakingandallofeorzeawouldsoonbeours",
+      "text_en": "Silvertear Lake lay ripe for the taking, and all of Eorzea would soon be ours...",
+      "text": "ทะเลสาบซิลเวอร์เทียร์พร้อมให้พวกเราเข้ายึดครอง และเอโอลเซียทั้งหมดจะตกเป็นของพวกเราในไม่ช้า..."
+    },
+    {
+      "key": "orsowebelieved",
+      "text_en": "...or so we believed.",
+      "text": "...หรืออย่างน้อยเราก็เคยเชื่อเช่นนั้น"
+    },
+    {
+      "key": "butaninnumerablehostofdragonsmetusthatdayattheheartofwhichflewthegreatmidgardsormr",
+      "text_en": "But an innumerable host of dragons met us that day, at the heart of which flew the great Midgardsormr.",
+      "text": "ทว่าในวันนั้น ฝูงมังกรสุดคณานับกลับกรูกันเข้ามาเผชิญหน้ากับเรา แวดล้อมมิดการ์ดโซมผู้เกรียงไกรซึ่งบินเด่นอยู่ตรงใจกลาง"
+    },
+    {
+      "key": "thoughwesucceededinslayingthatlordamongwyrmsthedreadserpentsdefeatwasboughtattoohighaprice",
+      "text_en": "Though we succeeded in slaying that lord among wyrms, the dread serpent's defeat was bought at too high a price.",
+      "text": "แม้เราจะสังหารราชาแห่งมังกรตนนั้นได้สำเร็จ ทว่าความพ่ายแพ้ของอสรพิษร้ายกลับต้องแลกมาด้วยราคาที่แพงแสนแพง"
+    },
+    {
+      "key": "ourinvincibleflagshipwaslostandallhopeofvictorywithher",
+      "text_en": "Our invincible flagship was lost, and all hope of victory with her.",
+      "text": "เรือธงไร้เทียมทานของเราสูญสิ้นไป และความหวังที่จะได้ชัยชนะก็มลายสิ้นไปพร้อมกัน"
+    },
+    {
+      "key": "soendedourgloriousconquest",
+      "text_en": "So ended our glorious conquest.",
+      "text": "การศึกอันรุ่งโรจน์ของเราจึงปิดฉากลงเพียงเท่านี้"
+    },
+    {
+      "key": "eorzeaablightedrealmriddledwithfalsegods",
+      "text_en": "Eorzea... A blighted realm, riddled with false gods.",
+      "text": "เอโอลเซีย... ดินแดนต้องคำสาปที่เต็มไปด้วยทวยเทพจอมปลอม"
+    },
+    {
+      "key": "twicenowithaseludedtheempiresgrasp",
+      "text_en": "Twice now it has eluded the Empire's grasp.",
+      "text": "รอดพ้นจากเงื้อมมือของจักรวรรดิไปได้ถึงสองครั้งแล้ว"
+    },
+    {
+      "key": "forallthedestructionitwroughtevenmeteorthegreatsinfailedtoyielduscontroloverit",
+      "text_en": "For all the destruction it wrought, even Meteor, the Great Sin, failed to yield us control over it.",
+      "text": "แม้เมเทโอร์ผู้ก่อบาปมหันต์จะสร้างความเสียหายย่อยยับเพียงใด แต่ก็ยังไม่อาจทำให้เราได้ครอบครองดินแดนนี้"
+    },
+    {
+      "key": "andforthisfailuretherealmhassunkdeeperintodepravity",
+      "text_en": "And for this failure, the realm has sunk deeper into depravity.",
+      "text": "และสำหรับความล้มเหลวครั้งนี้ ดินแดนแห่งนี้คงต้องขอบคุณเนล แวน ดาร์นุส อดีตแม่ทัพผู้ล่วงลับ"
+    },
+    {
+      "key": "itistwistedbeyondallreckoningrottennighttothecore",
+      "text_en": "It is twisted beyond all reckoning—rotten night to the core.",
+      "text": "บิดเบี้ยวเกินกว่าจะคาดเดา—เน่าเฟะลึกถึงแก่นแท้"
+    },
+    {
+      "key": "yetitmustbesaved",
+      "text_en": "Yet it must be saved.",
+      "text": "ถึงกระนั้น ก็ต้องกอบกู้มันไว้ให้ได้"
+    },
+    {
+      "key": "onlygarleanrulecanbringordertoeorzeaitfallstoustodeliverthemisguidedmassesfromtheirignorance",
+      "text_en": "Only Garlean rule can bring order to Eorzea. It falls to us to deliver the misguided masses from their ignorance.",
+      "text": "มีเพียงการปกครองของการ์เลอ็องเท่านั้นที่จะนำความสงบเรียบร้อยมาสู่เอโอลเซียได้ หน้าที่ปลดเปลื้องเหล่าฝูงชนผู้หลงผิดให้พ้นจากความโง่เขลาเบาปัญญาจึงตกเป็นของเรา"
+    },
+    {
+      "key": "weareofonemindlordvanbaelsar",
+      "text_en": "We are of one mind, Lord van Baelsar.",
+      "text": "พวกเราคิดเห็นตรงกันทุกประการ ใต้เท้าแวน เบลซาร์"
+    },
+    {
+      "key": "seniorengineerspleasereporttomagitekresearchfollowingscheduledinspections",
+      "text_en": "Senior engineers, please report to Magitek Research following scheduled inspections.",
+      "text": "วิศวกรอาวุโส โปรดรายงานตัวที่แผนกวิจัยมาจิเทคหลังเสร็จสิ้นการตรวจสอบตามกำหนดการ"
+    },
+    {
+      "key": "heyisthelegatusreallyplanningtotakeanothertiltateorzea",
+      "text_en": "Hey. Is the legatus really planning to take another tilt at Eorzea?",
+      "text": "นี่... ท่านเหตุกรณ์คิดจะเปิดศึกกับเอโอลเซียอีกรอบจริงๆ หรือ"
+    },
+    {
+      "key": "ehwhatholehaveyoubeenhidinginwereinthemidstofpreparingforanewcampaignandahugeoneatthat",
+      "text_en": "Eh!? What hole have you been hiding in? We're in the midst of preparing for a new campaign, and a huge one at that!",
+      "text": "เอ๊ะ! นี่แกไปมุดหัวอยู่ที่รูไหนมาฮะ พวกเรากำลังเตรียมทำศึกครั้งใหม่กันอยู่เชียวละ แถมเป็นศึกใหญ่เบ้อเริ่มเทิ่มเสียด้วย!"
+    },
+    {
+      "key": "butithoughttheemperorhadgivenupthewesternlandsforlostaftercarteneauwhatcouldthelegatuspossiblyhopetogainbyactingalone",
+      "text_en": "But...I thought the Emperor had given up the western lands for lost after Carteneau. What could the legatus possibly hope to gain by acting alone?",
+      "text": "แต่...ฉันนึกว่าองค์จักรพรรดิจะทรงตัดใจปล่อยดินแดนทางตะวันตกไปแล้วเสียอีกหลังศึกคาร์เตโน แล้วท่านเหตุกรณ์จะหวังผลอะไรจากการเคลื่อนไหวเพียงลำพังกันเล่า"
+    },
+    {
+      "key": "isenseyouharborcertaindoubtsoverthewisdomofthelegatussplan",
+      "text_en": "I sense you harbor certain doubts over the wisdom of the legatus's plan.",
+      "text": "ฉันจับได้ว่าแกกำลังกังขาในความชาญฉลาด of แผนการของท่านผู้บัญชาการ"
+    },
+    {
+      "key": "mmylord",
+      "text_en": "M-My lord!",
+      "text": "น-นายท่าน!"
+    },
+    {
+      "key": "pleasecallmenerotellmewherewereyouborn",
+      "text_en": "Please, call me Nero. Tell me, where were you born?",
+      "text": "เรียกฉันว่านีโรเถอะ บอกมาหน่อยซิ แกเกิดที่ไหน"
+    },
+    {
+      "key": "othardmilord",
+      "text_en": "Othard, milord!",
+      "text": "โอธาร์ด ขอรับใต้เท้า!"
+    },
+    {
+      "key": "alamhigomylord",
+      "text_en": "Ala Mhigo, my lord!",
+      "text": "อลา มิโก ขอรับใต้เท้า!"
+    },
+    {
+      "key": "ahcodenamehummingwayipresume",
+      "text_en": "Ah, Codename Hummingway, I presume?",
+      "text": "อ้อ โค้ดเนมฮัมมิงเวย์สินะ"
+    },
+    {
+      "key": "iidontknowwhatyou",
+      "text_en": "I-I don't know what you—",
+      "text": "ก-กระผมไม่รู้เรื่องที่ท่าน—"
+    },
+    {
+      "key": "silenceyourdenialswillnotchangeyourfate",
+      "text_en": "Silence. Your denials will not change your fate.",
+      "text": "เงียบปาก คำปฏิเสธของแกไม่มีวันเปลี่ยนชะตากรรมได้หรอก"
+    },
+    {
+      "key": "iassureyoufrumentariumseesall",
+      "text_en": "I assure you—Frumentarium sees all.",
+      "text": "ฉันขอยืนยัน—ฟรูเมนทาเรียมมองเห็นทุกสิ่ง"
+    },
+    {
+      "key": "argh",
+      "text_en": "Argh...",
+      "text": "อั๊ก..."
+    },
+    {
+      "key": "cleanupthismessanddonotmissanyorishallbemostdispleased",
+      "text_en": "Clean up this mess. And do not miss any, or I shall be most displeased.",
+      "text": "เก็บกวาดเศษซากนี้ให้เรียบร้อย อย่าให้เหลือรอยแม้แต่น้อย ไม่อย่างนั้นฉันคงไม่สบอารมณ์แน่"
+    },
+    {
+      "key": "aatoncemilord",
+      "text_en": "A-At once, milord!",
+      "text": "จ-จะจัดการเดี๋ยวนี้ขอรับใต้เท้า!"
+    },
+    {
+      "key": "garlondsoonyouwillbemadetoknowthetruepowerofmagitek",
+      "text_en": "Garlond... Soon you will be made to know the true power of magitek.",
+      "text": "การ์ลอนด์... อีกไม่นานแกจะได้รู้ซึ้งถึงพลังที่แท้จริงของมาจิเทค"
+    },
+    {
+      "key": "ahyoumustbetheenvoyfromgridaniawelcometolimsalominsamylordladyadmiralbloefhiswynawaitsyourarrival",
+      "text_en": "Ah, you must be the envoy from Gridania! Welcome to Limsa Lominsa, my lord / lady . Admiral Bloefhiswyn awaits your arrival.",
+      "text": "โอ๊ะ ท่านคงเป็นทูตจากกริดาเนีย! ยินดีต้อนรับสู่ลิมซา โลมินซาครับ/ค่ะท่าน ท่านผู้บัญชาการบลูฟิสวินกำลังรอพบท่านอยู่พอดี"
+    },
+    {
+      "key": "pleaseletmeknowifyourequireanyassistance",
+      "text_en": "Please let me know if you require any assistance.",
+      "text": "หากท่านต้องการความช่วยเหลือประการใด โปรดแจ้งให้กระผม/ดิฉันทราบได้เลยนะครับ/คะ"
+    },
+    {
+      "key": "youarethegridanianenvoywelcometolimsalominsa",
+      "text_en": "You are the Gridanian envoy? Welcome to Limsa Lominsa.",
+      "text": "ท่านคือทูตจากกริดาเนียใช่ไหมครับ/ค่ะ ยินดีต้อนรับสู่ลิมซา โลมินซา"
+    },
+    {
+      "key": "theadmiralhasbeenlookingforwardtoyourarrival",
+      "text_en": "The Admiral has been looking forward to your arrival.",
+      "text": "ท่านผู้บัญชาการเฝ้ารอการมาถึงของท่านอยู่เลยครับ/ค่ะ"
+    },
+    {
+      "key": "pleaseproceedtothecrowsliftatyourearliestconvenienceitwilltakeyoutobulwarkhall",
+      "text_en": "Please proceed to the Crow's Lift at your earliest convenience. It will take you to Bulwark Hall.",
+      "text": "โปรดเดินทางไปยังโครว์ส ลิฟต์เมื่อท่านสะดวก ลิฟต์นี้จะพาท่านไปยังบูลเวิร์ก ฮอลล์ครับ/ค่ะ"
+    },
+    {
+      "key": "oncethereprayspeakwithzanthaelhewillbepleasedtoshowyouintotheadmiralscommandroomonthebridge",
+      "text_en": "Once there, pray speak with Zanthael. He will be pleased to show you in to the Admiral's command room on the Bridge.",
+      "text": "เมื่อถึงที่นั่นแล้ว โปรดติดต่อแซนเธล เขาจะนำทางท่านเข้าไปยังห้องบัญชาการของท่านผู้บัญชาการบนเดอะบริดจ์ครับ/ค่ะ"
+    },
+    {
+      "key": "greetingssirmadamandwelcometoourfaircityifyouwouldpermitmetoexaminethesealonthemissiveyoucarry",
+      "text_en": "Greetings, sir / madam , and welcome to our fair city. If you would permit me to examine the seal on the missive you carry...",
+      "text": "ยินดีต้อนรับสู่เมืองอันงดงามของเราครับท่าน หากไม่เป็นการรบกวน ขอให้กระผมได้ตรวจสอบตราประทับบนสาส์นที่ท่านถือมาสักหน่อยได้หรือไม่ครับ..."
+    },
+    {
+      "key": "yeseverythingseemstobeinordermyapologieswecannotaffordtobecomplacentyouunderstandpleasestepthisway",
+      "text_en": "Yes, everything seems to be in order. My apologies. We cannot afford to be complacent, you understand. Please, step this way.",
+      "text": "ทุกอย่างเรียบร้อยดีครับ ต้องขออภัยด้วยจริงๆ หวังว่าท่านจะเข้าใจว่าในสถานการณ์เช่นนี้พวกเราไม่อาจนิ่งนอนใจได้เลย เชิญทางนี้ครับ"
+    },
+    {
+      "key": "enter",
+      "text_en": "Enter.",
+      "text": "เข้ามา"
+    },
+    {
+      "key": "ididnotexpectthegridanianenvoytobeanadventureritspeakshighlyofyourcharacterthattheelderseedseerwouldchooseanoutsidertorepresenthernationsinterests",
+      "text_en": "I did not expect the Gridanian envoy to be an adventurer. It speaks highly of your character that the Elder Seedseer would choose an outsider to represent her nation's interests.",
+      "text": "ฉันไม่คิดเลยว่าทูตของกริดาเนียจะเป็นนักผจญภัย การที่เอลเดอร์ซีดเซียร์เลือกคนนอกมาเป็นตัวแทนผลประโยชน์ของประเทศตนเช่นนี้ ย่อมบ่งบอกถึงความน่าเชื่อถือในตัวคุณได้เป็นอย่างดี"
+    },
+    {
+      "key": "thisway",
+      "text_en": "This way.",
+      "text": "ทางนี้"
+    },
+    {
+      "key": "ibidyouwelcome",
+      "text_en": "I bid you welcome.",
+      "text": "ยินดีต้อนรับ"
+    },
+    {
+      "key": "iammerlwybbloefhiswynadmiraloflimsalominsaandcommanderofthemaelstrom",
+      "text_en": "I am Merlwyb Bloefhiswyn, Admiral of Limsa Lominsa, and commander of the Maelstrom.",
+      "text": "เราคือ เมอร์ลวิบ โบลฟิสวิน พลเรือเอกแห่งลิมซา โลมินซา และผู้บัญชาการกองกำลังเมลสตรอม"
+    },
+    {
+      "key": "nowwhatnewsfromtheblackshroud",
+      "text_en": "Now, what news from the Black Shroud?",
+      "text": "เอาละ มีข่าวคราวอะไรจากป่าแบล็กเชราดบ้าง"
+    },
+    {
+      "key": "beforeyoubeginiwouldknowyourname",
+      "text_en": "Before you begin, I would know your name.",
+      "text": "ก่อนจะเริ่มพูด เราอยากรู้ชื่อของท่านเสียก่อน"
+    },
+    {
+      "key": "strangeiwouldreadilyhaveswornthatiknewyoubutitseemsiwasmistaken",
+      "text_en": "Strange. I would readily have sworn that I knew you, but it seems I was mistaken.",
+      "text": "แปลกจริง เรากล้าสาบานเลยว่าเคยรู้จักท่านมาก่อน แต่ดูเหมือนจะจำคนผิดไปเอง"
+    },
+    {
+      "key": "imaynotrecalloldfriendsfacesbutisurelyremembermyenemieswoebetidetheadmiralwhofailsinthat",
+      "text_en": "I may not recall old friends' faces, but I surely remember my enemies'. Woe betide the Admiral who fails in that!",
+      "text": "เราอาจจะลืมเลือนใบหน้าของมิตรสหายเก่าไปบ้าง แต่ไม่มีทางลืมศัตรูได้แน่ พลเรือเอกคนไหนลืมเรื่องพรรค์นั้นล่ะก็เตรียมตัวพบกับความฉิบหายได้เลย!"
+    },
+    {
+      "key": "hmamemorialservicetohonorthefallen",
+      "text_en": "Hm. A memorial service to honor the fallen.",
+      "text": "หึ พิธีรำลึกเพื่อเป็นเกียรติแก่ผู้ล่วงลับงั้นรึ"
+    },
+    {
+      "key": "sevenhellshasitbeenfiveyears",
+      "text_en": "Seven hells... Has it been five years?",
+      "text": "นรกทั้งเจ็ดขุม... ผ่านไปห้าปีแล้วงั้นหรือ"
+    },
+    {
+      "key": "fiveyearssincethegarleanempiresoughttowresteorzeafromourgrasp",
+      "text_en": "Five years since the Garlean Empire sought to wrest Eorzea from our grasp...",
+      "text": "ห้าปีแล้วสินะนับตั้งแต่จักรวรรดิการ์เลียนพยายามช่วงชิงเอโอลเซียไปจากอุ้งมือของพวกเรา..."
+    },
+    {
+      "key": "itwasinanswertotheimperialthreatthatthecitystatesformedthegrandcompaniesandforgedtheeorzeanallianceanewbutgarlemaldwasnotcontenttowagerallonasimplecontestofmartialmighttheyhadotherplansthemeteorproject",
+      "text_en": "It was in answer to the imperial threat that the city-states formed the Grand Companies, and forged the Eorzean Alliance anew. But Garlemald was not content to wager all on a simple contest of martial might. They had other plans—the Meteor project.",
+      "text": "เพื่อรับมือกับภัยคุกคามจากจักรวรรดิ นครรัฐต่างๆ จึงร่วมมือกันจัดตั้งแกรนด์คอมปะนี และฟื้นฟูพันธมิตรเอออร์เซียนขึ้นมาใหม่ แต่การ์เลมัลด์ไม่ได้คิดจะฝากความหวังทั้งหมดไว้กับการสู้รบธรรมดาๆ พวกเขามีแผนการอื่น... โครงการเมเทโอ"
+    },
+    {
+      "key": "legatusnaelvandarnushellstakehimintendedtocleanseourrealmbysnatchingthelessermoondalamudfromtheheavensandcastingitdownuponourheadsdesperatetopreventthislunaticschemewemarchedourforcestothecarteneauflatsandtheremettheviithimperiallegioninbattle",
+      "text_en": "Legatus Nael van Darnus—hells take him—intended to \"cleanse\" our realm by snatching the lesser moon, Dalamud, from the heavens and casting it down upon our heads. Desperate to prevent this lunatic scheme, we marched our forces to the Carteneau Flats and there met the VIIth Imperial Legion in battle.",
+      "text": "แม่ทัพเนล แวน ดาร์นัส... ขอให้นรกสูบมันไปที... มุ่งหมายจะ 'ชำระล้าง' ดินแดนของเราด้วยการกระชากดาลาบุด ดวงจันทร์บริวารลงมาจากสรวงสวรรค์แล้วทุ่มลงใส่หัวพวกเรา เพื่อจะหยุดยั้งแผนการบ้าคลั่งนี้ เราจึงกรีฑาทัพไปยังทุ่งราบคาร์เตอโน และเปิดศึกปะทะกับกองทัพจักรวรรดิที่ 7 ที่นั่น"
+    },
+    {
+      "key": "neverhaveiseenafightlikethebattleofcarteneauandihaveseenfullmany",
+      "text_en": "Never have I seen a fight like the Battle of Carteneau—and I have seen full many.",
+      "text": "ฉันไม่เคยเห็นการต่อสู้ใดที่ดุเดือดเท่าการรบแห่งคาร์เตอโนมาก่อนเลย ทั้งที่ผ่านศึกสงครามมาแล้วนับไม่ถ้วน"
+    },
+    {
+      "key": "butthoughwegavenoquartersparednotoneonzeofeffortwecouldnotpreventwhatfollowed",
+      "text_en": "But though we gave no quarter, spared not one onze of effort...we could not prevent what followed.",
+      "text": "แต่ถึงแม้เราจะสู้ยิบตาและทุ่มเทสุดกำลังความสามารถ... ก็ไม่อาจขัดขวางเรื่องราวที่ตามมาได้เลย"
+    },
+    {
+      "key": "frominsidetheshellofdalamudcameawingednightmareadragonthesizeofabloodycitytwastheelderprimalbahamutbentonmakinganeighthhellofeorzea",
+      "text_en": "From inside the shell of Dalamud came a winged nightmare—a dragon the size of a bloody city. 'Twas the elder primal Bahamut, bent on making an eighth hell of Eorzea.",
+      "text": "จากเศษซากที่แตกสลายของดาลาบุด ฝันร้ายติดปีกตนหนึ่งก็โผล่ออกมา... มังกรยักษ์ขนาดเท่ากับมหานคร มันคือบาฮามุท ไพรมอล (เทพจุติ) โบราณซึ่งตั้งเป้าจะเปลี่ยนเอโอลเซียให้กลายเป็นขุมนรกขุมที่แปด"
+    },
+    {
+      "key": "inthespaceofabreaththelegionsoftheempireweresetaflamewhileourownarmiesfaredlittlebettertwasasifthewholeworldwasburningwordscannotwelldescribethescene",
+      "text_en": "In the space of a breath, the legions of the Empire were set aflame, while our own armies fared little better. 'Twas as if the whole world was burning... Words cannot well describe the scene.",
+      "text": "เพียงชั่วพริบตา เปลวไฟก็ลุกท่วมกองทัพของจักรวรรดิ กองทัพของพวกเราเองก็มีสภาพไม่ต่างกันนัก ราวกับโลกทั้งใบกำลังมอดไหม้... ไม่มีคำใดจะพรรณนาภาพนั้นได้เลย"
+    },
+    {
+      "key": "andyesbysomemiracleafewamonguswerespared",
+      "text_en": "And yes...by some miracle, a few among us were spared.",
+      "text": "แต่แล้ว...ด้วยปาฏิหาริย์บางอย่าง พวกเราบางคนก็รอดชีวิตมาได้"
+    },
+    {
+      "key": "evenasisteeledmyselffordeathablindingwhitelightenvelopedmerobbingmeofmysenses",
+      "text_en": "Even as I steeled myself for death, a blinding white light enveloped me, robbing me of my senses.",
+      "text": "ตอนที่ฉันเตรียมใจรับความตาย แสงสีขาวสว่างจ้าก็โอบล้อมตัวฉันไว้จนหมดสติไป"
+    },
+    {
+      "key": "wheniregainedthemthedragonwasgoneandthestillsmolderinglandwaswarpedbeyondallknowing",
+      "text_en": "When I regained them, the dragon was gone, and the still smoldering land was warped beyond all knowing.",
+      "text": "เมื่อได้สติอีกครั้ง มังกรตนนั้นก็อันตรธานหายไปแล้ว เหลือเพียงผืนดินคุกรุ่นด้วยเถ้าถ่านที่บิดเบี้ยวไปจนไม่เหลือเค้าเดิม"
+    },
+    {
+      "key": "werearchonlouisoixstillwithushewoulddoubtlessshedsomelightontheseunfathomablehappeningsalasheisnotandifearwewillwantforhiswisdominthedaystocome",
+      "text_en": "Were Archon Louisoix still with us, he would doubtless shed some light on these unfathomable happenings. Alas, he is not, and I fear we will want for his wisdom in the days to come.",
+      "text": "หากอาร์คอนลุยโซร์ยังอยู่กับเรา คงช่วยอธิบายเหตุการณ์อันไม่คาดฝันเหล่านี้ได้บ้าง แต่น่าเสียดายที่ท่านจากไปแล้ว และฉันเกรงว่าเราจะขาดสติปัญญาของท่านในวันข้างหน้ายิ่งนัก"
+    },
+    {
+      "key": "forwhileournationsstruggletorecoverfromthedevastationthebeastmencallforththeirdamnedprimalstotormentusanew",
+      "text_en": "For while our nations struggle to recover from the devastation, the beastmen call forth their damned primals to torment us anew.",
+      "text": "เพราะในขณะที่ประเทศมิตรพันธมิตรของพวกเรากำลังดิ้นรนเพื่อฟื้นฟูจากความพินาศ พวกอมนุษย์กาลกิณีกลับอัญเชิญเทพมายามาทรมานพวกเราอีกหน"
+    },
+    {
+      "key": "unlessweputasideourdifferencesandrebuildnowourfoeswillcatchusunprepared",
+      "text_en": "Unless we put aside our differences and rebuild now , our foes will catch us unprepared.",
+      "text": "หากพวกเราไม่ยอมวางความขัดแย้งลงและร่วมมือกันฟื้นฟูแผ่นดินแต่ตอนนี้ ศัตรูก็จะโจมตีตอนที่พวกเรายังไม่ทันตั้งตัว"
+    },
+    {
+      "key": "andispeaknotonlyofthebeastmendonotimaginethattheempirehasforsakenitsclaimoneorzeatheimperialscrowdourborderswaitingtostrike",
+      "text_en": "And I speak not only of the beastmen. Do not imagine that the Empire has forsaken its claim on Eorzea. The imperials crowd our borders, waiting to strike.",
+      "text": "และเราไม่ได้หมายถึงแค่พวกอมนุษย์เท่านั้น อย่าคิดว่าจักรวรรดิจะละทิ้งสิทธิ์เหนือเอโอลเซียเด็ดขาด ทหารจักรวรรดิรวมพลอยู่ตามแนวชายแดน รอเวลาที่จะลงมืออยู่แล้ว"
+    },
+    {
+      "key": "damnitallweneedchampionstoreplacethosewelost",
+      "text_en": "Damn it all, we need champions to replace those we lost...",
+      "text": "บัดซบเอ๊ย พวกเราต้องการนักรบฝีมือดีมาแทนที่คนที่สูญเสียไป..."
+    },
+    {
+      "key": "butsuchthoughtsareworsethanworthlesstimeisshortandnonewillsaveussaveourselvesitisthedutyofeverysoulwhosurvivedthecalamitytoworktogetherforthegoodofeorzeaandthismemorialservicemaybetheverythingtouniteus",
+      "text_en": "But such thoughts are worse than worthless. Time is short, and none will save us, save ourselves. It is the duty of every soul who survived the Calamity to work together for the good of Eorzea...and this memorial service may be the very thing to unite us.",
+      "text": "แต่คิดไปก็รังแต่จะเสียเวลาเปล่า เวลาเหลือน้อยเต็มที และไม่มีใครช่วยพวกเราได้นอกจากตัวเราเอง หน้าที่ของผู้รอดชีวิตจากมหันตภัยทุกคนคือการร่วมมือกันเพื่อสิ่งที่ดีที่สุดของเอโอลเซีย...และพิธีรำลึกนี้อาจเป็นสิ่งเดียวที่ประสานพวกเราเข้าด้วยกัน"
+    },
+    {
+      "key": "ayekanesennahastherightofitiacceptherproposal",
+      "text_en": "Aye, Kan-E-Senna has the right of it. I accept her proposal.",
+      "text": "ใช่ คาน-อี-เซนนา พูดถูกแล้ว เรายอมรับข้อเสนอของนาง"
+    },
+    {
+      "key": "yourdutyisdonehereadventureriwillseetoitthattheelderseedseerreceivesmyreply",
+      "text_en": "Your duty is done here, adventurer—I will see to it that the Elder Seedseer receives my reply.",
+      "text": "หน้าที่ของท่านที่นี่สิ้นสุดลงแล้ว นักผจญภัย—เราจะจัดการส่งคำตอบกลับไปยังท่านเอลเดอร์ซีดเซียร์เอง"
+    },
+    {
+      "key": "youtravelnexttouldahyes",
+      "text_en": "You travel next to Ul'dah, yes?",
+      "text": "จุดหมายต่อไปคืออุลดาห์ใช่ไหม"
+    },
+    {
+      "key": "praygivemyregardstogeneralraubahnohandtellhimthewolfhasbeensniffingaroundthestablesaprivatejestandoneinpoortastebutiwouldhaveyoutellitallthesame",
+      "text_en": "Pray give my regards to General Raubahn. Oh, and tell him the wolf has been sniffing around the stables. A private jest—and one in poor taste—but I would have you tell it all the same.",
+      "text": "ฝากความเคารพถึงนายพลราอูบาห์นด้วยล่ะ อ้อ แล้วฝากบอกเขาด้วยว่าหมาป่ากำลังมาป้วนเปี้ยนแถวคอกม้า เป็นแค่มุกตลกส่วนตัวที่ค่อนข้างหยาบคายสักหน่อย แต่เราอยากให้ท่านบอกเขาไปตามตรงเช่นนั้นแหละ"
+    },
+    {
+      "key": "fareyouwellforenamemaythenavigatorguideyouonyourjourney",
+      "text_en": "Fare you well, Forename . May the Navigator guide you on your journey.",
+      "text": "ขอให้เดินทางโดยสวัสดิภาพ Forename ขอเทพีผู้นำทางทรงปกปักรักษาท่านในการเดินทาง"
+    },
+    {
+      "key": "greetingssirmadamthisisthecounterforpassengerstravelingtouldah",
+      "text_en": "Greetings, sir / madam . This is the counter for passengers traveling to Ul'dah.",
+      "text": "สวัสดีค่ะท่าน เคาน์เตอร์นี้ให้บริการแก่ผู้โดยสารที่ประสงค์จะเดินทางไปยังอุลดาห์ค่ะ"
+    },
+    {
+      "key": "apleasuretoserveyouagainsirmadamareyoureadytoboardtheairshiptouldah",
+      "text_en": "A pleasure to serve you again, sir / madam . Are you ready to board the airship to Ul'dah?",
+      "text": "ยินดีที่ได้ให้บริการท่านอีกครั้งค่ะท่าน พร้อมจะขึ้นเรือเหาะไปยังอุลดาห์หรือยังคะ"
+    },
+    {
+      "key": "verywellsirmadamillbegladtoassistyouwhenyouare",
+      "text_en": "Very well, sir / madam . I'll be glad to assist you when you are.",
+      "text": "รับทราบค่ะท่าน ดิฉันยินดีให้บริการเมื่อท่านพร้อมเดินทางนะคะ"
+    },
+    {
+      "key": "ahyoumustbetheenvoyfromgridaniawelcometouldahsirmadamtheflamegeneralawaitsyourarrival",
+      "text_en": "Ah, you must be the envoy from Gridania! Welcome to Ul'dah, sir / madam . The Flame General awaits your arrival.",
+      "text": "โอ้ ท่านคงเป็นทูตจากกริดาเนียสินะครับ ยินดีต้อนรับสู่อุลดาห์ครับท่าน นายพลเฟลมกำลังเฝ้ารอการมาถึงของท่านอยู่ครับ"
+    },
+    {
+      "key": "pleaseletmeknowifyourequireanyassistance",
+      "text_en": "Please let me know if you require any assistance.",
+      "text": "หากต้องการความช่วยเหลือประการใด โปรดแจ้งให้กระผมทราบได้เลยครับ"
+    },
+    {
+      "key": "welcometouldahsirmadamwehavebeenexpectingyou",
+      "text_en": "Welcome to Ul'dah, sir / madam . We have been expecting you.",
+      "text": "ยินดีต้อนรับสู่อุลดาห์ครับท่าน พวกเรารอพบท่านอยู่พอดีครับ"
+    },
+    {
+      "key": "flamegeneralraubahnwillreceiveyouinthefragrantchamberpleasetaketheliftdowntothehustingsstripandspeakwithbartholomewattheroyalpromenade",
+      "text_en": "Flame General Raubahn will receive you in the Fragrant Chamber. Please take the lift down to the Hustings Strip and speak with Bartholomew at the Royal Promenade.",
+      "text": "นายพลเฟลมราอูบานจะรอต้อนรับท่านอยู่ในเฟรแกรนต์ แชมเบอร์ โปรดลงลิฟต์ไปยังฮัสติงส์ สตรีป และติดต่อบาร์โธโลมิว ณ รอยัล โพรเมนาดครับ"
+    },
+    {
+      "key": "thegridanianenvoyipresumewouldyoubesogoodastoallowmetoinspectthemissiveyoubearsirmadammythanks",
+      "text_en": "The Gridanian envoy, I presume? Would you be so good as to allow me to inspect the missive you bear, sir / madam ? My thanks.",
+      "text": "ท่านคือทูตจากกริดาเนียใช่ไหมครับ รบกวนส่งสาส์นที่ท่านนำมาให้กระผมตรวจสอบสักนิดได้ไหมครับ... ขอบคุณครับ"
+    },
+    {
+      "key": "ahyesthesealoftheelderseedseerpleaseproceed",
+      "text_en": "Ah yes, the seal of the Elder Seedseer. Please proceed.",
+      "text": "อา ใช่แล้ว ตราประทับของเอลเดอร์ซีดเซียร์ เชิญผ่านทางไปได้เลยครับ"
+    },
+    {
+      "key": "ahaguestfromgridaniaithoughtismelledleafmold",
+      "text_en": "Ah, a guest from Gridania. I thought I smelled leaf mold.",
+      "text": "อา แขกจากกริดาเนีย ข้าว่าได้กลิ่นซากใบไม้ผุโชยมาแต่ไกล"
+    },
+    {
+      "key": "iwontholditagainstyouifyourehalfthewarriorkanesaystisawonderyoudontreekofdeadixal",
+      "text_en": "I won't hold it against you. If you're half the warrior Kan-E says, 'tis a wonder you don't reek of dead Ixal.",
+      "text": "ข้าไม่ถือสาเจ้าหรอก หากเจ้าเป็นนักรบได้สักครึ่งหนึ่งที่คาน-อีว่าไว้ ก็แปลกพิกลที่ตัวเจ้าไม่เหม็นสาบซากอิกซาล"
+    },
+    {
+      "key": "welcometothesultanateofuldahiamraubahnaldynngeneraloftheimmortalflames",
+      "text_en": "Welcome to the sultanate of Ul'dah. I am Raubahn Aldynn, General of the Immortal Flames.",
+      "text": "ยินดีต้อนรับสู่รัฐสุลต่านอุลดาห์ ข้าคือราอูบาน อัลดินน์ นายพลแห่งอิมมอร์ทัล เฟลมส์"
+    },
+    {
+      "key": "butyoudidnotcomeallthiswaytotradeformalities",
+      "text_en": "But you did not come all this way to trade formalities.",
+      "text": "แต่เจ้าคงไม่ได้เดินทางมาตั้งไกลเพียงเพื่อทักทายกันตามพิธีการหรอก"
+    },
+    {
+      "key": "theressomethingfamiliaraboutyouforamomentimistookyouforanoldbrotherinarmssisterinarms",
+      "text_en": "There's something familiar about you... For a moment, I mistook you for an old brother-in-arms / sister-in-arms .",
+      "text": "เจ้าดูคุ้นตาพิกล... ชั่วแวบหนึ่ง ข้าเผลอนึกว่าเป็นสหายศึกร่วมรบคนเก่าเสียได้"
+    },
+    {
+      "key": "likehimheryouhavetheeyesofaheroeyesthathavelookeduponthehorrorsofbattleunblinking",
+      "text_en": "Like him / her , you have the eyes of a hero. Eyes that have looked upon the horrors of battle, unblinking.",
+      "text": "เจ้ามีดวงตาของวีรบุรุษดั่งเช่นเขา/เธอ แววตาที่จ้องมองความโหดร้ายของสมรภูมิโดยไม่กะพริบตา"
+    },
+    {
+      "key": "ivenodoubtkanesawthemtoomayhapthereishopeforgridaniayetcomeletustalk",
+      "text_en": "I've no doubt Kan-E saw them, too. Mayhap there is hope for Gridania yet! Come, let us talk.",
+      "text": "ข้าไม่สงสัยเลยว่าคาน-อีก็ต้องสังเกตเห็นแววตานี้เช่นกัน บางทีกริดาเนียอาจยังไม่สิ้นหวังเสียทีเดียว! มาเถอะ มาคุยกันหน่อย"
+    },
+    {
+      "key": "carteneauayeirememberbloodycarteneau",
+      "text_en": "...Carteneau. Aye, I remember bloody Carteneau.",
+      "text": "...คาร์เตอโน ใช่ ข้ายังจำสมรภูมิคาร์เตอโนอันนองเลือดได้ดี"
+    },
+    {
+      "key": "doyouknowwhathappenedthatdayadventurerwhenwetookthefieldagainstthegarleans",
+      "text_en": "Do you know what happened that day, adventurer? When we took the field against the Garleans?",
+      "text": "เจ้ารู้ไหมว่าเกิดอะไรขึ้นในวันนั้น นักผจญภัย วันที่พวกเราเผชิญหน้ากับชาวการ์เลียนในสมรภูมิ"
+    },
+    {
+      "key": "somycounterpartshaveeducatedyou",
+      "text_en": "So my counterparts have educated you.",
+      "text": "แสดงว่าพันธมิตรนครรัฐคนอื่นๆ เล่าให้เจ้าฟังหมดแล้วสินะ"
+    },
+    {
+      "key": "hmohtrustmerlwybtomakelightofourwolfproblemwomanalwaysdidhaveablacksenseofhumor",
+      "text_en": "Hm? Oh. Trust Merlwyb to make light of our wolf problem. Woman always did have a black sense of humor.",
+      "text": "หือ? อ้อ เรื่องหมาป่าสิท่า สมกับเป็นเมอร์ลวิบที่หัวเราะเยาะปัญหาหมาป่าของพวกเรา ยายคนนั้นมีอารมณ์ขันร้ายกาจเสมอแหละ"
+    },
+    {
+      "key": "wolvesarebloodthirstybeastsuponwhichonecannotturnonesbacktisonlyamatteroftimebeforetheybite",
+      "text_en": "Wolves are bloodthirsty beasts upon which one cannot turn one's back. 'Tis only a matter of time before they bite.",
+      "text": "หมาป่าคือสัตว์ร้ายกระหายเลือดที่เราไม่อาจหันหลังให้ อีกไม่ช้าก็คงแว้งกัด"
+    },
+    {
+      "key": "soitwaswiththegarleansfiftyyearsago",
+      "text_en": "So it was with the Garleans, fifty years ago.",
+      "text": "ชาวการ์เลียนเมื่อห้าสิบปีก่อนก็เป็นเช่นนี้"
+    },
+    {
+      "key": "nosoonerhadtheylearnedhowtousemagitekthantheybeganseizingterritoryfromtheirneighbors",
+      "text_en": "No sooner had they learned how to use magitek than they began seizing territory from their neighbors.",
+      "text": "พอเรียนรู้วิธีใช้งานมาจิเทคได้ไม่ทันไร ก็เริ่มแย่งชิงดินแดนของประเทศเพื่อนบ้าน"
+    },
+    {
+      "key": "ledbythenlegatussoluszosgalvustheyswiftlybroughttheothernationsofilsabardtoheelandsothelegatusbecameanemperorandhisrepublicanempire",
+      "text_en": "Led by then legatus Solus zos Galvus, they swiftly brought the other nations of Ilsabard to heel. And so the legatus became an emperor, and his republic an empire...",
+      "text": "ภายใต้การนำของโชลุส ซอส กัลวุส เลกาทัสในยามนั้น ก็สยบดินแดนอื่นๆ ในอิลซาบาร์ดให้ยอมศิโรราบได้อย่างรวดเร็ว และแล้วเลกาทัสก็ขึ้นเป็นจักรพรรดิ เปลี่ยนสาธารณรัฐให้กลายเป็นจักรวรรดิ..."
+    },
+    {
+      "key": "anempirewhichthensetitssightsuponeorzea",
+      "text_en": "An empire which then set its sights upon Eorzea.",
+      "text": "จักรวรรดิที่หันมาหมายตาเอโอลเซียในเวลาต่อมา"
+    },
+    {
+      "key": "buttheconqueringemperorisnowanoldmanoffourscorewintershishealthisfailingandhehasnoclearsuccessorlikeasnotthisiswhythegarleanshavebeenquietoflate",
+      "text_en": "But the conquering emperor is now an old man of four score winters. His health is failing, and he has no clear successor. Like as not, this is why the Garleans have been quiet of late.",
+      "text": "ทว่าจักรพรรดิผู้พิชิตผู้นั้น บัดนี้ล่วงเข้าสู่วัยชราแปดสิบปีแล้ว สุขภาพนับวันยิ่งทรุดโทรมลง ทั้งยังไร้ผู้สืบทอดอำนาจที่แน่ชัด นี่คงเป็นเหตุผลที่ระยะนี้ชาวการ์เลียนดูสงบลงไป"
+    },
+    {
+      "key": "butthexivthimperiallegionisstillentrenchedwithinourborders",
+      "text_en": "But the XIVth Imperial Legion is still entrenched within our borders.",
+      "text": "แต่กองทัพจักรวรรดิที่ 14 ยังคงปักหลักมั่นอยู่ภายในชายแดนของเรา"
+    },
+    {
+      "key": "andtheircommanderlegatusgaiusvanbaelsarhaslongharboredambitionsofconquest",
+      "text_en": "And their commander, Legatus Gaius van Baelsar, has long harbored ambitions of conquest.",
+      "text": "และเลกาทัสไกอุส แวน เบลซาร์ ผู้บัญชาการกองทัพนั้น ก็มักใหญ่ใฝ่สูงคิดจะบุกยึดครองดินแดนมาเนิ่นนานแล้ว"
+    },
+    {
+      "key": "werehetostrikenowifearwewouldfalllikesomanyothersbeforeusandnotonlyuldahbutgridaniaandlimsalominsaaswell",
+      "text_en": "Were he to strike now, I fear we would fall like so many others before us. And not only Ul'dah, but Gridania and Limsa Lominsa as well.",
+      "text": "หากบุกโจมตีในยามนี้ ข้าเกรงว่าพวกเราคงต้องล่มสลายไม่ต่างจากดินแดนอื่นๆ ก่อนหน้านี้ และคงไม่ใช่เพียงแค่อุลดาห์ แต่รวมถึงกริดาเนียและลิมซา โลมินซา ด้วย"
+    },
+    {
+      "key": "forthecalamitybroughtthelotofustoourkneesandweveyettogetupwebarelyhavethestrengthtostandagainstthebeasttribesnevermindtheprimalstheymeantosummon",
+      "text_en": "For the Calamity brought the lot of us to our knees, and we've yet to get up. We barely have the strength to stand against the beast tribes, never mind the primals they mean to summon.",
+      "text": "เพราะมหันตภัยสยบพวกเราจนทรุดเข่าลงไปกอง และจนถึงบัดนี้ก็ยังลุกขึ้นยืนหยัดไม่ได้ ลำพังกำลังจะรับมือกับเผ่าอมนุษย์ก็แทบไม่ไหว ไม่ต้องพูดถึงเทพมายาที่พวกมันคิดจะอัญเชิญมาเลย"
+    },
+    {
+      "key": "wearearealmdividedadventureranallianceinnameonly",
+      "text_en": "We are a realm divided, adventurer. An alliance in name only.",
+      "text": "ดินแดนของเรากำลังแตกแยก นักผจญภัย พันธมิตรที่ว่าก็เป็นเพียงในนามเท่านั้น"
+    },
+    {
+      "key": "butthewolfcaresnotfortheplightofitsprey",
+      "text_en": "But the wolf cares not for the plight of its prey.",
+      "text": "แต่หมาป่าย่อมไม่แยแสความทุกข์ยากของเหยื่อหรอก"
+    },
+    {
+      "key": "thegarleansstirandtheadmiralwouldnotletitgounnoticed",
+      "text_en": "The Garleans stir, and the Admiral would not let it go unnoticed.",
+      "text": "พวกชาวการ์เลียนเริ่มเคลื่อนไหว และผู้บัญชาการสูงสุดไม่มีทางยอมปล่อยผ่านเรื่องนี้แน่"
+    },
+    {
+      "key": "allotherconcernspaleincomparisontotheempireeventhebeasttribesandtheirbloodyprimals",
+      "text_en": "All other concerns pale in comparison to the Empire—even the beast tribes and their bloody primals.",
+      "text": "เรื่องเดือดร้อนอื่นใดล้วนกลายเป็นเรื่องเล็กน้อยไปถนัดตาเมื่อเทียบกับภัยจากจักรวรรดิ ไม่เว้นแม้แต่พวกเผ่าอมนุษย์กับเทพมายากระหายเลือดของพวกมัน"
+    },
+    {
+      "key": "wemuststandunitedoncemorethatmuchisclearandifweretodosowemustrememberthecausewhichlastbroughtustogetherkanewillhavehermemorial",
+      "text_en": "We must stand united once more, that much is clear. And if we're to do so, we must remember the cause which last brought us together. Kan-E will have her memorial.",
+      "text": "พวกเราต้องร่วมมือกันอีกครั้ง เรื่องนั้นชัดเจนที่สุด และหากต้องการเช่นนั้น พวกเราก็ต้องระลึกถึงอุดมการณ์ที่เคยทำให้พวกเรามารวมพลังกันในครั้งก่อน คาน-อีจะได้จัดพิธีรำลึกสมปรารถนา"
+    },
+    {
+      "key": "wewillhonorthememoryofthefallenwewillremindthepeoplewhattheirbrothersandsistersfoughtanddiedfor",
+      "text_en": "We will honor the memory of the fallen. We will remind the people what their brothers and sisters fought and died for.",
+      "text": "พวกเราจะสดุดีดวงวิญญาณของผู้ล่วงลับ และจะย้ำเตือนให้ผู้คนไม่ลืมว่าพี่น้องของพวกเขาร่วมรบและสละชีพเพื่อสิ่งใด"
+    },
+    {
+      "key": "shalliinformthesultanaandthesyndicate",
+      "text_en": "Shall I inform the sultana and the Syndicate?",
+      "text": "จะให้ดิฉันเรียนแจ้งเรื่องนี้แก่องค์สุลต่านหญิงและซินดิเคทเลยหรือไม่คะ"
+    },
+    {
+      "key": "iwillspeakwithhergracemyself",
+      "text_en": "I will speak with Her Grace myself.",
+      "text": "ข้าจะทูลนายท่านด้วยตัวเอง"
+    },
+    {
+      "key": "verygoodsir",
+      "text_en": "Very good, sir.",
+      "text": "รับทราบค่ะท่าน"
+    },
+    {
+      "key": "theelderseedseerwillhavemyreplyanon",
+      "text_en": "The Elder Seedseer will have my reply anon.",
+      "text": "อีกประเดี๋ยวเอลเดอร์ซีดเซียร์ก็จะได้คำตอบจากข้า"
+    },
+    {
+      "key": "mythankstoyouadventurer",
+      "text_en": "My thanks to you, adventurer.",
+      "text": "ข้าขอขอบใจเจ้า นักผจญภัย"
+    }
+  ]
+}

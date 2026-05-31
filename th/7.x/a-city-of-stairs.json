@@ -1,0 +1,268 @@
+{
+  "id": "a-city-of-stairs",
+  "wiki_path": "/wiki/A_City_of_Stairs",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A City of Stairs",
+  "title": "นครแห่งบันได",
+  "level": "90",
+  "location": "Tuliyollal(X:14.1,Y:2.7)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "Creation stories are often rooted in true events. Given the similarities, could it be that Tural's legend was inspired by Hydaelyn's clash with Zodiark?",
+      "text": "ตำนานการสร้างโลกส่วนใหญ่มักจะมีเค้าโครงมาจากเรื่องราวที่เกิดขึ้นจริงนะคะ พอมาคิดดูจากความคล้ายคลึงกันแล้ว เป็นไปได้ไหมคะว่าตำนานของทูรัลอาจจะได้รับอิทธิพลมาจากศึกสายเลือดระหว่างไฮดาเอลินกับโซดิอาร์ก?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll head west next, towards the Arch of the Dawn. The dirigible landing is on the way.",
+      "text": "ต่อไปเราจะมุ่งหน้าไปทางทิศตะวันตก ไปที่ซุ้มประตูแห่งรุ่งอรุณ (Arch of the Dawn) กัน ระหว่างทางจะผ่านลานจอดเรือบินด้วยล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You have dirigibles, too? Tuliyollal certainly doesn't want for methods of travel.",
+      "text": "ที่นี่มีเรือบินด้วยเหรอคะ? นครทูลิโยลลัลมีช่องทางการเดินทางที่หลากหลายสะดวกสบายดีจังเลยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We get by! Now, if you've seen enough of this area, let me know and we'll continue on.",
+      "text": "ก็พอมีพอกินน่ะ! เอาล่ะ ถ้าเดินดูแถวนี้จนจุใจแล้วก็บอกนะ จะได้เดินทางกันต่อเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Arch of the Dawn is on the other side of the city, so speak up if you see something that interests you as we walk!",
+      "text": "ซุ้มประตูแห่งรุ่งอรุณอยู่ฝั่งตรงข้ามของเมืองเลยล่ะ ระหว่างทางถ้าเกิดเห็นอะไรน่าสนใจก็บอกได้เลยนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hope you aren't too tired. Tuliyollal still has plenty of sights to see!",
+      "text": "หวังว่าจะยังไม่เหนื่อยกันไปซะก่อนนะ ในทูลิโยลลัลยังมีที่เที่ยวสวยๆ ให้ดูอีกเยอะเลย!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We should heed Erenville's suggestion and take it slow where we can. I imagine we'll need our full strength for the contest to come.",
+      "text": "พวกเราควรทำตามคำแนะนำของเอเรนวิลล์แล้วค่อยๆ เดินไปดีกว่าค่ะ เพราะพิธีประลองที่รออยู่ข้างหน้าน่าจะต้องใช้พละกำลังทั้งหมดที่มีแน่ๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A private matter? We'll be waiting for you by the skygate, then!",
+      "text": "มีธุระส่วนตัวงั้นเหรอ? ถ้าอย่างนั้นเดี๋ยวพวกเราไปยืนรอที่ประตูเวหาแล้วกันนะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Understood. We'll meet you by the skygate.",
+      "text": "รับทราบค่ะ เดี๋ยวพวกเราไปเจอกันที่ประตูเวหานะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I wasn't sure you were coming back... Not that I was worried, mind you. Just a little restless, is all!",
+      "text": "นึกว่าจะไม่กลับมาซะแล้ว... คือ ไม่ใช่ว่าฉันเป็นห่วงอะไรหรอกนะ! แค่มันรู้สึกเหงาๆ นิดหน่อยน่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Finished what you needed to do? Then let's resume our tour!",
+      "text": "ทำธุระเสร็จเรียบร้อยดีแล้วใช่ไหมคะ? ถ้าอย่างนั้นเราไปทัวร์กันต่อเถอะค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm still struggling to conceive how one could construct an entire city on the side of a mountain.",
+      "text": "ฉันยังจินตนาการไม่ออกเลยค่ะว่า พวกเขาไปสร้างเมืองใหญ่โตขนาดนี้เอาไว้ตรงชะง่อนหน้าผาข้างไหล่เขาได้ยังไงกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This was originally the site of a Yok Huy temple. The giants built it when they were first making the bridge to Xak Tural, to appease the god who slumbers in the great ocean trench.",
+      "text": "เมื่อก่อนตรงนี้เคยเป็นมหาวิหารของพวกยอคฮุยน่ะ พวกยักษ์สร้างมันขึ้นมาตอนที่เริ่มลงมือทำสะพานข้ามไปซักทูรัล เพื่อบวงสรวงต่อเทพเจ้าที่หลับใหลอยู่ใต้ก้นบึ้งมหาสมุทร"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "After the Yok Huy withdrew, the temple stood empty for centuries. So when Papa was establishing his new nation, he saw a structure he could refurbish into a palace, sitting practically in the center of Tural.",
+      "text": "พอพวกยอคฮุยถอยทัพกลับไป วิหารนี้ก็เลยถูกทิ้งร้างมานานหลายร้อยปี จนกระทั่งตอนที่ท่านพ่อจะก่อตั้งประเทศใหม่ขึ้นมา ท่านเห็นว่าวิหารร้างนี้สามารถดัดแปลงเป็นพระราชวังได้ แถมยังตั้งอยู่ตรงศูนย์กลางของทูรัลพอดีเป๊ะเลยด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He gathered artisans to do the work, and the houses they built for themselves became the foundation of the city you see today!",
+      "text": "ท่านพ่อก็เลยรวบรวมช่างฝีมือมาบูรณะวิหารนี้ แล้วบ้านช่องที่ช่างฝีมือพวกนั้นสร้างขึ้นเพื่ออยู่อาศัยเองนั่นแหละ ที่กลายมาเป็นรากฐานของเมืองหลวงอย่างที่เห็นกันในทุกวันนี้!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Speaking of houses, we'll be passing through the Resplendent Quarter, the biggest residential district in Tuliyollal. We climb these sets of stairs here─all the way up!",
+      "text": "ถ้าพูดถึงบ้านล่ะก็ เดี๋ยวเราจะเดินผ่านย่านที่พักอาศัยเรสเพลนเดนต์ (Resplendent Quarter) ซึ่งเป็นเขตชุมชนที่ใหญ่ที่สุดในทูลิโยลลัลกัน เราต้องเดินขึ้นบันไดพวกนี้ไป... นู่นนน ยอดสุดเลยล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The stairs leading up to the peak can get pretty steep. Careful you don't fall─I've been one step away from death more than a few times!",
+      "text": "บันไดทางขึ้นยอดเขามันชันเอาเรื่องเลยนะ ระวังลื่นตกลงมาล่ะ ฉันเองก็เคยเกือบก้าวพลาดไปทักทายยมบาลมาหลายรอบแล้วเหมือนกัน!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So this was once a place of worship... The Yok Huy seem a fascinating people, but I've not seen any in the city. I wonder when we'll have the chance to meet them.",
+      "text": "ที่แท้ที่นี่ก็เคยเป็นสถานที่ศักดิ์สิทธิ์มาก่อนสินะคะ... ดูเหมือนชาวเผ่ายอคฮุยจะเป็นชนเผ่าที่น่าค้นหาดีจัง แต่เดินมาตั้งนานยังไม่เห็นยักษ์ในเมืองเลยนะคะเนี่ย ไม่รู้ว่าเมื่อไหร่เราจะได้มีโอกาสเจอพวกเขานะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa's palace is called Vollok Shoonsa, which roughly translates to “invincible resilience.”",
+      "text": "วังของท่านพ่อมีชื่อว่า วอลลอกชุนซ่า (Vollok Shoonsa) แปลเป็นไทยคร่าวๆ ได้ว่า 'ความทนทานอันเป็นอมตะ' น่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You probably want to take a closer look, but we'll be coming back here later. Let's move on for now.",
+      "text": "พวกนายน่าจะอยากเข้าไปดูใกล้ๆ สินะ แต่เดี๋ยวพวกเราก็ต้องกลับมาที่นี่กันอีกทีหลังอยู่ดี ตอนนี้เราไปที่อื่นกันก่อนเถอะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The sheer scale of this place is incredible. I wonder what that carving at the top represents...",
+      "text": "ขนาดสถาปัตยกรรมของที่นี่อลังการน่าทึ่งจริงๆ เลยนะคะ ฉันสงสัยจังว่ารอยสลักที่อยู่บนยอดสุดนั่นหมายถึงอะไรกันนะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So, this is the Resplendent Quarter. What manner of people live here?",
+      "text": "อ้อ ที่นี่สินะคะย่านเรสเพลนเดนต์ แล้วผู้คนที่อาศัยอยู่ที่นี่ส่วนใหญ่เป็นใครกันบ้างเหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, we have residents from all the Yok Tural clans: Mamool Ja, Xbr'aal, Pelupelu, Moblin, Hanuhanu...",
+      "text": "โอ้ มีชาวเมืองจากทุกชนเผ่าฝั่งยอคทูรัลเลยล่ะ ทั้งชาวมามูอูล จา, ชิบราล, เปลูเปลู, ม็อบลิน แล้วก็ฮานูฮานู..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We also have Tonawawta, Hhetsarro, and Shetona who moved south from their ancestral lands in Xak Tural.",
+      "text": "แล้วก็ยังมีชาวโทนาวอว์ตา (Tonawawta), เฮตซาร์โร และเชโตนา (Shetona) ที่อพยพลงมาจากดินแดนบรรพบุรุษทางฝั่งซักทูรัลด้วยนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "In essence, it's a gathering of people from every corner of Tural.",
+      "text": "สรุปง่ายๆ ก็คือเป็นการรวมตัวกันของคนจากทุกทิศทั่วแดนทูรัลนั่นแหละ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A true representation of Tuliyollal's diverse character... The adornments on each building contribute to the eclectic cultural aesthetic. It's all so beautiful!",
+      "text": "เป็นสัญลักษณ์สะท้อนความหลากหลายของทูลิโยลลัลที่แท้จริงเลยนะคะ... ลวดลายตกแต่งบนบ้านเรือนแต่ละหลังดูผสมผสานกลมกลืนกันเป็นศิลปะที่งดงามมากเลยล่ะค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm glad you think so! Come, we continue down the stairs.",
+      "text": "ดีใจจังที่เธอชอบ! มาเถอะ เราเดินลงบันไดกันต่อ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You might hear the Hyur in Tural referred to as “Tonawawta,” one of our major clans. As for Erenville, he belongs to a Viera clan known as the “Shetona.”",
+      "text": "ถ้าเป็นพวกฮิวร์ (Hyur) ในฝั่งทูรัลจะเรียกว่าชนเผ่า 'โทนาวอว์ตา' น่ะ ถือเป็นเผ่าใหญ่เผ่าหนึ่งเลยล่ะ ส่วนเอเรนวิลล์น่ะ เขาอยู่ในชนเผ่าวิเอร่า (Viera) ที่เรียกว่า 'เชโตนา' นะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "One need only look to the children playing for a sense of how peaceful things must be here.",
+      "text": "แค่เห็นพวกเด็กๆ วิ่งเล่นกันอย่างสนุกสนานแบบนี้ ก็สัมผัสได้ถึงความสงบสุขร่มเย็นของเมืองนี้แล้วล่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That big drum there is called the Dawnherald. They play it for formal occasions, like when honoring the Landsguard's return from a dangerous duty.",
+      "text": "กลองใบยักษ์ตรงนั้นชื่อว่า ดอว์นเฮรัลด์ (Dawnherald) น่ะ เขาจะตีมันเฉพาะในพิธีสำคัญๆ เท่านั้น อย่างเช่นตอนทำพิธีต้อนรับกองทัพแลนด์สการ์ดที่รอดชีวิตกลับมาจากภารกิจเสี่ยงตายน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I tried hitting it with my axe once and ripped the skin. Earned me a proper scolding, let me tell you! I think that was the time Papa held me upside down by the ankle...",
+      "text": "มีครั้งนึงฉันอุตริลองเอาขวานไปจามใส่มันจนหนังกลองขาดวิ่นเลยล่ะ! บอกเลยว่าตอนนั้นโดนดุซะยับเยิน ถ้าจำไม่ผิดนั่นน่าจะเป็นรอบที่โดนท่านพ่อจับห้อยหัวแกว่งตลกร้ายด้วยข้อเท้าเลยมั้ง..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've never seen such an enormous drum. What would one even use to beat such an instrument?",
+      "text": "ฉันไม่เคยเห็นกลองใบใหญ่ขนาดนี้มาก่อนเลยค่ะ เขาใช้ไม้ตีขนาดไหนถึงจะตีเครื่องดนตรีชิ้นนี้ได้กันนะคะเนี่ย?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And here are our dirigibles! Not bad, eh?",
+      "text": "แล้วนี่ก็คือเรือบินของพวกเรายังไงล่ะ! เจ๋งใช่ไหมล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I hear other nations use airships to sail the skies, but you'll only find balloons in Tuliyollal.",
+      "text": "เห็นบอกว่าประเทศอื่นเขาใช้เรือเหาะเหล็กแล่นฉลุยบนฟ้ากัน แต่สำหรับทูลิโยลลัลจะใช้เป็นบอลลูนลมร้อนล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We have them for the exact same reason as the aetherytes. Koana brought back the plans from Sharlayan, and Papa thought them fantastic and commissioned their construction. This was around three years ago.",
+      "text": "เหตุผลที่สร้างขึ้นมาก็เหมือนกับอีเธอร์ไรต์เป๊ะเลยล่ะ พี่โคอานาเอาแบบแปลนมาจากชาร์ลายัน พ่อเห็นว่ามันยอดเยี่ยมมากก็เลยสั่งลุยสร้างขึ้นมาทันทีเลย เรื่องนี้ก็ผ่านมาประมาณสามปีแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Since that time, we've added flights to other settlements. Trade with frontier communities has never been easier.",
+      "text": "ตั้งแต่นั้นมา เราก็ค่อยๆ เพิ่มเส้นทางบินไปตามชุมชนอื่นๆ ทำให้การเดินทางไปมาหาสู่ค้าขายกับพวกชาวบ้านแถบชายแดนง่ายขึ้นจมเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But that's enough about dirigibles. The Arch of the Dawn awaits!",
+      "text": "แต่พูดเรื่องเรือบินพอก่อนดีกว่า ซุ้มประตูแห่งรุ่งอรุณกำลังรอเราอยู่!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Balloons are all well and good, but flying through the air is not for me. It's not that I'm afraid, of course, it just seems...unnatural.",
+      "text": "พวกบอลลูนน่ะก็ดีแหละนะ แต่ไอ้การต้องลอยเท้งเต้งกลางอากาศนี่ข้าไม่ขอสู้ด้วยหรอก... ไม่ได้แปลว่ากลัวนะ! แค่คิดว่ามันดู... ผิดธรรมชาติมนุษย์ไปหน่อยน่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hearing about dirigibles reminds me of the Ixal and their flying vessels. But whereas their designs use several bladders, it seems the Turali craft rely on one large envelope to lift them into the air.",
+      "text": "พูดถึงเรือบินแล้วชวนให้นึกถึงพวกเรือบินลมร้อนของพวกอิกซัลเลยค่ะ แต่ในขณะที่ฝั่งนั้นจะใช้ถุงลมขนาดเล็กหลายใบพยุงตัว ดูเหมือนเรือบินของทูรัลจะใช้ถุงลมขนาดยักษ์ใบเดียวคอยพยุงให้ลอยตัวขึ้นไปบนฟ้าสินะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is it: the Arch of the Dawn.",
+      "text": "ถึงแล้วล่ะ ซุ้มประตูแห่งรุ่งอรุณ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "When the giants were still here, it was known as the Yok Tural landgate. But when Papa founded Tuliyollal, everyone began using its present name in honor of his great achievement.",
+      "text": "ตอนที่พวกยักษ์ยังครองแผ่นดินอยู่ ที่นี่เคยถูกเรียกว่าประตูด่านยอคทูรัลน่ะ แต่พอท่านพ่อก่อตั้งทูลิโยลลัลขึ้นมา ทุกคนก็เลยเริ่มหันมาเรียกชื่อปัจจุบันนี้ เพื่อเป็นเกียรติแก่ความสำเร็จอันยิ่งใหญ่ของท่านพ่อน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Through this gate is Kozama'uka, the wetlands south of the city. Depending on what the rite of succession asks of us, we might end up going in that direction.",
+      "text": "ถ้าลอดผ่านประตูนี้ไปก็จะเป็นโคซามาอูกา (Kozama'uka) ซึ่งเป็นเขตพื้นที่ชุ่มน้ำทางตอนใต้ของเมืองล่ะ ขึ้นอยู่กับว่าโจทย์ในพิธีประลองของพวกเราจะให้ทำอะไร บางทีเราอาจจะต้องเดินทางไปทางนั้นก็ได้นะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Kozama'uka... The name alone is intriguing.",
+      "text": "โคซามาอูกา... แค่ชื่อก็น่าสนใจมากแล้วค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Speaking of which, what were those fluffy animals we passed earlier?",
+      "text": "จะว่าไปแล้ว สัตว์ตัวขนปุกปุยที่พวกเราเดินสวนมาเมื่อกี้คือตัวอะไรเหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah... Those are alpacas. Fearsome, four-legged fiends.",
+      "text": "อ๋อ... เจ้าพวกนั้นคือ 'อัลปาก้า' น่ะ อสูรกายสี่ขาผู้แสนดุร้ายล่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Fearsome? They seemed quite placid to me...",
+      "text": "ดุร้ายเหรอคะ? แต่เท่าที่เห็นเมื่อกี้ดูพวกมันค่อนข้างสุภาพและเป็นมิตรดีออกค่ะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You'll learn soon enough, Krile. You'll learn soon enough...",
+      "text": "เดี๋ยวเธอก็จะได้ลิ้มรสชาติมันด้วยตัวเองแน่ ไครล์... เดี๋ยวก็รู้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But forget the alpacas─I have something far more important to show you. Come along!",
+      "text": "แต่ช่างหัวเรื่องอัลปาก้าเถอะ มีอีกอย่างที่สำคัญกว่านั้นเยอะที่ข้าอยากให้ดู ตามมาสิ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are these pillars what Wuk Lamat wanted to show us?",
+      "text": "เสาหินพวกนี้คือสิ่งที่คุณวุค ลามัต อยากพาพวกเรามาดูเหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you wish to learn the history of Tuliyollal, then look no further!",
+      "text": "ถ้าอยากจะเรียนรู้ประวัติศาสตร์ของทูลิโยลลัลล่ะก็ ไม่มีอะไรจะเหมาะไปกว่าการยืนอยู่ตรงหน้าเสาหินพวกนี้อีกแล้ว!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "These stone pillars, you mean...?",
+      "text": "เสาหินพวกนี้น่ะเหรอคะ...?"
+    }
+  ]
+}

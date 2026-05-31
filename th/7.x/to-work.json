@@ -1,0 +1,298 @@
+{
+  "id": "to-work",
+  "wiki_path": "/wiki/To_Work",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.4",
+  "title_en": "To Work",
+  "title": "เริ่มงานซ่อมแซม",
+  "level": "100",
+  "location": "Treno(X:11.4,Y:11.5)",
+  "npc_start": "Lumull",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "One wonders how fearsome this Eyaney truly is...",
+      "text": "ชวนให้สงสัยเหลือเกินนะคะว่าคุณเอยานีย์คนนี้จะน่ากลัวสักแค่ไหนกัน..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If Treno's barrier is similar in design to Alexandria's, should we assume that electrope technology is standard here as well?",
+      "text": "หากแบริเออร์ของทรีโนมีโครงสร้างคล้ายกับของอเล็กซานเดรียล่ะก็ เป็นไปได้ไหมว่าที่นี่เองก็น่าจะใช้เทคโนโลยีอิเล็กโทรปเป็นหลักเหมือนกัน?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "At the moment, Eyaney should be waiting just past that park.",
+      "text": "ตอนนี้เอยานีย์น่าจะรออยู่ถัดจากสวนสาธารณะตรงนั้นแหละครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Let's be off before anyone changes their mind!",
+      "text": "รีบไปกันเถอะครับ ก่อนที่จะมีใครเปลี่ยนใจซะก่อน!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Lumull is sweating rather profusely...",
+      "text": "คุณลูมัลล์เหงื่อตกไม่หยุดเลยนะคะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Whenever we meet an engineer from some distant land, I can't help but wish to introduce them to our friends at the Ironworks. Such a firestorm of questions there would be...",
+      "text": "ทุกครั้งที่เจอวิศวกรจากต่างแดน ฉันอดคิดไม่ได้เลยว่าอยากแนะนำให้พวกเขารู้จักกับพวกพ้องที่ไอรอนเวิกส์จริงๆ... รับรองว่าต้องมีมหกรรมระดมคำถามกันยกใหญ่อย่างแน่นอน"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "(Breathe in... Breathe out...)",
+      "text": "(สูดหายใจเข้า... พ่นหายใจออก...)"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Ah, our visitors! Thanks for lending a hand earlier, but...what brings you here?",
+      "text": "อ๊ะ แขกผู้มีเกียรติของเรานี่เอง! ขอบคุณสำหรับความช่วยเหลือเมื่อครู่นะคะ... ว่าแต่มีธุระอะไรหรือเปล่าคะ?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "...Lumull. What did you do?",
+      "text": "...ลูมัลล์ พี่ไปก่อเรื่องอะไรไว้ล่ะ?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I-I, um... You know that, er, advanced monster tracking wotsit? I-It may be a teeny tiny bit, um...",
+      "text": "คือ... พี่... เครื่องติดตามอสูรกายสุดล้ำเครื่องนั้นน่ะ... ม-มันอาจจะพังไปนิดนึง... มั้ง..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "You broke it again!?",
+      "text": "นี่พี่ทำพังอีกแล้วเหรอ!?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "How many times must I tell you that we're running low on electrope! I'm an engineer, not a bloody miracle worker!",
+      "text": "ต้องให้บอกอีกกี่ร้อยหนล่ะว่าอิเล็กโทรปของเราเหลือน้อยเต็มทีแล้ว! ฉันเป็นแค่วิศวกรนะ ไม่ใช่ผู้วิเศษที่จะเสกปาฏิหาริย์ขึ้นมาได้!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I beg your forgiveness! I'm on my knees and everything, see!?",
+      "text": "พี่ขอโทษจริงๆ! นี่คุกเข่าขอขมาเลยนะ เห็นไหมเนี่ย!?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "And since we have guests...can't you let it slide? Just this once?",
+      "text": "แถมคราวนี้มีแขกอยู่ด้วย... ยกโทษให้พี่สักครั้งเถอะนะ ถือว่าเห็นแก่แขกก็ได้... แค่หนเดียวเอง!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "[LONG-SUFFERING SIGH]",
+      "text": "[ถอนหายใจเฮือกใหญ่ด้วยความเหนื่อยหน่าย]"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "He dragged you here just so I wouldn't tan his hide, didn't he? You'd never believe he's the elder sibling... I'm so sorry.",
+      "text": "พี่ลูมัลล์คงลากพวกคุณมาที่นี่เพราะกลัวโดนฉันดุสิท่า... เห็นแบบนี้แล้วแทบไม่อยากเชื่อเลยใช่ไหมคะว่าเป็นพี่คนโตน่ะ... ต้องขออภัยแทนเขาจริงๆ ค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Please don't be. We're glad for the opportunity to meet you. And Lumull mentioned that you might have some work we could assist with?",
+      "text": "อย่าคิดมากเลยค่ะ พวกเราเองก็ยินดีที่ได้พบคุณเช่นกัน แล้วเมื่อครู่คุณลูมัลล์ก็เปรยว่าอาจมีงานอะไรให้ช่วยด้วยค่ะ"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "They're our guests, Lumull, not servants! Must we have the manners talk again?",
+      "text": "พวกเขาเป็นแขกของเรานะลูมัลล์ ไม่ใช่คนรับใช้! ต้องให้ต้องคอยมาสั่งสอนเรื่องมารยาทกันอีกกี่หนกันล่ะ!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Please don't misunderstand! We asked to help, that we might learn what life is like in Treno.",
+      "text": "อย่าเข้าใจผิดเลยนะคะ! พวกเราเต็มใจเสนอตัวเข้าช่วยเองค่ะ เพราะอยากเรียนรู้วิถีชีวิตความเป็นอยู่ของชาวเมืองทรีโนด้วย"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And with your expertise, we also hoped you could tell us more of how the city utilizes electrope.",
+      "text": "แล้วก็หวังว่าวิศวกรผู้เชี่ยวชาญอย่างคุณ จะช่วยอธิบายวิธีการใช้อิเล็กโทรปของที่นี่ให้พวกเราฟังเพิ่มเติมน่ะค่ะ"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "If that's the way of it, then I'd be happy to share what I know.",
+      "text": "ถ้าเรื่องเป็นเช่นนั้นล่ะก็ ฉันยินดีบอกเล่าทุกเรื่องที่รู้ให้ฟังเลยค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "When you spoke earlier, it sounded as if Treno had little electrope to spare. It's difficult to procure, I take it?",
+      "text": "เมื่อกี้ที่เล่ามา ฟังดูเหมือนว่าชาวเมืองทรีโนจะมีอิเล็กโทรปจำกัดมากเลยนะครับ แสดงว่าหามาใช้อย่างยากลำบากเลยใช่ไหมครับ?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "We never have as much as we need. And much of what we do have is repurposed─you'll find me digging through the scrap heap whenever some vital device or another breaks down.",
+      "text": "ที่จริงพวกเราไม่เคยมีพอใช้เลยค่ะ แถมที่ใช้อยู่ส่วนใหญ่ก็เป็นการหมุนเวียนกลับมาใช้ใหม่... พอมีอุปกรณ์ชิ้นสำคัญอะไรพังขึ้นมาทีไร ฉันก็ต้องไปคุ้ยตามกองขยะเพื่อหาชิ้นส่วนอยู่เรื่อยเลยค่ะ"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Repairing that old barrier should be our highest priority, but we just don't have enough electrope on hand to do a proper job.",
+      "text": "ถึงการซ่อมแบริเออร์เก่าแก่เครื่องนั้นควรเป็นเรื่องด่วนที่สุดก็เถอะ แต่ติดตรงที่พวกเราไม่มีอิเล็กโทรปเหลือพอจะซ่อมแซมให้เรียบร้อยนี่สิคะ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "And the longer we go without access to the mine, the worse it'll get. If only we could scare those beasts away...",
+      "text": "แล้วถ้าเหมืองแร่ยังถูกปิดอยู่แบบนี้ต่อไป สถานการณ์มีหวังย่ำแย่ลงเรื่อยๆ แน่เลยครับ... ถ้าเพียงแต่เราไล่พวกสัตว์ร้ายออกไปได้ก็คงดี..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Did we not pass through a mine on the way here?",
+      "text": "ตอนเดินทางมาที่นี่ พวกเราเพิ่งจะผ่านเหมืองแร่นั้นมาไม่ใช่หรือจ๊ะ?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You got rid of them? Just like that!?",
+      "text": "จัดการเสร็จเรียบร้อยแล้วเหรอครับ!? แบบ... ง่ายๆ อย่างนั้นเลยเหรอครับ!?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Just the one!? Incredible...",
+      "text": "คนเดียวเองเหรอครับ!? สุดยอดไปเลย..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "So...the mine is safe for mining again?",
+      "text": "ถ้าอย่างนั้น... เหมืองก็กลับมาปลอดภัยพอที่จะให้เข้าไปขุดแร่ได้แล้วใช่ไหมคะ?"
+    },
+    {
+      "character": "Lumull and Eyaney",
+      "text_en": "Hooray!",
+      "text": "ไชโย!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Leave the mining to your big brother! All you have to do is fix the tracker!",
+      "text": "เรื่องขุดเหมืองปล่อยให้เป็นหน้าที่ของพี่ชายคนนี้เอง! เธอแค่ซ่อมเครื่องแกะรอยให้เสร็จก็พอ!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Yes, very well... If you go, do be careful.",
+      "text": "ค่ะๆ เอาอย่างนั้นก็ได้... ถ้าจะไปก็ระวังตัวด้วยนะพี่ลูมัลล์"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "And once you get the machinery up and running, make sure to send some electrope over to the barrier service station!",
+      "text": "แล้วพอเปิดเครื่องจักรให้กลับมาทำงานได้เมื่อไหร่ ก็อย่าลืมส่งอิเล็กโทรปไปที่สถานีบริการบาเรียด้วยล่ะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though we've cleared the mine, there is no telling what else waits outside the barrier. Shall I accompany you?",
+      "text": "ถึงพวกเราจะเคลียร์เหมืองเรียบร้อยแล้ว แต่ก็ไม่อาจรู้ได้เลยว่าจะมีอะไรดักรออยู่นอกบาเรียอีก ให้ฉันไปเป็นเพื่อนไหมนาย?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I'm so glad you asked! ...Seriously, I don't know what I'd do if I'd had to go alone.",
+      "text": "ดีใจจังที่คุณพูดแบบนี้! ...พูดตามตรงนะครับ ถ้าต้องไปคนเดียว ผมก็ไม่รู้เหมือนกันว่าจะทำยังไงดี"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As we did pass through but recently, I expect Raha can keep him safe without our help. In the meantime, shall we assist Eyaney with her repair work?",
+      "text": "เนื่องจากพวกเราเพิ่งเดินทางผ่านแถวนั้นมาเมื่อครู่ ฉันคิดว่าระฮะน่าจะดูแลความปลอดภัยของเขาได้ดีทีเดียวค่ะ ระหว่างนี้ พวกเราไปช่วยงานซ่อมแซมของเอยาเนย์กันดีกว่านะคะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "They put one in mind of another pair of siblings we know, don't they?",
+      "text": "สองคนนี้เห็นแล้วทำให้นึกถึงพี่น้องอีกคู่ที่พวกเรารู้จักขึ้นมาเลยนะคะ ว่าไหมจ๊ะ?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "<gasp> I entirely forgot to ask your names! Do forgive me.",
+      "text": "ตายจริง! ฉันลืมถามชื่อพวกคุณไปเสียสนิทเลยค่ะ ต้องขออภัยด้วยนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I am Krile, and this is Forename .",
+      "text": "ฉันชื่อไครล์ค่ะ ส่วนนี่คือคุณ [ชื่อ]"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Accompanying Lumull is G'raha Tia, our own technology enthusiast.",
+      "text": "ส่วนคนที่เดินทางไปกับลูมัลล์คือกราฮา เทีย เขาเป็นคนชื่นชอบเทคโนโลยีประจำกลุ่มของพวกเราเองค่ะ"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "It's lovely to meet you!",
+      "text": "ยินดีที่ได้รู้จักพวกคุณนะคะ!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "It feels strange putting you to work, but I'd be lying if I said I don't need the help.",
+      "text": "รู้สึกเกรงใจอยู่เหมือนกันนะคะที่ต้องรบกวนให้ช่วยงานทันทีแบบนี้ แต่ถ้าจะบอกว่าไม่ต้องการคนช่วยเลย ก็คงเป็นการโกหกแน่ๆ ค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "In the wake of an event like this, I presume a great deal of labor is required to restore everything to working order...",
+      "text": "หลังจากเพิ่งผ่านเหตุการณ์แบบนี้มา ฉันคิดว่าคงต้องใช้แรงกายแรงใจไม่น้อยเลยนะคะกว่าจะฟื้นฟูทุกอย่างให้กลับมาเข้าที่เข้าทางได้ดังเดิม..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "The volume of fixes that need making is one matter, but I could handle it if it weren't for these legs of mine. The paralysis flares up at the worst times, I swear...",
+      "text": "เรื่องงานซ่อมที่คั่งค้างน่ะเป็นเรื่องหนึ่งค่ะ ลำพังฉันคนเดียวก็พอรับมือไหวอยู่หรอก หากไม่ใช่เพราะขาคู่นี้... อาการอัมพาตชอบมากำเริบเอาในเวลาที่แย่ที่สุดทุกทีเลยค่ะ ให้ตายสิ..."
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I can manage a bit of shuffling from one station to the other on a good day, but I usually leave racing around the city to my brother.",
+      "text": "ในวันที่ร่างกายเป็นใจ ฉันก็พอจะเดินลากขาไปมาระหว่างสถานีทำงานได้อยู่หรอกค่ะ แต่ปกติแล้วเรื่องวิ่งวุ่นไปทั่วเมือง ฉันมักจะปล่อยให้เป็นหน้าที่ของพี่ชายมากกว่า"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "With him off to the mine, though, someone else needs to take care of the lightning sprites. They're drawn to the discharged aether of slain creatures.",
+      "text": "แต่ในเมื่อตอนนี้พี่ลูมัลล์ต้องไปที่เหมือง ก็คงต้องรบกวนคนอื่นให้ช่วยจัดการกับพวกภูตสายฟ้าแทนค่ะ พวกมันมักจะถูกดึงดูดด้วยเอเธอร์ที่แผ่ออกมาจากร่างของสิ่งมีชีวิตที่ล้มตายลง"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I'd offer you the detector to make tracking them down easier, but seeing as Lumull has managed to break it yet again... <sigh>",
+      "text": "ใจจริงฉันก็อยากจะให้คุณยืมเครื่องตรวจจับเพื่อจะได้ตามหาพวกมันได้ง่ายขึ้นอยู่หรอกนะคะ แต่ในเมื่อพี่ลูมัลล์ดันทำมันพังอีกรอบจนได้... <เฮ้อ>"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I do have this, though. Toss some at a sprite, and you can suppress its ability to sense aether nearby. That usually gets them wandering out of the city towards more fertile ground.",
+      "text": "แต่ฉันยังมีสิ่งนี้อยู่ค่ะ ลองโยนใส่ภูตสายฟ้าดูนะคะ มันจะช่วยระงับการรับรู้เอเธอร์รอบตัวของพวกมัน ทำให้ปกติแล้วพวกมันจะเร่ร่อนออกไปนอกเมืองเพื่อหาแหล่งพลังงานที่อุดมสมบูรณ์กว่าแทนค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So we needn't fight them?",
+      "text": "แปลว่าพวกเราไม่จำเป็นต้องสู้กับพวกมันใช่ไหมคะ?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "We find it's safer not to. When threatened, they'll siphon energy from facilities we need to keep our medical services running, or emit bursts that overload nearby systems.",
+      "text": "เลี่ยงการปะทะได้จะปลอดภัยที่สุดค่ะ เพราะหากพวกมันรู้สึกว่าถูกคุกคามขึ้นมาเมื่อไหร่ ก็จะหันมาดูดกลืนพลังงานจากระบบเครื่องมือที่จำเป็นต่อการรักษาพยาบาลของเรา หรือไม่ก็ปล่อยกระแสพลังงานปะทุจนระบบรอบข้างทำงานเกินพิกัดค่ะ"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "For the same reason, I recommend you stick to thoroughfares that will allow you to spot them well in advance. I would hate for you to be injured while helping us.",
+      "text": "ด้วยเหตุเดียวกันนี้ ฉันแนะนำให้เดินเลาะตามถนนสายหลักเพื่อจะได้มองเห็นพวกมันแต่ไกลนะคะ ฉันคงรู้สึกผิดแย่หากคุณต้องมาเจ็บตัวเพราะช่วยเหลือพวกเราค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Understood.",
+      "text": "เข้าใจแล้วค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We'll want to split up again to cover more ground. Are you ready to go?",
+      "text": "พวกเราแยกย้ายกันเดินเพื่อความทั่วถึงดีกว่านะคะ คุณพร้อมออกเดินทางหรือยังคะ?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "I appreciate the help. I'll be here working on the detector while you're away.",
+      "text": "ขอบคุณสำหรับความช่วยเหลือจริงๆ ค่ะ ระหว่างนี้ฉันจะนั่งซ่อมเครื่องตรวจจับตรงนี้รอนะคะ"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "You're back! Were there many sprites?",
+      "text": "กลับมาแล้วหรือคะ! เป็นอย่างไรบ้าง เจอภูตสายฟ้าเยอะไหมคะ?"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Just a handful on your route, then? Could be worse!",
+      "text": "เจอแค่หยิบมือเดียวตามเส้นทางอย่างนั้นหรือคะ? ก็ยังดีกว่าที่คิดค่ะ!"
+    },
+    {
+      "character": "Eyaney",
+      "text_en": "Still, it's important to keep the city free of them. We're much obliged!",
+      "text": "แต่ถึงอย่างนั้น การดูแลเมืองไม่ให้มีพวกมันมาป้วนเปี้ยนก็เป็นเรื่องสำคัญมากอยู่ดีค่ะ ต้องขอบคุณพวกคุณมากเลยนะคะ!"
+    }
+  ]
+}

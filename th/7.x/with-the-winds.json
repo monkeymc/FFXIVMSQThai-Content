@@ -1,0 +1,538 @@
+{
+  "id": "with-the-winds",
+  "wiki_path": "/wiki/With_the_Winds",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/b/bf/With_the_winds1.png",
+  "patch": "7.4",
+  "title_en": "With the Winds",
+  "title": "โบยบินไปกับสายลม",
+  "level": "100",
+  "location": "Solution Nine(X:11.9,Y:6.4)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "Every day, more and more people regain their memories of their lost loved ones. No longer will beings like Calyx be able to manipulate their fear and ignorance as he once did.",
+      "text": "ในแต่ละวันที่ผ่านพ้น ผู้คนมากมายต่างเริ่มได้ความทรงจำเกี่ยวกับคนรักที่ล่วงลับกลับคืนมา ต่อจากนี้ไป สิ่งมีชีวิตอย่างคาลิกซ์จะไม่มีวันใช้ความกลัวและความไม่รู้มาปั่นหัวพวกเขาได้เหมือนแต่ก่อนอีกแล้วครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That being the case, Alisaie and I have come to a decision.",
+      "text": "เมื่อเป็นเช่นนั้นแล้ว ผมกับอลิเซจึงได้ตัดสินใจร่วมกันครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We will depart Tural in the coming days. Other nations must be informed about Alexandria─a necessary step to ensure lasting peace.",
+      "text": "พวกเราจะเดินทางออกจากทูรัลในอีกไม่กี่วันข้างหน้านี้แล้วล่ะ ต้องแจ้งเรื่องอเล็กซานเดรียให้แว่นแคว้นอื่นได้รับรู้... ซึ่งนั่นเป็นหนทางที่จำเป็นเพื่อรักษาความสงบสุขที่ยั่งยืนไว้"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then, we shall return to Garlemald. Our experiences here should serve us well in the ongoing restoration efforts.",
+      "text": "หลังจากนั้น พวกเราก็จะกลับการ์เลมัลด์ ประสบการณ์ที่สั่งสมจากที่นี่น่าจะช่วยงานฟื้นฟูบูรณะเมืองที่กำลังทำอยู่ได้เยอะเลยล่ะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "However, one pressing matter remains.",
+      "text": "ทว่า ยังมีเรื่องด่วนเรื่องหนึ่งที่ละเลยไม่ได้ครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Calyx's summoning ritual was tied to a concept of his own creation. Ascian involvement is assured, but we have yet to ascertain the extent of their influence on the Ninth.",
+      "text": "พิธีอัญเชิญของคาลิกซ์นั้นยึดโยงอยู่กับมโนทัศน์ที่เขาสร้างสรรค์ขึ้นมาเอง แม้จะค่อนข้างแน่ใจว่าพวกเอสเซียนมีส่วนเกี่ยวข้องด้วย ทว่าเรายังมิอาจทราบแน่ชัดว่าพวกนั้นแผ่อิทธิพลครอบงำห้วงมิติที่เก้าไปมากน้อยเพียงใดครับ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have done what I can to treat the enthralled and those still afflicted with levin sickness, and may now devote my undivided attention to an investigation.",
+      "text": "ฉันได้ช่วยรักษาเยียวยาเหล่าผู้ถูกครอบงำรวมถึงผู้ที่ยังทุกข์ทรมานจากโรคไข้สายฟ้าอย่างสุดความสามารถแล้วล่ะ จากนี้คงทุ่มเทสมาธิทั้งหมดให้กับการสืบสวนเรื่องนี้ได้อย่างเต็มที่เสียที"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then we shall leave this one in your capable hands. Do let us know if you turn anything up.",
+      "text": "ถ้าเช่นนั้น ผมคงต้องขอฝากฝังเรื่องนี้ไว้กับคุณด้วยนะครับ หากพบเบาะแสใดเพิ่มเติม โปรดส่งข่าวบอกพวกเราด้วย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's Erenville. My time in Tural is at an end, and so I'm headed to the harbor now.",
+      "text": "ผมเอเรนวิลล์นะครับ ตอนนี้เวลาของผมในทูรัลสิ้นสุดลงแล้ว และกำลังจะเดินทางไปที่ท่าเรือครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We'll meet again─of that I'm certain. Until then, I wish you safe travels.",
+      "text": "ผมมั่นใจว่าเราจะได้พบกันอีกแน่นอนครับ ระหว่างนี้ ก็ขอให้เดินทางปลอดภัยนะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Words of caution from you of all people...",
+      "text": "ไม่นึกเลยว่าคนอย่างคุณจะเป็นฝ่ายเตือนผม..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "And pull you away from more important business? Perish the thought...",
+      "text": "แล้วจะดึงคุณออกจากเรื่องสำคัญอื่นงั้นเหรอครับ? อย่าคิดแบบนั้นเลย..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Wh─ Hey! What do you think you're doing!?",
+      "text": "อะ... เฮ้! นี่คิดจะทำอะไรน่ะ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry to interrupt, but I thought you'd like to know I've detained the fugitive.",
+      "text": "ขอโทษที่ขัดจังหวะนะ แต่ฉันคิดว่าพวกนายน่าจะอยากรู้ว่าฉันจับตัวคนที่จะแอบหนีไว้ได้แล้วล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He promises to tell us before he sets sail, only to try and sneak aboard his boat with nary a hug good-bye! Cold bastard. But there's still time before they weigh anchor!",
+      "text": "สัญญาเป็นมั่นเหมาะว่าจะบอกกันก่อนเรือออกแท้ๆ แต่ดันแอบย่องขึ้นเรือไปหน้าตาเฉยโดยไม่บอกลาหรือกอดลากันสักนิด! ช่างเย็นชาชะมัด แต่ตอนนี้เรือยังไม่ถอนสมอขึ้น ยังพอมีเวลานะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That boy... We should make for the harbor ere he wriggles free of Lamaty'i's grasp.",
+      "text": "เด็กคนนั้นจริงๆ เลย... พวกเราควรรีบไปที่ท่าเรือ ก่อนที่เขาจะดิ้นหลุดจากน้ำมือของลามาตียี่กันดีกว่านะคะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If we're heading the same way, we might join him on the ship. Good company is always welcome on a long voyage, is it not?",
+      "text": "หากพวกเราเดินทางไปเส้นทางเดียวกัน ก็อาจจะขึ้นเรือไปพร้อมกันเลยก็ได้นะครับ การเดินทางไกลหากมีสหายร่วมทางที่ดี ย่อมเป็นเรื่องน่ายินดีมิใช่หรือครับ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What, now!? I haven't finished packing!",
+      "text": "หา อะไรนะ ตอนนี้เลยเหรอ!? ฉันยังเก็บกระเป๋าไม่เสร็จเลยนะ!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Knowing you, the essentials are already accounted for.",
+      "text": "คนอย่างเธอคงเตรียมของใช้ที่จำเป็นลงกระเป๋าหมดเรียบร้อยแล้วล่ะครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Fine, if we must... But you're helping pack the rest.",
+      "text": "ก็ได้ ถ้าเลี่ยงไม่ได้ล่ะก็... แต่นายต้องช่วยฉันเก็บของที่เหลือด้วยนะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And I hope you've decided on a souvenir for Jullus.",
+      "text": "แล้วก็หวังว่านายจะเลือกของฝากไปให้จูลลัสได้แล้วนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have several ideas, as it happens...",
+      "text": "อันที่จริง ผมมีของที่คิดไว้ในใจอยู่หลายอย่างเลยล่ะครับ..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ever aligned in purpose...if not execution.",
+      "text": "เป้าหมายตรงกันเสมอ... เสียแต่ว่าวิธีปฏิบัติมักสวนทางกันตลอด"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Lest you wonder, Krile and I intend to remain here with Y'shtola.",
+      "text": "เผื่อนายจะสงสัยนะ ฉันกับไครล์ตั้งใจจะอยู่ที่นี่ต่อกับยาชโทลาน่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To continue our study of the key, naturally. By all accounts, Preservation's facility promises to yield some answers.",
+      "text": "ก็เพื่อศึกษาเรื่องกุญแจต่ออย่างไรเล่า เพราะเท่าที่ทราบมา ดูเหมือนสถานวิจัยของ 'พรีเซิร์ฟเวชัน' น่าจะพอให้คำตอบแก่พวกเราได้บ้าง"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shale has been conducting a more thorough examination. She may have insights to share.",
+      "text": "คุณเชลกำลังทำการตรวจสอบอย่างละเอียดอยู่เหมือนกันค่ะ บางทีเธออาจจะมีเบาะแสที่เป็นประโยชน์มาเล่าให้ฟังก็ได้นะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Then why not invite her along to see everyone off? Surely she'd want to be there too.",
+      "text": "ถ้าเช่นนั้น เหตุใดไม่ลองชวนเธอมาร่วมส่งทุกคนด้วยกันล่ะคะ? ฉันคิดว่าเธอก็คงอยากจะมาอยู่ที่นี่ด้วยเช่นกันค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am told that Shale is the new leader of Oblivion. There is none better suited to carrying on Cahciua and Geode's legacy.",
+      "text": "ได้ยินมาว่าตอนนี้เชลขึ้นเป็นผู้นำคนใหม่ของ 'อ็อบลิเวียน' แล้วสินะ คงไม่มีใครเหมาะสมไปกว่าเธออีกแล้วในการสานต่อเจตนารมณ์ของคาชิวาและจีโอด"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Eager as ever, our Alphinaud. I do hope he has thought this through...particularly where his sister's wrath is concerned.",
+      "text": "ยังคงกระตือรือร้นเหมือนเช่นเคยนะคะคุณอัลฟิโน หวังว่าเรื่องนี้จะคิดทบทวนมาเป็นอย่างดีแล้ว... โดยเฉพาะประเด็นเรื่องโทสะของน้องสาวเขาน่ะค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "She may know full well that no amount of complaint will dissuade him, but that doesn't mean she won't still give him an earful.",
+      "text": "ถึงเธอจะรู้แก่ใจว่าต่อให้บ่นแค่ไหนก็ไม่อาจห้ามเขาได้ แต่นั่นก็ไม่ได้หมายความว่าเธอจะไม่บ่นเขาจนหูชาหรอกนะคะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It feels like an age since we last met here.",
+      "text": "รู้สึกเหมือนผ่านไปนานแสนนาน ตั้งแต่ที่พวกเราเจอกันที่นี่ครั้งล่าสุดเลยนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "It comforts me to know that some of you will be staying. I would feel rather bereft should you all go at once!",
+      "text": "ช่วยให้เบาใจขึ้นเยอะเลยค่ะที่รู้ว่าบางคนจะยังอยู่ต่อที่นี่ หากทุกท่านจากไปพร้อมกันหมดในคราวเดียว ฉันคงรู้สึกเหงามากแน่ๆ ค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "What news, Forename ? Can't imagine you brought an entourage along to simply say hello.",
+      "text": "มีข่าวคราวอะไรบ้างคะ [ชื่อ]? ดูจากผู้ติดตามที่ยกขบวนกันมาขนาดนี้ คงไม่ได้แค่มาทักทายกันเฉยๆ แน่เลยใช่ไหมคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "That eager to be on their way, are they?",
+      "text": "ดูท่าทางรีบร้อนเดินทางกันน่าดูเลยนะคะนั่น?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'll join you. I owe them thanks on behalf of Oblivion, after all.",
+      "text": "ฉันขอไปด้วยคนสิคะ ยังไงก็อยากจะไปขอบคุณพวกเขาในนามของอ็อบลิเวียนสักหน่อยน่ะค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And there I thought you would protest against being parted from your work.",
+      "text": "นึกว่าเธอจะอิดออดเพราะต้องละมือจากงานเสียอีกนะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "While I am curious to see what emerges once every piece of the puzzle's in place, the majority of the files we've unearthed are encrypted. There's little else I can do until the computer's finished with them.",
+      "text": "ถึงจะอยากรู้ใจจะขาดว่าจะมีอะไรโผล่ออกมาตอนปริศนาคลี่คลายครบทุกส่วน แต่ไฟล์ส่วนใหญ่ที่เราขุดเจอมาดันถูกเข้ารหัสไว้หมดเลยน่ะค่ะ ตอนนี้เลยทำอะไรไม่ได้มากไปกว่ารอให้ระบบคอมพิวเตอร์ประมวลผลให้เสร็จค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "...Besides, unlike our friends, Containment Complex 10-29 isn't going anywhere.",
+      "text": "...อีกอย่าง สถานวิจัยส่วนกักกัน 10-29 ก็ไม่ได้จะหนีไปไหน ไม่เหมือนกับเพื่อนๆ ของเรานี่คะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In other words, we won't be getting any answers today / tonight ?",
+      "text": "สรุปคือ วันนี้คงยังไม่ได้คำตอบอะไรเลยสินะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Afraid not. It's going to be a while yet.",
+      "text": "เกรงว่าจะเป็นอย่างนั้นค่ะ คงต้องรอกันอีกสักพักใหญ่เลย"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Then shall we depart for Tuliyollal forthwith? Even Lamaty'i's strength has its limits...",
+      "text": "ถ้าเช่นนั้น พวกเราจะออกเดินทางไปทูลิโยลลัลกันเลยดีไหมคะ? ขนาดเรี่ยวแรงของละมาตียี่เองก็ยังคงมีขีดจำกัดเหมือนกันนะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Without further delay, then!",
+      "text": "งั้นก็อย่ารอช้ากันอยู่เลย!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Despite her protestations, I doubt Alisaie will keep us waiting long.",
+      "text": "ถึงจะปากบ่นไปอย่างนั้น แต่ฉันว่าอลิเซคงไม่ปล่อยให้พวกเราต้องรอนานหรอก"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha seems preoccupied with a matter of great import. Perhaps he is contemplating a prayer to Llymlaen for their safe passage.",
+      "text": "คุณราฮาดูเหมือนกำลังครุ่นคิดเรื่องสำคัญอยู่เลยนะคะ หรือว่าจะกำลังนึกคำอธิษฐานต่อเทพีลิมเลนเพื่อขอให้พวกเขาเดินทางปลอดภัยกันนะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What sort of tacos should I get on the way back, do you think? The aroma is too tantalizing to ignore...",
+      "text": "นายว่าขากลับฉันควรซื้อทาโก้แบบไหนดีล่ะ? กลิ่นหอมๆ นั่นมันยั่วน้ำลายจนเกินจะอดใจไหวจริงๆ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Tuliyollal is a delight to look upon. They hang patterned cloth where we might use neon, but the city feels no less bright.",
+      "text": "ทูลิโยลลัลช่างเป็นเมืองที่สวยงามน่ามองเหลือเกินค่ะ แม้ที่นี่จะประดับประดาด้วยผ้าม่านลวดลายวิจิตรแทนการใช้แสงไฟนีออนแบบบ้านเรา ทว่าในตัวเมืองกลับดูสว่างไสวไม่แพ้กันเลยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana and Gulool Ja weren't able to make it, but both send their regards.",
+      "text": "โคอานากับกูลูล จา มาด้วยไม่ได้น่ะ แต่ฝากความระลึกถึงมาถึงทุกคนนะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Wish we had some of this sea breeze inside the dome. We could perhaps simulate it, but there's no substitute for the real thing.",
+      "text": "อยากให้มีลมทะเลพัดโชยเข้าไปในโดมบ้างจังเลยค่ะ ถึงเราจะสามารถใช้แบบจำลองสร้างขึ้นมาได้ แต่มันก็ทดแทนของจริงไม่ได้เลยนะคะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I wish you all would not make such a fuss... I am not fond of emotional partings.",
+      "text": "ผมไม่อยากให้ทุกคนทำเป็นเรื่องใหญ่โตเลยครับ... ไม่ค่อยถนัดเรื่องการจากลาที่เต็มไปด้วยอารมณ์ความรู้สึกสักเท่าไหร่ครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "At least Alphinaud and Alisaie were considerate enough to inform me of their plans in advance by linkpearl. Some people we know would have burst out of a crate mid-voyage...",
+      "text": "อย่างน้อยคุณอัลฟิโนกับคุณอลิเซก็ยังอุตส่าห์ใส่ใจส่งข่าวบอกแผนการล่วงหน้าผ่านลิงก์เพิร์ล ไม่เหมือนกับบางคนที่พวกเราคุ้นเคยกันดี ที่คงแอบมุดกล่องโผล่ออกมากลางทะเลเป็นแน่..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "In any event, I shall wait here until they finish their preparations.",
+      "text": "เอาเป็นว่า ผมจะรออยู่ตรงนี้จนกว่าพวกเขาจะเตรียมตัวเสร็จก็แล้วกันครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It will be pleasant to have some company for the journey back.",
+      "text": "การมีเพื่อนร่วมทางในการเดินทางกลับด้วยกัน ย่อมเป็นเรื่องที่ดีครับ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For our many meetings and partings, we have few enough opportunities to properly say our farewells. 'Twas pleasant to take the time for it.",
+      "text": "แม้จะผ่านการพบเจอและลาจากกันมานับครั้งไม่ถ้วน แต่พวกเรากลับไม่ค่อยมีโอกาสได้เอ่ยคำบอกลากันดีๆ เสียเท่าไหร่เลย การหาเวลามาทำอะไรแบบนี้บ้าง ก็นับเป็นเรื่องที่วิเศษดีเหมือนกันนะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though I delight in companionship, solo journeys too have their appeal. And travel by sea is relaxing...",
+      "text": "ถึงฉันจะชอบความครึกครื้นยามมีเพื่อนร่วมทาง แต่การเดินทางคนเดียวก็มีเสน่ห์ไปอีกแบบนะ... แถมการเดินทางทางทะเลก็ผ่อนคลายดีออก..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "With Alisaie and Alphinaud spreading word of Alexandria, we shall soon have the chance to establish relations with other nations. I must make ready to treat with their leaders.",
+      "text": "ในเมื่อคุณอลิเซย์และคุณอัลฟิโนช่วยกันป่าวประกาศเรื่องราวของอเล็กซานเดรีย อีกไม่นานพวกเราคงมีโอกาสได้สร้างสัมพันธไมตรีกับนานาประเทศแล้วล่ะค่ะ ฉันเองก็ต้องเตรียมตัวเจรจาความเมืองกับเหล่าผู้นำของพวกเขาให้พร้อมเช่นกันค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm glad I got the chance to see him off. Cahciua would be glad, too.",
+      "text": "ดีใจที่ได้มีโอกาสมาส่งเขานะคะ... ถ้าคุณคาชิอัวรู้เข้าก็คงจะดีใจเหมือนกันค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Now it is our turn to take the next step.",
+      "text": "เอาละ คราวนี้ถึงตาพวกเราก้าวไปอีกขั้นแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The question is in what direction, and that is a matter I should like to discuss with you.",
+      "text": "แต่ปัญหาคือเราจะก้าวไปทางไหนต่อดี... ซึ่งเรื่องนี้ฉันอยากจะขอหารือกับคุณสักหน่อยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There they are.",
+      "text": "อ๊ะ อยู่นั่นกันแล้ว!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You look well. No lingering effects, then?",
+      "text": "ดูสบายดีนี่นา ไม่มีผลกระทบอะไรหลงเหลืออยู่แล้วใช่ไหมล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Eh, I'm hale as ever! And busy with work...",
+      "text": "ฮ่าๆ ฉันแข็งแรงดีเหมือนเดิมทุกอย่างนั่นแหละ! แถมตอนนี้ยุ่งกับงานสุดๆ เลยด้วย..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I imagine there's no shortage of affairs to put in order. Are Koana and Gulool Ja faring well?",
+      "text": "ผมพอจะนึกออกเลยครับว่าคงมีเรื่องให้จัดการเยอะแยะไปหมด แล้วคุณโคอานากับกูลูล จาสบายดีไหมครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana is off to survey our nation and its peoples. He wants to consult with local representatives and hear their thoughts on our policies.",
+      "text": "พี่โคอาน่ากำลังออกไปตรวจตราบ้านเมืองและพบปะผู้คนอยู่น่ะ เขาอยากปรึกษากับพวกตัวแทนท้องถิ่นแล้วก็รับฟังความเห็นที่พวกเขามีต่อนโยบายของพวกเราดู"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And Gulool Ja's really taken to his training! I feel like he's been spending more time with the Landsguard than me lately.",
+      "text": "ส่วนกูลูล จาก็จดจ่อกับการฝึกซ้อมมากเลยละ! ช่วงนี้รู้สึกเหมือนแกจะใช้เวลาอยู่กับพวกทหารแลนด์สการ์ดมากกว่าฉันซะอีกนะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Standing here, I cannot help but remember the day of our arrival in Tuliyollal. The rite of succession feels so long ago...",
+      "text": "พอยืนอยู่ตรงนี้แล้ว ผมอดไม่ได้ที่จะนึกถึงวันแรกที่พวกเราเดินทางมาถึงทูลิโยลลัลเลยครับ พิธีสืบทอดราชบัลลังก์ในตอนนั้นรู้สึกเหมือนผ่านมานานเหลือเกิน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We knew naught of what would happen between my father and Zoraal Ja, nor of Alexandria and its queen...",
+      "text": "ตอนนั้นพวกเราไม่รู้เลยสักนิดว่าจะเกิดอะไรขึ้นระหว่างท่านพ่อกับพี่โซราล จา... แล้วก็ไม่รู้เรื่องอเล็กซานเดรียกับองค์ราชินีของที่นั่นด้วยซ้ำ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It was to aid a naive claimant that you came to Tural. But you've done so much more for me...",
+      "text": "แรกเริ่มเดิมที นายเดินทางมาทูรัลก็เพื่อช่วยเหลือผู้ท้าชิงที่ยังอ่อนหัดคนหนึ่งแท้ๆ แต่ตลอดเวลาที่ผ่านมา นายกลับทำเพื่อฉันมากมายเหลือเกิน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For the entire nation of Tuliyollal. We owe you a greater debt than we can ever repay.",
+      "text": "ไม่ใช่แค่ทำเพื่อฉันหรอก แต่เพื่อทูลิโยลลัลทั้งประเทศเลยต่างหาก บุญคุณครั้งนี้ใหญ่หลวงเกินกว่าที่พวกเราจะชดใช้ได้หมดจริงๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...But that doesn't mean we can't try! Whenever you need an ally, we'll stand with you.",
+      "text": "แต่ถึงอย่างนั้นก็ใช่ว่าเราจะไม่พยายามตอบแทนนะ! เมื่อไหร่ก็ตามที่นายต้องการพรรคพวก ขอให้บอกเถอะ พวกเราพร้อมจะยืนเคียงข้างนายเสมอ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Allow me to echo that sentiment.",
+      "text": "ขอให้ฉันได้ร่วมยืนยันความรู้สึกนั้นด้วยอีกคนนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Not only were you kind to me when I awakened a stranger in my own land, you extended your grace to Alexandria again and again.",
+      "text": "ไม่ใช่แค่ดีต่อฉันยามลืมตาตื่นขึ้นมาเป็นคนแปลกหน้าในดินแดนของตัวเองเท่านั้น แต่คุณยังช่วยโอบอุ้มชาวอเล็กซานเดรียครั้งแล้วครั้งเล่าด้วยค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And, on behalf of myself and my people...",
+      "text": "ในนามของตัวฉันเองและประชาชนทุกคน..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for curing the ailment that for centuries tormented us.",
+      "text": "ขอบคุณมากนะคะที่ช่วยรักษาโรคร้ายที่รุมเร้าพวกเรามานานหลายศตวรรษจนหายดี"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll look forward to our next visit. I'm sure we'll have exciting stories to share with one another.",
+      "text": "ฉันจะตั้งตารอการมาเยือนครั้งหน้าเลยล่ะ ถึงตอนนั้นพวกเราต้องมีเรื่องราวน่าตื่นเต้นมาเล่าสู่กันฟังเพียบแน่ๆ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Ever since I introduced you to Wuk Lamat, you've faced no end of hardships. Many of them her fault.",
+      "text": "ตั้งแต่ผมแนะนำคุณให้รู้จักกับวุค ลามัต คุณก็มีแต่เรื่องเหนื่อยยากไม่เว้นแต่ละวัน แถมส่วนใหญ่มักจะเป็นเพราะยัยนั่นก่อเรื่องเองทั้งนั้น"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Yet I feel no remorse...only gratitude. For without your aid, I would not have had the chance to say good-bye.",
+      "text": "ถึงอย่างนั้นผมก็ไม่เคยรู้สึกเสียใจเลย... มีแต่คำว่าขอบคุณเท่านั้น เพราะถ้าไม่มีคุณ ผมคงไม่มีโอกาสได้บอกลา..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Nor vowed to explore every corner of the world...",
+      "text": "และคงไม่มีวันตัดสินใจออกเดินทางไปสำรวจโลกกว้างให้ครบทุกซอกทุกมุม..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...To see what we haven't seen.",
+      "text": "เพื่อไปเห็นในสิ่งที่เรายังไม่เคยพานพบ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Shall we?",
+      "text": "เดินทางกันเลยไหมครับ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Rest assured, upon arriving we shall make it a priority to visit Tataru and assuage her myriad fears.",
+      "text": "วางใจได้เลยครับ ทันทีที่ไปถึง พวกเราจะรีบไปหาคุณทาทารุเป็นอันดับแรก เพื่อช่วยคลายความกังวลสารพัดอย่างของเธอลงครับ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I expect the sight of you two will be a balm for her worry-laden heart.",
+      "text": "ฉันคิดว่าแค่ได้เห็นพวกเธอสองคนกลับมาอย่างปลอดภัยก็น่าจะช่วยเยียวยาหัวใจอันแสนกังวลของเธอได้มากทีเดียวล่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Safe journey! And remember to enjoy it.",
+      "text": "เดินทางปลอดภัยนะคะ! แล้วก็อย่าลืมสนุกไปกับการเดินทางด้วยล่ะค่ะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Give my regards to Oblivion. ...And thank you, for all you did for my mother.",
+      "text": "ฝากทักทายพวกอ็อบลิเวียนด้วยนะครับ... และขอบคุณสำหรับทุกอย่างที่ทำให้ท่านแม่ของผมนะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come back soon!",
+      "text": "ไว้รีบกลับมาอีกนะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Take care!",
+      "text": "ดูแลตัวเองดีๆ นะคะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That was a proper send-off! Now─time to get back to it.",
+      "text": "ส่งกันเรียบร้อยแล้ว! เอาละ... ได้เวลากลับไปลุยงานต่อแล้ว!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Duty ever calls for she who loves her realm.",
+      "text": "ภาระหน้าที่มักจะเรียกหาผู้ที่รักดินแดนของตนเสมอเลยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right? Though if you need a break, you're always welcome to visit Tuliyollal. I'll give you the grand tour!",
+      "text": "ใช่ไหมล่ะ? แต่ถ้าเมื่อไหร่ที่เธออยากพักล่ะก็ มาเที่ยวทูลิโยลลัลได้เสมอนะ เดี๋ยวฉันจะพาเที่ยวชมให้ทั่วเองเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I...I guess they're really over. Your adventures in Tural.",
+      "text": "ฉัน... ใจหายเหมือนกันแฮะที่มันจบลงจริงๆ แล้ว การผจญภัยในทูรัลของนายน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'll remember our time together for the rest of my days.",
+      "text": "ช่วงเวลาที่เราได้อยู่ด้วยกัน... ฉันจะจดจำมันไปตลอดชีวิตเลยล่ะ"
+    },
+    {
+      "character": "Bright Boy",
+      "text_en": "Aha! Vow of Resolve spotted!",
+      "text": "อ๊ะ! เจอตัวท่านสัญญาแห่งปณิธานแล้ว!"
+    },
+    {
+      "character": "Lively Lass",
+      "text_en": "The Landsguard is looking for you! It's sparring time!",
+      "text": "พวกพี่ๆ ทหารแลนด์สการ์ดกำลังตามหาตัวอยู่เลยค่ะ! ได้เวลาประลองฝีมือแล้วนะคะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh! Good thing you're here, then. Can't miss that!",
+      "text": "โอ๊ะ! งั้นก็ดีเลยที่มาบอก พลาดไม่ได้เด็ดขาดเลยล่ะ!"
+    },
+    {
+      "character": "Bright Boy",
+      "text_en": "So let's go already! Everyone's waiting to see the Vow of Resolve in action!",
+      "text": "งั้นก็รีบไปกันเถอะครับ! ทุกคนกำลังรอดูลีลาของท่านสัญญาแห่งปณิธานอยู่เลยครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry, I have to go!",
+      "text": "โทษทีนะ ฉันต้องไปแล้วล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Till next time!",
+      "text": "ไว้เจอกันใหม่นะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And thus do they take to the winds.",
+      "text": "และแล้วพวกเขาก็ล่องลอยไปตามสายลมแล้วสินะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To follow their own paths, and their hearts... As they should.",
+      "text": "เพื่อก้าวเดินไปบนเส้นทางของตัวเอง และทำตามเสียงเรียกร้องของหัวใจ... อย่างที่ควรจะเป็นนั่นแหละค่ะ"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "INTO THE MIST",
+      "text": "สู่ม่านหมอก"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Now it is our turn to take the next step.",
+      "text": "เอาละ คราวนี้ถึงตาพวกเราก้าวไปอีกขั้นแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The question is in what direction, and that is a matter I should like to discuss with you.",
+      "text": "แต่ปัญหาคือเราจะก้าวไปทางไหนต่อดี... ซึ่งเรื่องนี้ฉันอยากจะขอหารือกับคุณสักหน่อยค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For our many meetings and partings, we have few enough opportunities to properly say our farewells. 'Twas pleasant to take the time for it.",
+      "text": "ตลอดการพบพานและจากลากันมาหลายครั้งหลายครา... พวกเรากลับมีโอกาสได้กล่าวคำอำลากันอย่างเป็นทางการน้อยเหลือเกิน ดีจริงๆ ค่ะที่ได้สละเวลาเพื่อการร่ำลาอย่างเหมาะสมในครั้งนี้"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though I delight in companionship, solo journeys too have their appeal. And travel by sea is relaxing...",
+      "text": "ถึงฉันจะชอบความครึกครื้นยามมีเพื่อนร่วมทาง แต่การเดินทางคนเดียวก็มีเสน่ห์ไปอีกแบบนะ... แถมการเดินทางทางทะเลก็ผ่อนคลายดีออก..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "With Alisaie and Alphinaud spreading word of Alexandria, we shall soon have the chance to establish relations with other nations. I must make ready to treat with their leaders.",
+      "text": "ในเมื่อคุณอลิเซย์และคุณอัลฟิโนช่วยกันป่าวประกาศเรื่องราวของอเล็กซานเดรีย อีกไม่นานพวกเราคงมีโอกาสได้สร้างสัมพันธไมตรีกับนานาประเทศแล้วล่ะค่ะ ฉันเองก็ต้องเตรียมตัวเจรจาความเมืองกับเหล่าผู้นำของพวกเขาให้พร้อมเช่นกันค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm glad I got the chance to see him off. Cahciua would be glad, too.",
+      "text": "ดีใจที่ได้มีโอกาสมาส่งเขานะคะ... ถ้าคุณคาชิอัวรู้เข้าก็คงจะดีใจเหมือนกันค่ะ"
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "id": "lending-a-helphand",
+  "wiki_path": "/wiki/Lending_a_Helphand",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/36/Lending_a_Helphand.png",
+  "patch": "7.0",
+  "title_en": "Lending a Helphand",
+  "title": "ยื่นมือช่วยเหลือ",
+  "level": "92",
+  "location": "Kozama'uka(X:12.0,Y:28.3)",
+  "npc_start": "Rakorok",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "First we'll solve this problem for the Moblins, then we'll see about completing their feat!",
+      "text": "ขั้นแรกพวกเราต้องมาแก้ปัญหานี้ให้พวกม็อบลินกันก่อน จากนั้นค่อยไปว่ากันเรื่องทดสอบชิงหินศิลานะ!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... What Rakorok needs is for new helphands to create goodliving for potsworn Kaahe.",
+      "text": "ฟู่... ฟู่โฮ่... สิ่งที่ราโคล็อกต้องการคือการให้ผู้ช่วยงานคนใหม่ไปสร้างสรรค์ความเป็นอยู่ที่ดี (goodliving) ให้แก่คาเฮ (Kaahe) ช่างฝีมือผู้ปฏิญาณต่อหม้อ"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "The helphand assigned to Kaahe was hurt during the rockrain, so Rakorok took over...but he knows nothing of Kaahe.",
+      "text": "ผู้ช่วยงานที่ได้รับมอบหมายให้ดูแลคาเฮได้รับบาดเจ็บจากพายุหินถล่ม ราโคล็อกก็เลยต้องเข้ามารับหน้าที่แทน... แต่ตัวราโคล็อกกลับไม่รู้อะไรเกี่ยวกับตัวคาเฮเลยน่ะสิ"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "What does Kaahe want? What does Kaahe need? Helphands do not bother the potsworn with straightasks! Our job is to observe and anticipate─to prepare things with guessthink!",
+      "text": "คาเฮชอบอะไร? คาเฮต้องการอะไร? ในฐานะผู้ช่วยงานเราจะไม่รบกวนถามช่างฝีมือตรงๆ (straightasks) เด็ดขาดนะ! หน้าที่ของเราคือการเฝ้าสังเกตและคาดเดาความต้องการล่วงหน้า─รวมถึงจัดเตรียมสิ่งต่างๆ ด้วยการคาดเดานึกคิด (guessthink)!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Please, guessthink with Rakorok. Find out what Kaahe is lacking so we can provide it!",
+      "text": "ได้โปรดเถอะ มาร่วมลองเดานึกคิดกับราโคล็อกทีนะ ค้นหาดูซิว่าคาเฮกำลังขาดแคลนอะไรอยู่ พวกเราจะได้จัดหามาประเคนให้ถูก!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You can count on us!",
+      "text": "ไว้ใจพวกเราได้เลย!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Kaahe is only one of many potsworn in need of caretaking. We work through the night with no sleep and no rest, but there are too few of us to go around!",
+      "text": "คาเฮเป็นเพียงแค่หนึ่งในช่างฝีมือผู้ปฏิญาณต่อหม้อมากมายที่ต้องการคนดูแล พวกเราทำงานหามรุ่งหามค่ำไม่ได้หลับไม่ได้นอน แต่จำนวนคนของพวกเรากลับเหลือน้อยนิดเกินกว่าจะดูแลได้ทั่วถึงนี่สิ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is where Kaahe works, is it?",
+      "text": "ที่นี่คือสถานที่ทำงานของคาเฮงั้นเหรอ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's take a peek inside, then.",
+      "text": "งั้นพวกเราแอบชะโงกหน้าเข้าไปดูข้างในกันหน่อยดีกว่า"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That must be Kaahe. It'd be a lot quicker if we could just talk to him, but that's not the way they do things around here, apparently.",
+      "text": "คนคนนั้นน่าจะเป็นคาเฮนะเนี่ย ถ้าเราเข้าไปพูดคุยกับเขาตรงๆ เลยก็น่าจะง่ายและเร็วดีอยู่หรอก แต่ดูเหมือนวิถีทางทำธุรกิจของคนที่นี่จะไม่ยอมให้ทำแบบนั้นแฮะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We'll have to leave him be, and try our hand at some “guessthink.”",
+      "text": "เราปล่อยให้เขาทำงานไปตามสบายเถอะ แล้วมาลองใช้ฝีมือในการ 'คาดเดานึกคิด' กันดู"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, he has no shortage of crafting materials. There must be something else he's missing.",
+      "text": "อืม วัตถุดิบในการรังสรรค์งานฝีมือของเขาก็ดูจะไม่ได้ขาดแคลนอะไรเลยนะเนี่ย แปลว่าน่าจะมีสิ่งอื่นที่เขากำลังขาดหายไปอยู่ล่ะสิ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He's barely touched his meal! That dish is meant to be eaten hot, or it loses its savor...",
+      "text": "เขาแทบไม่ได้แตะอาหารในชามเลยแฮะ! ปกติกับข้าวแบบนี้ต้องกินตอนร้อนๆ สิ ไม่อย่างนั้นจะจืดชืดหมดอร่อยกันพอดี..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "He must be boiling sitting so close to the furnace, and there's no airflow to speak of. How could anyone work in that stifling heat?",
+      "text": "การที่เขามานั่งติดกับเตาหลอมแบบนี้คงจะร้อนจนตัวแทบสุกแน่ๆ แถมไม่มีลมพัดผ่านถ่ายเทอากาศเลยสักนิด เป็นใครจะไปทนทํางานในสภาพอากาศที่ร้อนอบอ้าวชวนอึดอัดขนาดนี้ได้กันนะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those tools are looking pretty worn down. Maybe it's time for some new ones...?",
+      "text": "พวกอุปกรณ์เครื่องมือพวกนั้นดูเสื่อมสภาพผุกร่อนไปเยอะทีเดียวนะเนี่ย บางทีอาจจะถึงเวลาต้องเปลี่ยนเครื่องมือชุดใหม่แล้วล่ะมั้ง...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright, after taking a good look, I think I have an idea of what things Kaahe might want to improve his working conditions.",
+      "text": "เอาล่ะ หลังจากพิจารณาดูอย่างละเอียดถี่ถ้วนแล้ว ฉันพอจะนึกออกแล้วล่ะว่ามีสิ่งใดบ้างที่จะช่วยปรับปรุงชีวิตความเป็นอยู่และการทำงานของคาเฮให้ดีขึ้นได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's head back outside and talk to Rakorok.",
+      "text": "พวกเราออกไปข้างนอกแล้วไปคุยกับราโคล็อกกันเถอะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, let's share what we observed with Rakorok!",
+      "text": "มาเร็ว รีบเอาข้อมูลที่เราสังเกตมาได้ไปแบ่งปันคุยกับราโคล็อกกัน!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Kohhh... You made your observations? What did you guessthink?",
+      "text": "ฟู่... โฮ่... ท่านไปสืบสังเกตการณ์มาเรียบร้อยแล้วรึ? คาดเดานึกคิด (guessthink) ได้ความว่าอย่างไรบ้างล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "First off, I noticed Kaahe hasn't touched his food, and an empty belly can't be good for his concentration.",
+      "text": "อย่างแรกเลยนะ ฉันสังเกตเห็นว่าคาเฮไม่ยอมแตะต้องอาหารของเขาเลย และการปล่อยให้ท้องกิ่วหิวโซคงไม่เป็นผลดีต่อสมาธิในการทำงานของเขาแน่ๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Maybe the cooking isn't to his liking?",
+      "text": "หรือว่ารสชาติอาหารจะไม่ค่อยถูกปากเขาเหรอ?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "But our food is very mouthpleasing! Why wouldn't he want to eat it?",
+      "text": "แต่มื้อเย็นที่พวกเราจัดเตรียมให้นั้นอร่อยถูกปากเปี่ยมสุข (mouthpleasing) มากเลยนะ! เหตุใดเขาถึงไม่ยอมทานมันกันล่ะ?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Argh, but Rakorok is sure of nothing when it comes to Kaahe's tastes!",
+      "text": "โอ๊ย แต่ราโคล็อกไม่มั่นใจในรสนิยมของคาเฮเลยแม้แต่นิดเดียวครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can help you with that. My brother Koana is also Hhetsarro, and while everyone has their personal preferences, there are some they tend to share.",
+      "text": "เรื่องนั้นฉันพอจะช่วยตอบคำถามได้นะ พี่โคอานาของฉันก็สืบเชื้อสายมาจากชนเผ่าเฮตซาร์โร (Hhetsarro) เหมือนกัน และถึงแม้ว่าแต่ละคนจะมีรสนิยมส่วนตัวที่แตกต่างกันไป แต่พวกเขาก็ยังมีนิสัยบางอย่างที่เหมือนๆ กันอยู่"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Like an aversion to piping hot dishes. If it was brought to him like that, Kaahe probably wouldn't have been able to eat until it cooled down, and by the time he came back to it, he might've found it cold and unappetizing.",
+      "text": "อย่างเช่นการไม่ชอบทานอาหารที่ร้อนจัดจนลวกปากยังไงล่ะ หากยกเสิร์ฟมาให้เขาในสภาพที่ควันฟุ้งแบบนั้น คาเฮคงกินไม่ลงจนกว่ามันจะอุ่นลงล่ะ และพอปล่อยทิ้งไว้กว่าเขาจะกลับมาทาน มันก็คงจืดชืดเย็นชืดจนไม่อร่อยน่าทานไปซะแล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The simplest solution is to serve dishes that taste good no matter the temperature!",
+      "text": "หนทางแก้ไขที่ง่ายดายที่สุดก็คือการเสิร์ฟกับข้าวที่ยังรสชาติดีอยู่เสมอ ไม่ว่าจะอยู่ในอุณหภูมิไหนนั่นแหละ!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Rakorok never would have thought of that! Would the Third Promise mind explaining these things to our cook?",
+      "text": "ราโคล็อกไม่มีวันนึกถึงเรื่องละเอียดอ่อนแบบนี้ได้เลยครับ! รบกวนท่านสัญญาที่สามช่วยแวะไปอธิบายชี้แนะเรื่องนี้ให้แม่ครัวของเราฟังหน่อยได้ไหมครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not at all. But I don't think that was the only reason Kaahe couldn't concentrate.",
+      "text": "ไม่มีปัญหาอยู่แล้วล่ะ แต่ฉันคิดว่านั่นไม่ใช่เหตุผลเดียวหรอกนะที่ทำให้คาเฮเสียสมาธิน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Hhetsarro homeland is hot and dry, but even Kaahe seemed to be suffering in front of that furnace. Is there any way you could cool down the workshop?",
+      "text": "ถิ่นฐานบ้านเกิดของชาวเฮตซาร์โรจะมีสภาพอากาศร้อนแล้งก็จริงอยู่ แต่ถึงอย่างนั้นดูเหมือนคาเฮจะร้อนรนทรมานยามที่ต้องยืนอยู่หน้าเตาหลอมนั่นเหมือนกันนะ พอจะมีวิถีทางลดความร้อนอบอ้าวในโรงงานลงบ้างไหม?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Oh, we could try a draftyshard. They make a lovely breeze!",
+      "text": "โอ๊ะ พวกเราสามารถลองใช้ผลึกไอเย็น (draftyshard) ได้ครับ! ผลึกเวทมนตร์นี้จะช่วยพัดลมเย็นโชยแสนสบายโชยเอื่อยๆ ออกมาได้ดีทีเดียว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Do you know where we can get one of those?",
+      "text": "แล้วเธอพอจะรู้แหล่งหาผลึกชนิดนี้ไหมล่ะ?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "You can gather them from the Shoals of No Return. There are many old boats there, abandoned by those who gave up on their search for the golden city.",
+      "text": "หาพบได้ตามแนวปะการังฝั่งน้ำตื้นผู้ไม่คืนกลับ (The Shoals of No Return) ครับ ที่นั่นมีเรือเก่าผุพังจมอยู่หลายลำ จอดทิ้งร้างไว้โดยเหล่านักเดินทางผู้ถอดใจละทิ้งการตามหานครแห่งทองคำไปแล้วครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So we salvage them from the wrecks. Could you handle that for us, Forename ?",
+      "text": "ถ้าอย่างนั้นพวกเราก็แค่ไปกู้คืนผลึกเหล่านั้นมาจากซากเรืออับปางสินะ เรื่องนี้รบกวนนายช่วยจัดการให้หน่อยได้ไหมคุณ [ชื่อ]?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, and one more thing. From what I could tell, Kaahe's files and saws and things were very worn down─maybe a new set of tools is in order?",
+      "text": "โอ๊ะ แล้วก็ยังมีอีกเรื่องหนึ่งนะ เท่าที่ฉันประเมินดู พวกตะไบ เลื่อย และอุปกรณ์ต่างๆ ของคาเฮดูผุกร่อนเสื่อมสภาพไปมากเลย─คิดว่าน่าจะต้องส่งมอบชุดเครื่องมือใหม่เอี่ยมให้เขาแล้วละ?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Ahhh! Rakorok was too preoccupied with stocking materials─a serious oversight which he will rectify! Supplying good tools for goodliving is a helphand's responsibility!",
+      "text": "อา! ราโคล็อกมัวแต่วุ่นวายหัวหมุนกับการจัดหาวัตถุดิบจนลืมเรื่องเครื่องมือไปสนิทเลย─ช่างเป็นความละเลยพังพลาดครั้งใหญ่ซึ่งข้าจะรีบแก้ไขทันที! การจัดหาเครื่องมือดีๆ เพื่อความเป็นอยู่ที่ดี (goodliving) คือหน้าที่ความรับผิดชอบของผู้ช่วยงานครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then we all have work to do! We can meet back here when our tasks are done.",
+      "text": "ถ้าอย่างนั้นพวกเราทุกคนต่างก็มีหน้าที่ที่ต้องสะสางกันแล้วล่ะ! ซ่อมแซมจัดการงานของตัวเองเสร็จสิ้นเมื่อไหร่ ค่อยมานัดเจอกันตรงนี้อีกทีนะ"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "The Shoals of No Return are past the crags, through a tunnel southeast of here. You should be able to spot the passage from just outside the village!",
+      "text": "แนวปะการังฝั่งน้ำตื้นผู้ไม่คืนกลับอยู่ถัดออกไปจากชะง่อนผาหินครับ โดยต้องเดินผ่านอุโมงค์ทางทิศตะวันออกเฉียงใต้ของที่นี่ไป ท่านน่าจะสังเกตเห็นช่องทางผ่านได้จากบริเวณด้านนอกของหมู่บ้านเลยครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You're Forename , aren't you? What brings you out here?",
+      "text": "คุณคือคุณ [ชื่อ] ใช่ไหมครับ? อะไรนำพาคุณให้มาถึงที่นี่กันล่ะ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ah, the issue with caring for the potsworn.",
+      "text": "อ๋อ เรื่องปัญหาการดูแลสุขทุกข์ของช่างฝีมือผู้ปฏิญาณต่อหม้อสินะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "When they approached me with that same problem, I suggested they commission artisans in Sharlayan instead. The quality of craftsmanship would be guaranteed, after all.",
+      "text": "ตอนที่พวกเขาเข้ามาพบผมเพื่อปรึกษาหารือเกี่ยวกับปัญหาแบบเดียวกันนี้ ผมเสนอให้พวกเขาไปจ้างวานสั่งทำชิ้นงานจากช่างฝีมือในชาร์ลายันแทนเสียเลย เพราะยังไงฝีมือและคุณภาพของชิ้นงานก็รับประกันมาตรฐานได้ดีกว่าเป็นไหนๆ ครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "However, the Moblins did not care for the idea.",
+      "text": "ทว่าพวกม็อบลินกลับไม่ค่อยสนใจแนวคิดของผมเท่าไหร่"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Surely, it would be more effective to engage a uniformly trained collective. I cannot understand their fixation on individual contracts...",
+      "text": "อันที่จริง การจ้างวานกลุ่มคณะช่างที่ผ่านการฝึกฝนระบบระเบียบแบบเดียวกันมาน่าจะมีประสิทธิภาพการทำงานที่ดีกว่าแท้ๆ ผมไม่เข้าใจความดื้อรั้นยึดติดของพวกเขาเกี่ยวกับการทำสัญญาจ้างรายบุคคลเลยจริงๆ..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Perhaps the custom will make more sense once we begin the Feat of Pots.",
+      "text": "บางทีวิถีขนบธรรมเนียมนี้อาจจะดูสมเหตุสมผลขึ้นมาเองแหละเมื่อพวกเราได้เริ่มบททดสอบแห่งหม้อ (Feat of Pots) แล้วน่ะ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Until then, we've been deemed unfit to assist in the matter of “helphands,” and are instead tasked with tending the injured. We were on our way back from procuring herbs for Urianger, in fact.",
+      "text": "จนกว่าจะถึงตอนนั้น พวกเราถูกประเมินว่าไม่มีคุณสมบัติเหมาะสมที่จะช่วยงานในเรื่องของ 'ผู้ช่วยงาน' (helphands) เลยโดนสั่งให้มาคอยดูแลเยียวยาผู้บาดเจ็บแทนเนี่ย ตอนนี้พวกเราก็เพิ่งเดินทางกลับมาจากการเสาะหาสมุนไพรไปให้คุณอูริอองเชร์พอดีเลย"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Settlements in Kozama'uka, too, have been isolated by the storm's destruction. What would have become of the wounded had we not found a way here?",
+      "text": "หมู่บ้านต่างๆ ในโคซามาอูกาเองก็ถูกตัดขาดการติดต่อเพราะความเสียหายจากพายุเช่นกัน หากพวกเราไม่สามารถค้นพบหาเส้นทางเดินทางมาถึงที่นี่ได้ ป่านนี้พวกคนเจ็บจะเป็นอย่างไรกันบ้างก็ไม่รู้ครับ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Should I become Dawnservant, one of my first acts will be to establish reliable trade routes to the capital. When I imagine how much good we can achieve with Sharlayan technology...",
+      "text": "ยามใดที่ผมสถาปนาขึ้นเป็นดอว์นเซิร์ฟวันต์ ภารกิจหลักสิ่งแรกๆ ที่ผมจะทำคือการจัดตั้งเส้นทางเดินรถและเส้นทางค้าขายที่มั่นคงเชื่อมต่อไปสู่เมืองหลวง เมื่อนึกถึงสิ่งดีๆ ที่เราจะสามารถทำได้ด้วยเทคโนโลยีอันเจริญของชาร์ลายันแล้ว..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "My apologies─I have much to consider.",
+      "text": "ขออภัยด้วยครับ─ผมมีเรื่องราวให้ต้องไตร่ตรองครุ่นคิดมากไปหน่อย"
+    },
+    {
+      "character": "Koana",
+      "text_en": "If you will excuse us.",
+      "text": "งั้นพวกเราขอตัวล่วงหน้าก่อนนะครับ"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We'll meet again soon, I'm sure. Take care, Forename .",
+      "text": "เดี๋ยวคงได้พบกันอีกในเร็วๆ นี้แน่นอน ดูแลตัวเองด้วยล่ะคุณ [ชื่อ]"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Is that a cool breeze Rakorok feels?",
+      "text": "ฟู่... ฟู่โฮ่... นี่ใช่ลมเย็นโชยชื่นใจที่ราโคล็อกสัมผัสได้รึเปล่าเนี่ย?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Yes! Thank you for seekfinding a draftyshard! Rakorok will add it to the new set of tools he brought.",
+      "text": "ใช่แล้ว! ขอบพระคุณท่านมากเลยนะที่ช่วยออกตามหา (seekfinding) ผลึกไอเย็นมาได้! ราโคล็อกจะนำมันไปบรรจุรวมเข้ากับเครื่องมือชุดใหม่เอี่ยมที่เตรียมมาครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I come bearing good food tidings! The cook has prepared a feast fit for the most discerning Hhetsarro, and it's on its way even as we speak!",
+      "text": "และฉันกลับมาพร้อมข่าวดีเรื่องปากท้องล่ะ! แม่ครัวรังสรรค์มื้ออร่อยที่สมบูรณ์แบบสำหรับชาวเฮตซาร์โรผู้พิถีพิถันเสร็จเรียบร้อยแล้ว และตอนนี้อาหารกำลังเดินทางส่งมาถึงที่นี่ในตอนที่เรากำลังคุยกันเลยล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Let's go in and see what Kaahe thinks of our efforts.",
+      "text": "พวกเราเข้าไปข้างในเพื่อมาดูผลงานกันเถอะว่าคาเฮจะคิดยังไงกับความทุ่มเทของพวกเราบ้าง"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I was wondering what occasion called for me to receive so many visitors...",
+      "text": "ข้าก็นึกว่ามีงานเทศกาลวันเฉลิมฉลองอันใดรึเปล่า ถึงได้พากลุ่มผู้มาเยือนมาแวะหาข้าเยอะแยะขนาดนี้..."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "A fine meal, new tools, and a welcome source of cool air─now I remember why I signed a potpact!",
+      "text": "มื้ออร่อยรสเลิศ เครื่องมืออันคมกริบชุดใหม่ และสายลมโชยเย็นแสนสุขสบายชื่นใจ─ตอนนี้ข้านึกออกกระจ่างแจ้งแล้วล่ะว่าเพราะเหตุใดข้าถึงได้ตอบตกลงทำสัญญาพันธสัญญาแห่งหม้อ (potpact)!"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I am grateful for your kind considerations. Allow me a moment or two, and I'll reciprocate with a piece worthy of a potsworn.",
+      "text": "ข้ารู้สึกซาบซึ้งใจและขอบคุณในความห่วงใยเอื้ออาทรของพวกท่านยิ่งนัก ขอเวลาให้ข้าสักประเดี๋ยวเถอะ ข้าจะแสดงความขอบคุณตอบแทนด้วยผลงานรังสรรค์ที่สมเกียรติแห่งช่างฝีมือผู้ปฏิญาณต่อหม้อให้ชม"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "An oil lamp to brighten the halls of Vollok Shoonsa. The craftsmanship satisfies Earthenshire's reputation for quality, I trust?",
+      "text": "ตะเกียงน้ำมันส่องสว่างเพื่อประดับโถงแห่งโวลลอค ชูนซา (Vollok Shoonsa) หวังว่าฝีมือและรายละเอียดประณีตชิ้นนี้จะช่วยรักษาชื่อเสียงความงามแห่งเอิร์ทเทนเชียร์ไว้ได้นะครับ?"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Kohhh... Such luster! Such brilliance! Truly a gift fit for the Dawnservant!",
+      "text": "ฟู่... โฮ่... ความเงางามแวววาวนี่มัน! ความระยิบระยับจับตานี่มัน! ช่างเป็นของขวัญที่เลิศเลอเหมาะสมอย่างยิ่งสำหรับองค์ดอว์นเซิร์ฟวันต์!"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I'm glad you like it. Considering the time I've wasted till now, I hope to continue crafting at this improved pace.",
+      "text": "ยินดีที่ท่านชอบมันครับ เมื่อพิจารณาถึงวันเวลาที่ข้าเสียประโยชน์ไปโดยเปล่าประโยชน์ก่อนหน้านี้ ข้าหวังว่าจะได้สมาธิรังสรรค์งานฝีมือด้วยความเร็วที่ปรับปรุงดีเยี่ยมแบบนี้ต่อไปเรื่อยๆ"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I have a contract to fulfill, after all!",
+      "text": "เพราะยังไงซะ ข้าก็มีข้อผูกมัดตามสัญญาที่ต้องทำให้สำเร็จล่ะนะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Forgive my interruption.",
+      "text": "ขอประทานอภัยที่ผมแวะมาขัดจังหวะนะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Lamaty'i, I am told the elector has deemed the crisis past, and is prepared to task us with the feat.",
+      "text": "ลามัตตี้ ผมเพิ่งได้รับแจ้งมาว่าผู้คุมสอบประเมินแล้วว่าวิกฤตการณ์ได้ผ่านพ้นไปแล้ว และเตรียมการพร้อมจะมอบหมายบททดสอบชิงหินศิลาให้แก่พวกเราแล้วครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's great news! Thank you for letting me know!",
+      "text": "วิเศษมากเลย! ขอบใจมากนะพี่โคอานาที่แวะมาแจ้งข่าว!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "So this is the craft of a potsworn. It is indeed a masterful piece.",
+      "text": "งั้นนี่ก็คือชิ้นงานของช่างฝีมือผู้ปฏิญาณต่อหม้อสินะครับ ช่างเป็นผลงานรังสรรค์ระดับปรมาจารย์จริงๆ"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "Thank you for your words of praise, Second Promise. I drew inspiration from Kozama'uka's natural beauty and sought to capture it in my work.",
+      "text": "ขอบพระคุณสำหรับคำกล่าวชื่นชมชมเชยครับท่านสัญญาที่สอง ข้าได้รับแรงบันดาลใจมาจากความงดงามตามธรรมชาติอันยิ่งใหญ่ของโคซามาอูกา และพยายามจะดึงเอาภาพสะท้อนจิตวิญญาณเหล่านั้นมาบรรจุลงในงานชิ้นนี้ครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I wondered why the Moblins did not simply build a workshop in the city, and now I have my answer...",
+      "text": "ผมเคยนึกสงสัยเหมือนครับว่าทำไมพวกม็อบลินถึงไม่ยอมไปสร้างโรงงานช่างเครื่องในเมืองหลวงทูลิโยลลัลเสียเลย แต่ตอนนี้ผมได้รับคำตอบนั้นแล้ว..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Even Sharlayan goldsmiths could not easily replicate such exquisite artistry.",
+      "text": "ผลงานฝีมืออันประณีตงดงามไร้ที่ติขนาดนี้ ต่อให้เป็นช่างทองฝีมือระดับยอดจากชาร์ลายันก็คงไม่สามารถลอกเลียนแบบได้ง่ายๆ แน่ครับ"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "One cannot create great things if one lacks creative impetus. Tuliyollal, fortunately, does not want for inspiration. Anyone wishing to learn the basics of a craft would do well to study it there.",
+      "text": "ผู้คนย่อมไม่สามารถสร้างสรรค์ผลงานที่ยิ่งใหญ่ขึ้นมาได้หรอกครับหากไร้ซึ่งแรงขับดันความอัศจรรย์ใจ โชคดีที่ทูลิโยลลัลไม่เคยขาดแคลนแรงบันดาลใจเหล่านั้น ใครก็ตามที่ปรารถนาจะศึกษาเรียนรู้พื้นฐานของงานฝีมือก็ควรจะเริ่มทดลองศึกษาดูจากที่นั่นแหละครับ"
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "I was raised among Hhetsarro more traditional than most, and the shared ingenuity of Tural's various peoples was eye-opening.",
+      "text": "ตัวข้าเติบโตขึ้นท่ามกลางชาวเฮตซาร์โรที่มีวิถีชีวิตดั้งเดิมเคร่งครัดยิ่งกว่าใคร และการได้มาสัมผัสเห็นความชาญฉลาดในการแบ่งปันความรู้ของชนเผ่าต่างๆ ในทูรัลช่วยเปิดหูเปิดตาข้าได้กว้างขวางเหลือเกิน"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You lived as a traditional Hhetsarro? I have few fond memories of nomadic life...",
+      "text": "คุณเคยใช้ชีวิตอย่างชาวเฮตซาร์โรดั้งเดิมงั้นเหรอครับ? ความจริงตัวผมเองกลับไม่ค่อยมีความทรงจำแสนหวานเกี่ยวกับวิถีชีวิตเร่ร่อนพรรค์นั้นสักเท่าไหร่..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I tried a serving of the dish we prepared for Kaahe. It was so good, I had a second helping!",
+      "text": "ฉันได้ไปลองชิมแกงจานที่เราเตรียมให้คาเฮด้วยล่ะ รสชาติดีเลิศมากจนฉันต้องเบิ้ลจานที่สองเลย!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Would that I could forget that time...",
+      "text": "หากย้อนคืนกลับไปลืมเลือนช่วงเวลาพรรค์นั้นได้ก็คงดี..."
+    },
+    {
+      "character": "Kaahe",
+      "text_en": "Now my workspace is just the way I like it, I have inspiration oozing from every pore! Think that lantern was nice? Just wait until my next masterpiece...",
+      "text": "ตอนนี้พื้นที่ทำงานของข้าได้รับการปรับปรุงจนถูกอกถูกใจสุดๆ แรงบันดาลใจกำลังสูบฉีดพลุ่งพล่านออกมาจากทุกรูขุมขนของข้าเลยล่ะ! คิดว่าตะเกียงนี้งดงามแล้วงั้นรึ? คอยยลโฉมผลงานชิ้นเอกชิ้นถัดไปของข้าได้เลย..."
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "Pfff... Pfffkohhh... Rakorok is very grateful to you!",
+      "text": "ฟู่... ฟู่โฮ่... ราโคล็อกรู้สึกซาบซึ้งและขอบคุณพวกท่านมากเลยครับ!"
+    },
+    {
+      "character": "Rakorok",
+      "text_en": "I thank you for both your hard work and clever guessthink. When it comes to helphanding, knowing the potsworn really is important!",
+      "text": "ขอบคุณสำหรับการทุ่มเทแรงกายและพลังความคิดการเดานึกคิด (guessthink) อันยอดเยี่ยมครับ พอมารับหน้าที่เป็นผู้ช่วยงานแล้ว การทำความเข้าใจและเข้าถึงตัวช่างฝีมือผู้ปฏิญาณต่อหม้อนั้นช่างมีความสำคัญอย่างยิ่งยวดจริงๆ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, that's true for pretty much everyone you meet. It's a lesson I've had drummed into me several times already on this journey.",
+      "text": "อืม นั่นแหละคือเรื่องจริงที่ใช้ได้กับแทบทุกคนที่นายพบนั่นแหละ เป็นบทเรียนล้ำค่าที่ฉันโดนพร่ำสอนสั่งสอนกรอกหูจนซึมลึกเข้าสมองหลายรอบแล้วล่ะในการเดินทางครั้งนี้"
+    }
+  ]
+}

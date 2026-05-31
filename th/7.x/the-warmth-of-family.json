@@ -1,0 +1,988 @@
+{
+  "id": "the-warmth-of-family",
+  "wiki_path": "/wiki/The_Warmth_of_Family",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/31/The_Warmth_of_Family.png",
+  "patch": "7.1",
+  "title_en": "The Warmth of Family",
+  "title": "ไออุ่นแห่งครอบครัว",
+  "level": "100",
+  "location": "Shaaloani(X:27.3,Y:10.9)",
+  "npc_start": "Koana",
+  "dialogues": [
+    {
+      "character": "Shepetto",
+      "text_en": "I expect Vow Wuk Lamat and Erenville will be back soon as well...",
+      "text": "ฉันคิดว่าท่านสัญญาแห่งปณิธานวุค ลามัต กับเอเรนวิลล์ ก็น่าจะใกล้กลับมาแล้วเหมือนกัน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana! How did it go?",
+      "text": "โคอานา! ทางนั้นเป็นยังไงบ้าง?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I believe I finally understand the significance of the hhetso.",
+      "text": "ผมคิดว่า ในที่สุดผมก็เข้าใจความสำคัญของเฮตโซแล้วครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "They nourish the Hhetsarro as they grow, and provide warmth and companionship in a harsh and unpredictable world...",
+      "text": "พวกเขาช่วยค้ำจุนชาวเฮตซาร์โรในยามเติบโต คอยมอบไออุ่นและอยู่เคียงข้างกันในโลกที่โหดร้ายและยากจะคาดเดานี้..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "They are the equal of any man, not beasts to be tamed.",
+      "text": "พวกเขามีฐานะเท่าเทียมกับมนุษย์ ไม่ใช่แค่สัตว์เดรัจฉานที่จะเอามาปราบให้เชื่อง"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Moreover, rroneek are sensitive. Though we may treat their injuries or brush their coats to keep them hale, they must ever be free to follow their instincts and seek lands where they might thrive.",
+      "text": "นอกจากนี้ โรเนกยังเป็นสัตว์ที่อ่อนไหว ต่อให้เราจะคอยรักษาอาการบาดเจ็บหรือแปรงขนให้เพื่อให้พวกเขามีสุขภาพดี แต่พวกเขาก็ต้องมีอิสระที่จะทำตามสัญชาตญาณ และออกค้นหาผืนดินที่สามารถเติบโตได้อย่างงดงามครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The Hhetsarro would never cage them, and neither should we. To control their migratory patterns or capture those who wander too close to the tracks is out of the question...",
+      "text": "ชาวเฮตซาร์โรไม่เคยขังพวกเขาไว้ และพวกเราเองก็ไม่ควรทำเช่นกัน เรื่องการควบคุมเส้นทางอพยพหรือการจับตัวที่เร่ร่อนเข้ามาใกล้รางรถไฟมากเกินไปนั้น ยิ่งเป็นไปไม่ได้ใหญ่เลยครับ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Then it is particularly important to advance our original line of inquiry. Fortunately, we were able to visit the rroneek's once-favored grazing grounds.",
+      "text": "ถ้าอย่างนั้น การหาคำตอบตามเบาะแสเดิมของเรายิ่งเป็นเรื่องสำคัญเป็นพิเศษ โชคดีที่พวกเราได้มีโอกาสแวะไปดูทุ่งหญ้าเลี้ยงสัตว์ที่ฝูงโรเนกเคยชอบไปกันมาแล้วน่ะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "As we were told, the grass looks fine. But the place is too quiet. It's not just the rroneek─even the birds and field mice have fled. We did encounter one pack of ceratoraptors, but they looked to be passing through in a hurry.",
+      "text": "อย่างที่ได้ยินมาเลยจ้ะ หญ้าก็ดูปกติดี แต่ที่นั่นมันเงียบเกินไป ไม่ใช่แค่โรเนกนะ แม้แต่นกหรือหนูนาต่างก็หนีเตลิดไปหมดเลย พวกเราเจอพวกเซอราโตแรปเตอร์ฝูงหนึ่งด้วย แต่ดูเหมือนพวกมันกำลังรีบอพยพผ่านไปเฉยๆ น่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Typically, that sort of behavior in the fauna would be associated with natural disasters. Earthquakes, landslides, and the like.",
+      "text": "ปกติแล้ว พฤติกรรมแปลกๆ ของสัตว์ป่าแบบนั้นมักจะเกี่ยวข้องกับภัยธรรมชาติ อย่างเช่น แผ่นดินไหว ดินถล่ม หรืออะไรทำนองนั้นครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Though the Hhetsarro would have surely put two and two together were the cause geological, I measured the area's aether to be certain. There was indeed nothing to suggest recent environmental disruption, but I did notice one anomaly.",
+      "text": "ถ้าเป็นสาเหตุทางธรณีวิทยาจริง ชาวเฮตซาร์โรคงจะรู้ตัวกันไปนานแล้วล่ะครับ แต่เพื่อความแน่ใจผมเลยลองวัดค่าอีเธอร์รอบๆ ดู แม้จะไม่มีอะไรบ่งชี้ถึงภัยธรรมชาติที่เกิดขึ้นเลย แต่ผมกลับสังเกตเห็นความผิดปกติอย่างหนึ่งแทน"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A strong aetheric signature to the east. Moving across the plain, albeit slowly.",
+      "text": "มีร่องรอยพลังอีเธอร์ที่รุนแรงมากทางทิศตะวันออก กำลังเคลื่อนที่ข้ามทุ่งราบอยู่ แม้จะช้าก็ตามครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "And a powerful one, like as not. A predator, given the local fauna's behavior.",
+      "text": "และดูท่าจะทรงพลังมากทีเดียว เมื่อพิจารณาจากพฤติกรรมของสัตว์ป่าแถวนั้นแล้ว คงจะเป็นนักล่านั่นแหละครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Given where we are... I believe we are dealing with a powerful beast. A predator, perhaps, given the local fauna's behavior.",
+      "text": "เมื่อพิจารณาจากสถานที่ที่เราอยู่... ผมเชื่อว่าเรากำลังเจอกับสัตว์ร้ายที่ทรงพลังครับ และหากดูจากพฤติกรรมของสัตว์แถวนี้แล้ว ก็น่าจะเป็นนักล่าครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "One of the raptors we saw looked like it had a bite taken out of its tail. By something with very large fangs.",
+      "text": "แรปเตอร์ตัวหนึ่งที่พวกเราเห็น ดูเหมือนหางของมันจะแหว่งไปเพราะโดนกัดเลยล่ะ น่าจะเป็นฝีมือของสิ่งมีชีวิตที่มีเขี้ยวขนาดใหญ่มาก"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "It couldn't be...a tturuhhetso?",
+      "text": "หรือว่ามันจะเป็น... ตูรูเฮตโซ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Tturuhhetso?",
+      "text": "ตูรูเฮตโซงั้นหรือครับ?"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "“Rroneek reaver,” in the common tongue. Our people have several names for such creatures. “Fangs that steal hhetso in the night” is another evocative one.",
+      "text": "หรือเรียกในภาษากลางว่า 'ผู้ปล้นสะดมโรเนก' น่ะค่ะ คนในเผ่าของเราตั้งชื่อเรียกพวกมันไว้หลายชื่อเลยล่ะ 'เขี้ยวรัตติกาลผู้ลักพาเฮตโซ' ก็เป็นอีกชื่อที่เห็นภาพชัดเจนเหมือนกัน"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Rroneek can fend off many predators with their horns, but not the tturuhhetso. Their scales are tough as adamant, and neither horn nor arrow can pierce them.",
+      "text": "ปกติโรเนกจะใช้เขาปกป้องตัวเองจากนักล่าทั่วไปได้ แต่ใช้กับพวกตูรูเฮตโซไม่ได้หรอกค่ะ เกล็ดของมันแข็งแกร่งราวกับเหล็กกล้า ไม่ว่าจะเขาสัตว์หรือลูกธนูก็เจาะไม่เข้าเลย"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A well-toothed carnivore with an unusually tough hide... I cannot recall any such fauna in this region.",
+      "text": "สัตว์กินเนื้อที่มีฟันแหลมคมและมีผิวหนังที่แข็งแกร่งผิดปกติแบบนั้น... ผมนึกไม่ออกเลยครับว่าเคยมีสัตว์ป่าชนิดนี้อาศัยอยู่ในแถบนี้ด้วย"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "They usually roam the wilds in the northeast, and most herds keep well clear of them. I can't tell you why this one is so far from home and its pack both.",
+      "text": "ปกติพวกมันจะร่อนเร่อยู่ในป่าทางตะวันออกเฉียงเหนือค่ะ และฝูงสัตว์ส่วนใหญ่ก็จะคอยหลีกเลี่ยงพวกมัน ฉันเองก็บอกไม่ได้เหมือนกันว่าทำไมตัวนี้ถึงได้เดินทางมาไกลจากรังและฝูงของมันขนาดนี้"
+    },
+    {
+      "character": "Koana",
+      "text_en": "In any case, I believe the source of the rroneek's consternation is clear. As is our next move. We must drive this reaver away, that they might return to their grazing lands in peace.",
+      "text": "ไม่ว่าจะยังไง ผมคิดว่าสาเหตุที่ทำให้ฝูงโรเนกตื่นตระหนกก็ชัดเจนแล้วครับ รวมถึงสิ่งที่เราต้องทำต่อไปด้วย เราต้องกำจัดผู้ปล้นสะดมตัวนี้ออกไป เพื่อให้พวกเขากลับไปยังทุ่งหญ้าเลี้ยงสัตว์ได้อย่างสงบสุขครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Never fear─we will make certain that the beast threatens you no more.",
+      "text": "ไม่ต้องกังวลไปนะครับ─พวกเราจะจัดการให้แน่ใจเองว่าสัตว์ร้ายตัวนั้นจะไม่สามารถมาคุกคามพวกคุณได้อีก"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A powerful creature behaving unusually... Left to its devices, it may well become a tural vidraal. We must attend to it ere that happens.",
+      "text": "สัตว์ที่ทรงพลังและมีพฤติกรรมแปลกประหลาดแบบนี้... ปล่อยไว้เฉยๆ มันอาจจะกลายเป็นทูรัลวิดราลได้นะครับ เราต้องรีบกำจัดมันก่อนที่เรื่องจะบานปลาย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those rroneek reavers must have a hefty set of teeth...but I'm not worried. We've fought worse.",
+      "text": "เจ้าผู้ปล้นสะดมโรเนกนั่นคงจะมีฟันแหลมคมน่าดูเลยล่ะ... แต่ฉันไม่กลัวหรอกนะ พวกเราเคยสู้กับสิ่งที่น่ากลัวกว่านี้มาแล้ว!"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "We must protect the hhetso, but not at the cost of your lives. Please take care out there.",
+      "text": "พวกเราต้องปกป้องเฮตโซก็จริง แต่ก็ไม่คุ้มถ้าต้องแลกด้วยชีวิตของพวกคุณนะคะ ขอร้องล่ะค่ะ ระวังตัวกันด้วยนะ"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "I am loath to risk inciting panic lest our fears be unfounded...but I will warn my people to take extra precautions.",
+      "text": "ฉันไม่อยากทำให้ผู้คนตื่นตระหนกโดยใช่เหตุหากเรื่องนี้ไม่ใช่ความจริง... แต่ฉันจะเตือนคนในเผ่าให้ระมัดระวังตัวเป็นพิเศษเอาไว้ก่อนค่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The rroneek reaver is a clear threat to the local population. We cannot allow it to roam unchecked.",
+      "text": "ผู้ปล้นสะดมโรเนกถือเป็นภัยคุกคามที่ชัดเจนต่อผู้คนในท้องถิ่นครับ เราจะปล่อยให้มันเพ่นพ่านตามใจชอบไม่ได้เด็ดขาด"
+    },
+    {
+      "character": "Koana",
+      "text_en": "But it won't do for us to go running off in search of it without having made proper preparations. And if others returning from across the plain have spotted it, they may be able to inform us of its recent behavior and where it might be found.",
+      "text": "แต่การที่พวกเราจะสุ่มสี่สุ่มห้าออกไปตามล่ามันโดยไม่มีการเตรียมตัวที่ดีก็คงไม่เหมาะสมครับ และหากมีคนอื่นที่เพิ่งเดินทางกลับมาจากทุ่งราบบังเอิญพบเห็นมันเข้า พวกเขาอาจจะช่วยบอกพวกเราถึงพฤติกรรมล่าสุดของมัน หรือสถานที่ที่อาจจะพบมันได้ครับ"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "Help! Heeelp!",
+      "text": "ช่วยด้วย! ใครก็ได้ช่วยที!"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "A tturuhhetso is coming this way!",
+      "text": "ตูรูเฮตโซมันกำลังมุ่งหน้ามาทางนี้แล้ว!"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "It has beasts across the plains in a panic─and our rroneek are practically paralyzed with fear. We must get them to safety!",
+      "text": "มันทำเอาพวกสัตว์ทั่วทุ่งราบตื่นตกใจกันใหญ่เลยครับ─และโรเนกของพวกเราก็กลัวจนตัวแข็งทื่อขยับไปไหนไม่ได้แล้ว เราต้องพาพวกเขาไปที่ปลอดภัยด่วนเลยครับ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We can assist by helping to calm the creatures. Once they're less agitated, it should be possible to herd them.",
+      "text": "พวกเราช่วยปลอบโยนพวกมันให้สงบลงก่อนได้นะครับ พอพวกมันหายตื่นแล้วก็น่าจะพอต้อนอพยพไปได้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And after they're out of harm's way, we'll deal with the rroneek reaver!",
+      "text": "และหลังจากที่ช่วยพวกโรเนกพ้นขีดอันตรายแล้ว พวกเราค่อยไปจัดการกับผู้ปล้นสะดมโรเนกนั่นกัน!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I suggest you remain here to attend to the rroneek when they arrive.",
+      "text": "ผมขอแนะนำให้คุณรออยู่ที่นี่เพื่อคอยดูแลฝูงโรเนกตอนที่พวกเขามาถึงเถอะครับ"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "They'll be safe with me. Please be careful out there.",
+      "text": "ฝากให้ฉันดูแลเถอะค่ะ พวกเขาจะปลอดภัยแน่นอน ขอให้พวกคุณระวังตัวกันด้วยนะคะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Make haste! We must protect the rroneek.",
+      "text": "รีบเข้าเถอะครับ! พวกเราต้องรีบไปปกป้องพวกโรเนกแล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't worry, we're right behind you.",
+      "text": "ไม่ต้องห่วงนะ พวกเราตามหลังนายมาติดๆ เลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Eyes peeled for anything brown and fluffy!",
+      "text": "คอยกวาดสายตามองหาตัวอะไรกลมๆ ขนปุยสีน้ำตาลเอาไว้ให้ดีล่ะ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It would be fortunate if they ran this way...",
+      "text": "ถ้าพวกมันหนีมาทางนี้ก็น่าจะดีนะครับ..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I think I see...",
+      "text": "ผมคิดว่าผมเห็นแล้ว..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes!",
+      "text": "ใช่แล้ว!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There they are!",
+      "text": "อยู่นั่นไงครับ!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "They're terrified. We must do what we can to soothe them.",
+      "text": "พวกมันตื่นกลัวกันมากเลย เราต้องทำทุกวิถีทางเพื่อปลอบโยนพวกมันให้สงบลงครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Thank goodness.",
+      "text": "โล่งอกไปทีครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No teeth marks",
+      "text": "ไม่มีรอยเขี้ยวแฮะ"
+    },
+    {
+      "character": "Rroneek",
+      "text_en": "<grunt>",
+      "text": "<เสียงร้องในคอ>"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You're all right...",
+      "text": "ไม่เป็นไรแล้วนะ..."
+    },
+    {
+      "character": "Rroneek",
+      "text_en": "<snuffle>",
+      "text": "<เสียงสูดปากน้ำมูก>"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That herd should be all right. Let's look for stragglers.",
+      "text": "ฝูงนี้น่าจะปลอดภัยแล้วครับ ลองออกไปตามหาพวกที่หลงฝูงกันเถอะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The rroneek are Turali too. None shall be left behind!",
+      "text": "โรเนกก็ถือเป็นประชาชนชาวทูรัลเช่นกันครับ เราจะไม่ทิ้งใครไว้ข้างหลังเด็ดขาด!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's someone coming!",
+      "text": "มีคนกำลังมาทางนี้!"
+    },
+    {
+      "character": "Hhetsarro A (text bubble)",
+      "text_en": "Run!",
+      "text": "หนีเร็ว!"
+    },
+    {
+      "character": "Hhetsarro B (text bubble)",
+      "text_en": "Call the hunters!",
+      "text": "ไปเรียกพวกนายพรานมาด่วน!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There must be something up ahead. Come!",
+      "text": "ข้างหน้าต้องเกิดเรื่องอะไรขึ้นแน่ๆ ตามมาเร็วครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There!",
+      "text": "อยู่นั่นไงครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These are no match for the likes of us!",
+      "text": "เจ้าพวกนี้ไม่ใช่คู่มือของพวกเราหรอกนะ!"
+    },
+    {
+      "character": "Rroneek",
+      "text_en": "<bellow>",
+      "text": "<เสียงร้องคำราม>"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "“In a panic” was clearly an understatement.",
+      "text": "คำว่า 'ตื่นตกใจ' ดูจะน้อยไปหน่อยนะครับแบบนี้"
+    },
+    {
+      "character": "Rroneek",
+      "text_en": "<grunt>",
+      "text": "<เสียงร้องในคอ>"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "More are coming!",
+      "text": "มีมาเพิ่มอีกแล้วครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Seriously!?",
+      "text": "ถามจริง!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Oof!",
+      "text": "อึ้ก!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You're mine!",
+      "text": "เจอนี่หน่อยเป็นไง!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Oh dear...",
+      "text": "แย่ล่ะสิ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Where did they all come from!?",
+      "text": "แห่กันมาจากไหนเยอะแยะเนี่ย!?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "All or nothing, then!",
+      "text": "ถ้าอย่างนั้นคงต้องลุยกันให้สุดตัวแล้วล่ะครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "How do you like that!? ...Ahem.",
+      "text": "โดนเข้าไปแบบนั้นเป็นยังไงล่ะ!? ...อแฮ่ม"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nice!",
+      "text": "เจ๋งมาก!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It seems that did the trick.",
+      "text": "ดูเหมือนจะจัดการเรียบร้อยแล้วนะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For the fodder, at least. But where's...",
+      "text": "อย่างน้อยก็สำหรับพวกสอยตัวเล็กตัวน้อยล่ะนะ แต่ว่าตัวหลักมัน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Look there! We've got a big one coming!",
+      "text": "ดูนั่นสิ! ตัวใหญ่มาโน่นแล้ว!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Impenetrable scales and wicked fangs...",
+      "text": "เกล็ดแกร่งเจาะไม่เข้ากับเขี้ยวอันแหลมคม..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "That's a rroneek reaver, and no mistake.",
+      "text": "นั่นมันตัวปล้นสะดมโรเนกไม่ผิดแน่"
+    },
+    {
+      "character": "Koana",
+      "text_en": "There! That one there!",
+      "text": "อยู่นั่น! ตรงนั้นไงครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Not so fast!",
+      "text": "อย่าคิดว่าจะหนีพ้นนะ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Even should it cost me my life...",
+      "text": "ต่อให้ต้องแลกด้วยชีวิตของผมก็ตาม..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "I will save the hhetso!",
+      "text": "ผมจะปกป้องพวกเฮตโซไว้ให้ได้!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana, are you alright?",
+      "text": "โคอานา นายไม่เป็นไรนะ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Do not concern yourself with me. Get the rroneek to safety!",
+      "text": "ไม่ต้องห่วงผมครับ พวกล่าถอยพาฝูงโรเนกไปที่ปลอดภัยก่อนเร็ว!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There, there. You've nothing to fear.",
+      "text": "เด็กดีๆ ไม่ต้องกลัวนะ ไม่มีอะไรต้องห่วงแล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right, let's finish the job!",
+      "text": "เอาล่ะ มาปิดฉากงานนี้กันดีกว่า!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I made a vow to our people. You shall plague them no longer!",
+      "text": "ผมได้ให้สัญญากับประชาชนเอาไว้แล้ว แกจะไม่สามารถคุกคามพวกเขาได้อีกต่อไป!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You'll find the Vow of Reason is not without resolve!",
+      "text": "แกจะได้รู้ว่าสัญญาแห่งปัญญาก็มีความเด็ดเดี่ยวไม่แพ้ใคร!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Dammit! Not even a scratch!",
+      "text": "บ้าจริง! ผิวหนังมันไม่ระคายเคืองเลยสักนิด!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Buy me some time to think, will you?",
+      "text": "ช่วยถ่วงเวลาให้ผมคิดแผนหน่อยได้ไหมครับ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It must have a weakness...and I will find it!",
+      "text": "มันต้องมีจุดอ่อนอยู่แน่ๆ... และผมจะหามันให้เจอเอง!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Koana!",
+      "text": "โคอานา!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Gah! For the love of...",
+      "text": "กึก! บ้าเอ๊ย..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Keep it busy! I need time!",
+      "text": "เบี่ยงเบนความสนใจมันไว้ก่อนครับ! ผมต้องการเวลา!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right. Go for the legs!",
+      "text": "เข้าใจแล้ว โจมตีที่ขามันเลย!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The legs!",
+      "text": "ที่ขาของมันงั้นหรือครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now we just have to keep it pinned...",
+      "text": "ตอนนี้ก็แค่ต้องตรึงมันไว้ให้อยู่..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hraaah!",
+      "text": "ย้ากกก!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Get thinking, Koana!",
+      "text": "รีบคิดเข้าสิ โคอานา!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Will do!",
+      "text": "รับทราบครับ!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A protective current of aether... But whence does it flow?",
+      "text": "กระแสพลังอีเธอร์ป้องกันตัว... แต่มันไหลเวียนมาจากตรงไหนกันล่ะ?"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The protective aether is there...",
+      "text": "อีเธอร์ป้องกันตัวอยู่ตรงนั้น..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Conducted by the scales...",
+      "text": "ถูกนำพาผ่านเกล็ด..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now, trace that back...",
+      "text": "ทีนี้ก็ย้อนรอยกลับไป..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "To the point of greatest density!",
+      "text": "ไปยังจุดที่มีความหนาแน่นมากที่สุด!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I've got it!",
+      "text": "ผมเจอแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ngh!",
+      "text": "อึ้ก!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "This is our best chance...",
+      "text": "นี่เป็นโอกาสที่ดีที่สุดของเราแล้ว..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "One well-placed piercing round to the chest, and...",
+      "text": "เล็งยิงเจาะทะลวงเข้าที่หน้าอกตรงๆ นัดเดียว แล้ว..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "You're done for!",
+      "text": "แกเสร็จแน่!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ha!",
+      "text": "ฮ่า!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "That stemmed the flow of protective aether.",
+      "text": "การยิงเมื่อครู่ช่วยยับยั้งการไหลเวียนของอีเธอร์ป้องกันตัวได้แล้วครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's nothing stopping us now!",
+      "text": "ไม่มีอะไรมาขวางพวกเราได้อีกแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Still not backing down, huh? Fine with me!",
+      "text": "ยังไม่ยอมแพ้อีกงั้นเหรอ? ก็สวยสิ ลุยกันต่อเลย!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It has yet to recollect its aether.",
+      "text": "มันยังไม่สามารถฟื้นพลังอีเธอร์ของมันขึ้นมาใหม่ได้ครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Get close!",
+      "text": "รุกประชิดตัวเข้าไปเลย!"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We must disperse that aether ere the reaver recovers it!",
+      "text": "พวกเราต้องกระจายพลังอีเธอร์นั่นออกไป ก่อนที่มันจะฟื้นตัวกลับมาได้ครับ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is going to hurt...",
+      "text": "งานนี้มีเจ็บตัวกันบ้างล่ะ..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "We did it.",
+      "text": "พวกเราทำสำเร็จแล้วครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The hhetso! Are they...?",
+      "text": "แล้วฝูงเฮตโซล่ะครับ! พวกเขาปลอดภัยไหม...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "The rroneek have all made it to Mehwahhetsoan. Hunters are scouring the area for any remaining threats, but the local fauna appear to have calmed down.",
+      "text": "ฝูงโรเนกทั้งหมดเดินทางไปถึงเมฮวาเฮตโซอันแล้วครับ เหล่านักล่ากำลังกระจายกำลังตรวจเช็กพื้นที่ว่ามีภัยคุกคามอื่นหลงเหลืออยู่ไหม แต่ดูเหมือนว่าพวกสัตว์ป่าแถบนี้จะสงบลงกันหมดแล้วครับ"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "We cannot thank you enough for your timely aid.",
+      "text": "พวกเราไม่รู้จะขอบคุณพวกคุณยังไงดีเลยค่ะที่ยื่นมือเข้ามาช่วยเหลือได้ทันเวลาขนาดนี้"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "You most of all, Vow of Reason.",
+      "text": "โดยเฉพาะท่านค่ะ ท่านสัญญาแห่งปัญญา"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "We feared you would be loath to take direct action, yet you didn't hesitate to put your life on the line for our hhetso.",
+      "text": "พวกเราเคยกังวลว่าท่านอาจจะไม่เต็มใจยื่นมือเข้ามาช่วยเหลือโดยตรง แต่ท่านกลับไม่ลังเลเลยที่จะเอาชีวิตเข้าแลกเพื่อปกป้องเฮตโซของพวกเรา"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I did no more than is a Dawnservant's duty.",
+      "text": "ผมเพียงแต่ทำตามหน้าที่ที่ดอว์นเซิร์ฟวันต์พึงกระทำเท่านั้นครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The aetherial conductivity of those scales is astounding. I daresay we could repurpose them to create a device that emits controlled pulses of aether.",
+      "text": "การนำกระแสอีเธอร์ของเกล็ดพวกนั้นช่างน่าอัศจรรย์ใจจริงๆ ครับ ผมคิดว่าเราน่าจะนำมันมาดัดแปลงเป็นอุปกรณ์ที่ปล่อยคลื่นอีเธอร์ควบคุมออกมาได้ครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "...Aether resembling that of the predator the rroneek fear most.",
+      "text": "...คลื่นอีเธอร์ที่มีลักษณะคล้ายกับพลังของนักล่าที่ฝูงโรเนกกลัวที่สุดสินะครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It might work. If we struck the right balance, we would have the means to deter the rroneek from approaching the railroad without causing them undue distress.",
+      "text": "น่าจะใช้ได้ผลนะครับ หากเราปรับระดับพลังให้สมดุลพอเหมาะ เราก็น่าจะหาวิธีขับไล่ไม่ให้ฝูงโรเนกเข้าใกล้รางรถไฟได้ โดยไม่สร้างความตื่นตระหนกจนเกินควรให้แก่พวกมัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Incredible! Koana, you've done it again!",
+      "text": "สุดยอดไปเลย! โคอานา นายทำสำเร็จอีกแล้วนะ!"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "I must say, I was hoping I'd never have to see one of these again...",
+      "text": "ต้องสารภาพตามตรงเลยครับว่า ผมหวังว่าจะไม่ต้องเห็นเจ้าตัวพรรค์นี้อีกเป็นครั้งที่สองในชีวิตแล้ว..."
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "Still haven't forgotten the last one─and it's been more than twenty years now.",
+      "text": "ผมยังคงจำเรื่องราวในครั้งล่าสุดได้ดี—ทั้งที่มันผ่านมานานกว่ายี่สิบปีแล้วก็ตาม"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "I had come as a trader to the camp in Loazeniheta. A camp that was obliterated in an instant by that monster.",
+      "text": "ตอนนั้นผมเดินทางไปค้าขายที่ค่ายพักในโลอาเซนิเฮตา ค่ายนั้นถูกอสุรกายตัวนั้นทำลายล้างจนราบคาบภายในพริบตาเลยครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Loazeniheta? That's where the Pelupelu trader found me as a babe...",
+      "text": "โลอาเซนิเฮตางั้นหรือครับ? นั่นเป็นสถานที่ที่พ่อค้าชาวเปลูเปลูพบตัวผมในตอนที่ยังเป็นทารก..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Please, can you tell me what you saw?",
+      "text": "ขอร้องล่ะครับ ช่วยเล่าให้ผมฟังทีว่าคุณเห็นอะไรบ้าง?"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "As I said, I had traveled there to trade with our fellow Hhetsarro.",
+      "text": "อย่างที่ผมบอกไปนั่นแหละครับ ผมเดินทางไปที่นั่นเพื่อค้าขายกับชาวเฮตซาร์โรด้วยกัน"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "Like us, they followed the rroneek. And like us, they were visited by a reaver.",
+      "text": "พวกเขาเองก็คอยอพยพย้ายถิ่นฐานตามฝูงโรเนกเหมือนพวกเรานี่แหละครับ และค่ายของพวกเขาก็ถูกผู้ปล้นสะดมเข้าจู่โจมเช่นกัน"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "The fiend struck like a whirlwind in the night. It was chaos.",
+      "text": "เจ้าปีศาจร้ายบุกเข้ามาเหมือนลมพายุหมุนในยามค่ำคืน ตอนนั้นวุ่นวายสับสนไปหมดเลยครับ"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "I grabbed some token belongings and bolted in a panic, thinking only of getting as far away as possible. But even in my panicked state, I could not help but notice the young couple racing the other way─toward the fell creature!",
+      "text": "ผมคว้าข้าวของที่หยิบได้แล้วก็วิ่งหนีออกมาด้วยความตื่นตระหนก คิดเพียงแต่ว่าจะต้องหนีไปให้ไกลที่สุดเท่าที่จะทำได้ แต่ถึงจะกำลังตกใจกลัวขนาดนั้น ผมก็อดสังเกตเห็นสามีภรรยาคู่วัยรุ่นคู่หนึ่งไม่ได้ พวกเขากำลังวิ่งสวนทางไป—ตรงดิ่งไปยังอสุรกายตัวร้ายนั่น!"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "\"We'll distract it!“ I heard one cry. ”Save our son! Save the hhetso!“",
+      "text": "\"พวกเราจะล่อมันไว้เอง!\" ผมได้ยินเสียงหนึ่งตะโกนลั่น \"ช่วยลูกชายของเราด้วย! ช่วยปกป้องพวกเฮตโซที!\""
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "After that, nothing but the pounding of my heart and feet and rroneek thunder. I ran and ran...and as the sun broke the horizon, I found myself separated from both man and beast.",
+      "text": "หลังจากนั้น ก็ไม่มีอะไรนอกจากเสียงหัวใจที่เต้นรัว ฝีเท้าที่รีบเร่ง และเสียงฝีเท้าโรเนกอันกึกก้องราวกับฟ้าร้อง ผมวิ่งหนีมาเรื่อยๆ... จนกระทั่งดวงอาทิตย์พ้นขอบฟ้า ผมก็พบว่าตัวเองพลัดหลงจากทั้งผู้คนและฝูงสัตว์ไปเสียแล้ว"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "Windborne words say that a group of survivors reunited with their remaining rroneek, and have long since moved on.",
+      "text": "มีข่าวลือลอยลมมาว่า กลุ่มผู้รอดชีวิตบางส่วนได้กลับมารวมตัวกับฝูงโรเนกที่เหลืออยู่ และได้ย้ายถิ่นฐานไปนานแล้วครับ"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "But still more were never seen again, including the brave couple...or so the story goes.",
+      "text": "แต่ก็มีคนอีกจำนวนมากที่ไม่มีใครพบเห็นอีกเลย รวมถึงสามีภรรยาผู้กล้าหาญคู่นั้นด้วย... เรื่องราวที่เล่าต่อกันมาก็เป็นประมาณนี้แหละครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "...And what became of their child?",
+      "text": "...แล้วเด็กคนนั้นเป็นอย่างไรบ้างครับ?"
+    },
+    {
+      "character": "Hhetsarro Trader",
+      "text_en": "I'm afraid I don't know. But if he wasn't with the survivors, even if he lived through that night... The wilderness wouldn't have been kind to a little one out on his lonesome.",
+      "text": "ผมเกรงว่าผมจะไม่ทราบครับ แต่ถ้าเขาไม่ได้อยู่กับกลุ่มผู้รอดชีวิต ต่อให้เขารอดพ้นจากคืนนั้นมาได้... ดินแดนที่รกร้างและโหดร้ายเช่นนี้คงจะไม่ปรานีต่อเด็กตัวเล็กๆ ที่ต้องอยู่ตามลำพังหรอกครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Maybe not...but perhaps a passing Pelupelu would. And, one day, even the Dawnservant himself...",
+      "text": "คงจะจริงครับ... แต่บางที พ่อค้าชาวเปลูเปลูที่เดินทางผ่านมาอาจจะปรานีเขา และในวันหนึ่ง แม้กระทั่งองค์ดอว์นเซิร์ฟวันต์เองก็เช่นกัน..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "All these years, I was convinced that my parents had left me behind to follow after the rroneek.",
+      "text": "ตลอดเวลาหลายปีที่ผ่านมา ผมฝังใจเชื่อมาตลอดว่าพ่อแม่ทิ้งผมไปเพื่อที่จะเดินทางอพยพตามฝูงโรเนก"
+    },
+    {
+      "character": "Koana",
+      "text_en": "But now I see. They didn't abandon me─they were trying to keep me safe.",
+      "text": "แต่ตอนนี้ผมเข้าใจแล้ว พวกเขาไม่ได้ทอดทิ้งผม—พวกเขากำลังพยายามปกป้องผมให้ปลอดภัยต่างหาก"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I've wasted so much time resenting them, when in truth they gave me everything I have today.",
+      "text": "ผมเสียเวลาไปมากมายกับการโกรธแค้นพวกเขา ทั้งที่ในความเป็นจริงแล้ว พวกเขาได้มอบทุกสิ่งทุกอย่างที่ผมมีในวันนี้ให้แก่ผม"
+    },
+    {
+      "character": "Koana",
+      "text_en": "It is thanks to them that I lived to know the warmth of family, even after they were gone.",
+      "text": "เป็นเพราะความรักของพวกเขาแท้ๆ ที่ทำให้ผมมีชีวิตรอดจนได้มารับรู้ถึงไออุ่นแห่งครอบครัว แม้ในยามที่พวกเขาจากไปแล้วก็ตาม"
+    },
+    {
+      "character": "Koana",
+      "text_en": "And now that I am Dawnservant, all of Tuliyollal is my family.",
+      "text": "และในตอนนี้ที่ผมดำรงตำแหน่งดอว์นเซิร์ฟวันต์ ประชาชนชาวทูลิโยลลัลทุกคนก็คือครอบครัวของผมครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "A family I will always protect...as my parents protected me.",
+      "text": "ครอบครัวที่ผมจะคอยปกป้องคุ้มครองเสมอ... เหมือนอย่างที่พ่อแม่เคยปกป้องผม"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't imagine how Koana must be feeling right now. That reaver─you don't suppose it was the same one that...?",
+      "text": "ฉันนึกไม่ออกเลยจริงๆ ว่าตอนนี้โคอานาจะรู้สึกยังไงบ้าง... เจ้าผู้ปล้นสะดมนั่นน่ะ—นายคิดว่ามันเป็นตัวเดียวกันกับที่...?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "We certainly got more than we bargained for when we set out to solve our railroad conundrum...",
+      "text": "พวกเราได้ข้อมูลเกินคาดคิดจริงๆ ครับ จากเป้าหมายแรกเริ่มที่แค่อยากมาแก้ปริศนาปัญหารถไฟแท้ๆ..."
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "You made felling that tturuhhetso look easy! On behalf of the hhetso, I thank you.",
+      "text": "พวกคุณโค่นล้มเจ้าตูรูเฮตโซตัวนั้นราวกับเป็นเรื่องกล้วยๆ เลยนะคะ! ในนามของตัวแทนเฮตโซทุกตัว ฉันขอขอบคุณพวกคุณจริงๆ ค่ะ"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "If Vow Koana counts us among his family, then he is part of ours.",
+      "text": "หากท่านสัญญาแห่งปัญญาโคอานานับพวกเราเป็นครอบครัวของเขา ถ้าอย่างนั้นเขก็คือส่วนหนึ่งในครอบครัวของพวกเราเช่นกันค่ะ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "To know that the hhetso are safe is more than enough. Yet...would it be wrong to hope that, in protecting them, we also avenged my parents? It is the least I owe to them, after all this time...",
+      "text": "แค่รู้ว่าพวกเฮตโซปลอดภัยมันก็เกินพอแล้วครับ... แต่ทว่า มันจะผิดไหมนะหากจะหวังว่า การปกป้องพวกเขาในครั้งนี้ก็เท่ากับเป็นการล้างแค้นแทนพ่อแม่ของผมด้วย? นี่คงเป็นสิ่งเล็กๆ น้อยๆ ที่ผมพอจะทำให้พวกเขาได้บ้าง หลังจากเวลาล่วงเลยผ่านไปเนิ่นนานขนาดนี้..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "Forename , I thank you for standing by me. As Dawnservant...and as the oft imperfect man beneath that mantle.",
+      "text": "คุณ [ชื่อ] ผมต้องขอบคุณมากนะครับที่คอยอยู่เคียงข้างผม ทั้งในฐานะดอว์นเซิร์ฟวันต์... และในฐานะปุถุชนคนธรรมดาที่มีข้อบกพร่องคนนี้ภายใต้ตำแหน่งการงานนั้น"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now, let us return our attentions to the matter we came here to address, shall we?",
+      "text": "เอาล่ะ พวกเรากลับมาสนใจเรื่องสำคัญที่ตั้งใจจะมาจัดการกันต่อเถอะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "We have removed the root cause of the rroneek straying from their favored grazing, and obtained the tools to devise an additional precautionary measure─a silent “whistle,” as it were.",
+      "text": "ตอนนี้เราได้กำจัดต้นตอสาเหตุที่ทำให้ฝูงโรเนกเตลิดหนีจากทุ่งหญ้าเลี้ยงสัตว์อันโปรดปรานแล้ว และยังได้วัตถุดิบเพื่อมาประดิษฐ์มาตรการป้องกันเพิ่มเติม—เรียกได้ว่าเป็น 'นกหวีด' ไร้เสียงนั่นเองครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "This whistle must be capable of emitting pulses of aether strong enough that they will shy away from the tracks on instinct, yet not so strong as to drive them into a panic.",
+      "text": "นกหวีดนี้จะต้องสามารถปล่อยคลื่นอีเธอร์ที่มีความเข้มข้นพอที่จะกระตุ้นสัญชาตญาณให้พวกโรเนกขยับออกห่างจากรางรถไฟได้ แต่ก็ต้องไม่แรงเกินไปจนทำให้พวกมันตื่นตระหนกครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If we can achieve this, it will be a far sight better than a traditional whistle. More effective and less stressful for the creatures themselves.",
+      "text": "หากเราทำได้สำเร็จ วิธีนี้จะดีกว่าการเป่านกหวีดแบบเดิมมากเลยครับ มีประสิทธิภาพมากกว่าและสร้างความตึงเครียดให้แก่พวกมันน้อยกว่าด้วยครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Let us return to Shaaloani Station and begin work on it, then. Wawlika and his crew will doubtless be relieved to finally have a solution.",
+      "text": "ถ้าอย่างนั้น พวกเรากลับไปที่สถานีชาโลอานีเพื่อเริ่มดำเนินการประดิษฐ์กันเถอะครับ ป่านนี้คุณวาลิกาและทีมงานคงจะโล่งใจกันยกใหญ่แน่ๆ ที่ได้ทางออกเสียที"
+    },
+    {
+      "character": "Shepetto",
+      "text_en": "Now that the hhetso have taken to you, you'll have to come and see us again!",
+      "text": "ในเมื่อตอนนี้พวกเฮตโซดูคุ้นเคยกับพวกคุณแล้ว วันหลังต้องกลับมาเยี่ยมเยียนพวกเราอีกนะคะ!"
+    },
+    {
+      "character": "Hhwato",
+      "text_en": "I am pleased to have seen with my own eyes the wisdom and courage our new Dawnservants will use to lead this nation. I wish them all the best.",
+      "text": "ฉันดีใจอย่างยิ่งค่ะที่ได้เห็นสติปัญญาและความกล้าหาญที่เหล่าดอว์นเซิร์ฟวันต์คนใหม่ของเราจะนำมาใช้ชี้นำประเทศชาติแห่งนี้ด้วยตาตัวเอง ขออวยพรให้พวกเขาประสบความสำเร็จในทุกๆ เรื่องนะคะ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "A variety of artisans from across Tural have come to assist with the railroad, so I foresee no difficulty in creating the whistle that Koana proposed.",
+      "text": "ช่างฝีมือจากทั่วทุกมุมของทูรัลเดินทางมาร่วมแรงร่วมใจช่วยงานรถไฟแห่งนี้กันมากมายเลยครับ ผมคิดว่าไม่มีปัญหาแน่นอนกับการสร้างนกหวีดตามที่ท่านโคอานาเสนอขึ้นมาครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Ah, I always carry a spare pair of spectacles or two, as it can be difficult to find replacements outside of the city. You wouldn't believe how many I went through during the rite of succession...",
+      "text": "อ้อ ผมมักจะพกแว่นตาสำรองติดตัวไว้สักอันสองอันเสมอน่ะครับ เพราะหาแว่นเปลี่ยนนอกเมืองหลวงได้ยากเหลือเกิน คุณคงไม่เชื่อแน่ๆ ว่าผมทำแว่นพังไปตั้งกี่อันระหว่างการทดสอบพิธีสืบทอดราชบัลลังก์..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This train will be ready in no time!",
+      "text": "รถไฟขบวนนี้จะต้องเสร็จสมบูรณ์ in อีกไม่ช้าแน่นอน!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "You look pleased about something. Good news for the railroad, I take it?",
+      "text": "ดูหน้าตาสดชื่นแจ่มใสกันดีจังแฮะ มีข่าวดีสำหรับกิจการรถไฟมาฝากงั้นเรอะ?"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "So the rroneek were avoiding a predator... Smart ones, they are. And Vow Koana's not too bad himself, what with his whistle idea! Sit tight─we'll have this train on the tracks before you know it.",
+      "text": "ที่แท้พวกโรเนกมันพยายามหลบหนีสัตว์นักล่านี่เอง... ฉลาดแสนรู้จริงๆ พวกมันน่ะ ส่วนท่านสัญญาแห่งปัญญาโคอานาก็ไม่เลวเหมือนกันนะเนี่ยที่คิดไอเดียนกหวีดนี่ขึ้นมาได้! รอกันอีกอึดใจเดียวล่ะพวกเธอ—พวกเราจะพารถไฟขบวนนี้แล่นบนรางให้ดูในอีกไม่ช้าแน่นอน!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "We're ready to go!",
+      "text": "พวกเราพร้อมออกเดินทางแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whoa! She looks as good as new!",
+      "text": "โห! สวยงามราวกับเป็นรถไฟขบวนใหม่เอี่ยมเลยจ้ะ!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "If I had time to do a proper job, I could've really made her shine.",
+      "text": "นี่ถ้ามีเวลาปรับแต่งอย่างประณีตกว่านี้นะ ฉันจะทำให้มันเงาวับจับตามากกว่านี้อีกครับ"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Had to cobble together the exterior with spare parts. We refurbished the interior, though─not that you can appreciate it from out here.",
+      "text": "แต่นี่จำเป็นต้องประกอบโครงสร้างภายนอกขึ้นมาลวกๆ จากชิ้นส่วนอะไหล่เท่าที่มีไปก่อนล่ะนะ แต่พวกเราปรับปรุงพื้นที่ห้องโดยสารภายในใหม่หมดแล้วล่ะ—ถึงมองจากตรงนี้จะไม่เห็นก็เถอะนะ"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "But as far as the rroneek are concerned, we've spared no effort.",
+      "text": "แต่ในเรื่องของการปกป้องไม่ให้ฝูงโรเนกเดือดร้อนล่ะก็ พวกเราทุ่มเทกันสุดความสามารถแบบไม่มีกั๊กเลยครับ"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "From the ballast to the ties, we've adjusted every bit of the track so she'll run quiet as a field mouse.",
+      "text": "ตั้งแต่หินรองรางไปจนถึงไม้หมอนรถไฟ พวกเราปรับแต่งทุกตารางนิ้วบนเส้นทางให้ขบวนรถวิ่งได้เงียบกริบดั่งหนูวิ่งผ่านเลยล่ะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "You and your crew have worked wonders. Our nation is in your debt.",
+      "text": "คุณและทีมงานทำผลงานได้มหัศจรรย์มากครับ ประเทศชาติของเราต้องขอติดค้างหนี้บุญคุณในครั้งนี้เลย"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Come now─if anything, credit's due to Tuliyollal! It's thanks to the folk you recruited from every corner of the continent that we were able to get her up and running so quickly.",
+      "text": "ปัดโธ่เอ๊ย—ถ้าจะให้เครดิตล่ะก็ ต้องยกความดีความชอบให้ทางฝั่งทูลิโยลลัลต่างหากครับ! ก็ต้องขอบคุณผู้คนที่พวกท่านอุตส่าห์ไปรับสมัครมาจากทุกหนทุกแห่งทั่วดินแดนแหละครับ พวกเราถึงฟื้นระบบเดินรถจนกลับมาใช้งานได้ไวขนาดนี้"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "Besides, the aetherial whistle's the true marvel, and we wouldn't have that without the scales you brought us.",
+      "text": "อีกอย่าง นกหวีดอีเธอร์นั่นแหละที่เป็นสิ่งมหัศจรรย์ของจริงเลย และเราไม่มีทางทำมันขึ้นมาได้แน่ๆ ถ้าไม่มีเกล็ดอสุรกายที่พวกท่านอุตส่าห์นำมามอบให้อย่างเหน็ดเหนื่อย"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "However grateful you are, know that we're even more thankful.",
+      "text": "ไม่ว่าพวกท่านจะซาบซึ้งใจแค่ไหน แต่พวกเราทางนี้รู้สึกขอบคุณยิ่งกว่าเป็นเท่าตัวเลยครับ"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Right! If we're done talking, let's put this train through her paces!",
+      "text": "เอาล่ะ! ถ้าคุยกันจบแล้ว ก็ได้เวลาเอารถไฟขบวนนี้มาทดลองแล่นทดสอบประสิทธิภาพกันเลยดีกว่า!"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "There's a rroneek up ahead.",
+      "text": "มีโรเนกอยู่ข้างหน้าตัวนึงครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "Now to test our whistle...",
+      "text": "ทีนี้ก็มาทดลองใช้นกหวีดกันดู..."
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "On it! Just point it in the general direction and...",
+      "text": "จัดไปเลย! แค่หันปลายทิศทางเล็งไปแถวนั้น แล้วก็..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It's moving away.",
+      "text": "มันกำลังเดินเลี่ยงออกไปแล้วครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Meanwhile, our friends over there appear wholly unperturbed.",
+      "text": "ขณะเดียวกัน ฝูงโรเนกตัวอื่นๆ ที่อยู่ตรงนั้นดูกลับไม่มีอาการตื่นตกใจเลยสักนิด"
+    },
+    {
+      "character": "Koana",
+      "text_en": "With this, we can alert those who wander too close without disturbing the rest of the herd.",
+      "text": "ด้วยสิ่งนี้ เราจะสามารถส่งสัญญาณเตือนตัวที่เดินเข้ามาใกล้เกินไปได้ โดยไม่สร้างความรำคาญรบกวนให้แก่ฝูงโรเนกตัวอื่นครับ"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "A roaring success! ...In a quiet way, like.",
+      "text": "ความสำเร็จอันยิ่งใหญ่ดังกระหึ่ม! ...ในแบบเงียบๆ อะนะ"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "Then with your permission, Vow of Reason... The Xak Tural railroad is back in service!",
+      "text": "ถ้าอย่างนั้น ด้วยความเคารพจากท่านสัญญาแห่งปัญญา... กิจการทางรถไฟแห่งแซกทูรัลพร้อมกลับมาให้บริการใหม่อีกครั้งแล้วค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now anyone will be able to come and go from the dome as they please! I can't wait to spread the word in Alexandria.",
+      "text": "เท่านี้ใครๆ ก็จะสามารถเดินทางเข้าออกโดมบาเรียได้ตามใจชอบแล้วล่ะ! ฉันแทบอดใจรอที่จะไปกระจายข่าวดีนี้ที่อเล็กซานเดรียไม่ไหวแล้วสิ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I expect that with the reaver gone, the rroneek will gradually return to their old habits, and we won't see so many approaching the tracks. It is good to see that the whistle will be effective in the meantime, however.",
+      "text": "ผมคาดว่าหลังจากผู้ปล้นสะดมโรเนกหายไปแล้ว ฝูงโรเนกจะค่อยๆ กลับไปใช้ชีวิตอพยพตามปกติแบบเดิม และเราคงไม่ค่อยเห็นพวกมันเข้าใกล้รางรถไฟบ่อยๆ แล้วล่ะครับ แต่ถึงอย่างนั้น ในระหว่างนี้ นกหวีดก็น่าจะมีประโยชน์และได้ผลดีเลยล่ะครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "With that, I believe our work here is done. The fine people of Xak Tural Railing can take it from here.",
+      "text": "ด้วยเหตุนี้ ผมคิดว่างานของพวกเราในส่วนนี้เสร็จสิ้นแล้วครับ มอบหน้าที่ดูแลต่อไปให้บุคลากรผู้เปี่ยมฝีมือแห่งการรถไฟแซกทูรัลได้เลยครับ"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "The folks that Vow Koana brought in to help rebuild the railroad have already returned home, but I hope we can give them a ride someday.",
+      "text": "พวกผู้คนที่ท่านสัญญาแห่งปัญญาโคอานาส่งตัวมาช่วยงานทางรถไฟทยอยเดินทางกลับบ้านกันหมดแล้วล่ะครับ แต่หวังว่าวันหนึ่งในอนาคต พวกเราจะได้มีโอกาสต้อนรับให้พวกเขามานั่งรถไฟขบวนนี้กันนะ"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "For a while there, we were real worried that we'd never get the railroad running again.",
+      "text": "ก่อนหน้านี้ ช่วงหนึ่งพวกเรากังวลใจกันแทบตายเลยล่ะว่ารถไฟจะไม่มีโอกาสได้กลับมาวิ่งอีกแล้ว"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "But now that the test drive was such a success, we can breathe easy and start hauling people to and from the dome.",
+      "text": "แต่พอได้เห็นผลการวิ่งทดสอบแล่นผ่านฉลุยแบบนี้ ก็ทำให้พวกเราเป่าปากโล่งอก และเริ่มขนส่งผู้โดยสารเดินทางเข้าออกโดมบาเรียได้อย่างสบายใจเสียที"
+    },
+    {
+      "character": "Nitowikwe",
+      "text_en": "First Shaaloani, and then...the continent! Watch out, Xak Tural─here we come!",
+      "text": "เป้าหมายแรกเริ่มที่ชาโลอานี และสถานีถัดไป... ทั่วทั้งผืนทวีป! คอยดูให้ดีล่ะ แซกทูรัล—พวกเรากำลังจะแล่นรถไฟไปหาพวกเธอแล้ว!"
+    },
+    {
+      "character": "Wawlika",
+      "text_en": "I share the sentiment, but we've got a mountain of work ahead of us to ensure smooth operations. Time to get back to it...",
+      "text": "ฉันก็เห็นดีเห็นงามด้วยนะ แต่พวกเรายังมีงานกองท่วมหัวรออยู่ข้างหน้าเลยเพื่อรับประกันการเดินรถที่ราบรื่น ได้เวลาเดินกลับไปทำงานต่อแล้ว..."
+    },
+    {
+      "character": "Koana",
+      "text_en": "The efforts of all here today have not gone unnoticed. Once more, I thank you.",
+      "text": "ความทุ่มเทแรงกายแรงใจของทุกคนในวันนี้จะไม่สูญเปล่าแน่นอนครับ ผมขอขอบคุณทุกคนอีกครั้งจริงๆ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "As for our own work...I trust you can handle matters in Alexandria, Lamaty'i?",
+      "text": "ส่วนเรื่องงานของพวกเรา... ผมเชื่อใจว่าคุณคงจะสะสางปัญหาฝั่งอเล็กซานเดรียได้เรียบร้อยนะ ลามัตยี่?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "It won't be as I once envisioned...but perhaps someday we can take that train journey to Yyasulani together.",
+      "text": "มันอาจจะไม่ใช่ภาพที่ผมเคยวาดฝันจินตนาการเอาไว้ในตอนแรก... แต่บางที ในอนาคตสักวันหนึ่ง พวกเราอาจจะได้นั่งรถไฟขบวนนี้เดินทางไปยาสุรานีด้วยกันนะครับ"
+    }
+  ]
+}

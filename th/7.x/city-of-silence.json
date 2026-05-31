@@ -1,0 +1,483 @@
+{
+  "id": "city-of-silence",
+  "wiki_path": "/wiki/City_of_Silence",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/1b/City_of_Silence.png",
+  "patch": "7.0",
+  "title_en": "City of Silence",
+  "title": "เมืองแห่งความเงียบงัน",
+  "level": "94",
+  "location": "Yak T'el(X:36.2,Y:31.7)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "I wonder what the final feat will be.",
+      "text": "ฉันอยากรู้นักว่าบททดสอบสุดท้ายจะเป็นยังไงกันแน่นะจ๊ะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Rather more quiet than I expected...",
+      "text": "เงียบเชียบสงบเงียบกว่าที่คิดไว้เยอะเลยแฮะ..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now to see whether or not Hunmu Rruk's fears were well founded...",
+      "text": "ตอนนี้ก็ได้เวลาไปพิสูจน์แล้วว่าความกังวลและสิ่งที่ฮุนมู รุก เตือนพวกเราไว้จะมีรากฐานมาจากข้อเท็จจริงหรือเปล่า..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "See if you can't convince Wuk Lamat to be cautious as well.",
+      "text": "ดูสิว่าเธอจะสามารถหว่านล้อมให้วุค ลามัต รู้จักระมัดระวังตัวบ้างได้ไหมนะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, we all know what comes next─let's find that elector!",
+      "text": "เอาล่ะ ทุกคนต่างก็รู้ดีว่าต้องทำอะไรต่อ—ไปสืบเสาะหาตัวผู้คุมสอบกันเลย!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Two streets seem to converge upon this plaza, so I propose we split our numbers between them.",
+      "text": "ดูเหมือนถนนสองสายจะมาบรรจบกันที่ลานกว้างแห่งนี้ครับ ผมจึงเสนอแนะว่าพวกเราควรแยกย้ายแบ่งกำลังออกเป็นสองกลุ่มสำรวจครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Given Hunmu Rruk's guidance, I also suggest that we err on the side of caution and move throughout the city in pairs.",
+      "text": "เมื่อพิจารณาจากคำชี้แนะเตือนของฮุนมู รุก แล้ว ข้าเสนอแนะว่าพวกเราควรระมัดระวังตัวไว้ก่อนดีกว่า และแยกย้ายสำรวจเมืองกันเป็นคู่ ๆ ครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Erenville can come with me, and Alisaie can go with Krile. That leaves Forename to accompany Wuk Lamat. If these arrangements are to everyone's satisfaction, then may our respective searches prove fruitful.",
+      "text": "เอเรนวิลล์ไปกับผม ส่วนอลิเซไปกับไครล์ครับ ปล่อยให้คุณ [ชื่อ] ทำหน้าที่คอยดูแลและร่วมเดินทางไปกับวุค ลามัต ครับ หากข้อตกลงนี้เป็นที่พึงพอใจของทุกคน ก็ขอให้การสืบหาของแต่ละกลุ่มสัมฤทธิ์ผลประสบความสำเร็จลุล่วงด้วยดีนะครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...You can still hear me, right? And see me?",
+      "text": "...เธอยังคงได้ยินเสียงฉันอยู่ใช่ไหม? และมองเห็นฉันอยู่หรือเปล่าจ๊ะ?"
+    },
+    {
+      "character": "Belligerent Boonewa",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Please tell me you've had better luck...",
+      "text": "โปรดบอกฉันทีเถอะค่ะว่าพวกคุณพอจะสืบพบเบาะแสอะไรที่น่าสนใจมาบ้างหรือเปล่า..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No one will talk to you either? I was prepared for hard stares and harsh words, but this is something else...",
+      "text": "ไม่มีใครยอมเปิดปากเจรจากับเธอเลยเหมือนกันงั้นเหรอจ๊ะ? ฉันอุตส่าห์ตระเตรียมใจเตรียมรับมือกับสายตากับคำด่าทอไว้บ้างแล้วล่ะนะ แต่การโดนเย็นชาใส่แบบนี้มันเกินคาดจริง ๆ แฮะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That building there looks like a shop, doesn't it? Let's go and take a look. A merchant wouldn't ignore us, surely!",
+      "text": "สิ่งก่อสร้างหลังนั้นดูเหมือนจะเป็นร้านค้าใช่ไหมจ๊ะ? ลองแวะไปดูสักหน่อยเถอะ พ่อค้าแม่ขายคงไม่ยอมเพิกเฉยละเลยพวกเราหรอกจริงไหมล่ะ!"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "......",
+      "text": "......"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Hello there! We'd like to ask you something, if you don't mind?",
+      "text": "สวัสดีค่ะ! พวกเราอยากจะรบกวนสอบถามอะไรสักหน่อยได้ไหมคะ หากไม่รังเกียจ?"
+    },
+    {
+      "character": "Hoobigo Merchant",
+      "text_en": "...Move along, outsiders.",
+      "text": "...รีบเดินผ่านไปซะเถอะ คนนอกด่าน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "W-We're just trying to find someone─the Dawnservant's elector. Could you tell us where they are?",
+      "text": "พ-พวกเราแค่กำลังตามหาตัวผู้คุมสอบของท่านดอว์นเซิร์ฟวันต์อยู่น่ะค่ะ พอจะบอกทางให้พวกเราได้ไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "<sigh> How are we supposed to find the elector if nobody will even speak with us?",
+      "text": "<ถอนหายใจ> พวกเราจะไปตามหาตัวผู้คุมสอบเจอได้ยังไงกันล่ะคะเนี่ยถ้าไม่มีใครยอมเปิดปากคุยด้วยเลยแบบนี้?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Everyone, can you hear me? Come to the massive stone structure on the west side of the city, as quickly as you can!",
+      "text": "ทุกคน ได้ยินผมไหมครับ? รีบเดินทางมายังสิ่งก่อสร้างหินขนาดใหญ่ทางฝั่งทิศตะวันตกของเมือง ด่วนที่สุดเท่าที่จะทำได้เลยครับ!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Up there!",
+      "text": "ข้างบนนั่นไง!"
+    },
+    {
+      "character": "Zoraal Ja",
+      "text_en": "Bested...by a mere shade ...",
+      "text": "พ่ายแพ้... ให้กับเพียงแค่เศษเสี้ยวความทรงจำ งั้นรึ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Zoraal Ja? Papa !?",
+      "text": "โซราล จา? ท่านพ่อ !?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Not as you know him. What you see is an arcane manifestation of the Dawnservant as he was in his prime.",
+      "text": "ไม่ใช่คนตัวจริงอย่างที่คุณรู้จักหรอกครับ สิ่งที่มองเห็นอยู่ตรงหน้าคือร่างเสมือนจำลองของท่านดอว์นเซิร์ฟวันต์ยามอยู่ในช่วงวัยฉกรรจ์ที่แกร่งที่สุดครับ"
+    },
+    {
+      "character": "Koana",
+      "text_en": "The channeler is Zereel Ja, Autarch of Mamook and elector for the Feat of the Brotherhood.",
+      "text": "ผู้ที่ร่ายคาถาอัญเชิญเศษเสี้ยวความทรงจำนี้ขึ้นมาคือ เซรีล จา ออทาร์กแห่งมามูค และเป็นผู้คุมสอบประจำบททดสอบแห่งภราดรภาพครับ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Tuliyollal's mightiest warrior... Yet wisest you are not. You who spurned your retainer's aid when battling your betters.",
+      "text": "นักรบที่เก่งที่สุดแห่งทูลิโยลลัล... ทว่าแกกลับไม่ได้มีความสุขุมฉลาดหลักแหลมเลยสักนิด แกผู้ที่ปัดปฏิเสธที่จะยอมรับความช่วยเหลือจากผู้ติดตามเยียวยาของแกยามสู้รบกับคู่ต่อสู้ที่แกร่งกว่า"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To prove oneself superior to blessed siblings by surpassing the shade of Gulool Ja Ja himself─that is the final feat.",
+      "text": "การพิสูจน์แสดงตัวตนว่าเหนือกว่าพี่น้องผู้ได้รับพร ด้วยการเอาชนะเศษเสี้ยวความทรงจำอันแข็งแกร่งของท่านกูลูล จา จา ในช่วงวัยหนุ่ม—นั่นแหละคือบททดสอบข้อสุดท้าย"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The First Promise fought alone and fell short...but that is now the least of his concerns.",
+      "text": "ท่านสัญญาที่หนึ่งเลือกสู้ศึกอย่างโดดเดี่ยวและพ่ายแพ้ไป... แต่เรื่องนั้นดูเหมือนจะเป็นปัญหาน้อยที่สุดของเขาในตอนนี้แล้วล่ะครับ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "You could have let your foolishness end with your failure. But instead you attempted to harm an anointed elector.",
+      "text": "แกน่าจะปล่อยให้ความโง่เขลาของแกจบลงพร้อมความพ่ายแพ้ไปซะ แต่แกกลับเลือกที่จะคิดร้ายทำร้ายผู้คุมสอบอย่างเป็นทางการเสียอย่างนั้น"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Zoraal Ja. As of this moment, you are no longer a claimant. I disqualify you from the rite of succession. Begone from my sight.",
+      "text": "โซราล จา นับตั้งแต่บัดนี้เป็นต้นไป ข้าขอริบสิทธิ์ความเป็นผู้ท้าชิงของแก ข้าขอปรับแกให้แพ้ฟาวล์และหมดสิทธิ์เข้าร่วมพิธีการสืบทอดราชบัลลังก์อีกต่อไป ไสหัวไปให้พ้นหน้าข้าซะ"
+    },
+    {
+      "character": "Sareel Ja",
+      "text_en": "This isn't over yet. I will be the one to reach the golden city.",
+      "text": "เรื่องนี้ยังไม่จบหรอก ข้าจะเป็นคนก้าวเข้าหาและสืบหาความลับเมืองสีทองคำด้วยตัวเอง"
+    },
+    {
+      "character": "Koana",
+      "text_en": "When Zoraal Ja was defeated, he tried to take the keystone by force. But he was thwarted by Father's shade.",
+      "text": "พอยามที่โซราล จา พ่ายแพ้ศึก เขาพยายามจะแย่งชิงศิลาหลักไปครองด้วยกำลังครับ แต่กลับโดนเศษเสี้ยวความทรงจำของท่านพ่อขัดขวางขจัดไว้ได้สำเร็จครับ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "My dearest child. Welcome home.",
+      "text": "ยินดีต้อนรับกลับบ้านนะ ลูกรักของข้า"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "This feat was made for you─only blessed siblings could hope to defeat Gulool Ja Ja.",
+      "text": "บททดสอบข้อนี้ถูกตระเตรียมขึ้นมาเพื่อเจ้าโดยเฉพาะ—มีเพียงพี่น้องผู้ได้รับพรสองหัวเท่านั้นที่มีสิทธิ์จะเอาชนะเศษเสี้ยวความทรงจำของกูลูล จา จา ลงได้"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "But ere we begin, I would see the fruits of your triumphs. Come, show me your tablets.",
+      "text": "แต่ก่อนที่พวกเราจะเริ่ม ข้าขอมองดูผลลัพธ์ของความสำเร็จของเจ้าหน่อยเถอะ มาสิ เอาศิลาหลักทั้งหมดมาแสดงให้ข้าชมหน่อย"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "What is this? Where are your keystones?",
+      "text": "นี่มันอะไรกัน? ศิลาหลักของเจ้าหายไปไหนหมด?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Explain yourself, boy!",
+      "text": "อธิบายมาเดี๋ยวนี้สิ เจ้าเด็กน้อย!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "No matter. Not all can be expected to go to plan. What keystones you lack...",
+      "text": "ช่างเถอะ เรื่องความผิดพลาดมันเกิดขึ้นได้เสมอแหละ ศิลาหลักก้อนไหนที่เจ้ายังขาดอยู่..."
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "...you can easily take.",
+      "text": "...เจ้าก็แค่ไปแย่งชิงมันกลับมาซะสิ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "I...I tried. B-But I couldn't─I cannot beat her.",
+      "text": "ข้า... ข้าพยายามแล้วครับ บ-แต่ข้าทำไม่ได้—ข้าเอาชนะเธอไม่ได้จริง ๆ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "You mean to tell me that you, glory of Mamook─for whom all here have sacrificed─were defeated by your inferiors?",
+      "text": "แกหมายความว่า แกผู้เป็นความหวังและเกียรติยศสูงสุดแห่งมามูค—แกที่ทุกคนยอมอุทิศตัวเสียสละเพื่อให้แกได้เกิดมา—กลับพ่ายแพ้ให้กับคนนอกด่านงั้นรึ?"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "You are as useless as your siblings. A failure.",
+      "text": "แกมันก็ไร้ค่าไม่ต่างจากพี่น้องร่วมสายเลือดของแกเลยล่ะ เป็นแค่ขยะไร้ราคา"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Leave and never return! You have no place here!",
+      "text": "ไสหัวออกไปจากที่นี่ซะและไม่ต้องกลับมาอีก! ที่นี่ไม่มีพื้นที่สำหรับเศษเดนอย่างแก!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "...Let's go, Brother.",
+      "text": "...พวกเราไปกันเถอะ พี่ชาย"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Worthless! Pathetic! This was our chance to claim sovereignty, and he ruins it!",
+      "text": "ไร้ประโยชน์สิ้นดี! ช่างโง่เขลาเบาปัญญา! นี่คือโอกาสเดียวที่พวกเราจะได้อ้างสิทธิ์ครอบครองและแสดงความยิ่งใหญ่ แต่แกกลับทำลายมันย่อยยับด้วยมือตัวเอง!"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "But...when these stragglers fail, Gulool Ja Ja will be forced to extend his rule. And in the next rite of succession, we will present a better claimant.",
+      "text": "แต่ก็นั่นแหละ... ทันทีที่เจ้าพวกเศษเดนที่เหลืออยู่พ่ายแพ้ลง กูลูล จา จา ก็คงต้องฝืนใจยืดระยะเวลาสืบทอดราชบัลลังก์และปกครองแผ่นดินต่อไป และในพิธีการสืบทอดบัลลังก์ครั้งหน้า พวกเราจะตระเตรียมผู้ท้าชิงที่ดีกว่านี้มาเสนอตัว"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "So come. Stand before me...and fall.",
+      "text": "ดังนั้น เข้ามาสิ ก้าวมาอยู่ต่อหน้าข้า... และสัมผัสความพ่ายแพ้ซะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I won't do your trial.",
+      "text": "ฉันจะไม่ทำบททดสอบของแกหรอกค่ะ"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Oh? You intend to forfeit the rite?",
+      "text": "โอ้? แกจงใจจะสละสิทธิ์ถอนตัวจากพิธีการสืบทอดบัลลังก์งั้นรึ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa wants his successor to intimately understand the country he loves.",
+      "text": "ท่านพ่อปรารถนาให้ผู้ที่จะมาสืบทอดตำแหน่งคนต่อไปได้ทำความเข้าใจและเข้าถึงจิตใจของประชาชนในแผ่นดินที่รักอย่างแท้จริงค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Every step of my journey, I've learned something about our peoples and their cultures. I would do the same here in Mamook.",
+      "text": "ในระหว่างการเดินทางผจญภัยที่ผ่านมา ฉันได้ศึกษาเรียนรู้วัฒนธรรมวิถีชีวิตของประชาชนในแต่ละพื้นที่อยู่เสมอ และฉันก็จะทำสิ่งเดียวกันนี้ที่มามูคด้วยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Mamool Ja deserve nothing less. So your battle can wait.",
+      "text": "ชาวมามูอูล จา ควรได้รับการใส่ใจดูแลไม่ต่างกันล่ะค่ะ ดังนั้น บททดสอบการต่อสู้สู้ศึกของแกคงต้องรอไปก่อน"
+    },
+    {
+      "character": "Koana",
+      "text_en": "I'm of the same mind. Father named you an elector for a reason. There must be something that he would have us learn.",
+      "text": "ผมคิดเห็นแบบเดียวกันครับ ท่านพ่อแต่งตั้งให้ท่านรับตำแหน่งผู้คุมสอบย่อมมีเหตุผลเบื้องหลังแน่นอนล่ะครับ ต้องมีบางสิ่งทางประวัติศาสตร์ที่ท่านพ่ออยากให้พวกเราได้ศึกษาเรียนรู้อย่างลึกซึ้งแน่นอน"
+    },
+    {
+      "character": "Zereel Ja",
+      "text_en": "Do as you will. But until you triumph over the shade, you shall proceed no further.",
+      "text": "จะทำอะไรก็เชิญตามสบายเถอะ แต่ตราบใดที่พวกเจ้ายังไม่สามารถเอาชนะศึกเศษเสี้ยวความทรงจำนี้ได้ พวกเจ้าก็จะไม่สามารถก้าวผ่านไปข้างหน้าได้เด็ดขาด"
+    },
+    {
+      "character": "Dignified Lady",
+      "text_en": "Promise. I would speak with you. Meet me on the western outskirts.",
+      "text": "ท่านสัญญา... ข้ามีเรื่องอยากจะเจรจาพูดคุยด้วยสักหน่อยนะขอรับ ไปพบข้าที่แถบชายขอบเมืองทางทิศตะวันตกทีสิ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That was a dramatic escalation...",
+      "text": "เมื่อกี้มันช่างเป็นการไล่ล่าปมขัดแย้งที่รุนแรงและรวดเร็วดีแท้แฮะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's hard to believe Zoraal Ja was bested in battle...",
+      "text": "ไม่คิดไม่ฝันมาก่อนเลยว่าโซราล จา จะพ่ายแพ้ในการต่อสู้สู้ศึกแบบนี้น่ะค่ะ..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "I have heard about this channeling art before.",
+      "text": "ข้าเคยได้ยินเกี่ยวกับการใช้เวทมนตร์อัญเชิญคาถาแขนงนี้มาก่อนหน้านี้เหมือนกันครับ"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Passed down through a certain clan, it employs arcane implements to produce a smoke from which the mage can conjure a shade.",
+      "text": "เป็นเวทมนตร์อัญเชิญที่สืบทอดกันมาเฉพาะกลุ่มตระกูล โดยจะใช้เครื่องประกอบพิธีจำลองพิเศษในการเผาไหม้เพื่อสร้างกลุ่มควันขึ้นมา และดึงเอาความทรงจำร่างเสมือนอัญเชิญออกมาเป็นเงาร่างจำลองครับ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The First Promise's attendant just now...did his words not strike you as strange?",
+      "text": "ผู้ติดตามของท่านสัญญาที่หนึ่งคนเมื่อกี้... คำพูดคำจาของเขาดูมีเงื่อนงำชวนสงสัยชอบกลอยู่นะจ๊ะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "“I will be the one to reach the golden city.” As though he intends to venture there with or without Zoraal Ja...",
+      "text": "“ข้าจะเป็นคนก้าวเข้าหาและสืบหาความลับเมืองสีทองคำด้วยตัวเอง”... พูดราวกับว่าเขามีความตั้งใจจะมุ่งหน้าเดินทางไปยังเมืองทองคำแห่งนั้น ไม่ว่าจะได้รับอนุญาตจากโซราล จา หรือไม่ก็ตามงั้นแหละ..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The electors we have met thus far have all had their peculiarities, but each we felt would judge claimants equally.",
+      "text": "ผู้คุมสอบที่พวกเราพบเจอมาจนถึงตอนนี้ต่างก็มีจุดเด่นแปลก ๆ เฉพาะตัว แต่พวกเราก็รู้สึกได้ว่าพวกเขาทำหน้าที่ประเมินตัดสินผู้ท้าชิงอย่างเที่ยงธรรมเสมอนะครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This Zereel Ja, however, seems set in his belief that only blessed siblings are worthy of the throne.",
+      "text": "แต่คุณเซรีล จา คนนี้กลับดูเหมือนจะมีความฝักใฝ่ปักใจมั่นคงเชื่อว่ามีเพียงพี่น้องผู้ได้รับพรสองหัวเท่านั้นที่ควรค่าแก่ตำแหน่งบัลลังก์ดอว์นเซิร์ฟวันต์"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Why would the Dawnservant name an openly biased man elector?",
+      "text": "ทำไมท่านดอว์นเซิร์ฟวันต์ถึงแต่งตั้งคนที่ไร้ความเที่ยงธรรมและมีความฝักใฝ่ชิ้นนี้มาทำหน้าที่เป็นผู้คุมสอบกันแน่นะครับ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Worrying over Zereel Ja won't get us anywhere. That lady, on the other hand, was the first person to address us with any civility since we arrived.",
+      "text": "มัวแต่นั่งกังวลเรื่องคุณเซรีล จา ไปก็ไม่ได้เบาะแสอะไรเพิ่มขึ้นมาหรอกค่ะ แม่หญิงคนนั้นน่ะเป็นคนแรกเลยนะที่พูดจากับพวกเราดี ๆ ตั้งแต่มาถึงที่นี่"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We should go and meet her─hear what she has to say. The western outskirts, right?",
+      "text": "พวกเราควรรีบไปพบและพูดคุยเจรจากับเธอเถอะค่ะ ลองรับฟังสิ่งที่เธออยากจะเล่าดู จุดที่นัดหมายคือชายป่าฝั่งตะวันตกใช่ไหมคะ?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "If Zereel Ja is Boonewa and she is Hoobigo, then...",
+      "text": "หากคุณเซรีล จา มาจากตระกูลบูนีวา และเธอคนนั้นมาจากตระกูลฮูบิโก ถ้าอย่างนั้น..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whatever her relation to Zereel Ja, I hope we can trust her. We could do with at least one ally in this city.",
+      "text": "ไม่ว่าเธอจะมีความเกี่ยวดองเป็นอะไรกับคุณเซรีล จา ก็ตาม แต่ฉันหวังว่าพวกเราจะสามารถไว้ใจเธอได้นะจ๊ะ อย่างน้อยพวกเราก็ต้องการมิตรแท้ที่ช่วยชี้ทางสักคนในเมืองแห่งนี้ล่ะนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "She looks troubled...",
+      "text": "ดูเธอเหมือนกำลังเผชิญเรื่องที่กังวลใจว้าวุ่นใจอยู่มากเลยแฮะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Finally! A real conversation!",
+      "text": "ในที่สุด! ก็จะได้มีโอกาสเปิดอกคุยเปิดเผยความจริงกันดี ๆ สักทีล่ะค่ะ!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To bid us thus meet with her in private... This is both an important and delicate matter.",
+      "text": "การนัดหมายให้พวกเรามาแวะพบปะเจรจาเป็นการส่วนตัวแบบนี้... แสดงว่าเป็นเรื่องที่สำคัญและละเอียดอ่อนมากแน่นอนครับ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Thank you for coming. My name is Miilal Ja.",
+      "text": "ขอบคุณมากนะจ๊ะที่สละเวลามาร่วมเจรจา ฉันชื่อ มีลัล จา จ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Here we may talk freely, away from prying eyes.",
+      "text": "ที่นี่พวกเราสามารถพูดคุยแลกเปลี่ยนข้อมูลกันได้อย่างสบายใจโดยไม่มีใครคอยแอบซุ่มดูซุ่มฟังจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And what was it you wished to talk about?",
+      "text": "แล้วเรื่องที่ท่านอยากจะพูดคุยแลกเปลี่ยนกับพวกเราคือเรื่องอะไรเหรอคะ?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Tell me, what do you think of Mamook?",
+      "text": "บอกฉันหน่อยสิจ๊ะ พวกเธอคิดเห็นยังไงกับเมืองมามูคแห่งนี้บ้าง?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, we don't have much to say yet. No one wants to speak with us.",
+      "text": "ก็นะ พวกเรายังไม่มีโอกาสได้สัมผัสวิถีชีวิตอะไรเท่าไหร่เลยล่ะค่ะ ไม่มีใครยอมเปิดปากคุยด้วยเลยน่ะสิคะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "All who remain in this city are devoted to the traditional ways.",
+      "text": "ทุกคนที่ยังคงเลือกปักหลักอาศัยอยู่ในเมืองแห่งนี้ต่างก็เป็นกลุ่มคนที่ยึดมั่นในวิถีขนบธรรมเนียมดั้งเดิมอย่างเหนียวแน่นจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "They believe that blessed siblings are superior─that only they are worthy to lead the peoples of this continent. Most would not deign to address outsiders, deeming them beneath notice.",
+      "text": "พวกเขาเชื่อมั่นอย่างหมดหัวใจว่าพี่น้องผู้ได้รับพรสองหัวนั้นเป็นผู้ที่เหนือกว่าใครทั้งหมด—และเชื่อว่ามีเพียงพวกเขาเท่านั้นที่ควรค่าแก่ตำแหน่งผู้นำทวีปแห่งนี้ ดังนั้นพวกเขาส่วนใหญ่จึงไม่แม้แต่จะชายตามองหรือคิดเจรจาพูดคุยกับคนนอกด่าน เพราะคิดว่าไร้ค่าต่ำต้อยกว่าน่ะจ้ะ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Sounds like an ideal community so far as Bakool Ja Ja is concerned.",
+      "text": "ฟังดูเหมือนสังคมในอุดมคติที่ตระเตรียมไว้เพื่อต้อนรับตัวตนของบาคูล จา จา เลยล่ะค่ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "...I am tired. Exhausted by this...this senselessness.",
+      "text": "...ฉันเหนื่อยเหลือเกิน เหนื่อยล้าเต็มทนกับความชั่วช้าไร้สติพรรค์นี้จ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "There are others like me, but we dare not speak our truth aloud.",
+      "text": "ยังมีคนอื่น ๆ ที่คิดเห็นและรู้สึกเหนื่อยล้าแบบเดียวกับฉันอยู่นะจ๊ะ เพียงแต่พวกเราไม่กล้าที่จะเอ่ยปากพูดความจริงนี้ออกมาดัง ๆ ให้ใครได้ยินน่ะจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Yet now we have an opportunity to reclaim our agency.",
+      "text": "แต่ตอนนี้ พวกเราเริ่มมองเห็นความหวังริบหรี่ที่จะช่วยปลดแอกคืนสิทธิ์อำนาจการตัดสินใจของชีวิตกลับมาได้แล้วล่ะจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "For you have bested Bakool Ja Ja.",
+      "text": "นั่นก็เพราะว่าพวกเธอสามารถเอาชนะศึกและสยบบาคูล จา จา ลงได้ยังไงล่ะจ๊ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "You─a Xbr'aal, inferior by all presumptions─triumphed over our two-headed champion.",
+      "text": "พวกเธอ—ที่เป็นชาวยิบราล ซึ่งตามสมมติฐานความเชื่อของพวกเขาแล้วคิดว่าต่ำต้อยกว่ามาก—กลับสามารถเอาชนะแชมเปี้ยนสองหัวที่เป็นที่ภาคภูมิใจของพวกเขาลงได้สำเร็จจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This time, anyway. Next time, I might not be so lucky. Bakool Ja Ja is just that strong.",
+      "text": "สำหรับศึกครั้งนี้ก็คงใช่ล่ะค่ะ แต่ครั้งต่อ ๆ ไปฉันอาจจะไม่ได้โชคดีแบบนี้เสมอไปหรอกค่ะ บาคูล จา จา น่ะเขาแข็งแกร่งและเก่งกาจมากจริง ๆ นะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I seriously don't understand why he cheats so much. It seems to me he'd do better if he just trusted his own abilities.",
+      "text": "ฉันเองก็ไม่เข้าใจเหมือนกันว่าทำไมเขาต้องพยายามเล่นตุกติกโกงโน่นโกงนี่มากมายขนาดนั้น ทั้งที่จริง ๆ แล้วถ้าเขาหันมาไว้ใจและเชื่อมั่นในทักษะฝีมือของตัวเอง เขาคงทำผลงานออกมาได้ดีกว่านี้มากแท้ ๆ ค่ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "...He's desperate.",
+      "text": "...ก็เพราะว่าเขากำลังเผชิญความกดดันและสิ้นหวังอยู่ยังไงล่ะจ๊ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Other blessed siblings have fallen before. Molaa Ja Ja of the Silverscales, for one. He traveled across the salt in search of conquest, only to be overcome.",
+      "text": "ที่ผ่านมา เคยมีพี่น้องผู้ได้รับพรสองหัวต้องล้มตายและพ่ายแพ้มาก่อนหน้านี้แล้วล่ะจ้ะ โมลา จา จา แห่งตระกูลเกล็ดเงินก็เป็นหนึ่งในนั้น เขาเคยเดินทางข้ามทะเลเสาะหาอำนาจการครอบครองดินแดนอื่น แต่สุดท้ายก็ต้องจบชีวิตลง"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "Other blessed siblings have fallen before. This is known.",
+      "text": "เคยมีพี่น้องผู้ได้รับพรสองหัวต้องล้มตายลงมาก่อนหน้านี้จริง ๆ นั่นแหละ เรื่องนี้ผู้คนต่างรู้ดีจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "But no matter how the individual may falter, the people still believe in blessed siblings' supremacy.",
+      "text": "แต่ไม่ว่าผู้ท้าชิงรายบุคคลจะผิดพลาดพ่ายแพ้ไปอย่างไร ความเชื่อมั่นของผู้คนที่มีต่อความยิ่งใหญ่เหนือระดับของพี่น้องผู้ได้รับพรสองหัวก็ไม่มีวันสั่นคลอนเสื่อมถอยไปเลยจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...Because of my father.",
+      "text": "...นั่นเป็นเพราะว่าเรื่องของท่านพ่อของฉันสินะคะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "He who united Tural under one rule─who in their eyes stands as testament to the tradition's infallibility. Regardless of your father's virtuous intent, his greatest triumph has only fanned the flames of our people's obsession.",
+      "text": "ท่านกูลูล จา จา ผู้ที่สามารถรวมรวมแผ่นดินทูรัลให้เป็นหนึ่งเดียวภายใต้การปกครองเดียว—ซึ่งในสายตาของพวกเขาแล้ว นับเป็นข้อพิสูจน์ยืนยันอย่างชัดเจนถึงความสมบูรณ์แบบของประเพณีความเชื่อนี้ โดยไม่ได้ใส่ใจเลยว่าความตั้งใจของท่านพ่อของเธอจะงดงามเพียงใด ความสำเร็จอันยิ่งใหญ่ของเขากลับกลายเป็นฟืนชั้นยอดที่ช่วยโหมกระพือไฟความหลงใหลคลั่งไคล้ของประชาชนในเมืองแห่งนี้ให้รุนแรงขึ้นจ้ะ"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "However, as both his daughter and claimant to his legacy, your triumph could prove that Gulool Ja Ja's true strength lies not in his birth, but in his character. And in so doing, you may give us the strength to renounce blessed siblings forever.",
+      "text": "ทว่า ในฐานะที่เธอเป็นทั้งบุตรสาวและเป็นผู้ท้าชิงสืบทอดมรดกเจตจำนงของเขา ความสำเร็จและชัยชนะของเธอจะเป็นเครื่องพิสูจน์ชี้ทางให้เห็นว่า พลังความแข็งแกร่งที่แท้จริงของกูลูล จา จา ไม่ได้ขึ้นอยู่กับชาติกำเนิดกายภาพสองหัวของเขาเลย แต่เกิดจากคุณงามความดีและลักษณะนิสัยของเขาต่างหาก และการทำแบบนั้น จะช่วยมอบพลังใจและมอบความกล้าหาญให้แก่ประชาชนของข้าในการยอมตัดใจละทิ้งประเพณีการให้กำเนิดพี่น้องผู้ได้รับพรนี้ไปตลอดกาลจ้ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can understand wanting to forsake zealotry, but isn't forsaking two-headed Mamool Ja going a bit far?",
+      "text": "ฉันเข้าใจว่าการละทิ้งความงมงายคลั่งความยิ่งใหญ่น่ะเป็นเรื่องที่ดีค่ะ แต่การถึงขนาดต้องละทิ้งไม่เอาการกำเนิดลูกสองหัวชาวมามูอูล จา เลยเนี่ย มันไม่เกินไปหน่อยเหรอคะ?"
+    },
+    {
+      "character": "Miilal Ja",
+      "text_en": "You must decide that for yourself. Whether the price we pay is worth an empty dream.",
+      "text": "เรื่องนั้นเธอคงต้องลงไปตัดสินและเรียนรู้ด้วยตัวของเธอเองแหละจ้ะ ว่ามูลค่าความสูญเสียและราคาที่พวกเราต้องจ่ายไปเพื่อแลกกับความฝันลม ๆ แล้ง ๆ นั่นน่ะ มันคู่ควรแก่การแลกเปลี่ยนจริง ๆ หรือเปล่า"
+    }
+  ]
+}

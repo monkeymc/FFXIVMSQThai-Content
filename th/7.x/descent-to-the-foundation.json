@@ -1,0 +1,1013 @@
+{
+  "id": "descent-to-the-foundation",
+  "wiki_path": "/wiki/Descent_to_the_Foundation",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/52/The_Underkeep.png",
+  "patch": "7.2",
+  "title_en": "Descent to the Foundation",
+  "title": "ก้าวลงสู่เขตรากฐาน",
+  "level": "100",
+  "location": "The Backroom(X:6.0,Y:6.3)",
+  "npc_start": "Shale",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At last we have a plan. Let's make it count!",
+      "text": "ในที่สุดเราก็มีแผนแล้วล่ะ ทำให้สำเร็จกันเถอะ!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "According to the records from Yuweyawata, my mother was investigating Origenics for her own research into souls.",
+      "text": "จากบันทึกในยูเวยาวาตา คุณแม่ของผมกำลังสืบสวนเรื่องออริเจนิกส์เพื่อใช้ในการวิจัยเกี่ยวกับจิตวิญญาณของเธอเองครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There was map data for Origenics in the records, and that's how we learned about the castle in the foundation sector.",
+      "text": "ในบันทึกมีข้อมูลแผนที่ของออริเจนิกส์อยู่ด้วยครับ นั่นคือวิธีที่พวกเราได้รู้เรื่องปราสาทในเขตรากฐานครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The castle was once my home. I shall do my utmost to be of use on this mission.",
+      "text": "ปราสาทหลังนั้นเคยเป็นบ้านของฉันค่ะ ฉันจะพยายามทำประโยชน์ให้ได้มากที่สุดในภารกิจนี้ค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Calyx determines how many will become Endless, but leaves the choice of who in the hands of the people...",
+      "text": "คาลิกซ์เป็นคนกำหนดจำนวนคนที่จะกลายเป็นเอ็นด์เลส แต่เขากลับปล่อยให้ทางเลือกที่ว่า 'ใคร' จะเป็นผู้ได้รับเลือกนั้นขึ้นอยู่กับประชาชนเอง..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is this his idea of fairness, or does he simply not care? Perhaps he considers all to be worthy of salvation...? Oh, but it's too early for such speculation...",
+      "text": "นี่คือแนวคิดเรื่องความยุติธรรมของเขา หรือแค่ความไม่ใส่ใจกันแน่นะคะ? บางทีเขาอาจจะคิดว่าทุกคนต่างก็คู่ควรกับการได้รับการช่วยเหลือ...? โอ๊ะ แต่ตอนนี้มันยังเร็วเกินไปที่จะคาดเดาแบบนั้นล่ะค่ะ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In the world of Sphene's memories, the town was already submerged. Given their dire circumstances, I expect the people considered stripping the castle for materials to rebuild.",
+      "text": "ในโลกแห่งความทรงจำของสฟีน ตัวเมืองได้จมอยู่ใต้น้ำไปแล้ว หากพิจารณาจากสถานการณ์ที่ยากลำบากของพวกเขา ฉันคิดว่าประชาชนคงเคยคิดที่จะรื้อเอาวัสดุจากปราสาทไปใช้ในการฟื้นฟูเมืองขึ้นมาใหม่น่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "For the structure to endure even now... It speaks to its importance to the Alexandrians, as well as their resilience.",
+      "text": "การที่โครงสร้างนี้ยังคงทนทานมาได้จนถึงปัจจุบัน... มันสะท้อนให้เห็นถึงความสำคัญของปราสาทนี้ที่มีต่อชาวอเล็กซานเดรีย รวมถึงความแข็งแกร่งไม่ยอมแพ้ของพวกเขาด้วยเช่นกัน"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Right. I believe I've plotted a viable route to the foundation sector.",
+      "text": "ค่ะ ฉันคิดว่าฉันสามารถหาเส้นทางที่น่าจะใช้ไปยังเขตรากฐานได้แล้วล่ะค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "As we don't have much information on the area, I'll come along and gather geographic data on-site. You can leave the navigating to me.",
+      "text": "เนื่องจากพวกเรายังมีข้อมูลเกี่ยวกับพื้นที่แถบนั้นไม่มาก ฉันเลยจะเดินทางไปด้วยเพื่อเก็บข้อมูลภูมิศาสตร์ในสถานที่จริงค่ะ เรื่องนำทางปล่อยให้เป็นหน้าที่ของฉันได้เลยนะคะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I'll stay behind this time, but let me know if there's anything I can do to help!",
+      "text": "ครั้งนี้ผมจะรออยู่ที่นี่นะครับ แต่ถ้ามีอะไรที่ผมพอจะช่วยได้ก็บอกผมได้เลยนะครับ!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Oblivion is fortunate to have a capable adapter like you, Gulool Ja. And no matter what the future holds, your knowledge of electrope is bound to serve you well.",
+      "text": "เดอะแบ็ครูมโชคดีจริงๆ ค่ะที่มีเด็กน้อยผู้มีความสามารถรอบตัวอย่างคุณกูลูล จา และไม่ว่าอนาคตข้างหน้าจะเป็นอย่างไร ความรู้เรื่องอิเล็กโทรปของคุณจะต้องเป็นประโยชน์อย่างมากแน่นอนค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "With such dependable support here, we may embark on our mission. Come, let's head to the lift in the government sector.",
+      "text": "ในเมื่อมีผู้สนับสนุนที่พึ่งพาได้อยู่ตรงนี้ พวกเราก็ลุยภารกิจกันได้อย่างสบายใจแล้วล่ะค่ะ ไปกันเถอะค่ะ มุ่งหน้าไปยังลิฟต์ในเขตการปกครองกัน"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Be safe out there!",
+      "text": "ขอให้เดินทางปลอดภัยนะครับทุกคน!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Though it was but from a distance, I remember the sight of Alexandria's castle in the virtual domain. I wonder how it looks now compared to then...",
+      "text": "แม้จะเป็นเพียงการมองดูจากระยะไกล แต่ฉันยังจำภาพของปราสาทอเล็กซานเดรียในมิติเสมือนได้ดีเลยค่ะ อยากรู้จังเลยนะคะว่าตอนนี้มันจะเป็นอย่างไรบ้างเมื่อเทียบกับตอนนั้น..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "From here, we head to the very bottom of Everkeep. I can't help but feel nervous, returning there after so long...",
+      "text": "จากตรงนี้ พวกเราจะมุ่งหน้าไปยังส่วนที่ต่ำที่สุดของเอเวอร์คีปค่ะ ฉันอดรู้สึกประหม่าไม่ได้จริงๆ ที่ได้กลับไปที่นั่นหลังจากผ่านไปนานแสนนาน..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Calyx has all but invited us, so we must assume that we are expected...",
+      "text": "คาลิกซ์จงใจเชิญชวนพวกเราซะขนาดนี้ แสดงว่าเขาย่อมต้องคาดเดาไว้อยู่แล้วว่าพวกเราจะมาแน่นอน..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oblivion's gotten us permission to use the lift. It's nice when things can move quickly.",
+      "text": "เดอะแบ็ครูมช่วยขออนุญาตใช้ลิฟต์ให้พวกเราแล้วล่ะ ดีจังเลยนะที่อะไรๆ มันรวดเร็วทันใจแบบนี้"
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "Everything has been arranged for your passage to the foundation sector!",
+      "text": "จัดเตรียมทุกอย่างสำหรับการเดินทางไปยังเขตรากฐานเรียบร้อยแล้วครับ!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "There's no direct lift to the foundation sector, so we'll have to transfer to another on the way.",
+      "text": "ไม่มีลิฟต์ที่ตรงไปยังเขตรากฐานโดยตรงหรอกค่ะ พวกเราจึงต้องเปลี่ยนไปขึ้นอีกเครื่องระหว่างทางนะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "If we take the wrong lift, we'll end up in the wrong sector, so be sure to follow her instructions.",
+      "text": "ถ้าพวกเราขึ้นลิฟต์ผิดเครื่อง ก็จะไปโผล่ผิดเขตเอาได้ง่ายๆ เพราะฉะนั้นช่วยทำตามคำแนะนำของเขาให้ดีด้วยนะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "According to Teeshal Ja's records, the tower is divided into inner and outer sections below Origenics. The castle is at the heart of the inner section.",
+      "text": "ตามบันทึกของคุณทีชัล จา หอคอยใต้ชั้นออริเจนิกส์จะแบ่งออกเป็นส่วนในและส่วนนอกค่ะ โดยปราสาทจะตั้งอยู่ตรงใจกลางของส่วนในนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So upon arriving at the foundation sector, we need to make our way inwards.",
+      "text": "ถ้าอย่างนั้น เมื่อไปถึงเขตรากฐานแล้ว พวกเราก็ต้องหาทางมุ่งหน้าลึกเข้าไปด้านในสินะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Forename , take this communicator with you.",
+      "text": "[ชื่อ] คะ ช่วยรับเครื่องมือสื่อสารนี้ไปด้วยค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's been modified to track your coordinates, so I'll be guiding you as I collect data.",
+      "text": "มันถูกดัดแปลงมาให้ติดตามพิกัดของคุณได้ค่ะ ฉันจะได้คอยนำทางคุณไปพร้อมๆ กับการเก็บข้อมูลไปด้วยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sounds like we're all set. Let's get going!",
+      "text": "ฟังดูเหมือนพวกเราพร้อมกันหมดแล้ว ไปกันเลยเถอะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It would be nice if this foray was uneventful, but that would be a naive hope. Better to expect the worst.",
+      "text": "ถ้าการบุกตะลุยครั้งนี้สงบราบรื่นไร้อุปสรรคก็คงจะดีนะคะ แต่นั่นคงเป็นความหวังที่ไร้เดียงสาเกินไปหน่อย ทางที่ดีเตรียมใจรับมือกับสถานการณ์ที่เลวร้ายที่สุดไว้จะดีกว่าค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I shall follow close behind with Shale.",
+      "text": "ฉันจะเดินตามหลังไปติดๆ พร้อมกับคุณเชลนะคะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though we are taking a risk, the far greater danger would be to wait. This time, let us take the battle to Calyx.",
+      "text": "แม้พวกเรากำลังเสี่ยงอันตราย แต่อันตรายที่มากกว่าคือการนั่งรอเฉยๆ คราวนี้ มาเป็นฝ่ายบุกโจมตีคาลิกซ์กันเถอะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Calyx uses the people's love for Sphene to further his own schemes. We can't allow him to do so any longer. Whatever it takes, we'll find and stop him!",
+      "text": "คาลิกซ์ใช้ประโยชน์จากความรักที่ประชาชนมีต่อสฟีนเพื่อดันแผนการของตัวเองต่อ พวกเราจะยอมให้เขาทำแบบนี้ต่อไปไม่ได้อีกแล้ว ไม่ว่าจะต้องใช้วิธีไหน พวกเราต้องหาตัวเขาให้พบแล้วหยุดเขาให้ได้!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "We're heading into a trap, so watch your step.",
+      "text": "พวกเรากำลังเดินเข้าหากับดักนะคะ ระวังฝีเท้าด้วยค่ะ"
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "I'll be your guide for the descent to the foundation sector, after which Shale will take over. Please take care not to lose the communicator!",
+      "text": "ผมจะเป็นคนนำทางลงไปยังเขตรากฐานให้เองครับ จากนั้นคุณเชลจะคอยรับช่วงต่อ กรุณาระวังอย่าทำเครื่องมือสื่อสารหายนะครับ!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "There are beasts ahead of you. They must have gotten in and made themselves at home.",
+      "text": "มีพวกสัตว์ร้ายอยู่ข้างหน้าคุณค่ะ พวกมันคงจะแอบหลุดเข้ามาแล้วใช้ที่นี่เป็นบ้านไปแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "There should be an access hatch nearby that leads inside. Look for an opening.",
+      "text": "น่าจะมีช่องทางเข้าเปิดอยู่แถวๆ นั้นที่นำเข้าไปข้างในได้นะคะ ลองมองหาช่องเปิดดูค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "I'm detecting something big... You'll have to deal with it to continue on.",
+      "text": "ฉันตรวจพบพลังงานบางอย่างที่ตัวใหญ่มากค่ะ... คุณต้องจัดการมันเพื่อที่จะได้เดินทางต่อนะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Good work. Now, proceed to the access hatch and head inside.",
+      "text": "ทำได้ดีมากค่ะ คราวนี้ มุ่งหน้าไปยังช่องทางเข้าแล้วเข้าไปข้างในกันเลยค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Everkeep's construction was apparently a constant battle against the rising water level.",
+      "text": "การก่อสร้างเอเวอร์คีปดูเหมือนจะเป็นการต่อสู้กับระดับน้ำที่สูงขึ้นเรื่อยๆ อยู่ตลอดเวลาเลยค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Even during the war, the people labored to maintain the castle. It meant a lot to them.",
+      "text": "แม้จะอยู่ในช่วงสงคราม แต่ประชาชนก็ยังคงทำงานอย่างหนักเพื่อดูแลรักษาปราสาทเอาไว้ มันมีความหมายต่อพวกเขามากจริงๆ ค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "It's upsetting to think that Preservation's terminal is in this place...",
+      "text": "รู้สึกเจ็บใจจริงๆ เลยค่ะที่คิดว่าเทอร์มินัลของกลุ่มพรีเซิร์ฟเวชันมาตั้งอยู่ในสถานที่แบบนี้..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "Hold on... Someone's jam...mmunications! Stay alert!",
+      "text": "เดี๋ยวนะคะ... สัญญาณการสื่... ถูกรบกวน! ระวังตัวด้วยนะคะ!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "So you have come. Let us measure your strength.",
+      "text": "มากันแล้วงั้นหรือ มาลองทดสอบพละกำลังของพวกเธอหน่อยสิ"
+    },
+    {
+      "character": "Soldier S0",
+      "text_en": "I am the soldier S0, of Alexandria's castle-guard. By order of the royal knights, I shall dispatch all intruders.",
+      "text": "ข้าคือทหารรหัสเอสศูนย์ (S0) แห่งกองทัพผู้พิทักษ์ปราสาทอเล็กซานเดรีย ตามคำสั่งของอัศวินหลวง ข้าขอขจัดผู้บุกรุกทุกคนให้สิ้นซาก"
+    },
+    {
+      "character": "Soldier S0",
+      "text_en": "Releasing limiters... Initiating mobile combat maneuvers.",
+      "text": "ปลดเครื่องจำกัดพลังงาน... เริ่มต้นใช้ยุทธวิธีเคลื่อนที่โจมตี"
+    },
+    {
+      "character": "Soldier S0",
+      "text_en": "Calling reinforcements. Together we shall triumph.",
+      "text": "เรียกกองกำลังเสริม มาร่วมประสานชัยชนะด้วยกัน"
+    },
+    {
+      "character": "Soldier S0",
+      "text_en": "Combat functions...inoperable... Forgive my failure...",
+      "text": "ระบบต่อสู้... ขัดข้อง... ขออภัยในความล้มเหลว..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "That was hardly a challenge, I see.",
+      "text": "ดูท่าจะไม่ใช่เรื่องท้าทายอะไรสำหรับพวกเธอเลยสินะ"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You will show me more. I bid you press on.",
+      "text": "จงแสดงฝีมือให้ฉันเห็นมากกว่านี้ ขอเชิญเดินหน้าต่อได้เลย"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You are untroubled thus far, but I have something that may test you yet.",
+      "text": "จนถึงตอนนี้พวกเธออาจจะยังไม่เจอปัญหาอะไร แต่ฉันมีบางอย่างที่จะมาทดสอบพวกเธอหลังจากนี้"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "We still lack sufficient data. Very well. Let us see how you perform against this.",
+      "text": "พวกเรายังขาดข้อมูลที่เพียงพอ เอาละ มาดูกันดีกว่าว่าพวกเธอจะรับมือกับสิ่งนี้อย่างไร"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "This machine has long guarded these crumbling halls.",
+      "text": "จักรกลเครื่องนี้ทำหน้าที่คอยเฝ้าโถงทางเดินที่ผุพังนี้มาอย่างช้านานแล้ว"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "How will you handle this?",
+      "text": "พวกเธอจะรับมือกับมันอย่างไรกันนะ?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Let us introduce more weaponry.",
+      "text": "มาลองเพิ่มอาวุธเข้าไปอีกสักหน่อยเถอะ"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Let us see what this yields.",
+      "text": "มาดูผลลัพธ์ที่จะออกมากัน"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Perhaps a new approach to assess your adaptability.",
+      "text": "บางทีการใช้แนวทางใหม่ น่าจะช่วยประเมินความสามารถในการปรับตัวของพวกเธอได้ดีกว่า"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Still alive. How unfortunate.",
+      "text": "ยังรอดชีวิตอยู่อีกเรอะ ช่างน่าเสียดายจริง"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Were you to die here, it would save me trouble later.",
+      "text": "หากพวกเธอตายลงที่นี่ มันคงช่วยลดภาระความยุ่งยากให้ฉันได้มากในภายหลัง"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I'm beginning to understand how you were able to defeat Queen Eternal.",
+      "text": "ฉันเริ่มเข้าใจขึ้นมาบ้างแล้วล่ะว่าพวกเธอสามารถโค่นล้มราชินีนิรันดร์ลงได้อย่างไร"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "That will do. We have enough to proceed with an analysis.",
+      "text": "พอแค่นี้แหละ พวกเราได้ข้อมูลเพียงพอสำหรับนำไปวิเคราะห์ผลแล้ว"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Shale and Sphene shouldn't be far behind.",
+      "text": "คุณเชลกับสฟีนน่าจะตามพวกเรามาไม่ห่างแล้วล่ะค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And so the trap was sprung, as expected.",
+      "text": "และแล้วกับดักก็ทำงานตามที่พวกเราคาดไว้จริงๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Where are you hiding, Calyx!?",
+      "text": "นายไปซ่อนตัวอยู่ที่ไหนกัน คาลิกซ์!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It seems we must clear a path through these creatures.",
+      "text": "ดูเหมือนพวกเราต้องช่วยกันฝ่าสัตว์ร้ายพวกนี้เปิดทางไปให้ได้สินะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed. Let us proceed with caution.",
+      "text": "จริงด้วยค่ะ เดินหน้ากันอย่างระมัดระวังเถอะค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let us press on.",
+      "text": "รีบไปต่อกันเถอะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now to put my time training on the beach to good use!",
+      "text": "ได้เวลาเอาการฝึกฝนที่ชายหาดมาใช้ประโยชน์แล้ว!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The sand has built up over the long years...",
+      "text": "ทรายพวกนี้ทับถมกันมานานหลายปีเลยสินะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Whoa! That's a big bug!",
+      "text": "หวา! แมลงตัวเบ้อเริ่มเลย!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Has it been using this chamber as its lair...?",
+      "text": "มันใช้ห้องโถงนี้เป็นรังของมันงั้นเหรอ...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Huh? Where's it going?",
+      "text": "เอ๊ะ? มันจะไปไหนน่ะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is it moving along the pipes?",
+      "text": "มันกำลังขยับไปตามท่ออย่างนั้นเหรอ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I don't think it's trying to flee...",
+      "text": "ฉันคิดว่ามันไม่ได้กำลังหนีหรอกนะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "where did it hide!?",
+      "text": "มันไปซ่อนตัวอยู่ที่ไหนแล้วเนี่ย!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "On your guard, everyone!",
+      "text": "ระวังตัวด้วยนะคะทุกคน!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It means to catch us by surprise!",
+      "text": "มันตั้งใจจะลอบโจมตีพวกเราทีเผลอแน่!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here it comes again!",
+      "text": "มันโผล่หัวมาอีกแล้ว!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a tiresome foe...",
+      "text": "เป็นศัตรูที่ชวนปวดหัวจริงๆ..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This time... From over there!",
+      "text": "คราวนี้... มาจากทางนั้น!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hmph. What a vexing creature that was.",
+      "text": "เฮ้อ เป็นสิ่งมีชีวิตที่น่าปวดหัวจริงๆ เลยนะคะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To think it was clever enough to use the pipes and sand to its advantage...",
+      "text": "ไม่คิดเลยว่ามันจะฉลาดพอที่จะใช้ท่อและทรายให้เป็นประโยชน์ต่อตัวเองได้ขนาดนี้..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Wait, is that...the castle!?",
+      "text": "เดี๋ยวนะ นั่นมัน...ปราสาทงั้นเหรอ!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look. Could that be...?",
+      "text": "ดูนั่นสิคะ หรือว่านั่นจะเป็น...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...It's the castle!?",
+      "text": "...นั่นคือปราสาทจริงๆ เหรอ!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Was Shale's transmission cut off!?",
+      "text": "สัญญาณการติดต่อของเชลถูกตัดงั้นเหรอ!?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We knew it wouldn't be easy. Let's stay strong and keep going!",
+      "text": "พวกเรารู้อยู่แล้วล่ะว่ามันไม่ง่าย เข้มแข็งไว้แล้วลุยกันต่อเถอะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That voice... Calyx!?",
+      "text": "เสียงนี้... คาลิกซ์อย่างนั้นเหรอ!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is he testing us against that mechanical soldier?",
+      "text": "เขากำลังใช้หุ่นยนต์ทหารนั่นมาทดสอบพวกเรางั้นเหรอ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What!? Copies!?",
+      "text": "อะไรกัน!? ร่างแยกงั้นเหรอ!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It moves so quickly...",
+      "text": "มันเคลื่อนไหวเร็วมากเลย..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What are we up against now?",
+      "text": "คราวนี้พวกเราต้องเผชิญหน้ากับอะไรกันคะเนี่ย?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We won't be tricked again!",
+      "text": "พวกเราไม่ยอมโดนหลอกซ้ำสองแน่!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Remain calm—we can evade its attacks!",
+      "text": "ใจเย็นไว้ก่อน—พวกเราหลบการโจมตีของมันได้!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Focus and follow the movements!",
+      "text": "ตั้งสมาธิแล้วมองตามการเคลื่อนไหวของมันให้ดีค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even more of them!?",
+      "text": "ยังมีเยอะกว่านี้อีกงั้นเหรอ!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ungh... My head is spinning.",
+      "text": "อึ้ก... มึนหัวไปหมดแล้วค่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No doubt it will fight to the last...",
+      "text": "ดูท่ามันคงจะสู้ยิบตาจนถึงที่สุดแน่..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It was following orders... Does an even fiercer machine await us?",
+      "text": "มันเพียงทำตามคำสั่ง... จะมีจักรกลที่น่ากลัวกว่านี้รอเราอยู่ข้างหน้าอีกหรือเปล่านะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Fine by me. If he wants a show, let's give him one!",
+      "text": "ก็ดีสิ! ถ้ามันอยากเห็นฝีมือของพวกเรานัก ก็จัดให้มันดูหน่อย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Gah! They came out of nowhere!",
+      "text": "อ๊ะ! พวกมันโผล่มาจากไหนก็ไม่รู้!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a fright!",
+      "text": "ตกใจหมดเลยค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is it guarding the door?",
+      "text": "มันกำลังเฝ้าประตูอยู่หรือเปล่านะ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "All the more reason to see just what lies beyond.",
+      "text": "ถ้างั้นก็ยิ่งต้องเข้าไปดูให้เห็นกับตาว่ามีอะไรอยู่ข้างหลังนั่น"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I don't believe it intends to let us pass...",
+      "text": "คิดว่ามันคงไม่ยอมปล่อยให้พวกเราผ่านไปง่ายๆ หรอกนะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What is that? A floating rock?",
+      "text": "นั่นอะไรน่ะ? หินลอยได้งั้นเหรอ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Something's carved into it... Alexandria's emblem, perhaps?",
+      "text": "มีอะไรบางอย่างสลักอยู่ด้วย... ตราสัญลักษณ์ของอเล็กซานเดรียหรือเปล่าคะ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Stay alert!",
+      "text": "ระวังตัวด้วย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those things started moving!",
+      "text": "ไอ้พวกนั้นมันเริ่มขยับแล้ว!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It comes again!",
+      "text": "มันโจมตีเข้ามาอีกแล้ว!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Is anywhere safe!?",
+      "text": "มีตรงไหนที่ปลอดภัยบ้างไหมเนี่ย!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Something's different...",
+      "text": "มีบางอย่างเปลี่ยนไป..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is the lightning intensifying?",
+      "text": "สายฟ้ามันเริ่มรุนแรงขึ้นหรือเปล่าคะ?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Steel your nerves and make ready to dodge!",
+      "text": "ตั้งสติให้ดีแล้วเตรียมตัวหลบ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The red light changed positions!",
+      "text": "แสงสีแดงเปลี่ยนตำแหน่งแล้วค่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those move too!? No fair!",
+      "text": "ขยับได้ด้วยเรอะ!? ขี้โกงนี่นา!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Calyx was measuring our strength. Is that why he contrived to lead us here?",
+      "text": "คาลิกซ์กำลังวัดพละกำลังของพวกเราอยู่ หรือว่านี่จะเป็นเหตุผลที่เขาจงใจล่อพวกเรามาที่นี่กันแน่คะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It looks like we've cleared away the machines and beasts, but who knows what else he might have in store...",
+      "text": "ดูเหมือนพวกเราจะกำจัดพวกหุ่นยนต์กับสัตว์ร้ายไปหมดแล้ว แต่ใครจะรู้ว่าเขายังเตรียมอะไรไว้อีก..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "From here on out, Sphene and Shale will move with us. Let's find that terminal, but stay alert for more threats.",
+      "text": "จากตรงนี้ไป สฟีนกับเชลจะร่วมเดินทางไปกับพวกเราด้วย มาช่วยกันค้นหาเทอร์มินัลนั่นกันเถอะ แต่ต้องระวังตัวจากอันตรายรอบด้านด้วยนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Before my illness left me bedridden, I used to walk through here on my way to watch Otis and Zelenia train.",
+      "text": "ก่อนที่อาการป่วยจะทำให้ฉันต้องนอนติดเตียง ฉันเคยเดินผ่านทางเดินนี้เพื่อไปดูคุณโอทิสกับคุณเซเลเนียฝึกซ้อมรบกันน่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You knew Otis, if I am not mistaken? Zelenia was his second-in-command in the royal knights of Alexandria.",
+      "text": "ถ้าจำไม่ผิด คุณรู้จักคุณโอทิสด้วยใช่ไหมคะ? ส่วนคุณเซเลเนียก็คือรองอัศวินผู้ใต้บังคับบัญชาของเขาในกลุ่มอัศวินหลวงแห่งอเล็กซานเดรียค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh, how I loved to see the two of them spar. I once dreamed of fighting by their side, so I studied the magical arts under my tutor.",
+      "text": "ตอนที่เห็นพวกเขาสองคนฝึกซ้อมกันมันวิเศษมากเลยล่ะค่ะ ฉันเคยฝันอยากจะต่อสู้เคียงข้างพวกเขา ก็เลยได้ร่ำเรียนวิชาเวทมนตร์จากอาจารย์ด้วยค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But when I was fifteen, the Storm Surge broke out, and both my father and mother passed away.",
+      "text": "แต่พอฉันอายุได้สิบห้าปี ภัยพิบัติคลื่นพายุคลั่งก็อุบัติขึ้น ทั้งท่านพ่อและท่านแม่ต่างก็จากโลกนี้ไปค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "As the new queen, I was forbidden from taking to the battlefield, for our nation would fracture had I died without a successor.",
+      "text": "ในฐานะราชินีองค์ใหม่ ฉันจึงถูกสั่งห้ามไม่ให้ย่างกรายเข้าไปในสมรภูมิเด็ดขาด เพราะหากฉันสิ้นชีพไปโดยไม่มีผู้สืบทอดราชบัลลังก์ ประเทศชาติก็คงต้องแตกแยกเป็นเสี่ยงๆ แน่ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Though in the end I could barely move, I regret that I didn't go out there and fight. At least while I still could.",
+      "text": "แม้ว่าสุดท้ายแล้วร่างกายของฉันแทบจะขยับไม่ได้เลย แต่ฉันก็รู้สึกเสียดายจริงๆ ค่ะที่ไม่ได้ก้าวออกไปร่วมสู้รบ อย่างน้อยก็ในช่วงที่ฉันยังพอมีเรี่ยวแรงอยู่..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "My Endless self lamented not being able to protect the realm with benevolence. 'Tis a feeling to which I can relate...",
+      "text": "ตัวฉันในร่างเอ็นด์เลสเคยเศร้าโศกเสียใจที่ไม่สามารถปกป้องแผ่นดินด้วยความเมตตาปรานีได้... มันเป็นความรู้สึกที่ฉันเข้าอกเข้าใจดีเลยล่ะค่ะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene...",
+      "text": "สฟีน..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, forgive me! 'Twas not my intent to darken the mood. Come, let us press on.",
+      "text": "อ๊ะ ขอโทษด้วยนะคะ! ฉันไม่ได้ตั้งใจจะทำลายบรรยากาศให้หม่นหมองเลย ไปกันต่อเถอะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is one big castle, though... How far does this hallway go?",
+      "text": "แต่ปราสาทนี้มันใหญ่โตมโหฬารจริงๆ นะ... ทางเดินนี้มันยาวไปถึงไหนกันเนี่ย?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Do you know, Sphene?",
+      "text": "เธอรู้ไหม สฟีน?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What...?",
+      "text": "อะไรกัน...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What...what happened!?",
+      "text": "เกิด...เกิดอะไรขึ้นคะ!?"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Oh? It seems our guest brought company.",
+      "text": "อุ๊ย? ดูเหมือนแขกของเราจะพาเพื่อนมาด้วยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So this was your doing.",
+      "text": "ที่แท้ก็น้ำมือคุณนี่เอง"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "It was. We installed a teleporter that is triggered by the presence of the key, you see.",
+      "text": "ใช่แล้วค่ะ พวกเราติดตั้งเครื่องเคลื่อนย้ายมวลสารที่ทำงานเมื่อตรวจพบกุญแจชิ้นนั้นน่ะค่ะ"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Ah, I'm afraid aetheric transmissions cannot penetrate the walls of the throne room. It will take your friends a good while to find you.",
+      "text": "อ๊ะ เกรงว่าคลื่นสัญญาณอีเธอร์จะไม่สามารถทะลุผ่านกำแพงห้องโถงบัลลังก์ได้หรอกนะคะ เพื่อนๆ ของคุณคงต้องใช้เวลาพักใหญ่เลยล่ะค่ะกว่าจะตามหาคุณพบ"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I confess, the Valia Pira did not suffice to assess your capabilities.",
+      "text": "ฉันต้องยอมรับเลยว่า วาเลีย พิรา ยังไม่เพียงพอที่จะใช้ประเมินพละกำลังของพวกเธอ"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "So I shall try something else.",
+      "text": "เพราะฉะนั้น ฉันคงต้องลองวิธีอื่นดูเสียหน่อย"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "You are free to use anything at your disposal. The better you fight, the more accurate my data.",
+      "text": "พวกเธอสามารถใช้อะไรก็ได้ตามแต่สะดวก ยิ่งพวกเธอต่อสู้ได้ดีเท่าไหร่ ข้อมูลของฉันก็จะยิ่งแม่นยำขึ้นเท่านั้น"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Attaining a precise measure of your strength─that is the most expeditious way...",
+      "text": "การเก็บผลลัพธ์การวัดค่าพละกำลังที่แม่นยำของพวกเธอ—นั่นคือหนทางที่รวดเร็วที่สุด..."
+    },
+    {
+      "character": "Calyx",
+      "text_en": "...To reclaim the key to which you so stubbornly cling.",
+      "text": "...ที่จะช่วงชิงกุญแจที่พวกเธอดึงดันถือครองไว้กลับคืนมา"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Ah, noble Zelenia, dashing as ever. These villains mean to do us harm. Strike them down, I bid you!",
+      "text": "อ๊า คุณเซเลเนียผู้สูงส่งและสง่างามเสมอมา คนร้ายพวกนี้มุ่งร้ายจะทำอันตรายพวกเรานะคะ ช่วยกำจัดพวกเขาให้สิ้นซากทีเถอะค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What? This machine is Zelenia!?",
+      "text": "อะไรนะคะ? จักรกลเครื่องนี้คือคุณเซเลเนียอย่างนั้นเหรอคะ!?"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Indeed it is. We couldn't preserve her memories while she lived, so she has been reconstructed from our recollections of her.",
+      "text": "ใช่แล้วค่ะ น่าเสียดายที่พวกเราไม่สามารถเก็บรักษาความทรงจำตอนที่เธอยังมีชีวิตอยู่ได้ เธอจึงถูกสร้างขึ้นมาใหม่จากเศษเสี้ยวความทรงจำที่พวกเรามีต่อเธอน่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The Endless me being created in answer to the earnest desires of Alexandrians... That, I can accept.",
+      "text": "การสร้างตัวฉันในร่างเอ็นด์เลสขึ้นมาเพื่อตอบสนองต่อความปรารถนาอันแรงกล้าของชาวอเล็กซานเดรีย... เรื่องนั้นฉันยอมรับได้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But to twist the memories of those I held dear and treat them as playthings...",
+      "text": "แต่การมาบิดเบือนความทรงจำของคนสำคัญที่ฉันรัก และปฏิบัติกับพวกเขาเหมือนเป็นของเล่นแบบนี้..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "...This disgrace I cannot abide!",
+      "text": "...ความอัปยศเช่นนี้ ฉันไม่มีวันทนยอมรับได้เด็ดขาดค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Loath though I am to comply with their demands, this monstrosity must be destroyed. Not least of all for Zelenia's honor.",
+      "text": "ถึงฉันจะไม่อยากทำตามความต้องการของพวกนั้นเลยก็ตาม แต่สิ่งผิดธรรมชาติชิ้นนี้จะต้องถูกทำลายลงค่ะ ทั้งหมดนี้ก็เพื่อกอบกู้เกียรติยศของคุณเซเลเนียกลับคืนมา"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If she was indeed created from my memories, even if I cannot fight, I may be able to offer you counsel.",
+      "text": "หากเธอถูกสร้างขึ้นมาจากความทรงจำของฉันจริงๆ ถึงฉันจะร่วมสู้ไม่ได้ แต่ฉันก็น่าจะคอยให้คำแนะนำแก่คุณได้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So please, lend me your strength and end this farce!",
+      "text": "เพราะฉะนั้น ได้โปรดให้ฉันยืมพลังของคุณ และยุติละครปาหี่นี้ทีเถอะค่ะ!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Ah, there it is...",
+      "text": "อา มันมาแล้ว..."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I am Zelenia Triantafylli.",
+      "text": "ข้าคือ เซเลเนีย ไทรแอนทาฟิลลี"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Royal knight of Alexandria, and sworn blade of Her Majesty, the Queen.",
+      "text": "อัศวินหลวงแห่งอเล็กซานเดรีย และคมดาบผู้พิทักษ์คำสัตย์สาบานแด่องค์ราชินี"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Upon my blade I swear, no harm shall come to Her Highness!",
+      "text": "ข้าขอสาบานต่อคมดาบนี้ ว่าจะไม่ยอมให้อันตรายใดๆ กล้ำกรายองค์เหนือหัวเด็ดขาด!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You will not defile Zelenia's memory any longer!",
+      "text": "ฉันจะไม่ยอมให้พวกคุณเหยียบย่ำเกียรติและความทรงจำของคุณเซเลเนียไปมากกว่านี้แล้วค่ะ!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Feel the sting of my divine blade!",
+      "text": "จงลิ้มรสความเจ็บปวดจากคมดาบศักดิ์สิทธิ์ของข้าซะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I know this technique... You must keep moving!",
+      "text": "ฉันรู้จักวิชานี้... คุณต้องเคลื่อนไหวตลอดเวลานะคะ!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Have at you!",
+      "text": "จงรับมือ!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Fall!",
+      "text": "จงล้มลงไปซะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That her bladework should be recreated so faithfully...",
+      "text": "ไม่คิดเลยว่าเพลงดาบของเธอจะถูกจำลองขึ้นมาได้อย่างสมบูรณ์แบบขนาดนี้..."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I will suffer none to threaten Alexandria!",
+      "text": "ข้าจะไม่ยอมให้ผู้ใดมาคุกคามอเล็กซานเดรียเด็ดขาด!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Heavens roar!",
+      "text": "ฟากฟ้าจงคำราม!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have care! Zelenia was capable of much, much more!",
+      "text": "ระวังตัวด้วยนะคะ! ความสามารถของคุณเซเลเนียยังมีมากกว่านี้อีกมากนักค่ะ!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I will show you the soul of a royal knight!",
+      "text": "ข้าจะแสดงจิตวิญญาณแห่งอัศวินหลวงให้ประจักษ์!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "For the honor and glory of Alexandria, I strike!",
+      "text": "เพื่อเกียรติยศและศักดิ์ศรีแห่งอเล็กซานเดรีย ข้าขอฟาดฟัน!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "No more games!",
+      "text": "หมดเวลาเล่นสนุกแล้ว!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Quickly, away from the sigils!",
+      "text": "เร็วเข้าค่ะ ถอยห่างออกมาจากอักขระเวทพวกนั้นเร็ว!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The sigils channel magic! Be on your guard!",
+      "text": "อักขระพวกนั้นส่งผ่านพลังเวทมนตร์! ระวังตัวด้วยนะคะ!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "You've no time even to fear my wrath!",
+      "text": "เจ้าจะไม่มีแม้แต่เวลาที่จะหวาดกลัวต่อความพิโรธของข้า!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You must brace for blade and magic both!",
+      "text": "คุณต้องเตรียมรับมือทั้งคมดาบและเวทมนตร์ไปพร้อมๆ กันนะคะ!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Taste my steel!",
+      "text": "จงลิ้มรสคมเหล็กของข้า!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "There is no escape!",
+      "text": "ไม่มีทางหนีพ้นหรอก!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Surge!",
+      "text": "จงปะทุออกมา!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I know this is merely a reconstruction...and yet...",
+      "text": "ฉันรู้ดีค่ะว่านี่เป็นเพียงแค่ร่างจำลองที่สร้างขึ้นมา... ทว่า..."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I have pledged my life to the kingdom!",
+      "text": "ข้าได้อุทิศชีวิตนี้ไว้แด่อาณาจักรแล้ว!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "My resolve shall never waver!",
+      "text": "ปณิธานของข้าไม่มีวันสั่นคลอน!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "I am sworn to protect my queen! I will die before I yield!",
+      "text": "ข้าขอสาบานว่าจะปกป้องราชินีของข้า! ต่อให้ต้องตายข้าก็ไม่วันยอมจำนน!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That's right... Zelenia was always there to protect me...",
+      "text": "ใช่แล้วค่ะ... คุณเซเลเนียมักจะคอยอยู่เคียงข้างเพื่อปกป้องฉันเสมอ..."
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "Rage and roil!",
+      "text": "จงคลุ้มคลั่งและโหมกระหน่ำ!"
+    },
+    {
+      "character": "Zelenia",
+      "text_en": "A disgraceful display... Forgive me, my queen... I have failed you...",
+      "text": "ช่างน่าอับอายเหลือเกิน... ขออภัยด้วยเพคะองค์ราชินี... ข้าทำพลาดไปเสียแล้ว..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank you for keeping me from harm.",
+      "text": "ขอบคุณมากนะคะที่ช่วยปกป้องฉันไม่ให้ได้รับอันตราย"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Did you get what you needed?",
+      "text": "ได้ข้อมูลที่คุณต้องการครบถ้วนหรือยังคะ?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I did. Though these figures will complicate matters.",
+      "text": "ได้แล้วล่ะ ถึงตัวเลขเหล่านี้จะทำให้เรื่องต่างๆ ซับซ้อนขึ้นอยู่บ้างก็ตาม"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Is that so? Well, if we are done here, then I shall end the transmission.",
+      "text": "อย่างนั้นเหรอคะ? เอาละ ถ้าไม่มีอะไรแล้ว ฉันขออนุญาตตัดสัญญาณการเชื่อมต่อเลยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Hold it!",
+      "text": "ช้าก่อนค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If you have no scruples about thus defiling the memories of Zelenia...then there is no way we will ever see eye to eye.",
+      "text": "หากพวกคุณยังไร้ความละอายใจในการเหยียบย่ำความทรงจำของคุณเซเลเนียแบบนี้... พวกเราก็ไม่มีวันที่จะหันหน้ามาตกลงกันได้หรอกค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "You are not fit to be entrusted with the cherished memories of Alexandrians!",
+      "text": "พวกคุณไม่คู่ควรที่จะได้รับความไว้วางใจให้ดูแลรักษาความทรงจำอันมีค่าของชาวอเล็กซานเดรียเลยสักนิดค่ะ!"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "I, for one, have no wish to employ the fruits of my research in this manner. It is a waste of time and effort.",
+      "text": "ตัวฉันเองก็ไม่ได้อยากจะเอาผลผลิตจากการวิจัยของตัวเองมาใช้ในลักษณะนี้เหมือนกัน มันทั้งเสียเวลาและเปล่าประโยชน์ชะมัด"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "But since I relinquished my flesh long ago, I must resort to every conceivable method, so long as the hero insists on keeping the key.",
+      "text": "แต่ในเมื่อฉันสละร่างกายที่เป็นเนื้อหนังไปตั้งนานแล้ว ฉันจึงจำเป็นต้องหันไปพึ่งพาทุกวิถีทางที่เป็นไปได้ ตราบใดที่นักรบแห่งแสงยังคงดึงดันที่จะครอบครองกุญแจชิ้นนั้นเอาไว้"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "Why do you so oppose our objective?",
+      "text": "ทำไมพวกเธอต้องคัดค้านเป้าหมายของเราอย่างเอาเป็นเอาตายขนาดนี้ด้วยล่ะ?"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "With the key, we would be able to harvest aether from other reflections and bring forth more Endless.",
+      "text": "หากมีกุญแจนั่น พวกเราย่อมสามารถเก็บเกี่ยวอีเธอร์จากโลกเงาสะท้อนอื่นเพื่อสร้างเหล่าเอ็นด์เลสขึ้นมาได้มากกว่าเดิม"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "We could give this chance to evolve not only to the people of the Ninth, but to those of the Source as well. I see no reason why you should reject such a boon.",
+      "text": "พวกเราสามารถมอบโอกาสในการวิวัฒนาการนี้ให้กับผู้คนในโลกเงาสะท้อนที่เก้า รวมถึงผู้คนในโลกหลักได้ด้วยเช่นกัน ฉันมองไม่เห็นเหตุผลเลยว่าทำไมพวกเธอถึงต้องปฏิเสธของขวัญอันล้ำค่าเช่นนี้"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "How miserly you are! But unless you're willing to compromise, you won't be able to save anyone or anything.",
+      "text": "ช่างใจแคบกันจังเลยนะคะ! แต่ถ้าคุณไม่คิดที่จะประนีประนอมบ้างเลยล่ะก็ คุณก็ไม่มีวันที่จะช่วยชีวิตใครหรืออะไรไว้ได้เลยหรอกค่ะ"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Oh, don't tell me you thought you were the only ones who knew? That is the height of hubris!",
+      "text": "อุ๊ย อย่าบอกนะว่าพวกคุณคิดว่ามีเพียงพวกคุณเท่านั้นที่รู้เรื่องนี้? ช่างอวดดีและโอหังเหลือเกินค่ะ!"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Well, I'd say our conversation has run its course.",
+      "text": "เอาละ ฉันคิดว่าการพูดคุยของพวกเราคงจบลงเพียงเท่านี้แหละค่ะ"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "Ultimately, what you think is immaterial, for the seeds we've sown have already quickened.",
+      "text": "สุดท้ายแล้ว สิ่งที่คุณคิดมันก็ไม่มีความสำคัญอะไรเลย เพราะเมล็ดพันธุ์ที่พวกเราหว่านเอาไว้ได้เริ่มงอกเงยขึ้นมาแล้วล่ะค่ะ"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "The people have glimpsed hope in transcending death, and they can ill turn away from it.",
+      "text": "เมื่อประชาชนได้ประจักษ์ถึงความหวังในการก้าวข้ามความตายแล้ว พวกเขาก็ยากที่จะหันหลังกลับไปจากมันได้แล้วล่ะค่ะ"
+    },
+    {
+      "character": "Simulant",
+      "text_en": "And thus does my role come to an end. The rest, I leave in your capable hands, Calyx.",
+      "text": "และบทบาทของฉันก็สิ้นสุดลงเพียงเท่านี้ค่ะ ส่วนที่เหลือฝากจัดการด้วยนะคะ คาลิกซ์"
+    },
+    {
+      "character": "Calyx",
+      "text_en": "As a token of gratitude for consenting to my tests, I leave you with a gift. Be sure to take it with you.",
+      "text": "เพื่อเป็นเครื่องแสดงความขอบคุณสำหรับการเข้าร่วมการทดสอบของฉัน ฉันจะทิ้งของขวัญชิ้นหนึ่งไว้ให้ อย่าลืมเก็บมันไปด้วยล่ะ"
+    },
+    {
+      "character": "Lift Attendant",
+      "text_en": "Heading below? I'd be glad to show you the way!",
+      "text": "กำลังจะลงไปด้านล่างเหรอครับ? ผมยินดีช่วยนำทางให้ครับ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Zelenia was kind, but she could be stern. A pillar of strength when I ascended the throne in troubled times.",
+      "text": "คุณเซเลเนียเป็นคนใจดีนะคะ แต่เธก็เข้มงวดมากเช่นกัน เธอคือเสาหลักอันแข็งแกร่งคอยค้ำจุนฉันในยามที่ต้องขึ้นครองราชย์ท่ามกลางช่วงเวลาอันสับสนวุ่นวายค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Not only did she protect me, she also buoyed my spirit whenever it threatened to buckle under the pressures of my station...",
+      "text": "นอกจากเธอจะช่วยปกป้องฉันแล้ว เธอยังคอยประคับประคองจิตใจของฉันทุกครั้งในยามที่มันใกล้จะพังทลายลงภายใต้แรงกดดันจากภาระหน้าที่ในตำแหน่งกษัตริย์ค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "By preserving her memory and honor, you've done more for me than you could know. Thank you, Forename .",
+      "text": "การที่คุณช่วยปกป้องเกียรติยศและความทรงจำของเธอเอาไว้ ถือว่าคุณได้ทำสิ่งที่ยิ่งใหญ่เพื่อฉันมากกว่าที่คุณจะล่วงรู้ได้เสียอีกค่ะ ขอบคุณมากนะคะ [ชื่อ]"
+    }
+  ]
+}

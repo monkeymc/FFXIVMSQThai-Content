@@ -1,0 +1,818 @@
+{
+  "id": "where-we-call-home",
+  "wiki_path": "/wiki/Where_We_Call_Home",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c3/Where_we_call_home1.png",
+  "patch": "7.4",
+  "title_en": "Where We Call Home",
+  "title": "บ้านของพวกเรา",
+  "level": "100",
+  "location": "Treno(X:11.8,Y:15.1)",
+  "npc_start": "Lumull",
+  "dialogues": [
+    {
+      "character": "Cargo Operator",
+      "text_en": "I really could have gone without a Doomtrain attack today...",
+      "text": "วันนี้ไม่อยากเจอรถไฟดูมเทรนบุกโจมตีเลยให้ตายสิ..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Ready? Then our fearless operator will help you aboard.",
+      "text": "พร้อมหรือยังครับ? ถ้าอย่างนั้น เจ้าหน้าที่ควบคุมรถผู้แสนกล้าหาญของเราจะช่วยพาทุกท่านขึ้นรถนะครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "We make for Bentini with all haste!",
+      "text": "พวกเราจะรีบมุ่งหน้าไปยังเบนตินีอย่างเร็วที่สุดครับ!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Go on, climb aboard!",
+      "text": "เชิญเลยครับ รีบขึ้นรถเถอะครับ!"
+    },
+    {
+      "character": "Cargo Operator",
+      "text_en": "I'll have us there in a flash! Do keep any limbs you're attached to and would like to remain attached to inside the vehicle.",
+      "text": "รับรองว่าจะพาไปถึงที่นั่นในพริบตาเดียวเลยครับ! แต่ยังไงก็ช่วยเก็บแขนขาที่ยังอยู่ดีและยังอยากให้มันติดกับตัวไว้ข้างในรถด้วยนะครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "This is it.",
+      "text": "ถึงเวลาแล้วครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "You'll be riding that flatcar at the rear of the train.",
+      "text": "คุณจะต้องนั่งบนตู้แท่นราบด้านหลังสุดของรถไฟขบวนโน้นนะครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I'll be all the way at the front, pushing her as fast as she can go.",
+      "text": "ส่วนผมจะอยู่ข้างหน้าสุด คอยเร่งเครื่องมันให้เร็วที่สุดเท่าที่จะทำได้ครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "The Doomtrain moves at breakneck speed. If we're too slow, it'll plow right through us.",
+      "text": "รถไฟดูมเทรนนั่นแล่นเร็วปานสายฟ้าแลบเลยครับ ถ้าพวกเราช้าเกินไปล่ะก็ มันได้พุ่งชนพวกเราจนยับเยินแน่"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Speaking of which, we'd best get underway before it does just that...",
+      "text": "พูดก็พูดเถอะครับ พวกเรารีบออกเดินทางกันก่อนที่มันจะชนพวกเราจริงๆ ดีกว่า..."
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Don't forget you're fighting for Eyaney. For all of Treno.",
+      "text": "อย่าลืมนะครับว่าคุณกำลังต่อสู้เพื่อเอยานี และเพื่อชาวเทรโนทุกคน"
+    },
+    {
+      "character": "Cargo Operator",
+      "text_en": "Hit by a train in Treno or hit by a train out here, it's all the same to me.",
+      "text": "จะโดนรถไฟชนในเทรโนหรือโดนชนกลางทางข้างนอกนี่ สำหรับฉันแล้วมันก็ไม่ต่างกันหรอกนะ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Using our on-board systems, I should be able to monitor you from the locomotive. And you'll be able to hear me!",
+      "text": "ด้วยระบบสื่อสารภายในขบวนรถไฟ ผมน่าจะคอยสังเกตการณ์คุณจากห้องคนขับได้ครับ และคุณก็น่าจะได้ยินเสียงผมด้วยเหมือนกัน!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Here it comes! Brace for impact!",
+      "text": "มันมาแล้วครับ! เตรียมรับแรงกระแทกให้ดี!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "We're in it now... I'm counting on you!",
+      "text": "ตอนนี้พวกเราลุยกันแล้วครับ... ฝากด้วยนะครับ!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Waugh, the flatcar!",
+      "text": "หวาาา! ตู้แท่นราบด้านหลัง!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Turrets!? Uh...good luck!",
+      "text": "ป้อมปืนอย่างนั้นเหรอ!? เอ้อ... โชคดีนะครับ!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Not again... You all right back there?",
+      "text": "เอาอีกแล้วเหรอ... ข้างหลังนั่นยังปลอดภัยดีไหมครับ?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Use the transport panels to get up there!",
+      "text": "ใช้แผงส่งตัวเคลื่อนย้ายขึ้นไปด้านบนเลยครับ!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "How many times is it going to do that!?",
+      "text": "มันจะโจมตีแบบนั้นอีกสักกี่รอบกันเนี่ย!?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "What in the─ You're still on board, right!?",
+      "text": "นี่มันเรื่องบ้าอะไรกัน─ คุณยังไม่ตกจากรถใช่ไหมครับ!?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Aetherial...arms...?",
+      "text": "นั่นมัน... แขนเอเธอร์อย่างนั้นเหรอ...?"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I have to disconnect the car. Quick, jump on the next one!",
+      "text": "ผมจำเป็นต้องปลดตู้นี้ทิ้งแล้วครับ! เร็วเข้า รีบโดดข้ามไปตู้ถัดไปเร็ว!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Thunderous heavens!",
+      "text": "คุณพระช่วย!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Hit it harder!",
+      "text": "ซัดมันให้หนักกว่านี้เลยครับ!"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Phew...",
+      "text": "เฮ้อ... ค่อยยังชั่ว"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "No more adventures, thank you. That was enough bravery for a lifetime.",
+      "text": "ขอทีเถอะครับ การผจญภัยพรรค์นี้ ขอเจอครั้งเดียวพอ ความกล้าเมื่อกี้คงใช้ไปหมดเกลี้ยงตลอดชีวิตแล้วล่ะครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "But we did it! We stopped the Doomtrain! Well, mostly you did.",
+      "text": "แต่พวกเราก็ทำสำเร็จจนได้! พวกเราหยุดยั้งรถไฟดูมเทรนนั่นได้แล้วครับ! เอ้อ... ความจริงฝีมือคุณล้วนๆ เลยล่ะครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "Before we can celebrate, though, we need to make sure Treno's secure.",
+      "text": "ถึงอย่างนั้น ก่อนจะเฉลิมฉลองกัน พวกเราต้องไปตรวจดูความปลอดภัยของเทรโนให้เรียบร้อยเสียก่อนครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "As I feared. Stray beasts to the south.",
+      "text": "เป็นอย่างที่คิดไว้ไม่มีผิดเลยครับ มีพวกอสูรร้ายหลงเข้ามาทางใต้"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I've lost track of how many times I've asked you for help, but...I need your help again.",
+      "text": "ผมจำไม่ได้แล้วว่าเคยเอ่ยปากขอความช่วยเหลือจากคุณไปกี่หน... แต่คราวนี้ผมคงต้องรบกวนคุณอีกครั้งแล้วล่ะครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I have to believe that Eyaney will be safe with your comrades while we attend to matters elsewhere.",
+      "text": "ผมเชื่อว่าเอยานีคงจะปลอดภัยดีหากอยู่กับพวกพ้องของคุณ ในระหว่างที่พวกเรารีบไปจัดการเรื่องทางอื่นครับ"
+    },
+    {
+      "character": "Lumull",
+      "text_en": "I'll see to the wounded. You try not to join them, alright?",
+      "text": "ผมจะไปช่วยดูแลคนเจ็บ ส่วนคุณเองก็ต้องระวังตัวด้วย อย่าลงไปนอนเจ็บอีกคนล่ะครับ ตกลงไหม?"
+    },
+    {
+      "character": "Imperiled Milalla",
+      "text_en": "No!",
+      "text": "อย่าเข้ามานะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Can you stand?",
+      "text": "ลุกไหวไหมจ๊ะ?"
+    },
+    {
+      "character": "Imperiled Milalla",
+      "text_en": "Y-Yes! Thank you so much!",
+      "text": "ล-ลุกไหวค่ะ! ขอบคุณมากๆ เลยนะคะ!"
+    },
+    {
+      "character": "Imperiled Milalla",
+      "text_en": "There were others being attacked over by the canal. Could you possibly...?",
+      "text": "ยังมีคนอื่นๆ โดนทำร้ายอยู่แถวคลองส่งน้ำน่ะค่ะ คุณพอจะช่วย...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Of course, I'll go right away. The rest of you should get to the town hall.",
+      "text": "ได้สิคะ ฉันจะรีบไปเดี๋ยวนี้เลย ส่วนพวกคุณที่เหลือรีบหนีไปที่ศาลาว่าการเมืองกันก่อนนะคะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can't leave anyone behind. I won't!",
+      "text": "ฉันจะไม่มีวันทิ้งใครไว้ข้างหลังเด็ดขาดค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Best make sure the evacuation route is clear first...",
+      "text": "ต้องตรวจดูเส้นทางอพยพให้ปลอดภัยก่อนเป็นอันดับแรกสินะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Done! Now to aid those people by the canal...",
+      "text": "เรียบร้อยค่ะ! คราวนี้ก็รีบไปช่วยคนตรงแถวคลองส่งน้ำกันต่อ..."
+    },
+    {
+      "character": "Scared Citizen",
+      "text_en": "H-Heeelp!",
+      "text": "ช-ช่วยด้วยยย!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Waugh!",
+      "text": "หวาาา!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "We're trapped!",
+      "text": "พวกเราหนีไปไหนไม่ได้แล้ว!"
+    },
+    {
+      "character": "Storming Thunder Spirit",
+      "text_en": "<shriek>",
+      "text": "<กรีดร้อง>"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Help is on the way!",
+      "text": "ไม่ต้องห่วงนะคะ ความช่วยเหลือมาแล้วค่ะ!"
+    },
+    {
+      "character": "Scared Citizen (text bubble)",
+      "text_en": "S-Scared? Who, m-m-me?",
+      "text": "ก-กลัวงั้นเหรอ? ใคร ฉ-ฉันน่ะเหรอ?"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "My thanks!",
+      "text": "ขอบคุณมากนะ!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "What incredible magic!",
+      "text": "เป็นเวทมนตร์ที่น่าทึ่งมากเลย!"
+    },
+    {
+      "character": "Krile (text bubble)",
+      "text_en": "Get to safety!",
+      "text": "รีบหนีไปที่ปลอดภัยกันก่อนนะคะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There may be other stragglers...",
+      "text": "อาจจะยังมีคนที่หลงเหลืออยู่อีกนะ..."
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "I was so scared I couldn't even move! Silly, isn't it? Haha...ha...ha...",
+      "text": "เมื่อกี้ฉันกลัวจนก้าวขาไม่ออกเลยล่ะ น่าขันชะมัดเลยใช่ไหมล่ะ? ฮ่าๆ... ฮ่า... ฮ่า..."
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "My wife and I will be making for town hall straightaway. You have my word on that!",
+      "text": "ฉันกับเมียจะรีบตรงดิ่งไปที่ศาลาว่าการเมืองเดี๋ยวนี้แหละ สัญญาเลย!"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "If you're determined to check on everyone, I won't complain, but do be careful.",
+      "text": "ถ้าเธอตั้งใจจะไปตามหาคนอื่นๆ ให้ครบ ฉันก็คงไม่ห้ามหรอกนะ แต่ยังไงก็ดูแลตัวเองด้วยล่ะ"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "Come on!",
+      "text": "เร็วเข้าเถอะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Be careful!",
+      "text": "ระวังตัวด้วยนะคะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That breeze is awfully warm... Oh no!",
+      "text": "ลมพัดนั่นร้อนผิดปกติ... แย่แล้ว!"
+    },
+    {
+      "character": "Sorrowful Citizen",
+      "text_en": "Our home...",
+      "text": "บ้านของพวกเรา..."
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "It's really on fire!",
+      "text": "ไฟไหม้จริงๆ ด้วย!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Aaaaaaah!",
+      "text": "กรี๊ดดดดด!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "We can't haul enough water for this...",
+      "text": "ขนน้ำมาเท่าไหร่ก็คงไม่พอแน่...!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "I noticed! Bring water!",
+      "text": "รู้แล้วน่า! รีบไปเอาน้ำมาเพิ่มเร็ว!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "First things first─the fire!",
+      "text": "เรื่องอื่นไว้ทีหลัง ต้องดับไฟก่อนค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "To take a leaf out of Y'shtola's book...",
+      "text": "ขอยืมวิธีของยาชโทลามาใช้หน่อยแล้วกันนะจ๊ะ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you, my friend!",
+      "text": "ขอบใจมากนะจ๊ะเพื่อนรัก!"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "What sort of magic was that? I've never seen the like!",
+      "text": "เวทมนตร์อะไรกันเนี่ย!? เกิดมาฉันไม่เคยพบเคยเห็นอะไรแบบนี้เลย!"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "...Priorities. Yes. I'm going to run away, and we can talk about it later!",
+      "text": "...ไม่ใช่เวลามามัวถามสินะ ใช่! ฉันต้องรีบหนีเอาตัวรอดก่อน เรื่องอื่นค่อยคุยกันทีหลัง!"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "Let's go!",
+      "text": "หนีเร็ว!"
+    },
+    {
+      "character": "Shocked Citizen 2",
+      "text_en": "It was you that put the fire out? How will I ever thank you...",
+      "text": "เธอเป็นคนช่วยดับไฟงั้นรึ? ไม่รู้จะขอบคุณอย่างไรดี..."
+    },
+    {
+      "character": "Shocked Citizen 2",
+      "text_en": "Now that we know it won't be spreading any further, we can all take shelter until this is over.",
+      "text": "ในเมื่อไฟไม่ลามไปมากกว่านี้แล้ว พวกเราก็รีบไปหาที่หลบภัยจนกว่าเรื่องจะสงบกันเถอะ"
+    },
+    {
+      "character": "Shocked Citizen",
+      "text_en": "I cannot thank you enough!",
+      "text": "ไม่รู้จะขอบคุณเธออย่างไรดี!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not a moment too soon... I hope that was the worst of it.",
+      "text": "เฉียดฉิวไปนิดเดียวนะคะ... หวังว่าสถานการณ์เลวร้ายที่สุดจะผ่านพ้นไปแล้วนะคะ"
+    },
+    {
+      "character": "Stressed Citizen",
+      "text_en": "Somebody, help!",
+      "text": "ใครก็ได้! ช่วยด้วย!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A voice...further out!",
+      "text": "มีเสียงคนร้อง... จากข้างนอกนั่นค่ะ!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Eek!",
+      "text": "กรี๊ดดด!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll take care of this─make for shelter!",
+      "text": "ทางนี้ฉันจะจัดการเองค่ะ─รีบหนีไปที่ปลอดภัยกันก่อนเลยนะคะ!"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Phew...",
+      "text": "เฮ้อ... เกือบไปแล้ว"
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "That was close...",
+      "text": "หวุดหวิดไปนิดเดียวเอง..."
+    },
+    {
+      "character": "Citizen (text bubble)",
+      "text_en": "Ack!",
+      "text": "อั่ก!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "How many are there...?",
+      "text": "มันมีกี่ตัวกันแน่คะเนี่ย...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Is that all of them...?",
+      "text": "หมดหรือยังนะคะ...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "A behemoth!?",
+      "text": "นั่นมัน...เบเฮมอทงั้นเหรอคะ!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We cut that rather close.",
+      "text": "หวุดหวิดเกือบไม่ทันการเสียแล้วสิ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Thank goodness you're all right!",
+      "text": "โล่งอกไปทีที่พวกคุณปลอดภัยดีค่ะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Eyaney has finished the repairs. We need only hold the line until the barrier is in place.",
+      "text": "เอยาเนย์ซ่อมแซมเสร็จเรียบร้อยแล้วล่ะ ตอนนี้พวกเราแค่ต้องต้านแนวรบไว้จนกว่าม่านบาเรียจะกางออกโดยสมบูรณ์เท่านั้น"
+    },
+    {
+      "character": "Krile",
+      "text_en": "And hold the line we will, together!",
+      "text": "และพวกเราจะต้านแนวรบนี้ไว้ด้วยกันค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can still fight! I can!",
+      "text": "ฉันยังสู้ต่อไหวค่ะ! ไหวแน่นอนค่ะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have no doubt!",
+      "text": "เรื่องนั้นผมไม่มีข้อกังขาเลยครับ!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Spread out!",
+      "text": "แยกย้ายกันกระจายกำลังออกไป!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Oh dear...",
+      "text": "ตายจริง..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Get back!",
+      "text": "ถอยออกไปครับ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "We must move!",
+      "text": "ต้องขยับหลบแล้วค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Get clear!",
+      "text": "หลบไปให้พ้นค่ะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Prepare to move...",
+      "text": "เตรียมตัวหลบนะครับ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Such incredible power...",
+      "text": "พลังรุนแรงอะไรขนาดนี้กันคะ..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Run!",
+      "text": "รีบวิ่งเร็ว!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Thunderheads...",
+      "text": "พายุสายฟ้าพวกนั้น..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Keep away from the clouds!",
+      "text": "คอยอยู่ห่างจากหมู่เมฆพวกนั้นไว้นะคะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "If I never see another storm...",
+      "text": "ชาตินี้ฉันคงไม่อยากเห็นพายุแบบนี้อีกแล้วละค่ะ..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nowhere is safe with so many of them...",
+      "text": "ในเมื่อมีพวกมันเกลื่อนกราดขนาดนี้ เห็นทีคงไม่มีที่ไหนปลอดภัยแล้วล่ะ"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We need a solution!",
+      "text": "ต้องหาทางทำอะไรสักอย่างแล้วล่ะครับ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Some friendly winds, if you please!",
+      "text": "ช่วยส่งสายลมมาช่วยนำทางพวกเราทีเถอะค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let us see if we can't get some help...",
+      "text": "ลองดูซิว่าพวกเราจะพอหาตัวช่วยได้บ้างไหม..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Visions of Haam...",
+      "text": "ชวนให้นึกถึงภาพนิมิตแห่งฮามเลยนะครับ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Well done, Krile!",
+      "text": "ทำได้ยอดเยี่ยมมากเลยค่ะ คุณไครล์!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Clever...",
+      "text": "ช่างคิดจริง ๆ..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It worked!",
+      "text": "ได้ผลจริง ๆ ด้วยค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "How fortunate that bird made such an impression.",
+      "text": "โชคดีจังเลยนะคะที่นกตัวนั้นยังอยู่ในความทรงจำของพวกเราน่ะค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "From above!",
+      "text": "มาจากด้านบน!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have care!",
+      "text": "ระวังตัวกันด้วยนะคะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Again!?",
+      "text": "เอาอีกแล้วรึครับ!?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Look for the gaps!",
+      "text": "หาช่องโหว่หลบหลีกเอาไว้นะคะ!"
+    },
+    {
+      "character": "Greater Behemoth",
+      "text_en": "Grrroooaaar!",
+      "text": "โฮกกก!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Aaah!",
+      "text": "ว้าย!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "<grunt>",
+      "text": "<อึ่ก>"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oof!",
+      "text": "อั่ก!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah...",
+      "text": "อ๊ะ..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The levin grows more volatile... Something is coming.",
+      "text": "กระแสอัสนีบาตเริ่มปั่นป่วนยิ่งขึ้น... เห็นทีคงมีบางอย่างกำลังย่างกรายเข้ามา"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ball lightning!",
+      "text": "บอลอัสนีบาตค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Y'shtola, Sphene─lend me your strength!",
+      "text": "คุณยาชโทลา คุณสฟีน─ช่วยมอบพลังให้ฉันทีนะคะ!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Of course.",
+      "text": "ย่อมได้"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Understood!",
+      "text": "เข้าใจแล้วค่ะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The two of us will disperse these balls of lightning!",
+      "text": "เดี๋ยวฉันกับนายจะช่วยกันสลายกลุ่มก้อนสายฟ้าพวกนี้เอง!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Just keep the lightning at bay a little longer!",
+      "text": "ช่วยต้านสายฟ้าไว้ต่ออีกเพียงอึดใจเดียวนะคะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Take cover behind the spriggan!",
+      "text": "รีบไปหลบหลังสปริงแกนเร็วเข้าค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I believe!",
+      "text": "ฉันเชื่อมั่นค่ะ!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But will it be enough...",
+      "text": "ทว่าเพียงเท่านี้จะเพียงพอจริงหรือ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "We are in your debt!",
+      "text": "พวกเราเป็นหนี้บุญคุณของคุณแท้ๆ ค่ะ!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Fantastic!",
+      "text": "วิเศษที่สุด!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "<huff> ...Ngh...",
+      "text": "<หอบ> ...อึ่ก..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Impressive.",
+      "text": "น่าประทับใจมิใช่น้อย"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The tide is turning. Press the attack!",
+      "text": "สถานการณ์เริ่มเปลี่ยนทิศแล้วค่ะ รุกโจมตีต่อเลยค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "[EXHAUSTED SIGH]",
+      "text": "[ถอนหายใจอย่างเหนื่อยอ่อน]"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I must say, that was an incredible performance.",
+      "text": "ต้องขอบอกเลยนะ ว่าเมื่อครู่นี้นายแสดงฝีมือได้ยอดเยี่ยมเหลือเกิน"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Flatterer.",
+      "text": "ปากหวานจริงนะคะระฮะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "What is it?",
+      "text": "เกิดอะไรขึ้นหรือคะ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The barrier is restored. The people of Treno may rest easy once more.",
+      "text": "ม่านพลังฟื้นกลับคืนมาแล้วล่ะ คราวนี้ชาวเมืองเตรโนคงกลับมาเบาใจได้อีกครั้ง"
+    },
+    {
+      "character": "Lumull (Broadcast)",
+      "text_en": "The perimeter is clear, everyone! And thanks to our guests, the Doomtrain has been destroyed!",
+      "text": "<เสียงประกาศผ่านเครื่องขยายเสียง> \"แจ้งให้ทุกท่านทราบครับ! พื้นที่โดยรอบปลอดภัยดีแล้วครับ! และด้วยความช่วยเหลือจากแขกผู้มีเกียรติ บัดนี้รถไฟมรณะดูมเทรนได้ถูกทำลายลงเรียบร้อยแล้วครับ!\""
+    },
+    {
+      "character": "Lumull (Broadcast)",
+      "text_en": "Last but not least, Eyaney's fixed the barrier. We don't need to worry about beasts anymore!",
+      "text": "<เสียงประกาศผ่านเครื่องขยายเสียง> \"และท้ายที่สุดนี้ เอยาเนย์ได้ซ่อมแซมม่านพลังเรียบร้อยแล้วครับ! พวกเราไม่ต้องคอยกังวลเรื่องสัตว์ร้ายกันอีกต่อไปแล้วครับ!\""
+    },
+    {
+      "character": "Lumull (Broadcast)",
+      "text_en": "This calls for a celebration!",
+      "text": "<เสียงประกาศผ่านเครื่องขยายเสียง> \"แบบนี้ต้องฉลองกันสักหน่อยแล้วครับ!\""
+    },
+    {
+      "character": "Dauntless Laborer",
+      "text_en": "The Doomtrain is gone for good!?",
+      "text": "รถไฟมรณะดูมเทรนสิ้นฤทธิ์ไปตลอดกาลแล้วจริงๆ งั้นรึ!?"
+    },
+    {
+      "character": "Unnamed Milalla",
+      "text_en": "That's our Eyaney!",
+      "text": "สมกับเป็นเอยาเนย์ของเราจริงๆ!"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "They're safe... All of them...",
+      "text": "ปลอดภัยดีกันแล้วสินะ... ทุกคนเลย..."
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Alayla...?",
+      "text": "อะไลลา...?"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Krile, does the name “Alayla” mean aught to you?",
+      "text": "ไครล์จ๊ะ... ชื่อ \"อะไลลา\" พอจะมีความหมายอะไรกับหนูบ้างไหมจ๊ะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "My mother? Did you... Did you know her?",
+      "text": "คุณแม่ของฉันหรือคะ? คุณ... คุณรู้จักท่านด้วยหรือคะ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "[PAINED NOISE OF FALLING TO KNEES]",
+      "text": "[ร้องครางอย่างเจ็บปวดพลันทรุดเข่าลงกับพื้น]"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "I'm sorry, my dear. We should get you patched up before aught else.",
+      "text": "โถ แม่หนู น้าขอโทษด้วยนะจ๊ะ... อย่างไรเสียเรามารักษาบาดแผลให้เรียบร้อยก่อนเรื่องอื่นใดดีกว่าจ้ะ"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Alayla's story and that of the key are one and the same. After you've rested and recovered, I'll tell you the tale.",
+      "text": "เรื่องราวของอะไลลากับเรื่องของกุญแจดอกนั้นแท้จริงคือเรื่องเดียวกันจ้ะ... ไว้หนูพักผ่อนจนร่างกายฟื้นตัวดีแล้ว น้าค่อยเล่าเรื่องทั้งหมดให้ฟังนะจ๊ะ"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "You have no cause to fret, I promise you.",
+      "text": "ไม่ต้องเป็นกังวลไปนะจ๊ะ น้าสัญญาเลย"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "While Lumull forgot to give the order─bless him─there's work to be done ere we can celebrate.",
+      "text": "ถึงลูมัลจะลืมสั่งการไปเสียสนิท—โถ พ่อคุณเอ๊ย—แต่เรายังมีงานที่ต้องจัดการให้เสร็จก่อนจะจัดงานฉลองกันได้นะจ๊ะ"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "First and foremost, we must see to any injured.",
+      "text": "เหนือสิ่งอื่นใด เราต้องรีบไปดูแลพวกผู้บาดเจ็บกันก่อนนะจ๊ะ"
+    },
+    {
+      "character": "Miayli",
+      "text_en": "Come and find me at town hall when you're ready.",
+      "text": "หากหนูพร้อมเมื่อใด ก็ไปหาน้าที่ทำการเมืองได้เลยนะจ๊ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Without further delay, then...",
+      "text": "เช่นนั้นก็อย่าได้รอช้าอยู่เลย..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You needn't mind me. My injuries are far from severe.",
+      "text": "ไม่ต้องกังวลเรื่องของฉันหรอกค่ะ บาดแผลแค่นี้ไม่ได้ร้ายแรงอะไรเลยสักนิดค่ะ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But your curiosity is another matter, is it not? Your feet will deliver you to Miayli all the swifter if you can actually walk on them.",
+      "text": "ทว่าความอยากรู้อยากเห็นของคุณคงเป็นคนละเรื่องสินะ... แต่สองเท้าคงจะพาคุณไปหามิอายลีได้เร็วขึ้น หากคุณก้าวเดินได้ด้วยตัวเองจริงๆ"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Exhaustion aside, Krile sustained no injuries you need worry over.",
+      "text": "นอกจากความเหนื่อยล้าแล้ว ไครล์ก็ไม่ได้รับบาดเจ็บตรงไหนให้ต้องเป็นห่วงหรอก"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "After that battle, I think we all required a moment. You had better get some rest too─I mean it.",
+      "text": "ผ่านศึกหนักขนาดนั้นมา ฉันว่าพวกเราทุกคนก็คงต้องพักหายใจหายคอกันสักครู่ล่ะนะ นายเองก็ควรจะไปพักผ่อนเหมือนกัน... ฉันพูดจริงนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "To think Miayli knew Krile's mother... I too am eager to hear the details.",
+      "text": "ไม่คิดเลยนะคะว่าคุณมิอายลีจะรู้จักคุณแม่ของไครล์ด้วย... ฉันเองก็อยากรับฟังรายละเอียดอยู่เหมือนกันค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "While I would rather not have tumbled to the pavement in front of half the city, I am none the worse for wear, thanks to Y'shtola.",
+      "text": "ถึงใจจริงจะไม่อยากล้มพับลงไปกองกับพื้นต่อหน้าชาวเมืองตั้งครึ่งค่อนเมืองก็เถอะค่ะ แต่ต้องขอบคุณยาชโทลาจริงๆ ตอนนี้ร่างกายของฉันไม่ได้บอบช้ำตรงไหนเลยค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But what of yourself? If you have any hurts, we can tend to them now before we see Miayli.",
+      "text": "แล้วตัวคุณล่ะคะเป็นอย่างไรบ้าง? หากมีบาดเจ็บตรงไหน พวกเรามารักษาแผลกันเสียก่อนที่จะไปพบคุณมิอายลีดีกว่าค่ะ"
+    }
+  ]
+}

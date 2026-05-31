@@ -1,0 +1,378 @@
+{
+  "id": "a-premium-deal",
+  "wiki_path": "/wiki/A_Premium_Deal",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Premium Deal",
+  "title": "ข้อตกลงเกรดพรีเมียม",
+  "level": "90",
+  "location": "Urqopacha(X:13.4,Y:12.1)",
+  "npc_start": "Wuk Lamat",
+  "dialogues": [
+    {
+      "character": "Mablu",
+      "text_en": "I've never been one to take it slow. Once I have a goal in mind, it's full speed ahead! That's who I am!",
+      "text": "ฉันไม่ใช่คนประเภทที่ชอบทำอะไรช้าๆ หรอกนะ พอตั้งเป้าหมายไว้ในใจแล้ว ก็ต้องลุยเต็มสปีดไปเลย! นั่นแหละตัวฉัน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Before we go, let me give you the mate leaves. I don't need to risk proving Erenville's point...",
+      "text": "ก่อนที่เราจะไปกันต่อ ฉันขอมอบใบชาเมทพวกนี้ให้เธอเก็บไว้ดีกว่า ขืนพกไว้เองจนเปรอะเปื้อนขึ้นมา เดี๋ยวจะกลายเป็นการพิสูจน์ว่าสิ่งที่เอเรนวิลล์เตือนนั้นถูกต้องจริงๆ ซะเปล่าๆ..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Ready, then? Our next stop is the mezcal distillery!",
+      "text": "พร้อมกันหรือยังคะ? จุดหมายต่อไปของพวกเราคือโรงกลั่นเมสคัล!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oof, the smell of mezcal is overpowering. The fumes alone are making me dizzy...",
+      "text": "อูย กลิ่นเหล้าเมสคัลนี่มันแรงชะมัดเลย ขนาดสูดแค่ไอระเหยเข้าไปยังเล่นเอาหัวหมุนเลยแฮะ..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "We'll want to speak with a man by the name of Gobli. Even among his fellow distillers, he's regarded as a master of the craft.",
+      "text": "คนที่พวกเราต้องไปคุยด้วยมีชื่อว่าคุณกอบลีค่ะ แม้แต่ในหมู่ช่างกลั่นเหล้าด้วยกัน เขาก็ยังได้รับการยอมรับว่าเป็นปรมาจารย์แห่งวิชาชีพนี้เลยล่ะค่ะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "He knows the value of his product, so if we're to convince him to trade for twice what the leaves are worth, we're going to need targeted information. That means asking around and taking in the gossip!",
+      "text": "เขารู้ซึ้งถึงมูลค่าของสินค้าตัวเองดีเลยค่ะ ดังนั้นถ้าพวกเราอยากจะโน้มน้าวให้เขายอมแลกเปลี่ยนด้วยมูลค่าที่สูงเป็นสองเท่าของใบชาเมทล่ะก็ เราจำเป็นต้องหาข้อมูลเฉพาะจุดค่ะ ซึ่งนั่นหมายความว่าเราต้องไปเดินสืบถามและเก็บข้อมูลจากข่าวลือรอบๆ ดูค่ะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "If you could talk to people here in the distillery, Forename , perhaps Wuk Lamat could do the same at the village entrance.",
+      "text": "ถ้า Forename ช่วยลองพูดคุยกับผู้คนในโรงกลั่นแห่งนี้ดู ส่วนท่านวุค ลามัต ลองไปสืบแถวๆ ทางเข้าหมู่บ้านดูดีไหมคะ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Meanwhile, I'll head to the north side and see what I can learn!",
+      "text": "ระหว่างนี้ ฉันจะลองไปค้นหาข้อมูลทางฝั่งเหนือดูว่าได้เรื่องอะไรบ้างค่ะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Glean any useful information?",
+      "text": "ได้เบาะแสอะไรที่เป็นประโยชน์บ้างไหมคะ?"
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "Me? I'm a chef from Tuliyollal. I often come here to buy Gobli's mezcal─the finest in Tural, according to my customers.",
+      "text": "ข้าน่ะรึ? ข้าเป็นพ่อครัวมาจากทูลิโยลลัลน่ะ มักจะแวะเวียนมาซื้อสุราเมสคัลของคุณกอบลีอยู่เป็นประจำเลยล่ะ ลูกค้าที่ร้านข้าต่างพากันบอกเป็นเสียงเดียวกันเลยว่า สุราของเขาคือที่หนึ่งในทูรัล"
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "He always brings out a jug during our dealings, but I can't handle the stuff too well myself...",
+      "text": "เวลาที่เจรจาธุรกิจกัน เขามักจะหยิบไหเหล้ามาเปิดดื่มเลี้ยงต้อนรับเสมอเลย แต่ทว่าตัวข้าเองดันคออ่อน ดื่มหนักไม่ค่อยไหเนี่ยสิ..."
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "I take small sips─not wanting to be impolite, you understand─but still end up so addled as to agree to whatever price he quotes me.",
+      "text": "ข้าก็พยายามจิบทีละนิดทีละหน่อยเพราะกลัวจะเสียมารยาทน่ะนะ แต่สุดท้ายก็แอบเมาเคลิ้มจนเผลอตกลงยอมรับราคาทุกอย่างตามที่เขาเสนอมาทุกทีเลย"
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "It would be nice to have less, uh, potent refreshments during such conversations. Else I might have to seriously reconsider our arrangement...",
+      "text": "ถ้าเกิดมีเครื่องดื่มอย่างอื่นที่... เอ้อ ดีกรีไม่แรงเท่านี้มาคอยเสิร์ฟระหว่างสนทนากันก็คงจะดีไม่น้อย ไม่อย่างนั้นข้าคงต้องกลับมาทบทวนข้อตกลงการซื้อขายนี้ใหมอย่างจริงจังแล้วล่ะ..."
+    },
+    {
+      "character": "Tsuvli",
+      "text_en": "Gobli might be a deft hand at distilling, but he's got no sense when it comes to appearances.",
+      "text": "คุณกอบลีอาจจะเก่งกาจเรื่องการกลั่นสุราก็จริงนะคะ แต่เขาไม่มีรสนิยมหรือความใส่ใจเรื่องภาพลักษณ์ภายนอกเอาเสียเลย"
+    },
+    {
+      "character": "Tsuvli",
+      "text_en": "Rumor has it he's been invited to the palace for business negotiations. If he presents himself to the court wearing his usual rumpled attire, though, he'll be laughed out of Sunperch.",
+      "text": "ได้ยินข่าวลือแว่วๆ มาว่าเขาได้รับเชิญให้เข้าวังเพื่อเจรจาธุรกิจด้วยล่ะค่ะ แต่หากเขายังดึงดันสวมเสื้อผ้ายับยู่ยี่เข้าเฝ้าละก็ คงไม่พ้นโดนหัวเราะเยาะเย้ยจนต้องล่าถอยกลับออกมาจากลานยอดฟ้า (Sunperch) แน่ๆ"
+    },
+    {
+      "character": "Raplu",
+      "text_en": "There's not much I can say about Gobli, but I can tell you what Gobli's been saying...",
+      "text": "ข้าก็ไม่มีข้อมูลอะไรเกี่ยวกับคุณกอบลีมากมายนักหรอกนะคะ แต่ข้าพอบอกได้ว่าช่วงนี้เขากำลังบ่นพึมพำเรื่องอะไรอยู่..."
+    },
+    {
+      "character": "Raplu",
+      "text_en": "The other day, he was muttering about monsters prowling around Agave Jaws─that's the field where they gather ingredients for the mezcal.",
+      "text": "เมื่อวันก่อนข้าเห็นเขาบ่นพึมพำอารมณ์เสียเรื่องพวกมอนสเตอร์ที่เพ่นพ่านรบกวนอยู่แถวทุ่งอะกาเว่จอส (Agave Jaws) น่ะค่ะ─นั่นเป็นแหล่งวัตถุดิบสำคัญที่เขาใช้เก็บเกี่ยวมาทำเหล้าเมสคัลน่ะ"
+    },
+    {
+      "character": "Raplu",
+      "text_en": "Their presence has made it harder to procure said ingredients, and thus driven up the price of his product─a boon, some might argue, but it's hard to celebrate when it affects the work as it does. Can't rightly bring joy to people if you can't keep making the thing they love.",
+      "text": "พอมีพวกมันเพ่นพ่าน การไปเก็บเกี่ยววัตถุดิบก็ยากลำบากขึ้น ส่งผลให้ราคาเหล้าเมสคัลพุ่งสูงตามไปด้วย─บางคนอาจมองว่าเป็นผลดีที่จะได้ขายแพงๆ แต่มันก็ยากที่จะยินดีเมื่อมันกระทบกับขั้นตอนการทำงานจริงๆ นั่นแหละค่ะ มันจะไปสร้างความสุขให้คนดื่มได้ยังไงกันล่ะคะ หากเราไม่สามารถผลิตสิ่งที่พวกเขารักออกมาได้น่ะ"
+    },
+    {
+      "character": "Bebeel Ja",
+      "text_en": "His spirits are excellent, I agree, but they're simply too strong for me...",
+      "text": "สุราของเขาเลิศรสจริงนั่นแหละ ข้าเห็นด้วยอย่างยิ่งเลย แต่สำหรับข้ามันดันดีกรีแรงเกินไปหน่อย..."
+    },
+    {
+      "character": "Tsuvli",
+      "text_en": "Most Pelupelu have at least one set of especially fine garments. The success of a deal can hinge on how you present yourself, so it pays to dress to impress.",
+      "text": "ชาวเปลูเปลูส่วนใหญ่ต่างก็มีชุดที่ประณีตงดงามเก็บไว้ใส่อย่างน้อยคนละชุดทั้งนั้นค่ะ ความสำเร็จของการทำข้อตกลงค้าขายบางทีก็ขึ้นอยู่กับภาพลักษณ์ภายนอกเป็นหลัก ดังนั้น การแต่งตัวให้ดูดีน่าเชื่อถือจึงเป็นเรื่องที่คุ้มค่านะคะ"
+    },
+    {
+      "character": "Raplu",
+      "text_en": "Hiring mercenaries to come and cull the threats would eat into profits. I bet Gobli would be glad to find a less expensive solution...",
+      "text": "การจะควักกระเป๋าจ้างพวกทหารรับจ้างมาช่วยกำจัดภัยคุกคามก็คงจะกินกำไรไปจมหู ข้าว่าคุณกอบลีคงจะยินดีไม่น้อยเลยล่ะค่ะหากมีหนทางแก้ไขปัญหาที่ประหยัดกว่านั้น..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "So, what did you find out?",
+      "text": "เป็นอย่างไรบ้างคะ ได้เบาะแสอะไรมาบ้างไหม?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Oh, we can make use of all of those tidbits! The deal is as good as sealed!",
+      "text": "โอ้ ข้อมูลเล็กๆ น้อยๆ พวกนี้มีประโยชน์มากเลยค่ะ! แบบนี้การเจรจาธุรกิจของพวกเราต้องราบรื่นสำเร็จแน่นอน!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "As for me, I found out where Gobli is working─there's a millstone at the top of the slope behind the distillery. You go on ahead and I'll bring Wuk Lamat!",
+      "text": "ส่วนฉันก็สืบมาได้แล้วว่าตอนนี้คุณกอบลีทำงานอยู่ตรงไหน─เขาอยู่ตรงโม่หินบนเนินลาดหลังโรงกลั่นนี่เองค่ะ นายล่วงหน้าไปรอเขาก่อนได้เลย เดี๋ยวฉันจะไปตามท่านวุค ลามัต มาสมทบเองค่ะ!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "You have business with me, sir / madam ? Why don't we talk down below so as not to distract the alpaca from his work.",
+      "text": "พวกท่านมีธุระปะปังอะไรกับข้ารึเปล่าครับ? ข้าว่าเราลงไปคุยกันข้างล่างดีกว่านะ จะได้ไม่ไปรบกวนสมาธิทำงานของเจ้าอัลปาก้าน่ะ"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Now, what's this about? Keep it brief, if you would. I'm a busy man.",
+      "text": "เอาล่ะ มีเรื่องอะไรกันรึครับ? ถ้าเป็นไปได้ช่วยกระชับเรื่องให้สั้นหน่อยนะ พอดีข้าเป็นคนงานชุกซะด้วยสิ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We're in the market for a three-year-old jug of premium mezcal. Assuming you have any on hand, that is.",
+      "text": "พวกเราอยากจะขอซื้อเหล้าเมสคัลเกรดพรีเมียมบ่มสามปีสักหน่อยน่ะ หวังว่านายจะพอมีติดร้านอยู่นะ"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Ah, an excellent choice. I must warn you, though: it doesn't come cheap.",
+      "text": "อา ตาถึงไม่เบานี่ครับ แต่ข้าขอเตือนไว้ก่อนนะว่าราคาของมันน่ะไม่ใช่เล่นๆ เลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We don't have pel...but we can offer a sack of mate leaves in exchange! It's top-grade stuff, like the mezcal!",
+      "text": "พวกเราไม่มีเงินเปลหรอกนะ... แต่เรามีชาเมทถุงใหญ่กระสอบนี้มาเสนอแลกเปลี่ยนยังไงล่ะ! ของเกรดพรีเมียมชั้นยอดไม่แพ้เมสคัลของนายแน่นอน!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "No deal. Mate leaves are well and good, but I don't have any use for them.",
+      "text": "ขอปฏิเสธครับ ชาเมทมันก็ดีอยู่หรอก แต่สำหรับข้ามันไม่มีความจำเป็นต้องใช้น่ะสิ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "“No deal”!? Just like that!?",
+      "text": "“ปฏิเสธ” งั้นเหรอ!? ตอบง่ายๆ แบบนี้เลยเนี่ยนะ!?"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Still, I'd hate to send you away empty-handed. Why don't we sit and chat awhile over a cup of mezcal?",
+      "text": "แต่ถึงอย่างนั้น ข้าก็เกรงใจที่จะปล่อยให้พวกท่านกลับไปมือเปล่า เอาเป็นว่าเรามานั่งจิบเมสคัลคุยกันชิวๆ สักหน่อยดีไหมครับ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Now the real bargaining begins. Which of our cards do you want to play first?",
+      "text": "คราวนี้แหละค่ะคือบทเริ่มต่อรองของจริง พวกเราจะหงายการ์ดใบไหนออกมาคุยเป็นเรื่องแรกดีคะ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Let's hold on to that one. We need to consider our timing!",
+      "text": "เก็บการ์ดใบนี้ไว้ก่อนดีกว่าค่ะ เราต้องพิจารณาจังหวะเวลาให้ดีกว่านี้!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Let's hold on to that one. We need to consider our timing!",
+      "text": "เก็บการ์ดใบนี้ไว้ก่อนดีกว่าค่ะ เราต้องพิจารณาจังหวะเวลาให้ดีกว่านี้!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "I appreciate your hospitality, but I'm afraid I can't hold my drink. I've heard one of your regular customers─a Hoobigo chef─is the same.",
+      "text": "ขอบคุณในความใจดีนะคะคุณกอบลี แต่ฉันเกรงว่าตัวเองจะคออ่อนจนดื่มไม่ไหวเนี่ยสิคะ แถมแว่วมาว่าลูกค้าประจำคนหนึ่งของคุณ─ที่เป็นพ่อครัวชาวฮูบิโกก็น่าจะคออ่อนไม่ต่างกันด้วยใช่ไหมคะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Seeing as not everyone can enjoy mezcal, I wonder if you might benefit from having other refreshments to offer...",
+      "text": "ในเมื่อลูกค้าบางคนไม่สามารถร่วมดื่มด่ำกับเมสคัลได้ ฉันเลยแอบคิดว่ามันน่าจะเป็นประโยชน์กับคุณไม่น้อยเลยนะคะ หากมีเครื่องดื่มประเภทอื่นเตรียมไว้คอยต้อนรับแขกบ้าง..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Something like mate tea, for instance. And brewed from the finest leaves, of course!",
+      "text": "อย่างเช่น ชาเมทร้อนๆ เป็นไงคะ? และแน่นอนว่าต้องต้มจากใบชาเกรดพรีเมียมคัดสรรพิเศษกระสอบนี้ด้วยค่ะ!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Ah, you're right─absolutely right! I had noticed a growing reluctance on the part of my Hoobigo friend, but did not realize I myself was to blame. I must endeavor to be a better host. Still, even with that added value in mind, no sack of leaves is worth the mezcal you're after.",
+      "text": "อา... จริงด้วย จริงของท่านที่สุดเลย! ข้าเองก็แอบสังเกตเห็นท่าทางอึกอักของสหายชาวฮูบิโกคนนั้นอยู่เหมือนกัน แต่ดันนึกไม่ถึงเลยว่าความหวังดีของตัวเองจะเป็นภาระให้เขา ข้าคงต้องพยายามเป็นเจ้าบ้านที่ดีกว่านี้แล้วล่ะ แต่ถึงจะคำนวณบวกมูลค่าในจุดนี้เข้าไปด้วย ชาเมทกระสอบนี้ก็ยังเทียบค่าไม่ได้กับเมสคัลบ่มสามปีที่พวกท่านต้องการอยู่ดีนั่นแหละครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "(Should we offer to cull the monsters causing them trouble?)",
+      "text": "(พวกเราควรเสนอตัวช่วยกวาดล้างพวกมอนสเตอร์ที่ป่วนเขาอยู่เลยดีไหม?)"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "(Not yet! We'll keep that card up our sleeve until we need it.)",
+      "text": "(ยังค่ะ! เราต้องเก็บไม้ตายนี้ไว้ในแขนเสื้อก่อนจนกว่าจะถึงเวลาที่จำเป็นจริงๆ ค่ะ)"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "As I expect you're aware, the rite of succession is currently taking place. That's why the Third Promise has graced us with her presence.",
+      "text": "อย่างที่คุณกอบลีน่าจะทราบดีอยู่แล้วนะคะว่าตอนนี้พิธีสืบทอดราชบัลลังก์กำลังดำเนินอยู่ และนั่นคือเหตุผลที่ท่านสัญญาที่สามได้เดินทางมาเยือนไร่ของพวกเราในวันนี้ค่ะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "When the contest is decided, the subsequent ascension ceremony and banquet will be a prestigious affair. If your mezcal were to be served there, it would bring your distillery immeasurable fame!",
+      "text": "และเมื่อผลการประลองชิงบัลลังก์สิ้นสุดลง พิธีบรมราชาภิเษกและงานเลี้ยงฉลองหลังจากนั้นย่อมเป็นพิธีการอันทรงเกียรติระดับประเทศแน่นอน หากสุราเมสคัลของคุณได้มีโอกาสไปเสิร์ฟในงานพิธีนั้น โรงกลั่นของคุณย่อมมีชื่อเสียงโด่งดังขจรขจายอย่างประเมินค่าไม่ได้เลยนะคะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Wait... Could it be that your rumored invitation to the palace is to discuss that very possibility?",
+      "text": "เดี๋ยวก่อนนะคะ... หรือว่าข่าวลือเรื่องที่คุณได้รับเชิญให้เข้าวัง จะเป็นการไปหารือตกลงเรื่องนี้พอดีรึเปล่าคะ?"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "As a matter of fact, yes... I must admit, I'm still reeling from the abruptness of it all. It would be a great honor and opportunity...if I can secure the deal.",
+      "text": "ตามตรงเลยก็คือ ใช่ครับ... ข้าเองยอมรับเลยว่ายังรู้สึกตื่นเต้นตกใจไม่หายกับโอกาสกะทันหันเช่นนี้ มันเป็นเกียรติและโอกาสทองครั้งยิ่งใหญ่ที่สุดในชีวิตเลยล่ะ... ถ้าเกิดข้าเจรจาคว้าดีลนั้นมาครองได้น่ะนะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Well, I should think your exceptional mezcal would speak for itself! That said, there's no such thing as being too prepared, and first impressions last. You'll want to be wearing your very best when you walk into Vollok Shoonsa.",
+      "text": "อัญมณีอย่างไรก็เปล่งประกายในตัวเองอยู่แล้วค่ะ สุราฝีมือคุณก็เช่นกัน! แต่ถึงอย่างนั้น การเตรียมตัวไว้ล่วงหน้าให้พร้อมที่สุดย่อมไม่เสียหาย และความประทับใจแรกพบก็เป็นสิ่งสำคัญนะคะ คุณคงอยากจะสวมใส่เสื้อผ้าที่ดีและน่าเชื่อถือที่สุดเวลาเดินก้าวเข้าสู่พระราชวังวอลลอกชุนซ่าใช่ไหมคะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "It would be such a shame to miss this chance of a lifetime simply for want of proper garments...",
+      "text": "คงน่าเสียดายแย่เลยนะคะ หากต้องปล่อยโอกาสครั้งเดียวในชีวิตให้หลุดลอยไป เพียงเพราะขาดเสื้อผ้าอาภรณ์ที่สง่างามน่ะ..."
+    },
+    {
+      "character": "Gobli",
+      "text_en": "That it would... Are you saying you have garments to offer? Something ideal for court?",
+      "text": "ก็จริงของท่าน... นี่หมายความว่าพวกท่านมีเสื้อผ้าที่เหมาะสมสำหรับใส่เข้าวังมานำเสนอแลกเปลี่ยนรึครับ?"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "We have no garments on hand, I'm afraid, but we can provide you with the next best thing: an introduction to a weaver. His name is Bol Noq', and his works are highly regarded in Tuliyollal!",
+      "text": "พวกเราไม่มีชุดสำเร็จรูปอยู่กับตัวหรอกค่ะ แต่เราสามารถมอบสิ่งที่ดีที่สุดไม่แพ้กันให้ได้ นั่นคือการแนะนำให้คุณรู้จักกับช่างทอผ้าชั้นครูค่ะ! เขาชื่อคุณโบลน็อค (Bol Noq') และผลงานทอผ้าของเขาก็ได้รับการยกย่องนับถืออย่างมากในทูลิโยลลัลเลยนะคะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "As a supporter of Wuk Lamat and keen observer of palace politics, he will doubtless be happy to guide you in the selection of an outfit to fit this golden occasion.",
+      "text": "ในฐานะที่เขาเป็นผู้สนับสนุนท่านวุค ลามัต และเป็นผู้ที่คุ้นเคยกับแวดวงการเมืองในวังเป็นอย่างดี เขาต้องยินดีที่จะช่วยให้คำแนะนำและคัดสรรชุดที่เหมาะสมที่สุดสำหรับโอกาสทองในครั้งนี้ให้คุณแน่นอนค่ะ"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "That is certainly a tempting proposal, and one of which I should like to take full advantage. But the scales still aren't quite balancing.",
+      "text": "นับเป็นข้อเสนอที่ดึงดูดใจข้ามากจริงๆ และข้าเองก็อยากจะคว้าโอกาสนี้ไว้เหมือนกัน แต่ตาชั่งของการแลกเปลี่ยนมันก็ยังเอียงๆ ไม่สมน้ำสมเนื้อกันเท่าไรนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Say, weren't there monsters running amok in Agave Jaws? That's a problem we could easily solve for you!",
+      "text": "นี่ ได้ยินว่าช่วงนี้มีพวกมอนสเตอร์ออกอาละวาดแถวทุ่งอะกาเว่จอสไม่ใช่เหรอ? ปัญหานั้นให้พวกเราจัดการกำจัดให้ได้สบายๆ เลยนะ!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Truly? I would be most grateful for your immediate assistance. I was resigned to hiring sellswords to clear them out.",
+      "text": "จริงรึครับ!? หากพวกท่านช่วยเรื่องนั้นข้าจะขอบพระคุณอย่างยิ่งเลยล่ะ ข้ากำลังคิดไม่ตกเตรียมใจจะควักเงินจ้างพวกทหารรับจ้างมาเคลียร์อยู่พอดี"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Factoring in that saved expense and an introduction to a trusted weaver, this is shaping up to be a sound bargain. Alright! You have a deal.",
+      "text": "เมื่อหักลบค่าใช้จ่ายจ้างทหารรับจ้างที่จะประหยัดได้ บวกกับการแนะนำช่างทอผ้าฝีมือดีเข้ามาด้วยแล้ว ดีลนี้ก็นับว่าคุ้มค่ายุติธรรมดี ตกลงตามนี้ครับ! ข้ายอมแลกเปลี่ยนด้วย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes, I knew you'd come around! Give us a moment, and Forename and I will take care of those prowling nuisances!",
+      "text": "เย้! คิดไว้แล้วว่านายต้องยอมตกลง! ขอเวลาพวกเราประเดี๋ยวเถอะ เดี๋ยวฉันกับ Forename จะไปจัดการพวกตัวกวนใจพวกนั้นให้สิ้นซากเอง!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "In the meantime, I'll use the time to pen an introductory letter to Bol Noq'.",
+      "text": "ระหว่างนี้ ฉันจะใช้เวลาเขียนจดหมายแนะนำตัวส่งถึงคุณโบลน็อคเตรียมไว้ให้นะคะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "The fields you're looking for are just north of Wachunpelo. Be safe!",
+      "text": "ทุ่งที่ว่านั้นอยู่ทางทิศเหนือของวาชุนเปลูค่ะ ขอให้ปลอดภัยนะคะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Please be careful out there!",
+      "text": "ระวังตัวกันด้วยนะคะ!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "That young woman is one formidable trader.",
+      "text": "เด็กสาวคนนั้นมีหัวการค้าและการต่อรองที่น่ากลัวจริงๆ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That should be Agave Jaws, just over there. This'll go faster if we split up. Come and find me once you've finished clearing out your share of the pests!",
+      "text": "ทางนั้นน่าจะเป็นทุ่งอะกาเว่จอสแล้วล่ะ แยกกันจัดการน่าจะเร็วขึ้นนะ พอจัดการฝั่งของนายเสร็จแล้วค่อยตามมาเจอฉันละกัน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Easy as picking mate leaves!",
+      "text": "ง่ายดายยิ่งกว่าเก็บใบชาเมทซะอีก!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Compared to the creatures I hunted with Papa, this was no challenge at all.",
+      "text": "ถ้าเทียบกับพวกสัตว์ร้ายที่ฉันเคยล่าร่วมกับท่านพ่อแล้วล่ะก็ แค่นี้กระจอกมากเลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, let's head back to the distillery. All that's left is to give Mablu the sack of leaves so she can seal the deal!",
+      "text": "ไปกันเถอะ กลับโรงกลั่นกัน ทีนี้เหลือแค่เอาใบชาเมทกระสอบนั้นไปให้มาบลู เพื่อปิดดีลเจรจาค้าขายให้เสร็จเรียบร้อย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Go on, give Mablu the sack of leaves so she can seal the deal!",
+      "text": "ไปเถอะ เอาชาเมทกระสอบนั้นไปส่งให้มาบลูปิดดีลกัน!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Finished already? Even hardened mercenaries would have taken longer!",
+      "text": "เสร็จสิ้นรวดเร็วปานนี้เลยรึ!? ขนาดพวกทหารรับจ้างช่ำชองศึกยังต้องใช้เวลานานกว่านี้ตั้งเยอะ!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Those monsters were no trouble for you, it seems! Now, if I could just have the sack of leaves...",
+      "text": "ดูเหมือนพวกมอนสเตอร์พวกนั้นจะทำอะไรพวกคุณไม่ได้เลยสินะคะ! เอาล่ะ คราวนี้ฉันขอรับชาเมทกระสอบนั้นหน่อยได้ไหมคะ..."
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Thank you for looking after our precious trading goods!",
+      "text": "ขอบคุณมากเลยนะคะที่ช่วยดูแลรักษาสินค้าแลกเปลี่ยนอันล้ำค่าของพวกเราเป็นอย่างดี!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Your monster problem has been resolved, Master Gobli! Here are the mate leaves and a written introduction to Bol Noq', as agreed.",
+      "text": "ปัญหามอนสเตอร์ได้รับการแก้ไขเรียบร้อยแล้วค่ะคุณกอบลี! นี่คือใบชาเมทและจดหมายแนะนำตัวเขียนถึงคุณโบลน็อคตามที่พวกเราตกลงกันไว้ค่ะ"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Then the deal is done. Here. Your jug of premium mezcal, aged three years. Please accept it with my compliments.",
+      "text": "ตกลงครับ ดีลการค้านี้สำเร็จลงด้วยดี นี่ครับ... สุราเมสคัลเกรดพรีเมียมบ่มนานสามปีของพวกท่าน เชิญรับไปได้เลยครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Yes! We finally have the mezcal! Great work─especially you, Mablu!",
+      "text": "เย้! ในที่สุดเราก็ยอมได้สุราเมสคัลมาครองแล้ว! ผลงานเยี่ยมมากเลยทุกคน─โดยเฉพาะเธอเลยนะ มาบลู!"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "You were the one that inspired me to come this far, Third Promise. But let's not celebrate until we have the saddle in hand!",
+      "text": "เพราะท่านวุค ลามัต คอยสร้างแรงบันดาลใจให้ฉันมีกำลังใจจนก้าวมาได้ไกลขนาดนี้ต่างหากล่ะคะ แต่อย่าเพิ่งฉลองกันเลยค่ะจนกว่าอานม้าจะมาอยู่ในมือพวกเราจริงๆ!"
+    },
+    {
+      "character": "Gobli",
+      "text_en": "Mablu, is it? You drive a hard bargain, young peddler. I look forward to doing business with you in the future.",
+      "text": "มาบลูสินะครับ? ฝีมือต่อรองของแม่ค้าเร่ตัวน้อยช่างร้ายกาจจริงๆ ข้าล่ะหวังว่าจะได้ร่วมทำดีลธุรกิจเจรจาค้าขายร่วมกับท่านอีกในอนาคตนะ"
+    },
+    {
+      "character": "Mablu",
+      "text_en": "Thank you, but...truth be told, I'm just a ranch hand. For now. Should I ever become a proper merchant, though, I'll be back to strike more deals with you!",
+      "text": "ขอบพระคุณค่ะ... แต่บอกตรงๆ ว่าตอนนี้ฉันเป็นแค่คนงานในฟาร์มเท่านั้นแหละค่ะ แต่หากวันใดที่ฉันได้ก้าวขึ้นมาเป็นแม่ค้าเต็มตัวล่ะก็ ฉันจะกลับมาเจรจาต่อรองทำข้อตกลงธุรกิจกับคุณแน่นอนค่ะ!"
+    }
+  ]
+}

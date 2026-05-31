@@ -1,0 +1,598 @@
+{
+  "id": "a-saga-in-stone",
+  "wiki_path": "/wiki/A_Saga_in_Stone",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.0",
+  "title_en": "A Saga in Stone",
+  "title": "ตำนานสลักศิลา",
+  "level": "90",
+  "location": "Tuliyollal(X:9.4,Y:13.5)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Heh, this spot's captured Krile's attention.",
+      "text": "หึๆ ตรงนี้ดึงดูดความสนใจของไครล์เข้าเต็มๆ เลยแฮะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What is special about these pillars, if I may ask?",
+      "text": "ขอถามหน่อยนะคะ เสาพวกนี้มีความพิเศษอะไรเหรอคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "At a glance, they might look like ordinary stone decorations.",
+      "text": "ถ้ามองผ่านๆ มันก็อาจจะดูเหมือนเสาหินประดับธรรมดาทั่วไปนั่นแหละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But if you take a really good look, you'll see they're something much more interesting!",
+      "text": "แต่ถ้าลองเพ่งมองดูดีๆ ล่ะก็ จะเห็นว่ามันมีอะไรที่น่าสนใจกว่านั้นเยอะเลยล่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I suppose we ought to do as Wuk Lamat suggests.",
+      "text": "ลองทำตามที่วุค ลามัต แนะนำดูดีกว่าค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Pictures...? Wait, no, these are glyphs!",
+      "text": "นี่มันรูปภาพเหรอคะ...? เอ๊ะ ไม่ใช่สิ นี่มันอักษรภาพสลักหิน (glyphs) นี่นา!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "They seem to tell a series of stories, many of them featuring a two-headed Mamool Ja. Oh! Then this must be...",
+      "text": "ดูเหมือนกำลังเล่าเรื่องราวเป็นฉากๆ เลยนะคะ แถมหลายภาพยังมีรูปชาวมามูอูล จา สองหัวด้วย... อ๊ะ! หรือว่านี่จะเป็น..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That's right. It follows the exploits of my father, Gulool Ja Ja, and his journey to unite our lands. We call it the Tuliyollal Saga!",
+      "text": "ถูกต้องแล้วล่ะ! ภาพพวกนี้บันทึกเรื่องราวการเดินทางรวบรวมแผ่นดินของท่านพ่อ กูลูล จา จา ของฉันเอง พวกเราเรียกมันว่า 'พงศาวดารแห่งทูลิโยลลัล' (Tuliyollal Saga) น่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The deeds he performed and the bonds he forged, all immortalized in stone.",
+      "text": "ทั้งวีรกรรมที่ท่านเคยทำและมิตรภาพที่ท่านเคยสร้าง ทุกอย่างถูกสลักให้อยู่ยงคงกระพันไว้บนแผ่นหินพวกนี้แหละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "There's no better way to learn how Tuliyollal came to be. Study them as long as you like!",
+      "text": "ไม่มีวิธีไหนที่จะช่วยให้เข้าใจประวัติศาสตร์ความเป็นมาของทูลิโยลลัลได้ดีไปกว่านี้อีกแล้วล่ะ ลองยืนอ่านดูได้ตามสบายเลยนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The four stones closest to us cover the first half of Papa's travels. Let's start with those.",
+      "text": "เสาหินสี่ต้นที่อยู่ใกล้เราที่สุดนี้จะเล่าเรื่องราวช่วงครึ่งแรกของการเดินทางของท่านพ่อ เรามาเริ่มจากพวกนี้ก่อนแล้วกัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This pillar tells the Lay of the Brotherhood. It depicts the scene where Papa granted an audience to the foreign explorer, Ket...something. I can never remember the name.",
+      "text": "เสาต้นนี้สลักเรื่อง 'บทลำนำแห่งภราดรภาพ' (Lay of the Brotherhood) เล่าฉากที่ท่านพ่อเปิดโอกาสให้นักสำรวจต่างแดนชื่อ เคท... อะไรสักอย่างเข้าพบ ฉันไม่เคยจำชื่อเขาได้เลยแฮะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You mean “Ketenramm”?",
+      "text": "หมายถึงคุณ 'เคเทนแรม' (Ketenramm) หรือเปล่าคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, that's the one. Ketenramm's arrival in Tural is what prompted Papa to embark on his own journey.",
+      "text": "อา ใช่คนนั้นแหละ การมาเยือนทูรัลของเคเทนแรมนี่แหละที่เป็นจุดเริ่มต้นทำให้ท่านพ่อตัดสินใจออกเดินทางรวบรวมแผ่นดิน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It's said the two grew to be close friends─brothers in spirit, if not in blood. But no one knows what became of the explorer in later years.",
+      "text": "เล่ากันว่าทั้งสองคนกลายเป็นเพื่อนรักกันมาก... เป็นพี่น้องร่วมสาบานที่ผูกพันกันด้วยจิตวิญญาณแม้จะไม่ใช่ทางสายเลือด แต่ไม่มีใครรู้เลยว่านักสำรวจคนนั้นหายตัวไปไหนในเวลาต่อมา"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ketenramm's disappearance is a mystery in Eorzea as well. The records say he traveled between our lands and yours for a while, but then it's assumed he was lost at sea.",
+      "text": "การหายตัวไปของเคเทนแรมก็เป็นปริศนาที่ฝั่งอีออร์เซียเหมือนกันค่ะ ตามบันทึกบอกว่าเขาเดินทางไปกลับระหว่างแผ่นดินของเรากับของพวกคุณอยู่พักหนึ่ง ก่อนจะขาดการติดต่อและคาดกันว่าเขาน่าจะประสบอุบัติเหตุจมน้ำหายไปในทะเลน่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Here we have the Lay of Reeds. This is the story of when Papa visited the Hanuhanu in their village in Kozama'uka.",
+      "text": "ส่วนต้นนี้สลักเรื่อง 'บทลำนำแห่งพงอ้อ' (Lay of Reeds) เล่าเรื่องตอนที่ท่านพ่อไปเยือนหมู่บ้านของชาวฮานูฮานูในโคซามาอูกา"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, the people Alphinaud almost mistook for Vanu Vanu, if not for the colorful plumage. He spent a fair bit of time among the Vanu in the Sea of Clouds, so it's no surprise he took an interest in your countrymen.",
+      "text": "อ๋อ ชนเผ่าที่คุณอัลฟิโนเกือบจะจำสับสนกับพวกวานูวานูเพราะมีขนสีสันสะดุดตาสินะคะ เขาเคยใช้เวลาอยู่ร่วมกับชาววานูในทะเลเมฆ (Sea of Clouds) มาพักใหญ่ ก็เลยไม่แปลกใจเลยค่ะที่เขาจะสนใจเรื่องราวของเพื่อนร่วมแผ่นดินของพวกคุณขนาดนี้"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I don't know how it is with your Vanu, but our Hanu are a bright and cheerful sort. They hold this one festival every year─very famous, and a lot of fun.",
+      "text": "ฉันไม่รู้หรอกนะว่าพวกวานูฝั่งโน้นเป็นยังไง แต่ชาวฮานูฮานูบ้านเราน่ะเป็นพวกอารมณ์ดีและร่าเริงสุดๆ เลยล่ะ พวกเขาจะมีงานเทศกาลสุดยิ่งใหญ่จัดขึ้นทุกปี สนุกสนานแถมดังมากๆ ด้วยนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Uh, let's see... This one is the Lay of Pots, which depicts the Moblins of Kozama'uka.",
+      "text": "เอ่อ ต่อไป... ต้นนี้คือ 'บทลำนำแห่งเครื่องปั้น' (Lay of Pots) เล่าเรื่องเกี่ยวกับพวกม็อบลิน (Moblins) ในโคซามาอูกาน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They might wear odd masks and sound weirdly muffled when they talk, but the gold- and silverwork they sell is the best you'll find anywhere. Moblin goods are the standard when it comes to gift giving.",
+      "text": "พวกนั้นอาจจะสวมหน้ากากหน้าตาประหลาด แถมเวลาพูดเสียงจะอู้อี้ฟังยากหน่อย แต่ฝีมือการทำเครื่องทองและเครื่องเงินของพวกม็อบลินนี่จัดว่าเลิศภพจบแดนเลยล่ะ ถ้าพูดถึงของขวัญล้ำค่าล่ะก็ ของแฮนด์เมดจากม็อบลินนี่แหละคือที่สุดแล้ว"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Clearly the Vanu aren't the only people with distant Turali counterparts...",
+      "text": "ดูเหมือนว่าพวกวานูจะไม่ใช่ชนเผ่าเดียวที่มีเผ่าคู่แฝดอยู่ฝั่งทูรัลนี้นะคะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This one recounts the Lay of Repast. As you can probably tell, the figure depicted here is of the Xbr'aal, like me.",
+      "text": "ส่วนเสานี้บันทึกเรื่อง 'บทลำนำแห่งร่วมโต๊ะ' (Lay of Repast) อย่างที่เห็นนั่นแหละ ตัวละครในรูปก็คือชาวชิบราล (Xbr'aal) เผ่าเดียวกับฉันเอง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "For decades, the Xbr'aal and the Mamool Ja were at war for control of the forest of Yak T'el.",
+      "text": "เมื่อก่อนพวกชิบราลกับมามูอูล จา ทำสงครามรบราฆ่าฟันกันมานานหลายทศวรรษเพื่อแย่งชิงสิทธิ์ครอบครองป่ายัคเทล (Yak T'el) น่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The actions Papa took to end that conflict have since been hailed as the first steps in the founding of Tuliyollal.",
+      "text": "แต่วีรกรรมที่ท่านพ่อทำเพื่อยุติความขัดแย้งครั้งนั้นนั่นแหละ ที่ผู้คนต่างยกย่องว่าเป็นก้าวแรกที่นำไปสู่การก่อตั้งนครทูลิโยลลัลขึ้นมา"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There is a clan of Hrothgar in Bozja known as Helions. In their society, the women rule as queens, and the men serve as devoted subjects.",
+      "text": "พวกฮรอทการ์ (Hrothgar) ในโบซจา (Bozja) จะมีชนกลุ่มหนึ่งที่เรียกว่าเผ่าฮีเลียน (Helions) ค่ะ สังคมของพวกเขาจะให้ผู้หญิงขึ้นครองราชย์เป็นราชินีปกครองประเทศ ส่วนผู้ชายจะทำหน้าที่เป็นข้ารับใช้ผู้ซื่อสัตย์"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet here in Tural, Xbr'aal men and women appear to be of equal status. How dramatically culture can vary with location.",
+      "text": "แต่สำหรับชาวชิบราลที่ทูรัลนี่ ดูเหมือนทั้งชายและหญิงจะมีสิทธิและสถานะเท่าเทียมกันเลยนะคะ วัฒนธรรมของแต่ละท้องถิ่นช่างแตกต่างกันได้ถึงขนาดนี้เลยนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "If you're done with the first half, we can move on to the second!",
+      "text": "ถ้าอ่านสี่ต้นแรกจบแล้ว เราไปดูช่วงครึ่งหลังกันต่อเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Not ready to move on yet? That's fine! I don't mind retelling the stories.",
+      "text": "ยังอ่านไม่เสร็จงั้นเหรอ? ตามสบายเลยนะ! ฉันย้อนเล่าให้ฟังใหม่กี่รอบก็ได้ไม่มีปัญหาอยู่แล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And these four comprise the rest of the saga.",
+      "text": "และเสาสี่ต้นนี้แหละคือพงศาวดารช่วงที่เหลือทั้งหมด"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Lay of Gold. This pillar shows one of the Pelupelu, whose homeland is in Urqopacha.",
+      "text": "ต้นนี้คือ 'บทลำนำแห่งทองคำ' (Lay of Gold) สลักเรื่องเกี่ยวกับชาวเปลูเปลู (Pelupelu) ที่มีบ้านเกิดอยู่บนอูร์โกปาชา (Urqopacha)"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Having created our currency, the Pelu are rightfully known as the merchant clan. They oversee Tuliyollal's markets, and their traveling peddlers are a common sight no matter where you go in Tural.",
+      "text": "เพราะเป็นคนริเริ่มสร้างสกุลเงินของเราขึ้นมา ชาวเปลูเปลูก็เลยได้ชื่อว่าเป็นชนเผ่าแห่งพ่อค้า พวกเขาคอยดูแลตลาดต่างๆ ในทูลิโยลลัล แถมไม่ว่าจะไปที่ไหนในทูรัล ก็จะเจอพ่อค้าเร่ชาวเปลูเปลูเดินขายของอยู่ทั่วไปหมดนั่นแหละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Don't let their size fool you! They might be mistaken as children, but beneath those beaked masks, they are clever and calculating traders.",
+      "text": "แต่อย่าให้ขนาดตัวเล็กจิ๋วหลอกตาเอาเชียวล่ะ! บางคนชอบมองว่าพวกเขาเหมือนเด็กๆ แต่ภายใต้หน้ากากจงอยปากพวกนั้นน่ะ หัวการค้าคิดเลขเร็วปานสายฟ้าแลบเชียวล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, this one is my favorite: the Lay of Ice. It depicts the battle with the legendary tural vidraal, Valigarmanda!",
+      "text": "โอ้ ต้นนี้แหละที่ฉันชอบที่สุด: 'บทลำนำแห่งน้ำแข็ง' (Lay of Ice) บันทึกศึกการต่อสู้กับ 'ทูรัลวิดราล' (tural vidraal) ในตำนาน... วาลิการ์มันดา (Valigarmanda)!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I should explain. A tural vidraal is a creature that has lived far beyond its usual lifespan and awakened to preternatural power.",
+      "text": "ฉันอธิบายเพิ่มหน่อยนะ ทูรัลวิดราลน่ะคือสัตว์อสูรที่อายุยืนยาวข้ามผ่านอายุขัยปกติไปไกลมาก จนกระทั่งพวกมันตื่นขึ้นมาพร้อมกับพลังเวทอันน่าสะพรึงกลัวน่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Tataru described the Far Eastern auspices in a similar fashion. Could this be the same phenomenon?",
+      "text": "คุณทาทารูเคยเล่าเรื่องอสูรมงคล (auspices) ทางตะวันออกไกล (Far East) ให้ฟังด้วยลักษณะที่คล้ายกันเลยค่ะ เป็นไปได้ไหมคะว่ามันจะเป็นปรากฏการณ์ชนิดเดียวกัน?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Valigarmanda itself was dubbed the Skyruin, a name earned for the destruction and terror it visited upon Tural every time it stirred from its slumber.",
+      "text": "เจ้าวาลิการ์มันดานี่ได้ฉายาว่า 'อสุรกายพลาญเวหา' (Skyruin) เพราะทุกครั้งที่มันตื่นขึ้นมาจากการหลับใหล มันจะพ่นไฟพ่นน้ำแข็งนำความพินาศย่อยยับมาสู่ดินแดนทูรัลจนผู้คนอกสั่นขวัญแขวนไปหมด"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But eighty years or so ago, its ruinous reign was brought to an end! After a great struggle, Papa and his comrades managed to overcome the raging vidraal, and sealed it away in the Urqopacha mountains.",
+      "text": "แต่เมื่อประมาณแปดสิบปีก่อน ยุคแห่งฝันร้ายนั่นก็ต้องจบลง! หลังจากต่อสู้กันอย่างเอาเป็นเอาตาย ท่านพ่อกับพวกพ้องก็ร่วมมือกันสยบอสูรร้ายตัวนี้ลงได้สำเร็จ แล้วผนึกมันไว้ใต้เทือกเขาอูร์โกปาชาน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Despite its reputation, however, Valigarmanda is also a symbol of power. That's why you'll see its likeness on Tuliyollal's national emblem, and adorning the banners at the palace.",
+      "text": "ถึงมันจะดุร้ายและน่ากลัวขนาดนั้น แต่วาลิการ์มันดาก็ยังเป็นสัญลักษณ์แห่งพลังอำนาจอันยิ่งใหญ่ด้วยนะ นั่นแหละคือสาเหตุที่ทำไมลวดลายของมันถึงไปปรากฏอยู่บนตราประจำชาติของทูลิโยลลัล และประดับประดาอยู่บนธงทิวทั่วนอกพระราชวังน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, the Lay of Proof... That big fellow is of the Yok Huy, the largest of Tural's peoples.",
+      "text": "อ้อ ต้นนี้คือ 'บทลำนำแห่งบทพิสูจน์' (Lay of Proof) เจ้ายักษ์ตัวใหญ่ในรูปนั่นก็คือพวกยอคฮุย (Yok Huy) ชนเผ่าที่ตัวใหญ่ที่สุดในหมู่ผู้คนชาวทูรัลนั่นแหละ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "These giants once used their great size and strength to establish a dominion encompassing all of Yok Tural.",
+      "text": "เมื่อก่อนพวกยักษ์โบราณพวกนี้เคยใช้ร่างกายอันมหึมากับพละกำลังมหาศาลแผ่ขยายอิทธิพลเข้ายึดครองพื้นที่ทั่วทั้งยอคทูรัลเลยนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Having brought the southern reaches to heel, they then turned northwards, setting their sights on Xak Tural. You'll recall that massive bridge they built beyond the skygate...",
+      "text": "พอพวกยักษ์สยบดินแดนฝั่งใต้จนหมดสิ้น พวกเขาก็หันเป้าหมายไปที่ดินแดนทางตอนเหนืออย่างซักทูรัลต่อ นายยังจำสะพานยักษ์ที่ทอดยาวพ้นประตูเวหาออกไปได้ใช่ไหมล่ะ... พวกยักษ์นี่แหละเป็นคนสร้างขึ้นมาเอง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some time after launching their northern campaign, however, they just...gave up. They abandoned the lands they'd conquered and withdrew into the mountains of Urqopacha. I've never even seen any of their kind so much as set foot in the city.",
+      "text": "แต่หลังจากเริ่มบุกขึ้นเหนือได้ไม่นาน จู่ๆ พวกยักษ์ก็... ถอดใจยอมแพ้ไปดื้อๆ ซะงั้น พวกเขาละทิ้งแผ่นดินที่อุตส่าห์ยึดมาได้แล้วพากันถอยร่นกลับไปเก็บตัวเงียบอยู่แต่บนเทือกเขาอูร์โกปาชา ฉันเองก็ยังไม่เคยเห็นยอคฮุยตัวเป็นๆ ลงมาเดินในเมืองหลวงเลยสักครั้งแฮะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "This was a people with the power and resourcefulness to raise a temple on a mountaintop and build a bridge across the sea with stone. What would move them to renounce their ambitions and their place in Turali history...?",
+      "text": "พวกเขามีพละกำลังและวิทยาการที่ก้าวหน้าถึงขนาดสร้างวิหารบนยอดเขาสูงกับสะพานหินข้ามทะเลได้ขนาดนี้เลยนะคะ... แล้วอะไรกันนะที่ทำให้พวกเขายอมละทิ้งความทะเยอทะยานทั้งหมด และหายไปจากหน้าประวัติศาสตร์หลักของทูรัลแบบนี้...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, this one is unmarked.",
+      "text": "อ๊ะ เสาต้นสุดท้ายนี้ไม่มีสลักรูปอะไรไว้เลยแฮะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Papa says he left a blank pillar for the next chapter of Tuliyollal's history. Whatever that might be.",
+      "text": "ท่านพ่อบอกว่าจงใจทิ้งเสาต้นนี้ให้ว่างเปล่าเอาไว้ เพื่อให้ประวัติศาสตร์หน้าถัดไปของทูลิโยลลัลเป็นคนเขียนมันขึ้นมาเองน่ะ... ไม่ว่าเรื่องราวนั้นจะเป็นยังไงก็ตามล่ะนะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Had your fill of history, then?",
+      "text": "อิ่มหนำกับเรื่องราวประวัติศาสตร์กันหรือยังล่ะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course! Take as much time as you need!",
+      "text": "ได้สิ! ค่อยๆ ดูไปตามสบายเลยไม่ต้องรีบร้อน!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, there you have it. I trust that gave you a better understanding of our nation. If you want to review anything, just let me know.",
+      "text": "ก็อย่างที่ฉันเล่าไปทั้งหมดนั่นแหละ หวังว่ามันจะช่วยให้พวกนายเข้าใจแผ่นดินของเรามากขึ้นนะ ถ้าอยากจะให้เล่าประวัติศาสตร์ต้นไหนซ้ำอีกก็บอกได้เลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Of course! Take as much time as you need!",
+      "text": "ตามสบายเลยจ้า! ค่อยๆ ดูไปไม่ต้องรีบ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Glad to hear it!",
+      "text": "ดีใจจังที่ได้ยินแบบนั้น!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You know, I feel awfully hungry all of a sudden... No surprises there seeing I couldn't keep anything down for a while. But now I think I'm ready to eat again!",
+      "text": "ว่าแต่... จู่ๆ ท้องก็เริ่มร้องส่งเสียงโครกครากขึ้นมาซะงั้นแฮะ แต่ก็ไม่น่าแปลกใจหรอกเพราะเมาเรือจนไม่มีอะไรตกถึงท้องมาพักใหญ่แล้วนี่นา ตอนนี้ฉันฟิตเต็มร้อยพร้อมฟาดอาหารลุยสะบั้นหั่นแหลกแล้วล่ะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So let's go and have ourselves a bite of a local delicacy! Come, I'll take you to the best restaurant in the city!",
+      "text": "งั้นเราไปหาอะไรอร่อยๆ สไตล์ท้องถิ่นฟาดลงรังกันหน่อยเถอะ! ตามมาเลย เดี๋ยวจะพาไปร้านเด็ดร้านดังประจำเมืองนี้เอง!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I like the sound of that!",
+      "text": "ฟังดูดีจังเลยค่ะ!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "What a lovely establishment. I'm reminded of the Bismarck in Limsa Lominsa.",
+      "text": "เป็นร้านที่ตกแต่งได้น่ารักจังเลยนะคะ ชวนให้นึกถึงภัตตาคารเดอะบิสมาร์ก (The Bismarck) ในลิมซา โลมินซา เลยค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Have you ever had tacos? They're a Tuliyollal classic! You bake a crunchy shell made from corn flour, and fill it with meat and salad.",
+      "text": "พวกนายเคยทาน 'ทาโก้' (tacos) กันหรือเปล่า? ของโปรดระดับตำนานของชาวทูลิโยลลัลเลยนะ! เขาจะเอาแป้งข้าวโพดมาอบจนเปลือกบางกรอบกร๊วบ แล้วยัดไส้เนื้อกับสลัดผักลงไปข้างในน่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "A lot of shops and stalls sell them, but I like how they're made here at Xbalyav Ty'e best.",
+      "text": "มีแผงลอยกับร้านขายทาโก้อยู่เต็มไปหมดก็จริง แต่ฉันชอบสูตรเด็ดของร้านซบาลยาฟเทีย (Xbalyav Ty'e) แห่งนี้ที่สุดแล้วล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And I need one right in front of me, right now! Let's head downstairs and place an order with old Br'uk Evu!",
+      "text": "แถมตอนนี้ความหิวเข้าตาข้าอยากกินมันเดี๋ยวนี่เลยล่ะ! รีบลงบันไดไปสั่งกับตาบรุก เอวู (Br'uk Evu) เจ้าของร้านกันเถอะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "This is Br'uk Evu, the owner. Don't let his unassuming appearance fool you─when it comes to making tacos, he is the greatest artisan in all of Tural!",
+      "text": "คนนี้แหละตาบรุก เอวู เจ้าของร้าน อย่าเห็นเขาดูติ๋มๆ แบบนี้นะ ถ้าเป็นเรื่องการปรุงทาโก้ล่ะก็ ตาแก่นี่แหละคือสุดยอดเชฟฝีมือฉกาจที่สุดในดินแดนทูรัลแล้ว!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Every dish looks delicious! At the risk of sounding like Wuk Lamat, the mere sight of so much fine cuisine is making me ravenous.",
+      "text": "หน้าตาน่าอร่อยทุกจานเลยค่ะ... แหม ถ้าพูดแบบนั้นเดี๋ยวจะหาว่าเลียนแบบน้ำเสียงคุณวุค ลามัต แต่แค่ได้เห็นอาหารน่ากินพวกนี้วางเรียงรายกัน ท้องฉันก็เริ่มร้องประท้วงขึ้นมาซะแล้วสิคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Br'uk Evu!",
+      "text": "ตาแก่บรุก เอวู!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "My companions must sample your heavenly tacos. One for each of us, please.",
+      "text": "พาเพื่อนใหม่จากต่างแดนมาชิมทาโก้รสมือสวรรค์น่ะ จัดมาให้พวกเราคนละชิ้นเลยปู่!"
+    },
+    {
+      "character": "Br'uk Evu",
+      "text_en": "Right away, Promise─and I'll pack them tight with my choicest fillings! Only the best for you and your friends!",
+      "text": "จัดให้เดี๋ยวนี้เลยครับ ท่านรัชทายาท! เดี๋ยวจะบรรจงยัดไส้เนื้อเกรดพรีเมียมคัดสรรพิเศษใส่ให้แน่นๆ เลยครับ ของดีที่สุดต้องคู่กับท่านและสหายอยู่แล้ว!"
+    },
+    {
+      "character": "Doppro Customer",
+      "text_en": "Did you hear the Silverscales are back? Seems their overseas foray ended in disaster. More than half their warband is missing, including their leader.",
+      "text": "ได้ข่าวเรื่องพวกกองกำลังเกล็ดเงิน (Silverscales) กลับมาหรือยัง? เห็นว่าที่ยกพวกข้ามน้ำข้ามทะเลไปขยายอำนาจทางโน้นพังไม่เป็นท่าเลยว่ะ ทหารหายสาบสูญไปเกินครึ่งทัพ แถมตัวหัวหน้าทัพก็ไม่รู้เป็นตายร้ายดียังไงด้วย"
+    },
+    {
+      "character": "Xbr'aal Customer",
+      "text_en": "Aye, and now keen to rebuild their broken reputations, the survivors seek the golden city. A fool's errand. How many hopefuls have disappeared in search of that fable? They should count their lucky stars they came home alive at all.",
+      "text": "ใช่... แถมตอนนี้พวกที่รอดตายมาได้ดันกระสันอยากกู้ชื่อเสียงที่ป่นปี้กลับคืนมา เลยพากันออกสืบหา 'นครแห่งทองคำ' (golden city) โง่สิ้นดีเลยว่ะ คิดเหรอว่าจะเจอเมืองในนิทานหลอกเด็กพรรค์นั้นน่ะ? ที่ผ่านมามีพวกบ้าสมบัติกี่รายแล้วที่หายหัวไปอย่างไร้ร่องรอย? รอดชีวิตกลับมาเหยียบบ้านเกิดได้นี่ก็ควรไปกราบขอบคุณสิ่งศักดิ์สิทธิ์ที่ช่วยคุ้มกะลาหัวแล้วล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The legend of the golden city is well known here, I take it?",
+      "text": "ดูเหมือนว่าตำนานเรื่องนครแห่งทองคำจะเป็นที่รู้จักกันทั่วไปในเมืองนี้เลยใช่ไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "It is, but as no one's ever seen it, many question if there is any truth to the tale─like our skeptical Erenville.",
+      "text": "ก็ใช่นะสิ แต่เพราะไม่เคยมีใครเห็นมันจริงๆ สักคน คนส่วนใหญ่ก็เลยคิดว่าเรื่องนี้เป็นแค่นิทานหลอกเด็กลอยๆ เท่านั้นแหละ... อย่างเจ้าเอเรนวิลล์จอมสงสัยก็เป็นหนึ่งในนั้นนะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I can't imagine the Dawnservant would request a formal survey for a place that doesn't exist...",
+      "text": "แต่ฉันคิดว่าระดับท่านดอว์นเซิร์ฟวันต์คงไม่ถึงกับออกคำสั่งให้สำรวจพื้นที่อย่างเป็นทางการ สำหรับสถานที่ที่ไม่มีอยู่จริงหรอกนะคะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now to find a spot with a pleasant view to enjoy our crunchy spoils!",
+      "text": "เอาล่ะ! งั้นเราไปหามุมวิวสวยๆ นั่งแทะทาโก้แสนกรอบอร่อยของเรากันเถอะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Aaaah!",
+      "text": "กรี๊ดดดดด! / อ๊ายยยยย!"
+    },
+    {
+      "character": "Two-headed Mamool Ja",
+      "text_en": "Oho, if it isn't the Third “Promise.”",
+      "text": "โอ้โฮ... นึกว่าใคร ที่แท้ก็ท่านสัญญาที่สาม 'ผู้เลอโฉม' นี่เอง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh no...",
+      "text": "ชิ... เจ้านี่อีกแล้วเหรอ..."
+    },
+    {
+      "character": "Two-headed Mamool Ja",
+      "text_en": "I don't know these ones. New salt?",
+      "text": "ไม่คุ้นหน้าคนพวกนี้เลยว่ะ... ข้ารับใช้ป้ายแดงงั้นเหรอ?"
+    },
+    {
+      "character": "Two-headed Mamool Ja",
+      "text_en": "Dredged from foreign waters is my guess, Brother.",
+      "text": "ข้าเดาว่าน่าจะเป็นพวกปลายแถวที่ไปลากมาจากต่างแดนมากกว่านะ พี่ชาย"
+    },
+    {
+      "character": "Two-headed Mamool Ja",
+      "text_en": "Of course, that's it. Wuk Lamat is so afraid of the coming contest that she went crying for special help!",
+      "text": "อ๋อ... อย่างนี้นี่เอง! ยัยวุค ลามัต ปอดแหกกลัวการประลองที่จะมาถึงจนตัวสั่น ถึงขนาดต้องแจ้นไปร้องห่มร้องไห้กราบขอความช่วยเหลือพิเศษจากพวกต่างถิ่นเลยเรอะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Was there something you wanted, Bakool Ja Ja?",
+      "text": "แกมีธุระอะไรกับฉันไม่ทราบ ยะ... บาคูล จา จา (Bakool Ja Ja)?"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "The Third Promise remembers us! Such an honor!",
+      "text": "อุ้ยตาย! ท่านสัญญาที่สามจำพวกเราได้ด้วยว่ะ! ช่างเป็นเกียรติแก่วงศ์ตระกูลเหลือเกิน!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "Glory on your name, Brother!",
+      "text": "สมเป็นชื่ออันเกรียงไกรของเจ้าจริงๆ พี่ชาย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "And on yours, Brother!",
+      "text": "ของเจ้าก็เหมือนกันแหละ น้องชาย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...I know my rivals for the throne, nothing more.",
+      "text": "...ข้าก็แค่จำหน้าพวกคู่แข่งชิงบัลลังก์ได้ทุกคนนั่นแหละ ไม่ได้มีความหมายอะไรมากกว่านั้นเลย!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Another child of the Dawnservant...?",
+      "text": "ลูกอีกคนของท่านดอว์นเซิร์ฟวันต์เหรอคะ...?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, this brute─",
+      "text": "ไม่ใช่หรอก ยักษ์ปักหลั่นตัวนี้มัน—"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "We have no ties to their farce of a family!",
+      "text": "อย่าเอาพวกข้าไปนับญาติกับครอบครัวปาหี่ของยัยนี่เชียวนะ!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Unlike this sniveling house cat, we are blessed siblings! The elevated chosen! We alone are fit to succeed Gulool Ja Ja as Dawnservant!",
+      "text": "ไม่เหมือนยัยแมวบ้านขี้แยพรรค์นี้หรอก พวกเราคือทายาทผู้ได้รับพรจากสวรรค์ (blessed siblings)! เป็นผู้ถูกเลือกชั้นแนวหน้า! มีแต่พวกข้าคู่แฝดนี้เท่านั้นที่คู่ควรจะสืบทอดตำแหน่งดอว์นเซิร์ฟวันต์ต่อจากกูลูล จา จา!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All peoples are equal in Tuliyollal! Your heritage gives you no greater claim to the throne!",
+      "text": "ประชาชนทุกคนในทูลิโยลลัลมีความเท่าเทียมกันหมดย่ะ! สายเลือดของแกไม่ได้ช่วยให้มีสิทธิ์ชิงบัลลังก์เหนือกว่าคนอื่นเลยสักนิด!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Shall we test that idea here and now? See if your strength is “equal” to ours?",
+      "text": "งั้นเรามาประลองฝีมือทดสอบคำพูดสวยหรูนั่นกันตรงนี้เลยดีไหมล่ะ? ดูซิว่าน้ำหน้าอย่างแกจะมีฝีมือ 'เท่าเทียม' กับพวกข้าไหม!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "None of this has any bearing on the rite of succession, correct? Best not waste your energies on pointless scuffles.",
+      "text": "เรื่องทะเลาะกันตรงนี้ไม่ได้ส่งผลต่อคะแนนในพิธีประลองเลยใช่ไหมคะ? อย่าเอาเรี่ยวแรงอันมีค่าไปเสียเวลากับการปะทะฝีปากไร้สาระดีกว่าค่ะ"
+    },
+    {
+      "character": "Bakool Ja Ja the Mystic",
+      "text_en": "The kitten comes to the house cat's defense!",
+      "text": "ฮั่นแน่... มียัยลูกแมวขี้เรื้อนโผล่หัวมาช่วยปกป้องแมวบ้านด้วยเว้ย!"
+    },
+    {
+      "character": "Bakool Ja Ja the Mighty",
+      "text_en": "Pathetic! Since when was our nation overrun by mewling weaklings?",
+      "text": "น่าสมเพชสิ้นดี! ตั้งแต่เมื่อไหร่กันที่ประเทศชาติของพวกเราต้องโดนไอ้พวกกากตัวกระจ้อยร่อยมารุมล้อมกันให้วุ่นวายแบบนี้?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Listen to me, you...",
+      "text": "หนอยแน่... แก..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A two-headed Mamool Ja... I knew of them, but that's the first I've seen in the flesh.",
+      "text": "ชาวมามูอูล จา สองหัว... ฉันเคยได้ยินแต่ชื่อเพิ่งจะเคยได้มาเห็นตัวจริงเสียงจริงก็วันนี้เองล่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Some get it into their twin heads that they're destined to follow in my father's footsteps. So they travel to distant lands to hone their battlecraft.",
+      "text": "พวกนี้พอมันเกิดมามีสองหัวในร่างเดียว ก็ชอบทึกทักกันไปเองว่าโชคชะตากำหนดมาให้เดินตามรอยเท้าของท่านพ่อฉันน่ะ พวกมันก็เลยชอบเดินทางไปต่างแดนไกลๆ เพื่อฝึกปรือวิชาการต่อสู้กัน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Those are likely the ones you've heard about.",
+      "text": "พวกที่คุณไครล์เคยได้ยินชื่อมาก็น่าจะเป็นไอ้พวกสองหัวกลุ่มนี้นี่แหละ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are there other two-headed claimants?",
+      "text": "แล้วมีผู้ท้าชิงบัลลังก์ที่มีสองหัวคนอื่นอีกไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "No, just Bakool Ja Ja. Even in Tural, his kind are far from common.",
+      "text": "ไม่มีแล้วล่ะ มีแค่บาคูล จา จา คนเดียวนี่แหละ เพราะต่อให้เป็นในแผ่นดินทูรัลเอง เด็กสองหัวแบบนี้ก็หาได้ยากยิ่งกว่างมเข็มในมหาสมุทรซะอีก"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Mamool Ja people largely belong to one of three clans. The Hoobigo...",
+      "text": "ปกติชาวมามูอูล จา จะแบ่งออกเป็นสามชนเผ่าใหญ่ๆ เผ่าแรกคือฮูบิโก (Hoobigo)..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The Boonewa...",
+      "text": "เผ่าที่สองคือบูนีวา (Boonewa)..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "And the Doppro.",
+      "text": "และเผ่าสุดท้ายก็คือดอปโปร (Doppro) น่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Every once in a great while, a two-headed offspring is born from a union between the brown-scaled Hoobigo and the blue-scaled Boonewa. The child grows to possess immense strength, both physical and magical.",
+      "text": "นานๆ ทีถึงจะมีเด็กสองหัวถือกำเนิดขึ้นมาสักคน จากการจับคู่สมรสข้ามสายพันธุ์ระหว่างชาวฮูบิโกเกล็ดสีน้ำตาลกับชาวบูนีวาเกล็ดสีน้ำเงิน ซึ่งเด็กที่เกิดมาจะมีพลังกล้าแกร่งมหาศาลมาก ทั้งพละกำลังกายและพลังเวทมนตร์เลยล่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "“Blessed siblings” indeed...",
+      "text": "สมกับคำว่า 'ทายาทผู้ได้รับพร' จริงๆ เลยนะคะ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Forget them. Let's go and buy more tacos─I can think of nothing better to rid me of this bad taste in my mouth.",
+      "text": "ช่างหัวพวกมันเถอะ ไปหาซื้อทาโก้กินกันต่อดีกว่า ไม่มีอะไรจะช่วยล้างปากแก้เซ็งได้ดีไปกว่าของอร่อยๆ อีกแล้ว!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Enjoying your tour of the city, I trust? We've seen our share of notable sights and took a moment to rest.",
+      "text": "เป็นอย่างไรบ้างครับ ทัวร์ชมเมืองหลวงเรียบร้อยดีไหมครับ? ฝั่งพวกผมได้ไปดูสถานที่สำคัญๆ หลายจุด แล้วก็เพิ่งได้แวะพักเหนื่อยกันเมื่อครู่นี้เองครับ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As such, we're ready to present ourselves at the palace for the rite of succession. Shall we meet you there?",
+      "text": "ตอนนี้พวกผมพร้อมจะเดินทางไปยังพระราชวังเพื่อเข้าร่วมพิธีสืบทอดราชบัลลังก์แล้วครับ เราไปเจอกันที่นั่นเลยดีไหมครับ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The palace it is. I'll let Wuk Lamat know.",
+      "text": "เจอกันที่พระราชวังนะคะ เดี๋ยวฉันจะแจ้งให้คุณวุค ลามัต ทราบค่ะ"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Destiny calls. Perhaps we can return for more tacos later?",
+      "text": "หน้าที่สำคัญเรียกตัวแล้วล่ะค่ะ เรื่องทาโก้เอาไว้เสร็จพิธีแล้วค่อยกลับมาทานกันใหม่ดีไหมคะ?"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "...So it goes.",
+      "text": "...เซ็งชะมัดเลยแฮะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Br'uk Evu's lovingly made tacos went to waste, and it's all that brutish Bakool Ja Ja's fault...",
+      "text": "อุตส่าห์ตั้งตารอชิมทาโก้แสนอร่อยรสมือตาแก่บรุก เอวู ซะดิบดี ดันต้องมาพังพินาศเสียของเพราะไอ้ยักษ์บ้าบาคูล จา จา แท้ๆ เลย..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I was looking forward to trying some authentic Tuliyollal cuisine, but we should hurry and join Alphinaud and the others at the palace.",
+      "text": "ฉันเองก็นึกอยากลองลิ้มรสทาโก้ขึ้นชื่อของทูลิโยลลัลอยู่เหมือนกันค่ะ แต่ตอนนี้เราควรรีบเดินทางไปสมทบกับพวกคุณอัลฟิโนที่พระราชวังกันก่อนเถอะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "All right. It's a bit of a climb to the top, but you can head up from the Resplendent Quarter, or even the eastern side of Talonmarch, if you prefer.",
+      "text": "ตกลงจ้ะ ทางเดินขึ้นยอดเขามันจะค่อนข้างสูงชันหน่อยนะ แต่พวกนายจะเลือกเดินตัดขึ้นจากย่านเรสเพลนเดนต์ หรือขึ้นจากทางฝั่งทิศตะวันออกของแทลอนมาร์ชก็ได้ตามใจชอบเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Now that you have an idea of how the city's laid out, I'll let you find your own way to Vollok Shoonsa.",
+      "text": "ในเมื่อตอนนี้พอจะรู้แผนที่ทิศทางในเมืองหลวงคร่าวๆ แล้ว งั้นรอบนี้ฉันจะปล่อยให้พวกนายเดินหาทางขึ้นไปที่พระราชวังวอลลอกชุนซ่ากันเอาเองนะ!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, my poor, empty belly...",
+      "text": "เฮ้อ... ท้องร้องจ๊อกๆ ทรมานชะมัดเลย..."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Do you have a better feel for the city now?",
+      "text": "เดินดูรอบเมืองจนพอจะคุ้นทางขึ้นบ้างหรือยังครับ?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "There are so many narrow, winding streets. But even if you get lost, all you have to do is keep heading up, and you'll arrive at the palace eventually.",
+      "text": "ตรอกซอกซอยที่นี่เยอะแล้วก็คดเคี้ยวไปมามากเลยค่ะ แต่ต่อให้หลงทาง หลักการจำง่ายๆ ก็แค่เดินไต่ระดับขึ้นที่สูงไปเรื่อยๆ เดี๋ยวสุดท้ายก็ไปโผล่ที่พระราชวังเองนั่นแหละค่ะ"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We saw a two-headed Mamool Ja on our way here. Another claimant in the rite of succession, according to Erenville.",
+      "text": "ระหว่างทางเดินมาที่นี่พวกเราเจอชาวมามูอูล จา สองหัวด้วยครับ เอเรนวิลล์บอกว่าเป็นหนึ่งในผู้ท้าชิงบัลลังก์ในพิธีสืบทอดราชบัลลังก์เหมือนกันครับ"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The food is amazing. A passing Mamool Ja let us try a fruit called “cherimoya” and it was just sublime.",
+      "text": "อาหารการกินที่นี่เลิศหรูมากเลยล่ะ! เมื่อกี้มีคุณลุงชาวมามูอูล จา ที่เดินสวนกัน ยื่นผลไม้ที่ชื่อว่า 'เชอริโมยา' (cherimoya) มาให้ลองชิมดู รสชาติดีสุดๆ ไปเลยล่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You made it. Good. Then we're all here.",
+      "text": "มากันครบแล้วสินะ ดีล่ะ งั้นก็อยู่กันพร้อมหน้าพร้อมตาแล้ว"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I'm still hungry enough to eat a whole roasted colibri, but the contest won't wait for us forever!",
+      "text": "ถึงตอนนี้ฉันจะหิวโซขนาดเขมือบนกโคลีบรี (colibri) ย่างเกลือได้ทั้งตัวก็เถอะ แต่พิธีประลองชิงบัลลังก์คงไม่ยืนรอพวกเราอยู่เฉยๆ หรอก ไปกันได้แล้ว!"
+    }
+  ]
+}

@@ -1,0 +1,468 @@
+{
+  "id": "memories-of-a-bygone-age",
+  "wiki_path": "/wiki/Memories_of_a_Bygone_Age",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
+  "patch": "7.2",
+  "title_en": "Memories of a Bygone Age",
+  "title": "ความทรงจำจากยุคสมัยที่พ้นผ่าน",
+  "level": "100",
+  "location": "Break Room(X:6,Y:6)",
+  "npc_start": "Sphene",
+  "dialogues": [
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Come on, we'll give Sphene the grand tour!",
+      "text": "มาเลย เดี๋ยวพวกเราจะพาสฟีนไปทัวร์เมืองให้เต็มอิ่มเอง!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Sphene asked me not to call her by her title. I understand why, but it feels strange.",
+      "text": "คุณสฟีนขอร้องไม่ให้ผมเรียกเธอด้วยยศฐาบรรดาศักดิ์น่ะครับ ผมเข้าใจเหตุผลดีนะครับ แต่มันก็ยังรู้สึกแปลกๆ อยู่ดีนั่นแหละครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Before heading out, I should put on more suitable attire. There's a modern outfit among the items Shale has prepared for me, I believe.",
+      "text": "ก่อนจะออกเดินทาง ฉันควรจะเปลี่ยนเสื้อผ้าให้เหมาะสมกว่านี้เสียหน่อยค่ะ รู้สึกว่าจะมีชุดสมัยใหม่อยู่ในข้าวของเครื่องใช้ที่คุณเชลตระเตรียมไว้ให้ฉันนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "If you would wait outside, I should only need a moment.",
+      "text": "รบกวนช่วยรอข้างนอกสักครู่เถอะนะคะ ขอเวลาฉันเปลี่ยนชุดประเดี๋ยวเดียวค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Alright. Take your time.",
+      "text": "ได้เลย ไม่ต้องรีบร้อนนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Shale said that she chose the outfit herself. Once I've changed, I shall join you outside.",
+      "text": "คุณเชลบอกว่าเธอเป็นคนเลือกชุดนี้ด้วยตัวเองเลยล่ะค่ะ เปลี่ยนชุดเสร็จเมื่อไหร่ ฉันจะออกไปหาข้างนอกนะคะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I haven't gone outside in a while. Shale decrypted more of my mother's records, so I've been spending a lot of time reading them...",
+      "text": "ผมไม่ได้ออกไปข้างนอกมาพักใหญ่แล้วล่ะครับ ตั้งแต่พี่เชลถอดรหัสบันทึกของแม่เพิ่มเติม ผมก็เอาแต่ใช้เวลาอ่านบันทึกพวกนั้นซะเป็นส่วนใหญ่เลยครับ..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Even if she can walk, she's still far from fully recovered. We'll have to take care not to push her too hard.",
+      "text": "ถึงหล่อนจะพอเดินเหินได้แล้ว แต่ร่างกายก็ยังฟื้นฟูไม่เต็มร้อยหรอกนะ พวกเราต้องคอยระวังอย่าให้หล่อนหักโหมจนเกินไปล่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Y'shtola and Alisaie left for the government sector.",
+      "text": "ยาชโทลากับอลิเซย์เดินทางไปที่เขตการปกครองแล้วค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "They wanted to discuss how to go about treating those afflicted with lightning. Admirable─I don't know how they keep going without so much as a short break.",
+      "text": "พวกเธออยากเข้าไปหารือเรื่องการหาทางรักษาผู้ป่วยที่ได้รับผลกระทบจากสายฟ้าน่ะค่ะ น่าเลื่อมใสจริงๆ ฉันยังนึกสงสัยอยู่เลยว่าพวกเธอทำแบบนั้นได้ยังไงโดยไม่คิดจะหยุดพักสายตาสักนิดเลย"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Apologies for keeping you waiting. I've never worn such clothing before...",
+      "text": "ขออภัยที่ทำให้ต้องรอนานนะคะ ฉันไม่เคยสวมใส่เสื้อผ้าสไตล์นี้มาก่อนเลย..."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oho! That really suits you!",
+      "text": "โอ้โฮ! ชุดนี้เหมาะกับเธอมากเลยนะเนี่ย!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm glad to hear that.",
+      "text": "ดีใจจังค่ะที่ได้ยินแบบนั้น"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I had much the same impression─I had only ever worn skirts, you see. But it seems appropriate for a new beginning...",
+      "text": "ฉันเองก็รู้สึกแบบนั้นเหมือนกันค่ะ ปกติแล้วฉันเคยใส่แต่กระโปรงยาวมาตลอดน่ะค่ะ แต่การแต่งตัวแบบนี้ก็ดูเหมาะสำหรับการเริ่มต้นชีวิตใหม่ดีนะคะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For one so well traveled to say that, I feel confident it's perfect for exploring the city.",
+      "text": "ในเมื่อผู้ผ่านโลกมามากอย่างคุณเอ่ยปากชม ฉันก็มั่นใจขึ้นเยอะเลยค่ะว่าชุดนี้เหมาะกับการออกไปเดินสำรวจเมืองจริงๆ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "A moment before you head out.",
+      "text": "ขอเวลาสักครู่ก่อนจะออกเดินทางนะคะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Circumstances being what they are, we thought it best to come up with a way to distinguish you from the other Sphenes. And we should probably settle on this now rather than later.",
+      "text": "ด้วยสถานการณ์ที่เป็นอยู่ในตอนนี้ พวกเราคิดว่าควรจะหาทางจำแนกคุณออกจากสฟีนคนอื่นๆ เสียหน่อยค่ะ และตกลงกันไว้ตั้งแต่เนิ่นๆ น่าจะดีกว่านะคะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "I suppose it could get pretty confusing...",
+      "text": "นั่นสิครับ ขืนไม่ทำแบบนั้นต้องสับสนวุ่นวายกันใหญ่แน่ครับ..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "First, we propose calling you simply “Sphene.” As for the former Queen of Reason, “Endless Sphene” should suffice.",
+      "text": "ขั้นแรก พวกเราขอเสนอให้เรียกคุณสั้นๆ ว่า 'สฟีน' ค่ะ ส่วนราชินีแห่งเหตุผลคนก่อน ให้เรียกว่า 'สฟีนผู้ไร้สิ้นสุด' ก็น่าจะเพียงพอแล้วค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "What about the new one who's been addressing the citizens?",
+      "text": "แล้วสฟีนคนใหม่ที่ออกมาป่าวประกาศคุยกับประชาชนในเมืองล่ะ?"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Despite being the spitting image of Endless Sphene, we know she's a different entity. So we were thinking of calling her a “simulant,” after imitation stones.",
+      "text": "ถึงรูปลักษณ์ภายนอกของหล่อนจะถอดแบบมาจากสฟีนผู้ไร้สิ้นสุดราวกับพิมพ์เดียวกัน แต่พวกเราก็รู้ดีว่าหล่อนเป็นอีกตัวตนหนึ่ง เลยคิดว่าจะเรียกหล่อนว่า 'ร่างจำลอง' (Simulant) ที่เปรียบเหมือนอัญมณีสังเคราะห์น่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I see... Well, they're definitely not the same, and that's as good a way as any to draw a distinction.",
+      "text": "เข้าใจล่ะ... สองคนนั้นต่างกันอย่างสิ้นเชิงจริงๆ นั่นแหละ เรียกแบบนั้นก็ถือเป็นวิธีแยกแยะที่ดีไม่เบาเลย"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "But what do you think, Sphene? Is that alright with you?",
+      "text": "แล้วเธอคิดยังไงล่ะสฟีน? แบบนี้โอเคนสำหรับเธอไหม?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Rest assured I have no objections. When I am in the city, however, I intend to keep both my face and name secret.",
+      "text": "โปรดวางใจเถอะค่ะ ฉันไม่มีข้อคัดค้านใดๆ เลย ทว่ายามที่ฉันก้าวเดินเข้าไปในเมือง ฉันตั้งใจจะปกปิดทั้งใบหน้าและชื่อของตัวเองเอาไว้ค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "For the people of today's Alexandria know only the Endless Sphene...",
+      "text": "เพราะผู้คนในอเล็กซานเดรียทุกวันนี้ รู้จักเพียงแต่สฟีนผู้ไร้สิ้นสุดเท่านั้น..."
+    },
+    {
+      "character": "Shale",
+      "text_en": "We're sorry to subject you to such ignominy...",
+      "text": "ขออภัยด้วยนะคะที่ต้องทำให้คุณต้องลำบากกายและใจขนาดนี้..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "No, no. I myself would rather not invite complications, so it is quite alright. Thank you for your concern, Shale.",
+      "text": "ไม่หรอกค่ะ ฉันเองก็ไม่อยากจะก่อเรื่องยุ่งยากขึ้นมาเหมือนกัน ดังนั้นแค่นี้สบายมากค่ะ ขอบคุณในความเป็นห่วงนะคะคุณเชล"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Let us be off, then. I am in your capable hands.",
+      "text": "ถ้าอย่างนั้นพวกเราเดินทางกันเถอะค่ะ ฝากเนื้อฝากตัวด้วยนะคะทุกท่าน"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "That you are. First, we'll head to the entrance of Solution Nine.",
+      "text": "ได้เลย! ด่านแรก พวกเราจะมุ่งหน้าไปยังทางเข้าของโซลูชันไนน์กันก่อน"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Good idea. We should start from scanning port nine. I'll do my best to explain things!",
+      "text": "เป็นความคิดที่ดีเลยครับ พวกเราควรเริ่มตั้งหลักที่เกทสแกนหมายเลขเก้ากันก่อน เดี๋ยวผมจะคอยอธิบายเรื่องต่างๆ ให้ฟังสุดความสามารถเลยครับ!"
+    },
+    {
+      "character": "Shale",
+      "text_en": "As long as we keep Sphene's identity under wraps, it should be safe enough to walk around the city.",
+      "text": "ตราบใดที่พวกเราช่วยกันปกปิดตัวตนของสฟีนเอาไว้ การเดินสำรวจในเมืองก็น่าจะปลอดภัยไร้กังวลค่ะ"
+    },
+    {
+      "character": "Shale",
+      "text_en": "Still, we can't be too cautious while the simulant's off doing whatever it is she's doing. Do take care out there.",
+      "text": "แต่ถึงอย่างนั้นก็ประมาทไม่ได้เลยค่ะ ยิ่งในช่วงที่ร่างจำลองนั่นกำลังเที่ยวทำเรื่องบางอย่างลับหลังพวกเราอยู่ด้วย ยังไงก็ระวังตัวกันด้วยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So this is Alexandria... Despite being inside a tower, it feels as though I'm out in the open.",
+      "text": "นี่คืออเล็กซานเดรียงั้นเหรอ... ถึงจะบอกว่าตั้งอยู่ภายในหอคอยยักษ์ แต่กลับให้ความรู้สึกปลอดโปร่งเหมือนอยู่กลางแจ้งเลยนะคะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And though the sights are nothing like I remember, electrope is still everywhere I look. 'Tis a strange yet familiar place.",
+      "text": "และถึงแม้ภาพทิวทัศน์รอบตัวจะไม่มีสิ่งใดเหมือนในความทรงจำของฉันเลย ทว่าก็ยังคงมองเห็นอิเล็กโทรปอยู่รอบตัวไปหมด เป็นสถานที่ที่แปลกตาแต่ก็ชวนให้คิดถึงดีนะคะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So you've been to Tuliyollal! Were you able to meet with your friend?",
+      "text": "อ้าว เธอเดินทางไปทูลิโยลลัลมางั้นเหรอ! แล้วได้พบเจอกับเพื่อนคนนั้นหรือเปล่าล่ะ?"
+    },
+    {
+      "character": "Exuberant Citizen",
+      "text_en": "I was! Things were a bit awkward at first─she's still so young, after all─but before long we were talking up a storm. We had so much fun, just like old times!",
+      "text": "ได้เจอสิคะ! ตอนแรกก็แอบเกร็งๆ อยู่เหมือนกัน เพราะยังไงหล่อนก็ยังเด็กมากเลยนี่เนอะ แต่คุยไปคุยมาก็ต่อกันติด คุยกันจ้อไม่หยุดเลยล่ะค่ะ สนุกมากเหมือนได้ย้อนเวลากลับไปวันวานเลย!"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "That lady wants to talk with Lamaty'i, so while they're busy, I'll tell you about what we can see from here. Is there any place that interests you?",
+      "text": "พี่สาวคนนั้นกำลังคุยติดลมกับคุณวุค ลามัต อยู่ครับ ระหว่างที่รอ ผมจะเล่าทิวทัศน์ที่เรามองเห็นจากตรงนี้ให้ฟังเองครับ มีจุดไหนที่คุณสฟีนสนใจเป็นพิเศษไหมครับ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There are so very many, I can't decide where to begin...",
+      "text": "มีจุดน่าสนใจเยอะแยะไปหมดเลยค่ะ จนฉันเลือกไม่ถูกเลยว่าจะเริ่มมองจากตรงไหนดี..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Then why don't we let Forename choose?",
+      "text": "ถ้างั้นลองให้คุณ [ชื่อ] เป็นคนเลือกดูดีไหมครับ?"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There are lots of different shops at the Nexus Arcade, selling everything you need. It's always full of people out doing their shopping.",
+      "text": "ที่เน็กซัสอาร์เคดมีร้านค้าสารพัดชนิดตั้งเรียงรายอยู่เลยครับ ขายสิ่งของจำเป็นทุกอย่างที่คุณต้องการ ที่นั่นเลยคลาคล่ำไปด้วยผู้คนที่ออกมาจับจ่ายใช้สอยอยู่เสมอเลยครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The Endless Sphene gave Forename and Lamaty'i a tour of the place. I remember watching them from a distance.",
+      "text": "สฟีนผู้ไร้สิ้นสุดคนก่อนเคยพาทั้งคุณ [ชื่อ] และคุณวุค ลามัต เดินทัวร์รอบที่นี่ด้วยนะครับ ผมยังจำภาพที่ยืนมองพวกเขาอยู่ไกลๆ ได้อยู่เลย"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The castle town I knew had a main thoroughfare that was lined with shops. Whenever I visited, the citizens would come and speak with me about matters great and small.",
+      "text": "รอบเมืองหลวงในยุคสมัยของฉันก็มีถนนคนเดินเส้นหลักที่มีร้านค้าตั้งเรียงรายอยู่แบบนี้เหมือนกันค่ะ ทุกครั้งที่ฉันไปเยือน ชาวเมืองจะพากันเดินเข้ามาพูดคุย แลกเปลี่ยนสารทุกข์สุกดิบทั้งเรื่องเล็กเรื่องใหญ่เสมอ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Just like that lady is doing now with Wuk Lamat...",
+      "text": "เหมือนอย่างที่พี่สาวคนนั้นกำลังพูดคุยกับวุค ลามัต อยู่ในตอนนี้เลยค่ะ..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "The lady talking to Lamaty'i just came back from Tuliyollal. It was her first time since being trapped in the barrier thirty years ago. She has family in Alexandria now, so she had to return.",
+      "text": "พี่สาวคนที่คุยกับคุณวุค ลามัต เพิ่งจะเดินทางกลับมาจากทูลิโยลลัลน่ะครับ เป็นการเดินทางไปที่นั่นครั้งแรกนับตั้งแต่โดนขังอยู่ในบาเรียนี้เมื่อสามสิบปีก่อนเลย แต่เพราะตอนนี้เธอมีครอบครัวอยู่ที่อเล็กซานเดรีย เลยจำใจต้องเดินทางกลับมาน่ะครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "But the train made it safe and easy for her to make the journey, and it's all thanks to everyone's hard work!",
+      "text": "ทว่าขบวนรถไฟก็ช่วยให้การเดินทางของเธอปลอดภัยและสะดวกสบายมากเลยล่ะครับ ทั้งหมดนี้ต้องขอบคุณความทุ่มเทและหยาดเหงื่อของทุกคนจริงๆ ครับ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "There was once a railroad connecting Alexandria and neighboring Lindblum, but operations were suspended when relations deteriorated. Eventually, the tracks were removed entirely.",
+      "text": "ในอดีตเคยมีทางรถไฟเชื่อมระหว่างอเล็กซานเดรียกับอาณาจักรลินด์บลัมที่เป็นเพื่อนบ้านกันอยู่ค่ะ ทว่าการเดินรถก็ต้องหยุดชะงักไปเมื่อความสัมพันธ์เริ่มร้าวฉาน จนสุดท้าย รางรถไฟเหล่านั้นก็ถูกรื้อถอนออกไปจนหมดสิ้น..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "To see that a railroad now connects us to our new neighbors is gratifying.",
+      "text": "พอได้มาเห็นว่าในตอนนี้มีทางรถไฟเชื่อมพวกเราเข้ากับเพื่อนบ้านกลุ่มใหม่แล้ว ชวนให้รู้สึกปลาบปลื้มใจเหลือเกินค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Especially considering that our history began with war─with Alexandria the aggressor. In continuing to strive for peace, Tuliyollal's leaders have shown great magnanimity, and I can't help but be moved.",
+      "text": "โดยเฉพาะเมื่อนึกถึงว่า ประวัติศาสตร์ของเราเริ่มต้นขึ้นด้วยภัยสงคราม... ซึ่งมีอเล็กซานเดรียเป็นฝ่ายเปิดฉากโจมตีก่อน ทว่าในการก้าวเดินต่อไปเพื่อแสวงหาสันติภาพอย่างไม่ย่อท้อนี้ ผู้นำของทูลิโยลลัลได้แสดงให้เห็นถึงความเมตตากรุณาอันยิ่งใหญ่เหลือเกิน จนฉันอดไม่ได้ที่จะรู้สึกตื้นตันใจค่ะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "If you attune to leynode nine, you can teleport back here any time you want.",
+      "text": "ถ้าคุณทำความคุ้นเคยและเปิดใช้งานเลย์โหนดหมายเลขเก้าแล้ว คุณจะสามารถเทเลพอร์ตกลับมาที่นี่เมื่อไหร่ก็ได้ตามต้องการเลยครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "You can also use it to teleport to other locations in Solution Nine. It makes it easy to get around.",
+      "text": "แถมยังใช้เทเลพอร์ตไปยังจุดต่างๆ ในโซลูชันไนน์ได้อีกด้วย ช่วยให้เดินทางไปมาได้สะดวกรวดเร็วมากเลยครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "That's the mode of travel that utilizes aether currents, yes? We had the same in my time, but when the Storm Surge broke out, such nodes were sealed off to prevent enemy use.",
+      "text": "นั่นคือวิธีการเดินทางที่ใช้ประโยชน์จากกระแสของเอเธอร์สินะคะ? ในยุคสมัยของฉันก็มีระบบแบบนี้เหมือนกันค่ะ ทว่าเมื่อสงครามพายุสายฟ้าประทุขึ้น โหนดเหล่านั้นก็ถูกสะกดปิดลงทั้งหมดเพื่อป้องกันไม่ให้ศัตรูนำไปใช้ประโยชน์"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "And after the war, the aetheric balance across the entire world had collapsed. Not only was travel outside the barrier ill-advised, the act of teleportation itself had become dangerous. We had to abandon the nodes altogether.",
+      "text": "และหลังสงครามสิ้นสุดลง สมดุลเอเธอร์ทั่วทั้งโลกก็พังทลายลงอย่างสิ้นเชิง ไม่เพียงแต่การเดินทางออกนอกบาเรียจะเป็นเรื่องที่ไม่สมควรทำเท่านั้น ทว่าแม้แต่การเทเลพอร์ตเองก็กลายเป็นเรื่องที่อันตรายมาก จนสุดท้ายพวกเราก็จำเป็นต้องปล่อยทิ้งโหนดเหล่านั้นไปเลยล่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "'Tis heartening to see them available again for the use of one and all...",
+      "text": "ยินดีเหลือเกินค่ะที่ได้เห็นมันกลับมาใช้งานได้สะดวกสบายสำหรับทุกคนอีกครั้งในเวลานี้..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "In the government sector, there's a counter where citizens can get matched to jobs.",
+      "text": "ในเขตการปกครองจะมีเคาน์เตอร์สำหรับช่วยจัดหางานที่เหมาะสมให้แก่ชาวเมืองอยู่ครับ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "There's also a soul exchange, but no one goes there much these days since there aren't many souls in circulation.",
+      "text": "นอกจากนี้ยังมีจุดแลกเปลี่ยนดวงวิญญาณด้วยนะครับ แต่ช่วงนี้แทบไม่มีใครแวะเวียนไปใช้บริการเลย เพราะดวงวิญญาณที่หมุนเวียนอยู่ในระบบมีเหลือน้อยเต็มทีแล้วครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm unsure how I feel about regulators and the treatment of souls as a resource...",
+      "text": "ฉันเองก็ไม่ค่อยแน่ใจนักว่าจะรู้สึกยังไงดีกับเรื่องเครื่องเรกูเลเตอร์ และการมองว่าดวงวิญญาณเป็นเพียงทรัพยากรชิ้นหนึ่ง..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I understand the grief of those who have lost loved ones, and the desire to escape the sorrow of death.",
+      "text": "ฉันเข้าใจดีถึงความเศร้าโศกเสียใจของคนที่ต้องสูญเสียบุคคลอันเป็นที่รัก และความปรารถนาที่จะหนีพ้นไปจากความทรมานของความตาย"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even so, I would never wish to forget. My parents, Otis, Zelenia...I want to remember them all. I am reluctant to impose my personal beliefs upon others, though...",
+      "text": "ถึงอย่างนั้น สำหรับตัวฉันแล้ว ฉันไม่มีวันอยากจะลืมเลือนไปหรอกค่ะ... ทั้งคุณพ่อคุณแม่ โอทิส เซเลเนีย... ฉันต้องการจดจำพวกเขาทุกคนเอาไว้ ทว่าฉันก็ไม่อาจจะเอาความเชื่อส่วนตนนี้ไปตัดสินหรือบังคับให้ผู้อื่นทำตามได้หรอกนะคะ..."
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "Thanks for your help, Forename . I hope Queen Sphene─er...I mean, just Sphene─will feel at home here one day.",
+      "text": "ขอบคุณสำหรับความช่วยเหลือนะครับพี่ [ชื่อ] ผมหวังเหลือเกินว่าวันหนึ่งคุณราชินีสฟีน... เอ่อ หมายถึง คุณสฟีน จะสามารถรู้สึกว่าที่นี่เป็นเหมือนบ้านของเธอได้อีกครั้งนะครับ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The joy of spying stars between faint gaps in the clouds is absent here, but 'tis a fine thing to be sheltered from the thunder and rain.",
+      "text": "แม้ที่นี่จะไร้ซึ่งความรื่นรมย์ของการเฝ้ามองดวงดาวผ่านรอยแยกสลัวท่ามกลางหมู่เมฆ ทว่าการได้อยู่ในที่ที่ปลอดภัยจากพายุฝนและฟ้าร้องก็นับเป็นเรื่องที่ดีมิใช่น้อยเลยล่ะค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sorry about that, I got a little carried away with the conversation.",
+      "text": "ขอโทษทีนะ ฉันคุยเพลินจนลืมเวลาไปหน่อยน่ะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "It's alright. Forename and I told her about the places we can see from here.",
+      "text": "ไม่เป็นไรหรอกครับ พี่ [ชื่อ] กับผมช่วยกันอธิบายทิวทัศน์รอบตัวที่มองเห็นจากตรงนี้ให้คุณสฟีนฟังไปบ้างแล้วครับ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Really? That's great!",
+      "text": "จริงเหรอ? ดีจังเลย!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Right then, why don't we stroll through the residential sector and then stop at Mosaic? We can take a break there.",
+      "text": "เอาละ งั้นพวกเราไปเดินเล่นแถวเขตที่อยู่อาศัย แล้วค่อยแวะพักเหนื่อยหาอะไรดื่มที่คาเฟ่โมเสกกันดีไหม?"
+    },
+    {
+      "character": "Delia",
+      "text_en": "Welcome to Mosaic. When you're ready to order, just let me know.",
+      "text": "ยินดีต้อนรับสู่โมเสกค่ะ พร้อมสั่งเครื่องดื่มเมื่อไหร่ แจ้งฉันได้เลยนะคะ"
+    },
+    {
+      "character": "Gulool Ja",
+      "text_en": "What should I get...?",
+      "text": "ผมจะสั่งอะไรดีน้า...?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I understand this café was named for the different races, who appear as a mosaic of colors when they gather here. What an inspired idea.",
+      "text": "ฉันเข้าใจว่าคาเฟ่แห่งนี้ได้ชื่อมาจากความหลากหลายของเผ่าพันธุ์ต่างๆ ที่พอมารวมตัวกันแล้วดูราวกับภาพโมเสกหลากสีสัน ช่างเป็นความคิดสร้างสรรค์และงดงามเหลือเกินค่ะ"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "We've been walking for a while, so let's rest our feet, eh? Drinks are on me.",
+      "text": "พวกเราเดินเท้ากันมาพักใหญ่แล้ว มานั่งพักขาคุยกันหน่อยเถอะนะ มื้อนี้ฉันเป็นเจ้ามือเลี้ยงน้ำเอง"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Sphene, Forename ─the two of you go ahead and order first.",
+      "text": "สฟีน [ชื่อ] พวกเธอสองคนสั่งก่อนได้เลยนะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "So many different drinks. I can't decide...",
+      "text": "เครื่องดื่มมีให้เลือกละลานตาไปหมดเลยค่ะ ฉันตัดสินใจเลือกไม่ถูกเลย..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'll have this, please. A Dali coffee.",
+      "text": "งั้นขอรับเป็นเมนูนี้ก็แล้วกันค่ะ กาแฟดาลีค่ะ"
+    },
+    {
+      "character": "Delia",
+      "text_en": "Of course. I should warn you, though─Dali beans are an older variety known for their strong bitterness. Still want one?",
+      "text": "รับทราบค่ะ แต่ขออนุญาตเตือนไว้ก่อนนะคะ กาแฟสายพันธุ์ดาลีเป็นพันธุ์โบราณที่ขึ้นชื่อเรื่องความขมจัดมากเลยล่ะค่ะ ยังจะรับเมนูเดิมอยู่ไหมคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The bitterness is the best part.",
+      "text": "รสชาติขมเข้มนั่นแหละค่ะคือส่วนที่ดีที่สุดของมัน"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Have you decided as well?",
+      "text": "คุณเลือกได้หรือยังคะ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Two Dali coffees, then. The beans make for dark roasts that are quite aromatic. I find the sharp flavor invigorating, though a dash of milk can be a wonderful complement.",
+      "text": "งั้นรับเป็นกาแฟดาลีสองแก้วค่ะ เมล็ดกาแฟชนิดนี้พอนำไปคั่วเข้มแล้วจะมีกลิ่นหอมหวานชวนดมมากเลยล่ะค่ะ รสชาติขมจัดจ้านช่วยให้รู้สึกกระปรี้กระเปร่าขึ้นมาได้ทันตาเห็น แต่ถ้าเหยาะนมลงไปสักนิด ก็จะช่วยชูรสชาติให้ละมุนกลมกล่อมขึ้นมาได้เป็นอย่างดีเลยล่ะค่ะ"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Vegetable juice... Otis used to drink it all the time...",
+      "text": "น้ำผักงั้นเหรอคะ... เมื่อก่อนคุณโอทิสก็ดื่มมันแทบจะตลอดเวลาเลยล่ะค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Ah, I understand completely. The allure of something sweet can often be too strong to resist.",
+      "text": "อ๊ะ ฉันเข้าใจความรู้สึกเป็นอย่างดีเลยล่ะค่ะ เสน่ห์อันยั่วยวนของความหวานชื่นใจ บางครั้งมันก็ยากเกินกว่าจะหักห้ามใจไม่ให้ลิ้มลองได้จริงๆ"
+    },
+    {
+      "character": "Delia",
+      "text_en": "I'll have your drinks ready in a moment!",
+      "text": "รอเครื่องดื่มสักครู่เดียวนะคะ จะรีบนำมาเสิร์ฟให้เดี๋ยวนี้เลยค่ะ!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "They're certainly well-liked. It's a wonderful feeling, spending time with the people...",
+      "text": "ชาวเมืองดูจะรักคาเฟ่นี้กันมากเลยนะคะ การได้ใช้เวลาแวดล้อมไปด้วยผู้คนมากมายแบบนี้ ชวนให้รู้สึกดีเหลือเกินค่ะ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "But they're not my people anymore, are they? Their city, their way of life...even the ground upon which they tread... I am a stranger to it all...",
+      "text": "ทว่า... พวกเขาก็ไม่ใช่ผู้คนของฉันอีกต่อไปแล้วใช่ไหมคะ? เมืองของพวกเขา วิถีชีวิตของพวกเขา... หรือแม้แต่ผืนแผ่นดินที่พวกเขากำลังย่ำเหยียบอยู่... ตัวฉันกลับกลายเป็นเพียงคนแปลกหน้าสำหรับสิ่งเหล่านั้นไปเสียแล้ว..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "The weight of the long years is finally beginning to sink in...",
+      "text": "น้ำหนักอันมหาศาลของวันเวลาที่ผ่านพ้นไป... ในที่สุดก็เริ่มกดทับและสลักลึกเข้ามาในใจของฉันเสียที..."
+    },
+    {
+      "character": "Curious Boy",
+      "text_en": "Your Majesty? Is that you?",
+      "text": "ฝ่าบาท? นั่นฝ่าบาทใช่ไหมครับ?"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I... Um... Well...",
+      "text": "ฉัน... เอ๋... คือ..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I'm sorry to disappoint, but I am not Queen Sphene...though I'm often told we look alike.",
+      "text": "ต้องขออภัยที่ทำให้ผิดหวังด้วยนะคะหนุ่มน้อย ฉันไม่ใช่ราชินีสฟีนหรอกค่ะ... ถึงจะมีคนทักบ่อยๆ ว่าพวกเราหน้าตาคล้ายกันมากก็เถอะนะ"
+    },
+    {
+      "character": "Boy's Father",
+      "text_en": "There you are! How many times have I told you not to go off alone!?",
+      "text": "อยู่นี่เอง! พ่อบอกตั้งกี่ครั้งแล้วว่าอย่าแอบหนีมาเดินเที่ยวคนเดียวน่ะ!?"
+    },
+    {
+      "character": "Boy's Father",
+      "text_en": "I'm sorry he bothered you, ma'am. Come now, we're going home!",
+      "text": "ต้องขอโทษด้วยนะครับคุณผู้หญิงที่ลูกชายตัวแสบเข้ามาป่วน ตอนนี้กลับบ้านกับพ่อเดี๋ยวนี้เลยนะ!"
+    },
+    {
+      "character": "Curious Boy",
+      "text_en": "Bye, not-Queen Sphene!",
+      "text": "บ๊ายบายครับ คุณคนที่ไม่ใช่ราชินีสฟีน!"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "I do not know that boy, nor does he know me. No one does.",
+      "text": "ฉันไม่รู้จักเด็กผู้ชายคนนั้น และเขาก็ไม่รู้จักฉัน ไม่มีใครรู้จักฉันเลย..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Another harsh reminder that I have no place here...",
+      "text": "เป็นอีกหนึ่งสิ่งย้ำเตือนอันโหดร้ายว่า... ตัวฉันไม่มีที่ยืนอยู่ในเพลานี้เลย..."
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Yet no matter how much things have changed, I am happy. I am. For Alexandria has endured. Our sacrifice was not in vain.",
+      "text": "ทว่า ไม่ว่าสิ่งต่างๆ จะแปรเปลี่ยนไปเพียงใด ฉันก็มีความสุขลึกๆ ในใจค่ะ... มีความสุขจริงๆ เพราะในที่สุดอเล็กซานเดรียก็ยังคงดำรงอยู่ การอุทิศตนปกป้องของพวกเราไม่ได้สูญเปล่าอย่างไร้ค่า"
+    },
+    {
+      "character": "Sphene",
+      "text_en": "Even so, I cannot help but feel lonely...",
+      "text": "ทว่า... ถึงอย่างนั้น ฉันก็อดรู้สึกอ้างว้างในใจไม่ได้อยู่ดีค่ะ..."
+    }
+  ]
+}
