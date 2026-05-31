@@ -1,0 +1,472 @@
+{
+  "id": "a-knights-calling",
+  "wiki_path": "/wiki/A_Knight%27s_Calling",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/8/8f/A_Knight%27s_Calling_Image.png/280px-A_Knight%27s_Calling_Image.png",
+  "patch": "3.0",
+  "title_en": "A Knight's Calling",
+  "level": "57",
+  "location": "Foundation(X:12.9,Y:11.4)",
+  "npc_start": "Hilda",
+  "dialogues": [
+    {
+      "character": "Hilda",
+      "text_en": "We've been working in secret to undermine the Holy See and the High Houses. That much I'll acknowledge."
+    },
+    {
+      "character": "Hilda",
+      "text_en": "But this nonsense about us throwing wide the gates for heretics is just that: nonsense."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "If not you, then who ?"
+    },
+    {
+      "character": "Hilda",
+      "text_en": "You Temple Knights, of course. Reckoned if was your beloved Ser Aymeric's doing at first, but the I heard how he lost his head. My next best guess would be the Heavens' Ward."
+    },
+    {
+      "character": "Hilda",
+      "text_en": "That way they'd have the perfect excuse to go door-to-door through the Brume. Slaughter the heretics and their \"sympathizers\" in one fell swoop."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "But the Heavens' Ward's scheme did not account for Lady Iceheart's intervention...and so they have been forced to improvise."
+    },
+    {
+      "character": "Hilda",
+      "text_en": "A fine bloody mess, ain't it? But the die is cast. So what's the plan?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "We must divert the attention of the High Houses away from the city, and to do that, we need the cooperation of your allies in their service."
+    },
+    {
+      "character": "Hilda",
+      "text_en": "...And what makes you think I have friends in high places?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "You would be fools not to, given your goals. Lowborn knights are ideal recruits."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Most swore fealty only out of desire for a better life. If offered an opportunity to shed the yoke and live for themselves, who among them would not at least be tempted to take it?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Rare is the man eager to die for a cause he does not hold dear. But it need not come to that this day. If they and their fellow knights are deployed afield to deal with a new threat - a massing of heretics, for example -t hen they will be unable to join in the defense of the Vault."
+    },
+    {
+      "character": "Hilda",
+      "text_en": "Huh. Spread false reports of an attack to get 'em out of harm's way, you mean?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The city will not soon forget the heretics' last assault. If the High Houses believe another attack is imminent, they will have no choice but to act."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Can it be done?"
+    },
+    {
+      "character": "Hilda",
+      "text_en": "Can we trick them into leaving Ishgard? Aye. Can we keep them out for long? Not bloody likely. Make sure you're ready before I sent word, because you won't get a second chance at this."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then it is decided. To the vault! The archbishop must be held to account!"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "And the lord commander granted his liberty!"
+    },
+    {
+      "character": "Beggarly Fellow",
+      "text_en": "So, er...what happens if we win?"
+    },
+    {
+      "character": "Filthy Fellow",
+      "text_en": "You seriously mean to attack the Vault, then, do you? As in, charge in there screaming and swinging steel? Bloody hells..."
+    },
+    {
+      "character": "Hilda",
+      "text_en": "One chance only, Forename . Make it count."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Gods help me, I think we just might do this..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Did you see the way she wielded that weapon of hers? Maybe I should get one for my own protection..."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "With allies such as these, we cannot fail!"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Hearken to me, everyone! We have two objectives: rescue Ser Aymeric and apprehend the archbishop. We will therefore divide our forces into two parties."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Estinien and I will make ready to breach the underground gaol and search for the lord commander. We will not move, however, until the second party has entered the Vault."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I speak of your party, Warrior of Light, together with Lord Haurchefant and Master Alphinaud. For this plan to succeed, you will need to fight your way into the highest levels of the Vault, even unto the archbishop's private chambers. When the Heavens' Ward realize what you intend, they will fly to their master's side, leaving only a token force to guard the gaol."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Temple Knights loyal to our cause have already secured the entrance to the Vault. Once you are within, they will signal to us. If all goes to plan, we shall rejoin you with Ser Aymeric and confront the archbishop together."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Is everyone clear as to their duties? Then let us do what must needs be done!"
+    },
+    {
+      "character": "Temple Knight Squire",
+      "text_en": "The others are in position, Master / Mistress Forename ."
+    },
+    {
+      "character": "Temple Knight Squire",
+      "text_en": "I will send word once you and your party have entered..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Twould seem we must again come to blows with the Heavens' Ward. We emerged from trial by combat relatively unscathed, but... I pray we are a match for the whole of their order."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "I would be lying if I said the idea of drawing my blade in the Vault does not give me pause..."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "But a knight lives to serve, and there is no greater calling for a knight than to save the life of his fellow man. If I must brandish sword and shield in those hallowed halls to do so, then so be it."
+    },
+    {
+      "character": "Temple Knight Squire",
+      "text_en": "Godsspeed, sir / miss . For Ser Aymeric, and for Ishgard."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I wish I still had some blood pearls..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must stop the archbishop before it's too late!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "For friends and countrymen!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Here to delay us, no doubt."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There's no time. We must force our way through them!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A knight of the Heavens' Ward!?"
+    },
+    {
+      "character": "Ser Adelphel Brightblade",
+      "text_en": "I trust you know your lives are forfeit."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Ser Adelphel Brightblade!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What sorcery is this?"
+    },
+    {
+      "character": "Ser Adelphel",
+      "text_en": "The power! It fills me!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Do not be disheartened, my friends. We must give it our all!"
+    },
+    {
+      "character": "Ser Adelphel",
+      "text_en": "Witness me!"
+    },
+    {
+      "character": "Ser Adelphel",
+      "text_en": "How was that?"
+    },
+    {
+      "character": "Ser Adelphel",
+      "text_en": "Let us see how you handle this!"
+    },
+    {
+      "character": "Ser Adelphel",
+      "text_en": "But... but how!?"
+    },
+    {
+      "character": "Ser Adelphel",
+      "text_en": "Just as Ser Charibert said..."
+    },
+    {
+      "character": "Ser Adelphel",
+      "text_en": "Withdraw to the Inner Sanctum!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "How did he transform into that monstrosity?"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "I fear we have little time to ruminate. Come, my friends!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The statues─they're alive!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "They would turn the Vault itself against us?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ser Grinnaux. I should have known you would be here."
+    },
+    {
+      "character": "Ser Grinnaux the Bull",
+      "text_en": "I'll cut you to pieces!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "You bested him once before. Together, we shall do so again."
+    },
+    {
+      "character": "Ser Grinnaux the Bull",
+      "text_en": "I will not yield to you!"
+    },
+    {
+      "character": "Ser Grinnaux",
+      "text_en": "I have the power!"
+    },
+    {
+      "character": "Ser Grinnaux",
+      "text_en": "Down with you!"
+    },
+    {
+      "character": "Ser Grinnaux",
+      "text_en": "Ahahahahahahaha!"
+    },
+    {
+      "character": "Ser Grinnaux",
+      "text_en": "Tremble before my might!"
+    },
+    {
+      "character": "Ser Grinnaux",
+      "text_en": "Hmph, I had you..."
+    },
+    {
+      "character": "Ser Grinnaux",
+      "text_en": "Well, time is on our side."
+    },
+    {
+      "character": "Ser Grinnaux",
+      "text_en": "We will meet again!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "His title as a knight of the Heavens' Ward is well earned."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "You fought well, my friend, but our mission is far from over."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Still no sign of the archbishop."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "He cannot be much farther."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Gargoyles!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'd expect nothing less from the Vault's defenses."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "He means to escape by airship?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We have to hurry!"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "Filthy rats!"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "Begone with you!"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "Come forth, my pretties!"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "Sickness must be purged!"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "And now the final curtain!"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "This shall be a mercy!"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "You disgust me!"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "How shall you fare against this, I wonder?"
+    },
+    {
+      "character": "Ser Charibert",
+      "text_en": "What!? No... NO!"
+    },
+    {
+      "character": "Charibert",
+      "text_en": "Our power...How can this be!?"
+    },
+    {
+      "character": "Zephirin",
+      "text_en": "Fall back!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Father, please!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "For a mercy, we were not too late."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Why must you do this, Father!?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Nidhogg is fallen! There is no need for further deception! Now is the time to renounce the lies which led us down this path - to start anew!"
+    },
+    {
+      "character": "Archbishop Thordan VII",
+      "text_en": "And tear down the very pillars of our society - our history, our values - everything we have built over a thousand years? <sigh> A fool to the last."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Look out!"
+    },
+    {
+      "character": "Archbishop Thordan VII",
+      "text_en": "Go. Azys Lla awaits."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Lord Haurchefant!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's no good... The wound is too deep. It refuses to mend..."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "You...you are unharmed? F-Forgive me... I could not bear the thought of...of..."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Oh, do not look at me so."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "A smile better suits a hero..."
+    },
+    {
+      "character": "Temple Knight Squire",
+      "text_en": "I...I know not what to say. The others, they...they are gathered at Fortemps Manor."
+    },
+    {
+      "character": "Temple Knight Squire",
+      "text_en": "For what it is worth, Master / Mistress Surname ... my condolences."
+    },
+    {
+      "character": "House Fortemps Guard",
+      "text_en": "The others are... Please enter, Master / Mistress Surname ."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "Don't. Please."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "A knight lives to serve. To protect. To sacrifice. There is no greater calling."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "Leave me to mourn, and give chase. For my son, and for the nation he loved. Go."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...His sacrifice shall not be forgotten."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "My...son..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "<sniffle> <sob> I'm sorry, I just... I can't..."
+    },
+    {
+      "character": "House Fortemps Manservant",
+      "text_en": "My lord..."
+    },
+    {
+      "character": "House Fortemps Steward",
+      "text_en": "What are we to do...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I...I could not stand there in silence, but..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "When all others had forsaken us, Lord Haurchefant took us in. Our beacon of hope in a world of darkness."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He did his utmost to raise our spirits, so that we might face our troubles with courage. With conviction."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So that we might face them as...as knights ..."
+    },
+    {
+      "character": "House Fortemps Steward",
+      "text_en": "I...I am sorry, Master / Mistress Forename , but I cannot..."
+    },
+    {
+      "character": "House Fortemps Manservant",
+      "text_en": "This...this is a black day for House Fortemps."
+    }
+  ]
+}

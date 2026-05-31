@@ -1,0 +1,548 @@
+{
+  "id": "heart-of-the-matter",
+  "wiki_path": "/wiki/Heart_of_the_Matter",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "Heart of the Matter",
+  "level": "84",
+  "location": "Mare Lamentorum(X:28.7,Y:8.9)",
+  "npc_start": "Growingway",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "I am beginning to grow tired of these games."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If some scheme was afoot, surely Urianger would be the first to see through it."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Then again, he does tend to give others the benefit of the doubt..."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "Oh, what to do, what to do... I promised Livingway I would help, but..."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "No. I promised I'd help, so that's what I'll do!"
+    },
+    {
+      "character": "Growingway",
+      "text_en": "The archives are on the second floor of the main plaza, the eastern wing. Follow me!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I suspect the Loporrits are up to something, but if there is aught to be learned of the Final Days, I think it best we play along. For now, at least."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What other knowledge do you suppose we could glean from their archives?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The architecture of this place is impressive, though more than a little confusing to navigate."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Is it too much to ask for clearly marked exits? Or a map, perhaps?"
+    },
+    {
+      "character": "Growingway",
+      "text_en": "The archives are right through this door, but it seems to be locked."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "I guess we'll just have to go and find whoever has the key."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Growingway, enough."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If you have naught else to tell us of the Final Days, you need only say so. We can ill afford to be wasting time here, as you well know."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Did you yourselves not tell us we must act quickly?"
+    },
+    {
+      "character": "Growingway",
+      "text_en": "Yes. Yes, we did, but..."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "The moon was to be a perfect paradise for the people of Etheirys, and we're running out of time to make everything ready for their arrival."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "We hoped you'd see the wonders we have to offer, but you've found nothing but faults and flaws in our work. Only one of you saw our potential, so you others must be kept here."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, so that's Livingway's game. Run us about in circles and, failing that, lock us away so we can't put the plan at risk."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Everyone except Urianger."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "He understands what is at stake... What must be done."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I fear you've misjudged us, Growingway. Never have we decried the notion of using the moon as a means of escape."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That said, my heart breaks at the thought of abandoning Etheirys and her reflections to their doom. If there is a way to avert the Final Days, I wish to find it. We all do."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We may fail, but our efforts would never be at the expense of your plans."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "But why would you take that risk!?"
+    },
+    {
+      "character": "Growingway",
+      "text_en": "There's no room for ifs and maybes now."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "The people of Etheirys will escape here to the moon. They'll be safe, and we'll finally get to see all their happy, smiling faces."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "I'm sorry, but we can't let you leave. We just can't."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "Do what you must, but...try not to hurt them."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "I'll be back in a moment. Don't do anything rash while I'm gone."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If we dally, they'll overwhelm us with sheer numbers. I say we knock these ones out, split up, and make our way to the exit."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Agreed. Let us reconvene where Argos awaits outside."
+    },
+    {
+      "character": "Loporrit A (text bubble)",
+      "text_en": "S-Surrender!"
+    },
+    {
+      "character": "Loporrit B (text bubble)",
+      "text_en": "You won't escape!"
+    },
+    {
+      "character": "Loporrit C (text bubble)",
+      "text_en": "Seize him / her !"
+    },
+    {
+      "character": "Loporrit A (text bubble)",
+      "text_en": "Blargh!"
+    },
+    {
+      "character": "Loporrit B (text bubble)",
+      "text_en": "We need...reinforcements..."
+    },
+    {
+      "character": "Loporrit C (text bubble)",
+      "text_en": "Ow, that hurt!"
+    },
+    {
+      "character": "Loporrit D (text bubble)",
+      "text_en": "We cna't lose!"
+    },
+    {
+      "character": "Loporrit E (text bubble)",
+      "text_en": "You're in for it now!"
+    },
+    {
+      "character": "Loporrit F (text bubble)",
+      "text_en": "We're not done yet!"
+    },
+    {
+      "character": "Loporrit D (text bubble)",
+      "text_en": "He's / She's too powerful...!"
+    },
+    {
+      "character": "Loporrit E (text bubble)",
+      "text_en": "Urgh!"
+    },
+    {
+      "character": "Loporrit F (text bubble)",
+      "text_en": "Too...strong..."
+    },
+    {
+      "character": "Growingway",
+      "text_en": "Please, come quietly!"
+    },
+    {
+      "character": "Growingway",
+      "text_en": "We have to...save them..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "There you are. Didn't rough them up too badly, did you?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Good. You're here."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We must hurry to the Watcher's Palace and find Urianger."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...And what, pray tell, do we seek at the Watcher's Palace?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh, come off it, friend! You know full well why we're here."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "The time has come for you to return to Etheirys and help your brethren prepare for their journey here and beyond!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Forgive me, Livingway, but I cannot in good conscience proceed with this plan."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "Huh!? But what about the Final Days? The death and the doom!? We have to hurry before it's too late!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Your unflagging commitment to your duty is endearing, to say the least."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Be at ease. They bear you no grudge, nor do I. How could we, having come to understand your purpose?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For millennia, you and yours worked tirelessly towards the singular purpose of this heavenly vessel's construction. An arduous feat by any measure."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis clear you have spared no effort. Why, your very names are a testament to your dedication."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Our...our names? I'm not sure I understand what you're getting at..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Names are an expression of the self ─ a declaration of one's hopes and aspirations."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Your use of contemporary, uncomplicated nomenclature doth ensure clarity of purpose."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "There can be no doubt that your love for the people of Etheirys is boundless and pure."
+    },
+    {
+      "character": "Singingway",
+      "text_en": "Yes, yes! A most mellifluous phrasing!"
+    },
+    {
+      "character": "Singingway",
+      "text_en": "We Loporrits were born of Hydaelyn's love for Etheirys."
+    },
+    {
+      "character": "Singingway",
+      "text_en": "That shining, shimmering blue jewel. Brightest star in the sky! Brimming with life and possibilities."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "For as long as I can remember I've toiled in anticipation of the day when this vessel might be needed."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "All I've ever wanted was to meet those She cherished so dearly. To serve and serve well!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "That goes for all of us, don't you see? So help us ─ help us help them! Lead them here, where we can keep them safe!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "If there's anything wrong with what we've built, we'll fix it! We'll make it right!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Your works want not for repair. Yet there remaineth much for you to learn of men, and your own kin besides."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Singingway. Thy name bespeaketh more than the simple marriage of rhythm and rhyme."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The songs of Etheirys are beyond counting, and span the length and breadth of emotion."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Maps are monuments to man's pioneering spirit and his devotion to charting the furthest reaches of our star."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Many have devoted their lifetimes to exploratory pursuits. To venture unto the highest mountains and the deepest oceans, in search of unknown frontiers."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And thou, my friend. I... Hmm. I do not think we have met."
+    },
+    {
+      "character": "Puddingway",
+      "text_en": "My...my name is Puddingway..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Puddingway... Yes, indeed. A name of deep and abiding significance, I am sure, but one perhaps better communicated through delicious deeds than tasteless words."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A judicious application of fae magicks at a later juncture may be appropriate..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And Livingway. 'Tis no easy feat to convey the significance of thy moniker."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Hmmm... When I was a bookish boy, a dear friend of mine was fond of peppering me with questions as I read ─ to my occasional annoyance. One day I posed to her a question of mine own ─ what doth it mean to live?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "After much contemplation, she proffered this answer."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The anticipation of a half-read story's conclusion. The hope today's mistake may serve as tomorrow's lesson."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The wish that a new acquaintance may one day call thee friend. She believed it to be all these moments and more."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "I...I want to understand, but..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I, too, still labor to find mine own answer. 'Twould be my pleasure to assist you and yours in embarking on a journey of self-discovery and enlightenment."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For thee."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Ink as blue as the waters of Etheirys. Made in haste, though I assure thee the quality has not suffered for it."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The people need not be persuaded by honeyed words. Nay, I have faith they shall do what is right in due course."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Until they do, I beg your patience, friends. And with that ink let us fill the empty pages of Livingway's compendium."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "An open exchange of ideas will surely afford you all a better understanding of modern man ─ and with it, ideas for improvements and renovations."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "But more importantly, it shall empower us to together find a way forward."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "I hope you're right. Thank you for this lovely gift."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "There you have it. I shall remain with the Loporrits to ensure that all is in order."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though we must needs prepare for every eventuality, you would all agree that the evacuation of our star is a last resort."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To accept failure is to accept the demise not only of our star, but that of Ryne's. Of all reflections, and the souls that call them home."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Which is why I have every faith that you shall fight to the last. That such drastic measures may prove unnecessary."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Should the worst come to the worst ─ and I pray deeply that it won't ─ I'll take comfort in knowing preparations were made under your watchful eye."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Aye, thou mayest be assured that if calamity cometh, not a soul will be left behind. “If” being the operative term."
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "That flower... How came it into your possession?"
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "How very like Her."
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "Guided by its light, you may come to know Her true intentions. Intentions which remain a mystery even to us."
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "In our time, we called it “Elpis”... You would do well to remember the name."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Er, I hate to interrupt, but...I feel like I need to make amends for all the secrecy."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Think nothing of it ─ we haven't been the most gracious of guests. Do convey our apologies to Growingway and the others."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "But of course! And when next we welcome more guests from Etheirys, we'll have learned to be much more hospitable hosts!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh, and circling back to the matter of inappropriate secrecy, we ought to discuss our benefactors."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Agreed. The Sharlayan Forum, yes?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "What!? How did you know!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The more I heard, the more obvious it became. The Forum's aims align closely with those of your anonymous patrons. “A telling coincidence” would be an understatement."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though had we not taken it upon ourselves to peruse certain restricted tomes in Labyrinthos, we might still be unaware of their plans."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...But let us continue this discussion upon our return. I daresay we have kept Alphinaud and the others waiting long enough."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "There is little I can do to help stop the Final Days, but should you need to know of star traversal, look no further!"
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "Such knowledge I can offer in abundance, so do not hesitate if you find yourself wanting."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Well, that was all rather embarrassing, wasn't it? At least we're on the same page now ─ people and Etheirys. We'll save both, or at least give it a good try."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Oh, we'll be all ears. And you know we can be!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "I will. I'm sure he'll be glad to hear it."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Well, it's not as if we've been waiting twelve thousand years to meet the people of Etheirys. Oh wait, we have! But that's neither here nor there. Under Urianger's tutelage, we'll strive to become more hospitable hosts, and see that the moon is fully equipped to meet the needs of its potential passengers."
+    },
+    {
+      "character": "Puddingway",
+      "text_en": "Nice to meet you... Name's Puddingway."
+    },
+    {
+      "character": "Puddingway",
+      "text_en": "Sorry again for all the trouble... We promise we'll do better. Honest."
+    },
+    {
+      "character": "Singingway",
+      "text_en": "The others will be so happy to hear Urianger is going to stay and teach us all about Etheirys."
+    },
+    {
+      "character": "Singingway",
+      "text_en": "We'll have to be careful not to get too distracted by his lessons ─ there's still maintenance to carry out, after all."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Loporrits think so highly of the people of Etheirys, yet it seems this evacuation plan is the only way they know to express their adoration."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If we had been more clear in our intentions from the start, mayhap we could have avoided this wrinkle..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Something to keep in mind in future."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A declaration of hopes and aspirations... I hadn't thought of it that way before."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Loporrits may be in good hands now, but that doesn't change the fact that their plan is a last resort I'd rather not employ."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Let's see it doesn't come to that. For the First and all the other reflections."
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "I chanced to spy you crossing the chasm, and I feared something was amiss."
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "But all is well, and more importantly, I have been given the opportunity to behold a wonderful sight."
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "Keep the Elpis close, and its light will be your guide."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Twas a relief to see Livingway was pleased with my gift of ink."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "“To serve and serve well”... Though their knowledge may be lacking, their boundless love is a blessing without peer."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "It will be no easy task to prepare them for what must needs be done, but gladly do I embrace this duty...even if it doth necessitate that we part ways for a time."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Forgive me my absence, but I have the utmost faith in you. In all our fellow Scions. When next I return to Etheirys, I pray I find you all in good health and good spirits."
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "id": "rhalgrs-beacon",
+  "wiki_path": "/wiki/Rhalgr%27s_Beacon",
+  "wiki_image_url": null,
+  "patch": "4.0",
+  "title_en": "Rhalgr's Beacon",
+  "level": "67",
+  "location": "The Fringes(X:9.3,Y:11.3)",
+  "npc_start": "Raubahn",
+  "dialogues": [
+    {
+      "character": "Pipin",
+      "text_en": "...You are ready, yes? Then I pray you inform Father."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "There you are—and there is Commander Kemp, I see. I know you are eager to speak of our next move, but we would first hear more of your last. Tell us of your deeds in Doma."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Pray join me in welcoming our Scion allies, but recently returned from their mission to the Far East. We have been most eager to hear a firsthand account of your time there, eventful as we understand it was."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Very well, allow me..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "...Such victories are rarely won without sacrifice. But the prize is worth the price. Doma free, after all these years."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Bloody hells... Flooding their own castle for a better chance at victory... We could learn a thing or two from that lad."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Our agents report a flurry of communications between Garlemald and Ala Mhigo in recent days. 'Tis plain they are in the midst of deliberating their response to the Doman uprising."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Good. Every imperial unit in occupied territory will be on the lookout for civil unrest. The fear of leaving critical locations undefended will make commanders think twice about committing their forces—giving us a chance to seize the initiative."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "We have a chance, aye—mayhap the last one we're ever gonna get. While we've done our best to rebuild the Resistance, the imperials have only increased their efforts to root out sympathizers."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "If we keep on playing for smaller prizes, it's only a matter of time before they crush us again. And that we won't come back from."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "A swift advance seems best for all concerned. Not least poor Mistress Krile."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Then let us waste no more time. The campaign for Ala Mhigan liberation begins now!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Our first objective will be to capture Castellum Velodyna. Take the bridge, and the whole Fringes will be ours. From there, we can push east towards the Peaks."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I name this operation Rhalgr's Beacon. For as Rhalgr once sent His star to guide our ancestors to these lands, so too shall it see us home!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The success of this operation is paramount. So long as the Empire holds Castellum Velodyna, the main host cannot advance."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Zenos knows this, which is why he has ordered Fordola and her men to see to the bridge's defense."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "So we'll get to fight the Skulls again..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The Butcher is not to be underestimated. She is decisive, ruthless, and feared by foes and friends alike. But we have a plan to defeat her."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "First, we send an Alliance force down the main road, signaling our intention to mount an all-out assault. The garrison will muster their forces and prepare for a protracted battle..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "However, they will soon find that we are ill prepared for their counterattack. Our men will begin to break ranks and flee."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "I see...Show them your backs and give them a target too tempting not to pursue."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Aye, Fordola is too aggressive not to press the advantage. She will order her men to give chase."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We lure them as far as East End, where the commanders will rally their forces and attempt to hold their ground. If all goes to plan, we should be able to keep the greater part of their garrison occupied."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "...Leaving us to tackle the bridge's remaining defenders. Very clever, I'm sure. But what are we to do if the imperials smell a rat and return before we've taken the place?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I don't need you to take Velodyna, Commander Kemp. All I need is for you to fly your flag from its tower."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You mean to trick them into believing that the bridge has fallen!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Aye. We convince them Velodyna is lost, hit them hard with our reinforcements, and watch them go running for the hills."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Then, when the dust has settled, we regroup at the castellum. What say you?"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "It's a bold plan...but a good one. We'll do it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In that case, we shall support both the Resistance and the Alliance forces."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename , Lyse, Arenvald—I ask that you accompany Commander Kemp. Alisaie and I will remain with the Flame General."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "We will return to Rhalgr's Reach and make our preparations. As soon as they are complete, we will join you in the field. Godsspeed!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Conrad wasn't kidding when he said they'd made a lot of progress while we were away..."
+    },
+    {
+      "character": "M'naago",
+      "text_en": "I can't tell you how long I've been waiting for this! It's going to be grand!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "If it takes a hundred battles like this to recur Krile, then I'll fight in every one!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "In case you haven't noticed, the flag flying above Velodyna is bloody massive. It'd take a dozen men to change it, and far too long besides. But there's no need for all that—right, M'naago?"
+    },
+    {
+      "character": "M'naago",
+      "text_en": "Not so long as I have my griffin and a satchel of glamour prisms, no!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Arenvald, you're in charge of the runners between us and the Alliance. No linkpearls. Lyse, I want you to look in on the squadrons—make sure they've got everything they need. Everybody clear?"
+    },
+    {
+      "character": "All",
+      "text_en": "Aye, sir!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "All forces are to depart for Castellum Corvi when ready. That will be all. Forename , stay with me a moment, if you would."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "There's a few men I'd like you to look in on personally. Each of them has lost people, and I can tell that it weighs on their hearts..."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "There have been a lot of new faces since last you were here, so its best if I just tell you where to look. One's an officer you'll find in the Barber, another's an older fellow who likes to pass the time on the shore of Starfall. The last is a fiery young lad from Little Ala Mhigo, who I'm told trains by himself by the river to the Fringes. You'll know them when you see them. Come and find me when you've finished."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "I have a few things to see to here, so I should still be around when you've had a word with those three men I mentioned."
+    },
+    {
+      "character": "Germainne",
+      "text_en": "I thought long and hard about walking away after what happened to my father. But the others, they convinced me it was better to stay the course. That's what my father would've wanted, after all..."
+    },
+    {
+      "character": "Lambin",
+      "text_en": "Been a while since you came through, aye? As you may have noticed, things are looking up in the Reach!"
+    },
+    {
+      "character": "Ahelissa",
+      "text_en": "For a while after the attack, folks ate their food in silence. Slowly but surely, though, things have gotten back to normal. They're starting to believe again..."
+    },
+    {
+      "character": "Ranulf",
+      "text_en": "The sutlers have pulled out all the stops and managed to secure us some new supplies. It may not be by much, but things are steadily improving."
+    },
+    {
+      "character": "Hruodland",
+      "text_en": "I'm not one for politics, but I do have particular talents that I thought the Resistance could put to use─talents I have acquired over a very long career."
+    },
+    {
+      "character": "Odila",
+      "text_en": "They'll not surprise us again, oh no. We'll be ready next time─my cannons too!"
+    },
+    {
+      "character": "Berinhard",
+      "text_en": "The tide's turning, I can feel it! I've got to heal, got to get better...got to get back to the front with the others..."
+    },
+    {
+      "character": "Hughoc",
+      "text_en": "All these new recruits and allies means that we'll need even more herbs! I've got to pick up the pace!"
+    },
+    {
+      "character": "Mathild",
+      "text_en": "All of us are eager for a chance to strike back at the imperials. Our day is coming!"
+    },
+    {
+      "character": "Tebbe",
+      "text_en": "Wish I could say it's gotten a lot better in your absence, but we still have trouble obtaining even the most basic supplies. Still, we make do with what we've got."
+    },
+    {
+      "character": "Carma",
+      "text_en": "Fassster! Fassster! Look them in their eyes and ssstrike them in their heartsss!"
+    },
+    {
+      "character": "Swarthy Resistance Fighter",
+      "text_en": "I say, if it isn't the lad / lass who helped me find the Ward I misplaced!"
+    },
+    {
+      "character": "Swarthy Resistance Fighter",
+      "text_en": "Ah, but there I go again treating you as an equal! It wasn't till after you'd gone that one of my comrades pulled me aside and told me it was only the bleedin' hero of Eorzea who'd taken time out of his / her busy day to help me!"
+    },
+    {
+      "character": "Swarthy Resistance Fighter",
+      "text_en": "Well, what is done is done. But know that I will fight with every onze of my strength in the coming battle, and the next and the next! Mayhap that will serve to repay the favor. Fare you well!"
+    },
+    {
+      "character": "Ala Mhigan Brigade Officer",
+      "text_en": "Wait, I know you! [Twin Adders GC Rank] Surname of the Twin Adders / [Maelstrom GC Rank] Surname of the Maelstrom / [Immortal Flames GC Rank] Surname ! It is an honor to meet you!"
+    },
+    {
+      "character": "Ala Mhigan Brigade Officer",
+      "text_en": "I was living hand-to-mouth in Ul'dah, but decided to enlist in the Flames after I heard tales of your derring-do. And now, as fate would have it, I've been sent here to join in the fight for my homeland's liberation."
+    },
+    {
+      "character": "Ala Mhigan Brigade Officer",
+      "text_en": "Ah, but this is no time to talk. I've got to prepare for the operation! Take care, GC Rank ! We'll give those imperial whoresons what for!"
+    },
+    {
+      "character": "Hot-blooded Youth",
+      "text_en": "... Forename , am I right? I doubt you remember me, but I'll never forget you—saved my life in Little Ala Mhigo, you did."
+    },
+    {
+      "character": "Hot-blooded Youth",
+      "text_en": "Wilred and the rest of us had got it into our heads that if we had enough crystals, we could summon Rhalgr like the Amalj'aa summoned their god. Thankfully, you put a stop to it."
+    },
+    {
+      "character": "Hot-blooded Youth",
+      "text_en": "Ever hear about what happened to Wilred? Joined the Braves when they came calling, only to turn up dead one day. Never found out how or why, but I reckon it doesn't matter. Dead's dead, after all."
+    },
+    {
+      "character": "Hot-blooded Youth",
+      "text_en": "But at least he died doing what he thought was right. And maybe that's the best folks like us can hope for, eh? Not that I'm in any hurry, mind!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "You've had a word with the men I mentioned, then?"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "As I'm sure you've noticed, they've another thing in common aside from tragedy: you've touched each of their lives in one way or another. But that's not the reason I wanted you to speak with them."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "A man who's lived in Gyr Abania his entire life, who bore witness to the realities of the occupation for twenty unbroken years..."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "A man who fled Ala Mhigo in search of a new life, who swore to serve another nation, only for fate to conspire to send him back here..."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "A youth born on foreign soil, who never knew his parents' homeland, yet nevertheless felt kinship with our cause..."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Three men, three stories, three reasons. Yet all belong to the Resistance. In growing larger, we've grown more diverse, and while there is good in that, there's also the potential for strife and discord."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "It'd take a special sort to lead such men to Ala Mhigo, don't you think?"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "For now, aye, but not forever. And, to be frank, I don't always know what to say to the ones who left, not to mention the youths."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Nay, the Resistance needs a leader with a wider view. Someone who's not lived their whole life in Gyr Abania; who's known death and hardship but not been ground down by them."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Aye. As you may have guessed, I've been thinking of asking Lyse. But it'll be her decision in the end."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "I see we're of one mind. She'll have to make the decision for herself, of course."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "You've traveled with her. Been by her side when she's had to make hard choices. You've seen her at her worst and her best. If you think she's got it in her, then she does."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Look after her, Forename . She's our future, and my hope."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Hah, now wouldn't that be a sight! The Slayer of Gods and Savior of Ishgard leading the Resistance into battle. You're not short of relevant combat experience, I'll give you that!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Being serious, though...I've been thinking about asking Lyse to be my successor. She's young and worldly, strong and kind. A bit daft at times, but not so much that it worries me—especially given what I've seen of her since she returned."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Look after her, Forename . She's our future, and my hope."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "I trust I needn't say that this conversation is just between you and me?"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Good boy / girl . Right, then—we'd best head to Castellum Corvi. Or what remains of it, rather."
+    },
+    {
+      "character": "M'naago",
+      "text_en": "Her name is Obda. We've known each other since we were small. We'll be going on this mission together..."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I'll prove to them that it wasn't a mistake... ...That I wasn't a mistake."
+    },
+    {
+      "character": "Ananta Battlemaid",
+      "text_en": "You are the warrior, yesss? It is an honor."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I said it then, and I'll say it again: I won't let it all be for nothing..."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "We'll lead the way while the other units launch their own separate attacks. Remember that we need to hold out until M'naago sees to the flag."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Got your gear in order? Any moment now..."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "It's begun, then."
+    },
+    {
+      "character": "M'naago",
+      "text_en": "Good. It's the waiting that drives me mad. Standing around, knowing what's to come. I'll never get used to it."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Calm down, Naago. You're making him / her nervous."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "We've come this far, haven't we? We just need to make it the rest of the way!"
+    },
+    {
+      "character": "M'naago",
+      "text_en": "Right!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Looks like the bastards went for the bait. The bridge is ours for the taking!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Now remember, M'naago: I want you to make for the tower as soon as you see an opening and get that flag flying. We'll see to the fighting."
+    },
+    {
+      "character": "M'naago",
+      "text_en": "I won't let you down, sir!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Come, then! Rhalgr's star shall burn bright this day!"
+    },
+    {
+      "character": "Conrad Farsight",
+      "text_en": "Quickly now! We've got to reach Velodyna before General Aldynn and his men are overwhelmed!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Scouts, dead ahead! If they see us, they'll warn the others!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Not if we kill them first!"
+    },
+    {
+      "character": "Lyse (voice acted, text bubble)",
+      "text_en": "Here it comes!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "That's the last of 'em! Let's keep moving!"
+    },
+    {
+      "character": "Conrad Farsight",
+      "text_en": "No sign of sentries. General Aldynn must have his hands full."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Then let's seize the bridge and be done with it!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "They've left a token force behind. Nothing we can't handle!"
+    },
+    {
+      "character": "12th Legion Predator",
+      "text_en": "Fire at will! Kill every last one of the savages!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Cannons! They could use those to fire on Naago!"
+    },
+    {
+      "character": "Lyse (voice acted, text bubble)",
+      "text_en": "Take this!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "That's the last of the cannons! It should be safe for Naago now!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "No, I can't! Not yet!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Damn it all..."
+    },
+    {
+      "character": "Conrad Farsight",
+      "text_en": "Ugh... That's it for me..."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Think you're clever with all your little tricks? Think again! None of you are leaving here alive!"
+    },
+    {
+      "character": "Fordola rem Lupis",
+      "text_en": "You may have survived the Reach, hero , but this time you won't be so lucky."
+    },
+    {
+      "character": "Fordola rem Lupis",
+      "text_en": "This bridge belongs to the Empire! I am not about to give it up!"
+    },
+    {
+      "character": "Fordola Rem Lupis (text bubble)",
+      "text_en": "Die!"
+    },
+    {
+      "character": "Fordola Rem Lupis (text bubble)",
+      "text_en": "Hrah!"
+    },
+    {
+      "character": "Fordola rem Lupis",
+      "text_en": "Hero or not, you'll die just like all the rest!"
+    },
+    {
+      "character": "Fordola Rem Lupis (text bubble)",
+      "text_en": "How's that!?"
+    },
+    {
+      "character": "Fordola rem Lupis",
+      "text_en": "This is MY BRIDGE! You are NOT taking this from me!"
+    },
+    {
+      "character": "Fordola Rem Lupis (voice acted, text bubble)",
+      "text_en": "Meet my new friend!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Naago made it! We've only got to hold on a little longer..."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Gods damn you!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "No more running. No more hiding! Let's finish this!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Look! The flag!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "The bridge is ours! Ala Mhigo, Ala Mhigo, Ala Mhigo!"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Stand your ground! It's not over yet!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Damn it!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Let them go, Lyse! We've done what we came here to do. That's enough for now."
+    },
+    {
+      "character": "Imperial Pilus Prior",
+      "text_en": "Velodyna is fallen!? Impossible!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We have them on the run! Forward! No mercy!"
+    },
+    {
+      "character": "Imperial Pilus Prior",
+      "text_en": "Regroup, regroup....We have to regroup! All units—Fall back!"
+    },
+    {
+      "character": "Skull Swordsman",
+      "text_en": "Commander! the 4th Cohort has been routed! We'll be at the mercy of the enemy's reinforcements if we don't fall back now!"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Idiot! We have the stronger force by far! Don't be taken in by their tricks! Or would you rather tell Zenos you lost to this rabble!?"
+    },
+    {
+      "character": "Skull Swordsman",
+      "text_en": "No, but if the snakes betray us in the confusion, we'll have no way out! I'm begging you, Commander—give the order, or we'll all die here!"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "...As common traitors who drank of muddied waters. For all the good it did us."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Skulls, with me! The day is theirs, and so is this bastard bridge. Someone bring the snake!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "...I suppose. It's our first victory, isn't it? and that has to be worth something."
+    },
+    {
+      "character": "M'naago",
+      "text_en": "<pant> <pant> For a moment there, I didn't think I could do it...but then I did!"
+    },
+    {
+      "character": "Ananta Battlemaid",
+      "text_en": "Ssso, you are indeed everything they sssay. The ssstuff of legends..."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Did you see that, A'aba, Aulie? We did it!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Well fought, brothers and sisters! Today is a day that will be remembered for generations to come!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "It's a shame Fordola got away, but we did what we came here to do."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I have to remind myself it's just the first step...but it's a big one. We're going to take it back...all of it—one ilm at a time if we have to!"
+    }
+  ]
+}

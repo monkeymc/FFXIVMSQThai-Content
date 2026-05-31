@@ -1,0 +1,828 @@
+{
+  "id": "nowhere-to-run",
+  "wiki_path": "/wiki/Nowhere_to_Run",
+  "wiki_image_url": null,
+  "patch": "6.2",
+  "title_en": "Nowhere to Run",
+  "level": "90",
+  "location": "Zero's Domain(X:5,Y:7)",
+  "npc_start": "Zero",
+  "dialogues": [
+    {
+      "character": "Zero",
+      "text_en": "Consider yourselves duly warned. If you wish to go among the voidsent here, that is your choice to make."
+    },
+    {
+      "character": "Zero",
+      "text_en": "All have fled from one master or another. But whether any of those masters in turn served Golbez, I do not know. You must ask them yourselves."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Most have traveled to your world, so it shouldn't be difficult to communicate."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "We shall go about making inquiries at once. Thank you for your counsel."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Once we've learned all we can, let us reconvene at yonder plaza."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You're going too, of course? In which case, I shall accompany you."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I wish only to observe. Do not expect me to help."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Then it's settled. I'm ready when you are."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As you may recall, when a larger voidsent is summoned, only its soul makes the journey to the Source."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Upon its arrival, it takes possession of a host body. But during that time, what becomes of its actual body here in the Thirteenth?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The answer to this question may give us valuable insight into cross-rift travel."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To that end, while asking after Golbez, I shall also see what the voidsent can tell me about their experiences when summoned."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "If a voidsent is too weak to create its own domain, it must join with others for protection."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Alternately, it might devour them in a bid to become stronger, but in so doing risk losing its sense of self."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "'Tis an unenviable struggle..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "'Twas in order to strike down the Cloud of Darkness that my sister crossed over into the void."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "What befell her after she vanished into the gate? How did she become Golbez's captive? These things and more, I hope to learn..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Ready? Then lead the way. I leave it to you to decide with whom you speak."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Although this is my domain, I don't make a habit of strolling about. 'Tis a strange feeling..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You have other business? Fine. Come and find me at my abode when you've finished."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Finished tending to your other affairs? Then let us continue on."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I call this my abode, but spend hardly any time here. I return only for meditation."
+    },
+    {
+      "character": "Zero",
+      "text_en": "While physical wounds can be healed by replenishing one's aether, you can't preserve your form if you lose sight of yourself."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Such is the risk inherent in consuming another's soul. It dilutes your sense of self. Alters you inside and out."
+    },
+    {
+      "character": "Zero",
+      "text_en": "To guard against this, I meditate. Visualize who I am, in a place all my own."
+    },
+    {
+      "character": "Zero",
+      "text_en": "This is the heart of my domain. Normally it's deserted, but you and yours have drawn everyone out."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I don't recall this statue, though..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "However it came to be here, I certainly didn't wish for it."
+    },
+    {
+      "character": "Empty-eyed Voidsent",
+      "text_en": "I thought you were her prey, but they say you're her minions. Which are you?"
+    },
+    {
+      "character": "Empty-eyed Voidsent",
+      "text_en": "To walk around with her like that... You're her minion, then?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "You know I don't take minions. He / She has some questions, and I want you to answer them."
+    },
+    {
+      "character": "Empty-eyed Voidsent",
+      "text_en": "Golbez? I don't know that one. Only Scathach."
+    },
+    {
+      "character": "Empty-eyed Voidsent",
+      "text_en": "When she led us beyond the veil, I grew scared and fled."
+    },
+    {
+      "character": "Empty-eyed Voidsent",
+      "text_en": "I've been here since. I don't know anyone else, nor do I wish to. That's all I can tell you."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Scathach was a powerful voidsent who ruled over a vast domain. That was a long time ago, though, so I doubt she has any connection to Golbez."
+    },
+    {
+      "character": "Amiable Voidsent",
+      "text_en": "Are you really a mortal? I've never seen a mortal before..."
+    },
+    {
+      "character": "Amiable Voidsent",
+      "text_en": "You're one of the mortals! Is it true? When you die over there, you really die?"
+    },
+    {
+      "character": "Amiable Voidsent",
+      "text_en": "So it is, so it is! What brings you here, then?"
+    },
+    {
+      "character": "Amiable Voidsent",
+      "text_en": "Ah yes, Golbez. He seeks strong minions to grow his army, so I hear."
+    },
+    {
+      "character": "Amiable Voidsent",
+      "text_en": "But recently, he stopped doing that. Instead, he devours all."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Perhaps he's gathered enough fodder and is now intent on bolstering his own strength. A sure sign that he is about to make a move."
+    },
+    {
+      "character": "Hungry Voidsent",
+      "text_en": "<slurp> I bet you taste good. But I can't eat you, else I'll be eaten too..."
+    },
+    {
+      "character": "Hungry Voidsent",
+      "text_en": "<rumble> Stay away from me... If you don't want to be eaten, stay away..."
+    },
+    {
+      "character": "Hungry Voidsent",
+      "text_en": "Golbez, Golbez... I've heard the name before."
+    },
+    {
+      "character": "Hungry Voidsent",
+      "text_en": "Ah, I remember! Always speaking of a great crusade. I don't know what that is, but it sounds delicious. <slurp>"
+    },
+    {
+      "character": "Zero",
+      "text_en": "A crusade, you say? From whom did you hear this?"
+    },
+    {
+      "character": "Hungry Voidsent",
+      "text_en": "Farfarello. He was a minion of another minion. Went on and on about the terrible things he saw."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I see... Perhaps Farfarello can tell us more."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Satisfied with what you've learned? Ah─but let's step away before you become too tempting to resist."
+    },
+    {
+      "character": "Empty-eyed Voidsent",
+      "text_en": "I told you─I don't know anyone else, nor do I wish to. Leave me be."
+    },
+    {
+      "character": "Amiable Voidsent",
+      "text_en": "By the way, why haven't you died already? Over there, you can do so any time, no? Don't miss your chance, or you'll end up like us."
+    },
+    {
+      "character": "Hungry Voidsent",
+      "text_en": "Why do you want to know about Golbez? Do you have a crusade too?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "It seems the rumors of Golbez reach even my remote domain."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Fair to assume he's gathering strength for his crusade─whatever that may be."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But I must say, I wouldn't have guessed that Farfarello once fought in Golbez's army. It's a miracle he survived serving an archfiend."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Ah, I suppose I should explain."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Farfarello is the weakest among us. Constantly in fear of being devoured, he seldom consorts with others."
+    },
+    {
+      "character": "Zero",
+      "text_en": "The only one he's comfortable with is Ciriatto."
+    },
+    {
+      "character": "Zero",
+      "text_en": "He's a fellow coward who runs the instant he senses a threat, and won't stop until he's exhausted."
+    },
+    {
+      "character": "Zero",
+      "text_en": "When their hunger grows too intense, they feed on each other's aether. Such is their relationship."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But I ramble. You intend to seek out Farfarello, I presume?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Then I'll come with you. He's less likely to hide that way."
+    },
+    {
+      "character": "Throne of Fire",
+      "text_en": "Not only did the mortals conquer Troia─they defeated Scarmiglione?"
+    },
+    {
+      "character": "Throne of Fire",
+      "text_en": "I struggle to believe it..."
+    },
+    {
+      "character": "Spy's Voice",
+      "text_en": "There is more, my lords. They were aided by one of our world, who transformed Scarmiglione's soul into crystal!"
+    },
+    {
+      "character": "Throne of Fire",
+      "text_en": "Crystal!? This one speaks of memoria!"
+    },
+    {
+      "character": "Throne of Water",
+      "text_en": "Now there's a word I've not heard for an age. It'd bring a pang of nostalgia to my breast and a tear to my eye..."
+    },
+    {
+      "character": "Throne of Water",
+      "text_en": "...If the very notion wasn't absurd! The gifted are gone, drowned in Darkness─as were we all!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "And yet Scarmiglione still does not answer."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Were he alive, he would have returned by now."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Weakest though he was, his ability to regenerate was without peer."
+    },
+    {
+      "character": "Throne of Water",
+      "text_en": "Hmph!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "If this account is true─if a memoriate has survived..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "They cannot be suffered to live."
+    },
+    {
+      "character": "Throne of Wind",
+      "text_en": "Leave this matter to me, Lord Golbez."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "I, Barbariccia, shall strike down any who pose a threat to our plans."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "'Tis true you are a proven commander, well suited to leading an assault."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "And when I have succeeded, I would beg a boon of you."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "What do you desire?"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "The dragon's aether. All that remains."
+    },
+    {
+      "character": "Throne of Fire",
+      "text_en": "The insolence! Know your place!"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "With respect, my locks are free as the wind. Without incentive to sway them, I know not whither they will blow."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Boldly spoken. I trust you will not disappoint me."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Upon this flowing hair and my immortal soul, I will not fail."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Then go, and impress upon these interlopers the futility of defiance."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "My lord!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Farfarello keeps to the fringes of my domain. This way."
+    },
+    {
+      "character": "Zero",
+      "text_en": "The voidsent here don't answer to a master. They can do as they please."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But all must answer to the hunger, and seek out prey when they need aether."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Except Farfarello and Ciriatto, that is─they are content to take from one another. Barring an incident, they dare not venture out."
+    },
+    {
+      "character": "Zero",
+      "text_en": "When he takes flight, Ciriatto will not seek shelter until he is utterly spent. Farfarello, on the other hand, prefers to hide in the same place. Come."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "Uwaaaaaah! P-Please don't eat me...but I suppose you have to..."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "Oh, whatever will I do now? <whimper>"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Ciriatto... This is rather unexpected. Where is Farfarello?"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "<gulp>"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "Farfarello...isn't here anymore. He's...left. Y-Yes, that's right!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Left? That doesn't sound like him at all."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "W-Well, he's gone, all right? Wh-What more do you want me to say?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "And off he flees, as he is wont to do."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But something about this doesn't sit well with me..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "What do you make of Ciriatto's behavior?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I doubt it. Had he been threatened, we wouldn't have found him in one place."
+    },
+    {
+      "character": "Zero",
+      "text_en": "No, he would run in circles until he could run no more. That's his nature."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So you think so too."
+    },
+    {
+      "character": "Zero",
+      "text_en": "As he says, Farfarello is gone. But that is quite unusual."
+    },
+    {
+      "character": "Zero",
+      "text_en": "As is the fact that Ciriatto, who was clearly frightened by something, chose not to flee but instead hid here, where Farfarello usually─"
+    },
+    {
+      "character": "Zero",
+      "text_en": "...No."
+    },
+    {
+      "character": "Zero",
+      "text_en": "We must go after Ciriatto. Now."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I know Farfarello was our quarry, but Ciriatto's behavior troubles me. We must find him."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "I-I don't have time for this... You'd best keep your distance if you know what's good for you!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Ciriatto, we need to talk."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "Th-There's no time! The wind rises! We must flee!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "The wind rises...? What is he talking about?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "After him."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "Uwaaah, the wind howls! Louder and louder!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "What's gotten into you? What do you mean, the wind rises?"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "When the wind rises, she comes! Barbariccia !"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Barba...riccia? Who in the world is that?"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "We must flee, all of us! There's no time!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I don't sense anything, but he seems convinced."
+    },
+    {
+      "character": "Zero",
+      "text_en": "It's a dead end beyond. We'll corner him."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "Ahhh, it's too late! The wind is already upon us!"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "We're doomed! There's nowhere to run!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "What are you running from?"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "I-I already told you! Barbariccia, the archfiend of wind!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Archfiend, you say?"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "We will be devoured or forced to serve. To fight in the crusade. But it makes no difference. In the end, all are eaten by her or her enemies."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "I didn't want to fight anymore. That's why I fled and came here!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I see. That explains everything...almost."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I thought it was Farfarello who used to serve an archfiend. Not you."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Not you, who always ran at the first sign of trouble. You who now speak as though you were Barbariccia's minion. There's only one explanation..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Indeed, that would account for his uncharacteristic behavior."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So, is that the way of it? Did you devour Farfarello?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Tell me true, Ciriatto. You devoured Farfarello, didn't you?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "And not just a portion of his aether, but his entire being."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "...H-How did you know?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "It wasn't only your behavior that felt strange."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You felt strange. As if there was more than you present."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Now, I don't believe you would've lost control. More likely it was at Farfarello's behest."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "I can't hide anything from you..."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "I admit it. Farfarello didn't leave. I ate him."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "He feared Barbariccia more than anything. Hated the endless fighting."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "So he begged me to devour him, that he would never have to fight again."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Rather than an eternity of fighting, he chose a moment of pain..."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "For all the good it did. I can still hear his voice in my head. He's frightened, so very frightened..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "When you're eaten, your essence is blended with that of your devourer. And though you have no control, your consciousness in part endures."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Were this a world where the wheel of life and death still turned, the soul wouldn't linger so stubbornly."
+    },
+    {
+      "character": "Zero",
+      "text_en": "In time, it would return to the great flow."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But there's no such end here. No escape. All know this. In making his choice, Farfarello must have been desperate indeed."
+    },
+    {
+      "character": "Zero",
+      "text_en": "And now that desperation has joined with Ciriatto's fear, driving him to act erratically."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "This place will become a battlefield. We don't want to be eaten. Neither me nor Farfarello. But there's nowhere to go! Nowhere!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Then tell me about Barbariccia. I would know who it is we face."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "It's too late. She's as good as here, and no one can escape her winds! No one!"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "B-Barbariccia... She is come!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "And she's brought her domain with her."
+    },
+    {
+      "character": "Zero",
+      "text_en": "The archfiend's after you and yours, I shouldn't doubt."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Perhaps you should go and find them. But be warned─whatever this is about, do not expect us to get involved."
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "I can't bear it... Eating and being eaten... I only want to be left in peace..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You and me both."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "One of the archfiends approaches?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "They must have been tracking our movements."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "She's here!"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Excellent. You've saved me the trouble of traveling to Troia."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "So you're Barbariccia."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Mind your manners, mortal! My name is not to be spoken save in reverence and fear."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "And what is this pitiful domain?"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Pitiful wretches all. I will put you out of your misery!"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Alas, poor Scarmiglione, and good riddance. Felled by outsiders in pursuit of what, pray tell?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "A dragon─one who crossed to this world thousands of years ago. Know you aught of it?"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "A dragon, you say?"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Hahaha... Ahahahaha!"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "My Lord Golbez is more clever than I realized. To let the prize live that it might lure more prey to us."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Very well. In gratitude and service, I shall devour every last mote of their souls."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Where is she? Where is Azdaja!?"
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Heh, you even share its scent. How curious...and irresistible!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "If you think us easy prey, you're wrong."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "Unlike Scarmiglione, I need not skulk in shadow to claim what is mine."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "If you would know about the dragon you seek, then enter into my domain."
+    },
+    {
+      "character": "Barbariccia",
+      "text_en": "You may flee instead if you wish─if the fate of the sorry lot here is of no concern to you. One way or another, I will have satisfaction."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "What's the plan, then?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Indeed. Yet she will have the upper hand in her domain. We must be no less than fully prepared."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Aye, that we would. Even so, we don't have any intention of turning tail now, do we?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We find her and get our answers. Will you be joining us, Zero?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "You may be easily goaded into accepting her challenge, but my curiosity is not so insatiable as to cloud my judgment."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Nevertheless, if you are desperate for my aid...you know my price."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I shall pay it."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "So long as you leave me strength enough to see my sister home, you may take as much as you wish."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "And lest you forget, mine is no ordinary aether. Barbariccia too recognized its potency."
+    },
+    {
+      "character": "Zero",
+      "text_en": "...Very well. We have a bargain."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I have no intention of demanding anyone's aether until afterwards. Weakening you now would only reduce my chances of getting paid."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What little I learned in your absence did not pertain to the archfiends. That discussion can wait until after we've tended to Barbariccia."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Just you wait, Barbariccia. I will have answers from you yet..."
+    },
+    {
+      "character": "Hungry Voidsent",
+      "text_en": "So that was one of Golbez's archfiends. I would devour that aether in a heartbeat...except I'm liable to be devoured first."
+    },
+    {
+      "character": "Waiting Voidsent",
+      "text_en": "That woman just now─for a moment I dared to hope she was the hero I've been waiting for. But then she left again..."
+    },
+    {
+      "character": "Amiable Voidsent",
+      "text_en": "You're really going to fight her? I will pray for your victory. That way I won't get eaten."
+    },
+    {
+      "character": "Vicious Voidsent",
+      "text_en": "I must have escaped her notice because I have barely any aether left. Wonderful, I can continue dying a slow, excruciating death... Unnngh..."
+    },
+    {
+      "character": "Empty-eyed Voidsent",
+      "text_en": "Two were devoured, you say? Well, as long as I wasn't one of them, I won't complain."
+    },
+    {
+      "character": "Squid-headed Voidsent",
+      "text_en": "Who was that woman!? She was even more beautiful than I am, if only slightly!"
+    },
+    {
+      "character": "Ciriatto",
+      "text_en": "Farfarello warns me. That wasn't the true Barbariccia, he says. No, she's far more frightening! The scouring winds, the lashing hair... O-Oh gods, so much hair!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "The less time we give the enemy to prepare, the better. If everyone is ready, then let us set forth."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Indeed. And yet...my heart weighs heavy for those Barbariccia struck down. Were it not for us, she would not have come here."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Should you require a moment, Zero..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "For what? Barbariccia took what she could. She was wise to strike quickly─as we would be."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Agreed. This is no time for sentiment. Only the battle matters now."
+    }
+  ]
+}

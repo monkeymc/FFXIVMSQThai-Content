@@ -1,0 +1,768 @@
+{
+  "id": "echoes-of-a-fallen-star",
+  "wiki_path": "/wiki/Echoes_of_a_Fallen_Star",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/13/Echoes_of_a_Fallen_Star_Image.png/280px-Echoes_of_a_Fallen_Star_Image.png",
+  "patch": "5.2",
+  "title_en": "Echoes of a Fallen Star",
+  "level": "80",
+  "location": "Kholusia(X:10.7,Y:36.1)",
+  "npc_start": "Urianger",
+  "dialogues": [
+    {
+      "character": "Ryne",
+      "text_en": "Does she really not mind working alone...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hopefully, this will make the benthos think twice before raiding the stores of their fellow Ondo again."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While it is true our findings have raised more questions than they have answered, it is not impossible that Y'shtola will gain access to additional records. And if nothing else, we have spared Eulmore from invasion."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Answers never did come to us tied neatly with a bow. We'll get to the bottom of things eventually."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Can we but uncover Elidibus's true origins, we may yet come to understand his designs. To that end, Y'shtola must needs be afforded as much time as she doth require to complete her investigation."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...To the extent that such things are within our control, yes. Speaking of which, perhaps we might trouble the Exarch for news of his progress with the spirit vessel?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "He will no doubt wish to hear of our own discoveries as well, such as they are."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Dare I ask what's going on?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Ah, excellent timing. For me, in any case. We have a problem."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "The vast majority of those gathered here are presently in the employ of the guard or else one of the facets...and no longer wish to be so."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In principle, all are free to change vocation at any time─but a city does require a certain number of people in these positions if it is to continue to function. For the moment, I have asked them to postpone their resignation until such time as replacements can be found."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As you may have surmised, we have the “Warrior of Light” to thank for this..."
+    },
+    {
+      "character": "Vonard",
+      "text_en": "It's you! The Warrior of Darkness!"
+    },
+    {
+      "character": "Vonard",
+      "text_en": "You understand, don't you?"
+    },
+    {
+      "character": "Vonard",
+      "text_en": "Someone's going to have to look after this place once you're gone. We just want to be ready to do our bit when the time comes."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "And not only here, but everywhere! Which is why we've got to get out there, and lend a hand to those in need."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "That's what you did, isn't it? Even if it was just little things, at the start. You helped people."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "And we're trying to do the same! We may have our sky back, but there's no shortage of people who still need help."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "And we're trying to do the same! We may have our sky back, but there's no shortage of people who still need help."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "Strong and silent—just as a hero should be! You let your actions speak for you, and we mean to do the same. We might have our sky back, but there are still people who need help."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "If we follow in your footsteps, then I choose to believe we too can be heroes one day. Even Warriors of Light."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What are we to say to that? We can hardly tell them they are mistaken."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They seek but to do good, as you have."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "But no more can we stand idly by and suffer a Paragon's scheme to proceed unchallenged."
+    },
+    {
+      "character": "Fearful Citizen",
+      "text_en": "What...what's happening to the sky?"
+    },
+    {
+      "character": "Citizen A",
+      "text_en": "Wicked white!"
+    },
+    {
+      "character": "Citizen B",
+      "text_en": "Oh no!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "By the Twelve..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A starshower..."
+    },
+    {
+      "character": "Hydaelyn's Voice",
+      "text_en": "Hear... Feel... Think..."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "I─ I hear a voice!"
+    },
+    {
+      "character": "Vonard",
+      "text_en": "You and all? Then why does it feel like it's inside my head!?"
+    },
+    {
+      "character": "Vonard",
+      "text_en": "Hear... Feel... Think...?"
+    },
+    {
+      "character": "Citizen A",
+      "text_en": "I hear it!"
+    },
+    {
+      "character": "Citizen B",
+      "text_en": "Me too!"
+    },
+    {
+      "character": "???",
+      "text_en": "Did I not tell you, my friends!? You are Warriors of Light!"
+    },
+    {
+      "character": "Theyler",
+      "text_en": "You're back!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "What you hear is the voice of Light itself, and it has blessed you with its power. Welcome to the fold!"
+    },
+    {
+      "character": "Theyler",
+      "text_en": "I'm a Warrior of Light..."
+    },
+    {
+      "character": "Vonard",
+      "text_en": "I've been chosen!?"
+    },
+    {
+      "character": "Citizen A",
+      "text_en": "Can it be?"
+    },
+    {
+      "character": "Citizen B",
+      "text_en": "Me, a hero?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wait!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The falling stars ─ were they your doing? And why do you need Warriors of Light?"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "What, am I to reveal my plans simply because you asked?"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Nay, I think not─though the stars I acknowledge mine. A convenient illusion apt to awaken what little is left of the power that once resided in your sundered souls."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "That which you and yours call the Echo."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "And an echo it is. Of a symphony. But a fraction of what men, in their completeness, once possessed."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Even those among you who tower over others in the gift have only the faintest trace of it."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "But though sundered and forgotten, through death and mocking rebirth, it has persisted. A whisper of our past, burned into your very aether ─ along with the sight of our end."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Through the rekindling of memory, I have awoken the ability ─ just as Hydaelyn is wont to do when She has need of new minions."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The Echo hath ever been thought a gift from Hydaelyn ─ a boon granted solely to Her chosen. Yet thou wouldst claim She merely awakeneth the power, that men should hearken unto...?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...Her voice. Given the perceived simultaneity of Her call and the awakening of Her chosen's capacity to hear it, 'tis only natural that we thus attributed the source of the gift. Yet if, in truth, the Echo is a prerequisite for hearing Her voice..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "One might surmise that Her call never ceaseth, such that all who awaken to their innate gift might receive of the blessing of Light at the selfsame instant."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In sooth, we bore witness to this but moments ago. At the sight of the starshower, full many in the crowd did speak of hearing a voice in their minds, did they not?"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Just so. And whenever Hydaelyn has need of new servants, She is quick to pluck comets from the heavens, or create illusions of the same."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Why, then, didst thou conjure this vision, full knowing that thine age-old foe would thus claim those awakened to the gift?"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "“Foe”? You must be mistaken. As you see, I am a Warrior of Light."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "And together with my comrades-in-arms, I shall save the world. Just like you."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "It did remind me of it... Amaurot, I mean. All the fear, and the sadness..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Unsettling though this is, I'm certain our friends in the guard will use the Echo well. ...Or with good intentions, at least."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though I like not what it portendeth, having been treated to so unambiguous a demonstration, I cannot well conclude aught but that starshowers are indeed instrumental in awakening the Echo."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yet we need not attribute such credence to all that Elidibus hath claimed. That he too seeketh this star's salvation, for one..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And there he goes again... Though I don't suppose he would have given us an honest answer about his history had he stayed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The more Elidibus reveals, the less I understand. But that he has made a fine mess of things is plain."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "He is gone, then?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I've managed to persuade a number of our would-be deserters to reconsider, or at least delay, their departure. But as many are deaf to my entreaties."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Young Theyler and Vonard among them, I am sorry to say. They have quit the guard."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Nevertheless, I wish them well. Whatever Elidibus's plans for them might be, the pair have only ever had the best of intentions."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "One can hardly blame them for thinking themselves heroes elect ─ not after having been “blessed” with the Echo. And it's not as if they haven't shown the requisite spirit."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I quite agree. Though the impetus for their sudden departure may have been words falsely spoken, the men and women in whose footsteps they would follow are heroes in truth. Warriors of Light. Ardbert. Yourself, most of all."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And so I would ask a favor of you─speak with them ere they embark on their journey, and furnish them with what wisdom you can. They've set off for the Amaro Launch, but you should still be able to catch them if you leave now."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Worth the effort, I'd say. If I recall correctly, the Elder Seedseer / Raubahn / Merlwyb took the time to usher you out into the wider world, many moons ago."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I...think that comparison rather flatters Theyler and Vonard. But the point still stands. They would doubtless be greatly encouraged were the Warrior of Darkness himself / herself to see them off."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If thou art willing, I prithee go. Thou mayest safely leave the task of unfolding that which did transpire at Anamnesis to us."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In days to come, when Elidibus's machinations have all come to naught, the First shall be stronger for its people's readiness to rise to the challenges of their time. We have but to defeat our foe to make it so."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "I was so deeply immersed in my research that I entirely failed to notice the starshower... Bugger."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "You will need to leave now if you are to catch them before they depart. They are...eager to be on their way."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Honestly, don't listen to all this prattle about the life-changing importance of your words to impressionable young heroes. You could nod mutely in their general direction and they'd still be inspired."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I daresay I needn't wax poetical on the value of well-placed words of encouragement to you of all people. I have gained that much self-awareness in our time together..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "“This land is our home...and it is we who must protect it...” Even if he didn't believe a word he was saying, and it's all part of some terrible scheme, it's hard not to take his message to heart."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You caused quite a stir when you set forth as the Elder Seedseer / Flame General / Admiral 's newly anointed envoy, you know."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Minfilia was delighted. “The world is ever in need of heroes,” she said..."
+    },
+    {
+      "character": "Vonard",
+      "text_en": "...“Where in Amh Araeng”? I mean... You know... Around."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "You again!? Uh, I mean─it's you , milady / sir ! Sorry...it's been a funny old day."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "You can be sure we'll take those words to heart."
+    },
+    {
+      "character": "Vonard",
+      "text_en": "I still can't believe it ─ you coming all this way just to speak to us."
+    },
+    {
+      "character": "Vonard",
+      "text_en": "I swear we won't let you down. So long as it helps someone, we'll do what needs doing out there─no matter how small!"
+    },
+    {
+      "character": "Theyler",
+      "text_en": "And when larger threats loom, we'll be ready to face them. You see if we aren't."
+    },
+    {
+      "character": "Theyler",
+      "text_en": "We'll be off, then. Farewell, Warrior of Darkness ─ and thank you."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thou art returned! And at a most opportune time. We have but this moment concluded our account of all that came to pass in the deep."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I take it they were suitably inspired?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Thank you for making the effort. I'm certain your words will be a boon to them."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "While you were away, the others told me of your investigation. We have yet to discuss how to proceed, however."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "While your findings in Anamnesis Anyder do raise important questions as to the identity of our adversary, we are no closer to discerning his design. Nor do I know of any other potential avenue of investigation."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For which reason, we must needs trust to Y'shtola's ingenuity, and wait for her efforts to revive the ancients' device to bear fruit."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "...What if I were to attempt to follow the emissary? Elusive as he is, his plan compels him to court public attention. He shouldn't be impossible to find."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Especially for one of your experience. It does seem worth the attempt."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Then I'll come with you. Safety in numbers."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In combat, perhaps ─ but where stealth is required, the opposite is true. Happily, I don't plan on getting myself caught, so you've no need to worry."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Nor do I intend to vanish for moons on end. We still have the Empty to attend to, don't we?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "All right. Then I look forward to your return."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then it sounds like the rest of us should avoid doing anything which might prompt Elidibus to look too closely at our movements. Insofar as it's possible, I recommend we limit our activities to the Crystarium."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Speaking of which ─ Exarch, might I ask if you've made any progress with the spirit vessel?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Of course. We are presently studying the principles underpinning memory transference and, I believe, nearing the requisite level of understanding."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Less hearteningly, practical trials of transference methods suited for use with the vessel have yet to yield satisfactory results...to put it mildly."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "But there are still many promising possibilities we have yet to test!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Indeed. Though it may take some time yet, we are well on our way to a solution."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And I shall not rest until one is found."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though we are all grateful for thine unstinting efforts, thou need'st not labor to the exclusion of all else. If it would serve to lighten thy burden, however little, I should gladly offer mine assistance."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Quite. I, for my part, will do what I can to ensure that the Crystarium continues to run smoothly, in spite of recent disruptions."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Then perhaps I could help? There must be something I can do, even if it's just guard duty."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Thank you... All of you. I shall breathe easier for your assistance."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Of course, on the evidence of the recent past, it will not be long before some new crisis arrives to throw our plans into disarray ─ at which time your services will be in particular demand. That being the case, perhaps you might take this opportunity to retire to your suite at the Pendants?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "One of these methods will work. It must."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...Of course I don't wish to worry Lyna─she has more than enough to worry about already. But I swore that I would return you all home."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "All right! Fine . I will henceforth endeavor to take breaks when appropriate. ...While Lyna is watching."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Never fear ─ I too will continue to assist the Exarch to the best of my ability. And if that means casting the odd sleeping charm, so be it ."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Knowing not whether Elidibus or our ever-waning connection to the Source representeth the more pressing problem, we must needs attend to both...and risk solving neither."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "There is sure to be no shortage of potential heroes upon whose good nature Elidibus will try to prevail. The trick will be in anticipating which settlement he'll direct his attentions toward next..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "There's so much to be done, and so little I can do to help... But you can count on me to play my part in the Empty."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ought we to inform the citizens that the starshower was an illusion, do you think? They might sleep better for the knowledge that no damage was done."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I will accompany my brother, and make sure he doesn't get carried away. You will do as you're told, and get some rest ─ both of you ."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Honestly, he's a danger to himself. If I were Lyna, I think I would've hit him over the head with a blunt object by now. At least then he'd lie down."
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "A pleasure as always, Master / Mistress Surname ."
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "I am relieved to see you were unharmed in the earlier commotion. Though, if I may ─ you do look somewhat weary. I presume you will be retiring to your suite?"
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "Very good. Do let me know if there is anything you require."
+    },
+    {
+      "character": "Glynard",
+      "text_en": "Mistress / Master Surname ? It's Glynard ─ from the Wandering Stairs. I apologize for calling so late."
+    },
+    {
+      "character": "Glynard",
+      "text_en": "A friend of yours was asking after you. You may remember them from that business with the Cardinal Virtues..."
+    },
+    {
+      "character": "Granson",
+      "text_en": "Well met, sinner."
+    },
+    {
+      "character": "Granson",
+      "text_en": "I was looking forward to a welcome respite here in the Crystarium, but the mood here's not exactly conducive to relaxation, as I'm sure you've noticed."
+    },
+    {
+      "character": "Granson",
+      "text_en": "Aye, I'd wager you know more about what's going on than anyone else in this city. Care to share?"
+    },
+    {
+      "character": "Granson",
+      "text_en": "Hmmm... I can't say that I envy you your prey."
+    },
+    {
+      "character": "Granson",
+      "text_en": "Dark work, this twisting of the Warriors of Light's legacy. Reminds me of what became of ol' Dikaiosyne─though this “Ascian” of yours is a fair bit more chatty."
+    },
+    {
+      "character": "Granson",
+      "text_en": "I'm tempted to silence him myself. Branden made his mistakes─I'm sure they all did─but the past is the past. They've earned their rest."
+    },
+    {
+      "character": "Granson",
+      "text_en": "What, you want me to leave it to you?"
+    },
+    {
+      "character": "Granson",
+      "text_en": "...Right, right. I'm not the only one carrying all that weight. Very well. But only because you asked."
+    },
+    {
+      "character": "Granson",
+      "text_en": "Remember: if you ever need me, just say the word. I'll be there."
+    },
+    {
+      "character": "Giott",
+      "text_en": "Lali-ho, stranger!"
+    },
+    {
+      "character": "Giott",
+      "text_en": "So there I am─minding my own business, quaffing my ale─when I hear a ruckus outside. And then, clear as day: “Warrior of Light”!"
+    },
+    {
+      "character": "Giott",
+      "text_en": "That sounded like trouble to me, and I knew that if anyone was going to trouble himself / herself over that trouble, it'd be you. So I gave Glynard the ol' “But I'm your best customer!” routine until he agreed to bring me here, and now I know where you live! Great, ain't it?"
+    },
+    {
+      "character": "Giott",
+      "text_en": "Some bastard's walking around wearing Ardbert─Lamitt's Ardbert─like a secondhand jerkin!?"
+    },
+    {
+      "character": "Giott",
+      "text_en": "I don't know what's more offensive─that, or that you let him leave without a proper dwarven decking!"
+    },
+    {
+      "character": "Giott",
+      "text_en": "Bah! In a pinch, an improvised decking would've been fine!"
+    },
+    {
+      "character": "Giott",
+      "text_en": "Tell you what. I'll show you how to knock that bastard flat in the blink of an eye here and now. Taboos be damned."
+    },
+    {
+      "character": "Giott",
+      "text_en": "After all, we ain't about to let him keep on like that, are we? Pretending to be Ardbert. Lamitt's Ardbert."
+    },
+    {
+      "character": "Giott",
+      "text_en": "Step one: make a fist. Step two: extend your arm, like so. Step three: beat 'em senseless. Got it?"
+    },
+    {
+      "character": "Giott",
+      "text_en": "Good. Now make me proud"
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "What charming accommodations!"
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "I had come to dine at the Wandering Stairs, you see, when I spied a considerable gathering of locals. Then the sky caught fire, and, well..."
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "You must know what it all means. Anything you'd care to share with a friend?"
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "That is...alarming, to say the least."
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "It's all well and good that others have come to appreciate the Warriors of Light, but we cannot allow this charlatan to exploit their legacy. So..."
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "Yes! Why not? We shall reform the indomitable duo that is Reeq and Forename , and put an end to his shenanigans!"
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "Yes, I know. No need to say it. You've no intention of involving me. I'm stupid, but I'm not naive."
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "You're the better hunter, and the better person besides. I'm reminded of Renda-Rae...though that's hardly a surprise, is it?"
+    },
+    {
+      "character": "Lue-Reeq",
+      "text_en": "For her sake─for all of theirs─show this pretender what it truly means to be a hero!"
+    },
+    {
+      "character": "Taynor",
+      "text_en": "Pray forgive my late visit... I heard the man who called himself a Warrior of Light speak, you see, and saw the stars falling from the heavens."
+    },
+    {
+      "character": "Taynor",
+      "text_en": "Cerigg grew tired of my endless fretting and bade me call upon you if it would put my mind at ease. Is there aught you can tell me?"
+    },
+    {
+      "character": "Taynor",
+      "text_en": "An impostor. I feared you might say that."
+    },
+    {
+      "character": "Taynor",
+      "text_en": "I believed him─I wanted to believe him. How wonderful it was that even one of them returned, I thought..."
+    },
+    {
+      "character": "Taynor",
+      "text_en": "Yet if he is not the man you knew, then...I'm sorry. I know all too well how that feels."
+    },
+    {
+      "character": "Taynor",
+      "text_en": "I can only imagine how it must hurt to be unable to speak the truth─how you must abide the lie for fear of condemning those fallen heroes once more."
+    },
+    {
+      "character": "Taynor",
+      "text_en": "It may not be my place, but allow me to offer you a few words of advice. As you once did me."
+    },
+    {
+      "character": "Taynor",
+      "text_en": "Remember how dear he was to you, and be brave."
+    },
+    {
+      "character": "Taynor",
+      "text_en": "O-Oh! I'm not half so eloquent as you, but I hope that it helps!"
+    },
+    {
+      "character": "Cyella",
+      "text_en": "Good evening."
+    },
+    {
+      "character": "Cyella",
+      "text_en": "I was in the Exedra. I saw everything."
+    },
+    {
+      "character": "Cyella",
+      "text_en": "That was Ardbert...and it was not. Twice now he has appeared, calling the people to arms. Speaking of “heroes.”"
+    },
+    {
+      "character": "Cyella",
+      "text_en": "I knew this day might come. Ardbert never did reappear as a Virtue."
+    },
+    {
+      "character": "Cyella",
+      "text_en": "But to see his flesh stolen by the selfsame Ascian that made mock of their sacrifice..."
+    },
+    {
+      "character": "Cyella",
+      "text_en": "I spent years searching for a means to redeem their legacy. His legacy. And in you, I found it. You slew the Virtues, reclaimed the stars..."
+    },
+    {
+      "character": "Cyella",
+      "text_en": "You spoke the truth, and the people listened. When I heard our patrons speak of how the Warriors of Light had been their saviors all along, I thought at last, at long last ..."
+    },
+    {
+      "character": "Cyella",
+      "text_en": "I was a fool."
+    },
+    {
+      "character": "Cyella",
+      "text_en": "I cannot ask more of you, not after what you've given. But I must."
+    },
+    {
+      "character": "Cyella",
+      "text_en": "Set him free. Lay him to rest with the others, in honor and triumph."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Foiled again..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "If I cannot imbue the infernal thing with my power via magical means, we may need to devise a way to infuse the vessel with my blood after all..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Art thou unwell?"
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Perhaps a brief respite? It wouldn't do to overtax yourself."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I'm fine..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And given to stubbornness, I'm afraid. Especially when I have a stake in the outcome."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "That dream again..."
+    },
+    {
+      "character": "White-robed Figure",
+      "text_en": "A recurring dream? They do so fascinate me. Might I trouble you for the details?"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "I have always dreamed of it... Fire falling from the heavens, and the city─nay, the whole world ablaze."
+    },
+    {
+      "character": "White-robed Figure",
+      "text_en": "Indeed... Could Emet-Selch have found a way...? Precious few possess memories of the Final Days."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "The Final Days?"
+    },
+    {
+      "character": "White-robed Figure",
+      "text_en": "Why yes. Admittedly, my knowledge is mostly secondhand, but if you are interested, I will gladly tell you the tale..."
+    },
+    {
+      "character": "White-robed Figure",
+      "text_en": "The tale of the world's end."
+    }
+  ]
+}

@@ -1,0 +1,1344 @@
+{
+  "id": "the-converging-light",
+  "wiki_path": "/wiki/The_Converging_Light",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/1/1e/The_Converging_Light_Image.png/280px-The_Converging_Light_Image.png",
+  "patch": "5.3",
+  "title_en": "The Converging Light",
+  "level": "80",
+  "location": "Kholusia(X:11.5,Y:33.1)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "Right ─ no more musing. We have taken far too long as it is."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Our friends await us in Eulmore, yes? Let us hurry and join them."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Everyone will return home soon─I'm sure of it. And you can tell them that Tataru said so!"
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "Oh, if it isn't Forename ! I confess, I'm not entirely sure what's going on, but with you and your friends here, I'm sure it will all be all right in the end!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Yes, people have been talking about little else of late..."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "We have been apprised of the situation. Suffice it to say, we can ill afford to lose able-bodied citizens during this vital period of rebuilding."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, there you are. Eventful trip?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis my pleasure to report that we accomplished our task without further bouts of faintness ─ a feat we attribute to Tataru's most generous gift."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "We were starting to worry ─ but I see we shouldn't have. No?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You certainly took your time. Did something happen?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So the rumors have reached this far..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It appears we are fashionably late."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Come. Our tale will not wait."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This will be my first time meeting Master Chai in his capacity as mayor. The fellow behind him is his advisor, I take it─Wrenden."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forgive us our lateness."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Master Chai, my congratulations on your appointment. By all accounts, you are a capable mayor."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Oh, I have capable friends, my lady. I must say, it's good to see you looking hale and whole again."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The credit for that lies with my own capable friend, without whom I might never have escaped my abductor."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A primal... I suppose that would explain why Elidibus has been fostering faith in the Warrior of Light."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "While you were enjoying your audience with the wandering heart of Zodiark, we were busy dispatching the last of the black-masked Ascians. A task which proved almost insultingly easy."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Formidable though we undoubtedly are, they were obviously sent to provide encouragement for budding heroes. One cannot help but wonder how many times the ploy has been used before..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Master Chai, you mentioned that the people of Khlousia are similarly enamored of the Warrior of Light."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Indeed. Though it's hardly surprising given the state of the world. Many are still struggling to find a purpose, and it's only natural that they should take comfort in the tales."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then the fever has spread to every corner of Norvrandt."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We may have dealt with his black-masked minions, but it is plain Elidibus has yet to show his hand."
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "Oh my, what a spectacular sky!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Another starshower..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Wait, is that..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "...Amaurot?"
+    },
+    {
+      "character": "Hydaelyn's Voice",
+      "text_en": "Hear...Feel...Think"
+    },
+    {
+      "character": "Stupefied Citizen",
+      "text_en": "Did you hear that? That voice, calling out..."
+    },
+    {
+      "character": "Stunned Citizen",
+      "text_en": "No, I didn't hear anything. But..."
+    },
+    {
+      "character": "Stunned Citizen",
+      "text_en": "Why do I feel so... Like I've lost something dear to me..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Does Elidibus seek to awaken more people to the Echo with clearer visions of the Final Days?"
+    },
+    {
+      "character": "Spectral Swordsman",
+      "text_en": "In the name...of the Light...I shall vanquish...the Darkness..."
+    },
+    {
+      "character": "Spectral Swordsman",
+      "text_en": "I shall deliver the world from its doom!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": ">> And who might you be? <<"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whoever they are, they've come for our heads!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "No you don't!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "They are not of flesh and blood."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I know this magick."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The rings are like unto those that the Exarch did employ in our summoning."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Are you saying the Exarch is summoning them?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Nay. Yet the similarity can be no mere coincidence..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Should we make a stand here? Or retreat to the Crystarium?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The aether churns around us. More of them will appear ere long."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To stay would only place innocents in harm's way. We must fight this battle elsewhere."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Wait!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Take one of our airships! You can decide what to do on your flight to the Crystarium!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You are a capable leader in your own right, Master Chai. The citizens of Eulmore chose well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's settled, then. To the airship!"
+    },
+    {
+      "character": "Stupefied Citizen",
+      "text_en": "Wh-Who were those ghostly figures? W-Were they the ones talking inside my head?"
+    },
+    {
+      "character": "Stunned Citizen",
+      "text_en": "When the stars were raining down, I thought I saw a city in the sky. But then the fighting broke out, and when I looked again, it was gone..."
+    },
+    {
+      "character": "Stunned Citizen",
+      "text_en": "Did you see it too? It was so beautiful! So heartbreakingly beautiful..."
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "I don't know what this sky portends, but I do know it can't be good."
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "So please take care, and return to us safe and sound."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "What are you still doing here!? To the airship with you!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "You can thank me later!"
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "We will see that order is restored in the city. Go now, and do not look back."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We should first make for the western edge of Amh Araeng before bending our course towards the Crystarium."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This route will allow us to land and contend with the enemy if necessary. Given that they can appear out of thin air, we must be prepared for anything."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "First the starshower, then these specters... And something tells me the worst is yet to come."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Urianger is right, though─the Exarch didn't send them. He would sooner harm himself than us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But that only makes me want to get back to the Crystarium more quickly."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Cutting down that swordsman felt like slicing through thin air. I only wish his blade had felt similarly intangible."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We must lead them away from the civilians. The rest we can work out en route to the Crystarium."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "There are sure to be a few surprises along the way, but we are nothing if not resourceful."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I think they were after us. Us specifically , I mean. And that's not all..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I sensed the aura of Light around them. As if they were blessed, like you and me."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Fiery stars illuminating a blackened sky... By this vision, many and more shall have awakened to Hydaelyn's voice."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And as Elidibus hath designed, their hearts shall swell with the desire for salvation. The desire which doth empower him."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We must needs move swiftly against him, ere this mania seizeth every soul, and his might exceedeth all measure."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If we are dealing with the selfsame magick employed by the Exarch, we may safely assume that our enemies are being summoned from other worlds."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Beyond that, all is speculation. But I would wager the fact that their summoning seems still less complete than our own has rendered them more susceptible to external influence. The suggestion to kill us, for example."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But I am musing again. Let us away ere more of them manifest."
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "M-My lord / lady ! Sincerest apologies, but the way to your room is blocked at the moment. In their rush to see the starshower, a number of residents lost their footing and fell down the stairs, you see... Our chirurgeons are presently attending to them, and we ask for your patience and understanding until such time as they can be moved."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Damn it! Hang on to something!"
+    },
+    {
+      "character": "Cassard",
+      "text_en": "Hah! When I saw that airship come down, I had my suspicions, but it is you!"
+    },
+    {
+      "character": "Ghen Gen",
+      "text_en": "Come, Ghun Gun! Our friends need help!"
+    },
+    {
+      "character": "Ghen Gen",
+      "text_en": "Be careful, yes?"
+    },
+    {
+      "character": "Cassard",
+      "text_en": "I haven't the faintest what's going on, but you'd best keep moving!"
+    },
+    {
+      "character": "Ghun Gun",
+      "text_en": "Come and visit us again!"
+    },
+    {
+      "character": "Magnus",
+      "text_en": "Just when I think there's a commotion..."
+    },
+    {
+      "character": "Mighty Talos (text bubble)",
+      "text_en": "<rumble> <rumble>"
+    },
+    {
+      "character": "Spectral Paladin (text bubble)",
+      "text_en": "True peace...shall reign..."
+    },
+    {
+      "character": "Spectral Bard / White Mage (text bubble)",
+      "text_en": "Deliverance to all..."
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "Lucky we chanced to be testing some Talos!"
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "Take care, you hear?"
+    },
+    {
+      "character": "Jeryk",
+      "text_en": "Well, it's back to the workshop with this lot..."
+    },
+    {
+      "character": "Spectral Thief",
+      "text_en": "Like a gust of wind, I shall sweep away the pall of Darkness!"
+    },
+    {
+      "character": "Spectral Thief",
+      "text_en": "My swiftness knows no equal!"
+    },
+    {
+      "character": "Spectral Thief",
+      "text_en": "Fast as the Light that banishes the Dark!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Hmph, when will you learn to call your lovely branch when you're in trouble? We'll discuss this later, but for now...onward!"
+    },
+    {
+      "character": "Spirited Pixie (text bubble)",
+      "text_en": "Hee hee! Let's have some fun!"
+    },
+    {
+      "character": "Waiting Pixie (text bubble)",
+      "text_en": "We've been waiting for you!"
+    },
+    {
+      "character": "Waiting Pixie (text bubble)",
+      "text_en": "These are the ones we should play with, right?"
+    },
+    {
+      "character": "Suspicious Pixie (text bubble)",
+      "text_en": "Why do they glow like that? Weird, I tell you!"
+    },
+    {
+      "character": "Aenc Thon, Lord of the Lengthsome Gait",
+      "text_en": "Oho, we meet again, and during such a festive occasion besides! Let us revel, my friends!"
+    },
+    {
+      "character": "Aenc Thon, Lord of the Lengthsome Gait",
+      "text_en": "Come, come! Gather ye around, and lend an ear to my sweet melody!"
+    },
+    {
+      "character": "Spectral Paladin / Samurai / White Mage (text bubble)",
+      "text_en": "Darkness...must be destroyed..."
+    },
+    {
+      "character": "Spectral White Mage (text bubble)",
+      "text_en": "Shadow...begone..."
+    },
+    {
+      "character": "Titania",
+      "text_en": "This way, my brave sapling! This way!"
+    },
+    {
+      "character": "Nu Mou",
+      "text_en": "We Nu Mou are not wont to fight, but we now when we must!"
+    },
+    {
+      "character": "Titania",
+      "text_en": "Come, my lovelies! Come and join the fun!"
+    },
+    {
+      "character": "Spectral Dragoon (text bubble)",
+      "text_en": "In the name...of the Light..."
+    },
+    {
+      "character": "Nu Mou (text bubble)",
+      "text_en": "This is unacceptable! Unacceptable, I tell you!"
+    },
+    {
+      "character": "Nu Mou (text bubble)",
+      "text_en": "The king's will be done!"
+    },
+    {
+      "character": "Tupaq Amaro (text bubble)",
+      "text_en": "Yah!"
+    },
+    {
+      "character": "Tupaq Amaro (text bubble)",
+      "text_en": "Have at you!"
+    },
+    {
+      "character": "Titania",
+      "text_en": "Continue on, Forename ! We will keep these ones busy!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "I shall fight. For the world...and for you, my heart!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Embrace death!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Arise, my servants, and come to my aid!"
+    },
+    {
+      "character": "Necrobomb (text bubble)",
+      "text_en": "Uhhh..."
+    },
+    {
+      "character": "Necrobomb (text bubble)",
+      "text_en": "Graaargh..."
+    },
+    {
+      "character": "Necrobomb (text bubble)",
+      "text_en": "Unnnghhh..."
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Oh dear, tired so soon?"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Very well, you may rest...but not in peace!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Hehe, such lovely blossoms of blood!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "More! I need more to attend me! If you cannot stand, then crawl!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Come now, death isn't so terrible. Not when you have company, hehehe..."
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "I would behold your beautiful blossoms! Let them bloom!"
+    },
+    {
+      "character": "Necrobomb (text bubble)",
+      "text_en": "Ahhh..."
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Plunge into the depths of oblivion!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Tainted though I am, I am still a Warrior of Light!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "These grounds will be strewn with your flesh!"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "Why? Why can I not reach you? Is it because...I am tainted?"
+    },
+    {
+      "character": "Spectral Necromancer",
+      "text_en": "That I should lose again..."
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "A pinch of pixie magic, and—presto—a secret passage to Lakeland!"
+    },
+    {
+      "character": "Crystarium Guard (Male Elf) (text bubble)",
+      "text_en": "Warrior of Darkness! Thank godness you're here!"
+    },
+    {
+      "character": "Crystarium Guard (Male Galdjent) (text bubble)",
+      "text_en": "These phantoms have been appearing out of thin air!"
+    },
+    {
+      "character": "Giott the Aleforged",
+      "text_en": "Whatever's going on, you've got my hammer!"
+    },
+    {
+      "character": "Steelarm Cerigg",
+      "text_en": "Just another job for a bounty hunter."
+    },
+    {
+      "character": "Granson of the Mournful Blade",
+      "text_en": "Watch me, Milinda! This time I fight not to avenge, but to protect!"
+    },
+    {
+      "character": "Granson of the Mournful Blade",
+      "text_en": "You're saving some of the action for us, I trust!"
+    },
+    {
+      "character": "Lue-Reeq of the Gilded Bow",
+      "text_en": "I've had far worse than this lot."
+    },
+    {
+      "character": "Granson of the Mournful Blade",
+      "text_en": "Not sin eaters by the look of them."
+    },
+    {
+      "character": "Steelarm Cerigg",
+      "text_en": "Whatever they are, they're not to be trifled with."
+    },
+    {
+      "character": "Giott the Aleforged",
+      "text_en": "Keep it steady, eh, catboy? Don't want no arrow in my arse by accident."
+    },
+    {
+      "character": "Lue-Reeq of the Gilded Bow",
+      "text_en": "Wha—!? Do you take me for a craven!?"
+    },
+    {
+      "character": "Lue-Reeq of the Gilded Bow",
+      "text_en": "Can't afford to botch this up—Miss Olvara would never let me live it down!"
+    },
+    {
+      "character": "Lue-Reeq of the Gilded Bow",
+      "text_en": "Compared to the Virtues, this is just a relaxing diversion!"
+    },
+    {
+      "character": "Giott the Aleforged",
+      "text_en": "Ugh, I would kill for a drink right now..."
+    },
+    {
+      "character": "Lue-Reeq of the Gilded Bow",
+      "text_en": "When this is over, I'll buy you as many as you want!"
+    },
+    {
+      "character": "Steelarm Cerigg",
+      "text_en": "Oho, does that offer extend to me as well?"
+    },
+    {
+      "character": "Granson of the Mournful Blade",
+      "text_en": "Save the talk for the tavern! We're not out of the woods yet!"
+    },
+    {
+      "character": "Steelarm Cerigg",
+      "text_en": "Let's finish this quick and have those drinks! It's free, so Taynor can't complain!"
+    },
+    {
+      "character": "Steelarm Cerigg",
+      "text_en": "Not ashamed to admit the offer of drinks has me fired up!"
+    },
+    {
+      "character": "Granson of the Mournful Blade (text bubble)",
+      "text_en": "Down with you!"
+    },
+    {
+      "character": "Granson of the Mournful Blade (text bubble)",
+      "text_en": "No you don't!"
+    },
+    {
+      "character": "Giott the Aleforged (text bubble)",
+      "text_en": "Here comes a big one!"
+    },
+    {
+      "character": "Giott the Aleforged (text bubble)",
+      "text_en": "Yaaah!"
+    },
+    {
+      "character": "Lue-Reeq of the Gilded Bow (text bubble)",
+      "text_en": "Nothing I can't handle!"
+    },
+    {
+      "character": "Lue-Reeq of the Gilded Bow (text bubble)",
+      "text_en": "Fly true!"
+    },
+    {
+      "character": "Steelarm Cerigg (text bubble)",
+      "text_en": "Stay sharp!"
+    },
+    {
+      "character": "Steelarm Cerigg (text bubble)",
+      "text_en": "Try this!"
+    },
+    {
+      "character": "Crystarium Guard (text bubble)",
+      "text_en": "Who the hells are they!?"
+    },
+    {
+      "character": "Crystarium Guard (text bubble)",
+      "text_en": "Ugh, they're strong!"
+    },
+    {
+      "character": "Panicked Hildibrand (text bubble) (rarely appears)",
+      "text_en": "Where am I? ... Who am I?"
+    },
+    {
+      "character": "Spectral Paladin",
+      "text_en": "My shield...is impregnable..."
+    },
+    {
+      "character": "Granson of the Mournful Blade",
+      "text_en": "Damn! We must find a way past his defense!"
+    },
+    {
+      "character": "Lue-Reeq of the Gilded Bow",
+      "text_en": "My arrows don't do a thing!"
+    },
+    {
+      "character": "Giott the Aleforged",
+      "text_en": "Right, you asked for it!"
+    },
+    {
+      "character": "Giott the Aleforged",
+      "text_en": "A good old-fashioned dwarven decking, made mightier in exile!"
+    },
+    {
+      "character": "Giott the Aleforged",
+      "text_en": "Have a taste of dwarven tradition, you airy glowing bastards!"
+    },
+    {
+      "character": "Steelarm Cerigg",
+      "text_en": "Ack, no bloody end in sight..."
+    },
+    {
+      "character": "Granson of the Mournful Blade",
+      "text_en": "Press on! We'll hold them here!"
+    },
+    {
+      "character": "Spectral Berserker",
+      "text_en": "Come, servants of Darkness! I'll bathe in your vile blood!"
+    },
+    {
+      "character": "Spectral Berserker",
+      "text_en": "I'll rend your flesh and crush your bones!"
+    },
+    {
+      "character": "Spectral Berserker",
+      "text_en": "Darkness must die! Die, die DIEEEEEE!"
+    },
+    {
+      "character": "Spectral Berserker",
+      "text_en": "Ahhhhhh, my blood! It burns in my veins!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Many thanks to those who came to our aid."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Just a little further to go..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Dare I say we've seen the last of them?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "They were all bathed in Light... Why?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "There can be no doubt—'tis indeed the Exarch's magick."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That proved quite a detour, but all's well that ends well."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's Cassard! And he's brought help from Mord Souq!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No small coup to roll that boulder over!"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Look! It's our friends from Mord Souq!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our friends have come to our aid!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Magnus! We're in your debt!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A Talos? It could only be Magnus!"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "We must go and thank them afterwards!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Pleased am I to see that more Talos have been restored."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thanks for clearing the way!"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Thaffe and Jeryk are here too!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Much obliged, you two!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whoever you are, you're not stopping us!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This one's aether shines bright. A foe to be reckoned with."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Doubtless no ordinary hero whence he doth hail."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "We can't lose! We won't!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our thanks, Feo Ul!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Feo Ul! You came!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "That the king themself should attend..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A portal. Let us see where it leads."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We would be hard-pressed to find stouter aid."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Fuath! For once I'm glad to see them!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Is this just a dream, or are the Fuath really helping us?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis a strange time indeed when the Fuath lend their aid unconditionally."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Tell me, Urianger... Where did you learn that water-walking charm?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The amaro, too, fight with us!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "All of the fae folk, rallying to us... This doth verge upon a miracle."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "We owe it to them to see this through!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Even the amaro have joined the fray!"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Thank you, everyone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're getting past you one way or another!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Her aether is dark, but within I see a glimmer of radiance."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Another noble soul reduced to a means to an end..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Her light... It has a sad tinge to it..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You have our gratitude, Feo Ul!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "On to Lakeland, then!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're a godssesnd, Feo Ul! Thank everyone for us!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "When the king commands, even the forest must obey..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Look, a path has opened up!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I see it! The Crystal Tower!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Another stretch and we're home free."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "That such a passage should exist..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's keep moving right along!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not bad, you lot!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I won't be outdone!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "They're a little rough-hewn, but their hearts are in the right place."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Are they your friends, Forename ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Good gods, who in the world punches like that?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Actually, Sister, when you're angry... Ahem. Never mind."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Let's leave them to it and press on!"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Please be safe, all of you!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hmph, the bigger they are...!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Seriously? This is a real person somewhere?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Have care—his aether is far denser than the rest!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Whatever the brute's got, I'll bear the brunt of it!"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I think that's the last of them..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Apparently, even they have limits. Nevertheless, we should remain vigilant."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Urianger, something occurred to me while we were fighting. These enemies..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...Are heroes hailing from other shards, summoned hither to deliver this world from its doom."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Scant moments after the starshower did they appear ─ as yet more souls were inspired to walk the hero's path, no doubt."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thus did hopes for salvation of realms near and far resonate and converge...lending still greater strength unto our adversary."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So that's Elidibus's game. But first things first: if the rings are the same as the Exarch's, then we need to ask him how that's possible."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Crystarium is close. Let us press on."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "They come!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So near and yet so far."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "“In the chaos of conflict, one can always find an opening to exploit.”"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Whoever taught you that is a wise man indeed. And good with a gunblade. But yes, I daresay we can create an opening wide enough for at least one of us to slip through."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That being you, of course─though others are welcome to follow in your wake. Ryne and I will keep our guests occupied."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Brave and selfless as ever. Yet the two of you may struggle to fool our foes, aetherically sensitive as they are."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Had you a comrade who could use destructive magicks to wreak havoc upon the ambient aether, on the other hand..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Very well, I too shall assist in the diversionary effort."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh, not this old dance again... Yes. Obviously, I'll stay and fight."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud! I'm about to do a great many stupid and reckless things. Watch my back, would you?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And there you have it. Take care of yourself, my friend."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "We'll do our best."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Rest assured I have no intention of expending any of mine this day."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I shall not overexert myself without good reason. As for the others..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Finished? Then let's begin!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...'Tis done."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Let me see! Let me see!"
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Yes! Your memories are preserved safely within! We've done it! We've done it at last!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I have inspected the other vessels. They are all ready to receive of our friends' memories."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Excellent, excellent!"
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "I shall have my familiars bear word to them at once!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Elidibus..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "It was not until I observed the battle between Emet-Selch and the Warrior of Darkness that I realized what I must do."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "I will summon heroes from other worlds unto the First, just as you did."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Their presence shall serve to empower me─granting me the strength to crush my enemy."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Though it pains me to disappoint you, I feel compelled to explain that the magick in question requires no small amount of preparation."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Ah, but you assume I require my champions to be summoned in their entirety. I do not. Their souls needn't even be whole."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "My purpose requires no more than their burning desire to vanquish evil."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "This I shall sear upon the aether, raising thereby an army of phantom heroes, to whom I shall whisper, as I have to so many over the ages..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "“Here lies darkness. It must be destroyed.”"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And you expect me to cooperate?"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "I do not require your cooperation. Your death will suffice. The magick, I shall have from your corpse."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Go, Lugus!"
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "We must flee!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "...But what is this?"
+    },
+    {
+      "character": "???",
+      "text_en": "Argh... Unnngh..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "My friend... How did you...?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "No matter... Elidibus... He took us unawares..."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "It was all we could do...to raise a ward to hinder his steps... And so we fled..."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "But he took it... The vessel with the Exarch's memories..."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Forgive me... Forgive me..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "The vessel bears not only my memories, but my blood─the blood of Allagan royalty...granting him the means to control the tower."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "With it, he has performed I know not how many summonings, calling forth heroes from across the rift."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And as you can see, the burden upon the tower is beginning to tell..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "No. I won't let you go alone. Not this time."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "If you mean to face him alone, I will not allow it. Not this time."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Elidibus has exploited the people's nobility. Twisted their purest intentions for terrible ends."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And I cannot let it stand. As Exarch, it is my duty to protect them. To defend their hopes and dreams."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "So I'm going to the Crystal Tower, with or without your blessing─though I would rather it were with."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "I'd join you...but I would only be a burden. Better that I remain here with my gremlins..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I shall send help. Stay strong, my friend, and take heart."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "By binding Elidibus within the tower, we have done more than simply delay him."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Much like our adversary, I am not wont to show my hand prematurely. But the time has come to bring my strongest card to bear."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "To the tower!"
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Don't worry about me─I merely need a rest... Go on, off with you! I'd be no help at all..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "With your permission, I would make a brief stop at Accensor Gate ─ just long enough to send the guard to Beq Lugg's aid, you understand."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Were it not for them, we would never have escaped Elidibus, much less with the spirit vessels."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Though mine fell into our foe's clutches, Beq Lugg gathered up the rest at great risk to themself."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I must see that they are safe before we press on. Enough good people have given their lives that I might fulfill my duty."
+    },
+    {
+      "character": "Lyonicia",
+      "text_en": "Just when I thought we had a moment's respite, things take yet another unsettling turn... Reminds us that we must never lower our guard."
+    },
+    {
+      "character": "Inerot",
+      "text_en": "I know not what is happening to the sky, but it can only bode ill. I shall redouble my vigilance!"
+    },
+    {
+      "character": "Nervous Guard",
+      "text_en": "W-Warrior of Darkness! Exarch! Forgive us this paltry greeting. We were not notified of your coming!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "It wasn't planned. I need you to assemble a rescue party."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Our friend Beq Lugg lies wounded in a clearing to the west. Pray go to their aid with all haste."
+    },
+    {
+      "character": "Nervous Guard",
+      "text_en": "At once, my lord! M-May I ask how they came to harm?"
+    },
+    {
+      "character": "Nervous Guard",
+      "text_en": "There've been reports of enemies in our midst ─ specters who appeared after the starshower. Do they have something to do with it?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Yes. The man who attacked Beq Lugg is also responsible for the starshower and the appearance of the specters."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I have no time to explain, but know that the individual in question does not seek to do indiscriminate harm. If you do not bar his servants' path, they will not turn on you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "You are to leave this foe to us, understood? Meanwhile, I ask that you alert the rest of the guard, and focus on maintaining calm in the city."
+    },
+    {
+      "character": "???",
+      "text_en": "Understood."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Lyna!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "I shall take charge of matters in the city. Find Beq Lugg ─ now!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "“No time to explain”... Hmph."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "The graver the matter, the less inclined you are to speak of it. Even when it is plain for all to see─like what is happening to you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Lyna... This time there truly is no time."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "I know, my lord. Were matters otherwise, I believe you would even be willing to speak of your past if pressed."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Yet I remain afraid to do so."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Afraid that what I might learn would make a stranger of you."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "...Forgive me. There is no time."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Indeed. Time must be made."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I know, my friend. I know, just... grant me a moment. Please."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...Lyna. Do you remember the time you got lost in the tower when you were little, and I searched for you hours on end?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And the cake I baked for your tenth nameday. That hideous lump the good people of the Mean covered up with beautiful candles..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And your hapless first encounter with the sin eaters as a guard. Afterwards, you threw yourself into your training, pretending nothing was wrong, though I could see the tears in your eyes..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "All these moments that we shared, all the feelings that accompanied them...they are as real as aught that came before, and nothing will ever change that ─ will ever change what we mean to one another."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "If I have made you worry, then I beg your forgiveness. Heavens know you deserve better."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Through the darkest of times, you have kept faith with me, standing tall as a proud daughter of the Crystarium─as an example to us all. I count myself blessed to have had you in my life, and I want you to know that."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Why do you speak so? As if this were our last meeting? Truly, you have a knack for making people worry."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Besides, it is you who are an example to us all. You who have led us through countless trials. And you who will lead us through countless trials to come."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "So go, my lord. Do what you must. ...But take care."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "The ward holds. Excellent. Elidibus will still be within the tower."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Our foe's sole purpose is to destroy you, and to that end he has summoned heroes from other reflections, empowering himself with their hope even as they occupy your comrades. You will not best him as easily as you did in the depths. By any measure, the odds are now stacked firmly in his favor."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "To wit, spare no preparation, my friend. I shall lift the ward only when you are ready."
+    }
+  ]
+}

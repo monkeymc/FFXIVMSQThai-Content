@@ -1,0 +1,652 @@
+{
+  "id": "friends-gathered",
+  "wiki_path": "/wiki/Friends_Gathered",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "Friends Gathered",
+  "level": "89",
+  "location": "Old Sharlayan(X:11.8,Y:9.9)",
+  "npc_start": "Tataru",
+  "dialogues": [
+    {
+      "character": "Tataru",
+      "text_en": "I realize you've still got lots to do before you depart, so I won't keep you any longer."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I do hope you can find a moment for yourself, and that the others can as well. They said they were returning to the Baldesion Annex, though I doubt they stayed for long."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "If you decide to go looking for them, I'd suggest speaking with Krile first. I'm sure they would have told her their plans."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Be sure to stop by the boutique if you find yourself in need of more equipment!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "You're back. I take it you received your gift from Tataru?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It was a surprise long in the making, with many, many long hours of fretting to get everything just right. I'm glad to see it realized, and with great success."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If you're looking for the others, though, they've already taken their leave."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Y'shtola, Thancred, and Urianger have gone to the Last Stand for a bite to eat."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alisaie and G'raha Tia, meanwhile, thought their time would be better spent poring over books at Noumenon."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As for Alphinaud and Estinien, well... They've elected to pay a visit to the Leveilleur estate, though Estinien seemed somewhat reluctant to go."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm sure they would all be glad for your company if you've a mind to seek them out."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Should you be feeling peckish, I'd suggest heading to the Last Stand before Y'shtola and the others finish eating. But above all else, it would be foolish to run headlong into battle a fatigued mess, so do remember to get a good night's sleep."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I've a few matters to attend to myself before you and the others depart for Ultima Thule. But rest assured, Tataru and I will keep everything in order while you're all away."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Try as she might, Tataru had no chance of standing between you and a hearty meal. Don't worry, we saved some for you."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Hast thou perchance had opportunity to partake of the rainbow pudding? Owing to its striking flavor and somewhat garish appearance, 'tis quite popular. Indeed, so popular that the Last Stand's stock hath been entirely exhausted."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I should hope, at the very least, Puddingway did sup upon this most delectable of desserts."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Forename ! Come to make our trio a quartet, have you?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Please, have a seat, and we'll see about getting you a drink."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Your business with Tataru is finished?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My, what a thoughtful surprise. Whatever would we do without her?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Indeed. And she's right, you know ─ it hasn't been all doom and gloom."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It feels like a lifetime ago that Master Louisoix gathered us together to form the Circle of Knowing."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Since then, we have experienced much. But rather than feeling wiser, the more I learn, the more I find my knowledge lacking."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Forsooth. As a student, vainly did I believe that I held the secrets of creation in my grasp. Yet that which I had seized was but an insignificant sliver of what awaited in the wider world."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Every encounter, every experience, hath served to open mine eyes, enlightening and humbling me in equal measure. Even from those whom I called enemies have I learned many a valuable lesson."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What will we learn at the edge of the universe, I wonder..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ultima Thule, where the bringer of the end makes her nest... I for one can't possibly imagine."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But whatever awaits us there, we will survive. We must ... For her."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Is aught the matter?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No, it's nothing. I just... Well, lately I find myself surprised at how much I've changed. How much we've all changed."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Gods, it feels like only yesterday that we went on that mission to Drybone."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We've both changed much since then, have we not?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "O ye of little faith. I know better than to leave home without ample supplies, thank you very much ─ I didn't pick up the gunblade yesterday."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And to think I used to prefer fighting from the shadows. Gods, I really have changed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We've come far together, and if we have aught to say about it, we'll go further still. Aye, we will avert this calamity and return home."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In preparation for which, we must give thought to what we hope to achieve after the proverbial dust has settled."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What with the primals and Ascians all but dealt with, I suppose we'll need to look for new hobbies."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In all seriousness, though ─ in uniting to overcome a common foe, the disparate peoples of the world have found a way forward together. It's a truly gratifying sight to see."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed... Though it was many years in the making, we have successfully set in motion the gears of fundamental change."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With this, we have fulfilled our humble role as a symbol of hope...and I daresay it is time to bow out."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "After all, there is no shortage of hands to bear the torch in our stead."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You know, I never really considered I might live long enough to see an after."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But even if my time as a Scion came to an end, I don't expect that much would change."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Traveling the world, going wherever the wind blows, lending a hand to those in need..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A journey for journey's sake. It doth suit thee well. I must confess, I too have yearned to see more of the world."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If thou art amenable to the suggestion, I would accompany thee. Mine ability to affect an air of normalcy through artful disguise is much improved, thou must concede..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Aye, well, improvement is relative. You still look suspicious no matter what you wear."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What of you, Y'shtola? Any grand plans?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Why, continue my quest for knowledge, naturally. To begin with, I wish to know the state of the reflections, to which end I must find a means to travel between worlds."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis the least I must do if I am to keep my promise."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Should my pursuits prove unduly arduous, I won't hesitate to call on you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And in return, I will take you to see Ryne one day. I'm sure you cannot wait to see the fine young woman she has become."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Spare me..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And what of thee? What wouldst thou pursue at duty's end?"
+    },
+    {
+      "character": "Last Stand Waitress",
+      "text_en": "Here's yours. My apologies for the wait."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, shall we make a toast?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "To victory."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To our comrades."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To the future of the star."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You can always count on your friends to help you maintain perspective. A pity mine take a perverse pleasure in it."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'd like to think I give as good as I get ─ though I'd fare better with the occasional assist from our consummate nodder."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But it's all in good fun. And I wouldn't have it any other way."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I say, Forename , whence came this─hic!─simulacrum that standeth beside thee?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...I see falsely? But Y'shtola and Thancred, but moments ago, employed the selfsame doubling magick..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "All right, then─hic!─keep thy secrets..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Leaving so soon? I suppose it's for the best...if you'd rather not explore the bottom of a bottle with Urianger."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I daresay the others would welcome your company as well. If you can find them, that is."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In any case, as long as you make the most of your time, then that is all that matters."
+    },
+    {
+      "character": "Puddingway",
+      "text_en": "Ah, Forename ! I have come to this \"Studium\" in order to study the ways of pudding. Alas, my creations don't jiggle as they should just yet...but I persevere!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "<snore>"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Knowing them, they're probably dreaming about the celestial adventures to come."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Just as well. They've been running themselves ragged of late."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Unlike you and the others, I'm a few steps removed from the danger and excitement. The things you all get up to never fail to impress me. But by the same token, I can't help but worry."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not only for your safety, but...but for your happiness. After everything you've sacrificed, you earned it a thousand times over."
+    },
+    {
+      "character": "Krile",
+      "text_en": "From the simple pleasures of tucking into a hearty meal or...or collapsing into a comfortable bed..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To the grand triumphs of visiting legendary lands or finding true love ─ you deserve all the joy in the world."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There is so much that life has to offer. So much to be treasured and shared with those we hold dear."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So promise me this: come what may, you won't give up on your own happiness."
+    },
+    {
+      "character": "Krile",
+      "text_en": "When you're out there, fighting tooth and nail, it's all too easy to forget."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But in the end, your passions will be your greatest strength of all. Remember that."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Hm... This feels...familiar..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, 'tis good to be..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Wait, what are you─? What am I─?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Gods, don't tell me I fell asleep?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not that there's any shame in it...but you were sleeping like babies."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ugh... How embarrassing..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Not a word to anyone. Understood? Not. One. Word."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm told that sleeping in proper beds of your own choosing is a much more effective way to prepare for battle."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So...what were the two of you doing here?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I had a few books to return to the library. Thought I'd take care of it while I could."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And you?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That's enough reading for one day. As we don't know how long we'll be away, I'd best return these books before we depart."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And eat. I'm absolutely famished. What about you?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I see... Perhaps I'll stop at the Last Stand on my way back."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods, I didn't realize I was so tired. One moment I was resting my eyes, and the next..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I should go and get some air. Maybe a quick bout of training. But not sleep. I'll sleep when I'm dead."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If nothing else, these two seem to be in good spirits. Still, I'll see them back to the annex for some proper rest, even if I have to drag them by the ears."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "What...? Surely this isn't the first time you've seen me without my armor."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Oh? What brings you here?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, so you were worried that the Leveilleur household might again be gripped by turmoil."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "All is well, I assure you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In my letters home, I had made mention of Estinien, you see."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "My mother wished to meet the legend in person, and so we arranged to have a spot of tea together."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Where were you in my hour of need? Fell beasts I can face, but I'm not made for idle chitchat with lords and ladies..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, I for one thought you held your own. Mother was the picture of delight."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Hmph. I might've been delighted myself were we in a tavern with more agreeable drink."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "The thought of fleeing crossed my mind, but what then? I'd never hear the end of it ─ least of all from Tataru."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'm sorry... 'Twas not my intent to cause you such distress."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's just...it was one of the things I didn't want to leave undone ere we set forth."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That's not to say I think we won't be returning..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet given what lies ahead, I did not wish to leave for later that which I could do today."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "After all, tomorrow is never promised."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "It's fine. Not like I had better things to do."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Besides...seeing you with your mother brought back fond memories of my own. Be we rich or poor, family is...family."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Well, it's past time we were on our way."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wait!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Since I left home, I've made a great many mistakes. Mistakes for which I can never make amends. But through it all, you didn't give up on me."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To have returned here, with you at my side... It means more to me than you know."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank you. From the bottom of my heart."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forgive me, but it needed to be said."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I'm the one who owes you thanks."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Were it not for you, I would not be alive today, nor come to terms with Nidhogg's spirit."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I am ever grateful."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, we needn't make it a competition. You know... This must be what Hydaelyn meant when She spoke about depending on one another."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "However treacherous the road before us, together we will prevail."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No, I'm not. And I'm proud of that."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I know, and I won't let you down. Together, we'll show the enemy the strength of mortal will."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "All that remains is to return to the annex and give my armor one last polish. I expect Alphinaud has maintenance to carry out on those...floating things of his, too."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A few of our comrades decided to remain a while in Sharlayan after making their deliveries. Did you happen to pass any on your way here?"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Welcome back, Forename ! Returned to catch a final few winks before embarking on your mission, I presume?"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "You'll be happy to know your chambers have been cleaned, and fresh linens laid out."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "I pray you enjoy the sweetest dreams on this final night before the big day..."
+    },
+    {
+      "character": "Zenos viator Galvus",
+      "text_en": "“You will never get what you want...not even the battle you pine for so dearly...”"
+    },
+    {
+      "character": "Zenos viator Galvus",
+      "text_en": "In that transcendent moment, what was it that I sought in you?"
+    },
+    {
+      "character": "Zenos viator Galvus",
+      "text_en": "And what was it that you sought in me?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "How often have we thus assembled..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To combine our knowledge and seek solutions to the problems before us."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Back at the Waking Sands, it was all we could do to address the most minor of troubles. Who could've realized what we'd find when we began to look to the sources of the realm's woes."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "At the Rising Stones, we made great strides and shared many moments. From the joyous...to the sorrowful."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've had occasion to call other places home too."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Be it Ishgard or Kugane, we were fortunate to find sanctuary wherein we might take stock and continue our fight."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I was honored to host this company in the Crystarium. To stand with you all as we confronted the truth of the star itself."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And now, from this place, we go to fight the most important battle of all."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Forum has sent word. The ark is ready."
+    },
+    {
+      "character": "Krile",
+      "text_en": "The Loporrits, naturally, will be commanding the vessel."
+    },
+    {
+      "character": "Krile",
+      "text_en": "They will see the eight of you to Ultima Thule."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Upon arriving, your objective is to find and vanquish Meteion."
+    },
+    {
+      "character": "Krile",
+      "text_en": "As a final formality, the Forum bade me ascertain your resolve. So...are you certain you wish to do this?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We are."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then ere you report to Thaumazein, I leave you with these words."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You must triumph."
+    },
+    {
+      "character": "Krile",
+      "text_en": "What that means will differ for each of you."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To make it back home, or to simply avert doom, or perhaps something else altogether..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yet whatever it is that drives you, I have faith in its power to see you through. So please ─ triumph."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Triumph, as we who remain behind believe you will."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us be off, then."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Wait!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Both Krile and I will be there to see you off, but as your receptionist, I feel I need to say this here."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Safe journey, all of you! And...be safe!"
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "id": "house-of-divinities",
+  "wiki_path": "/wiki/House_of_Divinities",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "House of Divinities",
+  "level": "80",
+  "location": "Thavnair(X:25.4,Y:33.7)",
+  "npc_start": "Estinien",
+  "dialogues": [
+    {
+      "character": "Thancred",
+      "text_en": "Helping a struggling fisherman you've only just met to peddle his catch... Yes, you would do something like that."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Mayhap owing to the island's small size, the tower's impact upon the people's lives doth appear more pronounced here than in Eorzea."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "That Matsya fellow you were helping ─ he's Arkasodara, is he not?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Apparently, 'tis almost exclusively his people that are being kidnapped. Should he be traveling alone?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If summoning is this perpetrator's aim, it doth stand to reason that Arkasodara would be their primary targets."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For 'tis the faith of their ancestors which prevaileth in this land, and many are devout adherents still."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We'd better go after him. Akyaali lies to the west, as I recall ─ the same direction as Krile's acquaintance, incidentally."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "It's settled, then. Keep your eyes peeled while we make for the village."
+    },
+    {
+      "character": "???",
+      "text_en": "N-No! Leave me alone! Help! Somebody, help!"
+    },
+    {
+      "character": "Tempered Imperial A",
+      "text_en": "Meddlers... Eliminate..."
+    },
+    {
+      "character": "Tempered Imperial B",
+      "text_en": "Fuel... Gather fuel..."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "H-Huh? Where did they go? Why are you here...?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I see you found him in time."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Y-You and your friends came to look for me? I don't know how to thank you..."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "On my way home, I took a moment to stop and rest. Think about what to do about, well...everything."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "And then those men came..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Kidnappers. We'd heard that the Arkasodara were being targeted."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Surely you have as well? Perhaps it's best if you took refuge in the city."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "We've considered it, me and the others. But fishing is all we know ─ the ocean all we have."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I see... That's your decision to make, but you should take care not to travel alone."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A question, if I may."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis our understanding that strange fiends have emerged from the tower. What canst thou tell us of these beings?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Not much, I'm afraid. I have no idea what they are."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "But I've heard that some bear an unsettling resemblance to our divinities."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "For that reason, some have taken to calling the tower “Zot”..."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "\"House of divinities“ in the old tongue, it means."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "But they're not true divinities. They're monstrous imitations that bring only death!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To have one's faith so twisted is a grievous indignity, and full justified art thou in thine outrage."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In time we may be forced to contend with these false gods, and thus we would learn all we may about them. Wilt thou not tell us of thy divinities and their true nature?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "You've come all this way to save us...? Really!? To think I had you peddling fish..."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "But to answer your question ─ yes, of course! We would gladly tell you about our gods. “We,” I say, because I'm a terrible storyteller, and I'd ask my fellow villagers to do it."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "So please come to our village. We're good, gods-fearing folk, all of us, and we'd be honored to share our knowledge. And fish!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "What sayest thou? Shall we pay visit to Akyaali?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Wonderful! Just follow the road west and down the hill ─ you can't miss it!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "So, 'tis the simulacra of Thavnairian gods that are being summoned... If any doubt existed before, there can be none now: the kidnapped Hannish are imprisoned in the tower."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I pray that we will be able to save them..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Though indeed, saving them will mean confronting their false gods, like as not. Aye, as you said, we'd do well to study their religious traditions. To Akyaali."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Familiar though I am with the myths and legends of this island, to hear them spoken by heirs to this storied heritage giveth them new life."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A charming little village. Shame about the hideous tower."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Mark you that platform out on the water. Some manner of shrine, perhaps?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Welcome to Akyaali, my friend! The name means “white beach,” and there isn't much here save that...but please make yourself at home."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Your companions have already begun talking to everyone. Feel free to show yourself around and do the same."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Any one of us can tell you about our gods, but you could do worse than to start with Khanga and old Hasveydah. They're free at the moment, as it happens."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "I'll try to think if there is anything useful I can share with you as well. After all, I still owe you for rescuing me on the hill!"
+    },
+    {
+      "character": "Khanga",
+      "text_en": "Hm? You wish to know about our gods? What a curious visitor you are. Most want fish. In any case, I'm happy to oblige."
+    },
+    {
+      "character": "Khanga",
+      "text_en": "Now, I don't know how it is whence you hail, but our isle is home to many gods."
+    },
+    {
+      "character": "Khanga",
+      "text_en": "They can be divided into two groups: the Manusya, beings of wisdom who assume the form of men; and the Mrga, beings of might who assume the form of beasts."
+    },
+    {
+      "character": "Khanga",
+      "text_en": "Together They are divinities ─ Their forms and personalities many and varied."
+    },
+    {
+      "character": "Khanga",
+      "text_en": "Some are kind and gentle, others stern and temperamental ─ just like we mortals can be."
+    },
+    {
+      "character": "Khanga",
+      "text_en": "All are possessed of great insight and experience, and by heeding Their teachings, we strive to be better people and live better lives."
+    },
+    {
+      "character": "Khanga",
+      "text_en": "Different though They may be, both the Manusya and the Mrga are equally divine and equally revered."
+    },
+    {
+      "character": "Hasveydah",
+      "text_en": "Interested in learning about our gods, you say? Heh, that's what I like to hear! Prick up your ears, then, and listen."
+    },
+    {
+      "character": "Hasveydah",
+      "text_en": "In ancient times, the Manusya and the Mrga ─ deities who look like men and beasts, respectively ─ were locked in conflict."
+    },
+    {
+      "character": "Hasveydah",
+      "text_en": "Eventually, seeking the wisdom of the Manusya, the Mrga cast aside Their own heads and took up those of Their foes."
+    },
+    {
+      "character": "Hasveydah",
+      "text_en": "Likewise, the Manusya coveted the might of the Mrga, and so They too resolved to trade heads."
+    },
+    {
+      "character": "Hasveydah",
+      "text_en": "Thus were born new gods possessed of both might and wisdom, and They ushered in an age of harmony between the two factions."
+    },
+    {
+      "character": "Hasveydah",
+      "text_en": "From then on, as a sign of Their esteem for one another, the Manusya have worn animal faces, and the Mrga the limbs of men."
+    },
+    {
+      "character": "Hasveydah",
+      "text_en": "We honor the Manusya and the Mrga by incorporating Their sacred images into works both practical and artistic. Try looking out for them, eh?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "There you are. Learned a thing or two about our gods, I trust?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "While you were off talking to the others, I remembered something that may be of interest."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "If you could let your friends know, I'll go and fetch it from my home at once."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Apologies for the wait. I wished to show you this hanging scroll which depicts three of our most revered deities."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "By all means, we should like to see it."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "They are Manusya ─ you heard about Them already, yes? Three sisters."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "The center one is the eldest. Cinduruva, a goddess of wisdom. For this, alchemists hold Her in the highest."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "To Her right is the middle sister, Sanduruva. As a goddess of wealth, She counts many traders among Her followers."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "And on the left is Minduruva, the youngest sibling. She presides over the crafts, and so is beloved by weavers."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Although each is worshipped for different reasons, the sisters are usually portrayed together in these works, which people keep in their homes for good fortune."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In like fashion to the Manusya, the deities of Eorzea preside over myriad aspects of life. And what of the Mrga, if I may ask?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "The Mrga hold power over nature. In ages past, They were revered as guardian deities in times of conflict."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "If you have occasion to visit our temples and ruins, you'll find Their images there."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Among them is a god who possesses a gaja's head, and He is venerated as the progenitor of the Arkasodara."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "And then there are dragons. They occupy a special place in our history."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "You worship dragons too?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "It's said that an ancestor of the satrap ─ that's the ruler of Radz-at-Han ─ forged a covenant with a dragon divinity in ancient times."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "This divinity has since acted as the guardian deity of the satrap. Legend holds that, if ever the satrap is in need, his dragon ally will fly to his aid!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Dragon ally..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You claimed to be a terrible storyteller, but nothing could be further from the truth."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The passion you bear for your faith is plain to hear. I am confident that the information you've given us will serve us well in our efforts to deal with the tower."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "That is very kind of you to say. Thank you! I will pray for your success."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Right, I believe it's time we sought out Krile's acquaintance."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "An alchemist by the name of Nidhana."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "According to Krile's notes, we're to find her at a place called the Great Work, further north along the coast."
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "id": "beneath-the-surface",
+  "wiki_path": "/wiki/Beneath_the_Surface",
+  "wiki_image_url": null,
+  "patch": "5.2",
+  "title_en": "Beneath the Surface",
+  "level": "80",
+  "location": "Lakeland(X:26.1,Y:32.5)",
+  "npc_start": "Urianger",
+  "dialogues": [
+    {
+      "character": "Thancred",
+      "text_en": "It pains me to think that men with such pure intent are being made to serve Ascian ends, however directly. But they're right. The people need heroes."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though our respite was cut short, I daresay we are all eager to avail ourselves of such knowledge as the ruins may hold."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Aye, and I doubt further contemplation of Elidibus's machinations will be conducive to relaxation. We may as well make for the Split Hull now."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Perhaps we ought to have clarified what Bismarck meant by “a short while.” To his mind, our whole lives might be as the blink of an eye..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "You arrived rather early. Are you certain you did as you were told?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We rested! Didn't we, Forename ?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What's keeping Bismarck? Surely it doesn't take this long to shake off a few loose stones."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So, how much of a respite did you actually enjoy? Half a moment's?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "All are present. Now we need but await Bismarck's coming."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis time. Pray make ready."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Unlike Amaurot, the ruins which we now seek are no illusion. There is no knowing what awaiteth below."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I like to think my skills have improved in some small way since the last time we fought together. I won't let you down."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We must hope that whatever slumbers in the depths will help to shed some light upon Elidibus's recent activities."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What are we waiting for?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We can't be certain that the benthos are all we'll find down there. Stay alert."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Whether or not we find the knowledge we seek, we have a duty to stem the benthos' aggression. Eulmore has only just begun to rebuild."
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[To the depths!]"
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[These are poor neighbors indeed...]"
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[The time has come to part with these interlopers.]"
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[The walls fall-we must hurry.]"
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[We were fortunate...But what is all of this?]"
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[Tiresome creatures.]"
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[There it lies. I give you my breath...]"
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[Hah!]"
+    },
+    {
+      "character": "Bismarck",
+      "text_en": "[Your wish is granted. Go, little wanderers.]"
+    },
+    {
+      "character": "Anyder Diviner",
+      "text_en": "Visions of eld, attend to us now..."
+    },
+    {
+      "character": "Rukshs Dheem",
+      "text_en": "Your kind has never given of its treasures willingly─your lives will be no different."
+    },
+    {
+      "character": "Rukshs Dheem",
+      "text_en": "You know nothing of the depths! Nothing!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I see we're not to have a peaceful journey."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We're getting close."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Mayhaps 'twas Bismarck with whom I ought have bargained."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For heavens' sake..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This lot are nothing compared to the barnacles."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Look! A trench!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Such ease of motion despite his size-it's truly a wonder."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'm certainly glad for Bismarck's preparation now."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Oof!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What a landing!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The force of it... 'twas nigh overwhelming."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Just...stay on your feet this time, please."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Incredible!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Come along. Disturbing secrets await, and all that."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Our deepest gratitude, great one."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Thank you, Bismarck!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What is that?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "What in the world...?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We are fated to happen upon strange abominations, apparently."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Never have I see the like."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And it stinks. Lovely."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Do... Do you think there are more of them?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Some manner of harrowing, perhaps...?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Might similar creatures dwell beneath the seas of the Source?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Look at this architecture..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "this is precisely what we were looking for."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The similarities to Amaurot are undeniable."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis unmistakably of the ancients design."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What are they doing with that crystal?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Whatever they're doing, I doubt it's good for us."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In channeling aether through the crystal... Hmm."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I think we have passed the point of theory!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This is reconstructed \"concept\" then?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Looks like the benthos have learned to use this place."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "An impressive concept, to be certain."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We might learn much, if more such crystals are to be gound within."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There are so many..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "It's beautiful!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Why, this... This could take a lifetime to study..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There may be still more out of sight."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though I mislike this, we may as well have done with it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If she wants a fight, I'm happy to oblige!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "She plans to fight us herself? How efficient."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yonder queen standeth as more than symbol to her soldiers. Have caution."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Come now, she was maniacal."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The remaining benthos may struggle, bereft of leader..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "That was all of them? Every last one...?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If there were more guards, they would be here by now."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis a boon we find this sanctum intact."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We may at last turn our attention to investigation."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This structure must have served an important function. And here are yet more crystals..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I too noted the crystal repository on the way. The benthos seem to employ them in their spellcasting."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In such vessels did the ancients preserve concepts─ideal forms to be drawn upon in the act of creation."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "That so great an abundance should reside here lendeth credence to Y'shtola's conclusion. This facility held great significance."
+    },
+    {
+      "character": "Diplomatic Ancient One",
+      "text_en": "Thank you all for joining us at Anyder in these most perilous of times."
+    },
+    {
+      "character": "Diplomatic Ancient One",
+      "text_en": "By the summoning of Zodiark have we been granted a reprieve. Yet immutable as the laws He has woven may seem, they will not serve to forestall our doom."
+    },
+    {
+      "character": "Distressed Ancient One",
+      "text_en": "Nay. Should we continue down this path, our fate will be the same."
+    },
+    {
+      "character": "Distressed Ancient One",
+      "text_en": "I said as much to the Convocation, of course, but the stubborn fools turned a deaf ear to my warnings."
+    },
+    {
+      "character": "Distressed Ancient One",
+      "text_en": "I had hoped that the defector, at least, would side with us, but I regret to report our overtures have gone unanswered."
+    },
+    {
+      "character": "Distressed Ancient One",
+      "text_en": "Whither tend your thoughts, Venat? Where you lead, we will follow."
+    },
+    {
+      "character": "Venat",
+      "text_en": "I shall not speak ill of the Convocation─they too seek only to secure the future of our star."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Yet it is plain they will not countenance a permanent solution. That being the case, we must ask ourselves a simple question: are we prepared to pursue our chosen course, even should it mean suffering the eternal condemnation of our brethren?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "If so, I see no further reason to demur."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Let us bring forth the Light that shall ever after keep the Darkness in check."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So...it was they who first summoned Hydaelyn."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Their discussion did seem to imply as much, yes. I cannot say I have ever heard of this \"Venat\" before."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For a certainty, Emet-Selch never uttered the name, speak though he did of the schism which Zodiark's advent wrought upon mankind."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Some were of the viewpoint that His power must needs be restrained, and to that end did they call forth She who would serve as His shackles."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We know now that it was this Venat to whom they looked for leadership."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And that this place, in all likelihood, served as their headquarters. The presence of such intimate records attests to that."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I would hear what else they have to tell us. All of it. Did anyone see the source of the image?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The device there? Then let us see what other secrets it holds."
+    },
+    {
+      "character": "Diplomatic Ancient One",
+      "text_en": "Venat, please... Why must it be you?"
+    },
+    {
+      "character": "Diplomatic Ancient One",
+      "text_en": "If I may speak plainly, I would sooner it were another ─ any other. You are our leader . None can take your place."
+    },
+    {
+      "character": "Venat",
+      "text_en": "You know as well as I that but few support our cause. Far fewer than they who place their faith in Zodiark."
+    },
+    {
+      "character": "Venat",
+      "text_en": "If Hydaelyn is to stand a chance of opposing Him, I am the only one who might suffice as Her heart."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Rest assured, however: I shall not vanish from this world. The form I take shall ever remain my choice."
+    },
+    {
+      "character": "Diplomatic Ancient One",
+      "text_en": "...Then I will press you no more. Only know this...you will be sorely missed."
+    },
+    {
+      "character": "Diplomatic Ancient One",
+      "text_en": "I wonder...is this how the Convocation felt about Elidibus?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forgive me, but did that not strongly imply that Elidibus sacrificed himself to become Zodiark's heart?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Seven hells... Then who ─ or what ─ are we dealing with?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I had always assumed Elidibus to be of the same ilk as Lahabrea and Emet-Selch. But if the real Elidibus sacrificed himself before the sundering..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It makes no sense..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "That this facility shared intimate ties with the Akadaemia Anyder may readily be discerned from the common element in their names. Based on mine observations, 'tis like that the forms housed here were conveyed unto the Akadaemia only when required, and thence returned for safekeeping."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yet...such procedural minutiae are of largely academic interest, I concede. 'Tis unto the parties which did frequent these institutions that our thoughts should rightly turn. Specifically, the followers of Venat, and the Convocation of Fourteen..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...To say naught of the matter of Elidibus."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And there I was thinking “immortal” was bad. Would someone explain to me how we're meant to kill a being who doesn't technically exist?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Do you think we might be able to activate the device again? I should like to hear how those discussions ended."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The device appears to activate via a form of aetherial attunement, not unlike an aetheryte. Beyond that, I can say little for certain, save that we should take this opportunity to see what other records it contains."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "No response. Confound it."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If I may, milady─the panel did formerly emit a soft-yet-perceptible glow. That it doth so no longer may betoken the depletion of some essential energy within."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Given how long it has lain dormant, I think it fortunate it functioned at all."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That may be, but if we can't get it to work again, we'll be leaving with more questions than we've answered."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The white-robed emissary hath ever named himself “Elidibus.” Yet if the shade spoke true, Elidibus ceased to be ere even the sundering came to pass."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "This calleth to mind a truth that Emet-Selch did once reveal in passing ─ that the names by which we know our foes are not those given to Ascians at birth. Rather, they are titles of office, afforded to individuals of merit at such time as the role becometh vacant."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Perchance the Elidibus at Zodiark's heart and the emissary with whom we are acquainted be not one and the same, but predecessor and successor."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It's possible. If the previous Elidibus perished before the Final Days, the one we know could still be a survivor of the sundering."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And yet...something in that explanation rings false."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I will remain for a time. I would not abandon my attempts to revive the device so soon. There is more to learn here ─ I can feel it."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In matters of aetherology, I know of none as capable as thee. If there existeth a means to learn more, thou wilt surely find it."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Whilst thou art thus engaged, we shall attend to matters on the surface."
+    }
+  ]
+}

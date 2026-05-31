@@ -1,0 +1,516 @@
+{
+  "id": "futures-rewritten",
+  "wiki_path": "/wiki/Futures_Rewritten",
+  "wiki_image_url": null,
+  "patch": "5.4",
+  "title_en": "Futures Rewritten",
+  "level": "80",
+  "location": "Outer La Noscea(X:19.3,Y:16.6)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "I daresay we could all do with a rest, Alisaie not least of all, given the amount of aether she has been expending of late."
+    },
+    {
+      "character": "Eynzahr",
+      "text_en": "Judging by the...<grunt>...complaints my back is making, I may have overreached myself. Ah, the ravages of old age..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ga Bu is wise beyond his years. It's all very well leaders signing peace treaties, but it falls to individuals to bridge the gap."
+    },
+    {
+      "character": "Ga Bu",
+      "text_en": "If I could befriend you all, then surely other kobolds can befriend men too. And I'll do everything I can to help them. Facilitate, assist, help."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Savor the moment, lad / girl . Your next task can wait."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Right, let's return to the Rising Stones."
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "Admiral! Something strange is afoot at the Floating City!"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Breathe, man. What is it?"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "I think it's best you see for yourself. Please come with me."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What in the world is that?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A tower."
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "You can see it too, then? I feared I was losing my wits. One moment I was patrolling as usual, and the next, it was just...there."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Yes? This is she... I am... Aye. I'm looking at it."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "What!? Understood... Send the Elder Seedseer my regards."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "The communications officer. It seems this isn't the only tower. They've sprung up all across Eorzea."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Nothing more is known ─ only that they appear to be of Garlean construction. Our allies on the Ala Mhigan front are on highest alert."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Forgive my directness ─ but would you join them? They may well need the help."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course, Admiral. We shall make all haste."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "My thanks. I will return to Limsa to weigh our response."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Look for Commander Hext when you arrive in Ala Mhigo. And may the Navigator speed you on your way!"
+    },
+    {
+      "character": "Storm Officer",
+      "text_en": "Don't worry, sir / miss / [Maelstrom GC Rank] Surname ─I'll keep watch over the tower. Your place is in Ala Mhigo."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though it isn't visible from here, the locals report that a tower-like structure has appeared to the south."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Ga Bu? Don't worry. He's with our Maelstrom friends. Meaning we're free to deal with the latest problem to fall uninvited into our laps... <sigh>"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It appears to be business as usual inside the city, but Lyse will be able to tell us if there have been any developments without."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Thank you for coming so soon."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I'll send for Commander Aldynn at once, and we can decide what to do about these infernal towers."
+    },
+    {
+      "character": "Fearful Citizen (no text)",
+      "text_en": "Rhalgr preserve!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It can't be..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "The palace! After them!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You're here. Good."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Well, well, well, to be received by such an illustrious cast! Why, even the hero of the piece is here! I feel quite starstruck!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is that...Asahi!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "His body, more like. You don't fool us!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "You saw straight through it... Anyone would think you'd dealt with Ascians before!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Permit me to introduce myself. I am Fandaniel, and may I say what a pleasure it is to finally make your acquaintance."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "My, straight to business, is it? Suit yourself..."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "It is my intention to recreate the Final Days, to which end I have distributed a collection of rather ingenious devices ─ or “towers”─which will, in time, give rise to the grandest of spectacles!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Final Days...? But it was the Ascians who labored to prevent them!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "You're quite right! Though I would expect no less from one responsible for eliminating my unsundered colleagues."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Honestly, the three of them were obsessed with restoring the one true world. As a sovereign individual, however, I never had much interest in such things. I mean, why bother when you're just another sundered minion?"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Admittedly, Elidibus was not convinced by that argument. But thanks to you, I'm finally free of his incessant nagging!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Free to use my powers as I see fit! To fulfill my heart's desire!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "And my heart's desire is to lay this half-broken world to waste, leaving nary a fleck of dust behind!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What!? Why would you want such a thing!?"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Because I want wretched creatures who ask such meaningless questions to die!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "You!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "And you!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "And you!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "I want you all to die!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "And I want to die too! Oh yes, I want to die and take everyone with me in a paroxysm of pain and suffering!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "I'm different, you see. From the ancients who clung to dear life. And from you."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "So don't bother trying to reason with me. You will find I have no reason. Or creed. Or any such tripe."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "I just want to destroy the world. But please do resist with all your might. It will add to my enjoyment."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Now then, ladies and gentlemen! Keep your eyes peeled, for the curtains have risen on the spectacle to end all spectacles!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "We, the Telophoroi, shall be your performers, and this very star our stage!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Ah, but I nearly forgot! I have a message for you. Ahem! My esteemed patron, Lord Zenos, eagerly awaits you at the heart of the chaos."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "While I wish only to destroy the world, he exists solely to relive a certain...transcendent moment with you, and it is for that reason he would reduce all to ash."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Pray see to it his dreams do not go unfulfilled. For if you should disappoint him..."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "My trusty companion here ─ whom I've dubbed “Lunar Bahamut” ─ will burn your cities and everyone in them."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Everyone out. My men will tend to the blaze."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Our scouts report that the Ascian and his dragon have left Gyr Abania. It seems this was purely a social visit."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What part could these towers feasibly play in the Telophoroi's plans, do you think?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I for one am at a loss. For now, we should bear word of these developments to the others. I only hope Thancred and Urianger are safe."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though our objectives were different, I could understand why Elidibus and his fellows acted as they did. But Fandaniel?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It will take me some time to make sense of it all...if indeed there is any sense to be found."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you all right, Forename ? The rest of us are fine if a little singed."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That dragon let us off lightly. Honestly, though ─ only a madman would choose the name “Lunar Bahamut.” Which just about sums up Fandaniel, I suppose..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Thank goodness everyone's safe... We've managed to put out the fire, though not quickly enough to save the garden."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Raubahn ─ can I leave it to you to send word to the Alliance?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I'm going to take a unit and investigate the tower. We need to find out what it's for."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll go with you."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "No you won't. You'll rest. From what Merlwyb tells me, you're due some time off duty."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Should we learn anything about the tower, we'll be sure to share it with you. Until then, I want you to rest."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Very well. But if you need our help, don't hesitate. And take care. Both of you."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "If an Ascian is on the prowl, it will not be long before we call on you and yours again. Rest now, while you still can."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "So you really did it ─ you found a cure for tempering! Oh, it makes me want to do something heroic, right now ! Speaking of which, I'd better get ready and set out for the tower!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though my new...or rather old...by which I mean young... Ahem. Though this body has a good deal more stamina than the one I wore out in the First, I confess I've been looking forward to a moment's respite. We've had a busy few days, have we not?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Y'shtola returned just before us. And it seems she knows about the towers too."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, how good it feels to come home to the Rising Stones. It's here my heart feels most at peace, and my mind the clearest."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It would seem you have had quite an eventful time in my absence. But I am fully rested now and ready for more."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Welcome back, Forename ! Make yourself comfortable, and let me know if I can get you anything."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Ah, you're back too. Good. We've received the reports from the Alliance."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Since we are all here, perhaps those who bore witness to the events in Ala Mhigo could treat the rest of us to a firsthand account?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "No sooner do we overcome one problem than another appears. It would all seem tediously predictable but for the endless variety of our foes. This Fandaniel sounds even more unhinged than his patron."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Unhinged, perhaps, but no fool. For all his pantomime theatrics, he gave away little about his plot. We know only that he intends to recreate the Final Days, and that the towers will somehow facilitate this."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He also called his dragon “Lunar Bahamut.” Let's not forget that little detail."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And the creature certainly did resemble the elder primal."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And the creature did resemble the descriptions I've seen of the elder primal."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That may be...but the fact that it answered to Fandaniel would suggest they are not one and the same entity. I think it more probable that it is some manner of simulacrum born of Ascian magicks."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Whatever it is, for now we can but work closely with the Alliance and remain vigilant."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I believe that concludes our news. What of yours, Y'shtola?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have been to see the sultana. Knowing how quick the Immortal Flames are to dispose of their tempered, I judged it best to provide them with the cure first."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As soon as I had sufficiently recovered, I traveled to Ul'dah and delivered the porxies to Her Grace, along with detailed instructions on their use."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yet my visit chanced to coincide with the arrival of some troubling tidings. The Immortal Flames had been on the cusp of agreeing to a truce with the Amalj'aa when negotiations abruptly collapsed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Amalj'aa claim that a number of their kind have been abducted...and that men are responsible."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Naught is known of the perpetrators as yet. But as the Immortal Flames went about investigating the abductions, they came upon one of Fandaniel's towers."
+    },
+    {
+      "character": "Krile",
+      "text_en": "On the subject of the towers, you may be interested to learn that they are not an exclusively Eorzean phenomenon. According to the Alliance, they have been sighted as far afield as Yanxia."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then it would seem reasonable to assume that they are everywhere. We simply have not found them."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, as you said yourself, we can do little for now save remain vigilant. And since we are dealing with a dragon ─ ostensibly, at least ─ I believe it would behoove us to enlist the aid of an authority on such foes."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Estinien!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Estinien ? Now just a moment... If he could be persuaded to lend us his lance, I would be the first to welcome it, but the truth is, we will struggle even to find him."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Hehe! You let me and Krile worry about that. We'll sniff him out, no matter where he's hiding!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "If indeed he is hiding. We have ways of locating him, regardless. So if there are no objections, we shall depart at once."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, rather than sitting around, I think I might go to each of the city-states and educate them in the use of the porxies."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They would doubtless appreciate it. But might you consider taking a moment to rest before leaving? You would be fresher for the tasks ahead."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, my friend...our moment of triumph did not last long."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And save it we shall. I for one do not intend to allow a nihilistic madman to take us all to the grave with him. Not when the future holds such promise."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Nay, I will do all in my power to protect those whom I hold dear. Just as you always have done."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Come now, I didn't say that. While it may not be the most carefree experience, there is nothing in this world I would rather do than write a new future with you."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A long future, mind, whatever the Telophoroi might hope. We'll stop them, won't we. Together."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then why not have one now? If anything happens, I promise I will come and wake you."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As much as I enjoy our adventures together, I am conscious of the toll they take. So let us gather our strength while we can, that we might rise to the challenges of the unwritten future."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "The scouts should've been back by now. I'm going to go and find them."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Oh, thank goodness for that!"
+    },
+    {
+      "character": "Resistance Scout",
+      "text_en": "Glory be... Glory be... Glory be..."
+    },
+    {
+      "character": "Resistance Scout",
+      "text_en": "Glory be! To Garlemald!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "The piles have been driven as planned, and the first of the beasts has roared to life."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Moreover, I am pleased to report that preparations are well underway for the rest. Ere long, chaos shall reign over all the land ─ as befits the Final Days."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Call it what you will. So long as my friend returns to me, fangs bared and claws sharpened, I care not."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Of course, my lord. By strange coincidence, your dear friend chanced to be present when I made my declaration."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "I took the liberty of informing him / her that you await his / her coming. Though, I confess, I may have singed him / her a little in the process."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "And why do you tell me this? Are you in such a hurry to die?"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Ah, my apologies. I must guard my tongue lest it be the end of me."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Though...there is something to be said for such a glorious death. Better to fall to one who has it all than falter before an inferior... I shall keep it in mind as a contingency."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "For now, however, I shall proceed with the plan. My lord."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "I must find myself a new weapon. One worthy of our long-awaited reunion."
+    }
+  ]
+}

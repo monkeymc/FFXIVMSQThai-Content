@@ -1,0 +1,632 @@
+{
+  "id": "a-requiem-for-heroes",
+  "wiki_path": "/wiki/A_Requiem_for_Heroes",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/f/fb/A_Requiem_for_Heroes_Image.png/280px-A_Requiem_for_Heroes_Image.png",
+  "patch": "4.56",
+  "title_en": "A Requiem for Heroes",
+  "level": "70",
+  "location": "The Lochs(X:10.9,Y:21.1)",
+  "npc_start": "Resistance Fighter",
+  "dialogues": [
+    {
+      "character": "Resistance Fighter",
+      "text_en": "Commander Aldynn is waiting, my lord / lady . It would be best if we proceeded to Alliance Headquarters at once."
+    },
+    {
+      "character": "Resistance Fighter",
+      "text_en": "Are you ready?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You're here. Good. I summoned you to discuss strategy, but first I would apprise you of the Garleans' movements."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "There have been several skirmishes along the border, but as yet, neither side has delivered a decisive blow."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We had long assumed that the Garleans would overwhelm us in a straight fight, but we seem to be gaining ground, albeit slowly."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "As to why that might be... The most likely explanation is that they have yet to commit all their forces. Still, we're winning, and our latest intelligence suggests the Emperor has retreated back to Garlemald."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "In light of this, we're considering launching an offensive, with the aim of pushing the front line forward, and giving ourselves some room to breathe."
+    },
+    {
+      "character": "Distressed Soldier",
+      "text_en": "Commander! The imperials─they've broken through our defenses to the east."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "What!?"
+    },
+    {
+      "character": "Distressed Soldier",
+      "text_en": "Our scouts say their forces are being led by Lord Zenos!"
+    },
+    {
+      "character": "Distressed Soldier",
+      "text_en": "Lord Hien and Commander Hext have taken their troops to provide support, but we don't know how long they can hold out."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "So they've been biding their time, waiting for his arrival, have they?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Very well. Send word to our allies, requesting reinforcements for the front line."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Should the worst come to the worst, I may need to enter the fray myself. But what of you? Do you still have the strength to fight?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Much obliged. Given the choice, I'd take you over a hundred soldiers."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "He may not die as such, but to see Lord Zenos fall on the battlefield would deal a heavy blow to imperial morale. I'll see to it the men stay clear."
+    },
+    {
+      "character": "???",
+      "text_en": "Why won't they open?"
+    },
+    {
+      "character": "???",
+      "text_en": "Please...I bid you, open...!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "What's wrong? Is it the voice again?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Are you sure you're in a fit state to do this?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "May Rhalgr grant us strength..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Give them hell, lad / lass . I, for my part, will defend this place to my dying breath."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "So, there are still those willing to stand against the crown prince. Interesting..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Let's put an end to this here and now!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Do you truly believe that possible? Then let us test the limits of this Garlean vessel."
+    },
+    {
+      "character": "Yugiri Mistwalker",
+      "text_en": "A formidable foe... But we have come too far to fail now."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Soon I shall give the lie to man's indomitable spirit."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Strength, my friends! It would not do to have Forename arrive to find us battered and broken!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Fight and struggle if that is your wont, but you will not escape your fate."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Our fate is not for you to decide!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Enough! You will learn your place."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Behold─a taste of my true power!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Grrr... Ngh... What is this sorcery!?"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Look upon Ame-no-Habakiri and know the depths of your folly!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Oh no you don't!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Lyse, no... What have you done!?"
+    },
+    {
+      "character": "Yugiri Mistwalker",
+      "text_en": "If he would bring all to bear then so must we!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Well done dispelling his phantoms. Now hurry, we must protect Lyse!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Still you choose to struggle against the inevitable..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "We may be on the back foot, but it's not over yet!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "If we can at least hold out until Forename arrives, I'm sure we can turn this around."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "He / She comes, does he / she ? Then I need not waste my time on you."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Fall, fiend!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Yugiri!"
+    },
+    {
+      "character": "Lyse (no text)",
+      "text_en": "Damn you!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Magic? With a Garlean body? That's hardly fair..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Still, he must be stopped...no matter the cost..."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "Ah, Bringer of Light. It has been too long."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "No words to mark our reunion? ...So be it."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "Equilibrium must be restored... And only your death will redress the balance."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "We will suffer your interference no longer."
+    },
+    {
+      "character": "Zenos yae Galvus (text bubble)",
+      "text_en": "The time for games has passed."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "You think you know of the dark, but I will show you the true nature of our power!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "The potential of this vessel is transcendent─without limit!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "You are strong, Bringer of Light, but Her blessing will avail you not."
+    },
+    {
+      "character": "Zenos yae Galvus (text bubble)",
+      "text_en": "This ends now!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "To redress the balance─to ensure the salvation of this star─you must fall!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Impossible... How is it you have grown so powerful in the gift!?"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "No matter... You may have bested Lahabrea, but I will not be cast aside so easily!"
+    },
+    {
+      "character": "Zenos yae Galvus (text bubble)",
+      "text_en": "Swift shall be your destruction!"
+    },
+    {
+      "character": "Zenos",
+      "text_en": "Your Mother chose Her champion well."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "Yet for all your strength, you will still fail."
+    },
+    {
+      "character": "???",
+      "text_en": "Please... I beseech you..."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "Hm? Someone calls to you..."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "Too late, alas."
+    },
+    {
+      "character": "???",
+      "text_en": "At last, I've found you."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "Please! There is no cause for alarm!"
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "...Though, I confess, this is not where I had intended to meet."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "But the place of our meeting is of no consequence─like the war you wage. Win or lose, the path you walk leads only to oblivion."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "The better path leads you here. To me. I have need of your strength."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "I am afraid such questions will have to wait. We have precious little time, and your work is not yet done."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "The battle is over. The danger passed. But your work is not yet done."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "Go to the Crystal Tower. I have left something for you near its base."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "It will serve as a beacon of sorts. One which I pray will help you on your journey."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "All you need do is find it. I will take care of the rest."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "Soon we will throw wide the gates..."
+    },
+    {
+      "character": "Enigmatic Figure",
+      "text_en": "And the path to the First will be yours to walk at last."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "You're awake. Thank heavens!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Do you recall the confrontation with Zenos? You were the first to come to the aid of Mistress Lyse and the others on the front line."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "I see you recall that much, at least."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "In the midst of your duel, it is said you faltered, and that the crown prince seized the opportunity to deliver a mortal blow."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Yet before his blade could find its mark, he was distracted by the arrival of a second adversary who bore you away from the battlefield and into the hands of our chirurgeons."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Lest you wonder, he left before you awoke. As is his wont."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Estinien never was one for emotional farewells."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Though Zenos bested all before him, the battle clearly took its toll, for he retreated shortly after your rescue. Seeing this, the remaining imperial forces decided discretion was the better part of valor and pulled back, allowing us to reestablish our position."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "We have since received word of renewed unrest in the provinces, doubtless inspired by the efforts of the Eorzean Alliance and our Far Eastern allies."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Nor does the good news end there. We have also come into possession of intelligence suggesting unrest within the imperial court."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "This would certainly explain why both the Emperor and Lord Zenos appear to have abandoned the fight. A long-awaited ray of hope in these dark times."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Yet to awake, I'm afraid. But, please...concentrate on your own recovery for now."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "You have carried the hopes of some half-dozen nations─and we are all eternally grateful for your efforts─but no one is without their limits. Not even you."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Leave this fight to us, my friend. You have earned your rest."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Ah, but before I forget..."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "I was asked to deliver a message as soon as you awoke."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "A reminder that you are not alone, though many of your allies have fallen."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "When you are well and rested, you are to return home, where friends will be waiting for you."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Now, if you will excuse me, I must return to the front. May we meet again soon. Under happier circumstances."
+    },
+    {
+      "character": "???",
+      "text_en": "Well, this is a most unexpected surprise. I thought you confined to bed."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "When I heard that you had collapsed on the field of battle, I confess I feared the worst. But with you standing here before me, I see now that the reports of your defeat were greatly exaggerated. Thank the Fury."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "As long as we have you, Master / Mistress Surname , history suggests we have a fighting chance. Speaking of fighting, you may be surprised to hear that the war's effects can already be felt even here in Ishgard. In anticipation of a need for reinforcements, Artoirel will soon be departing for the front lines with a contingent of our finest knights."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "I would advise you to stay until your strength had returned, but I know it would be an exercise in futility."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "Indeed, I suspect you have already decided on your next destination."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "Dark days lie ahead, of that I have no doubt, but the light of hope shall ever guide our steps so long as we have the will to press onward."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "And press onward we must. Farewell, my friend. I pray our next meeting will be under happier circumstances."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "You know that you will ever be welcome at House Fortemps. Now away with you! I dare not keep you any longer!"
+    },
+    {
+      "character": "Handeloup",
+      "text_en": "Forename ! Finally up and about, I see. Everyone feared the worst when they brought you to the infirmary─but I knew you would pull through. Something tells me your part in this war is far from over."
+    },
+    {
+      "character": "Saulette",
+      "text_en": "Mistress / Master Surname ! My apologies, sir / miss . I meant to go and visit you in the infirmary, but... Well, I'm glad to see you up and about!"
+    },
+    {
+      "character": "House Fortemps Manservant",
+      "text_en": "Master / Mistress Surname ! We did not expect to see you back on your feet so soon. Confined to bed as you were, Lord Edmont left for your quarters not long ago, thinking to keep you company. Did you perchance encounter him on the way?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "By the Twelve, I don't believe it!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I rushed back as soon as I could."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I swear, my heart nearly stopped when I heard you'd collapsed like the others. What in heavens' name is going on?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "“Win or lose, the path you walk leads only to oblivion.” ...Well, that's helpful."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "And what else did he say? The better path leads to him? Hmm..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "If his is the voice you've all been hearing, perhaps the others are with him."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Ser Aymeric said the fighting had reached a stalemate, didn't he."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "But if that monster masquerading as Zenos comes back..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Thancred, Y'shtola, Urianger, Alphinaud, Alisaie... You're going to need all of them on your side to defeat him."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "And I forbid you from going to face him on your own. Do you hear me?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "So if you must leave... Go and find the others. Bring them home."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "As for where to start, you said the stranger had left a beacon for you at the Crystal Tower, right?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "But how are you to find it now that the tower has been sealed shut?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "But I'm sure I remember hearing that the tower was blocked off?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "There has to be a way... If anyone would know, it's Cid and the researchers of Saint Coinach's Find."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Don't you worry. We'll find that beacon for you."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "...I pray you have good reason for abandoning the front."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "How could I remain there while the rumor that my son is possessed by a demon spreads like a sickness here at home?"
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "I will not be made to fight for the throne a second time."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "But what of you? Did you not tell me you would destroy Eorzea's champion with the ease that one might swat a fly?"
+    },
+    {
+      "character": "Zenos",
+      "text_en": "A minor setback. He / She will not escape me again."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "Where is your grandsire? I would have words with him."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "How should I know? Do you hide from each other's sight as well? I imagine he is doing what all Ascians do."
+    },
+    {
+      "character": "Zenos",
+      "text_en": "Hmmm... He must have found a way to take advantage of this turmoil."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "Men are not pawns to be played with, Ascian. You underestimate us at your peril."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "This war will not be decided by you and yours. Man must choose his own fate, and I, for my part, will do all within my power to see Garlemald emerge victorious."
+    },
+    {
+      "character": "Imperial Magitek Engineer",
+      "text_en": "Pray forgive the intrusion, Your Radiance, but the requested preparations are now complete."
+    },
+    {
+      "character": "Imperial Magitek Engineer",
+      "text_en": "We stand ready to begin production of Black Rose, upon your order."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Grandfather doubts his ability to contribute to the Scions, and try as I might, I cannot assuage his doubts. Would that Homei was here. He would know what to say."
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "Everyone labors tirelessly to fulfill the Scions' duties in their absence, and yet I... <sigh> I sometimes wonder what worth yet remains in these old bones of mine."
+    },
+    {
+      "character": "Coultenet",
+      "text_en": "I am afraid there is still no change in the Scions' condition, and the means to wake them from their slumber yet eludes us. I pray this beacon at the Crystal Tower might guide us to an answer."
+    },
+    {
+      "character": "Riol",
+      "text_en": "I thought things couldn't get any worse when the Garleans were gearin' up for war. Then word reached me the Scions were in trouble... We need to find that beacon, an' find it quick."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Our brothers and sisters are fallen, 'tis true, but duty will not afford us time to wallow in misery. Until they are returned to us, we must work twice as hard."
+    },
+    {
+      "character": "Ephemie",
+      "text_en": "In light of the present condition of the Scions, even Riol has returned from afield. Never has there been a greater need to marshal our resources."
+    },
+    {
+      "character": "Ocher Boulder",
+      "text_en": "My brother says he will work twice as hard in the Scions' stead, which likely means I must work thrice as hard if I am to match his pace."
+    },
+    {
+      "character": "Aenor",
+      "text_en": "I never realized just how critical a role the Archons played in all that we do here. It won't be easy to make up for their absence."
+    },
+    {
+      "character": "Clemence",
+      "text_en": "You needn't worry about the Scions. Ocher, my sister, and I have been keeping over them in shifts ever since they arrived at the Rising Stones. If only they would give some sign of stirring..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I knew you'd be all right. And to celebrate your return, I made you this─a brand-new traveling outfit! Oh, I do hope it fits..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "<ahem> But now is not the time to fuss over your measurements. I must go and speak with the researchers of Saint Coinach's Find. You go and rest while we track down that beacon."
+    },
+    {
+      "character": "Katana-wielding Soldier",
+      "text_en": "My enemy. My friend. Had I been but a step faster..."
+    },
+    {
+      "character": "Imperial Centurion",
+      "text_en": "Bloody savages!"
+    },
+    {
+      "character": "Katana-wielding Soldier",
+      "text_en": "A pity your hunt leads you elsewhere... Not that I am surprised."
+    },
+    {
+      "character": "Katana-wielding Soldier",
+      "text_en": "May you find joy in it. Grow stronger, more savage, and savor every triumph..."
+    },
+    {
+      "character": "Katana-wielding Soldier",
+      "text_en": "In the meantime...I will reclaim that which is rightfully mine."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "IN THE MIDST OF A REQUIEM FOR HEROES,"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "A VOICE RINGS OUT ACROSS TIME AND SPACE..."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "IN FIELDS OF TRANQUIL LIGHT,"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "SOW YOU SEEDS OF DARKNESS"
+    }
+  ]
+}

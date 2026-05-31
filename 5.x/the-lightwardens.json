@@ -1,0 +1,764 @@
+{
+  "id": "the-lightwardens",
+  "wiki_path": "/wiki/The_Lightwardens",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "The Lightwardens",
+  "level": "71",
+  "location": "The Ocular(X:6.1,Y:6.0)",
+  "npc_start": "Crystal Exarch",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Whenever I come to the Crystarium, the sands of Amh Araeng seem a world away. And yet they both lie under this same, wretched sky..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If only every town could share the Crystarium's spirit of independence..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Still, I suppose one cannot decide for others what they should and should not deem important. My powers of persuasion have certainly had little effect on the people of Kholusia..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And so you return."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Have you gained a better understanding of the crisis now faced by the First?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "\"Better\" is not the word I would use."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Some lands may have been spared the Flood, but the survivors live only to suffer. There seems no end to the horrors inflicted by the sin eaters."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Indeed. Those abominations are a calamity in their own right. And I can well imagine how hopeless the task of eradicating them must seem to you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "But after countless battles and untold sacrifice, we have identified a potential weakness."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Sin eaters are drawn to serve the strongest of their kind─a class of creature we call “Lightwardens.” And from what we have been able to ascertain, only a handful of these entities exist."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Just as an ant colony will perish in the absence of its queen, we believe that the death of a Lightwarden will cause the lesser creatures within its sphere of influence to disperse."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have a feeling Eulmore might have something to say about any concerted action we take against these monsters."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Vauthry's command over the sin eaters is integral to Eulmoran society. In seeming to guarantee his people's safety, it guarantees their obedience."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He will not take kindly to us depriving him of such useful allies."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Agreed. Thus we will need to occupy or otherwise divert his forces whilst we proceed with the business of eliminating the Wardens."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Until we have done so, all other considerations must be set aside if we are to forestall the Eighth Umbral Calamity."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Your uncertainty is understandable, given the circumstances. Perhaps a more detailed explanation is in order. To begin at the beginning, then..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In the ancient past, a single star was divided into fourteen worlds."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "This is the Source─your home. These others are the thirteen shards, in whose number we find the First."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Though physically separate, they retain a connection to each other, and with the Source especially."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Now, let us assume that a given element in one of the shards attains abnormal ascendancy."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Just as water will flow from the highest point to the lowest, the excess energy will begin trickling into the Source..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And such an influx of aether will of course exert a palpable influence."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "If the element in question were fire, then drought and wild fires might ensue. If it were ice, one might expect the weather to turn bitterly cold."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As aether continues to pour in, such phenomena will become more and more extreme, until eventually, a single untimely event triggers a disaster which “cracks” the barrier dividing the two worlds."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "What was once a trickle now becomes a deluge, sweeping the shard along to be rejoined with the Source."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "At the same time, the element which held sway in the shard is unleashed in full, its energies amplifying the original disaster to truly catastrophic proportions."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "An earthquake thus magnified might strike with enough force to shatter continents; a tidal wave might swell to a size capable of drowning entire nations."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "These devastating events are what we refer to as “Umbral Calamities.”"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Seven times has a calamity befallen the Source; seven times has a shard been absorbed."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "At present, the Light-drowned realm of the First stands perilously close to meeting the conditions for a Rejoining."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "It is the sin eaters who are to blame for the Light's continued dominance."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In addition to attracting their lesser kin, the Lightwardens I mentioned earlier radiate aether, saturating every corner of their territory with Light."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Even here in the Flood-spared region of Norvrandt, their influence is strong enough to banish night from the sky."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Thus, if we are to restore balance to the First and head off a potential calamity, it is imperative that we put each and every Lightwarden to the sword."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We've been doing our best to take the fight to the enemy ever since we first heard the Exarch's explanation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though we have yet to claim any meaningful victories, if truth be told."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Apart from being confoundingly elusive, the Lightwardens possess a troublesome quality which compelled us to delay our plans until such time as you arrived."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Forgive the interruption, my lord, but Holminster Switch is requesting reinforcements!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "They say the sin eaters are attacking in force, and the village could soon be overrun."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Alert the guard. We should be prepared in case the fighting reaches the Crystarium."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "You have command of our forces in the field, Captain, but hold off on entering the town until I arrive. That goes for Alphinaud and Alisaie as well."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "My lord!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Pray, lend us your strength. Such a fight will provide you with far greater insight than any explanation I could offer."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Holminster Switch is in the north of Lakeland, so we had best make haste with our preparations."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In fact, meet me outside the Crystarium at the crossroads northwest of the Accensor Gate, and I shall lead you there myself."
+    },
+    {
+      "character": "Inerot",
+      "text_en": "This is the Accensor Gate, the final checkpoint before the Crystarium. Captain Lyna has apprised me of your coming. You may pass!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "All set? If we follow this road north, we will arrive at the Northern Staging Point."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "The village itself lies not far beyond. Quickly, now!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Exarch asked that we wait, and so we waited..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Your assistance is appreciated."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're here! We are heading in together, yes?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Holminster Switch is past these gates and through the woods. 'Tis not exactly a near neighbor to the Crystarium, but as we occupy the same region, we have built up something of a cooperative relationship."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "What can we expect inside, Captain?"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "The town is beset by a swarm unlike any we have seen in recent years. We did our best to evacuate the villagers, but as many as half remain..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Judging by the number of eaters present, we have good reason to believe that a Lightwarden leads the attack."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How convenient. It seems we'll have our chance to slay a Warden sooner than we expected."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "<snort> One does not simply “slay a Warden.” Has no one told you what happens if you defeat one of those fiends?"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "They hold more Light inside them than all of their underlings put together."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "It can be struck down, aye, but its essence won't dissipate like the weaker kind. Vile aether will billow outwards and envelop the nearest living being─a reckless young swordswoman, perhaps─and turn her into a brand-new Warden."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Ah, well you can leave that particular quandary to us. I must ask that the guard stand down and allow us to engage this leader of eaters alone."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Concentrate on the survivors─we must save every life we can."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "But what if─!?"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "...Understood, my lord. As captain of the guard, however, I will not watch you brave such danger without an escort from our ranks. I insist that I go with you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Very well. Then our Warden-slaying party shall include myself, the Leveilleurs, Captain Lyna, and last but not least..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "A formidable group indeed. Into Holminster we go! Once we reach the Lightwarden, do not hold back─we strike to kill!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Destroy a Lightwarden for good ...? Hmph. If it is possible now, then why not before? Whatever the Exarch believes, I will force a retreat if I deem it necessary."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "I did not become captain of the guard by being meek. Or weak."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Command of this sortie is yours. Though I am not as spry as I once was, I hope my long years of experience will serve you in some capacity."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I can wield spells to heal or harm, or even fashion an arcane shield and sword should we have need of a defensive wall. Simply say the word."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I can't help but wonder if the scale of this raid is related to the “recruiting” the eaters were doing in Amh Araeng."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Not that it matters. After all the combat I saw there, I'm more than ready to test my magicks against one of these greater abominations!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As you may have deduced, the “troublesome quality” of the Wardens which I endeavored to raise earlier was this confounded capacity for spontaneous rebirth..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...But the Exarch seems confident he has matters in hand, so I shall trust that we may slay our foe without fear of the aetheric aftermath. My restorative spells are at your disposal."
+    },
+    {
+      "character": "Tesleen, the Forgiven",
+      "text_en": "Ah...ah...ah... Graaargh!"
+    },
+    {
+      "character": "Philia",
+      "text_en": "Grrraaarrrgh!!!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh gods, that sin eater... It can't be..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "They've been bolstering their numbers..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is the monster we saw in Amh Araeng!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Easy now, Alisaie. We face it together!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is everyone alright?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're fine! Let's keep moving..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Look, there are still survivors!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Steel your hearts. There may be others we can save."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye, we draw the eaters to us!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Another eater!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...So, this is where you went."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie? You've gone pale..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...I'm fine. We should keep moving."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We were too slow to save them!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "We free their souls. That is all we can do..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "The manor house is just up ahead!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As is the source of this suffocating aether..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The sheer power... I can sense its strength from here!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh gods, that sin eater... It can't be..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "They swell their ranks with wild beasts..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "I fear for the village. Let us make short work of these!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I knew it! That's the eater from Amh Araeng!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "No match for us, it seems..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Survivors! We must buy them time to flee!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Go! Take refuge in the Crystarium!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...This slaughter must be answered."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I wondered where you went.."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Tesleen... Be at peace."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We were too slow to save them!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "We free their souls. That is all we can do..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "We are close... Be on your guard!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...We stand in the presence of a Lightwarden."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Aye, this is the true scourge of Lakeland!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Look! Over there... Does it yet hunt for prey?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "They swell their ranks with wild beasts..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "I fear for the village. Let us make short work of these!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "We'll not slip past this one. To arms!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "No match for us, it seems..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Survivors! We must buy them time to flee!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Go! Take refuge in the Crystarium!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Steel your hearts. There may be others we can save."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye, we draw the eaters to us!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "It seems confused. It must be newly turned..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Are you alright? You've gone pale..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "The manor house is just up ahead!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As is the source of this suffocating aether..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...We stand in the presence of a Lightwarden."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Aye, this is the true scourge of Lakeland!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh gods, that sin eater... It can't be..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The eaters corrupt everything..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is the monster we saw in Amh Araeng!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Easy now, Alisaie. We face it together!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is everyone alright?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're fine! Let's keep moving..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Wait, those are villagers!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...This slaughter must be answered."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Another eater!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...So, this is where you went."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie? You've gone pale..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...I'm fine. We should keep moving."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We were too slow to save them!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "We are close... Be on your guard!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...We stand in the presence of a Lightwarden."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Rest well..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "It was no less than what I expected, but—well done."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "A Lightwarden, gone. I can scarce believe it."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "It's releasing its aether. Fall back!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "We cannot let it touch us. Quickly, my lord, we must withdraw!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "That will not be necessary, Captain."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...Though I appreciate your concern. The eternal Light of these creatures has confounded us for nigh on a hundred years. For each we have put down, another has risen up in its place, born of the selfsame aether relinquished by its predecessor."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "But now we have a way to contain that corruption."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "The blessing of Light! And the hero who wields it now stands before you!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Behold! The monster's power is broken! And the world twisted by its touch returns to its rightful form!"
+    },
+    {
+      "character": "Crystarium Man",
+      "text_en": "The sky!"
+    },
+    {
+      "character": "Crystarium Woman",
+      "text_en": "It can't be..."
+    },
+    {
+      "character": "Crystarium Old Man",
+      "text_en": "What's happening...?"
+    },
+    {
+      "character": "Crystarium Girl",
+      "text_en": "It's so beautiful..."
+    },
+    {
+      "character": "Moren",
+      "text_en": "The sunless sea..."
+    },
+    {
+      "character": "Moren",
+      "text_en": "The Warrior of Darkness has come!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Is that...what I think it is?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The night sky, as it should be."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Who are you people?"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "You killed a Warden, then bathed in its aether as if it were a spring shower, and now the sky...? The legends are true!"
+    },
+    {
+      "character": "Lyna",
+      "text_en": "My lord...?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "How many years have I waited for this moment..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "For the one possessed of Her blessing. For you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "You have vanquished the Lightwarden of Lakeland, and for the first time in a century darkness has returned to the mantle of night."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Without the ever-present Light to sustain them, the sin eaters will have no choice but to retreat."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...Yet our victory is far from complete."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Though darkness has fallen here, the other Wardens yet bask beneath burning skies, feasting upon what little life remains."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Even should it cost me all I have, I would see each and every one of them slain, that this world might be spared from oblivion!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Not only for the First, but for the Source as well! Save one and we save the other! But...be that as it may...I concede it was wrong of me to summon you to this fight against your will."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I swear on my life, I will one day atone for that deed. But for the present..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I beg you stay and see this fight to its conclusion. Cast down the Wardens, and restore Darkness to the First!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "On behalf of the First, I offer you my deepest thanks."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I understand there is much at stake here, Exarch, but why do you risk yourself so readily? It must have been a dangerous drain on your aether to summon even one person across the rift."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I do it for my people, of course─to give the Crystarium the tomorrow it deserves."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That is true now , yes─but the city had yet to be built when you first called forth the Crystal Tower."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm simply curious to know what prompted you to commit yourself so completely to this particular course."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "There are...things which we can ill afford to lose."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And...I sensed from the first that I had a part to play in preserving them."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Forgive me. I fear the events of the day may have taken their toll."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Despite appearances, I am an old man─one burdened with many...difficult memories, some too painful to recall."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, then I'm sorry for pressing you. It's a family failing, I'm afraid."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hmph. One which has served us well, more often than not. Needless to say, we will continue to fight at your side until the last sin eater is defeated."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Come then, my Warriors of Darkness─let us gather the surviving villagers, and make our way back to the Crystarium."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Without that constant glare, Lakeland seems an entirely different place..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's over, yes? I might need a moment..."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "It's as if the sky itself had disappeared into the heavens... If I didn't have wounded to tend to, I'd never stop staring..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "How quickly you have justified my faith in you..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "So many lives saved, and the sky itself heralds your success. A single victory in a larger struggle, perhaps, but a momentous one nonetheless!"
+    }
+  ]
+}

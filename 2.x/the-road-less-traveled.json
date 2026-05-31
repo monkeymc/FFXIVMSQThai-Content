@@ -1,0 +1,360 @@
+{
+  "id": "the-road-less-traveled",
+  "wiki_path": "/wiki/The_Road_Less_Traveled",
+  "wiki_image_url": null,
+  "patch": "2.4",
+  "title_en": "The Road Less Traveled",
+  "level": "50",
+  "location": "Coerthas Central Highlands(X:3.3,Y:21.2)",
+  "npc_start": "Moenbryda",
+  "dialogues": [
+    {
+      "character": "Moenbryda",
+      "text_en": "If you ask me, there's naught to be gained from mulling over the implications of your story in the freezing cold. Let's save it for the Rising Stones, eh? I'll get everyone to meet us there."
+    },
+    {
+      "character": "Moenbryda",
+      "text_en": "Ah, but before that, you had best pay a visit to Whitebrim Front and speak with Alphinaud. He's probably worried sick about you."
+    },
+    {
+      "character": "Moenbryda",
+      "text_en": "That, or he's busy playing at politics with the Ishgardians. Either way, I'm sure he'll be delighted to see you hale and healthy. Speaking of which─you don't have a headache or anything, do you? No? ...Blurred vision? Oh, no reason!"
+    },
+    {
+      "character": "Moenbryda",
+      "text_en": "See you again soon!"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "I still remember the first time you entered these chambers. Suffice it to say, I never imagined that I would one day be so glad of your return. Welcome, my friend. Welcome."
+    },
+    {
+      "character": "Taciturn Temple Knight",
+      "text_en": "...'Tis customary to report to one's commanding officer after completing a mission."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "That you stand here now is proof of your mission's success. Praise be to Halone."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There he / she is─and none the worse for wear! Was there ever any doubt that the Warrior of Light would succeed?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I think I speak for us all when I say that I should like nothing more than to hear the stirring tale of your victory─if you would be so kind."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then we were too late to prevent the summoning..."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "But not too late to prevent further loss of life. An outcome worthy of celebration..."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "And one for which we have Forename to thank."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yes... You are right, of course, Ser Aymeric. We should be content with what we have accomplished."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "I for one could not have wished for a better outcome. Shiva is no longer a threat, and the heretics have been routed."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Aye, there is the matter of Iceheart's escape, but she cannot run forever. Whether it takes days, weeks, moons, or even years, my knights will find her."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "In the meantime─ Lord Drillemont, is the caravan ready?"
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "The supplies that your men recovered have been prepared for transport, in accordance with your wishes."
+    },
+    {
+      "character": "Drillemont",
+      "text_en": "Rest assured that my knights will see them safely to Revenant's Toll."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Of that I have no doubt."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I take it these are the selfsame supplies the heretics stole from the House Fortemps caravan?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Less the crystals which comprised the bulk of the shipment, yes. Scarcely a fraction of that which was promised, but a meaningful contribution to your cause all the same."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Ah, on an unrelated note... Forename ─might I trouble you to accompany me to Camp Dragonhead at your earliest convenience?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "'Tis not for my benefit. A certain lord was most distressed when he learned of your intent to risk life and limb to stop Iceheart. It took half a dozen knights to restrain him, I am told."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Men give vent to their anxieties in myriad ways. Pray do not think less of him."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If our business here is concluded, we should attend to Ser Aymeric in the intercessory."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "What were you thinking, Forename !? Wagering your very being on a dubious theory which might allow you to enter Iceheart's lair─knowing full well that she could have sufficient forewarning to complete her ritual to summon Shiva anyway...?"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "And then─and then ─engaging the abomination in mortal combat!? By the Fury, Forename ! 'Tis the stuff of ballads! A battle for the ages! Would that I had been there to fight by your side!"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Yet here I was forced to wait─ condemned to wonder at the fate of a dear friend for a veritable eternity !"
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "I would not wish such torture on my most hated enemy..."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "<sigh> But you are here now, and that is what truly matters. Let us move on."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Ser Aymeric wished to have words with you and Master Alphinaud in private. He awaits us in the intercessory."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Pray go on ahead without me, Forename . Another matter requires my attention, but I shall join you anon."
+    },
+    {
+      "character": "House Fortemps Guard",
+      "text_en": "Greetings, sir / madam . I shall show you in at once."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "On behalf of the Holy See of Ishgard, allow me to express my deepest thanks."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Never before have we been required to contend with a primal. Indeed, there were fears in some quarters that our knights might not be equal to the task."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "From what we have now learned of these beings, I can say with certainty that we would have lost a great many men had the Scions not intervened."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then the argument for preemptive action should be self-evident. Perchance now you will reconsider my proposal that Ishgard move against Natalan?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Ere we first met, a similar proposal was tabled─but the Holy See decreed that we were to observe, and that military action should be taken only in self-defense."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "All things considered, it was not an unreasonable decision. Since the Calamity, two vigils have fallen to the Horde, while Garuda has never shown any inclination to storm the Gates of Judgement."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "...Which is why this unprecedented crisis and its resolution may prompt a change in policy."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "You who have faced these primals know well the threat they pose. Ishgard did not─not until now."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "And there is naught like a brush with death to change a man's outlook."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "At the very least, this should silence any lingering objections to our arrangement with Revenant's Toll."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "The Holy See may even feel moved to grant us its formal endorsement."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "So far as it is possible, the Scions shall be compensated for their service."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We should be grateful for any aid you can provide."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "As a gesture of good faith, I shall withdraw my previous request. Your people are doubtless needed elsewhere."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That will not be necessary."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We too have a vested interest in watching Dravania's movements."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "I see. Once more, I must thank you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ser Aymeric, if I may... Do you truly believe that Midgardsormr could return?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "The heavens are a window unto truth, but those who interpret their movements are not infallible. I requested your involvement as a precautionary measure."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But of course... You sought an excuse to compensate us from the first, mindful of what would happen if Revenant's Toll were taken by your enemies."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ishgard is not wont to aid its neighbors, but that does not preclude it from manipulating them to serve its own interests."
+    },
+    {
+      "character": "Taciturn Temple Knight",
+      "text_en": "Choose your next words carefully."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Do you know what sort of man becomes lord commander of the Temple Knights?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "One who comes from good stock. I did not, yet here I am. Now why do you suppose that is?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Because I swiftly learned to tell the difference between words, deeds, and beliefs."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "...You are correct, Master Leveilleur. Ishgard desires to see Revenant's Toll flourish, as it would present a troublesome obstacle to our enemies from the south."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We are so glad to be of use to you."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "As we are to you. Ours is a mutually beneficial arrangement, lest we forget. One born of necessity."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "The dragons grow more restless by the day, and the heretics harry us nigh without cease."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "We have contended with such troubles for centuries, but there are limits to even our endurance."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Yet as a pauper is loath to part with his meager possessions, the leaders of Ishgard are not wont to render up their trust to outsiders."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "But with perseverance on our part, they may yet be made to see the light."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Nevertheless, one must take care when walking the road less traveled."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wise words, Ser Aymeric. I shall make a point to remember them."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I must apologize for my earlier outburst. I hope it will not sour our good relations."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Not at all. You but spoke from the heart."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "I trust you understand that, at times, my duties may prevent me from meeting with you."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "On such occasions, my second-in-command will speak for me."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Lucia, at your service."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Pray excuse our reticence. We are but wary of speaking too freely, lest our sentiments be made known to our enemies."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Know that the lord commander and I are of one mind. For the sake of Ishgard─and of Eorzea at large─I pray our peoples can put aside their differences."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Those who dwell in the past risk losing sight of their future."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Should aught befall one of our shipments, pray inform Lucia immediately. You may also relay to her any words you might have for me alone."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Not being of Ishgardian birth, she owes no allegiance to any noble house, making her as near to incorruptible as one can find in my homeland. Suffice it to say, I trust her completely, and so may you."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Which reminds me─ Lord Haurchefant, if you would be so kind."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Certainly."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "In times such as these, trust is ever in short supply. Mayhap this will go some way to rectify the problem."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "The results of our investigation into the heretics' recent attacks, as well as our interrogation of the merchant you detained."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ser Aymeric... I cannot thank you enough."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Think nothing of it. Ishgard may be many things, but it is no friend to Garlemald."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "Did I not tell you to have faith, my friend?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "My knowledge of primals pales in comparison to your own. Nevertheless, the circumstances surrounding this particular summoning are...unique, no?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "'Twould be most unfortunate if they were reproduced, I should think."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "One tailors their tactics to the enemy—in our case, Dravanians. Primals will require a somewhat different approach."
+    }
+  ]
+}

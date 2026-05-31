@@ -1,0 +1,520 @@
+{
+  "id": "food-for-the-soul",
+  "wiki_path": "/wiki/Food_for_the_Soul",
+  "wiki_image_url": null,
+  "patch": "5.3",
+  "title_en": "Food for the Soul",
+  "level": "80",
+  "location": "The Rising Stones(X:6.0,Y:5.9)",
+  "npc_start": "Tataru",
+  "dialogues": [
+    {
+      "character": "Krile",
+      "text_en": "You've come a long way, so do take your ease while you can."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Um... Forename ? Could you spare a moment? While Krile goes and finds this expert of hers, I mean."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "There's a gift I was hoping to send to our friends in the First, you see...and since we might be waiting a while, I wondered if you wouldn't mind giving me a hand with it."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "My first attempt turned out well, so now I'm going to make it properly."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I'll be in the kitchen at the House of Splendors. Meet me there!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, I had better be off too. I shall see you soon, either here or at the House, depending on how our patients fare in my absence."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "There you are, Forename ! As I'm sure you've guessed, the gift is a bit of home cooking."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Unlike Krile, I can't do much to help our friends directly. But that doesn't mean I've been idle."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "No, I've been doing my best for the order, taking on this job and that to keep our coffers full. I've even helped out with the Ishgardian restoration."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "And in the course of all this, my culinary skills have come on quite a bit. So I thought, why not make something for our friends?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It's baking in the oven even as we speak. Shouldn't be long now!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "There! Baked to perfection, even if I do say so myself!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "But not just any old bread! This here is Old World bread. \"Archon loaf\", to be precise. It's what they eat over in Sharlayan!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Doesn't it just! It's called “Archon loaf,” in case you're wondering, and it's what they eat over in Sharlayan."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It is bread, silly! But not just any old bread! This here is Old World bread. \"Archon loaf\", to be precise. It's what they eat over in Sharlayan!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Simple fare, I admit, but I thought it would remind our friends of home."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "If nothing else, Krile tells me it's a good source of aether."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "So it should lend them a bit of strength at least."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Mmm-mmmmmm! There truly is nothing like the smell of bread fresh from the oven!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Krile! And if it isn't Rammbroes too!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I trust you require no introductions either, Forename ."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Greetings, my friend. Full glad am I to see you well."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "I confess, I have a malm-long list of questions to ask you, but I will endeavor to contain my curiosity for the present. I understand our mutual friend is struggling with the application of certain Allagan technologies."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I have been keeping Rammbroes apprised of events in the First. Suffice it to say, he knows about the Exarch."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If anyone alive can provide insight into this matter, it is him and his fellow Sons."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Ahem. Loath as I am to disappoint you after so glowing an endorsement..."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Memory transference was the sole province of Allagan royalty, its mechanisms closely guarded secrets. If any record of them remains, we have yet to find it. To wit, I regret that I can offer no solution to your problem."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "...Which begs the question of why I bothered to come here, empty-handed as I am─the answer being, rather brazenly, to ask a favor. I would have you relay a message to our comrade."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Tell him...Tell him that we never doubted him."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Never doubted that he would achieve all that he said he would."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Those of us who remained behind have yet to play our part."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "But when the time comes, he may rest easy in the knowledge that we will most assuredly do so."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "And then the tower shall shine once more as a beacon of hope, in this world and beyond."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "So tell him that we consider his duty done ─ and that he should follow his heart now."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forgive me, but do you say this to discourage him from overexerting himself? Or to encourage him to hold nothing back?"
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "That is for our friend to decide, but either way, I daresay a certain someone will be unimpressed."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, there you have it, Forename If you would be so good as to see Rammbroes's message and Tataru's bread to their intended recipients ─ along with my report, of course."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Um, Krile? Before I wrap the bread up, would you mind giving it a try? Just to make sure everything's as it should be?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "But of course! I'm always happy to lend my taste buds!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hmmm...Hmmmmmm..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Excuse me, Rammbroes. As a fellow Sharlayan, may I trouble you for your opinion?"
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Well, I usually have mine with a good dollop rolanberry jam, but I suppose plain is best for sampling purposes."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "<munch> <munch> I see, I see..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh no...Is it that bad?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "It is indeed, Tataru. Dense and unpleasant...exactly as it should be!"
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Gahaha! Just so! The very taste of home!"
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "As you might expect our countrymen have amassed a wealth of culinary wisdom from every corner of the world. But our native cuisine is...shall we say, a little lacking."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "In Sharlayan, the majority regard food as a source of nourishment rather than enjoyment. Save for those few who actually research the culinary arts, we pay little heed to the niceties of taste and texture."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "It was against such a gastronomic landscape that what is now called the \"Archon loaf\" was born, the creation of an Archon who devoted himself to the study of bodily sustenance."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "In order to maximize its nutritional value, he incorporated copious quantities of pulverized fish and vegetable matter into the dough─all with nary a care for those qualities which make bread enjoyable. The result is a flavor that continues to defy description."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "Yet for its many shortcomings, the loaf's nutritional value cannot be denied. And being a damnably convenient way to cater to one's bodily needs, it quickly found an audience amongst busy scholars. Why, when I was a lad, nigh every meal was a sandwich mad with this very bread and whatever ingredients happened to be on hand."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Hm hm! I suspect just about every Archon could say the same."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Having been away from home for so long, I thought I might have forgotten the taste. But no ─ it is all too familiar. Ahhh, how it takes me back..."
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "If there is enough, perhaps you can spare some for the Exarch? He is certain to appreciate it."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh, there's plenty to go around. I'll be sure to wrap up and extra slice."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Forename , when you deliver the loaf, please be sure to send everyone my regards."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Tell them we're doing everything we can, and that we'll be praying for their safe return until the moment they get back."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Well...it sounds like it'll do them good, anyway."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "And when everything's back to normal, I'll cook something for you too, Forename . Gods know you deserve a treat!"
+    },
+    {
+      "character": "Rammbroes",
+      "text_en": "All that I wish to say to our comrade, I have said to you. It falls to him to interpret the words, but I shall hope that whatever choice he makes, it will not lead to regret. Neither for himself or for you."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Ah, you are returned! Good, good. There is much to discuss. The others are making their way hither as we speak."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Welcome back, my friend. How was your journey?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "By the Twelve...Archon loaf! However did you come by this? I'd swear it had come straight from Sharlayan..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Rammbroes said that did he? <sigh> His words are very nearly as heavy as the bread...but I appreciate the sentiment."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Should you have the chance, you may tell him that he needn't worry. That which I seek to do, I do of my own volition, and with all my heart."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In pursuing this path, I fully expect to earn the censure of our friends ─ and to deserve it ─ but I shall forge on regardless."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Forge on as you yourself did when faced with a similar predicament. So I ask that you have faith in me. In what we do."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...But we were talking about your journey. Before the others arrive, I would hear how their bodies fare."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Oh, and the bread I shall save for later. Though it has been many years, I have not forgotten the feats of mastication required to consume it, nor how unconducive they are to conversation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forgive the delay."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We have visited every region and confirmed the presence of Ascians throughout the realm."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Lest a grave predicament be made to seem hopeless, it should be noted that they are of inferior rank. The black-masked minions who answer to the red."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Yes. A gaggle of schemers attempting to exploit recent events to sow the seeds of petty conflict."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Fortunately, nothing of any great concern has come of their meddling just yet."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We also encountered a number of the Crystarium's former defenders, busily solving this problem and that in a bid to become Warriors of Light."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Their zeal is to be applauded. 'Tis but a pity I cannot encourage them on their course..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not knowing Elidibus set them upon it, no. Both the troubles to be solved and the villains to be vanquished are his doing too, like as not."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And so, with apologies to the aspiring Warriors of Light, I believe it best that we deal with the Ascians quickly and quietly."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I quite agree."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But tell us, what news from the Source? How fare our bodies?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. Heartening though it is to know we can stay awhile longer, returning home must remain our priority."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This seems an appropriate moment to ask about the spirit vessel. Have you made any progress?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Oh dear. Then we must redouble our efforts! Not that we have ever stinted in that regard..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This would seem an appropriate moment to ask about the spirit vessel. Tell me you've made some progress."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "We have, as it happens. One moment."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The red stones...Then this doth mean..."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "For the benefit of all, permit us to explain."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "As you will recall, using white auracite as our starting point, we fashioned a vessel for mind and memory both."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Yet, though it served this purpose admirably, the process of imbuing it with one's complete essence proved a somewhat thornier proposition."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Simply put, the memory would not accompany the mind. And so we looked to the Allagans' mastery of memory transference for a solution."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "This approach was not without its own complications, however, relying as it does upon blood ─ which inanimate objects notably do not possess."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "We duly explored methods of suffusing the vessel with drops of the aforementioned. Alas, our painstaking experimentation succeeding only in making me feel faint, and singularly failed to imbue the crystal with the necessary properties."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "It was then that an idea occurred to me: namely, that we might fuse the vessel not with normal blood, but with my crystallized essence."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're doing this for our sakes, so far be it from us to complain..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But don't think we haven't noticed what's happening to your arm."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "It falls well short of offering up my life in exchange for yours─which was your only stipulated prohibition, as I recall. And it is but a small price to pay for delivering you home."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Assuming it works."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "We shall soon know if this grisly addition will serve as a suitable conduit for the subject's memory. Though...not soon enough to warrant your waiting. The test is like to take a while."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Let us be off, then. We have Ascians to attend to, among other things."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Forgive me, but I count six vessels. And there are only five of us."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "One is for testing purposes. I will personally use it to see whether the crystal functions as it should."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And...if it does, wouldn't that mean that your soul could also return to the Source?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Yes. In theory, at least."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "But there is a distinct difference between your circumstances and mine. While your corporeal forms want for souls, my past self does not."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Mayhap our essences would blend. Or mayhap they would curdle. There is no telling what might occur."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And you'd be willing to take that risk?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I would."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I see."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I for one support the Exarch's choice. To be alive is to be driven by a purpose, and few are as driven as him."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "It's stupid, but I've never really stopped to think about what would happen once the vessels were complete. And now..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "No. There's no point. I...I hope the test is a success. Truly."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "When our grandfather first decided to journey to Eorzea, Alisaie did not take kindly to my silence on the subject. “Don't pretend to understand things you don't,” she said...or rather shouted."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Having oft been the object of her scorn, I am predisposed to sympathize with the Exarch, but I do understand how she feels ─ better now than ever I did, certainly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm sorry, I know it was childish to storm off like that. And probably to feel the way I do as well. Agh, pull yourself together, Alisaie!"
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "Off you go and help your friends. Even assuming the test is a success, I doubt they would feel comfortable leaving with business unfinished."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As Beq Lugg said, the test will take a while. I ask for your patience in the meantime."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Hast thou a moment, Forename ? I would speak with thee on the matter of the Exarch's mooted return unto the Source."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thou wilt have observed that our friend spake not in certainties. Yet if Beq Lugg hath the right of it, 'tis possible to predict the outcome of his plan with some confidence."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And it is their assessment that, given the opportunity, the Exarch's soul should successfully merge with that of his younger self."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Which is not to say the process is without complications. For one, the Exarch hath been subjected to an additional Rejoining, an experience which will have wrought a change in his aetherial composition."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As thou thyself didst demonstrate in merging with Ardbert, however, there existeth an affinity 'twixt like souls, and this doth give us cause to hope."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...Yet there remaineth one immutable condition upon which success doth hinge."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The Exarch must needs recognize his past self as simply that ─ himself."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As our recent travails have demonstrated, memories are essential to the soul. Any discrepancy in the former may feasibly cause the latter to spurn its former flesh."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis a seemingly simple yet complex problem. For nigh on a century, our friend hath striven only to deliver this realm, to deliver thee . And to that singular end did he cast aside his very name, that he might assume the mantle of the Crystal Exarch."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Henceforth, none can say what choices our friend will make, but I thought it only right that thou be made aware of these truths."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Lest there be any doubt, the Exarch hath long been aware of the possibilities he but recently unfolded to us. Wherefore he did refrain from sharing them until now, I cannot say."
+    }
+  ]
+}

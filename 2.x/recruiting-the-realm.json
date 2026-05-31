@@ -1,0 +1,480 @@
+{
+  "id": "recruiting-the-realm",
+  "wiki_path": "/wiki/Recruiting_the_Realm",
+  "wiki_image_url": null,
+  "patch": "2.3",
+  "title_en": "Recruiting the Realm",
+  "level": "50",
+  "location": "The Rising Stones(X:6.1,Y:5.2)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "Pray forgive me if I tread over old ground, but I would first speak of the grand plan."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Since the advent of the Seventh Astral Era, the leaders of the three nations have been deliberating over an accord that seeks to bring the disparate forces of Eorzea together into a single entity."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A realm-wide Grand Company, if you will. The military might of such an institution would be drawn from every corner of the land, and directed against threats that no single nation could hope to overcome alone."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet while the purpose of this hypothetical organization is undisputed, the logistics of its formation have become the source of endless debate..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And the longer these discussions continue, the more I sense the impetus towards unification draining away. Thus have I been campaigning for the creation of what might be considered a trial company."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It will be on a much smaller scale than what we hope to eventually achieve, but capable of the same manner of unrestricted operation accorded to the Scions. 'Tis my hope that the successful utilization of such a force will lend momentum to the lagging deliberations."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Also, being a primarily military outfit, I mean to assuage fears of its misuse by placing the fledgling organization under the authority of the Antecedent."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Scions work tirelessly to protect Eorzea and its people."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...But as you yourself have witnessed with the refugee revolt, there are limitations to what even we can achieve."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With this new company under the Scions' command, however, we will be capable of responding to a wider range of difficulties without straining our resources or overtaxing your formidable talents."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The goals of my proposed organization and those of the Scions are ultimately identical─a point conceded by all concerned."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But before I can move forward with establishing this precursor to the true, border-spanning Grand Company, 'tis yet necessary that I visit the three leaders and gain their official approval."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A tiresome and time-consuming task... Which is why I would ask that you accompany me on the journey, and attend to the business of recruiting our inaugural members while I am otherwise engaged with bureaucratic formalities."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Thank you. 'Tis reassuring indeed to know that the Bringer of Light and his / her discerning eye will be selecting our future allies."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our first destination will be Limsa Lominsa. Let us rendezvous at Bulwark Hall."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, there you are. I am ready to ascend to the Bridge and speak with Admiral Bloefhiswyn."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While the Admiral and I are finalizing permissory boundaries and signing parchments, I would have you begin the recruitment process in earnest."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have, of course, endeavored to spread the word of our organization through various channels, but I believe a personal approach will reach many who may otherwise remain ignorant of the opportunity."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As for potential members, 'tis of no matter should they already be pledged to another institution, only that they are willing to lend their strength when the situation demands it. And you needn't range into the countryside─the upper decks alone are populated with sufficient candidates to suit our purpose."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Once you are satisfied with your recruiting efforts, meet me at the airship ticket counter that we might prepare for the next leg of our journey."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Well, if it ain't Forename ! I'd not forget a 'venturer brave enough─or daft enough─to seek the shortcut into Titan's bedchamber!"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Ye remember ol' Riol, don't ye? Formerly o' the Company of Heroes? Three whistles at Bronze Lake? Aye, it ain't often I drag me arse out to Limsa for a drink, but I'm right glad I did! How fare ye these days?"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Hm? Yer lookin' to put together a new crew? Top-tier work? Hah, sounds like a right lark, it does!"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Alrighty, lad / lass , count me in. The Heroes may've gone their separate ways, but I ain't ready to climb into me grave just yet!"
+    },
+    {
+      "character": "Reyner",
+      "text_en": "Master Alphinaud's new organization? Yes, I had heard the formation of his trial company was in the offing."
+    },
+    {
+      "character": "Reyner",
+      "text_en": "'Tis with regret, however, that I must decline your invitation. As commander of the Yellowjackets, the protection of Limsa Lominsa must needs receive my full attention."
+    },
+    {
+      "character": "Reyner",
+      "text_en": "I wish you well in your endeavors, but the Yellowjackets─and the defense of Limsa Lominsa's people─must remain my sole priority."
+    },
+    {
+      "character": "Carvallain",
+      "text_en": "An organization with the freedom to operate with territorial impunity? I must say, your proposal intrigues me."
+    },
+    {
+      "character": "Carvallain",
+      "text_en": "But the Krakens well know that there is a time to act, and a time to watch. And I'm afraid this...“trial company” of yours falls into the latter category."
+    },
+    {
+      "character": "Carvallain",
+      "text_en": "The Krakens do not stir before the currents can be read. For the present, my answer must be a respectful “no.”"
+    },
+    {
+      "character": "Rhoswen",
+      "text_en": "Eh? Who in the bloody 'ells do ye think yer talkin' to, drylander!? I'm a pirate, not some soddin' knight in shinin' plate! If yer lookin' fer a self-righteous fop, try knockin' on that dandy Carvallain's door!"
+    },
+    {
+      "character": "Rhoswen",
+      "text_en": "Do I need to fetch me hook? I told ye, go bother Carvallain with yer talk o' do-goodin'."
+    },
+    {
+      "character": "H'naanza",
+      "text_en": "A precursor to a united Eorzean Grand Company? Hmmm. While I do admire the scope of your ambition, my responsibilities here at Naldiq & Vymelli's keep me close to the forge."
+    },
+    {
+      "character": "H'naanza",
+      "text_en": "I have not the time to be traipsing hither and yon across the realm. Should you require my skills as an armorer, however, I might be willing to accept some special commissions..."
+    },
+    {
+      "character": "H'naanza",
+      "text_en": "As noble as your cause may be, I have a duty to Naldiq & Vymelli's, and to the forge. I can, however, be persuaded to furnish you with any metalwork you might require. Come back with a list of materiel, and we'll talk."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename , your recruiting went well, I trust? I am curious as to how my proposal was received by the rough-and-ready folk of Limsa Lominsa."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ah, a member of the legendary Company of Heroes indicated his interest? Astonishing. I knew enlisting your aid was the right choice─few could boast the acquaintance of such an elusive character."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I, too, was successful in my task: the Admiral consented to sign all the documents requiring her approval. I can only hope that my visit with the Elder Seedseer proceeds as smoothly. Pray continue on to Gridania at your own pace─I shall await your arrival at Nophica's Altar."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "My audience with the Elder Seedseer is due to commence momentarily. I would be grateful if you would once more see to the task of recruitment here in Gridania."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "After you deem the well of potential candidates has run dry, let us rendezvous at the airship ticket counter as before."
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "Oh gods, can it truly be you!? By what fickle fortune must the first face I see upon my release be yours!?"
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "...Eh? Could it be that you don't remember me? It is I, Laurentius, the man whose crimes you exposed. I was a Wailer, and a regular patron at Buscarron's..."
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "Well, of course you do! I was beginning to wonder if gaol had changed me more than I realized. ...Not that I have any particular wish to be recognized after my shameful conduct."
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "Laurentius! I...I was selling maps and supplies to the Garleans, before you and those Redbelly poachers mopped the forest floor with my erstwhile employers. ...Here now, just how many criminals have you dealt with that my ignominious tale ignites not the slightest flicker of recognition!?"
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "Will you say nothing!? Does my presence disgust you so? Or do you simply not care to remember our encounter at all?"
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "Hmph. The less said of my past, the better, I suppose. And what of you, adventurer? What business brings you to this part of Gridania?"
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "Recruiting, eh? And what is your policy on reformed convicts?"
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "As matters stand, the Wood Wailers will have naught more to do with me. This...this may be just the second chance I was looking for..."
+    },
+    {
+      "character": "Laurentius",
+      "text_en": "Revenant's Toll, you say? I shall leave at once! You shall not regret this, I promise you! I am a changed man!"
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Grandfather, you must call it a day! Let us return to the guild and rest ere your tormented back gives up on you for good!"
+    },
+    {
+      "character": "Alianne",
+      "text_en": "I'm terribly sorry, we were just─ Oh, Forename , isn't it? It has been some time since our paths crossed outside of Copperbell Mines."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Why, you were barely more than a novice adventurer then, but look how far you've come... Mother Miounne tells me 'twas you who felled the fearsome Black Wolf!"
+    },
+    {
+      "character": "Alianne",
+      "text_en": "And now you seek stout-hearted souls to fill the ranks of a new order? Hmmm, well your cause is undoubtedly just, and my old companion here would be much relieved to see me in good hands..."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Yes. Yes, I'll do it! This is the very thing I've spent my entire adventuring career working towards! I shall join your company just as soon as I've seen Isildaure safely home."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "If you would have me, I would be glad to join your new company. I shall make for Revenant's Toll once I've escorted my dear friend back home."
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "My back is perfectly fine, I tell you! You'll have to tie me to my bed if you think to prevent me from─ <gasp> Ow. Well, mayhaps I will rest for just a short while..."
+    },
+    {
+      "character": "Ceinguled",
+      "text_en": "Hmmm. 'Tis not often a guild officer such as myself gets recruited. And this company of yours certainly sounds to have some promise... But its duties appear less than focused. I must refuse your invitation until such time as your organization is more...organized."
+    },
+    {
+      "character": "Ceinguled",
+      "text_en": "While I find sympathy with your cause, I must confess to some confusion as to this company's place in the grand scheme of things. For the moment, I prefer to devote my energies to the clear-cut responsibilities of the Wailers."
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "...You would offer this old man a place in your company of champions? I am both puzzled and honored by your invitation."
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "Pray forgive me, young master / mistress , but I cannot accept. I have sworn to abide here for whatever scant years remain to me, and bear responsibility for the evils my lady has wrought upon this land..."
+    },
+    {
+      "character": "Ursandel",
+      "text_en": "I must respectfully refuse your invitation. Your proposal promises new beginnings, but I am shackled to the sins of the past. By my own oath am I made prisoner, my chains forged of guilt and unforgivable cowardice..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What news, Forename ? For my part, the Elder Seedseer was most amenable to our requirements."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...A former Wood Wailer, and a seasoned adventurer? Our company will not lack for variety, that much is certain. An interesting harvest, indeed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Shall we strike into Ul'dah whilst the iron is hot? Let us meet at the Royal Promenade and endeavor to conclude our remaining business. Our journey draws to a close..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ul'dah, the gilded city, where one's fortune defines one's worth. I hope some manner of fortune is with us, and that this final leg proves as successful as the previous two."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Might I suggest descending to the lower level before beginning your recruitment efforts? I do not think the sultana will take kindly to us poaching from her personal guard."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us meet back here at the Promenade when our respective tasks are complete. Good hunting, Forename ."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "Hm? Wait, you're the lady who came to Little Ala Mhigo looking for that masked devil."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "Who knows what might've happened if you hadn't... I'd probably be dead, and a whole lot more of my friends besides. We were such fools."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "Anyroad, that disaster really got me to thinking─about our homeland, and about the outsider who saved us from ourselves. I realized how easily I'd been manipulated, and vowed to make of myself a more worldly man. So here I am."
+    },
+    {
+      "character": "Wilred",
+      "text_en": "...A new company of champions? And you say it will take me to all corners of the realm?"
+    },
+    {
+      "character": "Wilred",
+      "text_en": "That sounds exactly like the kind of opportunity I need. And don't worry: I'm not the same stripling you met in Little Ala Mhigo. I've prepared myself to fight the evil I now know is out there."
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "Oh, what a happy coincidence! Do you remember me, perchance? I am Ourcen, of the Church of Saint Adama Landama. Thank you again for your timely rescue."
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "And I must also thank you for preventing that fraudulent priest from preying on Drybone's less fortunate. A most upsetting business. Are you here with your companion─Thancred, wasn't it?"
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "...Ah, 'tis new companions you seek, then. Your proposed organization sounds a powerful force for good, but my place is at the church with the children. Nevertheless, I wish you well in this undertaking."
+    },
+    {
+      "character": "Ourcen",
+      "text_en": "I could never abandon the children, or my work at the lichyard. I will, however, pray for your success."
+    },
+    {
+      "character": "Syntgoht",
+      "text_en": "A company that looks to cure the ills of the realm entire? Listen, friend, I can scarce bear the complaints of the next stall over, let alone the conundrums of a neighboring nation!"
+    },
+    {
+      "character": "Syntgoht",
+      "text_en": "I cannot help you. My fortunes have fallen far enough without investing in a company with no margin for profit."
+    },
+    {
+      "character": "Landebert",
+      "text_en": "...Aye, you'd be surprised what rumors drift down to Pearl Lane. I know of this glorious new company of yours, and just how far I'd go to avoid getting involved with it."
+    },
+    {
+      "character": "Landebert",
+      "text_en": "Whispers on the street say your organization is funded by corrupt coin─by Syndicate money. If you think you're recruiting for a just cause, then you're a bigger fool than I took you for."
+    },
+    {
+      "character": "Landebert",
+      "text_en": "My advice, soldier? Cut your ties and run. Your shining company'll be naught but a puppet that dances to the Syndicate's tune."
+    },
+    {
+      "character": "Yellow Moon",
+      "text_en": "I'm sorry? You wish to “recruit” me? Is this some new-fashioned manner of propositioning a lady?"
+    },
+    {
+      "character": "Yellow Moon",
+      "text_en": "Well, I'm afraid you are wasting your time─this lady is already spoken for! Good day to you, sir / miss !"
+    },
+    {
+      "character": "Yellow Moon",
+      "text_en": "Pray take your crude affections elsewhere! Bitter Snow's is the only love I require!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "How fared you, Forename ? What hidden gems did the streets of Ul'dah offer up to your unrelenting gaze?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hmmm... A single Ala Mhigan youth? Well, you've certainly given us an admirable start, even if our ranks are yet somewhat thin."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In these troubled years following the Calamity, talk of Eorzea's salvation must seem akin to grasping at clouds."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But there are those who have risen to the challenge, nonetheless. And the hope that inspires these people was born in no small part from the victories you yourself have won."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank you, Forename . I will not squander the precious gift you have placed into my keeping─these recruits will become the foundation of a new beginning."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And yes, we are free to begin. As you have no doubt surmised, the sultana also graced my trial company with her blessings."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our first wave of recruitment is over, the documents signed, and the finances secure. There is naught to prevent me from taking the next step."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...You are concerned by the Syndicate's involvement? As was I. Thus was the origin of every coin of their contribution carefully scrutinized and recorded. This organization will not be built on corruption."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Naturally, I would prefer not to rely upon outside sources at all, but even my family's substantial coffers could not sustain a venture of this magnitude."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And as for the rumors and doubt surrounding this enterprise... Well, such things shall plague us until the company has had a chance to prove its worth."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It will not be an easy process, but we will earn people's trust one success at a time."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Speaking of time, we should waste no more of it. Let us return to the Rising Stones, and lay the first stone for a united Eorzea!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Tell me, General: what think you of Alphinaud's bold endeavor?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I think it is more than bold, Your Grace. His organization would pave the way for a united Eorzea."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Well do I understand his impatience. Since facing the common threat of the Ultima Weapon, our nations have seemed farther apart, not closer together."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Considering the many problems we face, should we not be glad that someone else is taking the initiative?"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "We have all pledged our cooperation, yet the grumbling continues behind closed doors. Ul'dah is not alone in her duplicity."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "I myself have doubts as to the good this organization will achieve."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "With the inclusion of the finest soldiers of the three Grand Companies, it promises to be a fearsome military body. But whom will it serve? Even under the watchful gaze of the Scions, it is not unthinkable that such a force could perpetrate a great wrong."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Does it not concern you that a significant proportion of its financial backing came from the coffers of the Syndicate? That those unprincipled worms might forge this extraordinary gathering of warriors into a private army?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I have trust in the Scions, Your Grace. They have spared us no end of trouble at the hands of the primals. If they seek reinforcements, I deem it unwise to deny them."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "As for their finances, full many gave generously. And though our nobles proffered a sizable sum, their coin did not spill from the pockets of Lolorito and his cronies."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "And what of the presence of our stalwart adventurer friend in this endeavor? I doubt the Warrior of Light would betray our cause."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Yes, there is that, I suppose."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Yet I have known people to change. Whether we will or no, the events of the age hurl us this way and that, like a dust devil skipping across the sands..."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Can naught be done about Teledji?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I have explored all avenues available to us, Your Grace, but as Ul'dahn law now stands, we lack the evidence to convict him of any crime. To arrest him on spurious grounds would only play into his hands..."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "He has all but committed treason, and yet we can do nothing!?"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Then what good our government!? What worth the royal house!? How deplorable this mockery of justice!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Have faith, Your Grace. It is not over..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "<sigh> ...That is not a journey I soon wish to repeat."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But I cannot pause to rest─the culmination of all our effort is at hand. I must see to the preparations for the inaugural ceremony."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank you for allowing me to monopolize your services, Forename . I am certain the Antecedent will be relieved to see you free for other duties."
+    }
+  ]
+}

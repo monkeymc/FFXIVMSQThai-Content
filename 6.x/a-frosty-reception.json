@@ -1,0 +1,1316 @@
+{
+  "id": "a-frosty-reception",
+  "wiki_path": "/wiki/A_Frosty_Reception",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "A Frosty Reception",
+  "level": "82",
+  "location": "The Lochs(X:36.4,Y:32.1)",
+  "npc_start": "Tataru",
+  "dialogues": [
+    {
+      "character": "Tataru",
+      "text_en": "I'm told the airship pilot has been sent to meet you."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Ah, there he is!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "All right, this is where we go our separate ways. Do be careful, won't you?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I modeled your clothing on what Alphinaud and I wore when we journeyed from Lord Haurchefant's “Falling Snows” to Ishgard for the first time."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "In those days, I barely knew one end of a sewing needle from the other, and as you've always had very... individual tastes, I let you pick your own outfit."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I'd like to think my skills have improved since then ─ but do you know what's more important than skill? Heart and soul! There's plenty to be found in each and every one of my works!"
+    },
+    {
+      "character": "Ironworks Pilot",
+      "text_en": "It's an honor to finally meet you! We of the Garlond Ironworks will be ferrying you and your contingent across the mountains and into Garlemald."
+    },
+    {
+      "character": "Ironworks Pilot",
+      "text_en": "For many of us, it will be something of a homecoming. Our illustrious founder was only our most notable imperial defector."
+    },
+    {
+      "character": "Ironworks Pilot",
+      "text_en": "For that reason, the company is committed to the success of this expedition."
+    },
+    {
+      "character": "Ironworks Pilot",
+      "text_en": "Our resources are at your disposal, and if there is aught we might do to be of further assistance, please do not hesitate to ask!"
+    },
+    {
+      "character": "Ironworks Pilot",
+      "text_en": "If you are ready to depart, I will ready the engines."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Ilsabard...divided in twain by a vast mountain range."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Those who would traverse its jagged peaks face peril at every step. But why go by foot when one can simply fly?"
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "On the outskirts of the imperial capital, in the frozen wastes of the Magna Glacies..."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "The winds howl in icy protest, as if to warn against further trespass..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "We've received word from Thancred's reconnaissance party."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "They have sighted a detachment of heavily armed imperials."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Survivors of the civil war, perhaps?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Perhaps. But there is more to it than that..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Maxima reports that they are led by Vergilia, legatus of the IIIrd Legion, which comprises the bulk of their number."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "However, they are also joined by several members of the Ist."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "From what I recall, the IIIrd Legion fought for Nerva in the war of succession following Varis's death."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Ist, on the other hand, were under the direct command of the Emperor, and rejected Nerva's claim to the throne. These legions were enemies."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Indeed. In fact, our sources claim that it was a conflict between them that sparked the civil war."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Yet now these former foes cooperate to defend a ruined Garlemald from invasion..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then it is all but certain they have been tempered."
+    },
+    {
+      "character": "Sicard",
+      "text_en": "So what's the plan? If me and my crew was out reavin', we'd charge straight in, no messin' about. But that ain't what we're here for."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Quite right. Soldiers or no, they are people of Garlemald. The very ones we have come to aid."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Direct confrontation is unavoidable. Nevertheless, we must make every effort to limit casualties on both sides. Rather than kill them, I would remove them from the field."
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "How so? Savage beatings, disarmament, and imprisonment?"
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "Not impossible, but easier said than done in the heat of battle."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Having observed the opposition, I imagine Thancred had something to suggest?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "He did. He and the other scouts have already infiltrated a supply depot some distance beyond the imperial detachment's current position."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Stored within is a stockpile of magitek armaments, and once we give the signal, Thancred's team will destroy them all. In so doing, we will deprive frontline troops of materiel, and likely force the detachment to send men to investigate."
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "Divide and conquer... Not a bad idea."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Once the scouts have finished their preparations, we will split into two groups."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "The first will form the vanguard, while the other brings up the rear with our supplies."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "As for the Scions, I ask that you lend your assistance where you deem it needed most."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I would prefer, however, that you accompany the rear guard, and be prepared to join the van at a moment's notice. Kept in reserve as our trump card, so to speak."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Your proposal was well received. More specifically, they asked that we “destroy the imperials' toys in as spectacular a fashion as possible.”"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Y'shtola always did have a flair for the dramatic. She's not an easy woman to please, but I shall do my best to satisfy her thirst for fireworks."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "All right. Once more, for my peace of mind."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Our first objective will be to rig the enemy's magitek with explosives. After we've withdrawn to a safe distance, we'll detonate them remotely."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Our second will be to issue a deactivation command to the automated units via the control terminal. If our calculations are correct, this signal should reach those deployed on the front line, giving our friends a much-needed upper hand."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The blizzard will help us stay hidden, so let's aim to get in and out before it passes. Trust in the plan, and we should all live to see tomorrow."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "In the meantime, I will relay messages back and forth as the situation unfolds. You'll forgive me if I ask again, but...are you certain you wish to play the lone wolf?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Wouldn't have it any other way. Call it foolish and reckless if you like, but I'll get the job done. I always do."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Very well. I wish you the best of luck."
+    },
+    {
+      "character": "Maxima the Neoteric",
+      "text_en": "Assuming there is nothing else you wish to confirm, we may commence the mission as soon as you are ready."
+    },
+    {
+      "character": "Maxima the Neoteric (voice acted, text bubble)",
+      "text_en": "Keep your wits about you!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It's time. We only have one shot at this, so let's make it count!"
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Glory be..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "No...farther..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Must...bar the way..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Two on the gate... Could get messy if I'm not careful."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "One guarding the controls. Time he took a nap!"
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Hnnnh..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Ahhh..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Now to set the explosives. Best keep quiet...for now."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So, they've got guard dogs, eh? No use hiding, they'll soon sniff me out. Luckily, I've come prepared."
+    },
+    {
+      "character": "Telocanis (text bubble)",
+      "text_en": "Woof! Woof!"
+    },
+    {
+      "character": "Telocanis (text bubble)",
+      "text_en": "Grrr..."
+    },
+    {
+      "character": "Telocanis (text bubble)",
+      "text_en": "<whimper>"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That should do the trick. Now to hide and send word."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This is Thancred. The explosives are in place."
+    },
+    {
+      "character": "Maxima the Neoteric",
+      "text_en": "Very good. All is proceeding as planned."
+    },
+    {
+      "character": "Maxima the Neoteric",
+      "text_en": "Head to the control terminal. It should be to the northwest."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Understood. Have the others wait at the rendezvous point."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That's it! The control terminal!"
+    },
+    {
+      "character": "Rostik Faithsblade",
+      "text_en": "Thancred!"
+    },
+    {
+      "character": "Rostik Faithsblade",
+      "text_en": "Over here!"
+    },
+    {
+      "character": "Thancred (voice acted, text bubble)",
+      "text_en": "Damn, spotted!"
+    },
+    {
+      "character": "Thancred (voice acted, text bubble)",
+      "text_en": "Seven hells..."
+    },
+    {
+      "character": "Thancred (voice acted, text bubble)",
+      "text_en": "Must be losing my touch..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Our hated foe..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "An intruder..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Must kill..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Woof?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not like this..."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "You are returned ─ and none the worse for wear, to my considerable relief."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What news from our comrades?"
+    },
+    {
+      "character": "Maxima",
+      "text_en": "They stand at the ready."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Excellent. Then let the fireworks begin!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The blizzard's beginning to clear..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The vanguard should be engaging the imperials any moment now─if they haven't already."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Y'shtola and the others are with them, so I'm sure they'll be all right, but..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Wait! Something's coming!"
+    },
+    {
+      "character": "Sicard",
+      "text_en": "Oi, oi! Looks like we ain't the only ones who sent out scouts!"
+    },
+    {
+      "character": "Sicard",
+      "text_en": "Keep 'em away from the carriages! We lose those, and we're as good as dead!"
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "Fighters—protect the others!"
+    },
+    {
+      "character": "Storm Blacksmith (text bubble)",
+      "text_en": "Keep them away from the carriages!"
+    },
+    {
+      "character": "Storm Blacksmith (text bubble)",
+      "text_en": "It's the supplies they're after!"
+    },
+    {
+      "character": "Storm Blacksmith (text bubble)",
+      "text_en": "Please, we're counting on you!"
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Glory be..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "No...farther..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Must...bar the way..."
+    },
+    {
+      "character": "Storm Marauder and Serpent Lancer (text bubble)",
+      "text_en": "Know when you're beaten!"
+    },
+    {
+      "character": "Storm Marauder and Serpent Lancer (text bubble)",
+      "text_en": "Lights out!"
+    },
+    {
+      "character": "Serpent Captain Sanson Smyth (text bubble)",
+      "text_en": "They won't get past us!"
+    },
+    {
+      "character": "Serpent Captain Sanson Smyth (text bubble)",
+      "text_en": "Hyah!"
+    },
+    {
+      "character": "A-Ruhn-Senna (text bubble)",
+      "text_en": "Not a chance!"
+    },
+    {
+      "character": "A-Ruhn-Senna (text bubble)",
+      "text_en": "We shan't fail!"
+    },
+    {
+      "character": "Guydelot the Spent (text bubble)",
+      "text_en": "Let's put on a good show, eh?"
+    },
+    {
+      "character": "Guydelot the Spent (text bubble)",
+      "text_en": "Time for a song, I reckon!"
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "A brief respite ─ but stay alert."
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "Keep the carriages safe!"
+    },
+    {
+      "character": "A-Ruhn-Senna (text bubble)",
+      "text_en": "Get to the carriage in front!"
+    },
+    {
+      "character": "Emmanellain the Lofty",
+      "text_en": "What impeccable timing!"
+    },
+    {
+      "character": "Emmanellain the Lofty",
+      "text_en": "Fear not, friends─the savior of Ishgard is here!"
+    },
+    {
+      "character": "Skysteel Machinist (text bubble)",
+      "text_en": "Keep them away from the carriages!"
+    },
+    {
+      "character": "Skysteel Machinist (text bubble)",
+      "text_en": "It's the supplies they're after!"
+    },
+    {
+      "character": "Skysteel Machinist (text bubble)",
+      "text_en": "Please, we're counting on you!"
+    },
+    {
+      "character": "Stephanivien Brightsun",
+      "text_en": "The carriages are in safe hands!"
+    },
+    {
+      "character": "Stephanivien Brightsun",
+      "text_en": "My instruments are picking something up!"
+    },
+    {
+      "character": "Emmanellain the Lofty",
+      "text_en": "A fine display, but the other carriages are still in danger."
+    },
+    {
+      "character": "Emmanellain the Lofty",
+      "text_en": "Go on ahead─we'll hold the line!"
+    },
+    {
+      "character": "Emmanellain the Lofty (text bubble)",
+      "text_en": "We'll be fine! Do as you must!"
+    },
+    {
+      "character": "Sicard the Last Word",
+      "text_en": "We're the only ones still strugglin'?"
+    },
+    {
+      "character": "Sicard the Last Word",
+      "text_en": "Time we put our backs into it, then!"
+    },
+    {
+      "character": "Storm Armorer (text bubble)",
+      "text_en": "Keep them away from the carriages!"
+    },
+    {
+      "character": "Storm Armorer (text bubble)",
+      "text_en": "It's the supplies they're after!"
+    },
+    {
+      "character": "Storm Armorer (text bubble)",
+      "text_en": "Please, we're counting on you!"
+    },
+    {
+      "character": "Sicard the Last Word (voice acted, text bubble)",
+      "text_en": "I've been itchin' for a good scrap!"
+    },
+    {
+      "character": "Broenbhar Rocksplitter (text bubble)",
+      "text_en": "Easy as splittin' rocks!"
+    },
+    {
+      "character": "Broenbhar Rocksplitter (text bubble)",
+      "text_en": "Yargh!"
+    },
+    {
+      "character": "Alka Zolka the Supreme Slayer",
+      "text_en": "To victory—come hells or high water!"
+    },
+    {
+      "character": "Alka Zolka the Supreme Slayer",
+      "text_en": "Woooaaagh!"
+    },
+    {
+      "character": "Sicard the Last Word",
+      "text_en": "That big bastard's goin' straight for the carriages! Stop it in its tracks!"
+    },
+    {
+      "character": "Broenbhar Rocksplitter (text bubble)",
+      "text_en": "Gangway!"
+    },
+    {
+      "character": "Sicard the Last Word",
+      "text_en": "Quick, broadside it!"
+    },
+    {
+      "character": "Sicard the Last Word",
+      "text_en": "You lot all right back there?"
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "We're fine ─ and ready for more!"
+    },
+    {
+      "character": "Sicard the Last Word",
+      "text_en": "Hear that?"
+    },
+    {
+      "character": "Sicard the Last Word",
+      "text_en": "Get to the front and turn the tide!"
+    },
+    {
+      "character": "Sicard the Last Word (text bubble)",
+      "text_en": "Leave this to us! Go on, crack a few skulls for me!"
+    },
+    {
+      "character": "Emmanellain the Lofty (text bubble)",
+      "text_en": "No, really—we're quite all right, I assure you!"
+    },
+    {
+      "character": "Alphinaud (text bubble)",
+      "text_en": "Head north—that's where you're needed most!"
+    },
+    {
+      "character": "A-Ruhn-Senna (text bubble)",
+      "text_en": "Fear not, we have the situation well in hand."
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "Go on! There's no time to waste!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Remove from the field” was not a euphemism for “enthusiastically murder.”"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "It's nothing that won't heal. In time."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "The trouble is, their tempering has made them utterly fearless. Subduing them would be easier if they had the capacity to submit in the first place."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well, this is the path our young charges would have us walk─and that we all agreed to follow. You knew it would be hard, yet still you pledged your lance, did you not?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "That I did."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "That's Vergilia! Damn it, I need to help the others take her down─"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "There's no end to them!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I was wondering when you'd turn up!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "There's no stopping us now! Come on, let's show them what we're made of!"
+    },
+    {
+      "character": "Lucia the Radiant",
+      "text_en": "We have them now ─ Forward!"
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Glory be..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "No...farther..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Must...bar the way..."
+    },
+    {
+      "character": "Cocobuki (text bubble)",
+      "text_en": "Not a chance!"
+    },
+    {
+      "character": "Cocobuki (text bubble)",
+      "text_en": "The Duke of Destruction has descended!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "The supply caravan is safe for the time being, and Thancred's team have thrown the enemy into disarray."
+    },
+    {
+      "character": "Lyse (voice acted, text bubble)",
+      "text_en": "Right! Let them have it!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "Now it's our turn!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "As a raging bull!"
+    },
+    {
+      "character": "Lyse (text bubble)",
+      "text_en": "Nicely done, Pipin!"
+    },
+    {
+      "character": "Chuchuto (text bubble)",
+      "text_en": "Losing's not an option!"
+    },
+    {
+      "character": "Vergilia van Corculum (text bubble)",
+      "text_en": "Open fire."
+    },
+    {
+      "character": "Magnai the Older",
+      "text_en": "How...unbecoming..."
+    },
+    {
+      "character": "Vergilia van Corculum (text bubble)",
+      "text_en": "Only death awaits..."
+    },
+    {
+      "character": "Lyse (text bubble)",
+      "text_en": "Not good! Hold on, I'm coming!"
+    },
+    {
+      "character": "Lucia the Radiant",
+      "text_en": "That's her ─ Vergilia!"
+    },
+    {
+      "character": "Lyse (text bubble)",
+      "text_en": "Here—this should keep you in the fight!"
+    },
+    {
+      "character": "Cirina of the Laughing Reeds (text bubble)",
+      "text_en": "Here—this should keep you in the fight!"
+    },
+    {
+      "character": "Sadu Heavensflame (text bubble)",
+      "text_en": "My hunger is far from slaked!"
+    },
+    {
+      "character": "Magnai (text bubble)",
+      "text_en": "Could you be my...?"
+    },
+    {
+      "character": "Cirina of the Laughing Reeds (text bubble)",
+      "text_en": "We will not succumb!"
+    },
+    {
+      "character": "Sadu Heavensflame (voice acted, text bubble)",
+      "text_en": "Do not fall behind!"
+    },
+    {
+      "character": "Magnai the Older (text bubble)",
+      "text_en": "All must bow before the Sun!"
+    },
+    {
+      "character": "Lyse (text bubble)",
+      "text_en": "Now that's taken care of, it's back to the fray!"
+    },
+    {
+      "character": "Cocobuki (text bubble)",
+      "text_en": "Hm hm hm... I've had quite enough of you !"
+    },
+    {
+      "character": "Magnai (text bubble)",
+      "text_en": "Ha! Naught but child's play!"
+    },
+    {
+      "character": "Cirina of the Laughing Reeds (text bubble)",
+      "text_en": "Easily evaded!"
+    },
+    {
+      "character": "Chuchuto (text bubble)",
+      "text_en": "Time to demonstrate the fruits of my training!"
+    },
+    {
+      "character": "Vergilia van Corculum (text bubble)",
+      "text_en": "Prepare salvo..."
+    },
+    {
+      "character": "Cirina of the Laughing Reeds (voice acted, text bubble)",
+      "text_en": "Is everyone all right?"
+    },
+    {
+      "character": "Ishgardian Lancer (text bubble)",
+      "text_en": "By thy lance!"
+    },
+    {
+      "character": "Ishgardian Lancer (text bubble)",
+      "text_en": "Know when you're beaten!"
+    },
+    {
+      "character": "Vergilia van Corculum (text bubble)",
+      "text_en": "Take position..."
+    },
+    {
+      "character": "Sadu Heavensflame (voice acted, text bubble)",
+      "text_en": "Fall back!"
+    },
+    {
+      "character": "Cirina of the Laughing Reeds",
+      "text_en": "Keep the war machines at bay!"
+    },
+    {
+      "character": "Magnai (voice acted, text bubble)",
+      "text_en": "Kneel or die!"
+    },
+    {
+      "character": "Sadu Heavensflame (text bubble)",
+      "text_en": "Think you can kill me !? I would like to see you try!"
+    },
+    {
+      "character": "Sadu Heavensflame",
+      "text_en": "Haha! More fodder for my flames!"
+    },
+    {
+      "character": "Cirina of the Laughing Reeds",
+      "text_en": "So many... At this rate, we will be overwhelmed!"
+    },
+    {
+      "character": "Sadu Heavensflame",
+      "text_en": "I will not fall so easily! These curs will taste my wrath!"
+    },
+    {
+      "character": "Cirina of the Laughing Reeds",
+      "text_en": "More of them! Quick, lend Sadu a hand!"
+    },
+    {
+      "character": "Magnai the Older",
+      "text_en": "Make way! These whelps will rue the day they crossed my path!"
+    },
+    {
+      "character": "Magnai the Older",
+      "text_en": "None shall escape my chains! Now is your chance to strike!"
+    },
+    {
+      "character": "Magnai the Older (voice acted, text bubble)",
+      "text_en": "Tremble before the Sun!"
+    },
+    {
+      "character": "Sadu Heavensflame",
+      "text_en": "Hahaha! May your screams fill the air!"
+    },
+    {
+      "character": "Sadu Heavensflame (voice acted, text bubble)",
+      "text_en": "Bwahahahaha!"
+    },
+    {
+      "character": "Sadu",
+      "text_en": "Hah... A worthy adversary!"
+    },
+    {
+      "character": "Sadu",
+      "text_en": "Rest. Recover. Reclaim yourself. Then we will fight again ─ to the death."
+    },
+    {
+      "character": "Cirina",
+      "text_en": "Sadu Khatun!"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "That was the last of them..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "The day is ours, thanks to your timely arrival. What of the supply caravan?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Hmm. Outmaneuvered, but not outmatched. Good. Let us take the imperials into custody and rejoin our comrades."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "And soon we shall arrive at the capital..."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "“So cold and unforgiving.” Thus spoke Emperor Solus as he gazed upon his barren domain."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Eight hundred years it had been since the Garleans first set foot here."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Bested by the Corvosi after centuries of war and driven from fertile southern pastures into the blasted northern wastes."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "In that garden of desolation, they clung to one another for warmth. Freezing, hungry, desperate. Hated."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "The chosen forsaken."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "In the year 1513 of the Sixth Astral Era, a young legatus named Solus single-handedly sparked the magitek revolution."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "How did he conceive the machina that feed on ceruleum?"
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Once a common, soft-spoken soldier ─ how had he so quickly ascended through the ranks?"
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Like so many others, those who knew the truth are gone."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Taking in the capital with his eyes for the first time, I recall thinking to myself..."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "“Far colder on the earth than in the heavens.” Yes, far colder indeed...bitterly so."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Not so much as a whisper..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "The roads leading beyond the city walls would have been used less in recent years. Nevertheless, this was one of the most important gateways into the capital."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Abuzz day and night with activity, aye. Merchants passing through the checkpoint, many of them stopping at the local hostelries."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Surely, they cannot all have been tempered..."
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "We can consider the question after we have made camp."
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "If we spend any longer outside, we may well freeze to death where we stand. The tempered imperials, too."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "This will be our temporary base of operations. Secure shelter for ourselves and the injured, and dispatch scouts to survey the surrounding area."
+    },
+    {
+      "character": "Sicard",
+      "text_en": "If we're plannin' on stayin' here a while, we ought to give this place a proper name."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Hmm... The constant sound of ice cracking underfoot makes me think of broken glass. An apt name, perhaps. But enough of this. To work, everyone!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Sorry, I'm feeling...rather unwell."
+    },
+    {
+      "character": "Berthellemy",
+      "text_en": "We must remain as mobile as we are able in such temperatures as these. I fear that if we stand still for too long, the ice and snow may freeze our very bones."
+    },
+    {
+      "character": "Willelm",
+      "text_en": "Don't go shouting this about, but the truth is, during the occupation of Ala Mhigo, I was an imperial conscript."
+    },
+    {
+      "character": "Willelm",
+      "text_en": "Still, for all the sleepless nights they've given me, my experiences during those long, awful years might finally be put to good use."
+    },
+    {
+      "character": "Iliette",
+      "text_en": "I knew we'd find the capital in a bit of a poor state, what with the aftermath of the civil war and a veritable “army of darkness” skulking about, but this is just ridiculous! No one said anything about automated warmachina stalking the ruins!"
+    },
+    {
+      "character": "Iliette",
+      "text_en": "Mind you, if anyone's brave enough to take them on, they should serve as a decent source of spare parts and whatnot. The machinists will be chuffed to bits!"
+    },
+    {
+      "character": "Menuki",
+      "text_en": "We Domans owe our freedom to our Eorzean allies, and I was one of many to volunteer for this endeavor. We will be glad to lend our assistance wherever it is needed."
+    },
+    {
+      "character": "Talon",
+      "text_en": "Many of us took quite a beating on the Magna Glacies, but we all helped each other hobble through the snow and wind, sparing nary a thought for which delegation we each belong to. From now, we're all firm comrades, through thick and thin!"
+    },
+    {
+      "character": "Esdelot",
+      "text_en": "I'm the quartermaster here. It's my job to make sure the camp remains both well supplied and well maintained."
+    },
+    {
+      "character": "Kochacha",
+      "text_en": "We have come too far, risked too much to worry solely about our own hides, for there is so much more at stake."
+    },
+    {
+      "character": "Makago Nokago",
+      "text_en": "We finally managed to set up camp after marching through all that snow. I hope that whoever lived here doesn't mind us using the buildings for shelter."
+    },
+    {
+      "character": "Ambaghai",
+      "text_en": "Gods, this place is cold! We have our share of chilly nights on the Steppe, but I've never experienced anything like this before!"
+    },
+    {
+      "character": "June",
+      "text_en": "It's not only the tempered that need care, a fair few of our own were wounded on the Magna Glacies. If only we hadn't needed to defend the supply caravan, a lot more of us could've joined the front line."
+    },
+    {
+      "character": "Hawisia",
+      "text_en": "Between guarding our supplies and keeping an eye on the tempered as they undergo treatment, we're certainly kept busy."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Our comrades certainly haven't wasted any time establishing a base of operations..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Shouldn't be long before we have a half-decent camp with so many helping hands. I was concerned the snow might hinder our progress, but our Ishgardian friends are used to working in conditions like these."
+    },
+    {
+      "character": "Sicard",
+      "text_en": "Hells' bells, this place is bloody freezin'! Rather be tied to the topmast in a storm than suffer this cold any longer! Anyone what can spare a swig o' rum? That'll sort me right out!"
+    },
+    {
+      "character": "A-Ruhn-Senna",
+      "text_en": "The tempered soldiers are sleeping soundly while they undergo treatment. There are too many to attend at once, but I and the other healers will see to all eventually."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Once everything is in place, we will discuss our next move."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "This is all that remains of Laterum... Homes become empty husks. If this is the state of the outlying villages, I dread to think what has become of the capital."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "We've asked the Ironworks members and some of our other comrades to stay with the airships. In the event we are discovered, we must be ready to move them swiftly to a safer location."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Raubahn taught me a lot about military strategy during exercises in the Fringes. Coordinating units with wildly different capabilities, surveying and securing hostile terrain, that sort of thing. Now, I have the chance to put his teachings into practice."
+    },
+    {
+      "character": "Cirina",
+      "text_en": "Vergilia is in our care, along with the rest of the tempered. “Glory to Garlemald, glory to Garlemald,” they still whisper in their sleep, even as they writhe in pain..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In spite of the obstacles we've faced, our plan proceeds apace. Just a little farther and we will reach the capital itself."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Still, we mustn't get ahead of ourselves. As soon as the camp has been made fit for purpose, we are to discuss a course of action with Lucia."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Would you mind asking Y'shtola and G'raha to join us in that building to the northeast of the camp? Alisaie and I will meet you there."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A meeting? Yes, I'll make my way over once my head has cleared."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In truth, I've been feeling out of sorts since we arrived. The air is thick with a palpable aura of malevolence..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis the monstrous tower on the horizon. Jagged, hideous, unholy... Even at this distance, its presence is overwhelming."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Much like the sensation I felt in the Tower of Zot, only far more terrifying. Aether flows unceasingly towards it, converging into a swirling mass of unfathomable power."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...For a blessing, the constant chill in the air is helping to anchor my senses in the here and now. Tell the others I shall be with you in a few moments."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You will be pleased to know most of the tempered have been quartered inside the nearby buildings and are receiving treatment as we speak."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I do however feel no small amount of guilt for commandeering civilian homes. The occupants may be long gone, but everything is exactly as they left it..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Considering the length of time that has clearly passed since, one would expect to find them ransacked. Strangely, there are no signs of anything having been stolen."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's possible that everyone fled at the first sign of trouble, though it seems to me they left far too many useful possessions behind... Aye, although there is no conclusive evidence, I strongly suspect they were tempered."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Sorry, I was merely thinking aloud... You mentioned a meeting? I will make my way there."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Thank you for informing the others of our meeting."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "When everyone is here, we will begin."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Our present situation is as follows."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Efforts to aid the people of Garlemald have begun in earnest. Moreover, having entered into the capital, the imperial palace is within our reach."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But before we proceed further, we must learn what has befallen this city, for therein lies the key to understanding and combating the Telophoroi's designs."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "I have a suggestion, if I may."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Several of the imperial soldiers we captured on the Magna Glacies are members of the Populares and acquaintances of mine."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Once we have cured them of their tempering, they should be able to give a reliable account of the events leading to the capital's downfall."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A promising idea. I will assist the healers in their ministrations."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Of course, I will require a porxie of my own, assuming you can spare one."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Would you like a hand?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "No, no, I am sure we will manage. Better that you take my place in the field. The noxious aether of this place disagrees with me, and as I shall need to draw on my own for the treatment, 'twould be prudent for me to remain within the camp."
+    },
+    {
+      "character": "Sicard",
+      "text_en": "This talk of curin' the tempered is all well and good, but I reckon the cold is a more pressin' concern."
+    },
+    {
+      "character": "Sicard",
+      "text_en": "All the houses 'round here are fitted with ceruleum heaters that could keep us warm and toasty. Problem is, the machines seem to have given up the ghost ─ and if we keep sittin' around, freezin' our arses off, we'll be next."
+    },
+    {
+      "character": "Sicard",
+      "text_en": "My smiths reckon that with the right parts, they can have 'em workin' again, but it won't be easy."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Understood. The machinists will assist them in the repairs."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The rest of us should either stand watch or survey the area."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "We have made our presence known to the Telophoroi. They will be searching for us ─ if they have not already ascertained our position."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "That we have seen no sign of them since the battle suggests they have yet to do so. However, I suspect they may be biding their time..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "...Or perhaps we are beneath their notice."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In any event, we'll find no answers standing around here. Urianger, Estinien, and myself have visited Garlemald recently, so we'll lead the reconnaissance efforts. Perhaps bolstered by a few Bozjan and Dalmascan scouts from my previous excursion for good measure."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Don't forget about us Ala Mhigans. We have experienced scouts of our own."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well now, this is turning out to be a rather sizable team. With such numbers we should be able to cover a wide area with relative ease, including that surrounding the imperial palace."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "How about you, G'raha? I've a feeling we'll find a use or two for that vanishing spell of yours."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "'Twould be my honor to be of service, though I doubt that you of all people need rely on my tricks."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That leaves us with guard duty..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "As a matter of fact, I have something else in mind for the two of you and Alphinaud."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Between here and the center of the capital lies the Eblan Rime. I would have you search the area for survivors."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Your keen sense of direction honed in your extensive travels should prove useful in navigating the ice fields."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I have faith that you will, and look forward to greeting you on your safe return."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "This too is a vital task, and I appreciate your willingness to see it done. Rest assured that a serving of hot soup will be waiting for you."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Hmm. As ever, you do not want for enthusiasm. But given your experience traipsing about through Coerthas, I should be surprised if you let a little inclement weather dampen your redoubtable spirits."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "And even if that were the case, the promise of hot soup upon your return would surely spur you to action."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "You all have your duties. Let us make haste. May the Fury bless and keep you."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "It was not the Garleans who named this place the Eblan Rime, but rather nomadic peoples in times gone by."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "When my ancestors were forced to migrate here, they refused to accept this land as their new homeland. As such, they made a conscious decision to retain the original name."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Though the meaning of “Eblan” has been lost over the years, it has been theorized that it refers to the harsh conditions here, in much the same way the Magna Glacies was named. One thing, however, is certain─both regions are equally hazardous, so I bid you take all due care."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Thancred and the other scouts are all equipped with linkpearls, that they may communicate with us in case of an emergency."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Of course, we would all prefer they not place themselves in danger to begin with, but such is the nature of their work."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've never thought myself much of an explorer, though I suppose my adventures have taken me to all sorts of strange and distant places. With that in mind, traversing an ice field should be a simple feat!"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "There's this odd perception that Ishgardians have lived their whole lives in the snow, but it really wasn't that bad before the Calamity. And afterwards, well, I was rarely more than a few paces from a raging fire..."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "This dreadful place, on the other hand, is nothing but cold, cold, cold! And it's my understanding that Ilsabard has always been this way. Gods, can you imagine!?"
+    },
+    {
+      "character": "Sicard",
+      "text_en": "The machinists reckon all the interior heatin' was just left there consumin' ceruleum till there was none left. There were even pots sat on stoves, all the food inside burned to soot."
+    },
+    {
+      "character": "Sicard",
+      "text_en": "In any case, even if we had plenty of fuel, it's the magitek itself that's buggered. We'll have to either look for spare parts or make them ourselves."
+    },
+    {
+      "character": "Magnai",
+      "text_en": "Searching for survivors? Hmph. If they are truly strong, they will not require our aid. While you are gone, we will guard the camp against any man or beast foolish enough to challenge us."
+    },
+    {
+      "character": "Magnai",
+      "text_en": "My duty as sentinel will afford me little opportunity to seek my Nhaama, though perhaps one among our ranks─come bearing a hot meal or such─will prove worthy."
+    },
+    {
+      "character": "Sadu",
+      "text_en": "Standing atop an enormous edifice to cast their eyes down upon their dominion... These Telophoroi and the Oronir have much in common, yet even Magnai and his ilk would not stoop to stealing the minds of their subjects and enemies."
+    },
+    {
+      "character": "Sadu",
+      "text_en": "When the time comes to storm their stronghold, I shall lead the charge and leave naught but ash in my wake!"
+    },
+    {
+      "character": "Cirina",
+      "text_en": "Most of the members of Lente's Tears and the Bozjan Resistance have joined the other scouts in the field."
+    },
+    {
+      "character": "Cirina",
+      "text_en": "And since Lyse and Pipin's troops are already keeping an eye on the airships, we of the Steppe shall guard the camp against intruders. Though in truth, it is we who are intruding in these lands..."
+    },
+    {
+      "character": "Broenbhar",
+      "text_en": "Don't ye worry─ Nothin' gets past me!"
+    },
+    {
+      "character": "Alka Zolka",
+      "text_en": "I made the mistake of asking Broenbhar if he knew of any effective methods of staving off the cold."
+    },
+    {
+      "character": "Alka Zolka",
+      "text_en": "According to him, working up a sweat from smashing boulders repeatedly with an axe works wonders, though that is hardly the sort of advice I was hoping for..."
+    },
+    {
+      "character": "Alberic",
+      "text_en": "Several of the Temple Knights are off on reconnaissance at present. We Ishgardians have seen our fair share of frost in the past years, so we are more than ready for this icy bout."
+    },
+    {
+      "character": "Alberic",
+      "text_en": "The Hrothgar from Bozja, on the other hand, are having a devil of a time adjusting to these chilly climes. The warming stones we lent them seem to have helped, though."
+    },
+    {
+      "character": "Chuchuto",
+      "text_en": "Training is of vital importance, as it allows us to be ready at a moment's notice—obvious advice, I know, but it's worth reminding ourselves every now and then. So, any spare time I have, I spend in the betterment of my abilities."
+    },
+    {
+      "character": "Chuchuto",
+      "text_en": "And on that note—listen, everyone! Train, and train hard. Let's show our enemies that no freezing winds or icy hellscapes will break our spirits."
+    },
+    {
+      "character": "Sanson",
+      "text_en": "The tempered are being treated here. Some of the allied nations' best conjurers are tending to them, but it does not seem like everything is progressing smoothly."
+    },
+    {
+      "character": "Sanson",
+      "text_en": "What's more, some of the Garleans are prone to violent outbursts from time to time cause by their condition, which is why we're here."
+    },
+    {
+      "character": "Guydelot",
+      "text_en": "I'm rather looking forward to hearing the songs of our comrades' homelands. I love a rousing melody no matter it's from!"
+    },
+    {
+      "character": "Guydelot",
+      "text_en": "Since the Garleans have found both their strength and their footing again, I shall ask to hear a song of their people, one that conjures visions of home."
+    },
+    {
+      "character": "Stephanivien",
+      "text_en": "Pray give me a moment to finish up designs on the ceruleum heater. I shall have it ready before you know it."
+    },
+    {
+      "character": "Stephanivien",
+      "text_en": "Truth be told, I've already warmed up after much heated debate with a Lominsan engineer. For a mercy, we managed to make an important discovery in the process."
+    },
+    {
+      "character": "Cocobuki",
+      "text_en": "Cocobygo! Cocobani! How many times must I tell you two to refrain from using magic around the Garleans!?"
+    },
+    {
+      "character": "Cocobuki",
+      "text_en": "For now, we must trust that the engineers will complete the heating apparatus in due...due—<sneeze>—time."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods be good... If it's this cold with Tataru's clothing, I dread to think how we'd fare without it! I must remember to thank her when next we meet."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It makes me realize, too, that while the people of Garlemald have spent their whole lives in conditions like these, even they'd be hard-pressed to survive away from the warmth of their homes. If there are any survivors, we must find them, and quickly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So, it's into the Eblan Rime we go. But where do we even start looking in such a place?"
+    }
+  ]
+}

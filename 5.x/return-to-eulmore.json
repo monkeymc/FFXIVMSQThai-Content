@@ -1,0 +1,392 @@
+{
+  "id": "return-to-eulmore",
+  "wiki_path": "/wiki/Return_to_Eulmore",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "Return to Eulmore",
+  "level": "77",
+  "location": "The Crystarium(X:12.6,Y:16.2)",
+  "npc_start": "Manager of Suites",
+  "dialogues": [
+    {
+      "character": "Manager of Suites",
+      "text_en": "Ah, Master / Mistress Surname . I trust you had a pleasant rest."
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "While you were ensconced in your chamber, a message arrived for you from the Exarch. He bids you come to the Ocular at your earliest convenience."
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "...And, sir / madam ? Wherever your duties may take you next, I shall pray for your safe return. May the night keep you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Ah, there you are. May I assume you've had your fill of rest?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "That is well. Now that we are all present, let us speak of our plan."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Thus far, we have vanquished four Lightwardens, restoring night to much of Norvrandt."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Only one remains─that of Kholusia. And with Ryne to guide us, I am certain we will find it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We're so close now. If we can just take care of this one last Warden, we'll rob the sin eaters of their final foothold, and drive them out of Norvrandt once and for all."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It will be a new beginning for the First─a chance for the people to rebuild their world."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In short, a prize worth fighting for."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And in thus delivering the First from destruction, so too shall we unsow the seeds of the Eighth Umbral Calamity."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Do you hear? Your dreamed-of Rejoining is in jeopardy. Are you sure you're not tempted to intervene?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "You labor under the misapprehension that vanquishing the sin eaters is tantamount to saving the world. It is not."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "In truth, you only delay the inevitable, lengthening your fleeting lives by the smallest of margins."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "'Twould be churlish of me to deny you this small concession, close as we've become. Foolish and misguided though you are, you are not without charm."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Each and every one of you is possessed of a noble heart. When the weak want for succor, you do not hesitate to provide it."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Alas, your nobility is shortsighted. You think only of the problem in front of your nose."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "A limitation of your ephemeral existence."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our lives may seem short and insignificant to the likes of you. But one does not need to be an eternal being to achieve lasting change."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Ah, if I may stop you there─I do not claim that we Ascians are special. That is another misconception."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "In the beginning, everyone─ everyone lived nigh for eternity. Such was the natural order of things. But like so much else, this was taken from you."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "You won't object if I borrow your plaything."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "In the distant past, when the world was one and whole, a great calamity threatened all life."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "It began without warning. The very laws of the star were warped and broken, and chaos swiftly spread throughout the land."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Faced with annihilation, we sought to imbue the star with its own will. Thus was Zodiark born, and by His power was order restored."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Ere long, however, thankless fools began to fear that Zodiark's might was too great. And so they conjured another to keep Him in check─your own dear Hydaelyn."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And the two beings waged war until, with a single, devastating blow, Hydaelyn unmade Zodiark, scattering his being across space and time. So you told us in the Qitana Ravel."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Yes, yes... And there began our woes─with Hydaelyn's blow, and all that it wrought."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "As a counterbalance to Zodiark, Hydaelyn was created with the power to enervate Her foe."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "This singular ability strikes not at such banal things as flesh, but everything that defines the target, diluting its existence."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "For example, were She to strike you..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Two individuals, identical in appearance, yet reduced in all respects. Strength, intelligence, the soul itself─all is halved."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Do you see? This selfsame fate befell not only Zodiark, but the very star."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Only three were fortunate enough to escape the sundering─me being one of them."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "When I beheld the shattered remnants of our home, I knew deepest despair."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "The inhabitants of these fourteen fragments were feeble, frail, and foolish. Oblivious to their imperfection, ignorant of their past."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Malformed creatures thrashing blindly about. Pitiful. Disturbing. Depressing."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "So we took it upon ourselves to rejoin the worlds. But in our eagerness─and, I confess, our ignorance─we erred, and made a useless void of the Thirteenth."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "It was only afterwards that we discovered a connection 'twixt Source and shard─a flow of energy that maintains elemental balance. And thus did we arrive at our time-honored modus operandi."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "From a purely Ascian standpoint, it could be said that what you seek to do is only logical."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But that would be to ignore the immeasurable destruction wrought with each Rejoining. You have murdered millions. And this we cannot condone."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "By your fragmented existence, you continue to give rise to tragedies far crueler than any calamity."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "But yes, moral relativism and all that. Case in point─I do not consider you to be truly alive. Ergo, I will not be guilty of murder if I kill you."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Oh, don't look at me like that. You for whom I have only the highest expectations."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "A vaunted hero of the Source, seven times rejoined."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Long have I awaited one who might brave a path of lesser tragedy. A resilient soul able to endure the necessary pain. I dare to hope that my wait is over."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "So, finish your task and slay the Lightwarden. Make proof of your usefulness. And then we may speak again."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Forgive me, my lord, but this could not wait."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Speak freely, Captain."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Our informant in Kholusia sends word of unusual activity in Eulmore."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "It appears their forces are entrenching themselves at key points throughout the city. Making ready for an attack, by all indications."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "An intriguing use of resources. I rather doubt Lord Vauthry is concerned for the safety of his citizens..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You think he's harboring the Lightwarden inside the city walls? Even if he does have some means of controlling the sin eaters, wouldn't that be a little risky?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Risky or not, if there is even a chance the Warden is hiding there, we will need to act fast. The longer we wait, the better prepared the Eulmorans will be."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Agreed. See to your preparations then, and make for Kholusia."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Gods willing, this hunt will be the last. Let us see it through to the end."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We should begin by assembling in Wright. There we may assess the situation in Eulmore, and decide how best to proceed."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "We've not spoken for a while, have we? Not since the aftermath of the eaters' attack."
+    },
+    {
+      "character": "Lyna",
+      "text_en": "Rest assured I am fully recovered, and will do my utmost to support you and your fellow Warriors of Darkness."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Your condition is unchanged? Good. If you can but hold out until the end of the coming battle, I am confident that we will find a remedy for your affliction."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Yes? Did my lesson provoke thought, giving rise to further questions?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "If that is all, then run along. You have a Lightwarden to slay."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Why, their very beings were divided into fourteen, of course. Yet by our power, we unsundered Ascians may raise up one of their fragments to their original office."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Ah, but I suppose this in itself bears explaining. So...the names by which you know us are not, in fact, our names."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Be it Elidibus or Lahabrea or Igeyorhm, all are titles of office. And when an office is vacated, it may be filled by another."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Over the eons, I have overseen several changings of the guard among our sundered brethren."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "And in such instances, the vacant title ordinarily goes to another fragment of the selfsame soul."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "While it is by no means impossible to raise up wholly unrelated individuals, 'tis we whose fervent entreaties brought forth Lord Zodiark─whose souls He claimed in the beginning─who make the truest servants."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Then none would remain to raise up new Ascians, and our kind would eventually fade from existence. You would like that, wouldn't you? Well, feel free to dream─'tis no crime to do so."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Hm! There may come a day when I reveal my true name to you─but this is not it. Of course, you may well die none the wiser, but life is full of such disappointments."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "This aura... What could it be?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There you are, Forename . The others have gone ahead to reconnoiter Gatetown. We are to follow shortly."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It has been a while, has it not? Since the two of us infiltrated Eulmore."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Since we faced Lord Vauthry, and I felt such fury as I have never felt before."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "His actions are unconscionable, of course, and any abhorrence I felt for him entirely justified. Yet mingled with my rage, there was...something else. At first, I was unsure what it was, but in the course of our struggles, I found the answer."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In Vauthry's self-righteousness─in his absolute belief that he, and he alone, is the cure to the world's ills─I saw a reflection of myself. And it brought the memories of all my past follies flooding back."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He is the vainglorious, ignorant fool I once was. And having shared in his affliction, I feel duty-bound to open his eyes to the truth."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Whether he will accept it with the good grace I did is another question..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What is it, Ryne? Do you sense the Lightwarden?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I-I'm not sure. The aura is...different."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Perhaps if we were a little closer..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis time we were on our way in any case. Let us join our comrades in Gatetown."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forename , as a precaution, may I ask that you go first, to ensure that the path is clear?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The closer we are to Eulmore, the more I worry that Ryne may be recognized. If you see any prying eyes along the way, pray encourage their owners to look elsewhere."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Go on, Forename . We will follow anon."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "As I am now, I don't think people will recognize me as the Oracle, but Thancred did always warn against taking unnecessary risks."
+    },
+    {
+      "character": "Delirious Youth",
+      "text_en": "Unnngh... Vauth...nnngh.."
+    },
+    {
+      "character": "Agitated Man",
+      "text_en": "Lord Vauthry... We hear...we obey... Aaahhh!"
+    },
+    {
+      "character": "Euphoric Youth",
+      "text_en": "Long live...Lord Vauthry... Long live...Lord Vauthry..."
+    },
+    {
+      "character": "Euphoric Youth",
+      "text_en": "Long live...live...live..."
+    },
+    {
+      "character": "Fearful Man",
+      "text_en": "Wh-What's happening!? What's wrong with everyone!?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Our mission hath begun on a strange note..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah. Good of you to join us. I was debating whether to warn you, but it's too late now."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I take it you noticed the people behaving strangely along the path? It's more of the same here."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Y'shtola and Alisaie are investigating as we speak. Let's wait and see what they have to say."
+    }
+  ]
+}

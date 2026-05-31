@@ -1,0 +1,384 @@
+{
+  "id": "shadowed-remnants",
+  "wiki_path": "/wiki/Shadowed_Remnants",
+  "wiki_image_url": null,
+  "patch": "6.2",
+  "title_en": "Shadowed Remnants",
+  "level": "90",
+  "location": "The Fell Court of Troia(Zone)(X:10,Y:10)",
+  "npc_start": "Varshahn",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "Wherever I turn, there's Darkness as far as I can perceive; the only source of Light here is ourselves. The opposite was true in the First."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "It seems the minions are content to gawp for now. Let's carry on."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "The warding scale exhibits no change. It should be safe to remain here and begin our search."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "But whither now? I would sense Azdaja were she remotely near, but there is nothing..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Might you not call to her? Let her know that you have come."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Alas, this vessel is not capable of calling across vast distances. For that, I require my true form ."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "And even were it possible, a dragon 's call is borne upon aether . 'Tis liable to draw more voidsent to us."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I see..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In any case, there's little exploration to be done while we are confined to this isolated isle."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I propose we begin by learning what we can from the castle 's occupants. An understanding of their ways may prove useful to our cause."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Very well. Let's hope a few of them are capable of speech."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Let all remain vigilant while we go about our inquiries. We reconvene afterwards."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "This one does naught but stare..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Some seem willing enough to converse. Whether they have the ability to do so is another matter..."
+    },
+    {
+      "character": "Feral Voidsent",
+      "text_en": "Grrrrrr..."
+    },
+    {
+      "character": "Feral Voidsent",
+      "text_en": "Grrr? Grrraaargggh..."
+    },
+    {
+      "character": "Feral Voidsent",
+      "text_en": "Grrr... Grrraaargggh!"
+    },
+    {
+      "character": "Watchful Voidsent",
+      "text_en": "What enticing aether you have... Give me some! Give me some!"
+    },
+    {
+      "character": "Watchful Voidsent",
+      "text_en": "Awww... If only I were stronger, I'd be able to eat you..."
+    },
+    {
+      "character": "Watchful Voidsent",
+      "text_en": "Fine, fine. I'll find someone else to eat... <grumble>"
+    },
+    {
+      "character": "Watchful Voidsent",
+      "text_en": "I want to eat you. I mustn't eat you. I want to eat you. I mustn't eat you..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Like the prevailing tongue in Norvrandt , the language of this world bears a resemblance to our own. It may be assumed that they share a common ancestor."
+    },
+    {
+      "character": "Forlorn Voidsent",
+      "text_en": "The mistress 's eyes are beauteous! Sublime! To bask in her gaze is bliss!"
+    },
+    {
+      "character": "Forlorn Voidsent",
+      "text_en": "But now she's gone... Never again will I feel her gaze..."
+    },
+    {
+      "character": "Forlorn Voidsent",
+      "text_en": "No mistress. No orders. What am I to do now? What am I to do now?"
+    },
+    {
+      "character": "Forlorn Voidsent",
+      "text_en": "No mistress. No orders. What am I to do now? What am I to do now?"
+    },
+    {
+      "character": "Fearful Voidsent",
+      "text_en": "I serve! I obey! Please don't eat me!"
+    },
+    {
+      "character": "Fearful Voidsent",
+      "text_en": "A...dragon? What's that? Does it taste good? I don't know anything about it. Don't know about anything."
+    },
+    {
+      "character": "Fearful Voidsent",
+      "text_en": "But the one we caught recently, they seemed to know lots."
+    },
+    {
+      "character": "Fearful Voidsent",
+      "text_en": "We threw them in the dungeon, but clever ones are tasty. They might have been eaten already."
+    },
+    {
+      "character": "Fearful Voidsent",
+      "text_en": "We threw the clever one in the dungeon, but clever ones are tasty. If I had the chance, I don't think I could resist..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I have nothing to share. While those I approached had no will to fight, neither were they capable of holding a conversation worth the name."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My experience was much the same. Lower-rung voidsent tend to have lower intelligence, 'twould seem."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "A pity Scarmiglione is dead. He was talkative at least."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What of you?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "A clever voidsent in the dungeon..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "That would be the area in which we emerged."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let's take ourselves back there and find this voidsent─preferably before its fellows make a meal of it."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "To the dungeon, then."
+    },
+    {
+      "character": "Troian Knight",
+      "text_en": "I can't survive without someone to give me aether. But where, oh where will I find a new master...?"
+    },
+    {
+      "character": "Troian Doorkeeper",
+      "text_en": "Prey we caught are weakened in the dungeon before being served up to the mistress. “Tenderizing,” she called it, and that's the way she used to like it."
+    },
+    {
+      "character": "Troian Guard Dog",
+      "text_en": "Woof! Grrrrrr..."
+    },
+    {
+      "character": "Troian Manservant",
+      "text_en": "Though there's only the one dungeon here, we call it the fourth. The mistress's orders."
+    },
+    {
+      "character": "Troian Manservant",
+      "text_en": "But the mistress is gone, and her orders with her. Rats can infest this castle for all I care!"
+    },
+    {
+      "character": "Troian Gaoler",
+      "text_en": "No one comes and goes from this dungeon without permission. For you, though, I'll make an exception. Go on, go."
+    },
+    {
+      "character": "Troian Warden",
+      "text_en": "Food for the mistress's consumption is kept in these cells. With the mistress devoured, we're free to help ourselves."
+    },
+    {
+      "character": "Troian Warden",
+      "text_en": "But the clever one is strong! Another warden went in to devour the clever one, but he hasn't come back out..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I mislike the feel of this. Stay on your guard."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "There appears to be someone within..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Could this be the clever voidsent?"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "You..."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "You are...the friend?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Zenos? The disgraced prince you yourself laid low?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I see it now. The bottomless darkness. The insatiable hunger. The aura was present when we faced him in Garlemald ."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "How did it come to be here?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "When Zenos died, its connection to the Source was severed. It was forced to return to the void ."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "Zenos..."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "Yes, that was his name. And you are the friend, are you not?'"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Is that... Hydaelyn 's crystal!?"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "But how?"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "The light just now... Of course. And thus I am returned..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "What do you mean, “returned”? Who are you?"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "I was once bound to the man named Zenos."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "His “avatar”─until you killed him."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Avatar” as in the voidsent servants of reapers ."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In the name of his hunt, Zenos took up that traditional Garlean art."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And through it, he forged a covenant with a being of the void to lend him strength."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "“Covenant”? A curse, more like. He stole my power. There was no equity in the arrangement."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "My very essence was altered. Twisted into a tool to serve his desires."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Your previous appearance. This is your true form, then?"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "Perhaps. Perhaps not. What does it matter?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Indeed. It doesn't."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Regardless of your form, you are a voidsent by nature."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "So answer me this: are you our enemy too?"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "In this world, only a fool would attempt to devour a stronger being."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "And though it was as an avatar, I lost to you once. I have no desire to lose again."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Good enough for me."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "Now, you will answer me a question."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "Zenos called you “friend.” That's what you are? A friend?"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "So...you're not a friend?"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "Then..."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "What is it? What is a friend?"
+    },
+    {
+      "character": "Troian Warden",
+      "text_en": "It seems the clever one did for my fellow warden after all. I knew it was a bad idea to go in the cell..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Zenos's avatar, eh? What are the odds."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We still know little about her, but for now I'm glad we found someone who can do more than moan for aether."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I assume the dungeon was reserved for those intended for the mistress's consumption."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "'Tis fortunate that we came here when we did. Fateful, even."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "When I served Zenos, my mind was shrouded in haze. But one thing was always clear─his obsession with the “friend.”"
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "What the word means, I do not know exactly. I know only that it referred to you, and that yours was an important existence."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As much as one might expect the unexpected, I doubt any of us could have foreseen this turn of events."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "She seems different from other voidsent─at least those we've met. And the change we witnessed, I suspect, is due to your crystal purging the excess Darkness in her."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Even so, she still harbors a great deal of Darkness. I'm very keen to hear what she can tell us─about herself and about her world."
+    }
+  ]
+}

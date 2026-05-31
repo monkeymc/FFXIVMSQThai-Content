@@ -1,0 +1,472 @@
+{
+  "id": "friends-for-the-road",
+  "wiki_path": "/wiki/Friends_for_the_Road",
+  "wiki_image_url": null,
+  "patch": "6.1",
+  "title_en": "Friends for the Road",
+  "level": "90",
+  "location": "Thavnair(X:16.4,Y:32.9)",
+  "npc_start": "Estinien",
+  "dialogues": [
+    {
+      "character": "Mehrahd",
+      "text_en": "Estinien is... I think he is not as gruff as he makes out to be."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I shall leave you to recruit G'raha. He'll appreciate the invitation that much more, I'm sure."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "As I recall, he was based at the annex. Someone there ought to be able to point you in the right direction."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Let us be off too, Mehrahd. Do me a favor and don't stray from the path."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Oh, look who it is! Welcome back, Forename !"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "What might the Students do for you?"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "G'raha? Yes, he's in the main hall with Mistress Krile."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "They've been holed up in there for days . By all means, go and give them an excuse to take a break!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah, Ojika, my good man."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Would you be so...kind...as to..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Isn't this a pleasant surprise."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I wish you had sent word ahead. I thought I was having visions for a moment there!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Raha and I have been compiling old records of the Students' activities."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Slow and steady. Raha and I have been compiling old records of the Students' activities."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We were able to locate several accounts in the archives of Noumenon, but the bulk of our documents was lost along with the Isle of Val..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We located several accounts in the archives of Noumenon, and added them to the collection we recovered from the Isle of Val."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And judging by the progress we've made thus far, sorting this pile will keep us occupied for days to come."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But what brings you to the annex, my friend? Surely you haven't come all this way just to watch us shuffle dusty papers around?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The treasure vault of Alzadaal III..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And you're looking for companions to join you on this expedition?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I would dearly love to accompany you, of course, but I'm afraid I'm committed to another task. On the subject of which, I had hoped to ask for your assistance..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then again, it's not so urgent that it can't wait until you've returned."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You should go, Raha. I'll stay here and mind the shop, as it were."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Are you sure? I'd hate to leave you shorthanded..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm sure. Just try to be back before too many moons have passed."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well! I guess we're off on another adventure already!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Have you asked anyone else to come along?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then might I suggest we invite Y'shtola?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ever since the Scions disbanded, she's spent most of her time cloistered within the Great Gubal Library, hoping to piece together a method to traverse the rift."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It would seem, however, that whatever wisdom she sought there was not to be found. She arrived in Sharlayan the other day—we spoke briefly before she began her search of Noumenon."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Considering what you've told us of Alzadaal's extraordinary feats, I do believe Y'shtola would be more than interested to hear what you have to say."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Splendid. Then let us head to the archives at once."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Wait, before you go—I have another potential member to volunteer, if you've room to spare. Urianger."
+    },
+    {
+      "character": "Krile",
+      "text_en": "He sent the Students a request for materials, you see—treatises on the architecture of treasure vaults and the like."
+    },
+    {
+      "character": "Krile",
+      "text_en": "From what I can gather, the Loporrits are looking to make \"improvements\" to their own creation , and wish to learn more about how we build things down here."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So why not take Urianger with you? Let him study Alzadaal's Legacy firsthand."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "None can deny the benefit of seeing something with your own eyes."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If our expedition leader has no objections, I say we extend Urianger an invitation once we've spoken with Y'shtola."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Safe travels, you two. But don't forget: I'd still like your help with that other matter I mentioned."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Right! Then it's off to the library!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, she wasn't hard to find, at least..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I've never known Y'shtola to doze off in the middle of research before..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Mmm... I close my eyes for one moment..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "How long have you two been here?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Did you now?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nor did I want to fall asleep."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...Something to that effect."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I must have been studying for two...three days straight before exhaustion finally claimed me."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As you know, I've been researching ways to travel from the Source to one of its reflections."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well...looking for hints, at least. I don't expect to find a simple set of instructions tucked away in some dark corner of the library."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So I've been skimming through the stacks, hoping to uncover even a partial mention of any similar feats in the past."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A means to travel between worlds exists, and you can be sure I will find a way to employ it..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So I promised Runar, but 'twould seem I've set myself a nigh-impossible task."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You needn't be so hard on yourself."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The leap I made with the Crystal Tower was not achieved in an afternoon—it was the culmination of a collective effort spanning generations."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Oh, you think me discouraged? I assure you, 'tis quite the opposite."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A daunting challenge and the time to sink my teeth into it? I feel like a fresh-faced student again."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A scholar in her element."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed. Was there something else you wished to ask of me?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Alzadaal is no minor figure in Hannish history, and much is known about his family."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But this is the first I've heard of a descendant surviving a trip to another world."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If those tales are true, then he may have left behind some clue as to how it was accomplished."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "An invitation to delve into one of the world's lingering mysteries? As if I could refuse."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And whence do we embark upon this expedition?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Akyaali, by ship—but before that, we thought to extend an invitation to Urianger as well. He was in Thaumazein, last we heard."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Then by all means, let us recruit him and be on our way."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I've visited Labyrinthos on several occasions recently, but I've not set foot in Thaumazein since the day we boarded the Ragnarok ..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I don't see Thancred anywhere. Was he not supposed to be traveling with Urianger?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Ah, our illustrious champion."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Cloaked in the mantle of the common explorer, fame set aside in thy pursuit of simple adventure."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I am told a new expedition is in the offing."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And thee. As ever, thou art the picture of strength."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "He left to attend to some personal errand, but should be returning ere long."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You've been keeping yourself busy, I trust?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "True to our plan, Thancred and I embarked upon a pilgrimage of sorts, with an eye for gauging the state of those lands through which we passed."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Our travels were interrupted, however, by a request for aid from our befurred lunar allies."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As you may recall, the Loporrits had been seeking new purpose for the moon—another role through which it might serve to benefit mankind. The Forum hath been working to advise them in this endeavor, but I returned to offer mine own counsel."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And this has what to do with treasure vaults exactly...?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Ah, you have learned of my predicament from Mistress Krile."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I know not whence they acquired such knowledge, but the Loporrits now stand convinced that adventurers delight in treasure hunts."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thus with their newly built \"wonderland of riches and mystery\" do they hope to entice all manner of daring delvers to the moon. So earnest and innocent was their desire to bring joy to the world that I found myself powerless to refuse them my cooperation..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "But what of you, my friends? Why are you come to Labyrinthos?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Fascinating. This is, indeed, a most fortuitous opportunity."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I should be honored to accept thine invitation."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "How long hath it been, I wonder, when last our actions were not impelled by fate or desperation?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Aye, though I cherish the Scions' accomplishments, 'tis pleasant to not have the weight of the world upon our shoulders for a change."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Counting Estinien, we number five now, yes? Without knowing what traps or perils await unwary feet, we may be wise to refrain from recruiting others."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I agree. Between us, we should have the skills to handle whatever situation may arise. Shall we be on our way?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What, no time to spare a word for the grizzled old bard?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "All is well, I trust?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A wasted trip, I'm afraid. I'd hoped to catch up with a former mentor while you parlayed with the rabbits, but it seems our paths were not to cross."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That's because we didn't travel by experimental aetheryte. It's astounding what a lack of nausea does for one's sense of well-being."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Having an astrologian beside you on the road is surprisingly convenient. And it doesn't hurt that he's making strides with his light-hearted banter."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In any case, as we made our way around Ilsabard, we saw that much of the continent was in various stages of chaos."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A certain amount of disorder is to be expected—the Final Days are over, and the people no longer have a common threat binding them together."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But that's the thing with these fledgling troubles, eh? You need to keep an eye out lest they mature into full-grown headaches."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So. For what reason have so many esteemed personages seen fit to gather?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Beneath the waters of the Bounty, you say? I see you've already stolen away my traveling partner with the promise of unexplored ruins and scholarly glory."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Nay, 'tis not for mine own indulgence, but rather the fulfillment of my commitment to the Loporrits."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, of course... And if you have Estinien rounding out your group, you likely have all the members you need."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Feeling left out? I could put in a good word for you, if you like."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We may have been \"released\" from out obligations, but I'll never be free of that merciless wit of yours, will I?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In all seriousness, 'tis best I sit this one out. Too many former Scions consorting with one another might be seen as a cause for concern in certain quarters."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'll return to my usual reconnaissance, and scout out the situation in the Far East. Feel free to share if you come across any interesting revelations."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Till we meet again."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Shall we also hasten our departure? Ser Estinien will wonder what hath become of us."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah, the thrill of imminent adventure! I never tire of this feeling."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Just imagine the possibilities..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In my travels, I spied many a child wandering alone—orphans, in all likelihood. Though homes razed by beasts and blasphemies can be rebuilt, the void left by those we have lost cannot so easily be filled..."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "I will pray to Sanduruva for your safe return. May the wealth of Her blessings guide you to the treasure you seek..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I send you to recruit G'raha and you return with an entire survey party."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I hope Matsya's boat is sturdy enough to carry us all..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What he means is, we are grateful for the use of one of your precious fishing vessels."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "We are more than glad for the chance to provide it. I ask only that you take care to steer clear of the reefs in the shallows there."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Aye, we will keep an eye out."
+    }
+  ]
+}

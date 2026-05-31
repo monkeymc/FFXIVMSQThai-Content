@@ -1,0 +1,680 @@
+{
+  "id": "the-face-of-war",
+  "wiki_path": "/wiki/The_Face_of_War",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/4/4d/The_Face_of_War_Image.png/280px-The_Face_of_War_Image.png",
+  "patch": "4.5",
+  "title_en": "The Face of War",
+  "level": "70",
+  "location": "Eorzean Alliance Headquarters(X:6.3,Y:6.1)",
+  "npc_start": "Lyse",
+  "dialogues": [
+    {
+      "character": "Lyse",
+      "text_en": "I'm not sure what I was expecting from our meeting with the Emperor, but it wasn't that. Still, at least we know now what he's really after!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Aye, a future built on a mountain of bodies. I too want the Ascians dead─but not at any cost."
+    },
+    {
+      "character": "Hien",
+      "text_en": "The last of the reinforcements from Doma arrived not long ago. I pray it will be enough. Given the Emperor's stated goal, this is a battle we can ill afford to lose."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "If the Garleans come in force, we may not have much say in the matter...even with our combined strength."
+    },
+    {
+      "character": "Hien",
+      "text_en": "We knew from the first that the odds would be against us. But if there is even the slightest chance of victory, we must do everything in our power to seize it."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "We must seize it, full stop."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Hear, hear!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The two of you are to join an irregular unit and support the main host. I won't bother asking if you're minded to fight."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "After coming this far, how could I not?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And for once, there's no one around to countermand me. Not that they would. Not even my brother."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But we all know who'll really make the difference. Ready to frighten some Garleans?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I wouldn't want to be on their side."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Might I ask you to accompany the Doman contingent? They are strangers here, and your presence would do much to raise their spirits."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We would be honored."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "When our people stride out with you in their midst, I daresay the Eorzeans will feel an ilm taller themselves. High spirits have a way of spreading."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Ah, what I wouldn't give to join you. But my duties as field commander will not allow it. I leave the front lines in your capable hands."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Comrades! Ready your arms! The hour of battle has come!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "May the Crystal guide us to victory!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Since the others couldn't be here, we'll have to fight twice as hard. If Alphinaud wakes to find the imperials have won, I shall never hear the end of it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's strange... I thought I would be terrified when the fighting started."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I should be terrified. But with you at our side, I can't help feeling everything is going to be all right."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So please..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Don't you dare leave me alone."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "No matter what happens, we have to survive. Together."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "My duties as field commander demand I remain here at my post, but I have no doubt the front lines are in capable hands."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Stay focused, now! Let's show the Empire what we're made of!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "There is a chill in the air, and I speak not of the weather. Nay, this is the palpable tension that precedes a bloody battle."
+    },
+    {
+      "character": "Hien",
+      "text_en": "The Eastern alliance stands ready to fight. Let us seize victory this day and secure the morrow for all our peoples."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Forward, forward!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "I shan't hold back!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "Brace yourself. They've called for reinforcements!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "Keep moving. We will hold them here!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "You underestimate me!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "Fear not! Help is on the way!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Quickly! To me!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "It's going to blow!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "This one's for you, Papalymo."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Go on, Forename . Leave these soldiers to us."
+    },
+    {
+      "character": "Annia quo Soranus",
+      "text_en": "These savages bested our vanguard? Impressive..."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "But in the end, they are only that—savages. Now, let us be brief. His Radiance awaits."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "Annia. Take the field."
+    },
+    {
+      "character": "Annia quo Soranus",
+      "text_en": "Very well. I leave the artillery fire to you."
+    },
+    {
+      "character": "Annia quo Soranus",
+      "text_en": "Commence bombardment, and prepare to strike."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "They will not escape."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "Impressive. Annia, let us engage them together."
+    },
+    {
+      "character": "Annia quo Soranus",
+      "text_en": "They cannot hope to evade us both."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "Annia. Fall back."
+    },
+    {
+      "character": "Annia quo Soranus",
+      "text_en": "Very well. Leave the artillery to me."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "Ready the ceruleum tanks."
+    },
+    {
+      "character": "Annia quo Soranus",
+      "text_en": "Deploying now."
+    },
+    {
+      "character": "Annia quo Soranus",
+      "text_en": "It seems we have no choice, Julia."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "You should feel honored, savages. Few are they who have witnessed this twice."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "And fewer still who have witnessed this..."
+    },
+    {
+      "character": "Annia quo Soranus",
+      "text_en": "Farewell, savages."
+    },
+    {
+      "character": "Julia quo Soranus",
+      "text_en": "We have served our purpose. Come, we shall withdraw for now."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Their teamwork was quite fearsome, I must allow."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Is it over already?"
+    },
+    {
+      "character": "Hien",
+      "text_en": "It seems we've thrown them back."
+    },
+    {
+      "character": "Hien",
+      "text_en": "This is the moment of truth, my friends! Hold nothing back!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Aye, let's give them hells!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "They must do better than that to catch us off guard!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Golden armor... Safe to assume it's dangerous."
+    },
+    {
+      "character": "Hien",
+      "text_en": "That was some truly savage swordplay."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How fierce must the fighting have been here..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Our friends need us! With me!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whatever it is, we can't afford to be stopped here!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Such bizarre machina the Garleans are wont to make..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That one was like a fire-breathing mole, I thought."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Elder Seedseer! Ser Aymeric!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Let us press on together!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "How heartening to have the Alliance's finest at our side!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "To ward off such a powerful attack..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Leave it to Lyse to pierce warmachina armor with her fist!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I won't be outdone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "These are no ordinary soldiers..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "So, their commanders deign to appear at last!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This can't be good... Stay on guard!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Don't take your eyes off them!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "So they mean to play their trump card!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Throw everything you've got at them!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "This is the moment of truth, my friends! Hold nothing back!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Aye, let's give them hells!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Enemies from above!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "They must do better than that to catch us off guard!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Golden armor... Safe to assume it's dangerous."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Indeed. Let all have care."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ungh, my head is spinning..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "That was some truly savage swordplay."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Machina wreckage!?"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Too close for comfort..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Our friends need us! With me!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "My lord!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Some manner of trench-digging weapon?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whatever it is, we can't afford to be stopped here!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Such bizarre machina the Garleans are wont to make..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That one was like a fire-breathing mole, I thought."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Elder Seedseer! Ser Aymeric!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Let us press on together!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "How heartening to have the Alliance's finest at our side!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Aye, there is naught we need fear!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "A sturdier barrier I have seldom seen!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "No less than I'd expect of the Elder Seedseer!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Leave it to Lyse to pierce warmachina armor with her fist!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I won't be outdone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This can't be good... Stay on guard!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Don't take your eyes off them!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "You'll not find me an easy target!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "We must finish this before they can!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "So they mean to play their trump card!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Throw everything you've got at them!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "This is the moment of truth, my friends! Hold nothing back!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Aye, let's give them hells!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "They must do better than that to catch us off guard!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Special, are you? Well, you're about to lose your luster!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ungh, my head is spinning..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "That was some truly savage swordplay."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How fierce must the fighting have been here..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Our friends need us! With me!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "An unusual foe...but we will find a way through it!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Such bizarre machina the Garleans are wont to make..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That one was like a fire-breathing mole, I thought."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Elder Seedseer! Ser Aymeric!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Let us press on together!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "How heartening to have the Alliance's finest at our side!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "To ward off such a powerful attack..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Leave it to Lyse to pierce warmachina armor with her fist!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I won't be outdone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "These are no ordinary soldiers..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "So, their commanders deign to appear at last!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This can't be good... Stay on guard!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Don't take your eyes off them!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "So they mean to play their trump card!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Throw everything you've got at them!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We did it! I daresay they'll be reeling from this!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "You were truly inspiring in battle, my friend. I'm determined not to be outdone, but there seems to be no one left to fight..."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "A tactical withdrawal, perhaps?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We should give chase. Finish them off while we have the chance."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Imagine the others' surprise when they wake to find the war already won."
+    },
+    {
+      "character": "???",
+      "text_en": "The Light...will expunge all life..."
+    },
+    {
+      "character": "???",
+      "text_en": "Only you...can forestall the calamity."
+    },
+    {
+      "character": "???",
+      "text_en": "Throw wide...the gates...."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "No.. Not now...Not...like..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Oh no, don't tell me..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Are you all right? Quickly! We must get her back to the encampment."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Alisaie is being cared for at the infirmary. Would that there were more we could do for her..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "So the Garleans have been routed, have they? Well done."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Though this exchange was no more than a test of our strength, like as not. They won't be taking any chances now that the Emperor has joined the fray. They'll want to take their time─whittle down our defenses..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Still, with your help, and that of our Eastern allies, we've passed the first test. Our line is unbroken."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "As for Alisaie...well, she's in good hands over at the infirmary."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "My lord─the chirurgeons have completed their examination of Mistress Alisaie, and it is as we feared. She is locked in a slumber without any outward cause."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Just like the others. Damn it all..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Aye...the Garleans picked a fine time to come knocking."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Five Scions incapacitated... And with the enemy on our doorstep, I cannot spare the men to assist in the search for a cure. The best I can do is see to it that Alisaie is escorted safely back to the Rising Stones."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Yugiri and I would return to our encampment. The main contingent of our forces from the Far East is under sail, and all must be made ready for their arrival."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I'll not keep you, then."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Judging by the Garleans' recent movements, or lack thereof, they won't be launching another offensive in the immediate future."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You should return to the Rising Stones. Given the plight of your fellow Scions, I can understand if you feel on edge, but you'll be no good to anyone without rest."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Go on, now─rest. You've more than earned it. We'll contact you the moment the Garleans show any sign of stirring."
+    },
+    {
+      "character": "Resistance Fighter",
+      "text_en": "The imperials have not gained any ground since our last battle, but neither have we. I fear this stalemate can only continue for so long."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Both Mistress Krile and Master Matoya have taken up the search for a cure to this strange sleeping sickness. I pray they find a remedy soon."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Ah, Forename . Welcome home. Word has it you and Mistress Alisaie gave the Garleans quite a thrashing. Speaking of whom, where is Mistress Alisaie? I was certain she would have returned by now."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "By the Twelve, not her too..."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "Ocher and I will ready the infirmary for her arrival."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "We will also need to send a message to Tataru posthaste. <sigh> Would that I had something other than grim tidings to share with her..."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "And with you too, for that matter. It grieves me to report that the Archons' condition remains unchanged."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "As we speak, Coultenet, Krile, and Master Matoya continue to explore every possible avenue. Alas, their efforts have yet to bear fruit."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "But all is not lost. You are still hale and whole, after all. Though I suspect you must be tired from your journey. You should rest, my friend. Leave the worrying to us, for the time being, at least."
+    }
+  ]
+}

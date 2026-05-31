@@ -1,0 +1,996 @@
+{
+  "id": "caging-the-messenger",
+  "wiki_path": "/wiki/Caging_the_Messenger",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "Caging the Messenger",
+  "level": "87",
+  "location": "Elpis(X:31.6,Y:15.4)",
+  "npc_start": "Hythlodaeus",
+  "dialogues": [
+    {
+      "character": "Emet-Selch",
+      "text_en": "Do you understand why Hermes would do this? His logic escapes me entirely..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "If all Hermes means to do is listen to Meteion's report, then it is his right to do so."
+    },
+    {
+      "character": "Venat",
+      "text_en": "But once he receives the answers to his question, what then? The fate of the world may very well hinge upon the choice he makes in that moment...and we must be there when he makes it."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Hermes has headed to Ktisis."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Considering the expansive dimensions of the place, even we may have a difficult time locating his aether. All I can say is that he entered from the rooftop, and likely arrived at the uppermost point in the facility."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "So...do we pursue him?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Of course we pursue him. No matter what Hermes might be thinking, Meteion is a potential threat that needs to be brought under our control."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "The Convocation's duty to safeguard this star takes precedence over any personal stake in the matter."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Venat? Forename ?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "'Tis clear we stand on a precipice, but we have yet to determine beyond a shadow of a doubt that Meteion's is the hand which tips us over the edge."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Nevertheless, if we are to learn the truth of the Final Days, we must give chase. And even if neither Hermes nor Meteion is ultimately responsible, we cannot leave them to suffer this torment alone."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Agreed on all counts. To Ktisis Hyperboreia we go!"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Judging from the crowd, something is afoot."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "I mislike the look of this..."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "I saw naught out of the ordinary. Does anyone know what caused it?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "What have we here...?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "Excuse me, has something happened inside Ktisis?"
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "Mistress Venat! I'm so glad you're here!"
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "No one knows what prompted it, but the alarum was sounded and Ktisis put into a state of alert."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "Procedure dictated that we evacuate immediately, and we have yet to investigate further..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "...This is Hermes's doing. Obviously."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "And what does this “state of alert” entail exactly?"
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "A field of dampening magick is draped over the entire facility, usually in response to escaped entities and the like."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "Ktisis scholars and observers are unaffected, but everything ─ and everyone ─ else is weakened to a fraction of their usual capabilities."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Then consider us forewarned. We do, however, have urgent business with Chief Hermes, and must enter the premises regardless."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "...That said, if Hermes is willing to enact such measures, I wonder what other obstacles he has seen fit to drop in our path."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "With that enfeebling spell in place, we're not like to be at our fighting best."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "And I was hardly an effective combatant to begin with! I've little to offer beyond my aetherial vision."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Then you will put that talent of yours to good use. You were fairly skilled at spotting weaknesses, if I recall."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "“Fairly skilled”? Now you've gone and raised everyone's expectations..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "You all need only make the most of your strengths, and I will fill in the gaps as required."
+    },
+    {
+      "character": "Venat",
+      "text_en": "I was once Azem, after all. 'Twas my job to rise to the occasion ─ be that as defender, aggressor, or healer."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "I feel better about my lack of prowess already!"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "And you, Emet-Selch, can impress us with your arcane majesty. You lob potent spells as easily as breathing, but can also channel that power in a protective manner if you so choose, yes?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Eh!? Well, yes, should the situation call for it..."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Excellent! That should cover us on all fronts."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Your tale led us here, Forename , so 'tis only right that you lead us now. No matter what lies ahead, we will win through to Hermes and Meteion."
+    },
+    {
+      "character": "Venat",
+      "text_en": "And then we will face the future together!"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "I said that Hermes was likely perched somewhere at the highest point of the facility, but reaching him will be no mean feat."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "To put it simply, Ktisis Hyperboreia contains a multitude of vast spaces linked together at the seams, meaning the interior is far more massive than even this grand structure might otherwise suggest."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "But even a colossal facility filled top to bottom with savage creations will not stop you ─ not with Venat and Emet-Selch at your side. And I will be there too, of course, cheering you on!"
+    },
+    {
+      "character": "Venat",
+      "text_en": "Bleak as the contents of Meteion's report might be, many could hear it and remain content with their lives."
+    },
+    {
+      "character": "Venat",
+      "text_en": "But not Hermes. For him, the veneer of perfection has long been cracked, and it was to the distant heavens he looked for the means to repair it."
+    },
+    {
+      "character": "Venat",
+      "text_en": "I understand his anguish after a fashion ─ my own refusal to return is in opposition to the world's established order."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Yet for me, the imperfections only enhance the fragile beauty of our star. I will fight to see it delivered from destruction, warts and all."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "From the moment we met you, our visit has devolved into a never-ending series of complications and irritations. In spite of this, I have gained one useful thing:"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "An awareness of dynamis. To think that a power with the potential to corrupt aether had largely escaped our notice..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Whether or not I believe your tale, the facts underpinning your narrative will be the source of much debate."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "So understand that I act not for the sake of you or your fantastical quest. My duty demands that I apprehend Meteion ─ and if that now means Hermes as well, then so be it."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "I will not seek to impede such an august company from going about its business. But please, do be aware that many of the specimens within are far from docile."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Please, turn back! Else I might be forced to..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I'm warning you. Stay away."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I cannot let you take Meteion. Not yet."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I must hear their answers before they are expunged from existence."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "So, it comes to this."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I've no wish to fight. But this time, I cannot yield."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Though the world may think me a mad, desperate fool, I will hold fast to my conviction."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I will have the time and tranquility I require."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Gust and gale, gather to me!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Ancient brand, unleash your power!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Dancing winds, pierce my foes!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Stars on high, fall as rain!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Streams of aether, surge as one!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Even when transformed... But I am not finished yet!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "No... My power..."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Hopefully he has calmed down a little..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "A merry chase he led us on."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Let us leave the rest to Emet-Selch."
+    },
+    {
+      "character": "Venat",
+      "text_en": "It seems he is determined to protect Meteion."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Aye. A right bother this is going to be..."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Would that we didn't have to put down the creations..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Ugh, of course there's a cold zone, and of course we're going through it..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Let us make our way through the Frozen Sphere."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Oh dear, this fellow seems disinclined to let us pass..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Then we have no choice but to force our way."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Oh?"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "That the power of ice could be used this way..."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Alas, it's no use on us."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Is it seriously trying to hide? From us?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Oh, please..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "An impressive concealment ability."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Shame about the telltale footprints."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Oho, how very creative."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "I must say, this is a promising concept."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "I wonder whose it is..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "I've had enough of this mummer's farce."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Well, well, it's trying to confuse us."
+    },
+    {
+      "character": "Venat",
+      "text_en": "But we won't be so easily confounded."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "May you find peace in the aetherial sea..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Come, we mustn't tarry."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "At least he has the courtesy to warn us."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Warn us all you like. We're coming regardless."
+    },
+    {
+      "character": "Venat",
+      "text_en": "I'm afraid we can't do that."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "He may have his flaws, but you can't fault his managerial prowess."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Seriously? You want to discuss his candidacy now ?"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Goodness me... What manner of thinking is behind this?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "There truly is no accounting for taste..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "A pass for constitution, but a fail for intelligence."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "If its concept is submitted, I will be certain to reject it."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "He's not going to give up, is he?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "We're taking Meteion! Whether you like it or not!"
+    },
+    {
+      "character": "Venat",
+      "text_en": "We're close. I can hear it in his voice."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Enough is enough, Hermes!"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Stubbornness can be a virtue, but this is a little excessive."
+    },
+    {
+      "character": "Venat",
+      "text_en": "To protect Meteion, he would go so far as to transform..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "So far as to make himself a villain..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "It's over, Hermes. In the name of the Convocation, I hereby take Meteion into custody."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "And setting aside the matter of your nomination, you will come with us, too. We require your knowledge to assess and resolve the situation."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Meteion... I'm so sorry... Would that I could have listened to your report in full..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Reflected upon its meaning and conveyed it to others ─ that they might reconsider their chosen course..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "But I have failed, and that wish will never be realized. However..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Ere our fates become the province of others, I bid you tell me...just one thing."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Was there happiness in those distant stars?"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Was there a reason for living?"
+    },
+    {
+      "character": "Meteion",
+      "text_en": "We conducted our search as per your instructions."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "We scoured historical records. Communed with the spirits of the deceased."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Heard the final testaments of the dying. Welcomed their shadowed hearts into our own."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "One race had striven to create a world bereft of animosity."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "They renounced relationships to avoid interpersonal strife, and in so doing brought about societal collapse."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "One race had renounced war and devoted itself to the enrichment of its people."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "They were conquered. Though they destroyed the enemy in reprisal, they could not regain their former glory."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "One race had concluded that finite time was the root of all woes. Aspiring to shatter its shackles, they went in search of infinity."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "They discovered nothing is infinite, and that neither time or death can be cheated. Disillusioned, they gave up on the future ─ and themselves."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "One race had discarded all things that gave rise to sorrow, hoping to have only joy."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "They found joy lost its savor in the absence of sorrow, and lost their will to live."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Though worlds apart, these peoples shared a belief. The belief that they had tried their best."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "That they had tried to fulfill their potential, with every step and success."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "In the course of which they learned the truth."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "That they would never be free of fear and sorrow, anger and despair ─ of loneliness ─ so long as they yet lived."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Even now, their souls cry out for oblivion. And to this song of anguish, I lend my voice. We lend our voice."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "O beloved mankind, shimmering jewels of beautiful Etheirys... Rejoice, for we will free you from the cruel yoke of existence."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "There is no need to struggle in vain, for in nihility awaits salvation. You will know peace and serenity...and it will be beautiful."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "We will make our nest at the edge of the universe, and there in the dark of dead worlds hoard sorrow and suffering."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "There we will sing, our chorus ever louder and ever clearer, that our song may reach even this aether-shrouded star."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Such is the answer we have found in the stars. Such is the gift we now offer to Etheirys."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Who are you to decide our fate? To decree we live or die?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Have you lost your mind!? You heard what she said! She means to destroy us all, yet you'd still take her side!?"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "In the name of the star, we have discarded those creations that we deemed flawed."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "If we ourselves are flawed, does it not stand to reason that we too should be discarded?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "That is sophistry and you know it!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Perhaps it is. Perhaps I am wrong. But who is to say that you are right?"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Let us settle this with a determination."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "In my authority as chief overseer of Elpis, I will make a judgment on man's fitness to exist."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "If he can learn to value all life and retain his will to live, even should his end be justified, he will surely find a way to avert his demise."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "If not, he will perish from the star."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "As with all determinations, provisions must be made to ensure fairness."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Kairos! Awaken!"
+    },
+    {
+      "character": "Kairos",
+      "text_en": "Memory reconfiguration system Kairos activated. Awaiting instruction."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Command: universal memory alteration. Target area: Ktisis Hyperboreia."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Starting point: arrival of Emet-Selch of the Convocation at Propylaion. End point: the present."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Erase the memories of all events, and replace with a vague recollection of the following:"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I was here, preparing to demonstrate the functionality of Kairos to Emet-Selch and Hythlodaeus."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Meteion's shared consciousness became unstable. She and her sisters could not sustain their existence, and all dissipated with a burst."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "The resultant shockwave accidentally triggered Kairos, which erased several days of memories from all present. Execute."
+    },
+    {
+      "character": "Kairos",
+      "text_en": "Command acknowledged. Initializing... Three processes remaining to execution."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Bravo. I daresay one would be hard-pressed to make it fairer..."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Everything that you told us, everything that has happened ─ the fact we've even met... It will all be gone."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Go, Meteion. To the edge of the universe, where none can reach you."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Hermes. Won't you come with me? If you were to shed your flesh, I should be able to carry you."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I will remain. As a man, I will oppose the oblivion you bring."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Silly fool... Had you said yes, I would've granted you the gentlest end."
+    },
+    {
+      "character": "Venat",
+      "text_en": "This ends here!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Fly, Meteion!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "That is far enough, Hermes!"
+    },
+    {
+      "character": "Venat",
+      "text_en": "Argos, to me!"
+    },
+    {
+      "character": "Kairos",
+      "text_en": "First process complete. Two remaining to execution of memory reconfiguration."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "As if we needed more pressure..."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "No matter what, you cannot forget what happened today. For it is the key to saving your future─your world."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "This fight is our fight; what comes after, our problem to contend with. Not yours."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "No, your own struggle awaits. And no one else can take your place."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "You must flee this place with your memories intact ─ and I will see that you do!"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Now then, where is it...?"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "There you are, my little confluence."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Almost..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Very well, then."
+    },
+    {
+      "character": "Venat",
+      "text_en": "You may elude us this day, but not forever!"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Meteion's gotten away..."
+    },
+    {
+      "character": "Kairos",
+      "text_en": "Second process complete. One remaining to execution."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "No time for brooding."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Listen well. Beyond lies a spatial confluence that connects the interior sections of this building."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "I will destroy the confluence and force open a way outside. When I do, you must jump through."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I cannot tell you how sorry I am..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "...But neither can I let you escape!"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Too brave by half..."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Exemplary work as always, Emet-Selch!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "What? But how? I thought the confluence was over..."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Over there? Yes, we were rather hoping you would."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "It was never anywhere but where it is now."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "The instant those two began making their way towards nothing, 'twas clear the plan was a diversion."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "I'm quite incapable of destroying a confluence, I must confess."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "A gambit brazen beyond words. Though we've grown accustomed to reckless improvision due to the antics of an incorrigible associate."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Though in the case of certain present company, “incorrigible” is an understatement."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Honestly, I'm beginning to suspect it's a requirement for every Azem."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "There's no time! Quickly!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Even now, I do not believe your tale. I would not suffer us to walk such a wretched path."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Still, if it must be said..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Do not squander it. The legacy I leave you."
+    },
+    {
+      "character": "Kairos",
+      "text_en": "Final process complete. Executing universal memory alteration."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Go, Argos!"
+    },
+    {
+      "character": "Venat",
+      "text_en": "I'm fine. Just a little tired."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Can it be true?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "Are we the only ones left who see beauty in the world ─ in life?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "Are the stars above no more than husks of fallen civilizations?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "And yet..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "...I feel her. Though she is unimaginably distant, I feel Meteion's presence ─ and the place whereto we must go."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Ere she made good her escape, I placed an enchantment upon her. One which allows us to follow her trail."
+    },
+    {
+      "character": "Venat",
+      "text_en": "She has already left the outermost bounds of Etheirys, and continues on her way. Given the vastness of the universe, it will still be no easy feat to track her down."
+    },
+    {
+      "character": "Venat",
+      "text_en": "But thanks to Emet-Selch and Hythlodaeus, all is not lost. We remember."
+    },
+    {
+      "character": "Venat",
+      "text_en": "So long as we remember, our fates remain ours to shape."
+    },
+    {
+      "character": "Venat",
+      "text_en": "I'd like to know too. Let us ascertain the situation at Ktisis Hyperboreia, where they should still be."
+    },
+    {
+      "character": "Venat",
+      "text_en": "What indeed. Let us begin by ascertaining the situation at Ktisis Hyperboreia, where the others should still be."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Given the likely state of their memories, however, 'twould be imprudent for us to approach them directly. In which case..."
+    },
+    {
+      "character": "Venat",
+      "text_en": "I am sorry, my friend. I've asked much of you this day, but may I trouble you one last time?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "Argos will investigate in our stead. We will share in his consciousness, and see and hear as if we were with him."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Now, close your eyes and open your mind..."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "Thank goodness you are unharmed."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Unharmed? There is a gaping hole in my memories. I can scarcely remember arriving here in Elpis..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Forgive me..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I was preparing to demonstrate the functionality of Kairos to our guests."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "But Meteion...her shared consciousness became unstable. And she...she..."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "So that's what prompted the state of alert."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "And when you went to investigate, you were caught in Kairos's accidental operation."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "So it would seem... It's all a blur to me."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "Such an unfortunate accident... Oh, and what of Venat and your other companion? You went inside together, as I recall."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "We did?"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "If Venat was with us, I have no recollection of it."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "But that there is her familiar, is it not? The fellow seems happy enough, so I think it safe to assume his mistress is well."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "I haven't the slightest notion who this other companion might be, however..."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "Ah, well, that individual struck me as a bit...different, for want of a better word."
+    },
+    {
+      "character": "Ktisis Scholar",
+      "text_en": "Perhaps it wasn't actually a person, but some manner of creation."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Curious... I must ask Venat about it when next we meet."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Yes, yes, you do that. Now, if we may tend to Hermes? Whatever this Meteion did, it seems he bore the brunt of it."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Once you are fit to travel, you will return with us to Amaurot. We need to make certain there are no other ill effects."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Also─I am here on business of the Fourteen. We've already had the conversation, like as not, but since your toy wiped my memory, we'll have to have it again."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Yes, of course. As you see fit."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "This Kairos ─ it manipulates memories through the emission of aetheric waves, correct?"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "There is a theory which holds that memories scoured by blasts of aether are restored when the soul is cleansed in the Underworld."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "If true, then perhaps when our time comes to return to the star, we shall remember these few days we have lost."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "I doubt aught of interest occurred. Look forward to the revelation if you like, but I should prefer to reminisce on more meaningful moments."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Let us rest. If only for a while."
+    },
+    {
+      "character": "Venat",
+      "text_en": "After all, you and I... We still have a long, long way to go."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Are you feeling at all recovered? I understand that your exertions were more than purely physical, but resting one's body, if only for a moment, is never without merit."
+    },
+    {
+      "character": "Venat",
+      "text_en": "As for Hermes... I think it unlikely he will create more entelechies."
+    },
+    {
+      "character": "Venat",
+      "text_en": "He poured much of himself into Meteion, and now that she and her sisters are gone ─ dissipated, in his mind ─ the grief must be unbearable."
+    },
+    {
+      "character": "Venat",
+      "text_en": "He will blame himself. He will believe that, had he never acknowledged his dissatisfaction with the world, then the Meteia would have never been born to suffer and die."
+    },
+    {
+      "character": "Venat",
+      "text_en": "The offer to join the Fourteen will be a welcome distraction, and one day hence, he will face the advent of the Final Days in the role of Fandaniel..."
+    }
+  ]
+}

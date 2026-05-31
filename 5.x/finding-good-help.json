@@ -1,0 +1,344 @@
+{
+  "id": "finding-good-help",
+  "wiki_path": "/wiki/Finding_Good_Help",
+  "wiki_image_url": null,
+  "patch": "5.1",
+  "title_en": "Finding Good Help",
+  "level": "80",
+  "location": "Kholusia(X:20.2,Y:12.4)",
+  "npc_start": "Chai-Nuzz",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "Do you see it? There is a fire in Master Chai's eyes that was not there when first we met. A fire we had best keep kindled if we wish to see Eulmore change for the better."
+    },
+    {
+      "character": "Kai-Shirr",
+      "text_en": "That Wrenden geezer doesn't seem so bad. What was Master Chai worried about? He's got to give himself a bit more credit!"
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "You had a hand in constructing that giant Talos to the north, did you not?"
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "When the Eulmoran volunteers began arriving, I hid myself away, lest I be recognized...thus depriving myself of what I am reliably informed was a once-in-a-lifetime spectacle. Bugger."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Wrenden is quite right. Building Talos from scratch would require time we simply do not have."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Which is why I propose to make use of the long-abandoned Talos which wander the wilds of Kholusia."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "They will need to be deactivated, of course, and if memory serves, the tools required to do so should still be at Top Rung. Come with me."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It is one thing to repair an immobile Talos, as Urianger did, but quite another to catch one, surely? Does this not sound a trifle dangerous?"
+    },
+    {
+      "character": "Kai-Shirr",
+      "text_en": "How'd you catch a Talos, then? Dig a hole and lure it in?"
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "So he is an authority on Talos, is he? Hmph! What other surprises could he be hiding, I wonder..."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Aha! The old memory hasn't let me down!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "This chest contains canisters filled with a dashedly potent insulating powder capable of halting the flow of aether in a Talos. We need only get within throwing distance of one and let fly."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Thus disabling them without damaging them! Ingenious!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "An old trick of the trade, nothing more. Once disabled, it should be a simple enough matter to get them to march to Eulmore. More extensive repairs can wait."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Ordinarily, this is where I would ask you to run along and do the deed, but as I have said before, it's high time we learned to stand on our own two feet."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Thankfully, throwing canisters is something even I should be able to manage."
+    },
+    {
+      "character": "Kai-Shirr",
+      "text_en": "Come off it, Master Chai!"
+    },
+    {
+      "character": "Kai-Shirr",
+      "text_en": "Even if the Talos ain't a threat, there's a hundred and one other things out there waiting to make a meal of you!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "That's as may be, Kai-Shirr, but Wrenden tasked me with solving this problem, and I will not sit idly by while others risk everything to see my harebrained schemes realized. Not this time!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "...Which isn't to say the mere thought of it doesn't fill me with dread. Truth be told, I can't feel my legs."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "But if I'm to prove I'm a man worth following, I must lead by example."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well said, Master Chai!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Yes, well, it should go without saying that I have no intention of dying for this. I've always preferred living to see the fruits of my labors."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "And to make sure I do, I will require your help. It is as Kai-Shirr says─these lands are dangerous if one is not careful. I would ask you to use my spyglass to look out for any beasts that could get in the way of my work. I will also need you to alert me when it  is safe to subdue the Talos. Understood?"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Good. Then let's be off to the Quick Way, through the north gate, and see if we can't find a suitable vantage point for you."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There is little point in us both shouting instructions. Keep him safe, Forename ."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "All right. Nothing to worry about. Just a simple matter of sneaking up on the Talos while avoiding the slavering, bloodthirsty beasts lurking behind every rock. Child's play... Ahem. When you're ready, let us begin."
+    },
+    {
+      "character": "Kai-Shirr",
+      "text_en": "Either Master Chai's off his nut, or this means more to him than he's been letting on."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "When first he arrived, I could barely hear him over the knocking of his knees. And now this. I'm not sure what's gotten into him, but whatever it is, I like it."
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "Oh no! I've been spotted!"
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "I must be careful."
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "Perhaps it'd be best to approach from the rear."
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "Oh! Its back is turned!"
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "I pray this works..."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "I...I did it? I did it! Let's move on to another Talos, shall we?"
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "Gah! It's seen me!"
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "Curses. It's not alone."
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "Calm yourself, old boy. Everything will be fine."
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "An opening!"
+    },
+    {
+      "character": "Chai-Nuzz (text bubble)",
+      "text_en": "Please don't turn around!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "I do believe I'm getting the hang of this."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "You may leave the next one to me, Forename ."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Haha! That should do it! Now we have all we need to proceed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our friend with nary a scratch. Well done."
+    },
+    {
+      "character": "Kai-Shirr",
+      "text_en": "Blimey... Thought my heart was going to stop for a moment there. Make that a couple of moments."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "It would seem I misjudged Master Chai. There may yet be hope for Eulmore."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "I can scarcely believe it. It was a reckless, foolish plan. But somehow...it worked."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "I...I did it."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "Master Chai. I believe I owe you an apology."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "Your plan to replenish Eulmore's food stores showed forethought and sound judgment. What's more, it is plain your time at Daedalus Stoneworks has equipped you to lead, as evidenced by the extraordinary company you keep."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "You, sir, are more than qualified to be the next mayor of Eulmore."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "I thank you for your vote of confidence, but the fact remains, I am wholly ignorant of the world of politics."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Which is why I would ask you to join me, and grant Eulmore the benefit of your counsel."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "I would be honored."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "When the people behold these Talos, I have no doubt they will lend you their support."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It would seem Eulmore's leadership is at last in capable hands, would you not agree?"
+    },
+    {
+      "character": "Kai-Shirr",
+      "text_en": "We should probably be getting back soon, Master Chai. After you've tinkered with the Talos and all that. Lady Chai's worried sick."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Right. Right, then. Form a line and make for Eulmore!"
+    },
+    {
+      "character": "Begrimed Townsman",
+      "text_en": "Hm? What's that noise?"
+    },
+    {
+      "character": "Begrimed Townsman",
+      "text_en": "Wicked white! Runaway Talos!"
+    },
+    {
+      "character": "Begrimed Townsman",
+      "text_en": "Call the guard!"
+    },
+    {
+      "character": "Eulmoran Soldier",
+      "text_en": "Stay back, all of you!"
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "Is that...!?"
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "Darling, you're back!"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Well of course I'm back. You didn't s─"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Dear─ Dearest─ I─ I can't─"
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "Oh! Oh dear..."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "I'm sorry, my darling... It's just, the sight of you filled me with such joy, I couldn't help myself..."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "It's all right, dear. I should just have come out and said what it was I was intending, instead of entrusting the task to a hastily scribbled letter."
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "Does that mean you'll do it?"
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Well, I'm here, aren't I? I mean, not that my absence signified any unwillingness, you understand."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "Naught could be further from the truth! I only left to enlist the aid of the former mayor's senior advisor."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "And now that I have it, I believe I am ready to take office."
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "Oh, how wonderful!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I daresay the future of Eulmore has never looked brighter."
+    },
+    {
+      "character": "Chai-Nuzz",
+      "text_en": "<cough> <cough> I...I'm fine... I just need...a moment... <wheeze>"
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "Thank you again for finding my husband. I confess, I was not expecting your return to be quite so grand!"
+    },
+    {
+      "character": "Dulia-Chai",
+      "text_en": "That dear, sweet man. He is going to make the most wonderful mayor. I just know it!"
+    },
+    {
+      "character": "Kai-Shirr",
+      "text_en": "Sorry I wasn't much help. Still, seeing Master Chai go after those Talos was something, eh? Inspiring stuff."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "That was quite a reception. One Master Chai will struggle to forget."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "More seriously, the arrival of the Talos has seized the public's attention."
+    },
+    {
+      "character": "Wrenden",
+      "text_en": "Once word has spread around Eulmore, it will be that much simpler to gather one and all so that Master Chai can make his inaugural address."
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "id": "its-probably-a-trap",
+  "wiki_path": "/wiki/It%27s_Probably_a_Trap",
+  "wiki_image_url": null,
+  "patch": "4.0",
+  "title_en": "It's Probably a Trap",
+  "level": "61",
+  "location": "Kugane(X:10.5,Y:9.8)",
+  "npc_start": "Lyse",
+  "dialogues": [
+    {
+      "character": "Lyse",
+      "text_en": "Well, I suppose we might as well head back to─ Wait! I've just remembered!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "There was someone on my list I forgot to visit: Gyodo."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "He's a \"Namazu\" fisherman─whatever that means─and a regular here. Maybe we'll find him if we look around?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "(When I asked Kotokaze what \"Namazu\" meant, she said it was Hingan for catfish. And there I was thinking she'd said \"fish er man\"!)"
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "...What, what? Why do you stare? You have business with me?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "By the Twelve, a talking fish!"
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "Yes, yes, a talking fish. How very observant of you, ijin. <sigh> You find me in good spirits, so your rudeness I will ignore this once─but only if you address me again in the proper manner."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Sorry, I've never met a─ Let's start again. You're Gyodo, right? My name is Lyse, and this is Forename . We're looking for some friends of ours..."
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "I see, I see... Both these ones I know well. I helped them secure passage across the Ruby Sea."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Really? That's wonderful! Could you do the same for us?"
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "Yes, yes, this would not be a problem. For you, I could charter a ship this very day."
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "But the journey is fraught with much peril! The fare will not be cheap. Are you sure you can afford to pay?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I didn't think to bring any money...but surely Tataru will let us take whatever we need from the Scions' coffers, right?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "We wouldn't be the only passengers, though... Could we take a moment to talk it over with our friends?"
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "Yes, yes, but hurry! Your ship must depart under cover of darkness. We shall meet again at sunset on the Tasogare Bridge. Do not forget your fare! Bring many gil, yes!?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "It's about time our luck changed! Alphinaud and the others will be thrilled!"
+    },
+    {
+      "character": "Hancock",
+      "text_en": "I hope my information was of value?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "You wouldn't believe some of the things you can find down at the markets! We're spoiled for choice here!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Welcome back. We ourselves returned but a moment ago."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We spoke with a number of merchants and captains at the southern piers."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Several recognized Gosetsu and confirmed that he had been searching for a vessel to deliver him to Othard. None, however, made any mention of Lady Yugiri..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Yes, it was the same story for us─and then you'll never believe what happened...!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...So this Gyodo claims to have aided both Gosetsu and Yugiri? How fortuitous."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Not the word I would have chosen, Master Alphinaud."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Stupid's what I'd call it! How can you agree to his price without making any attempt to haggle? Or even confirming what it was in the first place!?"
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Yes...that too was a misstep on their part, but it is not what troubles me most. Gyodo and his brethren are not renowned for their generosity of spirit. Rather, they are disdained as scheming moneylenders, ever eager to turn a profit from others' misfortune."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Everyone else we questioned stated that Gosetsu was alone. Only Gyodo claims to have met both him and Yugiri..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I suppose it's just possible that Gosetsu made inquiries by himself, and only called upon Yugiri once he had found a willing captain...?"
+    },
+    {
+      "character": "Hancock",
+      "text_en": "...But it is equally possible─if not more likely─that you are being deceived. Do not forget that there are parties present in Kugane with agendas which may run contrary to your own."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "The viceroy was once a spy herself, as I recall. I should be surprised if she did not have countless agents here in her employ─all eager to prove themselves to their new master. And what better way to do so than by delivering her the heads of foreign insurgents?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Fine. You may be right about him. But if Gyodo's working for the Empire, who's to say he didn't try the same trick on Yugiri and Gosetsu? I mean, if he did , he might know where they are. And if he succeeded , they might be in trouble!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Anyway, if he holds up his end of the bargain, we'll have nothing to worry about, will we? But if he tries to betray us, I vote we take him prisoner and punch him till he tells us the truth."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So, if it's a trap, we'll spring it and deal with the consequences. Hmm...I like the way you think."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "<sigh> Very well... We should prepare for the worst. Tataru will remain here, and I shall follow the three of you at a discreet distance."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Once more, I must caution you to avoid physical altercations at all costs─even should imperial agents attempt to engage you. The Sekiseigumi will not hesitate to clap you in irons...or cut you down."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "If anything untoward should happen, you are to return here at once. Is that clear?"
+    },
+    {
+      "character": "Hancock",
+      "text_en": "The Sekiseigumi are not to be trifled with. Rare is the week that I do not hear at least one tale of an ijin being arrested under dubious pretext. Fortunately, a wealthy and well–connected ally can help resolve such matters witha  minimum of fuss."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Rest assured, I will not be far behind, Forename . While I am no shinobi, I can keep to the shadows when necessary."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I had a feeling we might find ourselves in a situation like this, so I made sure to stock up on some \"special supplies\" that I thought might prove useful. Alisaie has them, in case you're wondering."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "And there I was thinking Gyodo was just being nice. I tell you now, if Hancock's right about all of this, that fish is getting filleted."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "To review: Lyse, Forename , and I will meet with Gyodo as planned."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud will keep watch from a distance, ready to provide support in the likely event that Gyodo attempts to betray us to the imperials or whomever else."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Should that happen, you and Lyse will subdue him, and together we will make our escape."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As our actions will surely draw the attention of the Sekiseigumi, we will evade them with Alphinaud's assistance and return here with our prisoner. Does that meet with everyone's approval?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Of course, these precautions will be for naught if Gyodo does not play us for fools...but we shall see. To the bridge!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "...It's a trap, isn't it. We may as well stop kidding ourselves."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Our would-be ally is nowhere to be seen... Make ready, Forename . Something smells...fishy..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He's late..."
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "Endless and most sincere apologies to you and yours, yes, yes. This way, this way. Quickly now!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Enough. Where are you taking us? Where is the ship?"
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "The ship, the ship... So very sorry to inform you, yes, yes."
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "To me, to me! These ones are for Doma!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "<sigh> I knew it couldn't be this simple..."
+    },
+    {
+      "character": "Gyodo",
+      "text_en": "Nothing personal, yes, yes? Just business."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Then business is about to take a turn for the worse..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Come on, let's find a way out of here!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Disappointing, but not surprising. In retrospect, we probably should have─"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Quiet, Brother! Fight now, talk after!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I'll hold on to Gyodo! You deal with the imperials!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As expected, the Sekiseigumi have caught our scent. Since fighting them is out of the question, we'll have to wind our way back to the Ruby Bazaar, evading their patrols as we go."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If they find you, use these smoke bombs to make your escape!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Split up and head for the Ruby Bazaar! And remember: under no circumstances must you engage the Sekiseigumi!"
+    },
+    {
+      "character": "Sekiseigumi Blade",
+      "text_en": "You there! Lay down your arms and surrender at once!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Dammit, they've found us! Use a smoke bomb so we can escape!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Nice work! Now, let's find a way out of here..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "<huff> <puff> That was close. Now, which way to the Ruby Bazaar...?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "The streets are crawling with Sekiseigumi... Keep those smoke bombs ready."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Oh bugger─they've got a whole squadron out front! What do we do now, Forename ?"
+    },
+    {
+      "character": "Curious Kojin",
+      "text_en": "Come with me. I will guide you to your friends."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "First a talking fish, and now a tortoise? <sigh> What have we got to lose?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank the Twelve you made it! I feared our Kojin friend might not find you in time."
+    },
+    {
+      "character": "Curious Kojin",
+      "text_en": "Everything is going to be all right. Trust me..."
+    },
+    {
+      "character": "Curious Kojin",
+      "text_en": "Stay hidden and quiet. Understood?"
+    },
+    {
+      "character": "Sekiseigumi Blade",
+      "text_en": "Clear the road! Clear the road!"
+    },
+    {
+      "character": "Sekiseigumi Blade",
+      "text_en": "You there, Kojin! We seek four foreigners─one a brutish woman carrying an unconscious Namazu. Have you seen them?"
+    },
+    {
+      "character": "Curious Kojin",
+      "text_en": "Four foreigners, you say? Ah, yes! Very rude they were, making no apology as they barged past. They went that way, I think."
+    },
+    {
+      "character": "Sekiseigumi Blade",
+      "text_en": "Many thanks, good sir!"
+    },
+    {
+      "character": "Sekiseigumi Blade",
+      "text_en": "With me! They cannot have gone far!"
+    },
+    {
+      "character": "Curious Kojin",
+      "text_en": "All is well. The Sekiseigumi will not return this way for some time, I should think."
+    },
+    {
+      "character": "Curious Kojin",
+      "text_en": "You are of the East Aldenard Trading Company, yes? Come with me. I know a safer way."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "You are returned─and with guests, I see."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Our meeting went about as well as expected. We've brought the Namazu who thought to betray us. When he wakes up, we'll see what he knows about Yugiri and Gosetsu."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Well done you. When I saw the Sekiseigumi out in force, I did begin to worry, but I see my fears were misplaced."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Actually, if it weren't for Soroban, we might not've gotten away..."
+    },
+    {
+      "character": "Soroban",
+      "text_en": "'Twas my pleasure."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet I must ask, Soroban: why would you deceive the Sekiseigumi to help us─foreigners of whom you know naught?"
+    },
+    {
+      "character": "Soroban",
+      "text_en": "Why, out of the kindness of my heart...is what I would like to say, but my motives are not so pure."
+    },
+    {
+      "character": "Soroban",
+      "text_en": "I chanced to witness your meeting with Hancock at the tavern, and saw an opportunity."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "An opportunity?"
+    },
+    {
+      "character": "Soroban",
+      "text_en": "Like many, I came to Kugane as a trader to make my fortune. Kojin of the Red may serve the Empire as mercenaries, but Kojin of the Blue walk a different path."
+    },
+    {
+      "character": "Soroban",
+      "text_en": "Regretfully, most here would rather not meet our gaze, much less do business."
+    },
+    {
+      "character": "Soroban",
+      "text_en": "So I seek the custom of those less predisposed to dismiss us outright. Namely, the East Aldenard Trading Company."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Quid pro quo, is it? Well, there is no denying that we owe you a debt. What say you, Hancock? Will you consider doing business with our entrepreneurial friend here?"
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Rest assured, Master Soroban, that in matters of trade the company does not discriminate. We would be honored to hear your proposal."
+    },
+    {
+      "character": "Soroban",
+      "text_en": "I promise you will not regret this, good sir!"
+    },
+    {
+      "character": "Soroban",
+      "text_en": "Ah, yes─you sought passage across the Ruby Sea, did you not? I have a ship you can use."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You do? Well, then! Far be it from us to refuse! You have our deepest thanks."
+    },
+    {
+      "character": "Soroban",
+      "text_en": "And you mine!"
+    },
+    {
+      "character": "Soroban",
+      "text_en": "Though we Kojin are of the sea, we often come ashore to sell our wares and peruse your markets. It is my hope that an arrangement with the East Aldenard Trading Company will help us to more quickly obtain the treasures that we seek."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There's no denying that they were imperials. They were wearing the same uniforms as the ones outside the consulate."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "You are doubtless wondering why our objectively green –hued friend here refers to himself as a Kojin of the Blue. The answer is quite fascinating, really. The Kojin language has many similarities with ancient Hingan, you see, and in ancient Hingan, the word for green, \"ao,\" can mean green and or blue—though I do the word a disservice by even attempting to translate it, so stepped in meaning as it is. Why they elected to keep on calling themselves the \"blue\" in modern times is anyone's guess—I for one would have much preferred \"Kojin of the Ao\"—but one theory posits that they prefer the sound of the word \"blue\" when spoken. Another is that they are physically incapable of distinguishing between the two, which would have interesting implications in their everyday lives..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "All things considered, that went rather well. Thanks to Soroban, that is."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I'm still annoyed he tried to deceive us, but at least we were prepared for it."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Even so, next time we should probably try to avoid running around Kugane in the middle of the night with half the city guard snapping at our heels..."
+    }
+  ]
+}

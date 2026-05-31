@@ -1,0 +1,580 @@
+{
+  "id": "the-company-we-keep",
+  "wiki_path": "/wiki/The_Company_We_Keep",
+  "wiki_image_url": null,
+  "patch": "5.55",
+  "title_en": "The Company We Keep",
+  "level": "80",
+  "location": "The Rising Stones(X:6.0,Y:5.9)",
+  "npc_start": "Alisaie",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Ah, Forename ! You're looking well. I take it you managed to squeeze in some rest. If you came hoping for tidings from Krile, I'm afraid we're still waiting, but we do have some odd scraps of news to share."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Scraps, she says! Lunar primals have been popping up all over the place, but the Alliance has the situation well in hand ─ thanks in no small part to Hoary Boulder and the others."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Meanwhile, talks with the beast tribes are going even better than expected. Encouraged by Ul'dah's progress with the Amalj'aa, Gridania has opened negotiations with the Ixal , believe it or not."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "All of which is obviously very encouraging. But with the Telophoroi still out there, it's not as if we can afford to lower our guard."
+    },
+    {
+      "character": "Resistance Herald",
+      "text_en": "Begging your pardon, but I come bearing an invitation from the Alliance."
+    },
+    {
+      "character": "Resistance Herald",
+      "text_en": "A council meeting is due to be held in Ala Mhigo, and your attendance is humbly requested."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ah, we were just talking about the Alliance. May I ask what's on the agenda?"
+    },
+    {
+      "character": "Resistance Herald",
+      "text_en": "I believe the intention is to share news of recent developments, and discuss what measures might be taken to combat the Telophoroi...in concert with our new allies. The beast tribes have also been invited."
+    },
+    {
+      "character": "Resistance Herald",
+      "text_en": "It is hoped that they will join us in the fight against our common foe."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So the Alliance would bring all of the beast tribes into the fold at a single stroke. An ambitious plan, given the delicacy of the negotiations, but mayhap an expedient one, considering the threat we face."
+    },
+    {
+      "character": "Resistance Herald",
+      "text_en": "Indeed, my lady. And for their part, I am told the beast tribes have agreed to attend. If the Scions, too, are present, all of Eorzea will be represented."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To arrange such a meeting must have been quite an undertaking, not only diplomatically but practically..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Pray inform the Alliance that we would be honored to participate. We shall make for Ala Mhigo without delay."
+    },
+    {
+      "character": "Resistance Herald",
+      "text_en": "Then I will bear your answer thither with all haste. We look forward to receiving you at the Royal Palace."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, now that we've accepted the invitation, who exactly is going to attend?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I move that you and Y'shtola lead our contingent. Given how long you have worked to end summoning, it is only right that you be present for what promises to be a historic moment."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I think we've all played our part in that little endeavor, don't you, Forename ?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "All present may rightly claim a seat, I do quite agree. But by your leave, I believe I shall remain here and lend what assistance I can to the coordination of our defensive efforts."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I'm not coming either. Aymeric will be there, and I'd rather not be interrogated."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Very well, then. While those with a mind to hold the fort get on with holding it, I suggest the rest of us make for Ala Mhigo. Shall we?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Don't forget to bring me something nice from Ala Mhigo!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Don't worry, I have no plans to return to roaming in your absence. I know you'd only chase me if I did."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall take this opportunity to gain a better understanding of Ser Estinien. Being Elezen of like age, 'tis possible we have interests in common."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Mayhap I shall begin by lending him a favorite treatise or two from my collection..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Honestly, the look on your face... Eager to bear witness to another historic moment, by any chance?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Hah! I suppose I am. And the fact that our cure for tempering made it possible only heightens my anticipation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Even with the swift intervention of the Immortal Flames, all too many lost their lives at Paglth'an. Still closer cooperation between our peoples will be required if we are to thwart the plans of the Telophoroi."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Like the city-states, every beast tribe has its factions, each with their own agenda, making peace a complex proposition. But if the Alliance can come to an understanding with their leaders, it will be for them to resolve internal politics."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Amalj'aa cannot be the only tribe to have been targeted by the Telophoroi. And none of them will have taken kindly to having their people enslaved, nor their gods turned against them."
+    },
+    {
+      "character": "Resistance Guard",
+      "text_en": "We have been expecting you."
+    },
+    {
+      "character": "Resistance Guard",
+      "text_en": "While some few guests have yet to arrive, the Alliance leaders are all present. Shall I show you in?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Esteemed guests. You honor us with your presence. As there is much to discuss, let us begin."
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Information on our taken brethren you have, yes? Hear it we would!"
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Beyond forgiveness these featherless ones are! With rivers of blood shall they pay! Freed our people must be!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We too would see your kin liberated, but ere we attempt their rescue, we must first find a means to negate the risk of tempering. Without that, we will be unable even to approach the towers, let alone contend with their defenders."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "If all else fails, I've always found cannonballs quite effective..."
+    },
+    {
+      "character": "Sahagin Priest",
+      "text_en": "And what of the prisoners!? Would you see them ssslaughtered!?"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "Think for a moment! Ponder, consider, think! If Merlwyb truly intended to bombard the towers, she would have done so by now. Remember, we came here to find a solution together, did we not?"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Y'shtola spoke of defenders. I but offered a means to clear a path, should you require it."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Given the enemy's capabilities, we will all need to play our part if we are to have any chance of success. For if any here should give less than their best, it will be to the cost of every living being on this star."
+    },
+    {
+      "character": "Sahagin Priest",
+      "text_en": "A Paragon, the Empire, our very gods... How can we hope to prevail against sssuch odds?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "That our foe is formidable none would deny, but our strengths are many and varied. In this chamber, I see masters of strategy, masters of magic, masters of the land, the air, and the sea. And together, there is nothing in creation we cannot overcome."
+    },
+    {
+      "character": "Sahagin Priest",
+      "text_en": "Krrrggghhhccchhh!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "I beg your pardon?"
+    },
+    {
+      "character": "Sahagin Priest",
+      "text_en": "What is it, shorewalker? Do you not express your passion thusss?"
+    },
+    {
+      "character": "Sahagin Priest",
+      "text_en": "A little tricky without gills, perhaps! Pshahaha! Sssuffice it to say, I am proud to be counted amongst Eorzea's finessst. We Sssahagin will play our part!"
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "We kobolds have not forgotten the crimes the overdwellers committed against us in the past. But today we look to the future, as allies united in purpose."
+    },
+    {
+      "character": "Ixali Chieftain",
+      "text_en": "Make mock of the Ixal, the Paragon does! Turns kin into puppets, pits brother against brother! Free them from his grasp, we shall!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "As Patriarch Za Da will attest, the Scions have granted us a means to free your brethren from their thralldom. This boon we will gladly share, that your people might never be enslaved again."
+    },
+    {
+      "character": "Ixali Chieftain (no text)",
+      "text_en": "We accept, we accept!"
+    },
+    {
+      "character": "Amalj'aa War Chief (no text)",
+      "text_en": "Praise be!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It's taken a while, but I do believe we might be one step closer to a world without primals. Would that Minfilia were here to see it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We still have a long way to go, and we're going to need a lot more porxies...but we're moving in the right direction."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If I may have your attention, there is one other point I would like to raise. As we can all agree, freeing those held captive must take precedence over every other concern."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But experience has taught us that none save those with the capacity to resist tempering can hope to enter the towers unscathed. And even once inside, a still greater threat may yet await them: that which we call a primal."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Needless to say, if we are to succeed, engaging with such foes can only ever be considered a last resort. And so I move that we seek to prevent them from being summoned in the first place."
+    },
+    {
+      "character": "2nd Order Patriarch Za Da",
+      "text_en": "Yes! Both prayer and aether are needed for the ritual. Should either one be denied, the summoning would fail!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. And so we must endeavor to discover the source of the aether on which the process depends. Do so, and it may present a way to halt the summonings─or perhaps even neutralize the towers entirely."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "A promising proposal. While you are conducting your investigations, however, we will need to remain vigilant, lest the Telophoroi commit further abductions, and summon primals ere we have the means to prevent them."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "To stand a better chance of keeping our enemy at bay, we would do well to coordinate our defensive efforts, sending reinforcements to assist our neighbors when needed."
+    },
+    {
+      "character": "Amalj'aa War Chief",
+      "text_en": "We Amalj'aa would have been overwhelmed were it not for our newfound allies. But say the word, and we shall come."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "I see we are all in accord."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "But what are we to call this proud fellowship of ours? I submit that the honor of naming it should go to the Scion whose brave efforts have done so much to unite Eorzea. What say you, my friend?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But that's the name I..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Might I suggest the Grand Company of Eorzea? I remember a certain someone pondering it once upon a time, and it seems as fitting a name as any."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "A fine choice. For there is none here who does not love Eorzea!"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Aye! In that we shall ever be united!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "United in our gratitude for the realm that gave us life!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Then let it be recorded that on this day the Grand Company of Eorzea was born!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "How long have we dreamed of this moment? And now that it's here, I... Forgive me. Might we speak outside?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We have won over the leaders. Now the leaders must win over their own people. No small task, I grant you...but we have come a long way since first we joined with Minfilia to bring an end to summoning. A long, long way..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The Grand Company of Eorzea... I wonder what Riol and the other former Crystal Braves will make of it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Forgive me for observing, but Alphinaud seems less than jubilant. Might his thoughts still be occupied by the fate of poor Arenvald?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's a pity it took the threat of annihilation for everyone to cast their grievances aside. But better late than never, I suppose."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well...now that we are out of earshot of the other delegates, I hope you will forgive me if I speak my mind."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let me begin by saying that I have dreamed of this day since the moment I first set foot upon these shores, and that I was as heartened as anyone to see the peoples of Eorzea pledge their solidarity... Yet even as they uttered their declarations, all I could think about was the conflict to come ─ of the sacrifices that would be made, and the lives lost. Inevitabilities that I still struggle to accept."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But at least now there is hope. The formation of the Grand Company of Eorzea is the first step. The first of many."
+    },
+    {
+      "character": "???",
+      "text_en": "Many and more."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Elder Seedseer... How might we be of service?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I seek Master Alphinaud's assistance in a matter involving Gridania's neighbors, the sylphs."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I know that you and yours have long kept a weather eye upon the crystal trade, the better to predict the coming of primals, and so you will be familiar with the sylphs of the Ashcrown Consortium."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Through their dealings, they have cultivated relations not only with the city-states, but many other communities besides."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Communities such as the beast tribes."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Just so. It is our hope that we may make use of the sylphs' established lines of communication to coordinate the efforts of our new fellowship."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Yet there remain certain practical differences between a trade consortium and a Grand Company. If the sylphs are to perform their task effectively, they will require the counsel of one versed in the operational aspects of an armed force."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "An armed force founded with the selfsame goal in mind, no less."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The Crystal Braves, yes. Forgive me, Master Alphinaud. I know that it was a painful chapter in your life, but the experience may yet be made to serve the realm."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "<sigh> In my hubris, I plotted a course for the Crystal Braves which stretched far beyond the order's initial conception; one intended to pave the way for the founding of what I intended to call “the Grand Company of Eorzea.”"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But my plans all came to naught. Built upon a frail foundation of lofty ideals, the order was doomed from the first to collapse under the weight of more worldly interests. And I have no wish to see this new endeavor suffer the same fate."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Mayhap I ask too much of you..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Not at all. You may count upon my assistance, for what little it is worth. By your leave, I shall prepare a report, including a list of recommendations drawing on the lessons I learned from the failures of the Crystal Braves."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "You have my gratitude, Master Alphinaud...and my trust. When your report is ready, pray share it directly with the sylphs."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "With your guidance, and the earnest efforts of every goodly soul gathered here this day, I have no doubt but that our fellowship shall emerge from the shadow of the Telophoroi and flourish. Until next we meet, my friends."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Before committing anything to writing, there are a number of people whose thoughts I should like to hear. Former Braves, you understand. Might you join me in seeking them out?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank you. As someone who witnessed the order's rise and fall, yours would be a reassuring presence."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, I shall be grateful of your help, grudging or not!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll join you. If you're planning to canvass the opinions of your former comrades, it will be a lot quicker if we share the task of questioning them."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Then mayhap G'raha can lend a hand as well. I shall accompany Thancred back to the Rising Stones. Between us, I daresay we should be able to provide an accurate enough account of the day's events."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We should be glad of your company, G'raha. I shall explain the details on the way."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I take it we will soon be paying the sylphs a visit? How fascinating it will be to speak with them in person...though I gather conversation can prove rather...challenging?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It will not be easy to revisit the past, but sometimes one must look back to see the way forward."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh, hello, Forename ! Wait...are you back already!?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Don't worry, I've no plans to go roaming any time soon. Besides, I've had my fill of being chased from pillar to post by you lot."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I shall take the opportunity to build rapport with Ser Estinien. Being Elezen of like age, we may find we have common interests."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To begin with, mayhap I shall offer to lend him my favorite treatises..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I take it from Alphinaud's absence that he is still carrying out his inquiries."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though I am sure he is capable of compiling the necessary information by himself, he would benefit from your assistance, and more importantly, moral support."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This truce with the beast tribes should mean we have far fewer primal summonings to worry about. Well, the traditional sort, that is."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So, what's the plan, brother mine?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Before discussing the task at hand, I should probably admit that the report I proposed is largely written."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Not long after that fateful day in Ul'dah, I penned a detailed account of the organization's history, from the events that led to its inception to the failings that brought about its demise. This I did primarily as a means of taking some semblance of responsibility; never did I imagine that it might later be referred to by those seeking to form a similar organization."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And while I made every attempt to be objective, the account was mine alone; its events viewed from my singular perspective. For it to be of use, however, it must be broadened to encompass the viewpoints of all involved. Only then can it answer what seems to me to be the crucial question...namely: why, after the Crystal Braves disbanded,did some members choose to remain with us while others did not?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I see. You think the answer will tell us something about the nature of the ties that bind our new Grand Company together."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And that this knowledge might help us to prevent it from falling apart when those bonds are inevitably tested."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That is my hope, yes. But the questions I would ask are uncomfortable to some. As the former commander of the Crystal Braves, I doubt that those who abandoned the cause would welcome my inquiries."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then G'raha and I will just have to try."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Meanwhile, the two of you can talk to the ones who kept the faith."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A fine suggestion. Have care, however ─ certain of my former comrades are...of questionable character. So keep your wits about you, and let us reconvene in Gridania later on."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If you have no objections, I've a mind to begin by speaking with Riol and Alianne. If memory serves, the two of them will be attending an intelligence briefing at Castrum Oriens. Let us seek them out there."
+    },
+    {
+      "character": "Ephemie",
+      "text_en": "Lately, the Rising Stones has been a hub of activity. Between combating lunar primals and forging good relations with our new allies, even our newer members have had barely a moment's peace."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Oh? I didn't expect to see you here, Forename . But if you enjoy intelligence briefings, you've come to the right place."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While such briefings are seldom exciting affairs, their importance in coordinating our efforts with our allies cannot be overstated. In that regard, Alianne and Riol have been most dependable."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Well, look who it is! An' what brings you two here? Wouldn't have anythin' to do with the big meetin', would it?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In a manner of speaking. I have been assigned a task, you see, for which I require the assistance of former members of the Crystal Braves..."
+    },
+    {
+      "character": "Riol",
+      "text_en": "So ye want to know why we decided to stick with the Scions, eh? Hmmm... Ain't an easy thing to put into words, that..."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "As Riol will attest, I spent a long time agonizing over my failure to alert you to the traitors in our midst. For my negligence, I was captured along with many others, and we were powerless to prevent the tragedies that ensued."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Not a day goes by that I do not think back to those fateful events. By joining the Scions, I hoped to redeem myself, and I will continue to serve the cause for as long as I am able."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "But that wasn't my only reason."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "When we were finally reunited at the Rising Stones, you refused to blame anyone but yourself for the fall of the Crystal Braves."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "And in spite of everything that had happened ─ everything you had suffered ─ you took us back without a moment's hesitation."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "We would not have blamed you had you turned us away. But when you gave us your trust instead, what else could we do but try to repay it?"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Nothin', that's what! ...As for me own tale, well, I've always felt the Scions have somethin' in common with me old crew. “The duty of the strong is to protect the weak”─that was our creed, an' I still strive to live by it to this day."
+    },
+    {
+      "character": "Riol",
+      "text_en": "But as time's gone on, I've learned that strength comes in many shapes an' sizes. From Hoary Boulder to Mistress Tataru, we've all of us got somethin' to offer."
+    },
+    {
+      "character": "Riol",
+      "text_en": "An' not one of us is doin' it for personal gain. 'Cause we believe there's more important things than that ─ things worth protectin' ─ which is what bein' a Scion's all about."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I... I am at a loss for words. Thank you, my friends. To hear this from you means more than you know."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Forgive me... Forename , could you...?"
+    },
+    {
+      "character": "Riol",
+      "text_en": "Well, its foundin' ideals were somethin' to be proud of. But ideals alone don't make a crew."
+    },
+    {
+      "character": "Riol",
+      "text_en": "For every swab who signed up with good intentions, there was another who was only in it for the coin, the glory, or both."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Ours was quite a disparate band. And while I will never forgive Ilberd, the fact that we managed to function at all was thanks in large part to his efforts."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Just a pity he was doin' it for all the wrong reasons, eh? Only takes one bad apple, they say, an' the Braves had a barrelful of 'em. Not like the Scions. We might look like a ragtag band o' misfits, but deep down, we've all got that shared sense o' purpose. An' why? 'Cause Tataru sifted out all the glory-hunters 'fore they made it through the door!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I see. So while our ranks comprise a diverse range of people, each with their own individual strengths, we are all united in purpose."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Thank you, my friends. With your permission, I shall make a record of our discussion and refer to it when drafting my recommendations. Until we meet again."
+    }
+  ]
+}

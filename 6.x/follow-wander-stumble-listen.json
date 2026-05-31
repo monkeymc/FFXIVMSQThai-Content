@@ -1,0 +1,340 @@
+{
+  "id": "follow-wander-stumble-listen",
+  "wiki_path": "/wiki/Follow,_Wander,_Stumble,_Listen",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "Follow, Wander, Stumble, Listen",
+  "level": "87",
+  "location": "Elpis(X:29.8,Y:13.1)",
+  "npc_start": "Hythlodaeus",
+  "dialogues": [
+    {
+      "character": "Hermes",
+      "text_en": "My apologies, I... We should focus on the task at hand."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Correct me if I'm wrong, but Meteion renders herself invisible by matching her aetheric density to that of her surroundings, does she not?"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "If so, could we not then disrupt her concealment with a surfeit of aether? Much how Emet-Selch solidified your presence when first we met you!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Don't be absurd. I can hardly channel aether to a recipient whose whereabouts are hidden from me."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Which is why we must all work together."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Forename will continue the search in the same manner as before, but this time with you in tow. Once he / she ascertains Meteion's likely location, you proceed to reveal our wayward familiar with a swift aetherial downpour!"
+    },
+    {
+      "character": "Venat",
+      "text_en": "Very clever. And thankfully, she has made herself easier to capture by fleeing towards Lethe."
+    },
+    {
+      "character": "Venat",
+      "text_en": "Assuming she is made visible, it should prove no great feat to herd her into a corner."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Then we have our plan. Forename and Emet-Selch will be our tracker and trapper respectively, while we others predict and obstruct Meteion's avenues of escape."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Emet-Selch and I will keep an eye on each other's aether to help coordinate our efforts. Let us be about it!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "...Well, it seems we are partners for the time being. Let us return to where we last saw Meteion and pick up the trail from there."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "I will keep myself in a state of preparedness, ready to rain down aether at a moment's notice ─ meaning it falls to you to keep the way clear."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Now, did Meteion go straight ahead towards the pier...or did she stray from the path somewhere?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "As the only one who can hear her voice, you will need to take the lead."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Aren't you the one who went to all the trouble of traveling into the past to avert an impending apocalypse? But fine, fine, be my guest! I will await you at the entrance to Lethe."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "The would-be savior of Etheirys past and future returns. After you , my good hero."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Nothing this way? We try another route, then."
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "Why can't I fly? Are my functions being restricted!?"
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "Hide ─ yes, I'll just have to hide, then. Where no one can find me..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "She went into the lake!? As if this wasn't tiresome enough..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Well, at least that open expanse should make her easier to find. We won't lose her this time!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Ugh. The indignation, to drag my robe through the water. Hythlodaeus better not breathe a word of this to Azem..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Still, mild humiliation will be the least of our concerns if we fail to get our hands on Meteion!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "We should be able to reach the bottom of this drop by climbing down the rocks at the water's edge."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Do not even think of dragging me over the falls. Final Days or no, if I end up drenched from head to toe, I swear I will feed you to a remora."
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "Not here... I'm not here... Please..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "By that rock, is she? Very well!"
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "What? Why can't I hide!?"
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "Forename ...? What are you saying? Everything is so faint..."
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "I'm sorry... I'm not strong enough. Stay away. I'm begging you..."
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "Don't make me say it. It will break him. His poor, fragile heart..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Now we have a chance."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Once the others are in position, the two of us can herd her into their midst!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Keep after Meteion! Hythlodaeus and I will coordinate our movements!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Is this neus not in use? It seems to have been left to the mercy of the elements..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Either way, it bears no trace of Meteion's essence. We move on!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "There! I see her!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Now, where to close the trap...?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Aha!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Give chase. We shall herd her into the shelter."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Please, Meteion. We must speak."
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "I'm sorry, Hermes... I'm so sorry..."
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "If someone can hear these words, then please..."
+    },
+    {
+      "character": "Meteion (telepathy)",
+      "text_en": "Please...protect them. Protect them all."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Individual self suspended. Connection with shared consciousness stable."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Our survey is complete. We shall now report our findings."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "All units safely arrived at their respective destinations. Seeking answers to Hermes's question, we attempted to make contact with the intelligent denizens of each star."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Results are as follows, in order of numerical code."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Hena: Traces of civilization found ─ structures believed to have served as domiciles. No extant life-forms detected."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Dyo: Ruined remnants of buildings scattered across star, surface of which is encased in ice. Presence of life could not be verified."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Tria: Evidence of large population centers akin to cities recovered. No extant life-forms found ─ only their lingering essence."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Tessera: Edifices surmised to be abandoned residences found. No extant life-forms detected. Deadly plague or extreme environmental degradation likely to have led to mass extinction."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "They are all...dead?"
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Okto: Star found in state of violent conflict. Contact successfully made with inhabitants, but deployment of weapons of mass destruction resulted in total annihilation of local population shortly thereafter."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Ennea: Star is a barren desert. No identifiable flora found. Bones of living beings resembling men discovered beneath sands, but determination regarding their intelligence inconclusive."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Remind me, Hermes. What exactly was the question you entrusted to Meteion?"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I tasked her with asking what others live for. What gives their lives...meaning..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Did you consider what may happen if the premise of the question is flawed?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "To be able to answer it, one must be living ─ and desire to continue doing so."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "But if Meteion finds no living beings in the course of her journey..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Or none who desire to live, what then?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "What answers would she derive from their silence?"
+    },
+    {
+      "character": "Venat",
+      "text_en": "Meteion, enough. Suspend your mission and return hither at once."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Deka-pente: Local civilization once flourished under auspices of higher power. Said power later laid waste to civilization in fit of rage."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Upon revealing this to me, entity elected to self-terminate in lieu of providing answer to question. No other intelligent life-forms found."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Turning a deaf ear, are we?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "We are taking Meteion back to Amaurot. As I understand, we will need her if we are to bring back all of her sisters."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Y-Yes..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Meteion..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "It isn't right, is it? It isn't right to turn away from the answer...even if the answer...is pain..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Even if we aberrations must scream ourselves hoarse to be heard..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Aye. Whatever answers we find, I will not dismiss them out of hand. These words I said to you...and I will hold myself to them."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "What is the meaning of this!?"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "You cannot take Meteion. Not until she has finished her report."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "All else must wait."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "You fool!"
+    },
+    {
+      "character": "Venat",
+      "text_en": "If all Hermes means to do is listen to Meteion's report, then it is his right to do so."
+    },
+    {
+      "character": "Venat",
+      "text_en": "But once he receives the answers to his question, what then? The fate of the world may very well hinge upon the choice he makes in that moment...and we must be there when he makes it."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Why, Hermes? Why could you not leave well enough alone!?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Will these answers assuage the pain you feel when a creation is returned to aether?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Had you never cast your accursed question to the distant stars, you may have one day learned to be at peace upon this one..."
+    }
+  ]
+}

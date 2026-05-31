@@ -1,0 +1,640 @@
+{
+  "id": "as-goes-light-so-goes-darkness",
+  "wiki_path": "/wiki/As_Goes_Light,_So_Goes_Darkness",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/9/92/As_Goes_Light%2C_So_Goes_Darkness_Image.png/280px-As_Goes_Light%2C_So_Goes_Darkness_Image.png",
+  "patch": "3.1",
+  "title_en": "As Goes Light, So Goes Darkness",
+  "level": "60",
+  "location": "Foundation(X:13,Y:11)",
+  "npc_start": "Lucia",
+  "dialogues": [
+    {
+      "character": "Handeloup",
+      "text_en": "The lord commander of the Temple Knights, assaulted in the streets! What madness has gripped our fair city..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It's a good thing we found Thancred. Right now, we need all the help we can get..."
+    },
+    {
+      "character": "Hilda",
+      "text_en": "The past belongs to the dead. The future's ours to do with what we will."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It was not so long ago, was it..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No more farewells. Not for a good while yet, at least."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "How desperately we cling to that which we hold dear, knowing all the while that a day will come when we must let go."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I do not mean to diminish our accomplishments, but until we identify the ones who ordered the fires set, our work is far from finished."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Between the various conservative and religious factions in Ishgard, I daresay there is no shortage of parties who would like to see the status quo preserved. Do any likely suspects spring to mind?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Far too many to count."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Lord Commander, your wounds!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Are healing well, thank you. Time is of the essence. Lest we forget these men would sooner put their own city to the torch than see it change."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "When our enemies learn that we have apprehended their arsonist, there is no telling how they will react."
+    },
+    {
+      "character": "Tense Temple Knight",
+      "text_en": "Lord Commander! An armed mob has seized control of the Vault!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "And now we know. Tell us what happened, ser. Spare no detail."
+    },
+    {
+      "character": "Tense Temple Knight",
+      "text_en": "We were directing refugees into the basilica, as you ordered, when all of a sudden, men brandishing weapons were all around us. It happened so fast, my lord. We had no time to respond."
+    },
+    {
+      "character": "Tense Temple Knight",
+      "text_en": "They've taken the refugees hostage and barricaded themselves inside the Vault."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "And they sent you to deliver their demands."
+    },
+    {
+      "character": "Tense Temple Knight",
+      "text_en": "They...the True Brothers of the Faith demand a conclave to select the next archbishop be held forthwith. Furthermore, th-they declare that you, Lord Commander, are guilty of patricide and high reason, and that you must surrender yourself at once to receive the Fury's judgment."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Ridiculous! Do they honestly think that executing Ser Aymeric will change anything? That the truth will somehow die with him?"
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "These fundamentalists rage against the passing of the old ways, unable to accept there can be no going back."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "Given the fanciful nature of their demands, a peaceful resolution does not seem likely. If the hostages are to be rescued, it will be by force, I fear."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Agreed. Lucia, take a contingent of knights and establish a perimeter outside the entrance."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "At once, Lord Commander!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Hilda, I need your people out in force throughout the Brume. When word spreads of the situation, the friends and family of the hostages may try to take matters into their own hands. I will not give these militants more targets."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "I shall lead the assault on the Vault. Master Alphinaud, can I count on the support of the Scions?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "We are in your debt."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "I shall join you as well, Lord Commander!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Your assistance is most welcome, Lord Artoirel. To arms then, friends! Time is against us!"
+    },
+    {
+      "character": "Handeloup",
+      "text_en": "Pray keep in mind that the lord commander has not fully recovered from his wounds. Though the safety of the hostages is of paramount concern, I would ask that you do your utmost to dissuade him from engaging in any...heroics."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Just like old times, eh?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Concentrate on freeing the hostages. I will tend to their wounds."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ready when you are, Forename !"
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Do not concern yourself with my safety. Lest you forget, I too am a knight."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Listen well. We will enter the basilica silently via this gate. According to our latest reports, there are at least six hostages being held within. The numbers and readiness of the True Brothers of the Faith are unknown."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "I am told one claimed to have served under Thordan VII. might the same be true of the rest?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Given the swiftness with which they seized control of the Vault, I think it highly likely, yes—which means that they may well possess the knowledge required to turn the building's defenses against us."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Be that as it may, we have no choice but to press on. Lord Artoirel—you are a brave man and true, and none would dare question your honor if you chose not to risk your life in this endeavor. Are you certain you wish to join us?"
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "I am no stranger to the battlefield, Ser Aymeric! My arm will not falter; my shield will not break! Halone as my witness, we will bring these fanatics to justice!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Well said, my lord. Friends—follow me!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "'Twould seem our presence yet goes unnoticed. Come—we must secure the entrance."
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "Remember: saving the hostages takes precedence over all else. Mind your attacks, and subdue the enemy quickly."
+    },
+    {
+      "character": "Aymeric the Blue (voice acted, text bubble)",
+      "text_en": "There!"
+    },
+    {
+      "character": "Rugged Refugee",
+      "text_en": "You must hurry! The others were taken elsewhere by Ser Simoneard!"
+    },
+    {
+      "character": "Artoirel Ironbone",
+      "text_en": "Ser Simeonard? So this is indeed the work of the archbishop's former servants..."
+    },
+    {
+      "character": "Artoirel Ironbone",
+      "text_en": "On your guard! They've sounded the alarum!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I will hold the entrance and look after this one. Now go!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "Secure the hostage, Forename ! Leave the others to us!"
+    },
+    {
+      "character": "Rugged Refugee",
+      "text_en": "Th–They took the others somewhere. I...it all happened so quickly..."
+    },
+    {
+      "character": "Vault Friar",
+      "text_en": "There they are! Let none escape!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Keep going! I will hold them here!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not alone you won't! Forename —stay with Ser Aymeric and Lord Artoirel!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "This way, Forename ! To the Quire!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "No, NO! The hostages, they... O Halone, pray forgive me..."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Fury take me, they murdered them! And we allowed it to happen..."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Ser Simeonard! Lay down your arms and release the hostages, and you will be shown mercy! I give you my word!"
+    },
+    {
+      "character": "Simeonard of the Holiest Flame",
+      "text_en": "Hah! The word of a heretic and kinslayer! I would sooner trust a dragon. Activate the knights! We shall show the hostages the same mercy he showed the archbishop."
+    },
+    {
+      "character": "Simeonard of the Holiest Flame",
+      "text_en": "Unlike you, Ser Aymeric, I am a man of honor. By my hand, you shall receive of the Fury's judgment!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "So it is to be a trial, then. Lord Artoirel, Forename —leave us and save the hostages! I will deal with Ser Simeonard!"
+    },
+    {
+      "character": "Simeonard of the Holiest Flame",
+      "text_en": "O Halone, render unto us Your judgment! Raise up the righteous, and cast down the wicked!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "Come, then! Let us see whom the Fury favors!"
+    },
+    {
+      "character": "Artoirel Ironbone",
+      "text_en": "Ser Aymeric is still wounded, Forename ! If we do not move quickly, he will surely fall!"
+    },
+    {
+      "character": "Artoirel Ironbone",
+      "text_en": "There must be others nearby, but where!?"
+    },
+    {
+      "character": "Simeonard of the Holiest Flame",
+      "text_en": "Traitor! Kinslayer! By what sorcery do you yet stand!? Enough! All of you─attack!"
+    },
+    {
+      "character": "Artoirel Ironbone",
+      "text_en": "I see no others nearby. Come, Forename ! Ser Aymeric needs our help!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "Well done! Now let us finish this, ser─before the eyes of gods and men!"
+    },
+    {
+      "character": "Simeonard of the Holiest Flame",
+      "text_en": "Stand fast, my brothers! The Fury is with us!"
+    },
+    {
+      "character": "Aymeric the Blue (voice acted, text bubble)",
+      "text_en": "This knight does not yield!"
+    },
+    {
+      "character": "Simeonard of the Holiest Flame",
+      "text_en": "One day...I swear...you will..."
+    },
+    {
+      "character": "Ragged Refugee",
+      "text_en": "You must hurry! The priest took Maelie upstairs when he saw you kill his men!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "Have no fear, child. We will save your friend!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Damn it all..."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "A knight lives to serve..."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Where is he? Where is he!?"
+    },
+    {
+      "character": "Vault Priest",
+      "text_en": "Come no closer!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "You have nowhere to run! Release the girl and surrender!"
+    },
+    {
+      "character": "Vault Priest",
+      "text_en": "Surrender to whom!? The blasphemer who throws wide the gates to our enemy, who breaks bread with him and calls him brother!? Undogly swine! I would sooner die than surrender to you!"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Is it godly to spill the blood of an innocent child!? To burn the homes of your brothers!? Tell me, priest— is that godly !?"
+    },
+    {
+      "character": "Vault Priest",
+      "text_en": "Do not speak to me of godliness, heathen! Your father's blood is on your hands—as is hers!"
+    },
+    {
+      "character": "Maelie",
+      "text_en": "What? But I..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Vidofnir!"
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "Well met, knight. Mayhap I chose an inopportune moment?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Not at all! Pray forgive us this most unworthy reception. We are honored to have you with us, and right glad of your aid!"
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "Fortune delivered the child unto me. I had but to receive her."
+    },
+    {
+      "character": "Maelie",
+      "text_en": "Thank you for savin' me..."
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "Thou art welcome, child."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Never did I think to be indebted to so unexpected a savior. But full glad am I to be so."
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "Friend of Ysayle, warrior of warriors, I had hoped to meet with thee."
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "I bear a message from my sire."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "From Hrasevelgr?"
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "Upon returning to our lands, Nidhogg's shade did sing unto his brood, and they for skies unknown did then take wing."
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "This thou must know, for your fates are inextricably bound."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What of Estinien? Is he truly lost to us?"
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "Such matters are beyond my ken. I but bear my father's words. Take from them what thou wilt."
+    },
+    {
+      "character": "Vidofnir",
+      "text_en": "Fare you well, mortals."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "So it is as they say, then. A great white dragon swooped down from the heavens to rescue an innocent child."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "A most unexpected turn of events...but not an unwelcome one. The people will not soon forget this day."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "Yet how will they choose to remember it, Ser Aymeric? And will these events serve to bring man and dragon closer together, or drive a deeper wedge between brothers?"
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "After a thousand years, the world these men once knew is changing—and with ungentle swiftness to boot. Though their actions are misguided, their sentiments are only to be expected. You may be sure that others will rally to their cause."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "I share your desire for a lasting peace with the Dravanians, I do, but I would not see it built on the bones of our countrymen—nor on our own."
+    },
+    {
+      "character": "Count Edmont de Fortemps",
+      "text_en": "I see much of Haurchefant in you. And I could not bear to mourn the passing of another son."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Lord Edmont..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well that was timely. Vidofnir must have been circling for hours."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In the moments before Vidofnir appeared, I contemplated teleporting the girl. Thank the Twelve that I did not."
+    },
+    {
+      "character": "Handeloup",
+      "text_en": "Words cannot well express our gratitude, Forename . Thank you for rescuing the hostages...and for keeping the lord commander safe."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Since Haurchefant's death, Lord Edmont has grown ever more cautious. To speak plain, the man is afraid to hope. But I am not. Vidofnir's act of heroism will serve to shift public opinion in our favor, of that I have no doubt."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This has been a day of surprises, has it not? 'Tis but a pity Vidofnir could not stay longer."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Yes, I think it's fair to say that she timed her departure rather less well than her arrival."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well-timed scarcely does it justice. But one moment later would have been a moment too late."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us pray that the Ishgardians who yet harbored doubts will take these events to heart and accept the truth of Ser Aymeric's words."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, 'tis only meet that I inform Tataru of what has happened here. If you have need of me, I shall be at Fortemps Manor."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Allow me to accompany you. Tataru would never forgive me if I left for the Rising Stones without saying good-bye."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A moment, Forename . I wish a word."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Tell me, does Thancred seem quite well to you?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That he did─which is especially remarkable given the injury to his eye. I can only assume that his time in the wilderness afforded him ample opportunity to compensate for his impairment."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "However, I speak not of his physical state, but rather his aetheric flow, which I fear has been irreparably disrupted."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Of that I have no doubt. His time in the wilderness did not deprive him of his charm."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But that is neither here nor there. What concerns me is his aetheric flow, which I fear has been irreparably disrupted."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So you sense it too. A subtle change, imperceptible to most. I myself did not notice it at first, but upon closer examination, I saw that his aetheric flow had been irreparably disrupted."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As a result, I strongly suspect that his ability to manipulate aether has been compromised. Simply put, Thancred may no longer be able to wield magicks."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It would do much to explain why he chose to remain within the wilderness instead of seeking us out. He would have been compelled to rely solely on traditional methods of travel, significantly prolonging his journey. And when he learned that a nearby beast tribe was making preparations to summon a primal, it may well have seemed more sensible to wait."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But this is still little more than speculation. Until I have proof, pray speak no word of it."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Right, then. I should be on my way. Krile may have charmed Master Matoya for now, but who can say how long it will last."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Lord Edmont told me all about what Vidofnir did! Gods, how I wish I had been there to see it."
+    },
+    {
+      "character": "House Fortemps Steward",
+      "text_en": "It is a relief to see that you are unharmed, Master / Mistress Surname . Pray remain here a moment—Lord Artoirel should be returning shortly."
+    },
+    {
+      "character": "House Fortemps Manservant",
+      "text_en": "When I heard the commotion, I went outside to look, but all I saw was the dragon's silhouette on the horizon..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That Vidofnir should chance to arrive even as the girl fell... Truly, I could not have planned it better myself."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Ah, good. We were afraid you might have left."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A shield, my lord?"
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Fit for a true knight. An expression of our gratitude to you and yours, long overdue."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "...But there is something else I would discuss ere you part. Something which cannot leave this room. My father will soon step down as head of our house."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Ser Aymeric was not the only one to fall under suspicion following the death of the archbishop. There are some who believe my father complicit in a coup d'etat."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Thus he intends to renounce his title to absolve our house of suspicion and secure the support of our peers."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Surely there must be another way to convince houses Durendaire and Dzemael?"
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "So I said to him. Alas, he will not budge."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Ever since I was a child, I knew that I would one day succeed my father, and the thought of it filled me with pride. Yet once I learned the day was at hand, my heart was filled with naught but dread."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Our legacy is built upon the lies of our forefathers. In accepting this title, am I not perpetuating this injustice? Why should I become the next count?"
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "You sound just like him. Aye, I suspect that is what Haurchefant would have said. \"To aid those in need...\"."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "...But then I thought of my brother. \"A knight lives to serve—to aid those in need.\""
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "When you look on that shield, I trust you will remember his words. And should I once more find my resolve wavering, I ask that you show me the way."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "You were a brother / sister to Haurchefant. Will you be a brother / sister to me as well?"
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Come Emmanellain. There is much to be done. For Father, and for Ser Aymeric. And for Ishgard."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "<sigh> To think we share the same blood.... Pray excuse us."
+    },
+    {
+      "character": "Count Edmont de Fortemps (Narration)",
+      "text_en": "Those were the days of promises and vows—of tentative first steps into an uncertain future."
+    },
+    {
+      "character": "Count Edmont de Fortemps (Narration)",
+      "text_en": "A future shaped by the choices we made, in ways we could never have forseen."
+    },
+    {
+      "character": "Count Edmont de Fortemps (Narration)",
+      "text_en": "Born of good and evil, of light and darkness, and shepherded by our hand."
+    },
+    {
+      "character": "Count Edmont de Fortemps (Narration)",
+      "text_en": "Be it for weal, or be it for woe."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...This is thy proof? The Gerun Oracles ? Apocrypha."
+    },
+    {
+      "character": "???",
+      "text_en": "It is a truth long forgotten, a tale of the beginning, and of the path we have been set upon."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Our fates were ordained long ago, Archon. The Garleans are no exception. Nor the Triad. You know what must be done."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "...Well?"
+    },
+    {
+      "character": "Yda",
+      "text_en": "Everyone has their orders."
+    },
+    {
+      "character": "Yda",
+      "text_en": "The Masks will attack as soon as all units are in position. The imperials won't know what hit them."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "I fear it will be bloody..."
+    },
+    {
+      "character": "Yda",
+      "text_en": "By Rhalgr, it had better be."
+    },
+    {
+      "character": "Papalymo",
+      "text_en": "We cannot stay here forever, Yda. We have other responsibilities."
+    },
+    {
+      "character": "Yda",
+      "text_en": "I know full well what my responsibilities are—and I mean to fulfill them, every one!"
+    }
+  ]
+}

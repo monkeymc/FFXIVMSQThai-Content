@@ -1,0 +1,240 @@
+{
+  "id": "consequences",
+  "wiki_path": "/wiki/Consequences",
+  "wiki_image_url": null,
+  "patch": "3.2",
+  "title_en": "Consequences",
+  "level": "60",
+  "location": "Coerthas Western Highlands(X:30,Y:27)",
+  "npc_start": "Thancred",
+  "dialogues": [
+    {
+      "character": "Thancred",
+      "text_en": "Lord Artoirel and the first commander should have returned by now."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "To the tavern, then. Their first order of business will be to speak with Lord Emmanellain, and I somehow doubt that he has moved an islm since we last saw him."
+    },
+    {
+      "character": "Highborn Merchant",
+      "text_en": "You were there, were you not? Then you must have seen it in the people's eyes. Not even Ser Aymeric could convince them to return."
+    },
+    {
+      "character": "Lowborn Youth",
+      "text_en": "We cannot dishonor their memory. We must remember why they fought and died."
+    },
+    {
+      "character": "Spirited Stonecutter",
+      "text_en": "The hells with them blue bloods. Can't believe I thought they might give half a damn about us. You can bet I won't be making that mistake again."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "..."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Fury take me, what a disaster... I should never have left."
+    },
+    {
+      "character": "Emerissel",
+      "text_en": "She seemed like such a nice girl. Always greeted me with a smile when she passed. Never would've guessed she had it in her."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "My apologies, Forename . I bear full responsibility for this...debacle."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "There will be time for that later. I, for one, am more concerned about picking up the pieces. What do we know?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "According to initial reports, the protest was orchestrated by the young woman whom Lord Emmanellain ordered shot. She and her conspirators infiltrated Falcon's Nest posing as servants and guests."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Several were taken alive. Others resisted and were struck down. Still others took their own lives."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Our forces suffered casualties as well, but by the grace of the Fury, no civilians were seriously injured."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Still more remarkably, the ringleader yet lives—for the time being, at least. The chirurgeons are doing what they can for her, but she may not live through the night."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Given their impeccable timing, it is like that the Convictors who drew us away from the hamlet were in league with the protestors. Accordingly, we have detained them for questioning."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "<sigh> I'll be sworn that these villains spent as much effort plotting the failure of this peace conference as we did its success."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, if the mood of the hamlet is any indication, theirs have been the more fruitful labors. In the wake of the protest, the people seem disillusioned."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "You spoke with them, then? I see..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "...Ser Aymeric placed his trust in me. It will be difficult to explain what has happened here."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Remember how far we have come, First Commander. The people's faith may be shaken, but we convinced them before, and will do so again."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "If we can but find a means to remind them—to show them once more the promise that change holds for all—then this tragedy too shall pass into the past."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "We must pray that you are right. Nevertheless, for the time being, I have no choice but to suspend the peace conference, pending Ser Amyeric's final decision."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Under the circumstances, I cannot leave Falcon's Nest. Forename , will you deliver my report to the lord commander in my stead?"
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "Get up, Emmanellain. You're going with him / her ."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Go on without me."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "...I was not asking."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "You will answer for your actions. In person. Is that clear?"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "...Yes, my lord. Come, Honoroit."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Your manservant is not here. In fact, I have not seen him for some time..."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Honoroit...? Honoroit! I could have sworn he was..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Once I have determined that my presence is no longer required, I will return to the capital as well. Pray give my regards to the lord commander."
+    },
+    {
+      "character": "Artoirel",
+      "text_en": "I too had best remain here for a time. I should hope that the worst has passed, but it is too early to say for certain."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Where are you, where are you...!?"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Honoroit!"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "No, no! What have they done to you!? Honoroit! Honoroit!"
+    },
+    {
+      "character": "Honoroit",
+      "text_en": "Is that you, my lord? You...you seem rather flustered."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Because of you, you imbecile! What in the seven hells happened to you!?"
+    },
+    {
+      "character": "Honoroit",
+      "text_en": "My...my apologies... Some few of the guests expressed a wish to leave...and I implored them to stay."
+    },
+    {
+      "character": "Honoroit",
+      "text_en": "It would seem they took issue with my request."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Gods forgive me... If I had only been more careful with my words!"
+    },
+    {
+      "character": "Honoroit",
+      "text_en": "D-Do not blame yourself, my lord...I know....I know that you and your brother have Ishgard's best interests at heart."
+    },
+    {
+      "character": "Honoroit",
+      "text_en": "That poor woman...She lives in the past, clinging to the memories of the lost."
+    },
+    {
+      "character": "Honoroit",
+      "text_en": "But the future holds so much promise. So much joy. And you...you know that better than any..."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Honoroit!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Calm yourself. The boy will live. But it's imperative we get him inside and into the care of a chirurgeon without delay."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Gah! We were so close! Why does it all have to fall to pieces!?"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Don't they want to live in peace!? Don't they want to be happy!? We all want the same thing, and still—STILL it falls to pieces!"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Tell me: what—what was I supposed to do? Someone, anyone, tell me: what was I supposed to do!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Stop looking to others. You make your choice and you live with the consequences."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "And just what would you know about consequences!? You who always know just what to say, and just what to do! Your every deed is greeted with a round of applause!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You know nothing about me. I have fought tooth and nail for the people I hold dear—done everything in my power to save them...and I have failed."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Learn to live with it. I have."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "I will take him to the chirurgeons! It is...it is the least I can do."
+    },
+    {
+      "character": "Honoroit",
+      "text_en": "..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "...I may have overreacted. But it needed to be done. He was becoming hysterical."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I understand the desire to look for reasons. For excuses. To convince yourself you had no choice."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But the past is the past, and there is naught to be gained from reliving your mistakes. I know this. I know this. But he..."
+    }
+  ]
+}

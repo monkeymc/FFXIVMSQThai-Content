@@ -1,0 +1,464 @@
+{
+  "id": "a-satraps-duty",
+  "wiki_path": "/wiki/A_Satrap%27s_Duty",
+  "wiki_image_url": null,
+  "patch": "6.1",
+  "title_en": "A Satrap's Duty",
+  "level": "90",
+  "location": "Alzadaal's Legacy(Zone)(X:13.1,Y:9.5)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Estinien",
+      "text_en": "Seeing the void's terrors firsthand was an experience. But I doubt fear of such creatures is at the root of Vrtra's hesitation..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Once Nidhana succeeds in replicating the mock Atomos, this door into the Thirteenth will be ours to open."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Will you be crossing the threshold alongside us? I realize this is more my endeavor than yours..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Hm. To be honest, I've no interest in visiting the void myself."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "...Might we discuss this later? There is something I must do first."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Why does everyone insist on being so secretive? I at least had good reason for not wanting to explain my nixie ritual..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ahem. Shall we proceed with our other preparations, then?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As we saw, the warding scale can be effective at protecting the bearer from other sources of aetheric corruption. Nevertheless, the talisman's durability will need to be improved if it is to withstand the void's influence for a prolonged length of time."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And I think that is a problem we can address without involving the brilliant but busy alchemists who created it. Who do we know who excels at this kind of structural augmentation?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "An excellent suggestion."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Perhaps they once did, but availing ourselves of Allagan insights tends to be an involved process in and of itself."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nay, I believe a more straightforward approach is in order: consulting with the engineers of Garlond Ironworks."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What of Garlond Ironworks, then? They may have an engineer free to assist us."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As I recall, Cid himself is no stranger to the void and its volatile energies."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With his experienced hand at the helm, I have every confidence that the Ironworks can strengthen the warding scale."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Come, let us visit their operation in Rhalgr's Reach and commission their best and brightest."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Perhaps this young man can locate Cid for us."
+    },
+    {
+      "character": "Junior Ironworks Engineer",
+      "text_en": "Forename ! What brings you to the Ironworks?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We have a commission for you and your president, actually. Assuming he's available...?"
+    },
+    {
+      "character": "Junior Ironworks Engineer",
+      "text_en": "Master Cid? Certainly, I'll see if he has a moment free."
+    },
+    {
+      "character": "Cid",
+      "text_en": "A pleasure as always. I hear you have a job for us?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Heading into the void to find a lost dragon... That sounds almost pedestrian compared to your last adventure. Honestly, I don't know if you could say anything that would surprise me after Meteion and that bloody mess."
+    },
+    {
+      "character": "Cid",
+      "text_en": "All right, let's take a look at this talisman of yours. You said there were signs of degradation?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "Hm, it seems some manner of corrosion has set in around a scratch on its surface─much as the void's corruption seeped into Nero through his wounds. In which case, our best bet may be to simply prevent the scale from being damaged in the first place."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And how might we achieve that?"
+    },
+    {
+      "character": "Cid",
+      "text_en": "We have a coating agent for strengthening trinkets and the like, but I'd be wary of applying any compound which might upset the scale's delicate alchemical balance. Far safer to dress it in armor."
+    },
+    {
+      "character": "Cid",
+      "text_en": "We'll construct a protective casing─one utilizing metal alloys with high aetherial conductivity, so as not to impede the talisman's primary function."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A suit of armor, as you said."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Nero has compiled data on the Thirteenth, so I'll have him pitch in with the design just to be sure."
+    },
+    {
+      "character": "Cid",
+      "text_en": "If only it weren't such an ordeal to convince him to follow our safety protocols... I swear, I've never had such a reckless employee. In any case, we may need some time to untangle the particulars."
+    },
+    {
+      "character": "Cid",
+      "text_en": "If only it weren't such an ordeal to convince him to follow our safety protocols... In any case, we may need some time to untangle the particulars."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Understandable. We know how busy your schedule is, and the final result will doubtless be worth the wait."
+    },
+    {
+      "character": "Cid",
+      "text_en": "Hah, the hard part will be ducking Jessie and her constant barrage of demands while we sneak about doing the fun stuff. We'll see what we can do."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I think we can leave the rest in Cid's capable hands. Let's return to the Great Work, and see how Nidhana is getting on with the mock Atomos."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I hope Nidhana has good news for us."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "The insatiable curiosity of our alchemists has ever amazed me...though I've largely left them to their own devices since we opened the gate together."
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "Ah, Y'shtola! The adjustments are going well, I hope?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis a lengthy process, but the end is in sight, yes."
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "That's wonderful news! I, myself, had some good fortune searching through the satrap's private records."
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "What I found was a transaction log, dated around the same period as when Alzadaal's Legacy was built. It included a purchase list of highly exclusive alchemical components...and I knew I'd discovered the key to making the artificial Atomos."
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "I then visited the High Crucible to commission the materials. After I'd explained my requirements, I was beset by volunteers insisting I allow them to help with the entire project!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The usual reaction to someone forcing open a voidgate is to run for the hills... Hannish academics certainly are a different breed."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "The alchemists of old were cut from a similar cloth. The unknown held no fear for them─indeed, they were ever eager to seek new knowledge, regardless of the danger."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And were you not also fearless─heedless, even─in your determination?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "...My sire entered his dormancy before I was hatched. And so it was Azdaja who kept my egg safe and warm."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "It created a bond between us. Even long after I learned to fend for myself, I rarely strayed from her side."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "She was my guardian, my sister, my dear companion...and not a single day passes that I do not mourn her absence."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "No matter how deep the darkness, I would not surrender my search. I promised myself the time would come when we would once more take to the skies together."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "But I am satrap now..."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "The Radiant Host is here to serve, Your Excellency!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Nahbdeen. What is this about...?"
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "Ser Estinien told us of your predicament."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "For centuries you have protected Radz-at-Han, never showing your true self. Hiding behind a curtain, and living only in service to the people..."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "Your dedication meant more to us than your deceit, and so did we accept you as our rightful ruler."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "After all that you have sacrificed for this nation, did you imagine we would begrudge you your heart's desire?"
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "We survived the Final Days. We are a strong and proud people. We, the Radiant Host, will keep Thavnair safe in your absence!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I am grateful for your loyalty, and for your encouragement. And yet..."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "Now, you listen to me, Varshahn!"
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "You are wearing that face, after all."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "As I have told you before, you are a little brother to us all."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "And if you are family, then so, too, is your sister."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "We are there for you if you need us. But do not ask us to sit by and watch while you abandon a sibling you have ached to rescue for millennia!"
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "We will succeed in opening the way─it is only a matter of time! All you need do is prepare to step through to the other side!"
+    },
+    {
+      "character": "Mehrahd",
+      "text_en": "Your Excellency... I wanted to thank you for building the orphanage. It means so much that my sister and I will have a place to be together, safe and happy."
+    },
+    {
+      "character": "Mehrahd",
+      "text_en": "And I hope that you and your sister can be together again, too!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "“Take heart, and protect them well.”"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Such were the words I once said to you. And here I stand, failing to live up to them."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "You're saying I should seize this chance?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "“Take heart, and protect them well.” Such were the words I once said to you. And here I stand, failing to live up to them."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "If my heart is torn, I am fit to protect neither Azdaja, nor Radz-at-Han."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "My people, I have come to a decision. Varshahn will depart Thavnair for a time."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "My dragon self will remain in the palace, but only to conduct the satrap's most essential duties."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "While I am focused on controlling this vessel, there may be matters that escape my attention."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I rely on you, my trusted friends, to watch over one another until I return."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "Take care and fair fortune, little brother. Many tears would be shed should you come to harm."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I would not dare make you cry."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I will not squander this chance you have given me. I will find Azdaja..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Convincing others to follow their hearts is not my forte. I would have gladly let our more...philosophical comrades take the lead, had they been here."
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "We'll have that Atomos built before you know it! When a project like this comes along, we give it our full and undivided attention. Sleep? Pah! Who needs it!"
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "Oh, that reminds me! I really should finish that other project I was working on for His Excellency..."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "What? Someone needed to give that boy a good talking to."
+    },
+    {
+      "character": "Nahbdeen",
+      "text_en": "(Uh, you don't suppose I'll be reprimanded, do you? I did just yell at the satrap...)"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You surprise me, Estinien. For a lone wolf, you've shown an unusual degree of, shall we say, “involvement” in helping Vrtra reach this conclusion."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "'Twas for the greater good. The wyrm's thundering sighs were keeping his citizens awake at night, and had travelers believing the palace wracked by some unnatural storm."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What of your own answer, then? You seemed disinclined to venture into the void..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "When I was one with Nidhogg, his vengeful thoughts were my thoughts. His endless rage my rage..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "And the soul-chilling grief he nursed for Ratatoskr's death..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I would not wish such agony upon a foe, let alone a friend and ally. If there is a chance we can spare Vrtra that pain, then I will follow you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed, but perfect for our purpose, I should think. I'd rather not bother the Scions with aught less than a dire threat to the star."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I'd rather not bother our comrades with aught less than a dire threat to the star. We four should be sufficient for our purpose."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With things as they are, I'd rather not bother our comrades with aught less than a dire threat to the star."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It will make for an interesting journey besides. Traveling in a smaller party for a change─crowds can be a bit draining, don't you think?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Now, on to specifics."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Unlike the First, where the Flood of Light was halted before its devastation was complete, the Thirteenth has been utterly subsumed by Darkness. My plan, as such, is to explore the void in stages, withdrawing to safety after each brief foray."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twould be more convenient had we some manner of base camp nearer to the gate itself..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "One of the palace chambers should serve. Come, let us reconvene outside Meghaduta."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I was put up in a guest room in the palace while I awaited my audience with Vrtra. I expect we'll be given the use of something similar."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Conducting our expedition out of the Rising Stones would raise just as many questions as recruiting too many Scions. At least here in Radz-at-Han, we might be expected to appear road-weary from our “local” explorations."
+    },
+    {
+      "character": "Accommodating Official",
+      "text_en": "Please, may you aid the satrap in his endeavor, even as he aids you in yours."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "...And so we will require suitable accommodations. Might we make something available for our guests?"
+    },
+    {
+      "character": "Accommodating Official",
+      "text_en": "All the chambers are presently hosting the great mounds of treasure we carried out of the vault. Once the foundation's activities begin in earnest, however, we can redistribute the trove and make a room or two ready for habitation."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Good. Please inform me when you've completed the arrangements."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "As you heard, we will have you settled in Meghaduta in due time."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As ever, you are most gracious, Your Excellency."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "You risk yourselves to aid me in my search for Azdaja. Providing comfortable quarters is the least I can do."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I only wish we knew more about our destination. The gods only know how long our explorations might possibly take, or what our chances of success might possibly be..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Succeed or fail, I am grateful to you for convincing me to make the attempt."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "On that note, I will return to the Great Work and lend what help I can to Nidhana. If you've preparations to make ere we venture into the Thirteenth, now is the time."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "All I need is my armor and my lance. Perhaps I'll train with the Radiant Host to pass the time before we depart."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "You know what this means to me, Forename , but my purpose need not consume you as well."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "We are headed to another world. Find what joy you can in the experience. For you are a traveler─an adventurer at heart. This I know."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "And thus I have returned."
+    },
+    {
+      "character": "Dark-robed Voidsent",
+      "text_en": "To this world bereft of saviors..."
+    }
+  ]
+}

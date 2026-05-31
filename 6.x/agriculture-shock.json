@@ -1,0 +1,444 @@
+{
+  "id": "agriculture-shock",
+  "wiki_path": "/wiki/Agriculture_Shock",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "Agriculture Shock",
+  "level": "88",
+  "location": "Labyrinthos(X:28.9,Y:27.5)",
+  "npc_start": "Cookingway",
+  "dialogues": [
+    {
+      "character": "Singingway",
+      "text_en": "I should like to study this primitive yet nevertheless intriguing contraption a while longer, if I may. That the Sharlayans were able to build something of this complexity with their limited knowledge and resources is most impressive!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "This is all very wonderful, I'm sure, but I was rather hoping to learn more about your nourishment provision facilities. In other words, where is the food?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I believe both the knowledge and consumables you seek may be found at Meryall Agronomics."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As I imagine Singingway and the others intend to study every conceivable facet of this apparatus, wouldst thou be so kind as to escort our visiting culinarian?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Yes, that sounds much more interesting! Hopefully, I'll be able to see firsthand some of the delicacies Urianger was telling me about."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Even his incredibly vivid ─ if a bit too verbose ─ descriptions cannot compare to sampling them myself. Not to mention Etheirys will soon be no more...so I must learn all I can while there is still time!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Let us brook no further delay!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Twould appear I have inadvertently taken upon myself the more demanding duty ─ entertaining three inquisitive Loporrits to thy one. Yet be that as it may, 'twill be my pleasure to impart what little knowledge I possess to our would-be saviors."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "This is the place, yes? The heady aroma was enough to guide me here, and I've spotted several of the fruit and vegetables featured in our compendium!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "I'd dearly love to try some, but I read that those who help themselves to a farmer's crops without permission are often caught and put into pies!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Perhaps you could ask whoever's in charge if they would be willing to part with a few samples?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "I suppose if they did put me in a pie, I could just eat my way out. Wait, they get quite hot inside, don't they? On second thought, let's stick to the plan for now."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Oh. Something else to attend to? It's all right, I'll wait here. Patiently...and hungrily."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Sampling foodstuffs is the very reason I wanted to visit Etheirys!"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "<sigh> What a fine mess this is..."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "<sigh> What a fine mess this is..."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Ah, it's you, the one who climbed down the mineshaft!"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "I'd show you around if I could, but I'm rushed off my feet preparing for the exodus."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "And I'm not the only one. We've all got to find ways to do what we do down here up there ─ first on the moon, then on whichever star the Forum decides will become our new home."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "It's all so sudden...so unreal..."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Don't you want to go to the moon?"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Well, it's better than waiting for the Final Days to claim us..."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "But no matter how carefully it's all planned, we'll never be able to take every variety of flora and fauna with us."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Even the ones we can take may not survive in their new environment. So many species, doomed to extinction..."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Sorry, that's not what you came to talk about, is it?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Nothing quite so dire, I assure you. We merely wish to sample a little of your produce, if we may?"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "By all means, help yourselves."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Much appreciated, my good fellow!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "So, where to begin?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "As Urianger informs me, the key to exquisite cuisine lies in selecting only the very best ingredients."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "I've an enormous list of seeds, saplings, and whatnot to take to the Central Circuit. But I suppose that means anything not on the list is to be left behind... What a waste."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Oh! I know what these are! Grapes, yes?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Let's see if they are as delicious as they look..."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "So sweet, so sour! The taste is much like a ripe philosopher's carrot...and yet the texture is entirely different."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "The contrast between the outer skin and the fruit within is most peculiar, though far from unpleasant. Yes, I think I'll try another..."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Well, that's certainly given me food for thought, though in a far less visceral manner than any philosopher's carrot... But tell me, what is your opinion of grapes?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Yes, they are rather moreish, aren't they? And from what I've read, quite versatile, too. Something about people stepping on them to make intoxicating beverages, as I recall."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Meh? An expression of indifference, I assume. In all fairness, our compendium did note they are valued more as an ingredient for spirituous beverages rather than as a fruit for regular consumption."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "How odd! No accounting for taste, is there?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Anyway, that's enough about grapes for the time being. On to the next treat!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Orange by name, orange by nature!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "What came first, the fruit or the color? Who cares? Let's eat!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Mmm... Yes, that's... Mmm!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Equal parts sweet and sour, as with the grapes, yet nothing alike. Hmm... I may have to consult Urianger about expanding my vocabulary. I simply cannot find the words to describe it!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Perhaps what I'm looking for is, “bitter.” This is all very complicated, you know. So many flavors, so many choices... And each individual with their own personal preferences..."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Now I see why you all turned your noses up at the idea of eating nothing but carrots! Marvelous though they still are in my estimation ─ let no one say I said otherwise!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Ah, but speaking of carrots, I've yet to sample any of the vegetables. Let's see what's in that field over there!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "That color...that texture... Are they some sort of enormous, round carrots?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "No? In any case, proper nomenclature is less of a concern than the taste..."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Blech! It's so hard and flavorless, I may as well be chewing a piece of wood! That all but confirms it ─ these are nothing more than misbegotten failures masquerading as goodly carrots!"
+    },
+    {
+      "character": "Deloys",
+      "text_en": "Stop, stop, stop! Can't you see these are pumpkins!?"
+    },
+    {
+      "character": "Deloys",
+      "text_en": "And no one with any sense would try eating them raw! You're supposed to cook them first!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Do you not find it an awful bother?"
+    },
+    {
+      "character": "Deloys",
+      "text_en": "Far from it! Cooking is a joy unto itself."
+    },
+    {
+      "character": "Deloys",
+      "text_en": "And what's more, it broadens the range of ingredients that we may safely eat."
+    },
+    {
+      "character": "Deloys",
+      "text_en": "But above all else, cooking allows us to draw out the full potential of our produce. Pumpkin stew has been one of my favorite dishes for as long I can remember!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Then perhaps even these hard blocks of plant matter can become as delicious as the orange I sampled..."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "I wonder, though, if there is anything even more delicious... How about that yellow fruit over yonder?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "What a wondrous fragrance! With luck, it'll have a flavor to match."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "As I've no idea how these are eaten, I'll just bite into it!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Hnnnggghhh!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "My...tongue... Is this...poison!?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "A lemon? You mean it's supposed to taste like this!?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "How can something so similar to an orange be so revolting?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Ack... It may be some time before my palate recovers from this ordeal. As such, I had best call an end to this round of sampling. Let's say our farewells and return to the others."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Good grief... I fear that lemon has irrevocably ruined my sense of taste..."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Finished, have you? I trust you found something to your liking."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "I'm rather enamored with the grapes and oranges. Less so the pumpkin, though I learned the hard way they're not to be eaten raw."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Then there was the lemon. The deceiver . I still feel so violated..."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Haha! First time, was it?"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "I'd hate for you to leave with a bad taste in your mouth ─ in more ways than one ─ so I'll give you this lemon muffin I baked. If this doesn't change your opinion, nothing will!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "More lemon!? Have I not suffered enough?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Nevertheless, it would be remiss of me to spurn this opportunity to ─ oof, bit of sick came up there ─ learn more of your inscrutable ways."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Very well, lemon muffin! Do your worst!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "..."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "This...is..."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "...DELICIOUS!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Although I still detect a hint of lemon, it complements the sweetness of the dough to create a perfect harmony!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "I never would've guessed its vile bitterness could be utilized so elegantly. My good chap, this is simply breathtaking!"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "See? We rarely use lemon in its natural state, but it has a starring role in all sorts of recipes, and the same is true for many other ingredients."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "It comes down to making the most of the resources at our disposal. And sometimes, that can even be the difference between life and death."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "I know we won't be able to take every species with us. No doubt the Forum agonized over what was worth preserving...and what will be consigned to history. Hard choices, but make them we must if we're to survive."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Such strength of will... Now I know what Hydaelyn sees in your kind."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Mankind, the Loporrits ─ we were both born from the accumulated knowledge of the ancients."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "They learned all there is to learn about the nature of sentient life and the fates of the stars themselves."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Once a civilization has fulfilled the basic requirements for survival, it will inevitably seek to eliminate all forms of negativity and achieve perfection."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "And therein lies its folly...and its downfall."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "For perfection is an unattainable ideal. 'Tis the paradox of the immaculate carrot."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Yet civilizations since time immemorial have deemed the pursuit of perfection as “progress.” They pay no heed to the costs incurred in their futile quest, and all too often become the architects of their own demise, their dreams forever unfulfilled."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "What, then, is the alternative? The answer lies in knowing that our existence can never be perfect. To be content with what we have and make the most of it."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "When life gives you lemons, make lemon muffins!"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Err...pardon my Eorzean, but what in the seven hells are you on about? And who are you, anyway?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Cookingway, at your service! I'm here to help prepare for the trip to the moon!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "And once you get there, you'll be able to try my carrots. I've been growing all different kinds!"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "But don't worry, there'll be room for your crops too. We'll work together to preserve as many of Etheirys's species as possible, if you're up to the challenge."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Yes, of course! I look forward to it."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Well, this has all been highly productive. Probably. Let's go and see if Urianger and the others have run out of machinery to inspect, shall we?"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "So he's one of the Forum's lunar collaborators... Not quite what I was expecting, but he seems a decent sort."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "I'm glad he enjoyed the lemon muffin, too. Hopefully the next time he has one, he won't be compelled to wax poetic about the meaning of life and the immaculate carrot again."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "By Cookingway's broad grin, I assume your excursion was a roaring success?"
+    },
+    {
+      "character": "Growingway",
+      "text_en": "Oh...there you are. <yawn> Have the others finished talking about rain-making wotsits yet?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Where have you and Cookingway been!? If the two of you were engaged in pursuits of an educational nature, you should've taken me, too! I am the leader, after all."
+    },
+    {
+      "character": "Singingway",
+      "text_en": "Not to rub it in, but we had the most fantastic time while you were away! Urianger was able to obtain all manner of meteorological data for us to pore over. I'll be sure to put my newfound knowledge to good use once we return to the moon."
+    },
+    {
+      "character": "Singingway",
+      "text_en": "It's my duty to make your journey as comfortable as possible, though there's no telling how long it will be. A hundred years? A thousand? Hmm... Probably closer to five thousand, give or take."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "That was most enlightening, especially the part with the lemon muffin."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Actually, I was wondering, do you know of any other places famed for their cuisine?"
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Would that I had time to visit... <sigh> The more I learn of Etheirys, the more I wish we could spare it from the Final Days."
+    },
+    {
+      "character": "Cookingway",
+      "text_en": "Alas, Hydaelyn's orders are to flee, not to resist. If only there was some other way..."
+    }
+  ]
+}

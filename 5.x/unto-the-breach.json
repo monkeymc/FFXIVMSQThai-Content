@@ -1,0 +1,508 @@
+{
+  "id": "unto-the-breach",
+  "wiki_path": "/wiki/Unto_the_Breach",
+  "wiki_image_url": null,
+  "patch": "5.5",
+  "title_en": "Unto the Breach",
+  "level": "80",
+  "location": "The Rising Stones(X:6.0,Y:5.9)",
+  "npc_start": "Alisaie",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "In the face of this new draconic threat, we would indeed benefit from Estinien's presence."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet I cannot help but wonder how Krile and Tataru intend to locate him. They certainly seemed confident, however..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I wonder what our friend Emperor Solus would think were he to learn that his own flesh and blood is seeking to usher in the Final Days─together with a rogue Ascian, no less."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Idle musings aside, I pray that Thancred and Urianger return safely, and with the intelligence we sorely need."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While events have taken a grim turn, I must say that I have enjoyed our time adventuring together─the visit to Azys Lla not least of all."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Since then, I have spent some time pondering why Lord Amon rejected Owen's proposal to investigate a cure for eikonic corruption."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perhaps he judged the endeavor too difficult to pursue, I considered, but it seems more likely that it was not in Allag's best interests for a cure to exist. Whatever the truth may be, full glad I am that we could finish what Owen began."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Good news, Forename ! Thancred and Urianger have finished their tour of Garlemald, and are on their way back here even as we speak."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As we still haven't heard anything on the towers from the Alliance, I'm hoping they might be able to shed some light on things."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They're due to arrive any moment now, so let's see what they have to say, eh?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, a welcoming party. You needn't have gone to the trouble. From what I hear, you've been more than busy enough as it is."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Honestly, you might have waited for me to return before discovering a cure for tempering. As it is, I can't even pretend to have been involved!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, if it's any consolation, I myself was little more than a spectator. The lion's share of the credit must go to Alisaie, G'raha, and Forename . But I believe I speak for the rest of us when I say we are proud to have rendered what little assistance we could."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As you will also have heard, though, it hasn't all been tales of triumph. Just as we were taking a step towards finally addressing the primal threat, a pile of fresh problems landed in our lap."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Anyway, it's good to have you back. Though I can't help noticing that we're one Urianger short of a scouting party. You haven't lost him, have you?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Oh, I couldn't lose him if I tried. And I did try. Repeatedly. But no, he decided to linger in Ala Mhigo to apprise Raubahn and the others of how the land lies in Garlemald."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Then mayhap you would do the same for us."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Indeed. It was just as Lyse said. Worse, in fact. Devastation as far as the eye could see."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Nerva and the IIIrd, however, were notable by their absence."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Might they have met their end at the hands of Zenos and Fandaniel?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Perhaps. Or perhaps they simply lost the will to fight."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You see, the capital has been plunged into a deathly silence, with one exception: the imperial palace."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It was a busy place before the war, but it has grown busier still, with throngs of soldiers and civilians working there day and night to rebuild─or rather, transform it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Transform it? Into what?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That...is a difficult question to answer. The construction is vast and unsettling to behold, like something from a nightmare. According to Urianger, certain aspects of its design were clearly devised with the manipulation of aether in mind. Magitek, in other words."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Yet as unnerving as said edifice was, it was nothing next to the sight of its builders. They swarmed the place like so many insects, working with nary a word exchanged between them. No one overseeing construction, no one barking orders. It was as if they were possessed...or tempered."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We wanted to investigate more closely, but given our suspicions, it seemed wiser not to take the risk."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hmm... If Fandaniel could bind Bahamut to his will, might he have done the same to the people of Garlemald?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Whatever the truth may be, this information is certain to prove valuable. You have our thanks."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, be sure to save some for Urianger. Which reminds me, I have a message from Ala Mhigo."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Raubahn is hosting a meeting to discuss the latest findings on the towers, and he requested our presence."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then why not leave that to us? You must be weary from your mission."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No, no, I'm fine. Those towers have been on my mind since I first spied one on the way back, and I'm keen to get to the bottom of this."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In that case, I shall stay and begin looking into another matter, as I promised Krile. We need not all attend."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Very well, I suggest the rest of us make our way to Ala Mhigo forthwith. The sooner we leave, the more time we will have to speak with Urianger before the meeting."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If you are curious to know what I will be doing in your absence, let us speak of it another time. At present, Krile and I have no more than a hypothesis..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While we may safely assume that the Telophoroi are behind the works being carried out on the imperial palace, we can only guess at their purpose."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Royal Menagerie is still closed to civilians. Fandaniel and his pet certainly left their mark..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I wonder if there have been any developments regarding the Amalj'aa abductions. It can be no mere coincidence that the incidents began occurring just as the towers first appeared."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Although I was only in Revenant's Toll a short while, I did manage to squeeze in a brief drink with F'lhaminn. Spring water only, it being a flying visit."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "My friends. Much and more have I heard of your travails in our absence. Heartened am I to see you all hale and whole."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As are we to see you safely returned from your mission, Urianger. I trust Thancred made you feel welcome?"
+    },
+    {
+      "character": "???",
+      "text_en": "Well, well! If it isn't Alphinaud and his merry band!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Arenvald! Whatever are you doing here? When we spoke via linkpearl, you told me you'd be away on a mission!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "And who's to say this isn't part of it? But enough about that. It's good to see you looking so...similar. I thought you'd have grown a bit taller after a whole year in another world, but apparently not!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, I am sorry to disappoint you. While my soul may be a year older, my body has hardly aged ─ as you are well aware ."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And may I remind you that we Elezen are known to be late bloomers, especially in terms of our height. Mark my words, the day will come when even a great aurochs such as yourself will crane your neck to meet my eye!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Aye...'twas not until my twentieth summer that I myself outgrew my boyish proportions...though Moenbryda towered over me nonetheless."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Arenvald brings out the best in Alphinaud, doesn't he? They both seem so at ease in each other's company. It's almost endearing."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...So what exactly brings you here?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Oh, Fordola, mostly. We need to go over a few things before we set out."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Set out? Wait. Does this have something to do with the towers?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "...Eh? What gave you that impression?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Actually, tell me later. You've got a meeting to go to. I'll see you afterwards, all right?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If Fordola is going with him, that must mean..."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "My apologies. As Arenvald rightly pointed out, we have a meeting to attend. Let us be about it."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Ere we begin, I would like to offer my gratitude to Masters Thancred and Urianger. 'Tis no small feat to infiltrate the imperial capital and live to tell the tale, much less in times of civil war. Thanks to them, we may plot our course in full knowledge of how the winds blow in Garlemald."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Full glad are we to have been of service. But verily, such dangers as we did encounter pale into insignificance next to those faced by our comrades. An Ascian armed with the might of Bahamut, bent on bringing about the Final Days..."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Theatrics. He sought only to make a show of the power at the Telophoroi's disposal."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But since then, we have seen no sign of this “Fandaniel,” or his wyrm. And while we've done what we can to bolster our defenses, there's no telling where he might strike next."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Whenever and wherever it may be, we must use the intervening time to learn more of our enemy."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "'Twas with this in mind that we dispatched scouts to investigate the towers..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Our advance party took longer than expected to return...and when they did, they tried to kill us."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Luckily, I'd seen that sort of thing before, and we were able to restrain them before they did any harm. Then it was just a matter of letting the porxies do their work."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you saying they were tempered?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Once they'd come back to their senses, they told us everything they could. It seems that just as they were getting close to the tower, they heard an earsplitting roar. And that was the last thing they remembered."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "But what worries me most is what they were saying right before they attacked."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "“Glory be to Garlemald.”"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The tempered have heretofore ever been thralls to primal entities. Yet these hapless souls were compelled to accept a nation as the object of their devotion. This calleth into question all that we know of the condition."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Would that the unsettling news ended there. Alas, there is more. Following the earlier reports of missing Amalj'aa, we have learned that other beast tribes have suffered similar losses."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "And we now have reason to believe that the abductions are connected to the appearance of the towers."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Our scouts sighted black-garbed figures leading shackled Ixal in the direction of the tower in Dravania."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "The Temple Knights were able to intercept them before they could reach their destination, liberating the Ixal and apprehending their captors ─ each of whom was found to be equipped with Garlean arms and armor."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So the Empire is the common thread."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "With the support of Zenos, it seems likely that Fandaniel has rallied a faction of the splintered Garlean army to the banner of the Telophoroi."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Lord Hien reached the same conclusion when I shared our findings with Doma."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The plan had been to march on Garlemald from the east and west in order to force a peace treaty, but the situation has changed. Dealing with the threat of the towers must come first."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Given the nature of the enemy, and the proven risk of tempering, I could think of few suitable candidates to aid in this task. But I am confident in my choice."
+    },
+    {
+      "character": "Alphinaud (no text)",
+      "text_en": "What?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Resistant to primal influence as they are, they can investigate the towers without fear of being turned."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "We're glad to put our gifts to use, Commander."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Gifted or not, going behind enemy lines remains a perilous undertaking. But we must know more if we're to strike back at our foe. I'm counting on you."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "If it would give us the upper hand, I'd do it a hundred times over. We won't let you down."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "That concludes the briefing. You two ─ make ready and join your escort."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Are you certain about this, Arenvald?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I am. Come on, let's talk outside."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "If it's small talk you're after, look elsewhere."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I accept that numbers can prove a hindrance when infiltrating enemy territory, but to send only two ?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Now that it's out in the open, I don't have to keep it under my proverbial hat anymore."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "So you know, I've already gone through all the formalities at the Rising Stones. Made sure to inform J'moldva and V'mah at Rhalgr's Reach as well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Arenvald, I admire your enthusiasm...but this is far more dangerous than anything you have done before."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I know the risks. And I also know what's in store if we don't stop Fandaniel from carrying out his plan."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "With this power of mine, I can make a difference. If I stood idly by, I would regret it for the rest of my life."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And you, Fordola? Is this what you want?"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "What're you asking me for? It's not like I have any say in the matter."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Don't pretend. We both know Commander Aldynn gave you a chance to refuse. And you didn't."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "So the Empire's finished, is it? That's what they're all saying. That the great and glorious Garlemald slit its own throat."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "And now, from out of its twitching carcass crawls the Telophoroi, with bloody Zenos at its head."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "I fought for Garlemald. Killed for Garlemald. What was I a part of? I need to know. Whatever it is...I need to know."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Very well. If your hearts are set on this, I shall not stand in your way."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If you've finished with your touching display of camaraderie, I have a question: which tower are you planning to investigate, exactly?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Well, the one in Gyr Abania's said to be tightly guarded. It's patrol after patrol out there, apparently. We'd be spotted before we got anywhere near it."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Which is why we've set our sights on the one in Paglth'an, instead. There shouldn't be anything like as many imperials to worry about down there."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Even so, I doubt the local Amalj'aa will look kindly on it if they catch you sneaking around in their territory."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Fordola and I had a chance to learn the lie of the land in our previous forays there. We might still find trouble, but at least we won't lose our way."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Well, we'd best not keep them waiting any longer."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Mayhap when all of this is over, we could take another trip to Loch Seld. I would have you know I've become a rather capable swimmer since our last visit."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Ha! I'll believe that when I see it! Though, to be fair, getting into deep water does seem to be a Scion's lot in life... Take care, eh?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "It means a lot, you know ─ you coming with me."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "I still owe you for saving my skin, don't I? Can't return the favor if I'm not there."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I daresay you'll get your chance before long. That Fandaniel sounds like a tricky customer. Too much for the likes of me, anyway."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "But we both know I'd be just another soldier if it weren't for my gift. And I need to be a damn sight more than that, given what's coming."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "I realize I can't hold a candle to a hero like the Warrior of Light ─ or Alphinaud, for that matter. He might look like he's twelve, but he's seen more action than most people see in a lifetime."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "No, the fact is, I'm nothing like them, and maybe I never will be, but I'll be damned if I don't try."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "They're counting on me. On us. So let's give it our all."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "He does not want for conviction, that much is certain. So let us have faith in him. Him and Fordola both."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While they see to the towers, I would attend to another task: chasing down this “Lunar” Bahamut."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "(Ugh! Bloody thing...) Can you hear me? It's Tataru. I'm happy to say we managed to find Estinien!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "And...I'm sorry to say he went running off again the moment we told him about Bahamut."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "But he did mutter something about heading to Ishgard, so if you're quick, you might still be able to catch him!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Even if we set out this instant, he may already have left by the time we arrive. Have her send the Bonanza to Ishgard. It may prove useful should we need to give chase."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Gladly! I'll see to it as soon as Krile and I get back to the Rising Stones. Good luck!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "While you go off on your dragoon hunt, Urianger and I will return to headquarters. We have much to tell the others."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I wish you every success in your search for our elusive friend. May we all meet again ere long."
+    }
+  ]
+}

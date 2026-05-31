@@ -1,0 +1,308 @@
+{
+  "id": "the-key-to-victory",
+  "wiki_path": "/wiki/The_Key_to_Victory",
+  "wiki_image_url": null,
+  "patch": "4.0",
+  "title_en": "The Key to Victory",
+  "level": "69",
+  "location": "The Lochs(X:8.4,Y:21.4)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "For all our other accomplishments, Krile remains in the hands of our enemy, and I find myself wondering if we—if I could have done more. Though we know now that she was taken to the city, we have found nothing which might tell us where she is being held."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You know, you could just ask me."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thancred! What have you learned?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I shall spare you the particulars of my infiltration and simply state that I have seen her with my own eyes. She is being held within the residential district south of the city proper."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I tracked her to the ruins of an old temple of the Fist of Rhalgr, within which the imperials have constructed a research facility..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A research facility ? What manner of research?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Why...methods to imbue Garleans with the power to manipulate aether. In pursuit of which goal, their scientists have, I am sorry to report, performed many questionable experiments—on living subjects."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What!?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Calm down, Alphinaud. We've already been tasks with securing the Ala Mhigan Quarter. This just gives us a reason to do it faster."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I entered and exited the factory by stowing aboard imperial transports, but that method is not suitable for a larger force."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And it goes without saying that a direct assault on the rather substantial main gates would be ill-advised."
+    },
+    {
+      "character": "M'naago",
+      "text_en": "I think I might know someone who can help."
+    },
+    {
+      "character": "M'naago",
+      "text_en": "One of my men. He had an idea about how to get into the city—Actually, it might be best if I let him explain it himself."
+    },
+    {
+      "character": "Cynical Youth",
+      "text_en": "It's been a while. I'll not take offense if you don't remember. Might even be glad of it."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "...Ala Gannha, am I right?"
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "Aye. Wiscar's the name. I was raised in the Peaks, but my mum grew up in the city."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "Er...anyroad, I reckon we can get inside the Ala Mhigan Quarter by way of Loch Seld."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "What? How?"
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "It was a story my mum told us which made me think of it. She was always going on about what life was like when she was a girl, see....how they used to have to boil water from the well before they could drink it, since it was full of salt—"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "They were drawing saltwater from the lochs! Which means that there must be an underwater tunnel or something."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "Aye, that's it. But it won't be as simple as going for a swim."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "The well was closed, see. Apparently, Theodoric decided one day he wanted to control the water supply and forbade water trading. So even if yo come up through it, you'll find yourself on the wrong side of a locked gate."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "At the time, my grandfather being an enterprising sort, befriended a guard and lifted the key from his belt. He made a copy and carried on selling water until the imperials invaded, and he ended up working at the Saltery..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In short, we need your grandfather's key. Assuming he still has it."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "I'm certain he does. And I can take you to him. But it'll be dangerous."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Don't you worry abut that. We're used to dangerous."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Naago and Arenvald will assemble a squadron while the rest of us go and get that key."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "If there's a chance we can rescue Krile, I want to be involved. I owe her that much."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hold on, Krile. We're coming..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Had I judged it possible to rescue her myself, I would have. But there were too many guards; too many ways it could have ended badly. I knew at once I would need your help."
+    },
+    {
+      "character": "M'naago",
+      "text_en": "Meffrid told me about your time in Ala Gannha—how a certain someone gave you a piece of his mind when you first met. Try not to hold it against him."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "We couldn'tve had more than a few days' training when the Imperials attacked the Reach, but I've seen my share of combat since! I may be no hero like you, but I can hold my own against imperial regulars—you'll see!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Let's not waste any more time, then, shall we?"
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "My mum said Grandad kept the key with him at all times as a lucky charm. If he hasn't got it, then, well..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Then we'll cross that bridge when we come to it. Ready, Forename ? We may have to deal with a few imperial patrols, or worse..."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "The Saltery's not far. Follow me!"
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "We're here, but...this isn't right. Where is everyone?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Word of the Alliance's advance has surely reached their ears. Mayhap they sought refuge elsewhere? We should search the buildings for clues."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "Please be alright..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There has to be a clue somewhere around here..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "They must have gone to ground, but where..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "All right, which one of you triggered the obvious trap!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "On your guard! Magitek drones approaching!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Mayhap...half a dozen? Forename ─keep Wiscar alive, would you?"
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "Seven hells! I could do with some help here!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Now then, where were we? Ah, yes, looking for clues as to the whereabouts of our erstwhile water merchant and his key..."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "The Sali Monastery! That's to the south. I'll lead the way!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Not after that ambush you won't! It's too dangerous! Forename , we'll follow you. Keep your eyes peeled for more magitek!"
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "The monastery is just past that gate. Keep going!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Hm. Something tall, dark and imperial appears to be blocking the entrance."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "Gods dammit ! I don't think there's a way round..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Then we'll just have to go through him!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Look! I think those two devices are shield generators!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I will keep the machine occupied. Forename , be a darling and destroy the generators before it rips my head off."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis done! See how it falters! Belabor the brute!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "He won't be getting up after that! Now, let's find our man!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ugh, that will leave a mark..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Confound it..."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "Just when I was getting the hang of it..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "You've ruined everything..."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "This is it. This is the monastery. They have to be around here somewhere..."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "Watt! Watt! it's me, Wiscar! Your grandson!"
+    },
+    {
+      "character": "Watt",
+      "text_en": "...Wiscar? By Rhalgr, is that really you?"
+    },
+    {
+      "character": "Watt",
+      "text_en": "...Oh, it's good to see you alive and well, lad! But who are these other ones?"
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "The Resistance, Grandad. My, er...comrades-in-arms."
+    },
+    {
+      "character": "Watt",
+      "text_en": "She told you all about me thumbing my nose at the mad king, did she? Heh. Daft sods never caught me neither..."
+    },
+    {
+      "character": "Watt",
+      "text_en": "It wasn't much, but it was my way of rebelling against his rule. Glad to see you've got higher aspirations. Here—make our family proud."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "I will, I swear! Rhalgr as my witness!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The revolutionary spirit runs in the family, I see."
+    },
+    {
+      "character": "Wiscar",
+      "text_en": "I'll make him proud. I'll make them all proud!"
+    },
+    {
+      "character": "Watt",
+      "text_en": "If I were ten years younger...but I'm not. Look after my grandson."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We should go. Arenvald and the others are waiting."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "I was worried when he wasn't at the Saltery. But we found him in the end."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Now that we've got the key, it's time to find that underwater tunnel!"
+    }
+  ]
+}

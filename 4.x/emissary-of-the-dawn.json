@@ -1,0 +1,352 @@
+{
+  "id": "emissary-of-the-dawn",
+  "wiki_path": "/wiki/Emissary_of_the_Dawn",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/7/77/Emissary_of_the_Dawn_Image.png/280px-Emissary_of_the_Dawn_Image.png",
+  "patch": "4.3",
+  "title_en": "Emissary of the Dawn",
+  "level": "70",
+  "location": "The Rising Stones(X:6.1,Y:5.8)",
+  "npc_start": "Alisaie",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "Alphinaud will have need of all his wits if he is to survive his visit to Garlemald. We know precious little about life in the imperial capital."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's been an eventful few days, hasn't it. But I suppose all we can do now is wait for word from Alphinaud."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hmph. I don't recall the last time I had nothing pressing to be getting on with... We should probably make the most of it. Shall I put on some tea?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Tea would be lovely. You may regale me with the tale of your adventures in the Far East─and of your encounter with this new primal especially."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll put the kettle on, then. That table looks free if you'd like to take a seat."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll take care of the tea─you can claim us a table."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is pronounced “Tsu-ku-yo-mi,” correct? A figure from Far Eastern mythology, no doubt..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...Interesting. So this Tsukuyomi was summoned in much the same manner as Susano─via the medium of a sacred relic."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That's right. They believe their gods─or kami─reside in physical objects."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Given the danger they represent, it may behoove us to begin a catalog of such relics. But if we are to contain the threat, we will require a better understanding of the summoning method itself. I believe I shall pay a visit to Doma, and learn what I can on the subject."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A fine idea. And I know for a fact that our friends in Doma would be grateful for any information which could help to prevent further summoning in the region."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I will pen you a letter of introduction─Lord Hien will wish to welcome our resident expert on aetherology."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Greetings! Could it be that I'm in time for tea?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It certainly looks that way. Come on─sit down and tell us how your investigations went."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "After you left, I went about questioning Bloodhowe's gravekeepers. They all told much the same story: once Lyse and her officers had confirmed Zenos dead, his corpse was interred under strict supervision."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "There seems little reason to doubt their testimony on that point, but when I mentioned the defacement of Zenos's grave, accounts grew rather more vague."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "None reported having seen any suspicious persons in the vicinity, and all assumed the act to have been perpetrated by a vengeful Ala Mhigan. Crucially, however, I was able to confirm that when the offending scrawl was removed, as per Lyse's instruction, no one involved thought to check the contents of the coffin. By that stage, 'tis like that the corpse was already missing."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Assuming Zenos has not, in fact, risen from the dead, we are left with two possibilities: either the body was disposed of to lend credence to the claims of an extremely committed impostor, or an Ascian has taken up residence within it."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If Asahi was as fervent a devotee as you believe, he would not have been fooled by an impersonation, however committed. We must assume that we are dealing with an Ascian, and proceed accordingly."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Agreed. The question is, how many more such monsters are waiting for Alphinaud in Garlemald?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Their presence was his chief reason for going. He understood the risks. I only hope he did not underestimate the extent of the infestation..."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Master Alphinaud, we are making good speed towards our destination. Is aught amiss?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Nay, 'tis just...I can see naught from my cabin, and was curious to know the land over which we flew."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Ah. I am afraid our military craft are built with little thought for such niceties. I am happy to indulge your curiosity, however. We are presently passing over the Burn on the western edge of Othard. Even with the benefit of a porthole, your gaze would have been greeted with naught but malms upon malms of lifeless earth."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I have read something of the Burn. It was described as a desolate wasteland, bled dry of every last drop of aether..."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Aye. It is believed that a succession of eikon summonings was responsible."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "When Emperor Solus first came to Othard and beheld this blight, he is said to have reeled at the scale of the devastation. He declared eikons a threat to our very star's existence, and issued an Empire-wide decree ordering the eradication of all such entities."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Hngh! Report!"
+    },
+    {
+      "character": "Imperial Pilot",
+      "text_en": "We're under attack, sir! Magitek armor─no visible designation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Magitek!? But who─?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aaah!"
+    },
+    {
+      "character": "Maxima",
+      "text_en": "All cannons, return fire! Damage report!"
+    },
+    {
+      "character": "Imperial Pilot",
+      "text_en": "The main reactor's been hit! Helm unresponsive! We're going down, sir!"
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Damn it! They knew exactly where to hit us. All hands─brace for impact!"
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Glad to have you back, Master Alphinaud. We have landed in one piece─more or less."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "But the air filtration system is damaged, and the ship is filling with smoke. We must gather the survivors and get out while we still can."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye... Aye."
+    },
+    {
+      "character": "Maxima the Neoteric",
+      "text_en": "Master Alphinaud, might I ask you to search for survivors? I will see to our injured helmsmen."
+    },
+    {
+      "character": "Wounded Popularis",
+      "text_en": "My thanks... I don't think I would have made it..."
+    },
+    {
+      "character": "Maxima the Neoteric",
+      "text_en": "Yes, you very likely saved his life. The question of who would try to take it remains, however..."
+    },
+    {
+      "character": "Hostile Commander",
+      "text_en": "Put these last few out of their misery. The prince wishes none left alive!"
+    },
+    {
+      "character": "Maxima the Neoteric",
+      "text_en": "The prince...!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They've not come to parley, I fear... Ready your weapons!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Confound it! Not here. Not like this!"
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Wha─? Who in the Emperor's name─?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Enemies of our enemies. Introductions can wait!"
+    },
+    {
+      "character": "Maxima",
+      "text_en": "You are calm in a crisis, Master Alphinaud. Let us finish this, then!"
+    },
+    {
+      "character": "Hostile Stranger",
+      "text_en": "By the emperor, that man is a fiend! Cross formation! Deploy restraints!"
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "Bah! A child's trick!"
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "Gaaarrrggghhh!"
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "My thanks, boy!"
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "Down with you!"
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "You are mine!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "My thanks. Your intervention proved most timely."
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "Well, well... I did not think to meet an Eorzean in this place, let alone a Scion."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You know of me, sir?"
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "I have some small...history with your order."
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "But I would speak of the present. Know you your assailants? And the severity of your predicament?"
+    },
+    {
+      "character": "Maxima",
+      "text_en": "The soldiers bore the insignia of the Emperor's personal guard..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And I could venture a guess as to their motive. But you yet have us at a disadvantage, sir─will you not tell us who you are?"
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "Our names are not yours for the asking. And as for our purpose...let this be your answer."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "An Ascian mask!"
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "The face of our prey."
+    },
+    {
+      "character": "Menacing Mercenary",
+      "text_en": "We must away before more arrive. Come with us or stay, but make your choice now."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Even should we manage the long trek out of the Burn and secure passage to the capital, we would no doubt be greeted by the Emperor's guard..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. We accept your gracious offer, uh..."
+    },
+    {
+      "character": "Shadowhunter",
+      "text_en": "“Shadowhunter” will suffice for the present."
+    },
+    {
+      "character": "Shadowhunter",
+      "text_en": "Come."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ugh, this is intolerable. But as much as I wish it were otherwise, there is nothing we can do for Alphinaud now but pray for his success."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well...that is not entirely true."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "While your brother journeys to Garlemald from the east, I could make my way there from Ala Mhigo and find out what there is to be learned in the Empire's western provinces."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then I'm coming with you! I can't very well sit here sipping tea if there's action to be taken!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Forgive me, Alisaie, but the provinces are hostile territory, and stealth is all important. It is safer that I go alone."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I can sneak well enough when the situation demands it! Don't patronize me!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Not you too."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I understand your frustration, Alisaie, but Forename has the right of it. We must defer to Thancred's expertise in this matter."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And how exactly would that be any better?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ahem. I must refuse your company as well, my friend. Formidable though you are, the success of my mission depends on moving unnoticed, and lest you forget, you have grown rather famous . I trust you understand..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "<sigh> ...Fine. Just promise you'll be careful."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, I had best put on my skulking boots. There will be no room for mistakes once I've crossed the border from Ala Mhigo."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Alisaie and her brother bicker as all siblings do, but she worries for him nonetheless. 'Twould be a kindness if you were to visit from time to time, and distract her from her cares."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It seems that praying is to be the extent of my contribution after all. ...But I will stay behind, as I have been bid."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We all have our talents. Mine just happen to involve a silver tongue and soft soles. I promise to send word the moment I learn aught of consequence."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "See that you notify me too. I mean to depart for Doma as soon as I find a suitable East Aldenard vessel to bear me thither, but I shall return if I am needed."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Be sure to drop in whenever you're next in the area, Forename . With any luck, I'll have a painfully detailed report from Alphinaud to share."
+    }
+  ]
+}

@@ -1,0 +1,856 @@
+{
+  "id": "in-from-the-cold",
+  "wiki_path": "/wiki/In_from_the_Cold",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "In from the Cold",
+  "level": "83",
+  "location": "Garlemald(X:14.4,Y:29.8)",
+  "npc_start": "Lucia",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "I see that you're still standing. Might I convince you to sit down? ...No, I thought not."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I assume you're curious about how matters have progressed here in your absence. Quite well, as it happens."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Now that we've procured ceruleum from Tapper's Den, the recently repaired heaters can provide much-needed warmth."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Furthermore, we've prepared sufficient food for everyone. Those from Tertium shall find a hot meal waiting upon their arrival."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "There's one for you, so go ahead and get some well-earned rest. I believe that we're capable of wielding a ladle or two without your assistance."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "On your way, might I ask you to seek out Y'shtola? She was but recently attending to the wounded, but she's meant to be taking a rest herself. See that she is."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Were it not for you, Alphinaud, and Alisaie, the people of Tertium may well have perished. Though they may not realize it yet, they owe you their lives."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "It's no use taking in all these Garleans if we're going to let them freeze to death. We need heat, for goodness' sake! I knew I should've brought more warming tinctures!"
+    },
+    {
+      "character": "Sicard",
+      "text_en": "More people at the camp means more bodies to keep warm."
+    },
+    {
+      "character": "Sicard",
+      "text_en": "The smiths've been scramblin' to get enough heatin' for everyone, and we've got people searchin' for firewood, in case it comes to that."
+    },
+    {
+      "character": "Stephanivien",
+      "text_en": "We shall have the heaters ready before long. With the problem of this dreadful cold addressed, I imagine demeanors may change for the better."
+    },
+    {
+      "character": "Stephanivien",
+      "text_en": "I plan to make heaters enough for not only the camp, but for those who have chosen to remain in the station as well."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yes, yes, I have been taking proper breaks and imbibing sufficient water. But what of the Warrior of Light? You and the twins have an established history of reckless disregard for your own well-being."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We're all fortunate that none of you landed yourselves in my care. I've already quite enough to deal with, between the tempered and the Ist's wounded."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Alas, though I can mend their bodies, the toll their experiences have taken on their hearts and minds is another matter altogether."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For their sakes, we mustn't waver ─ but nor must we rush ahead in eagerness to see the day won, and in so doing invite disaster..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Is that all of them?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The last of those who agreed to join us, yes."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We left heaters and provisions for those who wished to stay behind. They won't last forever, but hopefully they'll last long enough."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "For now, I think everyone's earned a rest."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll see to those in need of medical attention, so take the others with you and get yourselves some hot soup."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Warmth, at last..."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Marvelous, isn't it?"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "All thanks to the resourceful machinists of Ishgard, I might add. On their behalf, I bid you warm yourself to your heart's content!"
+    },
+    {
+      "character": "Sicard",
+      "text_en": "Hold on. Your people might've scribbled a few things on a piece of parchment, but it was our Lominsan smiths that put the bloody things together."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Well, be that as it may...we single-handedly got the interior heating up and running again, didn't we?"
+    },
+    {
+      "character": "Sicard",
+      "text_en": "The hells you did! We were there every step of the way!"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "“We”!? You barely raised a finger to help, you ale-sodden reprobate!"
+    },
+    {
+      "character": "Sicard",
+      "text_en": "I did a damn sight more than you, you lily-livered bilge rat!"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Take that back!"
+    },
+    {
+      "character": "Sicard",
+      "text_en": "Make me."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "I will not stoop to your level!"
+    },
+    {
+      "character": "Resistance Delegate",
+      "text_en": "Here."
+    },
+    {
+      "character": "Resistance Delegate",
+      "text_en": "At ease, man. There's nothing funny in it."
+    },
+    {
+      "character": "Resistance Delegate",
+      "text_en": "I'm from Ala Mhigo, but was a conscript until recently. Used to eat this with the officers."
+    },
+    {
+      "character": "Immortal Flames Delegate",
+      "text_en": "Apparently, it's adapted from a Steppe recipe. This is my first time trying it, and I have to say it's not half bad."
+    },
+    {
+      "character": "Twin Adders Delegate",
+      "text_en": "Hmm... It's a bit too flavorful for my liking..."
+    },
+    {
+      "character": "Immortal Flames Delegate",
+      "text_en": "Perhaps compared to what you're used to."
+    },
+    {
+      "character": "Resistance Delegate",
+      "text_en": "It's the little things that make life worth living, don't you think?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I know this is not a dream, and yet..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I felt the same way at the Dragonsong War's end. Every morning I would step outside and need to be reminded that it wasn't my imagination. That my world had been forever changed."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "And just as I had grown accustomed to the idea, again you change my world in ways I never thought possible."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Were it not for you and your fellow Scions, the rifts between man and dragon and myriad tribes might never have been bridged."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "The Grand Company of Eorzea, the Ilsabard contingent... We owe it all to you."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "We've shed many tears in recent days. Of pain and sorrow. Triumph and joy. I much prefer the latter."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I am honoured to fight by your side. As an Eorzean and Garlean both, I shall do all in my power to bring my peoples together."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Indeed. We can but do our utmost to unite these disparate peoples and lead them to victory."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "It is a remarkable achievement ─ everything that I and the Populares had hoped for and more."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Would that it had come sooner."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Indeed. Too many are not here to see it. And yet...there is a warmth in my breast. As if they still share in this moment."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Yes. I know what you mean."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "On a night like tonight, the wind and cold seem to pass me by."
+    },
+    {
+      "character": "Radio",
+      "text_en": "We...have gained the power...take back...rightfully ours."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "What? Emperor Varis?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "They are being tempered! The talismans ─ quickly!"
+    },
+    {
+      "character": "???",
+      "text_en": "Save me, brave hero!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Ahem! My lord has requested your presence, and I would hate to disappoint him..."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "The experiment was a success, but I fear our time is short."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "I shall begin the preparations."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Now...it is time for you to awaken."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Good morrow to you. Here—have a taste before it gets cold."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Oh, but be sure to remove your helmet. Take a moment, too, to familiarize yourself with that borrowed flesh."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "So? How does it feel? I, for one, find those first moments within a new body to be most refreshing!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "We had a magitek engineer by the name of Aulus to thank for this method of soul extraction and implantation. I believe the two of you met briefly in Ala Mhigo?"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "His was a rather sticky end, wasn't it? Thankfully, he was thoughtful enough to leave behind his mindjack technology. I took the liberty of making some improvements ─ and selecting you as my esteemed test subject."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "And permit you to go on a righteous rampage instead of partaking in this delicious meal? I think not."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Come now, to us Ascians, it is no different from trying on new clothes. Why not make the most of it by partaking in this fine cuisine?"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "I must say, I have gone to great lengths to reunite you with my lord."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "When I discovered that his “friend” was in this neck of the woods, I suggested inviting you over for dinner."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "He never deigned to respond, but I took his silence as a resounding yes!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Oh my! Daddy is pleased his grumpy little boy has finally found his playmate!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Ah. Exposition is in order."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "The Garlean Empire has long outlawed all forms of religion. No gods to worship, no risk of summoning. Brilliantly simple."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "But people, being people, must turn to something or someone in their hour of need. Who, then?"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Why, His Radiance the Emperor, of course."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "As you have observed firsthand, Garlemald has seen better days. The legendary Solus zos Galvus ─ dead. Provinces near and far ─ in open rebellion. Our bold new Emperor ─ assassinated! And that last one even sparked a civil war! What rotten luck."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "The people cried out for salvation, their earnest pleas ─ one might even call them prayers ─ a supplication united for the Empire to reclaim her former glory."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "And so their will did manifest, channeled through the corpse of none other than Emperor Varis himself!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "And lo, the savior was born! The embodiment of the Garlean spirit, their Anima!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "It calls to its subjects, compelling them to take up arms and fight."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "And just as the wealth and power gravitate towards the Empire's capital, so too does aether, from every corner of the globe!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "The towers with which you and your allies have been so preoccupied were created as an extension of Anima itself. An ingenious design..."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Would you not agree, my lord?"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Does the pursuit of prey you have bested before excite you?"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Of course not. Absent the challenge, the thrill, your prize is a hollow victory. Butchery."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Perhaps you think that to be the extent of my promise. I have no doubt fallen in your estimation since Ala Mhigo."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Fair enough. But do not let your disdain deprive you ─ deprive us ─ of an opportunity to craft an even more majestic moment of euphoria."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "I have been honing my craft as I set the stage for our reunion."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Wheresoever there is suffering and despair, you appear, to fulfill your duty as defender of this star."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "The chaos and destruction that my hordes have wrought...are my gifts to you alone."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "At a loss for words? No matter. As you will learn, I have only just begun."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Oh? Will you not finish your meal?"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "There is only one thing that can sate my hunger, and it would seem my friend has lost his / her appetite."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "I hoped this display of civility might prove an entertaining diversion, but clearly we are above such pretensions."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "While my lifeless body was in the possession of the Ascian, I too claimed another's as my own."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "It was an enlightening experience, to fight in an unfamiliar form. Flaws and failings in my technique were plain to see."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Whence rises one's true strength? The flesh? The soul? Perhaps you should like to discover the answer for yourself."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Or...together."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Oh dear! Whatever would happen if my lord were to greet your friends as you? I shudder to imagine what carnage he would wreak!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "We'd better hurry if we want to avert the bloodbath. You can thank me later for my generosity."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Ah, there it is. Your camp, I believe."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "If I were to hazard a guess, I would say that you ─ the other you ─ is making his / her way there as we speak."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Alas, this you will have to walk from here. Or run, if you can manage it. My lord would be cross if I made it too easy."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Such ingratitude. I'd not squander this fighting chance. After all, you've obstacles enough to overcome ─ right on cue!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Tempered soldiers, with standing orders to kill those not sworn to Anima."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Under normal circumstances you would make short work of them. But on this occasion, the odds are not so heavily stacked in your favor."
+    },
+    {
+      "character": "Fanfaniel (text bubble)",
+      "text_en": "Quickly now!"
+    },
+    {
+      "character": "Fanfaniel (text bubble)",
+      "text_en": "Come along!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Time to familiarize yourself with that new body... Might I suggest a little fight to the death?"
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Glory...be..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Glory be...to Garlemald..."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Not bad at all, given your diminished capacity!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Nevertheless, 'twould perhaps be prudent to keep to the shadows..."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "...Scurrying about like a rodent!"
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Grrrnnnh..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Unnnh...Ungggh..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Find... Kill..."
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Must kill... Kill them all..."
+    },
+    {
+      "character": "Magitek Death Claw or Magitek Slasher",
+      "text_en": "Scanning for targets... Scanning for targets..."
+    },
+    {
+      "character": "Magitek Death Claw or Magitek Slasher",
+      "text_en": "Intruder detected... Intruder detected..."
+    },
+    {
+      "character": "Wounded Imperial",
+      "text_en": "Pssst! Over here!"
+    },
+    {
+      "character": "Wounded Imperial",
+      "text_en": "I'm inside this building. Come quickly!"
+    },
+    {
+      "character": "Wounded Imperial (text bubble)",
+      "text_en": "Ungh...Someone, help..."
+    },
+    {
+      "character": "Wounded Imperial",
+      "text_en": "You've not been turned? Thank goodness... I thought I was the only one left."
+    },
+    {
+      "character": "Wounded Imperial",
+      "text_en": "Ungh...the bastards got my hand when they took down my magitek reaper. If you can repair its leg, though, it should still work. Here, take this key."
+    },
+    {
+      "character": "Wounded Imperial",
+      "text_en": "If it's run out of ceruleum, you might be able to find more in the wreckage."
+    },
+    {
+      "character": "Wounded Imperial",
+      "text_en": "If I had the use of my hand, I might've stood a chance out there. Please, send help if you can!"
+    },
+    {
+      "character": "Wounded Imperial",
+      "text_en": "As for me, I've got no choice but to wait for help to arrive. If you find any of my comrades...let them know where I am, would you?"
+    },
+    {
+      "character": "Magitek Slasher (text bubble)",
+      "text_en": "Requesting reinforcements... Requesting reinforcements..."
+    },
+    {
+      "character": "Magitek Slasher (text bubble)",
+      "text_en": "Warning! Warning!"
+    },
+    {
+      "character": "Magitek Slasher (text bubble)",
+      "text_en": "Intruder detected... Intruder detected..."
+    },
+    {
+      "character": "Armed Imperial Citizen A",
+      "text_en": "You there! Please, help us!"
+    },
+    {
+      "character": "Armed Imperial Citizen A (text bubble)",
+      "text_en": "This way!"
+    },
+    {
+      "character": "Armed Imperial Citizen B (text bubble)",
+      "text_en": "You're one of us, right? We need your help!"
+    },
+    {
+      "character": "Armed Imperial Citizen B (text bubble)",
+      "text_en": "We'll make it out of this—together!"
+    },
+    {
+      "character": "Armed Imperial Citizen C (text bubble)",
+      "text_en": "We owe you one!"
+    },
+    {
+      "character": "Armed Imperial Citizen C (text bubble)",
+      "text_en": "Is everyone all right?"
+    },
+    {
+      "character": "Armed Imperial Citizen D (text bubble)",
+      "text_en": "Thanks, stranger!"
+    },
+    {
+      "character": "Armed Imperial Citizen D (text bubble)",
+      "text_en": "We have to get back to the shelter!"
+    },
+    {
+      "character": "Tempered Imperial (text bubble)",
+      "text_en": "Unnnh... Ungggh..."
+    },
+    {
+      "character": "Armed Imperial Citizen",
+      "text_en": "What was that voice...? They've found us—get ready!"
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Aieee!"
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Gah!"
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Aaagh!"
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Ungggh!"
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Ack!"
+    },
+    {
+      "character": "Armed Imperial Citizen",
+      "text_en": "It's going to explode! Get behind the armor!"
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Agh! The machina's done for!"
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "I can't die here..."
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Mother...forgive me..."
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Damn it..."
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "Take...the fuel..."
+    },
+    {
+      "character": "Armed Imperial Citizens (text bubble)",
+      "text_en": "What a way to go..."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "What a shame! You were too slow to keep my lord from your friends. Let the slaughter begin!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is a miracle we were able to restrain the tempered without suffering casualties."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "A welcome one. A-Ruhn-Senna and the others have their hands full as it is. Thankfully, there are enough scales for everyone."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And what of Jullus? His symptoms were particularly severe."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "They were, but others fared still worse, including some brought back from the Magna Glacies."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "As those in most desperate need take priority, it may be a while before he receives treatment."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "But rest assured that he will. In the meantime, we must find our missing friend. May the Fury guide you."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Of all the bloody times for a disappearing act..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Right when the first wave struck. We'd be fools to think it a coincidence."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But where even to begin the search? No one saw him / her leave in the chaos, and we've no trail to follow."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While I know full well he / she can handle himself / herself , I worry all the same."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah. Speak of the devil..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well! Time to call off the search!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Hmph. Case closed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That's him / her ? Over there?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Aye, 'twould appear so. Thou art struggling to perceive his / her presence?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am. Perhaps, in the aftermath of the wave, there is some residual effect interfering with my faculties, but..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Where have you been? We've been worried sick!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Now, now, all's well that ends well. Are you all right?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you all right?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "...Who are you?"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Sadly, that is all we have time for today. The effect has run its course, and back to your own bodies you must go."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "But where are my manners? You have all traveled so very far, and I have yet to pay my respects."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Though in my defense, I was ill prepared to receive so many uninvited guests. As such, preliminary entertainments were in order."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "A handful of tempered soldiers to hamper your progress. Refugees to command your attention while I siphoned their ceruleum from the shadows ─ particularly effective, that."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Charitable souls that you are, you bent over backwards to aid them, heedless of the delay. Predictable to a fault! And so my plan approaches completion unhindered."
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "Anima will soon have absorbed the requisite amount of aether, and then shall come the spectacle to end all spectacles!"
+    },
+    {
+      "character": "Fandaniel",
+      "text_en": "The eldest and most powerful of primals will awaken, and all shall bear witness to the Final Days!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "The gods themselves will be my meal. Your dear companions my dessert. Upon this world I'll feast, and death shall follow in my wake."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "All your hate, all your rage, you will render unto me."
+    },
+    {
+      "character": "Vrtra (recalled)",
+      "text_en": "For upon thy life's reel wind too many threads. Of fate. Power. Weal, enmeshed with woe."
+    },
+    {
+      "character": "Vrtra (recalled)",
+      "text_en": "More terrible still is the attrition wrought upon thy companions, as they are swept up in the storm of thine existence."
+    },
+    {
+      "character": "Vrtra (recalled)",
+      "text_en": "Take heart and protect them well. They will be your strength and your salvation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank goodness. He's / She's awake!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Perfectly fine, yes. I hope the same can be said of you."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I am pleased to report you are very much alive."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Everything in working order?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That's a relief. Oh, and before I forget: thanks for coming to our rescue."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Given recent events, I would be surprised if you weren't feeling a bit poorly."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A hearty meal and a long rest would be my recommendation under normal circumstances, but these are anything but. If Fandaniel's boasts are to be believed, we must act quickly."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Once you've blown away the cobwebs, we can discuss preparations for our assault on the Tower of Babil."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I will require a detailed report on what occurred whilst you were...not yourself. For the contingent, of course."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "It can wait until later, however. For now, it's enough that you've returned."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "The body that you were forced to inhabit turned cold and stiff the moment you were returned to your own. Perhaps the soul it belonged to is long gone..."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Let us pray it is so, for I doubt it would be better off in the care of Zenos or Fandaniel."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Thank heavens you're you again. Gave me quite a fright."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Whatever that was, let's not do it again, eh?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Full glad am I to see thee awake and restored to thine own flesh once more."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No apologies necessary, least of all to me. If anything, there's a strange comfort in knowing I'm no longer the only one to have been used as a villain's puppet. Though I pray you'll be the last..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Hm, yes...'tis still you..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My apologies ─ I realized too late that the aether emanating from the tower was distorting my perception. 'Twas likely a temporary effect, but I remain wary."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Are you certain that you've recovered? You mustn't push yourself, especially after an experience like that."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're certain you're well? Nothing out of place? No missing bits?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Good. Though I won't promise the same for Fandaniel and Zenos after I'm through with them..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How much must these people suffer before they're satisfied?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How many cruel, pointless tricks must they play?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Prelude to the Final Days or no, this ends now!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So, how shall we strike them down?"
+    }
+  ]
+}

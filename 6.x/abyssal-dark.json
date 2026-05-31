@@ -1,0 +1,484 @@
+{
+  "id": "abyssal-dark",
+  "wiki_path": "/wiki/Abyssal_Dark",
+  "wiki_image_url": null,
+  "patch": "6.4",
+  "title_en": "Abyssal Dark",
+  "level": "90",
+  "location": "The Red Moon(X:5.8,Y:2.7)",
+  "npc_start": "Zero",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "A place Golbez visits without fail... If there were some distortion in the ambient aether, I would be able to find it with ease..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "'Tis a comfort to see that Azdaja's spirit remains unbroken. Let's find this mystery location Golbez so favors."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "We must do no less than defeat Golbez in order to free my sister. Make sure thou art prepared for anything."
+    },
+    {
+      "character": "Zero",
+      "text_en": "The others have already begun searching for clues. Let us do the same."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I'll take charge of this area. If you could see to the south."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Leave this area to me and see to the south."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have only performed a cursory search, but I doubt there is anything of note further west. Perhaps you could try looking to the southeast."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Nothing here... Mayhap further south, then?"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "I could not discern a structure of any kind from above. Whatever this place or object might be, Golbez hath hidden it well."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Did you find something?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "A memoria. But whose...?"
+    },
+    {
+      "character": "Durante",
+      "text_en": "You have lied, pillaged, and murdered. Have you anything to say in your defense?"
+    },
+    {
+      "character": "Depraved Memoriate",
+      "text_en": "No. Every one of them got what they deserved. Trusting fools."
+    },
+    {
+      "character": "Depraved Memoriate",
+      "text_en": "Like you would-be heroes. Aye, you'd do well to keep a close eye on each other."
+    },
+    {
+      "character": "Depraved Memoriate",
+      "text_en": "It always ends the same way. A knife in the back. And better to have the handle towards your hand."
+    },
+    {
+      "character": "Depraved Memoriate",
+      "text_en": "You'll see... Oh yes, you will..."
+    },
+    {
+      "character": "???",
+      "text_en": "...In death, may your soul find salvation."
+    },
+    {
+      "character": "Durante",
+      "text_en": "I can't bring myself to pray for the unrepentant. You're a nobler man than I."
+    },
+    {
+      "character": "???",
+      "text_en": "Come now. We are all shaped by these dark times more than we would care to admit."
+    },
+    {
+      "character": "???",
+      "text_en": "I choose to believe that, had these men known peace and plenty, they would not have been consumed by mistrust and avarice."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Victims of the Contramemoria then, like so many others. But we will end it."
+    },
+    {
+      "character": "Relieved Villager",
+      "text_en": "Thank you. I shudder to imagine what might have happened if you hadn't dealt with the dark ones."
+    },
+    {
+      "character": "???",
+      "text_en": "...Who is that?"
+    },
+    {
+      "character": "Relieved Villager",
+      "text_en": "Oh, her. She's like you, I hear. Hunts memoriates taken by Darkness."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Well, well, a kindred spirit. Perhaps we will finally have a new comrade."
+    },
+    {
+      "character": "Zero",
+      "text_en": "No. I've no interest in working with others, much less someone who looks as suspicious as you."
+    },
+    {
+      "character": "???",
+      "text_en": "Is that so..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "...If there's nothing else, I'll be on my way."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Even when we share the same goal, we can't overcome the mistrust. Such is the way of things─the “wisdom” of our era..."
+    },
+    {
+      "character": "???",
+      "text_en": "Only a precious few memoriates remain who cling to the Light. Would that we could have won her over..."
+    },
+    {
+      "character": "Durante",
+      "text_en": "We'll make do, old friend. We have accomplished much already, and another person may well have been more of a hindrance than help."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Now then, our work here is finished."
+    },
+    {
+      "character": "Durante",
+      "text_en": "His Majesty has summoned us, so let us not delay. To Baron!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Had another vision of the past, did you?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "...What? I was in it!?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "It's them─the pair I met in that village. Which means the one sealed in this memoria is..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "So, you have come. You who would oppose our crusade..."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Sister!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "You... I know you."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Is that so? From the world before, I daresay."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "'Tis impressive enough that you have managed to retain your mortal form, but to remember your past besides..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "But that is of no moment. You are the memoriate who vanquished my minions, correct?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "And what if I am?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Then I would bid you join me. As a child of our world and slave to the wheel, fight with me for the salvation of all our souls."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Fight with you? More like fight as your pawn."
+    },
+    {
+      "character": "Zero",
+      "text_en": "It isn't me you want, but my power. And if I don't obey, you'll bind me like you bound that dragon."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But no more. I refuse to be bound ever again. I fight only for myself, and for those in whom I trust. My friends."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I see. A pity."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "It is for the dragon that you have come, yes?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "When first you appeared, I thought simply to remove a threat to our plan."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Never did I imagine that you would reach this place, and gift me a golden opportunity!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Speak plainly, gaoler."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Long as it has been imprisoned, this dragon has grown feeble and weak, its spirit extinguished."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Your coming has served to rekindle her forgotten hope."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Her yearning to be free─to return home! That is the key to our deliverance!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Azdaja! No!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Darkness is ravaging her! She's becoming a voidsent!"
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "Vrtra... Thou must flee!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Rise, O Shadow Dragon, and obey!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Kill him."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Sister, please!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Damn you!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Keep our guests occupied."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Save her, I beg thee... Save my sister..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Before Darkness swallowed the world, I fought tirelessly in a war without end."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "The experience taught me to discern the strong. That dragon...and you."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Come. Face me."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Accursed Light..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You who have ever basked in its warmth could never understand our envy! Our agony!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You will not deny us our release!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "If you would oppose our crusade, then come!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "But know that none shall deny us salvation."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "This place shall be your tomb!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I will free us from the wheel!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Ware my rime-kissed blades!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I will suffer no obstacles!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "No matter the foe, I will stay the course..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Let lightning surge!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Such is your power?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Come forth, my servant of shadow!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "With abyssal dark and hero's blade, I bring my people liberation!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You shall know true terror!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Dragon! Hear me and obey!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Crush them!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Bathe them in black flame!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "My meteors will extinguish your Light!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "A raging gale to rend you asunder!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Look to the heavens for your doom!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You wretch!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Begone!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Render unto me your all!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "My power..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Even my blade...So this is the limit of my defiance..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Are you all right!?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "What's happening!?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Hahaha... Ahahahahaha!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "At last, the moment is at hand..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You may have bested me, but not quickly enough. Too late will you look to the chasm."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You've won the battle, but I win the war!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Stop this, I beg of thee! Let her go!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Darkness made manifest once abided in the depths of this abyss. Until, one day, it dispersed in a haze of aether."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "In the absence of the great flow, that aether has nowhere to return."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "And so it has coalesced, giving rise to a mighty voidsent!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Now, feast! Feast upon this dragon, and its ardent longing for home with it!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Nooooooooo!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "From the convergence of ancient and newborn, an entity without equal shall emerge─one who shall tear down the barrier between worlds!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Upon you, who shall deliver us from eternal damnation, I bestow the name of a hero of eld!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Zeromus! Awaken!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "No matter how powerful, a voidsent can be sealed in memoria!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Damn it... It's too strong..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Our warding scales may not hold! Not against a voidsent born of Zodiark's aether!"
+    },
+    {
+      "character": "Vrtra (no text)",
+      "text_en": "Agh!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "We must retreat! Everyone, to me!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "I will return, Sister, and I will save thee. This I swear!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Are we all unharmed?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Curse you, Golbez..."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "...We made it back safely, at least."
+    }
+  ]
+}

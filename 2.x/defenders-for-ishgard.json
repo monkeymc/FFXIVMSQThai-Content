@@ -1,0 +1,192 @@
+{
+  "id": "defenders-for-ishgard",
+  "wiki_path": "/wiki/Defenders_for_Ishgard",
+  "wiki_image_url": null,
+  "patch": "2.55",
+  "title_en": "Defenders for Ishgard",
+  "level": "50",
+  "location": "The Rising Stones(X:6.0,Y:5.2)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "...The envoy is here."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I thank you for receiving me at such short notice. Time is of the essence, so I would forgo the usual pleasantries, if I may."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Certainly. You come with news of the Dravanians?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Aye, the dragons have begun their attack in earnest. The first wave reached the central highlands a short while ago, and battle was joined soon thereafter."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Ser Aymeric himself sallied forth with a contingent of Temple Knights and several companies of the noble houses' finest. Though the beasts were ultimately forced into retreat, our victory─if such it may be called─came at the cost of many of our own. Too many."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "We will not withstand a second wave should the Dravanians renew their assault."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You paint a grim picture, my lady. It is reinforcements you seek, then?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "We do. Though it pricks our pride, it is plain we cannot protect Ishgard with our ranks thus thinned by the Horde. Ser Aymeric would meet with you to discuss the possibility of enlisting your aid."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Very well. I shall depart for Coerthas at once."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I must warn you, however, that the involvement of the Crystal Braves is by no means assured─our commitment to quelling the unrest in Ul'dah must take precedence."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "It is with such contingencies in mind that I must make another request. The Scions of the Seventh Dawn are known for sharing close ties with all three of the Grand Companies of Eorzea. Would you consent to plead our case to their leaders?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Hm. Though I will gladly appeal to the Grand Companies on your behalf, I dare not promise a favorable reply..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "You need say no more. Considering our past dealings with the Eorzean Alliance, I can well imagine how our plea will be received."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "But the fate of Ishgard hangs in the balance. We must explore every avenue still open to us─no matter how unpromising."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I see. Very well. I shall send envoys to each of the allied nations, and have them present your request directly to the heads of the Grand Companies."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "In the event that your plea does receive a favorable answer, know that any support is certain to be conditional. Demands will be made of Ishgard..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "That is only to be expected. Rest assured that I speak with Ser Aymeric's authority in this matter, and that our actions are fully sanctioned by the Holy See."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "...Which brings me to my final request: a personal appeal to you, Warrior of Light. The lord commander much desires to speak with you, regardless of your fellows' involvement."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "You faced Midgardsormr and survived. Anything you can share of your experience may yield us an advantage over our foe."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Thank you. You wear the mantle of hero well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Twould seem the road leads us both to Camp Dragonhead. Seek me out when you arrive, Forename ."
+    },
+    {
+      "character": "Iceheart",
+      "text_en": "The sons must answer for their fathers' misdeeds. Only then will the cycle be broken..."
+    },
+    {
+      "character": "Iceheart",
+      "text_en": "Brothers and sisters of the heavens! We raise our voices and join you in the chorus!"
+    },
+    {
+      "character": "Iceheart",
+      "text_en": "The sinners' feeble magicks are undone! Come! Claim your retribution!"
+    },
+    {
+      "character": "Iceheart",
+      "text_en": "Ahahahahahah!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We have had reports from a number of frontier settlers... 'Twould seem the dragons have come as far as Mor Dhona."
+    },
+    {
+      "character": "Hoary Boulder",
+      "text_en": "The town has been calm through all this talk of war, but if those dragons come to Revenant's Toll there'll be panic aplenty, I'd wager."
+    },
+    {
+      "character": "Coultenent",
+      "text_en": "Should events take a turn for the worse, we are fortunate that this settlement is such a popular crossroads for so many veteran adventurers."
+    },
+    {
+      "character": "Higiri",
+      "text_en": "Though I have never seen on myself, it is said that dragons lair just beyond the borders of my homeland..."
+    },
+    {
+      "character": "F'lhaminn",
+      "text_en": "Considering recent history, will there be any amongst the Alliance willing to aid the Holy See? Ishgard has few friends at the bargaining table..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "If you're looking for the Scions, they've already left for the Alliance nations. I do hope Ishgard will be saved..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It seems I was the swifter, Forename . You too, however, have arrived with time to spare, for our host has yet to make an appearance."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The murmurings about camp tell of some manner of trouble at the Gates of Judgement..."
+    },
+    {
+      "character": "Haurchefant",
+      "text_en": "My dear friend, Forename ! Once more you arrive in our hour of need! Would that we could speak longer, but I'm afraid my duties demand my full attention..."
+    },
+    {
+      "character": "Yaelle",
+      "text_en": "We knights of House Fortemps train nigh without cease for moments such as this. Yet now that one is here, my knees threaten to buckle beneath me..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Mark the nervous glances our friends share..."
+    },
+    {
+      "character": "Tenterhooked Temple Knight",
+      "text_en": "W-We need not fret overmuch─there are yet several layers of arcane protection that shield the city from invasion. Mother will be fine..."
+    },
+    {
+      "character": "Trembling Temple Knight",
+      "text_en": "When I laid eyes upon Lady Iceheart...I felt the marrow freeze within my bones."
+    },
+    {
+      "character": "Bothered Bowman",
+      "text_en": "The Gates of Judgement are much more than mere doors─they are the outermost layer of Ishgard's magical wards. If our first line of defense can be so easily shattered..."
+    },
+    {
+      "character": "Dyspeptic Dragoon",
+      "text_en": "Heretic scum! How dare they meddle with our divine protections! I shall rid our nation of their blasphemy even if it means cutting them down one by one!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Twould seem the heretics struck the first─and most telling─blow against Ishgard..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Scions! We expected you at Camp Dragonhead!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "My apologies. We chanced to hear that there had been trouble at the gates, and thought it prudent to investigate the cause."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Then you have learned of the heretics' treachery. Lady Iceheart led a force of her followers against our defenders, and came close enough to dispel the first of our wards."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "But let us speak more of this back at the camp. Ser Aymeric awaits you..."
+    }
+  ]
+}

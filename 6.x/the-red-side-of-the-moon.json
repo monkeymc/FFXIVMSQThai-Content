@@ -1,0 +1,424 @@
+{
+  "id": "the-red-side-of-the-moon",
+  "wiki_path": "/wiki/The_Red_Side_of_the_Moon",
+  "wiki_image_url": null,
+  "patch": "6.4",
+  "title_en": "The Red Side of the Moon",
+  "level": "90",
+  "location": "Garlemald(X:24.6,Y:9.1)",
+  "npc_start": "Urianger",
+  "dialogues": [
+    {
+      "character": "Zero",
+      "text_en": "Y'shtola, was it?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ah, Forename . We can begin as soon as the others arrive."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Some manner of cactuar attempted to make mischief, but no one came to harm. How did you fare?"
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "With Estinien keeping us safe, we were able to finish repairing the brands without incident!"
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "What aid I lend in restoring the brands is insignificant next to that which you and yours must accomplish."
+    },
+    {
+      "character": "The Watcher",
+      "text_en": "When my part is complete, I shall stand apart and observe, as I have ever done. For it was to you that Venat has entrusted the future."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The brands are ready, I presume? Excellent. With the Loporrits having deployed their supporters, we are ready to proceed."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Let us rejoin Y'shtola posthaste, and prise open our gate unto the void."
+    },
+    {
+      "character": "Zero",
+      "text_en": "This is it..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I have duly informed Y'shtola of our task's completion."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "While you all tend to matters in the Thirteenth, I shall remain here and ensure the integrity of gate and seal both."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My thanks for seeing to the supporters. With this, all is in readiness for the ritual."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "First, I shall give the order to Alphinaud and Alisaie in the Tower of Babil to channel aether to the moon."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Once we have amassed a sufficient amount of energy, Urianger and I shall begin our incantations to open a voidgate."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If all goes well, a tear will form in the fabric of reality, at which point you must activate the brands and put in place the containment seal."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That is all. If there are no questions, then let us begin!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Apologies for the wait. The preparations here are finally complete."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Excellent. The tower too is activated. But give the word, and we will begin channeling the aether."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Very well, then. Make it so."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The moment of truth!"
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "By the Sisters..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Urianger, commence your invocations. 'Tis time to open our gate!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A tear is beginning to form! Quickly, activate the brands!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Success... The gate is open, and the seal appears to be in place..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Let's see how well it holds."
+    },
+    {
+      "character": "Inquisitive Voidsent",
+      "text_en": "What an enormous gate! Lord Golbez will be eager to hear of this!"
+    },
+    {
+      "character": "Inquisitive Voidsent",
+      "text_en": "So this is the promised land... The land of boundless aether!"
+    },
+    {
+      "character": "Inquisitive Voidsent",
+      "text_en": "Arrrgh!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I daresay the seal doth serve its purpose."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "I see all proceedeth apace. Remarkable..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed. Just this moment, a voidsent emerged from the gate─by which we may safely assume it leads to the Thirteenth."
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "It's incredible, Y'shtola! Truly incredible! Oh, what an honor it is to have been part of this historic achievement!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A part is an understatement. None of this would have been possible without you and yours."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Our success has also served to solidify our understanding of cross-rift travel."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Ascians rejoined reflections to the Source by instigating elemental imbalances. These imbalances weakened the barrier between realities, causing the aether of a reflection to flood the Source."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But why is it that reflections are predisposed to rejoin the Source? Why have they never merged with one another?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thou art suggesting there is a unique property inherent to the Source─one responsible for such an outcome?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am. 'Tis my conclusion that, as the point of origin for the reflections, the Source has an innate “pull” over them."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Hydaelyn, I believe, sought to suppress that pull, which is why She was created with the power of Light─of stasis."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Meanwhile, the power of Darkness─of activity─reigns in the void. Hydaelyn's influence would naturally be weaker, and this manifested in the form of planar fissures."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Working with this hypothesis, I set my sights upon where the pull was assessed to be strongest. And through our combined efforts, we succeeded in opening a gate to the void."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Now, I must stress: it was because we sought the void that we succeeded. Pleased though I am to have my theory proven, the secrets of travel to other reflections still elude us."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Even so, in the reality that lies beyond the Eighth Umbral Calamity, there are those who found a way to reach the First. I will not rest until I do the same."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "One step closer to fulfilling your dream, eh?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Just a step. Many more remain to be taken."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Which further motivates me to forestall a voidsent invasion. So come, let us set forth─to find Azdaja, and put an end to Golbez's plot!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Climb upon my back. I shall take us to the gate."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As we did discuss prior, I shall see the alchemists safely home, then together with the Loporrits, maintain vigil over the gate."
+    },
+    {
+      "character": "Nidhana",
+      "text_en": "May the Sisters watch over and keep you safe!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Unto the void once more!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This is the moon of the Thirteenth?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "It is. Ever since the Flood, it has been a sanguinary orb in the sky."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "No voidsent. A rather more subdued reception than I had anticipated."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But unsurprising, given how jealously Golbez conceals the location of his domain."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Still, we must remain on guard. One of his minions came through the gate, after all, and more may lie in wait."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "I do not sense my sister... Where could she be? Where?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Steady, Vrtra. We've barely arrived. Let us explore our surrounds before drawing conclusions."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Yes... Thou art right."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "I shall survey the moon from above. The ground, I leave to you all."
+    },
+    {
+      "character": "Zero",
+      "text_en": "..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "My lance will be ready should any more of Golbez's pawns appear."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "No sign of a watcher or any Loporrits. Perhaps they were swallowed up in the Flood of Darkness...or perhaps they never existed here."
+    },
+    {
+      "character": "Zero",
+      "text_en": "The chasm has caught your attention as well."
+    },
+    {
+      "character": "Zero",
+      "text_en": "There's some manner of structure below. Worth a look, wouldn't you say?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I too sense something here."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This pit much resembles the Cradle of Darkness on our moon, where Zodiark was once imprisoned."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If this place serves the same function, then a fragment of His power must have been sealed in the depths."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Strange, though. When Zodiark perished in the Source, I presumed that every aspect of Him was thus unmade, and His power scattered."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But it's unmistakable, the Darkness that permeates this abyss. Could a trace of Him yet remain...or is it something else?"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "I hear thee, Sister! I hear thee!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Climb on, my friends! Azdaja is here, within this chasm!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Sister!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "'Tis I, Vrtra! I have come to rescue thee!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "You were entrusted with Azdaja's eye, were you not?"
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "What? How..."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "Vrtra...? Wherefore art thou here...?"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Oh, thank goodness!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "'Tis thee, dear sister. Truly thee... How long have I dreamed of this moment!"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Would that I could have found thee sooner...but I am here now. Let us return home, together."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "The thought filleth me with joy...but I fear it cannot be. Not even with a dragon's might can these chains be broken."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "For they are forged of the very will of the man named Golbez."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So this is indeed Golbez's domain."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "Thou keepest company with mortals?"
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "I do. They are my stalwart allies, without whom I could not have come this far."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "Is that so... Then much time hath passed indeed."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "It doth feel like only yesterday that we were fighting the voidsent hordes the men of Allag had unleashed on Meracydia..."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "Desperate to save Tiamat, I flew into this lightless world to strike at the heart of the Cloud of Darkness's forces."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "But the voidsent I slew returned again and again. And before I knew it, the rift betwixt worlds had closed. I was stranded. Bereft of strength..."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Thou didst save the lives of full many, Sister."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Today, we abide in harmony with men, working side by side and forging enduring bonds."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Indeed, in the course of searching for thee, I did cross paths with many a noble mortal, with whom I built a nation of rich diversity."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "To thee I would show it─my beautiful Radz-at-Han. I shall not rest until thou art free."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "When Golbez found me collapsed, the Darkness ravaging my wounds, he spoke and said:"
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "“'Tis but a matter of time before you turn. But I have the power to stop it.”"
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "And he did─for a price. I would remain myself, but bound. An everlasting feast for his minions, who supped upon my aether over thousands of years."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "What now, then? Does this great wyrm intend to remain a captive meal for all eternity, not daring to test her chains?"
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "If such is thine attempt at encouragement, mortal, then thou art as graceless as Nidhogg."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "'Twas Golbez who did weave this spell, and so his defeat should serve to unravel it. Would it suffice as a show of spirit were I to reveal what I know of the villain?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Now there's a start. So, what can you tell us?"
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "Mayhap in order to sustain the magick, he cannot travel far from this place."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "He doth prefer to send minions to carry out his will, but on occasion will himself ascend to the moon's surface."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "And every time, without fail, he will visit the same location to the south. Something of import lieth there, doubt not."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Well, you heard her. Shall we look into this spot near and dear to our enemy's heart?"
+    }
+  ]
+}

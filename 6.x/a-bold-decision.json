@@ -1,0 +1,776 @@
+{
+  "id": "a-bold-decision",
+  "wiki_path": "/wiki/A_Bold_Decision",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "A Bold Decision",
+  "level": "89",
+  "location": "Old Sharlayan(X:9.2,Y:11.2)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Tataru",
+      "text_en": "A great many of the helping hands that delivered the adamantite are still here in Sharlayan, and I for one couldn't be happier!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Between the aetherburner to be refurbished, supplies to be transported, and meals to be prepared, we need all the assistance we can get."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Even Lord Emmanellain has been doing his part, albeit at a snail's pace. Still, it's the thought that counts...but a bit more effort wouldn't go amiss."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forename . I trust you've had a good rest?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "An envoy of Master Fourchenault's arrived not along ago with a message: the Loporrits have determined Meteion's location."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We've been asked to gather at the Rostra. I'll meet you there, along with the others."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I fear our recent travails within Labyrinthos and the aetherial sea have taken their toll on my mind, for last night I received a visitor in my dreams. Moenbryda..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A vision not of the woman she was, nay, but the woman she would have become..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Since the Final Days first manifested, we've been tested as never before. Even more so in your case."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Nevertheless, our work is far from over. We cannot afford to falter now, not when the end is in sight."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "How did you sleep? Well, I should hope. It's likely the last opportunity we will have to take a proper rest for quite some time."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I...probably could have done with a few more winks myself. Ugh..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The thought of what's to come was keeping me awake, you see. So, I thought to do a bit of research, hoping I might eventually feel weary enough to doze off."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But before I realized it, it was already morning... No need to scold me ─ I already regret it, and will probably only feel that regret more keenly as the day wears on."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not feeling any ill effects from the Aitiascope, are you? After playing test subject for those new aetherytes, even the mention of aether sickness makes me feel a little queasy."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Hydaelyn ─ the heart of this star ─ is gone... And yet, on the morrow, the sun will rise, and life will go on."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "When I look upon Sharlayan and its idyllic surrounds, there are moments when Her absence feels unreal. As do the Final Days. Would that it were so..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While the Forum is not here in its entirety to brood and glare at us, Master Barnier's presence alone is enough to put me on edge."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "If you would know the reason for this assembly, you had better ask Master Leveilleur."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods, I can hardly believe the Loporrits managed to find Meteion out there, hidden among the stars. The sheer distances involved are mind-boggling."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Before coming, I thought to inquire after our comrades abroad. It seems that the effects of the Final Days have been observed further and further north of Garlemald."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "For a blessing, those regions are largely uninhabited...but in any event, we mustn't misinterpret this as a geographical spread. There is no telling where in the world the phenomenon will strike next, unfortunately."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Everyone appears to be present and accounted for. Good."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "As you know, the Loporrits have deduced the whereabouts of Meteion by means of a crystal bequeathed to us by Hydaelyn Herself."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Your quarry's location is a place far beyond the moon, in the farthest reaches of the sea of stars, at the edge of creation."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "A veritable Ultima Thule ."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed... How then are we to reach it?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "An excellent question! Luckily for you, I have an equally excellent answer."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "In theory, with its advanced propulsion systems, the moon is capable of delivering you to Ultima Thule, but the myriad other facilities housed within would greatly impede travel through the sea of stars."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Even the Mothercrystal may not possess aether enough to bear so massive a vessel to our destination and back."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "However, if we integrate our hyperhopper into your aetherburner..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "We should be able to fire things up and jump our way to the end of the universe in no time!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Father, does this mean...?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Bear in mind this decision was not made solely at my discretion, but with the consent of the Forum."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Hearing the Loporrit's proposal, the Forum was faced with a grave decision."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "To commit the ark to this endeavor would mean abandoning both our plans to evacuate to the moon, and to resettle on another star. Needless to say, the proposition invited fierce debate."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "In the end, however, the Forum was swayed by the simple fact that Hydaelyn believed you possessed of the strength needed to overcome this crisis."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "The great exodus was, after all, a plan of Hydaelyn's own making. Therefore, if in the eleventh hour She would proffer another means by which we may seek salvation, we would be fools to dismiss it out of hand."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Indeed, She sacrificed everything ─ Her very existence ─ to avert the destruction of this star."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "That is why we have chosen to place our faith in Hydaelyn. In you. The ark will be made ready for your voyage to Ultima Thule."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What of all the people that have labored so tirelessly to prepare for the evacuation? They must be furious."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I would not be so sure. They have not forgotten your deeds on the Magna Glacies."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Nor did your instrumental role in orchestrating the delivery of adamantite go unnoticed."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "No, the people do not protest ─ quite the contrary. They have expressed unwavering support for you and your mission."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Are the Loporrits too willing to abandon the exodus?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Were you not listening when we said we were born of Hydaelyn's love for Etheirys and its people?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "If it means your survival, we would do anything to help."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "And you'll most certainly have need of our expertise where you're going. There's no guarantee Ultima Thule is a place that supports life, an otherwise vexing problem our know-how can remedy."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Besides, Hydaelyn chose us to lead the way to Meteion. Why else would She give you a crystal only we can decipher?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "But more importantly, we were perfectly content to evacuate Etheirys until you brought us here, Urianger. And now we're enamored with the place, so what choice do we have but to save it?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Of course, none of this is possible without you and the Scions, so I must ask ─ are you certain you wish to do this?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Very well. We shall inform the Forum of your decision, and begin preparations to bolster the ark with the, ah...“hyperhopper.”"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "The Loporrits will coordinate with the Ilsabard contingent to have the necessary components transported via the Tower of Babil."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Of course, it will take time until the work is complete."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "For now, pray take your ease."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twould seem there is naught to do but rest and prepare. Shall we?"
+    },
+    {
+      "character": "Barnier",
+      "text_en": "As you can imagine, not all Forum members were willing to endorse this plan."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Through no fault of yours, of course. Given what is at stake, it is only natural that opinions are divided."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "That said, the final decision was reached with an overwhelming majority, much to my surprise."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "There is much to be done before the ark can be made ready for your voyage."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Would that I could be afforded time to speak with Alphinaud and Alisaie. Alas..."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I can but pray they find a moment of quiet calm before the journey to come."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "No need to worry about lending a hand with the hyperhopper. We already have more than enough help, so go and relax while you still can!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Hmmm... Perhaps now I can finish that book I was reading..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Wh-What? Oh, pay me no mind. I'm sure you have better things to do with the time afforded us."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "They bid us rest, but I'd much rather find something productive to do."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Hm. I suppose now is as good a time as any to hone my lance. Not that I've ever found it to be dull. Still, it eases my mind on the eve of battle."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The Forum hath placed the fate of mankind in our hands. We must not betray their faith."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I should very much like to speak with the Loporrits once their work is complete."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Tis plain Hydaelyn has entrusted them with a great deal of knowledge, and I suspect there is more they could teach us."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A rare opportunity to rest. I say we make the most of it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I wasn't expecting to have time on our hands. What should we do...?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "In all honesty, I didn't think the Forum would approve this measure, and certainly not by such a large margin. I daresay, though, that Master Fourchenault's impassioned recounting of your audience with Hydaelyn helped sway the vote."
+    },
+    {
+      "character": "Krile",
+      "text_en": "He has a way with words, after all. Where did you think Alphinaud got it from?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ere we depart, we must leave nothing undone."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Quite, though it is difficult to conceive of how one can best prepare to brave a domain where dynamis governs all."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nevertheless, Hydaelyn deemed us worthy of the trials that await."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "For lack of any other feasible options at this late stage...let us trust in Her judgment and face Meteion as we are."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Which leaves the not-so-small task of coordinating our efforts here to you and Tataru."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If all goes to plan, we'll be back before you know it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I certainly hope so."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We will be praying for your safe return. Mayhap it will affect the dynamis for the better."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With that settled, we should get some rest, and make the most of the time we've been afforded."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hm?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "The meeting's over, is it?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "You were in there for so long, I started to worry. What did they have to say?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "The edge of creation. I see..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Rest assured everything will remain in order until you return ─ and you will return."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Actually, Forename , could I borrow you for a moment?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Looks like your plans for the interim are decided. When the two of you have finished, meet us back at the Baldesion Annex, all right?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Come with me to the Agora. I have something to show you!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Welcome, Forename , to Tataru Taru's Boutique!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I've always done my best to provide the Scions with fashionable attire, but in your case specifically, I make an extra effort to strive for the most functional-yet-stylish clothing one could ask for. Not that I'm playing favorites, but you are the Warrior of Light!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Faced with this unprecedented crisis, I knew you would need an ensemble unlike anything I've created before, and that I wouldn't be able to do it alone."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "And so, after enlisting the aid of the world's finest artisans, I finally completed my career-defining masterpiece!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "But then inspiration struck, and I saw a golden opportunity just begging to be seized..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "With the help of some Thavnairian refugees, I decided to set up shop here in Sharlayan!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Of course, I would never charge you for any of our works. Perish the thought!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Varsarudh. How are things coming along?"
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "Everything is in order, Mistress Tataru. We'll be ready to open shortly."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Which is why I brought you here ─ to be our very first patron. Would you mind waiting here a moment longer?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "If you could wait here just a short while longer, we'll have everything up and running in no time!"
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "Did someone move the crate? I could have sworn it was here."
+    },
+    {
+      "character": "???",
+      "text_en": "Ah, I did not expect to find you here."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I imagine Nidhana would also wish to offer her regards. Alas, after delivering our dragon scales to the engineers, she remained to assist with their work on the aetherburner."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "This simulacrum, too, will stay in Sharlayan, while I oversee matters in Radz-at-Han."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "It is a rather convenient means to keep abreast of developments pertaining to the Final Days or anything else."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "It also allows me, after a fashion, to watch over my people in this distant land."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Varshahn, I was hoping you'd stop by! I can't thank you enough for allowing your artisans to work with me here at the boutique."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Please, it is I who should be thanking you. This establishment has restored a sense of normalcy to their lives. You have blessed them with newfound purpose, and a means by which to support themselves in these troubled times."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "What's more, when they at last return home to Radz-at-Han, the experience and knowledge they have gained in your employ will no doubt prove a boon to the artistry and commerce of our land."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "In fact, I came here to see how your new employees are settling in, and to express my gratitude for granting them this opportunity."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It's an opportunity for me as well, believe you me! Your artisans have taught me so much about Thavnairian craftsmanship. Their resourcefulness and ingenuity are nothing short of inspiring."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I can't wait to see what kind of wonders we come up with!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I pray you every success in your endeavors, Mistress Tataru."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Before coming here, I heard word of the Forum's decision. Of what will soon be attempted."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "It was only then that I finally understood why my father called this star the last bastion of hope."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Indeed, it was the last bastion, for the flame of every other star he encountered had likely been extinguished."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "In the boundless dark, the light of brimming life must have been blinding in its splendor..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "You journey unto the heavens to protect that light. May the scales of my kin serve you well."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I have faith you will prevail, and restore peace and tranquility to this star."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I wil not see his sacrifice squandered, nor shall I rest until Radz-at-Han is returned to its former glory."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "And we should be honored to receive you. There is still much of Radz-at-Han you have yet to see."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Perish the thought. You are our salvation and our deliverance. My father would not have relinquished his scales otherwise."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Forgive me, but I must take my leave. Fare you well, and remember ─ the people of this star have not yet given up hope, and neither must you."
+    },
+    {
+      "character": "???",
+      "text_en": "Ugh... Where must I go to get a meal with some flavor in this wasteland of taste...?"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Forename , old boy / girl ! My, whatever are you doing here?"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "A new boutique, you say? Hmm... I had been meaning to expand my wardrobe. Yes, something with a little more flair, perhaps, befitting a man of my station."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Though I have nowhere to flaunt said raiments so long as my confinement continues indefinitely. Aye, the young Lord Fortemps insists that, so long as there is work to be done, no matter how trivial, I must abide here in Sharlayan."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Thus do I toil, though every fiber of my being rails against it. Why, I've even suffered the company of that brute Sicard to see supplies transported in a timely fashion."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Yet he was the one granted leave this morning to participate in some supposed “covert operation.”"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "So I suffer instead for his otherwise welcome absence, now burdened with extra busywork. And without Honoroit here, there is no one to prepare my meals..."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "I came here in the hopes of finding a nice café, perhaps. Alas, the Sharlayan delicacies I've sampled were lacking in every respect..."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "Archon loaf? It sounds...sophisticated. Like me."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "I thank you for the suggestion. With a full belly, I daresay I can endure this purgatory, if only a while longer. Ta-ta, old boy / girl !"
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "The café over on the pier? Their cuisine didn't appear all that appetizing, but..."
+    },
+    {
+      "character": "Emmanellain",
+      "text_en": "If you vouch for their cooking, then perhaps I will give it a try. Thank you for the suggestion, and ta-ta for now, old boy / girl !"
+    },
+    {
+      "character": "???",
+      "text_en": "Well, well, is that Forename and Tataru I spy?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Hancock!? What are you still doing here?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "You said you were returning immediately after dropping off your cargo."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Yes, that was my original plan. After all, any expertise required aside from the delivery of goods is well beyond my purview."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "But what manner of entrepreneur would squander an opportunity to study the markets of the northern seas? Worry not─I will return straightways to Kugane once I have finished."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Of course you would find a way to turn this crisis to your advantage."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "She wounds me, the industrious woman running a new boutique."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "I am not blind to the travails of those who fight on the front lines to deliver us from ruin."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Indeed, I have every confidence they will succeed, and I would make myself─and my business─ready for their return."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "If you believe in them so devoutly, then why not put your money where your mouth is?"
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Fair enough, Tataru. Fair enough!"
+    },
+    {
+      "character": "Hancock",
+      "text_en": "There is naught more I can do to help ready the ark and her heroes for their maiden voyage, but on your return, I shall host a grand celebration in your honor at the Bokairo Inn."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Accommodations are quite costly, given the reputation of said establishment, but the East Aldenard Trading Company would be honored to foot the bill."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "A pity. I'm rather fond of the place myself! Nevertheless, I have no doubt we will find another time and cause for celebration soon enough."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Oho! A man / woman of tart tastes, I see."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "Yes, there will be lemoncakes and much, much more - the finest delicacies the world and Lord Lolorito have to offer."
+    },
+    {
+      "character": "Hancock",
+      "text_en": "But let us speak more of this upon your return, lest I draw even more of Tataru's ire. Until next we meet."
+    },
+    {
+      "character": "???",
+      "text_en": "Ah, Forename . Decided to spend your time at the markets, did you?"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "T-Tataru!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Biggs! Wedge! I take it work on the ark proceeds apace?"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Aye, it does indeed. Collaborating with the greatest minds of Sharlayan and Radz-at-Han has been a rewarding experience. And that's to say nothing of what we've learned from the Loporrits."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "The ark is unlike anything we've ever had the pleasure to work on. Even Nero was rendered speechless on more than one occasion."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I can't wait for you to see it!"
+    },
+    {
+      "character": "Wedge",
+      "text_en": "And you'll never guess who paid us a visit before we came to Sharlayan ─ Alpha! I think he sensed the coming danger and returned to check on us."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "He was always one to turn up in a time of need, and I suppose that's why he decided to join us here in Sharlayan. Good thing, too. I don't know how he does it, but he has a knack for brightening your day just by being there."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "It's still hard to believe we have the means to send you off into the great expanse, though. To the farthest known reaches of...well...everything!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "I never thought I'd live to see such marvels, yet here I am."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "More often than not, you and the Scions are the catalyst that sparks the need for these great innovations. To think how much I'd've missed out on had I not been a member of the Ironworks..."
+    },
+    {
+      "character": "Wedge",
+      "text_en": "An awful lot of work, to be fair. And the privilege of being worked like a cart chocobo... <mumble> <mumble>"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "Hah, there is that, too!"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "As busy as we've been, I wish there was more we could do for you, Forename ."
+    },
+    {
+      "character": "Biggs",
+      "text_en": "But no matter what happens, we have to keep believing. For a brighter future."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "When you head back, would you tell the engineers I'll be along shortly with refreshments?"
+    },
+    {
+      "character": "Biggs",
+      "text_en": "That's very kind of you, Tataru ─ they'll be glad to hear it. And on that note, Wedge and I should get going. Still a few more supplies to gather before we return."
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "Terribly sorry for the wait. Right this way, if you please."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Right! I don't believe the two of you have been formally introduced. This is Varsarudh, from Palaka's Stand."
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "The pleasure is mine. Thanks to Mistress Tataru, I and many of my friends have found gainful employment in this foreign land."
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "Ah, yes... It was you who helped us at Purusa, and again when crossing the ice fields, was it not?"
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "I doubt we exchanged little more than glances then, but it is kind of you to remember me."
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "Thanks to Mistress Tataru, I and many of my friends have found gainful employment in this foreign land."
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "It is only natural to feel fear in the face of calamity. In such times, we must look to one another for strength and succor."
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "I know not whether we will come to call this place home or return to Thavnair. But we are here today, and are glad to have contributed to the cause."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "And contribute they did by helping to make your new garments as durable as possible."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "We put our hearts and souls into them, and I have every confidence they'll keep you safe in the battle to come."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Gods... To think how far we've come since our humble beginnings at the Waking Sands."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "From the Rising Stones to the Falling Snows ─ and even a certain insufferable someone's Ruby Bazaar ─ we were always fortunate to find friends along the way."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Even when you were swept away to the First, G'raha Tia was there to grant you sanctuary."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I'll never forget the relief I felt when you all returned to us. I thought my heart would burst."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Yours has been a long, long journey, and I've been privileged to watch ─ often with bated breath ─ as you persevered time and again."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "For all the joy we've shared, there's been much sorrow as well. But I've long since learned you can't have one without the other."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Which is why I promise to send you off to the sea of stars with a smile!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "And you can be certain I'll be the first one to welcome you back on your return."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Don't forget to pick up your clothes from Varsarudh before you leave. They were expertly tailored just for you."
+    },
+    {
+      "character": "Varsarudh",
+      "text_en": "In addition to your new ensemble, we have raiments and weaponry for every need. So please, feel free to browse our stock."
+    }
+  ]
+}

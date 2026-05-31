@@ -1,0 +1,328 @@
+{
+  "id": "a-labyrinthine-descent",
+  "wiki_path": "/wiki/A_Labyrinthine_Descent",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "A Labyrinthine Descent",
+  "level": "80",
+  "location": "Old Sharlayan(X:11.8,Y:12.7)",
+  "npc_start": "Alisaie",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "We should tell the others what we've learned about the gleaners."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Go on ahead to Noumenon, and I'll join you in a moment ─ Master Dickon will want his cups back!"
+    },
+    {
+      "character": "Dickon",
+      "text_en": "Well, if it isn't our serving staff's honorary member! If you ever grow tired of the whole adventuring thing, I'd be happy to offer you a job waiting tables!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that coffee I smell? Did I miss the tea break?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Where is Alisaie? I thought she was with you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My loyal assistant returns! There is a lexicon on the first floor that I need you to─ Ah. You've found something, haven't you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Welcome back, Forename . Been for a walk and cleared your head, have you?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Not exactly. We did some impromptu investigating and turned up information on the gleaners..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It makes sense. The gleaners take their requests directly from institutions and bureaucrats, but as you say, they ultimately answer to the Forum."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A sudden and significant increase in gleaner traffic and in cargo... It certainly gives the impression of an overarching plan being put into motion."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let us see what theory we can build from the facts..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As Y'shtola observed earlier, Noumenon's archives appear to contain no information concerning the Final Days."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Coupled with what Forename and Alisaie learned at the Last Stand, we can be reasonably sure that most Sharlayans know nothing of that particular period of ancient history."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Yet my father and his colleagues are not only familiar with the Final Days, but are also somehow certain that the destruction being perpetrated by the Telophoroi is wholly unlike these apocalyptic events..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Moreover, the Forum claims to be so occupied by a duty of such pressing importance that they saw fit to unanimously deny Eorzea's request for aid."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And now the gleaners, official agents of the state, have been mobilized on an unprecedented scale."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I do not think it a stretch to conclude that the gleaners' recent activities are in service to the Forum's secretive ends."
+    },
+    {
+      "character": "Krile",
+      "text_en": "In which case, our next course of action seems obvious: we visit Labyrinthos and assess the situation for ourselves. And if we're lucky, the gleaners will be far more receptive to our questions."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'm glad you approve! You won't be disappointed, I promise!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh, I would hate to spoil the surprise!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I understand not everyone is the studious type. Consider this a welcome change of pace, then!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As for myself, there are a few more subjects I should like to research. I may join you later, but feel free to leave behind your borrowed books and be on your way. I'll see to it that each is returned to its proper place."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That would be a great help. Thank you, Raha!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's head down the stairs over there, and I'll show you where the entrance is."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Watch your step in Labyrinthos. It's rather more perilous than a simple storehouse. Although that will likely make the experience all the more attractive to an adventurer like you!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ready? Labyrinthos is not too far from here, but you may find the path a bit disorienting."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'll take the lead, so stay close!"
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "Off we go, then!"
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "It's pleasant here amongst the trees..."
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "But we really should move along."
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "Now we run. Try to keep up!"
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "Keep to the path. Straight ahead!"
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "We cross this bridge."
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "Up here."
+    },
+    {
+      "character": "Alisaie (text bubble)",
+      "text_en": "The Rostra... Not far now."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Here we are! Through this door and down the stairs."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You did remember to attune to the shard back there, didn't you? It will make your life much easier if you need to come back in a hurry. Otherwise, we should keep moving!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You didn't take a wrong turn into the Rostra there, did you? I doubt the Forum would take kindly to you barging into a private session."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I've not been to Labyrinthos in the longest time. Even as a student, my visits were few and far between."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "How did the Forum learn of the Final Days, and exactly how much do they know? More to the point, what do they intend to do about it? Hopefully the answer to at least one of those questions lies below..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We're all here now, yes? I've taken the liberty of securing permission for our group's descent."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Right, everyone onto the lift and down we go!"
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Deep beneath the scholars' city shines a false sun within a fabricated sky."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "In any age exist those who consider the floor an extension of their bookshelves, and this vault's architects surely belonged to that special breed."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "If the stack grows too high, start a new one. If no room remains, then make more rooms."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "A simple solution at first. And then, bit by bit...a profound transformation."
+    },
+    {
+      "character": "Emet-Selch (Narration)",
+      "text_en": "Knowledge buried beneath knowledge ─ a growing, creeping labyrinth from which there is no escape."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Not what you expected? I must admit, the artifice is very convincing."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But I assure you that we are beneath Sharlayan itself. The breeze you feel, the flowing waters you hear ─ all created by the hand of man."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The island is volcanic, you see, and once upon a time this great hollow must have been a reservoir for magma."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It was discovered some four hundred years ago, at which point it was repurposed as a storage facility for scrolls and samples and such. Renovations have continued with nigh on no interruption to this day, with the lower levels still undergoing expansion."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Aren't those people gleaners?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye, judging by their dress. They are said to work alone, as a rule, but 'twould seem that rule is being enthusiastically broken today."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It may be as you suspected ─ that they are engaged in a task apart from the norm."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's spread out and get some answers, then!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Did you call to me just now?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "No? How odd. I must be a bit dizzy from the descent."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I-I'll be fine, I'm sure. Let's get to work, shall we?"
+    },
+    {
+      "character": "Dobbin",
+      "text_en": "You want to know what I'm doing? Hauling books. And ore. And fauna. If it needs hauling, I haul it."
+    },
+    {
+      "character": "Dobbin",
+      "text_en": "Every decade or so, they take stock in Labyrinthos ─ you know, sort and tidy up the inventory. Never seen an operation like this before, though."
+    },
+    {
+      "character": "Dobbin",
+      "text_en": "They just did one a few summers ago, even! Then, with no warning at all, this mess gets dropped in our laps. Orders from on high. Damned if I know the reason. Could be that they're changing the layout, eh? Preparing for the next big expansion..."
+    },
+    {
+      "character": "Dobbin",
+      "text_en": "Soon as the guildship sent out the summons, I knew this would be a rough job. They never call on us out of the blue for anything easy..."
+    },
+    {
+      "character": "Tieve",
+      "text_en": "Let me think, let me think! The rhea seeds should be Item 1058, cumin seeds 1059, snurbleberry 1060...or were they 1061!?"
+    },
+    {
+      "character": "Tieve",
+      "text_en": "Argh, my head feels like it's stuffed with moko grass! Why more loads to take out than carry in!?"
+    },
+    {
+      "character": "Tieve",
+      "text_en": "Why do all this at once and risk mixing it up!? What if someone mistakes the Coerthan carrots for the Gyr Abanian carrots? What then!?"
+    },
+    {
+      "character": "Tieve",
+      "text_en": "Huh!? So 2023 was La Noscean topsoil? Then 2024 was...was...from Thanalan? Or the Shroud!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "You here to help or give me more headaches? Because you don't have the look of a gleaner, and I'm in no mood for idle chatter."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "One of my colleagues was so exhausted he took a tumble and crashed into a pile of crates. Now I have a pack of marmots running loose..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Most of those gathered here appear to be gleaners. Why don't you wander around and try making small talk?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Excuse me, are you a gleaner? If you don't mind, I have some questions to ask..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Hmmm, fascinating, but could we go back to what you were saying earlier?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nay, I am not shirking my duties. I've not been down here in an age, and wished to get my bearings before I went bumbling about."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "From what I can see, however, there is naught obviously out of place. It seems we shall have to resort to discreet inquiries, as usual."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Those little devils are quick as sin and twice as hard to catch. I suppose I had better start searching..."
+    },
+    {
+      "character": "Tieve",
+      "text_en": "Let's see here... Item 3042 is Walker's popotoes, yes? And 3043 is wild popotoes. Then...where are my mountain popotoes? This can't be right..."
+    },
+    {
+      "character": "Dobbin",
+      "text_en": "My poor, aching back... Ever since the summons came from the guildship, I've been hauling endless stacks of supplies. Books, ore, animals ─ you name it, I've moved it."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Any luck, Forename ? What tales did the gleaners have to tell?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "So this grand operation began without warning? And for every item they bring in, they're sending more inventory somewhere else. Hmm... That would explain the haggard faces I've been seeing."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We were right ─ the Forum is definitely up to something. And they're turning Labyrinthos upside down in the process."
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "id": "the-die-is-cast",
+  "wiki_path": "/wiki/The_Die_Is_Cast",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/6/64/The_Die_Is_Cast_Image.png/280px-The_Die_Is_Cast_Image.png",
+  "patch": "4.0",
+  "title_en": "The Die Is Cast",
+  "level": "67",
+  "location": "Yanxia(X:24.9,Y:12.8)",
+  "npc_start": "Hien",
+  "dialogues": [
+    {
+      "character": "Kaidate",
+      "text_en": "Today is the day for which we have trained body and mind with passion and vigor! We will not fail─Doma will be free!"
+    },
+    {
+      "character": "Subaru",
+      "text_en": "The day has come, my friend, and we are ready! Doma will be ours once more!"
+    },
+    {
+      "character": "Aoi",
+      "text_en": "As I am not skilled enough to stand on the front lines with the others, I will remain here in reserve. But have no doubt that I can and will fight..."
+    },
+    {
+      "character": "Haname",
+      "text_en": "You needn't worry about the other units. I am well aware of their disposition and will see that each receives the necessary support."
+    },
+    {
+      "character": "Motojiro",
+      "text_en": "They will use everything at their disposal to defend against our assault. All their men and all their magitek...and mayhap the twisted hybrids spoken of only in hushed whispers..."
+    },
+    {
+      "character": "Yagoro",
+      "text_en": "The memory of our defeat a year ago still burns within me. Yotsuyu and her imperial dogs will pay for their crimes!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Good... <yawn>... morning. I trust you slept well—or at least better than I did. 'Twould seem I dozed off in the middle of something, but your carousing with Lord Hien and Gosetsu woke me from my fitful slumber, and I retired to my bunk."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie is faring rather less well than either of us, but she will be fine, I am sure—so long as you do not remind her of what you saw."
+    },
+    {
+      "character": "Hien",
+      "text_en": "There he / she is. I trust you are none the worse for wear after last night."
+    },
+    {
+      "character": "Hien",
+      "text_en": "We received confirmation from the Kojin not long ago. Their sappers stand at the ready and await our signal."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Let us not keep them and the others waiting. Gather your things—we depart at once."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Alphinaud—instruct Lyse and the others to move into position and launch their attack."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Our scouts report no change in the imperials' disposition, but I would leave nothing to chance. We must act quickly, lest we lose the element of surprise."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understood. I will relay your orders to her and rejoin my unit."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Gosetsu and Yugiri await the two of you at Monzen. Good luck, my friends. I will see you both again soon."
+    },
+    {
+      "character": "Hien",
+      "text_en": "And now we wait..."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "I have dreamed of this day.... A chance for freedom. For liberation. For redemption. After twenty–five years of regret."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Lyse will contact us once the attack has begun, after which the others will carry out their allotted tasks. Our part comes last."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Understood. Wish us luck."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Right, you all know what you have to do. Are you ready?"
+    },
+    {
+      "character": "Isse",
+      "text_en": "Oh, yes. Ready to show them what a good job they made of breaking us!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Then what are you waiting for? Move out!"
+    },
+    {
+      "character": "Imperial Sentry",
+      "text_en": "Why must we waste our time guarding this blasted..."
+    },
+    {
+      "character": "Imperial Sentry",
+      "text_en": "Sound the Alarum! Fluminis is under attacked! Armed insurgents have breached the perimeter! We need reinforcements!"
+    },
+    {
+      "character": "Lyse (linkpearl)",
+      "text_en": "This is Lyse. Imperial forces converging on our position. Looks like we've got their attention. We'll be sure to keep them busy for as long as we can!"
+    },
+    {
+      "character": "Magnai",
+      "text_en": "Ahhh...war. To wield power, to make men kneel before you. There is no better feeling."
+    },
+    {
+      "character": "Magnai",
+      "text_en": "A pity I must share this pleasure with a feral dog of a Dotharl!"
+    },
+    {
+      "character": "Sadu",
+      "text_en": "Preening, Oronir! You fear that she will put the Sun in shade!"
+    },
+    {
+      "character": "Sadu",
+      "text_en": "Those are for you. Go. Claim your prey."
+    },
+    {
+      "character": "Sadu",
+      "text_en": "Bwahahahaha! Come to me! Come to your death! With each that falls, my soul soars higher!"
+    },
+    {
+      "character": "Magnai",
+      "text_en": "Swiftly, brothers! Fall not behind! Make an offering of their steel to Father Azim!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "They seem to be enjoying themselves..."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "My lord! The barrier!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "That it should fall so soon! Truly, our allies seem determined to surpass each other!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The magitek field is down. I repeat, the magitek field is down! Confederate vessels, you are clear to advance upon the enclave!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "The wall is breached! The Kojin, too, will not be outdone!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Our allies have set the stage. Now we must take the castle."
+    },
+    {
+      "character": "Hien",
+      "text_en": "With me!"
+    },
+    {
+      "character": "Ill-at-ease Imperial",
+      "text_en": "My lady, the riverside wall has been breached! The lower levels are already flooded, and the water is still rising!"
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "So I gathered. He would tear the whole thing down....all for the promise of freedom. A noble sacrifice...or the last desperate flailings of a fool."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Speaking of which, how fares my brute?"
+    },
+    {
+      "character": "Ill-at-ease Imperial",
+      "text_en": "Th-The procedure was carried out as instructed by Lord Aulus. By all indications...it was a success."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Is that so? Then he may yet be of some use."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Devotees of vengeance should rightly pursue their cause unto the bitter end, don't you think? Their hearts aflame with passion until the last few embers fizzle and fade, leaving naught but ash..."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "The viceroy's orders were clear. If Doma falls, none shall be spared his wrath. Tell the men to fight as if their lives depend on it. Because they do."
+    },
+    {
+      "character": "Ill-at-ease Imperial",
+      "text_en": "A-As you command, my lady!"
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Again they come to make you kneel. To make you grovel and suffer."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "But you have endured their worst and survived. You know their tricks. They will not find a flower simply waiting to be plucked..."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "The Confederacy report that they have secured the enclave. We need not fear for the civilians' safety!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "It is done. The water surges through the broken masonry and floods the castle even as we speak. Though my heart breaks at the sight of it, I must be strong. All is for the sake of Doma!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Aye, there can be no doubt. The viceroy is trapped. And so comes our part."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Our Kojin allies will deliver us to our destination. To the western dock! And do not forget to bring your fellow adventurers, Forename !"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "To see the castle thus defaced—and by our own hands... It is enough to make me smile—to laugh at the sheer absurdity of it."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "This is not the end, but it is an ending. Soon...soon I will be free."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "When I led the Doman refugees to Eorzea, I did so only with the intention of seeking sanctuary. The thought of enlisting you and yours to aid us in another rebellion did not once cross my mind."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Yet here we stand, shoulder to shoulder, ready to strike at the heart of the occupation. It has been and ever will be an honor, Forename ."
+    },
+    {
+      "character": "Hien",
+      "text_en": "I can only imagine the chaos inside the castle. To be trapped by the rising waters and know the enemy is at their gates."
+    },
+    {
+      "character": "Hien",
+      "text_en": "They will fight us with every onze of their strength. As will we them, for the eyes of history are upon us."
+    },
+    {
+      "character": "Blue Skiff Captain",
+      "text_en": "Greetings and well met, my friends. Climb aboard, climb aboard! There is room enough for you all!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Forename . That we might improve our odds of success, we will divide into two parties upon arrival—one composed of myself, the other you, Gosetsu, and Yugiri."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Given our inferior numbers, we must needs finish the battle quickly. And so, while you and yours draw the enemy's attention, I shall steal over to the keep."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Lest you worry, though I've been to the castle only a handful of times, my father saw fit to drill its layout into me. I could find my way blindfolded."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Even should one meet with misfortune, the other will reach Yotsuyu. Agreed?"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Then let us be about it. For Doma!"
+    },
+    {
+      "character": "Blue Skiff Captain",
+      "text_en": "What are you waiting for? Come, come! Before the river swallows all!"
+    },
+    {
+      "character": "Hypertuned Grynewaht",
+      "text_en": "EOOORZEAN... EOOORZEAAAN... COME OUT AND PLAY..."
+    },
+    {
+      "character": "Hypertuned Grynewaht",
+      "text_en": "DEAREST OF AAALL MY ENEMIES... I HAVE NEW TOYS TO SHOW YOU!"
+    },
+    {
+      "character": "Hypertuned Grynewaht",
+      "text_en": "BOOOOOOOOM!"
+    },
+    {
+      "character": "Hypertuned Grynewaht",
+      "text_en": "WE GO TOGETHER!"
+    },
+    {
+      "character": "Hypertuned Grynewaht",
+      "text_en": "DIE DIE DIE!"
+    },
+    {
+      "character": "Hypertuned Grynewaht",
+      "text_en": "WE GO...TOGETHE...TOGE....To..."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "All who bar our way shall taste my steel!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Metal toys will not stop us!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "This appears to be the guardian of the gate!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "On to the inner ward!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Is that your idea of an ambush?"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Quickly, between barrages!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Another machina to reduce to scrap metal!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Come, let us head inside!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Pretenders! I will not suffer this mockery of ninjutsu!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "They deploy machina even inside the castle!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "This aura... 'Tis as if he were a beast."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "I am Gosetsu, samurai of Doma—"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Now is not the time to be announcing yourself!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Metal toys will not stop us!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "My blade will make short work of this!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "This appears to be the guardian of the gate!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "Let us end its watch!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "On to the inner ward!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "We're coming for you, Yotsuyu!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Is that your idea of an ambush?"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "Have at you!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Quickly, between barrages!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "Ugh, I'm too old for this..."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "An unusual machina..."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Unusual or no, it will fall all the same!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Come, let us head inside!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "I pray Lord Hien is safe..."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "What? Are they shinobi!?"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Naught but pretenders! Our techniques are beyond their ilk!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "That such a barbaric weapon should defile our beautiful castle..."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "It will not do so for much longer!"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "This aura... 'Tis as if he were a beast."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "And one with nothing to lose."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Have you aught to say for yourself? For what you have done to our people—your people?"
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "My people, he says. The precious lordling beloved by all come to confront the wicked witch."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "My parents thought me no better. They worked me from dawn to dusk, like an ox or an ass or other beast of burden. Until, that is, my brother spied a chance to transform the family fortunes."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "And so I was married to a vicious old drunk who beat me as he pleased, and when I pleaded for help, I was told to grin and bear it. For the family. For him. For everyone's sake. They pretended not to notice, but they knew. They knew."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "What did it matter? I was nothing to them—less than nothing! I wasn't of their flesh, I wasn't a fellow Doman, I wasn't even a person. I might just as well have been dead!"
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "And then my husband passed away one day. And so I was sold off yet again, to pay his debts. But this time, this time, I found a way to live for myself. To survive. As a spy for the Empire."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Oh, those were the days, when the scales first fell from my eyes. No longer would I be a slave to my parents or my husband or the pleasure house. I would be free....and receive due compensation..."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "That would be enough, I thought....until I saw a Doman in the road, beaten and broken, and my heart...my heart skipped a beat..."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Lying at my feet, groaning in agony, sobbing in despair. Powerless, helpless, hopeless! A vision forever seared into my soul..."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Oh! There was nothing I would not do to feel that joy again! to bend this cruel, twisted world to my whims! ...Now, having borne witness to my life's work, have you aught to say to me?"
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Heh Heh... 'Twas kind of you to lend me your ear, my lord. But now it is time for us to conclude our little tête-à-tête with a final game of chance..."
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "Who shall stand, and who shall fall? Let the die be cast."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "This was her plan from the first—to bring the keep down on our heads!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "I will remember your words."
+    },
+    {
+      "character": "Hien",
+      "text_en": "We must flee! Order our forces to withdraw!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "Go, my lord...while you still can. I cannot hold this forever."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "No! We will not leave you behind!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "Do your duty. Deliver Lord Hien and the others to safety. Now, forthwith! I shall manage on my own."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Gosetsu!"
+    },
+    {
+      "character": "Yotsuyu",
+      "text_en": "No...no one leaves... Not you or anyone else..."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "...'Tis naught this old frame cannot bear!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "Go now, all of you! The day is won! And the morrow beckons!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "Nay, thank you. For granting me new purpose...and a measure of peace."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "Do not despair, my friend. Never before have I felt so alive. My eyes unclouded, my purpose clear. This is right."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Gosetsu..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "You never failed us. Not once. You served my father faithfully, and I am a better man for your guidance."
+    },
+    {
+      "character": "Hien",
+      "text_en": "And the Doma we build together shall be better for it too!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Be proud, my friend. Be proud."
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "I am, Shun. More than you know."
+    },
+    {
+      "character": "Cirina (no text)",
+      "text_en": "Hien? Hien!"
+    },
+    {
+      "character": "Gosetsu",
+      "text_en": "You cast the die. Gambling was never my vice."
+    },
+    {
+      "character": "Cirina",
+      "text_en": "How merciful the gods that I should find you in time..."
+    },
+    {
+      "character": "Cirina",
+      "text_en": "Gosetsu!? W-We must turn back now, before it is too late!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Eyes forward, Cirina. That was his wish."
+    },
+    {
+      "character": "Cirina",
+      "text_en": "...I will deliver you to safety. The others are waiting."
+    },
+    {
+      "character": "Hien",
+      "text_en": "..."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "...He was right. The day is won. The people must know."
+    },
+    {
+      "character": "Cirina",
+      "text_en": "<sniffle>"
+    },
+    {
+      "character": "Soroban",
+      "text_en": "Victory is ours, is it not? Then why are you all so quiet?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Tell me it was not for nothing."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "What happened in there? Where is Gosetsu?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "... I see."
+    }
+  ]
+}

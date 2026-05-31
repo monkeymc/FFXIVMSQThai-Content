@@ -1,0 +1,556 @@
+{
+  "id": "hopes-confluence",
+  "wiki_path": "/wiki/Hope%27s_Confluence",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/0/00/Hope%27s_Confluence_Image.png/280px-Hope%27s_Confluence_Image.png",
+  "patch": "5.3",
+  "title_en": "Hope's Confluence",
+  "level": "80",
+  "location": "The Crystarium(X:12.7,Y:11.2)",
+  "npc_start": "Crystal Exarch",
+  "dialogues": [
+    {
+      "character": "Crystal Exarch",
+      "text_en": "You are ready, then? Very well. I shall lift the ward."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And finish it we shall. For no hero our foe could summon to his side shall ever compare to you! And...as for me...well, no ally you could summon to your side will ever try harder, that much I swear."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "So come, my friend! Let's finish this─once and for all!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Hm? Ah , before I began my slumber, you mean? Ha! It seems rather longer to me. But yes, what strange symmetry."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "This time, I break the seal, and I have no intention of locking myself away again."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Nay, together we will enter, and together we will leave - in triumph. So come, my friend. Let us be about it!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Not here either. We must keep climbing."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "'Twas but a matter of time..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I cannot keep up with you. Nor will it avail us to make a stand here."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "You must go on without me. Find Elidibus, and stop him."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Worry not, my friend."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Though I am no warrior, I have learned to hold my own over the years."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "When first we explored this tower, you and your fellow adventurers formed the van, while I was left to follow in your wake."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Suffice it to say, I was not best pleased with the arrangement. How I wished that I could join you..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And now I have, here where it all began."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I was right to trust in you and the power of your legacy ─ of your name. To let them guide my every deed."
+    },
+    {
+      "character": "Elidibus (Voiceover)",
+      "text_en": "For Elidibus is my name. And my mission. Guiding my every deed."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Why you? Why not you? Had I chosen another, we would never have made it this far. Or do I mistake your meaning...?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I did ─ but I chose not to walk them, thank the gods. Why ever would you ask me such a thing?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...Elidibus spoke in similar terms, you say? How curious."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "To answer your questions, then, I made my choice for reasons which seemed obvious to me, but may not to any other."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "There were the expectations I placed upon myself before beginning my slumber. And the expectations of those who roused me."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Of course, I had the choice to turn my back on the lot of it. But in the end, it was no choice at all."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I cherish the time I spent with you and the others. What I wouldn't give to return to those halcyon days..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Chasing ancient secrets, overcoming trial after trial with the aid of like-minded comrades..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And what remarkable comrades they were. In such company, I felt as if I were a character in the epic tales that had stirred my heart as a boy. As if my dream had come true..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "It hadn't, of course, for I was no hero. Neither then nor after. Though the world to which I awakened, and the First were beset with myriad problems, I rarely knew how best to play my part."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "There was, however, one thing of which I was certain: that I could not bear to let those dear to me meet a tragic end."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I'm afraid our time is up. Go."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Rest assured you haven't seen the last of me. I wouldn't dream of playing my trump card save in your presence."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": ">> Break! <<"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Memories of a possible future..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Worthless, all. Worthless as memories of the only past. Fated to fray and fade into oblivion."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Leaving naught but a gaping void..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "The Waking...Sands? ...Yes, that was the place. The place I first made myself known to you and yours."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "The seventh Rejoining had left the realm listing dangerously towards Darkness. And events were unfolding that threatened to push it over the brink."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Thus did I approach you, in my capacity as emissary, thinking that you would make a useful pawn..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "But I was wrong, and for my misstep did Lahabrea and Emet-Selch pay the ultimate price. Leaving me the last of the unsundered."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "My remaining brethren, fragmented as they are, cannot hope to see our mission to its end. It falls to me alone."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Defeat is not an option. I will strike you down. I will resurrect Lord Zodiark. And I will bring back those who sacrificed themselves to call Him forth."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Though it take a thousand thousand years, upon my honor as Elidibus, emissary of the Convocation of Fourteen, I will see this done."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "But know that his devotion is not without reason. Even if he himself can no longer remember what that reason is."
+    },
+    {
+      "character": "Convocation Speaker",
+      "text_en": "You worry too much, Elidibus. This dedication to your duty verges on obsession."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "What of it!? I have my mission!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "I am Elidibus! And it is my duty to steer mankind and the very star upon their true course. This I swore to...to someone."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "We spoke, and I swore...what? What did I...?"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "This pain, this torment...is nothing! No more than must be suffered to deliver the world from its doom! No more than any of you malformed creatures have known!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Even should you lose all that is dear to you. Even should it cost you your life..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "You bear the burden and fight on, kicking and screaming until your last breath is spent!"
+    },
+    {
+      "character": "Voice from Within",
+      "text_en": "Aye, it's true. We've lost much and more. Known unimaginable suffering."
+    },
+    {
+      "character": "Voice from Within",
+      "text_en": "But through it all, we never, ever forgot what was dear to us. And that's what gave us the strength to carry on."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "No! NO! It will not end here!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Champions from beyond the rift, heed my call! The time is come to deliver your brethren from darkness!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "My heart's sole desire is a world free of sorrow. Join with me now in hope and prayer...for the salvation of all!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "If you would usher in the end, then with my all shall I oppose you..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "...As the avatar of those mortal heroes who fought unfalteringly, in all their imperfection! As the Warrior of Light incarnate!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": ">> Come, Warrior of Darkness! Let us finish this! <<"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "What..?"
+    },
+    {
+      "character": "???",
+      "text_en": "Herein I commit the chronicle of the traveler. Shepherd to the stars in the dark."
+    },
+    {
+      "character": "???",
+      "text_en": "Though the world be sundered and our souls set adrift, where you walk, my dearest friend, fate shall surely follow."
+    },
+    {
+      "character": "???",
+      "text_en": "For yours is the Fourteenth seat ─ the seat of Azem."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "An invocation of eld...though not of Hydaelyn's making... What are you?"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "No ─ it matters not! You are the enemy, and you will fall! Even should it cost me everything, I will not forsake my duty!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "For my people—for our world, I will strike you down."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "This battle shall be our last."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Begone, spawn of shadow!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Darkness must be destroyed!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Gleaming steel, light my path!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Hmph... Even with all this power, it seems I am hard-pressed to lay you low."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "No matter. If you will not fall, then you will be banished instead!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Rift swallow you!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Here where we Ascians have been forced to retreat time and again, you will meet your demise."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Struggle all you like. Even should you break free, there is no way back."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "In this place you will drift forevermore. Farewell, hero."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "And so it ends. In unceremonious silence."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "You... It cannot be..."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "To me, Warriors of Light!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "I am salvation given form..."
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Mankind's first hero...and his final hope!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "For victory, I render up my all!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Your demise will be our salvation!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "You still stand. Very well..."
+    },
+    {
+      "character": "Spectral Black Mage (text bubble)",
+      "text_en": "In the name of the Light!"
+    },
+    {
+      "character": "Spectral White Mage (text bubble)",
+      "text_en": "For the sake of our world!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Haaah!"
+    },
+    {
+      "character": "Spectral Dark Knight (text bubble)",
+      "text_en": "To the ashes whence you came!"
+    },
+    {
+      "character": "Spectral Bard (text bubble)",
+      "text_en": "Death rain upon you!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Begone, spawn of shadow!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Darkness must be destroyed!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "I will destroy you!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "I shall transcend you!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "My soul knows no surrender!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Hope, grant me strength!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Feel the pain!"
+    },
+    {
+      "character": "Spectral Ninja (text bubble)",
+      "text_en": "Cleansing water, wash away evil!"
+    },
+    {
+      "character": "Spectral Summoner (text bubble)",
+      "text_en": "Lend me your strength, my servants!"
+    },
+    {
+      "character": "Spectral Warrior (text bubble)",
+      "text_en": "I'll cut 'em down to size!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "My duty... No, not yet!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "Clad in prayer, I am invincible!"
+    },
+    {
+      "character": "Warrior of Light",
+      "text_en": "No... I cannot fail... I will not..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Fool! You have achieved nothing! I am immortal, and I will never surrender!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Elidibus. So fixated were you on my memories of the future, you failed to heed the lessons of the past."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Your obsession blinded you to the true nature of this tower ─ this beacon of hope for mankind."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Created to serve as a reservoir for the limitless energy of the heavens! To harness and bind the boundless ─ not unlike white auracite!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Your ill-begotten power, obtained by exploiting that which is best in us... I shall have it, your soul and all!"
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "This..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Yes... I would become Him. I would save everyone. This I believed. Yet still they cried out, in rage and despair..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Divided─over the fate of the star. A rare occurrence, always fleeting. But not this time. Not this time..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Reconciliation. Elidibus. I was needed. I withdrew myself from Zodiark. For them..."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "My people. My brothers. ...My friends."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "Stay strong. Keep the faith. At duty's end, we will meet again. We will. We will."
+    },
+    {
+      "character": "Elidibus",
+      "text_en": "The rains have ceased, and we have been graced with another beautiful day. But you are not here to see it."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I concede, I may have overexerted myself."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Steady now, and listen. I told you before that I had a plan, and that when all was said and done, I would ask a favor of you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "We have averted the Eighth Umbral Calamity. Found a way for everyone to return to the Source, and...last but not least, we have secured the future of all the people of Norvrandt. We have won, my friend."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "So I hope you'll forgive me this moment of selfishness. And...while I wouldn't want you to feel obliged..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Promise me you'll take me on your next adventure. A journey. Together. That's all I ask."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "If I were to tell you that this isn't the end ─ that we will meet again ─ would you believe me?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "My friend. With you, my mind and memories shall travel to the ends of the world and beyond. But in this place shall my body stand immovable."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "May it serve as an undying promise, not only to those who looked to me for leadership, but to any soul who has known despair, that hope is everlasting."
+    },
+    {
+      "character": "Ryne (Narration)",
+      "text_en": "There the Exarch would remain, keeping his silent vigil."
+    },
+    {
+      "character": "Ryne (Narration)",
+      "text_en": "When the Scions were not released from his summoning spell, we proceeded with the plan to return them to the Source."
+    },
+    {
+      "character": "Ryne (Narration)",
+      "text_en": "The Warrior of Darkness, however, retained his / her ability to traverse the two worlds at will."
+    },
+    {
+      "character": "Ryne (Narration)",
+      "text_en": "And in time the Crystal Tower became a symbol of his / her link to the First ─ and of hope."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Sometimes, I wish that I too had been gifted with the Echo. Then I might see what you have seen and glimpse into your heart without the need for words."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Ere we descended from the throne room, I did chance upon an object which, if I have the right of it, did once ─"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...Hm. M-Mine apologies. Mayhap now is not an appropriate time. Let us speak of it later."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Shortly after you left, we observed that our enemy's ranks were no longer being replenished ─ presumably when your absence was noted. So we polished them off and came as quickly as we could."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "...Which is to say, not quickly enough. But then you had the Exarch for company, didn't you, and you could ask for no better than that."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "At such moments, it is hard to know what to say... ...Are you all right, my friend?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You did well, Forename ─ you and the Exarch..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "...Hm? Am I all right? I should be the one asking you..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "But yes, I'm fine, thank you. We all are."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "The people are fine, the city's fine, and the starshowers have stopped."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "It's almost as if we'd gone back to the peaceful days that followed the night's return. Almost."
+    }
+  ]
+}

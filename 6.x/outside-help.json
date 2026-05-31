@@ -1,0 +1,868 @@
+{
+  "id": "outside-help",
+  "wiki_path": "/wiki/Outside_Help",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "Outside Help",
+  "level": "88",
+  "location": "Garlemald(X:13.4,Y:29.8)",
+  "npc_start": "Lucia",
+  "dialogues": [
+    {
+      "character": "Estinien",
+      "text_en": "We couldn't save them all, but if we'd arrived any later, it would've been a massacre."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Things were looking bleak until you and the Ist turned up."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though there'll be time later to discuss your journey to the First, there is one thing I must ask."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Did you perchance speak with our friends in the Crystarium?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Lyna and Beq Lugg both warn me against overexerting myself?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Strange that they would express such similar sentiments ─ identical, in fact ─ but their advice is duly noted."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "This is the contingent's base of operations, I take it?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That the Final Days should manifest here too, after everything these people have suffered, is a fate cruel beyond words."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Nevertheless, with allies old and new at our side, there is yet reason to be hopeful."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "It's been a while since last we spoke. For some time, I was...not myself."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Lucia and the others told me what happened that night...and about the events that took place while I was receiving treatment."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "It was only then that I realized the lengths you and yours go to... I know I might never be able to repay you, but I'll be damned if I don't try."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "And most of all... I want to thank you. All of you. For everything you've done and continue to do for the sake of my people."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We still need to quiz you about your time on the First, if we ever get more than a moment's respite."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "No major injuries then. Good."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I briefed the recovered soldiers and sent them on their way as quickly as I could, but nevertheless feared they would not make it in time."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The additional support was invaluable. Your men saved more than a few lives."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Though not all, I regret to say."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I take it that I am addressing Lucia Junius? I am the Forum's envoy, Fourchenault Leveilleur."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "And you are owed an explanation for these most dire developments."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Another trial wrought by the Final Days... I was beginning to suspect as much."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "You doubtless feel some consternation having been forced to abandon your original plan ─ but trust me when I say you were right to send the refugees elsewhere."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Beasts have been sighted within the capital. Perhaps it was a stroke of grim fortune that the population was decimated beforehand, as they've yet to appear in any great number, but in time..."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "In any case, Maxima leads the remainder of the contingent in an effort to cull the creatures and evacuate the populace as we speak."
+    },
+    {
+      "character": "Lucia",
+      "text_en": "Once the airships have taken to the skies, I pray your men can be persuaded to join him."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "You'll permit us to retain our weapons?"
+    },
+    {
+      "character": "Lucia",
+      "text_en": "I wouldn't have sent you after the Scions were I expecting you to stab them in the back."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And I, for one, would not consider past transgressions more relevant than future contributions."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Regardless of the circumstances that saw us at odds before, we need men of courage now. More than ever."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "We swore to defend Garlemald. And so we shall."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "It seems you have everything under control. You will excuse me, then, for mine own duties await."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A moment, Master Fourchenault."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You did desire to express your appreciation for services rendered, did you not?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I did... Though if you intend to again ask that Sharlayan alter its course, you will find my gratitude insufficient."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis nothing so onerous."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I wish to hear the details of this grand endeavor of yours."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Do you swear to listen and to learn, and not to embark upon some scheme to impede us?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I swear."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "...Hmph. Any other I would doubt, but you I trust to keep your word. For not once have you broken it."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Very well. I will request that the Forum make you privy to our plans. You may await our summons at the Baldesion Annex ─ assuming the decision is in your favor. Does that suffice?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It does. You have my thanks."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Excellent! You can regale us with tales of your most recent sojourn to the First while we wait."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Did you...hear something just now?"
+    },
+    {
+      "character": "???",
+      "text_en": "Pudding... Puuuddiiing..."
+    },
+    {
+      "character": "Puddingway",
+      "text_en": "Where, oh where, is this star's blasted pudding!?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Um...."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Dawn may banish even the darkest night..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And to this bitter clime bring warmth and comfort."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis heartening to see such an assembly upon my return. I thought often of you whilst I looked down upon our star's brilliance from the moon above."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Yes, but what are you doing here? And dressed like that! Aren't you cold?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Verily. I fear for my health should I proceed to expound upon our purpose ere I procure more suitable garments..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Then allow me to summarize ─ we're here because none of you lot are up there! Nor has anyone deigned to send word about any changes in the plans!"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "It's rude, is what it is. Least that's what I thought at first, but then folks got to wondering if you weren't in a spot of bother, so we decided to take matters into our own hands. Come down here and help, if our help be needed."
+    },
+    {
+      "character": "Mappingway",
+      "text_en": "So she says, but it's also something of a convenient excuse to visit Etheirys. Urianger made it sound absolutely marvelous. More so before the impending doom, but still."
+    },
+    {
+      "character": "Singingway",
+      "text_en": "And it's not like there will ever be a better time! What with the aforementioned doom."
+    },
+    {
+      "character": "Puddingway",
+      "text_en": "Marvelous , they say, yet not an onze of pudding to be found! I must suffer Urianger's inferior works no more..."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Hey! Maybe consider the plight of present company before you go blathering on about pudding and doom?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "As I was saying─should you require any assistance with...whatever, we are at your disposal."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "We were born from Hydaelyn's love for the lives of this star, so naturally we would much prefer to see them continue. Twiddling our thumbs up on the moon is hardly conducive to that, though, is it?"
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Aye, not when you've all got such precious thoughts, and feelings, and hopes for the future, deserving of more active preservation. Speaking to Urianger made us realize that while we've carried out our duties to the letter, we've failed to fulfill them in spirit."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "From there it was just a hop, skip, and a jump towards resolving to do better! So please, show us how. Help us help you!"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Forgive me, but are they...?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thy distant collaborators, indeed."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "Hail fellow well met! You'd be a member of the Forum, would you? It's an honor and a pleasure to meet you at last."
+    },
+    {
+      "character": "Livingway",
+      "text_en": "I'm Livingway, Hydaelyn's right paw. That last bit is very important ─ as am I, if I may humbly say so myself."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I, er...bid you welcome to our star, Livingway. On behalf of the Forum, I thank you for traveling such a distance to meet us."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "As you have surmised, preparations for the exodus have not proceeded as smoothly as we had hoped. I should be happy to personally escort you to our headquarters in Sharlayan, where you may advise us as you deem fit."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Twas with reluctance that I set aside the great work of readying the moon for habitation. Be assured that I did so only after the Loporrits made plain their earnest desire to come hither, and I myself felt a growing certainty that their contributions here would prove invaluable."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis trite, perhaps, but...I followed my heart."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For a time, at least. Nevertheless, 'twas worth the journey to find present company well."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I am no esteemed philosopher of eld. Nevertheless, 'tis my hope that what little knowledge I shared shall serve them well, and perchance help save us all."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Wilt thou attend us at the Forum, and lend thine own wisdom?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If that's all quite settled, can we start moving before Urianger catches his death? Even I'm freezing out here."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Oh, I daresay you'll warm up quickly once you're aboard the airship, sat shoulder to shoulder with our fur-covered friends."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I daresay Master Fourchenault was as nonplussed as we to learn the identity of Hydaelyn's lunar custodians. As he will soon discover, they have much and more to offer the Forum."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Might I suggest we return to the annex forthwith?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "We may yet have time to discuss thy recent adventures ere we are summoned to the Rostra."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not that I'm complaining, Urianger, but I wasn't expecting to see you quite so soon."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Nor I thee. In extolling the virtues of Etheirys, I did inadvertently awaken in the Loporrits a desire to avert our beloved star's demise."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Krile tells us you have obtained new knowledge that may aid us in our ongoing efforts."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I've news to share regarding our study of the aetherial sea, but your findings are certain to be of greater interest, and so I would rather hear them first."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To what revelations did Hydaelyn's Elpis flower lead?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Then this “dynamis” is what drives the Final Days..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If it and akasa are one and the same, this all but proves Nidhana's theory."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Were an entity, through sheer force of emotion, to channel this vast, dormant reservoir into a raging river...its power might surpass even that of aether."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But if our star is so replete with aether, said entity would need to be outside its influence to effectively manipulate the dynamis of the great expanse."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Meteion..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Or rather, the sorrow and suffering of fallen civilizations that she has been hoarding for millennia..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Untold anguish and fear and hatred, drawn from every corner of the universe... All for a single purpose: the destruction of Etheirys."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Then our foe is no longer some unknowable calamity."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We have but one aim ─ to defeat Meteion."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You make it sound so simple...but you're not wrong."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Vanquish Meteion and we deliver the world from the Final Days. But to even attempt it, there are two conditions."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "First, we must determine her location."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Before Meteion escaped, an enchantment was placed upon her by Venat. The woman who would become Hydaelyn."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The implications of temporal magicks are not entirely understood, and so we cannot assume that our Hydaelyn and the Venat you met in Elpis are one and the same. Nevertheless, due to Her intrinsic qualities as an all-powerful being, I'd wager that Hydaelyn possesses the knowledge we seek."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Whether She would share that knowledge with us, however, remains to be seen."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "After all, She intends for us to flee Etheirys, not to stay."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Do you suppose She has abandoned Her pursuit of Meteion?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That's my impression, too. Otherwise, She wouldn't have used me as a conduit for Her will, or provided clues such as the Elpis flower."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Aye, though not for lack of trying on Hydaelyn's part. Surely, that's why She used me as a conduit for Her will, and provided clues such as the Elpis flower."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I believe She has been waiting..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "...For mankind's answer to Hermes's question."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So, what's the second condition?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We must find a means to reach Meteion."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Naturally, our chosen method will depend entirely upon wheresoever she has made her nest."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Then communing with Hydaelyn must by necessity come first."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Did you and Master Matoya have any luck with your investigation into the aetherial sea?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Sadly not. Though we enlisted the help of Arenvald and other Echo-blessed allies, we couldn't detect so much as a whisper from Hydaelyn, even from within the Antitower."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Master Matoya is of the opinion that in the years since abandoning it, the Forum has found some other method of receiving instructions from Hydaelyn."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If so, it would most likely be some form of apparatus for observing the aetherial sea, built closer to home."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Sorry to interrupt, we've just received word from the Forum."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Your presence is required in the Rostra, where they intend to discuss the great exodus."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then Father was able to persuade them!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They're finally taking us seriously. Let's hear what they have to say."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Twas Hydaelyn's commandment that in the event Zodiark should perish, the Loporrits were to deliver the people of Etheirys from harm."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though that be the limit of their duties, they possess knowledge unparalleled of the great expanse and the means of its traversal."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Should they be persuaded to assist in our efforts to reach Meteion, we would do well to heed their counsel."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "At first, I wasn't sure what to make of Hermes and his motives."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "But it's like we discussed at the Great Work. When faced with the harsh realities of life, some seek the release of death. Others grow defiant. They fight."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Either way, it is our right to choose."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, that was a much quicker response than I was expecting. Nice to know our efforts on the Magna Glacies didn't go unnoticed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Father has granted us the opportunity we've been waiting for."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though we know not what information ─ if any ─ they intend to reveal, there's only one way to find out. To the Rostra!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "I hope you don't mind me staying behind while you attend your big meeting."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "The Rostra reminds me a bit too much of the Supremely Scary Tribunal in Ishgard. You'll forgive me if I keep my distance..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "After you left for Garlemald, I went to Labyrinthos and tried to reach Hydaelyn using the Elpis flowers."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alas, my attempts were in vain. I can only assume that She spent a vast amount of Her power in the confrontation with Fandaniel and is presently unable to communicate."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed, as Her presence left my body, I could feel how faint it had grown..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Master Matoya has suspected for some time that the Forum has been constructing a new facility for the purpose of surveying the aetherial sea."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Of course, as the custodian of the Antitower, which would presumably be rendered obsolete as a result, she has a few things to say about that. Nothing that should be repeated in polite company, you understand."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "After sending G'raha and Estinien back to Garlemald, I stayed in Locus Amoenus for a time. Being an imperial province, it was already in turmoil before the onset of the Final Days."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You wouldn't believe the difficulties we had overseeing the evacuation of the villages we visited. I have faith the detachment we left behind will continue our work and shepherd the people to safety. To what safety can be found in a world coming to an end."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "To think the Crystal Tower of the First is capable of such feats as sending one's soul into the distant past..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The events you witnessed ─ and helped shape ─ may yet hold the key to forestalling the Final Days."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I'm reminded of dear friends in a future I unmade. Whose selfless efforts saw the Eighth Umbral Calamity averted...in this timeline, at least. Too much has been sacrificed for us to abandon Etheirys now."
+    },
+    {
+      "character": "Rostra Steward",
+      "text_en": "The Forum is in session, and as such, the Rostra is closed to visitors."
+    },
+    {
+      "character": "Rostra Steward",
+      "text_en": "A Scion of the Seventh Dawn? Very well, you may wait in the corridor."
+    },
+    {
+      "character": "Rostra Steward",
+      "text_en": "Of course, entry will only be permitted on the condition you leave your armaments at the door. Lest you forget, this sacred institution holds rational discourse in the highest; the implements of war are expressly forbidden."
+    },
+    {
+      "character": "Rostra Steward",
+      "text_en": "I suggest you make your way inside. The Forum takes a rather dim view of lateness."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There is a matter I wish to raise with you before we enter."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We are here to listen and to learn ─ but if the Forum's plans are more or less what I expect, then I should like to make a proposal that will serve our ends..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "By your leave, of course."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I don't see why not. Your words and wits have gotten us this far."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Agreed. I will present our queries so that you may consider the most advantageous way to advance your proposal without distraction."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank you, everyone."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "If I may have your attention ─ the ad hoc session will now commence."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "The purpose of today's assembly is to brief the Scions of the Seventh Dawn, at their request, on the great exodus."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "You may enter."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "On behalf of the Forum, I commend your heroic actions on the Magna Glacies. We shall not soon forget your service to us and the people of Radz-at-Han."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "The satrap, whom we have informed of the refugees' new arrangements, sings your praises as well."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "As an expression of our gratitude, we will endeavor to answer your questions as fully and openly as we are able."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then let us begin."
+    },
+    {
+      "character": "Krile",
+      "text_en": "First ─ it is the Forum's objective to ferry the life and knowledge of this star to the moon. Am I correct?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "You are. It is for this purpose that Sharlayan has labored these many long years."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "We have collected biological samples and scientific records from across the star. When the time comes, they will be moved from their places in Labyrinthos and Noumenon and conveyed to safety."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Once that critical task has been accomplished, we will begin transporting the Sharlayan citizenry, which has been categorized into groups. The earliest arrivals are to ensure hospitable environs for those who come after."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Following our people, we will send those of other nations in turn, beginning with our allies."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Radz-at-Han was foremost among these, but since the Final Days have already come to Thavnair, we saw fit to include the refugees with earlier groupings."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "An ambitious plan. You have accounted for the safety of all nations and tribes, then?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "...As many as we can."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And how, pray tell, do you decide who to leave behind?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "To journey beyond the sky is an unprecedented and immeasurably difficult endeavor. Introducing sources of inevitable conflict would condemn all to certain death."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Questions as to the validity of that approach aside..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Are your plans proceeding apace? We're under the impression that your primary means of celestial transportation is incomplete."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "If only in that it does not meet our optimal parameters, that is correct."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "This ark, as some have taken to calling it, is fully operational and could be launched even today."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "However, the Final Days have progressed more quickly than we anticipated."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "At present, the ship is incapable of attaining speeds sufficient to meet our evacuation targets."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Should we put the vessel into service as it is now, we will be unable to travel to the moon and back quickly enough to complete the necessary number of trips. Precious lives and knowledge will be lost."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Seven hells... Is there anything to be done?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "The aetherburner ─ the primary means of propulsion once the craft is in the space between stars ─ is undergoing testing to determine whether it can be made more efficient."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Though cargo is being loaded for the initial phase of the exodus, we are prepared to continue our experimentation up to the day before launch should it prove necessary."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What if the Scions were to solve your problem?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We shall help devise a means to improve the aetherburner's efficiency ─ on two conditions."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If we succeed, you must allow us to meet with Hydaelyn."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twas simple enough to deduce. You have a concord, and so you would never have abandoned the Antitower had you no other means of communication."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "One far more convenient, I suspect."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The second condition, also to be met upon our success, is that we be permitted to propose another use for your ark."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "We would be at liberty to refuse this proposal?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Of course. If we cannot prove its merit to the ninety-nine here, who are we to stake on it the lives of all peoples of this star?"
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "Hahaha! Delightful as always, Master Alphinaud!"
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "We couldn't have asked for a finer plan. “Allow us to solve this complex engineering problem of which we were entirely unaware until moments ago. What could possibly go wrong?” Haha! The satire writes itself!"
+    },
+    {
+      "character": "Montichaigne (no text)",
+      "text_en": "Hmph!"
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "Yet what field has not benefited from a change in perspective? When we are at wits' end, what we need is not the same dry theories recited ad nauseam, but fresh inspiration."
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "I, for one, have faith in my erstwhile students to provide it. And I find their terms to be perfectly acceptable."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Order! Order! We have no time to waste on debate. I call a vote."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "All in favor of agreeing to the Scions' terms?"
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Seventy-one in favor, twenty-eight against. The ayes have it."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Fourchenault, as the architect of this project, you are the best candidate to show them its current state. ...And bear in mind that, regardless of your personal misgivings, this is the will of the Forum."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Very well."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "I call this session to a close. Return to your tasks with urgency ─ the Final Days wait for none."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Rest assured, I have every intention of honoring the Forum's decision."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I'm a little vexed that we've yet to learn of the Forum's replacement for the Antitower, though I expect that in time, they'll share that too with us ─ and with Master Matoya, if they've any sense."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "While I very much take issue with the Forum's approach to selecting whom to save and when, they're not wrong for wanting to minimize potential conflicts."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Fortunately, if this plan of ours actually works, the great exodus itself will become entirely unnecessary..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Phew... I'll admit, bringing up the issue of the Forum's incomplete ark was more than a little daunting."
+    },
+    {
+      "character": "Krile",
+      "text_en": "They were, to their credit, quite open about the current state of affairs. What was even more surprising, though, was when they took Alphinaud up on his offer!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The further we pursue the mysteries of the universe, the more I struggle to comprehend the fortuitous nature of time itself."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We measure and quantify it based on observations of celestial bodies, such as the sun and moon, but from your account it is unclear whether the ancients viewed time in a similar manner..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I mention this because while Venat knew the Final Days would reoccur at a defined point in the future, she presumably had no way of knowing exactly when."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Even so, the completion of the Forum's preparations to escape to the moon aligning so closely with the advent of the Final Days is surely no coincidence..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Perhaps if Midgardsormr were still alive ─ in the traditional sense, that is ─ he could have offered to help the vessel attain the necessary speeds."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Then again, there's no guarantee his contribution would make enough of a difference to matter."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Of late, I have seen no sign of the Loporrits..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "This being their first opportunity to experience the wonders of Sharlayan, the potential for misadventure is nigh infinite..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "My affinity for espionage may have earned me the title of Archon, but I was completely unaware of the Forum's plans. There may have been clues here and there, had I been of a mind to look for them...but contemplating that possibility only serves to further wound my pride."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not that anyone could have realistically surmised that their brilliant stratagem was to build a giant ship, fly to the moon ─ a still-larger vessel in truth ─ and use that to travel to another star. Even now, the whole idea seems positively absurd when spoken aloud."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Sorry about not letting the rest of you in on my plan. I was, admittedly, thinking on my feet for the most part."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But since we require both a means of communing with Hydaelyn and reaching Meteion..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...In the spur of the moment, I saw involving ourselves with the completion of the ark as a way to work towards both objectives simultaneously."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "However, we must first keep our end of the bargain by solving the problem of the aetherburner."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'd like to think it is not a challenge beyond our combined expertise. Or at least the expertise of our extended circle of associates."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It might behoove us to learn how an aetherburner actually works before we attempt to improve it, though!"
+    }
+  ]
+}

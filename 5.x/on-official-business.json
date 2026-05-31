@@ -1,0 +1,496 @@
+{
+  "id": "on-official-business",
+  "wiki_path": "/wiki/On_Official_Business",
+  "wiki_image_url": null,
+  "patch": "5.55",
+  "title_en": "On Official Business",
+  "level": "80",
+  "location": "The Fringes(X:6.0,Y:5.9)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Riol",
+      "text_en": "After the Company of Heroes went their separate ways, I did try workin' on me own for a bit. An' I'll admit, it was nice bein' able to pick me own battles. But if ye want to make a real difference, ye need to find a good crew an' stick with 'em."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Speaking of former Crystal Braves, I have not seen Aergmhus of late, constantly away on missions as he is. I wonder how he fares."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, I think we have taken up enough of our colleagues' time...and I am conscious that less life-affirming testimonies await. Let us make our way to Gridania and hear what the others have learned."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "When Alisaie sets her mind on something, there is no stopping her. And her mind was truly set on finding former Braves. For a while, I even feared what she might do to them. But in the event, she was admirably civil. For the most part."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "On the way here, I took the opportunity to write up my notes from our conversation with Alianne and Riol. All that remains is to add Alisaie and G'raha's findings, whatever they may be..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thanks to Tataru's ever-dependable intelligence, we managed to track down a handful of former Braves without any great difficulty."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Some were forthright, others less so, but we heard enough to form a picture. I must warn you, Alphinaud ─ some of their comments were...harsh."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I can well imagine. But their opinions are no less vital to my report. I seek the unvarnished truth."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank you. I will set about adding your findings to my own at once. In the meantime, pray go on ahead to Little Solace and seek out Elder Frixio. I will join you anon."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Leave me to attend to my report and join the others in Little Solace. I shan't keep you waiting long. I know how playful the sylphs can be..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Though I had the honor of sharing a table with Elder Frixio in Ala Mhigo, I did not have an opportunity to speak with him. I do hope my studies have granted me a sufficient grasp of his people's customs."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Now that I think about it, of the four of us, only you and Alphinaud have any real experience in conversing with sylphs. Still, it can't be that hard, can it?"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Ah, welcome, brave one and friends of brave one! How good it is to see walking ones again so soon after the meeting."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "' Indeed it has! Though the palace was very pretty, the meeting was far too noisy for this one. So many shouting ones and squawking ones and cheering ones, with no chance for carefree conversation. Still this one is pleased all ones can be friends."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "No, no! Be at ease. It is true that these ones once delighted in making walking ones dance, but no more."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Oh dear, did brave one take a knock to the head? This one is Frixio! Or perhaps brave one is joking one, yes?"
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Horned one Kan-E-Senna said that walking ones would be coming to Little Solace. Imperial ones also invaded Sylphlands and abducted many of these ones, so these ones will be glad to bear messages between fighting friendly ones!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That is heartening to hear, Elder. It will require all ones to work in unison to stop the Telophoroi."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "These ones will try very hard, of course, but in matters of war, these ones have little experience. Any advice walking ones can provide would be most welcome."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "...Oh? Another pretty silver-haired one? And in quite a hurry, it seems."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alisaie! You must come quickly!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whatever's the matter, Alphinaud? Don't tell me ─ you couldn't read my handwriting."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What? No! A Twin Adder officer accosted me as I was about to set out."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Sharlayan has sent an envoy, who is due to arrive in Gridania at any moment!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "An envoy? Could it be that Krile has managed to sway the Forum?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We shall know soon enough. But there is more. The envoy has requested that the two of us attend the audience with the Elder Seedseer."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Really? I can see why they might want Scions to be present, but us specifically? ...Wait. It isn't who I think it is?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...It is. I could scarce believe it myself, but when I inquired as to the envoy's identity, I was told that it was one “Fourchenault Leveilleur.”"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Your father ? Well, now... The fact that a serving member of the Forum had journeyed here would be surprise enough ─ but him ?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Quite. I glean from this that they are taking the matter seriously."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That may be, but why him and not one of the other ninety-eight Forum members? Unless he volunteered for it..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It has been some time since you last saw your father, has it not? Could it be that he is concerned for your well-being?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Perhaps. But he has always been reluctant to discuss his work with us."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. And whenever we write to our parents, it is invariably our mother who replies."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Nevertheless, I welcome the opportunity to meet with him after so long, even if it is secondary to his true purpose here."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Elder Frixio ─ loath though I am to cut our visit short, we must return to Gridania. Pray accept my apologies, along with my report."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Never mind. There will be time to talk later. This one won't keep walking ones from more urgent matters. Go!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The audience will be held at the Lotus Stand, where the Elder Seedseer awaits even now. Let us be on our way."
+    },
+    {
+      "character": "Frixio",
+      "text_en": "Don't mind this one. Walking one should head back to Gridania with the others. If this one has any questions about the report, this one will be sure to send word."
+    },
+    {
+      "character": "Silent Conjurer",
+      "text_en": "Welcome, Warrior of Light. The Elder Seedseer and your friends are waiting within."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "After all this time away, it will be good to see my father. Even if it is at an official meeting."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ninety-nine may seem like rather a lot of members, but before the Forum was founded, every person of age in Sharlayan was given equal say in its governance."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Many of the institutions that are still active today were established by the people's vote, not least the Studium. As Alisaie and I were constantly reminded during our time there, it is an example of what can be achieved through absolute democracy."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "During my time in Sharlayan, I heard much of Fourchenault Leveilleur. He is a gifted speaker, known amongst other things for the uncompromising application of Forum policy."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "My friends, I thank you all for coming so swiftly."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Word of Master Fourchenault's visit took us quite by surprise. When the Alliance granted Mistress Krile permission to request Sharlayan's aid, we did not anticipate so prompt a reply, much less that it would be delivered by a member of the Forum."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "What the nature of that reply may be, we shall soon discover..."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Elder Seedseer, I thank you for granting me this audience."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I am Fourchenault Leveilleur, here in my capacity as representative of the Forum."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "It is I who should thank you, Master Fourchenault, for journeying so far, and so swiftly. Would that our first meeting could have been under happier circumstances."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It has been too long, Father. You look well."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "As do you both. Ameliance will be glad to hear that you are taking care of yourselves."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How is Mother?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "She misses you terribly, of course, but is otherwise a picture of health."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Circumstances apart, I am grateful that our meeting has afforded me the chance to be reunited with my children at long last. And I believe I also owe you thanks for the hospitality you showed my father, Louisoix, during his sojourn in Eorzea."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "All thanks we owe to him. In the days prior to the Seventh Umbral Calamity, it was your father's tireless efforts which granted us a means to vanquish the primals."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Were it not for him, our strength would have been quite spent by the time the Empire arrived. That Gridania still stands is in large part his achievement. He was a great man."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "He would doubtless have been moved to hear you say so. I must confess, however, that I opposed his decision to intervene."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "And my position remains unchanged."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "“To chart the course of history, not to change it.” I am familiar with the Sharlayans' stance."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "It is more than that. It is our way of life. Who we are."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "But I came here not to deliver a lecture, but the Forum's answer to your request."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Sharlayan will under no circumstances intervene in the conflict between Eorzea and the Garlean Empire."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "...May I ask for what reason the Forum has come to this decision? The Final Days spell the end not only for Eorzea, but the entire world."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "The “Final Days”? Pray, spare me your hyperbole. This conflict is no more than the latest in a series of petty squabbles between yourselves and Garlemald. One in which Sharlayan will take no part. If the Final Days were truly upon us, we would know."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Father, you must ask the Forum to reconsider."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You may feel safe on your little island across the waves, but if you imagine the Telophoroi will leave you be, you are mistaken. They mean to kill us all, themselves included!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Alphinaud is right. We have seen what the enemy is capable of, the lengths to which they'll go. This is no time to turn a blind eye."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If Eorzea falls, so too will Sharlayan. So if you truly love our homeland, you will join us ─ now, before it's too late!"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I thought you knew better than to raise your voice to your elders. It seems I was wrong. Wrong to ever let you leave Sharlayan. I consoled myself that your time abroad would instill in you some hint of restraint, of discipline."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "But I see now that Eorzea has made fools of you both. Have you forgotten why it was that I so vehemently opposed your grandfather's departure?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "For all his wisdom, his only solution was to go to war."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Death. Devastation. Ruin. Even those who claim victory are scarred for life. What prize could ever justify such sacrifice?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "It is the duty of the learned to avert such tragedy. By fanning the flames of war, you forsake all you once held dear."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I see your friend shares your misguided ideals. But unlike him / her , you should know better."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "By espousing such barbaric notions, you subvert the teachings of Sharlayan and place all we have worked for in jeopardy."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Alphinaud, Alisaie. As of this moment, you shall no longer bear the name of Leveilleur."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Father..."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "How you choose to live your lives is no longer my concern. If you wish to walk the path of ruin, I will not stand in your way."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Master Fourchenault! While Sharlayan may have no intention of intervening in this conflict, we can still part as friends. Will you not stay and speak with us, that we might learn of Sharlayan's hopes for the morrow?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "I have said what I came here to say. Any further discussion would be meaningless."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Father, wait!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Don't bother, Alisaie!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "How can you stand there and watch him walk away!? How can you let this happen!?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "It was not so very long ago that we had a friend and neighbor in Sharlayan, and so I clung to the hope that she might yet lend us her strength. But when she forsook Dravania, it would seem she forsook us all."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In order to avoid conflict with Garlemald, the Forum went so far as to order the abandonment of an entire city-state. Their refusal to aid us now is, I am sorry to say, entirely consistent with their historic position."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is it we who walk the path of ruin? Time will tell."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So that's what he came here to say!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That we're all fools for having the temerity to defend ourselves against the Telophoroi!? And as for the rest─"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Like it or not, this was the Forum's decision. To watch from afar while Eorzea burns."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Father was but the messenger. And as he handed down their judgment, I could think of nothing to say that could possibly sway him. I...still can't."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "To have prolonged the discussion would have changed little, for it is not only Master Fourchenault who must be persuaded, but the Forum as a whole. Their decision was made ere your father crossed the sea."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Nor is it like to be changed. And so we shall face the Telophoroi without their aid."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Forgive me, but if they had no intention of helping us, then why would they go to the trouble of sending an envoy in the first place? Why did they not simply keep their counsel, as they are wont to do?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forename ─ has Master Fourchenault arrived yet?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Then it is as I feared. My efforts were in vain."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I pleaded our case to as many Forum members as I could, but they flatly refused to discuss the matter. No ─ that's not exactly true. I should rather say that they ignored every word I said on the subject, without exception. It was almost unnerving."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Could it be that they are hiding something from us? That might go some way to explain Master Fourchenault's...performance."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "When he said that they would know if the Final Days were truly upon us, I dismissed it as pride. But what if they genuinely believe that they know how the world will end, and simply disagree with us about the circumstances?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "That I don't know...but something tells me they are not as unconcerned about the Telophoroi as they claim."
+    },
+    {
+      "character": "Krile",
+      "text_en": "If the threat weren't real, why else would they be so standoffish and secretive?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I would very much like to delve deeper into this, but I'm afraid I've exhausted every avenue of inquiry."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Nor have I fared any better with my other mission, researching Hydaelyn and the aetherial sea. I tried enlisting the help of experts in the field, but it appears the Forum has forbidden anyone from cooperating with us."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Obstructed at every turn..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "So it would seem, but don't lose heart just yet. With all the knowledge and acquaintances we have between us, we can still find a way forward."
+    },
+    {
+      "character": "Krile",
+      "text_en": "To that end, I would like you all to join me here ─ when the time is right, of course. I am aware that matters in Eorzea stand on a knife-edge, but with your permission, I can at least start making the necessary arrangements."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And so you shall! Albeit under less-than-happy circumstances."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It may take a while to secure entry for you all, but I'll let you know when everything is in order. Look after yourselves in the meantime, won't you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Excellent. Obviously, keeping the Telophoroi at bay must take precedence, but with luck, you'll be able to make the journey to Sharlayan ere long."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It may take a while to secure entry for you all, but I'll let you know when everything is in order. Look after yourselves in the meantime, won't you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "After which, assisting me will seem a sweet relief, I'm sure."
+    },
+    {
+      "character": "Krile",
+      "text_en": "While you attend to matters heroical, I shall see about securing entry for you all, and will let you know when everything is in order. Take care in the meantime, won't you?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Your speculations give me cause to hope. Yet if these seeds will bear fruit, I cannot say. While it is possible the Sharlayans hide some secret truth from us, there can be no certainty that its exposure will prompt in them a change of heart. And so, for the present, we must needs confront the plight in which we find ourselves."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The Forum has refused our request for aid, and it falls to us alone to contend with the Telophoroi."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Even with all of Eorzea standing united, there is no guarantee that we will prevail."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What does Sharlayan intend to do if we fail?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "With their knowledge, Sharlayan could have done so much for the cause! They could have helped us to uncover the secrets of the towers and save the tempered captives within, and yet─ Gods !"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Throughout my childhood, I remember Grandfather arguing with my father over Sharlayan's policy of nonintervention. And this time, it was my turn to play the role."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "But if even my grandfather could not win him over, what chance had I? If words exist that may sway him, I know not what they are..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The Forum includes representatives from all of Sharlayan's central institutions. With them hindering Krile's investigation, she will struggle to make any headway on her own."
+    }
+  ]
+}

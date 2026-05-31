@@ -1,0 +1,528 @@
+{
+  "id": "the-call",
+  "wiki_path": "/wiki/The_Call",
+  "wiki_image_url": null,
+  "patch": "4.4",
+  "title_en": "The Call",
+  "level": "70",
+  "location": "The Azim Steppe(X:31.4,Y:11.4)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Cirina",
+      "text_en": "Though the Mol have no love for war, we love our home fiercely. Should the Steppe be threatened, we will rise up to protect it -- as will full many other tribes, I believe."
+    },
+    {
+      "character": "Hien",
+      "text_en": "And so our alliance begins to take shape. Now, if we can just get that aether flowing again, it will have been a successful trip."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We have the requisite consent. 'Tis time to put Nhaama's power to use."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If the aether flows as planned, all that remains is to have the Ironworks' engineers do their work at the ruins. Come, let us return to the House of the Crooked Coin."
+    },
+    {
+      "character": "Hien",
+      "text_en": "I would not have the first idea how to awaken such a contraption, let alone control it. But then I'm not an Archon of Sharlayan."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I shall begin at once. You may wish to step back."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Did it work?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It did. Aether may flow freely to the Burn once more."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To manipulate aether in such vast quantities is draining to say the least. I shall take it slowly for a while."
+    },
+    {
+      "character": "Hien",
+      "text_en": "I do not pretend to understand what you did, Y'shtola, but you did it! Thanks to you—and Forename , of course—we have taken a momentous step towards securing our defenses."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Now, as much as I believe a rest is in order, we should probably make haste back to the enclave."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Agreed. The others may already have returned from their missions, and I would know how things stand."
+    },
+    {
+      "character": "Hien",
+      "text_en": "As would I. Without further ado, then."
+    },
+    {
+      "character": "Hakuro",
+      "text_en": "My lord informs me you were instrumental to the success of his mission to the Azim Steppe. Though we hope to make many more allies, we could wish for no better than you and your fellow Scions."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Each of the factions lent an ear to our petition. As anticipated, however, many were unwilling to do any more than that."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twould seem we are the last to arrive."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Everyone has returned. Excellent. Time to take stock."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Judging by your triumphant expressions, I take it all went well on the Azim Steppe."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed. We have secured a suitable source of energy for the barrier."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Good. Tataru and I have commissioned Garlond Ironworks to ensure that the field generators function as they should. A team of engineers stand ready to set out for the Burn at a moment's notice. You need only say the word."
+    },
+    {
+      "character": "Hien",
+      "text_en": "I thank you for engaging their services on our behalf. The minutiae of the arrangement, you may leave to me."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Which just leaves the small matter of our alliance. So, Yugiri and Hakuro... how fared you with our neighbors?"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "My lord. All of the factions we approached are in agreement that the Empire poses a threat, and many responded positively to talk of an alliance."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "From Hingashi and Sui-no-Sato, however, we received outright rejections. The former will not break its treaty with the Empire and the latter will not involve itself in conflict."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Just as we expected, then. Well, there is naught to be done about it. We must focus on the rest. To each of the nations that were amenable to an alliance, I will personally send a missive."
+    },
+    {
+      "character": "Hien",
+      "text_en": "And once I have attended to that, I believe we will have done everything we can to fortify Doma's defenses—for the time being at least. All of which means I may leave for the meeting in Ala Mhigo with a lighter heart. Yugiri, Hakuro—if you would be so kind as to hold the fort in my absence."
+    },
+    {
+      "character": "Hien",
+      "text_en": "My friends, we could not have achieved so much in so little time without your help. For that, I give you my heartfelt thanks. Till the meeting, then."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I took the liberty of asking Thancred to attend as well. He should have arrived in the Ala Mhigan Quarter by now."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Then let us not keep him waiting. Shall we?"
+    },
+    {
+      "character": "Hien",
+      "text_en": "As I mentioned, I have missives to write and some few other matters to attend to ere I depart. See you anon, my friend."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I knew full well how Hingashi and Sui-no-Sato would respond, yet it did naught to lessen the disappointment when they finally stopped equivocating."
+    },
+    {
+      "character": "Hakuro",
+      "text_en": "Are you perchance familiar with Nagxia? It is the region to the south and west of Yanxia, and home to several small nations. Such peoples well understand the value of an alliance, and thus did many of them receive our proposal most favorably."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us hope that the coming meeting passes more peaceably than the last such gathering in Ala Mhigo..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It occurs to me, this will be the first time I meet the leaders of the Alliance in an official capacity. More stiff greetings, pleasantries, formalities—does that sound about right?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Y'shtola has told me all. And I duly told Urianger and Krile."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Krile, in particular, was concerned about Alphinaud, but I assured her that everything that can be done is being done. She agreed to continue with her own tasks for the time being on the condition that I contact her the moment there is any development."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So, that leaves four of us to attend the council. Arenvald is here to assist with security, incidentally, though the poor lad seems altogether too distracted for the task. Another one missing Alphinaud, I expect."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, but it's almost time. As soon as you are ready, present yourself to the guardsman at the palace entrance. I shan't be far behind."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If you can spare a moment after the proceedings, consider seeking out Arenvald. A word from you would do wonders for the lad, I'm sure."
+    },
+    {
+      "character": "Resistance Guard",
+      "text_en": "Ah, the Scions of the Seventh Dawn, welcome to Ala Mhigo! The Alliance leaders have already arrived. May I show you to the meeting chamber?"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Mistress Lyse. Commander Aldynn. It gives me great pleasure to formally welcome the city-state of Ala Mhigo to the Eorzean Alliance."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The pleasure is ours, Your Grace. I know I speak for all Ala Mhigans when I say that we are glad of this chance to stand with our comrades of the Alliance."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "And we for our part are glad indeed to be able to welcome friends both old and new..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Lord Hien of Doma, at your service. Pray accept my heartfelt thanks for your generous invitation."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Nay, 'tis we who must thank you for journeying so far. And 'twould be remiss of me not to acknowledge the part the Scions of the Seventh Dawn have played in bringing all of us together."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "In times of great unrest, you and yours have been our constant companions, without whom we would not be here."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "With apologies to Lord Hien and Mistress Alisaie, it occurs to me that we have not gathered in this way since that fateful day in Ul'dah."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The day I lost my arm and my freedom... As I lay in my cell, never did I dream that I would one day be given the chance to represent my homeland at this council."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I would not even be alive had you not plucked me from the jaws of death—you, Yugiri, and Alphinaud. Would that the lad could be with us..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I too owe my presence here to Alphinaud. In so many ways... Until such time as he returns, I mean to carry on his good work as best I can."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Come, friends—let us leave the past in the past, and turn our eyes to the future. My lord Hien, pray tell us how things stand in the East."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Having heard the rumors of dissent in Garlemald, I dared to dream of a peaceable solution..."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Hm. The Empire will not so easily change its ways."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "If the Garleans have a mind to take back Doma and Ala Mhigo, we'll be hard-pressed to stop them. Even with the might of six nations."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "But while we lack the strength to fight the tide, a course may yet present itself if we read the winds aright."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "The winds suggest but one course to me—one which leads from the sea unto the river and thence to the source of all our woes."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "The Ascians."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Indeed. All here have felt their blighted touch. It was the Bringers of Chaos who nurtured the archbishop's tyrannical ambitions..."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "They who bestowed upon him the secrets of summoning, as they have so many others, before and since. And while they remain, we shall know no peace."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Our objective is clear. The question is how to achieve it. That our enemy parades about in Zenos's skin poses problems in itself, but ere we get to them, how are we to infiltrate the Empire and get close enough to strike?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "While I see the wisdom in targeting the Ascians, an assassination attempt on Garlean soil would do little to aid our cause... even were it to succeed. It's time we used our enemy's preferred tactic: subterfuge."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You have an idea?"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Speak your mind, Master Thancred. None here know the enemy better than the Scions, and you mayhap best of all."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Whatever it is you propose, we will give it fair hearing. On that you have my word."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Very well, Admiral. My proposal is thus."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We dispatch the shinobi to imperial territory. There, they sow the rumor that the crown prince perished in the battle for Ala Mhigo, and that the man parading around is in fact a corpse inhabited by a servant of darkness."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Well... it does have the ring of truth about it. And were the Garleans to learn that their future ruler is a puppet, the Empire would be shaken to the core."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "But—at the risk of sounding stupid -- would they actually believe such an unlikely story? I didn't."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ordinarily not. But prior to his miraculous recovery, rumors of Zenos's death had already begun to circulate around the Empire."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ultimately, however, what the masses believe is not our chief concern. Our true objective is to create an opening for rival factions within Garlemald to exploit."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Just as a war of succession erupted in the wake of Emperor Solus's death!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A war which raged until but recently, plunging the imperial house into disarray as nephew and uncle grappled for the throne."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It is no coincidence that one of Varis's first acts as Emperor was to name Zenos heir apparent—family feuds being so tiresome when armies are involved. Not all welcomed his choice of successor, however."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "There is no shortage of individuals who aspire to the throne—who would jump at any chance to seize power. The news that Zenos is not only dead, but a puppet to diabolical forces, would be too enticing to ignore."
+    },
+    {
+      "character": "Hien",
+      "text_en": "The Empire would not be quick to recover from a second war of succession."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I am no stranger to infiltrating imperial territory. With a team of operatives gathered from among the Alliance's finest, the plan should have a reasonable chance of success."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Doma already has shinobi in place throughout the provinces. We stand ready to act, and act we must. What say you all?"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I am for Master Thancred's proposal. We shine a light upon the Ascian and test the Empire's unity."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "'Twas his plot that scuttled Doma's negotiations, was it not? Why then, if we can eliminate him, there may yet be a chance for peace."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Let us wage this war of subterfuge, that we may one day lay down our arms. Gods know, we never will while the Ascians remain."
+    },
+    {
+      "character": "???",
+      "text_en": "That way... sorrow..."
+    },
+    {
+      "character": "???",
+      "text_en": "History... must be changed..."
+    },
+    {
+      "character": "???",
+      "text_en": "Ahead looms a Calamity."
+    },
+    {
+      "character": "???",
+      "text_en": "Ahead looms Light, expunging all form and life."
+    },
+    {
+      "character": "???",
+      "text_en": "Twin dooms only you can forestall. Only you."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "What's the matter!?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "There's... there's a voice..."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Spies in our midst!?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Nay. I sense no such presence."
+    },
+    {
+      "character": "???",
+      "text_en": "Let expanse contract, eon become instant..."
+    },
+    {
+      "character": "???",
+      "text_en": "Throw wide the gates that we may pass!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Is it over?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Master Thancred!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Twelve forfend..."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Bear him to a private chamber. Have every healer make ready."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Swiftly!"
+    },
+    {
+      "character": "Resistance Healer",
+      "text_en": "Master Thancred remains in slumber. Though his vital signs appear stable, he is unresponsive."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "What could have done this? And why just him and not the others?"
+    },
+    {
+      "character": "Resistance Healer",
+      "text_en": "I'm afraid we could not identify the cause, my lady. Our examinations revealed no wounds, nor the presence of any poisonous substances..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Gods, that only makes it worse. You're to let us know the moment there's any change, all right?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thank you for coming. Knowing Thancred, he would apologize for being otherwise engaged at so crucial a juncture."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "In gifting us a course of action, Thancred sowed the seed of all that is to follow. We have but to nurture it as best we can. To him I would say rest easy, that he may wake to enjoy the fruits of our labors."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Now, the matter of the mysterious voice must not be forgotten. Will you tell me exactly what happened?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Alisaie and I heard a voice in the moments before Thancred collapsed. It was accompanied by a severe headache—as if something were clutching at our minds. Did you experience the same thing?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...So, in between the voice and the pain, you felt as if you were somewhere else entirely?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Your testimony confirms my suspicion. That which you experienced was, I believe, your soul being plucked from your flesh. Called ."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Called?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I myself examined Thancred."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Reach out as I may, I could not sense in him the spark of life that is his soul."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "That Thancred alone was stricken so is likely due to his heightened sensitivity to the effects of aether—a consequence of his prior possession by the Ascian Lahabrea."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The owner of the voice, whoever it may be, reached out to you—called your souls—and in so doing caused you and yours such pain."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But... if that's true, where exactly are we being called to ?"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "I know not. Yet one thing is plain: whoever waits for you on the other side is possessed of a power unlike any I have ever known."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forgive us, Lyse, but may we leave Thancred in your care for a time?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "As if you had to ask. I may not be a Scion anymore, but I'm no less a friend."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Don't worry, I'll see to it that Thancred's well looked after. Just focus on solving this mystery, all right?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Thank you, Lyse."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As the Elder Seedseer says, 'tis no ordinary individual we are dealing with. Nor can we discount the possibility of Ascian involvement."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whoever or whatever is behind this, the sooner we find out the better."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Don't worry about Thancred. I'll send word as soon as there's any change."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Never have I encountered such a phenomenon. If this is magic, it is beyond my ken."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If the Ascians are indeed responsible, we must take steps to protect ourselves. Though I know not how..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I just tried to call Urianger on his linkpearl. He didn't respond, but I dare to hope that he possesses some knowledge we do not."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Ah, Urianger! Something happened during the meeting. Thancred's collapsed. A disembodied voice suddenly started—"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "... What ? But that's... We should talk about this in person. ...All right. We'll meet you there."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That was Urianger. He heard the voice too!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In Thanalan ? Hm."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As we alone were afflicted at the meeting, I had my suspicions, but if the voice also spoke to Urianger, there can be little doubt: the Scions were targeted specifically."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "By whom and to what end is the question. One to which we must find an answer with all possible haste."
+    }
+  ]
+}

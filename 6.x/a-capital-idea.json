@@ -1,0 +1,492 @@
+{
+  "id": "a-capital-idea",
+  "wiki_path": "/wiki/A_Capital_Idea",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "A Capital Idea",
+  "level": "82",
+  "location": "Old Sharlayan(X:3.3,Y:9.1)",
+  "npc_start": "Krile",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "While Scholarch Montichaigne is best known for his role as head of the Studium, he is said to be one of the finest mages Sharlayan has ever produced."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Having seen for myself the ease with which he weaves extraordinarily complex and powerful magicks, I have no reason to doubt the claim."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Some of my earliest memories are of Scholarch Montichaigne, actually. He was a close friend of our grandfather."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "He would come for tea and amaze us with his tricks, much like his demonstration with the paper and ink. He's a huge part of why I wanted to enter the Studium in the first place."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Well, that's given me much to mull over. I feel as though we're one step closer to understanding the Forum's true motives...and the mysteries of life itself, for good measure."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It's funny─ I came here with the intent of expressing my gratitude, only to leave more indebted than before. I've a feeling his friendship and support will be a great boon to us in days to come."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And on that note, let's head back to the annex. Perhaps on the way, you could better acquaint yourself with Qih Aliapoh as the scholarch suggested, while I share our findings with Raha."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You'd better not let your guard down around Qih. One small favor becomes another, then another, and before you know it, you'll be running to the other side of the world in search of a bottle of wine or some other rubbish."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then again, it might make for a welcome change of pace from your usual heroics, and as the scholarch said, it could also lead to interesting discoveries."
+    },
+    {
+      "character": "Krile",
+      "text_en": "It seems I've done an adequate job of relaying Scholarch Montichaigne's lecture to Raha. Given his experiences in the field of souls and memories, he had no trouble understanding it."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Estinien returned not long after we'd departed for the Studium. A shame that he missed the chance to attend our lecture with the scholarch... Or perhaps not."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Having spent most of the time in Thavnair, I've yet to fully grasp the lie of the land here in Sharlayan. Even finding my way to the annex proved a challenge."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah, welcome back. From what I hear, your trip to the Studium proved most educational."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While you were away, I received word from our fellow Scions."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As expected, news of the warding scales was met with much joy. Preparations are now underway to bring the leadership of the Grand Company of Eorzea and the Eastern alliance together to determine a way forward."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Our friends have asked that we bring the scales in our possession to Limsa Lominsa."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So the time has come for us to go on the offensive?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "It's too early to say for certain, but that does seem to be the way the winds are blowing."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I, for one, can think of no reason to oppose such a plan, but let us see what awaits us in Vylbrand."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Let's start by getting the scales out of storage. Give me a hand would you, Estinien?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Phew... I didn't realize these crates were so heavy."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I shouldn't complain, though. Vrtra and the alchemists of the Great Work put their heart and soul into each and every one of these scales, so you must treat them with the utmost care."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you not coming with us?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "As much as I would like to escape the Forum's watchful gaze, I've little choice but to stay behind."
+    },
+    {
+      "character": "Krile",
+      "text_en": "We're already on thin ice, and if I ─ in my capacity as our official representative ─ were found to be consorting with foreign powers... Well, you can imagine how that would go."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I shall remain here, and do my utmost to avoid ruffling any more feathers as I await word from Master Matoya and our other allies."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "With luck, we'll soon have good news of our own to share."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The tide is about to turn─ I can feel it. To Limsa Lominsa!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "If you learn aught of interest, be sure to let me know! In the meantime, I will do what I can to aid our cause, though I fear that will be precious little given the circumstances."
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "Ah, I was told to expect you. As you may or may not be aware, the Admiral is at present entertaining the Elder Seedseer and the sultana."
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "Three of the most powerful women in the world in one room... Do you need a moment to prepare, or shall I show you to them?"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "My apologies for calling you away from Sharlayan at such short notice."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "On the contrary, we are honored and grateful. And pleasantly surprised to be joined by such esteemed company."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "'Twas only right that this discussion be conducted in person."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "We are locked in a war of attrition. Our forces struggle to contain the threat posed by the towers, and it is only a matter of time before we are overwhelmed."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Victory will only be claimed through decisive action, and we have taken the initiative to set the wheels in motion."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It is reassuring to learn we are all in accord..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...But might I ask what your plan entails?"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "It hinges entirely on the warding scales and our ability to utilize their potential to the fullest."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "During your time in Sharlayan, the allied nations have been engaged on separate fronts, with no end in sight."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "To make matters worse, a surge in abductions of kobolds, Sahagin, Ixal, and Ananta have given rise to an increasing number of primals as well."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "But your triumph in Radz-at-Han has given us cause to hope once more."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "The time has come to free ourselves of this menace."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "And it is you, the Scions of the Seventh Dawn, who have shown us the way!"
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "While the bulk of our forces will continue to hold the Telophoroi at bay, we will dispatch our finest to strike at the enemy's heart: Garlemald."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "These brave few will be the Ilsabard contingent."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To think such progress has been made in so short a span!"
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Its objectives are twofold."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "The first is to provide aid to the people of Garlemald."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "As previously reported, countless imperial soldiers and civilians have been tempered. Robbed of their free will, they serve the Telophoroi's every whim without question."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "They too are victims. It is our duty to deliver them from their suffering, not for strategic or political gain, but because it is the right thing to do."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "I do not ask that we set aside the decades of conflict and conquest ─ that we simply choose to forgive and forget."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "I ask only that in choosing to remember we do not also forsake our compassion and morality, for without that, there can be no reconciliation. Only death without end."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Aye, on that we can all agree. Our second objective is the colossal tower that Thancred and Urianger observed in the capital."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Though its purpose remains unclear, there's reason to believe the smaller spires are merely a precursor of what's yet to come."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Until the Tower of Zot was toppled, we'd failed to make any headway ─ though the same could be said of the Telophoroi. They're certainly in no rush to press further into our lands."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "I'd wager the spires' primary purpose is to divide and keep us occupied...while they work towards our annihilation."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "This would appear to be substantiated by Y'shtola's analysis of the towers' influence on aetherial currents."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Based on her observations inside the Tower of Zot, the spires siphon aether from the land, consuming it to maintain their form. However, they draw forth far more than is required for this task alone."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "The excess of aether remains unaccounted for, but we can be sure it is not being harnessed for our benefit."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "It wouldn't surprise me in the least if it was being redirected to the larger spire in the capital. There's a logic in that. Regardless, once we have uncovered the truth..."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "...We'll bring their schemes crashing down, along with their infernal towers."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "That's all well and good."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "But what would you have us do? I assume it's more than handing over the scales and being on our way."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "We want you and your scales to join the Ilsabard contingent."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Consider it an official request, from both the Grand Company of Eorzea and the Eastern alliance. Do you accept?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Perhaps you should be the one to answer that..."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Couldn't have put it better myself."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "Y'shtola, Thancred, and Urianger have already pledged their support, and are on their way to meet the rest of the contingent."
+    },
+    {
+      "character": "Kan-E-Senna",
+      "text_en": "They were positive you would come to the same decision as they did. Luckily for all involved, their prediction was correct."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Once you have delivered the warding scales to Ala Mhigo, the contingent will embark on its journey to Ilsabard."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Raubahn and Lord Aymeric are overseeing preparations, so I suggest you make yourselves known upon arrival."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Pack warm clothing ─ furs and the like. Without it, the cold will do you in before the Telophoroi so much as draw steel. As for us, we'll keep the enemy busy while you're gone. They're not the only ones who can create a diversion."
+    },
+    {
+      "character": "Merlwyb",
+      "text_en": "Now go, safe in the knowledge Eorzea will be as you left it─or better─upon your return."
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "Though we are used to attending to dignitaries, it is rare to receive so many at once."
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "Oh, and did you recognize the sultana's shield? None other than Jenlyns Straightblade, captain of the Sultansworn."
+    },
+    {
+      "character": "Zanthael",
+      "text_en": "Nowhere near as imposing and impressive as Storm Marshal Slafyrsyn, but I nevertheless sense there's more to him than meets the eye..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You know, I'm quite looking forward to seeing who's been selected for the Ilsabard contingent. I've a few people in mind. Care to make a friendly wager?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'll admit, this is all rather daunting, though not quite in the way I was expecting..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We'll be standing shoulder to shoulder with our alliance's finest. The best of the best. The Warrior of Light, and...well, me."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's silly, I know. Perhaps this is my way of distracting myself from the part I should be worried about...marching into Garlemald."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I must quiz Thancred and Urianger on the conditions we can expect in Garlemald. I know it's cold, but how cold? Will I need to keep my ears covered? They can be a bit sensitive at times..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "If Aymeric asks after me, say I'm getting on fine and leave it at that. Don't you dare breathe a word about the cord."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Ah, fancy meeting you here. I trust our mutual friend is settling into life as a Scion?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Collaboration never was his forte. The moment the fighting ended, off he'd go, like a gaelicat swept up in a strong breeze."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "But rest assured, he will always be there when you need him. Probably."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Ah, the wanderers return! You've been busy, bringing down a tower and producing the keys to destroying the rest of them."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You should be proud. Those warding scales of yours are what's made this whole venture possible."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Will you and Lord Aymeric be leading the contingent?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Regrettably, no. Our role is to organize the various delegations into a cohesive unit. Once we have seen you all off, it's back to our respective posts."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "We dare not neglect our duties for too long lest our defensive efforts fall into disarray."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "And just between us, there was a fair amount of opposition to the formation of the Ilsabard contingent. The very suggestion that we send out some of our finest troops behind enemy lines to render aid unto the Garleans has made me rather unpopular in certain quarters..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Hmph. Can't please them all."
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "Sadly not, though I do my best. Truth be told, I'd much rather be at your side, charging into the fray. Alas, I've battles of my own to fight, where words may serve me better than any blade."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I hate to say it, but Lord Aymeric's struggles mirror my own."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "For the time being, the best we can offer you is the peace of mind from knowing Eorzea is in safe hands."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "As you fight the good fight in Ilsabard, I and the other commanders will do what we can to convince the naysayers that our cause is just."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thank you. Both of you."
+    },
+    {
+      "character": "???",
+      "text_en": "We meet again..."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Much has occurred since we parted ways in Werlyt. From what I gather, the protective talismans you obtained led to the formation of this expeditionary force."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Word of your exploits travels quickly. From what I gather, the protective talismans you obtained led to the formation of this expeditionary force."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "My contribution on this occasion is but a minor one, that being the information I have shared with Maxima. For the sake of the people of Garlemald, may the fates be on your side."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "So you're not coming with us."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Strange. I thought you'd have a stake in this."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "I do. The Telophoroi have laid waste to my homeland and enslaved my people."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "But though every mote of my being cries for vengeance, I cannot be the one to deliver it. My presence alone would place the entire mission in jeopardy."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "I stand accused of murdering Emperor Varis and plunging Garlemald into chaos. Were I to travel with the Ilsabard contingent, it would give my countrymen ample cause to question our motives."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Conversely, those who believe me innocent may instead celebrate the return of a former legatus and attempt to raise me to a position of leadership, further destabilizing the region and complicating the contingent's mission."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Whether I am branded a villain or hailed as a hero, I would only hinder your efforts."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "For what it is worth, you have my gratitude."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "You and your comrades have the strength and courage to deliver my countrymen. I am certain of it."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "A fair point, but so long as you refrain from announcing your arrival to all and sundry, the average person should have no inkling as to your identity."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Although your titles and deeds are common knowledge, only a select few would recognize you on sight alone."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Perhaps one day, they will learn that the Warrior of Light is not a demon to be feared, but a man / woman deserving of their trust."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "And I will defend it to my dying breath. After the sacrifices my sons and daughters have made, I can do no less."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "I and the government of Werlyt intend to offer refuge to those fleeing Garlemald. Should the time come, we will be ready."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "In light of Gaius's rather unique circumstances, I instead will assume the role of your guide."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Though I may have defected for political reasons, my love for Garlemald endures. I would stop at nothing to protect her and her people."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Well said. Might I ask you to escort our friends inside?"
+    },
+    {
+      "character": "Aymeric",
+      "text_en": "You might even bump into an old acquaintance or two. And if I don't see you again ere you depart, may the Fury guide and protect you. All of you."
+    }
+  ]
+}

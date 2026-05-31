@@ -1,0 +1,540 @@
+{
+  "id": "travelers-of-norvrandt",
+  "wiki_path": "/wiki/Travelers_of_Norvrandt",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "Travelers of Norvrandt",
+  "level": "70",
+  "location": "The Crystarium(X:12.4,Y:11.2)",
+  "npc_start": "Crystal Exarch",
+  "dialogues": [
+    {
+      "character": "Crystal Exarch",
+      "text_en": "You've done as I requested, and learned something of the world in which you find yourself. Now it's time I fulfilled my half of the bargain, and explained what has befallen your comrades."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "That is a conversation I would rather have in the privacy of my quarters, however. I must go on ahead to the tower and organize a few things, but I shall see that the guard knows to admit you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Well, yes, of course. It can be opened and closed just like any other. Does that seem strange to you?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I know not how the tower functioned in your time, but I assure you there is no danger of us being locked inside."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...I am not familiar with that name. Is there something I should know?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "An extraordinary tale. But I'm afraid I found no such individual residing in the tower when it passed into my care. Mayhap we can revisit that mystery another time. For now, I think it best that we focus on the present."
+    },
+    {
+      "character": "Crystarium Gatekeep",
+      "text_en": "Greetings, sir / madam . The Exarch awaits you within."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Welcome to the Ocular, my private study. We can speak here without fear of being overheard."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I have much to explain, but the truths which I must touch upon in doing so would cause only distress and confusion to the people of this world. Pray keep that in mind."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Now, I am sure you are desperate to know the fate of your fellow Scions."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "To put it simply, they are here in the First..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Their arrival, however, was not as recent as you may imagine. Here, time flows at a different pace from that of the Source."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In the space of a single hour in your home world, an entire year might pass in the First─and the reverse could also be true. The pace fluctuates without rhyme or reason, and it cannot be predicted."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "That said, we seem to be entering a period of near-equivalence, and thus, for the moment, you need not overly concern yourself with the passage of time."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As for your companions, however... Y'shtola and Urianger have dwelled here for three winters all told, while Thancred's count stands at five."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Even our more “recent” arrivals, Alphinaud and Alisaie, have lived in the First for almost a year."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "My intention had been to summon only you, but the art of reaching across worlds has proven exceedingly difficult to master. Thus it was that my fumbling hand closed upon those to whom your fate is most closely bound as well."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As they were not the object of my summons...their transference was...incomplete. Though they may appear to possess corporeal bodies, they are, in truth, merely spirits that one can see and touch."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Consequently, while you yourself will be able to pass between worlds with relative freedom, they will not. Much as it grieves me...they are stranded here, unable to return."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "We spent every waking hour searching for a way to reverse the summoning. In the beginning, at least..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As you may have surmised, however, our efforts met with little success. And then we all but abandoned the endeavor once Urianger shared with us the vision he had witnessed during his journey through the rift."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In that chaotic no-man's-land between realms, time and space warp and blend in...unexpected ways. What Urianger saw...was the future. That which would one day come to pass."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In his vision of tomorrow, the First was rejoined with the Source..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "This collision of worlds brought about the Eighth Umbral Calamity, and the deaths of countless multitudes."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Amongst those who perished, Urianger clearly saw the fall of the Scions' mightiest champion. He watched you die."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And thus did the Scions embrace their exile, and began searching this world for a means to forestall the coming catastrophe in yours."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Their souls are stranded in the First, yes, but they have fought on, desperate to save their home─and you─from destruction."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Nor have their efforts been in vain: for it was they who finally established that the elimination of the sin eaters will indeed serve to prevent the calamity."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Considering the...circumstances of our meeting, you would be forgiven for doubting my version of events."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And so, before all else, I would suggest you track down your comrades, and hear the tale from their lips."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I shall, of course, be happy to assist in these reunions─and you need not make any decisions regarding your involvement until you are certain of where you stand."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Meanwhile, I promise I will not rest until I have found a way to help your friends return home."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "What say you? Have I earned your trust for the moment, at least?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Excellent. You will not regret this."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "With that settled, we shall have to see about getting you ready for the road."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Traveling across the rift has no doubt left you weary─I will arrange for a room where you might rest in comfort. While it's being prepared, perhaps I can show you around?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "The Crystarium boasts a number of residential districts, but I have been informed that a room has just become available at the Pendants."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Which, as it turns out, is perfect. Our path there will take us past the markets, and I was hoping to give you my own introduction to their wares. Come along."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "This is the Musica Universalis, the commercial heart of the Crystarium. Aught you might need to prepare for your journeys can be purchased here."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Ah, yes─you must be curious about the currency. Fear not! The gil you carry will serve you well enough."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Each nation once minted its own coins, but 'twas all a jumbled mess following the Flood."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "After much debate, the local merchants eventually elected to revert to the old ways, wherein a coin's value was decided by the worth of its metal."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As for a unit of measurement, we agreed upon the term “gil.” A word borrowed from coins uncovered within the Crystal Tower here."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And as our traders peddled their wares across the land, so too did our usage of gil become common practice."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "From what Y'shtola tells me, a standard coin from the Source equates to exactly one gil here─or near enough not to matter."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Our way of life has benefited greatly from the artifacts we recovered from the tower..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...Some of which may be familiar to you."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "But I fear it would not be practical for us to provide everything to which you are accustomed. You shall need a means to access the commodities of your home world..."
+    },
+    {
+      "character": "Crystal Exarch (Fae Speak)",
+      "text_en": "[Are you there, my friend?]"
+    },
+    {
+      "character": "???",
+      "text_en": "Yes, I'm here, of course I'm here! What amusements do you have for me today?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "My dear Feo Ul, paragon of pixie-kind. For you, I have the most vital task."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "This fine sir / lady is a friend from a distant realm."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "And we have need of a means to ferry things back and forth from his / her home. Might you be able to...assist us in this matter?"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "You came from beyond, didn't you!? From beyond the rift!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "How wonderfully exciting! What a brave and reckless and marvelous thing you did! You've the heart of a pixie, you do!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "After careful consideration, I have decided to grant you my assistance. Make a pact with me, and the fun can begin!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "But answer me this, traveler: did your garments come with you when you crossed over? Your teeth? Your nails?"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Just as I thought! Then you've a good, stout connection with your home, through which all your belongings great and small may easily pass."
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "From this moment forth, I will be your [beautiful branch], and you my [adorable sapling]. Like the branch which sprouts from the sapling, our bond will flow unbroken from one to the other!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Raise your hand."
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "'Tis done! We are bound now, dearest sapling. Come, come, then! Make your request! Tell me your desire! I wish to visit this world of yours!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Mayhap a message to your friends in the Source to inform them of your safe arrival?"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Consider it done!"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As you heard, that was Feo Ul of the pixies. Their kind possess an affinity for magic akin to that of arcane beings."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "They rarely show themselves in populated areas, but Feo is insatiably curious even by pixie standards, and seems to have taken a liking to the Crystarium."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Right, we were going to organize a room for you, weren't we? Come along."
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "Welcome to the Pendants, sir / miss . You're here with the Exarch...?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Ah, there you are─I was just finalizing the matter of your accommodation. You'll have a private room here at the Pendants for the duration of your stay, to make use of as you see fit."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "When you are ready to retire, the manager will show you to your lodgings. Pray rest and recuperate, and we shall reconvene in the Ocular anon."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I believe that covers all of the practical concerns..."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "...Thank you for answering my call, Forename . We are denied the comforting blanket of night, but may peaceful dreams attend you nonetheless."
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "A pleasure to meet you, sir / miss , and welcome to your new home at the Pendants."
+    },
+    {
+      "character": "Manager of Suites",
+      "text_en": "Your room is ready, if you'd care to retire?"
+    },
+    {
+      "character": "???",
+      "text_en": "...You...?"
+    },
+    {
+      "character": "???",
+      "text_en": "I know you... You're the Warrior of Light from the Source!"
+    },
+    {
+      "character": "???",
+      "text_en": "What? Did you just... You can hear me!?"
+    },
+    {
+      "character": "???",
+      "text_en": "Oh, gods, how long has it been...?"
+    },
+    {
+      "character": "???",
+      "text_en": "...Aye...aye, that was what I called myself in your world... The “Warrior of Darkness.”"
+    },
+    {
+      "character": "???",
+      "text_en": "What? Did you just... You can hear me!?"
+    },
+    {
+      "character": "???",
+      "text_en": "Oh, gods, how long has it been...?"
+    },
+    {
+      "character": "???",
+      "text_en": "...“And who are you?” he / she says. An enemy not worth remembering, apparently..."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "My real name is Ardbert. I used an alias in the Source. A daft one, looking back..."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "If you recall my tale, it was my comrades and I who caused the Flood."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "We thought our home doomed. And so we listened to the Ascians─let them guide us to the Source, and tried to hasten their godsdamned Ardor."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "I remember when we fell, defeated by you and yours. I remember our audience with Minfilia─how she listened to our pleas, and returned our souls to the First."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "The Flood was poised to swallow Norvrandt..."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "Minfilia and my friends, they...they surrendered what little they had left to hold it back. Just faded away...leaving me to bear witness."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "Tell me, do you know the year? How much time has passed since we caused the Flood?"
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "A hundred years... A hundred long years..."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "My hands find no purchase. My gestures catch no eye. And my pleas, be they whispered or screamed, reach not a single ear..."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "I am a shade, cursed to do naught but drift."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "I feel as if I've been walking forever... I hardly noticed when my mind and body began to fray at the edges."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "Then “bang,” my senses were sharp again. I felt like a fish being reeled in, and before I knew it, I found myself in this room."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "Why is it that you can see me? What are you even doing here, come to that?"
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "You were summoned to save the First?"
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "A waste of time. This world is beyond saving─like those who try to save it."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "Muddled as my mind may be, I've not forgotten that."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "But if fate has brought me to you─the one person in this godsforsaken world who can see and hear me─then perhaps there is a reason I endured."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "If I can find out why I was left behind, then maybe...maybe I can bring this journey of mine to an end..."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "Well. I'll be watching, Warrior of Light."
+    },
+    {
+      "character": "Ardbert",
+      "text_en": "But do me a favor. Be careful out there. This world has had its fill of heroes."
+    },
+    {
+      "character": "Crystarium Gatekeep",
+      "text_en": "Master / Mistress Forename . The Exarch awaits you within."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Ah, how did you find your new quarters? I trust you were able to rest?"
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "That is good to hear. Should you want for anything, pray let me know."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "I...was not aware the room was haunted. And...you were rather tired... Well, should you receive another visitation, be sure to let me know."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Now, let us return to the subject of the Scions' whereabouts."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "This map shows the lands of Norvrandt, the only area to be spared the Flood of Light."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "The Crystarium is here, in the region known as Lakeland."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "To the north is the faerie kingdom of Il Mheg. That is where you will find Urianger."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "To the east lies the once-prosperous civilization of Rak'tika. Y'shtola is stationed there, in the heart of the forest."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Alas, neither location can be reached without considerable difficulty."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "As such, I would suggest you first seek out one of the twins─each of whom is stationed but a short flight from the Crystarium."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Alphinaud is on Kholusia, an island off the western shore. It is home to a city called Eulmore, where the rich and privileged while away their days in idleness."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "For his part in furthering our cause, Alphinaud journeyed there to meet with the citizenry and forge alliances. From what I hear, he has since kept himself busy gathering information around the main settlement."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Alisaie, meanwhile, traveled south to the arid wastes of Amh Araeng."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "They lie upon the very edge of the inhabitable world, where the Flood of Light was halted. Those who dwell there live in constant fear of attack by the sin eaters."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "In contrast to her brother, Alisaie felt that her energies would better be spent learning about the enemy. And thus she sells her services as a guard, both to hone her skills and gather information on our foe."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "So, will it be Kholusia or Amh Araeng? It matters not which you choose to visit first."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Simply inform me once you have made your decision, and I will see to it that you are provided with a suitable mount."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Ah, but you must be wondering about Thancred. He has taken up with...a new companion, and is presently engaged as a wandering hunter of sin eaters."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Being ever on the move, his whereabouts are often difficult to ascertain, but I am certain your paths will cross ere long."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "Arenvald has taken the lead in our efforts to contain the primals."
+    },
+    {
+      "character": "Alianne",
+      "text_en": "He is adamant that we hold the fort, leaving you free to pursue greater matters, and the rest of us could not agree more."
+    },
+    {
+      "character": "Isildaure",
+      "text_en": "Welcome, Forename . As you can see, nothing of consequence has happened while you were away. You needn't worry for us."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Forename , y-you're back! Have you already finished saving the world!?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "...Not quite? Well, if you need to get back to the First, it should be a simple matter of touching the beacon. It's at the same place we found it!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Forename ! I was going about my business the other day when a feisty little pixie suddenly appeared and gave me a report about your doings!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It certainly sounds like you have your work cut out for you. So just leave things here to me and focus on getting things done in the First!"
+    },
+    {
+      "character": "Ephemie",
+      "text_en": "If you are worried about the Archons' bodies, rest assured all is unchanged and well. We here continue taking turns watching over them."
+    },
+    {
+      "character": "Riol",
+      "text_en": "Together with the Eorzean and Eastern alliances, we've been wagin' our war o' subterfuge in the Empire. Thancred's left big shoes to fill, but I try to fill 'em as best I can."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Forename ! I almost had trouble believing the reports Tataru shared with us... How is everyone over there? Is Alphinaud faring well?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "If you're worried about things falling apart over here, you should know that we have the primals well in hand. Go and do what you need to do, and take as long as you need!"
+    }
+  ]
+}

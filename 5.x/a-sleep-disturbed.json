@@ -1,0 +1,716 @@
+{
+  "id": "a-sleep-disturbed",
+  "wiki_path": "/wiki/A_Sleep_Disturbed",
+  "wiki_image_url": null,
+  "patch": "5.2",
+  "title_en": "A Sleep Disturbed",
+  "level": "80",
+  "location": "The Ocular(X:6.1,Y:6.0)",
+  "npc_start": "Crystal Exarch",
+  "dialogues": [
+    {
+      "character": "Crystal Exarch",
+      "text_en": "You did well to dispel the falsehoods surrounding the Warriors of Light and their actions prior to the Flood. Though I must say the reappearance of Ardbert─or rather, one who appropriated his identity─was a rather curious development."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "He is an impostor, of that there is no doubt. But to the masses he will appear as a hero returned from the grave."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "After the Warriors of Light were laid to rest in Eulmore, the people prayed fervently for the gods to deliver them from their plight. Prayed that these fallen heroes be born again for their sacrifices. What bitter irony."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I for one would like to know why Ardbert urged the people to become Warriors of Light themselves."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Ere we take action, we must needs ascertain his intent."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Let us pray that Master Alphinaud returneth soon with that most essential knowledge."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For now, I think it best to apprise Thancred and Ryne of our efforts. When we do confront Ardbert, we shall no doubt have need of their strength."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Agreed. I think it prudent we all take measures to prepare for what's to come."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Beq Lugg and I will continue our research into how we might improve the spirit vessel, that it might one day carry you home."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Hmmm... Then I think it time I return to the Greatwood."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Until now, everything we have learned of the Ascians has been handed to us at their leisure."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But that was one of Emet-Selch's unique failings. I have no reason to think Elidibus will be as forthcoming."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Fortunately, I recently received word from Fanow that heretofore unexplored chambers have been discovered deep within the Qitana Ravel."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Almet believes the relics within tell of a great calamity that befell an ancient civilization─that of the Ascians, perhaps. They may lead us to the truths we seek."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I wouldn't dream of going without you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I fail to see why that would be necessary given that you will be accompanying me. Don't be coy─it doesn't suit you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The great serpent? I see you've been studying your Ronkan history. But no, I've heard nothing relating to the woods' protector. Still, should it prove relevant to what lies within, your expertise would prove invaluable."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "When you are ready, make for Fanow. Almet and her sisters will be expecting us."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Then let us be about our tasks. Pray give my regards to the Viis."
+    },
+    {
+      "character": "Crystal Exarch",
+      "text_en": "Though I would like to join you in untangling the Ascian's machinations, I think it best I stay here and devote my energies to finding a way to deliver the Scions back unto the Source."
+    },
+    {
+      "character": "Beq Lugg",
+      "text_en": "I will help the Exarch in any way I can, but the key to solving our problem lies with him and the Allagan Eye."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us pray these new ruins are not as unwelcoming as the last."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "You look as if you haven't seen us in an age. Is the passage of time really all that different beyond the borders of the Greatwood?"
+    },
+    {
+      "character": "Uimet",
+      "text_en": "You look as if you haven't seen us in an age. Is the passage of time really all that different for you Elves / Dwarves / Mystel / Galdjent / Drahn / Ronso ?"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "The allies of Ronka! My, it feels as if an age has passed since you last graced us with your presence."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Welcome, allies of Ronka. We have accomplished much since last you came. With the Lightwarden dead and its minions dispersed, we have at last reclaimed our hunting grounds near Rak'tika Falls."
+    },
+    {
+      "character": "Almet",
+      "text_en": "It was there that we discovered more ruins. Although we ran afoul of no traps while exploring its halls, we determined that the innermost chambers were warded by magick."
+    },
+    {
+      "character": "Almet",
+      "text_en": "We all were in agreement─before any investigation could proceed, you should be summoned."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We are grateful that you did. From what you have told me, I strongly suspect that the wisdom my comrades and I seek can be found within."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This wisdom could prove invaluable, for we may soon face a foe whose greatest asset is our ignorance."
+    },
+    {
+      "character": "Almet",
+      "text_en": "...I see. Then it is good that you have come. For Ronka was once home to the greatest of weapons─knowledge and understanding."
+    },
+    {
+      "character": "Almet",
+      "text_en": "And it is our duty to ensure you and yours do not want for either."
+    },
+    {
+      "character": "Almet",
+      "text_en": "That said, we must proceed with caution. To have reached the inner chambers unmolested suggests a more formidable deterrent yet lies within."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Come now. Surely any threats sleeping within the ruins pale in comparison to those we have faced thus far."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "This is not a game, Sister! You should not be so eager to run headlong into danger!"
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Oh? And who was it pining for the return of our allies that we might venture into the ruins? Clutching her staff at night, wishing it were─"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "<gasp> You promised not to tell!"
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Then I suggest we be going."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Get back here!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Remind me: exactly how old are you and your sisters? ...On second thought, perhaps it's for the better I do not know."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Pray forgive their...overzealous nature. None save we three have been privileged to escort you and yours into the ruins and bear witness to its secrets."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Their hearts now burn with a curiosity that is not easily satiated."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Please, you needn't apologize. As a seeker of knowledge myself, I understand full well their enthusiasm. And if not for your sedulous efforts to protect the ruins, we would not be afforded this opportunity."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Speaking of which, I believe I have kept you away from the ruins long enough. Come, let us make for the Qitana Ravel."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Even Emet-Selch was taken aback to find a mural illustrating the Final Days in these ruins. What other surprises do you suppose yet lie within?"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "I feel oddly ill-equipped to venture inside, but with you here, I'm sure things will work out."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Ready when you are!"
+    },
+    {
+      "character": "Almet",
+      "text_en": "It is most strange for these halls to be left unguarded. Have care when breaking the seal on the chamber door. Danger surely awaits us on the other side."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Come. Our new discoveries are to be found this way."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The people of Ronka are known to have venerated animals, but these features do not match those of any indigenous species. This is no common beast."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though that much is plain from its proportions."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Lifelike, is it not? One could almost imagine it breathed."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Grrr!"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Aaah!"
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Hahaha!"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Why, you..."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Ugh!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This owl, by contrast, seems no different from the others we've seen."
+    },
+    {
+      "character": "Almet",
+      "text_en": "The sealed door lies ahead."
+    },
+    {
+      "character": "Almet",
+      "text_en": "As you see, one statue is missing. I expect we are meant to replace it, as before."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Too simple. There will be some additional defense mechanism."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Just a moment─there are words carved into the stone."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He...who would disturb...a hero's deserved slumber..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Shall instead...waken the beast...and know...his folly..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Wait! Don't!"
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Wh-What? But I only─ What is happening!?"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Oh no... Oh no, no, no... I-It lives!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Why am I not surprised? Prepare yourselves!"
+    },
+    {
+      "character": "Huaca",
+      "text_en": "You trespass, mortal, upon sacred ground. In retribution, four souls have I bound."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Yet to heroes proven learned and wise, a comrade's soul shall be their prize."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "If you would see theirs set free, answer me these riddles three."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Deft of paw, with kin do I vie. Though sought apart, betterment of the whole do our efforts descry. What...am...I?"
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Indeed, the opo-opo is keen and shrewd. The spirit of ingenuity, by whose guidance the Ronkans did prosperity pursue. The riddle's answer you did discern, and thus to you a soul returns."
+    },
+    {
+      "character": "Uimet (text bubble)",
+      "text_en": "Thank goodness..."
+    },
+    {
+      "character": "Uimet (text bubble)",
+      "text_en": "Hmmm..."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Alas, 'twas the opo-opo. Keen and shrewd, its spirit exalts ingenuity, a virtue by which the Ronkans did prosperity pursue."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "For this mistake, a single talisman I shall take."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "With fearsome fang, I travel with pack. Together we find harmony, and thus for peace our land does not lack. What...am...I?"
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Indeed, 'twas the spirit of the wolf their doctrines praised. That they would know peace and harmony to the end of their days. The riddle's answer you did discern, and thus to you a soul returns."
+    },
+    {
+      "character": "Cymet (text bubble)",
+      "text_en": "Wha...what happened?"
+    },
+    {
+      "character": "Cymet (text bubble)",
+      "text_en": "Hmmm..."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Alas, 'twas the wolf their doctrines praised. That they would know peace and harmony to the end of their days."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "For this mistake, a single talisman I shall take."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "On my belly do I crawl. By my strength does prosperity reign within our hall.  What...am...I?"
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Indeed, the dread serpent turned protector, lured to slumber ere it tear the world asunder. The riddle's answer you did discern, and thus to you a soul returns."
+    },
+    {
+      "character": "Almet (text bubble)",
+      "text_en": "My thanks."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Alas, 'twas a snake. The dread serpent turned protector, lured to slumber ere it tear the world asunder."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "For this mistake, a single talisman I shall take."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Desire you that which I yet claim? Then we shall play another game..."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "A test of mind and memory. Choose wisely, and you all may yet go free."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "'Twixt these talismans hide friend and foe. Choose your companions well, or sorrow know."
+    },
+    {
+      "character": "Almet (text bubble)",
+      "text_en": "We must choose carefully."
+    },
+    {
+      "character": "Almet (text bubble)",
+      "text_en": "I will defer to your judgment."
+    },
+    {
+      "character": "Cymet (text bubble)",
+      "text_en": "Go on. Trust your instincts."
+    },
+    {
+      "character": "Cymet (text bubble)",
+      "text_en": "Is there perhaps some meaning to their arrangement?"
+    },
+    {
+      "character": "Uimet (text bubble)",
+      "text_en": "Whatever comes out, we can handle it."
+    },
+    {
+      "character": "Uimet (text bubble)",
+      "text_en": "Would that I could read these talismans."
+    },
+    {
+      "character": "Almet (text bubble)",
+      "text_en": "The choice is clear."
+    },
+    {
+      "character": "Y'shtola (text bubble)",
+      "text_en": "Well done."
+    },
+    {
+      "character": "Uimet (text bubble)",
+      "text_en": "Thank goodness..."
+    },
+    {
+      "character": "Cymet (text bubble)",
+      "text_en": "Wha...what happened?"
+    },
+    {
+      "character": "Almet (text bubble)",
+      "text_en": "My thanks."
+    },
+    {
+      "character": "Y'shtola (text bubble)",
+      "text_en": "What surprise is in store for us next, I wonder."
+    },
+    {
+      "character": "Y'shtola (text bubble)",
+      "text_en": "Strange... All of these talismans appear blank to my eye."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Your comrades are assembled, together at last..."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Yet still there remains one trial you must pass."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "If you would glean the knowledge enshrined in this earth, I would first take the measure of your worth."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "One worthy of she who the Ronkans extolled, must be strong of mind, body, and soul."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Finally! This is what I was expecting to find here in the ruins."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Be careful, sisters!"
+    },
+    {
+      "character": "Almet",
+      "text_en": "Hold nothing back. Failure of this test does not appear to be an option."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Quickly─fan out before it strikes!"
+    },
+    {
+      "character": "Almet",
+      "text_en": "Its sights are set on Y'shtola! Hurry, we must protect her!"
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Victory oft begs sacrifice, but which of you would pay the price?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Forename ! Hurry, we have to save him / her !"
+    },
+    {
+      "character": "Almet (text bubble)",
+      "text_en": "Right!"
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Oh, no─Cymet!"
+    },
+    {
+      "character": "Huaca",
+      "text_en": "A pathetic display, one and all. The weak shall not be suffered to disgrace this sacred hall."
+    },
+    {
+      "character": "Huaca",
+      "text_en": "You may think you have won, but we have only just begun!"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Poison!? <cough> <cough> Come, gather around me."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Reinforcements? Leave them to me!"
+    },
+    {
+      "character": "Uimet",
+      "text_en": "We mustn't waste time with this slime─focus on the guardian!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Show them your all!"
+    },
+    {
+      "character": "Huaca",
+      "text_en": "Well fought, hero, the trial is complete. The way is open, and thus...I concede...defeat..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Not wholly unexpected, but an exhausting ordeal nevertheless."
+    },
+    {
+      "character": "Almet (text bubble)",
+      "text_en": "That should be the last of the chamber's defenses."
+    },
+    {
+      "character": "Uimet (text bubble)",
+      "text_en": "At last we can leave."
+    },
+    {
+      "character": "Cymet (text bubble)",
+      "text_en": "I am glad that is over..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twould seem the magicks have returned us. How polite."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Now, what have we learned?"
+    },
+    {
+      "character": "Uimet",
+      "text_en": "Oh, we were bound to run into a living statue eventually. And now we can open the door!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“He who would disturb a hero's deserved slumber...”"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A tomb, just as I thought. Befitting a hero."
+    },
+    {
+      "character": "Almet",
+      "text_en": "She is Viis! Could it be the archmage Tiuna?"
+    },
+    {
+      "character": "Almet",
+      "text_en": "A legendary hero of Ronka, as you surmised. The tales tell of how she smote entire armies with a single incantation, so potent was her spellcraft─though she ever fought in the name of peace."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "I thought them no more than tales. To think she really existed..."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Well, I for one always believed!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I wonder..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "By the light...of fallen stars...great power awakens..."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Tiuna was not only a master of spellcraft. It is said she could see truths long lost and hear the voices of men's hearts."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Naught less than the Echo."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In which case...none of this is mere coincidence."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A shower of stars setting the sky aflame─and in both this world and the Source, we find individuals within whom a mysterious power awakened at the sight."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We could never unpick the why of it. Now, however...I believe we might."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Does the scene depicted here not resemble the one we saw when we first ventured into the Qitana Ravel?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Moreover, does it not recall that which Emet-Selch invited us to witness in Amaurot?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Final Days."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If, as the Exarch's research suggests, soul and mind share a fragile yet profound bond, might it not be possible for an event to leave such a deep imprint upon the soul that it could be perceived eons later─given a suitable trigger?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Echo defies explanation by conventional aetherological theory. Or shall we say, modern aetherological theory."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But if it is a power that once belonged to the ancients, to souls yet undivided..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It would seem I have entered the realm of pure speculation. And I call myself a scholar."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I shall refrain from making any further wild claims until such time as I have evidence."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Still, I cannot choose but be reminded of our experience in Amaurot.."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "\"Remember us.\""
+    },
+    {
+      "character": "Almet",
+      "text_en": "“History is learned, not lived.”"
+    },
+    {
+      "character": "Almet",
+      "text_en": "We have always protected the tales of Ronka, just as we have protected this place. But we are mindful of what our mothers taught us."
+    },
+    {
+      "character": "Almet",
+      "text_en": "We see the past through our own eyes, and speak of it with our own words. Thus do we come to understand it, in our own way. But this is not the same as remembering."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Your mothers were wise."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though we witnessed the Final Days, our impressions could not fail to be colored by our own experiences and expectations. Those who lived through it would have perceived the event quite differently."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We must bear in mind that it is no simple matter to keep the truth alive, or it will die with Emet-Selch and his kin."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But we have disturbed Tiuna long enough. Fanow will serve similarly well as a venue for our contemplations."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We learned nothing of the Ascians, but the potential link between the Echo and preternatural starshowers is intriguing."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "I sorely underestimated the defenses of these ruins. Perhaps Cymet was right to urge caution."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Tiuna is the reason I took up spellcraft, you know. <sigh> Never in my wildest dreams did I imagine her tomb would be found, let alone that we would be the ones to have the honor to do so."
+    },
+    {
+      "character": "Almet",
+      "text_en": "By your pensive expression, I take it the tomb has given you much to think about. That is well. In time, the knowledge you have gleaned will lead to understanding, and thus arm you for what is to come."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Before you leave, however, I would speak again of the teachings of our forebears. Of histories learned, not lived."
+    },
+    {
+      "character": "Almet",
+      "text_en": "The legend of Tiuna and her exploits has been told countless times over the centuries. Yet as it is handed from one generation to the next, the story changes."
+    },
+    {
+      "character": "Almet",
+      "text_en": "With each telling of the tale there are new flourishes─details changed or lost. We can never truly know how she lived, for we were not there to see it."
+    },
+    {
+      "character": "Almet",
+      "text_en": "But we are here now to bear witness to your life. We have seen the change you have wrought, the echoes that will endure long after you are gone. And though it too will change in time, I swear to you, we shall do our  best to preserve your story."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "I hope you'll forgive me if I don't make an oath of my own, but I think it goes without saying we could never misspeak of your heroism."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Perish the thought! So long as we are here, there are none among the Viis who will not know of all you have done for Norvrandt."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We are not deserving of such reverence, but we are grateful all the same. You can be certain we will have our own tales to tell of the great guardians of Rak'tika and the ruins of Ronka."
+    },
+    {
+      "character": "Almet",
+      "text_en": "I pray you safe travels, then. As ever, we shall await your return with open arms."
+    },
+    {
+      "character": "Almet",
+      "text_en": "So long as we Viis live, we shall preserve the truth of your deeds."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "In the short time we've known you, it feels as though we've experienced a lifetime of adventures. Adventures we are not like to forget."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Perhaps we should create a new mural in your honor, and as a record for future generations. What do you think?"
+    }
+  ]
+}

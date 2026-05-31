@@ -1,0 +1,320 @@
+{
+  "id": "the-medial-circuit",
+  "wiki_path": "/wiki/The_Medial_Circuit",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "The Medial Circuit",
+  "level": "80",
+  "location": "Labyrinthos(X:34.4,Y:18.8)",
+  "npc_start": "Alisaie",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "Man-made though it may be, this shaft was designed to resemble a natural cave system. Heed Erenville's warning and do step carefully."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Assuming everyone's tightened their straps and checked their gear, then I say we head on in. Given the terrain ahead, though, it might be wise to leave some distance between us ─ we don't want to be stumbling over each other if it comes to a fight."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Take it slow, and don't forget to check your surroundings from time to time! We can meet up again at the other end of the tunnel."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That mineshaft was infested with mythrilcaps. Some sort of research project, I wonder?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I suppose they are a most unusual creature. Why did they develop such long limbs when all they do is shuffle about narrow tunnels?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I was being careful, I swear! The slope was steeper than I thought, and I lost my footing for a moment, that's all. I'm not injured, if you don't count my pride..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Forename ! Did you know Krile almost took a tumble back there? She can't possibly still be dizzy from the lift..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Everyone seems to have made it through without incident. Nothing of consequence, at least. And, as promised, the tunnel has delivered us into the Medial Circuit."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If Erenville's assumption holds true ─ that specimens are being collected in preparation for a great migration ─ then we should see evidence of such plans in the area's research projects."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Let's follow the path to the nearest farming facility and see what we see..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "My memories of this place are a touch hazy, but if we keep to the path heading north, then we should eventually arrive at a farm of some kind..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Aha, now I know where we are ─ this is Meryall Agronomics."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Labyrinthos is host to a wide variety of vegetation, which allows us to conduct studies on cultivation methods utilized in foreign lands."
+    },
+    {
+      "character": "Krile",
+      "text_en": "And it is this facility which coordinates and oversees those efforts. The “fruits” of their research go to feed their Labyrinthos colleagues, or so I hear."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "More notable successes might make it to the Agora. Foods so exotic you'd be hard-pressed to guess their origin, let alone how they might taste."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Indeed! Mystery vegetables without a name, only a list of nutritional benefits scribbled on a card..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hm... I see no gleaners hereabouts, yet these workers seem to share that same sense of urgency."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis possible they know something of the Forum's plans and their underlying motivations. Worth looking into, wouldn't you say?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "See what you can coax from the workers. The rest of us will do the same or cast about for useful clues."
+    },
+    {
+      "character": "Krile",
+      "text_en": "A field full of ripe vegetables being left to rot on the vine. Not a single picker hard at work. Clearly procuring readily available fresh food is not the Forum's priority..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm told this cart holds the harvest meant for the larders here. Nothing out of the ordinary..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...And so you've spent years researching these high-yield cultivation techniques?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I took a moment to survey the surrounding area. There are several other facilities nearby we can investigate if we fail to learn aught of value here."
+    },
+    {
+      "character": "Harried Harvester",
+      "text_en": "What crops are we raising? Well, as you can see, this one is a variety of grape."
+    },
+    {
+      "character": "Harried Harvester",
+      "text_en": "Only needs a good source of sunlight to grow, and the conditions here are nothing short of perfect. Hardly surprising, given that it's native to a particular locale in the very place upon which Labyrinthos was modeled ─ a region in the south of Ilsabard."
+    },
+    {
+      "character": "Harried Harvester",
+      "text_en": "It boasts remarkable habitat diversity, allowing for myriad flora and fauna to thrive. Chilly peaks in the north give way to swaths of temperate plains, which in turn transition into a hot, humid coastline."
+    },
+    {
+      "character": "Harried Harvester",
+      "text_en": "Such bountiful territory is ever contested, as you might expect. Used to be called Corvos before the imperials renamed it Locus Amoenus."
+    },
+    {
+      "character": "Harried Harvester",
+      "text_en": "The Forum saw it not as a prize, however, but as a researcher's ideal environment ─ one whose climates we strove to recreate within the confines of Labyrinthos. It's since provided a rich foundation for countless experiments in cultivation."
+    },
+    {
+      "character": "Overwhelmed Laborer",
+      "text_en": "<huff> <huff> ...Do I have aught to be taken down below? More than I can carry, and then some!"
+    },
+    {
+      "character": "Overwhelmed Laborer",
+      "text_en": "Most of our stock is sent off via the cargo lift, but some has been earmarked for aerial transport. Hence the stack of crates atop that hill over there. Gods, hauling the lot up that slope was a job and a half..."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Oh, hello there! We weren't expecting visitors ─ not with use of the lift being restricted. How did you make it down here, anyway?"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "The mineshaft, you say? Well, you're a much hardier soul than I!"
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Under normal circumstances, I'd reward such tenacity with a guided tour of the fields, but I'm afraid the Forum has us filling order lists a malm long."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Massive-yet-detailed requests. Literal wagonloads of crop samples, and hardly any time to put them together."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "When I first heard of this grand “reorganization,” I assumed we would be shuffling around old stock to make room for the new. Then came the orders for ridiculous quantities of seeds we've already thoroughly researched."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Passing strange, eh? I pressed for an explanation...and was met with vague assurances that all would be revealed in due course. Not the most satisfying answer..."
+    },
+    {
+      "character": "Harried Harvester",
+      "text_en": "Once we've picked the fruit, we'll need to take cuttings. Rather a lot of them, in fact. Wonder if they're planning to grow a new vineyard somewhere..."
+    },
+    {
+      "character": "Overwhelmed Laborer",
+      "text_en": "Right, back to it, then! Once I'm done here, I think I'll take some fresh fruit to the Last Stand and have them whip me up a dessert..."
+    },
+    {
+      "character": "Jebke",
+      "text_en": "Visit us again when the lift is back in normal operation. I should hope we'll have all-new crops to show you by then...but we probably won't."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The stack of crates on the hill is going below? That sounds promising. I'll gather the others and join you there."
+    },
+    {
+      "character": "???",
+      "text_en": "Hard to look away, isn't it?"
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "But they're more than pretty flowers. “Heartblooms” are attuned to ambient emotion."
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "You don't seem convinced. But believe me, it's true."
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "This ashen grey, for instance. It mirrors the anxiety and urgency of those working nearby as they rush to fulfill sudden orders."
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "Intense feelings like those spur the petals to change color. Bright, glowing hues in the presence of joy. Dark, subdued shades for frustration or despair."
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "Yet even with the collected wisdom of Sharlayan at our disposal, we've yet to identify the underlying principle of this empathic effect."
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "And there are other mysteries besides. Although the flower is extraordinarily long-lived, its low reproductive rate has made it difficult to find younger populations growing in the wild."
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "With too few sightings to map its distribution, and no closely related species to track, we've been unable to pinpoint its land of origin."
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "To further complicate matters, every culture even dimly aware of its existence has given it a different name and mythos. Our attempts to study it via the historical record have been an exercise in frustration."
+    },
+    {
+      "character": "Meryall Botanist",
+      "text_en": "As an avid botanist myself, I should one day like to unravel the heartbloom's secrets...but I'm afraid other duties must take precedence. I will leave you to your thoughts."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Have you learned aught of interest?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A flower that reacts to one's feelings? Strange... I must say, I have never heard of such a thing."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is all very fascinating, but as it stands, we've failed to gain any significant insight into the Forum's undertaking."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed... While there is certainly enough activity to support Erenville's supposition that a priority has been placed on improving food production..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Unfortunately for our investigation, these workers were never informed as to how their duties serve the master plan."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ugh. If only we could interrogate the Forum members directly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Isn't that the entrance to the Archeion?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Look, there... I think that's Erenville."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A little difficult to tell from here, but...but I think you're right. He did say he was coming down to make his report."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Erenville receives his orders from the Forum. Would it not follow, then, that the superior to whom he reports is a Forum member ─ or at least a close associate?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You mean to eavesdrop on their conversation!? What of the risks?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ours alone to bear. We won't interfere with Erenville's work, nor will he be implicated as an accomplice."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If you're not comfortable taking part, I can do this alone."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Nay. I said myself that I wished to know Father's intentions. And no answers will be forthcoming should we simply ask nicely."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We can apologize later should it come to it. Right now, we need every crumb of information we can get our hands on. Consequences be damned."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It might be best if you came along as well. In fact, we should all..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Krile?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Oh! Yes! That certainly sounds like a plan!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I'm glad you agree..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Quickly, Erenville is on the move. We need to get closer before we lose him!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Almost. I can almost reach you..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Forgive me, my attention has been elsewhere... We were following Erenville, weren't we?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's get after him already! We've waited too long as it is!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It feels wrong to spy on Erenville, helpful as he's been...but what other choice do we have?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Is Krile still feeling unwell? I've never seen her so distracted..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Keep an eye on her, but keep moving, too ─ we cannot let our quarry slip away."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Did you see which way Erenville went...?"
+    }
+  ]
+}

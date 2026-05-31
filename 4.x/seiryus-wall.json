@@ -1,0 +1,456 @@
+{
+  "id": "seiryus-wall",
+  "wiki_path": "/wiki/Seiryu%27s_Wall",
+  "wiki_image_url": null,
+  "patch": "4.5",
+  "title_en": "Seiryu's Wall",
+  "level": "70",
+  "location": "Kienkan(X:6.1,Y:6.0)",
+  "npc_start": "Hien",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "You obviously have some idea of what to expect, having seen the barrier at Azys Lla. But having not had that pleasure myself, I'm exceedingly curious to see a wall capable of keeping out one of those massive imperial airships."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "As expected, Sui-no-Sato failed to answer the call. Not that I blame the Ruby Princess. Enlightened as she is reputed to be, it could be no easy task persuading her people to relinquish their long-held isolation."
+    },
+    {
+      "character": "Hakuro",
+      "text_en": "If we can but block the Garleans' airships, the speed with which they deploy their forces will be greatly diminished."
+    },
+    {
+      "character": "Nagxian Emissary",
+      "text_en": "The jungles of Nagxia are dense and treacherous. The land itself prevents the Empire from ever truly conquering our nation. Long have we hidden behind bough and branch, striking where and when we can."
+    },
+    {
+      "character": "Dalmascan Fusilier",
+      "text_en": "When the Empire put down Dalmasca's bid for freedom, our remaining forces were splintered. Bringing the scattered pockets of resistance back under a single banner will be our first order of business."
+    },
+    {
+      "character": "Tansui",
+      "text_en": "Out on the open sea, I would happily take on any vessel. But here on dry land is another matter. The Empire's iron monstrosities will ever have the upper hand."
+    },
+    {
+      "character": "Cirina",
+      "text_en": "One after another, tribes from across the Steppe have come forth to pledge their warriors to the alliance. Many simply crave a chance to seize glory in battle, it is true, but their eagerness is most welcome nonetheless."
+    },
+    {
+      "character": "Blue Kojin Emissary",
+      "text_en": "If only we could persuade our kin of the error of their ways. With the Red at our side, we would make a truly formidable force..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "We will cross the Burn by yol and falcon, as before. Join me at the overlook near the House of the Fierce."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let us pray there are no sandstorms brewing out there..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Give the word when you are ready to take wing!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "It seems the engineers have matters well in hand."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Should the barrier work as we intend, Doma will be free to reinforce her allies in Ala Mhigo without fear of weakening her own borders."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Honored friends, the time has come to put your hard work to the test! Start the generator!"
+    },
+    {
+      "character": "Ironworks Engineer",
+      "text_en": "Node one is operational. Nodes two to eight are reporting similar energy levels. The barrier is forming!"
+    },
+    {
+      "character": "Ironworks Engineer",
+      "text_en": "...One thousand yalms. Two thousand. Three thousand. Expansion remains smooth. No fluctuations detected."
+    },
+    {
+      "character": "Ironworks Engineer",
+      "text_en": "...Four thousand. Five thousand! Target altitude reached! The barrier is holding steady at five thousand yalms! We've done it!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...Is that an imperial airship? Of all the rotten timing..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "But this is a gift, Mistress Alisaie. They can test our new wall for us!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Seems solid enough. Though I was hoping for a fireball."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "By the gods... It's Alphinaud!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "What are you—let me go! He has my brother!"
+    },
+    {
+      "character": "Hien",
+      "text_en": "Lower the barrier!"
+    },
+    {
+      "character": "Shadowhunter",
+      "text_en": "Be at ease, girl. The lad is not dead—merely locked in slumber."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "No, not him too..."
+    },
+    {
+      "character": "Shadowhunter",
+      "text_en": "We could identify no cause and found no remedy. Thus I sought to return him to Doma—and into the arms of Lord Hien himself, it would seem."
+    },
+    {
+      "character": "Shadowhunter",
+      "text_en": "It is a day for fated reunions..."
+    },
+    {
+      "character": "Shadowhunter",
+      "text_en": "Would you not agree, adventurer? Or should I address you as the \"Warrior of Light\"?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Aye. Gaius van Baelsar, the Black Wolf. That was the title I was given. One I have long since relinquished."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Stand down. The legatus of the XIVth Imperial Legion died in Castrum Meridianum. I am no more than Gaius Baelsar, a man without rank or allegiance."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Impossible! There's no way you could have survived!"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Do you remember how it unfolded?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "How I was deceived by Lahabrea? How I was convinced that reviving the Ultima Weapon would allow me to bring peace to Eorzea?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "The Ascian used me, as he used so many others—all to further the restoration of his wretched god."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Yet even with the might of Allag at my command, you bested me. And as the Praetorium went up in flames, I was content to burn along with it...for a moment at least."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "A moment of folly. To surrender my life thus would have been to betray all who died for my cause. It was for them that I dragged myself free of the rubble, and swore vengeance on the Ascians."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "The Black Wolf has shed his pelt, never to return to Garlemald or her legions. I live now only to exact revenge."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "My principle quarry was to be Lahabrea, whom I gather you have since ushered unto oblivion."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "But so many more remain. Long has their kind lurked in the shadows, laboring to sow chaos throughout our world. I would see each and every one dragged into the light and put to the sword."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Are the Scions not of like mind?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "In this single respect, perhaps..."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Then I shall continue the partnership the boy began, and share what intelligence I have acquired."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Among the Ascians, the black-masked ilk are subordinate to those who wear red. This, you already know."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Yet among the red there exists a hierarchy. Those set adrift with the shards clearly stand below those still joined to the Source."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Nabriales, who once dared to intrude upon the Rising Stones, belonged to the former group. And while he was indeed a dangerous foe, his powers were inconsequential next to the Paragons of the Source."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "The first was Lahabrea, who plagues us no more. There is also the white-robed Elidibus; and the elusive Emet-Selch, about whom little is known."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We have files on Lahabrea and Elidibus, but I believe this \"Emet-Selch\" is new to us...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "As I assume my brother told you, we have evidence to suggest that an Ascian now walks in the body of the crown prince. Have you identified this interloper?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Elidibus seems the most likely culprit. As \"emissary,\" it is his role to maintain the equilibrium between Darkness and Light."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Your many deeds in Hydaelyn's name have upset the balance, and I believe he seeks to restore it by throwing his considerable power behind the Empire. As a leader of the Ascians, he is one of our primary targets."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "It was on the trail of this very prey that the boy and I came across the scene of a failed uprising. In the absence of a single Garlean casualty, we inspected the bodies of the rebels, and the lack of any external injury drew my immediate attention."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "They had been slain by Black Rose—an alchemical invention of the imperial army. When I yet served as legatus, I ordered its production halted an all stockpiles destroyed. Toxic gas is not a tool of conquest, but of extermination."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Toxic gas!? This must be the new weapon Maxima warned us about—something deadly enough to sweep away all resistance in a matter of hours."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods, you don't think they're planning to use this in Ala Mhigo, do you?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Put your fears to rest. We infiltrated the production facility, and destroyed all existing stores of the chemical along with the plant itself. Even should they rebuild the operation, they will not soon manufacture another batch."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Regardless, I would draw your attention to a directive we discovered in the plant's records. The document was marked with a recent date, and authorized with the signature of one Zenos yae Galvus."
+    },
+    {
+      "character": "Hien",
+      "text_en": "A dead man, signing the death warrant for thousands. 'Tis bad comedy."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "But the tale does not end there--within that same facility was a chamber filled with devices of Allagan design. Cloning technology, we realized."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "And what should we find in each and every incubator...but a young Emperor Solus."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "...All of which prompts the question: were the Ascians responsible for these abominations? Or was it the will of the Emperor?"
+    },
+    {
+      "character": "Gaius",
+      "text_en": "I must know which hand guides the Empire. Though I have given up my rank, I am yet a son of Garlemald...and I will fight for the future of my homeland."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "It is time I returned to the hunting of shadows. We should focus on our common foe—to reopen old quarrels now would serve no purpose."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You saved my brother's life, so I'm willing to let sleeping dogs lie. But in truth, it's not my decision to make."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "There was a time when I scorned those who placed their faith in false gods—even as I, in my blinkered conviction, placed mine in Ascian promises."
+    },
+    {
+      "character": "Gaius",
+      "text_en": "Unlike yours, my strength of will—and my restraint—was found wanting. We shall meet again, Warrior of Light."
+    },
+    {
+      "character": "Hien",
+      "text_en": "So that was the infamous Black Wolf. An unexpected ally, to say the least..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Well, I am content to leave the fine-tuning of the barrier to cleverer minds. Let us bid our friends from the Ironworks farewell and see what can be done for Alphinaud back in Doma."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "What uncanny timing that Master Alphinaud should be returned to us just as we were testing the barrier. I only hope a cure can be found for his malady..."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Otherwise, the war council has ended in unanimous agreement. To forestall the Empire's expansion plans in this region, our allies are willing to send troops to fight in Eorzea."
+    },
+    {
+      "character": "Hakuro",
+      "text_en": "Even should our alliance send a contingent to Eorzea, I will stay here in Doma with the remainder of our forces. As much as I would enjoy taking imperial heads at your side, we cannot leave our borders undefended."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Alphinaud is safely ensconced in a private chamber. My finest healer is examining him as we speak."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I've spoken with the physician, and there are no outward signs of illness. Alphinaud is lost in a sleep from which he cannot be awoken...just like the others."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It seems that even the lands of the Empire were not far enough away to escaped that cursed voice..."
+    },
+    {
+      "character": "Hien",
+      "text_en": "I share your frustration, Alisaie, I do—but Alphinaud is returned to us alive and otherwise unharmed. All that remains is to find the means to wake him."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Until then, you can but fulfill your duties as a Scion—yours and your brother's both."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're right, of course. There are arrangments to be made, and little time to make them."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "To business then, my lord—now that we know \"Seiryu's Wall\" works as intended, can we expect reinforcements for Ala Mhigo?"
+    },
+    {
+      "character": "Hien",
+      "text_en": "You most certainly can. As promised, we wills end troops to bolster our allies in Eorzea without delay."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Pray be aware, however, that they will not arrive without delay. Save for some few who boast teleportation magicks, the bulk of our force must be transported by sea—a lengthy voyage for which the smaller vessels favored by the Confederacy are ill-equipped."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Accordingly, I mean to enlist the assistance of the East Aldenard Trading Company in finding suitable ships. As for navigating the distances in question, we are in the happy position of being able to call upon those who plotted the course of my people's exodus to Eorzea."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Beyond the procurement of ships, I think it unlikely that our East Aldenard friends will consent to any involvement in military operations, but I am certain they will afford Alphinaud a berth aboard one of their vessels. I shall have a chirurgeon accompany him every ilm of the way to the Rising Stones."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You have my thanks, Lord Hien."
+    },
+    {
+      "character": "Hien",
+      "text_en": "Yugiri—I will go on ahead with out friends to Ala Mhigo. Enlist all those capable of teleportation, and put them at the disposal of the Eorzean Alliance as soon as possible. They will form the vanguard."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Yes, my lord."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is exactly what we'd hoped for. Lyse and the Alliance leaders will be glad indeed to welcome the combined strength of the East."
+    },
+    {
+      "character": "Imperial Magitek Engineer",
+      "text_en": "Our supplies of Black Rose have been ruined, but the new plant is already under construction. We should have the first batch ready in time for the offensive, Your Radiance!"
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "See that you do."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Ah, yes! The infamous \"Black Rose.\" If I recall correctly, Gaius did not much care for the invention."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "A ruthless and indiscriminate weapon indeed, this airborne poison. It seems you are capable of making decisions worthy of your bloodline."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "With no gift for sorcery, we Garleans must look to magitek to even the odds. If it spares the needless deaths of our soldiers, and serves the cause of this empire, there is no method I would not employ."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "How very noble of you."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Truly, though, I must commend you for embracing your role as emperor. You play the part of the determined ruler well. Sometimes, even I catch myself believing!"
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "A silent agent of death... Now that I think on it, Black Rose may well possess the perfect aspect."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Slowly but surely, the deluge of Light has worked upon the aether here in the Source, and the gas should be most susceptible to its influence..."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Well, I shall leave you to your own devices. Go forth and bloody the land with your grand and glorious war."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "...While you do what, precisely?"
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Need you ask? I will be doing what all Ascians do."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "I am well aware that your kind exists only to usher in the next calamity. But you seem oblivious to the harm your singular agenda causes to the Empire."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "You cannot have forgotten the events which followed your mortal demise."
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "Our homeland was plunged into civil war for your failure to name a successor. The edifice you so carefully constructed was but a hair's breadth from collapse!"
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Are you truly so naive?"
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "You thought me oblivious to the consequences? Of a departure so painstakingly timed?"
+    },
+    {
+      "character": "Varis zos Galvus",
+      "text_en": "...It was by design !?"
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Well, of course it was! Though I will admit the resulting panic exceeded even my wildest expectations. But how can you be surprised? Throwing the world into disarray was the very purpose for which this nation was, as you say, \"so carefully constructed.\""
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Now, if you have no further questions, I must be on my way."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "Since we may not meet again in this lifetime, it would be remiss of me not to offer a word or two of gratitude."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "I really must thank you for this surplus of vessels. I can mold any host into my own image, but having bodies tailor-made for me in this fashion is so much less tiresome!"
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "You dabbled in Allagan cloning techniques, yes? It certainly is a compelling—not to mention entertaining—field of research."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "And of all the options available, you chose the founding father on whom to experiment! You have a twisted streak to you, Varis. Like grandsire, like grandson, eh?"
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "If events play out as planned, this will become something of a family enterprise."
+    },
+    {
+      "character": "Solus zos Galvus",
+      "text_en": "You will be the capstone of this world; I, the anchor in the shard. And together, we will give the lie to this star's fraudulent existence!"
+    }
+  ]
+}

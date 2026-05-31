@@ -1,0 +1,488 @@
+{
+  "id": "a-guide-of-sorts",
+  "wiki_path": "/wiki/A_Guide_of_Sorts",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "A Guide of Sorts",
+  "level": "80",
+  "location": "Labyrinthos(X:16.3,Y:11.4)",
+  "npc_start": "Alisaie",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "What duty could warrant the direct involvement of the Forum and the commitment of all its resources?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Judging by what we just heard, none of the gleaners were offered any kind of explanation. At this point, it seems abundantly clear that we'll learn nothing new by pressing them further."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We should head back to Y'shtola and Krile for the moment. See what they think of this."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Where is Krile?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's funny how normal the forest seems now. As a toad, it was all so much more ominous and threatening..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Welcome back. I trust you found Erenville, then?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Interesting... I had a feeling you would learn something important─even if that something was simply a confirmation that no one knows much of anything."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We should share this with Krile, then discuss how we'd like to proceed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Assuming we find her back at the farm. She was still behaving oddly, so I bade her return and rest there..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Perhaps not the best decision, in hindsight. Would you mind checking near those flowers she was so entranced by? The rest of us can survey the more distant areas, just in case she decided to wander."
+    },
+    {
+      "character": "Krile",
+      "text_en": "For you. The spell will keep it from wilting."
+    },
+    {
+      "character": "Krile",
+      "text_en": "She said you would need it for the journey ahead."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Will you speak with Her now? I cannot hope to match Minfilia's clarity, of course, but..."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "...Thank you."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Do not worry. She has lent me her body for only a moment."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Just as I could not save the First from the Flood of Light, it has become arduous for me to interact with the physical world without assistance."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Though I might converse with you for a time, the incorporeal form I assumed on the ship would be incapable of casting even the simplest enchantment."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "It is in the depths of the aetherial sea─the place to which all life returns─where my influence is greatest."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "After Minfilia's sacrifice on the First, it was to the sea, here in the Source, where I ferried her soul. I wished that gentle spirit to find rest in the world she loved so well."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Her...and another who may yet have a part to play. Though that will depend on you."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Take the flower. Walk free. For you are free─to go where you wish. To believe what you will."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "That bloom will be your guide. Test and proof of your conviction."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "In darkness seek joy. Surrender not to sadness, and see beyond despair. Walk free, and bear the light for others to follow."
+    },
+    {
+      "character": "Hydaelyn",
+      "text_en": "Together, raise it aloft and let it shine. Till the end, blinding and radiant."
+    },
+    {
+      "character": "Krile",
+      "text_en": "That was...all too brief. Already She seems so far away..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "My apologies if I startled you. Ever since we began our descent into Labyrinthos, I had sensed another's will, straining to reach out."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Even with my particular talents, though, I was unable to make a connection at first. So weak and tenuous it was..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Once I took hold of that wispy thread, imagine my surprise to discover it was Hydaelyn Herself! Needless to say, it seemed wise to learn what we could before letting go."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Her answers were more cryptic than I would have liked... But at least She left us with a guide of sorts─that unusual flower."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Yes, we are definitely making progress!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You can't be serious! We've done nothing wrong!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Master Fourchenault!? What business has the Forum with us?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Obstruction and suppression, apparently."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Mistress Baldesion. Our records show you facilitated the Scions' entrance into Sharlayan by claiming them as assistants for your organization."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "We are aware of your “investigations.” After alerting the major institutions to the presence of potential troublemakers, we received word from an Archeion custodian."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "A group operating under the auspices of the Students skulking about Labyrinthos and engaging in clandestine behavior."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "“Clandestine”? We may not have entered Sharlayan as Scions, but we did naught to conceal our identities."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our only purpose in this city is to seek the truth. I can think of no reason why our actions should warrant the Forum's intervention."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "'Tis not our way to discourage the pursuit of knowledge. But the timing of such pursuits must be considered, not to mention their potential impact."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "With the world in chaos, we, the true caretakers of wisdom, have committed ourselves to an undertaking that demands the utmost discretion."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "And we will not risk its success by turning a blind eye to disruptive foreign elements in our midst."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What, then, is to be our fate? Will you put us on a ship back to Eorzea?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "The Forum will convene to examine your case. The results of said inquiry will determine your future in this city."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "As for your absent companion, he has already been detained."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "G'raha!? But why? Is reading a crime now, too!?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Reading is encouraged. Celebrated, even. Not, however, of the volumes shelved in the restricted section of the library."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Refusing to comply will only make matters worse. Let us instead treat this as an opportunity to open a dialogue with the Forum."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Silence is often one's best defense. I would advise against prolonging the proceedings with frivolous discourse."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "But enough─this is not the place for debate. The Rostra awaits."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Forgive me. I was careless..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We would have been detained regardless. This way, at least, we manage to stay together."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I trust your time within the forbidden archives was well spent?"
+    },
+    {
+      "character": "Barnier",
+      "text_en": "The Forum will come to order!"
+    },
+    {
+      "character": "Barnier",
+      "text_en": "This inquiry is now in session. As Speaker Elect, I will be presiding over the day's proceedings."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Master Fourchenault. Would you be so kind as to restate the matter which compelled you to summon your colleagues with such urgency?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "As you are all aware, we recently denied Eorzea's request for Sharlayan assistance."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Since then, certain individuals dissatisfied with our decision have taken it upon themselves to interfere with our work."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "They entered our nation masquerading as associates of the Students of Baldesion, but these malcontents are better known as the Scions of the Seventh Dawn."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "These militants wield influence with both the Eorzean and Eastern alliances, and are inextricably involved with the crises presently afflicting the world at large."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Loose in our city, these warmongers sought to meddle with and expose matters of state secret. What are they if not a dire threat to be expelled!?"
+    },
+    {
+      "character": "Outspoken Councilor",
+      "text_en": "You have tarnished the good name of the Students. Galuf would be ashamed..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Galuf Baldesion was never one to forsake his fellow man."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Even if this nation closed every door and retreated from the world, he would have found a way to help the Scions─help every soul of this star─fight back against the coming doom."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A terrible enemy stands poised to lay waste to all we hold dear. In the face of such madness, Eorzea reached out to Sharlayan, a respected ally, in the hopes of forming a united front."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Was your curt dismissal truly the best you could offer?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Or are you so preoccupied with your “momentous duty of an age long past” that even the end of the world is unworthy of your attention?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Whence came this revelation?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "From the mouth of a Forum member within fortuitous earshot."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then it seems your findings support my own..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The reason I visited the restricted shelves was to study records of the Forum's policy-making process. To better understand the historical trends underlying their most major decisions."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "At first glance, the positions of neutrality in war and the accumulation of knowledge above all else appear constant and consistent─the unchanging pillars of Sharlayan society."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And once upon a time, I might have left it at that. These days, however, I am more attuned to the subtleties of governance, and so I noticed something...odd."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "From a particular point in time, the purpose of these policies shifted."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No longer was knowledge preserved for the benefit of society. Rather, society was to be gradually reshaped to ensure the preservation of knowledge."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The most conspicuous and telling change was the one which befell Labyrinthos. Once little more than an oversized storehouse, an enormous allocation of funds saw it transformed into an advanced research and archival facility."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I also discovered a fascinating account on the finances of our Dravanian colony."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The settlement attracted students from far and wide, and the connections and tuition fees thus acquired were funneled into further improvements for the archives."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Now, there is no question that our nation's progress is tied to the acquisition of wisdom. Nevertheless, the vast resources diverted for this purpose borders on the obscene."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But returning to the matter of when─our change in course appears to have been made some two hundred and seventy years ago..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The very same period when Sharlayan scholars in the hinterlands began a formal study of the aetherial sea!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You found something, did you not? And whatever it was gave rise to your oh-so-important duty..."
+    },
+    {
+      "character": "Outraged Councilor",
+      "text_en": "Mind your tongue, Archon! If you had seen─!"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Yes, we are bound by a duty we cannot ignore."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Knowing this, what would you have us do? Abandon our vital work, and join you on the field of battle?"
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "We will never choose the way of the sword. We will fulfill our mission not through strife and bloodshed, but survival."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Come what may, we shall live on. We must."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Do as you must then. But we Scions will fight─until the heavens fall, until our last breath."
+    },
+    {
+      "character": "Fourchenault",
+      "text_en": "Such misguided zeal..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Father, I... Master Fourchenault."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I fail to understand the stance you have elected to take. But by the same token, I have yet to find a compelling argument to counter the challenge you put to us in Gridania."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Still, in the midst of my uncertainty..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I must trust in myself to do what is right. As others have chosen to trust in me."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So I will continue as I always have, weighing the consequences of my every action, and allowing my hope for the future to inform my decisions."
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "That's quite enough! Have you all forgotten the reason for this assembly?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Scholarch Montichaigne. He's the head of the Studium, and an old friend of my grandfather's."
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "Honestly, every discussion devolves into some interminable debate. Terrible habit. Let's return to the topic at hand, hm?"
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "By their own admission, these Scions have resolved to fight alongside the Eorzean nations against the doom which swift approaches."
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "But there exists no evidence of an attempt to incite our citizens to do the same."
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "Furthermore, while our decision may well've been the correct one, we cannot simply bull our way through these disagreements without inviting doubts or objections."
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "Put yourselves in their place! Who among you would leave a tome unopened if an elder forbid you read it with no reason given?"
+    },
+    {
+      "character": "Montichaigne",
+      "text_en": "No, if we're to quell further discontent, then we must conclude this matter with a fair and even hand."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Order! We will have order!"
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Master Montichaigne raises some valid points. Keeping such concerns in mind, I propose we enforce the following measures."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Until further notice, the Students of Baldesion are to cease any and all activities within the domain of Sharlayan."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "You will also refrain from any further investigation into the Forum's decisions and duties. Failure to comply with these restrictions will result in the immediate expulsion of your Scion associates."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Let us put this judgment to a vote. All in favor, raise your hand!"
+    },
+    {
+      "character": "Barnier",
+      "text_en": "I count fifty-one for, and forty-eight against. The proposal is passed."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Students, Scions, you have heard the Forum's judgment. Pray abide by it or face the consequences."
+    },
+    {
+      "character": "Barnier",
+      "text_en": "Honored members, I thank you for your time. This inquiry is concluded!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Thank the gods for Scholarch Montichaigne. I absolutely loathe arguing in circles."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "My father may be right─that I am still groping in the dark for answers. But I needed him to know that I would never stop searching. I owed that much to Arenvald...and myself."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You may encounter some raised eyebrows, but do continue to claim the Students as your sponsor whensoever the need arises."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I believe in the guiding principles of the Scions...and I know my grandfather would have as well."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I apologize for the trouble I've caused you. I was pondering the significance of what I had just read as I left the restricted section..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "...And knocked over the security mammet on my way out. I promise to be more vigilant next time."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well, at least we've been allowed to remain in the city."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And our endless investigations have not been in vain─we now know that this mysterious duty of theirs began with whatever the Forum discovered in the aetherial sea."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "With our freedoms so sorely curtailed, however, we will struggle to learn aught more of substance here in Sharlayan..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We shall have to think very carefully about how we are to proceed from here."
+    }
+  ]
+}

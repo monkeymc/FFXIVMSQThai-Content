@@ -1,0 +1,704 @@
+{
+  "id": "full-steam-ahead",
+  "wiki_path": "/wiki/Full_Steam_Ahead",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "Full Steam Ahead",
+  "level": "77",
+  "location": "Amh Araeng(X:12.3,Y:16.6)",
+  "npc_start": "Magnus",
+  "dialogues": [
+    {
+      "character": "Urianger",
+      "text_en": "Magnus maketh ready for our departure even as we speak. Might I prevail upon thee to inquire as to his progress?"
+    },
+    {
+      "character": "Jeryk",
+      "text_en": "Just thinking about the trolley speeding down the tracks, gears whirring─gods, I can't stop smiling!"
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "You've done us a kindness far greater than we deserve. Thank you. I mean it."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "It's been years since I've seen a Talos in such fine shape. Would that Agna was here to see it. Or our son..."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "I was ready to let her dreams die down there in the mines. Even after you'd found the leonine, I refused to believe it could work. Gods, what a fool I was."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "But I tell you now─I'm going to take good care of this Talos. For both their sakes. On behalf of my family, and all the miners of Twine, thank you."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "Well, enough chitter-chatter. Let's get you lot to Nabaath Areng, eh?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Everything seems to be in order. I take it the Talos's presence resolves the issue of the gate?"
+    },
+    {
+      "character": "Magnus",
+      "text_en": "Hm? Oh, that. Yes."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "It's designed to open at the Talos's approach."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Then we can finally go to Nabaath Areng."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "You certainly can. All that remains is a final check of the control box over at the mines."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "You hear that, boys? Get that Talos over to the mines, and keep a close eye on it around the curves. Understood?"
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "Yes sir!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Let us repair to the mines, then."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Before we go..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "While you were away with Forename , I prepared an extra set of cartridges for you."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And this one. It's the practice cartridge you gave me."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I know I should've thrown it away ages ago, but I've been adding a little extra to it every day. After so many charges, I'm honestly not sure what it will do. But I wanted you to have it. For luck."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Minfilia, I─ Uh..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "We should hurry. Magnus and the others are probably wondering where we are."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "All appeareth ready for the grand departure. But one task yet remaineth..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I know what you're thinking, and I will talk to her. When the time is right."
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "Ever since we got the Talos moving again, Jeryk has been acting strangely. Perhaps strange isn't the right word. More...overexcited. But as long as he gets the job done, I suppose I can't complain."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "Luckily, Thaffe and Jeryk didn't spend the last few years trying to drink themselves to death, and had the good sense to maintain this stuff. I'll have to thank them later."
+    },
+    {
+      "character": "Jeryk",
+      "text_en": "Is this not the most beautiful sight you've ever seen? Oh, if only I could capture this moment in a painting, or even a quick pencil sketch."
+    },
+    {
+      "character": "Jeryk",
+      "text_en": "Hey, you seem pretty good at...everything. You wouldn't happen to be an artist too, would you?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "So this is it. We're finally going to Nabaath Areng."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I've thought long and hard about what to say to her. To the real Minfilia."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I hoped when the time came I would know, but with every step we take I feel more uncertain."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "That's no reason to give up, though. Not when so much is at stake."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thank you, all of you, for helping me to get here. Now, let's not keep Magnus waiting."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "One last step... I'm glad to be taking it with you."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "There you are. So, what do you think?"
+    },
+    {
+      "character": "Magnus",
+      "text_en": "A little primitive-looking, I'll admit, but Daedalus Stoneworks has always favored a simple, intuitive design, and that philosophy has served us well enough."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "Much of the trolley network uses single tracks, making it easy for the Talos to navigate them as needed."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "And plotting a route is so simple, even we can do it, which makes for fewer accidents in transit."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "Speaking of which, are you ready to board?"
+    },
+    {
+      "character": "Magnus",
+      "text_en": "All right, then. Watch your step."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Urianger?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thou must needs carry on without me."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The path to Nabaath Areng lieth open. Whilst thou travelest thither to the south, I would apprise Mistress Alisaie and the others of our progress."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As circumstances permit, I will thereafter rejoin the hunt for the remaining Lightwardens."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Magnus. Will the gate close immediately after the trolley passes through?"
+    },
+    {
+      "character": "Magnus",
+      "text_en": "No, it will stay open until someone closes it manually. Built that way to prevent any untimely accidents."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Then you and the others can meet us in Nabaath Areng after giving the Eulmorans the slip."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Ah, Urianger..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thank you. For everything."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Remember: thou needst but have faith."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "If you've finished with your good-byes, I suggest you grab hold of something. Be a shame if you took a tumble."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "The tracks beyond the gate aren't in the best of shape, so the trolley can only go as far as Amh Malik."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "Godsspeed!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Ah, that must be the gate."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, so far so good..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Wait...is that─ Ran'jit !"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You're a stubborn old swine, aren't you..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "One who has mastered Gukumatz fears not the blackest pit or the fieriest hell."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Your deeds in the east did not go unnoticed. Long have I lain in wait, and sure enough, you did not disappoint."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Had you only sworn fealty to Lord Vauthry, you would have no cause to skulk about like frightened animals."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "You will remain as you are, while I dispatch these villains."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "No! I won't...! I won't let you!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "You forget to whom you speak! Who armed you? Trained you? Fought and killed a thousand sin eaters with you!?"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "And when you were inevitably cut down and lay lifeless in my arms─who sought out your successor to carry on the futile struggle again and again!?"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "We seek to bring peace to what is left of this shattered land, while these mad fools would only bring further chaos down upon us!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Do not be deceived, child! Only by Lord Vauthry's hand will this dying world know a sliver of salvation!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I don't know about the world...but I never asked to be saved."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "However much it hurts, and however hard it gets, it's my life, and I want to live it on my own terms!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And those “mad fools” you want me to abandon? The ones I've traveled with, fought with, and may one day die with─they feel the same."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "So no, I will not be deceived! No matter what you say, I refuse to believe it's all for nothing!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "They're everything to me. All I have and all I need. And I would gladly do anything for them."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Let us pass, or kill me. I'm not leaving here without them."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "How dare you! Very well─if you would cast your lot with villains, then you shall share their fate!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I heard what you said. And I'm sorry for all the things I've left unspoken."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You have to go. Now!"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Thancred, no─"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Go! Do what you came here to do."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'll not have you waste that newfound resolve on me."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I leave her in your hands. Hurry!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not another step! Your fight is with me."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "You think yourself her protector!? Hah! As if a whelp like you could be a better father to her than me!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Whatever it takes, I swear I will end you."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Hmph. You lie to yourself as you lied to her."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Aye, I lied. Kept secrets. But no more. She deserves better."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "A life of pain? Of ceaseless conflict and despair?"
+    },
+    {
+      "character": "Gukumatz",
+      "text_en": "Grrroooaaarrr!"
+    },
+    {
+      "character": "Gukumatz",
+      "text_en": "Graaahhh!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "There is no escape!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This is going well..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Vanity..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Beast of my blood, answer my call!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Rend my foes and ward their blows."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Hah, so you really are a monster."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Better a monster than a deceiver. A spinner of foolish dreams and false hopes."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "There is no folly in hope!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Hmph!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "...I said as much myself, once. I was wrong. Never again."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "You but delay the inevitable!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Dammit! I need time to line up a clean shot."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Hmph!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I suppose if there's no other way..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "There is no escape!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Begone!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "When will you learn?"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Die!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "When you're dead and buried!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Yield now and I will grant you a quick death."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But we've only just begun."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "What is this foolishness?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not good..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The strain is more than I remember... At least now I can get that shot."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "I tire of these games..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Show yourself!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Here!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Now I have you!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "I know you're here..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Here!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Gah..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "You would court death for mere parlor tricks?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "<pant> <pant> ...My life would be but a small price to pay."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Then pay it you shall!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You never understood her."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "She is not a bird to be locked away in a gilded cage."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "And you presume to be her protector. Pathetic!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Looks like I'll have to use it again, then."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Again with these tricks!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Urgh... Hold still, damn you!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "No quarter!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Now I have you!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Ugh..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "You have played your hand far too early, boy."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This has carried on long enough, wouldn't you agree?"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Why do you persist in this folly?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Is that all?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Minfilia's last cartridge... Have to... <pant> <pant> ...make it count..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "There you are!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Damn..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Gah! But how!?"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Fools to a man!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Bah!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'd hoped you would fall for it a third time..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Urgh... Though two times was... <pant> <pant> ...perhaps already too many..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "No more tricks? Then let us finish this."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "<pant> <pant>"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Is that all?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Guh!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Pathetic..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But you've not even seen the grand finale."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Just...a little more..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Fool."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "One...last...disappearing act..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Were you not struggling to stand I might think you serious."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Oh, I am deadly serious."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Fool! You think the shadows will save you?"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "There is no escape! Do you hear me!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Just...a little more..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Face me!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "There!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Thank you, Minfilia...for this precious gift..."
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Come!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "To hell with you!!!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "Gaaaaaah!"
+    },
+    {
+      "character": "Ran'jit",
+      "text_en": "You would have her suffer and die. I would spare her that fate!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That is not for you or anyone else to decide─ever again."
+    },
+    {
+      "character": "Thancred (Narration)",
+      "text_en": "Not a single day goes by that I don't think about all that you have given me."
+    },
+    {
+      "character": "Thancred (Narration)",
+      "text_en": "Countless memories and moments I took for granted...Gods, you grew up so fast."
+    },
+    {
+      "character": "Thancred (Narration)",
+      "text_en": "But you had to, didn't you? For those you had lost. For those you could yet save."
+    },
+    {
+      "character": "Thancred (Narration)",
+      "text_en": "A world teetering on the very brink of oblivion, for which you gave your everything without hesitation..."
+    },
+    {
+      "character": "Thancred (Narration)",
+      "text_en": "Your kindness, your compassion, your love...Then and now..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "One last time, with a little help. I'm so proud to have been a part of your life..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Oh, Minfilia..."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "This is the place, Forename . This is where she stopped the Flood."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "The last time I was here, when I felt her presence overwhelming me...I tried to pretend it wasn't happening─to just...turn away."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But I can't turn away now. Not this time. For Thancred and the others, I have to face her."
+    }
+  ]
+}

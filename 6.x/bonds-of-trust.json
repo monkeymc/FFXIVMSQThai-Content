@@ -1,0 +1,400 @@
+{
+  "id": "bonds-of-trust",
+  "wiki_path": "/wiki/Bonds_of_Trust",
+  "wiki_image_url": null,
+  "patch": "6.4",
+  "title_en": "Bonds of Trust",
+  "level": "90",
+  "location": "Garlemald(X:31.6,Y:17.3)",
+  "npc_start": "Jullus",
+  "dialogues": [
+    {
+      "character": "Zero",
+      "text_en": "I'm not surprised. Some people cannot be moved by mere words."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "While I am thrilled Lord Gnaeus was willing to consider my proposal, I am worried about Lord Mettius..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To the best of my knowledge, Lord Mettius is a civil servant with no combat experience. Should he meet with misfortune, he may fare poorly."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "I fear for Lord Mettius..."
+    },
+    {
+      "character": "Gnaeus",
+      "text_en": "An embarrassing display. A man of Mettius's station should have the capacity to keep his emotions in check."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "It's far too dangerous for a civilian to be outside alone! We must go after Lord Mettius!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Let us leave matters here in Maxima's care while the rest of us join in the search."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "If Lord Mettius is bound for Senatus, we may be able to catch up to him in Regio Urbanissima. I pray he has not come to any harm..."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Do not worry about us. Just see that Lord Mettius does not come to harm. Please."
+    },
+    {
+      "character": "Mettius",
+      "text_en": "I-I'm alive...?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Praise the Sisters you are safe!"
+    },
+    {
+      "character": "Mettius",
+      "text_en": "Don't think I'm indebted to you. I never asked for your help."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "You love Garlemald dearly, Lord Mettius. That much is plain. But you're not alone in that."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "We all mourn what has become of our homeland. Bristle at having to rely upon outsiders simply to survive the cold."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Even now, I struggle with fear and uncertainty. Day after day, I ask myself, what is right? Where do we go from here?"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I've yet to find the answers."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "But I won't stop looking nonetheless. And I won't avert my gaze from our grim reality."
+    },
+    {
+      "character": "Mettius",
+      "text_en": "Is there hope for us?"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Aye. So long as we live."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Garlemald lies in ruins, but the bonds between us will never be broken."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "We are the chain that connects generations past and future. You and I its links. Help us, Lord Mettius, for all we have been and for what we may yet become. Please."
+    },
+    {
+      "character": "Mettius",
+      "text_en": "To be lectured by the young... It ill becomes a man of my station."
+    },
+    {
+      "character": "Mettius",
+      "text_en": "I will rejoin the talks at Tertium. Might I trouble you to escort me?"
+    },
+    {
+      "character": "Mettius",
+      "text_en": "Ere we part... I apologize for my...discourtesy. I owe you my life, and...I thank you."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Jullus, wait. I'd like a word."
+    },
+    {
+      "character": "Zero",
+      "text_en": "With you as well. I'm to stay close, after all."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Worry not, we shall see the magistrate safely back to Tertium."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "What is it?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "You bound that man with trust, didn't you? That's why he did not require coercion to return."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Er... Shall we walk, perhaps? Chilly standing around here."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "So that's how Zero came to join you."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Still, I'm not sure I'm qualified to explain something like trust."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I wouldn't describe myself as a sociable person. Before all...this...any free time I had, I spent looking after my brother and sister."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "As for the magistrate, I only told him what's been on my mind of late..."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "But I wouldn't have done so, I think, if it weren't for the twins' influence."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Trust is infectious, in a manner of speaking. When someone believes in you, it makes you want to believe in them. In others. In yourself."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Perhaps it's because the magistrate felt that earnestness that he gave us a chance. As I did, after I was caught trying to steal provisions from “the enemy.” Trust comes easy in such company."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Little wonder my world is devoid of it."
+    },
+    {
+      "character": "Zero",
+      "text_en": "No one trusts in you, and so you trust in no one. And round the wheel turns."
+    },
+    {
+      "character": "Zero",
+      "text_en": "During the Contramemoria, we had already come to judge one another based on strength and usefulness."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You either used or were used. Those who rejected this rule didn't survive."
+    },
+    {
+      "character": "Zero",
+      "text_en": "My mother wanted to save the world. To fulfill the hopes of memoriates good and true. After she died, I carried on her mission alone."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Alone... Didn't you have anyone to help you?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Almost. Two men tried, just the once."
+    },
+    {
+      "character": "Zero",
+      "text_en": "A swordsman and a mage, whom I met when passing through a village. They had saved the people there from corrupted memoriates."
+    },
+    {
+      "character": "Zero",
+      "text_en": "When they learned our enemies were the same, they seemed heartened."
+    },
+    {
+      "character": "Zero",
+      "text_en": "They claimed to be soldiers of a kingdom called Baron, and were traveling the realm in search of a means to end the Contramemoria."
+    },
+    {
+      "character": "Zero",
+      "text_en": "They invited me to join them. I refused. How could I not, having learned the lessons of my world?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Those who would work with others always have their own motives. I would not place myself at their mercy. I would not be forced to submit."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I expected some manner of outburst. Some show of frustration at having failed to deceive me. But they simply watched me walk away."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I didn't know what to make of it then, but now... Perhaps they shared a bond of trust. Perhaps they were the last ones left who dared."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Perhaps they hoped I was like them, too. Perhaps it was just an offer and nothing more."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I continued fighting alone. But ultimately, I was undone. Overwhelmed by enemies that had banded together."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I was cold. In pain. Wishing desperately that someone would save me."
+    },
+    {
+      "character": "Zero",
+      "text_en": "And as I lay there in solitude, I felt it happen. The breaking of our world."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Darkness washed over me, and I was swept into the rift."
+    },
+    {
+      "character": "Zero",
+      "text_en": "When I finally managed to return, it was to a world forever transformed. My home, now filled with abominations."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I had a chance to learn about trust...and forsook it."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I never had the power to save my home single-handed. I should have accepted their invitation."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Had I joined them, as I've joined you, I might not have had to face the end of the world alone."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But it's all history, now. No amount of reflection or regret will change our present reality."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Whatever may have happened in the past, you're still here, Zero. Alive."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "So long as you're alive, there will always be hope. No matter how bad things get."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "What you couldn't do yesterday, you might still do today."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Think about it. It's plain that you've forged bonds with those around you."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "If you didn't feel that in some sense, would you have risked your life as you did for a meager ration of buuz?"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I trust you too, for what it's worth."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Here it is again."
+    },
+    {
+      "character": "Zero",
+      "text_en": "The fire that burned in my breast when you came to my rescue. The urge to weep, though there is no sorrow..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "If this is trust, then what must I do? How do I answer it?"
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Give me your hand."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "It's not something you do constantly, mind. A friend is a friend regardless."
+    },
+    {
+      "character": "Zero",
+      "text_en": "A “friend”? ...So that's what it means."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Someone you trust."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "When I first met Zero, I wasn't sure what to make of her forthright-to-a-fault nature. But now I understand she is simply an honest soul to the core."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Thank you. I feel at last as though I've found the answers I sought, and I owe it all to you and Jullus."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Right, then. I expect the others have already arrived back at Tertium. We should join them."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Full glad am I to see everyone returned, and none the worse for wear."
+    },
+    {
+      "character": "Maxima",
+      "text_en": "Various representatives of the Garlean community are gathered here this very moment. I daresay this is a fine opportunity to announce the trade agreement."
+    },
+    {
+      "character": "Gnaeus",
+      "text_en": "You've read the memorandum─I trust you find the terms acceptable?"
+    },
+    {
+      "character": "Mettius",
+      "text_en": "I do. And, Gnaeus... I pray you forgive my disgraceful conduct earlier. I am ashamed not only of my behavior, but of placing the burden of negotiations solely on your shoulders in my absence."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You should know that, when we brought up the subject of the tower's reactivation to the people at Tapper's Den, some reacted quite strongly."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Once we explained that it would be to prevent another voidsent invasion, however, they were more receptive. It's fair to say the recent episode is still fresh in their minds."
+    },
+    {
+      "character": "Jareck",
+      "text_en": "I tagged along to deliver a supply of ceruleum. Have to say, I didn't expect to see such a large crowd. Even the stuffy imperials who normally keep to themselves in Senatus are here."
+    },
+    {
+      "character": "Gnaeus",
+      "text_en": "Ahem. My friends and countrymen, lend me your ears!"
+    },
+    {
+      "character": "Gnaeus",
+      "text_en": "I am pleased to inform you all on this joyous occasion that we, the people of Garlemald, have entered into a trade agreement with Radz-at-Han!"
+    },
+    {
+      "character": "Gnaeus",
+      "text_en": "To inaugurate our accord, we intend to grant the individuals before you access to the Tower of Babil. In return, Radz-at-Han will provide us with supplies, which shall be equally distributed amongst the settlements of our nation."
+    },
+    {
+      "character": "Gnaeus",
+      "text_en": "Let me be clear on one point: this is not an act of charity, but trade. A bargain struck between equals, rooted in trust and respect. And it marks a significant step towards rebuilding our nation and regaining true independence."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Radz-at-Han holds Garlean technology and ingenuity in the highest esteem. It is my hope that, through this agreement, our peoples will enjoy a mutually beneficial relationship for years to come."
+    },
+    {
+      "character": "Mettius",
+      "text_en": "Now then, we bid you gather round to hear the particulars, that you might convey them to those elsewhere."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So burdened by hardship and trauma were the people of Garlemald that they were unable to imagine a brighter future."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "To be recognized as equals─as a nation with something of value to offer to others... That validation alone is enough to rekindle their hope."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis by virtue of this partnership that we may access the Tower of Babil. A rather timely development given the aether tanks' impending arrival."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Once the tower's stores have been replenished, we need but await Y'shtola's signal to channel the energy to the moon, yes?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then you can leave that and anything else on this end to me and Alphinaud. No need to worry─devote all your energies to the mission in the void."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "As ever, I am in your debt."
+    },
+    {
+      "character": "Zero",
+      "text_en": "...You are good friends."
+    }
+  ]
+}

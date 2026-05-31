@@ -1,0 +1,324 @@
+{
+  "id": "deep-designs",
+  "wiki_path": "/wiki/Deep_Designs",
+  "wiki_image_url": null,
+  "patch": "5.2",
+  "title_en": "Deep Designs",
+  "level": "80",
+  "location": "The Rak'tika Greatwood(X:8.6,Y:21.8)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Runar",
+      "text_en": "Stay safe, my friend. And look after Master Matoya. A warm bowl of stew will be waiting on your return."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Alphinaud has the right of it. Let us pay visit to the Ondo."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We should speak with Tolshs Aath first. As chieftain, he is doubtless privy to a great many secrets."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The last time we were here, the Ondo sent us to slay a massive creature. 'Twas as large as Leviathan, twice as angry, and... Yes, of course I jest. It was only half as large."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Mayhap we shall find the secrets we seek in these depths...should their keepers consent to aid us."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I'm glad to have the opportunity to visit the Tempest again. It's so lovely here─like a different world entirely."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Perhaps we might look in on Paushs Ooan while we're in the area."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Don't be shy, now."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This place feels much less ominous than the first time we were here. Then again, we did have the shadow of your impending death hanging over us."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "I have sent for no finless ones. Perhaps you instead come seeking something of usss?"
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "Ruins which your kind have yet to explore... I sssee."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "I know of one such place. Alas, under these circumstances, I am afraid we can spare none to guide you there."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And what circumstances are these?"
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "Rather than hunt for their own meals, the benthos have pillaged our stores of mnyiri liver. They must be replenished with haste."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The benthos... A particularly violent tribe of Ondo, if I recall?"
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "A band of bottom-feeders. We all lost much in the Flood, but while others work to rebuild, they resort to thievery and murder."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "Revenge, they call it, when they prey upon your kind─but do not be fooled. They care not who they harm. Would that we had the warriors to challenge them."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "This is not the first time they have ssstolen from us, but there is no resource more precious than liver. All must dedicate themselves to the hunt."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Unless, of course, we were to reclaim the livers for you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It seems a fitting payment for vital information, does it not?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Moreover, one could argue that by employing Bismarck to reach these depths, thereby driving back the waters, we are in part responsible for the deeds of those driven to desperate ends by the changing climes."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I thought you might say that. You've never been one to miss an opportunity to help."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I thought you might say that. You've never been one to miss an opportunity to help."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We might...but that wouldn't discourage the benthos from stealing from the Ondo again, now would it?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Reclaiming the stores it is, then."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "We would be grateful beyond words if you did."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "The benthos have surely taken the livers back to the Flounders' Floor. But be warned─there will be no shortage of guards waiting to ssspear intruders."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Then we will have care not to draw their attention. Shall we?"
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "The Flounders' Floor is to the northwest. We Ondo keep our distance. Were we not in dire straits, I would advise you to do the same..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "N-Nervous? Me? Not at all! It's a bit dark, though, isn't it...? Definitely not haunted, though. Certainly not..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They're not much of a threat one-on-one, but Tolshs Aath was right about their numbers. If we fight them all, we'll be here a fortnight."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If I were a bandit leader, I'd surely keep my spoils deep within my stronghold..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "These aren't the livers, but they're certainly stolen from somewhere...unless wheat has started growing on the sea floor since last I checked."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Ryne scaled the wall with remarkable swiftness. Thancred taught her well."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I haven't forgotten why we're here, I swear! Only...this bird hasn't taken its eyes off me since I found it. I think it might be lonely."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Are those them?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Perhaps you've deduced this already, but it seems the benthos have been raiding Kholusian storehouses as well as those of the Ondo."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Oranges, pumpkins, wheat..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "But we can discuss this after we see the livers safely back to Tolshs Aath. It wouldn't do to keep him in suspense."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So the benthos have been stealing supplies from the Kholusians. Hmm..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm glad you had better luck than I did. I spent the whole time fighting one benthos after another."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I have a feeling that there is more to this..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Did you happen to see a bird while you were in the caves? Ryne insists that there was one...but how?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To venture ashore and steal from the Kholusians entaileth unconscionable risk. Yet there is no denying the truth of our eyes."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I know it sounds strange, but there really was a bird in those caves."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "I am relieved to see you unspeared."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "Our precious livers! I knew you would not fail!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We also found all manner of foodstuffs from Kholusia in the Flounders' Floor. Tell me, Tolshs Aath, does that seem odd to you?"
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "It is brazen, to be sure..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I'm reminded of rumors I've heard recently concerning a rash of thefts from Kholusian warehouses. The perpetrators enter in the dead of night and are gone before anyone has realized what has happened."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The Eulmoran Army has been investigating, but thus far to no avail."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Perhaps the reason they have struggled so is that their quarry is of the sea..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The true question, then, is what we mean to do about it. Much as I would like to proceed to the ruins without further delay, we cannot allow the benthos to carry on as they are."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "If I may─I believe that the ruins are, in fact, key to the benthos' plans."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Is that so?"
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "These ruins, which lie deep within the illuminated land, are a recent discovery."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "We have seen signs that the benthos are preparing to claim them with all haste. We could not fathom why, but in light of the knowledge that they have been stockpiling resources..."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "It is clear that their queen will sssoon give birth."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "They require space to raise their young, and food for both queen and hatchlings to thrive."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well, we can hardly fault them for that."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "Under normal circumstances, perhapsss. But conditions in the Tempest are far from suitable for spawning, its resources barely able to sustain our current population. There is only one reason they would disregard this."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "They seek to build an army, and with it take revenge upon the finless."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "It is not a surprise. They came to us not long ago, seeking allies for the cause. We rebuffed them, of course─the suffering of others will not serve as balm to their own. Their queen, however, desires only bloodshed, and will gladly send her children to die in our stead."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "If they are planning to wage war, that changes matters considerably."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I doubt that this can be resolved without violence, but perhaps with a show of force we can convince them to see reason before the die is cast."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I would rather not risk your people in the attempt. If we travel to the illuminated land, is there a way we might identify the ruins ourselves?"
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "Yes. Once you reach its depths, go deeper still. You will see a monstrous structure there upon the sea floor."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "That you have come to us now is the will of the ancient ones. They have guided you here that you may drive out the usurpers─those who seek to use their magnificent creations with vile purpose."
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "I have no doubt that they will show you the way forward."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I'm afraid that the dead do not speak quite so clearly. Nevertheless, we shall try not to disappoint."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If what we seek lieth deeper still, beyond Amaurot, I would call upon the assistance of another..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I would not care for what happened in Limsa to be repeated a world away. The benthos know not what they do..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Is it wrong of me to be a bit excited? I know the circumstances are grave, but imagine what those ruins might hold!"
+    },
+    {
+      "character": "Tolshs Aath",
+      "text_en": "You need not believe in the will of the ancientsss to receive of their guidance. Like the tide and the current, it is there always."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It doesn't feel all that honorable or heroic to strike first, but if it leads to less bloodshed in the end..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The will of the ancients... If only it were so simple."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Why do these problems always turn out to be so much more complex than they seem? Couldn't we have a simple, straightforward adventure for once? The good guys good, the bad guys bad, no drama or intrigue, and it all ends with tea and tarts!"
+    }
+  ]
+}

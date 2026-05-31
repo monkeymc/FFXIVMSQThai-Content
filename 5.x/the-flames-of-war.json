@@ -1,0 +1,788 @@
+{
+  "id": "the-flames-of-war",
+  "wiki_path": "/wiki/The_Flames_of_War",
+  "wiki_image_url": null,
+  "patch": "5.5",
+  "title_en": "The Flames of War",
+  "level": "80",
+  "location": "Azys Lla(X:8.9,Y:31.1)",
+  "npc_start": "G'raha Tia",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "...I have already sent word to the others. We are to rendezvous in Ul'dah, at the Hall of Flames."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Let us collect Alphinaud, and be on our way."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Of the foe we face, we know but little. Though time be of the essence, we must not stint in our preparations, lest our haste to fly to the aid of the Amalj'aa cost us our best chance of victory."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "By happy coincidence, Krile and I were in the process of concluding our inquiries when news reached us of Lunar Bahamut's return. There is much to discuss, but it will have to wait."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As I am sure you recall, Arenvald and Fordola were bound for Paglth'an. I pray they have not come to any harm..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If you're worried about me, don't be. I got some rest during the flight, and now I feel ready for anything."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "First the spate of abductions, and now an attack on the Amalj'aa homeland... What do the Telophoroi aim to achieve with all of this?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Now, I know some of you could do with a rest, but I'm sorry to say the Telophoroi have other plans. Paglth'an is already under siege."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Happily, the Immortal Flames arrived just in time to join the defensive effort ─ with Marshal Tarupin at their head."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, now...! Given the failure of the peace negotiations, I was uncertain how the sultanate would respond. 'Tis good to hear that Ul'dah has not abandoned the Amalj'aa."
+    },
+    {
+      "character": "???",
+      "text_en": "Abandon them? Did we not profess to be their friends?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Your Grace!"
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Marshal Tarupin had made provisions for such an exigency and was ready to depart at a moment's notice. All that was required was the agreement of the Syndicate ─ each of whom voted in favor of intervention."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Nor is Ul'dah alone in its resolve. The other Alliance nations have likewise dispatched their troops to Paglth'an."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Yet even with our combined strength, we shall be sorely tested. For we face not only the might of an imperial legion, but Lunar Bahamut and his draconic horde besides."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Tiamat's children..."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Fight as we may, victory is by no means assured. But not all of the omens are grim. Our forces report that despite their proximity to Lunar Bahamut, none of the Amalj'aa show any signs of tempering."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Strange. What primal would turn down a chance to claim new thralls?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...Unless it is incapable of doing so? Primals are not wont to serve a master, Ascian or otherwise. It may well be that Lunar Bahamut differs in some fundamental manner from those we have previously encountered."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If that were true, anyone could fight him. And Forename and others like him wouldn't have to shoulder the burden alone."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Be that as it may, Lunar Bahamut remains an incalculably powerful foe whom our soldiers will struggle to best through mere force of arms. With the aid of the Scions , however, I believe they will fare rather better...assuming, that is, you are ready to take the field."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "An airship awaits to bear you to the front. Pray set forth as soon as you are able."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "I, meanwhile, shall continue to coordinate our forces. Till next we meet, may the Twelve bless and keep you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It was kind of her to speak with us personally. You may be certain she has no shortage of other responsibilities."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well, I for one am inclined to do as Her Grace requests. Lest we forget, Arenvald and Fordola are in Paglth'an on reconnaissance. The sooner we save the day, the better their chances."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. To the airship then!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Lest thou wonder, I have attended to Thancred's ammunition, and completed mine own preparations. I trust thou canst say the same of thine."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Try as I might, I cannot fathom why the Telophoroi would move to attack the Amalj'aa. If Fandaniel's objective is death and destruction, one of the city-states would surely have been a better target."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No, they have some other agenda. One encompassing the recent abductions, perhaps..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Do you think Estinien and Tiamat have already reached Paglth'an? ...Ah, but I should know better than to speculate on the whereabouts of the Azure Dragoon. Forgive me."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It is not impossible that the Telophoroi redirected some of the troops stationed at the tower to the front line... If so, this may all turn out to have been to Arenvald and Fordola's benefit."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Given what we know, some ─ or perhaps even all ─of the imperial soldiers may have been tempered. If we can subdue them, we should be able to do something about that, but they would still see us as enemies even then. That said...they wouldn't be deaf to reason, which is better than nothing."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So, the Telophoroi have constructed buildings capable of tempering, and primals which are not? What secrets are they hiding...?"
+    },
+    {
+      "character": "Immortal Flames Pilot",
+      "text_en": "Greetings! We've been expecting you."
+    },
+    {
+      "character": "Immortal Flames Pilot",
+      "text_en": "But say the word, and we shall depart for Paglth'an at once."
+    },
+    {
+      "character": "Immortal Flames Pilot",
+      "text_en": "All aboard who're coming aboard!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "At the cost of his own life did Master Louisoix strike down the primal Bahamut. Whatever the true nature of this new incarnation, it cannot be suffered to threaten this star."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Like most who have spent time in Ul'dah, I haven't always seen eye to eye with the Amalj'aa. But today I will fight side by side with them in common cause ─ and hope that none of them remember me."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The grasslands of Paglth'an will make for an open battlefield. Many though our enemy are, we will not have to fight against the terrain , at least."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "By dealing with Lunar Bahamut and his hordes, so too will we render aid to Arenvald and Fordola. Come, let us go!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whether he's here or not, we can be sure Fandaniel is behind this attack. And that makes me doubly determined to see that it fails."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I know not what designs the Telophoroi have on Paglth'an, but I do know they must be stopped, for the good of the Amalj'aa and us all."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "Ascian vermin! You shall torment my children no longer!"
+    },
+    {
+      "character": "Panicked Amalj'aa A",
+      "text_en": "No way forward, no way back!"
+    },
+    {
+      "character": "Panicked Amalj'aa B",
+      "text_en": "I cannot go on..."
+    },
+    {
+      "character": "Panicked Amalj'aa B",
+      "text_en": "Our best was not enough."
+    },
+    {
+      "character": "Panicked Amalj'aa A",
+      "text_en": "They are too strong..."
+    },
+    {
+      "character": "Relieved Kobold",
+      "text_en": "Help is here!"
+    },
+    {
+      "character": "Eager Kobold",
+      "text_en": "This way, allies, comrades, friends!"
+    },
+    {
+      "character": "Cautious Kobold",
+      "text_en": "Be careful, vigilant, watchful!"
+    },
+    {
+      "character": "Tempered Imperials",
+      "text_en": "For the Empire..."
+    },
+    {
+      "character": "Telodragons",
+      "text_en": "For the Emp...ire..."
+    },
+    {
+      "character": "Tempered Imperials",
+      "text_en": "Glory be to Garlemald..."
+    },
+    {
+      "character": "Telodragons",
+      "text_en": "Gl-Glory be...to Garlemald..."
+    },
+    {
+      "character": "Kobold Cannoneer",
+      "text_en": "Terrified, frightened, scared!"
+    },
+    {
+      "character": "Kobold Cannoneer",
+      "text_en": "Thank you, overdweller! Let me show you the way!"
+    },
+    {
+      "character": "Wounded Soldier A",
+      "text_en": "Is that the Azure Dragoon?"
+    },
+    {
+      "character": "Wounded Soldier B",
+      "text_en": "I-Incredible..."
+    },
+    {
+      "character": "Estinien Wyrmblood",
+      "text_en": "What took you so long?"
+    },
+    {
+      "character": "Estinien Wyrmblood",
+      "text_en": "The Amalj'aa are in trouble. Let's split up."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "Very well. I shall fly to their aid."
+    },
+    {
+      "character": "Wounded Soldier C",
+      "text_en": "Such strength..."
+    },
+    {
+      "character": "Wounded Soldier D",
+      "text_en": "To think a dragon would come to our aid..."
+    },
+    {
+      "character": "Amalj'aa on the Supply Carriage",
+      "text_en": "Today, we fight as one!"
+    },
+    {
+      "character": "Amalj'aa on the Supply Carriage",
+      "text_en": "We are being overwhelmed!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "Here I come!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "Fall, dam you!"
+    },
+    {
+      "character": "Lucia the Radiant",
+      "text_en": "Hyah!"
+    },
+    {
+      "character": "Lucia the Radiant",
+      "text_en": "Have at you!"
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "We shall see the wounded to safety. You are needed elsewhere!"
+    },
+    {
+      "character": "Lucia the Radiant",
+      "text_en": "That should give us a moment's rest."
+    },
+    {
+      "character": "Aymeric the Blue",
+      "text_en": "Help is on the way. Please, hold on a little longer..."
+    },
+    {
+      "character": "Fleeing Amalj'aa",
+      "text_en": "Fall back!"
+    },
+    {
+      "character": "Estinien Wyrmblood",
+      "text_en": "Oh no you don't!"
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "My poor child... I shall free thee from thy pain."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "My children..."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "So be it."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "The time has come..."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "May you finally be at peace."
+    },
+    {
+      "character": "Estinien Wyrmblood",
+      "text_en": "Ha!"
+    },
+    {
+      "character": "Estinien Wyrmblood",
+      "text_en": "Tsk..."
+    },
+    {
+      "character": "Estinien Wyrmblood",
+      "text_en": "Worthless!"
+    },
+    {
+      "character": "Estinien Wyrmblood",
+      "text_en": "You're finished!"
+    },
+    {
+      "character": "Paglth'an Flamekeeper",
+      "text_en": "You would lend us your aid? Then let us crush this accursed war machine."
+    },
+    {
+      "character": "Paglth'an Flamekeeper",
+      "text_en": "We must hold our ground until their defenses are broken!"
+    },
+    {
+      "character": "Fortress Praesidium",
+      "text_en": "Preparing to fire..."
+    },
+    {
+      "character": "Tempered Imperial",
+      "text_en": "Miserable curs!"
+    },
+    {
+      "character": "Tempered Imperial",
+      "text_en": "Ugh!"
+    },
+    {
+      "character": "Tempered Imperial",
+      "text_en": "Die!"
+    },
+    {
+      "character": "Paglth'an Flamekeeper",
+      "text_en": "Once the way is clear, strike at the enemy's heart!"
+    },
+    {
+      "character": "Magitek Core",
+      "text_en": "Reactivating magitek field..."
+    },
+    {
+      "character": "Paglth'an Flamekeeper",
+      "text_en": "You fight well! Our brethren will hear of your brave deeds."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "I will call upon my children."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "The eikon waiteth in the heavens! My child shall bear thee to him!"
+    },
+    {
+      "character": "Amalj'aa",
+      "text_en": "Stand firm! We cannot afford to lose!"
+    },
+    {
+      "character": "Amalj'aa",
+      "text_en": "We bow down to none!"
+    },
+    {
+      "character": "Tempered Imperials",
+      "text_en": "Glory be..."
+    },
+    {
+      "character": "Tempered Imperials",
+      "text_en": "...to Garlemald..."
+    },
+    {
+      "character": "Telodragons",
+      "text_en": "Glory...be..."
+    },
+    {
+      "character": "Telodragons",
+      "text_en": "F-For Garlemald..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our efforts may have helped Arenvald and Fordola escape..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Is that the last we've seen of Bahamut?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Hopefully, Tiamat's wounds are not too severe..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The Amalj'aa will not soon forget this day..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Our allies have steered well clear of the tower, for good reason."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Those kobolds certainly know how to handle themselves!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Let's take a moment to assess the situation."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Everyone ready? Then let's not dally any longer!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must have faith in Arenvald and Fordola!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The seat of the Amalj'aa's power doth lie beyond this valley..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We must be ready for every eventuality!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Good work, as always!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The kobolds have proven to be staunch allies indeed!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Most impressive..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The way forward is clear!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's fast, but not fast enough!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not your average dragon, by the looks of it..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A Meracydian dragon..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I think this answers the question of how they summoned Bahamut..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The Amal'jaa need all the help they can get. Come on!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Another victim of Fandaniel's schemes..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us make haste."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In death, may you find the peace you were denied in life..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We must proceed with caution if we wish to slip through the enemy's front line."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Estinien! Leave these foes to us!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "One could not ask for more dependable allies!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I'm glad they're on our side..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Let us follow Tiamat and Ser Estinien's lead!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "With Estinien and Tiamat on our side, we have nothing to fear!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Lord Aymeric! And Lucia!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The armies of the Alliance have entered the fray."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's lend the Ishgardians our support!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Our presence is yet required in the city."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It seems Estinien is good for something after all."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As you should well know! Or have you been ignoring my tales of his exploits?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Into the valley!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Together, we will force the enemy back!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There is no time to lose. To the valley!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Absurdly large and ugly as sin? There's no mistaking that \"classic\" Garlean design..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "First dragons, and now this ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Telophoroi are not leaving anything to chance..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "A mobile fortress... So, 'tis more than a mere rumor."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That unsightly contraption is in need of dismantling."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Another of the Empire's magitek monstrosities, it would seem."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I dred to think how we'd have fared without the Amalj'aa!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So much for the Telophoroi's fancy new toy."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Our true adversary yet awaits..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The enemy's assault on the city hath been thwarted."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The Amalj'aa could teach me a thing or two about pyromancy."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "My goodness... I do hope there aren't any more of those!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "They have answered Tiamat's call!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "This will save us a long trek."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Surely, teleportation magick presenteth a safer alternative..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's perfectly safe! At least, I think it is..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I never dreamed I would have the chance to ride a dragon!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I recognize that aether... Bahamut."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Many thanks!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Twelve forfend I should make such a perilous journey again..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If you thought that was nerve-racking, the worst is yet to come..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We all made it here in once piece, I take it?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That is not Bahamut, just a poor imitation!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Imitation or no, we would be fools to underestimate it!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Lunar Bahamut, in the flesh..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The air is thick with aether... We are close."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "No sign of the Ascian..."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "Children of man... The shade of my beloved is no more, and I...I shall be forever in your debt."
+    },
+    {
+      "character": "Tiamat",
+      "text_en": "By your deeds are we set free. And free we shall remain, as long as I draw breath. Never again shall the dragons of Meracydia hearken to the lies of the Ascians. This I vow."
+    },
+    {
+      "character": "???",
+      "text_en": "Noble warriors! The dragons chose their friends well..."
+    },
+    {
+      "character": "Amalj'aa War Chief",
+      "text_en": "Long have our peoples waged war, but no more."
+    },
+    {
+      "character": "Amalj'aa War Chief",
+      "text_en": "Your fallen lie beside our own. By our words and deeds shall we honor their sacrifice."
+    },
+    {
+      "character": "Amalj'aa War Chief",
+      "text_en": "The enemy of our enemy is our friend, and you have proven yourselves worthy of our trust. It is the Garleans who are deserving of our fury."
+    },
+    {
+      "character": "Amalj'aa War Chief",
+      "text_en": "I shall see that my brethren learn the truth of this day, and rally as many as possible to the cause. Till we meet again."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And thus did we make allies of the Amalj'aa..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It would certainly seem that way. The sultana will be pleased. Let's go and give her the good news, shall we?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "What in Rhalgr's name happened here?"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "The gods only know... But you can bet these poor sods aren't here by choice."
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Quickly, we've got to get them free!"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Get back!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "No... What have I done?"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "It's too late for them! We're leaving. Now!"
+    },
+    {
+      "character": "Fordola (no text)",
+      "text_en": "<gasp>"
+    },
+    {
+      "character": "Arenvald (no text)",
+      "text_en": "No! Noooo!"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Don't you dare! We came together, and we're leaving together!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Though the day is won ─ thanks in no small part to thy valor ─ the Telophoroi are far from defeated. Yet be that as it may, 'tis only right that we rejoice in Lunar Bahamut's banishment unto the aether."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It will take more than a single victory to wash away all the bad blood between men and Amalj'aa...but one has to start somewhere."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Tiamat did all she promised and more this day, but I doubt she will be satisfied. Nay, she will fight on in defense of her children, wheresoever they may be."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "From what I could tell, there didn't seem to be many imperials in the vicinity of the tower. Hopefully, Arenvald will have used the opportunity to get in and out undetected."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To see the Amalj'aa fighting alongside us brought to mind the Zun of the Crystarium. I pray that our peoples can forge bonds as strong as those of our counterparts in the First."
+    },
+    {
+      "character": "Immortal Flames Pilot",
+      "text_en": "Is it true? Has Lunar Bahamut been defeated?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I should have known you'd be the one to end it. Mayhap now Tiamat will find some measure of solace."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While it would be too much to hope that we have seen the last of Fandaniel, we have dealt his schemes a telling blow this day, and that alone is cause to celebrate."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And celebrate I will...when we have received word of Arenvald's safe return."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "From what I could tell, there didn't seem to be many imperials in the vicinity of the tower. Hopefully, Arenvald and Fordola will have used the opportunity to get in and out undetected."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To see the Amalj'aa fighting alongside us brought to mind the Zun we encountered in the Crystarium. I pray that our peoples can forge bonds as strong as those of our counterparts in the First."
+    }
+  ]
+}

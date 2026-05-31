@@ -1,0 +1,200 @@
+{
+  "id": "working-off-the-meal",
+  "wiki_path": "/wiki/Working_Off_the_Meal",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "Working Off the Meal",
+  "level": "70",
+  "location": "Amh Araeng(X:26.7,Y:18.5)",
+  "npc_start": "Cassard",
+  "dialogues": [
+    {
+      "character": "Cassard",
+      "text_en": "Gahahaha! You have courage, my friend! Rhon Ron's wares are more “exotic” than harmful, but I don't envy you the bellyache you'll have on the morrow."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "Right. Now that you've eaten, I expect you're eager to get back on the road..."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "...Would you mind if we delayed our departure a touch? I have a few deals left to close before I can conclude my business here in Mord Souq."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "Oh! Offering your services, are you? Aye, well an assistant would certainly help hurry things along!"
+    },
+    {
+      "character": "Cassard",
+      "text_en": "I have a receipt here for some goods that need picking up from the market. All properly paid for─you'd just need to do the lifting and carrying."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "I'll go and take care of some last-minute haggling, then. See you in a bit."
+    },
+    {
+      "character": "Ghen Gen",
+      "text_en": "Cracking the coinpurse is only the beginning! We have wares for every occasion, so feel free to spend to your heart's content!"
+    },
+    {
+      "character": "Market Receipt",
+      "text_en": "Table cactus — Thon Ton Iron ore—Thol Tol"
+    },
+    {
+      "character": "Market Receipt",
+      "text_en": "Nabaath Areng antiques — Mhil Mil (to be collected from Mhul Mul)"
+    },
+    {
+      "character": "Thol Tol",
+      "text_en": "Cassard sent you, did he? Right. Yes. ...What kind of ore was it, again?"
+    },
+    {
+      "character": "Thol Tol",
+      "text_en": "Yes! Wait, no. Are you sure? I don't seem to have any on hand..."
+    },
+    {
+      "character": "Thol Tol",
+      "text_en": "Yes! Wait, no. Are you sure? I don't seem to have any on hand..."
+    },
+    {
+      "character": "Thol Tol",
+      "text_en": "Iron ore, of course! That would explain this box I have here. It's all yours!"
+    },
+    {
+      "character": "Thol Tol",
+      "text_en": "Now, then! ...What was I doing, again?"
+    },
+    {
+      "character": "Thon Ton",
+      "text_en": "You came in with Cassard, yes? Good, good, I can finally stop thinking about that sack. Please, take your prickly purchase!"
+    },
+    {
+      "character": "Thon Ton",
+      "text_en": "Lift with your legs, and not with your back!♪"
+    },
+    {
+      "character": "Mhul Mul",
+      "text_en": "Hey, no touching! That merchandise is spoken for! You couldn't possibly change my mind with a better offer..."
+    },
+    {
+      "character": "Mhul Mul",
+      "text_en": "...What? Cassard sent you!? Wh-Why didn't you say so? I wouldn't dream of selling his goods to a higher bidder! Oh no, no, no!"
+    },
+    {
+      "character": "Mhul Mul",
+      "text_en": "Nabaath Areng relics, wasn't it? All packed in that box there. Handle with care!"
+    },
+    {
+      "character": "Mhul Mul",
+      "text_en": "Hoohoo! Lovely, lovely pots!"
+    },
+    {
+      "character": "Bhun Bun",
+      "text_en": "Keep away from my private worm stash! Get back, I say!"
+    },
+    {
+      "character": "Bhun Bun",
+      "text_en": "Wait, what? No no no! This is Bhun Bun's private worm stash. Not for sale!"
+    },
+    {
+      "character": "Latgar",
+      "text_en": "Buying supplies at the right price is a simple enough task. Transporting the damned things, on the other hand, is a different matter entirely."
+    },
+    {
+      "character": "Latgar",
+      "text_en": "If you're handling Cassard's porter work, you've come to the wrong place. He has no outstanding orders with my shop."
+    },
+    {
+      "character": "Rhon Ron",
+      "text_en": "Do you like your food warm and wriggly? Then you have come to the right place!"
+    },
+    {
+      "character": "Rhon Ron",
+      "text_en": "Hm? Hungry again already? You have a strong stomach, friend, but I wouldn't eat those!"
+    },
+    {
+      "character": "Mhil Mil",
+      "text_en": "Of all the things we trade here in Mord Souq, nothing is more important than water! Good for drinking, good for footbaths! Footbath first, drink later."
+    },
+    {
+      "character": "Mhil Mil",
+      "text_en": "Hands off! That water is for Mhil Mil's footbath! ...Unless you have coin or barter?"
+    },
+    {
+      "character": "Mhil Mil",
+      "text_en": "Oh, you work for Cassard? Mhul Mul has his antiques all boxed up and ready for transport!"
+    },
+    {
+      "character": "Mhul Mul",
+      "text_en": "Give my regards to Cassard, heh heh heh..."
+    },
+    {
+      "character": "Thon Ton",
+      "text_en": "That's my business finished for the day! Come again if you need more spiky succulents!"
+    },
+    {
+      "character": "Thol Tol",
+      "text_en": "Now, then! ...Where was I going, again?"
+    },
+    {
+      "character": "Cassard",
+      "text_en": "Don't tell me you've been round the entire market already!?"
+    },
+    {
+      "character": "Cassard",
+      "text_en": "Aye, that's the lot, all right. Good work."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "And quick work, too, considering you've not set foot in the place before. I'd thought you one to sit in the city like the Exarch, but something tells me you're not a stranger to visiting strange lands..."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "Unfortunately, your efficiency presents something of a problem. I'd hoped to conclude all my business before you returned, but it seems there's been some confusion over one of the orders I placed."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "I'll have to drag in my middleman and sort this mess out. I'm sorry to make you sit around and twiddle your thumbs..."
+    },
+    {
+      "character": "???",
+      "text_en": "...Cassard? It feels like an age since I last saw you!"
+    },
+    {
+      "character": "Cassard",
+      "text_en": "Well, if it isn't the lovely Tesleen! It has been a while, but your timing couldn't be better."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "This sir / lady was on his / her way to meet with Alisaie. I'm supposed to be taking him / her to your corner of the desert, but a misplaced order has commandeered my  attention..."
+    },
+    {
+      "character": "Tesleen",
+      "text_en": "...Wait, I know who you are."
+    },
+    {
+      "character": "Tesleen",
+      "text_en": "Alisaie has told me so much about you! You're Forename , aren't you!?"
+    },
+    {
+      "character": "Tesleen",
+      "text_en": "I knew it! How wonderful to meet you in the flesh after hearing all those stories!"
+    },
+    {
+      "character": "Tesleen",
+      "text_en": "I'm Tesleen. I work as a carer at the Inn, and I've gotten to know Alisaie quite well since she took up guard duties there."
+    },
+    {
+      "character": "Tesleen",
+      "text_en": "Do you want me to take over as Forename 's guide, Cassard? My shopping's all done and packed for the road, so it would be no trouble..."
+    },
+    {
+      "character": "Cassard",
+      "text_en": "That would be a great help, thank you!"
+    },
+    {
+      "character": "Cassard",
+      "text_en": "Well, it looks like you'll be able to head straight out after all. My caravan and I will be in the area for a while yet─seek me out when you've had your fill of Amh Araeng, and I'll send you back to the Crystarium."
+    }
+  ]
+}

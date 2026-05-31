@@ -1,0 +1,304 @@
+{
+  "id": "look-to-the-stars",
+  "wiki_path": "/wiki/Look_to_the_Stars",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "Look to the Stars",
+  "level": "75",
+  "location": "The Rak'tika Greatwood(X:30.5,Y:18.3)",
+  "npc_start": "Almet",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "We must make haste and see this done. The Qitana Ravel and the Lightwarden await."
+    },
+    {
+      "character": "Almet",
+      "text_en": "What you seek lies in the heart of the K'mul Astropolis."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Unfortunately, it too was sealed shut by order of His Eminence."
+    },
+    {
+      "character": "Almet",
+      "text_en": "If we are to open it, we must first look to the Morning Stars. Come, I will show you the way."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Looking upon these structures, I cannot help but be reminded of ruins in Gyr Abania. Yet the manner in which they appear to be suppressing the natural flow of aether is more akin to the Allagan pillars in the House of the Crooked Coin..."
+    },
+    {
+      "character": "Almet",
+      "text_en": "You were able to keep up, I see. Well done."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Ahead lie the Morning Stars, four monuments built in tribute to the guardians of Rak'tika."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Beyond them is the Great Pyramid of Ux'ner, where the flow of magic must be restored."
+    },
+    {
+      "character": "Almet",
+      "text_en": "It is said that the monuments are themselves the keys to opening the pyramid."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Though I know not how. That is for you to discover."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...Another puzzle. Wonderful."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I would have a closer look."
+    },
+    {
+      "character": "Almet",
+      "text_en": "I must confess, there are times when I too wonder what lies within these ruins. But I would never defy the will of the emperor."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It is indeed another puzzle, but for a blessing, it appears to be similar to the one we encountered at the lake."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "These statues are all depictions of the divine beasts mentioned on the tablet."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "No doubt they will open the way into the pyramid in like manner."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We have but to discern the correct order. Let's split up and search the area for clues."
+    },
+    {
+      "character": "Almet",
+      "text_en": "These ruins are covered in ancient inscriptions. The answer may well be hiding among them."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed. It may be best to transcribe them if they are as numerous as you say. Better that than risk overlooking something."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though transcription would prove impractical for you, not being versed in Ronkan script... No matter. You will employ a different approach: impressions."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Here. I had thought to use these clay tablets to record any significant imagery we discovered, but they will serve you just as well. Take impressions of any inscriptions you find."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We will start at the base of the pyramids. You begin at the top."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "When you have finished, return here and I will translate your findings."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Did you find anything?"
+    },
+    {
+      "character": "Almet",
+      "text_en": "There are so many inscriptions... I scarcely know where to start."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Finished? Take what you have to Y'shtola. I will join you anon."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I trust you've made good use of those clay tablets?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well done. A moment while I decipher what you've found."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Apologies for the delay."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nothing we saw at the base of the pyramids gave any hint as to the solution of the puzzle, focusing instead on how to proceed having solved it. Your findings, on the other hand, appear to form a riddle. Once assembled, it reads as follows..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Come together, share despair."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Go thy ways, dread burdens bear."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Mark the crown, heed its call."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Avert thy gaze, forever fall.”"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I had assumed that the puzzle would involve a sequence, but from what Almet and I were able to gather, it is but a matter of suffusing one of the statues with aether."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The question being: which one?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Have you any thoughts?"
+    },
+    {
+      "character": "Almet",
+      "text_en": "“Come together, share despair, Go thy ways, dread burdens bear..."
+    },
+    {
+      "character": "Almet",
+      "text_en": "“Mark the crown, heed its call, Avert thy gaze, forever fall.” Such cryptic writings. How are they related to the divine beasts?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Given your talent for finding solutions to vexatious problems, I think it best that you choose the statue. What say you, Forename ?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If you need more time to consider, take it─but do make haste. I would suggest seeking Almet's counsel, but she seems rather preoccupied with reciting the riddle."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "At the very least, you should consider having a second look at the statues themselves. Perhaps they offer some clue as to which is the correct choice."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Right, then. After you have selected a statue, I will imbue it with the required aether."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Should it prove to be a trap, I am more than capable of warding off any malign magicks it may contain."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Now, which statue will it be?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "All right. I pray this works."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Gah! ...It seems you were mistaken."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am fine. Though I would rather not go through that again."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Next time, choose more carefully."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "All right. I pray this works."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The aether has been absorbed..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You really do have a talent for these things."
+    },
+    {
+      "character": "Almet",
+      "text_en": "Yes, of course. I have it written here."
+    },
+    {
+      "character": "Almet",
+      "text_en": "“Come together, share despair, Go thy ways, dread burdens bear..."
+    },
+    {
+      "character": "Almet",
+      "text_en": "“Mark the crown, heed its call, Avert thy gaze, forever fall.”"
+    },
+    {
+      "character": "Almet",
+      "text_en": "Did that serve to inspire you?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A moment. Maintaining my wards has proven more taxing than anticipated."
+    },
+    {
+      "character": "Almet",
+      "text_en": "The way should be clear now. Come, let us─"
+    },
+    {
+      "character": "Almet",
+      "text_en": "Someone approaches!"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Sister! <pant> <pant> Sister!"
+    },
+    {
+      "character": "Almet",
+      "text_en": "Cymet?"
+    },
+    {
+      "character": "Almet",
+      "text_en": "What are you doing here? What has happened?"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Eulmoran soldiers. They have entered Yx'Maja!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Eulmoran soldiers!? And what of the Blessed?"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Nothing specific, but it seems the Eulmorans had little interest in Slitherbough or its people."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "According to our scouts, their general and his men made all haste for the gate to Yx'Maja upon finding it."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Together with Thancred, Uimet and some few others have engaged them at the border."
+    },
+    {
+      "character": "Almet",
+      "text_en": "You are to return and assist Uimet at once."
+    },
+    {
+      "character": "Almet",
+      "text_en": "They are not to set foot near the ruins or Fanow."
+    },
+    {
+      "character": "Almet",
+      "text_en": "We will see to matters here and return as quickly as we can. Understood?"
+    },
+    {
+      "character": "Cymet",
+      "text_en": "Yes, Sister. Be careful."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though I knew time was short, I did not expect the Eulmorans to move so swiftly..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But we have come too far to turn back now."
+    }
+  ]
+}

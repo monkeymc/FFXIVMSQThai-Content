@@ -1,0 +1,336 @@
+{
+  "id": "aether-to-aether",
+  "wiki_path": "/wiki/Aether_to_Aether",
+  "wiki_image_url": null,
+  "patch": "6.0",
+  "title_en": "Aether to Aether",
+  "level": "86",
+  "location": "Elpis(X:24.1,Y:23.2)",
+  "npc_start": "Hermes",
+  "dialogues": [
+    {
+      "character": "Hythlodaeus",
+      "text_en": "I thoroughly enjoyed myself ─ at the end most of all!"
+    },
+    {
+      "character": "Meteion",
+      "text_en": "All the creations are happy. That makes me happy too!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Now you've seen what I do. Was it everything you were expecting...?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "I'm tired. Leave me be."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Tell me, Forename . In the course of watching me, have you learned aught of value?"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I see...If you told me what it is you seek, I would be able to better accommodate you."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Dynamis, you say? Curious that such an obscure phenomenon should be of interest to you."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "If only my work were more interesting... Nevertheless, I'm still indebted to you for keeping Meteion company. If there is aught I might do, you need but ask."
+    },
+    {
+      "character": "Seasoned Observer",
+      "text_en": "Chief Hermes, what good fortune to find you here."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Is something the matter?"
+    },
+    {
+      "character": "Seasoned Observer",
+      "text_en": "The lykaon ─ I'm afraid it's done it again."
+    },
+    {
+      "character": "Seasoned Observer",
+      "text_en": "No sooner did we release one for observation than it set upon the nearby okyupetes, slaughtering them."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Was the creature hungry? Or somehow provoked?"
+    },
+    {
+      "character": "Seasoned Observer",
+      "text_en": "I had just fed them myself, and the okyupetes were keeping a wide berth. It is the nature of the lykaon that is to blame. Their innate viciousness."
+    },
+    {
+      "character": "Seasoned Observer",
+      "text_en": "Temperament aside, it is an outstanding creation, perfect in form and function."
+    },
+    {
+      "character": "Seasoned Observer",
+      "text_en": "Though it may not be suited for release, I've no doubt that the bureau will accept its concept for preservation."
+    },
+    {
+      "character": "Seasoned Observer",
+      "text_en": "In any case, there's no point in postponing the inevitable. Doros will revert them all once the paperwork is in order."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Where is the scene of the incident?"
+    },
+    {
+      "character": "Seasoned Observer",
+      "text_en": "Just off the path to the Twelve Wonders. As you make your way, you should see it on the left. I don't know if Doros is still there, however."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "H-Hermes! Wait!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "If this is part of his work, then I would observe. We follow."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "A fearsome beast, this lykaon... But where is it now?"
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "The okyupete is no easy prey. With its hooves and horns, it was designed to be formidable even on land."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Yet they didn't stand a chance against the lykaon..."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "It's heavy... Hermes's pain..."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "The lacerations and burns are unmistakable. A lykaon was indeed responsible."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "But the creature is nowhere to be seen. Doros must have taken it away."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "The man makes his base at the Twelve Wonders. I shall go and seek him out there."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Emet-Selch and I will search the area for good measure. Just to make sure the lykaon did not escape."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "My thanks. Let us meet at the Twelve Wonders when you have finished."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I will go on ahead. Please follow with Forename ."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Come, come. It's down this path and over the bridge."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "There it is─the Twelve Wonders. Hermes is looking for Doros. Let's look for Doros too!"
+    },
+    {
+      "character": "Meteion",
+      "text_en": "He's a man with long, blond hair...I think. I'll know him when I see him!"
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Come on, let's find Doros. He's a man with long, blond hair...I think!"
+    },
+    {
+      "character": "Meteion",
+      "text_en": "All right! I'll wait in front of the Twelve Wonders."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Ready to look for Doros again? Let's go, let's go!"
+    },
+    {
+      "character": "Blonde-haired Woman",
+      "text_en": "...Hm? May I help you?"
+    },
+    {
+      "character": "Dark-haired Man",
+      "text_en": "Once I get back and record today's results, I should finally be able to put that report to bed..."
+    },
+    {
+      "character": "Blonde-haired Woman",
+      "text_en": "...Hm? If you're with Meteion, then I assume you're on an errand for Hermes. What can I do for you?"
+    },
+    {
+      "character": "Meteion",
+      "text_en": "S-Sorry, wrong person! We're looking for Doros..."
+    },
+    {
+      "character": "Blonde-haired Woman",
+      "text_en": "Ah, I see. We do have similar hair, so people often mistake us from afar. I hope you find him soon."
+    },
+    {
+      "character": "Blonde-haired Woman",
+      "text_en": "Don't worry, you're hardly the first ones to mistake me for Doros, and you certainly won't be the last."
+    },
+    {
+      "character": "Dark-haired Man",
+      "text_en": "Once I get back and record today's results, I should finally be able to put that report to bed..."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Not Doros! His hair is long, but the color is wrong."
+    },
+    {
+      "character": "Dark-haired Man",
+      "text_en": "...Doros? I think he returned a short while ago."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "Doros! That's Doros!"
+    },
+    {
+      "character": "Blond-haired Man",
+      "text_en": "Well now, if it isn't Meteion. What brings you here?"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Ah, I thought I heard familiar voices!"
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I didn't realize you two had decided to help me search for Doros. Thank you."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "You're in charge of the lykaones, I believe. Where are they now?"
+    },
+    {
+      "character": "Doros",
+      "text_en": "Out in the fields in restraints. Frenzied as they were, I couldn't well return them to Ktisis."
+    },
+    {
+      "character": "Doros",
+      "text_en": "Once I've submitted my report, I'll see them reverted without delay."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "It's as he says. The beasts are indeed quite ferocious."
+    },
+    {
+      "character": "Doros",
+      "text_en": "Y-You're one of the Fourteen! Wh-What brings you here!?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Nothing you need concern yourself with. As you were."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "We've heard the news ─ that a lykaon slaughtered okyupetes. As the observer in charge, you are of the opinion that they are not fit to be released?"
+    },
+    {
+      "character": "Doros",
+      "text_en": "Aye, I am. Their abnormal aggression and exceptional strength makes for a highly problematic combination."
+    },
+    {
+      "character": "Doros",
+      "text_en": "It matters not where they are released. Lykaones would threaten other species and upset the natural order."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Could it be that the specimens observed are an outlier?"
+    },
+    {
+      "character": "Doros",
+      "text_en": "Highly unlikely. We've created a good many of them; all exhibited the same tendencies."
+    },
+    {
+      "character": "Doros",
+      "text_en": "Even when we used Kairos to begin with a fresh slate, their behavior was unchanged."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Kairos...?"
+    },
+    {
+      "character": "Doros",
+      "text_en": "A memory reconfiguration system. The chief himself created it."
+    },
+    {
+      "character": "Doros",
+      "text_en": "It allows us to erase or alter memories, that we may observe creations in different environmental conditions without needing to remake them from scratch."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Quite impressive...and potentially dangerous. Depending on the intensity of the aetheric emissions, Pashtarot may wish to have words with you."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Rest assured I've kept all values within prescribed limits. And to prevent misuse, its applications are limited to those authorized by the chief overseer."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Do not misunderstand. To manipulate a subject's memories is an intrusive act I deeply abhor. But it is still preferable to execution."
+    },
+    {
+      "character": "Doros",
+      "text_en": "Come now, Chief, let's not be so melodramatic! What was born of aether is simply being reduced to its original state."
+    },
+    {
+      "character": "Doros",
+      "text_en": "I know the distinctions concern you, but we mustn't lose sight of the bigger picture─making rational choices for the sake of a more prosperous star."
+    },
+    {
+      "character": "Doros",
+      "text_en": "If a creation cannot be properly studied even with the aid of Kairos, we remake it. If a creation is deemed a detrimental existence, we unmake it. 'Tis all for the greater good, and none question the necessity of such routine processes."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "I understand these things, I do. I would never think to unleash a clear and undeniable threat unto the world."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Yet insignificant though their individual lives may be next to all creation, it is all the lykaones have."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Before we seal their fates, we owe it to these beings to exhaust all options. To ensure that nothing has been overlooked."
+    },
+    {
+      "character": "Doros",
+      "text_en": "If you insist. Let me provide you with a full report, and we may take it from there."
+    },
+    {
+      "character": "Hythlodaeus",
+      "text_en": "Would it be possible for us to attend the discussion? That Emet-Selch may better carry out his duties."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "By all means."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "Pray show them to the meeting room."
+    },
+    {
+      "character": "Hermes",
+      "text_en": "We have a duty to the star, this I know. But it doesn't mean we don't also have a responsibility to the lives we bring into existence here."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "To man, other beings are just things. To be used and controlled. Like magic."
+    },
+    {
+      "character": "Meteion",
+      "text_en": "That's what Hermes told me once..."
+    }
+  ]
+}

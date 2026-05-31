@@ -1,0 +1,492 @@
+{
+  "id": "the-mother-of-exiles",
+  "wiki_path": "/wiki/The_Mother_of_Exiles",
+  "wiki_image_url": null,
+  "patch": "2.2",
+  "title_en": "The Mother of Exiles",
+  "level": "50",
+  "location": "Western Thanalan(X:22.6,Y:17.0)",
+  "npc_start": "Thancred",
+  "dialogues": [
+    {
+      "character": "Thancred",
+      "text_en": "The Antecedent bid me tell you to make for Vesper Bay, where young Alphinaud awaits your coming most eagerly. It was he who requested your assistance."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Some commotion or incident─I am not privy to the details."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "While you do whatever it is that Alphinaud has planned for you, I shall endeavor to track down our traitorous Brass Blade. And when I do, you may rest assured that we will have our answers."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "You do know Alphinaud hates to be kept waiting, don't you? Ah, but of course you do. Carry on, then."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You are late. No matter─I know where our visitors are headed. From what I have been able to gather, this vessel belongs to a band of Domans who seek an audience with the sultana. You are familiar with Doma, yes? In Othard?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well, like the rest of the nations of the eastern continent, it is ruled by the Garlean Empire. Given our visitors' unannounced arrival, as well as the state of their ship, I suspect they did not leave their homeland under the best circumstances. Needless to say, I should be very interested to hear their tale and, more importantly, what they know of the current state of affairs in the Empire. Such information could prove most useful."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We would be fools not to pursue this opportunity, do you not think? Come with me to Ul'dah, Forename . Unless I am mistaken─and I am rarely mistaken─we will find the Domans bickering with a Sultansworn on the Royal Promenade."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...You are uncertain of your role in the proceedings? Insurance. If our guests are not themselves imperial agents, it seems fair to assume that they may be being pursued by some. And if not, who better than you to have on hand in the event of an unforeseen diplomatic incident?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Besides, I do so enjoy your sparkling repartee. Satisfied? Good. I shall see you in Ul'dah."
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "It matters not how many times you ask! Without the necessary permissions, none shall pass!"
+    },
+    {
+      "character": "Refugee Leader",
+      "text_en": "Pray understand, good sir! We have not the leisure to lodge a formal petition. Time is of the essence."
+    },
+    {
+      "character": "Refugee Leader",
+      "text_en": "All I ask is that you summon your superior. Allow me to plead my case. Surely you can grant us that small kindness?"
+    },
+    {
+      "character": "Bartholomew",
+      "text_en": "Away with you, and darken these doors no longer. I will not ask again!"
+    },
+    {
+      "character": "Refugee Leader",
+      "text_en": "You know not what you do..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I gather your pleas fell upon deaf ears."
+    },
+    {
+      "character": "Refugee Leader",
+      "text_en": "A loyal man with a cold heart. I know his kind well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "hope that you will find me more to your liking. Alphinaud Leveilleur, at your service. A friend."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Which, I believe, makes me very nearly unique─in this part of the world, at least. Few indeed are your allies in Ul'dah. Yet you will need some if you wish to endear yourselves to the wealthy and powerful."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Pray join me and my associate at the Quicksand. There you may explain your situation to us, and we shall see if there is aught we can do to help."
+    },
+    {
+      "character": "Refugee Leader",
+      "text_en": "Master Alphinaud's associate, yes? We have been waiting for you. I trust you are ready to begin?"
+    },
+    {
+      "character": "Refugee Attendant",
+      "text_en": "It has been ever so long since we last set foot on dry land. I truly hope this marks the end of our journey."
+    },
+    {
+      "character": "Refugee Attendant",
+      "text_en": "We are grateful beyond measure for this kindness."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "We have traveled some several thousand malms across the sea, from the nation of Doma, in hopes that we might find sanctuary in these lands."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Sanctuary, Lady Yugiri?"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Aye. Lying within Othard, Doma was under the dominion of the Garlean Empire, as I am sure you are aware."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "When the war of succession broke out in Garlemald, we espied an opportunity to free ourselves from the yoke of imperial oppression, and took up arms."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "...Only to be crushed. And so I gathered what few Domans escaped the reckoning, and guided them hither to your shores."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A war of succession...? Then the Emperor... Forgive me, you said that Doma “was” under imperial rule, did you not?"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Doma is gone. Razed to the ground as an example to the other provinces."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Twelve have mercy... And your people?"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "On a ship anchored in Vesper Bay, flying borrowed colors."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Many were complicit in the rebellion, or are kin to those who were. They will not come ashore until I send word that it is safe to do so."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I sought an audience with your rulers, but was summarily refused."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The lords of Ul'dah are not wont to entertain foreign refugees without suitable encouragement."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Mayhap I was foolish to expect otherwise. But our supplies run low, and we have young ones in urgent need of care."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I have seen the tents outside the gates, however. We are not the first to seek asylum, nor will we be the last."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...Be that as it may, Ul'dah is no friend to Garlemald. Your tale would stir the hearts of many men and women here."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The sultana and the Syndicate will not be so easily swayed─but I shall see that you are granted an opportunity to plead your case."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "This is within your power?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Well...far be it from me to boast, but I do have the ear of certain influential individuals."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I am in your debt."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Lady Yugiri, forgive me for observing, but...your choice of attire seems like to evoke feelings of mistrust."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Men are wont to fear the unfamiliar. We know this from experience."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "We seek only to spare the people of Ul'dah unnecessary disquiet."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I shall defer to your experience, then."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I thank you for your understanding."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It seems I have urgent business with the Flame General. I leave our guests in your capable hands."
+    },
+    {
+      "character": "Kikyo",
+      "text_en": "Lady Yugiri labors day and night for the good of our people. She is an inspiration to us all... yet I worry for her health."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "If I may, sir / madam ─as I said earlier, we have been at sea for some several moons, and our supplies are all but spent."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I have not the heart to repeat the tales of our tribulations, nor would it please you to listen to them, I think. Suffice it to say, however...sacrifices have been made."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Though it shames me to beg for more when you have already offered so much, desperation compels me... Gentle sir / Good madam , if you or your associates could spare any provisions─anything at all─it would go a long way to lessen the suffering of my people."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Anything you can provide would be welcome. The adults can go without, but the children..."
+    },
+    {
+      "character": "Momodi",
+      "text_en": "...Hells, why didn't you say so sooner, Forename ? 'Course I'll help! You couldn't have picked a better day, to tell the truth! A wealthy merchant an' his entourage were due to have a banquet here on the morrow, see, but just sent word they can't come, meanin' I've got a boatload of foodstuffs an' no one to feed. Best of all, they paid for the lot in advance! Hah hah!"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "Go an' call on Fridurih an' Katherine at the Sapphire Avenue Exchange. Tell 'em I said to ship the little prince's order to the Wakin' Sands. Oh, an' if they argue, just show 'em those letters. That should set 'em straight."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I would not ask if the circumstances were not dire. Please─any provisions you can spare would be greatly appreciated."
+    },
+    {
+      "character": "Fridurih",
+      "text_en": "She's in the business of feedin' refugees now? I ain't normally one to question Mistress Momodi's judgment, but that doesn't seem wise to me."
+    },
+    {
+      "character": "Fridurih",
+      "text_en": "I'll not speak for the children, but if you ask me, any man what can't earn a crust deserves to go hungry."
+    },
+    {
+      "character": "Katherine",
+      "text_en": "My, that's a rather odd request. Mayhap you misheard her instructions?"
+    },
+    {
+      "character": "Katherine",
+      "text_en": "You know, you shouldn't encourage them like this. They'll start to expect it, you mark my words!"
+    },
+    {
+      "character": "Momodi",
+      "text_en": "They didn't give you any trouble, did they? Good. Now go an' tell Lady Yugiri it's all in hand."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I...I dared not hope for such magnanimity, much less expect it! Mistress Momodi is generous indeed... I shall be sure to thank her most humbly."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Lady Yugiri, I briefed the Flame General on your situation. I think you will be pleased with his reply."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "We have been granted an audience?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Before the sultana and the Syndicate both. We should return to the Royal Promenade at once."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "You have done much for us, Master Alphinaud. I swear we shall return the favor."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Naught is owed, Lady Yugiri, for naught has been given. This small favor, you fairly won with your words. And it is with words that you must win the favor of the Syndicate."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Then I shall choose them with care."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "You will be accompanying us, yes? Good. Your presence may serve to remind the Syndicate of the true meaning of philanthropy─and that nothing so unpalatable will be required of them, assuming the Domans are willing to earn their keep. Come, the Flame General awaits us on the Royal Promenade."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must take pains to illustrate how accepting the Domans would benefit Ul'dah. Only then might the Syndicate be swayed."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Bards sing of wars which decided the fates of nations, but a single word spoken within a council chamber is more like to decide that of mine own..."
+    },
+    {
+      "character": "Kasasagi",
+      "text_en": "If we are all enemies of Garlemald, is it not fitting that we should join forces?"
+    },
+    {
+      "character": "Kikyo",
+      "text_en": "I have heard that the sultana is a kind and generous ruler. Of the Syndicate, I have heard less flattering things."
+    },
+    {
+      "character": "Teledji Adeledji",
+      "text_en": "I wished to greet our guests beforehand and offer my support for their cause. Doman, Ul'dahn, it matters not to me; birthplace does not equate to birthright in mine eyes."
+    },
+    {
+      "character": "Teledji Adeledji",
+      "text_en": "I take great pride in my establishments for this very reason. The Platinum Mirage, in particular, serves as a showcase for the talents of countless men and women born beyond our borders."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We must take pains to illustrate how accepting the Domans would benefit Ul'dah. Only then might the Syndicate be swayed."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "A pleasure, Forename . The others are already inside. Let's not keep them waiting."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I, Yugiri of Doma, am honored to meet you at last, Your Grace. To mark this auspicious occasion, I should like to present to you the finest treasures our humble nation has to offer..."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Alas, the circumstances which have brought me here today have divested me of both time and dignity. I come before you as a pauper in direst need of aid─to request that you grant my people asylum."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "I, Nanamo, seventeenth in the line of Ul, welcome you to our city. Be at ease, Lady Yugiri."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Although I myself have heard the tale of your misfortune, I would ask that you recount it once more for the benefit of the others here present."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "As you wish, Your Grace. For many years, my nation, Doma, suffered under the yoke of imperial rule, and my people yearned to be free. Thus, when a war of succession broke out in Garlemald, we sought to take advantage of the chaos and reclaim our liberty."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Alas, our enemy proved less preoccupied than we had hoped, and our rebellion was put down in the most brutal fashion."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Those who survived─how many do they number?"
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "More than two hundred souls huddle within the cramped confines of our own galleon's hold. Yet this figure accounts for but one of a number of ships which escaped the purge."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "It is my hope that you will allow us all to dwell within your walls. Should that prove unfeasible, however, I humbly ask that you accept as many of my people as your resources allow."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "Pray understand, we do not beg a boon, but propose instead an arrangement. We would serve─as soldiers or tradesmen─until our debt is repaid."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "What are the Syndicate's opinions on this matter?"
+    },
+    {
+      "character": "Teledji Adeledji",
+      "text_en": "I, for one, think it's a marvelous idea. Lady Yugiri and her people strike me as an industrious lot, and there are parts of the city which have yet to be fully restored. If they are willing to work, I see no reason not to let them."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The head of the Mirage Trust is not known for his generosity. He sees profit in this."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "I agree. That said, these are foreign refugees. To admit them would require a formal resolution. Shall we call a vote?"
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "The law is the law."
+    },
+    {
+      "character": "Teledji Adeledji",
+      "text_en": "Lord Lolorito?"
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "Tell me: are you blind or willfully ignorant? Even now, our streets are choked with the displaced victims of the Calamity and Ala Mhigan refugees."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "They live hand-to-mouth, subsisting on aid provided by the Immortal Flames─the cost of which grows ever higher!"
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "The wealth of Ul'dah is not without limits, my friends."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "And need I remind you that these refugees are prone to violence and criminal activity? You have all read the reports, I think?"
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "Without homes or employment, it is only a matter of time before men grow desperate and take that which they imagine has been unjustly denied them. Yet, knowing this, you would have us swell their ranks. Mayhap you think the Brass Blades and the Flames are not hard-pressed enough?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Some say the chairman of the East Aldenard Trading Company passes gil thrice daily. This may explain how he came to be the wealthiest man in Ul'dah. Or it may simply be that he's ruthless beyond reckoning."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Surely the sultanate can support the few hundred Domans Lady Yugiri represents? That our resources have been taxed I do not deny, but we are hardly in danger of financial collapse."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "I move that an exception be made."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "An exception, Your Grace? I am suddenly reminded of a similar debate some years ago, regarding a number of Ala Mhigan refugees, if memory serves."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "What were your words that day? Ah, yes: “The law is the law.” And so our visitors remained in Little Ala Mhigo."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "Mayhap our wise and benevolent sultana would be so good as to enlighten us as to which other of our laws should not be upheld?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Mind your tongue, Lolorito."
+    },
+    {
+      "character": "Teledji Adeledji",
+      "text_en": "My lord, I share your concern for the welfare of our great nation, but we must endeavor to take a longer view. You know as well as I that people can be a resource still more precious than gil."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "Precious or not, they were never yet so reliable. And unlike those who frequent your establishment, I have no desire to gamble with my future."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "Ul'dah's greatest asset is, and has ever been, her material wealth. We risk this at our peril."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "One need only look to Teledji Adeledji's example for evidence of the danger in allowing sentiment to dictate policy."
+    },
+    {
+      "character": "Lolorito",
+      "text_en": "How far the vaunted Mirage hath fallen, both in repute and profitability, since he began employing refugees..."
+    },
+    {
+      "character": "Teledji Adeledji",
+      "text_en": "How I choose to conduct my affairs is not your concern, my lord!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "A proposal has been tabled. Given its urgency, I move we forgo further debate and call a vote."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "To accept the Doman refugees or not. Those in favor, I bid you remain. Those opposed, I bid you leave."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Would that it were within my power to welcome you and your people, Lady Yugiri. As you have observed, however, my authority in such matters is regrettably limited."
+    },
+    {
+      "character": "Nanamo Ul Namo",
+      "text_en": "Without the consent of the Syndicate, I cannot act."
+    },
+    {
+      "character": "Yugiri",
+      "text_en": "I understand, Your Grace. And I appreciate all that you have done on our behalf."
+    },
+    {
+      "character": "Teledji Adeledji",
+      "text_en": "The nerve of the man... If that bastard had not forsaken the eastern trade route, Little Ala Mhigo would now be thriving."
+    },
+    {
+      "character": "Teledji Adeledji",
+      "text_en": "That you should have traveled so far, under such dire circumstances, only to be refused in this manner is utterly unconscionable. Pray accept my sincerest apologies."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Now that the Empire no longer poses an immediate threat, they see little reason to maintain the pretense of unity."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "The Monetarists have grown especially defiant of late─Lord Lolorito most of all."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "But this is neither the time nor place for that discussion."
+    }
+  ]
+}

@@ -1,0 +1,796 @@
+{
+  "id": "king-of-the-mountain",
+  "wiki_path": "/wiki/King_of_the_Mountain",
+  "wiki_image_url": null,
+  "patch": "6.3",
+  "title_en": "King of the Mountain",
+  "level": "90",
+  "location": "Garlemald(X:32,Y:16.6)",
+  "npc_start": "Alphinaud",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "Thank goodness we found Zero when we did."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I've also received word that the transport arrived safely at Camp Broken Glass. They send their thanks to the “woman in black.”"
+    },
+    {
+      "character": "Zero",
+      "text_en": "...I'm fine. I just need rest."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As Alisaie said, many people owe Zero their lives."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This is not her world, nor her battle to fight, yet she risked life and limb for us nonetheless. That will not be soon forgotten."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Now then, I expect that our friends will return soon. Once everyone has gathered, we can take stock of the situation."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've naught to do but wait for the others. They should not be much longer."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Perhaps you should have a rest too."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Apologies for the delay. I've finished replenishing my aether."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Full glad am I to hear it. We must thank you again, Zero."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Indeed, many are still alive because of you. Those soldiers not least of all."
+    },
+    {
+      "character": "Zero",
+      "text_en": "...How fared you? Better than I did, by all accounts."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We had to contend with our fair share of voidsent en route to the snowcraft, but we had the benefit of numbers."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "With their help, we quickly dispatched all the voidsent that came our way. Thankfully, they stay dead in our world."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We were trying to decide what to do next when we received word about the transport."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Which is how Alisaie, Forename , and I came to find you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "While the immediate threat has been addressed, we cannot rest easy yet. For voidsent to appear in such numbers, we must assume that a voidgate has indeed been opened nearby."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Meaning more of them can come through at their leisure."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "It seems the best course of action is to investigate Lapis Manalis, as you intend. What is the state of the snowcraft?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nearly operational, I believe. Vrtra is with the engineer, who is hard at work as we speak. Why don't we join them in Cerulea Ingens?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Finally, a chance to go on the offensive!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "...I would join you as well."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I wouldn't dream of refusing you. But...what did you have in mind for payment?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Payment won't be necessary."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I will do this because...I want to."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You have...kindled something within me. A compulsion─a desire to act─that has been burning since you came to my aid out in the snow."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I do not understand it, but I wish to, and to that end I will heed it. Then perhaps I'll understand your answer."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I would also like to join you in tracing the voidsent to their origin. Though that would mean neglecting my duties here..."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Don't worry about us. Between my people and the contingent, we can keep things running well enough. Just find where the voidsent are coming from, and see that they stop."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Take care, Zero."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I will."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "For the sake of our friends, I pray we succeed in our mission."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The voidgate is of course our main objective, but if we can also find useful salvage, then all the better."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm glad the engineer is safe. I'd never forgive myself if something had happened to him on our account."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Vrtra insisted on staying behind to guard the snowcraft. He's anxious to get up that mountain, and understandably so."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Mammoth” is an apt name for the craft. Its prodigious size made defending it difficult, but it came through unscathed."
+    },
+    {
+      "character": "Zero",
+      "text_en": "To have to go to such lengths to traverse a single mountain... The people of this land do not have easy lives."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "'Tis good to see you all safe and well. The craft stands ready, I am pleased to say. Our engineer friend has worked tirelessly, his zeal a match for any of my alchemists."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I've no intention to pry, but it seems Zero is quite unaccustomed to the kindness of strangers. She reminds me of myself when we first met."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "Distrustful of outsiders. Hateful, even. Unwilling to believe anyone would offer anything without some manner of exchange."
+    },
+    {
+      "character": "Jullus",
+      "text_en": "I know not how or why she found herself willing to go to such lengths on out behalf, but I have no doubt now you and your comrades will be better for her company."
+    },
+    {
+      "character": "Spirited Engineer",
+      "text_en": "There you are! Your timing couldn't be better."
+    },
+    {
+      "character": "Spirited Engineer",
+      "text_en": "Thanks to Varshahn's help, I've managed to finish the repairs faster than I anticipated. The mammoth's ready for the snow once more!"
+    },
+    {
+      "character": "Spirited Engineer",
+      "text_en": "You can leave the piloting to me, too. It'd be my pleasure to get you to where you need to go!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You are too kind. Thank you."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's be on our way then, shall we?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As we hopefully demonstrated, we're still capable of holding our own in battle. Which is to say, please don't hesitate to rely on us."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "When we find whoever's responsible for unleashing the voidsent, I'm going to give them a piece of my mind!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I don't make a habit of fighting atop magitek, but it shouldn't be any more difficult than doing so astride a dragon. I welcome the change of pace."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Once aboard the mammoth, we will all need to change into attire more suitable for combat."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It can be no coincidence that a voidgate has opened where Vrtra sensed his sister. In all likelihood, something is in the offing, and we must be prepared."
+    },
+    {
+      "character": "Zero",
+      "text_en": "If there is indeed a voidgate, then there will be voidsent, and not merely lesser ones."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Be on your guard for all manner of threats."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Come, Forename . Let us find the truth of my sister's aura!"
+    },
+    {
+      "character": "Spirited Engineer",
+      "text_en": "Just say the word and we're off."
+    },
+    {
+      "character": "Spirited Engineer",
+      "text_en": "Careful up there—you're not like to see much through the snow."
+    },
+    {
+      "character": "Albus Griffin",
+      "text_en": "Caw!"
+    },
+    {
+      "character": "Spirited Engineer",
+      "text_en": "Hopefully that's the last of those winged bastards... I'm afraid this is as far as the mammoth'll go. You'll have to make it the rest of the way on foot."
+    },
+    {
+      "character": "Albus Bear",
+      "text_en": "Grooogh!"
+    },
+    {
+      "character": "Fleeing Rat",
+      "text_en": "<squeak>"
+    },
+    {
+      "character": "Fleeing Antelope",
+      "text_en": "<bleat>"
+    },
+    {
+      "character": "Visitant Bloodguard 1",
+      "text_en": "Your aether will be mine!"
+    },
+    {
+      "character": "Visitant Bloodguard 2",
+      "text_en": "I must feed!"
+    },
+    {
+      "character": "Visitant Vodoriga",
+      "text_en": "Such rich aether!"
+    },
+    {
+      "character": "Galatea Parva 1",
+      "text_en": "<crick-crack> Come for training, are you?"
+    },
+    {
+      "character": "Galatea Parva 2",
+      "text_en": "<creeeak> Ready your scythe!"
+    },
+    {
+      "character": "Galatea Parva 3",
+      "text_en": "This will <snap> warm you up."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "Commencing basic training regimen. <crack> Your time to completion will be recorded."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "Leave no openings. Your strikes must be quick and decisive."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "That concludes your basic training. Commencing <crick-crack> advanced training regimen."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "Remain calm and collected, no matter your circumstances."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "Remember—you must hone your skills daily. It will be key to your survival."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "<creak> Evaluation complete. Evaluation Ranking: 1 Even the great rulers of voidsent would struggle to contend with such strength."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "<creak> Evaluation complete. Evaluation Ranking: 2 Impossible... Only Rullus has achieved such a feat."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "<creak> Evaluation complete. Evaluation Ranking: 3 A spectacular performance. Such strength might even prove a match for Galatea herself were she still alive."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "<creak> Evaluation complete. Evaluation Ranking: 5 A commendable performance. Such strength would prove a match for even knight-class voidsent."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "<creak> Evaluation complete. Evaluation Ranking: 7 A respectable performance. Such strength would prove a match for even warrior-class voidsent."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "<creak> Evaluation complete. Evaluation Ranking: 9 Your mastery of fundamentals will carry you far. Continue your training and seek ever greater heights."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "<creak> Evaluation complete. Evaluation Ranking: 12 Not even the lowest order of voidsent would be daunted by such meager strength."
+    },
+    {
+      "character": "Visitant Satana 1",
+      "text_en": "Trespassers!"
+    },
+    {
+      "character": "Visitant Satana 2",
+      "text_en": "Stop them!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "Hah hah hah! All shall cower before the might of Archfiend Cagnazzo!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "I've been waiting so long. Don't disappoint!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "Brace yourselves!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "I bring my all to bear!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "Drink deep of blackest terror!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "I wonder how you'll taste."
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "You really must try harder!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "Battle does so whet the appetite. Gheh heh heh heh!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "No more games!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "Be swallowed by the tide!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "What!? That's not right!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "How do you like this?"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "Good, good. A fitting finale!"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "Grrr, why are you still alive!?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I feel your presence, Sister. Where are you?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Why do you suppose they chose here for their lair?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "That they could open so large a gate is troubling."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "So goes yet another archfiend."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Well, that was a challenge."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I've never seen a voidsent with such command over water."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "It seems we were right to ride atop the snowcraft."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed. Let us hold nothing back."
+    },
+    {
+      "character": "Zero",
+      "text_en": "How bothersome..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The wildlife here is certainly bold."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To arms!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You can see the Tower of Babil from here!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And it's no less imposing, even from this great distance."
+    },
+    {
+      "character": "Zero",
+      "text_en": "White as far as the eye can see..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "A welcome change of scenery."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I imagine the view from here must be breathtaking."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "If this beast would bar our path..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "A simple enough task."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A veritable giant among the wildlife here to be sure."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Is this beast native to the mountain?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Come. Let us press onward."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "To the cavern!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There is something to be said for the fortitude of nature."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Well, that wasn't too difficult."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "So this is Lapis Manalis..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "This is no time for gawping. Watch your step."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "How vast is this cavern, I wonder?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Is it just me, or is the wind blowing warm air?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What is this presence...?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "The presence of voidsent permeates this place..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I would expect no less from the birthplace of the reaper's art."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "The reaper village. Or what remains of it..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Is this the village Jullus told us about?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A most curious place indeed."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Magicked puppets? Here?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "And equipped for combat training. How delightful..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What possessed them to create such automata?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Voidsent, I expected. But puppets...?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Despite their menacing demeanor, they're quite charming."
+    },
+    {
+      "character": "Galatea Magna",
+      "text_en": "<creak> Evaluation complete. An equal to Drusilla . Extraordinary..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "That doll was not unlike a voidsent..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We can muse about that later. Let's get going."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Come, let us make haste."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "At the very least, it made for good sport."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That certainly was a challenge."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A masterfully crafted doll."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "That was quite a fall."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Thankfully we emerged unscathed."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is everyone all right?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Ugh..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods, that startled me."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us proceed with caution."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "There—the voidgate!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "At last, we've found it."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Azdaja! I sense she is close!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "There it is."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "On your guard, everyone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So the gate really was here."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "This one seems formidable."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To be appointed as an archfiend, I should certainly think so."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "What is it they seek?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No doubt it is here to guard the gate."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "This one's not at all like the others."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It looks a lot like the Kojin."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "An archfiend... So this is Golbez's doing."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Is everyone all right?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Still in one piece."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It will take more than that to stop us."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hold fast, everyone!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Tell me one thing, Cagnazzo."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "A dragon of our world crossed over into yours long ago, but I have felt her presence here again. What is the meaning of this?"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "I daresay what you felt...was this."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "By the Sisters..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "You... What have you done to Azdaja!?"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "If you want answers, you'll have to get them from Lord Golbez."
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "Assuming you've the strength to face him."
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "A pity I will not see the plan to fruition, but my part is done. And to fade with the thrill of battle in my heart makes it all the more worthwhile..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "No, wait! Where is she!? Where is my sister!?"
+    },
+    {
+      "character": "Cagnazzo",
+      "text_en": "At long last, I go to join the great flow..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "By the gate's closing, there can be no doubt that he was the one who opened it."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Oh, Azdaja... I prayed we might meet once more..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "She is likely still in the void. Take heart─we will find her yet."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So, what now?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "While you discuss how to proceed with your search, I would excuse myself to look around. There may be salvage that we could use at the camp."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "In that case, I'll patrol the area for more voidsent."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Very well, let us take a moment to consider our options."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Oh, Azdaja..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "That they should go so far as to use Azdaja's eye as bait... What could they be after?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Why does he look so defeated? We are closer to finding his sister, are we not?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So, we have discovered the source of the voidsent outbreak in Garlemald."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "A gate forced open from the void..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The barrier between our worlds is especially thin here, I suspect."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Elsewise I see little reason why the reapers chose to live in such an inhospitable place."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Even if the conditions are ideal, we're talking about a gate that could pass an archfiend. Opening one so large could not have been easy."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In the age of Allag, Emperor Xande created an enormous portal using a prodigious amount of aether harnessed by the Crystal Tower."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In theory, a similar feat should be possible from within the void. One need but have the requisite amount of aether...such as that harbored by a great wyrm's eye."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "And its aether is indeed greatly diminished..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "In Forename 's vision, Golbez let his archfiends feed upon Azdaja's aether. If he has also taken an eye to open this gate..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It does not bode well, I know. Nevertheless, we must remain hopeful and continue our search."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What I find curious is why our foes chose to strike now, some five thousand years after Azdaja vanished into the void."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And while their overarching plan remains a mystery, what exactly was Cagnazzo's part in it that he had finished?"
+    }
+  ]
+}

@@ -1,0 +1,488 @@
+{
+  "id": "a-fresh-start",
+  "wiki_path": "/wiki/A_Fresh_Start",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "A Fresh Start",
+  "level": "77",
+  "location": "Amh Araeng(X:15.8,Y:29.1)",
+  "npc_start": "Ryne",
+  "dialogues": [
+    {
+      "character": "Alphinaud",
+      "text_en": "Minfilia will be sorely missed. Though it was Grandfather's legacy which first brought me to Eorzea, I would never have become a Scion were it not for her. Indeed, there would be no Scions, and two worlds would be the worse for our absence."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Tataru and the others will no doubt be heartbroken to hear the news of her passing. Until such time as we can return to them, however, we must keep our heads held high. Though we have lost one Scion, we have gained another, after all."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Do you have any idea how worried we were when word reached us that Ran'jit was alive, and headed for the Hills of Amber?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Oh, I can't wait for this to be over, so we can all go home. Assuming we even can ."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Thank you for standing by Ryne. And Minfilia. I'm sure it meant a lot to her, seeing you one last time."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Would that I could have been there to hear what words were exchanged between them. When all of this is over, perhaps I'll ask."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Despite this glad turn of events, the suffering born of mine all-too-arrogant meddling paineth me still."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And yet...their smiles do give me hope for the morrow."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ryne's aether has changed. It has taken on a faint, golden hue. Curious..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I honestly don't know how to repay you for all you've done, but I promise to do whatever I can to help."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are you certain you're up to fighting so soon? I can't imagine the power of the Oracle is something one learns to wield in the space of a few hours."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Maybe not, but the presence of the Lightwardens is unmistakable to me now."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "In fact, I sense one here in Amh Araeng, to the west. I think it might be hiding underground."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Underground? Then it's as we suspected!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We thought it prudent to take a brief survey of the area prior to your arrival."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To the west we found the remains of a site known as Malikah's Well."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If I recall correctly, the well was built in remembrance of one of the ancient kings of Nabaath Areng to serve as a source of respite from the desert heat."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It fell into disuse after the Flood, whereupon the miners of Amh Araeng thought to turn part of it into an excavation site."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Judging by its size, the underground waterways are no doubt extensive. The perfect hiding place for a Warden."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ryne, are you certain you can track it down?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Leave it to me."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Then it's settled. We make for Malikah's Well."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A marvel of ingenuity, is it not?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Something about this doesn't feel right..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I didn't expect to see Talos wandering about─much less of their own accord. How long must it have been since their creators' bones turned to dust?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "The Warden is down there. I can feel it."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "That the walls should still bear so great a burden after countless years of neglect bespeaketh the surpassing skill of their architects."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Though I cannot see it as you do, it is a no less awe-inspiring sight."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "It's here. I can taste its aether on the wind."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Then we've finally found our mark."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's put an end to this, Forename , and return the night sky to Amh Araeng."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our battle with the Warden of Holminster Switch was an eye-opening experience, to say the least. Alisaie and I have trained tirelessly that we might be better prepared for our next such encounter."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "For Minfilia, and the countless souls who struggled to carry on her legacy, we must end this."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I can't help thinking about all the children at the Inn. Abandoned to wait for the inevitable."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So long as the Light holds sway here, there is no hope for them. But if we defeat the Wardens, if we restore the night, then maybe...maybe they can still be saved."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "No need to worry about me. Urianger and Y'shtola were quite thorough in their ministrations."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "A pity their magicks did nothing for my clothes."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "At any rate, we cannot well stop now. Not after all Ryne and Minfilia have given to bring us this far."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "The Warden's presence feels...familiar somehow. Now that I think about it, it reminds me of..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "But that makes no sense. Sorry. I'm sure I'm just imagining things."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Lest thou worry, I did relay unto Magnus word of thine untimely accident whilst I waited for thee to return from thine audience with the Oracle. He hath since reclaimed his Talos and trolley both, and meaneth to begin repairs anon."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For a blessing, the damage was but superficial, the leonine heart unmarred by Ran'jit's onslaught."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I was surprised to hear Ran'jit survived the fall. Though I suppose I did the same."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "More surprising is how he so readily saw through our diversion."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A foe possessed of such cunning would be sufficient cause for concern in itself, but one capable of besting Thancred in combat too...? We would do well not to underestimate him when next we meet."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's get moving."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "I can sense the Warden somewhere below us."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Can you sense the Warden, Ryne?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Yes, but I think it's further underground."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The ancients were well beyond their time."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It looks like we can descend from here."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "This tunnel seems to stretch on forever..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What do you suppose we'll find down here?"
+    },
+    {
+      "character": "Ryne",
+      "text_en": "We have to go deeper..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Isn't that a little big for an armadillo?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Is that a...giant armadillo!?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It's in the way is what it is."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I would rather not slay the beast, but if it means to bar our way..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If I never see an armadillo again..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Phew, glad that's over with."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Thankfully, no one was hurt."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us press onward. The Warden awaits."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A shame the miners haven't the means to keep building."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "We need to climb down somehow."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well there has to be a path somewhere..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We've reached the pit."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Hopefully this tunnel continues downward."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "With any luck this tunnel will lead down."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And into the heart of the Warden's lair."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Come. We mustn't tarry."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Are those...buckets...?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Why, yes... Yes I believe they are..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "This certainly isn't what I was expecting."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Is this some sort of joke?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I think I now understand Alphinaud's aversion to water."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Not. Another. Word..."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Gods, I'm soaked to the bone."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I never knew buckets could be so dangerous."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "These crystals are devoid of aether..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Looks like we're getting closer."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "We're nearly there. I can feel it!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Terrible is the beast that doth wreak such corruption."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Oh gods, the boulders. They're filling with light!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I have a bad feeling about these boulders."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Careful. I sense something queer within these rocks."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Gods, is nothing safe from the sin eaters' corruption?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is for you, Tesleen."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "There it is!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well done, Ryne. Now to end this."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us be brief. The others are waiting."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've taken back the darkness!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "At last."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "It seems that Ryne was correct."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "Thank goodness we succeeded."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "That was a passing strange form for an eater."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Are you at all injured?"
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "Don't get me wrong, I'm glad those travelers made it all the way to Nabaath Areng..."
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "But when Urianger told me the Talos was in pieces, and the trolley didn't look much better, I couldn't help wondering what in the hells had gone on."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "What indeed. At least the heart is in one piece. The rest is replaceable."
+    },
+    {
+      "character": "Magnus",
+      "text_en": "Looking at this mess, though, it's a miracle they survived..."
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "Heh, you can say that again."
+    },
+    {
+      "character": "Thaffe",
+      "text_en": "Wha─ What the!? Are you seeing this!?"
+    },
+    {
+      "character": "Magnus",
+      "text_en": "The sky, it's... It..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "At last. Night has returned to Amh Araeng."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We'll save this broken world yet, Tesleen. You see if we don't..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No doubt retreating in the wake of the Warden's demise."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Back to Kholusia. The last refuge of Light."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Home to our dear Lord Vauthry─who will no doubt do everything in his power to thwart us."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As well he should, for defeat there would spell the end for both him and his heavenly host."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "There the fate of this star shall be decided."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The end to Light's dominion over this world is fast at hand."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Perhaps their ministrations were not as thorough as I thought. Or perhaps I was a touch too reckless."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "If only I could've seen the look on Magnus's face when the night sky returned. They must all be so happy."
+    },
+    {
+      "character": "Ryne",
+      "text_en": "But what about you, Forename ? Do you feel...different at all?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Once more shall the night share equal dominion over the firmament.  And yet our travails are far from over..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Is this not the moment Emet-Selch usually chooses to descend upon us? Whatever will we do without his feigned praise and backhanded compliments?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We did it. We really did it. I only wish there were time to visit the Inn. We can but hope the return of night has granted the residents some shred of comfort."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "They thought the world beyond changing. But today I think we proved them wrong."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We will fix this broken land, Forename . Together."
+    }
+  ]
+}

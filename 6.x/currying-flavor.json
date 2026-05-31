@@ -1,0 +1,508 @@
+{
+  "id": "currying-flavor",
+  "wiki_path": "/wiki/Currying_Flavor",
+  "wiki_image_url": null,
+  "patch": "6.4",
+  "title_en": "Currying Flavor",
+  "level": "90",
+  "location": "Radz-at-Han(X:4.4,Y:9.8)",
+  "npc_start": "Varshahn",
+  "dialogues": [
+    {
+      "character": "Varshahn",
+      "text_en": "Forename , 'tis good to see you. Have you any news from Old Sharlayan?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "We've yet to hear from Y'shtola regarding her search for a means to return to the void. I must confess that her silence has left me feeling...restless."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Nor am I alone in this—Estinien has such an excess of energy that he has been helping to train our soldiers with nary a grumble."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "As for Zero..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Is something the matter?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "No, no. Forename paid us a visit, and so I was appraising him / her of recent developments—or the lack thereof."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Are you heading somewhere?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Aye. To replenish my aether."
+    },
+    {
+      "character": "Zero",
+      "text_en": "...Would you like to come?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "A rare but most welcome invitation! Timely too, I might add."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I myself was thinking of venturing out into the city. It would be my pleasure to join you."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "You will accompany us, of course?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Come, then. I've an errand to run at the bazaar first."
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "You're with Mistress Zero? How rare to see her with others!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "If you would gauge the city's prosperity, there is no surer way than to visit the bazaar and observe the people. This I learned from Ahewann and his predecessors."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I'm picking up some more spice. Mehryde told me to do so before my next visit."
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "Mistress Zero has quite the tolerance, you see. The Sisters know we Hannish are fond of spicy food, but I doubt any of us could keep up with her."
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "With just the spices they normally have on hand, the meyhane can't quite satisfy her. Which is why I'm happy to provide what they need to achieve more rigorous flavors!"
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "Now then, variety being the spice of life, perhaps you'd like to choose something extra to blend with Mistress Zero's usual?"
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "It'll help to keep things interesting! What do you say?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Fine by me. You can appreciate the nuances of this world's sustenance far better than I can, I expect."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "What impressive samples. You'll not find a larger or finer selection in all the world."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So long as it's stimulating, I care not what you choose."
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "You're welcome to sample the spices, but bear in mind that what I recommend to Mistress Zero is potent !"
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "Ah, that's a fine choice. But don't take my word for it─here, have a taste!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I doubt you need to be told this, but have care not to take too much at once..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Well?"
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "Go on, then! Have a taste and see what you think."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Your reaction speaks volumes."
+    },
+    {
+      "character": "Zero",
+      "text_en": "That will suffice, then."
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "Always a pleasure, Mistress Zero! And do give Mehryde my regards."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I am pleased to see that Zero has become a regular here, and so much so as to bring her own spice."
+    },
+    {
+      "character": "Merry Merchant",
+      "text_en": "Give Mehryde my regards!"
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Welcome to Mehryde's Meyhane!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "My usual, please. But with this spice."
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Of course, Zero. It would be my pleasure."
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Well now, this is enough to make a whole kettle of your special curry!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I don't need that much..."
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Rest assured, it's easy enough to make a serving just for you. Or we could make the kettle and share it?"
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "There would be enough not only for your companions, but other diners as well. I daresay everyone will be delighted."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Very well. A full kettle, then."
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Excellent. We'll prepare it at once."
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "And for Your Excellency and our esteemed adventurer? Are you happy to try a bowl of Zero's curry? We can make yours milder, if you prefer..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Grateful though I am for the offer, I cannot fully appreciate the flavor with this vessel. Another time, perhaps."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Do not hold back on my account, my friend. Eat and enjoy."
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Understood. Please, make yourselves comfortable."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "It gladdens me to see you taking to life in Radz-at-Han, Zero. In the area of our cuisine not least of all."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Spicy dishes have long been favored in our sultry clime for their ability to whet the appetite and cool the body."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Of course, spices also have the effect of preserving foods, which makes them highly coveted in foreign lands."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "All of this has given rise to a thriving spice industry, and the wealth it brings has allowed our nation to prosper while maintaining its neutrality."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So you trade your spices. Seems rather more complicated than trading in aether."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "In the beginning, this land was no more than refuge for me."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "But now it is my home, and the people of Radz-at-Han my beloved children."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Together we built this vibrant nation. And naught would please me more than to show it to my sister one day."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Vibrant... Rubicante said the same when he described this world."
+    },
+    {
+      "character": "Zero",
+      "text_en": "A reminder of all that has been stolen from us... What many who remember doubtless yearn to take back."
+    },
+    {
+      "character": "Rubicante",
+      "text_en": "Our home is a lost cause, our only choice to begin anew."
+    },
+    {
+      "character": "Rubicante",
+      "text_en": "In this world, where we may reclaim our mortality."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Nonetheless, it's wrong to damn another to save yourself─as I told Rubicante. As I found myself moved to speak..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I still do not understand what made me feel this way. Nor what compels you mortals to help one another. But I hope to someday."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "We, too, hope that you will find the answers you seek."
+    },
+    {
+      "character": "Passing Patron",
+      "text_en": "What is going on?"
+    },
+    {
+      "character": "Daring Diner",
+      "text_en": "What? What's happening?"
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Compliments of Mistress Zero, the satrap's honored guest, we are serving a special curry for anyone who wishes to partake. But be warned: it is not for the faint of heart!"
+    },
+    {
+      "character": "Daring Diner",
+      "text_en": "Oh! By all means, I'd welcome the challenge!"
+    },
+    {
+      "character": "Passing Patron",
+      "text_en": "Sisters have mercy...the smell alone is..."
+    },
+    {
+      "character": "Daring Diner",
+      "text_en": "It burns! It burns!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "To better maintain the facade, the alchemists ensured that my vessel was capable of consuming food..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "However, I fear Zero's curry would test the limits of their design."
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Apologies for the delay. Please relax and enjoy your meal."
+    },
+    {
+      "character": "Zero",
+      "text_en": "“Relax”? I don't have time for that. I've been waiting for this..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Come, let's replenish our aether."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I trust you have eaten your fill."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I shall have Mehryde prepare a meal for us to take to Estinien. I suspect he too is overdue a “replenishment.”"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "By this hour, he will have retired to his chambers at Meghaduta. Come, let us pay him a visit."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I did not expect so many to take up the challenge, but I am glad to see everyone enjoying themselves."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I'm satisfied."
+    },
+    {
+      "character": "Mehryde",
+      "text_en": "Well, that proved to be an exciting event! I daresay word of Zero's singular curry will draw more diners to our establishment."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "What a remarkable curry! I must try a bowl myself─when I can muster the courage, that is!"
+    },
+    {
+      "character": "Rhulmeira",
+      "text_en": "Quite an adventurous crowd we had today. A few drinks will do that to you. For better or worse..."
+    },
+    {
+      "character": "Ardaraca",
+      "text_en": "A traveler, are you? Well, I'm no layabout. I'm simply recovering from that fiery devastation, you understand."
+    },
+    {
+      "character": "Darfiye",
+      "text_en": "Drink, dance, and damned good curry! It couldn't possibly get better than this in Radz-at-Han!"
+    },
+    {
+      "character": "Daring Diner",
+      "text_en": "By the Sisters, I thought that curry would be the end of me. I...I must eat it again."
+    },
+    {
+      "character": "Passing Patron",
+      "text_en": "My poor nose... It still tingles..."
+    },
+    {
+      "character": "Meghaduta Attendant",
+      "text_en": "Welcome back."
+    },
+    {
+      "character": "Meghaduta Attendant",
+      "text_en": "Master Estinien? Yes, he has returned to his chambers. I shall be happy to escort you."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Estinien, are you there? We've brought something for you."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Aye... Enter..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Squid masala from the meyhane. I thought you might enjoy it."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Masala, eh? I prefer my squid dried, but I'm sure it won't disappoint. My thanks."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Idle as I am in our sorceress's absence, I see. I can't offer much in the way of entertainment, but make yourselves comfortable."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Shall we disrobe as well?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "No, no. We simply caught our friend unprepared. He will make himself presentable at once, I am sure."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "At last. We've been looking for you."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "My friends! Tell me─were you able to devise a way to return to the Thirteenth?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I believe so. It required a visit to the moon, where I took the opportunity to enlist Urianger's assistance."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Y'shtola hath told me all. I should be glad to help you free Azdaja and put an end to Golbez's dark plot."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If Rubicante spoke true, both Golbez and Azdaja are on the moon of the Thirteenth."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Unlike here in the Source, however, we have no means of making the journey from the surface of the star itself. The technology simply does not exist."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Therefore, I propose that we employ a gate to deliver us directly to our destination."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Is such a feat possible?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In theory. Having once been a single whole, the Source and its reflections share striking similarities in geography."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And according to a certain someone who unceremoniously whisked us away to the First, the same locations across the worlds are intrinsically bound."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "All of which is to say, were we to pass through a gate on the Source's moon, it should lead us to the moon of the Thirteenth."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Of course, there is the risk of voidsent gaining entry to our world. Thus did I decide to seek Urianger's counsel."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Both the watcher and the Loporrits are aware of our proposed endeavor. While they are yet deliberating precautionary measures, they have pledged their full cooperation."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "You've been busy. I presume you've also found a way to open this gate?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Be it in Radz-at-Han or Sharlayan, scholars have long cast their gaze unto the endless dark of the void."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And so, with Hannish insights to augment our knowledge, we have indeed conceived of a promising plan to pierce the veil."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A plan I am confident will succeed precisely because the moon is our stage."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The preparations will be extensive, and we will require vast quantities of aether."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "After all, our gate must be large enough to accommodate another great wyrm."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My proposal entails delivering copious amounts of aether to the Tower of Babil in Garlemald."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As you will recall, Fandaniel used the structure to destroy the brands imprisoning Zodiark."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "And we, in like manner, will use it to channel aether to the moon─and thereby open our gate."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I see... Then we shall need someone on the moon for the necessary rituals."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Just so, Your Excellency. I intend to head back anon for that very purpose, as well as to help devise our strategy to deal with invading voidsent."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Along with our lunar allies, we will once again require the assistance of your alchemists, Nidhana not least of all."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "May I trouble you to serve as their escort?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Fine by me. The room was beginning to feel constraining."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "For my part, I shall oversee the requisite tasks on the star. Might I prevail upon you for your assistance?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If all are in agreement, then let us set to work."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We'll open our gate. And we will stop Golbez."
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "THE DARK THRONE"
+    }
+  ]
+}

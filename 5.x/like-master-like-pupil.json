@@ -1,0 +1,712 @@
+{
+  "id": "like-master-like-pupil",
+  "wiki_path": "/wiki/Like_Master,_Like_Pupil",
+  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/thumb/f/f4/Like_Master%2C_Like_Pupil_Image.png/280px-Like_Master%2C_Like_Pupil_Image.png",
+  "patch": "5.4",
+  "title_en": "Like Master, Like Pupil",
+  "level": "80",
+  "location": "Limsa Lominsa Upper Decks(X:9.0,Y:13.5)",
+  "npc_start": "Y'shtola",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "As she will be at pains to remind me, I have not paid Master Matoya a visit since returning from the First. But this seems as good a time as any. Come, let us make for her cave."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Master Matoya is something of a legend among Archons. I very much look forward to meeting her...if not the dressing down I am liable to receive for my inept attempts at summoning you."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Do you remember? When last we came here, it was to find out why the others had collapsed. If someone had told me then that they'd been whisked away to another world, I would probably have laughed in their face. You live and learn, eh?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It has been some time since Master Matoya last saw Y'shtola. What a lot they will have to talk about."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "So, Shtola's back. Has been for a good while now. Yet the girl hasn't bothered to pay me a visit. Hmph."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Well, perhaps she has her reasons. Wouldn't be the first time she hid from me after doing something embarrassing. In any case, it makes no odds to me. I prefer my peace and quiet."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I take it you are ready to bear witness to the joyous reunion of master and pupil? Very well..."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Nary a word from you all this time, then you bring every man and his poroggo with you. Did no one teach you any manners, girl?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "They were too busy teaching me aetherology, Master. Jesting aside, I wanted to be the one to express our gratitude."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I am told you spared no effort to sustain our bodies while we were away. And for that we owe you our lives. Thank you."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Hmph. You were gone so long, I was starting to think you'd set your heart on staying."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It wasn't easy to leave, as it happens. Seldom does one have the opportunity to study other worlds, and I would not have minded extending my stay by a handful of years."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Ever the scholar, Y'shtola dedicated herself to studying ancient civilizations of the First, befriending a tribe known as the Night's Blessed in the process. There, she took on the name of Matoya, and won the respect of all the children of the forest."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I merely adopted an alias in accordance with the custom of my hosts. Yours just happened to be the first name that came to mind."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "You mean to tell me you went gallivanting about using my name, and only bother to visit when you need a favor? And don't pretend you don't! I taught you long enough."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Indeed. And devoted pupil that I am, I could not fail to recall my master's sage advice: “When the answer eludes you, look to the wisdom of your elders.”"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "You there ─ were you going to introduce yourself?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "How remiss of me. G'raha Tia is my name, and I am proud to call myself a Scion."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I too wish to offer my gratitude for your invaluable aid in sustaining the Archons' bodies...as well as my apologies. It was my inexpert summoning spell which endangered their lives in the first place."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Ah, yes, the one bent on digging up the mysteries of Allag. Old Galuf used to speak of you, and Krile's told me all about your recent exploits."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Do you have a bad back, or something? At ease, boy! Whatever mess you've made, I'm not in the habit of dwelling on the failings of the younger generation."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "...You are too kind. I have also heard much and more about you, Master Matoya. 'Tis an honor to finally make your acquaintance."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Well, that's more than enough pleasantries for anyone. Tell me what you want. I haven't got all day."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "...So that's the way of it. It should be a simple enough matter to make the familiar. The magick, on the other hand..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah, that you may leave to me. Being the only one possessed of royal blood, I alone can imbue the subject with the necessary magick."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "So I just need to create porxies with the power to stir the soul."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "“Just,” I say, though we're talking about a veritable herd of the little buggers. We'd collapse before we reached double figures."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "But if I could get a familiar to create the familiars ─ a mother porxie, as it were..."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "It seems I haven't seen the last of that moldy old hole after all..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A porxie that produces porxies... What an inspired idea."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...By the way, Forename . Do you think I misspoke earlier? I assure you it was not my intention to embarrass anyone."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "“Moldy old hole”...? She really must miss the place."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "In case you've ever wondered, Alphinaud got his innocent streak from our mother. And it can be rather endearing─even useful in certain situations."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "But most of the time, it just makes me want to shake him. Poor Y'shtola..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Where does she mean, do you think? Some manner of hidden workshop, perhaps?"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "All right, off to my old workshop, then. Everything required to make your familiar is there."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That may be, but no one has set foot in there since the exodus. I dread to imagine what has become of it."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Oh, there's sure to be a handful of feral familiars and mayhap a monster or two. But nothing to trouble the likes of you. You can consider cleaning up the place payment for my help."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Fine. We'll do it."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Good girl. Now, if there are no other objections, I suggest you run along to the Makers' Quarter."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "I'll send one of my poroggos ahead to let you into the workshop. You need only tell him who you are. One can't be too careful, after all. Off you go."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "What are you still doing here? Off to the Makers' Quarter with you! I'll join you when I'm ready. Go on, now! Shoo!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Judging by the unruly state of the flora without, I think it safe to assume there will be no shortage of unruly fauna within. Add to that the undisturbed secrets of the workshop, and we have the makings of an adventure!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The workshop was an unforgiving place even before the exodus, and I doubt the years of neglect have improved it."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The grass could certainly do with a trim..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "As I may have mentioned, Alisaie and I were still very young when we departed with the exodus. I envy Y'shtola for remembering the city as it once was."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "Greetings, ribbit, and welcome to my good mistress's relict. Puro Roggo is my name, and I am honored to be your guide."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "Within you will find a space dedicated to the making of familiars, along with a cavern wherein the requisite ingredients may be had. I must warn you, however, that the place has not played host to a single soul, much less a broom, in over fifteen years, and will, I regret, be in some disarray."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "But rest assured, my brothers and I shall see to it you do not lose your way. Now then, ribbit! Only say the word, and I will show you in."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "Are you ready, ribbit? But give me the word, and I will show you in."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So, Forename , shall I lead the van? Or would you rather I followed up the rear?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Whatever you prefer, I am happy to adapt. So come, let us go and make our mother porxie!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I was still a child when last I came here, but now I am rather more capable. Not that Master Matoya seems to have noticed. Mayhap she will when I have cleaned up the mess she left."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I'm no stranger to porxie-making, as you know. And that must count for something!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Though it has been a while since last I joined the fray, I have followed Alisaie's example and practiced whenever possible. My healing magicks are ready as always."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Right. To begin with, I need you to gather a few ingredients."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Listen well to what the poroggos say. Or you'll wish you had."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "First things first: we need to harvest some clay."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "The clay can be had at the Clayclot Cauldron, ribbit. Through this portal, if you would."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Stay focused, now."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "Please follow me, ribbit, and put down any pests that bar the way."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "Allow me to assist you with the gap, ribbit."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "I did not imagine the place would be so infested, ribbit..."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "The clay is just across the way...but you'll need to deal with the mudman first, ribbit."
+    },
+    {
+      "character": "Puro Roggo the Unwashed",
+      "text_en": "Now we have our clay, ribbit! Let us return to the interstice!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Next, we need to get the water flowing again."
+    },
+    {
+      "character": "Mero Roggo the Damp",
+      "text_en": "It will be my pleasure to show you to the Clearnote Cauldron, ribbit. Please use this portal."
+    },
+    {
+      "character": "Mero Roggo the Damp",
+      "text_en": "For your own safety, I ask that you keep close to me, ribbit."
+    },
+    {
+      "character": "Mero Roggo the Damp",
+      "text_en": "Please wait while I move the lift, ribbit."
+    },
+    {
+      "character": "Mero Roggo the Damp",
+      "text_en": "The little spring yonder ought to put a spring in your step, ribbit."
+    },
+    {
+      "character": "Mero Roggo the Damp",
+      "text_en": "Another lift, ribbit. Just a moment..."
+    },
+    {
+      "character": "Mero Roggo the Damp",
+      "text_en": "I sense a mischievous presence, ribbit... Please take care."
+    },
+    {
+      "character": "Nixie",
+      "text_en": "Tee hee hee! Let's play, let's play!"
+    },
+    {
+      "character": "Nixie",
+      "text_en": "Water, water, become spears.♪ Things of flesh and bone to pierce.♪"
+    },
+    {
+      "character": "Nixie",
+      "text_en": "Water, water, flow so swift.♪ Wash away and set adrift.♪"
+    },
+    {
+      "character": "Nixie",
+      "text_en": "Ahahaha, such fun! More water! We need more water!"
+    },
+    {
+      "character": "Nixie",
+      "text_en": "Water, water gather 'round.♪ Shroud the sky and soak the ground.♪ (Singin' in the Rain enrage)"
+    },
+    {
+      "character": "Nixie",
+      "text_en": "Noooooo, all my water is gone! But I can't lose! I won't!"
+    },
+    {
+      "character": "Nixie",
+      "text_en": "Hmph! Why won't you get hit!?"
+    },
+    {
+      "character": "Nixie",
+      "text_en": "<whimper> All right, all right, I give up... You win..."
+    },
+    {
+      "character": "Mero Roggo the Damp",
+      "text_en": "The water is flowing again, ribbit! Let us head back!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Last but not least, we need to fire up the kiln."
+    },
+    {
+      "character": "Buro Roggo the Tepid",
+      "text_en": "Step right through, ribbit, and I will guide you safely to the Kilnfire Cauldron."
+    },
+    {
+      "character": "Buro Roggo the Tepid",
+      "text_en": "Off we go, ribbit. Please try not to fall behind."
+    },
+    {
+      "character": "Buro Roggo the Tepid",
+      "text_en": "What the ribbit!?"
+    },
+    {
+      "character": "Buro Roggo the Tepid",
+      "text_en": "A little magma can't stop us, ribbit!"
+    },
+    {
+      "character": "Buro Roggo the Tepid",
+      "text_en": "R-Ribbit! It's that big brute again!"
+    },
+    {
+      "character": "Buro Roggo the Tepid",
+      "text_en": "Ugh, honestly! Smite this fiend once and for all, ribbit!"
+    },
+    {
+      "character": "Buro Roggo the Tepid",
+      "text_en": "What a fiery battle that was, and I don't mean the magma! Your destination awaits!"
+    },
+    {
+      "character": "Buro Roggo the Tepid",
+      "text_en": "That takes care of the kiln, ribbit!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "All right, it's time to bake ourselves a porxie!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Right then! Let's get this over with!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Newborns are wont to be difficult! Show her who's in charge!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Don't show any fear—they can smell it!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "All right, let's see how well you handle the big girl."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "It's about to get turbulent in here! Take care you don't get sucked in!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "She's hidden herself! Find her quickly, or you'll be in for a world of pain!"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Quite a fight she put up..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Have we finished, then...?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "She's twitching... Is that normal?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nothing quite like a kiln-fresh familiar."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I never knew familiar-creation could be so rough..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Right, let's create the mother of all porxies!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I never thought I would see this place again."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We will be counting on your local knowledge."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So this is the workshop..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So we clear out any pests we encounter, yes?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "What creatures have since taken up residence, I wonder..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Whatever they are, we'll make short work of them."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The facility itself still seems to be in good shape."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So that's the keeper of the clay."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Time to finish tidying up the area."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Is that supposed to be a golem?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Aye. This is what happens when you neglect to tidy up."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Looks just about as friendly as the rest."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This is fine clay, perfect for our porxie!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "One ingredient struck off the list."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Yes! Excellent work, everyone!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If I didn't know better, I would say you were having fun."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A workshop this vast, it certainly makes sense to have portals."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So, what's next? Water?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "That's right—water to work the clay."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So back here again and on to the next task."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "That gushing sound... There must be a water vein."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Correct, and believe me when I say it's icy cold. Watch your step."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "How often did I come here to fetch water for Master Matoya's tea..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A well-kept area. No doubt thanks to the familiars."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Some manner of sprite? Or another familiar?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That familiar was made with stormwater—and it plays rough. Have care."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "When even Y'shtola advises caution..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Oh gods, it's still here..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What in the world is that thing?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The water was freezing, but at least it washed the mud away."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ahhh, to have closure after all these years..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Wait... Was it you who created that familiar!?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Nothing is so bothersome as a familiar made by an untrained hand."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As with all things, one cannot judge a familiar by its appearance."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Ugh, I'm freezing in my sodden clothes..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Worry not, you will be warm again soon. Very warm."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Master Matoya will be getting impatient—assuming she hasn't fallen asleep."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "All proceeding apace thus far!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "These colors... I take it the magma is infused with the elements."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Ungh, the aether here is so vivid, I can scarcely see..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Good heavens, is the magma rainbow-colored ? Spectacular!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The product of dissolved crystals, lest you wonder."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Such an aether-rich heat source will be perfect for porxie-making."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Whew, I shall be glad to leave this stifling place behind."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And now the kiln should be lit!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Aye, let us return to Master Matoya."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Regal raiment? Really?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Garb aside, I suspect the creature will be anything but regal."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "A pugnacious specimen...just like its creator."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "So for the finishing touches, we employ...brute force?"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "There we are. Quite tame."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Then all that remains is for me to imbue her with the magick. My friends, I'm afraid I must trouble you for your aether once more."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That should suffice..."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Good. Let's set her to work then, shall we? I want to see some porxies. Assuming, that is, someone can spare the requisite energy?"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "A mere drop in the ocean for the great sorceress Matoya, I daresay."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Excellent. Our very own litter of Angelos."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "And we can make as many more as we want simply by providing the mother porxie with additional aether."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I will require a moment before I try again."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "It's still hard work, but a damn sight more efficient than making them one by one. Thank you, Master Matoya. Everyone. We're a step closer to our goal."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Distributed amongst the allied nations, they should do much to facilitate closer dialogue with the beast tribes. And given their present travails, I believe our friends in Limsa Lominsa should be the first beneficiaries."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Agreed. Though I must leave this errand to you. I doubt my legs will carry me out of the cave, much less to Vylbrand."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Thank you for taking the lead in gathering the ingredients. I expect you would benefit from a rest too."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "In addition to the porxies, I trust you've gained an inkling of how much effort goes into the creation of familiars. Or mayhap you attribute your struggles to old age?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "If I said yes, would it persuade you to treat me like an adult?"
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Hmph! Not with that pertness, it wouldn't. Anyway, assuming you have no other favors to ask, I shall be leaving."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Forgive me if this is a silly question, but of all creatures real and imagined...why choose a flying pig? Not that I dislike pigs, mind you..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Given it was her first time making a porxie, Master Matoya did a fine job. Though she did have Angelo for inspiration."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Lest you wonder, Master Matoya has returned to her cave with Y'shtola. Hm hm! They are as peas in a pod, are they not?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Let's see: brilliant minds, rapier wits, humor drier than Thanalan... Appearances aside, I'd say the two Matoyas are mirror images of each other."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As I followed your deeds through history, I came across the names of a great many distinguished individuals such as Commander Hext and Master Matoya, and it has been a delight to meet them in the flesh. I heartily look forward to making the acquaintance of the rest, not least the Azure Dragoon!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My apologies, but I will rest here awhile. Go on without me."
+    },
+    {
+      "character": "Matoya",
+      "text_en": "Ugh, my joints were fairly screaming by the time I got home, and Shtola was more hindrance than help. In future, I'll thank you to keep your favors closer to my cave."
+    }
+  ]
+}

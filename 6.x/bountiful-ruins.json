@@ -1,0 +1,664 @@
+{
+  "id": "bountiful-ruins",
+  "wiki_path": "/wiki/Bountiful_Ruins",
+  "wiki_image_url": null,
+  "patch": "6.1",
+  "title_en": "Bountiful Ruins",
+  "level": "90",
+  "location": "Mor Dhona(X:22.2,Y:5.4)",
+  "npc_start": "Tataru",
+  "dialogues": [
+    {
+      "character": "Tataru",
+      "text_en": "As the, uh, \"former\" receptionist and sometimes intelligence gatherer of the Scions, allow me to offer you a word of advice..."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Do not expect juicy rumors to simply fall into your lap!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Adventurers rely on gossip, and the best places to pick up information are taverns and markets."
+    },
+    {
+      "character": "Tataru",
+      "text_en": "At present, you only have a broad destination in mind. When you arrive in Thavnair, I suggest you explore your options at Mehryde's Meyhane—the finest drinking establishment in Radz-at-Han!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Charm the employees, and they'll not only point you in the direction of the local tale-tellers, but also share with you the tricks for loosening their tongues!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Now, I really must be getting back to running my boutique. Enjoy the journey, Forename , and may fair fortune find you!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "Oh, you're back! Did you forget something?"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "...Just wanted to see how I was faring, you say? Awww, that's so sweet! Rest assured everything is fine. Right now, I'm working on a new product that's bound to fly off the shelves!"
+    },
+    {
+      "character": "Tataru",
+      "text_en": "It can get a bit lonely here, but like you, some familiar faces occasionally drop by. In anticipation of such visits, I make a point of keeping the place nice and clean!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "There is nothing so perfect in this life as a full glass and an empty schedule. Now, what to order...?"
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Welcome to Mehryde's Meyhane."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Oh, hello, I did not recognize you at first! Are you here alone? Let me find you a table..."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "...Ruins beneath the Bounty?"
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Would you be speaking of the sunken treasure vault? We have one regular—a historian, in fact—who could tell you all about it..."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Ah, there he is! Professor Jalheen! I thought I saw him come in."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Although a somewhat private sort, the professor is quick to befriend those who share his fondness for the meyhane's unique beverages."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Offer him any drink from our selection, and he should happily share everything he knows about the vault you seek...and a few other odd bits besides!"
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Whatever you buy for him is on the house, by the way. If Mehryde found out I took coin from Thavnair's savior, she would have me scrubbing pots for a week."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Keep your purse strings tied, friend! We will cover whatever you purchase for the professor or yourself."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Yes...?"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "And what may I do for you, my Eorzean friend?"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "...And where did you hear of such a thing? Eh, I suppose I could tell you about it...except the tale is rather long and my throat is so very dry."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Here we are—one of Mehryde's finest. Enjoy!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Ah, lovely. Bottoms up!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Well, I certainly wouldn't say no to a drink freely offered."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Here we are—one of Mehryde's finest. Enjoy!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Ah, lovely. Bottoms up!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "That was very kind of you, sir / miss , but I know when I'm being softened up. What is it that you want from me?"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Oho, chasing down that old tale, are you? It does seem to appeal to the adventurous at heart."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Now, where to begin... Might I assume you've heard of Alzadaal? He was khan of the Auri tribe which sailed to Thavnair from the mainland, and a key figure in the history of Radz-at-Han."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "His decision to aid the Arkasodara is what ultimately won them the war against the Gajasura, thus allowing our predecessors to lay the foundation for this thriving city-state."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "The truly fascinating stories, however, concern his grandson, Alzadaal III, who was known for his deeds as satrap in Radz-at-Han's earlier days."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Some attest that this man traveled to another world entirely, and returned with glittering riches. Others that he brokered an alliance with a certain wyrm of the first brood..."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Then there is the tale of the sunken vault─the one you seem most curious about. According to this legend, Alzadaal III claimed a small island somewhere in the middle of the Bounty. There he built a structure reaching clear to the bottom of the sea─a deep and secret storehouse─and locked all his worldly wealth within."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "In the centuries since, whenever a natural disaster or hardship befell Radz-at-Han, folk would remember that tale of hidden treasure. Hearty souls would set out to claim their fortune...but precious few ever made it home."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Would you like to hear more? <cough> Apologies, I have a slight tickle in─ Oh, my cup appears to be empty..."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Ah, I see we've reached an understanding! You're a sharp one, adventurer!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "I've had but one meager drink, my friend. Surely my learned wisdom is worth a little more than that, yes?"
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Another for the professor!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Ohohoho! Today was a splendid day to visit the meyhane!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Where were we...? Ah—hic!—yes. Those who did return from seeking the treasure vault refused—I mean, flatly refused—to speak of what they saw."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Did this discourage others? Nay! Quite the opposite! Such accounts only served to feed the legend, and the golden lure grew stronger than ever before."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "That reminds me of something Azahma was saying—Azahma's a fellow connoisseur of spirituous potables, yes, yes, he is."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Anyway, he was saying that one of his acquaint—hic!—acquaintances went after the treasure himself. Hasn't been seen since he set sail, I hear, but he did have...ah. No, I can say no more."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "You seem a generous sort—what kind of man would I be to encourage what is clearly a foolhardy quest? If my words sent you to your death, I could never live with myself."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Is that so? Perhaps it's your turn to tell a tale, then. What manner of dangers have you faced?"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "...The very edge of existence!? From anyone else, I'd struggle to believe it, but I recognize you now. You're the—hic!—hero of the Final Days!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "A drink... I need another drink to settle my nerves... Mihleel! More of the same, if you please!"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Is that─hic!─so? Well, I suppose any adventurer worth his / her salt can go and find the place himself / herself , eh!"
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "As you wish... But this one is on your coin, Professor."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Anyway, you being who you are...I shuppose it wouldn't hurt to share a little more. Thish friend of Azahma's, he was deshperate to buy a treasure map...one which showed the way to the entranshe of...of the vault. Sheems he could only get it from shome merchant, what'sh-his-name..."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Bah, I forget. Let'sh drink a toasht to you, my new besht friend! ...Mihleel! More drinksh!"
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Be right with you!"
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Your drink, sir."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Ah, marveloush, I am parched !"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Weren't we talkin' about Azahma..? You─hic─wanna know where Azahma is? Around thish time, he's ordinr...odarin... often at the...at the usual plashe..."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "Your drink, sir."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Ah, marveloush, I am parched !"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Pffft! That...that was water! Did you tell her to bring me water!?"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Shtill, that'sh...that'sh probably for the besht. Very kind of you, really. My head will shertainly thank you in the morning..."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Ugh, I sheem to have overindulged... I am put in mind of the words of Mashter Jalzahn, “Be wary how much of the drink you shwallow, lesht it shwallow you.”"
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Forgive me—I will shubject you to no more of these unsheemly—ahem—unseemly antics. If you want to speak with Azahma, well, as I said, we share a taste for the meyhane's fine spirits. He probably came in as we were talking."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "I wish you fortune in...finding your fortune."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Ugh, I think...I think I had one too many..."
+    },
+    {
+      "character": "Jalheen",
+      "text_en": "Perhaps I should find myself a new pastime..."
+    },
+    {
+      "character": "Mihleel",
+      "text_en": "The professor was able to help you, I hope?"
+    },
+    {
+      "character": "Azahma",
+      "text_en": "Yes, I am Azahma. And who might you be?"
+    },
+    {
+      "character": "Azahma",
+      "text_en": "...All true, I'm afraid. My friend took a ship out in search of Alzadaal's Legacy, and I've been watching for his sails ever since."
+    },
+    {
+      "character": "Azahma",
+      "text_en": "I tried to dissuade him, of course, but he refused to listen. All he could talk about was finding that vault."
+    },
+    {
+      "character": "Azahma",
+      "text_en": "And that look in his eyes... I knew it wasn't common gold or jewels he lusted after. He was hunting Alzadaal III's “otherworldly” hoard, and his ambition would not be denied."
+    },
+    {
+      "character": "Azahma",
+      "text_en": "I see it in you, too—that appetite for the mysterious and the unknown."
+    },
+    {
+      "character": "Azahma",
+      "text_en": "But I'll not attempt to turn you from your path. I know too well the futility of that endeavor."
+    },
+    {
+      "character": "Azahma",
+      "text_en": "So I will tell you what my friend told me—how he convinced a merchant in the bazaar to give him the rough location of the vault's entrance."
+    },
+    {
+      "character": "Azahma",
+      "text_en": "It seems this merchant—one Zasshal, I believe—is selling a map which shows the exact route, but my friend's purse was too light for its exorbitant price."
+    },
+    {
+      "character": "Azahma",
+      "text_en": "With what meager wealth he had, he instead paid to learn that there are ruins on a small island somewhere in the Bounty. And within those ruins hides the path to the vault deep below."
+    },
+    {
+      "character": "Azahma",
+      "text_en": "If you truly intend on seeking Alzadaal's treasure, I suggest you put your affairs in order. I wish things were different, but I do not believe my friend is ever coming home..."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "Please, Zasshal! Please! You must let me have that treasure map!"
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "My mother and father were slaughtered by monsters! My baby sister, still too young to fend for herself! Can you spare us no kindness!?"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "So, you hope to find your fortune. And what? You expect me to surrender my wares for pity's sake?"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "What have you to offer in payment?"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "As I thought! Come back when you've got more than rags to your name!"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "This is no mere treasure map! It is a guide to the vaults of Alzadaal III—one of the greatest satraps of Radz-at-Han, and a direct descendant of Alzadaal Khan!"
+    },
+    {
+      "character": "Bazaar Patron A (no text)",
+      "text_en": "A map to Alzadaal's Legacy...?"
+    },
+    {
+      "character": "Bazaar Patron B (no text)",
+      "text_en": "So he says..."
+    },
+    {
+      "character": "Bazaar Patron C",
+      "text_en": "A fake, I'd wager!"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "This is no fake! The parchment is marked with an arcane glyph of passage!"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "You may find the ruins hidden in the Bounty, but you won't be setting foot inside without this in your possession!"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "A priceless artifact, it is! Discovered amongst the rubble in the aftermath of the Final Days, and lovingly restored by yours truly!"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "This map is the key to fabulous riches, and I would be the king of fools to simply give it away!"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "Be glad I am no such king, boy—your scrawny hide would never return with that treasure alive!"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "Gahahaha!"
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "O cruel fate! Why must you tempt me with wealth I am powerless to claim!?"
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "How shall I envy the one who purchases that precious map! Whatever they pay will be but a pittance against the golden hoard they stand to uncover!"
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "What of you, sir? A fighting man of your stature would surely relish the challenge of recovering Alzadaal's lost fortune!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "A fortune, you say...?"
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "If I had but the strength to seize that treasure, my starving sister would never want for food!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I'll take it. Will this cover the price?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Well met, my friend."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Someone is dressed for adventure."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "But why Thavnair of all places? Knowing you, I suspect there is more to your plans than sightseeing and shopping."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Ruins beneath the Bounty...? Curious. And here I've acquired a map to just such a site..."
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "With that sale, I do believe I've earned the rest of the day off. Thank you for your patronage, sir, but if you'll excuse me..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "You needn't mind us."
+    },
+    {
+      "character": "Zasshal",
+      "text_en": "And now I've fleeced one of the heroes of the Final Days. I pray the Sisters were looking elsewhere..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "This map may or may not be genuine. Either way, we'll need a ship to find out for sure."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Lest you misunderstand, I seek the treasure not for myself."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "If such a fortune truly exists, then it could help ease the struggles of those who lost their loved ones in the Final Days."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I hope to do for Thavnair what you and Alphinaud did for the Ala Mhigans when you recovered the mad king's trove."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Come now, you know Alphinaud needs little encouragement when it comes to recounting the tales of your shared exploits."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Speaking of precocious lads, that boy in the bazaar was clearly an accomplice of the merchant."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I suppose his role was to draw the attention of the crowd and add weight to the merchant's bold claims."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "A transparent act for the most part, but 'twas not all mummery—the need to provide for his sister rang true enough."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Thus if some portion of the profits end up in that waif's pockets, then I will consider it money well spent... whether the map leads us to the vault or not."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "You are coming along, yes?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Hmph, I thought as much."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I appreciate the concern, but if there is one thing I've learned from my time with the Scions, it is how to better manage my coinpurse."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Now, let's see about securing a vessel."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "You will recall I spoke of visiting Thavnair at Vrtra's request?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Well, he finally invited me to a feast...and made his proposal once I was too full of Hannish delights to refuse. He wishes me to train the Radiant Host in lancework..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "...But that is a tale for another time. What we need now is a merchant or a trawler with a ship fit for the open seas."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Matsya is a fisherman by trade, yes? We should head to Akyaali and see if he can help us."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I am hoping to hire a ship, of course, rather than buy one. My funds would not stretch quite that far."
+    },
+    {
+      "character": "Matsya",
+      "text_en": "My friends, what brings you to our humble village?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "...So you need a seaworthy vessel to seek these ruins?"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Considering it was your deeds which allowed us to return to fishing, I should think everyone would be glad for a chance to repay the favor!"
+    },
+    {
+      "character": "Matsya",
+      "text_en": "Wait here, and I will have a boat stocked and ready for you in no time at all!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Have you noticed our little shadow? He's been following us since we left the city."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We see you there, boy. Show yourself."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Ah, it is you..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Do you know how far out of our way we walked so that you'd not cross paths with some wild beast?"
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "I'm sorry, sir, but aren't you the heroes who saved Thavnair? You are. I know you are..."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "And I've gone and cheated you! I work with Zasshal, you see—the map merchant. It's my job to play the pleading orphan, and convince the crowd his wares are worth the price he asks."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "I'm ashamed of what I've done, and beg for your forgiveness. If not for you, my sister and I would never have... Well, we'd be..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Enough. I knew your game, and I paid the price willingly. A fortunate purchase as it turns out, for my friend here was seeking those very ruins."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "You are kind to overlook the wrong I have done you..."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "But there is more you need to know."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "The map you bought is very real, as is the island it shows. I overheard Zasshal selling the information to another customer."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "He told that man where he needed to search, about the ruins, about the vault...about everything. Then the man sailed out to find his fortune, never to return."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "You cannot go alone to that place! You should have more friends with you—maybe even a whole army!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I do not doubt the ruins hold danger, but I assure you, between the two of us there is little we cannot overcome."
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "Please! I cannot bear the thought of...of..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "...That we could. And assuming we do find this treasure hoard, it may prove wise to have more hands along for the carrying."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "...Assuming we find any. Still, it may prove wise to bring some companions along all the same."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I did not— That was not my intention."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Oh, very well. Assuming we do find this treasure hoard, it may prove wise to have more hands along for the carrying."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Any ideas on whom to approach? The Scions have scattered far and wide since our last gathering..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Thancred and Urianger, eh?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Those two would answer our call, certainly. But they left the Rising Stones with a definite task in mind, and I am loath to interrupt their self-appointed mission."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Little Lord Alphinaud and his sister? Were they not bound for Garlemald? They have far more important matters to attend to than delving for trinkets."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Aye, Krile may have her hands full rebuilding the Students, but if you reach out to G'raha, he would surely leap at the invitation."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Y'shtola...?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Her magicks would be a welcome addition, aye, but I am loath to interrupt her research. Mayhap we could ask a less...prickly companion."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Will that set your mind at ease?"
+    },
+    {
+      "character": "Ragged Waif",
+      "text_en": "Y-Yes, if that man is as strong as you. ...Is he though? Strong, I mean?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "What is your name, boy?"
+    },
+    {
+      "character": "Mehrahd",
+      "text_en": "Mehrahd, sir."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Well, Mehrahd, your life is yours to live as you will. But I suggest you find a more honest trade if you truly wish to keep your sister safe."
+    },
+    {
+      "character": "Mehrahd",
+      "text_en": "I'm not proud of what I do!"
+    },
+    {
+      "character": "Mehrahd",
+      "text_en": "But what choice do I have? We need to eat, and everyone's too busy rebuilding their own lives to bother with two grubby orphans..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Wait, boy."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I didn't take this roundabout road just to see you end up in some creature's belly. Let me walk you back to the city gates."
+    },
+    {
+      "character": "Mehrahd",
+      "text_en": "Thank you, sir."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Call me Estinien."
+    }
+  ]
+}

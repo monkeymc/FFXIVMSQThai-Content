@@ -1,0 +1,436 @@
+{
+  "id": "in-crimson-it-began",
+  "wiki_path": "/wiki/In_Crimson_It_Began",
+  "wiki_image_url": null,
+  "patch": "4.0",
+  "title_en": "In Crimson It Began",
+  "level": "61",
+  "location": "The Fringes(X:9.3,Y:11.3)",
+  "npc_start": "Pipin",
+  "dialogues": [
+    {
+      "character": "Alisaie",
+      "text_en": "So Marshal Tarupin means to lead the reconnaissance mission himself, does he?"
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Thank you for volunteering to join me. This should be a fairly straightforward reconnaissance mission, so long as we do not have the ill fortune to run afoul of an imperial patrol."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Come—our destination is beyond East End, just north of Velodyna."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Even should they be unaware of our plans, I would be surprised if their western defenses were not heavily fortified, given the presence of Allied forces at the Wall."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Naught appears out of the ordinary at a glance..."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "This ought to be close enough. Now we settle in for a long watch."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "That said...it would be prudent to keep your weapons at the ready, in the event a passing patrol stumbles upon us, or worse..."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Excellent...The disposition of the imperial forces is exactly as expected. I will notify Father."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Cannon fire! Where did it come from?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Smoke! There! Is that—Oh gods, it's Rhalgr's Reach!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "It's no use—I think someone's jamming our communications."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You don't think.... Could this be part of a coordinated attack?"
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Too early to draw conclusions. We must abort the assault and return to the Reach at once."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Forward! FORWARD! Give them no quarter!"
+    },
+    {
+      "character": "Meffrid",
+      "text_en": "You!"
+    },
+    {
+      "character": "Meffrid",
+      "text_en": "Traitor! Kinslayer!"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "You're no kin of mine!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Meffrid!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Hells take you!"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Hurgh..."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Well, well..."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Stand aside, Pilus. This one has promise."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Have a care, my lord. She's not like the others."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Hm. Do not disappoint me, girl. Or I will kill you."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Seven hells... It's him! It's Zenos!"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "The viceroy? Oh...you are a dead man!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "So spirited...and yet so empty."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Lyse, run!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Ah, a magical barrier. Alas..."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "It will not save you."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Y'shtola!"
+    },
+    {
+      "character": "Conrad",
+      "text_en": "Hold the line, by Rhalgr! Hold the line!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Krile!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alphinaud!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We saw the smoke and thought we heard explosions. Are we under attack?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The imperials were all over us before we realized what was happening. No one knew where to run or what to do—it was chaos."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Lyse and Master Kemp rallied the guards and bought us enough time to get some of the wounded to safety, but I haven't seen either of them since..."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Confound it! If we lose the Reach, this will all have been for naught!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Arenvald—can you escort these people to the wall?"
+    },
+    {
+      "character": "Arenvald",
+      "text_en": "Aye, sir."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Our place is at the Reach. We must offer such aid and succor as we are able. Saving lives is now our paramount concern."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "If we can hold back the imperials until Father sends reinforcements, we may yet turn the tide..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I'll join you. I've done all I can for these people, and you'll be crying out for a healer in there."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I fear you're right. Come, there is no time to lose!"
+    },
+    {
+      "character": "Straggler",
+      "text_en": "Gods help us, they're killing everyone!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "We have to stop them while there's still someone left to save!"
+    },
+    {
+      "character": "Straggler",
+      "text_en": "The imperials came from nowhere...started cutting people down left and right..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Reinforcements are on the way. Spread the word. We should keep moving..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Confound it! Nothing for it but to fight."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Twelve forfend... It's a bloodbath ... Remember that we're here to save lives! Defend the hostages!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Those monsters─these people had surrendered!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "It's not too late for the others. We must hurry!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "What the─ Are those beastmen fighting for the imperials? I've never seen them before..."
+    },
+    {
+      "character": "Resistance Fighter",
+      "text_en": "They...they took Lyse and the others deeper inside...  You've...you've got..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "There they are! We're not too late!"
+    },
+    {
+      "character": "Fordola rem Lupis",
+      "text_en": "Well, well. A rescue party, is it? We'll see about that."
+    },
+    {
+      "character": "Fordola rem Lupis (voice acted, text bubble)",
+      "text_en": "Rebel scum!"
+    },
+    {
+      "character": "Fordola rem Lupis",
+      "text_en": "Gah! Who in the seven hells are you!?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "No! We took too long..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Confound it..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "This...cannot be..."
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "Forgive me, Father..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "I...I can still..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "What took you so long?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alphinaud, I need your help!"
+    },
+    {
+      "character": "Fordola",
+      "text_en": "My lord, the prisoners!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "See to your men, Pilus."
+    },
+    {
+      "character": "Fordola",
+      "text_en": "Uh—As you command, my lord."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Your friends were a disappointment. But you... You will entertain me, will you not?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "If we kill him, here and now, we can end this!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "I have no need for this rabble."
+    },
+    {
+      "character": "Zenos yae Galvus (voice acted, text bubble)",
+      "text_en": "Begone!"
+    },
+    {
+      "character": "Pipin of the Steel Heart",
+      "text_en": "Seven hells... Not even Father could do that..."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Hm. You yet stand. Mayhap you have potential."
+    },
+    {
+      "character": "Zenos yae Galvus (voice acted, text bubble)",
+      "text_en": "Give me something to remember!"
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Better...but lacking nevertheless..."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "It would seem I misjudged you. This ends now."
+    },
+    {
+      "character": "Zenos yae Galvus",
+      "text_en": "Pathetic."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Seven hells..."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Shall we give chase, General?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Nay. There has been enough death this day. See to the wounded."
+    },
+    {
+      "character": "Flame Officer",
+      "text_en": "Aye, sir!"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You all right, lad / lass ?"
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "'Tis no ordinary foe could best the likes of you."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Aye. I do not doubt it."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "To best the likes of you... Zenos is not what I took him to be."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "Don't you die on me, Y'shtola! Hold on!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Don't worry! It's going to be all right!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alphinaud! Master Kemp is all yours!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Understood!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Don't just stand there gawping! You're a healer, aren't you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Don't just stand there gawping! Hold her down while I work!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "The worst is passed, but without proper facilities I can do no more."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Master Kemp too would be better served in the infirmary. Let us take them there without delay."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Give us a hand, would you, Lyse?"
+    },
+    {
+      "character": "Lyse",
+      "text_en": "O-Of course!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "I know you must be exhausted, but there will be others who need our help. Leave these two to us and look to the other wounded."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "..."
+    },
+    {
+      "character": "Lyse",
+      "text_en": "If it wasn't for her, it'd be me lying there... ...I wish it was."
+    },
+    {
+      "character": "Krile",
+      "text_en": "You're worried about Y'shtola, aren't you? <sigh> It's too early to make any kind of prognosis, but...she's alive. For now."
+    },
+    {
+      "character": "Conrad",
+      "text_en": "<pant> <pant> What about...what about the others? Where's M'naago? Where's Meffrid?"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I...I'm fine, really. Never been better..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Don't speak or try to move! Take slow, steady breaths, and remain calm..."
+    },
+    {
+      "character": "Pipin",
+      "text_en": "Ugh... That is going to leave a mark."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "You did well, Forename . You saved lives. No matter what happens, remember that."
+    },
+    {
+      "character": "Raubahn",
+      "text_en": "Now then—let's do what we can for the wounded. Every minute counts!"
+    }
+  ]
+}

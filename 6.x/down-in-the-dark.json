@@ -1,0 +1,1168 @@
+{
+  "id": "down-in-the-dark",
+  "wiki_path": "/wiki/Down_in_the_Dark",
+  "wiki_image_url": null,
+  "patch": "6.5",
+  "title_en": "Down in the Dark",
+  "level": "90",
+  "location": "The Red Moon(X:6.1,Y:3.5)",
+  "npc_start": "Varshahn",
+  "dialogues": [
+    {
+      "character": "Y'shtola",
+      "text_en": "Glad though I am that the plan worked, we are in no position to celebrate. The day is not won yet!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "She's no longer the cold, distant soul we met in the void. Or perhaps, until now, she just never had a chance to be who she truly is."
+    },
+    {
+      "character": "Zero",
+      "text_en": "This radiance is just the beginning. We must see it cast into the deepest depths of the moon."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "My dragon form shall remain here to secure our escape route. The voidsent who dare to approach the gate will reckon with me."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Rest assured I will not let my emotions overwhelm me. When the moment comes, I will call to my sister, and I will wrest her free from Zeromus."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "The crater awaits. Woe betide any who bar our path."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "The lingering Light illuminates the way to our foe. It will not escape us."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We've no time to waste. The voidsent we felled will return ere long."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "“Take heart, and protect them well”... I will live up to my own words. This I swear."
+    },
+    {
+      "character": "Zero",
+      "text_en": "When we find Golbez, let me speak with him─please. There is something I must know."
+    },
+    {
+      "character": "Dark Elf",
+      "text_en": "Who dares trespass in Lord Golbez's domain?"
+    },
+    {
+      "character": "Dark Elf",
+      "text_en": "To me, O beacons of the Dark..."
+    },
+    {
+      "character": "Dark Elf",
+      "text_en": "O Darkness, show them their folly!"
+    },
+    {
+      "character": "Dark Elf",
+      "text_en": "Behold, the power of Darkness!"
+    },
+    {
+      "character": "Dark Elf",
+      "text_en": "You cannot fend against what you cannot see!"
+    },
+    {
+      "character": "Dark Elf",
+      "text_en": "Fools! There is no escape!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "Hurry, Golbez! The city is already overrun!"
+    },
+    {
+      "character": "Fleeing Citizen 1",
+      "text_en": "Run for your lives!"
+    },
+    {
+      "character": "Fleeing Citizen 2",
+      "text_en": "Ahhh!"
+    },
+    {
+      "character": "Fleeing Citizen 3",
+      "text_en": "Someone help us!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "First the villages, and now the capital... Nothing is exempt from their avarice."
+    },
+    {
+      "character": "Wounded Baron Knight 1",
+      "text_en": "Lord Golbez!"
+    },
+    {
+      "character": "Wounded Baron Knight 2",
+      "text_en": "And Lord Durante too!"
+    },
+    {
+      "character": "Baron Knight-captain 1",
+      "text_en": "Thank heavens you've returned!"
+    },
+    {
+      "character": "Memoriate of Darkness 1",
+      "text_en": "Go forth, my pets, and feast on their flesh!"
+    },
+    {
+      "character": "Memoriate of Darkness 1",
+      "text_en": "Bested by Golbez and Durante both... It seems I...underestimated you..."
+    },
+    {
+      "character": "Axe-wielding Baron Knight",
+      "text_en": "Allow me to assist you!"
+    },
+    {
+      "character": "Baron Knight-captain 1",
+      "text_en": "Let us press onward!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "They knew we were elsewhere. Cowards!"
+    },
+    {
+      "character": "Wounded Baron Knight 3",
+      "text_en": "Hope is not yet lost!"
+    },
+    {
+      "character": "Wounded Baron Knight 4",
+      "text_en": "Our saviors have returned!"
+    },
+    {
+      "character": "Sword-wielding Baron Knight",
+      "text_en": "For Baron!"
+    },
+    {
+      "character": "Baron Knight-captain 1",
+      "text_en": "Leave this one to us!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "This one is dangerous. Have care, Golbez."
+    },
+    {
+      "character": "Baron Knight-captain 2",
+      "text_en": "We will deal with this fiend!"
+    },
+    {
+      "character": "Lance-wielding Baron Knight",
+      "text_en": "Forward! Forward!"
+    },
+    {
+      "character": "Durante (battle quotes)",
+      "text_en": "Have at you!"
+    },
+    {
+      "character": "Durante (battle quotes)",
+      "text_en": "Enough!"
+    },
+    {
+      "character": "Durante (battle quotes)",
+      "text_en": "Fear my wrath!"
+    },
+    {
+      "character": "Durante (battle quotes)",
+      "text_en": "I think not."
+    },
+    {
+      "character": "Durante (battle quotes)",
+      "text_en": "For king and country!"
+    },
+    {
+      "character": "Durante (battle quotes)",
+      "text_en": "I cannot—will not—fall here!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "That they command such terrible beasts bodes ill... We've no time to lose!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "Such destruction... If only we had returned sooner..."
+    },
+    {
+      "character": "Memoriate of Darkness 2",
+      "text_en": "What have we here? Come to play hero, are you?"
+    },
+    {
+      "character": "Memoriate of Darkness 2",
+      "text_en": "Such...strength..."
+    },
+    {
+      "character": "Durante",
+      "text_en": "I daresay we'll be faster if we split up."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Let us reconvene at the castle garden."
+    },
+    {
+      "character": "Memoriate of Darkness 3",
+      "text_en": "Behold, the true power of memoria!"
+    },
+    {
+      "character": "Turning Baron Knight 1",
+      "text_en": "Please, no!"
+    },
+    {
+      "character": "Turning Baron Knight 2",
+      "text_en": "Arrrggghhh!"
+    },
+    {
+      "character": "Turning Baron Knight 3",
+      "text_en": "What's happening to me!?"
+    },
+    {
+      "character": "Turning Baron Knight 4",
+      "text_en": "Help...me..."
+    },
+    {
+      "character": "Memoriate of Darkness 3",
+      "text_en": "How...? How could I..."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Golbez!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "This can't be happening... Not to you..."
+    },
+    {
+      "character": "Durante",
+      "text_en": "My friend... My hero... I will stop you even should it cost me my life!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "So be it. I will fight you with all my strength."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Aether to fortify my blade..."
+    },
+    {
+      "character": "Durante",
+      "text_en": "I need power. Light or Dark, it matters not!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "Such savagery ill suits you."
+    },
+    {
+      "character": "Durante",
+      "text_en": "You've weathered this before. Let's see how you fare now!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "Even so, I'll not be bested. Not this day."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Prepare yourself!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "It's over, my friend!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Was there truly no other way?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "He all but set his soul aflame..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "It should not have come to this."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "A bitter victory..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "This place is not at all as I remember it..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "He's altered his domain, then?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Golbez's domain, at long last..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So there are voidsent after all. Have care."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I can sense its presence deep within... Zeromus is here."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Let's move on, before they have time to regroup."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Teleportation magick. Interesting..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "A formidable foe..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Even so, it pales before the archfiends."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Is this all Golbez can muster to bar our path?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I didn't expect such a beast to yet remain."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "The vanishing scepters were quite the nuisance."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Vanished, you say? I thought they were merely bluffing."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As if cheap parlor tricks would suffice to stop us."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "That was easy enough."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "A memoria crystal!?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "This memoria crystal is... No, it can't be..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "What's happening!?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I've met this man somewhere before..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Whoever this man is, he seems convinced you're Golbez."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Did that man just call you...Golbez?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "'Twould seem we've become part of the memory."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "This man seems to think you're Golbez."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So this is the kingdom of Baron."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Even if this is only a memory, it is no less easy to bear and watch."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "They were too late to save their home, then..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "So this is an antlion of the Thirteenth."
+    },
+    {
+      "character": "Zero",
+      "text_en": "If we're to escape, it seems we've no choice but to fight."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Are those fangs...or horns?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Is there no end to this memory?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "We should follow after him."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "For a mercy, its movements were easy to read."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Such carnage. Such cruelty. This is..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "The Contramemoria..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I'm sure this was a beautiful castle once..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Who could be behind all this?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Such tragedy was commonplace during the Contramemoria..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "That he should place such faith in Golbez..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "In any case, it would be rude of us not to respond in kind."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "We must find a way across."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Let us leave the other side to him."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "They've been turned into monsters!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "An irreversible transformation..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "They've all but brought the Final Days upon themselves."
+    },
+    {
+      "character": "Zero",
+      "text_en": "He gave himself to the Dark to stop Golbez..."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "And yet it falls to us to keep him—or rather, you—from harm."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Such terrible strength..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "It seems we've no choice but to fight..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "On your guard!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "Why? Why you and not me?"
+    },
+    {
+      "character": "Durante",
+      "text_en": "You were the best of us. A paragon of virtue. I could never hope to be your equal."
+    },
+    {
+      "character": "Durante",
+      "text_en": "I am only the knight I am because of you..."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Because you believed in me!"
+    },
+    {
+      "character": "Durante",
+      "text_en": "You would not wish to become a monster, preying upon those who've fought to protect. But neither can I bring myself to kill you."
+    },
+    {
+      "character": "Durante",
+      "text_en": "So rest easy, my friend, and entrust your legacy to me."
+    },
+    {
+      "character": "Durante",
+      "text_en": "You will never die, this I swear."
+    },
+    {
+      "character": "Durante",
+      "text_en": "Through me your name shall live on, as the hero who saves the world!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "We've been released from the memory, 'twould seem."
+    },
+    {
+      "character": "Zero",
+      "text_en": "If Golbez was the one sealed in this memoria..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Then the one we've been fighting is..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "No more than an impostor playing at hero."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Durante, I presume."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "A name long since lost to time. History shall remember only Golbez."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Come what may, I shall deliver the world its salvation, and I will not suffer you to interfere."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You seek to free all souls from the purgatory of undeath. And to that end, you would invade another world."
+    },
+    {
+      "character": "Zero",
+      "text_en": "While I cannot condone your methods, I understand your motive full well."
+    },
+    {
+      "character": "Zero",
+      "text_en": "For I'm driven by the same. I too wish to save our world."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I too once thought I had to bear the burden by myself. That I had no choice but to walk my path alone. But I was wrong. We may yet strive together towards our shared goal, if you would reconsider your course."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "If you possessed power which transcended that of Zeromus, then perhaps I would."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "But you do not. No, you are but another voidsent, like me. And what is a candle before the sun?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Perhaps we aren't all-powerful and cannot effect great change in an instant. Even so..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Great change is what we need! Aught less has no meaning!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Having glimpsed our past, you should understand as well as any."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "As Golbez, I dedicated myself to ending the Contramemoria. I fought the corrupted memoriates, and attempted to redeem those twisted by their power."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Yet try as I might, I was powerless to make any meaningful change. 'Twas then, when I was floundering in despair, that she appeared─the Ascian Igeyorhm."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Claiming to know how to excise the source of our woes, she showed me to the moon, where the servant of Light abided. 'Twas he and his ilk who had granted men unnatural powers, she said, and now prolonged the war."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Believing her every word, I struck him down...and caused Darkness to engulf the world."
+    },
+    {
+      "character": "Zero",
+      "text_en": "What!? Then it was you who..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As Emet-Selch once told us, the Thirteenth was the Ascians' first attempt at a Rejoining, before they fully understood the mechanisms at play."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "They failed because they sought only to awaken the sundered Zodiark without instigating a calamity in the Source. The Darkness they unleashed had nowhere else to go..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Having left a ruin of our world, the Ascian fled. I was a fool to trust them. To trust in others."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Since that day, I have sought the means to undo my mistake. The world may be beyond saving, but I would at least restore the great flow."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "The dragon was an extraordinary windfall. A veritable font of aether that expedited my endeavors time and again."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "But it wasn't enough to achieve my objective. Far from it."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "For an eternity, I had to bide my time. But the day finally came when I acquired the power I sought."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Aye, the remnants of the Ascians' god sealed within the moon suddenly dispersed into aether."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "With that aether, Zeromus could be conceived. And driven by the dragon's longing for home, it shall soon arise to destroy the barrier between worlds."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Thus will the way open to the promised land, and the death we have been too long denied."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Thus will I, Golbez, bring salvation to all!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "So that is all you have left..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Say what you will. You cannot stop Zeromus's awakening."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We're going after him, aren't we?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Aye. That's why we came, after all. And besides..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "When someone believes in you, it makes you want to believe in them. In others and yourself. Jullus was right about that."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "To yearn to save the world, only to bring about its unmaking... 'Tis a tragic tale. But it changes nothing."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We rarely believe ourselves the villain. But if our ends demand unconscionable sacrifice, what else can we be?"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "He speaks of salvation─of fulfilling an honored friend's legacy. Yet he does not scruple to discard others for his ambitions..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Let us press on."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I had hoped to bear witness to the moment our salvation is realized..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "But nothing must be left to chance. I will stop you here no matter the cost!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Wounded as I am, I knew that I would be hard-pressed to fight you on equal terms."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "And so I lured you to this place, where the advantage is mine!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "The archfiends live!?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Impossible. Scarmiglione and Barbariccia were sealed in memoria, while Cagnazzo and Rubicante died in the Source..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You are not wrong. They are not the true archfiends, but shades born of their residual aether."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "If they are shades, then their strength will pale in comparison. Even should they fight as one, we may yet prevail."
+    },
+    {
+      "character": "Zero",
+      "text_en": "We'll tend to the archfiends. Go and put an end to Zeromus."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You'll do no such thing!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Go! We'll join you as soon as we can!"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "It is too late. Zeromus will awaken, and it shall devour any who come between it and its desire. Your companion is no exception."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I wouldn't be so sure."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Time and again, he / she has faced insurmountable odds."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "But no matter how hopeless things seemed, he's / she's never given up the fight."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "So long as he / she has strength of will to forge on, then so too shall we!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "For we believe in him / her , and he / she believes in us."
+    },
+    {
+      "character": "Zero",
+      "text_en": "And together, our Light can pierce blackest Darkness!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "What is this Darkness, cold and all-consuming? Where am I?"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "I must return to my world... To my home, where my kin await..."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Yes, I must return. I return. And none shall stand in my way!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Begone from my sight!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Stand aside, I beseech you."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "I wish but to return home."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Your flesh shall melt and seethe!w"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Ah, the Darkness! It riseth!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "In endless Dark embrace your end."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Begone, contemptible Light!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "All are as one in Darkness."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "O stifled Darkness in moon abiding..."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Coalesce and consume creation!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "In my memory the stars yet shine, attending the moon..."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Bright as stars in the night."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "My Darkness shall devour all Light."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Your souls are mine!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "In Darkness be steeped."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Her will...my will...shall not be denied."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "By my power shall all know salvation!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Return to me, my beloved star!"
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Beyond the veil my home doth lie..."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "All who oppose me shall be consigned to nothingness."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "To the last you would deny my heart's desire..."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "Oh, to look upon such splendor once more..."
+    },
+    {
+      "character": "Zeromus",
+      "text_en": "I shall not perish... So long as they await my return, I shall endure..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Are you all right?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Like all voidsent, Zeromus cannot be killed. Sealing it in memoria is the only way."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Ah, that it should come to this..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "I failed my dear friend. Fell for the Ascians' ploy and unleashed the Darkness."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "And after an eternity of waiting, I find myself on my knees..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "How disappointed must you be in me. In the foolishness and futility of it all..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "No... I will not let it be for naught. I will not allow you to pass. I will triumph in my crusade!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "There is no triumph to be found in this madness."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Even if the veil were to be unraveled, it would not undo what Darkness has done to the world."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Nor would it bring Golbez back. From his slumber, you know there is no return."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You're weak and imperfect. You know it in your heart. In spite of this, do you truly believe that you can save everyone? Are you sure you will not fail?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I'm no better. Weak and imperfect and plagued by doubt. Which is why I need friends to walk beside me."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Light...? But how?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "This is proof that I believe in others, and they in turn believe in me."
+    },
+    {
+      "character": "Zero",
+      "text_en": "A light that illuminates the way in darkest despair."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Be it in a ruined city locked in ice or a world drowning in Light, it was with faith in one another that life endured. I see it clearly now."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You think we are capable of the same?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "It won't be easy. Having lived too long as voidsent, we've forgotten how to trust."
+    },
+    {
+      "character": "Zero",
+      "text_en": "But one thing is certain: if Zeromus succeeds and everyone dies, we'll never have the chance to try."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You asked me to join hands with you once, and I refused. I cannot take back that mistake, but I can extend to you the same offer. We can be better than we have been."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Of course. You were the memoriate we met all those years ago..."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Yes, I remember now. We hoped you would join us in our quest to end the Contramemoria."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "But you rejected us outright."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "It left both of us discouraged─Golbez most of all. “If we could but overcome the fear that has shaped and divided us, we could change everything.”"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Even in the midst of that terrible war, he never stopped believing in others. Not even at the end..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You're Golbez now. If you would live up to his name, then you must trust in people as he did."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "I cannot forgive what you have done to my sister. But she may yet be saved."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "If you can help us see her safely home and protect the Source, then..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "As Zero's friends, we should gladly share what knowledge we have to help you restore the void."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "You truly believe the world of old can be ours again?"
+    },
+    {
+      "character": "Zero",
+      "text_en": "I do. So long as we work together."
+    },
+    {
+      "character": "Zero",
+      "text_en": "We will disperse Zeromus's essence once more. The instant we do, you must call to Azdaja."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Understood!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Zero!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "The suffocating Darkness... Like that of the rift..."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Impenetrable... Disorienting... Untethered and drifting further away..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "Be strong, Zero! Don't give up!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Hold fast to yourself! Look to the Light within!"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Your place isn't alone in the Dark, Zero. Not anymore!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Hmph."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Of course."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Hmph."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You needn't worry about me."
+    },
+    {
+      "character": "Zero",
+      "text_en": "With this power from beyond the rift, I can do it. I can save everyone!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Golbez! If you would make amends, then lend me your strength!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Azdaja!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Hear my voice...and return to me!"
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "Oh, Vrtra... There thou art..."
+    },
+    {
+      "character": "Azdaja",
+      "text_en": "I am coming, Brother... I am coming..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Have care! Zeromus makes to resurrect!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "Not if I have anything to say about it!"
+    },
+    {
+      "character": "Zero",
+      "text_en": "No more, fiend!"
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "You're safe now, Azdaja. You're safe."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "To my sister, I shall offer up the eye in this vessel."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "We dragons bring forth progeny with our very life force. That which my eye harbors should be enough to grant her corporeal form."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Of course, this means I shall no longer have control over this vessel. I must ask you escort Azdaja to the surface in my stead."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "We came to bring her home, and we'll do just that. You have my word."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "Thank you."
+    },
+    {
+      "character": "Varshahn",
+      "text_en": "At long last, we shall be together again."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Where are you going?"
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Our world may yet be restored. I thought it an impossible dream once, but having witnessed your miracles, I cannot help but believe."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "Nevertheless, I am the villain who wrought this tragedy. And in my misguided crusade, I compounded my sins."
+    },
+    {
+      "character": "Golbez",
+      "text_en": "My place is not at your side."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Regardless of how you may feel, by lending me your strength, you've made amends."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You've earned a new beginning."
+    },
+    {
+      "character": "Zero",
+      "text_en": "It's up to you what we become to one another."
+    },
+    {
+      "character": "Zero",
+      "text_en": "What we couldn't do yesterday, we might still do today. Working together."
+    },
+    {
+      "character": "Zero",
+      "text_en": "And should we want for strength, we need only rally more like-minded souls to our cause."
+    },
+    {
+      "character": "Zero",
+      "text_en": "So let's take the first step. The two of us."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "That Azdaja lives is a miracle made possible by the unique nature of the void..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "...Ah, yes. The aether transmitters, I shall leave with Zero. They will be of more use in the Thirteenth than in the Source."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I've already seen Varshahn safely to Vrtra. Many would be heartbroken if their “little brother” failed to return home."
+    },
+    {
+      "character": "Vrtra",
+      "text_en": "Never again shall we be parted, Sister. Never again."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Never did I imagine that the Light I bore could bring about such change."
+    },
+    {
+      "character": "Zero",
+      "text_en": "As our domains are shaped by our innermost desires, perhaps this is a reflection of the hope that had quickened in my heart."
+    },
+    {
+      "character": "Zero",
+      "text_en": "You came to the Thirteenth to rescue Azdaja and protect your world. Our meeting was happenstance, and our association one of mutual convenience."
+    },
+    {
+      "character": "Zero",
+      "text_en": "Yet you and yours always treated me with kindness. As a friend. And through your friendship, I've found a new beginning."
+    },
+    {
+      "character": "Zero",
+      "text_en": "I'm forever in your debt."
+    }
+  ]
+}

@@ -1,0 +1,384 @@
+{
+  "id": "in-good-faith",
+  "wiki_path": "/wiki/In_Good_Faith",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "In Good Faith",
+  "level": "75",
+  "location": "The Rak'tika Greatwood(X:24.8,Y:10.7)",
+  "npc_start": "Urianger",
+  "dialogues": [
+    {
+      "character": "Urianger",
+      "text_en": "Rest, Forename , I prithee. I shall attend to Runar's ministrations."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Runar. Thank goodness."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We delivered the antidote to Slitherbough, and from what we could gather on the way here, the Eulmorans have had the good manners to withdraw."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Thank the gods they did, or we would never have made it here in time. I'm told we have Runar and his comrades to thank for keeping the soldiers occupied prior to their retreat."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "They were preparing to come for you and Y'shtola, it seems, when Runar rallied the villagers and pursued them out of Slitherbough."
+    },
+    {
+      "character": "Runar",
+      "text_en": "I must...I-I must..."
+    },
+    {
+      "character": "Runar",
+      "text_en": "Where...am I?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yx'Maja, in the care of the Viis. Thou art safe now, friend. Pray, rest thee awhile longer."
+    },
+    {
+      "character": "Runar",
+      "text_en": "No...no, I am all right. Somewhat heavy of limb, perhaps, but otherwise well I assure you."
+    },
+    {
+      "character": "Runar",
+      "text_en": "I am glad to see you are all safe. When we realized where the soldiers were headed, we knew something had to be done."
+    },
+    {
+      "character": "Runar",
+      "text_en": "I...do not see Master Matoya. She was with you, yes? What happened to her?"
+    },
+    {
+      "character": "Runar",
+      "text_en": "Spare me your riddles and speak plain! Where is Master Matoya!?"
+    },
+    {
+      "character": "Runar",
+      "text_en": "Spare me your riddles and speak plain! Where is Master Matoya!?"
+    },
+    {
+      "character": "Runar",
+      "text_en": "Well!? Say something! Where is Master Matoya!?"
+    },
+    {
+      "character": "Runar",
+      "text_en": "No...no... No, that cannot be..."
+    },
+    {
+      "character": "Runar",
+      "text_en": "Why would she do such a thing?"
+    },
+    {
+      "character": "Runar",
+      "text_en": "Was there no other way? I...I cannot believe that she...that she..."
+    },
+    {
+      "character": "Runar",
+      "text_en": "We must begin the search immediately! I will come with you!"
+    },
+    {
+      "character": "Runar",
+      "text_en": "What are you waiting for? We must find her! She could be trapped or hurt or..."
+    },
+    {
+      "character": "Runar",
+      "text_en": "She is alive. She is alive , damn you!"
+    },
+    {
+      "character": "Almet",
+      "text_en": "Forgive me for interrupting, but our scouts have apprehended an intruder."
+    },
+    {
+      "character": "Almet",
+      "text_en": "We thought perhaps he might be an associate of yours..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Oh, look who it is."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Well...this is embarrassing. In my defense, they are surprisingly tenacious."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "So─what trouble have you gotten yourselves into this time?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Well, well. What an intriguing turn of events."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "My condolences, by the way. 'Tis never easy to lose the ones we love."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Well, she is dead, isn't she? Wishing it were otherwise will not make it so."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That you should be indifferent to her loss is no surprise. But to us, she was a friend. The best of friends."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "You have something on your mind. What is it?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Pray recount to us again that which thou witnessed in the ruins, omitting not the slightest detail."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Flow..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "The teleportation magick she used to spirit us away from Ul'dah after the bloody banquet! I recall a similar gale in the tunnel before it took effect."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Interesting. I thought I sensed a brief disturbance in the Lifestream. How reassuring to know it was not my imagination."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "I felt it only once, I should mention. Which would suggest she is still adrift on its currents."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Then I fear she may yet be lost to us─for it was only by the grace of the elementals that she was plucked from that great aetherial river."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Oh...very well. I'll go and fetch her..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Perhaps a clear and unambiguous act of kindness will serve to win the trust you seem so determined to deny me."
+    },
+    {
+      "character": "Runar",
+      "text_en": "By the blessed Dark, there is yet hope!"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Could it truly be within his power to pluck Y'shtola from the Lifestream as he claimeth? 'Tis a feat beyond even the greatest practitioners of the arcane. Yet if he would attempt it, we cannot well stand in his way."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Do you really think he can bring her back?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Though I am loath to trust him, I suppose we have no choice. For now, at least."
+    },
+    {
+      "character": "Almet",
+      "text_en": "I confess, I do not fully understand what is happening here─but I gather we were right to bring this man to you."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "I am relieved to know he is an acquaintance of yours. Though I see you are not close. If he should displease you, we would be happy to deal with him..."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "We found him asleep in the shade of a tree near the ruins. A fine way to behave when one's companions are in dire straits."
+    },
+    {
+      "character": "Loymet",
+      "text_en": "The Eulmoran soldiers are unlike anything I have ever seen. Their leader especially. To outpace even our swiftest hunters... He is not to be taken lightly."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Now then, if I'm to fetch her for you, I will require a suitable place to work. We must find somewhere that resonates strongly with the Lifestream."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "And by we, I mean you. To that end, I give you this─an aetherial lamp of my own design."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Keep it close as you venture out into the woods. The brighter the glow, the stronger the location's resonance with the Lifestream. Once you've found a likely spot, all you need do is whistle."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "You do know how to whistle, don't you, hero? Just put your lips together and blow."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Well, what are you standing around here for? Get searching! You do want to save her, don't you?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Yes, this place should serve well enough."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Might I have a little space? I need to concentrate."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Now then...what color was her soul again?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Ah... There you are."
+    },
+    {
+      "character": "Runar",
+      "text_en": "He─He's done it! He's brought her back!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Y'shtola, are you all right?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Yes... Though I cannot imagine how. What happened?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thou didst invoke the power of Flow, which thence did usher thy soul unto the Lifestream."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I wanted to save the antidote, and after that..."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I did something exceedingly reckless. For which you will just have to forgive me."
+    },
+    {
+      "character": "Runar",
+      "text_en": "Master Matoya! Oh, thank the heavens you're all right!"
+    },
+    {
+      "character": "Runar",
+      "text_en": "I had nearly given up hope."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Please, Runar, dry your tears. What would the others think if they saw you like this?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Come now─did you really think I would go gently into that dark night with so much left undone? So many mysteries left unsolved?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Ahem. Is there aught you wish to say to me? A word of thanks , perhaps?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Emet-Selch, the Ascian of whom I spoke. 'Twas he who plucked thee from the Lifestream."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "I see."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Thank you. Differences notwithstanding, you saved my life, and for that I am grateful."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But let us turn our attention to more important matters, such as the Qitana Ravel."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "You had better not have explored its depths without me."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well. Almet and the others should be pleased to see you in such uncharacteristically high spirits. Let us return to Fanow, then, and discuss the coming expedition."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "Did Emet-Selch not return with you?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Though I struggle to form the words...I am glad that Emet-Selch was here."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We can but pray Y'shtola never does anything so reckless again."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Urianger once told me that being immersed in the Lifestream can cause irreparable harm to the body. Do you suppose Y'shtola is all right?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "In all of history, there are but few who have returned from a misadventure in the aetherial sea possessed of mind and body both."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To have done so twice beggareth belief. 'Tis plain Y'shtola wanteth not for favor among the Twelve."
+    },
+    {
+      "character": "Almet",
+      "text_en": "We are both gladdened and relieved to see your companion returned hale and whole."
+    },
+    {
+      "character": "Uimet",
+      "text_en": "With your friend returned, you will resume your exploration of the ruins, yes? But say the word and we shall assist you."
+    },
+    {
+      "character": "Cymet",
+      "text_en": "It was fate who brought you to us, and fate who returned your companion to you. She yet smiles on Ronka, I am sure of it."
+    },
+    {
+      "character": "Runar",
+      "text_en": "By all that is dark, Master Matoya is returned! She stands here before me yet still I cannot believe it."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "What a touching reunion that was. It fair brought a tear to the eye. But as we both know, such tender moments are nothing if not momentary ."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Before long, they will remember their many differences, and return to squabbling."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Oh, if I had a gil for every time one of you heroes made that claim..."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Ah hah hah! Flattery will get you nowhere, dear boy / my dear ."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "But seriously, we Ascians do what we do for the greater good. For the Rejoining."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Though we may sow the seeds of chaos, it is man who tends them, he who reaps their bountiful harvest."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "But I grow tired of these arguments. If you would kindly refrain from retorting and return to your customary brooding silence, I will take it as thanks for rescuing your companion and leave it at that."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Now, we mustn't keep your friends waiting."
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "I told you, I tire of these inane arguments. Shouldn't you be getting ready to slay the next Lightwarden or something?"
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "My apologies for having put you all through such an ordeal. I could see no other way to save the Night's Blessed. Happily, both they and I yet live─thanks to you."
+    },
+    {
+      "character": "Y'shtola",
+      "text_en": "But our work here is not yet done. We must make ready to enter the Qitana Ravel, and put the Lightwarden to the sword."
+    }
+  ]
+}

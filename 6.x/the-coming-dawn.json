@@ -1,0 +1,624 @@
+{
+  "id": "the-coming-dawn",
+  "wiki_path": "/wiki/The_Coming_Dawn",
+  "wiki_image_url": null,
+  "patch": "6.55",
+  "title_en": "The Coming Dawn",
+  "level": "90",
+  "location": "Old Sharlayan(X:10.0,Y:14.0)",
+  "npc_start": "G'raha Tia",
+  "dialogues": [
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, I daresay we now have a fair grasp of Wuk Lamat's situation."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Still, you've been afforded time to consider her invitation. Why not use it to learn more about Tural? Noumenon is bound to have some information on the continent."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Quite right. Not only would it help you to make an informed decision, but if you do choose to go, you would be better prepared for what awaits."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We're talking about mysterious lands and unknown wonders here! I'm confident we'll find reports so thrilling as to drive any thoughts of napping from your mind."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Come, my friend. Let us be off to the archives."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "History, geography, botany... The public archives alone should suffice to provide a solid grounding on Tural."
+    },
+    {
+      "character": "Principles of Blue Magic and Spell Acquisition",
+      "text_en": "The origins of blue magic can be traced back to the esoteric practices of the Whalaqee, a tribe in the distant continent of Tural."
+    },
+    {
+      "character": "Principles of Blue Magic and Spell Acquisition",
+      "text_en": "The tribe holds nature in the highest, and in seeking to cultivate a spiritual connection with it, they have learned to harness the power of the wildlife around them."
+    },
+    {
+      "character": "Principles of Blue Magic and Spell Acquisition",
+      "text_en": "In exchange for teaching them the common tongue, I was permitted to live among them and train in their ways. Those days were some of the most grueling I remember, but they were tremendously rewarding."
+    },
+    {
+      "character": "Principles of Blue Magic and Spell Acquisition",
+      "text_en": "For instance, I had the privilege of visiting Lapis Canyon, the tribe's sacred grounds. It is so named for the ceruleum deposit that wells up to the surface, turning the entire canyon a brilliant blue."
+    },
+    {
+      "character": "Principles of Blue Magic and Spell Acquisition",
+      "text_en": "Under a shaman's watchful eye, I finally managed to master the Whalaqee's art and make the animals' powers my own. As no name existed for it in the common tongue, I took the liberty of naming it blue magic."
+    },
+    {
+      "character": "Principles of Blue Magic and Spell Acquisition",
+      "text_en": "The reason I chose this color, as you will have doubtless gleaned, is for the significance it holds to the Whalaqee. I cannot think of a name more fitting to honor the people from whom this noble magic was born."
+    },
+    {
+      "character": "Lines in the Sand-The Geopolitics of Hydaelyn",
+      "text_en": "Let us begin by comparing the geographical characteristics of the Three Great Continents and Tural. The former stretches from east to west, and lies entirely within the northern hemisphere."
+    },
+    {
+      "character": "Lines in the Sand-The Geopolitics of Hydaelyn",
+      "text_en": "In contrast, the latter extends to the far reaches of both northern and southern hemispheres, and a difference immediately presents itself in the form of climate variance."
+    },
+    {
+      "character": "Lines in the Sand-The Geopolitics of Hydaelyn",
+      "text_en": "Shifts in climate tend to be gentler when moving east and west, but harsher when moving north and south. Owing to this fact, longitudinal migration is far more common in history, whether it be by men, animals, or plants."
+    },
+    {
+      "character": "Lines in the Sand-The Geopolitics of Hydaelyn",
+      "text_en": "A case in point is the Allagans, who rose to power in Aldenard before advancing east into Ilsabard. Their movement would be mirrored thousands of years later by the Garleans."
+    },
+    {
+      "character": "Lines in the Sand-The Geopolitics of Hydaelyn",
+      "text_en": "Meanwhile, although the disparate tribes of Tural waged war with one another for generations, stymied by the climate, none could make any great headway north or south."
+    },
+    {
+      "character": "Lines in the Sand-The Geopolitics of Hydaelyn",
+      "text_en": "Tribes hailing from frozen lands withered beneath the desert sun, while those that thrived in open plains could not pierce dense jungle. Such was the way of it─until the leader of the Mamool Ja succeeded in bringing the continent under one banner."
+    },
+    {
+      "character": "Lines in the Sand-The Geopolitics of Hydaelyn",
+      "text_en": "Given the land's divided history and the reason thereof, one cannot help but be in awe of this feat. Truly, it is a testament to the Autarch's greatness."
+    },
+    {
+      "character": "The Flora and Fauna of Tural",
+      "text_en": "Every land has given rise to unique wildlife, and the continent of Tural is no exception. Yet while some of her creatures have become a familiar sight in Eorzea, many and more exist that are rarely seen this side of the Indigo Deep."
+    },
+    {
+      "character": "The Flora and Fauna of Tural",
+      "text_en": "This tome introduces a select variety of species as described in the testimonies of sailors and adventurers."
+    },
+    {
+      "character": "The Flora and Fauna of Tural",
+      "text_en": "Alpaca Accustomed to Tural's craggy mountain ranges, this four-legged beastkin has been domesticated for seemingly hundreds, if not thousands, of years."
+    },
+    {
+      "character": "The Flora and Fauna of Tural",
+      "text_en": "Their soft, white fleece is highly prized by weavers, while their strong legs and sure-footedness make them capable beasts of burden."
+    },
+    {
+      "character": "The Flora and Fauna of Tural",
+      "text_en": "Wivre This ferocious scalekin is native to the dense jungles of Tural. The Mamool Ja have succeeded in taming them and utilize their prodigious strength for manual labor."
+    },
+    {
+      "character": "The Flora and Fauna of Tural",
+      "text_en": "Given their immense size and power, it should come as no surprise that the wivre is also employed as a siege beast. Enemy fortifications cannot long withstand this horned brute's rampage."
+    },
+    {
+      "character": "The Flora and Fauna of Tural",
+      "text_en": "Valigarmanda Turali folklore holds that this birdlike creature is the mightiest of beasts and the very embodiment of nature's power. Whether it exists beyond myth, however, is uncertain."
+    },
+    {
+      "character": "Eorzean Cuisine-A History",
+      "text_en": "It is impossible to adequately discuss Eorzean cuisine without speaking of that land from which many of our modern-day staples hail: the far-western continent of Tural."
+    },
+    {
+      "character": "Eorzean Cuisine-A History",
+      "text_en": "Ogre pumpkins, ruby tomatoes, even the ubiquitous popoto─these crops and more that regularly grace Eorzean dining tables trace their origins to the “New World,” as the place is known to most."
+    },
+    {
+      "character": "Eorzean Cuisine-A History",
+      "text_en": "The tale of this culinary immigration begins in the year 1498 of the Sixth Astral Era, when a Lominsan sailor named Ketenramm successfully traversed the Indigo Deep to arrive at the theretofore unknown continent."
+    },
+    {
+      "character": "Eorzean Cuisine-A History",
+      "text_en": "Ketenramm spent several moons exploring inland, in the course of which he encountered the denizens of the sprawling nation of Mamool Ja. He was even granted an audience with their supreme leader, whose confidence he won along with permission to roam freely."
+    },
+    {
+      "character": "Eorzean Cuisine-A History",
+      "text_en": "Ketenramm would return to Tural several times, but during his first expedition he charted the land and gathered myriad root vegetables and seeds to bring back to Limsa Lominsa."
+    },
+    {
+      "character": "Eorzean Cuisine-A History",
+      "text_en": "The most notable of these was the popoto, whose ease of cultivation and nutritional value saw it quickly spread to all corners of Eorzea."
+    },
+    {
+      "character": "Eorzean Cuisine-A History",
+      "text_en": "Produce was far from the only bounty of Ketenramm's expeditions to Tural. Many tantalizing recipes such as the bean-filled burrito and gripping legends such as that of the golden city reached our shores by way of his ship."
+    },
+    {
+      "character": "Eorzean Cuisine-A History",
+      "text_en": "To those outside of Ketenramm's circle, Tural largely remains shrouded in mystery, yet its influence on our cuisine cannot be overstated. Many scholars─myself included─would relish the chance to immerse themselves in the culinary culture of that faraway continent."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Scoured the library to your satisfaction, have you? Excellent."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "While there are few books wholly dedicated to the subject of Tural, I daresay you've found tidbits of useful information scattered here and there."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But come, let's continue this outside. The mammets do not take kindly to chatter."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Now then, I'm quite keen to hear your honest impressions."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I couldn't help but notice that we read the very same book on cuisine. I was pleasantly surprised to find references to Tural within."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Among them, did anything in particular pique your interest?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah yes, the renowned Lominsan explorer who traversed the Indigo Deep and discovered the unknown west!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And his accomplishments didn't end there. He traveled Tural extensively, and even forged a friendship with the Dawnservant."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If we were able to meet Ketenramm, what things we could learn. Alas, all of this happened nigh four score years ago, and he may no longer be alive to tell his tales..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As have I. Despite having just enjoyed a hearty meal, I found myself craving popotoes."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As they keep well, they were a boon to sailors, and it was that same property that allowed them to survive the voyage to Eorzea."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The book also mentioned a method of preservation which sees popotoes repeatedly frozen and dried. The resultant product was apparently used in a stew by people in mountainous regions. I should like to sample that dish one day─that and all the unique cuisines of that vast continent."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Hah! I suspected any mention of the city of gold would catch your eye. 'Tis truly a mystery among mysteries."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Here is a city whose location is unknown, that no one has ever seen. And yet whispers of its existence continue to persist."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Countless souls have set off in search of it, never to return. I can imagine it being a suitable challenge for the ritual of succession."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But moving on, did you perchance learn aught about the fauna of Tural? Given your adventuring background, I expect the topic would interest you."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah yes, the alpaca. In addition to serving as beasts of burden, they provide clothing for people by way of their lush fleece."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They are especially prized by mountain tribes, who hold certain rare specimens sacred."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah, yes. The great horned beasts kept by the Mamool Ja, who unleash them on fortified positions to devastating effect."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That reminds me. I recall hearing that a few specimens were brought to Vylbrand not long ago. Perhaps it's possible to see them on the island."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Now why do I get the impression you're imagining pitting your skills against the fell beast?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Unfortunately, I found scant details on your would-be prey. One source simply described it as an “enormous, winged creature with scales hard as steel that rules the skies.” I should like to see it with my own eyes─presuming it even exists."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I thought I heard familiar voices."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Fancy running into the two of you here."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Well, well. Have some research of your own, do you?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Aye, we hope to arm ourselves with knowledge that may benefit the Garlean people."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Having forged a new trade agreement with Radz-at-Han, they will next look to foster relations with other nations. This includes former imperial provinces."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In view of this, we hope to find hints in history on how neighbors of differing races and ideologies might engage with one another."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "And what of the two of you? What endeavor brings you here this day?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A nation composed of the disparate peoples of Tural..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "I daresay this is precisely the kind of example we seek. We'd do well to read up on Tuliyollal ourselves."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "The contest─is Forename the only one allowed to help Wuk Lamat?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There was no mention of such restrictions, as I recall. On the contrary, Wuk Lamat gave us the impression that she could have several champions."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "I think I know how to make the most of our respite. Follow me, Alphinaud! We have planning to do!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "A-Alisaie! Wait!"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "<sigh> 'Twould seem our plans have changed. If you'll excuse me..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "They never could rest on their laurels..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Come, let us return to the annex."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Oh, it's just... Despite all that we've learned, I can't help but feel we've yet to hear the whole story..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "What about you, my friend? Are you inclined to accept or refuse Wuk Lamat's request?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Hah, I thought you might say that."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "With an intrepid attitude such as yours, I believe all shall be well."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Be it the contest or something else, there will be many trials for you to overcome at your destination."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But in the course of seeing new lands and meeting new people, you'll surely find a way forward. That's what adventurers do, is it not?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I don't blame you. No matter the assurances, it's no simple thing to wade into the midst of a political struggle, and in a foreign land at that."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "How about this, then. Instead of deciding here, go there first and then decide."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In the course of seeing new lands and meeting new people, you'll surely find a way forward."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "That's what adventurers do, is it not?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If only others had the same good sense."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "If the prospect troubles you so, why not consider what you stand to gain instead? That is, an exciting journey to a faraway continent."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "In the course of seeing new lands and meeting new people, you might find yourself moved to help Wuk Lamat after all. And if not, well...you quietly take your leave."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "A brazen plan, perhaps, but one that befits a veteran adventurer, you must agree!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Such a journey would be the envy of many a scholar. Distant as it is, Tural remains largely unknown to us, with only meager records to be found in Noumenon."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The experiences to be had─all the things you might hear, feel, and think... It's enough to stir me to the core."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Life is a series of journeys, my friend, and there's no telling what awaits us on the long road."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "But what's important is to be true to yourself as you walk it."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Only then can we hope to be content when we arrive at the end of one─and step forward into another."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "Ah, but there's an idea!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I have a matter to attend to at the Agora. Please go on inside─I will join you shortly."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Welcome back, Forename . If you're looking for Wuk Lamat, she is currently with the others in her chambers."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "If you like, I can go and fetch them for you?"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Understood! Please wait in the main hall."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Please go ahead to the main hall. It won't be long."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "You have the look of someone who's made up their mind. Go on then, let's hear it."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Then you need me as much as I need you. Together, we'll blaze new trails in Tural!"
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Excellent! You'll be compensated for your troubles, of course, but I daresay your time in Tural will be its own reward!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "You're not planning to leave without us, are you?"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Alphinaud! Alisaie! What are you two doing here?"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "We happened to cross paths at Noumenon earlier, you see, and I told them about Wuk Lamat."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "And when we fortuitously met again at the Agora just now, they expressed an interest in meeting our visitor."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Ah, you must be the twins who were sneaking after Erenville as toads!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A hundred things about us you could have told her, and you chose that!?"
+    },
+    {
+      "character": "Erenville",
+      "text_en": "First impressions last."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "'Tis an honor and a pleasure to make your acquaintance, Your Highness. Alphinaud Leveilleur, at your service, and this is my sister, Alisaie."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Oh, no, let's not do that. I really can't stand titles."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "So. You want to participate in the contest too, is that right?"
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed we do."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We've been assisting with the rebuilding effort in Garlemald. Yet while progress is being made, the question remains of how the nation might reconcile with its neighbors."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We believe there is much we might learn from Tuliyollal, a nation founded on unity. And in return for this honor, we would spare no effort in supporting your claim."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "The more the merrier, I say. And I'd be keen to learn about Eorzea and Garlemald from you as well."
+    },
+    {
+      "character": "Erenville",
+      "text_en": "Having recruited so many committed and capable allies, I presume you have no need for my continued assistance."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Nonsense! Like I told you before, you're indispensable."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "They're strong, aye, but strangers to our land. They need someone to guide them─to point out the dangers and spare them grisly deaths."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "I can't think of anyone better suited to that task than you. What's more, despite your assertions, I know you haven't given up on the city of gold."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "As I recall, Krile, you were the first to state your desire to visit Tural."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Perhaps I was..."
+    },
+    {
+      "character": "Krile",
+      "text_en": "Still, I can't help but worry about being away just when our order is beginning to find its feet again."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You have nothing to worry about."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I haven't forgotten how you held the fort while I set off to explore Alzadaal's Legacy; it's only fair that I return the favor. Pray leave the Students to Ojika and me."
+    },
+    {
+      "character": "Krile",
+      "text_en": "But Raha..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "You want to retrace your grandfather's steps, don't you? This is a rare opportunity, and I insist that you seize it!"
+    },
+    {
+      "character": "Krile",
+      "text_en": "Thank you, Raha. Thank you."
+    },
+    {
+      "character": "Wuk Lamat",
+      "text_en": "Well, looks like it's settled! I'm counting on you all to help me win the throne!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "I suppose now is a good time to show you what I spent a small fortune on at the Agora."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "There!"
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "This, my friends, is the latest map of the world, created to celebrate our friendship with the Loporrits. Cast your eyes west of Sharlayan, for there it lies..."
+    },
+    {
+      "character": "G'raha Tia",
+      "text_en": "The site of your next great adventure─Tural!"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Lest you wonder about your passage to Tural, Erenville will arrange a ship through his guild. You need only worry about your own preparations."
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Speaking of which, please take this with you─a rugged and ready knapsack! May it serve you well on your coming adventures!"
+    },
+    {
+      "character": "Ojika Tsunjika",
+      "text_en": "Now, I'm not sure when departure will be, but rest assured I'll let you know when I hear something. Till then, please take your ease!"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "When does the next ship set sail?"
+    },
+    {
+      "character": "Rhetkympf",
+      "text_en": "May I ask your destination?"
+    },
+    {
+      "character": "Estinien",
+      "text_en": "The north and east, I've already seen..."
+    },
+    {
+      "character": "Estinien",
+      "text_en": "I suppose I'll head west this time."
+    },
+    {
+      "character": "Rhetkympf",
+      "text_en": "“West,” you say..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "I see you've made up your mind. I had a feeling you'd be keen."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "But to think that our comrades, too, are thither bound... Fate doth work in mysterious ways."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Indeed. It will be a grueling task, having to contend with them."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "If the prospect doth trouble thee, 'tis not too late to decline the petition."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...Though thine expression would suggest thou art far from perturbed."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Oh, how could I possibly be, knowing what's to come?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Then let us delay no further, and secure passage on a vessel."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Aye, this will be a mission to remember."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Come, my friend! We make for Tural!"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Tell me, have you been to the ruins beneath the waters of the Bounty?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "Or the treasure islands beyond the frozen waters of Blindfrost, in Othard's north?"
+    },
+    {
+      "character": "Emet-Selch",
+      "text_en": "The fabled golden cities of the New World?"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "WEIGH ANCHOR NOW, THE TIDE IS HIGH AND DAWN OF NEW ADVENTURE NIGH"
+    },
+    {
+      "character": "Banner Text",
+      "text_en": "ROW FORTH TO BREAK HORIZON'S BOND AND TREAD THE GILDED PATH BEYOND!"
+    }
+  ]
+}

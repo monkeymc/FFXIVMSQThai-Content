@@ -1,0 +1,448 @@
+{
+  "id": "unto-the-truth",
+  "wiki_path": "/wiki/Unto_the_Truth",
+  "wiki_image_url": null,
+  "patch": "5.0",
+  "title_en": "Unto the Truth",
+  "level": "72",
+  "location": "Il Mheg(X:13.3,Y:30.2)",
+  "npc_start": "Thancred",
+  "dialogues": [
+    {
+      "character": "Thancred",
+      "text_en": "How goes it, Forename ?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "So, a mix of menial tasks and pranks."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Yes, that pretty much sums up my own experience. They have no troubles worthy of the name."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "<sigh> How long are we supposed to keep at this? They're clearly playing with us."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Indeed. Whenever I inquire how much more there is to be done, the answer is ever the same: “A little.” I doubt they have any intention of releasing us in the near future."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Urianger once told me a story about the pixies."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "They're born from the souls of those who died as children, or so it's believed."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Though they don't have memories of their previous lives, the desire to have fun remains, imprinted on their souls."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "And so they live only to play, keeping hapless mortals for their pleasure for years on end. Sometimes even until death..."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hmmm... In the past, when I sought to identify the true nature of ghosts, I came upon literature examining a similar subject."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "The soul was likened to a core that resides in the aether, and its presence is what differentiates us from such beings as sprites and arcane entities."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Upon death, said core ordinarily dissipates alongside the aether that composed the flesh. However, it may be held together and bound to the corporeal realm, either by the will of its owner or by means of certain arts."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "In time, the soul may regather aether unto itself to assume another form, or find newly emerged life in which to abide. The pixies may be one such instance of this."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "...If ghosts are merely souls without bodies, what does that make us? I think you've become that which you fear most, Brother dearest."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "However the pixies may have come into being, if we leave them to judge when they are satisfied, they will never be satisfied."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Nay, we must negotiate new terms with the creatures... But where to begin? It seems to me we would need at least one among them to sympathize with us..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "In the course of your chores, did any of you encounter a pixie who seemed even faintly amenable to reason?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "What? You knew a pixie from before?"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Not only are you acquainted, but you've entered into a pact ? You might have mentioned this sooner!"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "At any rate, I dare to hope this will offer us a way out. Without further delay, then, summon this Feo Ul, if you please."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "We're ghosts too... I suppose it makes sense on a certain level..."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "A pact with a pixie. Why am I not surprised?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "I hope Feo Ul will be able to help us."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Come along, Forename . Summon your pixie friend."
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "So! My sapling has finally remembered about his / her lovely branch!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "But with such a half-hearted call, he / she may as well lop me off and cast me aside! Hmph, I have no sapling!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Hmph, is that your idea of a fervent call? A sodden log could do it with more fire!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Grrr...unnngh... You...you!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "You're late! Late, late, late!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "I've been waiting for you to summon me ever since you came here! Waiting and waiting and waiting!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "But my sapling didn't so much as utter my name! Such a heartless thing he / she is! Cold and cruel and heartless !"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Another self-important little brat. Just what we need."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Hmm. Reminds me of my childhood."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Alright, I'm sorry! It was a joke! Honestly, just a joke!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "But just now, you called for me so earnestly, so fervently... I couldn't possibly stay angry at you."
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Very well! As your lovely branch, I will lend you my strength!"
+    },
+    {
+      "character": "Sul Uin",
+      "text_en": "Well well well! If it isn't Feo Ul, the [Madbloom]! It's been too, too long!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Not long enough for you to think of any new games, though, apparently! If I were you, I'd be bored of myself."
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Now, let me make something clear: that mortal is mine ! No matter what you do, he / she will never be yours. Never, never, ever !"
+    },
+    {
+      "character": "Ys Iala",
+      "text_en": "Awww, not even a bit? But...what about the others? Surely we can keep them?"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "No, no, no! You can't keep them either! They're for my amusement, and mine alone!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "And if you lay so much as a finger on my sapling, I'll scatter the contents of his / her bag all over your precious village!"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "There'll be cold, hard metal! Furry, festering food! Stinky, sweaty smallclothes! And...and all manner of other terrible, unmentionable things! How would you like that, hmm!?"
+    },
+    {
+      "character": "Oul Sigun",
+      "text_en": "All right, all right... But will you not at least let us play with the twins? Just while the others go and see Urianger?"
+    },
+    {
+      "character": "Sul Uin",
+      "text_en": "Aye, aye, that's all we ask! And we promise we'll play nicely."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "...It seems we won't be joining you."
+    },
+    {
+      "character": "Ys Iala",
+      "text_en": "Aye, haha! We'll reveal the hidden [truth] to you at once!"
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "So this is the true Il Mheg..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "How are you feeling?"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Better. I think I remember the way now."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Apologies for the delay. Shall we go and see Urianger?"
+    },
+    {
+      "character": "Feo Ul",
+      "text_en": "Your lovely branch is useful, yes? So whenever you're in trouble, you must remember to make use of me !"
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "Feo Ul certainly has a way with the other pixies."
+    },
+    {
+      "character": "Alisaie",
+      "text_en": "Send Urianger my regards...and tell him to live somewhere less annoying next time."
+    },
+    {
+      "character": "Alphinaud",
+      "text_en": "Worry not, we shall be fine. Go on and find Urianger."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "For Alphinaud and Alisaie's sakes, let us be quick. It would be a shame to return only to find that they had been made to play one game too many."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Now, the place we seek is the abandoned manor of a nobleman and scholar. The Bookman's Shelves, it's called, after the fellow's vast collection of tomes. An agreeable habitat for our friend, I'm sure you'll agree."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "If we follow the path north, we should soon find the place. Come along."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "It's been quite a while. I hope Urianger is well."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "And here we are at long last. I give you Urianger's humble abode."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Come, let's see if he's home."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Urianger! Are you in?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Unto a world weary of heroes, a hero wends his / her way..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The Exarch did send word that thou wouldst seek me out, but ne'er did I imagine thou wouldst arrive so soon..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Full glad am I to see thee once more, my friend, and none the worse for thy travails."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Run along, Minfilia. We will meet you outside."
+    },
+    {
+      "character": "Minfilia",
+      "text_en": "But..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Another one for you to imbue, if you'd be so kind."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "I take it thou hast met with our other comrades already?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Hmm. That Master Alphinaud and Mistress Alisaie now travel in thy company is of great comfort to me. As for the rest..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "It beginneth in earnest... The hunting of the Lightwardens, and perforce the war with Eulmore."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Hark thee, then, to my words, and through them behold the vision that I did glimpse─that of the Eighth Umbral Calamity."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As I drifted hither to the First, traversing the boundary 'twixt reality and potentiality, I did bear witness to events yet to come..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "There I saw the combined forces of Eorzea and the Far East offering fierce resistance to the legions of Garlemald."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "So fierce, in fact, that they did begin to push the enemy back. Ilm by painful ilm, at first, then yalm by yalm, and malm by malm in time."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yet the joy they felt was short-lived, for in so doing, they did force the Empire's hand. Faced with defeat, the Garleans turned to a weapon most vile─Black Rose."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Its potency defied all reckoning."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Once released, the gas took on a life of its own, wreaking untold carnage not only in Eorzea, but in the provinces of the Empire besides."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "From fighters upon the front lines to babes in their beds, none were spared. And as the casualties became too numerous to count, so did the fabric of civilization begin to unravel."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Nor did the land itself escape unscathed. For spreading from the site of its release, Black Rose brought death to the very soil."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To survive amidst the chaos and upheaval, men came to live by the sword, the rule of law giving way, inevitably, to the rule of might."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thus was the spark struck and the fire kindled, and swiftly did it spread, as a blaze in a field of straw, to engulf every corner of the world."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Nations worthy of the name did then cease to exist. And those souls brave and true, who might have risen to restore order..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "...were no more. For the weapon spared not one. Not even thee."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "An endless age of war, begotten by the blight of Black Rose... Such is the legacy of the Eighth Umbral Calamity which I did behold."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "No matter the cost, we must forestall this tragedy."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To that end, I have labored during my sojourn in this world, discovering in so doing the answer to a pressing mystery."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "That of Black Rose's inexplicable potency."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Come."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Dost thou recognize yonder chart?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Indeed. 'Tis a rendering of the elemental wheel, such as one might find in classrooms across the Source."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As the chart maketh plain, our world is composed of six elements, in addition to which there exist two poles in fundamental opposition."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Astral, the active; umbral, the passive."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "As a reflection of the Source, the First naturally compriseth the selfsame forces, yet curiously, there is a notable divergence in their nomenclature. To be specific, the denizens of this world employ not the terms astral and umbral."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Thus was I moved to inquire what names said forces had been assigned. A simple question which yielded a most unexpected answer..."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Upon demanding the name of the pole aligned with activity and growth, I was told that as life's myriad colors combine to produce black, the people of the First had called it “Darkness.” At this did my mind begin to race."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Yet 'twas only when I asked what name had been given to the pole aligned with passivity that mine eyes were opened to the truth. Peace and tranquility being as purest white unmarred by color, I was told, it had been given the name of “Light.”"
+    },
+    {
+      "character": "Thancred",
+      "text_en": "That's umbral light and astral darkness, yes? ...I'm no aetherologist, but it strikes me that the nomenclature of the First is rooted in the generation of the two forces, while our own appears to focus on their effects. Which makes one wonder...have we had it backwards all this time?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "'Tis indeed a compelling question, and one which beareth closer examination. Yet what knowledge we already possess sufficeth to explain the chain of events."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "The phenomenon of aetheric thinning observed in the Source is the consequence of Light─the power of stasis─flowing in from the First to stifle the movement of aether within the land."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "And according to Master Alphinaud, Black Rose slayeth by halting the circulation of aether within living beings."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Should such a weapon be unleashed even as the First were rejoined, replete as it is with Light..."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "...We would have a disaster of untold proportions on our hands. A calamity."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Well...at least we have a better grasp of what we're facing. Our objective, however, remains unchanged."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "We are to eliminate the Lightwarden of Il Mheg."
+    },
+    {
+      "character": "Thancred",
+      "text_en": "Speaking of which, were you able to ascertain its whereabouts?"
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Aye. 'Tis all but certainly ensconced within Lyhe Ghiah, the castle which standeth in the midst of the lake."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "To enter said stronghold, we must needs turn to the pixies for aid. Fortunately, I have become quite adept at courting their cooperation."
+    },
+    {
+      "character": "Urianger",
+      "text_en": "Henceforth shall I accompany you, and do all in my power to ensure that my vision doth not come to pass."
+    }
+  ]
+}
