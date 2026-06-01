@@ -1,0 +1,1130 @@
+{
+  "quest_id": "heavensward",
+  "dialogues": [
+    {
+      "key": "welcometotheflagshipmastermistressforenameyouarealmostatyourdestination",
+      "text_en": "<blip> Welcome to the Flagship, Master / Mistress Forename . You are almost at your destination.",
+      "text": "<blip> ยินดีต้อนรับสู่แฟลกชิป คุณ Forename อีกเพียงอึดใจเดียวก็ใกล้จะถึงจุดหมายปลายทางแล้ว"
+    },
+    {
+      "key": "warningintrudersdetectedinthevicinitypleaseeliminatethemifyouwishtoproceed",
+      "text_en": "<blip> <bloop> WARNING! Intruders detected in the vicinity. Please eliminate them if you wish to proceed.",
+      "text": "<blip> <bloop> คำเตือน! ตรวจพบผู้บุกรุกในบริเวณใกล้เคียง โปรดกำจัดทิ้งหากต้องการเดินทางต่อ"
+    },
+    {
+      "key": "warningintrudersapproaching",
+      "text_en": "<blip> <bloop> WARNING! Intruders approaching.",
+      "text": "<blip> <bloop> คำเตือน! ผู้บุกรุกกำลังรุกคืบเข้ามา"
+    },
+    {
+      "key": "areasecuredliftingaccessrestrictiontotheaetherochemicalresearchfacility",
+      "text_en": "<blip> Area secured. Lifting access restriction to the Aetherochemical Research Facility...",
+      "text": "<blip> พื้นที่ปลอดภัยแล้ว กำลังยกเลิกการจำกัดสิทธิ์เข้าสู่สถาบันวิจัยเคมีเอเทอร์..."
+    },
+    {
+      "key": "restrictionliftedyoumayenterthefacilityatyourleisureendingguidance",
+      "text_en": "Restriction lifted. You may enter the facility at your leisure. Ending guidance.",
+      "text": "ยกเลิกการจำกัดสิทธิ์เรียบร้อยแล้ว เชิญเข้าสู่สถาบันวิจัยได้ตามอัธยาศัย สิ้นสุดการนำทาง"
+    },
+    {
+      "key": "unknownenergysourcedetectedwithintheaetherochemicalresearchfacilitypleaseexercisecaution",
+      "text_en": "<blip> Unknown energy source detected within the Aetherochemical Research Facility. Please exercise caution.",
+      "text": "<blip> ตรวจพบแหล่งพลังงานไม่ทราบที่มาภายในสถาบันวิจัยเคมีเอเทอร์ โปรดระมัดระวังอย่างยิ่ง"
+    },
+    {
+      "key": "iampleasedtohavebeenofservicetoyoumastermistressforenamepleasesendmyregardstomasterwedge",
+      "text_en": "I am pleased to have been of service to you, Master / Mistress Forename . Please send my regards to Master Wedge.",
+      "text": "ยินดีที่ได้ให้บริการคุณ Forename โปรดฝากความระลึกถึงไปยังคุณเวดจ์ด้วย"
+    },
+    {
+      "key": "deactivating",
+      "text_en": "Deactivating... <bloop>",
+      "text": "กำลังปิดการทำงาน... <bloop>"
+    },
+    {
+      "key": "thisplacejustkeepsgettingweirder",
+      "text_en": "This place just keeps getting weirder...",
+      "text": "ที่นี่ชักจะพิลึกขึ้นทุกที..."
+    },
+    {
+      "key": "ayeitsdownrightuncannyhere",
+      "text_en": "Aye, it's downright uncanny here.",
+      "text": "จริงด้วยค่ะ บรรยากาศที่นี่มันชวนให้ขนหัวลุกชอบกลค่ะ"
+    },
+    {
+      "key": "sentinels",
+      "text_en": "Sentinels!?",
+      "text": "พวกผู้พิทักษ์งั้นรึ!?"
+    },
+    {
+      "key": "iwillcrushyouunderfoot",
+      "text_en": "I will crush you underfoot!",
+      "text": "ข้าจะบดขยี้พวกแกให้แหลกใต้ฝ่าเท้า!"
+    },
+    {
+      "key": "savages",
+      "text_en": "Savages...",
+      "text": "พวกคนเถื่อน..."
+    },
+    {
+      "key": "nosoonerdoiclearawaytherabble",
+      "text_en": "No sooner do I clear away the rabble...",
+      "text": "เพิ่งจะกวาดพวกสวะพ้นทางไปได้ไม่ทันไร..."
+    },
+    {
+      "key": "ifitisntanimperiallegatus",
+      "text_en": "If it isn't an imperial legatus!",
+      "text": "นึกว่าใคร ที่แท้ก็แม่ทัพแห่งจักรวรรดินี่เอง!"
+    },
+    {
+      "key": "letsgetthisoverwithshallwe",
+      "text_en": "Let's get this over with, shall we?",
+      "text": "รีบจบเรื่องนี้กันเลยดีกว่า"
+    },
+    {
+      "key": "enough",
+      "text_en": "Enough!",
+      "text": "พอที!"
+    },
+    {
+      "key": "turretsdeploy",
+      "text_en": "Turrets, deploy!",
+      "text": "เปิดระบบป้อมปืน!"
+    },
+    {
+      "key": "yourreputationiswelldeservedverywellletustrysomethingdifferent",
+      "text_en": "Your reputation is well deserved. Very well, let us try something different.",
+      "text": "ฝีมือสมคำร่ำลือจริงๆ ดีล่ะ งั้นมาลองวิธีอื่นกันหน่อย"
+    },
+    {
+      "key": "inthenameoftheemperor",
+      "text_en": "In the name of the Emperor!",
+      "text": "ในนามแห่งองค์จักรพรรดิ!"
+    },
+    {
+      "key": "wellwell",
+      "text_en": "Well, well...",
+      "text": "หึ... เอาละ..."
+    },
+    {
+      "key": "thedayisyoursbutwewillmeetagain",
+      "text_en": "The day is yours...but we will meet again.",
+      "text": "ครั้งนี้เจ้าชนะไป...แต่เราจะได้พบกันอีกแน่"
+    },
+    {
+      "key": "atleastheknowswhentoquit",
+      "text_en": "At least he knows when to quit.",
+      "text": "อย่างน้อยก็ยังรู้จักล่าถอย"
+    },
+    {
+      "key": "whatdoyousupposeareinthosetanks",
+      "text_en": "What do you suppose are in those tanks?",
+      "text": "คิดว่าในถังพวกนั้นกักเก็บสิ่งใดไว้กันแน่"
+    },
+    {
+      "key": "monstrositiesdefinitelymonstrosities",
+      "text_en": "Monstrosities─definitely monstrosities.",
+      "text": "พวกอสูรกายร้าย... ต้องเป็นอสูรกายร้ายแน่นอนค่ะ"
+    },
+    {
+      "key": "intrudersdetectedreleasingbioweapons",
+      "text_en": "Intruders detected. Releasing bioweapons.",
+      "text": "ตรวจพบผู้บุกรุก เริ่มต้นปล่อยอาวุธชีวภาพ"
+    },
+    {
+      "key": "releasingadditionalbioweaponsallpersonnelpleaseproceedcalmlytothenearestexit",
+      "text_en": "Releasing additional bioweapons. All personnel, please proceed calmly to the nearest exit.",
+      "text": "เริ่มต้นปล่อยอาวุธชีวภาพเพิ่มเติม ขอความกรุณาเจ้าหน้าที่ทุกท่านโปรดเคลื่อนย้ายไปยังทางออกที่ใกล้ที่สุดด้วยความสงบ"
+    },
+    {
+      "key": "herewegoagain",
+      "text_en": "Here we go again.",
+      "text": "เอาอีกแล้วรึ"
+    },
+    {
+      "key": "watcheachothersbacks",
+      "text_en": "Watch each other's backs!",
+      "text": "ระวังหลังให้กันด้วยนะคะ!"
+    },
+    {
+      "key": "intrudersdetectedreleasingbioweapons",
+      "text_en": "Intruders detected. Releasing bioweapons.",
+      "text": "ตรวจพบผู้บุกรุก เริ่มต้นปล่อยอาวุธชีวภาพ"
+    },
+    {
+      "key": "releasingadditionalbioweaponsallpersonnelpleaseproceedcalmlytothenearestexit",
+      "text_en": "Releasing additional bioweapons. All personnel, please proceed calmly to the nearest exit.",
+      "text": "ปล่อยอาวุธชีวภาพเพิ่มเติม ขอให้เจ้าหน้าที่ทุกท่านเดินทางไปยังทางออกที่ใกล้ที่สุดด้วยความสงบ"
+    },
+    {
+      "key": "whatastrangelookingimgoingtogowiththing",
+      "text_en": "What a strange-looking...I'm going to go with “thing.”",
+      "text": "ช่างมีรูปร่างหน้าตาพิลึกกึกกือ... ดิฉันขอเรียกมันว่า 'เจ้าตัวประหลาด' ก็แล้วกันนะคะ"
+    },
+    {
+      "key": "activatingharmachiscommencingbioweaponassessment",
+      "text_en": "Activating Harmachis. Commencing bioweapon assessment.",
+      "text": "เปิดใช้งานฮาร์มาคิส เริ่มทำการประเมินอาวุธชีวภาพ"
+    },
+    {
+      "key": "engaginganticobramode",
+      "text_en": "Engaging anti-cobra mode.",
+      "text": "เปิดทำงานโหมดต่อต้านคอบรา"
+    },
+    {
+      "key": "anticobratestingcomplete",
+      "text_en": "Anti-cobra testing complete.",
+      "text": "เสร็จสิ้นการทดสอบโหมดต่อต้านคอบรา"
+    },
+    {
+      "key": "engagingantinagamode",
+      "text_en": "Engaging anti-naga mode.",
+      "text": "เปิดทำงานโหมดต่อต้านนากา"
+    },
+    {
+      "key": "antinagatestingcomplete",
+      "text_en": "Anti-naga testing complete.",
+      "text": "เสร็จสิ้นการทดสอบโหมดต่อต้านนากา"
+    },
+    {
+      "key": "engagingantimachinamode",
+      "text_en": "Engaging anti-machina mode.",
+      "text": "เปิดทำงานโหมดต่อต้านจักรกล"
+    },
+    {
+      "key": "antimachinatestingcomplete",
+      "text_en": "Anti-machina testing complete.",
+      "text": "เสร็จสิ้นการทดสอบโหมดต่อต้านจักรกล"
+    },
+    {
+      "key": "assessmentcompleteresultoutstandingsubjectapprovedformassproduction",
+      "text_en": "Assessment complete. Result: Outstanding. Subject approved for mass production.",
+      "text": "เสร็จสิ้นการประเมิน ผลลัพธ์: ดีเลิศ อนุมัติเป้าหมายสำหรับการผลิตจำนวนมาก"
+    },
+    {
+      "key": "cleverhowittransforms",
+      "text_en": "Clever how it transforms.",
+      "text": "ช่างเปลี่ยนรูปร่างได้ชาญฉลาดเหลือเกินนะคะ"
+    },
+    {
+      "key": "certainlyanefficientwaytotestcreations",
+      "text_en": "Certainly an efficient way to test creations...",
+      "text": "ช่างเป็นวิธีทดสอบสิ่งสร้างที่ได้ผลดียิ่ง..."
+    },
+    {
+      "key": "lookslikewereheadingdown",
+      "text_en": "Looks like we're heading down.",
+      "text": "ดูท่าเราต้องลงไปข้างล่างแล้ว"
+    },
+    {
+      "key": "isweareverytimeyouridealift",
+      "text_en": "I swear, every time you ride a lift...",
+      "text": "ดิฉันสาบานเลยค่ะ ขึ้นลิฟต์ทีไรเป็นต้องเจอเรื่องทุกที..."
+    },
+    {
+      "key": "iknowright",
+      "text_en": "I know, right!?",
+      "text": "ก็นั่นน่ะสิ!"
+    },
+    {
+      "key": "whatcouldthatilluminatedplacebe",
+      "text_en": "What could that illuminated place be?",
+      "text": "ดินแดนสว่างไสวเบื้องหน้าคือที่ใดกัน"
+    },
+    {
+      "key": "lookslikethisisasdeepasitgoes",
+      "text_en": "Looks like this is as deep as it goes.",
+      "text": "ดูท่าเราจะลงมาลึกสุดได้เท่านี้แล้ว"
+    },
+    {
+      "key": "thearchbishopmustbeclose",
+      "text_en": "The archbishop must be close.",
+      "text": "พระอัครสังฆราชต้องอยู่ไม่ไกลแน่"
+    },
+    {
+      "key": "thechampionofhydaelyn",
+      "text_en": "The champion of Hydaelyn.",
+      "text": "ผู้กล้าแห่งไฮเดลิน"
+    },
+    {
+      "key": "tellmewhydoyoudespisetheprimalsso",
+      "text_en": "Tell me: why do you despise the primals so?",
+      "text": "บอกข้าซิ... เหตุใดเจ้าจึงชิงชังเหล่าเทพมายาถึงเพียงนี้"
+    },
+    {
+      "key": "theyaretheembodimentofmortalwillofmortaldesire",
+      "text_en": "They are the embodiment of mortal will─of mortal desire.",
+      "text": "สิ่งเหล่านั้นคือร่างจำแลงแห่งเจตจำนงของพวกมนุษย์—คือความปรารถนาของพวกมัน"
+    },
+    {
+      "key": "plainlyyoudesireafoetodespiseandtiswellthatyoudoforitisfromthevortexofceaselessconflictthatlordzodiarkshallbereborn",
+      "text_en": "Plainly, you desire a foe to despise. And 'tis well that you do, for it is from the vortex of ceaseless conflict that Lord Zodiark shall be reborn.",
+      "text": "เห็นชัดว่าเจ้าปรารถนาศัตรูไว้เคียดแค้นชิงชัง และก็ดีแล้วที่เป็นเช่นนั้น เพราะท่านโซดิอาร์กจะถือกำเนิดใหม่จากใจกลางวังวนแห่งการต่อสู้อันไม่มีวันสิ้นสุดนี้เอง"
+    },
+    {
+      "key": "throughthejoiningtheworldshallbecomewholeagain",
+      "text_en": "Through the Joining, the world shall become whole again.",
+      "text": "เมื่อเกิดการรวมพิภพ โลกใบนี้จะกลับคืนเป็นหนึ่งเดียวอีกครั้ง"
+    },
+    {
+      "key": "thenallshallbeasonceitwasasitshouldeverhaveremained",
+      "text_en": "Then all shall be as once it was─as it should ever have remained.",
+      "text": "เมื่อนั้น ทุกสรรพสิ่งจะกลับคืนสู่ครรลองเดิม...อย่างที่ควรจะเป็นมาโดยตลอด"
+    },
+    {
+      "key": "forthegloryoflordzodiark",
+      "text_en": "For the glory of Lord Zodiark.",
+      "text": "เพื่อเกียรติยศอันรุ่งโรจน์ของท่านโซดิอาร์ก"
+    },
+    {
+      "key": "yourmeddlingendshereandnowwarrioroflight",
+      "text_en": "Your meddling ends here and now, Warrior of Light!",
+      "text": "การสอดขัดขวางของเจ้าสิ้นสุดลงแค่นี้แหละ นักรบแห่งแสง!"
+    },
+    {
+      "key": "itsoverascians",
+      "text_en": "It's over, Ascians!",
+      "text": "จบสิ้นกันที พวกแอสเซียน!"
+    },
+    {
+      "key": "wellteachyoutounderestimateus",
+      "text_en": "We'll teach you to underestimate us!",
+      "text": "จะสอนให้พวกแกรู้สำนึกที่บังอาจสบประมาทพวกเรา!"
+    },
+    {
+      "key": "comewesettlethisonceandforall",
+      "text_en": "Come! We settle this once and for all!",
+      "text": "เข้ามา! มาตัดสินกันให้รู้ดำรู้แดงเสียที!"
+    },
+    {
+      "key": "ourmightknowsnobounds",
+      "text_en": "Our might knows no bounds!",
+      "text": "พลังของเรานั้นไร้ขีดจำกัด!"
+    },
+    {
+      "key": "firesofcreationarise",
+      "text_en": "Fires of creation─arise!",
+      "text": "เปลวเพลิงแห่งการสร้างสรรค์—จงลุกโชนขึ้นมา!"
+    },
+    {
+      "key": "darknessshallconsumelight",
+      "text_en": "Darkness shall consume Light!",
+      "text": "ความมืดจะกลืนกินแสงสว่าง!"
+    },
+    {
+      "key": "mymagicksflowasone",
+      "text_en": "My magicks flow as one!",
+      "text": "เวทมนตร์ของเราหลอมรวมเป็นโฟลว์เดียว!"
+    },
+    {
+      "key": "defeatisunacceptableigeyorhm",
+      "text_en": "Defeat is unacceptable, Igeyorhm!",
+      "text": "เราจะยอมรับความพ่ายแพ้ไม่ได้เด็ดขาด อิกียอร์ม!"
+    },
+    {
+      "key": "mortalscumiwillentombyouinice",
+      "text_en": "Mortal scum! I will entomb you in ice!",
+      "text": "เจ้าพวกมนุษย์ชั้นต่ำ! เราจะฝังเจ้าไว้ใต้ธารน้ำแข็ง!"
+    },
+    {
+      "key": "knowyourplace",
+      "text_en": "Know your place!",
+      "text": "เจียมตัวของเจ้าไว้เสียบ้าง!"
+    },
+    {
+      "key": "letusseeyouwithstandtwomagicksatonce",
+      "text_en": "Let us see you withstand two magicks at once!",
+      "text": "ดูซิว่าเจ้าจะทานทนเวทมนตร์สองสายพร้อมกันได้รึไม่!"
+    },
+    {
+      "key": "chaosshallreignforevermore",
+      "text_en": "Chaos shall reign forevermore!",
+      "text": "ความโกลาหลจะครองพิภพชั่วนิรันดร์!"
+    },
+    {
+      "key": "yourlightshallburnnomore",
+      "text_en": "Your Light shall burn no more!",
+      "text": "แสงสว่างของเจ้าจะไม่ลุกโชนอีกต่อไป!"
+    },
+    {
+      "key": "suchstrengthitdefiesallreason",
+      "text_en": "Such strength! It defies all reason...",
+      "text": "ช่างแข็งแกร่งเหลือเกิน! เหนือเหตุผลทั้งปวง..."
+    },
+    {
+      "key": "noiwillnotbebestedbythelikesofthem",
+      "text_en": "No! I will not be bested by the likes of them!",
+      "text": "ไม่มีวัน! เราไม่มีวันพ่ายแพ้ให้แก่คนพรรค์พวกแก!"
+    },
+    {
+      "key": "lahabreaitistime",
+      "text_en": "Lahabrea! It is time!",
+      "text": "ลาฮาเบรอา! ถึงเวลาแล้ว!"
+    },
+    {
+      "key": "verywellletusshowthesemortalsthetruepoweroftheecho",
+      "text_en": "Very well. Let us show these mortals the true power of the Echo...",
+      "text": "ดีล่ะ... ให้เราแสดงพลังที่แท้จริงของเอคโค่ให้พวกมนุษย์เหล่านี้ประจักษ์..."
+    },
+    {
+      "key": "thepowertobreakdownthebarriersofexistence",
+      "text_en": "The power to break down the barriers of existence!",
+      "text": "พลังที่จะทลายปราการแห่งการดำรงอยู่!"
+    },
+    {
+      "key": "iambecomeyou",
+      "text_en": "I am become you...",
+      "text": "เราจักกลายเป็นตัวเจ้า..."
+    },
+    {
+      "key": "andwearebecomeone",
+      "text_en": "...And we are become one.",
+      "text": "...และเราจักกลายเป็นหนึ่งเดียว"
+    },
+    {
+      "key": "comemortalsrenderupyoursoulsthatlordzodiarkmightbereborn",
+      "text_en": "Come, mortals! Render up your souls, that Lord Zodiark might be reborn!",
+      "text": "เข้ามาสิ พวกมนุษย์! จงส่งมอบวิญญาณของพวกแกมา เพื่อให้ท่านโซดิอาร์กได้ฟื้นคืนชีพ!"
+    },
+    {
+      "key": "ahhhthepowerofdarknesssurgestranquilasiceviciousasfire",
+      "text_en": "Ahhh, the power of Darkness surges... Tranquil as ice, vicious as fire!",
+      "text": "อา... พลังแห่งความมืดพุ่งวูบวาบขึ้นมา... สงบงันดั่งน้ำแข็ง เกรี้ยวกราดดั่งเปลวไฟ!"
+    },
+    {
+      "key": "feelthemightofourmagickscombined",
+      "text_en": "Feel the might of our magicks combined!",
+      "text": "จงสัมผัสอานุภาพเวทมนตร์ที่ประสานกันของเรา!"
+    },
+    {
+      "key": "noteventhelawsofcreationcanwithstandthetidesofchaos",
+      "text_en": "Not even the laws of creation can withstand the tides of chaos!",
+      "text": "แม้แต่กฎแห่งการสรรค์สร้างก็ไม่มีวันต้านทานกระแสธารแห่งความโกลาหลได้!"
+    },
+    {
+      "key": "stubbornmortalsverywellwewillshowyouourtruestrength",
+      "text_en": "Stubborn mortals... Very well, we will show you our true strength!",
+      "text": "พวกมนุษย์ดื้อดึง... ก็ดี เราจะแสดงให้พวกเจ้าเห็นถึงพลังที่แท้จริง!"
+    },
+    {
+      "key": "knoweternaldespairfireandiceconsumeyou",
+      "text_en": "Know eternal despair! Fire and ice consume you!",
+      "text": "จงรับรู้ถึงความสิ้นหวังชั่วนิรันดร์! เปลวไฟและน้ำแข็งจะกลืนกินพวกเจ้า!"
+    },
+    {
+      "key": "evenwithouttheblessingoflighthowisthispossible",
+      "text_en": "Even without the blessing of Light... How is this possible!?",
+      "text": "ทั้งที่ไม่มีพรแห่งแสง... เป็นไปได้อย่างไรกัน!?"
+    },
+    {
+      "key": "aaargh",
+      "text_en": "Aaargh!!!",
+      "text": "อ๊ากกก!!!"
+    },
+    {
+      "key": "whatwallsarethesearrrghdamnyouhydaelyn",
+      "text_en": "What walls are these? Arrrgh! Damn you, Hydaelyn!",
+      "text": "นี่มันกำแพงอะไรกัน! อ๊ากกก! หนอย เจ้า ไฮเดลิน!"
+    },
+    {
+      "key": "thatheshemightregaintheblessingoflightihadforeseen",
+      "text_en": "That he / she might regain the blessing of Light I had foreseen...",
+      "text": "เรื่องที่เจ้าจะได้พรแห่งแสงคืนมานั้น เราคาดการณ์ไว้แล้ว..."
+    },
+    {
+      "key": "buthesheisgrownsostronginitastodenyusourpower",
+      "text_en": "But he / she is grown so strong in it as to deny us our power.",
+      "text": "แต่เจ้ากลับกล้าแกร่งขึ้นมากจนสะกดพลังของเราได้"
+    },
+    {
+      "key": "letuswithdrawlahabreathatpowerremainstousatleast",
+      "text_en": "Let us withdraw, Lahabrea. That power remains to us, at least.",
+      "text": "ถอยกันก่อนเถอะ ลาฮาเบรอา อย่างน้อยพลังนั้นก็ยังเป็นของเรา"
+    },
+    {
+      "key": "impossible",
+      "text_en": "Impossible!",
+      "text": "เป็นไปไม่ได้!"
+    },
+    {
+      "key": "aaaaaahhh",
+      "text_en": "Aaaaaahhh!",
+      "text": "กรี๊ดดดด!"
+    },
+    {
+      "key": "soyouharnessedtheeyespowerapityyouspentitallwhatwillyoudonowhero",
+      "text_en": "So you harnessed the Eye's power... A pity you spent it all. What will you do now, hero?",
+      "text": "ที่แท้ก็ดึงพลังจากดวงตามังกรมาใช้... น่าเสียดายที่ใช้ไปจนหมดสิ้น ทีนี้จะทำอย่างไรต่อไปล่ะ ท่านวีรบุรุษ"
+    },
+    {
+      "key": "sonoteventhevauntedwarrioroflightcanunmakeanascianwithoutrelyinguponmortalcontrivances",
+      "text_en": "So, not even the vaunted Warrior of Light can unmake an Ascian without relying upon mortal contrivances.",
+      "text": "ที่แท้ แม้แต่นักรบแห่งแสงผู้เลื่องชื่อก็ไม่อาจกำจัดแอสเซียนลงได้ หากไม่พึ่งพากลอุบายของมนุษย์ปุถุชน"
+    },
+    {
+      "key": "you",
+      "text_en": "You!",
+      "text": "แก!"
+    },
+    {
+      "key": "inthedistantpastkingthordanandhisknightstwelvefoughtanddefeatednidhogg",
+      "text_en": "In the distant past, King Thordan and his knights twelve fought and defeated Nidhogg.",
+      "text": "ในอดีตอันไกลโพ้น กษัตริย์ธอร์แดนและสิบสองอัศวินร่วมกันต่อสู้จนเอาชนะนิคฮ็อกได้สำเร็จ"
+    },
+    {
+      "key": "thoughthevictorycostthemdeartheywererewardedwithagreatprizethedreadwyrmseyesbothofwhichhavesincebeenheldintheholyseessafekeeping",
+      "text_en": "Though the victory cost them dear, they were rewarded with a great prize: the dread wyrm's eyes, both of which have since been held in the Holy See's safekeeping.",
+      "text": "แม้เรือวิคทอรีจะแลกมาด้วยความสูญเสียอันใหญ่หลวง แต่พวกเขาก็ได้ครอบครองรางวัลอันยิ่งใหญ่ นั่นคือดวงตามังกรทั้งสองข้าง ซึ่งสันตะสำนักเก็บรักษาไว้อย่างปลอดภัยตั้งแต่นั้นมา"
+    },
+    {
+      "key": "theeyeyoupossesswasnidhoggsleftandlonghasitservedasthesourceoftheazuredragoonsmightasforitstwin",
+      "text_en": "The Eye you possess was Nidhogg's left, and long has it served as the source of the Azure Dragoon's might. As for its twin...",
+      "text": "ดวงตามังกรที่ท่านครอบครองอยู่นั้นคือดวงตาข้างซ้ายของนิคฮ็อก และมันทำหน้าที่เป็นโลกเดิมแห่งพลังของอัศวินมังกรสีครามมาอย่างยาวนาน ส่วนดวงตาอีกข้างที่เป็นคู่แฝดของมันนั้น..."
+    },
+    {
+      "key": "ithaslainherejoinedtothepersonofhaldraththefirstazuredragoonforthoughhelearnedtoharnessitspowerhewasultimatelyconsumedbyitevenindeathhisbodydecaysnotapitifulendforafabledhero",
+      "text_en": "It has lain here, joined to the person of Haldrath, the first Azure Dragoon. For though he learned to harness its power, he was ultimately consumed by it. Even in death, his body decays not─a pitiful end for a fabled hero.",
+      "text": "มันสงบนิ่งอยู่ที่นี่ รวมเข้ากับร่างของฮัลดราธ อัศวินมังกรสีครามคนแรก เพราะแม้จะเรียนรู้วิธีดึงพลังของมันมาใช้ ทว่าสุดท้ายก็กลับโดนกลืนกินไปจนหมดสิ้น แม้ยามสิ้นชีพ ร่างกายก็ไม่เน่าเปื่อย... นับเป็นจุดจบอันน่าเวทนาของวีรบุรุษในตำนาน"
+    },
+    {
+      "key": "myascianfriendlonghaveyouandyourkindsowntheseedsofchaosbyteachingmortalsthesecretsofsummoning",
+      "text_en": "My Ascian friend. Long have you and your kind sown the seeds of chaos by teaching mortals the secrets of summoning.",
+      "text": "สหายแอสเซียนของเรา ท่านและพวกพ้องหว่านเมล็ดพันธุ์แห่งความโกลาหลมาเนิ่นนาน ด้วยการสอนความลับในการอัญเชิญให้แก่มนุษย์เดินดิน"
+    },
+    {
+      "key": "butifyouassumedthatwewouldmeeklyserveasyourpawnsthenyouaregravelymistaken",
+      "text_en": "But if you assumed that we would meekly serve as your pawns, then you are gravely mistaken.",
+      "text": "แต่หากคิดว่าเราจะยอมเป็นเบี้ยล่างในกระดานของท่านแต่โดยดีแล้วละก็ ท่านคิดผิดมหันต์ทีเดียว"
+    },
+    {
+      "key": "youwouldraiseahandagainstus",
+      "text_en": "You would raise a hand against us!?",
+      "text": "คิดจะลงมือกับพวกเราอย่างนั้นหรือ!?"
+    },
+    {
+      "key": "bytakinguntomyfleshthesoulofthelegendarykingthordaniambecomeagod",
+      "text_en": "By taking unto my flesh the soul of the legendary King Thordan, I am become a god─",
+      "text": "เมื่อรับดวงวิญญาณของกษัตริย์ธอร์แดนในตำนานเข้าสู่ร่างเนื้อ เราก็กลายเป็นพระเจ้า—"
+    },
+    {
+      "key": "agodwhoknowsnotcessationwhosebeingissustainedbyamillenniumofferventprayerandtheeyesnighbottomlessreservoirofaether",
+      "text_en": "A god who knows not cessation, whose being is sustained by a millennium of fervent prayer and the Eye's nigh-bottomless reservoir of aether.",
+      "text": "พระเจ้าผู้ไม่มีวันดับสูญ ผู้ดำรงอยู่ด้วยแรงอธิษฐานอันแรงกล้าตลอดพันปีและคลังเอเธอร์อันเกือบไร้ก้นบึ้งของดวงตามังกร"
+    },
+    {
+      "key": "what",
+      "text_en": "What!?",
+      "text": "อะไรกัน!?"
+    },
+    {
+      "key": "yourcontemptformanhasprovenyourundoingascianformyfirstactasgodkingidoherebysentenceyoutodie",
+      "text_en": "Your contempt for man has proven your undoing, Ascian. For my first act as god-king, I do hereby sentence you to die.",
+      "text": "ความสามหาวที่ดูแคลนมนุษย์ย้อนกลับมาทำลายตัวเจ้าเอง แอสเซียน ในฐานะราชาเทพ สิ่งแรกที่เราจะทำคือตัดสินโทษประหารชีวิตเจ้า"
+    },
+    {
+      "key": "aaaaaargggh",
+      "text_en": "Aaaaaargggh!",
+      "text": "อ๊ากกกก!"
+    },
+    {
+      "key": "godsfeeduponaetheritmattersnotwhatformthataethertakesasciansoulsarenoexceptionwiththispowerishallputanendtoathousandyearsofconflict",
+      "text_en": "Gods feed upon aether. It matters not what form that aether takes. Ascian souls are no exception. With this power, I shall put an end to a thousand years of conflict.",
+      "text": "พระเจ้าดำรงอยู่ได้ด้วยการกลืนกินเอเธอร์ ไม่สำคัญหรอกว่าเอเธอร์นั้นจะอยู่ในรูปแบบใด ดวงวิญญาณของแอสเซียนก็ไม่ใช่ข้อยกเว้น ด้วยพลังนี้ เราจะยุติความขัดแย้งนับพันปีลงเสียที"
+    },
+    {
+      "key": "betheysownbyasciandragonorprimalwheresoevertheseedsofchaosthreatentoquickenishallexcisethemwithmydivinebladeandbringordertotheworld",
+      "text_en": "Be they sown by Ascian, dragon, or primal, wheresoever the seeds of chaos threaten to quicken, I shall excise them with my divine blade and bring order to the world.",
+      "text": "ไม่ว่าแอสเซียน มังกร หรือไพรมอล (เทพจุติ) จะเป็นผู้หว่านเมล็ดพันธุ์แห่งความโกลาหลไว้ที่ใด หากพวกมันส่อแววจะงอกงามขึ้นมา เราจะใช้ดาบศักดิ์สิทธิ์ฟันทำลายมันทิ้งเสีย และนำภาคีมาสู่โลก"
+    },
+    {
+      "key": "iambecomethatwhichyouabhorwarrioroflightifyouwouldtakeissuewithmygodhoodishallansweryouwithmyblade",
+      "text_en": "I am become that which you abhor, Warrior of Light. If you would take issue with my godhood, I shall answer you with my blade.",
+      "text": "เรากลายเป็นสิ่งที่เจ้าเกลียดชังแล้ว นักรบแห่งแสง หากคิดจะต่อต้านความเป็นเทพของเรา เราก็พร้อมจะตอบรับด้วยคมดาบ"
+    },
+    {
+      "key": "brothersthetimeiscometocalluponthetruepoweroftheheavensward",
+      "text_en": "Brothers! The time is come to call upon the true power of the Heavens' Ward!",
+      "text": "พี่น้องทั้งหลาย! ถึงเวลาเรียกใช้พลังที่แท้จริงของกองอัศวินเฮฟเวนส์วาร์ดแล้ว!"
+    },
+    {
+      "key": "fightmeifyouwillwarrioroflight",
+      "text_en": "Fight me if you will, Warrior of Light.",
+      "text": "จงเข้ามาสู้กับเราสิ นักรบแห่งแสง"
+    },
+    {
+      "key": "icarenotallwhostandagainstmewillbedestroyedbetheyservantsofthedarknessorthelight",
+      "text_en": "I care not. All who stand against me will be destroyed─be they servants of the Darkness or the Light.",
+      "text": "เราหาได้ใส่ใจไม่ ผู้ใดที่ยืนหยัดต่อต้านเราจักต้องพินาศสิ้น—ไม่ว่าจะเป็นผู้รับใช้แห่งความมืดหรือแสงสว่างก็ตาม"
+    },
+    {
+      "key": "bymyblessingshallallmenbesanctifiedandanendlesseraofpeacebeginviceandconflictshallceasetobe",
+      "text_en": "By my blessing shall all men be sanctified, and an endless era of peace begin. Vice and conflict shall cease to be.",
+      "text": "ด้วยพรของเรา มนุษย์ทั้งปวงจักบริสุทธิ์สะอาด ยุคสมัยแห่งสันติภาพอันไร้กาลสิ้นสุดจักเริ่มต้นขึ้น ความชั่วช้าและการปะทะขัดแย้งจักสูญสิ้นไป"
+    },
+    {
+      "key": "yourejectmydivinityyetwhathaveyoutooffermypeopleinitssteadbittertruthvirtuoussuffering",
+      "text_en": "You reject my divinity, yet what have you to offer my people in its stead? Bitter truth? Virtuous suffering?",
+      "text": "เจ้าปฏิเสธความเป็นเทพของเรา แต่กลับไม่มีสิ่งใดมอบให้ประชาชนของเราแทนเลย นอกจากความจริงอันขมขื่นหรือความทุกข์ทรมานอันแสนประเสริฐอย่างนั้นหรือ"
+    },
+    {
+      "key": "nomatterifyoubelieveyourcausejusticalluponyoutodefenditwithyourlife",
+      "text_en": "No matter. If you believe your cause just, I call upon you to defend it with your life!",
+      "text": "ช่างเถอะ หากเจ้าเชื่อว่าสิ่งที่ตนทำนั้นยุติธรรมดีแล้ว เราขอท้าให้เจ้าปกป้องมันด้วยชีวิต!"
+    },
+    {
+      "key": "yourfeeblelightshallfadebeforemybrilliance",
+      "text_en": "Your feeble light shall fade before my brilliance!",
+      "text": "แสงอันริบหรี่ของเจ้าจักต้องมอดดับลงต่อหน้าความรุ่งโรจน์ของเรา!"
+    },
+    {
+      "key": "mybladeshallrendyou",
+      "text_en": "My blade shall rend you!",
+      "text": "คมดาบของเราจักฉีกกระชากร่างเจ้า!"
+    },
+    {
+      "key": "oascalondrinkdeepofthepowerofslumberinggods",
+      "text_en": "O Ascalon! Drink deep of the power of slumbering gods!",
+      "text": "ดาบอัสคาลอนเอ๋ย! จงดื่มกินพลังของทวยเทพผู้หลับใหลให้เต็มประดา!"
+    },
+    {
+      "key": "ishallendyourvainstruggle",
+      "text_en": "I shall end your vain struggle!",
+      "text": "เราจักยุติการดิ้นรนอันสูญเปล่าของเจ้าเสีย!"
+    },
+    {
+      "key": "tomemyknights",
+      "text_en": "To me, my knights!",
+      "text": "เหล่าอัศวินของเรา จงมาหาเรา!"
+    },
+    {
+      "key": "ishallburyyouandyourbeliefs",
+      "text_en": "I shall bury you and your beliefs!",
+      "text": "เราจักฝังกลบเจ้าไปพร้อมกับความเชื่อของเจ้า!"
+    },
+    {
+      "key": "yyousurvivedmydivinereckoningimpossible",
+      "text_en": "Y-You survived my divine reckoning!? Impossible!",
+      "text": "เจ้ารอดจากทัณฑ์พิพากษาแห่งเทพของเรามาได้งั้นหรือ!? เป็นไปไม่ได้!"
+    },
+    {
+      "key": "thisisthepoweroflight",
+      "text_en": "This is the power of Light?",
+      "text": "นี่หรือคือพลังแห่งแสงสว่าง?"
+    },
+    {
+      "key": "impossible",
+      "text_en": "Impossible!",
+      "text": "เป็นไปไม่ได้!"
+    },
+    {
+      "key": "howhowcanthisbeamillenniumofprayerandtheeyespowercombinedandstillyoustand",
+      "text_en": "How...how can this be? A millennium of prayer and the Eye's power combined—and still you stand?",
+      "text": "เป็น...เป็นไปได้อย่างไรกัน การอธิษฐานนับพันปีผสานกับพลังของดวงตามังกร...แต่เจ้าก็ยังยืนหยัดอยู่ได้อย่างนั้นหรือ"
+    },
+    {
+      "key": "whowhatareyou",
+      "text_en": "Who— what are you?",
+      "text": "เจ้าคือใคร...เป็นตัวอะไรกันแน่"
+    },
+    {
+      "key": "itisoverthenihadhopedthatminewouldbethehandtoenditbutknowingyoutherewaslittlechanceofthat",
+      "text_en": "...It is over, then? I had hoped that mine would be the hand to end it...but knowing you, there was little chance of that.",
+      "text": "...จบสิ้นแล้วงั้นหรือ ข้าเคยหวังว่าจะได้ปลิดชีพด้วยมือตัวเอง...แต่เมื่อคิดว่าเป็นเจ้าแล้ว ก็คงไม่มีโอกาสนั้นหรอก"
+    },
+    {
+      "key": "twouldseemtheeyehasservedyouwell",
+      "text_en": "'Twould seem the Eye has served you well.",
+      "text": "ดูท่าดวงตามังกรจะช่วยเจ้าไว้ได้มากทีเดียว"
+    },
+    {
+      "key": "itstwinatlonglast",
+      "text_en": "Its twin... At long last...",
+      "text": "ดวงตามังกรอีกข้าง... ในที่สุด..."
+    },
+    {
+      "key": "allthatremainsistotakethembeyondthereachofmananddragonbothwiththistaskaccomplishedmytoilsshallfinallybeatanend",
+      "text_en": "All that remains is to take them beyond the reach of man and dragon both. With this task accomplished, my toils shall finally be at an end.",
+      "text": "ที่เหลือก็แค่ต้องนำไปให้พ้นน้ำมือของทั้งมนุษย์และมังกร เมื่อเสร็จสิ้นงานนี้ ความเหนื่อยยากของข้าก็จะได้จบลงเสียที"
+    },
+    {
+      "key": "thouhadstdonewelltoresistmineinfluencebathedinmypowerandbloodasthouwert",
+      "text_en": "Thou hadst done well to resist mine influence, bathed in my power and blood as thou wert.",
+      "text": "เจ้าต้านทานการครอบงำของข้าได้ดีทีเดียว ทั้งที่ร่างกายอาบชโลมไปด้วยพลังและโลหิตของข้าถึงเพียงนั้น"
+    },
+    {
+      "key": "alasinthineanticipationofcomfortthouhastloweredthyguard",
+      "text_en": "Alas, in thine anticipation of comfort, thou hast lowered thy guard!",
+      "text": "อนิจจา มัวแต่ชะล่าใจหวังเสพสุข เจ้าถึงได้เผลอเปิดช่องโหว่เช่นนี้!"
+    },
+    {
+      "key": "thekeeningofmyfallenkindredtheirsmolderingdesireforvengeance",
+      "text_en": "The keening of my fallen kindred... Their smoldering desire for vengeance...",
+      "text": "เสียงกรีดร้องคร่ำครวญของพวกพ้องข้าผู้ล่วงลับ... แรงอาฆาตแค้นอันคุกรุ่นไม่มีวันดับ..."
+    },
+    {
+      "key": "mineeyeshavepartakenofathousandyearsofpainapainwhichishallbestowuponthee",
+      "text_en": "Mine eyes have partaken of a thousand years of pain─a pain which I shall bestow upon thee.",
+      "text": "ดวงตาของข้าแบกรับความเจ็บปวดทรมานมาตลอดพันปี—ความทรมานที่ข้าจะยัดเยียดให้เจ้าในบัดนี้"
+    },
+    {
+      "key": "drinkdeepofmyragemortalandbecomeme",
+      "text_en": "Drink deep of my rage, mortal...AND BECOME ME!",
+      "text": "จงกลืนกินความพิโรธของข้าเข้าไปให้หมด เจ้ามนุษย์...แล้วจงกลายเป็นตัวข้าซะ!"
+    },
+    {
+      "key": "grrraaarrrgh",
+      "text_en": "Grrraaarrrgh!!!",
+      "text": "อ๊ากกกก!!!"
+    },
+    {
+      "key": "nidhoggmychildwhathaththyfurymadeofthee",
+      "text_en": "Nidhogg, my child... What hath thy fury made of thee...?",
+      "text": "นิคฮ็อก ลูกของข้า... เดอะ ฟิวรี่ของเจ้าทำให้เจ้ากลายเป็นตัวอะไรไปแล้ว...?"
+    },
+    {
+      "key": "letusawayservantofhydaelyn",
+      "text_en": "Let us away, servant of Hydaelyn.",
+      "text": "ไปจากที่นี่กันเถอะ ผู้รับใช้แห่งไฮเดลิน"
+    },
+    {
+      "key": "chiefoverthere",
+      "text_en": "Chief! Over there!",
+      "text": "หัวหน้า! ทางนั้นครับ!"
+    },
+    {
+      "key": "oi",
+      "text_en": "Oi!",
+      "text": "เฮ้!"
+    },
+    {
+      "key": "hahagodsdammitdoyoualwayshavetocutitsobloodyclose",
+      "text_en": "Haha! Godsdammit, do you always have to cut it so bloody close!?",
+      "text": "ฮ่าๆ! พับผ่าสิ ต้องหวุดหวิดฉิวเฉียดทุกครั้งเลยหรือไงกัน!"
+    },
+    {
+      "key": "itwouldseemheshehasdoneitagain",
+      "text_en": "It would seem he / she has done it again.",
+      "text": "ดูเหมือนว่าจะทำสำเร็จอีกครั้งแล้วสินะ"
+    },
+    {
+      "key": "wasthereeveranydoubt",
+      "text_en": "Was there ever any doubt?",
+      "text": "เคยต้องกังขาด้วยอย่างนั้นหรือ"
+    },
+    {
+      "key": "letusreturntoishgardourfriendswillbeeagertolearnthebattlesoutcomeandwelcomebacktheirchampion",
+      "text_en": "Let us return to Ishgard. Our friends will be eager to learn the battle's outcome...and welcome back their champion.",
+      "text": "พวกเรามารีเทิร์นสู่อิชการ์ดกันเถอะ เพื่อนๆ คงอยากรู้ผลการรบใจจะขาด...และรอต้อนรับผู้พิชิตของพวกเขากลับมา"
+    },
+    {
+      "key": "whereisestinien",
+      "text_en": "Where is Estinien?",
+      "text": "แล้วเอสทิเนียนล่ะอยู่ที่ใดกัน"
+    },
+    {
+      "key": "idaresayyouarethefirstsoulinishgardianhistorytoarriveinourcityupondragonbackthissceneshallberememberedforathousandyearstocome",
+      "text_en": "I daresay you are the first soul in Ishgardian history to arrive in our city upon dragonback. This scene shall be remembered for a thousand years to come.",
+      "text": "ข้ากล้าพูดเลยว่าท่านเป็นคนแรกในประวัติศาสตร์ของชาวอิชการ์ดที่เดินทางมาถึงเมืองของเราด้วยการขี่หลังมังกร ผู้คนจะจดจำภาพนี้ไปอีกนับพันปีข้างหน้า"
+    },
+    {
+      "key": "aswehadfearedthearchbishopsummonedthesoulofkingthordanuntohimselfandthencebecameaprimal",
+      "text_en": "As we had feared, the archbishop summoned the soul of King Thordan unto himself and thence became a primal.",
+      "text": "เป็นจริงอย่างที่เรากลัว อาร์ชบิชอปอัญเชิญดวงวิญญาณของกษัตริย์ธอร์แดนเข้าสู่ร่างตนเองจนกลายร่างเป็นไพรมอล (เทพจุติ) ไปแล้ว"
+    },
+    {
+      "key": "butheandhisknightsarenomorethankstothewarrioroflight",
+      "text_en": "But he and his knights are no more, thanks to the Warrior of Light.",
+      "text": "ทว่าทั้งอาร์ชบิชอปและเหล่าอัศวินต่างก็ดับสูญไปแล้ว ต้องขอบคุณนักรบแห่งแสง"
+    },
+    {
+      "key": "yourstrugglesarenotyetovermortals",
+      "text_en": "Your struggles are not yet over, mortals.",
+      "text": "การดิ้นรนของพวกเจ้ายังไม่สิ้นสุดลงหรอก เจ้าพวกมนุษย์"
+    },
+    {
+      "key": "whomdoihavethepleasure",
+      "text_en": "Whom do I have the pleasure...?",
+      "text": "ข้าได้รับเกียรติเจรจากับผู้ใดกัน..."
+    },
+    {
+      "key": "iammidgardsormrihavejourneyedwithhydaelynschampionandobservedherdeedsintheconflictbetweenmananddragon",
+      "text_en": "I am Midgardsormr. I have journeyed with Hydaelyn's champion and observed her deeds in the conflict between man and dragon.",
+      "text": "เราคือมิดการ์ดโซม เราเดินทางร่วมกับผู้พิชิตของไฮเดลินและเฝ้ามองทุกการกระทำในศึกขัดแย้งระหว่างมนุษย์กับมังกร"
+    },
+    {
+      "key": "tellmechildrenofthordandoyoudesirepeace",
+      "text_en": "Tell me, children of Thordan. Do you desire peace?",
+      "text": "บอกเราซิ ลูกหลานแห่งธอร์แดน พวกเจ้าปรารถนาความสงบสุขจริงหรือ"
+    },
+    {
+      "key": "mypeoplehavecommittedunspeakableatrocitiesagainstdragonkindevenagainstourownwouldthatwecouldundothesewrongsbutwecannot",
+      "text_en": "My people have committed unspeakable atrocities against dragonkind─even against our own. Would that we could undo these wrongs...but we cannot.",
+      "text": "ผู้คนของข้าก่อความชั่วช้าเลวทรามสุดพรรณนากับเผ่าพันธุ์มังกร—กระทั่งพวกเดียวกันเอง หากย้อนกลับไปแก้ไขความผิดพลาดเหล่านี้ได้ก็คงดี... ทว่าทำไม่ได้อีกแล้ว"
+    },
+    {
+      "key": "bethatasitmaythefutureyetpresentsachancetobeginanewournationhasbrokenfreeoftheshacklesofafalsefaithandnidhoggshallleadhiskindredagainstusnomore",
+      "text_en": "Be that as it may, the future yet presents a chance to begin anew. Our nation has broken free of the shackles of a false faith, and Nidhogg shall lead his kindred against us no more.",
+      "text": "ถึงอย่างนั้น อนาคตยังเปิดโอกาสให้เริ่มต้นใหม่ อาณาจักรของข้าหลุดพ้นจากโซ่ตรวนแห่งศรัทธาลวงตาแล้ว และนิคฮ็อกจะไม่มีวันนำพรรคพวกมาโจมตีพวกเราได้อีก"
+    },
+    {
+      "key": "idoubtnotthatitwillrequiremucheffortandperseverancebuttismybeliefthatintimeishgardwillagainbecomeaplacewheremananddragonmayabidetogetherinharmony",
+      "text_en": "I doubt not that it will require much effort and perseverance, but 'tis my belief that, in time, Ishgard will again become a place where man and dragon may abide together in harmony.",
+      "text": "ข้าตระหนักดีว่าต้องใช้ความพยายามและความอดทนอย่างที่สุด ทว่าข้าเชื่อว่า เมื่อถึงเวลา อิชการ์ดจะกลับมาเป็นดินแดนที่มนุษย์และมังกรอาศัยร่วมกันอย่างสันติสุขได้อีกครั้ง"
+    },
+    {
+      "key": "ishallrememberthywords",
+      "text_en": "I shall remember thy words.",
+      "text": "เราจะจดจำคำของเจ้าไว้"
+    },
+    {
+      "key": "yetbewarnednidhoggssoullivethon",
+      "text_en": "Yet be warned: Nidhogg's soul liveth on.",
+      "text": "ทว่าจงระวังไว้ วิญญาณของนิคฮ็อกยังไม่ดับสูญ"
+    },
+    {
+      "key": "hisunbridledragehathclaimedforitsvesseltheonethoucallesttheazuredragoon",
+      "text_en": "His unbridled rage hath claimed for its vessel the one thou callest the Azure Dragoon.",
+      "text": "ความเกรี้ยวกราดอันบ้าคลั่งของมัน ยึดร่างของผู้ที่เจ้าเรียกว่าอัศวินมังกรสีครามไปเป็นภาชนะเสียแล้ว"
+    },
+    {
+      "key": "estinien",
+      "text_en": "Estinien!",
+      "text": "เอสทิเนียน!"
+    },
+    {
+      "key": "doubtnotbutthatnidhoggwillcallouttohisbrooderelongnorthattheyshallanswerhim",
+      "text_en": "Doubt not but that Nidhogg will call out to his brood ere long, nor that they shall answer him.",
+      "text": "อย่าได้สงสัยเลย อีกไม่ช้านิคฮ็อกจะกู่เรียกฝูงของมัน และจะขานรับเสียงเรียกนั้นอย่างแน่นอน"
+    },
+    {
+      "key": "steelyourselvesforthetruetestisyettocome",
+      "text_en": "Steel yourselves, for the true test is yet to come.",
+      "text": "จงเตรียมใจไว้ให้ดี เพราะบททดสอบที่แท้จริงกำลังจะมาเยือน"
+    },
+    {
+      "key": "comewhatmaywewillneverceasetobelieve",
+      "text_en": "Come what may, we will never cease to believe.",
+      "text": "ไม่ว่าจะเกิดอะไรขึ้นก็ตาม เราจะไม่มีวันสูญสิ้นความศรัทธา"
+    },
+    {
+      "key": "uponthesoulsoftheywhohavesacrificedthemselvestopavethewayforpeacewewillneverabandonourcause",
+      "text_en": "Upon the souls of they who have sacrificed themselves to pave the way for peace, we will never abandon our cause.",
+      "text": "ต่อดวงวิญญาณของเหล่าผู้ยอมพลีกายเพื่อปูทางสู่สันติภาพ เราจะไม่มีวันละทิ้งปณิธานเป็นอันขาด"
+    },
+    {
+      "key": "athousandyearwarcannotbeendedinadayitmaytakegenerationswhatthoudostbeginthychildrenmustcontinue",
+      "text_en": "A thousand-year war cannot be ended in a day. It may take generations. What thou dost begin, thy children must continue.",
+      "text": "สงครามอันยาวนานนับพันปีไม่อาจยุติลงได้ในวันเดียว อาจต้องผ่านพ้นไปอีกหลายชั่วรุ่น สิ่งที่เจ้าเริ่มต้นไว้ ลูกหลานของเจ้าต้องสืบทอดต่อไป"
+    },
+    {
+      "key": "entrustuntothemthyhopesanddreamsthatpeacemayreignagainandforevermore",
+      "text_en": "Entrust unto them thy hopes and dreams, that peace may reign again...and forevermore.",
+      "text": "จงฝากฝังความหวังและความปรารถนาของเจ้าไว้กับพวกเขา เพื่อให้สันติภาพหวนคืนมาครอบครองแผ่นดิน...ตราบนานเท่านาน"
+    },
+    {
+      "key": "letallherepresentattestthatseraymericactingonbehalfofthearchbishophasappendedhissignature",
+      "text_en": "Let all here present attest that Ser Aymeric, acting on behalf of the archbishop, has appended his signature.",
+      "text": "ขอให้ทุกคน ณ ที่นี้ร่วมเป็นสักขีพยานว่า เซอร์ไอเมอริก ในฐานะผู้แทนของพระอัครสังฆราช ได้ลงนามเป็นที่เรียบร้อยแล้ว"
+    },
+    {
+      "key": "idoherebydeclare",
+      "text_en": "I do hereby declare...",
+      "text": "เราขอประกาศ ณ ที่นี้ว่า..."
+    },
+    {
+      "key": "thatfromthisdayforththeholyseeofishgardshalloncemorebecountedamemberoftheeorzeanalliance",
+      "text_en": "That from this day forth, the Holy See of Ishgard shall once more be counted a member of the Eorzean Alliance.",
+      "text": "ตั้งแต่วันนี้เป็นต้นไป นครรัฐศักดิ์สิทธิ์แห่งอิชการ์ดจะกลับคืนมาเป็นสมาชิกของพันธมิตรเอออร์เซียนอีกครั้งหนึ่ง"
+    },
+    {
+      "key": "letournationsmoveforwardasoneandstandunitedagainstthegarleanempire",
+      "text_en": "Let our nations move forward as one, and stand united against the Garlean Empire!",
+      "text": "ขอให้แผ่นดินของเราก้าวไปข้างหน้าเป็นหนึ่งเดียว และยืนหยัดร่วมกันเพื่อต่อต้านจักรวรรดิการ์เลียน!"
+    },
+    {
+      "key": "forthefutureofeorzea",
+      "text_en": "For the future of Eorzea!",
+      "text": "เพื่ออนาคตของเอโอลเซีย!"
+    },
+    {
+      "key": "forthefutureofeorzea",
+      "text_en": "For the future of Eorzea!",
+      "text": "เพื่ออนาคตของเอโอลเซีย!"
+    },
+    {
+      "key": "thereyouare",
+      "text_en": "There you are.",
+      "text": "อยู่นี่เองหรือครับ"
+    },
+    {
+      "key": "anoblemonumenttoanoblesoul",
+      "text_en": "A noble monument to a noble soul.",
+      "text": "อนุสรณ์สถานอันสมเกียรติ แด่วิญญาณอันสูงส่ง"
+    },
+    {
+      "key": "fromherelordhaurchefantcanwatchoverallofishgard",
+      "text_en": "From here, Lord Haurchefant can watch over all of Ishgard...",
+      "text": "จากตรงนี้ ท่านลอร์ดออร์ชฟองต์จะเฝ้ามองอิชการ์ดทั้งหมดได้นะคะ..."
+    },
+    {
+      "key": "ithasbeenalongandarduousjourneyandwehavelostmuchandmorealongtheway",
+      "text_en": "It has been a long and arduous journey. And we have lost much and more along the way.",
+      "text": "หนทางช่างยาวนานและยากลำบากเหลือเกิน... พวกเราสูญเสียสิ่งต่างๆ ไปมากมายเหลือเกินระหว่างทาง"
+    },
+    {
+      "key": "yetcomewhatmaywemuststaytruetoourpurposeandpresson",
+      "text_en": "Yet come what may, we must stay true to our purpose and press on.",
+      "text": "แต่ไม่ว่าจะเกิดอะไรขึ้นก็ตาม เราต้องยึดมั่นในปณิธานและก้าวต่อไป"
+    },
+    {
+      "key": "thatsrightyoutwoitshightimewegotbacktorebuildingthescions",
+      "text_en": "That's right, you two! It's high time we got back to rebuilding the Scions!",
+      "text": "จริงด้วยค่ะทั้งสองคน! ถึงเวลาที่พวกเราต้องกลับมาฟื้นฟูกลุ่มไซออนส์กันเสียที!"
+    },
+    {
+      "key": "whichmeansweregoingtoneedmoneyandlotsofit",
+      "text_en": "Which means we're going to need money─and lots of it!",
+      "text": "และนั่นแปลว่าเราต้องใช้เงิน... เงินจำนวนมหาศาลเลยละค่ะ!"
+    },
+    {
+      "key": "soendsagloriouschapterintheirtale",
+      "text_en": "So ends a glorious chapter in their tale.",
+      "text": "เรื่องราวบทอันรุ่งโรจน์ของพวกเขาจบลงเพียงเท่านี้"
+    },
+    {
+      "key": "howevertumultuousdaysyetlieaheadforishgard",
+      "text_en": "However, tumultuous days yet lie ahead for Ishgard.",
+      "text": "ทว่าวันเวลาอันแสนแปรปรวนยังคงรอคอยอิชการ์ดอยู่เบื้องหน้า"
+    },
+    {
+      "key": "afterathousandyearsundertheyokeofthechurchthepeopletaketheirfirsttentativestepsintotheunknown",
+      "text_en": "After a thousand years under the yoke of the church, the people take their first tentative steps into the unknown.",
+      "text": "หลังตกอยู่ใต้แอกแห่งคริสตจักรยาวนานนับพันปี บัดนี้ประชาชนต่างเริ่มย่างเท้าก้าวแรกอย่างกล้าๆ กลัวๆ สู่อนาคตที่ยากจะคาดเดา"
+    },
+    {
+      "key": "andthoughtheyspyaglimmerofpeaceuponthehorizonnidhoggsvengefulshadowyetremainstodarkentheway",
+      "text_en": "And though they spy a glimmer of peace upon the horizon, Nidhogg's vengeful shadow yet remains to darken the way.",
+      "text": "และแม้จะมองเห็นแสงแห่งสันติภาพฉายประกายรำไรอยู่ ณ ฮอไรซัน แต่เงามืดแห่งความเคียดแค้นของนิคฮ็อกยังคงทอดทับบดบังหนทางข้างหน้า"
+    },
+    {
+      "key": "bethatasitmay",
+      "text_en": "Be that as it may...",
+      "text": "ถึงกระนั้นก็ดี..."
+    },
+    {
+      "key": "solongastheyoungcommanderofthetempleknightsandhisheroiccompanionsaretheretoguidethemthepeoplemayholdfasttohope",
+      "text_en": "So long as the young commander of the Temple Knights and his heroic companions are there to guide them, the people may hold fast to hope─",
+      "text": "ขอเพียงผู้บัญชาการหนุ่มแห่งอัศวินวิหารศักดิ์สิทธิ์และสหายผู้กล้ายังคอยนำทาง ประชาชนก็ยังคงยึดมั่นในความหวังไว้ได้อย่างเหนียวแน่น─"
+    },
+    {
+      "key": "thehopethatonedaytruepeacewillreturntoishgardandthatmananddragonmayliveinharmonyoncemore",
+      "text_en": "the hope that, one day, true peace will return to Ishgard, and that man and dragon may live in harmony once more.",
+      "text": "ความหวังที่ว่า วันหนึ่ง สันติภาพอันแท้จริงจะรีเทิร์นสู่อิชการ์ด และมนุษย์กับมังกรจะได้อยู่ร่วมกันอย่างปรองดองอีกครั้ง"
+    },
+    {
+      "key": "letthedeedswrithereinneverbeforgot",
+      "text_en": "Let the deeds writ herein never be forgot,",
+      "text": "ขออย่าให้วีรกรรมที่จารึกไว้ ณ ที่นี้ เลือนหายไป"
+    },
+    {
+      "key": "thattheymayinspiregenerationsyetunborntostriveeverheavensward",
+      "text_en": "that they may inspire generations yet unborn to strive ever heavensward.",
+      "text": "เพื่อเป็นแรงบันดาลใจให้คนรุ่นหลังที่ยังไม่ถือกำเนิด ได้มุ่งมั่นบากบั่นสู่เฮเวนส์เวิร์ดสืบไป"
+    },
+    {
+      "key": "solahabreaandigeyorhmhavefallen",
+      "text_en": "So Lahabrea and Igeyorhm have fallen.",
+      "text": "ลาฮาเบรอาและอิเกยอร์มพ่ายแพ้แล้วรึ"
+    },
+    {
+      "key": "bestedbymortalsintheirattempttoinitiatetheeighthrejoiningthattheyshouldbesocomplacent",
+      "text_en": "Bested by mortals in their attempt to initiate the eighth Rejoining. That they should be so complacent...",
+      "text": "พ่ายแพ้ต่อพวกมนุษย์ขณะพยายามเริ่มการหลอมรวมพิภพครั้งที่แปด ช่างประมาทเลินเล่อเหลือเกิน..."
+    },
+    {
+      "key": "andnowitfallstometodealwiththeconsequences",
+      "text_en": "And now it falls to me to deal with the consequences...",
+      "text": "และตอนนี้ หน้าที่สะสางผลที่ตามมาก็ตกเป็นของเรา..."
+    },
+    {
+      "key": "withoutinterventionthebalancebetweenlightanddarknesswillbegintoshiftplacingourmissioninjeopardy",
+      "text_en": "Without intervention, the balance between Light and Darkness will begin to shift, placing our mission in jeopardy.",
+      "text": "หากไม่สอดมือเข้าแทรกแซง สมดุลระหว่างแสงสว่างและความมืดจะเริ่มเอนเอียง และทำให้ภารกิจของเราต้องตกอยู่ในอันตราย"
+    },
+    {
+      "key": "hydaelynschampionhasgrowntoostronghishermightencroachesupontherealmofgods",
+      "text_en": "Hydaelyn's champion has grown too strong. His / Her might encroaches upon the realm of gods.",
+      "text": "ผู้พิทักษ์แห่งไฮเดลินแข็งแกร่งเกินไปเสียแล้ว พลังอันแก่กล้าก้าวล่วงเข้าสู่แดนทวยเทพ"
+    },
+    {
+      "key": "equilibriummustneedsberestoredthetimeiscomeforyouandyourstojointhefray",
+      "text_en": "Equilibrium must needs be restored. The time is come for you and yours to join the fray...",
+      "text": "จำต้องฟื้นคืนดุลยภาพกลับมา ถึงเวลาแล้วที่เจ้าและพวกพ้องจะก้าวเข้าสู่สนามรบ..."
+    },
+    {
+      "key": "warriorofdarkness",
+      "text_en": "...Warrior of Darkness.",
+      "text": "...นักรบแห่งความมืด"
+    },
+    {
+      "key": "remindmewhyistherenorestfortherighteous",
+      "text_en": "Remind me: why is there no rest for the righteous?",
+      "text": "ช่วยบอกผมทีเถอะ... ทำไมคนดีถึงไม่ได้หยุดพักผ่อนกับเขาเสียที"
+    },
+    {
+      "key": "becausetheycaremastergarlond",
+      "text_en": "Because they care , Master Garlond.",
+      "text": "ก็เพราะยังคงห่วงใยอย่างไรล่ะ คุณการ์ลอนด์"
+    },
+    {
+      "key": "ofallthethingstheycouldhavepickedtoplaywiththatsnotatoyyoubloodyfoolsitsaprimal",
+      "text_en": "Of all the things they could have picked to play with... That's not a toy, you bloody fools─it's a primal!",
+      "text": "สรรหาอะไรมาเล่นไม่เล่น... นั่นไม่ใช่ของเล่นนะ เจ้าพวกโง่เง่า—มันคือไพรมอล (เทพจุติ)!"
+    },
+    {
+      "key": "spiresofdeceptioncrumbletodust",
+      "text_en": "SPIRES OF DECEPTION CRUMBLE TO DUST,",
+      "text": "หอคอยแห่งความลวงทลายสิ้นเป็นผุยผง"
+    },
+    {
+      "key": "tolaybaretruthslongconcealed",
+      "text_en": "TO LAY BARE TRUTHS LONG CONCEALED",
+      "text": "เผยความจริงที่ซุกซ่อนมาแสนนาน"
+    },
+    {
+      "key": "beyondsimmeringshadow",
+      "text_en": "BEYOND SIMMERING SHADOW",
+      "text": "พ้นจากเงามืดอันคุกรุ่น"
+    },
+    {
+      "key": "liethshimmeringlight",
+      "text_en": "LIETH SHIMMERING LIGHT",
+      "text": "คือแสงระยิบระยับส่องประกาย"
+    },
+    {
+      "key": "iftheeorzeanalliancecanberestoredtoitsformerglorysocanthescionsoftheseventhdawnletsfindourlostfriendsandbeginanew",
+      "text_en": "If the Eorzean Alliance can be restored to its former glory, so can the Scions of the Seventh Dawn! Let's find our lost friends and begin anew!",
+      "text": "หากพวกเราสามารถฟื้นฟูพันธมิตรเอออร์เซียนให้กลับมารุ่งโรจน์ดังเก่าก่อนได้ ทายาทแห่งรุ่งอรุณที่เจ็ดก็ย่อมทำได้เช่นกันค่ะ! มาช่วยกันตามหาเพื่อนๆ ที่หายไป แล้วเริ่มต้นกันใหม่อีกครั้งเถอะนะคะ!"
+    },
+    {
+      "key": "whenfirstibadeyouwelcomebeforethearcoftheworthylittledidiimaginethatyouwouldgoontosteertheverycourseofournationiamproudtohavebornewitnesstohistoryinthemaking",
+      "text_en": "When first I bade you welcome before the Arc of the Worthy, little did I imagine that you would go on to steer the very course of our nation. I am proud to have borne witness to history in the making.",
+      "text": "เมื่อแรกที่กระหม่อมได้ต้อนรับท่านที่หน้าซุ้มประตูแห่งผู้คู่ควร กระหม่อมไม่เคยนึกฝันเลยว่าท่านจะเป็นผู้กุมบังเหียนกำหนดชะตากรรมของประเทศเรา กระหม่อมภูมิใจอย่างที่สุดที่ได้ร่วมเป็นสักขีพยานในหน้าประวัติศาสตร์ที่กำลังจารึกขึ้นนี้ขอรับ"
+    },
+    {
+      "key": "youareatrueheromyfriendtheminstrelsshallsingofyourdeedsforgenerationstocome",
+      "text_en": "You are a true hero, my friend. The minstrels shall sing of your deeds for generations to come.",
+      "text": "ท่านคือนักรบผู้กล้าที่แท้จริง สหายข้า เหล่านักขับลำนำจะขับขานวีรกรรมของท่านไปอีกหลายชั่วอายุคนเป็นแน่"
+    },
+    {
+      "key": "theroadtoreformwillbelongandtryingbutseraymericwillnotrestuntilhereachesitsendandishallwalkwithhimeverystepoftheway",
+      "text_en": "The road to reform will be long and trying, but Ser Aymeric will not rest until he reaches its end. And I shall walk with him every step of the way.",
+      "text": "หนทางสู่การปฏิรูปยังอีกยาวไกลและเต็มไปด้วยอุปสรรคขวากหนาม ทว่าท่านเอเมอริกจะไม่มีวันหยุดพักจนกว่าจะบรรลุเป้าหมาย และฉันจะก้าวเดินเคียงข้างไปกับท่านในทุกย่างก้าว"
+    },
+    {
+      "key": "youknowseeinyouflyininondragonbackhelpedputthingsinperspectiveimeanifmananddragoncanputasidetheirdifferenceshowhardcanitbefortherestofus",
+      "text_en": "You know, seein' you flyin' in on dragonback helped put things in perspective. I mean, if man and dragon can put aside their differences, how hard can it be for the rest of us?",
+      "text": "รู้ไหม พอเห็นเธอบินมาบนหลังมังกรแบบนั้น มันช่วยให้ฉันตาสว่างขึ้นเยอะเลยล่ะ ขนาดมนุษย์กับมังกรยังยอมวางความขัดแย้งลงได้ แล้วเรื่องของพวกเราที่เหลือมันจะยากเย็นสักแค่ไหนกันเชียวล่ะ"
+    },
+    {
+      "key": "tobesureourliveswontchangeovernightanditlltakeefforttobridgethegulfbetweenhighbornandlowbornbutimconfidentitllallworkoutintheend",
+      "text_en": "To be sure, our lives won't change overnight, and it'll take effort to bridge the gulf between highborn and lowborn, but I'm confident it'll all work out in the end.",
+      "text": "จริงอยู่ว่าชีวิตของพวกเราคงไม่เปลี่ยนไปในชั่วข้ามคืน และเราคงต้องพยายามอย่างหนักเพื่อเดอะบริดจ์ช่องว่างระหว่างชนชั้นสูงกับคนสลัมข้างถนน แต่ฉันก็มั่นใจว่าสุดท้ายทุกอย่างจะไปได้สวยเออน่ะ"
+    },
+    {
+      "key": "ishgardsreturntotheeorzeanalliancehasbreathednewlifeintothejeweledcroziertheannouncementhadscarcebeenmadewhenthemerchantsbeganeyeingopportunitiesinforeignmarkets",
+      "text_en": "Ishgard's return to the Eorzean Alliance has breathed new life into the Jeweled Crozier. The announcement had scarce been made when the merchants began eyeing opportunities in foreign markets.",
+      "text": "การรีเทิร์นสู่พันธมิตรเอออร์เซียนของอิชการ์ดได้ชุบชีวิตใหม่ให้แก่ย่านการค้าจูเวิลด์โครเซียร์ ทันทีที่มีการป่าวประกาศเรื่องนี้ บรรดาพ่อค้าแม่ขายต่างก็เริ่มมองหาลู่ทางในตลาดต่างประเทศกันทันควัน"
+    },
+    {
+      "key": "shamemistresstataruhadtomoveonwevegrownratheraccustomedtohavingheraround",
+      "text_en": "Shame Mistress Tataru had to move on. We've grown rather accustomed to having her around.",
+      "text": "ช่างน่าเสียดายที่คุณหนูทาทารุต้องเดินทางต่อเสียแล้ว พวกเราชักจะคุ้นเคยกับการมีแม่หนูป้วนเปี้ยนอยู่แถวนี้เสียด้วยสิ"
+    },
+    {
+      "key": "iconfessifoundtheceremonyunexpectedlystirringeachofusmustplayourpartinbuildingabrighterfutureforishgardwewhoprofesstorulemostofall",
+      "text_en": "I confess, I found the ceremony unexpectedly stirring... Each of us must play our part in building a brighter future for Ishgard─we who profess to rule most of all.",
+      "text": "เราสารภาพตามตรงว่าพิธีการนี้น่าตื่นตันใจอย่างนึกไม่ถึง... พวกเราทุกคนต่างมีหน้าที่ในการร่วมสร้างอนาคตอันสดใสให้แก่อิชการ์ด โดยเฉพาะพวกเราที่เป็นผู้ปกครองยิ่งต้องตระหนักถึงเรื่องนี้มากที่สุด"
+    },
+    {
+      "key": "thereyouareoldboygirlwemustgotothetaverntogetherandsoonmyfriendsalldemandtobeintroducedtothewarrioroflightandtheyrefusetotakenoforananswer",
+      "text_en": "There you are, old boy / girl ! We must go to the tavern together, and soon! My friends all demand to be introduced to the Warrior of Light, and they refuse to take no for an answer!",
+      "text": "อยู่นี่เองหรือเพื่อนยาก! พวกเราต้องไปโรงเตี๊ยมด้วยกันให้ได้ และต้องเร็วๆ นี้ด้วยนะ! เพื่อนพ้องของฉันพากันรบเร้าขอให้ฉันแนะนำตัวกับนักรบแห่งแสงใจจะขาด และไม่มีใครยอมรับคำปฏิเสธหรอกนะ!"
+    },
+    {
+      "key": "praypaynoheedtolordemmanellainmastermistresssurnameiamcertainyouhavefarmorepressingdemandsonyourtimeandforhispartmylordhaslessonstoattend",
+      "text_en": "Pray pay no heed to Lord Emmanellain, Master / Mistress Surname . I am certain you have far more pressing demands on your time. And for his part, my lord has lessons to attend...",
+      "text": "อย่าใส่ใจท่านเอมาเนแลงเลยครับ ผมแน่ใจว่าคุณคงต้องจัดการเรื่องเร่งด่วนอีกตั้งมากมาย ส่วนนายน้อยเองก็ต้องไปเรียนหนังสือแล้ว..."
+    },
+    {
+      "key": "hehasresumedtraininginthebladeyouseeandhasshownadmirablededicationforthemostpartibelievehehasamindtotakeuplordhaurchefantsmantlebutifheistosucceedinthishewillneedallthehelphecangetandasfewdistractionsaspossible",
+      "text_en": "He has resumed training in the blade, you see, and has shown admirable dedication...for the most part. I believe he has a mind to take up Lord Haurchefant's mantle─but if he is to succeed in this, he will need all the help he can get, and as few distractions as possible.",
+      "text": "นายน้อยกลับมาฝึกดาบอีกครั้งแล้วครับ แถมยังตั้งอกตั้งใจจนน่าชมเชย...เป็นส่วนใหญ่นะครับ ผมคิดว่านายน้อยคงอยากสืบทอดเจตนารมณ์ของท่านออร์ชฟองต์ แต่ถ้าจะทำให้สำเร็จ คงต้องอาศัยความช่วยเหลือทุกทางเท่าที่จะหาได้ และต้องไม่มีเรื่องอะไรมาทำให้ไขว้เขวเด็ดขาด"
+    },
+    {
+      "key": "thouartwelcomeherefriendofysayleihaveheardallthathathcometopass",
+      "text_en": "Thou art welcome here, friend of Ysayle. I have heard all that hath come to pass.",
+      "text": "ยินดีต้อนรับ สหายแห่งอีเซล ข้าได้ยินเรื่องราวทั้งหมดที่เกิดขึ้นแล้ว"
+    },
+    {
+      "key": "ysaylewasasabroodsistertomeandherdeathnolesstragicformansfleetinglifeishallmissher",
+      "text_en": "Ysayle was as a brood-sister to me, and her death no less tragic for man's fleeting life. I shall miss her...",
+      "text": "อีเซลเปรียบเสมือนพี่น้องร่วมรังของข้า และความตายของนางก็น่าเศร้าสลดไม่แพ้ชีวิตอันแสนสั้นของมนุษย์เดินดิน ข้าคงจะคิดถึงนางเหลือเกิน..."
+    },
+    {
+      "key": "idontcaremuchforpoliticstoomuchtalkandnotenoughaction",
+      "text_en": "I don't care much for politics. Too much talk and not enough action.",
+      "text": "ยายไม่สนพวกเรื่องการเมืองหรอก ดีแต่พูดพล่ามไม่หยุด แต่ไม่ยอมลงมือทำจริงเสียที"
+    },
+    {
+      "key": "ifiwereyouidforgetaboutallthatracketandhavesometimetomyselfevenyoumustseeyouveearnedit",
+      "text_en": "If I were you, I'd forget about all that racket and have some time to myself. Even you must see you've earned it.",
+      "text": "ถ้ายายเป็นเจ้า จะลืมเรื่องน่าหนวกหูพวกนั้นไปให้หมด แล้วหาเวลาพักผ่อนให้ตัวเองซะ เจ้าเองก็น่าจะรู้ว่าเหนื่อยยากจนสมควรได้รับมันแล้วไม่ใช่รึไง"
+    },
+    {
+      "key": "afterlongyearsofestrangementishgardrejoinshersisternationsinthealliancewordscannotwellexpressmyjoy",
+      "text_en": "After long years of estrangement, Ishgard rejoins her sister nations in the Alliance. Words cannot well express my joy.",
+      "text": "หลังจากแยกตัวไปเนิ่นนานหลายปี ในที่สุดอิชการ์ดก็กลับมาร่วมกับประเทศพี่น้องในกลุ่มพันธมิตรอีกครั้ง ความยินดีของผมท่วมท้นจนยากจะบรรยายเป็นคำพูดได้จริงๆ"
+    },
+    {
+      "key": "noneofthiswouldhavebeenpossiblewithoutyoumyfriend",
+      "text_en": "None of this would have been possible without you, my friend.",
+      "text": "หากไม่มีนาย เรื่องทั้งหมดนี้คงไม่มีวันสำเร็จลงได้เลย"
+    },
+    {
+      "key": "changeiscomingtoeorzeathoughitwillinevitablybringwithitameasureofupheavalwithhardworkpeaceandprosperityaresuretofollow",
+      "text_en": "Change is coming to Eorzea. Though it will inevitably bring with it a measure of upheaval, with hard work, peace and prosperity are sure to follow.",
+      "text": "ความเปลี่ยนแปลงกำลังจะมาเยือนเอโอลเซีย แม้ว่ามันจะนำพาความโกลาหลมาด้วยอย่างหลีกเลี่ยงไม่ได้ แต่หากเรามุ่งมั่นบากบั่น ความสงบสุขและความรุ่งเรืองจะตามมาอย่างแน่นอน"
+    },
+    {
+      "key": "andyetevenaswelookforwardtothecomingofanewagewemustneedsbewaryofoldthreats",
+      "text_en": "And yet, even as we look forward to the coming of a new age, we must needs be wary of old threats.",
+      "text": "กระนั้น แม้เราจะเฝ้ารอยุคสมัยใหม่ที่กำลังจะมาถึง แต่เราก็ยังต้องระแวดระวังภัยคุกคามเก่าแก่ด้วยเช่นกัน"
+    },
+    {
+      "key": "thelordsofgarlemaldhavenotrelinquishedtheirclaimuponeorzeaandweshallbeforcedtocontendwiththemagainerelongandthenthereisthematterofourcomradeestinienclaimedbodyandsoulbynidhoggifthereisawaytorescuehimwemustfindit",
+      "text_en": "The lords of Garlemald have not relinquished their claim upon Eorzea, and we shall be forced to contend with them again ere long. And then there is the matter of our comrade Estinien, claimed body and soul by Nidhogg... If there is a way to rescue him, we must find it.",
+      "text": "พวกผู้นำแห่งการ์เลมัลด์ยังไม่ละทิ้งความทะยานอยากครอบครองเอโอลเซีย อีกไม่นานคงเลี่ยงไม่ได้ที่จะต้องเผชิญหน้ากันอีกครั้ง นอกจากนี้ นิคฮ็อกยังช่วงชิงทั้งร่างและวิญญาณของเอสทินีเอนสหายเราไป... หากพอมีหนทางช่วยกลับคืนมาได้ เราต้องหาให้พบ"
+    },
+    {
+      "key": "sufficeittosaythepathaheadholdsnoshortageofchallengesbuttogetherweshallovercomethem",
+      "text_en": "Suffice it to say, the path ahead holds no shortage of challenges, but together, we shall overcome them.",
+      "text": "เอาเป็นว่า หนทางข้างหน้ายังเต็มไปด้วยอุปสรรคขวากหนาม แต่หากร่วมมือกัน ย่อมผ่านพ้นไปได้เสมอ"
+    },
+    {
+      "key": "damnthisfrailflesh",
+      "text_en": "Damn this frail flesh!",
+      "text": "น่าเจ็บใจนัก ร่างเนื้ออันแสนเปราะบางนี้!"
+    },
+    {
+      "key": "youhavemeddledenough",
+      "text_en": "You have meddled enough!",
+      "text": "เจ้าเข้ามาก้าวก่ายมากพอแล้ว!"
+    },
+    {
+      "key": "youllnotdefeatmeagain",
+      "text_en": "You'll not defeat me again!",
+      "text": "ไม่มีวันเอาชนะเราได้อีกเป็นหนที่สอง!"
+    }
+  ]
+}
