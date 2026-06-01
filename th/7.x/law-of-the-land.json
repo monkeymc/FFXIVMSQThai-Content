@@ -1,591 +1,583 @@
 {
-  "id": "law-of-the-land",
-  "wiki_path": "/wiki/Law_of_the_Land",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c3/Law_of_the_Land.png",
-  "patch": "7.0",
-  "title_en": "Law of the Land",
-  "title": "กฎหมายแห่งแผ่นดิน",
-  "level": "95",
-  "location": "Shaaloani(X:12.6,Y:19.1)",
-  "npc_start": "Erenville",
+  "quest_id": "law-of-the-land",
   "dialogues": [
     {
-      "character": "Zekowa",
+      "key": "shouldntbelongnowbeforewihuwteshowsup",
       "text_en": "Shouldn't be long now before Wihuwte shows up.",
       "text": "อีกประเดี๋ยววิฮูฟเตก็คงจะโผล่หัวมาแล้วล่ะโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "wellwelllookwhoitis",
       "text_en": "Well, well, look who it is.",
       "text": "แหม ๆ ดูซิว่าใครโผล่หัวมาน่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "storingstolengoodshereseemsriskybutisupposeitsanoptionforsomeonewithhisauthority",
       "text_en": "Storing stolen goods here seems risky, but I suppose it's an option for someone with his authority.",
       "text": "การเอาของโจรมาซุกซ่อนไว้ที่นี่ดูท่าจะเสี่ยงไปหน่อยนะครับ แต่ก็นั่นแหละครับ สำหรับคนที่มีสิทธิ์อำนาจการสั่งการคุมเมืองแบบเขา มันก็เป็นทางเลือกที่ดีอยู่ครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "yeahhemovesthespoilsinceruleumbarrelswherenoonewouldthinktolook",
       "text_en": "Yeah. He moves the spoils in ceruleum barrels, where no one would think to look.",
       "text": "ใช่แล้วล่ะโว้ย มันลักลอบขนของโจรโดยใส่ไว้ในถังแร่เซรูเลียม ซึ่งปกติจะไม่มีใครฉลาดพอจะเอะใจสงสัยตรวจค้นหรอก"
     },
     {
-      "character": "Zekowa",
+      "key": "theyremixedinwithregularshipmentsoffueltotuliyollalwheretheyresoldoff",
       "text_en": "They're mixed in with regular shipments of fuel to Tuliyollal, where they're sold off.",
       "text": "พวกมันจะถูกปะปนไปกับถังเชื้อเพลิงทั่วไปที่จะส่งไปขายทำเงินยังทูลิโยลลัลน่ะโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "yousaidhestoleabraceletofyoursrightifheknowsyoureonhistailchancesarehellbeeagertogetwhathecanforit",
       "text_en": "You said he stole a bracelet of yours, right? If he knows you're on his tail, chances are he'll be eager to get what he can for it.",
       "text": "แกบอกว่ามันขโมยกำไลข้อมือของแกไปใช่ไหมล่ะ? ถ้ามันรู้ตัวว่ากำลังโดนตามล่าประเมินผลอยู่ มันก็คงอยากจะรีบเอาไปปล่อยขายแลกเงินให้เร็วที่สุดนั่นแหละ"
     },
     {
-      "character": "Zekowa",
+      "key": "butidoubthedtrustalackeywiththatbusinessgiventheprovenanceofthepiecenoillwagerhesnotlettingthatbraceletoutofhissighttillhesgotcoininhand",
       "text_en": "But I doubt he'd trust a lackey with that business, given the provenance of the piece. No, I'll wager he's not letting that bracelet out of his sight till he's got coin in hand.",
       "text": "แต่ข้าคิดว่ามันคงไม่ไว้ใจปล่อยให้พวกสุนัขรับใช้เอาไปจัดการหรอก เมื่อดูจากมูลค่าระดับนั้น ข้าขอเดิมพันเลยว่ามันต้องเก็บกำไลชิ้นนั้นไว้ข้างกายไม่ยอมให้คลาดสายตาจนกว่าจะได้เงินมานอนกอดในมือแน่โว้ย"
     },
     {
-      "character": "Erenville",
+      "key": "iwasntsurewhattomakeofyouafterhhusatahwibutimgladtoseeyouremorethananimpulsivechild",
       "text_en": "I wasn't sure what to make of you after Hhusatahwi, but I'm glad to see you're more than an impulsive child.",
       "text": "ตอนจบเรื่องที่ฮูซาทาห์วี ผมเองก็ยังสับสนไม่แน่ใจในเจตนาตัวคุณอยู่เหมือนกันครับ แต่ดีใจจริง ๆ ครับที่ได้เห็นว่าคุณมีแผนการและสติปัญญารอบคอบ ไม่ใช่แค่เด็กหนุ่มอารมณ์ร้อนสุ่มสี่สุ่มห้าคนหนึ่งครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "ahwellnotmyfinesthourilladmit",
       "text_en": "Ah, well...not my finest hour, I'll admit...",
       "text": "อ่า ก็นะ... ตอนนั้นข้าแอบทำตัวเปิ่นอวดเก่งไปหน่อย ยอมรับเลยว่ะ..."
     },
     {
-      "character": "Zekowa",
+      "key": "buttheresalessoninthatthevulturesaslipperybastardifweregoingtocatchhimweneedtobackhimintoacornerwithhardevidencethatsmyplan",
       "text_en": "But there's a lesson in that: the Vulture's a slippery bastard. If we're going to catch him, we need to back him into a corner with hard evidence. That's my plan.",
       "text": "แต่มันก็ทำให้ได้บทเรียนสำคัญนะโว้ย ว่าไอ้แร้งมันเป็นคนกะล่อนเจ้าเล่ห์ชวนปวดหัวมาก ถ้าพวกเราจะต้อนจับตัวมันให้ได้ เราต้องล้อมมันด้วยพยานหลักฐานที่แน่นหนาจนดิ้นไม่หลุด และนี่คือแผนการของข้า"
     },
     {
-      "character": "Zekowa",
+      "key": "firstweneedtolurehimawayfromhereovertohhusatahwiwouldbeidealforthatineedoneofyoutohelpme",
       "text_en": "First, we need to lure him away from here─over to Hhusatahwi would be ideal. For that, I need one of you to help me.",
       "text": "ขั้นแรก พวกเราต้องหลอกล่อให้มันออกไปจากที่นี่ก่อน—มุ่งหน้าไปแถวฮูซาทาห์วีน่าจะดีที่สุด สำหรับแผนนี้ ข้าต้องการให้คนใดคนหนึ่งในพวกแกช่วยข้าหน่อยโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "thiswillbuytimefortheothertosearchthebarrelsforanystolengoods",
       "text_en": "This will buy time for the other to search the barrels for any stolen goods.",
       "text": "วิธีนี้จะช่วยดึงกาลเวลาซื้อเวลาให้อีกคนแอบเข้าไปสืบค้นค้นหาของโจรในถังน้ำมันครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "andusingthatwellexposehimasacriminal",
       "text_en": "And using that, we'll expose him as a criminal.",
       "text": "และพอได้หลักฐานมาแล้ว พวกเราก็จะสามารถแฉกระชากหน้ากากว่ามันคือคนบาปชั่วร้ายตัวจริงโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "theresnowaytotellifwihuwtescarryingthebraceletbutregardlesstherellbetimeenoughtofinditoncehesbehindbars",
       "text_en": "There's no way to tell if Wihuwte's carrying the bracelet, but regardless, there'll be time enough to find it once he's behind bars.",
       "text": "ถึงจะประเมินผลไม่ได้ชี้วัดแน่ชัดว่าวิฮูฟเตจะพกกำไลข้อมือติดตัวไว้ไหม แต่ก็ช่างเถอะ ขอแค่ส่งตัวมันเข้าตารางได้สำเร็จ เราค่อยไปสืบส้นตามหาทีหลังก็ยังไม่สายโว้ย"
     },
     {
-      "character": "Erenville",
+      "key": "butwonthesimplyfeigninnocence",
       "text_en": "But won't he simply feign innocence?",
       "text": "แต่เขาจะไม่แกล้งทำเป็นไร้เดียงสาปฏิเสธข้อกล่าวหาเหรอครับ?"
     },
     {
-      "character": "Zekowa",
+      "key": "ohhelltryandthatswhenillchallengehimtoaduel",
       "text_en": "Oh, he'll try. And that's when I'll challenge him to a duel!",
       "text": "หึ มันต้องทำแบบนั้นแน่ และยามนั้นแหละที่ข้าจะประกาศท้าดวลปืนชี้ชะตากับมันโว้ย!"
     },
     {
-      "character": "Erenville",
+      "key": "aduelthatapproachdidntworkoutsowellforyourfriendsasirecall",
       "text_en": "A duel? That approach didn't work out so well for your friends, as I recall.",
       "text": "ท้าดวลปืนชี้ชะตางั้นเหรอครับ? เท่าที่ผมจำได้ แผนสู้รบดวลปืนครั้งก่อนของพวกเพื่อน ๆ คุณก็ลงเอยได้ไม่ค่อยสวยงามราบรื่นเท่าไหร่นะครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "truebutunlikebeforeillchallengehiminfrontofthewholetownthatwayhewontbeabletowriggleoutofitlikebefore",
       "text_en": "True. But unlike before, I'll challenge him in front of the whole town. That way he won't be able to wriggle out of it like before.",
       "text": "ก็จริงโว้ย แต่คราวนี้น่ะ ข้าจะท้าดวลต่อหน้าชาวเมืองทุกคนเลยโว้ย วิธีนี้มันจะไม่มีทางใช้กลโกงหรือดึงดันหลบหนีไปได้เหมือนก่อนอีกแล้ว"
     },
     {
-      "character": "Zekowa",
+      "key": "everymanwomanandchildofthewildsunderstandstheimportanceofduelsandtheoldlawsthedeputychiefwouldneverdisgracehimselfbyrefusing",
       "text_en": "Every man, woman, and child of the wilds understands the importance of duels and the old laws. The deputy chief would never disgrace himself by refusing.",
       "text": "ประชาชนคนป่าคนดงทุกคนในชาโลเอนีต่างก็รู้ซึ้งถึงความศักดิ์สิทธิ์ของการท้าดวลและกฎกติกาโบราณดี พวกรองหัวหน้ากองไม่มีวันยอมทิ้งเกียรติยศศักดิ์ศรีลดตัวบัดสีบัดเถลิงปฏิเสธคำท้าดวลหรอกโว้ย"
     },
     {
-      "character": "Erenville",
+      "key": "butwouldntyoubebreakingthelawbyusingafirearmintown",
       "text_en": "But wouldn't you be breaking the law by using a firearm in town?",
       "text": "แต่การลั่นกระสุนอาวุธปืนในเขตเมืองมันไม่ถือเป็นการแหกกฎหมายบ้านเมืองเหรอครับ?"
     },
     {
-      "character": "Zekowa",
+      "key": "itsnotasifwedbeusingliveroundsbutitsariskimwillingtotake",
       "text_en": "It's not as if we'd be using live rounds, but it's a risk I'm willing to take.",
       "text": "ก็นะ พวกเราไม่ได้คิดจะใช้กระสุนจริงซะหน่อย แต่ก็นับเป็นความเสี่ยงที่ข้าเตรียมใจยอมเผชิญหน้าอยู่แล้วโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "whatsimportantisthatigethimtoduelwithasmanywitnessesaspossiblewhenhelosesandhewilllosethatllbetheendofthevulture",
       "text_en": "What's important is that I get him to duel with as many witnesses as possible. When he loses─and he will lose─that'll be the end of the Vulture.",
       "text": "จุดสำคัญคือข้าต้องกล่อมให้มันยอมดวลปืนโดยมีพยานรู้เห็นให้ได้มากที่สุด และยามที่มันพ่ายแพ้—ซึ่งมันต้องแพ้แน่—อนาคตและอิทธิพลชั่วร้ายของไอ้แร้งก็จะถึงจุดสิ้นสุดลงทันทีโว้ย"
     },
     {
-      "character": "Erenville",
+      "key": "theplanisnotwithoutflawsbutwhatdoyouthink",
       "text_en": "The plan is not without flaws, but...what do you think?",
       "text": "แผนการนี้ก็แอบมีจุดบกพร่องอยู่บ้างล่ะนะครับ... คุณ [ชื่อ] คิดเห็นอย่างไรบ้างครับ?"
     },
     {
-      "character": "Zekowa",
+      "key": "thanksisurewasluckyrunningintothetwoofyouyouwontregretthisipromise",
       "text_en": "Thanks. I sure was lucky running into the two of you. You won't regret this, I promise!",
       "text": "ขอบใจมากโว้ย ข้านี่โชคดีเป็นบ้าเลยที่แวะมาเจอพวกแกสองคน รับรองว่าพวกแกจะไม่เสียใจที่ยอมช่วยเหลือข้าแน่นอน ข้าสัญญาด้วยเกียรติยศเลยโว้ย!"
     },
     {
-      "character": "Zekowa",
+      "key": "notevenhecanignoreourtraditionsoncehelosesillhavehimconfesstohiscrimes",
       "text_en": "Not even he can ignore our traditions. Once he loses, I'll have him confess to his crimes.",
       "text": "ต่อให้มันจะยิ่งใหญ่มาจากไหนก็ไม่มีวันเพิกเฉยขนบธรรมเนียมโบราณของพวกเราได้หรอก ทันทีที่มันแพ้พ่าย ข้าจะเค้นให้มันยอมรับสารภาพความชั่วร้ายทั้งหมดที่ก่อไว้โว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "thatbraceletsreallyimportanttoyouhuhdontworryillseetoityougetitback",
       "text_en": "That bracelet's really important to you, huh? Don't worry. I'll see to it you get it back.",
       "text": "กำไลข้อมือนั่นคงมีความสำคัญต่อจิตใจแกมากเลยสินะ? ไม่ต้องเป็นห่วงไปโว้ย ข้าจะช่วยเสาะหาเอามาคืนให้แกให้ได้"
     },
     {
-      "character": "Erenville",
+      "key": "ifyouresatisfiedthensoami",
       "text_en": "If you're satisfied, then so am I.",
       "text": "หากคุณพึงพอใจกับข้อสรุปนี้ ผมก็ไม่มีปัญหาอะไรครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "iknewicouldcountonyou",
       "text_en": "I knew I could count on you!",
       "text": "ข้ารู้อยู่แล้วว่าข้าพึ่งพาพวกแกได้เสมอโว้ย!"
     },
     {
-      "character": "Erenville",
+      "key": "iwasseenintonatenyawisoitsprobablybestistayandsearchthebarrels",
       "text_en": "I was seen in Tonatenyawi, so it's probably best I stay and search the barrels.",
       "text": "ตอนบุกรังที่โทนาเทนยาวีมีคนเห็นหน้าผมไปแล้วครับ ดังนั้นน่าจะเป็นผลดีกว่าหากผมปักหลักคอยสืบค้นหาข้อมูลในถังแร่เซรูเลียมอยู่ที่นี่ครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "thenyourewithmetellthevultureitriedtorobyoubutyoumanagedtooverpowermeevenifhesuspectsatraphewontbeabletoresisttakingthebait",
       "text_en": "Then you're with me. Tell the Vulture I tried to rob you, but you managed to overpower me. Even if he suspects a trap, he won't be able to resist taking the bait.",
       "text": "งั้นแกมากับข้าโว้ย เดินไปแจ้งรองหัวหน้าไอ้แร้งว่าข้าพยายามจะปล้นชิงทรัพย์แก แต่แกดันมีทักษะสู้ศึกที่เหนือกว่าเลยจับตัวข้ามัดไว้ได้ ต่อให้มันจะสงสัยวิเคราะห์ว่าเป็นกับดักหรือมีแผนตุกติก มันก็ทนกระหายใคร่อยากจับข้าไม่ไหวจนยอมฮุบเหยื่อล่อแน่นอนโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "youllwanttobuyyourfriendasmuchtimeaspossibleandmakeyourwaytohhusatahwionceyouvegotthevulturethereilltakecareoftherest",
       "text_en": "You'll want to buy your friend as much time as possible, and make your way to Hhusatahwi. Once you've got the Vulture there, I'll take care of the rest!",
       "text": "คุณต้องช่วยดึงกาลเวลาซื้อเวลาให้คู่หูของคุณให้ได้มากที่สุด และพามันเดินทางมุ่งหน้าไปยังฮูซาทาห์วี พอพามันไปถึงเป้าหมายได้แล้ว เดี๋ยวที่เหลือข้าจะจัดการเคลียร์ทางสะสางบัญชีแค้นเองโว้ย!"
     },
     {
-      "character": "Zekowa",
+      "key": "allrightthenletsgettoit",
       "text_en": "All right, then. Let's get to it!",
       "text": "เอาล่ะครับ ถ้าอย่างนั้น พวกเราลงมือตามแผนกันเลยเถอะครับ!"
     },
     {
-      "character": "Wihuwte",
+      "key": "theyeheheceyaawerelikelythatshetonasdoingwhatshisangle",
       "text_en": "The yeheheceyaa were likely that Shetona's doing. What's his angle?",
       "text": "เจ้าสัตว์ประหลาดเยเฮเฮเซยาพวกนั้นต้องเป็นแผนการฝีมือของไอ้พวกเชโตนาตัวดีแน่ ๆ มันคิดจะเล่นตลกอะไรกันฮะ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "hmphandthentheresthebratitspasttimeidealtwithhim",
       "text_en": "Hmph. And then there's the brat. It's past time I dealt with him.",
       "text": "ชิ แล้วยังมีไอ้เด็กเวรนั่นอีก ถึงกาลเวลาที่ข้าต้องกำจัดเคลียร์ทางสะสางเสี้ยนหนามอย่างมันไปให้พ้นทางซะทีแล้ว"
     },
     {
-      "character": "Wihuwte",
+      "key": "theyeheheceyaawerelikelythatshetonasdoingwhatshisangle",
       "text_en": "The yeheheceyaa were likely that Shetona's doing. What's his angle?",
       "text": "เจ้าสัตว์ประหลาดเยเฮเฮเซยาพวกนั้นต้องเป็นแผนการฝีมือของไอ้พวกเชโตนาตัวดีแน่ ๆ มันคิดจะเล่นตลกอะไรกันฮะ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "hmwhatsthis",
       "text_en": "Hm? What's this?",
       "text": "หืม? มีธุระอะไรหรือเปล่า?"
     },
     {
-      "character": "Wihuwte",
+      "key": "ahanunfamiliarfaceinthesepartsahemhaveyouneedofthedustwatchsirmiss",
       "text_en": "Ah, an unfamiliar face in these parts. Ahem. Have you need of the Dustwatch, sir / miss ?",
       "text": "อ้าว หน้าตาไม่ค่อยคุ้นหน้าคุ้นตาแถวนี้เลยนะครับ อะแฮ่ม มีธุระเดือดร้อนอยากให้กองพิทักษ์ดัสต์วอทช์ช่วยเหลือคุ้มกันภัยอะไรไหมครับ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "whatzekowatriedtorobyoubutyouapprehendedhim",
       "text_en": "What? Zekowa tried to rob you, but you apprehended him!?",
       "text": "หา!? แกบอกว่าเซโควาพยายามจะปล้นแก แต่แกดันจับตัวมันมัดไว้ได้งั้นเหรอครับ!?"
     },
     {
-      "character": "Wihuwte",
+      "key": "iseesodesperatewashetoseehisfriendsfreefromprisonheturnedtoalifeofcrimehowawful",
       "text_en": "I see... So desperate was he to see his friends free from prison, he turned to a life of crime. How awful...",
       "text": "อย่างนี้นี่เอง... โถ คงจะร้อนรนกระวนกระวายอยากช่วยประกันตัวเพื่อนพ้องออกจากคุกจนขาดสติ จนหน้ามืดตามัวยอมลดตัวหันมาเป็นโจรนอกกฎหมายไปซะงั้น ช่างน่าเวทนาจริง ๆ..."
     },
     {
-      "character": "Wihuwte",
+      "key": "youhavemysincerestthankssirmissmightitroubleyoutotakemetohim",
       "text_en": "You have my sincerest thanks, sir / miss . Might I trouble you to take me to him?",
       "text": "ผมต้องขอขอบคุณในความมีจิตสาธารณะสู้ชีวิตช่วยเหลือราชการครั้งนี้อย่างยิ่งเลยนะครับ ถือว่ารบกวนช่วยนำทางผมไปหาตัวมันหน่อยได้ไหมครับ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "somethingthematterifnotthenpleaseleadon",
       "text_en": "Something the matter? If not, then please, lead on.",
       "text": "มีปัญหาขัดข้องอะไรหรือเปล่าครับ? ถ้าไม่มีอะไรแล้วล่ะก็ เชิญนำทางไปได้เลยครับ"
     },
     {
-      "character": "Wihuwte",
+      "key": "youhavesomewheretobeverywellbutiimploreyoutohurryihaveadutytoseethiscriminalbroughttojustice",
       "text_en": "You have somewhere to be? Very well, but I implore you to hurry. I have a duty to see this criminal brought to justice.",
       "text": "คุณมีธุระต้องรีบไปทำที่ไหนต่อรึเปล่าครับ? เอาเถอะ แต่ผมอยากจะขอร้องว่าช่วยรีบหน่อยนะครับ ผมมีภารกิจหน้าที่ที่ต้องควบคุมตัวไอ้คนบาปชั่วร้ายนี่ไปรับโทษทัณฑ์ตามกฎหมายให้เร็วที่สุดครับ"
     },
     {
-      "character": "Wihuwte",
+      "key": "thatwasadistressinglylongwaitmissbutipresumeyoucanshowmetothemiscreantnow",
       "text_en": "That was a distressingly long wait, miss. But I presume you can show me to the miscreant now?",
       "text": "ปล่อยให้รอนานจนน่าปวดหัวเลยนะครับคุณ แต่อย่างไรก็ตาม ตอนนี้คุณพร้อมจะนำทางพาผมไปหาไอ้ตัวแสบนั่นแล้วใช่ไหมครับ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "notthatthisisanappropriatetimeformetoplaytourguidebutifyouinsistsheshenewezispringsishometoathrivingceruleumminingindustrytheprospectofeasycoinhasattractedsomeundesirablesthough",
       "text_en": "Not that this is an appropriate time for me to play tour guide, but if you insist... Sheshenewezi Springs is home to a thriving ceruleum mining industry. The prospect of easy coin has attracted some undesirables, though...",
       "text": "เอาจริง ๆ ช่วงวิกฤตแบบนี้มันไม่ใช่ทำเลที่ดีที่ผมจะมาสวมบทบาทเป็นมัคคุเทศก์นำเที่ยวหรอกนะครับ แต่ในเมื่อคุณสนใจอยากรู้ข้อมูล... น้ำพุเชเชเนเวซีคือศูนย์กลางอุตสาหกรรมการขุดเจาะแร่เซรูเลียมที่เจริญรุ่งเรืองมากครับ แต่อย่างว่าแหละครับ โอกาสร่ำรวยที่ได้มาง่าย ๆ มันก็มักจะดึงดูดพวกคนนอกรีตที่ชั่วร้ายแฝงตัวเข้ามาทำมาหากินด้วยเสมอแหละครับ..."
     },
     {
-      "character": "Wihuwte",
+      "key": "isthistheplaceidontseehim",
       "text_en": "Is this the place? I don't see him...",
       "text": "ที่นี่งั้นเหรอครับ? ไม่เห็นมีเงาหัวของมันเลย..."
     },
     {
-      "character": "Wihuwte",
+      "key": "iseesighverywellleadon",
       "text_en": "I see... <sigh> Very well, lead on.",
       "text": "เข้าใจแล้ว... <ถอนหายใจ> ก็ได้ นำทางต่อไปเถอะครับ"
     },
     {
-      "character": "Wihuwte",
+      "key": "theresgoldinthesefieldsbluegold",
       "text_en": "There's gold in these fields. Blue gold...",
       "text": "แผ่นดินแถบนี้เต็มไปด้วยขุมทรัพย์ทองคำเลยล่ะครับ... ขุมทรัพย์สีครามอันล้ำค่ายังไงล่ะ..."
     },
     {
-      "character": "Wihuwte",
+      "key": "ahembestbewaryofthebeastsinthesepartstheymayprefertosnackonceruleumbutforyouireckontheydmakeanexception",
       "text_en": "Ahem. Best be wary of the beasts in these parts. They may prefer to snack on ceruleum, but for you I reckon they'd make an exception.",
       "text": "อะแฮ่ม เดินทางแถวนี้ระมัดระวังตัวเฝ้าระวังภัยจากสัตว์ป่าดุร้ายรอบด้านไว้ด้วยก็ดีนะครับ ปกติพวกมันชอบเขมือบแร่เซรูเลียมเป็นอาหารหลักก็จริง แต่ถ้าเป็นเนื้อมนุษย์หวาน ๆ ของคุณล่ะก็ ข้าเดาว่าพวกมันคงยินดีอ้าปากกัดกินเป็นของหวานแน่นอนครับ"
     },
     {
-      "character": "Wihuwte",
+      "key": "isthistheplacethen",
       "text_en": "Is this the place, then?",
       "text": "ถึงเป้าหมายปลายทางแล้วงั้นเหรอครับ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "thissomesortofjokeofalltheletskeepmoving",
       "text_en": "This some sort of joke? Of all the... Let's keep moving.",
       "text": "นี่คิดจะเล่นตลกบ้าอะไรกันฮะ? ให้ตายสิ... รีบเดินไปข้างหน้าต่อเถอะครับ"
     },
     {
-      "character": "Wihuwte",
+      "key": "hurryupalready",
       "text_en": "Hurry up already!",
       "text": "ช่วยเร่งฝีเท้าหน่อยสิครับ!"
     },
     {
-      "character": "Wihuwte",
+      "key": "thisbetterbetheplace",
       "text_en": "This better be the place.",
       "text": "หวังว่าคราวนี้คงถึงสถานที่จริง ๆ ซะทีนะครับ"
     },
     {
-      "character": "Wihuwte",
+      "key": "mypatienceiswearingawfullythinsirmissifheisntatthenextplacewestopimaybeforcedtodosomethingyouandiwouldbothdearlyregret",
       "text_en": "My patience is wearing awfully thin, sir / miss . If he isn't at the next place we stop, I may be forced to do something you and I would both dearly regret.",
       "text": "ขีดจำกัดความอดทนของผมเริ่มจะสิ้นสุดลงแล้วนะคุณ ถ้าเกิดพิกัดจุดหมายต่อไปที่เราแวะไปแล้วยังไม่เจอตัวมันอีก ข้าคงจำเป็นต้องใช้กำลังทำอะไรบางอย่างที่พวกเราทั้งสองฝ่ายจะต้องมานอนเสียใจภายหลังแน่นอนครับ"
     },
     {
-      "character": "Wihuwte",
+      "key": "unlessyoudratherifeedyouonerawneedlesandallcutthechitchat",
       "text_en": "Unless you'd rather I feed you one raw─needles and all─cut the chitchat.",
       "text": "ถ้าแกไม่อยากให้ข้ายัดกระบองเพชรหนามแหลม ๆ ใส่ปากแกสด ๆ ทั้งต้นล่ะก็ หุบปากเน่า ๆ ของแกแล้วนำทางต่อไปซะ"
     },
     {
-      "character": "Wihuwte",
+      "key": "allrightwhereishe",
       "text_en": "All right, where is he?",
       "text": "เอาละ ตัวมันอยู่ไหนฮะ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "idontseehimanywherewhereiszekowa",
       "text_en": "I don't see him anywhere! Where is Zekowa!?",
       "text": "ไม่เห็นเจอตัวมันเลยสักที่! เซโควาไปซ่อนหัวอยู่ที่ไหนกันห๊ะ!?"
     },
     {
-      "character": "Wihuwte",
+      "key": "tellmewhereheisorillburyyouinthesamegrave",
       "text_en": "Tell me where he is, or I'll bury you in the same grave.",
       "text": "รีบพ่นปากบอกข้อมูลมาว่ามันอยู่ไหน ไม่งั้นข้าจะส่งแกไปลงนรกนอนเฝ้าหลุมเดียวกับมันแน่"
     },
     {
-      "character": "Wihuwte",
+      "key": "thatsitivehaditwiththesegamesandivehaditwithyou",
       "text_en": "That's it! I've had it with these games, and I've had it with you!!!",
       "text": "พอที! ข้าหมดความอดทนกับการละเล่นปัญญาอ่อนนี่แล้ว และข้าก็หมดความอดทนกับแกด้วยเหมือนกันโว้ย!!!"
     },
     {
-      "character": "Zekowa",
+      "key": "heywihuwteyoulookingforme",
       "text_en": "Hey, Wihuwte! You looking for me?",
       "text": "เฮ้ วิฮูฟเต! กำลังสืบค้นตามหาข้าอยู่รึไงโว้ย?"
     },
     {
-      "character": "Zekowa",
+      "key": "ifyouwanttoplacemeunderarrestyoullhavetoworkalittleharder",
       "text_en": "If you want to place me under arrest, you'll have to work a little harder!",
       "text": "หากแกคิดจะจับกุมตัวข้าล่ะก็ แกคงต้องเหนื่อยสู้รบเค้นพลังออกมาให้มากกว่านี้หน่อยแล้วล่ะโว้ย!"
     },
     {
-      "character": "Wihuwte",
+      "key": "youllbebeggingforacellbythetimeimdonewithyou",
       "text_en": "You'll be begging for a cell by the time I'm done with you!",
       "text": "ยามที่ข้าสะสางแกเสร็จ แกจะต้องร้องขออ้อนวอนก้มกราบให้ข้าส่งแกเข้าห้องขังคุกตารางแทบไม่ทันแน่!"
     },
     {
-      "character": "Zekowa",
+      "key": "wihuwtefinallycaughtuptomeisee",
       "text_en": "Wihuwte! Finally caught up to me, I see.",
       "text": "วิฮูฟเต! ในที่สุดก็ตามก้นข้ามาทันจนได้นะโว้ย"
     },
     {
-      "character": "Wihuwte",
+      "key": "wellwellifitisntouryoungoutlaw",
       "text_en": "Well, well, if it isn't our young outlaw.",
       "text": "แหม ๆ นึกว่าใคร ที่แท้ก็ไอ้หนูโจรนอกกฎหมายจอมปากดีนี่เอง"
     },
     {
-      "character": "Wihuwte",
+      "key": "youvetakenupstealingimtoldcantsayimsurprisedaboutthatbutiamsurprisedthatyoudofferyourselfuptobearrested",
       "text_en": "You've taken up stealing, I'm told. Can't say I'm surprised about that, but I am surprised that you'd offer yourself up to be arrested!",
       "text": "เห็นว่าหันมาทำมาหากินเป็นโจรลักเล็กขโมยน้อยเต็มตัวแล้วงั้นรึ ข้าก็ไม่ได้ประหลาดใจกับประวัติชั่ว ๆ ของแกหรอกนะ แต่ที่ข้าแปลกใจคือทำไมแกถึงยอมโผล่หัวเสนอตัวมาให้ข้าจับกุมง่าย ๆ ขนาดนี้ล่ะห๊ะ!"
     },
     {
-      "character": "Zekowa",
+      "key": "sorrytodisappointbutyouretheonewhosgoingtoanswerfortheircrimestoday",
       "text_en": "Sorry to disappoint, but you're the one who's going to answer for their crimes today.",
       "text": "ขออภัยด้วยที่ทำให้ผิดหวังโว้ย แต่คนที่จะต้องชดใช้โทษทัณฑ์ความผิดบาปทั้งหมดในวันนี้คือแกต่างหากล่ะโว้ย"
     },
     {
-      "character": "Blue-haired Tonawawta",
+      "key": "heythatsmyjewelry",
       "text_en": "Hey, that's my jewelry!",
       "text": "เฮ้ นั่นเครื่องประดับของฉันนะ!"
     },
     {
-      "character": "Short-haired Hhetsarro",
+      "key": "andmybag",
       "text_en": "And my bag!",
       "text": "และกระเป๋าของฉัน!"
     },
     {
-      "character": "Wihuwte",
+      "key": "soyoufoundthestolengoodsthatsfinework",
       "text_en": "So you found the stolen goods. That's fine work.",
       "text": "ที่แท้แกก็เสาะหาของโจรพวกนี้เจอแล้วงั้นรึ ทำงานได้มีระเบียบนี่นา"
     },
     {
-      "character": "Erenville",
+      "key": "thisbarrelwasatsheshenewezispringsmixedinwithothersboundfortuliyollal",
       "text_en": "This barrel was at Sheshenewezi Springs, mixed in with others bound for Tuliyollal.",
       "text": "ถังน้ำมันใบนี้ถูกจอดซ่อนไว้ตรงน้ำพุเชเชเนเวซีครับ ปะปนอยู่กับถังน้ำมันใบอื่นที่จะส่งไปทูลิโยลลัลครับ"
     },
     {
-      "character": "Erenville",
+      "key": "thelandsguardwouldvepresumeditpartoftheregularceruleumshipmentsandwaveditthroughandonceitreacheditsdestinationitwouldhavebeenretrievedanditscontentssoldforcoin",
       "text_en": "The Landsguard would've presumed it part of the regular ceruleum shipments and waved it through. And once it reached its destination, it would have been retrieved, and its contents sold for coin.",
       "text": "พวกทหารรักษาดินแดนแลนด์สการ์ดก็คงหลงวิเคราะห์ประเมินผลว่าเป็นถังแร่เซรูเลียมปกติและยอมปล่อยผ่านทางไปอย่างง่ายดาย และทันทีที่มันส่งไปถึงจุดหมายปลายทาง ของโจรข้างในก็จะถูกดึงออกมาปล่อยขายแลกเงินครับ"
     },
     {
-      "character": "Kemakka",
+      "key": "theaudacitydoweknowwhosbehindthis",
       "text_en": "The audacity... Do we know who's behind this?",
       "text": "ช่างอุกอาจดื้อรั้นสิ้นดี... พวกเราล่วงรู้เบาะแสตัวคนชั่วร้ายที่อยู่เบื้องหลังแผนการนี้หรือยังครับท่านนายอำเภอ?"
     },
     {
-      "character": "Erenville",
+      "key": "asfortunewouldhaveitispiedtheleaderofthisoperationbeinghandedoneofthestolenitems",
       "text_en": "As fortune would have it, I spied the leader of this operation being handed one of the stolen items.",
       "text": "นับเป็นโชคดีของพวกเราครับที่ผมแอบสังเกตเห็นว่าหัวหน้าใหญ่ของแก๊งโจรนี้เพิ่งได้รับมอบหนึ่งในทรัพย์สินที่ขโมยมาสด ๆ ร้อน ๆ เลยครับ"
     },
     {
-      "character": "Erenville",
+      "key": "abraceletwhichvowwuklamathadintendedforhernursemaidnamikka",
       "text_en": "A bracelet, which Vow Wuk Lamat had intended for her nursemaid Namikka.",
       "text": "ของชิ้นนั้นคือกำไลข้อมือครับ ซึ่งท่านสัญญาแห่งปณิธานวุค ลามัตตั้งใจจะมอบให้แก่อาจารย์แม่นมคุณน้านามิกก้าของเธอครับ"
     },
     {
-      "character": "Wihuwte",
+      "key": "iitwasfromthevowofresolve",
       "text_en": "I-It was from the Vow of Resolve!?",
       "text": "ก-กำไลนั่นมาจากท่านสัญญาแห่งปณิธานงั้นรึ!?"
     },
     {
-      "character": "Erenville",
+      "key": "ohyouveseenitthen",
       "text_en": "Oh, you've seen it, then?",
       "text": "โอ๊ะ แสดงว่าแกเคยเห็นและผ่านตาผ่านหูมันมาก่อนสินะครับ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "nonnoneverandifiknewwhohaditiiwouldvearrestedthescoundrel",
       "text_en": "No! N-No, never! And if I knew who had it, I-I would've arrested the scoundrel!",
       "text": "เปล่าซะหน่อย! ข-ข้าไม่เคยเห็นเลยสักนิด! และต่อให้ข้าจะสืบจนรู้ตัวคนชั่วร้ายที่ครอบครองมัน ข้าก-ข้าก็ตระเตรียมจับกุมตัวมันส่งเข้าคุกตารางไปตั้งนานแล้วโว้ย!"
     },
     {
-      "character": "Kemakka",
+      "key": "whatsthemeaningofthiswihuwte",
       "text_en": "What's the meaning of this, Wihuwte?",
       "text": "นี่มันหมายความว่ายังไงกัน วิฮูฟเต? อธิบายเรื่องนี้ให้ข้าพเจ้าฟังเดี๋ยวนี้นะ"
     },
     {
-      "character": "Wihuwte",
+      "key": "iitsasetupsiriihavethebraceletyyesbutionlycauseifounditiiswear",
       "text_en": "I-It's a set up, sir! I...I have the bracelet, y-yes, but I─only 'cause I found it, I-I swear!",
       "text": "ม-มันโดนปรักปรำใส่ร้ายครับท่านนายอำเภอ! ข้า...ข้าพกกำไลนั่นไว้กับตัวจริงครับ แ-แต่นั่นเป็นเพราะข้าบังเอิญเก็บมันได้ต่างหากครับ ข้าสาบานได้เลย!"
     },
     {
-      "character": "Wihuwte",
+      "key": "theyretherealcriminalstheyconcoctedthisschemetoframemesotheycouldgetmeoutofthepicture",
       "text_en": "They're the real criminals! They concocted this scheme to frame me─so they could get me out of the picture!",
       "text": "ไอ้พวกนอกด่านพวกนี้แหละคือคนบาปชั่วร้ายตัวจริง! พวกมันร่วมหัววางแผนใส่ความเพื่อปรักปรำข้า—เพราะพวกมันอยากจะกำจัดเคลียร์ทางสะสางข้าไปให้พ้นทางต่างหากครับ!"
     },
     {
-      "character": "Zekowa",
+      "key": "ifyoufeelyourhonorsatstaketheresalwaystheoldfashionedway",
       "text_en": "If you feel your honor's at stake, there's always the old-fashioned way.",
       "text": "หากแกคิดว่าเกียรติยศชื่อเสียงอันจอมปลอมของแกกำลังโดนทำลายล่ะก็ มันยังมีวิธีสะสางปัญหายอดฮิตดั้งเดิมของพวกเราเหลืออยู่นะโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "thelawwhichfolkshaveusedtosettletheirdifferencesforgenerations",
       "text_en": "The law which folks have used to settle their differences for generations.",
       "text": "กฎกติกาชี้ชะตาที่บรรพบุรุษของพวกเราใช้คลี่คลายปัญหาคาใจกันมารุ่นสู่รุ่นยังไงล่ะ"
     },
     {
-      "character": "Wihuwte",
+      "key": "youdontmean",
       "text_en": "You don't mean...",
       "text": "นี่เจ้าหมายถึง..."
     },
     {
-      "character": "Zekowa",
+      "key": "wihuwteichallengeyoutoaduel",
       "text_en": "Wihuwte─I challenge you to a duel.",
       "text": "วิฮูฟเต—ข้าขอท้าดวลปืนชี้ชะตากับแกโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "thewinnerisrighttheloseriswrongdoesntgetsimplerthanthat",
       "text_en": "The winner is right. The loser is wrong. Doesn't get simpler than that.",
       "text": "คนชนะคือผู้บริสุทธิ์ คนแพ้คือคนผิด กติกาตัดสินมันง่ายแสนง่ายแค่นี้แหละโว้ย"
     },
     {
-      "character": "Hhetsarro Youth",
+      "key": "yeahhaveatit",
       "text_en": "Yeah, have at it!",
       "text": "ใช่แล้ว ทำเลย!"
     },
     {
-      "character": "Short-haired Hhetsarro",
+      "key": "letyourpistolsdothetalking",
       "text_en": "Let your pistols do the talking!",
       "text": "ให้ปืนพกของคุณพูดได้!"
     },
     {
-      "character": "Wihuwte",
+      "key": "pleasedoyouhonestlybelieveyoucangoadmeintoplayingyourgame",
       "text_en": "Please. Do you honestly believe you can goad me into playing your game?",
       "text": "หึ เจ้าเด็กเขลา คิดจริง ๆ หรือว่าคำพูดอวดดีของแกจะกล่อมให้ข้าลงไปเล่นการละเล่นปัญญาอ่อนนั่นกับแกน่ะ?"
     },
     {
-      "character": "Zekowa",
+      "key": "yourefusethenhmphababyalpacasgotmorefightthanyou",
       "text_en": "You refuse, then? Hmph. A baby alpaca's got more fight than you!",
       "text": "ปฏิเสธคำท้าดวลปืนงั้นเหรอโว้ย? เหอะ! ลูกอัลปาก้าเกิดใหม่ยังมีความสู้ชีวิตและกล้าหาญมากกว่าแกตั้งเยอะเลยโว้ย!"
     },
     {
-      "character": "Wihuwte",
+      "key": "allrightboybutrememberyouaskedforthis",
       "text_en": "All right, boy. But remember─you asked for this.",
       "text": "ก็ได้ไอ้เด็กเวร แต่อย่าลืมล่ะ—แกเป็นคนรนหาที่ตายอ้อนวอนขอร้องเรื่องนี้เองนะ"
     },
     {
-      "character": "Short-haired Hhetsarro",
+      "key": "comeonzekowagivehimwhatfor",
       "text_en": "Come on, Zekowa! Give him what for!",
       "text": "เอาน่า เซโควา! ให้เขาเพื่ออะไร!"
     },
     {
-      "character": "Dustwatch Officer",
+      "key": "shouldntwestopthemchiefevenifitsjustrubberbulletswereinthemiddleoftown",
       "text_en": "Shouldn't we stop them, Chief? Even if it's just rubber bullets, we're in the middle of town...",
       "text": "เราไม่ควรหยุดพวกเขาใช่ไหมหัวหน้า? ถึงจะเป็นแค่กระสุนยาง แต่เราอยู่ใจกลางเมือง..."
     },
     {
-      "character": "Kemakka",
+      "key": "bequietjustwatch",
       "text_en": "Be quiet. Just watch.",
       "text": "เงียบ ๆ เถอะ ยืนดูการตัดสินชี้ชะตาไปเงียบ ๆ ก็พอ"
     },
     {
-      "character": "Wihuwte",
+      "key": "youlittleshit",
       "text_en": "You little shit!",
       "text": "ไอ้เด็กสารเลวเอ๊ย!"
     },
     {
-      "character": "Zekowa",
+      "key": "lookslikeyouvegottenslowinyouroldagevulture",
       "text_en": "Looks like you've gotten slow in your old age...Vulture.",
       "text": "ดูเหมือนพละกำลังทักษะสู้รบของแกจะถดถอยและช้าลงไปเยอะนะตามวัย... ไอ้แร้งเอ๊ย"
     },
     {
-      "character": "Kemakka",
+      "key": "youandiaregoingtohavealongtalk",
       "text_en": "You and I are going to have a long talk.",
       "text": "ข้าพเจ้ากับแกคงมีเรื่องที่ต้องจับเข่าคุยเคลียร์ใจกันยาวเลยล่ะ วิฮูฟเต"
     },
     {
-      "character": "Zekowa",
+      "key": "iapologizeforduelinginthemiddleoftownifyouwanttolockmeupthenlockmeup",
       "text_en": "I apologize for dueling in the middle of town. If you want to lock me up, then lock me up.",
       "text": "ข้าต้องขอโทษด้วยครับท่านนายอำเภอที่ก่อเรื่องวิวาทท้าดวลปืนกันกลางเมืองชุมชน หากท่านต้องการจะจับกุมข้าเข้าคุกตาราง ข้าก็ยินยอมน้อมรับโทษทัณฑ์แต่โดยดีครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "butpleaseletmyfriendsgotheyvedonenothingwrong",
       "text_en": "But please, let my friends go. They've done nothing wrong.",
       "text": "แต่ได้โปรดปล่อยตัวพวกพ้องเพื่อนสนิทของข้าไปเถอะครับ พวกเขาไม่ได้ทำอะไรผิดศีลธรรมเลยสักนิด"
     },
     {
-      "character": "Kemakka",
+      "key": "youdrewyourgunwithintownlimits",
       "text_en": "You drew your gun within town limits.",
       "text": "แกเหนี่ยวไกปืนลั่นกระสุนในเขตห้ามพกอาวุธของชุมชน"
     },
     {
-      "character": "Kemakka",
+      "key": "butwihuwtedrewfirstfarasimconcernedyouactedinselfdefenseyourefreetogo",
       "text_en": "But Wihuwte drew first. Far as I'm concerned, you acted in self-defense. You're free to go.",
       "text": "แต่เป็นวิฮูฟเตที่เป็นฝ่ายชักอาวุธปืนขึ้นมาเล็งเป้าหมายก่อน เท่าที่ข้าพเจ้าวิเคราะห์ แกแค่ป้องกันตัวโดยสัญชาตญาณ แกเป็นอิสระแล้วล่ะ"
     },
     {
-      "character": "Kemakka",
+      "key": "asareyourfriends",
       "text_en": "As are your friends.",
       "text": "รวมถึงเพื่อนพ้องของแกด้วยเหมือนกัน"
     },
     {
-      "character": "Zekowa",
+      "key": "hahyourenotsuchabadguyafterall",
       "text_en": "Hah, you're not such a bad guy after all!",
       "text": "ฮ่า ๆ ท่านนายอำเภอนี่ก็เป็นคนดีรักความสอดคล้องใช้ได้เหมือนกันนี่หว่า!"
     },
     {
-      "character": "Kemakka",
+      "key": "justamanofthewildslikeyou",
       "text_en": "Just a man of the wilds, like you.",
       "text": "ข้าพเจ้าก็เป็นแค่คนธรรมดาที่รักความยุติธรรมเหมือนกับแกนั่นแหละ"
     },
     {
-      "character": "Kemakka",
+      "key": "buttothinkthatwihuwtehadtakencontrolofthedaybreakersitpainsmethatithappenedrightundermynose",
       "text_en": "But to think that Wihuwte had taken control of the Daybreakers... It pains me that it happened right under my nose.",
       "text": "แต่ไม่เคยฉงนใจเลยว่าวิฮูฟเตจะใช้อิทธิพลชั่วร้ายเข้ายึดครองการนำในกลุ่มเดย์เบรกเกอร์... มันเจ็บใจเหลือเกินที่เรื่องแบบนี้เกิดขึ้นใต้จมูกของข้าพเจ้าแท้ ๆ"
     },
     {
-      "character": "Zekowa",
+      "key": "whatareyougonnadoabouthiscrewsomeofthemarestillintonatenyawi",
       "text_en": "What are you gonna do about his crew? Some of them are still in Tonatenyawi.",
       "text": "แล้วท่านจะจัดการอย่างไรกับลูกน้องบริวารของมันต่อล่ะครับ? บางส่วนยังปักหลักกบดานอยู่ที่โทนาเทนยาวีอยู่เลยนะโว้ย"
     },
     {
-      "character": "Kemakka",
+      "key": "thosewhohavebrokenthelawwillbetakenintocustody",
       "text_en": "Those who have broken the law will be taken into custody.",
       "text": "คนชั่วที่แหกกฎหมายบ้านเมืองย่อมต้องโดนควบคุมตัวไปรับโทษทัณฑ์ตามระเบียบจ้ะ"
     },
     {
-      "character": "Kemakka",
+      "key": "butthosewhohaventwillbegiventhechancetoresumewalkingthestraitandnarrow",
       "text_en": "But those who haven't will be given the chance to resume walking the strait and narrow.",
       "text": "แต่ส่วนคนไหนที่ไม่ได้ก่อความชั่วร้าย ข้าพเจ้าก็จะเปิดโอกาสให้พวกเขากลับตัวกลับใจกลับมาเดินบนเส้นทางที่ถูกต้องราบรื่นต่อไปครับ"
     },
     {
-      "character": "Kemakka",
+      "key": "whataboutyouzekowawhatdoyouintendtodonow",
       "text_en": "What about you, Zekowa? What do you intend to do now?",
       "text": "แล้วตัวแกล่ะ เซโควา? วางแผนอนาคตชีวิตอย่างไรต่อไปล่ะ?"
     },
     {
-      "character": "Zekowa",
+      "key": "whywhativealwaysdone",
       "text_en": "Why, what I've always done.",
       "text": "หืม ก็ทำในสิ่งที่ข้าทำมาตลอดนั่นแหละโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "protecttheweakandhelpthehelplesstheoldfashionedway",
       "text_en": "Protect the weak and help the helpless─the old-fashioned way!",
       "text": "ปกป้องคุ้มครองผู้ที่อ่อนแอและเยียวยาผู้เดือดร้อนที่ไร้หนทางสู้—ด้วยวิถีทางดั้งเดิมของพวกเรานี่แหละโว้ย!"
     },
     {
-      "character": "Kemakka",
+      "key": "herethiswasvowwuklamatsgiftforsomeonewasntit",
       "text_en": "Here. This was Vow Wuk Lamat's gift for someone, wasn't it?",
       "text": "เอ้า นี่ ของชิ้นนี้เป็นของขวัญของท่านสัญญาแห่งปณิธานวุค ลามัตที่ตั้งใจจะมอบให้ใครบางคนใช่ไหมจ๊ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "yesapersonverydeartoher",
       "text_en": "Yes, a person very dear to her.",
       "text": "ใช่ครับ เป็นของขวัญชิ้นสำคัญมากสำหรับคนที่เป็นครอบครัวของเธอครับ"
     },
     {
-      "character": "Kemakka",
+      "key": "isupposethisiswherewegoourseparatewaysmythanksagainforyourhelpapprehendingthevulture",
       "text_en": "I suppose this is where we go our separate ways. My thanks again for your help apprehending the Vulture.",
       "text": "ข้าพเจ้าคาดเดาว่ายามนี้คงถึงกาลเวลาที่พวกเราต้องแยกย้ายเดินทางกันต่อแล้วล่ะนะ ขอขอบคุณในความช่วยเหลือคุ้มกันภัยคุ้มครองแผ่นดินจนจับตัวไอ้แร้งสำเร็จอีกครั้งนะ"
     },
     {
-      "character": "Zekowa",
+      "key": "hahahathatwasaprettyniceshotright",
       "text_en": "Hahaha! That was a pretty nice shot, right?",
       "text": "ฮ่าฮ่าฮ่า! วิถีกระสุนการยิงของข้าเมื่อกี้เฉียบคมและเท่ระเบิดไปเลยใช่ไหมล่ะโว้ย?"
     },
     {
-      "character": "Erenville",
+      "key": "thatendedupbeingrathermorecomplicatedthanexpectedbutallswellthatendswell",
       "text_en": "That ended up being rather more complicated than expected, but all's well that ends well.",
       "text": "ถึงผลลัพธ์มันจะยืดเยื้อชวนปวดหัวมากกว่าที่คิดไว้เยอะ แต่ก็เอาเถอะ ในเมื่อผลลัพธ์มันลงเอยด้วยดีก็นับว่าราบรื่นครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "phewfinallyitsover",
       "text_en": "Phew! Finally, it's over!",
       "text": "ฟู่! ในที่สุดเรื่องยุ่งยากชวนปวดหัวทั้งหมดก็จบสิ้นลงซะทีโว้ย!"
     },
     {
-      "character": "Zekowa",
+      "key": "icouldnthavebroughthimtojusticewithoutyourhelpidontknowhowilleverrepayyou",
       "text_en": "I couldn't have brought him to justice without your help. I don't know how I'll ever repay you.",
       "text": "ข้าคงไม่มีทางเอาชนะสยบส่งตัวมันเข้าตารางได้แน่ถ้าไม่ได้ความช่วยเหลือสู้รบของพวกแก ข้าไม่รู้เลยจริง ๆ ว่าชีวิตนี้จะหาทางชดใช้หนี้บุญคุณพวกแกยังไงดีโว้ย"
     }

@@ -1,606 +1,593 @@
 {
-  "id": "a-beacon-from-beyond",
-  "wiki_path": "/wiki/A_Beacon_from_Beyond",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.5",
-  "title_en": "A Beacon from Beyond",
-  "title": "ดวงประทีปส่องทางจากต่างแดน",
-  "level": "100",
-  "location": "The Red Moon(X:6.1,Y:3.7)",
-  "npc_start": "Zero",
+  "quest_id": "a-beacon-from-beyond",
   "dialogues": [
     {
-      "character": "Golbez",
+      "key": "thatkeyofyoursintriguesmehadmyformerselfknownofitsexistenceimighthavesoughtdifferentmeanstoreachthesource",
       "text_en": "That key of yours intrigues me. Had my former self known of its existence, I might have sought different means to reach the Source...",
       "text": "กุญแจของเจ้ามันน่าสนใจยิ่งนัก หากตัวตนในอดีตของข้ารู้ถึงการคงอยู่ของมัน ข้าอาจจะเสาะหาวิธีอื่นเพื่อไปให้ถึงโลกเดิม (Source) แทนแล้ว..."
     },
     {
-      "character": "Zero",
+      "key": "untilourbattleearlierihadntcalledupondarknessinsometimeintruthifindlightabetterfitthesedays",
       "text_en": "Until our battle earlier, I hadn't called upon Darkness in some time. In truth, I find Light a better fit these days.",
       "text": "จนกระทั่งการต่อสู้เมื่อครู่ ฉันก็ไม่ได้ใช้พลังความมืดมานานแล้วล่ะ จริงๆ แล้วช่วงนี้ฉันรู้สึกว่าพลังแห่งแสงเข้ากับฉันได้ดีกว่าเสียอีก"
     },
     {
-      "character": "Zero",
+      "key": "eversinceyouleftwevebeenroamingthevoidinsearchofindividualswhowouldjoinourcause",
       "text_en": "Ever since you left, we've been roaming the void in search of individuals who would join our cause.",
       "text": "ตั้งแต่คุณจากไป พวกเราก็เดินทางร่อนเร่ไปทั่วความว่างเปล่าเพื่อตามหาผู้คนที่จะมาร่วมอุดมการณ์ด้วยกัน"
     },
     {
-      "character": "Zero",
+      "key": "althoughwereturnedtotheredmoonaftersensingenuospresencerarelydowelingerinasinglelocation",
       "text_en": "Although we returned to the red moon after sensing Enuo's presence, rarely do we linger in a single location.",
       "text": "ถึงพวกเราจะกลับมาที่ดวงจันทร์สีแดงเพราะสัมผัสได้ถึงตัวตนของเอนูโอ (Enuo) แต่ปกติแล้วพวกเราไม่ค่อยปักหลักอยู่ที่ใดที่หนึ่งนานๆ หรอก"
     },
     {
-      "character": "Zero",
+      "key": "howeveriftheinterloperyouspokeofdoesintendtoseekmeoutitmightbewisetoreturntomydomain",
       "text_en": "However, if the interloper you spoke of does intend to seek me out, it might be wise to return to my domain.",
       "text": "แต่ถ้าผู้บุกรุกที่คุณพูดถึงมีเจตนาจะมาหาฉันจริงๆ การกลับไปยังดินแดนของฉันน่าจะเป็นทางเลือกที่ฉลาดกว่า"
     },
     {
-      "character": "Zero",
+      "key": "whydontyoujoinuswithenuodefeatedthesourceshouldbeinnoimminentdanger",
       "text_en": "Why don't you join us? With Enuo defeated, the Source should be in no imminent danger.",
       "text": "คุณมาร่วมทางกับพวกเราด้วยกันสิ? ในเมื่อเอนูโอพ่ายแพ้ไปแล้ว โลกเดิม (Source) ก็น่าจะปลอดภัยจากภัยอันตรายในอนาคตอันใกล้แล้วล่ะ"
     },
     {
-      "character": "Zero",
+      "key": "goodwellwaitforyoubythecrater",
       "text_en": "Good. We'll wait for you by the crater.",
       "text": "ดีเลย งั้นพวกเราจะไปรอคุณตรงปากปล่องภูเขาไฟนะ"
     },
     {
-      "character": "Zero",
+      "key": "ipresumeyouremembertravelingbynisrochoncewereachthesurfacethecreaturewillconveyustomydomain",
       "text_en": "I presume you remember traveling by nisroch? Once we reach the surface, the creature will convey us to my domain.",
       "text": "คงยังจำการเดินทางด้วยนิสรอช (Nisroch) ได้สินะ? พอเราขึ้นไปถึงพื้นผิวแล้ว มันจะพาพวกเราไปยังดินแดนของฉันเอง"
     },
     {
-      "character": "Golbez",
+      "key": "thereisateleportersituatedbetweenhereandthecenterofthemoon",
       "text_en": "There is a teleporter situated between here and the center of the moon.",
       "text": "มีเครื่องเคลื่อนย้ายมวลสารติดตั้งอยู่ระหว่างที่นี่กับแกนกลางของดวงจันทร์"
     },
     {
-      "character": "Golbez",
+      "key": "iusedittotraveltothesurfaceindayslongpastthoughiseldomhadneedoncemygeneralswereinplace",
       "text_en": "I used it to travel to the surface in days long past, though I seldom had need once my generals were in place.",
       "text": "ข้าเคยใช้มันเดินทางขึ้นสู่พื้นผิวเมื่อนานมาแล้ว แต่พอเหล่าขุนพลของข้าเข้าประจำตำแหน่ง ข้าก็แทบไม่มีความจำเป็นต้องใช้มันอีกเลย"
     },
     {
-      "character": "Golbez",
+      "key": "igeyorhmherselfcraftedthedevicethatimightlaylowtheservantoflight",
       "text_en": "Igeyorhm herself crafted the device that I might lay low the servant of Light.",
       "text": "ตัวของอิกียอร์ม (Igeyorhm) เป็นผู้สร้างอุปกรณ์ชิ้นนี้ขึ้นมาด้วยตัวเอง เพื่อให้ข้าใช้สยบข้ารับใช้แห่งแสงลงได้"
     },
     {
-      "character": "Golbez",
+      "key": "ironicthatwenowuseitseekingtorestorelighttothevoid",
       "text_en": "Ironic that we now use it seeking to restore Light to the void...",
       "text": "ช่างย้อนแย้งสิ้นดี ที่ตอนนี้พวกเรากลับต้องใช้มันเพื่อหาวิธีนำแสงสว่างคืนสู่ความว่างเปล่าเช่นนี้..."
     },
     {
-      "character": "Golbez",
+      "key": "ahforgivemyidlereminiscencestistimewemadeourdescent",
       "text_en": "Ah, forgive my idle reminiscences. 'Tis time we made our descent.",
       "text": "อา ยกโทษให้ข้าที่มัวแต่ระลึกความหลังอย่างไร้สาระเถิด ได้เวลาที่เราต้องลงไปกันแล้ว"
     },
     {
-      "character": "Golbez",
+      "key": "therearemanyinthisdomainwhostillfearmeishallremainheretoavoidneedlessprovocation",
       "text_en": "There are many in this domain who still fear me. I shall remain here to avoid needless provocation.",
       "text": "ในดินแดนนี้ยังมีผู้คนอีกมากที่ยังหวาดกลัวข้าอยู่ ข้าจะรออยู่ที่นี่เพื่อหลีกเลี่ยงการยั่วยุโดยไม่จำเป็น"
     },
     {
-      "character": "Zero",
+      "key": "thoughitwasnotalwayssomanywholiveherenowhavechosentodosobecausetheysupportthecause",
       "text_en": "Though it was not always so, many who live here now have chosen to do so because they support the cause.",
       "text": "ถึงแต่ก่อนจะไม่ใช่แบบนั้น แต่ผู้คนที่อาศัยอยู่ที่นี่ในตอนนี้ส่วนใหญ่เลือกมาอยู่ที่นี่เพราะพวกเขาสนับสนุนอุดมการณ์ของพวกเรา"
     },
     {
-      "character": "Zero",
+      "key": "indeedifournumberscontinuetogrowwemayrequiremoreterritory",
       "text_en": "Indeed, if our numbers continue to grow, we may require more territory.",
       "text": "และถ้าพวกเรามีจำนวนเพิ่มขึ้นเรื่อยๆ ก็อาจจะต้องขยายอาณาเขตเพิ่มเติม"
     },
     {
-      "character": "Zero",
+      "key": "thankfullywewereabletoharnesstheresidualaetherfrombarbaricciasdomainthosereserveswillenablemetoexpandmineastheneedarises",
       "text_en": "Thankfully, we were able to harness the residual aether from Barbariccia's domain. Those reserves will enable me to expand mine as the need arises.",
       "text": "โชคดีที่พวกเราสามารถดึงพลังงานอีเธอร์ที่หลงเหลืออยู่ในดินแดนของบาร์บาริกเซีย (Barbariccia) มาใช้ได้ พลังงานสำรองเหล่านั้นจะช่วยให้ฉันขยายอาณาเขตของตัวเองได้หากจำเป็น"
     },
     {
-      "character": "Zero",
+      "key": "rightwehadbestprepareforourpotentialguestjoinmeinmyabodewhenyoureready",
       "text_en": "Right, we had best prepare for our potential guest. Join me in my abode when you're ready.",
       "text": "เอาล่ะ เรามาเตรียมการต้อนรับแขกที่อาจจะมาเยือนกันเถอะ เข้าไปหาฉันในบ้านได้เลยเมื่อคุณพร้อม"
     },
     {
-      "character": "Zero",
+      "key": "iimagineyourememberthesethetransmittersweusedtoreceivelightfromthefirst",
       "text_en": "I imagine you remember these. The transmitters we used to receive Light from the First...",
       "text": "ฉันคิดว่าคุณน่าจะจำสิ่งเหล่านี้ได้นะ เครื่องส่งสัญญาณที่พวกเราเคยใช้รับพลังงานแสงจากโลกที่หนึ่ง (First) น่ะ..."
     },
     {
-      "character": "Zero",
+      "key": "ifmemoryservestheyworkbychannelingexcessaetherleftinthewakeofthefloodintothecrystaltower",
       "text_en": "If memory serves, they work by channeling excess aether left in the wake of the Flood into the Crystal Tower.",
       "text": "ถ้าจำไม่ผิด มันทำงานโดยการส่งพลังงานอีเธอร์ส่วนเกินที่หลงเหลือจากอุทกภัยแห่งแสง (Flood of Light) เข้าสู่หอคอยคริสตัล (Crystal Tower)"
     },
     {
-      "character": "Zero",
+      "key": "usingthetowerscrossrifttravelcapabilitieslightisthenconveyeduntothethirteenthandintothesedevices",
       "text_en": "Using the tower's cross-rift travel capabilities, Light is then conveyed unto the Thirteenth and into these devices.",
       "text": "แล้วอาศัยความสามารถในการเดินทางข้ามมิติรอยแยกของหอคอย ส่งพลังงานแสงนั้นมายังโลกที่สิบสาม (Thirteenth) และเข้าสู่อุปกรณ์พวกนี้"
     },
     {
-      "character": "Zero",
+      "key": "ihaveamindtousethemnowbuttheyllneedtobesetinanelevatedlocationyourassistancewouldbegreatlyappreciated",
       "text_en": "I have a mind to use them now, but they'll need to be set in an elevated location. Your assistance would be greatly appreciated.",
       "text": "ฉันคิดจะใช้พวกมันในตอนนี้ แต่เราจำเป็นต้องนำพวกมันไปติดตั้งไว้ในที่สูง ถ้าคุณช่วยคงจะดีมากเลย"
     },
     {
-      "character": "Zero",
+      "key": "usingthetransmittersinherewontsuitmyplanwerequirehigherground",
       "text_en": "Using the transmitters in here won't suit my plan. We require higher ground.",
       "text": "การใช้เครื่องส่งสัญญาณข้างในนี้ไม่เหมาะกับแผนการของฉันหรอก เราต้องการพื้นที่ที่สูงกว่านี้"
     },
     {
-      "character": "Zero",
+      "key": "uponactivationthesetransmitterswillshinewithlightfrombeyondsentcourtesyofoureverwatchfulfriends",
       "text_en": "Upon activation, these transmitters will shine with Light from beyond─sent courtesy of our ever-watchful friends.",
       "text": "เมื่อเปิดใช้งาน เครื่องส่งสัญญาณเหล่านี้จะส่องประกายด้วยแสงสว่างจากดินแดนที่ห่างไกล ซึ่งส่งมาจากเพื่อนพ้องที่คอยเฝ้ามองพวกเราอยู่เสมอ"
     },
     {
-      "character": "Zero",
+      "key": "theywillserveasbeaconsinthedarkforthosethatwouldseekmeout",
       "text_en": "They will serve as beacons in the Dark for those that would seek me out.",
       "text": "พวกมันจะทำหน้าที่เป็นประทีปนำทางในความมืดมิด สำหรับใครก็ตามที่ออกตามหาฉัน"
     },
     {
-      "character": "Malphas",
+      "key": "lightinthevoid",
       "text_en": "Light, in the void...!",
       "text": "แสงสว่าง... ในความว่างเปล่าอย่างนั้นรึ...!"
     },
     {
-      "character": "Malphas",
+      "key": "andamortalnolessididnotexpecttoseeyouhere",
       "text_en": "And a mortal, no less. I did not expect to see you here.",
       "text": "แถมยังมีมนุษย์อยู่อีกด้วย ข้าไม่คิดเลยว่าจะได้พบเจ้าที่นี่"
     },
     {
-      "character": "Zero",
+      "key": "iamzeroandthisismydomaintisasafehavenforthosewhoabhorconflict",
       "text_en": "I am Zero, and this is my domain. 'Tis a safe haven for those who abhor conflict.",
       "text": "ฉันชื่อซีโร่ และนี่คือดินแดนของฉัน มันเป็นสถานที่หลบภัยอันปลอดภัยสำหรับผู้ที่เกลียดชังความขัดแย้ง"
     },
     {
-      "character": "Zero",
+      "key": "amongthosegatheredheremanyaspiretorestorethisworldtohowitoncewas",
       "text_en": "Among those gathered here, many aspire to restore this world to how it once was.",
       "text": "ในบรรดาผู้คนที่มารวมตัวกันที่นี่ หลายคนปรารถนาที่จะฟื้นฟูโลกใบนี้ให้กลับมาเป็นดังเช่นในอดีต"
     },
     {
-      "character": "Malphas",
+      "key": "suchathingispossible",
       "text_en": "Such a thing is possible?",
       "text": "เรื่องแบบนั้นมันเป็นไปได้ด้วยอย่างนั้นหรือ?"
     },
     {
-      "character": "Zero",
+      "key": "indeedthoughhowlongtheendeavorwilltakeicannotsay",
       "text_en": "Indeed. Though how long the endeavor will take, I cannot say.",
       "text": "แน่นอน ถึงฉันจะบอกไม่ได้ว่าจะต้องใช้เวลาสักเท่าใดก็ตาม"
     },
     {
-      "character": "Zero",
+      "key": "butforthoseofusabandonedbydeathitselfwhatdowehavebuttimetotryandtryagain",
       "text_en": "But for those of us abandoned by death itself, what do we have but time to try, and try again?",
       "text": "แต่สำหรับพวกเราที่ถูกทอดทิ้งแม้กระทั่งจากความตาย สิ่งที่เรามีเหลือเฟือก็คือเวลาที่จะลองพยายามครั้งแล้วครั้งเล่าไม่ใช่หรือ?"
     },
     {
-      "character": "Malphas",
+      "key": "verywell",
       "text_en": "Very well.",
       "text": "เข้าใจแล้ว"
     },
     {
-      "character": "Malphas",
+      "key": "thislightisampleproofyourcomradespoketruehoweverlongittakestorestoreourworldyoushallhavemyaid",
       "text_en": "This Light is ample proof your comrade spoke true. However long it takes to restore our world, you shall have my aid.",
       "text": "แสงสว่างนี้เป็นหลักฐานชั้นดีว่าสหายของเจ้าพูดความจริง ไม่ว่าจะต้องใช้เวลานานเท่าใดในการฟื้นฟูโลกของเรา ข้ายินดีจะช่วยเหลือเจ้าเอง"
     },
     {
-      "character": "Zero",
+      "key": "andyoushallhavemine",
       "text_en": "And you shall have mine.",
       "text": "และฉันก็ยินดีจะช่วยเธอเช่นกัน"
     },
     {
-      "character": "Golbez",
+      "key": "thatbrilliantbeamthoughbutadropintheoceanimsureitsradiancedispelledthedarknessfromwithinsomefewvoidsent",
       "text_en": "That brilliant beam... Though but a drop in the ocean, I'm sure its radiance dispelled the Darkness from within some few voidsent.",
       "text": "ลำแสงอันเจิดจ้านั่น... แม้จะเปรียบเสมือนน้ำเพียงหยดเดียวในมหาสมุทร แต่ข้าก็มั่นใจว่ารัศมีของมันได้ช่วยขจัดความมืดมิดในใจของอสูรความว่างเปล่า (voidsent) บางตนไปได้บ้าง"
     },
     {
-      "character": "Malphas",
+      "key": "perhapsishallusemyabilitiestoassembleadwellinginthisdomain",
       "text_en": "Perhaps I shall use my abilities to assemble a dwelling in this domain...",
       "text": "บางทีข้าอาจจะใช้พลังของข้าสร้างที่อยู่อาศัยในดินแดนแห่งนี้สักแห่ง..."
     },
     {
-      "character": "Zero",
+      "key": "itwouldseemjullussinterventionhashelpedforgeanewbondthankyouforbringingwordtome",
       "text_en": "It would seem Jullus's intervention has helped forge a new bond. Thank you for bringing word to me.",
       "text": "ดูเหมือนว่าการช่วยเหลือของจูลลัส (Jullus) จะช่วยสร้างสายสัมพันธ์ใหม่ขึ้นมาได้ ขอบคุณมากที่คาบข่าวมาบอกนะ"
     },
     {
-      "character": "Zero",
+      "key": "igatheryoullheadhomesoonerratherthanlater",
       "text_en": "I gather you'll head home sooner rather than later?",
       "text": "คุณคงจะกลับบ้านในเร็วๆ นี้เลยใช่ไหม?"
     },
     {
-      "character": "Zero",
+      "key": "thenletusreturntotheredmoonimsureyouwontbegrudgemeaproperfarewell",
       "text_en": "Then let us return to the red moon. I'm sure you won't begrudge me a proper farewell.",
       "text": "ถ้าอย่างนั้นเรากลับไปที่ดวงจันทร์สีแดงกันเถอะ ฉันหวังว่าคุณจะไม่รังเกียจที่จะร่ำลากันอย่างเป็นทางการนะ"
     },
     {
-      "character": "Zero",
+      "key": "wouldyoudeliveramessagetojullusformetellhimthatweremakingprogresstowardsrebuildingourhomeandihopethatheistoo",
       "text_en": "Would you deliver a message to Jullus for me? Tell him that we're making progress towards rebuilding our home...and I hope that he is too.",
       "text": "ช่วยฝากข้อความถึงจูลลัสหน่อยได้ไหม? บอกเขาว่าพวกเรากำลังก้าวหน้าไปกับการฟื้นฟูบ้านเกิด... และฉันก็หวังว่าเขาเองก็เป็นเช่นนั้นเหมือนกัน"
     },
     {
-      "character": "Golbez",
+      "key": "enuosmemoriawillbesafehere",
       "text_en": "Enuo's memoria will be safe here.",
       "text": "ผลึกเมโมเรียของเอนูโอ (Enuo) จะปลอดภัยดีที่นี่"
     },
     {
-      "character": "Golbez",
+      "key": "thecrystalcontainingzeromushasbeenpassedontoouralliesinthefirst",
       "text_en": "The crystal containing Zeromus has been passed on to our allies in the First...",
       "text": "คริสตัลที่กักขังเซโรมุส (Zeromus) ได้ถูกส่งต่อไปยังพันธมิตรของพวกเราในโลกที่หนึ่ง (First) แล้ว..."
     },
     {
-      "character": "Golbez",
+      "key": "ifenuosmemoriamightservetheminrestoringtheirworldweshalllikewiseconsideritstransfer",
       "text_en": "If Enuo's memoria might serve them in restoring their world, we shall likewise consider its transfer.",
       "text": "หากผลึกเมโมเรียของเอนูโอจะมีประโยชน์ต่อพวกเขาในการฟื้นฟูโลก พวกเราก็จะพิจารณาส่งมอบมันให้เช่นกัน"
     },
     {
-      "character": "Zero",
+      "key": "howmuchsimpleritwouldbetoaidoneanotherinourrespectivefightswereitnotfortheseboundariesbetweenus",
       "text_en": "How much simpler it would be to aid one another in our respective fights, were it not for these boundaries between us...",
       "text": "มันจะง่ายกว่านี้สักแค่ไหนกันนะ หากเราสามารถช่วยเหลือเกื้อกูลในการต่อสู้ของกันและกันได้ โดยไม่มีเส้นแบ่งมิติกั้นกลางเอาไว้เช่นนี้..."
     },
     {
-      "character": "Zero",
+      "key": "safetravelsmyfriendwetakecomfortintheknowledgethatyoureouttherefightingtoowhereveryoumaybe",
       "text_en": "Safe travels, my friend. We take comfort in the knowledge that you're out there fighting too, wherever you may be.",
       "text": "เดินทางปลอดภัยนะเพื่อนของฉัน พวกเราอุ่นใจเสมอเมื่อรู้ว่าคุณเองก็กำลังต่อสู้อยู่ที่ไหนสักแห่งเช่นกัน"
     },
     {
-      "character": "Thancred",
+      "key": "noluckimafraiditappearshesshesnotinmarelamentorum",
       "text_en": "No luck, I'm afraid. It appears he's / she's not in Mare Lamentorum.",
       "text": "คว้าน้ำเหลวแฮะ ดูเหมือนเจ้าตัวจะไม่ได้อยู่ที่แมร์ ลาเมนโตรัม (Mare Lamentorum) หรอก"
     },
     {
-      "character": "G'raha Tia",
+      "key": "waitisthat",
       "text_en": "Wait, is that...?",
       "text": "เดี๋ยวก่อนครับ นั่นใช่...?"
     },
     {
-      "character": "Alisaie",
+      "key": "godsyouhadusworriedyousuddenlydisappearedwedidntknowwhattothink",
       "text_en": "Gods, you had us worried! You suddenly disappeared─we didn't know what to think.",
       "text": "โธ่เอ๊ย ทำเอาเป็นห่วงแทบแย่! จู่ๆ ก็หายตัวไปเฉยๆ—พวกเราไม่รู้จะคิดยังไงเลยนะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "shortlyafteryouvanishedthevoidsentincursionabruptlyended",
       "text_en": "Shortly after you vanished, the voidsent incursion abruptly ended.",
       "text": "หลังจากที่คุณหายตัวไปได้ไม่นาน การบุกรุกของพวกอสูรความว่างเปล่าก็ยุติลงทันทีครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "wesurmisedyouhadahandinthatbutneverdiditcrossourmindsthatyouwerefightingalongsidezeroandgolbez",
       "text_en": "We surmised you had a hand in that, but never did it cross our minds that you were fighting alongside Zero and Golbez.",
       "text": "พวกเราคาดเดาว่าคุณน่าจะมีส่วนร่วมในเรื่องนั้น แต่ไม่เคยคาดคิดมาก่อนเลยว่าคุณจะไปต่อสู้เคียงบ่าเคียงไหล่กับซีโร่และกอลเบซ"
     },
     {
-      "character": "Krile",
+      "key": "thisgoldenpathyousaidyoutraversedwasntvisibletouseither",
       "text_en": "This golden path you said you traversed wasn't visible to us either.",
       "text": "เส้นทางสีทองที่คุณบอกว่าข้ามผ่านมานั้น พวกเราเองก็มองไม่เห็นเหมือนกันค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "nordidwehearavoiceethosmightthisbethekeystruename",
       "text_en": "Nor did we hear a voice. “Ethos”... Might this be the key's true name?",
       "text": "แล้วพวกเราก็ไม่ได้ยินเสียงอะไรเลยด้วย... “อีธอส” (Ethos)... หรือนี่จะเป็นชื่อจริงของกุญแจดอกนั้นกันนะ?"
     },
     {
-      "character": "Y'shtola",
+      "key": "whilemanymysteriesremainfornowiamgladtolearnthestateofaffairsinthethirteenth",
       "text_en": "While many mysteries remain, for now I am glad to learn the state of affairs in the Thirteenth.",
       "text": "ถึงจะยังคงมีปริศนาอีกมากมาย แต่ในตอนนี้ฉันก็ยินดีที่ได้ยินว่าสถานการณ์ในโลกที่สิบสามยังเรียบร้อยดี"
     },
     {
-      "character": "Y'shtola",
+      "key": "golbezssuspicionthatthebarriertwixtworldshasbeguntoweaken",
       "text_en": "Golbez's suspicion that the barrier 'twixt worlds has begun to weaken...",
       "text": "ข้อสงสัยของกอลเบซที่ว่า บาเรียที่กั้นระหว่างโลกเริ่มอ่อนกำลังลง..."
     },
     {
-      "character": "Y'shtola",
+      "key": "twouldcertainlyexplainthesurgeinfissuresmanifestinginthesource",
       "text_en": "'Twould certainly explain the surge in fissures manifesting in the Source.",
       "text": "นั่นสามารถอธิบายเรื่องรอยแยกมิติที่ปรากฏขึ้นอย่างมากมายในโลกเดิม (Source) ได้เป็นอย่างดีเลยล่ะ"
     },
     {
-      "character": "Urianger",
+      "key": "yetwhatcouldbebehindsuchaphenomenon",
       "text_en": "Yet what could be behind such a phenomenon?",
       "text": "ทว่า... อะไรเล่าที่เป็นสาเหตุของปรากฏการณ์ดังกล่าวกัน?"
     },
     {
-      "character": "Thancred",
+      "key": "andwhomightyoubenotavoidsentidwager",
       "text_en": "And who might you be? Not a voidsent, I'd wager.",
       "text": "แล้วเธอเป็นใครกันล่ะ? พนันได้เลยว่าไม่ใช่พวกอสูรความว่างเปล่าแน่"
     },
     {
-      "character": "???",
+      "key": "greetings",
       "text_en": "Greetings.",
       "text": "ยินดีที่ได้พบ"
     },
     {
-      "character": "Halmarut",
+      "key": "iamhalmarutoftheascians",
       "text_en": "I am Halmarut of the Ascians.",
       "text": "ข้าคือฮาลมารุต (Halmarut) แห่งชาวแอสเชียน (Ascians)"
     },
     {
-      "character": "Halmarut",
+      "key": "weareyourswornfoesiknowbutonthisoccasionwillyounotputawayyourarms",
       "text_en": "We are your sworn foes, I know. But on this occasion, will you not put away your arms?",
       "text": "ข้ารู้ดีว่าพวกเราคือศัตรูคู่อาฆาตของพวกเจ้า แต่ในโอกาสนี้ จะยอมลดอาวุธลงก่อนได้หรือไม่?"
     },
     {
-      "character": "Halmarut",
+      "key": "iwishonlytotalk",
       "text_en": "I wish only to talk.",
       "text": "ข้าเพียงแต่ต้องการจะเจรจาเท่านั้น"
     },
     {
-      "character": "Halmarut",
+      "key": "thankyouforaffordingmeachance",
       "text_en": "Thank you for affording me a chance.",
       "text": "ขอบคุณที่ยอมเปิดโอกาสให้ข้า"
     },
     {
-      "character": "Y'shtola",
+      "key": "bereftoftheunsunderedwewereundertheimpressionyouandyoursnolongerhadcausetocontinueyouractivities",
       "text_en": "Bereft of the unsundered, we were under the impression you and yours no longer had cause to continue your activities.",
       "text": "ในเมื่อไม่มีผู้ไม่ถูกแยกส่วน (Unsundered) หลงเหลืออยู่แล้ว พวกเราจึงคิดว่าเธอและพวกพ้องไม่มีเหตุผลที่จะเคลื่อนไหวต่อไปอีก"
     },
     {
-      "character": "Y'shtola",
+      "key": "thatyoushouldrevealyourselfatthisjuncture",
       "text_en": "That you should reveal yourself at this juncture...",
       "text": "การที่เธอมาปรากฏตัวในสถานการณ์หัวเลี้ยวหัวต่อเช่นนี้..."
     },
     {
-      "character": "Y'shtola",
+      "key": "iassumeyouaretheonewhobestowedcalyxwiththeknowledgeofsummoningandthereflections",
       "text_en": "I assume you are the one who bestowed Calyx with the knowledge of summoning and the reflections.",
       "text": "ฉันขอเดาว่าเธอคงเป็นผู้ที่มอบความรู้เรื่องการอัญเชิญและการข้ามมิติเงาสะท้อนให้กับคาลิกซ์ (Calyx) สินะ"
     },
     {
-      "character": "Halmarut",
+      "key": "yesthatiscorrect",
       "text_en": "Yes... That is correct.",
       "text": "ใช่... เป็นเช่นนั้นจริง"
     },
     {
-      "character": "Calyx",
+      "key": "gasp",
       "text_en": "<gasp>",
       "text": "<สะดุ้งหอบ>"
     },
     {
-      "character": "Calyx",
+      "key": "wasitnecessarytorevealmypresentformaswell",
       "text_en": "...Was it necessary to reveal my present form as well?",
       "text": "...จำเป็นต้องแสดงร่างปัจจุบันของฉันให้เห็นขนาดนี้ด้วยหรือ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "calyxsohesucceededintransferringhismemoriesafterall",
       "text_en": "Calyx! So he succeeded in transferring his memories after all...",
       "text": "คาลิกซ์! สรุปว่าเขาประสบความสำเร็จในการถ่ายโอนความทรงจำจริงๆ สินะ..."
     },
     {
-      "character": "Calyx",
+      "key": "beateaseevenwereitooccupyacombatorientedvesseliwouldnothavetheabilitytodefeatyou",
       "text_en": "Be at ease. Even were I to occupy a combat-oriented vessel, I would not have the ability to defeat you.",
       "text": "สบายใจได้ ต่อให้ฉันเข้าไปอยู่ในร่างที่ออกแบบมาเพื่อการต่อสู้ ฉันก็ไม่มีความสามารถพอจะเอาชนะพวกคุณได้หรอก"
     },
     {
-      "character": "Calyx",
+      "key": "youdestroyedmyplanmylifesworkihavenaughttoreplaceitnorwillieverregainwhationcehad",
       "text_en": "You destroyed my plan─my life's work. I have naught to replace it, nor will I ever regain what I once had.",
       "text": "พวกคุณทำลายแผนการของฉัน—ผลงานทั้งชีวิตของฉันไปจนหมดสิ้น ฉันไม่มีอะไรเหลือพอจะมาทดแทนมันได้อีก และไม่มีวันได้สิ่งที่เคยมีกลับคืนมาด้วย"
     },
     {
-      "character": "Alphinaud",
+      "key": "ifyouwishtospeakhalmarutwillyounottelluswhatitisthatyouhopetoaccomplish",
       "text_en": "If you wish to speak, Halmarut, will you not tell us what it is that you hope to accomplish?",
       "text": "หากคุณต้องการจะพูดคุย ฮาลมารุต ช่วยบอกพวกเราหน่อยได้ไหมครับว่าจุดประสงค์ของคุณคืออะไรกันแน่?"
     },
     {
-      "character": "Halmarut",
+      "key": "asyouknowourstaretheiryswassunderedintofourandtenshardsinthetimeoftheancients",
       "text_en": "As you know, our star, Etheirys, was sundered into four and ten shards in the time of the ancients.",
       "text": "อย่างที่พวกเจ้ารู้ ดวงดาวเอเธียริส (Etheirys) ของพวกเราถูกแบ่งออกเป็นสิบสี่ซีกโลกในยุคของชาวโบราณ"
     },
     {
-      "character": "Halmarut",
+      "key": "asthewillofthestarhydaelynperpetuatedthisunnaturaldivisionformillennia",
       "text_en": "As the will of the star, Hydaelyn perpetuated this unnatural division for millennia.",
       "text": "ในฐานะเจตจำนงแห่งดวงดาว ไฮดาเอลิน (Hydaelyn) ได้รักษาสถานะการแบ่งแยกอันผิดธรรมชาตินี้สืบมานานนับพันปี"
     },
     {
-      "character": "Halmarut",
+      "key": "andinthewakeofherpassingnaturehasbeguntoreassertitselfasawoundknitsitselftogetherthestarseekstobecomewholeoncemore",
       "text_en": "And in the wake of Her passing, nature has begun to reassert itself. As a wound knits itself together, the star seeks to become whole once more.",
       "text": "และภายหลังการจากไปของนาง ธรรมชาติก็เริ่มกลับมาทวงคืนวิถีของมัน เช่นเดียวกับบาดแผลที่ค่อยๆ สมานตัว ดวงดาวดวงนี้กำลังหาทางกลับมาเป็นหนึ่งเดียวอีกครั้ง"
     },
     {
-      "character": "Halmarut",
+      "key": "yesitseekstorejoinwithallofitsshards",
       "text_en": "Yes, it seeks to rejoin with all of its shards.",
       "text": "ใช่แล้ว มันกำลังพยายามจะกลับมารวมกับซีกโลกเงาสะท้อนทั้งหมดของมัน"
     },
     {
-      "character": "Halmarut",
+      "key": "unliketheoneweasciansattemptedtoorchestratehoweverthestarsrejoiningwillaffordmankindnospecialtreatment",
       "text_en": "Unlike the one we Ascians attempted to orchestrate, however, the star's rejoining will afford mankind no special treatment.",
       "text": "ทว่าการรวมโลกตามวิถีของดวงดาวนี้ จะไม่เหมือนกับการรวมโลก (Rejoining) ที่พวกเราชาวแอสเชียนเคยพยายามจะจัดเตรียม เพราะมันจะไม่มีการดูแลเป็นพิเศษใดๆ ให้แก่มนุษยชาติทั้งสิ้น"
     },
     {
-      "character": "Halmarut",
+      "key": "alllifeandmatterwillbecondensedintoasinglewholeandremadeforanewbeginningacompleterebirth",
       "text_en": "All life and matter will be condensed into a single whole and remade for a new beginning. A complete rebirth.",
       "text": "ชีวิตและสรรพสสารทั้งหมดจะถูกหลอมรวมเข้าด้วยกันเป็นหนึ่งเดียว และสร้างขึ้นมาใหม่เพื่อการเริ่มต้นใหม่ เป็นการเกิดใหม่โดยสมบูรณ์"
     },
     {
-      "character": "Halmarut",
+      "key": "etheiryswillreturntothewayitoncewashundredsofmillionsofyearspasttoaquietandpeacefultimelongbeforethelightofmankindwaskindled",
       "text_en": "Etheirys will return to the way it once was, hundreds of millions of years past. To a quiet and peaceful time, long before the light of mankind was kindled.",
       "text": "เอเธียริสจะกลับคืนสู่สภาพที่มันเคยเป็นเมื่อหลายร้อยล้านปีก่อน สู่ยุคสมัยอันเงียบสงบและสงบราบคาบ นานแสนนานก่อนที่แสงสว่างของมนุษยชาติจะถูกจุดขึ้น"
     },
     {
-      "character": "Alisaie",
+      "key": "supposingforamomentwebelieveyouhowcanyoupossiblyknowallthis",
       "text_en": "Supposing for a moment we believe you, how can you possibly know all this?",
       "text": "สมมติว่าพวกเรายอมเชื่อคุณ แล้วคุณรู้เรื่องทั้งหมดนี้ได้ยังไงกัน?"
     },
     {
-      "character": "Halmarut",
+      "key": "itisaninevitabilitythatihaveforeseensincetimeimmemorial",
       "text_en": "It is an inevitability that I have foreseen since time immemorial.",
       "text": "มันคือชะตากรรมที่หลีกเลี่ยงไม่ได้ ซึ่งข้าเล็งเห็นมาตั้งแต่โบราณกาล"
     },
     {
-      "character": "Halmarut",
+      "key": "afuturethatawaitsshouldcreationbefreedfromtheinfluenceofhydaelynandzodiark",
       "text_en": "A future that awaits should creation be freed from the influence of Hydaelyn and Zodiark.",
       "text": "อนาคตอันหลีกเลี่ยงไม่ได้ที่จะเกิดขึ้น เมื่อการสรรค์สร้างหลุดพ้นจากอำนาจของไฮดาเอลินและโซดิอาร์ก (Zodiark)"
     },
     {
-      "character": "Halmarut",
+      "key": "thestaristoleranttolifeitholdsnogrudgesandneitherragesnorweepsforbeingsundered",
       "text_en": "The star is tolerant to life. It holds no grudges, and neither rages nor weeps for being sundered.",
       "text": "ดวงดาวดวงนี้โอบอ้อมอารีต่อชีวิต มันไม่ได้ถือโทษโกรธแค้น ไม่เคยโกรธเกรี้ยวหรือโศกเศร้าที่ต้องถูกแบ่งแยกออกเป็นส่วนๆ"
     },
     {
-      "character": "Halmarut",
+      "key": "yetbythesametokenitisindifferenttolifessurvivalnoamountofdevastationanddeathcancompelittostopthewheelsofcreationfromturning",
       "text_en": "Yet by the same token, it is indifferent to life's survival. No amount of devastation and death can compel it to stop the wheels of creation from turning.",
       "text": "แต่ในทางกลับกัน มันก็เฉยเมยต่อการอยู่รอดของชีวิตเช่นกัน ต่อให้เกิดการล้มตายและความพินาศย่อยยับเพียงใด ก็ไม่อาจหยุดยั้งกงล้อแห่งการสรรค์สร้างไม่ให้หมุนไปได้"
     },
     {
-      "character": "Halmarut",
+      "key": "theearthshakesandmountainsspewfirefloodswashawaythefruitsoflaborandicywindsfreezeandstarvecountlessperishasnaturerunsitscourse",
       "text_en": "The earth shakes, and mountains spew fire. Floods wash away the fruits of labor, and icy winds freeze and starve. Countless perish as nature runs its course.",
       "text": "ผืนดินสั่นสะเทือน ขุนเขาพ่นเปลวเพลิง อุทกภัยพัดพาผลผลิตจากน้ำพักน้ำแรง ลมหนาวเย็นเยือกคร่าชีวิตและทำให้อดอยาก ผู้คนล้มตายลงนับไม่ถ้วนเมื่อธรรมชาติดำเนินไปตามวิถีของมัน"
     },
     {
-      "character": "Halmarut",
+      "key": "somanyseedsoflifehavealreadybeenlostyetinspiteofthispeoplecontinuetobelievethatthemorrowwillcome",
       "text_en": "So many seeds of life have already been lost. Yet in spite of this, people continue to believe that the morrow will come.",
       "text": "เมล็ดพันธุ์แห่งชีวิตมากมายได้สูญสลายไปแล้ว ทว่าถึงจะเป็นเช่นนั้น ผู้คนก็ยังคงเชื่อมั่นว่าวันพรุ่งนี้จะมาถึง"
     },
     {
-      "character": "Halmarut",
+      "key": "butitwillnotfornothingliesbeyondthesolsticewhenallcreationisreunitedwhenthatdaycomeseverylasttraceofmankindshallbeerased",
       "text_en": "But it will not. For nothing lies beyond the Solstice, when all creation is reunited. When that day comes, every last trace of mankind shall be erased.",
       "text": "แต่มันจะไม่เป็นเช่นนั้น เพราะไม่มีสิ่งใดหลงเหลืออยู่นอกเหนือจาก 'วันโซลสติส' (Solstice) เมื่อสรรพสิ่งกลับมารวมตัวกันอีกครั้ง เมื่อวันนั้นมาถึง ร่องรอยสุดท้ายของมนุษยชาติจะถูกลบล้างไปจนหมดสิ้น"
     },
     {
-      "character": "Halmarut",
+      "key": "icherishmansjourney",
       "text_en": "I cherish man's journey.",
       "text": "ข้าหวงแหนเส้นทางการเดินทางของมนุษย์ยิ่งนัก"
     },
     {
-      "character": "Halmarut",
+      "key": "despitelosinghisinnocenceandbeingmadetolivewithsufferinghehasforgedeveronwardstrongevenasheisweakhisisaproudtaleinthehistoryofthestar",
       "text_en": "Despite losing his innocence and being made to live with suffering, he has forged ever onward. Strong even as he is weak, his is a proud tale in the history of the star.",
       "text": "แม้จะต้องสูญเสียความบริสุทธิ์และเผชิญหน้ากับความทุกข์ยาก แต่เขาก็ยังคงก้าวเดินต่อไปข้างหน้า แข็งแกร่งแม้ในยามที่อ่อนแอ เรื่องราวของเขาช่างเป็นตำนานอันน่าภาคภูมิใจในประวัติศาสตร์ของดวงดาวดวงนี้"
     },
     {
-      "character": "Halmarut",
+      "key": "twouldbeashameforthattaletoendforalltowitheranddiewhensomemightyetsurvivewouldyounotagree",
       "text_en": "'Twould be a shame for that tale to end. For all to wither and die when some might yet survive. Would you not agree?",
       "text": "ช่างน่าเสียดายหากตำนานนั้นต้องจบสิ้นลง ต้องมาร่วงโรยและดับสูญไป ทั้งที่อาจมีบางคนรอดชีวิตได้... เจ้าไม่เห็นด้วยอย่างนั้นหรือ?"
     },
     {
-      "character": "Urianger",
+      "key": "ifanaturalrejoiningdothleaduntothesolsticethenthineintentistopreemptivelyrejointheworlds",
       "text_en": "If a natural rejoining doth lead unto the Solstice, then thine intent is to preemptively rejoin the worlds.",
       "text": "หากการรวมโลกตามวิถีธรรมชาติจะนำไปสู่โซลสติส... เช่นนั้น เจตจำนงของเจ้าก็คือการชิงชำระรวมโลกเสียก่อนเพื่อเลี่ยงชะตากรรมนั้นสินะ"
     },
     {
-      "character": "Calyx",
+      "key": "correctitwasforthisverypurposethathalmarutrecruitedsuitablecollaboratorsfromthereflections",
       "text_en": "Correct. It was for this very purpose that Halmarut recruited suitable collaborators from the reflections.",
       "text": "ถูกต้อง เพื่อเป้าหมายนี้เอง ฮาลมารุตจึงได้สรรหาผู้ร่วมอุดมการณ์ที่เหมาะสมจากโลกเงาสะท้อนต่างๆ"
     },
     {
-      "character": "Calyx",
+      "key": "individualslikemewhowouldwillinglydoomanotherworldinordertofulfilltheiraspirations",
       "text_en": "Individuals like me, who would willingly doom another world in order to fulfill their aspirations.",
       "text": "ผู้คนที่ยอมอุทิศตนทลายโลกอื่นให้พินาศเพื่อบรรลุความปรารถนาของตัวเองอย่างเช่นฉัน"
     },
     {
-      "character": "Calyx",
+      "key": "thewintererswearecalledandifyouandyoursseektoprotectalllifethensoonerorlateryoushallhavetocontendwithus",
       "text_en": "The Winterers, we are called. And if you and yours seek to protect all life, then sooner or later, you shall have to contend with us.",
       "text": "พวกเราถูกขนานนามว่า 'วินเทอเรอร์ส' (Winterers) และหากพวกคุณพยายามจะปกป้องทุกชีวิต ไม่ช้าก็เร็วพวกคุณก็จะต้องมาเผชิญหน้ากับพวกเรา"
     },
     {
-      "character": "Krile",
+      "key": "evenifeverythingyouclaimistrue",
       "text_en": "Even if everything you claim is true...",
       "text": "ต่อให้ทุกสิ่งที่คุณพูดมาจะเป็นความจริงก็เถอะ..."
     },
     {
-      "character": "Krile",
+      "key": "whatyouvedonecalyxitsunforgivable",
       "text_en": "What you've done, Calyx... It's unforgivable!",
       "text": "แต่สิ่งที่คุณทำลงไป คาลิกซ์... มันเป็นเรื่องที่ยกโทษให้ไม่ได้เด็ดขาด!"
     },
     {
-      "character": "Halmarut",
+      "key": "idonotaskthatyoubepragmaticnordoiseekyourapproval",
       "text_en": "I do not ask that you be pragmatic, nor do I seek your approval.",
       "text": "ข้าไม่ได้ขอให้พวกเจ้ามองโลกตามความเป็นจริง และไม่ได้ต้องการความเห็นชอบจากพวกเจ้า"
     },
     {
-      "character": "Halmarut",
+      "key": "givenyourfamiliaritywithotherreflectionstisonlynaturalthatyouareaversetoourmethods",
       "text_en": "Given your familiarity with other reflections, 'tis only natural that you are averse to our methods.",
       "text": "เมื่อพิจารณาจากการที่พวกเจ้าคุ้นเคยกับโลกเงาสะท้อนอื่นๆ จึงเป็นธรรมดาที่พวกเจ้าจะต่อต้านวิธีการของพวกข้า"
     },
     {
-      "character": "Halmarut",
+      "key": "butthereisoneirrefutablefactthatyoumustunderstand",
       "text_en": "But there is one irrefutable fact that you must understand.",
       "text": "แต่มีข้อเท็จจริงประการหนึ่งที่ไม่อาจโต้แย้งได้ซึ่งพวกเจ้าต้องทำความเข้าใจไว้"
     },
     {
-      "character": "Halmarut",
+      "key": "shouldwetakenoactionatallthesolsticewillcomeandnoonewillbeleftalivenoone",
       "text_en": "Should we take no action at all, the Solstice will come. And no one will be left alive. No one.",
       "text": "หากพวกเราไม่ทำอะไรเลย วันโซลสติสจะมาเยือน และจะไม่มีใครรอดชีวิตอยู่เลย... ไม่มีเลยสักคนเดียว"
     },
     {
-      "character": "Halmarut",
+      "key": "ofcourseshoulditservetosatisfyyourambitionyouarewelcometodealwiththereflectionsasyoudeemfit",
       "text_en": "Of course, should it serve to satisfy your ambition, you are welcome to deal with the reflections as you deem fit.",
       "text": "แน่นอนว่า หากการทำเช่นนั้นมันจะช่วยตอบสนองความปรารถนาของพวกเจ้าได้ พวกเจ้าจะจัดการกับโลกเงาสะท้อนเหล่านั้นตามแต่ใจต้องการก็ย่อมได้"
     },
     {
-      "character": "Halmarut",
+      "key": "likethepariahandwandererwhosatisfiedhisownwhenhebroughtthestartothebrinkofruintofaceyou",
       "text_en": "Like the pariah and wanderer who satisfied his own, when he brought the star to the brink of ruin to face you.",
       "text": "เช่นเดียวกับผู้ถูกเนรเทศและผู้ร่อนเร่ผู้นั้นที่เลือกเดินตามความปรารถนาของตนเอง ยามที่เขาผลักดันดวงดาวสู่ปากเหวแห่งความพินาศเพื่อเผชิญหน้ากับเจ้า"
     },
     {
-      "character": "Krile",
+      "key": "wwait",
       "text_en": "W-Wait!",
       "text": "เดี๋ยวก่อนสิ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "tothinkthatindividualsofcalyxsilkorworseexistonothershards",
       "text_en": "To think that individuals of Calyx's ilk or worse exist on other shards...",
       "text": "ไม่คิดเลยว่าจะมีคนที่เหมือนกับคาลิกซ์ หรืออาจจะเลวร้ายกว่านั้น อยู่บนโลกเงาสะท้อนอื่นด้วย..."
     },
     {
-      "character": "Krile",
+      "key": "youllhavetoforgivemeimstillcomingtotermswithitall",
       "text_en": "You'll have to forgive me. I'm still coming to terms with it all...",
       "text": "ต้องขอโทษด้วยนะคะ ฉันยังปรับความรู้สึกกับเรื่องทั้งหมดนี้ไม่ทันเลย..."
     },
     {
-      "character": "Alisaie",
+      "key": "halmarutcantbespeakingthetruthcanshe",
       "text_en": "Halmarut can't be speaking the truth... Can she?",
       "text": "ฮาลมารุตไม่มีทางพูดความจริงหรอก... ใช่ไหม?"
     },
     {
-      "character": "Alphinaud",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Urianger",
+      "key": "theasciansoncelaboredtoresurrectzodiarkandbringbackthosewhorendereduptheirlivestosummonhimforthesakeofthosewhonowlivewefoughttirelesslytoopposethem",
       "text_en": "The Ascians once labored to resurrect Zodiark and bring back those who rendered up their lives to summon Him. For the sake of those who now live, we fought tirelessly to oppose them.",
       "text": "ครั้งหนึ่งชาวแอสเชียนเคยดิ้นรนเพื่อปลุกชีพโซดิอาร์ก และพาดวงวิญญาณของผู้ที่ยอมสละชีพเพื่ออัญเชิญพระองค์กลับมา ทว่าเพื่อประโยชน์ของเหล่าผู้คนที่มีชีวิตอยู่ในปัจจุบัน พวกเราจึงเข้าขัดขวางและต่อสู้กับพวกเขาอย่างไม่ย่อท้อ"
     },
     {
-      "character": "Urianger",
+      "key": "ifhalmarutdothtrulyseekarejoiningtoavertthissolsticetoensuresomesurvivewhenotherwiseallwouldperishthenourinterestsarenotsodisparate",
       "text_en": "If Halmarut doth truly seek a rejoining to avert this Solstice─to ensure some survive when otherwise all would perish...then our interests are not so disparate.",
       "text": "แต่หากเป้าหมายของฮาลมารุตคือการรวมโลกเพื่อหลีกเลี่ยงโซลสติส... เพื่อรับรองว่าจะมีผู้รอดชีวิตในยามที่สรรพสิ่งอื่นต้องดับสูญ เช่นนั้นแล้ว เจตจำนงของพวกเราก็มิได้ขัดแย้งกันโดยสิ้นเชิง..."
     },
     {
-      "character": "Thancred",
+      "key": "trusttheascianstobeplottingsomethingutterlyreprehensible",
       "text_en": "Trust the Ascians to be plotting something utterly reprehensible...",
       "text": "พวกแอสเชียนเนี่ย ไว้ใจไม่ได้จริงๆ มักจะชอบวางแผนการที่น่ารังเกียจชะมัด..."
     },
     {
-      "character": "Y'shtola",
+      "key": "thoughiamtemptedtodismissapreemptiverejoiningasanutterlyabsurdsolutionherwordsarenottobetakenlightly",
       "text_en": "Though I am tempted to dismiss a “preemptive rejoining” as an utterly absurd solution, her words are not to be taken lightly...",
       "text": "แม้ฉันจะอยากปฏิเสธเรื่อง 'การชิงรวมโลกก่อน' ว่าเป็นวิธีแก้ปัญหาที่ไร้สาระสิ้นดี แต่คำพูดของนางก็ไม่ใช่เรื่องที่จะมองข้ามได้ง่ายๆ เลยล่ะ..."
     },
     {
-      "character": "Livingway",
+      "key": "thereyouareonemomentyouwerestandingbeforemeandthenextyoudvanishedintothinair",
       "text_en": "There you are! One moment you were standing before me, and the next you'd vanished into thin air!",
       "text": "อยู่นี่เองเหรอคะ! เมื่อกี้ยังยืนอยู่ตรงหน้าแท้ๆ แต่จู่ๆ ก็หายวับไปกับตาเลย!"
     },
     {
-      "character": "Livingway",
+      "key": "thankstoyouallthevoidsenthavebeeneradicatedandthegateliessealedoncemoretheresbeennaryapeepfromthecrater",
       "text_en": "Thanks to you all, the voidsent have been eradicated and the gate lies sealed once more. There's been nary a peep from the crater!",
       "text": "ต้องขอบคุณทุกท่านมากๆ เลยนะคะ ตอนนี้พวกอสูรความว่างเปล่าถูกกำจัดจนหมดสิ้น และประตูก็ถูกปิดผนึกอีกครั้งแล้ว ไม่มีวี่แววความเคลื่อนไหวใดๆ จากปากปล่องภูเขาไฟเลยค่ะ!"
     },
     {
-      "character": "Livingway",
+      "key": "thoughicanthelpbutnoticenoneofyouseemtosharemyenthusiasmissomethingwrong",
       "text_en": "...Though I can't help but notice none of you seem to share my enthusiasm. Is something wrong?",
       "text": "...แต่ฉันสังเกตเห็นว่าดูเหมือนไม่มีใครรู้สึกกระตือรือร้นร่วมไปกับฉันเลย มีอะไรผิดปกติหรือเปล่าคะ?"
     },
     {
-      "character": "Livingway",
+      "key": "thestarseekstobecomewhole",
       "text_en": "The star seeks to become whole?",
       "text": "ดวงดาวกำลังหาทางกลับมาเป็นหนึ่งเดียวกันงั้นหรือคะ?"
     },
     {
-      "character": "Livingway",
+      "key": "bbutthatspreposterousasfarasimawarehydaelynmadenomentionofanaturalrejoiningioughttoconsulttherecordstobecertain",
       "text_en": "B-But that's preposterous! As far as I'm aware, Hydaelyn made no mention of a natural rejoining. I ought to consult the records to be certain...",
       "text": "มะ...ไม่มีทางค่ะ! เท่าที่ฉันทราบ ไฮดาเอลินไม่เคยตรัสถึงเรื่องการรวมโลกตามธรรมชาติเลยนะคะ ฉันคงต้องลองไปค้นดูบันทึกประวัติศาสตร์เพื่อความแน่ใจเสียหน่อยแล้ว..."
     },
     {
-      "character": "Livingway",
+      "key": "butnotbeforethankingyoufordispatchingthevoidsentsohandilyyouwellandtrulysavedtheday",
       "text_en": "But not before thanking you for dispatching the voidsent so handily! You well and truly saved the day.",
       "text": "แต่ก่อนหน้านั้น ฉันต้องขอขอบคุณทุกท่านที่ช่วยกำจัดพวกอสูรความว่างเปล่าได้อย่างง่ายดายเช่นนี้! ทุกท่านช่วยปกป้องพวกเราไว้ได้จริงๆ ค่ะ"
     },
     {
-      "character": "Livingway",
+      "key": "irealizepresentcircumstancesarehardlyconducivetodoingsobutpleasetrytogetsomerestwhileyoucaniknowiwouldbeexhaustedafteryourtrialsinthevoid",
       "text_en": "I realize present circumstances are hardly conducive to doing so, but please try to get some rest while you can! I know I would be exhausted after your trials in the void...",
       "text": "ถึงสถานการณ์ในตอนนี้จะดูไม่ค่อยเอื้ออำนวยให้พักผ่อนเท่าไหร่ แต่ช่วยหาเวลาพักผ่อนบ้างเท่าที่จะทำได้นะคะ! ฉันเข้าใจดีเลยล่ะค่ะว่าการเดินทางฝ่าฟันอุปสรรคในความว่างเปล่ามันน่าจะเหนื่อยล้าขนาดไหน..."
     }

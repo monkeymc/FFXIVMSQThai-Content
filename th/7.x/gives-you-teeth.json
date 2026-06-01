@@ -1,716 +1,698 @@
 {
-  "id": "gives-you-teeth",
-  "wiki_path": "/wiki/Gives_You_Teeth",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/2/20/Gives_You_Teeth.png",
-  "patch": "7.0",
-  "title_en": "Gives You Teeth",
-  "title": "เผยเขี้ยวเล็บ",
-  "level": "98",
-  "location": "Solution Nine(X:18.4,Y:18.2)",
-  "npc_start": "Tassos",
+  "quest_id": "gives-you-teeth",
   "dialogues": [
     {
-      "character": "Blue-scaled Hoobigo Child",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Wuk Lamat",
+      "key": "comeonletstalktothistassosfellow",
       "text_en": "Come on, let's talk to this Tassos fellow.",
       "text": "มาเถอะ พวกเราลองเข้าไปคุยกับทัสซอสคนนั้นดูกัน"
     },
     {
-      "character": "Melancholy",
+      "key": "hellothereadorablewhatwillitbeforyouidbegladtowhipupanything",
       "text_en": "Hello there, adorable. What will it be? For you, I'd be glad to whip up anything.",
       "text": "สวัสดีค่ะ พ่อคนน่ารัก สนใจรับเครื่องดื่มอะไรดีคะ? สำหรับคุณแล้ว ฉันยินดีจะปรุงอะไรให้ทานเป็นพิเศษก็ได้หมดเลยค่ะ"
     },
     {
-      "character": "Tassos",
+      "key": "thisareasnormallyofflimitsbutcahciuastoldusaboutyou",
       "text_en": "This area's normally off-limits, but Cahciua's told us about you.",
       "text": "พื้นที่ส่วนนี้ตามปกติแล้วเป็นเขตหวงห้ามและห้ามบุคคลภายนอกเข้าครับ แต่ว่าคุณคาชิวาได้แจ้งเรื่องเกี่ยวกับพวกคุณไว้ให้ทราบเรียบร้อยแล้วล่ะครับ"
     },
     {
-      "character": "Tassos",
+      "key": "justfollowthecorridorandheadintotheroomattheend",
       "text_en": "Just follow the corridor, and head into the room at the end.",
       "text": "เดินตรงไปตามโถงทางเดินข้างหน้านี้ได้เลยครับ แล้วเข้าไปในห้องที่อยู่สุดปลายทางเดินครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letsgoforenamewhateverhappensyouwontcatchmebeingsurprised",
       "text_en": "Let's go, Forename . Whatever happens, you won't catch me being surprised!",
       "text": "ไปกันเถอะ Forename ไม่ว่าจะเกิดเรื่องอะไรขึ้น คราวนี้ไม่มีทางเห็นฉันทำท่าตกอกตกใจเด็ดขาดชัวร์!"
     },
     {
-      "character": "Cahciua",
+      "key": "wonderfultheyrehere",
       "text_en": "Wonderful, they're here.",
       "text": "วิเศษเลย มาถึงกันครบแล้ว"
     },
     {
-      "character": "Krile",
+      "key": "weveonlyjustarrivedourselves",
       "text_en": "We've only just arrived ourselves.",
       "text": "พวกเราเองก็เพิ่งจะเดินทางมาถึงเหมือนกันค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "amazing",
       "text_en": "Amazing...",
       "text": "ไม่น่าเชื่อเลย..."
     },
     {
-      "character": "Cahciua",
+      "key": "ibidyouwelcometothebackroomoblivionshumbleheadquarters",
       "text_en": "I bid you welcome to the Backroom, Oblivion's humble headquarters.",
       "text": "ยินดีต้อนรับสู่เดอะ แบ็ครูม ศูนย์บัญชาการหลักอันแสนเรียบง่ายของกลุ่มอ็อบลิเวียนจ๊ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "ahideouttuckedbehindadrinkingholebringsbackmemoriesdoesntit",
       "text_en": "A hideout tucked behind a drinking hole... Brings back memories, doesn't it?",
       "text": "ห้องกบดานลับที่ซ่อนตัวอยู่หลังร้านเหล้า... ชวนให้นึกถึงความหลังเก่าๆ ขึ้นมาเลยว่าไหม?"
     },
     {
-      "character": "Cahciua",
+      "key": "ourmembersherearemainlycreatorsandadaptersthatisscientistsandengineerswhospecializeinelectrope",
       "text_en": "Our members here are mainly creators and adapters—that is, scientists and engineers who specialize in electrope.",
       "text": "สมาชิกที่ประจำการอยู่ที่นี่ส่วนใหญ่ทำหน้าที่เป็นนักประดิษฐ์และนักดัดแปลงจ๊ะ พูดง่ายๆ ก็คือพวกนักวิทยาศาสตร์และวิศวกรที่เชี่ยวชาญเทคโนโลยีเอเลกโทรปน่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "theyusetheirskillstoprovidesupporttoourfieldoperatives",
       "text_en": "They use their skills to provide support to our field operatives.",
       "text": "พวกเขาใช้ทักษะความรู้ความสามารถมาช่วยทำหน้าที่ซัพพอร์ตคอยสนับสนุนพวกหน่วยปฏิบัติการภาคสนามของพวกเราจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "genoltshalebesokindastogiveourfriendsanoverviewofyourduties",
       "text_en": "Genolt, Shale—be so kind as to give our friends an overview of your duties.",
       "text": "เจโนลต์, เชล—รบกวนช่วยสรุปรายงานขอบเขตหน้าที่งานของตัวเองให้เพื่อนใหม่ฟังหน่อยสิคะ"
     },
     {
-      "character": "Genolt",
+      "key": "welltheresprovisioningottohavesuppliestofightthegoodfightaintyaluckilywevegotthetoolstocraftmostofwhatweneed",
       "text_en": "Well, there's provisionin'. Got to have supplies to fight the good fight, ain't ya? Luckily, we've got the tools to craft most of what we need.",
       "text": "เออ หน้าที่ข้าก็คือจัดหาเสบียงและของใช้ว่ะ การจะออกไปสู้รบสู้ศึกมันก็ต้องมีเสบียงคอยสนับสนุนใช่ไหมล่ะ? โชคดีที่พวกเรามีอุปกรณ์เครื่องไม้เครื่องมือมากพอที่จะสร้างของส่วนใหญ่ที่ต้องการขึ้นมาได้เองล่ะนะ"
     },
     {
-      "character": "Shale",
+      "key": "gatheringintelligenceisanothervitalaspectofourworkeverkeepscoresystemisaveritabletreasuretroveofinformationyoujustneedtoknowhowtogetinandfindit",
       "text_en": "Gathering intelligence is another vital aspect of our work. Everkeep's core system is a veritable treasure trove of information. You just need to know how to get in and find it.",
       "text": "การเก็บรวบรวมข้อมูลสืบข่าวกรองก็เป็นอีกหนึ่งงานหลักที่สำคัญมากของพวกเราค่ะ ระบบแกนกลางของเอเวอร์คีปนี่เปรียบเสมือนขุมทรัพย์แห่งข้อมูลเลยล่ะค่ะ ขอแค่รู้วิธีเจาะระบบเข้าไปค้นหาข้อมูลให้ถูกจุดก็พอค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "wealsohandlesurveillanceandcommunicationswatchingtheenemysmovementsandcoordinatingourownthatsortofthing",
       "text_en": "We also handle surveillance and communications—watching the enemy's movements and coordinating our own, that sort of thing.",
       "text": "นอกจากนี้พวกเรายังคอยคุมกล้องตรวจตราความปลอดภัยและช่องสัญญาณติดต่อสื่อสารด้วยค่ะ คอยสังเกตการณ์การเคลื่อนไหวของศัตรูและคอยประสานงานจัดระเบียบฝั่งเรา อะไรทำนองนั้นแหละค่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "andamongallouractivitieswespendafairbitofeffortinvestigatingpreservation",
       "text_en": "And among all our activities, we spend a fair bit of effort investigating Preservation.",
       "text": "และในบรรดากิจกรรมปฏิบัติการทั้งหมดของพวกเรา พวกเรายังอุทิศแรงกายแรงใจอย่างมากในการสืบค้นข้อมูลข่าวกรองเกี่ยวกับเพรสเซอเวชัน (Preservation) ด้วยจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "theorganizationcreditedwithlayingthefoundationsofelectropetechnology",
       "text_en": "The organization credited with laying the foundations of electrope technology.",
       "text": "กลุ่มองค์กรที่ได้รับเครดิตว่าเป็นผู้วางรากฐานและพัฒนาเทคโนโลยีเอเลกโทรปขึ้นมาเป็นกลุ่มแรกๆ น่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "fromthesoulmanagementsystemtoeverkeepsdesigntheyrebehindjustabouteverythingyouseehereitdbenoexaggerationtosaytheymadethisrealmwhatitis",
       "text_en": "From the soul management system to Everkeep's design, they're behind just about everything you see here. It'd be no exaggeration to say they made this realm what it is.",
       "text": "ตั้งแต่ระบบการจัดการบริหารวิญญาณ ไปจนถึงแบบแปลนโครงสร้างของหอคอยเอเวอร์คีป พวกเขาอยู่เบื้องหลังแทบจะทุกสิ่งทุกอย่างที่เห็นที่นี่เลยล่ะจ๊ะ จะพูดว่าพวกเขาคือผู้รังสรรค์สร้างมิติดินแดนนี้ขึ้นมาก็คงไม่เกินความจริงเลยล่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "buttheirmagnumopuswaswithoutadoubtthepowerwhichwasusedtojoinalexandriatoturalinterdimensionalfusion",
       "text_en": "But their magnum opus was without a doubt the power which was used to join Alexandria to Tural: interdimensional fusion.",
       "text": "แต่งานชิ้นโบแดงที่ยิ่งใหญ่ที่สุดของพวกเขาย่อมหนีไม่พ้นพลังอำนาจที่ใช้สำหรับเชื่อมต่อผสานมิติระหว่างอเล็กซานเดรียเข้ากับทูรัลแน่จ๊ะ: นั่นก็คือการหลอมรวมมิตินั่นเอง"
     },
     {
-      "character": "G'raha Tia",
+      "key": "saidpowerisntunlikemysummoningtechniqueandthemagickwithinazemscrystal",
       "text_en": "Said power isn't unlike my summoning technique and the magick within Azem's crystal.",
       "text": "พลังอำนาจที่ว่านั่นฟังดูไม่ต่างจากวิชาอัญเชิญของผมและเวทมนตร์ที่อยู่ในคริสตัลของอาเซมเลยนะครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "yetthoughtheeffectislocalizedtobeabletofuserealitiesevenwithmyknowledgeistruggletoconceivehowitcouldbepossible",
       "text_en": "Yet though the effect is localized, to be able to fuse realities... Even with my knowledge, I struggle to conceive how it could be possible!",
       "text": "ถึงแม้มันจะส่งผลจำกัดแค่ในพื้นที่นี้ แต่การจะหลอมรวมเอาความจริงต่างมิติเข้าด้วยกันได้เนี่ย... ต่อให้ใช้ความรู้ทั้งหมดที่ผมมี ผมก็ยังนึกภาพไม่ออกเลยจริงๆ ว่ามันจะเป็นไปได้อย่างไร!"
     },
     {
-      "character": "Cahciua",
+      "key": "incidentallythefoundersofourgroupahusbandandwifeweremembersofpreservationatonepoint",
       "text_en": "Incidentally, the founders of our group—a husband and wife—were members of Preservation at one point.",
       "text": "บังเอิญว่า ผู้ก่อตั้งกลุ่มอ็อบลิเวียนของพวกเรา—ซึ่งเป็นสามีภรรยาคู่หนึ่ง—เคยเป็นสมาชิกปฏิบัติงานของเพรสเซอเวชันมาก่อนน่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "buttheyopposedthefusingofworldsandsodefectedinordertopreventit",
       "text_en": "But they opposed the fusing of worlds, and so defected in order to prevent it.",
       "text": "แต่เนื่องจากพวกเขาคัดค้านและไม่เห็นด้วยกับการหลอมรวมมิติโลกเข้าด้วยกัน เลยตัดสินใจทรยศหักหลังหนีออกมาเพื่อขัดขวางแผนการนั้นจ๊ะ"
     },
     {
-      "character": "Krile",
+      "key": "whilenotentirelyunexpectedgivenwhatwehaveseenthisisstillquitetherevelation",
       "text_en": "While not entirely unexpected given what we have seen, this is still quite the revelation...",
       "text": "ถึงเรื่องนี้จะไม่ค่อยเหนือความคาดหมายนักเมื่อเทียบกับสิ่งที่เราได้พบเห็นมา แต่ก็นับว่าเป็นข้อมูลความลับที่สำคัญมากเลยนะคะ..."
     },
     {
-      "character": "Shale",
+      "key": "bythebythatsaninterestingearringyouhavethereanovelwayofcarryingadatastoragedevice",
       "text_en": "By the by, that's an interesting earring you have there. A novel way of carrying a data storage device.",
       "text": "จะว่าไป ตุ้มหูที่คุณสวมอยู่นั่นดูน่าสนใจจังเลยนะคะ ถือเป็นวิธีที่แปลกใหม่มากเลยในการพกพาอุปกรณ์จัดเก็บข้อมูล"
     },
     {
-      "character": "Shale",
+      "key": "ohyoudidntknow",
       "text_en": "Oh, you didn't know?",
       "text": "เอ๋ นี่คุณไม่รู้เรื่องหรอกเหรอคะ?"
     },
     {
-      "character": "Shale",
+      "key": "asaprecautionarymeasureagainstmachineinfiltrationwescaneveryoneastheyenterandwhenwescannedyouwedetectedasmallquantityofelectrope",
       "text_en": "As a precautionary measure against machine infiltration, we scan everyone as they enter. And when we scanned you, we detected a small quantity of electrope.",
       "text": "เพื่อเป็นการป้องกันความปลอดภัยจากการบุกรุกของหุ่นกลไกสอดแนม พวกเราจะสแกนร่างกายทุกคนที่เดินผ่านด่านตรวจเข้ามาค่ะ และตอนที่สแกนคุณ เราตรวจพบร่องรอยของแร่เอเลกโทรปปริมาณเล็กน้อยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "thoughitsbeendressedupthatearringisastoragedeviceandnomistakeboughtitfromashopheredidyou",
       "text_en": "Though it's been dressed up, that earring is a storage device, and no mistake. Bought it from a shop here, did you?",
       "text": "ถึงภายนอกจะดูเหมือนเครื่องประดับปกติธรรมดา แต่ตุ้มหูนั่นคืออุปกรณ์กักเก็บข้อมูลไม่ผิดแน่ค่ะ ซื้อมาจากร้านค้าแถวนี้งั้นเหรอคะ?"
     },
     {
-      "character": "Krile",
+      "key": "noititisntboughtbutinherited",
       "text_en": "No, it—it isn't bought, but...inherited.",
       "text": "เปล่าค่ะ... มันไม่ใช่ของที่ซื้อมาหรอกค่ะ แต่เป็น... มรดกตกทอดที่ได้รับสืบทอดมาจากพ่อแม่ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "sothesepeoplesentyouthroughtheportalalongwiththeearring",
       "text_en": "So these people sent you through the portal along with the earring...",
       "text": "แสดงว่าคนกลุ่มนั้นส่งตัวคุณข้ามประตูมิติมาพร้อมกับตุ้มหูชิ้นนี้สินะ..."
     },
     {
-      "character": "Krile",
+      "key": "doyouknowaughtofthem",
       "text_en": "Do you know aught of them?",
       "text": "คุณพอจะมีเบาะแสข้อมูลเกี่ยวกับพวกเขาบ้างไหมคะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "listenkrilethehusbandandwifewhofoundedourorder",
       "text_en": "Listen, Krile. The husband and wife who founded our order...",
       "text": "ฟังนะจ๊ะไครล์ สามีภรรยาคู่ที่เป็นผู้ก่อตั้งกลุ่มของพวกเรานั้น..."
     },
     {
-      "character": "Cahciua",
+      "key": "itsbelievedthattheyweremilalla",
       "text_en": "It's believed that they were Milalla.",
       "text": "เชื่อกันว่าพวกเขาเป็นชาวเผ่ามิลาลล่าจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thoughwehavenoevidenceatpresentwecantruleoutthepossibilitythattheywereyourparentsorperhapscloserelations",
       "text_en": "Though we have no evidence at present, we can't rule out the possibility that they were your parents, or perhaps close relations.",
       "text": "ถึงแม้ตอนนี้เราจะยังไม่มีหลักฐานมายืนยันแน่ชัด แต่เราก็ยังตัดความเป็นไปได้ที่ว่าพวกเขาอาจเป็นพ่อแม่ที่แท้จริงของคุณ หรืออาจเป็นญาติสนิท ออกไปไม่ได้หรอกนะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thisipositbecausetheyweretheveryindividualswhospearheadedtheresearchintointerdimensionalfusionastraitorstopreservationtheywererelentlesslypursued",
       "text_en": "This I posit because they were the very individuals who spearheaded the research into interdimensional fusion. As traitors to Preservation, they were relentlessly pursued.",
       "text": "แม่ตั้งสมมติฐานแบบนี้เพราะพวกเขาคือทีมแกนหลักที่เป็นหัวหอกวิจัยเรื่องการหลอมรวมมิติ และในฐานะคนทรยศหักหลังเพรสเซอเวชัน พวกเขาเลยถูกไล่ล่าตามจับอย่างหนักหน่วงเลยล่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "iftheyhadachildtheyfearedtheycouldntkeepsafeentrustinghertothepeopleofanotherworldmightvebeentheirbestoption",
       "text_en": "If they had a child they feared they couldn't keep safe, entrusting her to the people of another world might've been their best option.",
       "text": "ถ้าหากพวกเขามีลูกและกังวลใจว่าจะไม่สามารถปกป้องความปลอดภัยของเด็กเอาไว้ได้ การส่งตัวลูกสาวข้ามมิติไปฝากให้ผู้คนในโลกอีกฝั่งคอยชุบเลี้ยงดูแลก็นับเป็นหนทางออกที่ดีที่สุดแล้วล่ะจ๊ะ"
     },
     {
-      "character": "Krile",
+      "key": "myparentsthefoundersofoblivion",
       "text_en": "My parents...the founders of Oblivion?",
       "text": "พ่อแม่ของฉัน... คือผู้ก่อตั้งกลุ่มอ็อบลิเวียนเหรอคะ?"
     },
     {
-      "character": "Krile",
+      "key": "tellmeeverythingyouknowaboutthemnomatterhowsmallorseeminglyinsignificantanythingandeverything",
       "text_en": "Tell me everything you know about them! No matter how small or seemingly insignificant—anything and everything!",
       "text": "ได้โปรดเล่าข้อมูลทุกอย่างที่รู้เกี่ยวกับพวกเขาให้ฉันฟังหน่อยเถอะค่ะ! ไม่ว่าจะเป็นเกร็ดเล็กเกร็ดน้อยที่ดูไม่สำคัญขนาดไหน—เล่ารายละเอียดมาให้หมดเลยนะคะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "wedontevenknowtheirnamesimafraidinabidtoeludepreservationsagentswesuspecttheyerasedalltraceofthemselves",
       "text_en": "We don't even know their names, I'm afraid. In a bid to elude Preservation's agents, we suspect they erased all trace of themselves.",
       "text": "แม่ต้องขอโทษด้วยจริงๆ นะจ๊ะที่เกรงว่าพวกเราจะไม่รู้แม้กระทั่งชื่อของพวกเขาเลย เพื่อหลบเลี่ยงการสืบแกะรอยของพวกสายลับเพรสเซอเวชัน คาดว่าพวกเขาคงจะลบข้อมูลประวัติตัวตนทั้งหมดทิ้งไปเรียบร้อยแล้วล่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "imsorrywecouldntbeofmorehelpifyoureinterestedthoughyourewelcometoreviewouraccumulateddata",
       "text_en": "I'm sorry we couldn't be of more help. If you're interested, though, you're welcome to review our accumulated data.",
       "text": "แม่เสียใจด้วยจริงๆ ที่ช่วยข้อมูลเพิ่มเติมได้ไม่มากไปกว่านี้ แต่ถ้าหากเธอสนใจล่ะก็ สามารถเข้าไปเปิดค้นดูฐานข้อมูลข่าวสารสะสมทั้งหมดของพวกเราได้ตามสบายเลยนะจ๊ะ"
     },
     {
-      "character": "Krile",
+      "key": "yespleaseasanindividualandmemberofmyorderbothiwishtolearnasmuchaspossible",
       "text_en": "Yes, please! As an individual and member of my order both, I wish to learn as much as possible.",
       "text": "ยินดีเลยค่ะ! ทั้งในฐานะส่วนตัวและในฐานะสมาชิกของคณะศิษย์แห่งบัลเดสิออน ฉันปรารถนาอยากจะศึกษาข้อมูลให้ได้มากที่สุดเท่าที่จะทำได้ค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ishouldalsoliketoperusethedatawherethejoiningofrealitiesisconcernedimaywellbeofservice",
       "text_en": "I should also like to peruse the data. Where the joining of realities is concerned, I may well be of service.",
       "text": "ผมเองก็อยากร่วมศึกษาวิเคราะห์ข้อมูลด้วยคนครับ หากเกี่ยวกับประเด็นเรื่องการเชื่อมผสานมิติโลก ความรู้ของผมอาจจะช่วยวิจัยได้ระดับหนึ่งครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "ofcoursefeelfreetoperusetoyourheartscontent",
       "text_en": "Of course. Feel free to peruse to your heart's content.",
       "text": "ยินดีต้อนรับจ๊ะ ตามสบายเลยนะ เปิดดูกันได้เต็มที่เลยจ๊ะ"
     },
     {
-      "character": "Krile",
+      "key": "thankyou",
       "text_en": "Thank you!",
       "text": "ขอบคุณค่ะ!"
     },
     {
-      "character": "Shale",
+      "key": "ifyoulikeicanexamineyourearringihavetosaytheprospectthatitbelongedtoourfoundershasmeitchingtotakealook",
       "text_en": "If you like, I can examine your earring. I have to say, the prospect that it belonged to our founders has me itching to take a look.",
       "text": "ถ้าหากไม่รังเกียจ ให้ฉันลองช่วยสแกนตรวจวิเคราะห์คริสตัลที่ตุ้มหูนั่นดูไหมคะ? พอเดาว่านี่อาจเป็นของของผู้ก่อตั้งกลุ่มเราแล้ว มันทำเอาฉันตื่นเต้นทนไม่ไหวอยากจะเริ่มแกะข้อมูลเดี๋ยวนี้เลยล่ะค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "idaresaywehaveenougheyestoporeoveryourrecordsisthereanyotherwaywemightbeproductive",
       "text_en": "I daresay we have enough eyes to pore over your records. Is there any other way we might be productive?",
       "text": "คิดว่ามีคนรุมช่วยเปิดดูประวัติข้อมูลเยอะพอสมควรแล้วล่ะ ว่าแต่มีภารกิจหน้าที่อะไรอย่างอื่นให้พวกเราออกไปลุยสืบข่าวได้อีกไหม?"
     },
     {
-      "character": "Cahciua",
+      "key": "hmmmnotrightnowwerestillwaitingforzoraaljatomakethenextmove",
       "text_en": "Hmmm... Not right now. We're still waiting for Zoraal Ja to make the next move.",
       "text": "อืม... ตอนนี้ยังไม่มีอะไรจ๊ะ พวกเรายังต้องคอยตั้งรับสปายเฝ้ารอจังหวะขยับเคลื่อนไหวของโซราล จา อยู่จ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "inthatcasealisaiewouldyoumindaccompanyingme",
       "text_en": "In that case, Alisaie, would you mind accompanying me?",
       "text": "ถ้าเป็นอย่างนั้น อลิเซ เธอสนใจจะออกไปเดินสำรวจเป็นเพื่อนฉันหน่อยไหม?"
     },
     {
-      "character": "Alisaie",
+      "key": "gladly",
       "text_en": "Gladly.",
       "text": "ด้วยความยินดีเลย"
     },
     {
-      "character": "Genolt",
+      "key": "frustratedcryarrrgh",
       "text_en": "[FRUSTRATED CRY “Arrrgh”]",
       "text": "[เสียงร้องครวญครางอย่างหัวเสีย “อ๊ากกก”]"
     },
     {
-      "character": "Genolt",
+      "key": "ibuggereditupagain",
       "text_en": "I buggered it up again!",
       "text": "ข้าทำเจ๊งคามืออีกแล้วโว้ย!"
     },
     {
-      "character": "Shale",
+      "key": "sighneveramomentspeacepayhimnomindidont",
       "text_en": "<sigh> Never a moment's peace... Pay him no mind. I don't.",
       "text": "<ถอนหายใจ> ไม่มีเวลาให้ได้พักสมองสงบจิตสงบใจเลย... ไม่ต้องไปใส่ใจเขาหรอกค่ะ ขนาดฉันเองยังทำเป็นหูไปนาตาไปไร่เลย"
     },
     {
-      "character": "Genolt",
+      "key": "oiyoutwothereoneoyegivemeahandwouldyedontmatterwho",
       "text_en": "Oi, you two there. One o' ye give me a hand, would ye? Don't matter who.",
       "text": "เฮ้ย แกสองคนตรงนั้นน่ะ ขอยืมมือใครสักคนมาช่วยข้าหน่อยสิโว้ย? จะเป็นใครก็ได้ทั้งนั้นแหละ"
     },
     {
-      "character": "Erenville",
+      "key": "ijustrememberedihavematterstodiscusswithshale",
       "text_en": "...I just remembered I have matters to discuss with Shale.",
       "text": "...พอดีผมนึกขึ้นได้ว่ามีเรื่องสำคัญที่ต้องปรึกษากับเชลน่ะครับ"
     },
     {
-      "character": "Genolt",
+      "key": "impishgigglehehe",
       "text_en": "[IMPISH GIGGLE “Hehe”]",
       "text": "[หัวเราะคิกคักเจ้าเล่ห์ “หึๆ”]"
     },
     {
-      "character": "Erenville",
+      "key": "betteryouthanme",
       "text_en": "...Better you than me.",
       "text": "...โชคดีนะ เป็นนายดีกว่าเป็นผมล่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "seldomdoesoneseekrilesoopenlyimpassionedashercomradeiwilldomybesttosupporther",
       "text_en": "Seldom does one see Krile so openly impassioned. As her comrade, I will do my best to support her.",
       "text": "นานๆ ทีจะได้เห็นคุณไครล์แสดงความกระตือรือร้นสนใจข้อมูลส่วนตัวแบบนี้นะครับ ในฐานะพรรคพวกเพื่อนร่วมทาง ผมจะช่วยซัพพอร์ตเธออย่างเต็มที่แน่นอนครับ"
     },
     {
-      "character": "Krile",
+      "key": "shalehasalreadyextractedthedataontheearringatlonglastacluemyapologiesbutiwillremainheretoreviewtheinformation",
       "text_en": "Shale has already extracted the data on the earring. At long last, a clue... My apologies, but I will remain here to review the information.",
       "text": "เชลช่วยแกะข้อมูลประวัติกู้ไฟล์จากตุ้มหูออกมาได้แล้วค่ะ ในที่สุดก็มีเบาะแสสักที... ขอโทษทุกคนด้วยนะคะ แต่ฉันคงต้องขอตัวปักหลักอยู่ที่นี่เพื่ออ่านวิเคราะห์ข้อมูลก่อนล่ะค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "ifeelforyouwhilegenoltisabrilliantadaptoritsasifhesstuckonfullvolumeitsallicandotoputupwiththeclamor",
       "text_en": "I feel for you. While Genolt is a brilliant adaptor, it's as if he's stuck on full volume. It's all I can do to put up with the clamor.",
       "text": "ฉันเข้าใจความรู้สึกคุณเลยค่ะ ถึงเจโนลต์จะเป็นนักดัดแปลงที่มีฝีมืออัจฉริยะมากขนาดไหน แต่เขาก็ชอบแหกปากเสียงดังโวยวายเอาแต่ใจอยู่เรื่อยเลยล่ะค่ะ แค่ต้องทนฟังเสียงหนวกหูของเขาทุกวันก็กินแรงพลังชีวิตฉันไปเกือบหมดแล้วล่ะค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "bythebyyoudidntknowhimbeforedidyoudontseehowyoucouldbutforamomentthereyouwerelookingathimlikeyouhadseenaghost",
       "text_en": "By the by...you didn't know him before, did you? Don't see how you could, but for a moment there you were looking at him like you had seen a ghost.",
       "text": "จะว่าไป... คุณไม่เคยรู้จักหรือเจอเขามาก่อนใช่ไหมคะ? คิดว่าคงไม่มีทางหรอกนะ แต่เมื่อกี้คุณหันไปมองหน้าเขาค้างตาโต ราวกับเห็นผีแน่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whenigoontheattackdoyouthinkimpushingforwardtooquickly",
       "text_en": "When I go on the attack, do you think I'm pushing forward too quickly?",
       "text": "เวลาที่ฉันเปิดฉากบุกโจมตีใส่ศัตรู เธอคิดว่าฉันหักโหมบุกฝ่าไปข้างหน้าเร็วเกินไปหรือเปล่า?"
     },
     {
-      "character": "Alisaie",
+      "key": "alittletrytokeepclosertotherestofussoyoudontgetsurrounded",
       "text_en": "A little. Try to keep closer to the rest of us so you don't get surrounded.",
       "text": "นิดหน่อยนะ พยายามรักษาระยะห่างอย่าเดินทิ้งแถวห่างจากพวกเรามากนักสิ เดี๋ยวจะพลาดท่าโดนศัตรูล้อมกรอบเอาได้ง่ายๆ"
     },
     {
-      "character": "Cahciua",
+      "key": "thisplacewasoriginallydesignedbyapreservationengineerthatswhyitswalltowallwithcontraptions",
       "text_en": "This place was originally designed by a Preservation engineer. That's why it's wall-to-wall with contraptions.",
       "text": "ฐานที่มั่นแห่งนี้เดิมทีถูกออกแบบขึ้นโดยวิศวกรของเพรสเซอเวชันน่ะจ๊ะ ในห้องกบดานลับนี้เลยอัดแน่นไปด้วยแผงวงจรและเครื่องมือประหลาดเต็มฝาผนังเลยล่ะจ๊ะ"
     },
     {
-      "character": "Genolt",
+      "key": "sorryyehadtoseemepassionsspillinoverhappenswhenyeputyerheartansoulintoyercraftyeknow",
       "text_en": "Sorry ye had to see me passions spillin' over. Happens when ye put yer heart an' soul into yer craft, ye know?",
       "text": "โทษทีว่ะที่แกต้องมาทนเห็นอารมณ์ศิลปินข้าปะทุพลุ่งพล่านออกมาแบบนี้ เวลาตั้งใจทุ่มเททั้งตัวและจิตวิญญาณทำผลงานชิ้นเอกจากมือตัวเองขึ้นมา มันก็ต้องมีอินจัดแบบนี้เป็นธรรมดาโว้ย เข้าใจใช่ไหม?"
     },
     {
-      "character": "Genolt",
+      "key": "annottobeweirdornothinbutifeltasenseokinshipwhenisawyeasifwevemetinanotherlife",
       "text_en": "An' not to be weird or nothin', but I felt a sense o' kinship when I saw ye. As if we've met in another life...",
       "text": "แล้วก็ไม่ได้อยากจะทำตัวแปลกพิลึกหรืออะไรหรอกนะ แต่ข้ารู้สึกคุ้นหน้าและผูกพันกับแกชะมัด ราวกับพวกเราเคยเจอร่วมงานกันในชาติปางก่อนแน่ะ..."
     },
     {
-      "character": "Genolt",
+      "key": "anyroadasiwassayinineedsomeonetolendmeahand",
       "text_en": "Anyroad! As I was sayin', I need someone to lend me a hand.",
       "text": "ช่างหัวเรื่องนั้นเถอะ! เอาเป็นว่าอย่างที่ข้าบอกไปแหละ ข้าต้องการคนมาช่วยงานข้าหน่อย"
     },
     {
-      "character": "Genolt",
+      "key": "ihaventsleptfertwonightsnownotasinglewinkanimripetocollapse",
       "text_en": "I haven't slept fer two nights now—not a single wink—an' I'm ripe to collapse.",
       "text": "ข้าไม่ได้นอนหลับพักผ่อนมาสองวันสองคืนเต็มๆ แล้วเนี่ย—ตาไม่เคยปิดสักแวบเลย ร่างกายข้าจะล้มพับคาโต๊ะอยู่รอมร่อแล้ว"
     },
     {
-      "character": "Genolt",
+      "key": "cantaffordtothoughgotfolksrelyinonmeseebutifimtokeepatitineedyetofetchmemyfavoriteenergytonic",
       "text_en": "Can't afford to, though—got folks relyin' on me, see. But if I'm to keep at it, I need ye to fetch me my favorite energy tonic.",
       "text": "แต่ข้าจะล้มไม่ได้โว้ย มีคนตั้งเยอะแยะคอยฝากความหวังพึ่งพางานของข้าอยู่ แต่ถ้าจะให้ข้าถ่างตาทำงานต่อได้ล่ะก็ ข้าต้องการให้แกช่วยไปจัดหาเครื่องดื่มโทนิกบำรุงกำลังสุดโปรดของข้ามาให้หน่อย"
     },
     {
-      "character": "Genolt",
+      "key": "thatvouchersgoodfertwocansoneferyerselfbywayowelcome",
       "text_en": "That voucher's good fer two cans—one fer yerself by way o' welcome.",
       "text": "ใบรับของนี่แลกเครื่องดื่มกระป๋องได้สองกระป๋องนะ—เอาแบ่งไปดื่มเองกระป๋องหนึ่งด้วย ถือเป็นของขวัญต้อนรับสมาชิกใหม่แล้วกัน"
     },
     {
-      "character": "Genolt",
+      "key": "cantgetthestuffatanyoldvendinmachinethoughyeneedtotalktoablokenamedphilomonyoullfindhimtendinabaroutonthemainstripoffyegonow",
       "text_en": "Can't get the stuff at any old vendin' machine, though. Ye need to talk to a bloke named Philomon. You'll find him tendin' a bar out on the main strip. Off ye go, now!",
       "text": "แต่ไอ้โทนิกสูตรพิเศษนี่มันไม่มีขายตามตู้สินค้าอัตโนมัติทั่วไปหรอกโว้ย แกต้องไปหาคนชื่อฟิโลมอน เขาเปิดบาร์ดูแลกิจการอยู่ที่ถนนเส้นหลักข้างนอกนั่น รีบไปได้แล้ว ไป!"
     },
     {
-      "character": "Genolt",
+      "key": "gahdamnitallitssuchafinelookingbeautyintheblueprintwhydoesntminelooklikethat",
       "text_en": "Gah, damn it all! It's such a fine-looking beauty in the blueprint—why doesn't mine look like that!?",
       "text": "โถ่เว้ย พังพินาศหมด! ในพิมพ์เขียวก็ดูสวยงามยอดเยี่ยมดีแท้ๆ—แต่ทำไมผลงานจำลองของข้าถึงได้รูปทรงออกมาขี้เหร่แบบนี้วะ!?"
     },
     {
-      "character": "Blue-scaled Hoobigo Child",
-      "text_en": "...!",
-      "text": "...!"
-    },
-    {
-      "character": "Melancholy",
+      "key": "hellothereadorablewhatwillitbeforyouidbegladtowhipupanything",
       "text_en": "Hello there, adorable. What will it be? For you, I'd be glad to whip up anything.",
       "text": "สวัสดีค่ะ พ่อคนน่ารัก สนใจรับเครื่องดื่มอะไรดีคะ? สำหรับคุณแล้ว ฉันยินดีจะปรุงอะไรให้ทานเป็นพิเศษก็ได้หมดเลยค่ะ"
     },
     {
-      "character": "Philomon",
+      "key": "welcomewhatareyouhaving",
       "text_en": "Welcome. What are you having?",
       "text": "ยินดีต้อนรับครับ รับเครื่องดื่มอะไรดีครับ?"
     },
     {
-      "character": "Philomon",
+      "key": "energytonicsyoucantgetfromvendingmachineshowdareyousuggestthatisellsuchdangerousstuff",
       "text_en": "Energy tonics you can't get from vending machines!? How dare you suggest that I sell such dangerous stuff!",
       "text": "โทนิกบำรุงกำลังพิเศษที่ไม่มีขายในตู้อัตโนมัติงั้นเหรอ!? บังอาจนักนะที่มาใส่ความหาว่าผมลักลอบขายของอันตรายพรรค์นั้นน่ะ!"
     },
     {
-      "character": "Philomon",
+      "key": "awaywithyouawaywithyouanddontcomeback",
       "text_en": "Away with you! Away with you, and don't come back!",
       "text": "ออกไปจากร้านผมเลยครับ! ออกไปเดี๋ยวนี้แล้วห้ามกลับมาเสนอหน้าอีกนะ!"
     },
     {
-      "character": "Philomon",
+      "key": "ahemgotavoucherslipittomethenniceandsubtle",
       "text_en": "...Ahem. Got a voucher? Slip it to me, then. Nice and subtle.",
       "text": "...อะแฮ่ม มีใบรับสิทธิ์แลกของใช่ไหม? งั้นส่งยื่นมาใต้โต๊ะให้ผมเบาๆ สิ สุภาพและเนียนๆ หน่อยนะ"
     },
     {
-      "character": "Philomon",
+      "key": "ahsoyourecollectingforgenoltacanforhimandacanforyoueh",
       "text_en": "Ah, so you're collecting for Genolt. A can for him and a can for you, eh?",
       "text": "อ๋อ ที่แท้ก็มาเอาไปให้เจโนลต์นี่เอง ของเขากระป๋องหนึ่งและของคุณกระป๋องหนึ่งสินะครับ"
     },
     {
-      "character": "Philomon",
+      "key": "hereyougoyoursisformulatedforbeginnersgentlerthanthefullstrengthstuff",
       "text_en": "Here you go. Yours is formulated for beginners. Gentler than the full-strength stuff.",
       "text": "นี่ครับ เอาไป ของส่วนของคุณเป็นสูตรพิเศษสำหรับผู้เริ่มต้นนะ รสชาติและฤทธิ์ยาจะนุ่มนวลกว่าสูตรเข้มข้นตัวเต็มของเจโนลต์เยอะครับ"
     },
     {
-      "character": "Philomon",
+      "key": "itsnotcontrabandoranythingsoyouwontrunafouloftheauthoritiesbutiftherhodinaconsortiumwasmadeawareofmyspecialselectionitdbebadforbusiness",
       "text_en": "It's not contraband or anything, so you won't run afoul of the authorities. But if the Rhodina Consortium was made aware of my special selection, it'd be bad for business.",
       "text": "มันไม่ใช่ของหนีภาษีหรือของผิดกฎหมายอะไรหรอกครับ เพราะงั้นไม่ต้องห่วงว่าจะไปมีปัญหากับพวกเจ้าหน้าที่ดูแลความปลอดภัยหรอก แต่ถ้าขืนพวกกลุ่มสมาคมโรดินา (Rhodina Consortium) ล่วงรู้เรื่องเมนูพิเศษนี้เข้า กิจการร้านค้าของผมคงจะเดือดร้อนแน่ครับ"
     },
     {
-      "character": "Philomon",
+      "key": "nowseeingasitsyourfirsttimeiwantyoutodrinkyourtonicherejustincasethereresideeffects",
       "text_en": "Now, seeing as it's your first time, I want you to drink your tonic here. Just in case there're side effects.",
       "text": "เอาล่ะ ในเมื่อนี่เป็นครั้งแรกของคุณ ผมอยากขอร้องให้ช่วยดื่มโชว์ตรงนี้เดี๋ยวนี้เลยครับ เผื่อเกิดอาการข้างเคียงหรือผลกระทบขึ้นมาน่ะครับ"
     },
     {
-      "character": "Philomon",
+      "key": "bottomsupnowneedtomakesureitdoesntaffectyouinanyunintendedways",
       "text_en": "Bottoms up, now. Need to make sure it doesn't affect you in any unintended ways.",
       "text": "หมดแก้วชนกระป๋องเลยครับ ต้องเช็กให้ชัวร์ก่อนว่ามันจะไม่ส่งผลร้ายต่อร่างกายคุณในแบบที่เราไม่ต้องการครับ"
     },
     {
-      "character": "Philomon",
+      "key": "hehnowthatshowyoudoit",
       "text_en": "Heh, now that's how you do it!",
       "text": "ฮั่นแน่ ร่างกายดูแข็งแรงตอบสนองดีมากครับ!"
     },
     {
-      "character": "Philomon",
+      "key": "yourpulseoughttoquickensoonafterwhichyoullstarttoseeeverythingmoreclearlyandthenfinallyyoullfeelaroaringsurgeofenergy",
       "text_en": "Your pulse ought to quicken soon, after which you'll start to see everything more clearly. And then, finally, you'll feel a roaring surge of energy.",
       "text": "อีกประเดี๋ยวจังหวะชีพจรของคุณจะเริ่มเต้นเร็วขึ้น จากนั้นสายตาจะรู้สึกมองเห็นทุกอย่างสว่างชัดเจนแจ่มแจ้งขึ้น และท้ายที่สุด ร่างกายจะรู้สึกกระปรี้กระเปร่ามีพลังงานพลุ่งพล่านประหนึ่งเสือร้ายเลยครับ"
     },
     {
-      "character": "Philomon",
+      "key": "peoplesayitslikegrowingapairofrainbowwings",
       "text_en": "People say it's like growing a pair of rainbow wings!",
       "text": "ผู้คนเขาเปรียบเปรยกันว่ารสชาติมันเหมือนช่วยให้เรามีปีกสายรุ้งงอกออกมาจากหลังเลยล่ะครับ!"
     },
     {
-      "character": "Philomon",
+      "key": "wellyouhaventupandcarkeditsohurryalongandgivegenolthistonichetendstoleaveittothelastmomentandiexpecthesabouttokeelover",
       "text_en": "Well, you haven't up and carked it, so hurry along and give Genolt his tonic. He tends to leave it to the last moment, and I expect he's about to keel over.",
       "text": "เอาล่ะ ดูท่าทางแกจะไม่ช็อกล้มพับไปซะก่อน งั้นก็รีบเอาโทนิกส่วนที่เหลือกลับไปส่งมอบให้เจโนลต์ได้แล้วครับ ปกติเขามักชอบดันทุรังฝืนร่างกายทำงานจนเกือบวินาทีสุดท้าย คาดว่าตอนนี้ตัวเขาคงจะสลบคาโต๊ะไปแล้วล่ะครับ"
     },
     {
-      "character": "Philomon",
+      "key": "welcomeifyoureafterwholesomebeveragesyouvecometotherightplace",
       "text_en": "Welcome. If you're after wholesome beverages, you've come to the right place.",
       "text": "ยินดีต้อนรับครับ หากคุณมองหาเครื่องดื่มสุขภาพดีๆ ล่ะก็ มาถูกร้านแล้วล่ะครับ"
     },
     {
-      "character": "Tassos",
+      "key": "youheadingtothebackroom",
       "text_en": "You heading to the Backroom?",
       "text": "คุณกำลังจะเดินทางมุ่งหน้าไปที่เดอะ แบ็ครูมงั้นเหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "werelearningaboutregulatorsatthemomenthowsyourerrandcomingalong",
       "text_en": "We're learning about regulators at the moment! How's your errand coming along?",
       "text": "พวกเรากำลังยืนทำความเข้าใจเรื่องระบบเรกูเลเตอร์อยู่ล่ะ! แล้วงานวิ่งซื้อของของนายคืบหน้าไปถึงไหนแล้วล่ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "whatdoyouthinkofthecrewhereaninterestingbunchrightipersonallyrecruitedgenoltandshalebytheway",
       "text_en": "What do you think of the crew here? An interesting bunch, right? I personally recruited Genolt and Shale, by the way.",
       "text": "เธอคิดว่าเพื่อนสมาชิกที่ประจำการอยู่ที่นี่เป็นอย่างไรบ้างจ๊ะ? น่าสนใจและพิลึกคนดีใช่ไหมล่ะ? ความจริงแล้ว ฉันเป็นคนออกไปดึงตัวเจโนลต์และเชลมาร่วมทีมด้วยตัวเองเลยนะคะ"
     },
     {
-      "character": "Alisaie",
+      "key": "isitjustmeorarethererainbowsinyoureyes",
       "text_en": "Is it just me, or are there rainbows in your eyes?",
       "text": "ฉันตาฝาดไปเองหรือเปล่า หรือว่ามีเงาสะท้อนลายสายรุ้งอยู่ในตาของนายน่ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "naryamomentgoesbywithoutgenoltmoaningandgruntingipresumeitshowheexpresseshispassionforhiswork",
       "text_en": "Nary a moment goes by without Genolt moaning and grunting. I presume it's how he expresses his passion for his work.",
       "text": "ไม่มีช่วงเวลาไหนเลยครับที่เจโนลต์จะไม่แหกปากบ่นหรือร้องครวญครางเสียงดัง คาดว่าน่าจะเป็นวิธีแสดงออกถึงความมุ่งมั่นทุ่มเทต่องานประดิษฐ์ของเขานั่นแหละครับ"
     },
     {
-      "character": "Genolt",
+      "key": "yevegotthetonicgiveitherequick",
       "text_en": "Ye've got the tonic? Give it here, quick!",
       "text": "แกได้โทนิกมาแล้วเรอะ!? รีบส่งมาให้ข้าเร็วเข้าโว้ย!"
     },
     {
-      "character": "Genolt",
+      "key": "ahhhhhhthatsthestuffaintnothinlikeittoblowthecobwebsrightoutwithagreatbigkaboom",
       "text_en": "Ahhhhhh, that's the stuff! Ain't nothin' like it to blow the cobwebs right out—with a great big kaboom!",
       "text": "อ๊าาาาา รสชาตินี้แหละใช่เลย! ไม่มีอะไรช่วยเป่าปัดความง่วงงุนออกไปจากหัวได้เฉียบขาดเท่าเจ้านี่อีกแล้ว—ซู่ซ่าปะทุเหมือนฟ้าผ่าเลยโว้ย!"
     },
     {
-      "character": "Genolt",
+      "key": "awakenssomethingferalinmeitdoestransformsmeintoaremorselessbeastwhatwontstoptillitsdonewhatitwasborntodo",
       "text_en": "Awakens something feral in me, it does. Transforms me into a remorseless beast what won't stop till it's done what it was born to do!",
       "text": "มันช่วยปลุกจิตวิญญาณแห่งความดุร้ายในตัวข้าขึ้นมาจริงๆ แปลงโฉมข้าให้กลายเป็นอสูรร้ายจอมพลังที่จะไม่ยอมหยุดก้มหน้าก้มตาทำงานจนกว่างานจะสำเร็จเสร็จสิ้นตามหน้าที่ไฟแรง!"
     },
     {
-      "character": "Genolt",
+      "key": "anyroadsorryforsendinyeoffonanerrandlikethatijustcantconcentratewithoutmetonicyeknowanthepileoworkonlyevergetsbigger",
       "text_en": "Anyroad, sorry for sendin' ye off on an' errand like that. I just can't concentrate without me tonic, ye know? An' the pile o' work only ever gets bigger.",
       "text": "จะยังไงก็ช่าง ขอบใจและขอโทษด้วยแล้วกันที่ต้องส่งแกวิ่งวุ่นทำงานสัพเพเหระแบบนี้ แต่ถ้าไม่มีโทนิกประคองพลัง ข้าจะไม่มีสมาธิลุยงานเลยว่ะ แถมนึกดูสิ กองงานข้างหน้าข้าก็มีแต่จะเพิ่มสูงพูนโตขึ้นเรื่อยๆ ทุกวัน"
     },
     {
-      "character": "Genolt",
+      "key": "speakinowhichibettergetbacktoitthoseweaponsantoolsaintgointoenhancethemselves",
       "text_en": "Speakin' o' which, I better get back to it! Those weapons an' tools ain't goin' to enhance themselves!",
       "text": "พูดถึงเรื่องนี้แล้ว ข้าขอตัวหันกลับไปลุยงานต่อล่ะนะโว้ย! พวกอาวุธยุทโธปกรณ์และอุปกรณ์สู้ศึกเหล่านี้มันไม่มีวันดัดแปลงปรับปรุงตัวเองขึ้นมาได้หรอก!"
     },
     {
-      "character": "Genolt",
+      "key": "ahahahaitbeginsminestheclarityminestheprecision",
       "text_en": "Ahahaha! It begins! Mine's the clarity, mine's the precision!",
       "text": "ฮ่าๆๆๆ! เริ่มต้นแล้วโว้ย! ความคิดของข้าปลอดโปร่งแจ่มใส ความแม่นยำรังสรรค์ของข้ากลับมาแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ivebeenmeaningtoaskaboutthatmamooljachildcouldhebe",
       "text_en": "I've been meaning to ask about that Mamool Ja child. Could he be...?",
       "text": "ฉันตั้งใจจะถามอยู่เหมือนกันเกี่ยวกับเด็กชาวมามูอูล จา คนเมื่อกี้น่ะ เขาใช่...?"
     },
     {
-      "character": "Cahciua",
+      "key": "yesinalllikelihoodheszoraaljasson",
       "text_en": "Yes. In all likelihood, he's Zoraal Ja's son.",
       "text": "ใช่จ๊ะ พิจารณาจากพยานหลักฐานที่มีทั้งหมด มีความเป็นไปได้สูงมากว่าเขาคือลูกชายของโซราล จา จ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soyouthinksotoo",
       "text_en": "So you think so too...",
       "text": "แสดงว่าเธอก็คิดแบบนั้นเหมือนกันสินะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butwhatishedoinghere",
       "text_en": "But what is he doing here?",
       "text": "แต่ทำไมเด็กน้อยคนนั้นถึงมาอยู่ที่นี่ได้ล่ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "hewasabandonedthepoordearwefoundhiminthedriftdownsafewyearsago",
       "text_en": "He was abandoned, the poor dear. We found him in the driftdowns a few years ago.",
       "text": "เด็กน้อยคนนี้โดนพ่อแม่ทอดทิ้งน่ะจ๊ะ น่าสงสารมากเลยล่ะ... พวกเราบังเอิญไปพบเขานอนขดตัวอยู่แถวเขตดริฟต์ดาวน์ (Driftdowns) เมื่อไม่กี่ปีก่อนน่ะจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "tothinkhedcastasidehischild",
       "text_en": "To think he'd cast aside his child...",
       "text": "ไม่คิดเลยว่าเขาจะใจจืดใจดำกล้าทิ้งสายเลือดร่วมสาบานของตัวเองได้ลงคอ..."
     },
     {
-      "character": "Cahciua",
+      "key": "wecantsayforcertainwhohewasborntoorwhyhewasonhisownbuthesabluescaledhoobigoandzoraaljaistheonlyotheronearound",
       "text_en": "We can't say for certain who he was born to or why he was on his own. But he's a blue-scaled Hoobigo, and Zoraal Ja is the only other one around.",
       "text": "พวกเราเองก็บอกไม่ได้แน่ชัดหรอกจ๊ะว่าใครเป็นคนคลอดเขาออกมา หรือทำไมเด็กถึงได้มานอนตัวคนเดียวแบบนี้ แต่เนื่องจากเขาเป็นชาวฮูบิโกเกล็ดสีน้ำเงิน และโซราล จา ก็เป็นชาวฮูบิโกเกล็ดสีน้ำเงินเพียงคนเดียวในดินแดนนี้"
     },
     {
-      "character": "Cahciua",
+      "key": "thatbeingthecaseeveryoneassumestheyrefatherandsoneventheboyhasputtwoandtwotogether",
       "text_en": "That being the case, everyone assumes they're father and son. Even the boy has put two and two together.",
       "text": "เมื่อเป็นเช่นนั้น ทุกคนรวมถึงตัวเด็กน้อยเองเลยคาดเดาปะติดปะต่อเรื่องราวได้ตรงกันว่า พวกเขาคือพ่อลูกกันจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thisallhappenedwhenhewasverylittlesohehasnorecollectionofhisparentsitbreaksmyhearttothinkofit",
       "text_en": "This all happened when he was very little, so he has no recollection of his parents. It breaks my heart to think of it...",
       "text": "เรื่องราวทั้งหมดนี้เกิดขึ้นตั้งแต่ตอนที่เขายังเล็กพิลึกคนมาก เขาเลยไม่มีความทรงจำหลงเหลือเกี่ยวกับพ่อแม่เลยล่ะจ๊ะ คิดแล้วก็น่าเห็นอกเห็นใจและชวนปวดใจเหลือเกิน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatshisname",
       "text_en": "What's his name?",
       "text": "เด็กคนนั้นชื่ออะไรเหรอ?"
     },
     {
-      "character": "Cahciua",
+      "key": "guloolja",
       "text_en": "Gulool Ja.",
       "text": "ชื่อกูลูล จา จ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "itwasmyhopethathedgrowuptobeamanofprinciplelikehisgrandfather",
       "text_en": "It was my hope that he'd grow up to be a man of principle, like his grandfather.",
       "text": "แม่ตั้งความหวังไว้สูงมากเลยล่ะจ๊ะว่าอยากให้เขาเติบโตมาเป็นคนดีมีคุณธรรมและยึดมั่นในปณิธานความถูกต้องเหมือนอย่างคุณปู่ของเขาจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "approvingchucklehm",
       "text_en": "[APPROVING CHUCKLE “Hm”]",
       "text": "[หัวเราะในลำคอเบาๆ ด้วยความชื่นชม “หึ”]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsafinename",
       "text_en": "It's a fine name.",
       "text": "เป็นชื่อที่ไพเราะและมีความหมายงดงามมากเลยนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "ahishouldmentionthattheboyisalittleunusual",
       "text_en": "Ah, I should mention that the boy is a little unusual.",
       "text": "อ๊ะ แล้วก็มีเรื่องแปลกๆ ของเด็กน้อยคนนี้ที่แม่ควรเล่าให้ฟังอีกเรื่องจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "atfirstiintendedtoraisehimasmyownbutjustwhenithoughthewaswarmingtomehesuddenlydisappeared",
       "text_en": "At first, I intended to raise him as my own. But just when I thought he was warming to me, he suddenly disappeared.",
       "text": "ตอนแรกแม่ตั้งใจจะรับอุปการะชุบเลี้ยงเขาดั่งลูกของตัวเอง แต่พอเด็กน้อยเริ่มจะทำตัวคุ้นชินเปิดใจให้ฉันได้ไม่ทันไร จู่ๆ เขาก็หนีหายตัวไปดื้อๆ เลยจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "wesearchedhighandlowforseveraldaysandwhereshouldheturnupbutinthewildsneareverkeep",
       "text_en": "We searched high and low for several days, and where should he turn up but in the wilds near Everkeep.",
       "text": "พวกเราพยายามออกสืบหากันจลาจลอยู่ตั้งหลายวัน และจุดที่พบตัวเขากลับเป็นทุ่งกว้างธรรมชาติใกล้ๆ กับหอคอยเอเวอร์คีปโน่นแน่ะจ๊ะ"
     },
     {
-      "character": "Erenville",
+      "key": "whatitsamiraclehedidntfallpreytofiends",
       "text_en": "What? It's a miracle he didn't fall prey to fiends!",
       "text": "อะไรนะครับ? รอดชีวิตกลับมาได้โดยไม่โดนพวกอสูรร้ายธรรมชาติขย้ำกินนับว่าเป็นปาฏิหาริย์มากเลยนะครับ!"
     },
     {
-      "character": "Cahciua",
+      "key": "seethatsanotherunusualthingcreaturesdontseemtoattackhimhecouldpickhiswaythroughthethunderyardsasifhewereonastroll",
       "text_en": "See, that's another unusual thing. Creatures don't seem to attack him. He could pick his way through the Thunderyards as if he were on a stroll.",
       "text": "นั่นแหละจ๊ะคือเรื่องประหลาดอีกข้อ พวกสัตว์อสูรป่าดูเหมือนจะไม่ทำอันตรายหรือเปิดฉากจู่โจมใส่เขาเลย เขาสามารถเดินเตาะแตะฝ่าดงทุ่งอัสนีบาต (Thunderyards) ได้สบายๆ ราวกับไปเดินเล่นตามสวนสาธารณะแน่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "onmakinginquirieswelearnedthathehadbeenlivingaloneandreceivingfoodfromthepeopleoftheoutskirts",
       "text_en": "On making inquiries, we learned that he had been living alone and receiving food from the people of the outskirts.",
       "text": "หลังจากไปสอบถามเก็บข้อมูลมา เลยได้รู้ว่าเขาใช้ชีวิตอยู่ตัวคนเดียวและได้รับอาหารช่วยเหลือจากพวกชาวเมืองนอกเขตกำแพงโดมประคองชีวิตน่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thisbecamesomethingofapatternwedtrackhimdownandbringhimbackonlyforhimtodisappearagainwithinamatterofdays",
       "text_en": "This became something of a pattern. We'd track him down and bring him back, only for him to disappear again within a matter of days.",
       "text": "แล้วหลังจากนั้นก็ลงเอยเป็นลูปเดิมตลอดจ๊ะ พวกเราตามไปจับตัวและพาเขากลับมา แต่พอผ่านไปได้ไม่กี่วัน เด็กน้อยก็จะหาทางหนีหายตัวไปอีกรอบเสมอ"
     },
     {
-      "character": "Cahciua",
+      "key": "hewouldreturntothewildswithoutfailandonceagainrelyonthekindnessofstrangerstosurvive",
       "text_en": "He would return to the wilds, without fail, and once again rely on the kindness of strangers to survive.",
       "text": "เขาจะหาทางย้อนกลับไปใช้ชีวิตในป่ากว้างธรรมชาติ และพึ่งพาความเอื้อเฟื้อเผื่อแผ่แบ่งปันอาหารจากคนแปลกหน้าเพื่อเอาชีวิตรอดจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "finallyitookthehintandlefthimbegivinghimthesolitudeheprefersandlendingahandonlywhenheexplicitlyasks",
       "text_en": "Finally, I took the hint and left him be, giving him the solitude he prefers and lending a hand only when he explicitly asks.",
       "text": "ในที่สุดแม่เลยยอมทำใจเข้าใจ และปล่อยให้เขาได้ใช้ชีวิตแบบรักสันโดษตามใจปรารถนา และยื่นมือช่วยเหลือเฉพาะเวลาที่เด็กเอ่ยปากขอโดยตรงเท่านั้นจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifgulooljaiszoraaljaschildthatmakeshimmynephew",
       "text_en": "If Gulool Ja is Zoraal Ja's child, that makes him my nephew.",
       "text": "ถ้าหากกูลูล จา เป็นลูกของโซราล จา จริงๆ ล่ะก็... เขาก็มีสถานะเป็นหลานชายแท้ๆ ของฉันน่ะสิ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "assumingheswillingidbegladtotakehiminlikepapadidforme",
       "text_en": "Assuming he's willing, I'd be glad to take him in like Papa did for me.",
       "text": "ถ้าเกิดเด็กยินยอมพร้อมใจล่ะก็ ฉันยินดีที่จะรับอุปการะเลี้ยงดูเขาเหมือนอย่างที่ท่านพ่อเคยช่วยเหลือรับเลี้ยงฉันในอดีตนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butseeingasimheretokillhisfatheridontknowifitwouldberight",
       "text_en": "But seeing as I'm here to kill his father, I don't know if it would be right...",
       "text": "แต่ติดตรงที่ว่า... เป้าหมายในการมาที่นี่ของฉันคือการมาปลิดชีพพ่อแท้ๆ ของเขา ฉันเลยไม่รู้จริงๆ ว่าการรับเลี้ยงเขาไว้มันจะสมควรและถูกต้องหรือเปล่า..."
     },
     {
-      "character": "Erenville",
+      "key": "whowasthat",
       "text_en": "Who was that?",
       "text": "...ใครอยู่ตรงประตูทางเข้าน่ะครับ?"
     },
     {
-      "character": "Shale",
+      "key": "ohdearitsguloolja",
       "text_en": "Oh dear... It's Gulool Ja.",
       "text": "แย่แล้ว... นั่นคือกูลูล จา ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "donttellmeheheardeverything",
       "text_en": "Don't tell me he heard everything!?",
       "text": "อย่าบอกนะว่าเขาได้ยินเรื่องราวทั้งหมดที่พวกเราพูดคุยกันเมื่อกี้น่ะ!?"
     },
     {
-      "character": "Cahciua",
+      "key": "thisismyfaultiaskedthathebekeptawaybutishouldvetakenmoreprecautions",
       "text_en": "This is my fault. I asked that he be kept away, but I should've taken more precautions...",
       "text": "เป็นความบกพร่องและผิดของแม่เองจ๊ะ ฉันควรระมัดระวังรอบคอบให้มากกว่านี้ในเมื่อให้สัญญาสั่งคนคอยกันเด็กเอาไว้แล้ว..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imgoingafterhimineedtoexplain",
       "text_en": "I'm going after him. I need to explain!",
       "text": "ฉันจะตามเขาไป! ฉันจำเป็นต้องอธิบายให้เขาเข้าใจ!"
     },
     {
-      "character": "Alisaie",
+      "key": "waitlamatyiiunderstandyourhastebutitdbebesttocoordinateasearch",
       "text_en": "Wait, Lamaty'i. I understand your haste, but it'd be best to coordinate a search.",
       "text": "เดี๋ยวก่อน วุค ลามัต ฉันเข้าใจนะว่าเธอร้อนใจกระวนกระวายใจ แต่พวกเรามาจัดแจงแบ่งหน้าที่แบ่งเขตช่วยกันค้นหาน่าจะดีและรอบคอบกว่านะ"
     },
     {
-      "character": "Alisaie",
+      "key": "cahciuadoyouhaveanyideawherehemightgo",
       "text_en": "Cahciua, do you have any idea where he might go?",
       "text": "คุณคาชิวาคะ พอจะคาดเดาได้ไหมคะว่าปกติเขาชอบหนีไปกบดานที่ไหนบ้าง?"
     },
     {
-      "character": "Cahciua",
+      "key": "theresnotellingimafraidhecouldaseasilybeoutsidethetowerashereinsolutionnine",
       "text_en": "There's no telling, I'm afraid. He could as easily be outside the tower as here in Solution Nine.",
       "text": "แม่เดาไม่ถูกเลยจริงๆ จ๊ะ เด็กน้อยสามารถหนีเตลิดไปกบดานเขตนอกหอคอย หรือแอบซ่อนตัวอยู่ในโซลูชันไนน์แห่งนี้ได้ง่ายพอกันทั้งสองฝั่งเลยจ๊ะ"
     },
     {
-      "character": "Erenville",
+      "key": "ifthosewhocanfightwouldsearchbelowmymotherandiwillscourthedistrict",
       "text_en": "If those who can fight would search below, my mother and I will scour the district.",
       "text": "ถ้าฝั่งที่มีกำลังสู้รบช่วยลงไปสืบข่าวและค้นหาด้านล่างหอคอย เดี๋ยวผมกับคุณแม่จะรับหน้าที่ค้นหาตรวจตาเขตที่อยู่อาศัยด้านบนนี้เองครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soundslikeaplanletsgettoit",
       "text_en": "Sounds like a plan! Let's get to it!",
       "text": "ตกลงตามแผนนี้แหละ! ลุยกันเลย!"
     },
     {
-      "character": "Krile",
+      "key": "ihopegulooljawillbeallrightshouldhereturnherewellbecertaintoletyouknow",
       "text_en": "I hope Gulool Ja will be all right. Should he return here, we'll be certain to let you know.",
       "text": "ฉันหวังว่ากูลูล จา จะปลอดภัยดีนะคะ หากเขาแอบย้อนกลับมาที่นี่ พวกเราจะรีบส่งข่าวแจ้งให้ทุกคนรับทราบแน่นอนค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "worrynottherestofuswillkeepourpreparationsmovingalongyouneedbutconcentrateonfindingguloolja",
       "text_en": "Worry not, the rest of us will keep our preparations moving along. You need but concentrate on finding Gulool Ja.",
       "text": "ไม่ต้องกังวลใจไปนะครับ พวกเราฝั่งที่เหลือจะช่วยเตรียมแผนการด้านอื่นๆ ประคองต่อเองครับ ขอให้คุณมุ่งสมาธิไปที่การค้นหาตัวกูลูล จา ให้พบก็พอครับ"
     },
     {
-      "character": "Shale",
+      "key": "imsorryishouldhavenoticedsooner",
       "text_en": "I'm sorry... I should have noticed sooner...",
       "text": "ฉันต้องขอโทษด้วยจริงๆ นะคะ... น่าจะสังเกตเห็นการแจ้งเตือนระบบให้เร็วกว่านี้แท้ๆ..."
     },
     {
-      "character": "Genolt",
+      "key": "haveatyeyenogoodneverendingpileoworkyaaaaaargh",
       "text_en": "Have at ye, ye no-good, never-ending pile o' work! Yaaaaaargh!",
       "text": "เข้ามาเลยโว้ย ไอ้กองงานนรกที่ไม่มีวันเสร็จสิ้นเอ๊ย! ย้ากกกกกกก!"
     },
     {
-      "character": "Alisaie",
+      "key": "regardlessofthecircumstanceszoraaljaisgulooljasfathertheboyisboundtobeconfused",
       "text_en": "Regardless of the circumstances, Zoraal Ja is Gulool Ja's father. The boy is bound to be confused.",
       "text": "ไม่ว่าเรื่องราวความหลังเบื้องหลังจะเป็นอย่างไร โซราล จา ก็คือพ่อแท้ๆ ของกูลูล จา อยู่ดี เด็กน้อยคงต้องรู้สึกสับสนทำใจยากมากแน่ๆ เลยล่ะ"
     }

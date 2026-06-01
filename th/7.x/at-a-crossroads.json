@@ -1,441 +1,433 @@
 {
-  "id": "at-a-crossroads",
-  "wiki_path": "/wiki/At_a_Crossroads",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "At a Crossroads",
-  "title": "ณ ทางแยก",
-  "level": "98",
-  "location": "Heritage Found(X:12.2,Y:27.8)",
-  "npc_start": "Otis",
+  "quest_id": "at-a-crossroads",
   "dialogues": [
     {
-      "character": "Wuk Lamat",
+      "key": "wellhavetoaskcahciuawhatsheknowsandifshesbeenhidingthingsfromusweneedtoknowwhy",
       "text_en": "We'll have to ask Cahciua what she knows. And if she's been hiding things from us, we need to know why.",
       "text": "พวกเราต้องไปถามคาชิวาว่าเธอรู้อะไรบ้าง และถ้าเธอแอบปิดบังอะไรบางอย่างจากพวกเราจริงๆ พวกเราก็ต้องรู้เหตุผลด้วย"
     },
     {
-      "character": "Alisaie",
+      "key": "asmanyendlessasthosewhohavediedsowherearetheyandhowhavetheybeenlivingupuntilnow",
       "text_en": "As many Endless as those who have died... So where are they? And how have they been “living” up until now?",
       "text": "จำนวนเอ็นด์เลสมีมากเท่ากับคนที่ตายไปแล้วเลยเหรอ... แล้วตอนนี้พวกเขาอยู่ที่ไหนล่ะ? และพวกเขาใช้ชีวิตอยู่ยังไงจนถึงตอนนี้?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "whyareyouallmakingthoseseriousfaces",
       "text_en": "Why are you all making those serious faces...?",
       "text": "ทำไมพี่ๆ ทุกคนต้องทำหน้าตาเคร่งเครียดกันขนาดนั้นด้วยล่ะครับ...?"
     },
     {
-      "character": "Otis",
+      "key": "althoughthemoodbecameatadsubduedattheendithoroughlyenjoyedourrepasttogether",
       "text_en": "Although the mood became a tad subdued at the end, I thoroughly enjoyed our repast together!",
       "text": "ถึงแม้บรรยากาศในช่วงท้ายจะดูหม่นหมองลงไปเสียหน่อย ทว่าข้าพเจ้าสนุกสนานกับการรับประทานมื้ออาหารร่วมกันเป็นอย่างยิ่ง!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wedidtoootistohearabouttheendlesswassomethingofashockbutwelikewiseenjoyedyourcompany",
       "text_en": "We did too, Otis. To hear about the Endless was something of a shock, but we likewise enjoyed your company.",
       "text": "พวกเราก็เหมือนกันนะโอทิส ถึงเรื่องของเอ็นด์เลสจะน่าตกใจไปหน่อย แต่พวกเราก็สนุกที่ได้พูดคุยกับคุณเหมือนกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "aboveallimgladthatyouandicouldtalkgulooljaweregoingtogetalonggreatijustknowit",
       "text_en": "Above all, I'm glad that you and I could talk, Gulool Ja. We're going to get along great, I just know it!",
       "text": "ที่สำคัญที่สุดคือ ฉันดีใจที่ได้เปิดอกคุยกับเธอนะกูลูล จา ฉันรู้เลยว่าพวกเราจะต้องเข้ากันได้ดีแน่ๆ!"
     },
     {
-      "character": "Gulool Ja",
+      "key": "youyouthinkso",
       "text_en": "You...you think so?",
       "text": "พี่... คิดแบบนั้นจริงๆ เหรอครับ?"
     },
     {
-      "character": "Otis",
+      "key": "hahahaimhappyforyoumyboy",
       "text_en": "Hahaha! I'm happy for you, my boy!",
       "text": "ฮ่าๆๆ! ข้าพเจ้ายินดีกับเจ้าด้วยจริงๆ เด็กน้อย!"
     },
     {
-      "character": "Otis",
+      "key": "nowthenipresumeyouwillbereturningtoeverkeeppermitmetoaccompanyyouatleastapartoftheway",
       "text_en": "Now then, I presume you will be returning to Everkeep. Permit me to accompany you at least a part of the way.",
       "text": "เอาล่ะ ยามนี้ข้าพเจ้าคาดว่าพวกท่านคงจะเตรียมตัวกลับเข้าไปในเอเวอร์คีปแล้ว ขอให้ข้าพเจ้าได้ร่วมเดินทางไปส่งพวกท่านสักครึ่งทางเถิด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "aboutsphene",
       "text_en": "About Sphene...",
       "text": "เรื่องของสฟีนน่ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itdoesntmattertomeifshesanendlesswhethershesalivelikeyouandmeornot",
       "text_en": "It doesn't matter to me if she's an Endless. Whether she's “alive” like you and me or not.",
       "text": "สำหรับฉันแล้ว ไม่สำคัญหรอกว่าเธอจะเป็นเอ็นด์เลสหรือเปล่า หรือว่าเธอจะมีชีวิตเหมือนอย่างฉันกับนายหรือไม่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iveseenenoughtoknowthatshehasagoodheart",
       "text_en": "I've seen enough to know that she has a good heart.",
       "text": "ฉันเห็นมากพอที่จะรู้ว่าจิตใจของเธออ่อนโยนและดีงามจริงๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatworriesmeistheburdenshebearswestilldontknowwhatitis",
       "text_en": "What worries me is the burden she bears. We still don't know what it is.",
       "text": "แต่ที่ฉันเป็นกังวลคือภาระอันหนักอึ้งที่เธอต้องแบกรับไว้ต่างหาก พวกเรายังไม่รู้เลยว่ามันคืออะไร"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iexpecttherearethingsshecanttellusnotwithzoraaljawatchingbutattheveryleastidliketoknowwhattheendlessaretoher",
       "text_en": "I expect there are things she can't tell us. Not with Zoraal Ja watching. But at the very least, I'd like to know what the Endless are to her.",
       "text": "ฉันคิดว่าน่าจะมีเรื่องที่เธอบอกพวกเราไม่ได้ โดยเฉพาะในยามที่โซราล จา คอยจับตาดูอยู่แบบนี้ แต่อย่างน้อยที่สุด ฉันก็อยากรู้ว่าสำหรับเธอแล้ว พวกเอ็นด์เลสคืออะไรกันแน่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sorryididntmeantodelayusijustfelttheurgetosharemythoughtswithyou",
       "text_en": "...Sorry, I didn't mean to delay us. I just felt the urge to share my thoughts with you.",
       "text": "...ขอโทษทีนะ ไม่ได้ตั้งใจจะทำให้พวกเราช้าหรอก แค่จู่ๆ ก็รู้สึกอยากบอกเล่าสิ่งที่คิดให้นายฟังน่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohonthewaybackletsmakeaquickstopatthedriftdownsiwanttotelltaapuhowitwent",
       "text_en": "Oh, on the way back, let's make a quick stop at the driftdowns. I want to tell Taapu how it went.",
       "text": "จริงด้วย ขากลับพวกเราแวะไปที่ดริฟต์ดาวน์สกันสักแป๊บสิ ฉันอยากบอกทาาปูว่าเรื่องของพวกเราเป็นยังไงบ้าง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "godsbutthatyamstewwasgood",
       "text_en": "Gods, but that yam stew was good...",
       "text": "พับผ่าสิ สตูมันเทศนั่นอร่อยสุดยอดไปเลยแฮะ..."
     },
     {
-      "character": "Taapu",
+      "key": "ahyouarereturnedwereyouabletofindguloolja",
       "text_en": "Ah, you are returned. Were you able to find Gulool Ja?",
       "text": "โอ้ พวกท่านกลับมากันแล้ว สามารถตามหาตัวกูลูล จา พบหรือไม่?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wewerethankstoyouallswellwiththeboy",
       "text_en": "We were thanks to you. All's well with the boy.",
       "text": "เจอแล้วล่ะ ขอบคุณคุณมากๆ เลยนะ ตอนนี้เจ้าตัวเล็กปลอดภัยดีแล้ว"
     },
     {
-      "character": "Taapu",
+      "key": "imrelievedtohearthat",
       "text_en": "I'm relieved to hear that.",
       "text": "ได้ยินแบบนั้นฉันก็โล่งใจขึ้นเยอะเลย"
     },
     {
-      "character": "Taapu",
+      "key": "andtoknowthathehasfamilywhoworriesforhimgulooljatoomustbeglad",
       "text_en": "And to know that he has family who worries for him. Gulool Ja too must be glad.",
       "text": "และได้รับรู้ว่าเด็กคนนั้นมีครอบครัวที่คอยเป็นห่วงเป็นใยเขาแบบนี้ กูลูล จา เองก็คงจะยินดีเป็นอย่างยิ่งเช่นกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehihopesoilltrynottorushorforceanythingthoughitsforhimtodecidewhatiamtohim",
       "text_en": "Heh, I hope so. I'll try not to rush or force anything, though. It's for him to decide what I am to him.",
       "text": "เฮะๆ ฉันก็หวังอย่างนั้นล่ะนะ แต่ฉันจะไม่รีบร้อนหรือบังคับอะไรเขาหรอก ให้เด็กคนนั้นเป็นคนตัดสินใจเองดีกว่าว่าฉันเป็นอะไรสำหรับเขา"
     },
     {
-      "character": "Sphene",
+      "key": "mywhatapleasantsurpriseitistomeetyouintheseparts",
       "text_en": "My, what a pleasant surprise it is to meet you in these parts.",
       "text": "แหม ช่างเป็นเรื่องน่ายินดีที่ได้พบพวกเธอในสถานที่แห่งนี้จังเลยนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sphenewhatareyoudoinghere",
       "text_en": "Sphene! What are you doing here?",
       "text": "สฟีน! เธอมาทำอะไรที่นี่เหรอ?"
     },
     {
-      "character": "Sphene",
+      "key": "visitingmypeopleareyoudoingthesameperchance",
       "text_en": "Visiting my people. Are you doing the same, perchance?",
       "text": "มาเยี่ยมเยียนประชาชนของฉันน่ะค่ะ พวกเธอเองก็กำลังทำแบบเดียวกันอยู่หรือเปล่าเอ่ย?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isupposeweareyes",
       "text_en": "I suppose we are, yes...",
       "text": "ก็คงจะประมาณนั้นล่ะนะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "listentheressomethingwedliketotalktoyouaboutcouldwehaveawordinprivate",
       "text_en": "Listen, there's something we'd like to talk to you about. Could we have a word in private?",
       "text": "นี่ ฟังนะ มีเรื่องที่พวกเราอยากจะคุยกับเธอหน่อยน่ะ ขอพวกเราคุยกันเป็นการส่วนตัวสักแป๊บได้ไหม?"
     },
     {
-      "character": "Sphene",
+      "key": "soyouknowabouttheendless",
       "text_en": "...So you know about the Endless.",
       "text": "...พวกเธอรู้เรื่องเอ็นด์เลสแล้วสินะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "whilewemaynotdiscussitopenlymypeoplewillhavesurelynoticedthatihaventchangedforhundredsofyearsivemadenoattempttoconcealmynature",
       "text_en": "While we may not discuss it openly, my people will have surely noticed that I haven't changed for hundreds of years. I've made no attempt to conceal my nature.",
       "text": "ถึงแม้พวกเราจะไม่ได้พูดคุยเรื่องนี้กันอย่างโจ่งแจ้ง แต่ประชาชนของฉันก็คงจะสังเกตเห็นกันแล้วล่ะค่ะว่าฉันไม่เปลี่ยนไปเลยมาหลายร้อยปี ฉันเองก็ไม่ได้คิดจะปิดบังตัวตนของตัวเองเลยด้วยซ้ำ"
     },
     {
-      "character": "Sphene",
+      "key": "ifimayaskthoughwhowasitthattoldyouabouttheendlessonlyafewshouldbefamiliarwiththeconcept",
       "text_en": "If I may ask, though, who was it that told you about the Endless? Only a few should be familiar with the concept.",
       "text": "แต่ถ้าจะขอถามหน่อย ใครเป็นคนบอกเรื่องเอ็นด์เลสให้พวกเธอฟังงั้นเหรอคะ? เพราะน่าจะมีเพียงไม่กี่คนเท่านั้นที่คุ้นเคยกับเรื่องนี้นะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imafraidicantsay",
       "text_en": "I'm afraid I can't say...",
       "text": "เรื่องนั้น... ฉันคงบอกไม่ได้หรอกนะ..."
     },
     {
-      "character": "Sphene",
+      "key": "ibearnoillwilltowardsthismysteryindividuallestthatbeyourconcernimmerelycurious",
       "text_en": "I bear no ill will towards this mystery individual, lest that be your concern. I'm merely curious.",
       "text": "ฉันไม่ได้คิดร้ายอะไรกับคนลึกลับคนนั้นหรอกนะคะ ไม่ต้องกังวลไปหรอก ฉันแค่อยากรู้เฉยๆ เท่านั้นเองค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "tellmespheneyoucareforyourpeoplethatmuchisplainandiassumeyoucarefortheendlesstoo",
       "text_en": "Tell me, Sphene. You care for your people, that much is plain. And I assume you care for the Endless too.",
       "text": "บอกฉันทีสิสฟีน เธอรักและห่วงใยประชาชนของเธอมาก นั่นน่ะชัดเจนอยู่แล้ว และฉันเดาว่าเธอก็คงรักและห่วงใยพวกเอ็นด์เลสเหมือนกันใช่ไหม"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "earlierineverkeeptherewassomethingthatyouwantedtotelluswasittodowiththem",
       "text_en": "Earlier, in Everkeep, there was something that you wanted to tell us. Was it to do with them?",
       "text": "เมื่อก่อนหน้านี้ในเอเวอร์คีป มีเรื่องที่เธออยากจะบอกพวกเรา เรื่องนั้นเกี่ยวกับพวกเขาหรือเปล่า?"
     },
     {
-      "character": "Sphene",
+      "key": "theendlessareasdeartomeasmylivingcitizenstheyareasmuchmyfamily",
       "text_en": "The Endless are as dear to me as my living citizens. They are as much my family.",
       "text": "พวกเอ็นด์เลสเป็นที่รักของฉันเทียบเท่ากับประชาชนที่ยังมีชีวิตอยู่เลยล่ะค่ะ พวกเขาก็เป็นครอบครัวของฉันเหมือนกัน"
     },
     {
-      "character": "Sphene",
+      "key": "buttheycanonlybesustainedbymeetingcertainexactingrequirementsthusfarwevemanagedtodosobutshouldmorepeopledieifearwewouldbepushedbeyondourlimit",
       "text_en": "But they can only be sustained by meeting certain exacting requirements. Thus far we've managed to do so, but should more people die, I fear we would be pushed beyond our limit.",
       "text": "ทว่าการจะรักษาตัวตนของพวกเขาไว้ได้นั้น จำต้องผ่านเงื่อนไขบางอย่างที่ยากลำบากอย่างยิ่ง ที่ผ่านมาพวกเราก็พอจะจัดการได้อยู่หรอกค่ะ แต่หากมีคนเสียชีวิตเพิ่มขึ้นอีก ฉันเกรงว่าพวกเราจะเกินขีดจำกัดที่รองรับไหวแล้วล่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "theirpreservationdemandsvastamountsofenergy",
       "text_en": "Their preservation demands vast amounts of energy...",
       "text": "การรักษาสภาพของพวกเขาจำเป็นต้องใช้พลังงานจำนวนมหาศาล..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "energyidontunderstandtheworkingsofitallbutistheresomethingwecandotohelp",
       "text_en": "Energy? I don't understand the workings of it all, but is there something we can do to help?",
       "text": "พลังงานเหรอ? ฉันไม่ค่อยเข้าใจระบบการทำงานของเรื่องพวกนี้หรอกนะ แต่มีอะไรที่พวกเราพอจะช่วยได้บ้างไหมล่ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "then",
       "text_en": "Then...",
       "text": "ถ้าอย่างนั้น..."
     },
     {
-      "character": "Sphene",
+      "key": "wouldyoubewillingtobecomealexandriancitizens",
       "text_en": "Would you be willing to become Alexandrian citizens?",
       "text": "พวกเธอจะยอมตกลงมาเป็นพลเมืองของอเล็กซานเดรียได้ไหมคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whwhatihavemynationmypeopletoprotecticantjustbecomealexandrian",
       "text_en": "Wh-What!? I have my nation—my people—to protect. I can't just become Alexandrian...",
       "text": "หะ-หา!? ฉันมีประเทศ—มีประชาชน—ที่ต้องปกป้องนะ จะให้จู่ๆ ไปเป็นพลเมืองอเล็กซานเดรียได้ยังไงกัน..."
     },
     {
-      "character": "Sphene",
+      "key": "indeedisupposeyoucannot",
       "text_en": "Indeed...I suppose you cannot.",
       "text": "นั่นสินะคะ... ฉันคิดไว้แล้วเชียวว่าพวกเธอคงทำไม่ได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "firstyoutellustomakepeacethenyoutellustogohomewhatexactlyisitthatyouwant",
       "text_en": "First you tell us to make peace, then you tell us to go home... What exactly is it that you want?",
       "text": "เดี๋ยวเธอก็บอกให้พวกเราประนีประนอมสร้างสันติ เดี๋ยวเธอก็บอกให้พวกเรากลับบ้านไปซะ... ตกลงสิ่งที่เธอต้องการจริงๆ คืออะไรกันแน่?"
     },
     {
-      "character": "Sphene",
+      "key": "thesameasyouofcoursetoprotectmypeople",
       "text_en": "The same as you, of course. To protect my people.",
       "text": "เรื่องนั้นก็ย่อมเหมือนกับเธอแน่นอนค่ะ นั่นคือการปกป้องประชาชนของฉัน"
     },
     {
-      "character": "Sphene",
+      "key": "thaticannotsayidonotaskthatyouunderstandorlikemebutiwish",
       "text_en": "That...I cannot say. I do not ask that you understand or like me. But I wish...",
       "text": "เรื่องนั้น... ฉันคงพูดไม่ได้หรอกค่ะ ฉันไม่ได้ขอร้องให้เธอมาเข้าใจหรือชอบฉันหรอกนะ แต่ฉันก็อยากจะ..."
     },
     {
-      "character": "Sphene",
+      "key": "iwishwehadbeenbornonthesamesideofit",
       "text_en": "I wish we had been born on the same side of it.",
       "text": "ฉันอยากให้พวกเราได้เกิดมาอยู่ฝั่งเดียวกันจังเลยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "heywhatdoyoumeanbythatwaitsphene",
       "text_en": "Hey, what do you mean by that? Wait! Sphene!",
       "text": "นี่ หมายความว่ายังไงน่ะ? เดี๋ยวสิ! สฟีน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "damnit",
       "text_en": "Damn it...",
       "text": "โธ่เอ๊ย..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellithinkwevekepteveryonewaitinglongenoughletscontinueontoeverkeep",
       "text_en": "Well, I think we've kept everyone waiting long enough. Let's continue on to Everkeep.",
       "text": "เอาล่ะ ฉันว่าพวกเราปล่อยให้คนอื่นคอยนานเกินไปแล้วล่ะ เดินทางกลับไปที่เอเวอร์คีปกันเถอะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andletsnottellotisaboutourconversationwithspheneidontwanttoriskcausinghimpain",
       "text_en": "And let's not tell Otis about our conversation with Sphene. I don't want to risk causing him pain.",
       "text": "แล้วก็อย่าเพิ่งบอกโอทิสเรื่องที่พวกเราคุยกับสฟีนนะ ฉันไม่อยากเสี่ยงทำให้เขาต้องเจ็บปวดน่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ivegoneaheadandapologizedforus",
       "text_en": "I've gone ahead and apologized for us.",
       "text": "ฉันชิงขอโทษขอโพยแทนพวกเราไปเรียบร้อยแล้วล่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "alothashappenedbuttheimportantthingisgulooljaissafeandwellcahciuahasbeenworriedsoletshurryback",
       "text_en": "A lot has happened, but the important thing is Gulool Ja is safe and well. Cahciua has been worried, so let's hurry back.",
       "text": "มีเรื่องราวเกิดขึ้นตั้งเยอะแยะเลยนะ แต่สิ่งที่สำคัญที่สุดคือตอนนี้กูลูล จาปลอดภัยดี คาชิวาคงจะเป็นห่วงแย่แล้ว รีบกลับกันเถอะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "eatingtogetherwasfunihopewecandoitagain",
       "text_en": "Eating together was fun. I hope we can do it again.",
       "text": "การได้กินข้าวด้วยกันสนุกมากเลยครับ หวังว่าพวกเราจะได้ทำแบบนี้กันอีกนะครับ"
     },
     {
-      "character": "Taapu",
+      "key": "thankyouforstoppingbytosharethenewsitgladdensmetoknowthatgulooljaisingoodhands",
       "text_en": "Thank you for stopping by to share the news. It gladdens me to know that Gulool Ja is in good hands.",
       "text": "ขอบใจมากนะที่แวะเอาข่าวคราวมาบอก ฉันดีใจจริงๆ ที่ได้รู้ว่ากูลูล จาอยู่ในความดูแลของคนที่ดีแล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whydontyoucomewithusyoumightgettoseesphene",
       "text_en": "Why don't you come with us? You might get to see Sphene.",
       "text": "ทำไมไม่กลับไปกับพวกเราล่ะ? เผื่อคุณจะได้เจอกับสฟีนด้วยไง"
     },
     {
-      "character": "Otis",
+      "key": "ahtisamagnanimousandmuchappreciatedofferbutimustdecline",
       "text_en": "Ah. 'Tis a magnanimous and much appreciated offer, but I must decline.",
       "text": "โอ้ ช่างเป็นข้อเสนอที่ใจกว้างและน่ายินดียิ่งนัก ทว่าข้าพเจ้าจำต้องขอปฏิเสธเสียก่อน"
     },
     {
-      "character": "Otis",
+      "key": "apartofmelongsforanaudiencewithhermajestyitistrueyetthoughitbeinmypreviouslifeifailedtoprotectmyqueen",
       "text_en": "A part of me longs for an audience with Her Majesty, it is true. Yet though it be in my previous life, I failed to protect my queen.",
       "text": "ความจริงที่ว่าส่วนหนึ่งในใจของข้าพเจ้าใคร่จะเข้าเฝ้าทูลละอองธุลีพระบาทองค์ราชินีนั้นเป็นเรื่องจริง ทว่าต่อให้จะเป็นในอดีตชาติ ข้าพเจ้าก็เคยล้มเหลวในการปกป้องราชินีของตนเองไปแล้วครั้งหนึ่ง"
     },
     {
-      "character": "Otis",
+      "key": "icouldntbeartoshowmyfacebeforeherandsuchanuncomelyonebesides",
       "text_en": "I couldn't bear to show my face before her...and such an uncomely one besides!",
       "text": "ข้าพเจ้ามิอาจทนสู้หน้าพบพระองค์ได้เลย... ยิ่งมีสารรูปที่ไร้ความงดงามเช่นนี้ด้วยแล้ว!"
     },
     {
-      "character": "Otis",
+      "key": "forcedlaughterhahaha",
       "text_en": "[FORCED LAUGHTER “Hahaha”]",
       "text": "[หัวเราะอย่างฝืนใจ — “ฮ่าๆๆ”]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "alrightifthatshowyoufeelwewontforceyou",
       "text_en": "Alright. If that's how you feel, we won't force you.",
       "text": "ตกลง ถ้าคุณรู้สึกแบบนั้น พวกเราก็จะไม่บังคับคุณหรอกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butrestassuredwellvisitwithgulooljaandwehopeyoullcookforusagain",
       "text_en": "But rest assured we'll visit with Gulool Ja, and we hope you'll cook for us again.",
       "text": "แต่ไว้ใจได้เลยนะว่าพวกเราจะพาตัวกูลูล จา แวะมาเยี่ยมเยียนบ่อยๆ และพวกเราก็หวังว่าจะได้ชิมฝีมือทำอาหารของคุณอีกนะ"
     },
     {
-      "character": "Otis",
+      "key": "twouldbemypleasureyouarewelcometobringothercomradesshouldyousodesirethemorethemerrier",
       "text_en": "'Twould be my pleasure. You are welcome to bring other comrades, should you so desire. The more the merrier!",
       "text": "เป็นเกียรติของข้าพเจ้ายิ่งนัก หากพวกท่านต้องการ ก็สามารถพาเพื่อนพ้องคนอื่นๆ มาร่วมด้วยได้นะ ยิ่งคนเยอะย่อมยิ่งครึกครื้นยิ่งขึ้น!"
     },
     {
-      "character": "???",
+      "key": "ivebeenlookingalloverforyou",
       "text_en": "I've been looking all over for you!",
       "text": "ฉันตามหาพวกเธอซะทั่วเลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "nostalgiawasitwhatsthematter",
       "text_en": "Nostalgia, was it? What's the matter?",
       "text": "นอสทัลเจีย ใช่ไหม? มีเรื่องอะไรเกิดขึ้นงั้นเหรอ?"
     },
     {
-      "character": "Nostalgia",
+      "key": "laboredbreathing",
       "text_en": "[LABORED BREATHING]",
       "text": "[หอบหายใจอย่างเหน็ดเหนื่อย]"
     },
     {
-      "character": "Nostalgia",
+      "key": "itszoraaljahemarchestovanguard",
       "text_en": "It's Zoraal Ja! He marches to Vanguard!",
       "text": "โซราล จา น่ะสิ! เขากำลังเดินทัพมุ่งหน้าไปยังแวนการ์ดแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sohesdonewaitingbutwhywerentwealertedsooner",
       "text_en": "So he's done waiting... But why weren't we alerted sooner?",
       "text": "ในที่สุดเขาก็เลิกคอยแล้วงั้นเหรอ... แต่ทำไมพวกเราถึงไม่ได้รับแจ้งข่าวเร็วกว่านี้กันล่ะ?"
     },
     {
-      "character": "Nostalgia",
+      "key": "ourtransmissionsarebeingjammedthelookoutscouldntgetthroughtous",
       "text_en": "Our transmissions are being jammed. The lookouts couldn't get through to us.",
       "text": "สัญญาณการสื่อสารของพวกเราโดนรบกวนน่ะสิคะ พวกพลเฝ้าระวังเลยติดต่อแจ้งพวกเราไม่ได้เลย"
     },
     {
-      "character": "Nostalgia",
+      "key": "wayakkweisatvanguardtoobuticantreachherohwhatarewetodo",
       "text_en": "Wayakkwe is at Vanguard too, but I can't reach her... Oh, what are we to do?",
       "text": "วายัคเว ก็อยู่ที่แวนการ์ดเหมือนกัน แต่ฉันติดต่อเธอไม่ได้เลย... โอย พวกเราควรทำยังไงกันดีล่ะคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "staycalmcahciuahasyettobealertedyestakewordtothebackroomasfastasyoucan",
       "text_en": "Stay calm. Cahciua has yet to be alerted, yes? Take word to the Backroom as fast as you can.",
       "text": "ใจเย็นๆ ก่อน คาชิว่ายังไม่ได้รับแจ้งเรื่องนี้ใช่ไหม? รีบไปส่งข่าวบอกเดอะ แบ็ครูม ให้เร็วที่สุดเท่าที่จะทำได้เลยนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "ourlinkpearlsmaystillworkilltrycontactingthoseintuliyollal",
       "text_en": "Our linkpearls may still work. I'll try contacting those in Tuliyollal.",
       "text": "ลิงก์เพิร์ลของพวกเราอาจจะยังใช้งานได้อยู่ เดี๋ยวฉันจะลองติดต่อคนในทูลิโยลลัลดูนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "otisineedyoutokeepgulooljasafe",
       "text_en": "Otis—I need you to keep Gulool Ja safe.",
       "text": "โอทิส—ฉันอยากฝากให้คุณคอยปกป้องดูแลกูลูล จา ให้ปลอดภัยด้วยนะ"
     },
     {
-      "character": "Otis",
+      "key": "youneedntask",
       "text_en": "You needn't ask.",
       "text": "เรื่องนั้นท่านมิจำเป็นต้องเอ่ยปากขอเลย"
     },
     {
-      "character": "Gulool Ja",
+      "key": "iwanttogowithyou",
       "text_en": "I want to go with you!",
       "text": "ผมอยากจะไปกับพี่ๆ ด้วยครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "absolutelynotabattlesnoplaceforyou",
       "text_en": "Absolutely not. A battle's no place for you.",
       "text": "ไม่มีทางเด็ดขาดจ้ะ สนามรบไม่ใช่ที่สำหรับเธอนะ"
     },
     {
-      "character": "Otis",
+      "key": "gulooljathepeopleoftheoutskirtsmustbeevacuatedforthiscrucialtaskirequireyourassistance",
       "text_en": "Gulool Ja, the people of the outskirts must be evacuated. For this crucial task, I require your assistance.",
       "text": "กูลูล จา ประชาชนที่อยู่บริเวณชานเมืองจำเป็นต้องได้รับการอพยพด่วน สำหรับภารกิจสำคัญยิ่งนี้ ข้าพเจ้าต้องการความช่วยเหลือจากเจ้า"
     },
     {
-      "character": "Otis",
+      "key": "rememberwhenbattleisathandanythingcanhappencautionisasvaluableasanyblade",
       "text_en": "Remember: when battle is at hand, anything can happen. Caution is as valuable as any blade.",
       "text": "พึงระลึกไว้เสมอ: ยามที่ศึกสงครามปะทุขึ้น สิ่งใดก็ย่อมเกิดขึ้นได้ ความระมัดระวังรอบคอบนั้นมีคุณค่าไม่ต่างจากใบดาบเล่มใดๆ เลย"
     },
     {
-      "character": "Gulool Ja",
+      "key": "yessir",
       "text_en": "Yes, sir!",
       "text": "ครับผม!"
     },
     {
-      "character": "Alisaie",
+      "key": "imanagedtogetholdofalphinaudhellinformkoana",
       "text_en": "I managed to get hold of Alphinaud. He'll inform Koana.",
       "text": "ฉันติดต่ออัลฟิโนได้แล้วล่ะ เดี๋ยวเขาจะแจ้งข่าวให้โคอานารับทราบเอง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "goodhowsthesituationintuliyollal",
       "text_en": "Good. How's the situation in Tuliyollal?",
       "text": "ดีล่ะ แล้วสถานการณ์ทางทูลิโยลลัลเป็นยังไงบ้าง?"
     },
     {
-      "character": "Alisaie",
+      "key": "theresnothingtoworryaboutorsomybrotherassuredmewithsuchshortnoticethoughidoubttheyllbefullyprepared",
       "text_en": "There's nothing to worry about...or so my brother assured me. With such short notice, though, I doubt they'll be fully prepared.",
       "text": "ไม่มีเรื่องอะไรต้องเป็นห่วงหรอก... พี่ชายฉันรับรองมาแบบนั้นน่ะนะ แต่ก็นะ เพราะได้รับแจ้งกระชั้นชิดแบบนี้ ฉันเกรงว่าพวกเขาก็คงจะยังไม่ได้เตรียมตัวกันเต็มร้อยหรอก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theyllbereadyimsureofitthevowofreasonisnottobeunderestimated",
       "text_en": "They'll be ready, I'm sure of it. The Vow of Reason is not to be underestimated.",
       "text": "พวกเขาต้องรับมือได้แน่ ฉันมั่นใจ คำปฏิญาณแห่งปัญญาไม่ใช่คนที่จะประเมินค่าต่ำไปได้หรอกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imcomingzoraaljaandwewillfinishthisonceandforall",
       "text_en": "I'm coming, Zoraal Ja...and we will finish this once and for all!",
       "text": "ฉันกำลังไปหาแกแล้ว โซราล จา... และพวกเราจะมาสะสางเรื่องนี้ให้มันจบลงเสียที!"
     },
     {
-      "character": "Alisaie",
+      "key": "lamatyiisrightletshavefaithineveryoneanddowhatwecan",
       "text_en": "Lamaty'i is right. Let's have faith in everyone and do what we can.",
       "text": "ละมาตี้ พูดถูกแล้วล่ะ พวกเราจงเชื่อมั่นในตัวทุกคนแล้วทำในส่วนที่พวกเราทำได้กันเถอะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisisthemomentoftruthwehavetoholdzoraaljahere",
       "text_en": "This is the moment of truth. We have to hold Zoraal Ja here.",
       "text": "นี่คือช่วงเวลาแห่งความจริง พวกเราต้องตรึงตัวโซราล จา ไว้ที่นี่ให้ได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andiknowexactlyhowtodothat",
       "text_en": "And I know exactly how to do that!",
       "text": "และฉันก็รู้ด้วยว่าจะต้องทำยังไง!"
     }

@@ -1,506 +1,498 @@
 {
-  "id": "a-royal-invitation",
-  "wiki_path": "/wiki/A_Royal_Invitation",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/7f/A_Royal_Invitation_%28Quest%29.png",
-  "patch": "7.1",
-  "title_en": "A Royal Invitation",
-  "title": "คำเชื้อเชิญจากราชสำนัก",
-  "level": "100",
-  "location": "Tuliyollal(X:10.0,Y:15.0)",
-  "npc_start": "Bol Wuruq",
+  "quest_id": "a-royal-invitation",
   "dialogues": [
     {
-      "character": "Bol Wuruq",
+      "key": "ahitisapleasureasalwaysforenamehaveyoubeenabletorelaxlately",
       "text_en": "Ah, it is a pleasure as always, Forename . Have you been able to relax lately?",
       "text": "อา ยินดีที่ได้พบกันเช่นเคยครับ คุณ [ชื่อ] ช่วงนี้พอจะมีเวลาพักผ่อนบ้างไหมครับ?"
     },
     {
-      "character": "Bol Wuruq",
+      "key": "wonderfulasbusyasyouhavebeenwiththeriteofsuccessionamongotherthingsyoudeserveanopportunitytoexperiencetuliyollalatamoreleisurelypace",
       "text_en": "Wonderful. As busy as you have been, with the rite of succession among other things, you deserve an opportunity to experience Tuliyollal at a more leisurely pace.",
       "text": "วิเศษเลยครับ ที่ผ่านมาคุณคงวุ่นวายมาก ทั้งเรื่องพิธีสืบทอดราชบัลลังก์และเรื่องอื่น ๆ คุณควรหาโอกาสสัมผัสบรรยากาศในทูลิโยลลัลแบบสบาย ๆ ไม่รีบร้อนดูบ้างนะครับ"
     },
     {
-      "character": "Bol Wuruq",
+      "key": "samplingthetacosatxbalyavtyeisonesuchwaytodosotheyremadethetraditionalwayandladenwithfillingsandareabsolutelysublimeifyouhaveanemptystomachtheownerbrukevuwilllookafteryou",
       "text_en": "Sampling the tacos at Xbalyav Ty'e is one such way to do so. They're made the traditional way and laden with fillings, and are absolutely sublime! If you have an empty stomach, the owner, Br'uk Evu, will look after you!",
       "text": "การไปลองชิมทาโก้ที่ร้านสบาลยาฟเทีย (Xbalyav Ty'e) ก็เป็นหนึ่งในวิธีที่น่าสนใจครับ ทาโก้ที่นั่นปรุงตามแบบฉบับดั้งเดิมและอัดแน่นไปด้วยไส้ รสชาติเลิศเลออย่างที่สุดเลยครับ! หากคุณกำลังท้องว่าง คุณบรูค เอวู (Br'uk Evu) เจ้าของร้านจะคอยต้อนรับดูแลคุณเป็นอย่างดีแน่นอนครับ!"
     },
     {
-      "character": "Bol Wuruq",
+      "key": "ahhhtalkingaboutthetacosatxbalyavtyehasgivenmeacravingifyouhavetimeandanemptystomachdogoandhavesomeforme",
       "text_en": "Ahhh, talking about the tacos at Xbalyav Ty'e has given me a craving... If you have time and an empty stomach, do go and have some for me!",
       "text": "เฮ้อ พอพูดถึงทาโก้ที่ร้านสบาลยาฟเทียแล้ว ผมก็เริ่มอยากกินขึ้นมาเลย... หากคุณมีเวลาและกำลังท้องว่าง ลองแวะไปชิมแทนส่วนของผมด้วยนะครับ!"
     },
     {
-      "character": "Br'uk Evu",
+      "key": "wellifitisntforenamealonetodayareyou",
       "text_en": "Well, if it isn't Forename ! Alone today, are you?",
       "text": "อ้าว ไม่ใช่ใครที่ไหน คุณ [ชื่อ] นี่เอง! วันนี้มาคนเดียวงั้นรึ?"
     },
     {
-      "character": "Br'uk Evu",
+      "key": "iseeiseeifyouhaveahankeringfortacosthentheyreonthehouseconsideritatokenofgratitudeforyourhelptrackingdownthosetreasures",
       "text_en": "I see, I see. If you have a hankering for tacos, then they're on the house. Consider it a token of gratitude for your help tracking down those treasures.",
       "text": "เข้าใจแล้ว ๆ หากนายอยากกินทาโก้ละก็ มื้อนี้ฉันเลี้ยงเอง ถือเป็นการแสดงความขอบคุณที่คุณช่วยออกตามหาสมบัติเหล่านั้นแล้วกันนะ"
     },
     {
-      "character": "Br'uk Evu",
+      "key": "iseeiseeifyouhaveahankeringfortacosthentheyreonthehouseconsideritthanksforbringingdownthepassageoftheunbound",
       "text_en": "I see, I see. If you have a hankering for tacos, then they're on the house. Consider it thanks for bringing down the Passage of the Unbound.",
       "text": "เข้าใจแล้ว ๆ หากนายอยากกินทาโก้ละก็ มื้อนี้ฉันเลี้ยงเอง ถือเป็นคำขอบคุณที่นายช่วยโค่นล้มพวกวิถีไร้พันธนาการ (Passage of the Unbound) ลงได้นะ"
     },
     {
-      "character": "Br'uk Evu",
+      "key": "iseeiseeifyouhaveahankeringfortacosthentheyreonthehouseconsideritthanksforeverythingyouvedonefortuliyollal",
       "text_en": "I see, I see. If you have a hankering for tacos, then they're on the house. Consider it thanks for everything you've done for Tuliyollal.",
       "text": "เข้าใจแล้ว ๆ หากนายอยากกินทาโก้ละก็ มื้อนี้ฉันเลี้ยงเอง ถือเป็นคำขอบคุณสำหรับทุกสิ่งทุกอย่างที่นายทำให้แก่ทูลิโยลลัลนะ"
     },
     {
-      "character": "Br'uk Evu",
+      "key": "goaheadandfindatableillbringyouyourmealassoonasitsready",
       "text_en": "Go ahead and find a table. I'll bring you your meal as soon as it's ready.",
       "text": "เชิญไปหาโต๊ะนั่งก่อนเถอะ เดี๋ยวฉันจะรีบยกอาหารไปเสิร์ฟให้ทันทีที่ทำเสร็จนะ"
     },
     {
-      "character": "Br'uk Evu",
+      "key": "yourredhairedfriendhasbecomesomethingofaregularrareisthedayhewonttakeonewithhimonamorningstroll",
       "text_en": "Your red-haired friend has become something of a regular. Rare is the day he won't take one with him on a morning stroll.",
       "text": "เพื่อนผมแดงของนายกลายมาเป็นลูกค้าประจำของที่นี่ไปแล้วล่ะ นาน ๆ ทีเลยนะที่จะมีสักวันที่เขาไม่แวะมาสั่งทาโก้ติดมือไปกินระหว่างเดินเล่นตอนเช้าน่ะ"
     },
     {
-      "character": "Gregarious Man",
+      "key": "youstilllovetacosihopehehyouatesomanywhenyouturnedfiveyoucouldbarelymoveafterwardsrememberthat",
       "text_en": "You still love tacos, I hope? Heh, you ate so many when you turned five, you could barely move afterwards. Remember that?",
       "text": "แกยังชอบกินทาโก้อยู่ใช่ไหม? ฮะฮะ ตอนที่แกอายุได้ห้าขวบ แกกินเข้าไปเยอะมากจนหลังจากนั้นแทบจะขยับตัวไม่ได้เลย จำเรื่องนั้นได้หรือเปล่า?"
     },
     {
-      "character": "Disheartened Man",
+      "key": "nonotreallythatwasthirtyyearsagoforme",
       "text_en": "No, not really. That was thirty years ago for me...",
       "text": "ไม่ครับ จำไม่ได้เลย เรื่องนั้นมันผ่านมาตั้งสามสิบปีแล้วสำหรับผม..."
     },
     {
-      "character": "Gregarious Man",
+      "key": "rightsorryitsstillstrangeformetoojusttheotherdayyouwerealittleboyclingingtoyourmothersskirtasyousetoffforyyasulaniandnowyoureamangrownwithafacefullofhair",
       "text_en": "Right... Sorry, it's still strange for me too. Just the other day you were a little boy, clinging to your mother's skirt as you set off for Yyasulani...and now you're a man grown with a face full of hair.",
       "text": "นั่นสินะ... โทษที สำหรับพ่อเองมันก็ยังรู้สึกแปลก ๆ อยู่เหมือนกัน เมื่อวันก่อนแกยังเป็นเด็กตัวเล็ก ๆ คอยเกาะกระโปรงแม่ตอนเดินทางไปยาซูรานีอยู่เลย... แต่ตอนนี้แกกลับเติบโตเป็นผู้ใหญ่แถมมีหนวดเคราเต็มหน้าไปซะแล้ว"
     },
     {
-      "character": "Gregarious Man",
+      "key": "evensoiknewyouweremysontheinstantisawyouwerestillfamilyandyoucanalwaysrelyonme",
       "text_en": "Even so, I knew you were my son the instant I saw you. We're still family, and you can always rely on me.",
       "text": "ถึงอย่างนั้น พ่อก็จำได้ทันทีเลยว่าแกคือลูกของพ่อตั้งแต่แรกเห็น พวกเรายังคงเป็นครอบครัวเดียวกันเสมอนะ และแกสามารถพึ่งพาพ่อได้ตลอดเวลาเลยล่ะ"
     },
     {
-      "character": "Disheartened Man",
+      "key": "relyingthatfeelsliketheonlythingimdoingrightnowonyouandeveryoneelseicantevenstartafirewithoutassistanceatmynewjob",
       "text_en": "Relying... That feels like the only thing I'm doing right now. On you and everyone else. I can't even start a fire without assistance at my new job...",
       "text": "พึ่งพา... ความรู้สึกเหมือนเป็นสิ่งเดียวที่ผมทำได้ในตอนนี้เลยครับ พึ่งพาทั้งพ่อและพึ่งพาทุก ๆ คนไปหมด แม้แต่การจุดไฟในงานใหม่ ผมยังทำไม่ได้ถ้าไม่มีคนคอยช่วยเลย..."
     },
     {
-      "character": "Disheartened Man",
+      "key": "backinalexandriawehadelectropeifineededfireallihadtodowaspressabuttoneverythingwasatourfingertips",
       "text_en": "Back in Alexandria, we had electrope. If I needed fire, all I had to do was press a button. Everything was at our fingertips.",
       "text": "ตอนที่ยังอยู่ในอเล็กซานเดรีย พวกเรามีอิเล็กโทรป (electrope) ถ้าผมต้องการไฟ ผมก็แค่กดปุ่ม ทุกสิ่งทุกอย่างเข้าถึงง่ายเพียงปลายนิ้วสัมผัส"
     },
     {
-      "character": "Disheartened Man",
+      "key": "buthereimhelplessaculinarianwhocantevenlightthestovethewaytheothersinthekitchenstaredatmegodsidneverfeltsoembarrassed",
       "text_en": "But here, I'm helpless. A culinarian who can't even light the stove. The way the others in the kitchen stared at me... Gods, I'd never felt so embarrassed.",
       "text": "แต่ที่นี่ ผมกลับทำอะไรไม่เป็นเลย เป็นเชฟทำอาหารแท้ ๆ แต่กลับจุดไฟเตาเองไม่ได้ด้วยซ้ำ สายตาที่คนอื่น ๆ ในครัวจ้องมองมาที่ผม... พระเจ้า ผมไม่เคยรู้สึกอับอายขายหน้าขนาดนั้นมาก่อนเลยครับ"
     },
     {
-      "character": "Gregarious Man",
+      "key": "imsorrytohearthatidbeentoldthetalesbutitseemslifeisreallydifferentwithinthedome",
       "text_en": "I'm sorry to hear that... I'd been told the tales, but it seems life is really different within the dome.",
       "text": "พ่อเสียใจด้วยนะที่ต้องได้ยินแบบนั้น... พ่อเคยได้ยินเรื่องเล่ามาบ้าง แต่ดูเหมือนว่าชีวิตความเป็นอยู่ภายในโดมสายฟ้านั่นจะแตกต่างจากข้างนอกนี้จริง ๆ"
     },
     {
-      "character": "Disheartened Man",
+      "key": "mywifeandchildreniwasthinkingidhavethemjoinmeoncethingshadsettledbutatthisrate",
       "text_en": "My wife and children─I was thinking I'd have them join me once things had settled, but at this rate...",
       "text": "ภรรยากับลูก ๆ ของผม—ทีแรกผมคิดว่าจะพาพวกเขามาอยู่ด้วยกันหลังจากทุกอย่างเริ่มเข้าที่เข้าทางแล้ว แต่ถ้ายังเป็นแบบนี้ต่อไป..."
     },
     {
-      "character": "Gregarious Man",
+      "key": "isayyousendforthemiftheyreyourfamilythentheyreminetooilldowhateversnecessarytomakeitwork",
       "text_en": "I say you send for them. If they're your family, then they're mine too. I'll do whatever's necessary to make it work.",
       "text": "พ่อว่าแกส่งข่าวไปตามพวกเขามาเถอะ ในเมื่อพวกเขาคือครอบครัวของแก ก็ย่อมเป็นครอบครัวของพ่อเหมือนกัน พ่อจะช่วยทำทุกวิถีทางเพื่อส่งเสริมให้ทุกอย่างราบรื่นให้ได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ididntmeantooverhearbutitseemsyourehavingtroublereadjustingtolifeintuliyollal",
       "text_en": "I didn't mean to overhear, but it seems you're having trouble readjusting to life in Tuliyollal.",
       "text": "ฉันไม่ได้ตั้งใจจะแอบฟังหรอกนะ แต่ดูเหมือนนายกำลังเจอปัญหาในการปรับตัวเข้ากับวิถีชีวิตในทูลิโยลลัลอยู่สินะ"
     },
     {
-      "character": "Disheartened Man",
+      "key": "vvowwuklamat",
       "text_en": "V-Vow Wuk Lamat!?",
       "text": "ท-ท่านวุค ลามัต!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "toaidfolklikeyourselfweveestablishedasupportgroupatthewingofreflectionthereyoucanlearntheskillsyouneedtoliveoutsidethedome",
       "text_en": "To aid folk like yourself, we've established a support group at the Wing of Reflection. There, you can learn the skills you need to live outside the dome.",
       "text": "เพื่อช่วยเหลือผู้คนที่มีความเดือดร้อนเหมือนกับนาย พวกเราจึงได้จัดตั้งกลุ่มสนับสนุนขึ้นที่ปีกแห่งการสะท้อน (Wing of Reflection) น่ะ ที่นั่นนายสามารถมาฝึกฝนทักษะที่จำเป็นสำหรับการใช้ชีวิตข้างนอกโดมสายฟ้าได้นะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itisnteasybeingbackiknowbutimhopefulthattheycanmakethingseasier",
       "text_en": "It isn't easy being back, I know. But I'm hopeful that they can make things easier.",
       "text": "ฉันรู้ดีว่าการปรับตัวหวนกลับมาใช้ชีวิตดั้งเดิมมันไม่ใช่เรื่องง่ายเลย แต่ฉันหวังว่าพวกเขาจะสามารถช่วยบรรเทาให้ทุกอย่างราบรื่นขึ้นได้นะ"
     },
     {
-      "character": "Disheartened Man",
+      "key": "thatsexactlywhatineedilldefinitelyseekthisgroupoutandillbringmyfamilywithmethankyou",
       "text_en": "That's exactly what I need! I'll definitely seek this group out─and I'll bring my family with me! Thank you!",
       "text": "นั่นคือสิ่งที่ผมกำลังต้องการที่สุดเลยครับ! ผมจะลองไปเข้าร่วมกลุ่มนี้ดูแน่นอน—และจะพาครอบครัวของผมไปด้วย! ขอบคุณมากนะครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohlookwhoitisiwasjustabouttogoandfindyouforename",
       "text_en": "Oh, look who it is! I was just about to go and find you, Forename .",
       "text": "โอ๊ะ ดูสิว่าเจอใคร! ฉันกำลังตั้งท่าจะออกไปตามหานายอยู่พอดีเลย คุณ [ชื่อ]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youdontmindthecompanyihopeicoulduseabitetoeatmyself",
       "text_en": "You don't mind the company, I hope? I could use a bite to eat myself.",
       "text": "หวังว่าจะไม่รังเกียจที่จะให้นั่งด้วยคนนะ? พอดีฉันเองก็อยากจะแวะหาอะไรกินอยู่เหมือนกันล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ahhhthetacoshereneverdisappoint",
       "text_en": "Ahhh, the tacos here never disappoint!",
       "text": "เฮ้อ ทาโก้ของที่นี่ไม่เคยทำให้ผิดหวังเลยจริง ๆ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sowhatveyoubeenuptolately",
       "text_en": "So, what've you been up to lately?",
       "text": "ว่าแต่นายล่ะ ช่วงนี้ไปทำอะไรมาบ้าง?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "heheimgladthatthespittingdevilisservingyouwellandyourestillenjoyingseeingthesights",
       "text_en": "Hehe, I'm glad that the spitting devil is serving you well, and you're still enjoying seeing the sights.",
       "text": "ฮะฮะ ดีใจด้วยนะที่เจ้าปีศาจขี้พ่นสี (spitting devil) ตัวนั้นทำหน้าที่ดูแลนายเป็นอย่างดี และนายยังคงเพลิดเพลินกับการท่องเที่ยวชมทัศนียภาพอยู่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "giveneverythingwevebeenthroughidontblameyoubutonceyouvehadyourfillimsureyoullbeitchingtogetbackintothethickofthings",
       "text_en": "Given everything we've been through, I don't blame you. But once you've had your fill, I'm sure you'll be itching to get back into the thick of things.",
       "text": "เมื่อพิจารณาถึงเรื่องทั้งหมดที่พวกเราเคยร่วมฝ่าฟันมาด้วยกัน ฉันก็ไม่ได้ตำหนินายหรอกนะ แต่พอพักผ่อนจนจุใจแล้ว ฉันเชื่อว่านายคงจะคันไม้คันมืออยากกลับไปลุยงานใหญ่อีกครั้งแน่นอน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iveheardstoriesaboutsomeonehelpingoutthebusinessesseeinghowwelltheyrefaringnowyouveclearlydoneafinejob",
       "text_en": "I've heard stories about someone helping out the businesses. Seeing how well they're faring now, you've clearly done a fine job.",
       "text": "ฉันเคยได้ยินเรื่องเล่าเกี่ยวกับบุคคลที่ยื่นมือเข้าไปช่วยเหลือร้านค้าธุรกิจต่าง ๆ เมื่อได้เห็นผลงานความรุ่งเรืองของร้านเหล่านั้นในยามนี้แล้ว เห็นได้ชัดเลยว่านายทำหน้าที่ได้ดีแสนดีเลยล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ivebeenreviewingreportsfromthelandsguardgivenmyresponsibilitiesimnotinapositiontochasecriminalsabroadsoineededsomeoneelsetotakecareofthematterimgladthatsomeoneisyou",
       "text_en": "I've been reviewing reports from the Landsguard. Given my responsibilities, I'm not in a position to chase criminals abroad, so I needed someone else to take care of the matter. I'm glad that someone is you!",
       "text": "ฉันได้ทบทวนรายงานของกองทหารรักษาการณ์แลนด์สการ์ดดูแล้ว ด้วยอำนาจหน้าที่ของฉันคงไม่อยู่ในจุดที่จะไปไล่ล่าคนร้ายข้ามโลกมิติอื่น ๆ ได้เอง ดังนั้นจึงต้องการใครสักคนมาช่วยรับผิดชอบจัดการเรื่องนี้แทน และฉันดีใจมากเลยที่คนคนนั้นคือนาย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yourefightinginthearenainalexandriabyfacingoffagainsttoughopponentsidwageryouvehonedyourskillsevenfurther",
       "text_en": "You're fighting in the arena in Alexandria!? By facing off against tough opponents, I'd wager you've honed your skills even further!",
       "text": "นายไปต่อสู้ในลานประลองที่อเล็กซานเดรียด้วยงั้นเหรอ!? การเผชิญหน้ากับศัตรูที่แข็งแกร่งขนาดนั้น ฉันพนันได้เลยว่าฝีมือการต่อสู้ของนายคงพัฒนาไปล้ำหน้าขึ้นอีกขั้นแน่นอน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asformyselfimbeingkeptbusywithdutiesatthepalacebutwheneverifindamomentiliketowalkthestreetsandtalktothepeople",
       "text_en": "As for myself, I'm being kept busy with duties at the palace. But whenever I find a moment, I like to walk the streets and talk to the people.",
       "text": "สำหรับตัวฉันเอง ช่วงนี้วุ่นอยู่กับภารกิจหน้าที่ในราชวังทูลิโยลลัลน่ะ แต่เมื่อไหร่ก็ตามที่พอมีเวลาว่าง ฉันก็ชอบออกมาเดินตามท้องถนนและพูดคุยเสวนากับประชาชนน่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatwayicanbetterunderstandtheproblemstheyhaveandsharethemwithkoanatofigureoutsolutions",
       "text_en": "That way, I can better understand the problems they have, and share them with Koana to figure out solutions.",
       "text": "ด้วยวิธีนี้ จะช่วยให้ฉันเข้าใจปัญหาของพวกเขามากขึ้น และนำไปแบ่งปันพูดคุยกับโคอานาเพื่อหาทางออกแก้ไขร่วมกันได้ล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwasononesuchwalkjustnowandasimentionediwashopingtofindyou",
       "text_en": "I was on one such walk just now. And as I mentioned, I was hoping to find you.",
       "text": "ฉันเองก็เพิ่งกลับมาจากการเดินสำรวจเมืองเมื่อกี้เหมือนกัน และอย่างที่บอกไปนั่นแหละ ฉันตั้งใจจะมาตามหานายอยู่พอดี"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "koanaandihavesomethingwewanttodiscusswithyouasdawnservantsdoyouhavetimetocometothepalace",
       "text_en": "Koana and I have something we want to discuss with you─as Dawnservants. Do you have time to come to the palace?",
       "text": "โคอานากับฉันมีเรื่องสำคัญบางอย่างที่อยากจะหารือพูดคุยกับนาย—ในฐานะดอว์นเซิร์ฟวันต์ร่วมกันน่ะ นายพอจะมีเวลาแวะไปที่พระราชวังกับฉันตอนนี้เลยไหม?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "greatillgoonaheadpleasecomeandjoinusonceyouvefinishedhere",
       "text_en": "Great. I'll go on ahead. Please come and join us once you've finished here.",
       "text": "วิเศษเลย งั้นฉันขอล่วงหน้าไปก่อนนะ ทานเสร็จเรียบร้อยแล้วตามไปสมทบได้เลยจ้า"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itseemskoanasgonesomewheresorry",
       "text_en": "It seems Koana's gone somewhere. Sorry...",
       "text": "ดูเหมือนโคอานาจะออกไปจัดการธุระข้างนอกน่ะ ขอโทษทีนะ..."
     },
     {
-      "character": "Landsguard Gatekeeper",
+      "key": "masterforenameitisalwaysanhonorvowkoanahassteppedawaytoattendtoapressingmatterbutheshouldjoinyouwithinbeforelong",
       "text_en": "Master Forename , it is always an honor. Vow Koana has stepped away to attend to a pressing matter, but he should join you within before long.",
       "text": "ยินดีต้อนรับครับ คุณ [ชื่อ] ถือเป็นเกียรติเสมอครับ ขณะนี้องค์สัญญาโคอานาเพิ่งจะขอตัวออกไปจัดการเรื่องเร่งด่วนภายนอกสักครู่ แต่คาดว่าอีกประเดี๋ยวคงจะเดินทางกลับมาร่วมสนทนากับทุกท่านครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohyoureallheretoo",
       "text_en": "Oh, you're all here, too?",
       "text": "อ้าว ทุกคนก็มารวมตัวกันอยู่ที่นี่หมดเลยเหรอ?"
     },
     {
-      "character": "Alisaie",
+      "key": "vowkoanasummonedusthoughiftruthbetoldalphinaudandihavebeenseeinghimquiteregularlyoflate",
       "text_en": "Vow Koana summoned us. Though if truth be told, Alphinaud and I have been seeing him quite regularly of late.",
       "text": "องค์สัญญาโคอานาเรียกตัวพวกเรามาน่ะค่ะ แต่จะว่าไป ช่วงหลัง ๆ มานี้ ฉันกับอัลฟิโนก็เดินทางมาพบท่านอยู่บ่อย ๆ เหมือนกันนะคะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "heaskedustoshareourknowledgeofhannishcultureyouseeinhopesoffurtherstrengtheningyouralliancewewereofcoursehappytoobligehim",
       "text_en": "He asked us to share our knowledge of Hannish culture, you see, in hopes of further strengthening your alliance. We were of course happy to oblige him.",
       "text": "ท่านขอร้องให้พวกเราช่วยแบ่งปันข้อมูลและแนะนำความรู้เกี่ยวกับวัฒนธรรมของชะมดทองคำ (Hannish) น่ะครับ เพื่อหวังจะสร้างความแข็งแกร่งและกระชับสัมพันธไมตรีของสองแคว้นให้ดียิ่งขึ้น แน่นอนว่าพวกเรายินดีช่วยเหลืออย่างยิ่งครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "krileandiwerelikewisesummonedotherwisewevebeencarryingonwithourworkcompilinginformationonthegoldencity",
       "text_en": "Krile and I were likewise summoned. Otherwise we've been carrying on with our work, compiling information on the golden city.",
       "text": "ครูลกับผมก็โดนเรียกตัวมาแบบเดียวกันครับ ส่วนงานอื่น ๆ พวกเรายังคงดำเนินรวบรวมข้อมูลเกี่ยวกับนครสีทองคำต่อไปครับ"
     },
     {
-      "character": "Krile",
+      "key": "mygrandfatherembarkedonhisinvestigationtwentyyearsagowithourreportweshallfinishwhathestarted",
       "text_en": "My grandfather embarked on his investigation twenty years ago. With our report, we shall finish what he started.",
       "text": "คุณปู่ของฉันเริ่มต้นออกสำรวจวิจัยเรื่องนี้เมื่อยี่สิบปีก่อน การทำรายงานในครั้งนี้ของพวกเราจะถือเป็นการสานต่อภารกิจที่ท่านได้เริ่มไว้ให้เสร็จสมบูรณ์ค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "lestyouwonderthancredanduriangerhavelefttoresumetheirtouroftural",
       "text_en": "Lest you wonder, Thancred and Urianger have left to resume their tour of Tural.",
       "text": "เผื่อจะสงสัยนะ แธนเครดกับอุรียองเชออกเดินทางท่องเที่ยวชมแคว้นทูรัลต่อแล้วล่ะค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "yshtolameanwhileisbacktoresearchingcrossrifttravelshewasherejustafewdaysagotogetkoanaspermissiontoinvestigatelivingmemory",
       "text_en": "Y'shtola, meanwhile, is back to researching cross-rift travel. She was here just a few days ago to get Koana's permission to investigate Living Memory.",
       "text": "ส่วนวาย'ชโตลา ช่วงนี้เธอหวนกลับไปตั้งใจทำวิจัยศึกษาเรื่องกระบวนการเดินทางข้ามห้วงมิติ (cross-rift travel) แล้วล่ะค่ะ เมื่อไม่กี่วันก่อนเธอยังเดินทางมาที่นี่เพื่อขออนุญาตจากโคอานาเข้าไปสำรวจลิฟวิ่งเมโมรีอยู่เลย"
     },
     {
-      "character": "Alisaie",
+      "key": "bythewayshementionedwantingtotakealookatthekeyinyourkeepingatsomepoint",
       "text_en": "By the way, she mentioned wanting to take a look at the key in your keeping at some point.",
       "text": "จะว่าไป เธอเปรย ๆ ว่าอยากจะขอศึกษาดูเรื่องกุญแจสำคัญที่นายเก็บรักษาไว้ด้วยเหมือนกันนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "ifthelookshehadinhereyeswasanyindicationisuggestyoubraceyourselfforwhenshecomescallingyoureliketobestuckwithherforawhile",
       "text_en": "If the look she had in her eyes was any indication, I suggest you brace yourself for when she comes calling. You're like to be stuck with her for a while.",
       "text": "ดูจากแววตานิ่งเด็ดเดี่ยวของยัยนั่นแล้ว ฉันขอแนะนำให้นายเตรียมตัวเตรียมใจรับมือไว้ล่ะ ยามที่เธอแวะมาเคาะประตูเรียก นายคงต้องโดนดึงตัวไว้ศึกษาด้วยกันอีกนานแน่"
     },
     {
-      "character": "Alphinaud",
+      "key": "asforestinienweknowneitherwhereheisnorwhatheisdoingsomethingsneverchange",
       "text_en": "As for Estinien...we know neither where he is nor what he is doing. Some things never change.",
       "text": "ส่วนเอสตินเญ็ง... พวกเราไม่ทราบเลยครับว่าเขาไปอยู่ที่ไหนหรือกำลังทำอะไรอยู่ บางสิ่งบางอย่างก็ไม่เคยเปลี่ยนไปเลยจริง ๆ"
     },
     {
-      "character": "Koana",
+      "key": "myapologiesforthedelay",
       "text_en": "My apologies for the delay.",
       "text": "ขออภัยทุกท่านด้วยครับที่ทำให้ต้องเสียเวลารอ"
     },
     {
-      "character": "Krile",
+      "key": "thinknothingofitwetookadvantageofthetimetocatchup",
       "text_en": "Think nothing of it. We took advantage of the time to catch up.",
       "text": "ไม่เป็นไรเลยค่ะ พวกเราอาศัยโอกาสช่วงนี้พูดคุยถามไถ่สารทุกข์สุกดิบกันน่ะค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "sowhatcanwedoforyouhopefullypresentcompanyisenoughforwhateveritisyouneed",
       "text_en": "So, what can we do for you? Hopefully present company is enough for whatever it is you need.",
       "text": "แล้วเรียกพวกเรามา มีงานอะไรให้ช่วยเหลือรึเปล่าคะ? หวังว่าจำนวนกำลังพลที่อยู่ที่นี่จะเพียงพอสำหรับภารกิจที่ท่านต้องการนะ"
     },
     {
-      "character": "Koana",
+      "key": "thematterforwhichihavesummonedyoupertainstoalexandria",
       "text_en": "The matter for which I have summoned you pertains to Alexandria.",
       "text": "ธุระสำคัญที่ผมเรียกทุกท่านมาในวันนี้ เกี่ยวข้องกับอเล็กซานเดรียครับ"
     },
     {
-      "character": "Koana",
+      "key": "astatefuneralwillsoonbeheldinsolutionninetomournthepassingofqueensphenekinggulooljaandhisadministrationhaveinvitedustoattend",
       "text_en": "A state funeral will soon be held in Solution Nine to mourn the passing of Queen Sphene. King Gulool Ja and his administration have invited us to attend.",
       "text": "ในเร็ว ๆ นี้ จะมีการจัดงานพิธีศพอย่างเป็นทางการขึ้นในโซลูชันไนน์ เพื่อร่วมไว้อาลัยต่อการจากไปขององค์ราชินีสฟีน และกษัตริย์กูลูล จารวมถึงคณะบริหารงานของเขาได้ส่งคำเชื้อเชิญมาหาพวกเราให้เข้าร่วมงานด้วยครับ"
     },
     {
-      "character": "Koana",
+      "key": "whilecertainissuesremainunresolvedbetweenournationssuchasthetreatmentofyyasulaniiseenoreasonnottoattend",
       "text_en": "While certain issues remain unresolved between our nations, such as the treatment of Yyasulani, I see no reason not to attend.",
       "text": "ถึงแม้ความสัมพันธ์ระหว่างสองอาณาจักรจะยังมีบางปัญหาที่หาข้อตกลงร่วมกันไม่ได้อยู่บ้าง อย่างเช่นเรื่องการจัดการดูแลผลประโยชน์ในเขตยาซูรานี (Yyasulani) แต่ผมก็มองไม่เห็นเหตุผลที่พวกเราจะปฏิเสธไม่เข้าร่วมพิธีไว้อาลัยครั้งนี้ครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "forgenerationsthealexandrianslivedwithouteventheawarenessofdeathiwouldnthaveexpectedthemtohavefuneralritesstill",
       "text_en": "For generations, the Alexandrians lived without even the awareness of death. I wouldn't have expected them to have funeral rites still.",
       "text": "หลายรุ่นหลายอายุคนมาแล้ว ประชาชนชาวอเล็กซานเดรียต่างมีชีวิตอยู่โดยปราศจากความเข้าใจหรือความสำนึกเรื่องความตายด้วยซ้ำ ไม่นึกเลยครับว่าพวกเขาจะยังคงสืบทอดธรรมเนียมพิธีการจัดงานศพมาจนถึงทุกวันนี้"
     },
     {
-      "character": "Koana",
+      "key": "apparentlythemembersofoblivionunearthedrecordsofceremoniesthatwereconductedinthealexandriaofolditwastheywhoputforththeproposalthatthequeenbethushonored",
       "text_en": "Apparently, the members of Oblivion unearthed records of ceremonies that were conducted in the Alexandria of old. It was they who put forth the proposal that the queen be thus honored.",
       "text": "เห็นว่าสมาชิกของกลุ่มเดอะแบ็ครูม (Oblivion) ได้ช่วยกันค้นหาคลังข้อมูลเรื่องพิธีกรรมโบราณเหล่านั้นที่เคยปฏิบัติกันในยุคอเล็กซานเดรียดั้งเดิมได้สำเร็จครับ และพวกเขาก็เป็นผู้ริเริ่มเสนอให้จัดงานไว้อาลัยนี้ขึ้นเพื่อเชิดชูองค์ราชินี"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "leaveittothatlottothinkofsuchthings",
       "text_en": "Leave it to that lot to think of such things.",
       "text": "ปล่อยให้พวกพ้องกลุ่มนั้นคิดเรื่องปัญญาชนแบบนี้เถอะนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thepeopleofalexandrianolongerforgetthedepartedtheyrebeingconfrontedwiththeideaofdeathforthefirsttimeisuspectourfriendswantedtodosomethingforthem",
       "text_en": "The people of Alexandria no longer forget the departed. They're being confronted with the idea of death for the first time. I suspect our friends wanted to do something for them.",
       "text": "ตอนนี้นี่เอง ประชาชนของอเล็กซานเดรียจะไม่ลืมเลือนผู้ที่จากไปอีกต่อไปแล้ว พวกเขาเพิ่งจะเริ่มเรียนรู้แนวคิดเรื่องความตายเป็นครั้งแรกในชีวิต ฉันเข้าใจว่าพวกพ้องของเราคงอยากยื่นมือช่วยทำอะไรบางอย่างเพื่อปลอบประโลมจิตใจให้แก่พวกเขา"
     },
     {
-      "character": "Krile",
+      "key": "thoughsphenewasbutasimulacrumshewasnonethelessapillarforherpeoplethepainofherpassingmustrundeep",
       "text_en": "Though Sphene was but a simulacrum, she was nonetheless a pillar for her people. The pain of her passing must run deep.",
       "text": "ถึงแม้สฟีนจะเป็นเพียงแค่ร่างจำลองข้อมูล แต่เธอก็เป็นหลักยึดเหนี่ยวจิตใจที่สำคัญที่สุดของประชาชนของเธอ ความเจ็บปวดจากการสูญเสียครั้งนี้คงกรีดแทงลึกอยู่ในหัวใจพวกเขาแน่ค่ะ"
     },
     {
-      "character": "Koana",
+      "key": "indeedafuneralwillgivealexandriansthechancetocometogethertoexpresstheirgriefthattheymightovercomeit",
       "text_en": "Indeed. A funeral will give Alexandrians the chance to come together to express their grief, that they might overcome it.",
       "text": "ถูกต้องครับ พิธีไว้อาลัยไว้อาลัยในครั้งนี้จะช่วยมอบโอกาสให้ชาวอเล็กซานเดรียได้มารวมตัวแสดงความเศร้าโศกร่วมกัน เพื่อที่พวกเขาจะได้ร่วมก้าวข้ามผ่านพ้นความเศร้าเศร้าใจนี้ไปได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwasntsureatfirstbutivedecidedtogonotonlytobethereforgulooljabuttoputthischapterbehindus",
       "text_en": "I wasn't sure at first, but I've decided to go. Not only to be there for Gulool Ja, but to put this chapter behind us.",
       "text": "ทีแรกฉันก็ยังรู้สึกลังเลสับสนอยู่บ้าง แต่ตอนนี้ฉันตัดสินใจแล้วว่าจะเดินทางไปร่วมงานด้วย ไม่ใช่แค่เพื่อช่วยให้กำลังใจแก่เจ้าหนูกูลูล จา เท่านั้น แต่เพื่อช่วยให้เรื่องราวในส่วนนี้ของพวกเราจบลงอย่างบริบูรณ์ด้วยล่ะ"
     },
     {
-      "character": "Koana",
+      "key": "thatirequestedyourpresencewasnoneotherthantoseeifyouwishtoattendthefuneralyouknewspheneaswellafterall",
       "text_en": "That I requested your presence was none other than to see if you wish to attend the funeral. You knew Sphene as well, after all...",
       "text": "สาเหตุที่ผมขอเชิญคุณมาร่วมหารือในวันนี้ ก็เพียงเพราะอยากสอบถามความสมัครใจว่าคุณปรารถนาจะเข้าร่วมพิธีศพครั้งนี้ด้วยหรือไม่ เพราะว่าตัวคุณเองก็รู้จักมักคุ้นกับสฟีนดีเช่นกัน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "becauseyouconsideryourselfresponsibleforherdemiseitakeitbutthatsnotaburdenyoubearalone",
       "text_en": "Because you consider yourself responsible for her demise, I take it. But that's not a burden you bear alone.",
       "text": "เพราะนายคิดว่าความสูญเสียตัวตนของสฟีนเป็นผลมาจากฝีมือนายสินะ แต่เรื่องนั้นนายไม่ได้แบกรับรับผิดชอบอยู่คนเดียวหรอกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "heresmyideaasvowillattendthefuneralasarepresentativeoftuliyollalmeanwhileyoucangoinapersonalcapacityandwatchoverthepeopleastheymourn",
       "text_en": "Here's my idea. As Vow, I'll attend the funeral as a representative of Tuliyollal. Meanwhile, you can go in a personal capacity, and watch over the people as they mourn.",
       "text": "ฉันมีข้อเสนอดี ๆ ล่ะ ในฐานะดอว์นเซิร์ฟวันต์ ฉันจะทำหน้าที่เดินทางไปร่วมงานศพในฐานะผู้แทนอย่างเป็นทางการของทูลิโยลลัล ส่วนนายก็แวะไปในฐานะส่วนตัว คอยช่วยเฝ้าระวังดูแลความปลอดภัยของผู้คนในระหว่างที่พวกเขากำลังร่วมไว้อาลัยเศร้าโศกดีไหมล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youandmebothbutwemadeourchoicesandareresponsibleforwhatcomesofthemasvowillattendthefuneralinanofficialcapacityioweittothealexandrianpeopletobearwitnesstotheirgrief",
       "text_en": "You and me both. But we made our choices and are responsible for what comes of them. As Vow, I'll attend the funeral in an official capacity. I owe it to the Alexandrian people to bear witness to their grief.",
       "text": "ทั้งนายและฉันมีส่วนร่วมรับผิดชอบเหมือนกันนั่นแหละ แต่พวกเราได้ตัดสินใจไปแล้ว และต้องรับผิดชอบต่อผลลัพธ์ที่จะตามมา ในฐานะดอว์นเซิร์ฟวันต์ ฉันจะเดินทางไปร่วมพิธีศพอย่างเป็นทางการเอง ฉันมีหน้าที่ต้องแบกรับและร่วมเป็นสักขีพยานต่อความเศร้าโศกเสียใจของประชาชนชาวอเล็กซานเดรียล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "idlikeitifyoucouldbetheretowatchovereverythinglikeyoudidallthroughtheriteofsuccession",
       "text_en": "I'd like it if you could be there to watch over everything, like you did all through the rite of succession.",
       "text": "ฉันอยากให้นายช่วยอยู่ตรงนั้นเพื่อคอยเฝ้าสังเกตการณ์ทุกสิ่งรอบตัว เหมือนอย่างที่นายเคยช่วยเหลือฉันมาโดยตลอดในช่วงพิธีสืบทอดราชบัลลังก์น่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "becauseofyourroleinherdemiseitakeitbutwehadnochoicewehadtostopherfromkillingcountlessinnocents",
       "text_en": "Because of your role in her demise, I take it. But we had no choice. We had to stop her from killing countless innocents.",
       "text": "เพราะความเกี่ยวข้องของนายต่อความสูญเสียของเธอสินะ แต่ยามนั้นพวกเราไม่มีทางเลือกอื่นนี่นา หากปล่อยไว้ก็มีแต่ความสูญเสียของผู้บริสุทธิ์จำนวนมหาศาล"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwontforceyoutoattendthefuneralifitmakesyoufeeluncomfortablebutwhileirepresenttuliyollalinanofficialcapacityidlikeitifyoucouldbetheretowatchovereverything",
       "text_en": "I won't force you to attend the funeral if it makes you feel uncomfortable. But while I represent Tuliyollal in an official capacity, I'd like it if you could be there to watch over everything.",
       "text": "ฉันจะไม่บีบบังคับให้นายต้องเดินทางไปร่วมงานศพหรอกนะหากเรื่องนี้ทำให้นายอึดอัดใจ แต่ในขณะที่ฉันเข้าร่วมงานในบทบาทผู้แทนอย่างเป็นทางการของทูลิโยลลัล ฉันก็อยากให้นายร่วมอยู่ตรงนั้นช่วยเฝ้าดูแลสิ่งต่าง ๆ อยู่ห่าง ๆ น่ะ"
     },
     {
-      "character": "Krile",
+      "key": "ifeeltherestofusshouldgotooregardlessofthereasonthefactremainsthatwedeprivedalexandriaofabelovedruler",
       "text_en": "I feel the rest of us should go too. Regardless of the reason, the fact remains that we deprived Alexandria of a beloved ruler.",
       "text": "ฉันคิดว่าพวกเราที่เหลือควรจะเดินทางไปด้วยเหมือนกันค่ะ ไม่ว่าจะด้วยสาเหตุใดก็ตาม ความจริงก็คือพวกเราทำให้ชาวอเล็กซานเดรียต้องสูญเสียผู้ปกครองอันเป็นที่รักไป"
     },
     {
-      "character": "Krile",
+      "key": "itsonlyrightthatwerememberwhosphenewastoherpeopleandtootherssoletusstandwithyou",
       "text_en": "It's only right that we remember who Sphene was, to her people and to others, so let us stand with you.",
       "text": "เป็นสิ่งที่ถูกต้องแล้วล่ะค่ะที่พวกเราควรร่วมรำลึกจดจำว่าสฟีนเคยมีความหมายเพียงใด ทั้งต่อประชาชนของเธอและต่อสิ่งอื่น ๆ ดังนั้น ให้พวกเราได้อยู่เคียงข้างคุณนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenitsdecidedletsheadtosolutionnineandlookforgulooljainthebackroom",
       "text_en": "Then it's decided. Let's head to Solution Nine and look for Gulool Ja in the Backroom.",
       "text": "ถ้าอย่างนั้นก็ตกลงตามนี้เถอะ พวกเรามุ่งหน้าสู่โซลูชันไนน์แล้วลองไปหาตัวเจ้าหนูกูลูล จา ที่ห้องเดอะแบ็ครูม (the Backroom) กันเลย"
     },
     {
-      "character": "Banner Text",
+      "key": "crossroads",
       "text_en": "CROSSROADS",
       "text": "ทางแยกสู่โชคชะตา"
     },
     {
-      "character": "Koana",
+      "key": "thoughitoowouldideallyattendthefuneralgiventhecircumstancesithinkitisbestthatlamatyirepresentsus",
       "text_en": "Though I too would ideally attend the funeral, given the circumstances, I think it is best that Lamaty'i represents us.",
       "text": "ถึงแม้ความตั้งใจจริงของผมคืออยากแวะไปร่วมงานพิธีไว้อาลัยนี้ด้วยตัวเองก็ตาม แต่ภายใต้สถานการณ์ในปัจจุบัน ผมเห็นพ้องว่าการให้ลามาตี้ (Lamaty'i) ทำหน้าที่เป็นผู้แทนเดินทางไปร่วมงานศพน่าจะเป็นทางเลือกที่ดีที่สุดครับ"
     },
     {
-      "character": "Koana",
+      "key": "besidesineedtobeonhandtooverseethecitysrepairswhichistakinglongerthanexpectedwhenthatworkiscompletewewillfinallylookintoinstallingnewthrones",
       "text_en": "Besides, I need to be on hand to oversee the city's repairs, which is taking longer than expected. When that work is complete, we will finally look into installing new thrones.",
       "text": "นอกจากนี้ ผมยังจำเป็นต้องคอยอยู่ประจำการเพื่อดูแลกระบวนการบูรณะฟื้นฟูบ้านเมืองซึ่งมีความก้าวหน้าช้ากว่าที่คาดการณ์ไว้ด้วย ยามที่ภารกิจเหล่านั้นเสร็จสิ้นสมบูรณ์แล้ว พวกเราจึงจะเริ่มจัดทำและติดตั้งเก้าอี้บัลลังก์ตัวใหม่ครับ"
     },
     {
-      "character": "Koana",
+      "key": "buttohavefathersthroneherestillitmakesmefeelheisclosebyimquitehappyforittoremainforawhile",
       "text_en": "But to have Father's throne here still... It makes me feel he is close by. I'm quite happy for it to remain for a while.",
       "text": "แต่การที่ยังมีเก้าอี้บัลลังก์ของท่านพ่อตั้งอยู่ตรงนี้... อดทำให้ผมรู้สึกว่าท่านยังคงสถิตเฝ้ามองอยู่ใกล้ ๆ ไม่ได้เลยครับ ผมยินดีอย่างยิ่งที่จะปล่อยให้มันตั้งอยู่ตรงนี้ต่ออีกสักระยะ"
     },
     {
-      "character": "Shale",
+      "key": "gladtoseetheinvitationreachedyouasyoumayhaveheardwewereabletofinddataonforgottenfuneralcustomsamidstoldrecords",
       "text_en": "Glad to see the invitation reached you. As you may have heard, we were able to find data on forgotten funeral customs amidst old records.",
       "text": "ดีใจจังเลยค่ะที่คำเชิญส่งไปถึงมือของพวกคุณเรียบร้อยแล้ว อย่างที่คุณอาจจะได้ยินข่าวมาบ้างนั่นแหละว่าพวกเราช่วยกันสืบค้นพบข้อมูลพิธีศพดั้งเดิมที่ลืมเลือนไปท่ามกลางบันทึกภาพถ่ายเก่า ๆ โบราณได้สำเร็จค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "itappearstohavebeenpreservedbythosewhoruedthelossofcultureduetotheproliferationofregulatorsweregratefulfortheirforesight",
       "text_en": "It appears to have been preserved by those who rued the loss of culture due to the proliferation of regulators. We're grateful for their foresight.",
       "text": "ดูเหมือนว่าข้อมูลเหล่านั้นจะได้รับการเก็บรักษาและสืบทอดโดยผู้ที่เสียใจต่อความสูญเสียวัฒนธรรมอันดีงามไปเนื่องจากการแพร่หลายขยายตัวของพวกเรกูเลเตอร์ (regulators) น่ะค่ะ พวกเราต้องขอบคุณความรอบคอบและวิสัยทัศน์ในอดีตของพวกเขาจริง ๆ"
     },
     {
-      "character": "Geode",
+      "key": "itsgoodofyoutocomewereexpectingalargeattendanceforthefuneralthevenueisntliketoholdeveryoneatonce",
       "text_en": "It's good of you to come. We're expecting a large attendance for the funeral─the venue isn't like to hold everyone at once.",
       "text": "ขอบคุณมากครับที่พวกคุณแวะมา พวกเราคาดเดาไว้ว่าจะมีประชาชนเดินทางมาร่วมงานศพจำนวนมหาศาล—พื้นที่จัดงานคงไม่สามารถรอบรับฝูงชนได้ทั้งหมดในเวลาเดียวกันหรอกครับ"
     },
     {
-      "character": "Geode",
+      "key": "butthealtarwillremainforthosewhocouldntbepresentduringtheceremonyweourselvesplantogoandpayourrespectsafterwards",
       "text_en": "But the altar will remain for those who couldn't be present during the ceremony. We ourselves plan to go and pay our respects afterwards.",
       "text": "แต่กระนั้น แท่นบูชาจะยังคงตั้งอยู่ต่อเพื่อเปิดโอกาสให้ผู้ที่ไม่สามารถเข้าร่วมในช่วงเวลาพิธีการได้แวะมาเคาะคำไว้อาลัยย้อนหลังได้ครับ สำหรับพวกเราเองก็กะว่าจะแวะไปแสดงความเคารพไว้อาลัยย้อนหลังหลังจากนี้เหมือนกัน"
     },
     {
-      "character": "Gulool Ja",
+      "key": "ahyoucameforthefuneral",
       "text_en": "Ah, you came for the funeral!",
       "text": "อา พี่ ๆ เดินทางมาร่วมงานพิธีศพด้วยเหรอครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ofcourseimtheonlyonewhollofficiallytakepartthoughtheotherswillwatchovertheproceedings",
       "text_en": "Of course. I'm the only one who'll officially take part, though. The others will watch over the proceedings.",
       "text": "แน่นอนอยู่แล้วจ้า แต่ว่าคนที่จะขึ้นแท่นเข้าร่วมพิธีอย่างเป็นทางการจะมีแค่ฉันคนเดียวเท่านั้นแหละนะ ส่วนคนอื่น ๆ จะคอยช่วยช่วยเฝ้าดูแลสิ่งต่าง ๆ อยู่รอบนอกน่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sohowhaveyoubeenitsbeenawhilesincemylastvisit",
       "text_en": "So, how have you been? It's been a while since my last visit.",
       "text": "แล้วช่วงนี้เป็นยังไงบ้างล่ะ? ไม่ได้เจอกันตั้งนานนับจากครั้งล่าสุดที่ฉันมาเยี่ยมเลยนะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "imgoodshaleisalwaysteachingmenewthings",
       "text_en": "I'm good. Shale is always teaching me new things.",
       "text": "ผมสบายดีครับ พี่เชล (Shale) คอยคอยสอนวิชาใหม่ ๆ ให้ผมเยอะแยะเลยครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "recentlyivelearnedabouteverkeepssystemsandthemechanicalsoldiersitsknowledgeillneedtousemyauthorityproperly",
       "text_en": "Recently, I've learned about Everkeep's systems and the mechanical soldiers. It's knowledge I'll need to use my authority properly.",
       "text": "เมื่อเร็ว ๆ นี้ ผมได้ศึกษาเรียนรู้เกี่ยวกับโครงสร้างระบบการทำงานของเอเวอร์คีพ (Everkeep) และพวกทหารกลไกจักรกลครับ ถือเป็นความรู้ที่จำเป็นสำหรับช่วยเหลือให้ผมสามารถนำอำนาจและตำแหน่งของตัวเองมาใช้อย่างถูกต้องเหมาะสมครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "studiousasalwaysiseebywayofatreativebroughtyougateauauchocolatitsakindofcakeithinkyoulllikeit",
       "text_en": "Studious as always, I see. By way of a treat, I've brought you gateau au chocolat. It's a kind of cake. I think you'll like it.",
       "text": "ใฝ่รู้อยู่ตลอดเวลาเลยนะเนี่ย เพื่อตอบแทนในความขยันของเธอ ฉันเลยซื้อขนมกาโตว์ช็อกโกแลต (gateau au chocolat) มาฝากด้วยล่ะ มันคือเค้กช็อกโกแลตรสเข้มข้นประเภทหนึ่งนะ ฉันคิดว่าเธอน่าจะถูกใจกับรสชาติของมันนะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "thankyoulamatyiandthankyouforcomingiveneverbeentoafuneralbeforesoifeellessnervoushavingyouhere",
       "text_en": "Thank you, Lamaty'i. And thank you for coming. I've never been to a funeral before, so I feel less nervous having you here.",
       "text": "ขอบคุณครับ พี่ลามาตี้ และก็ขอบคุณพี่ ๆ ทุกคนมากนะครับที่เดินทางมา ผมไม่เคยเข้าร่วมงานศพมาก่อนเลยในชีวิต พอมีพี่ ๆ อยู่ด้วยทำให้ผมรู้สึกตื่นเต้นและประหม่าน้อยลงเยอะเลยครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "outofcuriositywhatsthecustominalexandriainourworlditscommontoofferflowerstothedeparted",
       "text_en": "Out of curiosity, what's the custom in Alexandria? In our world, it's common to offer flowers to the departed.",
       "text": "ด้วยความอยากรู้นะคะ แล้วธรรมเนียมประเพณีของอเล็กซานเดรียเป็นอย่างไรบ้างเหรอคะ? ในโลกของพวกเรา ส่วนใหญ่ผู้คนมักจะนำดอกไม้ไปวางเพื่อเป็นสื่อคำไว้อาลัยแก่ผู้ล่วงลับน่ะค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "itsmuchthesamehereaccordingtotherecordsflowerswillbedistributedtoallattendees",
       "text_en": "It's much the same here according to the records. Flowers will be distributed to all attendees.",
       "text": "ที่นี่ก็มีวิธีปฏิบัติแบบเดียวกันเป็นหลักตามที่มีการบันทึกไว้ในระบบค่ะ จะมีการแจกจ่ายดอกไม้ให้แก่ผู้เข้าร่วมพิธีทุกคนค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "consideringthatalltheworldsusedtobeonethepracticeofofferingflowersmaywellsharethesameancientoriginfascinatingwouldntyousay",
       "text_en": "Considering that all the worlds used to be one, the practice of offering flowers may well share the same ancient origin. Fascinating, wouldn't you say?",
       "text": "เมื่อคำนึงถึงความจริงที่ว่าทุกมิติโลกเคยหลอมรวมเป็นหนึ่งเดียวกันในอดีต ประเพณีการมอบดอกไม้ไว้อาลัยยามนี้ก็น่าจะมีจุดกำเนิดและรากเหง้ามาจากต้นสายเดียวกันในประวัติศาสตร์โบราณนั่นแหละค่ะ ช่างเป็นเรื่องที่น่าอัศจรรย์ใจจริง ๆ เลยว่าไหมคะ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "forthepeopletotakeitonthemselvestoorganizeandholdthefuneralitspeakstotheirenduringloveforsphene",
       "text_en": "For the people to take it on themselves to organize and hold the funeral... It speaks to their enduring love for Sphene.",
       "text": "การที่ราษฎรพากันลุกขึ้นมาช่วยจัดงานศพและเป็นแกนนำดำเนินงานพิธีด้วยตนเองขนาดนี้... สะท้อนให้เห็นถึงความรักและความจงรักภักดีที่หยั่งรากลึกที่พวกเขามีต่อสฟีนจริง ๆ เลยครับ"
     },
     {
-      "character": "Krile",
+      "key": "fromagroupthatplottedtoundermineatyrantkingfromtheshadowstoonethataidstheirfellowcitizensintheopenoblivionhascomealongway",
       "text_en": "From a group that plotted to undermine a tyrant king from the shadows to one that aids their fellow citizens in the open... Oblivion has come a long way.",
       "text": "จากกลุ่มขบวนการใต้ดินที่เคยหลบซ่อนตัวในเงามืดคอยวางแผนการปฏิวัติกษัตริย์ผู้โหดร้าย มาสู่กลุ่มที่สามารถก้าวขึ้นมาทำประโยชน์ร่วมสร้างความรุ่งเรืองช่วยเหลือประชาชนในที่แจ้งเช่นทุกวันนี้... กลุ่มเดอะแบ็ครูมเดินทางมาได้ไกลและก้าวหน้าขึ้นมากจริง ๆ ค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "itsarelieftoseethatgulooljaisdoingwellhesbeenthroughtoomuchforonesoyoung",
       "text_en": "It's a relief to see that Gulool Ja is doing well. He's been through too much for one so young.",
       "text": "รู้สึกเบาใจขึ้นเยอะเลยค่ะที่ได้เห็นกูลูล จา สบายดีและเข้มแข็ง เด็กวัยขนาดนี้แต่ต้องผ่านพ้นพบเจอเรื่องทำร้ายจิตใจมหาศาลเหลือเกิน"
     },
     {
-      "character": "Alphinaud",
+      "key": "althoughivebeeninthebackroombeforetherewasnotimetoseethesightsishouldliketotakeacloserlookattheequipment",
       "text_en": "Although I've been in the Backroom before, there was no time to see the sights. I should like to take a closer look at the equipment.",
       "text": "แม้ผมจะเคยเดินทางมาพำนักอาศัยในห้องเดอะแบ็ครูมนี้มาก่อน แต่ยามนั้นไม่มีเวลาแวะท่องเที่ยวชมสิ่งต่าง ๆ รอบตัวเลยครับ ผมปรารถนาจะหาโอกาสแวะเข้าไปดูและศึกษาเครื่องมือและอุปกรณ์ต่าง ๆ ในห้องระบบอย่างใกล้ชิดดูสักหน่อย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "papaalwayssaidhedidntwantasomberfuneralsowecelebratedhislifetogetherwithourvictoryimsurehewouldvelovedit",
       "text_en": "Papa always said he didn't want a somber funeral, so we celebrated his life together with our victory. I'm sure he would've loved it...",
       "text": "ท่านพ่อเคยพูดเตือนไว้เสมอเลยล่ะว่า ไม่อยากเห็นทุกคนจมดิ่งอยู่ในความเศร้าโศกยามจัดงานพิธีศพให้แก่ท่าน ดังนั้นพวกเราจึงจัดงานรื่นเริงฉลองชีวิตของท่านควบคู่ไปกับงานเฉลิมฉลองชัยชนะร่วมกัน ฉันเชื่อมั่นว่าท่านพ่อต้องชื่นชอบและมีความสุขกับวิธีการเฉลิมฉลองแบบนี้แน่นอน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iliketothinkhewaswatchingusfromtheworldbeyondfillinghiscupeverytimewefilledourown",
       "text_en": "I like to think he was watching us from the world beyond, filling his cup every time we filled our own.",
       "text": "ฉันชอบจินตนาการฝันหวานคิดว่าท่านพ่อคงกำลังเฝ้ามองพวกเราอยู่จากเบื้องบน และคอยช่วยรินสุราใส่ถ้วยฉลองทุกครั้งที่พวกเราร่วมยกแก้วชนแก้วกันล่ะจ้ะ"
     },
     {
-      "character": "Shale",
+      "key": "whileweproposedthefuneraltheroyaladministrationtookonthebruntoftheplanningoneoftheirnumbercanbetterexplainwhattheceremonywillentail",
       "text_en": "While we proposed the funeral, the royal administration took on the brunt of the planning. One of their number can better explain what the ceremony will entail.",
       "text": "ถึงแม้กลุ่มของพวกเราจะเป็นคนริเริ่มและเสนอการจัดงานไว้อาลัยนี้ขึ้นมาก็ตาม แต่ทว่ากระบวนการเตรียมงานและรายละเอียดขั้นตอนพิธีการต่าง ๆ ส่วนใหญ่ถูกวางแผนและจัดการบริหารโดยเจ้าหน้าที่คณะรัฐบาลค่ะ เจ้าหน้าที่คนหนึ่งของกลุ่มระบบการจัดการจะสามารถอธิบายให้พวกคุณฟังได้ละเอียดขึ้นว่าในพิธีจะประกอบไปด้วยขั้นตอนอะไรบ้างค่ะ"
     }

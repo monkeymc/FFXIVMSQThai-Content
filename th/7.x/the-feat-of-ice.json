@@ -1,356 +1,348 @@
 {
-  "id": "the-feat-of-ice",
-  "wiki_path": "/wiki/The_Feat_of_Ice",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "The Feat of Ice",
-  "title": "บททดสอบแห่งน้ำแข็ง",
-  "level": "93",
-  "location": "Urqopacha(X:5.4,Y:24.2)",
-  "npc_start": "Thancred",
+  "quest_id": "the-feat-of-ice",
   "dialogues": [
     {
-      "character": "Wuk Lamat",
+      "key": "illmakebakooljajaanswerforthis",
       "text_en": "I'll make Bakool Ja Ja answer for this!",
       "text": "ข้าจะทำให้บาคูล จา จา ชดใช้สำหรับเรื่องชั่วร้ายครั้งนี้ให้ได้!"
     },
     {
-      "character": "Koana",
+      "key": "thematterofoutdoingourfatherasidethiswasthebestoutcomewecouldhavehopedforneveragainwillourpeopleneedfeartheloomingshadowoftheskyruin",
       "text_en": "The matter of outdoing our father aside, this was the best outcome we could have hoped for. Never again will our people need fear the looming shadow of the Skyruin.",
       "text": "หากไม่นับเรื่องการก้าวข้ามท่านพ่อ ผลลัพธ์ครั้งนี้นับว่าเป็นทางออกที่ดีที่สุดที่พวกเราจะคาดหวังได้แล้วล่ะครับ นับจากนี้ไปประชาชนของเราจะไม่มีวันต้องหวาดกลัวต่อเงาร้ายของสกายรูอินอีกแล้ว"
     },
     {
-      "character": "Krile",
+      "key": "didntitellyouipullmyownweightinbattlenow",
       "text_en": "Didn't I tell you? I pull my own weight in battle now!",
       "text": "เห็นไหมล่ะคะ? ฉันเองก็ทำประโยชน์ช่วยสู้เคียงบ่าเคียงไหล่กับทุกคนในศึกครั้งนี้ได้เหมือนกันนะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "witnessingzoraaljainbattleiunderstandwhyheswidelyconsideredtobetuliyollalsgreatestwarrior",
       "text_en": "Witnessing Zoraal Ja in battle, I understand why he's widely considered to be Tuliyollal's greatest warrior.",
       "text": "พอได้เห็นฝีมือการต่อสู้รบจริงของโซราล จา ในสนามรบแล้ว ฉันก็เข้าใจเลยค่ะว่าทำไมคนถึงยกย่องว่าเขาเป็นนักรบที่เก่งที่สุดในทูลิโยลลัล"
     },
     {
-      "character": "Urianger",
+      "key": "tisfortunatewevanquishedthatwingedcalamityereitcouldinflictgreatersufferingupontheselands",
       "text_en": "'Tis fortunate we vanquished that winged calamity ere it could inflict greater suffering upon these lands.",
       "text": "ช่างเป็นเรื่องน่ายินดียิ่งนักที่พวกเราสามารถกำจัดภัยพิบัติปีกสยายนี้ลงได้ ก่อนที่มันจะสร้างความทุกข์ทรมานโศกนาฏกรรมให้แก่แผ่นดินไปมากกว่านี้"
     },
     {
-      "character": "Erenville",
+      "key": "spendingtimealonewithsareeljawasakintotorturedespitemyobviousdisinteresthespewedaconstantstreamofmeanspiritedbilehonestlyimighthavepreferredfacingfireandruinwithyouonthebattlefield",
       "text_en": "Spending time alone with Sareel Ja was akin to torture. Despite my obvious disinterest, he spewed a constant stream of mean-spirited bile. Honestly, I might have preferred facing fire and ruin with you on the battlefield...",
       "text": "การต้องใช้เวลาอยู่ตามลำพังกับซารีล จา นี่เหมือนกับการโดนทรมานเลยล่ะ ทั้งๆ ที่ฉันแกล้งทำแสดงออกชัดเจนว่าไม่สนใจ แต่เขาก็ยังก่นด่าพ่นวาจาอันร้ายกาจออกมาได้ไม่หยุดปากเลยจริงๆ ให้ตายสิ ฉันอาจจะเลือกไปเผชิญหน้ากับเปลวเพลิงและความพินาศร่วมศึกกับพวกนายในสนามรบซะยังดีกว่า..."
     },
     {
-      "character": "Thancred",
+      "key": "theyokhuymuststillbeanxiouswonderingwhereandwhenvaligarmandawillstrikenext",
       "text_en": "The Yok Huy must still be anxious, wondering where and when Valigarmanda will strike next.",
       "text": "ชาวยอคฮุยคงยังรู้สึกวิตกกังวลใจกันอยู่ ว่าวาลิการ์มันดาจะโผล่มาโจมตีที่ไหนและเมื่อไหร่กันอีก"
     },
     {
-      "character": "Thancred",
+      "key": "isuggestwehurrybackandallaytheirfearsalphinaudsaswellishouldthink",
       "text_en": "I suggest we hurry back and allay their fears. Alphinaud's as well, I should think.",
       "text": "ฉันแนะนำว่าพวกเรารีบย้อนกลับไปบรรเทาความกังวลใจของพวกเขากันเถอะครับ รวมถึงอัลฟิโนด้วยล่ะนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yesyourerightweshouldntletthemworryanothermoment",
       "text_en": "Yes, you're right! We shouldn't let them worry another moment!",
       "text": "ใช่แล้วล่ะ พูดถูกเลย! พวกเราไม่ควรปล่อยให้พวกเขากังวลใจกันไปมากกว่านี้แล้ว!"
     },
     {
-      "character": "Erenville",
+      "key": "iexpectediwouldbeaskedtotrackmanythingsduringthecourseofourjourneybutvaligarmandawasnotamongthem",
       "text_en": "I expected I would be asked to track many things during the course of our journey, but Valigarmanda was not among them.",
       "text": "ฉันคิดไว้แล้วเชียวว่าคงต้องได้รับมอบหมายให้แกะรอยตามหาหลายสิ่งหลายอย่างระหว่างเดินทาง แต่เรื่องล่าตามหาวาลิการ์มันดาเนี่ยอยู่นอกเหนือการคาดหมายจริงๆ"
     },
     {
-      "character": "Koana",
+      "key": "amidstthechaosoftheskyruinsawakeningidforgottenwestillhavethefeatoficetocomplete",
       "text_en": "Amidst the chaos of the Skyruin's awakening, I'd forgotten we still have the Feat of Ice to complete...",
       "text": "ท่ามกลางความปั่นป่วนวุ่นวายจากการหลุดพ้นจากการสะกดของสกายรูอิน ผมแทบจะลืมไปเลยครับว่าพวกเรายังเหลือ 'บททดสอบแห่งน้ำแข็ง' ที่ต้องทำให้ลุล่วงอยู่..."
     },
     {
-      "character": "Krile",
+      "key": "ithoughtthevillagerswouldbeinhidingalphinaudsconfidenceinusmusthavereassuredthem",
       "text_en": "I thought the villagers would be in hiding. Alphinaud's confidence in us must have reassured them.",
       "text": "ทีแรกฉันนึกว่าชาวบ้านจะพากันซ่อนตัวหลบภัยซะอีกค่ะ แต่การที่อัลฟิโนแสดงความมั่นใจในตัวพวกเราอย่างเต็มที่คงช่วยบรรเทาความกังวลใจของพวกเขาได้ดีทีเดียวค่ะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "welcomebacknotforamomentdididoubtthatyoudreturnsafeandsound",
       "text_en": "Welcome back. Not for a moment did I doubt that you'd return safe and sound.",
       "text": "ยินดีต้อนรับกลับครับ ผมไม่เคยนึกสงสัยเลยสักนิดว่าพวกคุณจะเดินทางกลับมาได้อย่างปลอดภัยครบถ้วนสามัคคีดี"
     },
     {
-      "character": "Alisaie",
+      "key": "scalingamassivemountainfightinganelectorbattleagainstalegendarymonstrosityyesyoucouldsayimalittletired",
       "text_en": "Scaling a massive mountain. Fighting an elector. Battle against a legendary monstrosity... Yes, you could say I'm a little tired.",
       "text": "ปีนขึ้นเขาสูงชันสู้กับผู้คุมสอบ แถมยังต้องสู้รบกับอสุรกายในตำนานโบราณอีก... ก็นะ จะบอกว่าฉันเหนื่อยระบมไปหมดทั้งตัวก็ไม่แปลกหรอกค่ะ"
     },
     {
-      "character": "Thancred",
+      "key": "whilewewerecontendingwiththatscreechingmenaceiexpectbakooljajawasofftothenextfeat",
       "text_en": "While we were contending with that screeching menace, I expect Bakool Ja Ja was off to the next feat.",
       "text": "ในขณะที่พวกเรากำลังยุ่งวุ่นวายอยู่กับการจัดการเจ้านกหวีดนั่น ข้าคาดว่าบาคูล จา จา คงล่วงหน้าเดินทางไปยังบททดสอบถัดไปแล้วล่ะ"
     },
     {
-      "character": "Urianger",
+      "key": "iseemasteralphinaudhathmadegooduseofthetimetofurthertendthewounded",
       "text_en": "I see Master Alphinaud hath made good use of the time to further tend the wounded.",
       "text": "ข้าเห็นว่าท่านอัลฟิโนใช้เวลาช่วงที่ผ่านมาได้มีประโยชน์อย่างยิ่งยวด ในการช่วยเหลือเยียวยาผู้ได้รับบาดเจ็บเพิ่มเติมครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "beforewedoanythingelseweshouldtalktogurfurlur",
       "text_en": "Before we do anything else, we should talk to Gurfurlur.",
       "text": "ก่อนที่พวกเราจะเริ่มทำอะไรต่อ เราควรจะไปพูดคุยเจรจากับเกอร์เฟอร์เลอร์ก่อนนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "tothetemplethen",
       "text_en": "To the temple, then?",
       "text": "งั้นก็มุ่งหน้าไปยังวิหารเลยใช่ไหม?"
     },
     {
-      "character": "???",
+      "key": "thatwontbenecessaryheroesofthehour",
       "text_en": "That won't be necessary, heroes of the hour.",
       "text": "เรื่องนั้นคงไม่จำเป็นหรอก วีรบุรุษของช่วงเวลาวิกฤติเอ๋ย"
     },
     {
-      "character": "Gurfurlur",
+      "key": "valigarmandaisnomoreyoursisavictoryworthyofsong",
       "text_en": "Valigarmanda is no more. Yours is a victory worthy of song.",
       "text": "วาลิการ์มันดาสิ้นฤทธิ์พ่ายแพ้ไปแล้ว ชัยชนะของพวกเจ้าคู่ควรแก่การจารึกจดจำไว้ในบทเพลงยิ่งนัก"
     },
     {
-      "character": "Zurmurwur",
+      "key": "hmmwehadplansforasecondfeattobeconductedhereintownbuttherecklessnessofyourfellowclaimanthasrenderedthempointless",
       "text_en": "Hmm... We had plans for a second feat to be conducted here in town, but the recklessness of your fellow claimant has rendered them pointless.",
       "text": "อืม... เดิมทีพวกเราตั้งใจจะเตรียมบททดสอบข้อที่สองขึ้นในหมู่บ้านนี้ แต่ความบ้าคลั่งไร้สติของผู้ท้าชิงอีกคนกลับทำให้บททดสอบนั้นไร้ความหมายไปเสียแล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asecondfeat",
       "text_en": "A second feat?",
       "text": "บททดสอบข้อที่สองงั้นรึ?"
     },
     {
-      "character": "Zurmurwur",
+      "key": "thefeatoficeyouweretofortifyvaligarmandasprison",
       "text_en": "The Feat of Ice. You were to fortify Valigarmanda's prison.",
       "text": "บททดสอบแห่งน้ำแข็ง (Feat of Ice) น่ะสิ เดิมทีหน้าที่ของพวกเจ้าคือต้องช่วยเสริมความแข็งแกร่งให้แก่คุกสะกดน้ำแข็งของวาลิการ์มันดา"
     },
     {
-      "character": "Zurmurwur",
+      "key": "hmmhowshallweproceedhighluminary",
       "text_en": "Hmm... How shall we proceed, High Luminary?",
       "text": "อืม... แล้วพวกเราจะดำเนินการยังไงต่อดีครับ ท่านหัวหน้านักบวช?"
     },
     {
-      "character": "Gurfurlur",
+      "key": "whatmorewouldwetestzurmurwurtheyhavedefeatedtheskyruinandsavedthegodsknowhowmanylivesiftheyarenotworthyheirstogulooljajathennooneis",
       "text_en": "What more would we test, Zurmurwur? They have defeated the Skyruin and saved the gods know how many lives. If they are not worthy heirs to Gulool Ja Ja, then no one is.",
       "text": "พวกเรายังต้องทดสอบอะไรกันอีกงั้นรึ เซอร์เมอร์เวอร์? พวกเขาได้สยบศึกสกายรูอินและช่วยชีวิตผู้คนไว้ได้มหาศาลขนาดนี้ หากพวกเขาไม่คู่ควรเป็นทายาทสืบทอดบัลลังก์ของกูลูล จา จา แล้วล่ะก็ คงไม่มีใครในแผ่นดินนี้คูควรอีกแล้วล่ะ"
     },
     {
-      "character": "Gurfurlur",
+      "key": "nowthatourlastclaimanthasarrivedwecanproceedwiththeformalitiesfortheskillandbraverythethreeofyouhaveshowniawardyoueachasecondkeystone",
       "text_en": "Now that our last claimant has arrived, we can proceed with the formalities. For the skill and bravery the three of you have shown, I award you each a second keystone.",
       "text": "ในเมื่อผู้ท้าชิงคนสุดท้ายของเราเดินทางมาถึงแล้ว พวกเราก็มาทำตามพิธีการอย่างเป็นทางการเถอะ สำหรับความกล้าหาญและทักษะฝีมืออันยอดเยี่ยมที่พวกเจ้าทั้งสามแสดงออก ข้าขอมอบศิลาหลักก้อนที่สองให้แก่พวกเจ้าทุกคน"
     },
     {
-      "character": "Alphinaud",
+      "key": "thatmakesfiveonlytwolefttocollect",
       "text_en": "That makes five. Only two left to collect.",
       "text": "รวมเป็นห้าก้อนแล้วครับ เหลืออีกแค่สองก้อนเท่านั้นที่จะสะสมครบถ้วน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "exceptthatoneofthosefiveisinbakooljajasthievinghandshewillanswerforthatandforloosingvaligarmanda",
       "text_en": "Except that one of those five is in Bakool Ja Ja's thieving hands. He will answer for that─and for loosing Valigarmanda!",
       "text": "ยกเว้นแต่ว่าหนึ่งในห้าก้อนนั้นกำลังตกอยู่ในมือหัวขโมยอย่างบาคูล จา จา น่ะสิ มันต้องชดใช้สำหรับเรื่องนี้—รวมถึงเรื่องปลดปล่อยวาลิการ์มันดาด้วย!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "youhavebroughtlastingtranquilitytoourhomeandearnedthegratitudeofeveryyokhuy",
       "text_en": "You have brought lasting tranquility to our home, and earned the gratitude of every Yok Huy.",
       "text": "พวกเจ้าได้นำความสงบสุขที่ยั่งยืนกลับคืนมาสู่แผ่นดินเกิดของพวกเรา และได้รับความเคารพรักขอบพระคุณจากชาวยอคฮุยทุกคน"
     },
     {
-      "character": "Gurfurlur",
+      "key": "maygloryandprosperitycontinuetoblesstuliyollalasweenterthisnewage",
       "text_en": "May glory and prosperity continue to bless Tuliyollal as we enter this new age!",
       "text": "ขอเกียรติยศและความรุ่งเรืองเฟื่องฟูจงสถิตกับทูลิโยลลัลสืบไปตราบย่างเข้าสู่ยุคสมัยใหม่นี้ด้วยเถิด!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wasnevermuchofatalkerourbrother",
       "text_en": "Was never much of a talker, our brother.",
       "text": "พี่ชายของข้าเนี่ยไม่ค่อยพูดยาวๆ เท่าไหร่เลยนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifyoureupforityoushouldvisitthecapitalidlikeeveryonetogettoknowyouandyourpeoplebetter",
       "text_en": "If you're up for it, you should visit the capital! I'd like everyone to get to know you and your people better!",
       "text": "หากท่านสะดวกล่ะก็ ข้าอยากเชิญชวนให้แวะไปเที่ยวชมเมืองหลวงบ้างนะ! ข้าอยากให้ประชาชนทุกคนได้มีโอกาสทำความรู้จักเรียนรู้วิถีชีวิตของผู้คนของท่านให้มากขึ้นน่ะ!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "hahillconsideritifitsoneofyoutwowhoclaimsthethrone",
       "text_en": "Hah! I'll consider it...if it's one of you two who claims the throne.",
       "text": "หึ! ข้าจะลองเก็บไปพิจารณาดู... หากว่าตำแหน่งบนบัลลังก์ตกเป็นของพวกเจ้าสองคนคนใดคนหนึ่งนะ"
     },
     {
-      "character": "Koana",
+      "key": "thenyouneedonlyawaitamissivefromsunperchillbesendingoutinvitations",
       "text_en": "Then you need only await a missive from Sunperch─I'll be sending out invitations.",
       "text": "ถ้าอย่างนั้น ท่านก็แค่รอหนังสือเชิญชวนเดินทางมาจากตำหนักปีกตะวัน (Sunperch) ได้เลยครับ—ผมจะเป็นคนส่งคำเชิญไปเอง"
     },
     {
-      "character": "Gurfurlur",
+      "key": "todayisadayforunusualvisitors",
       "text_en": "Today is a day for unusual visitors.",
       "text": "วันนี้เป็นวันที่มีผู้มาเยือนแปลกหน้าแวะเวียนมาไม่ขาดสายจริงๆ แฮะ"
     },
     {
-      "character": "Vorporlor",
+      "key": "youwuklamatwasitnot",
       "text_en": "You... Wuk Lamat, was it not?",
       "text": "เจ้า... วุค ลามัต ใช่ไหม?"
     },
     {
-      "character": "Vorporlor",
+      "key": "idoubtedyoucouldslayvaligarmandabutthequietskiesproclaimyourtriumph",
       "text_en": "I doubted you could slay Valigarmanda, but the quiet skies proclaim your triumph.",
       "text": "ทีแรกข้าเคลือบแคลงใจว่าพวกเจ้าจะสามารถเอาชนะศึกวาลิการ์มันดาได้จริงหรือเปล่า แต่ความเงียบสงบของผืนฟ้าเบื้องบนเป็นสิ่งพิสูจน์ชัยชนะของพวกเจ้าได้ดีที่สุดแล้ว"
     },
     {
-      "character": "Vorporlor",
+      "key": "hadthevidraalbeensufferedtoroamfreeitwouldhaveterrorizedusallonceagainwefindourselvesinyourdebt",
       "text_en": "Had the vidraal been suffered to roam free, it would have terrorized us all... Once again, we find ourselves in your debt.",
       "text": "หากสัตว์ภัยพิบัติตัวนั้นหลุดรอดออกไปอาละวาดสร้างความพินาศได้สำเร็จ พวกเราทุกคนก็คงประสบเคราะห์ภัยกันหมด... ครั้งนี้ พวกเราต้องยอมรับว่าเป็นหนี้ชีวิตเจ้าอีกครั้งแล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youoweusnothingwefoughtbecausewewantedto",
       "text_en": "You owe us nothing─we fought because we wanted to.",
       "text": "เจ้าไม่ได้ติดค้างอะไรพวกเราหรอก—พวกเราสู้ศึกครั้งนี้เพราะอยากช่วยปกป้องแผ่นดินต่างหากล่ะ"
     },
     {
-      "character": "Vorporlor",
+      "key": "yetadebthasbeenincurredallthesameitwillhauntmeifidonotrepayit",
       "text_en": "Yet a debt has been incurred all the same. It will haunt me if I do not repay it.",
       "text": "อย่างไรก็ตาม หนี้ชีวิตก็คือหนี้ชีวิตอยู่ดี มันคงจะรบกวนจิตใจข้าไม่หยุดหย่อนหากไม่ได้ทำอะไรชดใช้คืนบ้าง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hrmmmiwouldntevenknowwhattoaskfor",
       "text_en": "Hrmmm... I wouldn't even know what to ask for.",
       "text": "อืมมม... ข้าเองก็คิดไม่ออกเหมือนกันว่าจะขอร้องอะไรเจ้าดีแฮะ"
     },
     {
-      "character": "Krile",
+      "key": "perhapshecantellusaboutthedreamsofthegoldencity",
       "text_en": "Perhaps he can tell us about the dreams of the golden city?",
       "text": "บางทีเขาอาจจะเล่าเรื่องภาพนิมิตฝันถึงเมืองสีทองคำให้พวกเราฟังได้ไหมคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohgoodideathatwasonmylistofquestionsiwantedtoask",
       "text_en": "Oh, good idea! That was on my list of questions I wanted to ask!",
       "text": "โอ้ เป็นไอเดียที่ดีมากเลยค่ะ! เรื่องนั้นอยู่ในรายการคำถามที่ข้าอยากสืบรู้คำตอบพอดีเลยล่ะ!"
     },
     {
-      "character": "Vorporlor",
+      "key": "thegoldendreamsyeswehaverecordsofourforebearsandtheirvisionsfromthetimebeforethexakturalexpedition",
       "text_en": "The golden dreams... Yes, we have records of our forebears and their visions from the time before the Xak Tural expedition.",
       "text": "ฝันสีทองคำงั้นรึ... ใช่แล้วล่ะ พวกเรามีบทบันทึกของบรรพบุรุษเกี่ยวกับภาพนิมิตฝันของพวกเขาจากยุคก่อนที่กองทัพจะกรีฑาทัพบุกซัคทูรัลอยู่"
     },
     {
-      "character": "Krile",
+      "key": "whatdidyourforebearssee",
       "text_en": "What did your forebears see?",
       "text": "บรรพบุรุษของท่านมองเห็นอะไรในฝันงั้นเหรอคะ?"
     },
     {
-      "character": "Vorporlor",
+      "key": "aheavenlylandsuffusedwithagoldenglowitspeoplelivedasgodsneveragingneverdyingfreefromhardshipandconflict",
       "text_en": "A heavenly land , suffused with a golden glow. Its people lived as gods, never aging, never dying, free from hardship and conflict.",
       "text": "ดินแดนสวรรค์อันแสนสุขประกายสุกสกาวไปด้วยแสงสีทองคำ ประชาชนที่นั่นใช้ชีวิตราวกับทวยเทพ ไม่มีความแก่ชรา ไม่มีความตาย และปราศจากความยากลำบากหรือความขัดแย้งใดๆ ทั้งสิ้น"
     },
     {
-      "character": "Vorporlor",
+      "key": "everybuildingwasapalaceandintheirmidstreignedasilentgoddessastatuesotallevenmykinwouldneedlifttheirgazetobeholditsvisage",
       "text_en": "Every building was a palace, and in their midst reigned a silent goddess . A statue so tall even my kin would need lift their gaze to behold its visage.",
       "text": "สิ่งก่อสร้างทุกหลังเป็นเสมือนพระราชวังอันโอ่อ่า และตรงใจกลางของดินแดนนั้นมีเทวรูปเทวีผู้สงบนิ่งสถิตอยู่ เทวรูปนั่นสูงตระหง่านเสียจนแม้แต่คนยักษ์อย่างพวกเรายังต้องแหงนหน้าขึ้นมองถึงจะเห็นใบบุญใบหน้าของนางได้"
     },
     {
-      "character": "Krile",
+      "key": "astatueofagoddessthatsnew",
       "text_en": "A statue of a goddess? That's new...",
       "text": "เทวรูปเทวีงั้นเหรอคะ? นี่เป็นข้อมูลใหม่เลยนะเนี่ย..."
     },
     {
-      "character": "Alphinaud",
+      "key": "ayeandcomparedtotheabstractimagerywedpreviouslyheardthiswasadetaileddescription",
       "text_en": "Aye. And compared to the abstract imagery we'd previously heard, this was a detailed description.",
       "text": "ครับ และเมื่อเทียบกับภาพจินตนาการกว้างๆ ที่พวกเราเคยได้ยินมาก่อนหน้านี้ ข้อมูลครั้งนี้นับว่าพรรณนารายละเอียดได้ชัดเจนมากเลยล่ะครับ"
     },
     {
-      "character": "Vorporlor",
+      "key": "thedreamerswereconsumedbytheirvisionscompelledtoseekouttheparadisetheydbeenshowntheyjourneyedtoxakturalwheretheydiedindroves",
       "text_en": "The dreamers were consumed by their visions─compelled to seek out the paradise they'd been shown. They journeyed to Xak Tural...where they died in droves.",
       "text": "ผู้ที่มองเห็นฝันนิมิตต่างก็หมกมุ่นอยู่กับภาพฝันนั้นอย่างหมดใจ—จนต้องออกเดินทางค้นหาดินแดนสวรรค์ที่มองเห็น พวกเขาเดินทางไกลบุกเข้าไปในซัคทูรัล... และล้มตายลงที่นั่นเป็นจำนวนมหาศาล"
     },
     {
-      "character": "Krile",
+      "key": "thosewhogoinsearchofthegoldencitydonotreturnthetaleswukevusharedmayhavebeenrootedinhistoricalfact",
       "text_en": "Those who go in search of the golden city do not return... The tales Wuk Evu shared may have been rooted in historical fact.",
       "text": "แปลว่าผู้ที่ออกเสาะหาค้นหาเมืองสีทองคำต่างก็ไม่ได้เดินทางกลับมา... เรื่องเล่าที่คุณวุค อีวู บอกกล่าวไว้คงจะมีรากฐานมาจากข้อเท็จจริงทางประวัติศาสตร์สินะคะ"
     },
     {
-      "character": "Vorporlor",
+      "key": "perhapswhocanknowthetruthofitonceourancestorslefttheforesttherewerenomoredreamsnordreamers",
       "text_en": "Perhaps. Who can know the truth of it? Once our ancestors left the forest, there were no more dreams nor dreamers.",
       "text": "อาจจะใช่ ใครจะไปรู้ความจริงของเรื่องนี้ได้กันล่ะ? ทันทีที่บรรพบุรุษของเรายอมล่าถอยออกไปจากป่าลึก ภาพนิมิตฝันก็ไม่เคยมาเยือนผู้ใดอีกเลย"
     },
     {
-      "character": "Krile",
+      "key": "theforestwhatdoyoumean",
       "text_en": "The forest? What do you mean?",
       "text": "จากป่าลึกงั้นเหรอ? ท่านหมายความว่ายังไงน่ะ?"
     },
     {
-      "character": "Vorporlor",
+      "key": "fromtheveryfirstthevisionsweresaidtovisitonlythosewhoworkedthequarriesinyaktel",
       "text_en": "From the very first, the visions were said to visit only those who worked the quarries in Yak T'el.",
       "text": "แต่แรกเริ่มเดิมที กล่าวกันว่าภาพนิมิตฝันจะไปเยือนเฉพาะผู้ที่ทำงานอยู่ในเหมืองหินในยัคเทล (Yak T'el) เท่านั้นแหละ"
     },
     {
-      "character": "Vorporlor",
+      "key": "butaftertheywereravagedbydiseaseandsawfewernewbornstheywereforcedtoabandonthatterritory",
       "text_en": "But after they were ravaged by disease and saw fewer newborns, they were forced to abandon that territory.",
       "text": "ทว่าหลังจากโดนโรคระบาดรุมเร้าจนมีอัตราการกำเนิดทารกน้อยลง พวกเราเลยต้องจำใจละทิ้งพื้นที่ส่วนนั้นไป"
     },
     {
-      "character": "Vorporlor",
+      "key": "onceourpeopleswithdrawaltourqopachawascompleteweneveragaindreamedofthegoldencity",
       "text_en": "Once our people's withdrawal to Urqopacha was complete, we never again dreamed of the golden city.",
       "text": "พอกระบวนการย้ายถิ่นฐานของประชาชนกลับมายังอูร์โกปาชาเสร็จสิ้นสมบูรณ์ พวกเราก็ไม่เคยฝันเห็นเมืองสีทองคำกันอีกเลยล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "soonlyyokhuyinthatonespecificareaexperiencedthevisionsfascinating",
       "text_en": "So only Yok Huy in that one specific area experienced the visions... Fascinating.",
       "text": "แสดงว่าเฉพาะชาวยอคฮุยที่อาศัยอยู่ในพื้นที่เจาะจงจุดเดียวเท่านั้นที่มองเห็นภาพนิมิตฝัน... น่าทึ่งจริงๆ ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellwereheadedtoyaktelnextmaybewellfindoutmorewhenwegetthere",
       "text_en": "Well, we're headed to Yak T'el next. Maybe we'll find out more when we get there.",
       "text": "เอาล่ะ จุดหมายต่อไปของพวกเราคือยัคเทลพอดีเลย บางทีเราอาจจะสืบพบเรื่องราวเพิ่มเติมเมื่อเดินทางไปถึงที่นั่นก็ได้นะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouforsharingyourstorieswithus",
       "text_en": "Thank you for sharing your stories with us.",
       "text": "ขอบใจมากนะที่ยอมเปิดอกแบ่งปันเรื่องเล่าของบรรพบุรุษให้พวกเราฟัง"
     },
     {
-      "character": "Vorporlor",
+      "key": "idonotrequiregratitudeimerelyrepaidadebt",
       "text_en": "I do not require gratitude. I merely repaid a debt.",
       "text": "ข้าไม่ได้ต้องการคำขอบใจอะไรหรอก ข้าแค่ชดใช้หนี้ชีวิตคืนให้เท่านั้นแหละ"
     },
     {
-      "character": "Vorporlor",
+      "key": "farewellwuklamatidonotthinkourpathswillcrossagain",
       "text_en": "Farewell, Wuk Lamat. I do not think our paths will cross again.",
       "text": "ลาก่อน วุค ลามัต ข้าคิดว่าเส้นทางของพวกเราคงไม่มีโอกาสได้เวียนมาบรรจบเจอกันอีกแล้วล่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "soyakteliswheretheyokhuyhadtheirgoldendreamswemaysoonhavethechancetoinvestigatethattalefirsthand",
       "text_en": "So Yak T'el is where the Yok Huy had their golden dreams. We may soon have the chance to investigate that tale firsthand.",
       "text": "แปลว่ายัคเทลคือสถานที่ที่ชาวยอคฮุยฝันเห็นเมืองสีทองคำสินะครับ พวกเราน่าจะมีโอกาสได้ไปสืบสวนร่องรอยเรื่องเล่านี้ด้วยตัวเองเร็วๆ นี้ล่ะครับ"
     },
     {
-      "character": "Krile",
+      "key": "aheavenlylandsuffusedwithagoldenglow",
       "text_en": "A heavenly land, suffused with a golden glow...",
       "text": "ดินแดนสวรรค์อันแสนสุขประกายสุกสกาวไปด้วยแสงสีทองคำ..."
     },
     {
-      "character": "Alphinaud",
+      "key": "withonlytwokeystonesremainingweveatlastbeguntogainafullerpictureofthelegendofthegoldencity",
       "text_en": "With only two keystones remaining, we've at last begun to gain a fuller picture of the legend of the golden city.",
       "text": "เหลือศิลาหลักอีกแค่สองก้อนเท่านั้น ในที่สุดพวกเราก็เริ่มเห็นภาพรวมของตำนานเมืองสีทองคำชัดเจนขึ้นมาบ้างแล้วล่ะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "whataturnofeventswewereonlymeanttostrengthentheicebutbakooljajasidiocyforcedustodothemonebetter",
       "text_en": "What a turn of events─we were only meant to strengthen the ice, but Bakool Ja Ja's idiocy forced us to do them one better.",
       "text": "เรื่องราวมันพลิกผันไปหมดเลยแฮะ—เดิมทีพวกเราแค่ต้องมาช่วยเสริมคุกน้ำแข็งแท้ๆ แต่ความโง่เขลาไร้สติของบาคูล จา จา กลับทำให้พวกเราต้องสวมบทฮีโร่กำราบสัตว์ร้ายแทนซะงั้น"
     },
     {
-      "character": "Zurmurwur",
+      "key": "longhasitbeensinceanyfromchirwagursalternhavedeignedtoenterworlarsechoadayforunusualvisitorsindeed",
       "text_en": "Long has it been since any from Chirwagur Saltern have deigned to enter Worlar's Echo. A day for unusual visitors, indeed.",
       "text": "ช่างผ่านไปนานเหลือเกินนับตั้งแต่ที่มีคนจากนาเกลือชีร์วากูร์ยอมย่างเท้าเข้ามาในหมู่บ้านเสียงสะท้อนแห่งวอร์ลาร์ วันนี้เป็นวันที่มีผู้มาเยือนแปลกหน้าแวะเวียนมาไม่ขาดสายจริงๆ นั่นแหละ"
     },
     {
-      "character": "Gurfurlur",
+      "key": "watchingvorporlorgetcaughtupinwuklamatsunstoppablewakeremindsmeofmyyoungerdays",
       "text_en": "Watching Vorporlor get caught up in Wuk Lamat's unstoppable wake reminds me of my younger days...",
       "text": "การได้มองดูวอร์ปอร์ลอร์โดนกระแสลมความมุ่งมั่นของวุค ลามัต พัดพาไปเนี่ย ทำให้ข้านึกถึงสมัยที่ตัวเองยังหนุ่มยังแน่นไม่มีผิดเลย..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "idontthinkvorporlorandhisbrethrenwillhaveasuddenchangeofheartabouttuliyollal",
       "text_en": "I don't think Vorporlor and his brethren will have a sudden change of heart about Tuliyollal.",
       "text": "ข้าไม่คิดว่าวอร์ปอร์ลอร์และพี่น้องของเขาจะยอมเปลี่ยนใจมาสวามิภักดิ์ต่อทูลิโยลลัลอย่างกะทันหันหรอกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butthatdoesntmeantheyllneverchangeatalltodayisproofofthat",
       "text_en": "But that doesn't mean they'll never change at all. Today is proof of that!",
       "text": "แต่ก็นั่นแหละ มันไม่ได้หมายความว่าพวกเขาจะไม่มีวันเปลี่ยนแปลงตัวเองตลอดไปหรอก วันนี้ย่อมเป็นเครื่องพิสูจน์ชั้นดีเลยล่ะ!"
     }

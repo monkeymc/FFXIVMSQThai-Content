@@ -1,2121 +1,2113 @@
 {
-  "id": "the-resilient-son",
-  "wiki_path": "/wiki/The_Resilient_Son",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/d/d0/The_Resilient_Son.png",
-  "patch": "7.0",
-  "title_en": "The Resilient Son",
-  "title": "บุตรชายผู้ทรหด",
-  "level": "99",
-  "location": "Heritage Found(X:15.6,Y:5.1)",
-  "npc_start": "Cahciua",
+  "quest_id": "the-resilient-son",
   "dialogues": [
     {
-      "character": "Wuk Lamat",
+      "key": "zoraaljaisnokingnotanymoreforthesakeoftuliyollaloftheworldwemustputanendtohismadness",
       "text_en": "Zoraal Ja is no king. Not anymore. For the sake of Tuliyollal—of the world—we must put an end to his madness.",
       "text": "โซราล จาไม่ใช่ราชาอีกต่อไปแล้ว เพื่อเห็นแก่ทูลิโยลลัล—และเพื่อเห็นแก่โลกใบนี้—พวกเราต้องหยุดยั้งความบ้าคลั่งของเขาให้ได้"
     },
     {
-      "character": "Alisaie",
+      "key": "ivespokenwithalphinaudapparentlythedragonscametotuliyollalsaid",
       "text_en": "I've spoken with Alphinaud. Apparently, the dragons came to Tuliyollal's aid!",
       "text": "ฉันคุยกับอัลฟิโนแล้วล่ะ ดูเหมือนพวกมังกรจะมาช่วยทูลิโยลลัลเอาไว้ด้วยนะ!"
     },
     {
-      "character": "Krile",
+      "key": "imcomingtooofcoursethisiswhativeworkedsohardtobeapartof",
       "text_en": "I'm coming too, of course. This is what I've worked so hard to be a part of.",
       "text": "ฉันก็จะไปด้วยแน่นอนค่ะ นี่คือสิ่งที่ฉันพยายามอย่างหนักเพื่อที่จะได้มีส่วนร่วมเลยล่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thesummitofeverkeepfinallyweshallseewhatthecloudsconceal",
       "text_en": "The summit of Everkeep... Finally, we shall see what the clouds conceal.",
       "text": "ยอดของเอเวอร์คีป... ในที่สุด พวกเราก็จะได้เห็นสิ่งที่หมู่เมฆบดบังไว้เสียทีครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "theentrancetoorigenicsislocatedonthebackofeverkeep",
       "text_en": "The entrance to Origenics is located on the back of Everkeep.",
       "text": "ทางเข้าออริเจนิกส์ตั้งอยู่ทางด้านหลังของเอเวอร์คีปจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "wecanreachitbythewatercomeweheadtothepieratthedriftdowns",
       "text_en": "We can reach it by the water. Come, we head to the pier at the driftdowns!",
       "text": "พวกเราสามารถไปทางน้ำได้ ตามมาสิ เรามุ่งหน้าไปที่ท่าเรือดริฟต์ดาวน์สกัน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "weregoingtoridethatoversizedcontainerarewedontworryyouwontcatchmemewlingoveralittleseasicknessnotanymore",
       "text_en": "We're going to ride that oversized container, are we? Don't worry—you won't catch me mewling over a little seasickness. Not anymore.",
       "text": "พวกเราต้องนั่งตู้คอนเทนเนอร์ยักษ์นั่นไปใช่ไหม? ไม่ต้องห่วง ห้ามจับผิดว่าฉันเมาเรือเด็ดขาดล่ะ ไม่มีทางอีกแล้ว"
     },
     {
-      "character": "Alisaie",
+      "key": "sowejusthavetomakeourwayupseemsniceandstraightforwardtome",
       "text_en": "So we just have to make our way up. Seems nice and straightforward to me.",
       "text": "งั้นเราก็แค่ต้องฝ่าทางขึ้นไป ฟังดูเข้าใจง่ายดีสำหรับฉันนะ"
     },
     {
-      "character": "Krile",
+      "key": "visibilityisquitepoorbutletustrustinouralliestoferryussafelyover",
       "text_en": "Visibility is quite poor, but let us trust in our allies to ferry us safely over.",
       "text": "ทัศนวิสัยค่อนข้างแย่เลยนะคะ แต่พวกเราเชื่อใจพันธมิตรของเราที่จะพาส่งข้ามฝั่งไปอย่างปลอดภัยค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "afacilityforprocessingsoulsasdistressingastheveryconceptisiconfessimcurioustoseethetechnologyemployed",
       "text_en": "A facility for processing souls... As distressing as the very concept is, I confess I'm curious to see the technology employed.",
       "text": "สถานวิจัยสำหรับแปรรูปจิตวิญญาณ... แม้แค่แนวคิดก็น่าหดหู่ใจมาก แต่ผมสารภาพตามตรงว่าอยากเห็นเทคโนโลยีที่ใช้ที่นี่เหมือนกันครับ"
     },
     {
-      "character": "Kiluwsa",
+      "key": "imwithoblivioncahciuahastoldmeall",
       "text_en": "I'm with Oblivion. Cahciua has told me all.",
       "text": "ฉันอยู่กับกลุ่มอ็อบลิเวียน คาชิวาเล่าเรื่องทั้งหมดให้ฟังแล้วล่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "iwillnowexplainhowthismissionwillunfold",
       "text_en": "I will now explain how this mission will unfold.",
       "text": "ฉันจะอธิบายให้ฟังว่าภารกิจครั้งนี้จะเป็นอย่างไรนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "origenicstakesdeliveryatspecifictimesitisatonesuchtimethatwewillenterthefacilityaboardthehovercargo",
       "text_en": "Origenics takes delivery at specific times. It is at one such time that we will enter the facility, aboard the hover cargo.",
       "text": "ออริเจนิกส์จะมีการรับส่งของตามเวลาที่กำหนด พวกเราจะลอบเข้าไปในสถานวิจัยในช่วงเวลาดังกล่าวโดยสารไปกับแท่นลอยขนส่งสินค้าจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "kiluwsaherewillpilotthevehiclesoyouneedonlysittightuntilwearriveattheentrance",
       "text_en": "Kiluwsa here will pilot the vehicle, so you need only sit tight until we arrive at the entrance.",
       "text": "คิลูฟซาคนนี้จะเป็นคนขับให้ เพราะงั้นพวกเธอก็นั่งนิ่งๆ รอจนกว่าจะถึงทางเข้าได้เลย"
     },
     {
-      "character": "Cahciua",
+      "key": "ourfriendsinthebackroomwillcreateadiversionsowecanstealinside",
       "text_en": "Our friends in the Backroom will create a diversion so we can steal inside.",
       "text": "เพื่อนๆ ของเราที่เดอะ แบ็ครูมจะช่วยเบี่ยงเบนความสนใจเพื่อให้พวกเราลอบเข้าไปข้างในได้"
     },
     {
-      "character": "Cahciua",
+      "key": "afterwhichwemakeourwaytothesummitstrikingdownanyfoesthatbarourpath",
       "text_en": "After which we make our way to the summit, striking down any foes that bar our path!",
       "text": "หลังจากนั้นเราก็มุ่งหน้าสู่ยอดหอคอย และจัดการศัตรูทุกตัวที่กล้าขวางทางเรา!"
     },
     {
-      "character": "Cahciua",
+      "key": "easyyes",
       "text_en": "Easy, yes?",
       "text": "ง่ายใช่ไหมล่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "easytosayperhapsbutwellmanageonewayoranother",
       "text_en": "Easy to say, perhaps... But we'll manage one way or another!",
       "text": "พูดน่ะมันง่ายอยู่หรอก... แต่พวกเราต้องหาทางจัดการมันได้แน่!"
     },
     {
-      "character": "Alisaie",
+      "key": "thatwewill",
       "text_en": "That we will!",
       "text": "แน่นอนอยู่แล้ว!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "inanticipationoftheunexpectedweshouldmaintaincontactwiththesupportcrewandadaptasnecessary",
       "text_en": "In anticipation of the unexpected, we should maintain contact with the support crew and adapt as necessary.",
       "text": "เพื่อเตรียมรับมือกับเหตุการณ์ไม่คาดฝัน พวกเราควรติดต่อกับทีมสนับสนุนอยู่เสมอและปรับเปลี่ยนตามสถานการณ์ครับ"
     },
     {
-      "character": "Krile",
+      "key": "indeedishallusethecommunicatoriborrowedfromshaletokeeptheminformedatalltimes",
       "text_en": "Indeed. I shall use the communicator I borrowed from Shale to keep them informed at all times.",
       "text": "นั่นสินะคะ ฉันจะใช้เครื่องสื่อสารที่ยืมมาจากเชลคอยรายงานพวกเขาทุกระยะเองค่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "iseeeveryonehasagraspofthedetailsgoodwesetoffverysoonsobeready",
       "text_en": "I see everyone has a grasp of the details. Good. We set off very soon, so be ready!",
       "text": "ดูเหมือนทุกคนจะเข้าใจรายละเอียดดีแล้วนะ ดีมาก อีกเดี๋ยวเราก็จะออกเดินทางแล้ว เตรียมตัวให้พร้อมล่ะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "thehovercargoisborrowedfromareforgerfriendshewasrelievedtohearthatgulooljaissafe",
       "text_en": "The hover cargo is borrowed from a reforger friend. She was relieved to hear that Gulool Ja is safe.",
       "text": "แท่นลอยขนส่งสินค้านี้ยืมมาจากเพื่อนช่างตีเหล็กน่ะจ้ะ เธอโล่งอกมากเลยที่ได้รู้ว่ากูลูล จาปลอดภัยดี"
     },
     {
-      "character": "Kiluwsa",
+      "key": "imtoldyousavedwayakkwethankyouillbeprayingforyoursafetyandsuccess",
       "text_en": "I'm told you saved Wayakkwe—thank you. I'll be praying for your safety and success.",
       "text": "ได้ยินมาว่าพวกคุณช่วยวายัคเวไว้—ขอบคุณมากนะ ฉันจะคอยสวดภาวนาให้พวกคุณปลอดภัยและประสบความสำเร็จนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "koanahasdonehispartnowimustfinishthingshere",
       "text_en": "Koana has done his part. Now I must finish things here.",
       "text": "โคอานาทำหน้าที่ในส่วนของเขาเรียบร้อยแล้ว คราวนี้ถึงตาฉันที่ต้องสะสางเรื่องที่นี่ให้จบลงเสียที"
     },
     {
-      "character": "Krile",
+      "key": "zoraaljacannotbeallowedtocauseanymoreharmiwilldomyparttostophim",
       "text_en": "Zoraal Ja cannot be allowed to cause any more harm. I will do my part to stop him.",
       "text": "เราจะปล่อยให้โซราล จาสร้างความเดือดร้อนไปมากกว่านี้ไม่ได้แล้ว ฉันจะทำหน้าที่ในส่วนของฉันเพื่อหยุดยั้งเขาเองค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "withthedangerpassedintuliyollalwecanfightwithoutworry",
       "text_en": "With the danger passed in Tuliyollal, we can fight without worry!",
       "text": "ในเมื่อทูลิโยลลัลพ้นขีดอันตรายแล้ว พวกเราก็สู้ได้อย่างไร้กังวล!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "iexpectthatalexandriasmilitarymightlieswithorigenicswemustbepreparedtomeetwithfierceresistance",
       "text_en": "I expect that Alexandria's military might lies with Origenics. We must be prepared to meet with fierce resistance.",
       "text": "ผมคิดว่ากองกำลังทหารหลักของอเล็กซานเดรียน่าจะประจำอยู่ที่ออริเจนิกส์นี้ พวกเราต้องเตรียมตัวรับมือกับการต้านทานที่รุนแรงด้วยนะครับ"
     },
     {
-      "character": "Erenville (remotely)",
+      "key": "iseeyouvearrivedfollowthepathandyoullsoonseetheentrancebecarefulnow",
       "text_en": "I see you've arrived. Follow the path and you'll soon see the entrance. Be careful now.",
       "text": "ผมเห็นพวกคุณไปถึงแล้ว เดินตามเส้นทางไปเรื่อยๆ แล้วเดี๋ยวก็คงจะเห็นทางเข้าแล้วล่ะครับ ระวังตัวด้วยนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thisbodyisntmadeforcombatsoillhangback",
       "text_en": "This body isn't made for combat, so I'll hang back.",
       "text": "ร่างนี้ของฉันไม่ได้สร้างมาเพื่อการต่อสู้ เพราะงั้นฉันจะคอยหนุนอยู่ข้างหลังนะ"
     },
     {
-      "character": "Origenics Sentry S9",
+      "key": "warningresourceshaveescapedmovingtorecapture",
       "text_en": "Warning. Resources have escaped. Moving to recapture.",
       "text": "คำเตือน ทรัพยากรหลบหนี กำลังดำเนินการควบคุมตัวกลับมา"
     },
     {
-      "character": "Cahciua",
+      "key": "letsdealwiththeonesintheway",
       "text_en": "Let's deal with the ones in the way!",
       "text": "จัดการพวกที่ขวางทางอยู่กันเถอะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "quicklyintothefreightelevator",
       "text_en": "Quickly, into the freight elevator!",
       "text": "เร็วเข้า รีบขึ้นลิฟต์ขนส่งสินค้า!"
     },
     {
-      "character": "Cahciua",
+      "key": "whewthediversiondidthetrickletspushstraighttothemiddlelevel",
       "text_en": "Whew, the diversion did the trick. Let's push straight to the middle level!",
       "text": "ฟู่ แผนเบี่ยงเบนความสนใจได้ผลแฮะ ลุยตรงไปที่ชั้นกลางกันเลย!"
     },
     {
-      "character": "Erenville (remotely)",
+      "key": "thereshouldbeanotherfreightelevatorfurtherinuseittoheadup",
       "text_en": "There should be another freight elevator further in. Use it to head up.",
       "text": "ข้างในลึกเข้าไปน่าจะมีลิฟต์ขนส่งสินค้าอีกตัวนะครับ ใช้ตัวนั้นเพื่อขึ้นไปด้านบนเลย"
     },
     {
-      "character": "Origenics Sentry G9",
+      "key": "intrudersdetectedeliminating",
       "text_en": "Intruders detected. Eliminating.",
       "text": "ตรวจพบผู้บุกรุก ทำการกำจัด"
     },
     {
-      "character": "Cahciua",
+      "key": "somanyregulatorstheyallusedtobelongtosomeone",
       "text_en": "So many regulators... They all used to belong to someone...",
       "text": "เรกูเลเตอร์เยอะขนาดนี้เลยเหรอ... ทั้งหมดนี่เคยเป็นของใครบางคนมาก่อนทั้งนั้นเลยสินะ..."
     },
     {
-      "character": "Cahciua",
+      "key": "ohdearthisonelooksliketrouble",
       "text_en": "Oh dear, this one looks like trouble...",
       "text": "โอ้แย่ละ เจ้านี่ดูท่าทางน่าจะสร้างปัญหาแฮะ..."
     },
     {
-      "character": "Erenville (remotely)",
+      "key": "itsnothingtheycanthandleillactivatetheelevatortokeepyoumoving",
       "text_en": "It's nothing they can't handle. I'll activate the elevator to keep you moving.",
       "text": "ไม่มีอะไรที่พวกคุณรับมือไม่ได้หรอกครับ เดี๋ยวผมจะเปิดระบบลิฟต์ให้ทำงานเพื่อจะได้เคลื่อนที่ต่อได้เลย"
     },
     {
-      "character": "Cahciua",
+      "key": "youmakeitlooksoeasy",
       "text_en": "You make it look so easy!",
       "text": "พวกเธอทำให้มันดูง่ายดายจังเลยนะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "itllgettougherfromherethoughsostayonyourtoes",
       "text_en": "It'll get tougher from here, though, so stay on your toes.",
       "text": "แต่จากนี้ไปงานจะหยาบขึ้นแล้วล่ะ เพราะงั้นเตรียมตัวระวังไว้ให้ดีนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "adeadendnowait",
       "text_en": "A dead end? No, wait...",
       "text": "ทางตันเหรอ? ไม่สิ เดี๋ยว..."
     },
     {
-      "character": "Cahciua",
+      "key": "notthebestcamouflagenowisit",
       "text_en": "Not the best camouflage, now is it?",
       "text": "นี่ไม่ใช่การพรางตัวที่ดีเท่าไหร่เลยนะ จริงไหม?"
     },
     {
-      "character": "Deceiver",
+      "key": "warningpleasepresentidentificationfailuretocomplywillresultintheuseofforce",
       "text_en": "Warning. Please present identification. Failure to comply will result in the use of force.",
       "text": "คำเตือน โปรดแสดงบัตรประจำตัว หากไม่ปฏิบัติตามจะดำเนินการใช้กำลัง"
     },
     {
-      "character": "Cahciua",
+      "key": "ahahasoonlyintruderscanbustinthroughthefront",
       "text_en": "Ahaha, so only intruders can bust in through the front!",
       "text": "ฮ่าๆๆ แสดงว่ามีแต่พวกผู้บุกรุกเท่านั้นสินะที่จะฝ่าเข้ามาทางด้านหน้าได้ตรงๆ!"
     },
     {
-      "character": "Origenics Sentry S10",
+      "key": "intrudersdetectedeliminating",
       "text_en": "Intruders detected. Eliminating.",
       "text": "ตรวจพบผู้บุกรุก ทำการกำจัด"
     },
     {
-      "character": "Cahciua",
+      "key": "soulsarebeingextractedfromregulators",
       "text_en": "Souls are being extracted from regulators...",
       "text": "จิตวิญญาณกำลังถูกสกัดออกมาจากเรกูเลเตอร์..."
     },
     {
-      "character": "Cahciua",
+      "key": "theglowingthingstheyresoulsallofthem",
       "text_en": "The glowing things—they're souls, all of them.",
       "text": "สิ่งที่ส่องแสงเหล่านั้น—พวกมันคือจิตวิญญาณ ทั้งหมดเลยล่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "theconveyorsbeenactivatedwecancontinueup",
       "text_en": "The conveyor's been activated. We can continue up.",
       "text": "สายพานเปิดใช้งานแล้ว พวกเราขึ้นไปต่อได้เลย"
     },
     {
-      "character": "Erenville (remotely)",
+      "key": "accordingtoourdatathisiswheresoulsarestrippedofmemories",
       "text_en": "According to our data, this is where souls are stripped of memories...",
       "text": "จากข้อมูลของเรา ที่นี่คือจุดที่จิตวิญญาณถูกชำระล้างความทรงจำออกไปครับ..."
     },
     {
-      "character": "Erenville (remotely)",
+      "key": "indeedthesoulsarethewhitematterandtheyrebeingsenttozoraalja",
       "text_en": "Indeed. The souls are the white matter, and they're being sent to Zoraal Ja.",
       "text": "ใช่แล้วล่ะครับ จิตวิญญาณคือสสารสีขาวเหล่านั้น และพวกมันกำลังถูกส่งตรงไปให้โซราล จา"
     },
     {
-      "character": "Cahciua",
+      "key": "accordingtoeleneshpyawecontinuethroughhere",
       "text_en": "According to Elene'shpya, we continue through here.",
       "text": "ตามที่เอเลเนชเปียบอก พวกเราต้องไปต่อทางนี้นะ"
     },
     {
-      "character": "Cahciua",
+      "key": "looksliketheyknewwewerecoming",
       "text_en": "Looks like they knew we were coming...",
       "text": "ดูเหมือนพวกมันจะรู้ตัวอยู่แล้วว่าเราจะมา..."
     },
     {
-      "character": "Deceiver",
+      "key": "intrudersdetectedinitializingallturretsandsupportunits",
       "text_en": "Intruders detected. Initializing all turrets and support units.",
       "text": "ตรวจพบผู้บุกรุก เริ่มการทำงานของป้อมปืนและหน่วยสนับสนุนทั้งหมด"
     },
     {
-      "character": "Deceiver",
+      "key": "engaginghostiles",
       "text_en": "Engaging hostiles.",
       "text": "กำลังเข้าปะทะกับเป้าหมายที่เป็นภัยคุกคาม"
     },
     {
-      "character": "Deceiver",
+      "key": "increasingsubweaponoutput",
       "text_en": "Increasing sub-weapon output.",
       "text": "เพิ่มกำลังขับอาวุธรอง"
     },
     {
-      "character": "Deceiver",
+      "key": "deployingsupportunitsinitiatingcoverfire",
       "text_en": "Deploying support units. Initiating cover fire.",
       "text": "วางกำลังหน่วยสนับสนุน เริ่มการยิงคุ้มกัน"
     },
     {
-      "character": "Deceiver",
+      "key": "activecamouflageoperational",
       "text_en": "Active camouflage operational.",
       "text": "ระบบพรางตัวใช้งานได้แล้ว"
     },
     {
-      "character": "Deceiver",
+      "key": "deployingturretsinitiatingsuppressivefire",
       "text_en": "Deploying turrets. Initiating suppressive fire.",
       "text": "วางกำลังป้อมปืน เริ่มการยิงสกัด"
     },
     {
-      "character": "Deceiver",
+      "key": "maintaining80coordinationrate",
       "text_en": "Maintaining 80% coordination rate.",
       "text": "คงอัตราความสอดคล้องประสานงานไว้ที่แปดสิบเปอร์เซ็นต์"
     },
     {
-      "character": "Deceiver",
+      "key": "intrudersstillremaintransmittingemergencycode",
       "text_en": "Intruders still remain. Transmitting emergency code.",
       "text": "ยังคงมีผู้บุกรุกหลงเหลืออยู่ ทำการส่งรหัสฉุกเฉิน"
     },
     {
-      "character": "Erenville (remotely)",
+      "key": "welldonetheconveyorsupaheadshouldtakeyoutotheupperlevel",
       "text_en": "Well done. The conveyors up ahead should take you to the upper level.",
       "text": "ทำได้ดีมากครับ สายพานข้างหน้าน่าจะพาพวกคุณขึ้นไปยังชั้นบนได้ล่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thiswontbecomfortablebutintruderscantbechoosers",
       "text_en": "This won't be comfortable, but intruders can't be choosers.",
       "text": "วิธีนี้อาจจะไม่ค่อยสบายตัวเท่าไหร่นะ แต่เป็นผู้บุกรุกคงเลือกมากไม่ได้หรอก"
     },
     {
-      "character": "Erenville (remotely)",
+      "key": "imafraidthisiswhereourdataendsyoureonyourownnow",
       "text_en": "I'm afraid this is where our data ends. You're on your own now.",
       "text": "เกรงว่าข้อมูลของพวกเราจะสิ้นสุดลงตรงนี้แล้วล่ะครับ จากนี้ไปพวกคุณต้องลุยกันเองแล้วนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thesoulsarebeingcleansedpriortostorage",
       "text_en": "The souls are being cleansed prior to storage...",
       "text": "จิตวิญญาณกำลังถูกชำระล้างให้สะอาดก่อนจะนำไปจัดเก็บ..."
     },
     {
-      "character": "Cahciua",
+      "key": "theyreheadedupbutwheredowegofromhere",
       "text_en": "They're headed up...but where do we go from here?",
       "text": "พวกมันมุ่งหน้าขึ้นไปข้างบน... แต่เราจะไปทางไหนต่อดีล่ะ?"
     },
     {
-      "character": "Origenics Security",
+      "key": "thattheyshouldmakeitpastdeceiversoldiersholdthemoff",
       "text_en": "That they should make it past Deceiver... Soldiers, hold them off!",
       "text": "พวกมันฝ่าดีซีฟเวอร์เข้ามาได้งั้นเรอะ... ทหาร ต้านพวกมันไว้!"
     },
     {
-      "character": "Cahciua",
+      "key": "thishasthelookofaresearchlaboratory",
       "text_en": "This has the look of a research laboratory...",
       "text": "ดูเหมือนว่าที่นี่จะเป็นห้องปฏิบัติการวิจัยนะ..."
     },
     {
-      "character": "Cahciua",
+      "key": "iseethisiswheretheyresearchedtheuseofferalsouls",
       "text_en": "I see... This is where they researched the use of feral souls!",
       "text": "เข้าใจแล้ว... ที่นี่คือจุดที่พวกเขาทำวิจัยเรื่องการใช้จิตวิญญาณสัตว์ป่าสินะ!"
     },
     {
-      "character": "Origenics Security",
+      "key": "researcherevacuationcompletereleasealltestsubjects",
       "text_en": "Researcher evacuation complete! Release all test subjects!",
       "text": "การอพยพนักวิจัยเสร็จสิ้น! ปล่อยตัวอย่างทดลองทั้งหมดออกมา!"
     },
     {
-      "character": "Cahciua",
+      "key": "thisistoocruel",
       "text_en": "This is too cruel...",
       "text": "นี่มันโหดร้ายเกินไปแล้ว..."
     },
     {
-      "character": "Cahciua",
+      "key": "itsquiettooquiet",
       "text_en": "It's quiet. Too quiet...",
       "text": "เงียบเกินไปแล้ว... เงียบจนผิดปกติจริงๆ..."
     },
     {
-      "character": "Ambrose the Undeparted",
+      "key": "filthyrebelsyouwillnotreachtheking",
       "text_en": "Filthy rebels! You will not reach the king!",
       "text": "พวกกบฏสกปรก! พวกแกไม่มีวันได้เข้าพบองค์ราชาหรอก!"
     },
     {
-      "character": "Ambrose the Undeparted",
+      "key": "mypsychokinesiswillbringyoutoyourknees",
       "text_en": "My psychokinesis will bring you to your knees!",
       "text": "พลังจิตของข้าจะสยบพวกแกให้คุกเข่าลงเอง!"
     },
     {
-      "character": "Ambrose the Undeparted",
+      "key": "formingdirectionalgravityfield",
       "text_en": "Forming directional gravity field!",
       "text": "กำลังสร้างอาณาเขตแรงโน้มถ่วงแบบกำหนดทิศทาง!"
     },
     {
-      "character": "Ambrose the Undeparted",
+      "key": "stubbornverminiwilldealwithyouyet",
       "text_en": "Stubborn vermin...I will deal with you yet!",
       "text": "ไอ้พวกแมลงเม่าที่ดื้อด้าน... ข้าจะกำจัดพวกแกให้ได้!"
     },
     {
-      "character": "Ambrose the Undeparted",
+      "key": "disablinglimiterincreasingpsychokinesispotency",
       "text_en": "Disabling limiter, increasing psychokinesis potency!",
       "text": "ปลดระบบควบคุมขีดจำกัด เพิ่มความเข้มข้นของพลังจิต!"
     },
     {
-      "character": "Ambrose the Undeparted",
+      "key": "whywhywontyoudie",
       "text_en": "Why!? Why won't you die!?",
       "text": "ทำไมกัน!? ทำไมพวกแกถึงไม่ตายสักที!?"
     },
     {
-      "character": "Ambrose the Undeparted",
+      "key": "unnnghmyheadfeelsliketosplit",
       "text_en": "Unnngh... My head...feels like to split...",
       "text": "อึก... หัวของข้า... เหมือนมันจะระเบิดออกเป็นเสี่ยงๆ..."
     },
     {
-      "character": "Ambrose the Undeparted",
+      "key": "graaaggghimustwinorelsemysouls",
       "text_en": "Graaagggh! I must win...or else my souls...",
       "text": "โฮกกก! ข้าต้องชนะ... ไม่เช่นนั้น จิตวิญญาณของข้า..."
     },
     {
-      "character": "Alisaie",
+      "key": "tosubjectpeopletosuchheinousexperiments",
       "text_en": "To subject people to such heinous experiments...",
       "text": "ถึงขั้นเอาผู้คนมาทำการทดลองที่โหดร้ายผิดมนุษย์ขนาดนี้..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imcomingzoraalja",
       "text_en": "I'm coming, Zoraal Ja!",
       "text": "ข้ากำลังจะไปหาเจ้าแล้ว โซราล จา!"
     },
     {
-      "character": "Krile",
+      "key": "letuspressontothesummit",
       "text_en": "Let us press on to the summit!",
       "text": "พวกเรารีบบุกขึ้นไปที่ยอดหอคอยกันเถอะค่ะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itseemsthefacilityissecure",
       "text_en": "It seems the facility is secure.",
       "text": "ดูเหมือนภายในสถานวิจัยจะปลอดภัยแล้วนะครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "donttellmethatwas",
       "text_en": "Don't tell me that was...",
       "text": "อย่าบอกนะว่าเมื่อกี้คือ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "understood",
       "text_en": "Understood!",
       "text": "รับทราบครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightletsdothis",
       "text_en": "Right, let's do this!",
       "text": "เอาล่ะ ลุยกันเลย!"
     },
     {
-      "character": "Krile",
+      "key": "justleavethefightingtous",
       "text_en": "Just leave the fighting to us!",
       "text": "ปล่อยเรื่องการต่อสู้ให้เป็นหน้าที่ของพวกเราเถอะค่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "wellclearthewaydontyouworry",
       "text_en": "We'll clear the way, don't you worry!",
       "text": "พวกเราจะเบิกทางให้เอง ไม่ต้องกังวลหรอกนะ!"
     },
     {
-      "character": "Krile",
+      "key": "sofarsogood",
       "text_en": "So far, so good...",
       "text": "เท่าที่ผ่านมายังราบรื่นดีค่ะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "ashamethiselevatordoesntgostraighttothetop",
       "text_en": "A shame this elevator doesn't go straight to the top.",
       "text": "น่าเสียดายจังที่ลิฟต์ตัวนี้ไม่ได้พาขึ้นตรงไปถึงข้างบนสุดเลย"
     },
     {
-      "character": "G'raha Tia",
+      "key": "letusstayonourguard",
       "text_en": "Let us stay on our guard.",
       "text": "พวกเราต้องคอยระวังตัวไว้นะครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "achillingsight",
       "text_en": "A chilling sight...",
       "text": "ช่างเป็นภาพที่น่าขนลุกจริงๆ ครับ..."
     },
     {
-      "character": "Krile",
+      "key": "itsheartbreakingjusttolookat",
       "text_en": "It's heartbreaking just to look at...",
       "text": "แค่เห็นก็ปวดใจเหลือเกินแล้วค่ะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "youmeantheseareall",
       "text_en": "You mean these are all...?",
       "text": "เธอหมายความว่า ทั้งหมดนี่คือ...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "howdiditcometothis",
       "text_en": "How did it come to this...?",
       "text": "ทำไมมันถึงได้กลายมาเป็นแบบนี้ไปได้กันนะ...?"
     },
     {
-      "character": "Krile",
+      "key": "thesightaloneishardtobear",
       "text_en": "The sight alone is hard to bear...",
       "text": "แค่ภาพตรงหน้านี้ก็ยากที่จะทำใจมองแล้วค่ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "comeonthen",
       "text_en": "Come on, then!",
       "text": "งั้นก็เข้ามาเลย!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whatabizarrecreature",
       "text_en": "What a bizarre creature...",
       "text": "ช่างเป็นสิ่งมีชีวิตที่แปลกประหลาดจริงๆ ครับ..."
     },
     {
-      "character": "Alisaie",
+      "key": "noholdingback",
       "text_en": "No holding back!",
       "text": "ใส่ให้สุดแรงเลย!"
     },
     {
-      "character": "Krile",
+      "key": "letstakecareofit",
       "text_en": "Let's take care of it!",
       "text": "รีบกำจัดมันกันเถอะค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ughdisgusting",
       "text_en": "Ugh, disgusting...",
       "text": "อึก น่าขยะแขยงชะมัด..."
     },
     {
-      "character": "Alisaie",
+      "key": "averitableshowerofpoison",
       "text_en": "A veritable shower of poison...",
       "text": "ฝ่าบาทพิษกระหน่ำซัดของแท้เลยสินะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "ishuddertoimaginebeingcoveredinthat",
       "text_en": "I shudder to imagine being covered in that.",
       "text": "ผมแค่คิดว่าถ้าโดนของแบบนั้นราดใส่ตัวก็ขนลุกซู่แล้วครับ"
     },
     {
-      "character": "Krile",
+      "key": "imgladipracticeddodging",
       "text_en": "I'm glad I practiced dodging.",
       "text": "ดีใจจังค่ะที่ฉันฝึกหลบหลีกมาอย่างดี"
     },
     {
-      "character": "Alisaie",
+      "key": "andthatsthat",
       "text_en": "And that's that!",
       "text": "จัดการเรียบร้อย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letskeepmoving",
       "text_en": "Let's keep moving!",
       "text": "พวกเราไปต่อกันเถอะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "nowwecancontinueon",
       "text_en": "Now we can continue on.",
       "text": "คราวนี้พวกเราไปต่อกันได้แล้วครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "goodworkletskeepmoving",
       "text_en": "Good work. Let's keep moving!",
       "text": "ทำได้ดีมาก ไปต่อกันเถอะ!"
     },
     {
-      "character": "Krile",
+      "key": "nothingtoit",
       "text_en": "Nothing to it.",
       "text": "ไม่มีอะไรยากเกินไปค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "theonlywayisforward",
       "text_en": "The only way is forward...",
       "text": "ทางเดียวที่มีคือเดินหน้าต่อไปค่ะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "itseemsthesecuritylevelhasincreased",
       "text_en": "It seems the security level has increased.",
       "text": "ดูเหมือนระบบรักษาความปลอดภัยจะยกระดับขึ้นแล้วนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wecamereadyforthis",
       "text_en": "We came ready for this!",
       "text": "พวกเราเตรียมตัวพร้อมรับมืออยู่แล้ว!"
     },
     {
-      "character": "Alisaie",
+      "key": "nothingisgoingtostopus",
       "text_en": "Nothing is going to stop us!",
       "text": "ไม่มีอะไรมาหยุดพวกเราได้หรอก!"
     },
     {
-      "character": "Krile",
+      "key": "soulstrulyarejustaresourcehere",
       "text_en": "Souls truly are just a resource here...",
       "text": "ที่นี่เห็นจิตวิญญาณเป็นแค่ทรัพยากรจริงๆ สินะคะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "thisissowrong",
       "text_en": "This is so wrong...",
       "text": "นี่มันผิดเพี้ยนไปหมดแล้ว..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "itsatoncebeautifulandsad",
       "text_en": "It's at once beautiful and sad...",
       "text": "มันช่างดูงดงามและหดหู่ใจในเวลาเดียวกันเลยนะครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "namikka",
       "text_en": "Namikka...",
       "text": "นามิกก้า..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "right",
       "text_en": "Right!",
       "text": "จริงด้วย!"
     },
     {
-      "character": "Alisaie",
+      "key": "itshearteningtohavesupport",
       "text_en": "It's heartening to have support.",
       "text": "มีกำลังใจเพิ่มขึ้นเยอะเลยที่มีคนช่วยหนุนหลังอยู่"
     },
     {
-      "character": "G'raha Tia",
+      "key": "youdonotwanttobecomelosthere",
       "text_en": "You do not want to become lost here.",
       "text": "พวกเราอย่าหลงทางในนี้เด็ดขาดเลยนะครับ"
     },
     {
-      "character": "Krile",
+      "key": "idontlikethefeelofthisletsproceedwithcare",
       "text_en": "I don't like the feel of this... Let's proceed with care.",
       "text": "ฉันรู้สึกไม่ค่อยดีกับบรรยากาศแบบนี้เลยค่ะ... ค่อยๆ ไปอย่างระมัดระวังกันเถอะ"
     },
     {
-      "character": "Krile",
+      "key": "thatisnoordinarymechanicalsoldier",
       "text_en": "That is no ordinary mechanical soldier!",
       "text": "เจ้านั่นไม่ใช่ทหารจักรกลธรรมดาๆ แน่ค่ะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "somekindofmachine",
       "text_en": "Some kind of machine!?",
       "text": "เครื่องจักรประเภทไหนกันครับเนี่ย!?"
     },
     {
-      "character": "Alisaie",
+      "key": "arethosegianthands",
       "text_en": "Are those giant hands?",
       "text": "นั่นมันมือยักษ์ใช่ไหมน่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "doesntlooklikeitllletusthrough",
       "text_en": "Doesn't look like it'll let us through.",
       "text": "ดูเหมือนมันจะไม่ยอมให้พวกเราผ่านไปง่ายๆ แฮะ"
     },
     {
-      "character": "Alisaie",
+      "key": "anillusion",
       "text_en": "An illusion!?",
       "text": "ภาพลวงตางั้นเหรอ!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehyoucantfoolus",
       "text_en": "Heh, you can't fool us!",
       "text": "เหอะ ของแค่นี้หลอกพวกเราไม่ได้หรอก!"
     },
     {
-      "character": "Krile",
+      "key": "fartoorougharoundtheedges",
       "text_en": "Far too rough around the edges!",
       "text": "จุดบกพร่องเพียบเลยล่ะค่ะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itseasyifyouknowwhattolookfor",
       "text_en": "It's easy if you know what to look for.",
       "text": "ถ้าจับจุดสังเกตได้ก็ง่ายนิดเดียวครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "justonelastpushtothetop",
       "text_en": "Just one last push to the top!",
       "text": "อีกฮึดเดียวก็ถึงยอดแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "victoryisours",
       "text_en": "Victory is ours!",
       "text": "ชัยชนะเป็นของพวกเรา!"
     },
     {
-      "character": "Krile",
+      "key": "whewwedidit",
       "text_en": "Whew, we did it...",
       "text": "ฟู่ พวกเราทำได้แล้ว..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "onwardstotheupperlevel",
       "text_en": "Onwards to the upper level!",
       "text": "มุ่งหน้าสู่ชั้นบนกันต่อเลยครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "everyoneready",
       "text_en": "Everyone ready?",
       "text": "ทุกคนพร้อมนะ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ofcourse",
       "text_en": "Of course!",
       "text": "พร้อมเสมอครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "letsgo",
       "text_en": "Let's go!",
       "text": "ไปกันเลย!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "rightletsgo",
       "text_en": "Right, let's go!",
       "text": "เอาล่ะ ลุยกัน!"
     },
     {
-      "character": "Krile",
+      "key": "sothiswilltakeusabove",
       "text_en": "So this will take us above...",
       "text": "ทางนี้จะนำทางพวกเราขึ้นไปด้านบนสินะคะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "letskeepmoving",
       "text_en": "Let's keep moving!",
       "text": "พวกเราเคลื่อนที่ต่อเถอะ!"
     },
     {
-      "character": "Krile",
+      "key": "theairsomehowfeelscolderhere",
       "text_en": "The air somehow feels colder here...",
       "text": "อากาศที่นี่ดูเหมือนจะเย็นลงยังไงก็ไม่รู้นะคะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "whatwillwefindhereiwonder",
       "text_en": "What will we find here, I wonder.",
       "text": "อยากรู้จังว่าพวกเราจะไปเจออะไรข้างบนนั้นกันนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "wehavetostopthemfrombeingmisused",
       "text_en": "We have to stop them from being misused.",
       "text": "พวกเราต้องหยุดยั้งไม่ให้พวกเขาถูกนำไปใช้ในทางที่ผิด"
     },
     {
-      "character": "G'raha Tia",
+      "key": "beingstoredlikecommongoods",
       "text_en": "Being stored...like common goods.",
       "text": "ถูกนำมาจัดเก็บไว้... ราวกับเป็นสินค้าทั่วไป"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thesearealllives",
       "text_en": "These are all lives...",
       "text": "ทั้งหมดนี่เคยเป็นชีวิตคนทั้งนั้น..."
     },
     {
-      "character": "Krile",
+      "key": "itschillingtoseesoulstreatedwithsuchindifference",
       "text_en": "It's chilling to see souls treated with such indifference.",
       "text": "มันน่าสะพรึงกลัวจริงๆ ที่เห็นจิตวิญญาณถูกปฏิบัติอย่างเย็นชาไร้ค่าขนาดนี้ค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thatwhatthehuntersuse",
       "text_en": "That what the hunters use...",
       "text": "นั่นคือสิ่งที่พวกนักล่าใช้สินะ..."
     },
     {
-      "character": "Krile",
+      "key": "afacilityforresearchingsouls",
       "text_en": "A facility for researching souls...",
       "text": "สถานวิจัยสำหรับทำการศึกษาเรื่องจิตวิญญาณ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "feralsoulsicantgetusedtotheidea",
       "text_en": "Feral souls... I can't get used to the idea...",
       "text": "จิตวิญญาณของสัตว์ร้าย... ฉันคงทำใจยอมรับแนวคิดนี้ไม่ได้จริงๆ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "theaberranceisreminiscentoftheallaganempire",
       "text_en": "The aberrance is reminiscent of the Allagan Empire.",
       "text": "ความผิดธรรมชาตินี้ชวนให้นึกถึงจักรวรรดิอัลลากันเลยครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "agiantenemytortoise",
       "text_en": "A giant enemy tortoise!?",
       "text": "นั่นมันศัตรูเต่ายักษ์งั้นเรอะ!?"
     },
     {
-      "character": "Krile",
+      "key": "itappearstobeenhancedwithelectrope",
       "text_en": "It appears to be enhanced with electrope!",
       "text": "ดูเหมือนมันจะถูกเสริมความแข็งแกร่งด้วยแร่อิเล็กโทรปนะคะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "howcouldyoutwistalivingcreaturelikethat",
       "text_en": "How could you twist a living creature like that?",
       "text": "นี่ถึงขั้นตัดต่อบิดเบือนสิ่งมีชีวิตขนาดนี้ได้ยังไงกันนะ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "mechanicalaugmentationthiswouldnthavebeenamissinallag",
       "text_en": "Mechanical augmentation... This wouldn't have been amiss in Allag.",
       "text": "การดัดแปลงทางกลไก... ของแบบนี้คงพบเห็นได้ทั่วไปในยุคอัลลากันครับ"
     },
     {
-      "character": "Krile",
+      "key": "ohgodshisauraitssoverywrong",
       "text_en": "Oh gods... His aura...it's so very wrong...",
       "text": "พระเจ้าช่วย... ออร่าของเขา... มันบิดเบี้ยวและผิดปกติมากๆ เลยค่ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "focuskrileitstimetofight",
       "text_en": "Focus, Krile! It's time to fight!",
       "text": "ตั้งสติไว้ ไครล์! ได้เวลาสู้แล้ว!"
     },
     {
-      "character": "Alisaie",
+      "key": "idontknowwhybutisuddenlyfeelachill",
       "text_en": "I don't know why, but I suddenly feel a chill...",
       "text": "ไม่รู้ทำไมนะ จู่ๆ ฉันก็รู้สึกหนาวสั่นขึ้นมาเลย..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "thisisnomechanicalsoldier",
       "text_en": "This is no mechanical soldier...",
       "text": "เจ้านี่ไม่ใช่ทหารจักรกลทั่วไปแน่ครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "somethingfeelsseriouslyoffaboutthisone",
       "text_en": "Something feels seriously off about this one...",
       "text": "มีบางอย่างผิดปกติร้ายแรงกับเจ้านี่แฮะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatthe",
       "text_en": "What the—!?",
       "text": "อะไรกันเนี่ย!?"
     },
     {
-      "character": "Alisaie",
+      "key": "ohdontstartlemelikethat",
       "text_en": "Oh, don't startle me like that!",
       "text": "โธ่เอ๊ย อย่าทำให้ฉันตกใจเล่นแบบนี้สิ!"
     },
     {
-      "character": "Krile",
+      "key": "aretheyresourcesforsouls",
       "text_en": "Are they resources for souls!?",
       "text": "พวกมันเป็นวัตถุดิบสำหรับสกัดจิตวิญญาณอย่างนั้นเหรอคะ!?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "wedealwiththemtoo",
       "text_en": "We deal with them too!",
       "text": "พวกเราจัดการพวกมันด้วยครับ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ughmybody",
       "text_en": "Ugh... My body...",
       "text": "อึก... ร่างกายของผม..."
     },
     {
-      "character": "Krile",
+      "key": "itaffectslivingbeingstoo",
       "text_en": "It affects living beings too!",
       "text": "มันส่งผลกระทบต่อสิ่งมีชีวิตที่มีลมหายใจด้วยค่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "thisitthepowerthatdestroyedthecages",
       "text_en": "This it the power that destroyed the cages!?",
       "text": "นี่คือพลังที่ทำลายกรงขังเหล่านั้นงั้นเหรอ!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "watchwhereyourestanding",
       "text_en": "Watch where you're standing!",
       "text": "ระวังจุดที่แกยืนอยู่ด้วย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsnotopening",
       "text_en": "It's not opening.",
       "text": "มันเปิดไม่ออกน่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "shalecanyouseetothelock",
       "text_en": "Shale, can you see to the lock?",
       "text": "เชล ช่วยดูระบบล็อกให้ทีได้ไหมจ๊ะ?"
     },
     {
-      "character": "Shale (remotely)",
+      "key": "justamoment",
       "text_en": "Just a moment...",
       "text": "รอสักครู่นะคะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "everreliable",
       "text_en": "Ever reliable.",
       "text": "พึ่งพาได้เสมอเลยครับ"
     },
     {
-      "character": "Shale (remotely)",
+      "key": "followthepassageinsideandyoullcometoanelevatoritlltakeyoutotheeleventhlevel",
       "text_en": "Follow the passage inside and you'll come to an elevator. It'll take you to the eleventh level.",
       "text": "เดินตามทางเดินข้างในเข้าไปแล้วจะเจอลิฟต์ค่ะ เจ้านั่นจะพาขึ้นไปยังชั้นสิบเอ็ดนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightletskeepmoving",
       "text_en": "Right, let's keep moving!",
       "text": "เอาล่ะ ลุยต่อเลย!"
     },
     {
-      "character": "Krile",
+      "key": "theeleventhleveljustbelowthesummit",
       "text_en": "The eleventh level, just below the summit...",
       "text": "ชั้นที่สิบเอ็ด ชั้นที่อยู่ถัดจากยอดหอคอยลงมาสินะคะ..."
     },
     {
-      "character": "Cahciua",
+      "key": "looksoulcellsthisiswheretheyrekept",
       "text_en": "Look─soul cells. This is where they're kept.",
       "text": "ดูนั่นสิ—โซลเซลล์ พวกมันถูกเก็บรักษาไว้ที่นี่แหละ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatthentheseareall",
       "text_en": "What!? Then these are all...",
       "text": "อะไรนะ!? ถ้าอย่างนั้น ทั้งหมดนี่ก็คือ..."
     },
     {
-      "character": "Cahciua",
+      "key": "indeedmanydiedintheattacktheirsoulswouldhavebeenprocessedandtransportedhereforstorage",
       "text_en": "Indeed. Many died in the attack. Their souls would have been processed and transported here for storage.",
       "text": "ใช่จ้ะ มีผู้เสียชีวิตจำนวนมากจากการโจมตี จิตวิญญาณของพวกเขาคงถูกแปรรูปและส่งมาเก็บไว้ที่นี่"
     },
     {
-      "character": "Cahciua",
+      "key": "orsoihadexpected",
       "text_en": "...Or so I had expected.",
       "text": "...หรืออย่างน้อยฉันก็เคยคิดไว้แบบนั้นล่ะนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "asoulcellissupposedtolightupgreenwhenloadedisntit",
       "text_en": "A soul cell is supposed to light up green when loaded, isn't it?",
       "text": "ปกติแล้ว โซลเซลล์ต้องส่องแสงสีเขียวเมื่อมีจิตวิญญาณบรรจุอยู่ไม่ใช่เหรอ?"
     },
     {
-      "character": "Alisaie",
+      "key": "yetthelightisoutonmostofthese",
       "text_en": "Yet the light is out on most of these...",
       "text": "แต่เจ้านี่ส่วนใหญ่กลับไม่มีแสงไฟส่องสว่างเลยสักนิด..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "shockedgasp",
       "text_en": "[SHOCKED GASP]",
       "text": "[สะดุ้งตกใจ]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "donttellmehesalreadyusedthemup",
       "text_en": "Don't tell me he's already used them up!?",
       "text": "อย่าบอกนะว่าเขาใช้พวกมันไปจนหมดเกลี้ยงแล้วน่ะ!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatswhyhecutdownoneofhisownfortheregulator",
       "text_en": "That's why he cut down one of his own─for the regulator!",
       "text": "มิน่าล่ะ เขาถึงยอมฟันพวกพ้องตัวเอง—เพื่อชิงตัวเรกูเลเตอร์นี่เอง!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whosthere",
       "text_en": "Who's there!?",
       "text": "นั่นใครน่ะ!?"
     },
     {
-      "character": "Alisaie",
+      "key": "alphinaudandyshtolaandestinientoo",
       "text_en": "Alphinaud? And Y'shtola and Estinien too!",
       "text": "อัลฟิโน? แล้วยังมีวาย'ชโตลา กับเอสตินีลด้วย!"
     },
     {
-      "character": "Alphinaud",
+      "key": "lestyouwonderalliswellinturaltheenemyhaswithdrawnfreeingusuptocomeandlendyouahand",
       "text_en": "Lest you wonder, all is well in Tural. The enemy has withdrawn, freeing us up to come and lend you a hand.",
       "text": "ไม่ต้องห่วงนะครับ ทางฝั่งทูรัลปลอดภัยดีแล้ว ศัตรูล่าถอยออกไปหมดแล้วล่ะครับ พวกเราก็เลยสามารถตามมาช่วยเหลือพวกคุณได้"
     },
     {
-      "character": "Estinien",
+      "key": "thebackroomcrewgaveusabriefingnorestfortherighteousasusualeh",
       "text_en": "The Backroom crew gave us a briefing. No rest for the righteous as usual, eh?",
       "text": "พวกหน่วยเดอะ แบ็ครูมเล่าเรื่องคร่าวๆ ให้ฟังแล้วล่ะ ไม่มีเวลาให้หยุดพักสำหรับพวกเราเลยสินะ?"
     },
     {
-      "character": "Y'shtola",
+      "key": "theideaofempoweringoneselfwithsoulsisratherreminiscentofvoidsentpracticesishouldbekeentolearnmoreabouttheprocessaftermorepressingmattershavebeenresolved",
       "text_en": "The idea of empowering oneself with souls is rather reminiscent of voidsent practices. I should be keen to learn more about the process─after more pressing matters have been resolved.",
       "text": "แนวคิดเรื่องการเพิ่มพลังให้ตัวเองด้วยจิตวิญญาณค่อนข้างชวนให้นึกถึงวิถีของพวกวอยด์เซนต์เลยนะคะ ฉันคงอยากจะศึกษาเรื่องกระบวนการนี้เพิ่มเติม—หลังจากสะสางเรื่องสำคัญที่เร่งด่วนตรงหน้าเสร็จเรียบร้อยแล้วล่ะค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "amusedchucklehm",
       "text_en": "[AMUSED CHUCKLE “Hm”]",
       "text": "[หัวเราะขำ “หึ”]"
     },
     {
-      "character": "Alisaie",
+      "key": "ibelieveispeakforeveryonewhenisayimgladyourehere",
       "text_en": "I believe I speak for everyone when I say I'm glad you're here.",
       "text": "ฉันว่าฉันสามารถเป็นตัวแทนพูดแทนทุกคนได้เลยล่ะว่าดีใจจริงๆ ที่พวกเธอมาที่นี่ด้วย"
     },
     {
-      "character": "Alisaie",
+      "key": "asyoullhaveheardthealexandrianshavesufferedheavycasualtieswemuststopzoraaljabeforeitgetsanyworse",
       "text_en": "As you'll have heard, the Alexandrians have suffered heavy casualties. We must stop Zoraal Ja before it gets any worse.",
       "text": "อย่างที่พวกเธอคงได้ยินมา ชาวอเล็กซานเดรียได้รับความสูญเสียอย่างหนัก พวกเราต้องรีบหยุดโซราล จา ก่อนที่สถานการณ์จะเลวร้ายลงไปกว่านี้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ithankyouforcomingwithmethisfarmyfriendsandiaskyoutolendmeyourstrengthonelasttime",
       "text_en": "I thank you for coming with me this far, my friends. And I ask you to lend me your strength one last time.",
       "text": "ข้าขอขอบคุณเพื่อนๆ ทุกคนที่ร่วมเดินทางมากับข้าจนถึงจุดนี้ และข้าขอรบกวนช่วยมอบพลังให้ข้าเป็นครั้งสุดท้ายด้วยนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "togetherletusdefeatzoraaljaandsafeguardthefutureoftuliyollal",
       "text_en": "Together, let us defeat Zoraal Ja and safeguard the future of Tuliyollal!",
       "text": "พวกเรามาร่วมมือกันเพื่อโค่นโซราล จา และปกป้องอนาคตของทูลิโยลลัลกันเถอะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "andhereiswhereimustexcusemyselfcomebackinonepieceyouhearme",
       "text_en": "And here is where I must excuse myself. Come back in one piece, you hear me?",
       "text": "และตรงนี้แหละที่ฉันคงต้องขอตัวล่ะนะ กลับมาอย่างปลอดภัยครบสามสิบสองกันทุกคนนะ ได้ยินไหมจ๊ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wewilleveryoneofus",
       "text_en": "We will! Every one of us!",
       "text": "แน่นอน! พวกเราทุกคนเลย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatintheworldisthat",
       "text_en": "What in the world is that?",
       "text": "นั่นมันคืออะไรกันแน่เนี่ย?"
     },
     {
-      "character": "Alisaie",
+      "key": "itcouldntbeavoidgate",
       "text_en": "It couldn't be...a voidgate!?",
       "text": "หรือว่าจะเป็น...ประตูมิติวอยด์!?"
     },
     {
-      "character": "Alphinaud",
+      "key": "itsenormous",
       "text_en": "It's enormous!",
       "text": "มันใหญ่โตมโหฬารมาก!"
     },
     {
-      "character": "Estinien",
+      "key": "ayeitdwarfseventheonezeromusopened",
       "text_en": "Aye... It dwarfs even the one Zeromus opened.",
       "text": "ใช่... มันบดบังรัศมีประตูมิติที่ซีโรมุสเปิดทิ้งไว้เสียมิดเลยล่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "thatisnovoidgateitdoesntleadtothethirteenth",
       "text_en": "That is no voidgate. It doesn't lead to the Thirteenth.",
       "text": "นั่นไม่ใช่ประตูมิติวอยด์ค่ะ มันไม่ได้นำทางไปสู่มิติที่สิบสามหรอก"
     },
     {
-      "character": "Krile",
+      "key": "then",
       "text_en": "Then...",
       "text": "ถ้าอย่างนั้น..."
     },
     {
-      "character": "Y'shtola",
+      "key": "yesinalllikelihooditsaportaltoyetanotherreflection",
       "text_en": "Yes. In all likelihood, it's a portal to yet another reflection.",
       "text": "ใช่ค่ะ มีความเป็นไปได้สูงมากว่ามันจะเป็นประตูมิติสู่โลกเงาสะท้อนอีกแห่งหนึ่ง"
     },
     {
-      "character": "G'raha Tia",
+      "key": "bythetwelvetothinkthatrealitiesbeingfusedtogetherwasonlythebeginning",
       "text_en": "By the Twelve... To think that realities being fused together was only the beginning...",
       "text": "ทวยเทพทั้งสิบสองโปรดช่วยด้วย... คิดไม่ถึงเลยว่าการที่ห้วงความจริงถูกหลอมรวมเข้าด้วยกันจะเป็นเพียงแค่จุดเริ่มต้นเท่านั้น..."
     },
     {
-      "character": "Y'shtola",
+      "key": "thespeculationmustwaitheshere",
       "text_en": "The speculation must wait. He's here.",
       "text": "เรื่องคาดเดาเอาไว้ทีหลังเถอะค่ะ เขามาแล้ว"
     },
     {
-      "character": "Y'shtola",
+      "key": "thereisalimittohowmuchaetheralivingbeingcanharborwhileretainingitsphysicalform",
       "text_en": "There is a limit to how much aether a living being can harbor while retaining its physical form.",
       "text": "สิ่งมีชีวิตที่มีลมหายใจมีขีดจำกัดในการรองรับพลังงานอีเธอร์ เพื่อที่จะคงรูปกายหยาบเอาไว้อยู่นะคะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "zoraaljahasfarexceededthatlimit",
       "text_en": "Zoraal Ja has far exceeded that limit.",
       "text": "โซราล จาได้ก้าวข้ามขีดจำกัดนั้นไปไกลแสนไกลแล้ว"
     },
     {
-      "character": "Y'shtola",
+      "key": "withthesoulshehasabsorbedhehasattainedpowertorivalevenakingamongvoidsentbutataterriblecost",
       "text_en": "With the souls he has absorbed, he has attained power to rival even a king among voidsent, but at a terrible cost...",
       "text": "ด้วยจิตวิญญาณมากมายที่เขาดูดซับเข้าไป เขาจึงได้รับพลังที่เทียบเคียงได้กับราชาแห่งพวกวอยด์เซนต์ แต่ก็ต้องแลกมาด้วยราคาที่แสนแพง..."
     },
     {
-      "character": "Krile",
+      "key": "twelvehavemercy",
       "text_en": "Twelve have mercy...",
       "text": "ทวยเทพโปรดเมตตาด้วย..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "brother",
       "text_en": "Brother!",
       "text": "พี่ใหญ่!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itendshereandnow",
       "text_en": "It ends here and now!",
       "text": "เรื่องนี้มันต้องจบลงที่นี่ เดี๋ยวนี้แหละ!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "howitvexeswhenyoucallmebrother",
       "text_en": "How it vexes...when you call me Brother...",
       "text": "ขัดหูขัดตายิ่งนัก... ยามที่เจ้าเรียกข้าว่าพี่ใหญ่..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "brotherbloodheirresilientsonwhoamiwhatismypathwhywasiborn",
       "text_en": "Brother... Blood heir... Resilient Son... Who am I? What is my path? Why was I born?",
       "text": "พี่ใหญ่... ทายาทสายเลือด... บุตรชายผู้ทรหด... ข้าคือใคร? เส้นทางของข้าคืออะไร? ข้าเกิดมาทำไมกัน?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iamwuklamatvowofresolveoftuliyollal",
       "text_en": "I am Wuk Lamat, Vow of Resolve of Tuliyollal.",
       "text": "ข้าคือวุค ลามัต คำปฏิญาณแห่งปณิธานแห่งทูลิโยลลัล"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andyouarezoraaljakingofresolveofalexandria",
       "text_en": "And you are Zoraal Ja, King of Resolve of Alexandria.",
       "text": "และเจ้าคือโซราล จา ราชาแห่งปณิธานแห่งอเล็กซานเดรีย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "forthelasttimewefightfordutyforbloodforeverything",
       "text_en": "For the last time we fight. For duty, for blood─for everything!",
       "text": "นี่จะเป็นศึกสุดท้ายระหว่างพวกเรา เพื่อหน้าที่ เพื่อสายเลือด—และเพื่อทุกสิ่งทุกอย่าง!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "yeswefight",
       "text_en": "Yes, we fight.",
       "text": "ใช่แล้ว เรามาสู้กัน"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "holdnothingbackthismultitudeofsoulsishallburntothelastmote",
       "text_en": "Hold nothing back. This multitude of souls I shall burn to the last mote.",
       "text": "จงอย่าได้ออมมือ จิตวิญญาณอันท่วมท้นเหล่านี้ ข้าจะแผดเผามันจนหยดสุดท้าย"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "iwillkillyouandprovethemiracleiwillprovethatiamfatherstruesuccessor",
       "text_en": "I will kill you and prove the miracle! I will prove that I am Father's true successor!",
       "text": "ข้าจะฆ่าเจ้าและพิสูจน์ปาฏิหาริย์นี้! ข้าจะพิสูจน์ว่าข้าคือผู้สืบทอดที่แท้จริงของท่านพ่อ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "everyoneiscountingonuswecannotlosenomatterwhat",
       "text_en": "Everyone is counting on us. We cannot lose, no matter what!",
       "text": "ทุกคนกำลังฝากความหวังไว้กับพวกเรา ไม่ว่าจะเกิดอะไรขึ้นพวกเราก็แพ้ไม่ได้เด็ดขาด!"
     },
     {
-      "character": "Krile",
+      "key": "zoraaljawillnotrestuntilhehasbroughttheentireworldtoheelwemustputastoptohimonceandforall",
       "text_en": "Zoraal Ja will not rest until he has brought the entire world to heel. We must put a stop to him once and for all.",
       "text": "โซราล จาไม่มีวันหยุดมือจนกว่าจะสยบทั้งโลกไว้แทบเท้าได้ พวกเราต้องหยุดยั้งเขาให้ได้ในคราวนี้ค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "tostrikedownherbrotherforthesakeofherpeoplehersisaterribleburdenbutshehasustohelpherbearit",
       "text_en": "To strike down her brother for the sake of her people... Hers is a terrible burden. But she has us to help her bear it.",
       "text": "การต้องลงมือสังหารพี่ชายของตัวเองเพื่อเห็นแก่ประชาชน... มันเป็นภาระที่หนักหนาสาหัสสำหรับเธอเหลือเกิน แต่เธอยังมีพวกเราคอยช่วยแบ่งเบามันนะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "judgingfromhiswordszoraaljawillsparenosoulsforresurrectionhewillburnthrougheverylastonetoachievehisambition",
       "text_en": "Judging from his words, Zoraal Ja will spare no souls for resurrection. He will burn through every last one to achieve his ambition.",
       "text": "ดูจากคำพูดของเขาแล้ว โซราล จาจะไม่เหลือจิตวิญญาณไว้สำหรับชุบชีวิตตัวเองอีกแล้วล่ะครับ เขาจะแผดเผาทุกดวงจิตจนหมดเกลี้ยงเพื่อบรรลุความทะเยอทะยานของตัวเอง"
     },
     {
-      "character": "Estinien",
+      "key": "ifzoraaljaisntholdingbackthenweneedbutreturnthefavorthusshallwehonorgulooljaja",
       "text_en": "If Zoraal Ja isn't holding back, then we need but return the favor. Thus shall we honor Gulool Ja Ja.",
       "text": "หากโซราล จาไม่คิดจะออมมือ พวกเราก็แค่จัดหนักกลับไปเหมือนกัน นั่นแหละคือการไว้กิตติคุณแด่กูลูล จา จา"
     },
     {
-      "character": "Alphinaud",
+      "key": "wehelpedlamatyitotriumphoverzoraaljaintheriteofsuccessionevenifkoanahadntaskeditisourdutyseethisbattlethrough",
       "text_en": "We helped Lamaty'i to triumph over Zoraal Ja in the rite of succession. Even if Koana hadn't asked, it is our duty see this battle through.",
       "text": "พวกเราเคยช่วยให้ลามาตี้เอาชนะโซราล จาในพิธีสืบทอดบัลลังก์มาแล้ว ต่อให้โคอานาไม่ได้ออกปากขอร้อง มันก็เป็นหน้าที่ของพวกเราที่จะต้องสะสางศึกนี้ให้สิ้นซากครับ"
     },
     {
-      "character": "Y'shtola",
+      "key": "zoraaljawillrequiretimetofullyharnessthesoulshehasabsorbedideallywecanfinishthingsbeforehand",
       "text_en": "Zoraal Ja will require time to fully harness the souls he has absorbed. Ideally, we can finish things beforehand...",
       "text": "โซราล จาต้องใช้เวลาพอสมควรในการควบคุมและดึงพลังจากจิตวิญญาณที่เขาดูดซับเข้าไปอย่างเต็มที่ ทางที่ดีพวกเราควรสะสางเรื่องนี้ให้จบก่อนที่จะถึงตอนนั้นค่ะ..."
     },
     {
-      "character": "Kiluwsa",
+      "key": "ifyoureheadingbacktothesummitilllaunchthehovercargo",
       "text_en": "If you're heading back to the summit, I'll launch the hover cargo.",
       "text": "หากพวกคุณกำลังจะกลับขึ้นไปบนยอดหอคอย ฉันจะเตรียมปล่อยแท่นลอยขนส่งสินค้าออกตัวนะ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "comeatmewithyouralliwillmakeyoukneel",
       "text_en": "Come at me with your all. I will make you kneel.",
       "text": "จงเข้ามาหาข้าอย่างสุดกำลัง ข้าจะทำตัวเจ้าให้สยบลงคุกเข่าเอง"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "letthevictorsreignbesanctionedbythebloodofthefallen",
       "text_en": "Let the victor's reign be sanctioned by the blood of the fallen.",
       "text": "จงให้รัชสมัยของผู้ชนะ ได้รับการรับรองด้วยโลหิตของผู้ปราชัย"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "ineedmorepower",
       "text_en": "I need more power!",
       "text": "ข้าต้องการพลังมากกว่านี้!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "graaahhraaahhraaagh",
       "text_en": "Graaah... Hraaah... Hraaagh!",
       "text": "เกร๊าาา... ฮร่าาา... โฮกกก!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "moreineedmore",
       "text_en": "More! I need more!",
       "text": "เอาอีก! ข้าต้องการมากกว่านี้!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "whatvisionsarethese",
       "text_en": "What visions are these?",
       "text": "ภาพนิมิตพวกนี้มันคืออะไรกัน?"
     },
     {
-      "character": "Tuliyollan Mamool Ja Shade (text bubble)",
+      "key": "thefirstpromisewasborntositthethrone",
       "text_en": "The First Promise was born to sit the throne!",
       "text": "สัญญาที่หนึ่งเกิดมาเพื่อครองราชบัลลังก์!"
     },
     {
-      "character": "Tuliyollan Mamool Ja Shade (text bubble)",
+      "key": "nonecancomparetotheresilientson",
       "text_en": "None can compare to the Resilient Son!",
       "text": "ไม่มีผู้ใดเทียบเคียงบุตรชายผู้ทรหดได้!"
     },
     {
-      "character": "Tuliyollan Mamool Ja Shade (text bubble)",
+      "key": "hewillbeagreatdawnservant",
       "text_en": "He will be a great Dawnservant!",
       "text": "เขาจะเป็นดอว์นเซิร์ฟวันต์ที่ยิ่งใหญ่!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "outofmyway",
       "text_en": "Out of my way!",
       "text": "ถอยไปให้พ้นทางข้า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "isthismyweaknessgivenshape",
       "text_en": "Is this my weakness, given shape?",
       "text": "นี่คือความอ่อนแอของข้า ที่ก่อร่างขึ้นมาอย่างนั้นรึ?"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "downwithyou",
       "text_en": "Down with you!",
       "text": "จงล้มลงไปซะ!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "nolimitswillbindme",
       "text_en": "No limits will bind me!",
       "text": "จะไม่มีขีดจำกัดใดๆ มาขวางกั้นข้าได้!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "begonealongwithmypitifulpast",
       "text_en": "Begone, along with my pitiful past!",
       "text": "จงหายไปพร้อมกับอดีตอันน่าสมเพชของข้าซะ!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "yaaaaaarrrgh",
       "text_en": "Yaaaaaarrrgh!",
       "text": "ย้าาาาาร์ก!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "iamtheworthyking",
       "text_en": "I am the worthy king!",
       "text": "ข้าคือราชาผู้คู่ควร!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "thereisnomiracle",
       "text_en": "There is no miracle!",
       "text": "มันไม่มีปาฏิหาริย์ใดๆ ทั้งนั้น!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "thisismypath",
       "text_en": "This is my path!",
       "text": "นี่คือเส้นทางของข้า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "itrustonlyinmyself",
       "text_en": "I trust only in myself!",
       "text": "ข้าเชื่อมั่นในตนเองเท่านั้น!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "hahahahahaitsminetheultimatepower",
       "text_en": "Hahahahaha! It's mine—the ultimate power!",
       "text": "ฮ่าๆๆๆๆ! มันเป็นของข้าแล้ว—พลังขั้นสุดยอด!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "thispowerisproofofmyauthority",
       "text_en": "This power is proof of my authority!",
       "text": "พลังนี้คือเครื่องพิสูจน์อำนาจของข้า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "hyaaah",
       "text_en": "Hyaaah!",
       "text": "ฮ้า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "creationyieldstomycommand",
       "text_en": "Creation yields to my command!",
       "text": "สรรพสิ่งจงยอมศิโรราบต่อบัญชาของข้า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "mywillresonateswithinreality",
       "text_en": "My will resonates within reality!",
       "text": "เจตจำนงของข้าจงสะท้อนก้องทั่วห้วงความจริง!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "mineisthepath",
       "text_en": "Mine is the path!",
       "text": "เส้นทางนี้เป็นของข้า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "flymyblades",
       "text_en": "Fly, my blades!",
       "text": "จงปลิวทะยาน ดาบของข้า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "allisminetomakeandunmake",
       "text_en": "All is mine to make and unmake!",
       "text": "ทุกสิ่งเป็นของข้าที่จะสรรค์สร้างหรือทำลายล้าง!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "bleed",
       "text_en": "Bleed!",
       "text": "จงหลั่งโลหิตซะ!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "mineisthepower",
       "text_en": "Mine is the power!",
       "text": "พลังนี้เป็นของข้า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "nomercy",
       "text_en": "No mercy!",
       "text": "ไม่มีความเมตตาปรานี!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "resonate",
       "text_en": "Resonate!",
       "text": "จงสะท้อนประสาน!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "evadethis",
       "text_en": "Evade this!",
       "text": "จงหลบการโจมตีนี้ให้พ้น!"
     },
     {
-      "character": "Alphinaud",
+      "key": "hetrulyheldnothingback",
       "text_en": "He truly held nothing back...",
       "text": "เขาไม่คิดจะออมมือไว้เลยจริงๆ..."
     },
     {
-      "character": "Krile",
+      "key": "itsfinallyover",
       "text_en": "It's finally over...",
       "text": "ในที่สุดเรื่องก็จบลงเสียที..."
     },
     {
-      "character": "Y'shtola",
+      "key": "hehasusedupallofhissoulsashesaidhewould",
       "text_en": "He has used up all of his souls, as he said he would.",
       "text": "เขาใช้จิตวิญญาณทั้งหมดของตัวเองไปจนหมดเกลี้ยง อย่างที่เขาบอกเอาไว้จริงๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "brother",
       "text_en": "Brother...",
       "text": "พี่ใหญ่..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "soitisdone",
       "text_en": "So it is done...",
       "text": "ในที่สุดทุกอย่างก็เรียบร้อยเสียที..."
     },
     {
-      "character": "Estinien",
+      "key": "hisdesiretosurpasshisfatherknewneitherlimitnorreason",
       "text_en": "His desire to surpass his father knew neither limit nor reason.",
       "text": "ความปรารถนาที่จะเอาชนะท่านพ่อของตน รู้จักแต่การไร้ขีดจำกัดและไร้ซึ่งเหตุผลสิ้นดี"
     },
     {
-      "character": "Alisaie",
+      "key": "ifonlyyouhadfoundanotherway",
       "text_en": "If only you had found another way...",
       "text": "หากเพียงแต่เจ้าจะหาเส้นทางอื่นที่ดีกว่านี้ได้..."
     },
     {
-      "character": "Y'shtola",
+      "key": "theaethericdensityhassurged",
       "text_en": "The aetheric density has surged...",
       "text": "ความหนาแน่นของพลังงานอีเธอร์พุ่งสูงขึ้นอย่างกะทันหัน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nobackingdown",
       "text_en": "No backing down!",
       "text": "ไม่มีคำว่าถอยกลับ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "isheburninglives",
       "text_en": "Is he burning lives!?",
       "text": "เขากำลังแผดเผาชีวิตงั้นเหรอ!?"
     },
     {
-      "character": "Estinien",
+      "key": "youllhavetodobetterthanthat",
       "text_en": "You'll have to do better than that!",
       "text": "ฝีมือแค่นั้นยังไม่พอหรอกนะ!"
     },
     {
-      "character": "Krile",
+      "key": "timetostrikeback",
       "text_en": "Time to strike back!",
       "text": "ได้เวลาตอบโต้กลับแล้วค่ะ!"
     },
     {
-      "character": "Y'shtola",
+      "key": "theaethericdensityhassurgedevenfurther",
       "text_en": "The aetheric density has surged even further!",
       "text": "ความหนาแน่นของพลังงานอีเธอร์ยิ่งเพิ่มขึ้นไปอีกค่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "visionswhatisheseeing",
       "text_en": "Visions? What is he seeing?",
       "text": "ภาพหลอนงั้นเหรอ? เขากำลังมองเห็นอะไรอยู่กันแน่?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ishehallucinating",
       "text_en": "Is he hallucinating?",
       "text": "เขากำลังเห็นภาพนิมิตหลอนอยู่หรือเปล่าครับ?"
     },
     {
-      "character": "Estinien",
+      "key": "alphinaudgetclear",
       "text_en": "Alphinaud, get clear!",
       "text": "อัลฟิโน ถอยออกมา!"
     },
     {
-      "character": "Alphinaud",
+      "key": "understood",
       "text_en": "Understood!",
       "text": "เข้าใจแล้วครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "thickasthievesthesetwo",
       "text_en": "Thick as thieves, these two...",
       "text": "สนิทสนมกลมเกลียวกันดีจริงเชียวนะ สองคนนั้น..."
     },
     {
-      "character": "Krile",
+      "key": "stopthisyourbodywontsurvive",
       "text_en": "Stop this! Your body won't survive!",
       "text": "หยุดเถอะค่ะ! ร่างกายของคุณจะรับไม่ไหวเอานะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hewontstopitfallstoustostophim",
       "text_en": "He won't stop! It falls to us to stop him!",
       "text": "เขาไม่ยอมหยุดหรอก! เป็นหน้าที่ของพวกเราที่ต้องหยุดเขาเอง!"
     },
     {
-      "character": "Alphinaud",
+      "key": "estinienthisway",
       "text_en": "Estinien, this way!",
       "text": "เอสตินีล ทางนี้ครับ!"
     },
     {
-      "character": "Estinien",
+      "key": "right",
       "text_en": "Right!",
       "text": "เออ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "afrightfultransformation",
       "text_en": "A frightful transformation...",
       "text": "การเปลี่ยนแปลงร่างกายน่ากลัวเหลือเกินครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisisthepoweryousought",
       "text_en": "This is the power you sought...?",
       "text": "นี่น่ะเหรอพลังที่เจ้าค้นหามาตลอด...?"
     },
     {
-      "character": "Alphinaud",
+      "key": "hecontrolstheblades",
       "text_en": "He controls the blades!",
       "text": "เขาควบคุมพวกใบดาบทั้งหมดนั่น!"
     },
     {
-      "character": "Estinien",
+      "key": "itsoutsidenext",
       "text_en": "It's outside next!",
       "text": "รอบถัดไปอยู่ทางข้างนอก!"
     },
     {
-      "character": "Alisaie",
+      "key": "wecanavoiditbyclosingthedistance",
       "text_en": "We can avoid it by closing the distance!",
       "text": "พวกเราสามารถหลบการโจมตีได้ด้วยการบีบระยะห่างเข้าไปหาตัวเขา!"
     },
     {
-      "character": "Alphinaud",
+      "key": "whatshappened",
       "text_en": "What's happened!?",
       "text": "เกิดอะไรขึ้นน่ะครับ!?"
     },
     {
-      "character": "Y'shtola",
+      "key": "hesmanipulatedtheambientaether",
       "text_en": "He's manipulated the ambient aether!",
       "text": "เขาบิดเบือนพลังงานอีเธอร์โดยรอบตัวค่ะ!"
     },
     {
-      "character": "Estinien",
+      "key": "hmphjustafancytrick",
       "text_en": "Hmph, just a fancy trick.",
       "text": "หึ ก็แค่กลอุบายแฟนซีธรรมดาๆ"
     },
     {
-      "character": "Krile",
+      "key": "hesgatheredbladesoutside",
       "text_en": "He's gathered blades outside!",
       "text": "เขารวบรวมใบดาบไว้ด้านนอกแล้วค่ะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "doeshemeantounleashthemallatonce",
       "text_en": "Does he mean to unleash them all at once?",
       "text": "เขาตั้งใจจะปล่อยพวกมันออกมาโจมตีพร้อมกันทั้งหมดเลยงั้นเหรอครับ?"
     },
     {
-      "character": "Y'shtola",
+      "key": "observetheaetherandyoullseewhereitssafe",
       "text_en": "Observe the aether, and you'll see where it's safe!",
       "text": "สังเกตกระแสพลังงานอีเธอร์ให้ดีค่ะ แล้วจะรู้เองว่าจุดไหนปลอดภัย!"
     },
     {
-      "character": "Krile",
+      "key": "keepcalmandwatchtheflowerofaether",
       "text_en": "Keep calm and watch the flower of aether...",
       "text": "ตั้งสติไว้ให้ดี แล้วเฝ้ามองบุปผาแห่งอีเธอร์ดวงนั้นไว้ค่ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whwhatamisupposedtodo",
       "text_en": "Wh-What am I supposed to do!?",
       "text": "อะ-อะไรกัน ข้าต้องทำยังไงล่ะเนี่ย!?"
     },
     {
-      "character": "Y'shtola",
+      "key": "hescreatedspatialdistortions",
       "text_en": "He's created spatial distortions!",
       "text": "เขาสร้างความบิดเบี้ยวของห้วงมิติขึ้นมาค่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "swordsoutsidewatchout",
       "text_en": "Swords outside! Watch out!",
       "text": "ดาบอยู่ข้างนอก! ระวังด้วยนะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "theircoursechanged",
       "text_en": "Their course changed!",
       "text": "วิถีดาบเปลี่ยนไปแล้วครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "anirksometechnique",
       "text_en": "An irksome technique...",
       "text": "เป็นเทคนิควิธีที่น่ารำคาญชะมัด..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "arghivenoideawhatimlookingat",
       "text_en": "Argh, I've no idea what I'm looking at!",
       "text": "อ๊ากกก ข้าไม่เข้าใจเลยสักนิดว่ากำลังดูอะไรอยู่เนี่ย!"
     },
     {
-      "character": "Krile",
+      "key": "theflowofaetherhasbecomemoredistorted",
       "text_en": "The flow of aether has become more distorted!",
       "text": "กระแสอีเธอร์ไหลบิดเบี้ยวมากยิ่งขึ้นไปอีกค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nomorelookingimgoingwithfeeling",
       "text_en": "No more looking! I'm going with feeling!",
       "text": "ไม่มองมันแล้ว! ข้าจะลุยตามความรู้สึกเอง!"
     },
     {
-      "character": "Alphinaud",
+      "key": "everyonegathertome",
       "text_en": "Everyone, gather to me!",
       "text": "ทุกคน มารวมกันที่ตัวผมเร็วครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "ugh",
       "text_en": "Ugh!",
       "text": "อึก!"
     },
     {
-      "character": "Estinien",
+      "key": "wemustholdfast",
       "text_en": "We must hold fast!",
       "text": "พวกเราต้องต้านทานไว้ให้มั่น!"
     },
     {
-      "character": "Krile",
+      "key": "braceyourselves",
       "text_en": "Brace yourselves!",
       "text": "ระวังตัวกันด้วยนะคะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youwontgetthebestofus",
       "text_en": "You won't get the best of us!",
       "text": "พวกเจ้าไม่มีวันเอาชนะพวกเราได้หรอก!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "brother",
       "text_en": "Brother...",
       "text": "พี่ใหญ่..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "soitistobedefeat",
       "text_en": "So...it is to be defeat...",
       "text": "อย่างนี้นี่เอง... ท้ายที่สุดข้าก็พ่ายแพ้..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "fatheristhatyou",
       "text_en": "Father? Is that you?",
       "text": "คุณพ่อเหรอครับ? นั่นคุณพ่อใช่ไหมครับ?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "sobbing",
       "text_en": "[SOBBING]",
       "text": "[ร้องไห้สะอื้น]"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "whydoyouweep",
       "text_en": "Why do you weep?",
       "text": "เหตุใดเจ้าจึงต้องร้องไห้กัน?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "becauseithurts",
       "text_en": "Because it hurts...",
       "text": "เพราะว่าผมเจ็บปวดครับ..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "becauseidontunderstandwhyithadtobethiswaywhydontiknowyou",
       "text_en": "Because I don't understand why it had to be this way. Why don't I know you?",
       "text": "เพราะผมไม่เข้าใจเลยว่าทำไมเรื่องราวถึงต้องลงเอยแบบนี้ ทำไมผมถึงไม่มีโอกาสได้รู้จักคุณพ่อเลยล่ะครับ?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "whydidntyouwantme",
       "text_en": "Why didn't you want me?",
       "text": "ทำไมคุณพ่อถึงไม่ยอมต้องการตัวผมล่ะครับ?"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "howcouldibeafatherwhenmyownspurnedme",
       "text_en": "How could I be a father...when my own spurned me?",
       "text": "ข้าจะเป็นพ่อคนได้อย่างไร... ในเมื่อแม้แต่พ่อของข้าเองยังผลักไสข้าเลย?"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "heleftmenothingnothronenolegacynothingandsoihadnothingtoleaveyou",
       "text_en": "He left me nothing. No throne. No legacy. Nothing. And so I had nothing to leave you.",
       "text": "ท่านพ่อไม่ได้ทิ้งสิ่งใดไว้ให้ข้าเลย ทั้งบัลลังก์ มรดกตกทอด หรืออะไรก็ตามไม่มีเลย ดังนั้นข้าจึงไม่มีอะไรหลงเหลือที่จะมอบให้เจ้าเช่นกัน"
     },
     {
-      "character": "Gulool Ja",
+      "key": "whydoesthatmatter",
       "text_en": "Why does that matter!?",
       "text": "ทำไมเรื่องแบบนั้นถึงกลายเป็นเรื่องสำคัญล่ะครับ!?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "couldntyouhavejustbeenthere",
       "text_en": "Couldn't you have just...been there?",
       "text": "แค่คุณพ่ออยู่ข้างๆ ผมเหมือนคนอื่น... ไม่ได้เหรอครับ?"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "wearyexhale",
       "text_en": "[WEARY EXHALE]",
       "text": "[ถอนหายใจยาวด้วยความเหนื่อยล้า]"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "youaskalostmanfortheway",
       "text_en": "You ask a lost man for the way...",
       "text": "เจ้าย้อนถามเส้นทางจากคนที่กำลังหลงทางอย่างนั้นรึ..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "idonotpresumetocallyouminenordoidesireanythingofyou",
       "text_en": "I do not presume to call you mine...nor do I desire anything of you.",
       "text": "ข้าไม่ได้คิดก้าวล่วงจะเรียกตัวเจ้าว่าเป็นลูกของข้า... และข้าไม่ได้ปรารถนาสิ่งใดในตัวเจ้าเช่นกัน"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "butileavebehindthatwhichivegainedbythesweatofmybrowitisyourstoembraceorspurn",
       "text_en": "But I leave behind that which I've gained by the sweat of my brow... It is yours to embrace...or spurn...",
       "text": "แต่ข้าจะทิ้งสิ่งที่ข้าแลกมาด้วยหยาดเหงื่อแรงกายของข้าไว้เบื้องหลัง... มันเป็นของเจ้าแล้วที่จะน้อมรับมันไว้... หรือจะผลักไสมันไปตามใจชอบ..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "laboredcoughing",
       "text_en": "[LABORED COUGHING]",
       "text": "[ไอแห้งๆ อย่างยากลำบาก]"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "iwalkedapathofruin",
       "text_en": "I walked a path of ruin...",
       "text": "ข้าเดินบนเส้นทางแห่งความพินาศย่อยยับมาตลอด..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "unabletosurpassfather",
       "text_en": "Unable to surpass Father...",
       "text": "โดยไม่สามารถก้าวข้ามท่านพ่อได้เลย..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "orlamatyi",
       "text_en": "Or Lamaty'i...",
       "text": "หรือแม้แต่ลามาตี้..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "somuch",
       "text_en": "So much...",
       "text": "ช่างมากมาย..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "fortheresilientsonthemiracle",
       "text_en": "For the Resilient Son... The miracle...",
       "text": "สำหรับบุตรชายผู้ทรหด... ปาฏิหาริย์..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youthinkpapaleftyounothing",
       "text_en": "You think Papa left you nothing?",
       "text": "เจ้าคิดว่าท่านพ่อไม่ได้ทิ้งอะไรไว้ให้เจ้าอย่างนั้นเรอะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yougodsdamnedfoolyouhavetheonethinghecouldntleaveanyoneelseyouandguloolja",
       "text_en": "You godsdamned fool! You have the one thing he couldn't leave anyone else! You and Gulool Ja!",
       "text": "ไอ้คนบ้าเอ๊ย! เจ้าได้รับสิ่งเดียวที่ท่านพ่อไม่สามารถทิ้งไว้ให้คนอื่นได้ต่างหากล่ะ! เจ้ากับกูลูล จาไง!"
     },
     {
-      "character": "Y'shtola",
+      "key": "itsnotover",
       "text_en": "It's not over!",
       "text": "เรื่องนี้มันยังไม่จบ!"
     },
     {
-      "character": "Cahciua",
+      "key": "queensphene",
       "text_en": "Queen Sphene?",
       "text": "ราชินีสฟีนอย่างนั้นเหรอจ๊ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "zoraaljaisgonetheresnoneedtofightanymore",
       "text_en": "Zoraal Ja is gone. There's no need to fight anymore.",
       "text": "โซราล จาจากไปแล้ว ไม่มีเหตุผลที่เราจะต้องมาต่อสู้กันอีกต่อไปแล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sphene",
       "text_en": "Sphene?",
       "text": "สฟีน?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whyareyouhere",
       "text_en": "Why are you here?",
       "text": "ทำไมเธอถึงมาอยู่ที่นี่ล่ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "iwantedtoexpressmygratitudetoyouallforvanquishingthekingofresolveanddeliveringmypeople",
       "text_en": "I wanted to express my gratitude to you all. For vanquishing the King of Resolve and delivering my people.",
       "text": "ฉันเพียงแค่อยากจะแสดงความขอบคุณต่อพวกคุณทุกคนค่ะ สำหรับการโค่นราชาแห่งปณิธานลงได้สำเร็จ และช่วยปลดปล่อยประชาชนของฉันเป็นอิสระ"
     },
     {
-      "character": "Sphene",
+      "key": "andtoexpressmyregretforwhativedonetoyours",
       "text_en": "And to express my regret for what I've done to yours.",
       "text": "รวมถึงอยากแสดงความเสียใจอย่างสุดซึ้ง สำหรับสิ่งที่ฉันได้กระทำลงไปกับประชาชนของพวกคุณด้วยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yourapologieswontbringbackourdeadorlessenyourguilt",
       "text_en": "Your apologies won't bring back our dead or lessen your guilt.",
       "text": "คำขอโทษของเธอไม่ช่วยชุบชีวิตผู้เสียชีวิตของเราให้ฟื้นคืนกลับมา หรือทำให้ความผิดของเธอลดน้อยลงไปหรอกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "stilltostrikeyoudowninrevengewouldtriggeralloutwarbetweenournationsmoreinnocentswouldsuffer",
       "text_en": "Still, to strike you down in revenge would trigger all-out war between our nations. More innocents would suffer.",
       "text": "แต่ถึงอย่างนั้น การจะลงมือฆ่าเธอเพื่อล้างแค้นก็รังแต่จะจุดชนวนสงครามเต็มรูปแบบระหว่างประเทศของเรา และผู้บริสุทธิ์จำนวนมากก็จะต้องทนทุกข์เดือดร้อนมากขึ้นไปอีก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "evenifwecannotbefriendsrightnowweneedtofindadifferentpathforwardawaythattuliyollalandalexandriacancoexist",
       "text_en": "Even if we cannot be friends right now, we need to find a different path forward. A way that Tuliyollal and Alexandria can coexist.",
       "text": "ต่อให้พวกเรายังเป็นเพื่อนกันในตอนนี้ไม่ได้ แต่พวกเราก็ต้องหาทางออกร่วมกัน ทางที่ทูลิโยลลัลและอเล็กซานเดรียจะสามารถอยู่ร่วมกันได้อย่างสงบสุข"
     },
     {
-      "character": "Sphene",
+      "key": "ifearthatcanneverbe",
       "text_en": "I fear that can never be.",
       "text": "เกรงว่านั่นคงไม่มีวันเกิดขึ้นได้ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatdoyoumean",
       "text_en": "What do you mean?",
       "text": "เธอหมายความว่าอย่างไรน่ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "thereisnootherpathforusitstoolate",
       "text_en": "There is no other path for us. It's too late.",
       "text": "พวกเราไม่มีเส้นทางอื่นเหลืออยู่อีกแล้วล่ะค่ะ มันสายเกินไปเสียแล้ว"
     },
     {
-      "character": "Sphene",
+      "key": "icooperatedwithzoraaljabecauseineededthelifeforceyieldedbytheslaintosustaintheendless",
       "text_en": "I cooperated with Zoraal Ja because I needed the life force yielded by the slain to sustain the Endless.",
       "text": "ที่ฉันยอมร่วมมือกับโซราล จา ก็เป็นเพราะว่าฉันจำเป็นต้องใช้พลังชีวิตของเหยื่อผู้เสียชีวิตเพื่อมาหล่อเลี้ยงพวกเอ็นด์เลสเอาไว้"
     },
     {
-      "character": "Sphene",
+      "key": "ofcoursethekingbetrayedmeandwithhisarmydefeatedthatplancannolongerberealized",
       "text_en": "Of course, the king betrayed me, and with his army defeated, that plan can no longer be realized.",
       "text": "แต่แน่นอนว่าราชาทรยศฉัน และในเมื่อกองทัพของเขาพ่ายแพ้ แผนการนั้นจึงไม่สามารถบรรลุผลสำเร็จได้อีกต่อไปแล้วล่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "buticantiwontfailmypeoplebetheypossessedoffleshornoallofthemaredeartome",
       "text_en": "But I can't─I won't─fail my people. Be they possessed of flesh or no, all of them are dear to me.",
       "text": "แต่ฉันจะยอมให้ประชาชนของฉันพบกับความล้มเหลวไม่ได้เด็ดขาด ไม่ว่าพวกเขาจะมีกายหยาบเหมือนเดิมหรือไม่ก็ตาม พวกเขาทุกคนล้วนมีความสำคัญและเป็นที่รักยิ่งสำหรับฉัน"
     },
     {
-      "character": "Sphene",
+      "key": "ifthereissomethingicandoforthemastheirqueenimustdoit",
       "text_en": "If there is something I can do for them, as their queen, I must do it!",
       "text": "หากมีสิ่งใดที่ฉันสามารถกระทำเพื่อช่วยเหลือพวกเขาได้ ในฐานะราชินีของพวกเขาแล้ว ฉันก็จำเป็นต้องกระทำมันค่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "hearmespheneweappreciateyourcommitmenttoservingthealexandriansandhaveendeavoredtounderstandyourbeliefs",
       "text_en": "Hear me, Sphene. We appreciate your commitment to serving the Alexandrians and have endeavored to understand your beliefs.",
       "text": "ฟังนะสฟีน พวกเราซาบซึ้งในความทุ่มเทและการทำหน้าที่รับใช้ชาวอเล็กซานเดรียของเธอ และพยายามที่จะทำความเข้าใจในความเชื่อของเธอแล้วล่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "bethatasitmayyoumustknowitswrongtosacrificeourlivingtosaveyourdead",
       "text_en": "Be that as it may, you must know it's wrong to sacrifice our living to save your dead!",
       "text": "แต่ถึงจะเป็นอย่างนั้น เธอก็ต้องตระหนักนะว่าการนำชีวิตของคนที่ยังอยู่มาเซ่นสังเวยเพื่อช่วยชีวิตคนตายไปแล้วมันเป็นเรื่องที่ผิด!"
     },
     {
-      "character": "Sphene",
+      "key": "iseeitsbecauseyoudonotknowthemthatyoubelievetheyredead",
       "text_en": "I see. It's because you do not know them that you believe they're dead.",
       "text": "เข้าใจแล้วค่ะ เป็นเพราะพวกคุณไม่เคยทำความรู้จักพวกเขาเลยสินะคะ พวกคุณถึงได้ปักใจเชื่อว่าพวกเขาเสียชีวิตไปแล้ว"
     },
     {
-      "character": "Sphene",
+      "key": "theyrenotsolongastheyarerememberedtheyshallneverdie",
       "text_en": "They're not. So long as they are remembered, they shall never die.",
       "text": "แต่พวกเขาไม่เป็นเช่นนั้นหรอกค่ะ ตราบใดที่พวกเขาก็ยังอยู่ในความทรงจำ พวกเขาก็จะไม่มีวันตายชั่วนิรันดร์"
     },
     {
-      "character": "Sphene",
+      "key": "youunderstanddontyou",
       "text_en": "You understand, don't you?",
       "text": "พวกคุณเข้าใจเรื่องนี้ดีใช่ไหมคะ?"
     },
     {
-      "character": "Sphene",
+      "key": "nomatterwhatanyonemaysayirefusetobelievethatcahciuasisahollowexistencethatshecansimplybeallowedtofadeaway",
       "text_en": "No matter what anyone may say, I refuse to believe that Cahciua's is a hollow existence. That she can simply be allowed to fade away!",
       "text": "ไม่ว่าใครหน้าไหนจะพูดยังไงก็ตาม ฉันจะไม่ยอมเชื่อเด็ดขาดว่าการมีตัวตนของคาชิวาเป็นสิ่งที่ว่างเปล่าไร้ค่า และจะยอมปล่อยให้เธอจางหายไปง่ายๆ แบบนั้นได้หรอกนะคะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "yourmajesty",
       "text_en": "Your Majesty...",
       "text": "ฝ่าบาท..."
     },
     {
-      "character": "Sphene",
+      "key": "i",
       "text_en": "I...",
       "text": "ฉัน..."
     },
     {
-      "character": "Sphene",
+      "key": "amthebearerofthememoriesofqueenspheneofalexandriaandmydesiretoprotectmypeopletranscendsallothers",
       "text_en": "...am the bearer of the memories of Queen Sphene of Alexandria, and my desire to protect my people transcends all others!",
       "text": "...คือผู้แบกรับความทรงจำของราชินีสฟีนแห่งอเล็กซานเดรีย และความปรารถนาในการปกป้องผองชนของฉันนั้นอยู่เหนือสิ่งอื่นใด!"
     },
     {
-      "character": "Sphene",
+      "key": "forthemiwilldoanythingnopriceistoohigh",
       "text_en": "For them, I will do anything! No price is too high!",
       "text": "เพื่อประชาชนแล้ว ฉันยอมทำทุกสิ่งทุกอย่าง! ต่อให้ราคานั้นจะสูงแค่ไหนก็ตามที!"
     },
     {
-      "character": "Y'shtola",
+      "key": "sevenhells",
       "text_en": "Seven hells!",
       "text": "ให้ตายสิ!"
     },
     {
-      "character": "Y'shtola",
+      "key": "castingspellexerthah",
       "text_en": "[CASTING SPELL EXERT “Hah!”]",
       "text": "[ร่ายเวท “ฮะ!”]"
     },
     {
-      "character": "Alphinaud",
+      "key": "whatisit",
       "text_en": "What is it!?",
       "text": "เกิดอะไรขึ้นน่ะครับ!?"
     },
     {
-      "character": "Sphene",
+      "key": "thereexistsalegendinalexandriainagespastfacedwithacalamityintheirworldaclanofpeopleusedasingularpowertofleetoours",
       "text_en": "There exists a legend in Alexandria. In ages past, faced with a calamity in their world, a clan of people used a singular power to flee to ours.",
       "text": "อเล็กซานเดรียมีตำนานเก่าแก่เล่าขานกันอยู่ค่ะ ในอดีตอันไกลโพ้นยามต้องเผชิญกับมหันตภัยร้ายในโลกของพวกเขา ชนกลุ่มหนึ่งได้ใช้พลังพิเศษเฉพาะตัวเพื่อหลบหนีมายังโลกของพวกเรา"
     },
     {
-      "character": "Sphene",
+      "key": "thekeywhichmanifeststhispoweranswerstoferventdesiresdesperateallconsumingsupplicationsthathavegivenrisetomanyamiracle",
       "text_en": "The key which manifests this power answers to fervent desires. Desperate, all-consuming supplications that have given rise to many a miracle.",
       "text": "กุญแจซึ่งเป็นเครื่องปลดปล่อยพลังงานนี้จะตอบรับเจตจำนงและปณิธานอันแรงกล้า การอ้อนวอนอย่างเอาเป็นเอาตายเพื่อเอาตัวรอดเหล่านั้น ได้นำพาปาฏิหาริย์มานับครั้งไม่ถ้วนแล้ว"
     },
     {
-      "character": "Sphene",
+      "key": "thatkeyholdsthesecrettointerdimensionalfusionandunravelingitsmysterieswastheforemostmissionofthescientistsofpreservation",
       "text_en": "That key holds the secret to interdimensional fusion, and unraveling its mysteries was the foremost mission of the scientists of Preservation.",
       "text": "กุญแจดอกนั้นกำความลับในการหลอมรวมมิติเอาไว้ และการไขความลี้ลับของมันคือภารกิจสำคัญอันดับแรกของเหล่านักวิทยาศาสตร์แห่งกลุ่มเพรสเซอร์เวชันค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "alastheyfailedtofullygraspitsworkingsleavinguswithonlypartialcontroloverit",
       "text_en": "Alas, they failed to fully grasp its workings, leaving us with only partial control over it.",
       "text": "แต่น่าเสียดายที่พวกเขาไม่สามารถทำความเข้าใจวิธีใช้งานของมันได้อย่างสมบูรณ์แบบ จึงทำให้พวกเราควบคุมมันได้เพียงบางส่วนเท่านั้น"
     },
     {
-      "character": "Sphene",
+      "key": "neverthelessifimtosustaintheinhabitantsoflivingmemoryihavenochoicebuttocalluponitspower",
       "text_en": "Nevertheless, if I'm to sustain the inhabitants of Living Memory, I have no choice but to call upon its power.",
       "text": "แต่ถึงกระนั้นก็ตาม หากฉันต้องการยื้อชีวิตของเหล่าผู้พำนักในลิฟวิ่งเมโมรีต่อไป ฉันก็ไม่มีทางเลือกอื่นนอกจากต้องขอหยิบยืมพละกำลังของมันมาใช้ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "anddowhatwithit",
       "text_en": "And do what with it?",
       "text": "แล้วเธอจะเอาพลังงานนั้นไปทำอะไรกันล่ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "forhundredsofyearsitriedbutitwasalltonoavail",
       "text_en": "For hundreds of years I tried, but it was all to no avail.",
       "text": "ฉันเพียรพยายามลองผิดลองถูกมาเป็นเวลาหลายร้อยปี แต่ก็น่าเศร้าที่ไม่มีสิ่งใดประสบผลสำเร็จเลย"
     },
     {
-      "character": "Sphene",
+      "key": "mybenevolencedidnaughttoprotectmyrealm",
       "text_en": "My benevolence did naught to protect my realm...",
       "text": "ความเมตตาปรานีของฉันไม่สามารถช่วยปกป้องราชอาณาจักรของฉันได้เลยแม้แต่นิดเดียว..."
     },
     {
-      "character": "Sphene",
+      "key": "buticanstilltakeuparmsandfight",
       "text_en": "But I can still take up arms and fight.",
       "text": "แต่ตอนนี้ฉันสามารถหยิบจับอาวุธขึ้นมาและเข้าร่วมการสู้รบได้แล้วค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "ifbloodshedwillsavemysubjectstheniwillbecomehistorysmostbrutalqueen",
       "text_en": "If bloodshed will save my subjects, then I will become history's most brutal queen.",
       "text": "หากการนองเลือดสามารถรักษาชีวิตพสกนิกรของฉันเอาไว้ได้ ฉันก็พร้อมที่จะกลายเป็นราชินีที่โหดเหี้ยมที่สุดในหน้าประวัติศาสตร์ค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "wait",
       "text_en": "Wait!",
       "text": "เดี๋ยวก่อน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohsphene",
       "text_en": "Oh, Sphene...",
       "text": "โธ่ สฟีน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yougodsdamnedfool",
       "text_en": "You godsdamned fool...",
       "text": "ยัยคนโง่เอ๊ย..."
     },
     {
-      "character": "Alisaie",
+      "key": "whatyouredoingiswrongsphenenomatterhowhardyoutrytoconvinceyourselfotherwise",
       "text_en": "What you're doing is wrong, Sphene. No matter how hard you try to convince yourself otherwise...",
       "text": "สิ่งที่เธอทำอยู่น่ะมันผิดนะสฟีน ไม่ว่าเธอจะพยายามโน้มน้าวตัวเองว่ามันถูกต้องแค่ไหนก็ตาม..."
     },
     {
-      "character": "Alphinaud",
+      "key": "thatsuchathreatexistedinanotherreflectionwhenemetselchbadeyouseekdiscoverywasheawareofit",
       "text_en": "That such a threat existed in another reflection... When Emet-Selch bade you seek discovery, was he aware of it?",
       "text": "มีภัยคุกคามประเภทนี้แฝงอยู่ในโลกเงาสะท้อนอื่นด้วยงั้นเหรอ... ตอนที่เอเมท-เซลช์บอกให้พวกเราออกสำรวจเพื่อค้นพบสิ่งใหม่ๆ เขาจะรู้เรื่องนี้อยู่แล้วหรือเปล่านะครับ?"
     },
     {
-      "character": "Krile",
+      "key": "sphenehasthepotentialtowreakunimaginablehavocwiththekeywehavenotimetowaste",
       "text_en": "Sphene has the potential to wreak unimaginable havoc with the key. We have no time to waste.",
       "text": "สฟีนมีแนวโน้มที่จะใช้กุญแจสร้างหายนะที่ยากจะคาดเดาได้ค่ะ พวกเราไม่มีเวลาให้รีรอแล้วนะคะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thistrulybodesill",
       "text_en": "This truly bodes ill...",
       "text": "เรื่องนี้มันลางไม่ดีเลยล่ะครับ..."
     },
     {
-      "character": "Estinien",
+      "key": "nosoonerdowedealwithonethreat",
       "text_en": "No sooner do we deal with one threat...",
       "text": "ไม่ทันไรเพิ่งจะจัดการภัยคุกคามแรกเสร็จ ก็มีตัวต่อไปโผล่ขึ้นมาทันทีเลยนะ..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "father",
       "text_en": "Father...",
       "text": "คุณพ่อ..."
     },
     {
-      "character": "Erenville",
+      "key": "motherwhatshappenedtoyou",
       "text_en": "Mother? What's happened to you?",
       "text": "แม่ครับ? เกิดอะไรขึ้นกับแม่กันแน่?"
     },
     {
-      "character": "Y'shtola",
+      "key": "thatwomansphenewasitinalllikelihoodhertrueformliesinthereflectionyonder",
       "text_en": "That woman—Sphene, was it? In all likelihood, her true form lies in the reflection yonder.",
       "text": "ผู้หญิงคนนั้น—สฟีนใช่ไหมคะ? มีความเป็นไปได้สูงมากว่าร่างจริงของเธอจะอาศัยอยู่ในโลกเงาสะท้อนที่อยู่ฝั่งโน้น"
     },
     {
-      "character": "Y'shtola",
+      "key": "buthowtogoafterhernow",
       "text_en": "But how to go after her now...",
       "text": "แต่ตอนนี้พวกเราจะตามเธอไปได้อย่างไรกันล่ะ..."
     },
     {
-      "character": "Y'shtola",
+      "key": "cahciuamightknowsomethingbuthervesselceasedtofunctionwhentheportalclosed",
       "text_en": "Cahciua might know something, but her vessel ceased to function when the portal closed.",
       "text": "คุณคาชิว่าอาจจะรู้อะไรบางอย่างนะคะ แต่เครื่องจักรพกพาที่เป็นร่างสื่อของเธอดับการทำงานไปทันทีที่ประตูมิติปิดตัวลงค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "letusexamineitwithluckitwillyieldsomemuchneededclues",
       "text_en": "Let us examine it. With luck, it will yield some much-needed clues.",
       "text": "พวกเราลองเข้ามาตรวจดูร่างสื่อนี้เถอะค่ะ หากโชคดีมันอาจจะมีร่องรอยให้เบาะแสที่พวกเรากำลังต้องการอย่างหนักอยู่ก็ได้"
     },
     {
-      "character": "Y'shtola",
+      "key": "thekeytointerdimensionalfusionitdidnotseemsowondrousathingtome",
       "text_en": "The key to interdimensional fusion... It did not seem so wondrous a thing to me...",
       "text": "กุญแจสู่การหลอมรวมมิติ... มันดูไม่เหมือนสิ่งประดิษฐ์ที่มหัศจรรย์เลอเลิศในสายตาฉันเลยสักนิด..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "cahciuasaidthatsheoperateshervesselfromafar",
       "text_en": "Cahciua said that she operates her vessel from afar.",
       "text": "คาชิวาเคยบอกว่าเธอควบคุมร่างจักรกลสื่อสารนี้มาจากที่ห่างไกลนี่นา"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "couldsomethinghavebefallenher",
       "text_en": "Could something have befallen her!?",
       "text": "จะเกิดเรื่องไม่ดีอะไรขึ้นกับเธอหรือเปล่านะ!?"
     },
     {
-      "character": "Y'shtola",
+      "key": "thewordssphenespoketoyourmotherdidtheymeananythingtoyou",
       "text_en": "The words Sphene spoke to your mother—did they mean anything to you?",
       "text": "ถ้อยคำที่สฟีนคุยกับแม่ของคุณ—มีความหมายเฉพาะอะไรสำหรับคุณหรือเปล่า เอเรนวิลล์?"
     },
     {
-      "character": "Erenville",
+      "key": "thosewhocamefrommyvillagenoneofthemrememberedher",
       "text_en": "Those who came from my village... None of them remembered her.",
       "text": "พวกพ้องที่เดินทางมาจากหมู่บ้านเดียวกับผม... ไม่มีใครจำแม่ได้เลยสักคนครับ"
     },
     {
-      "character": "Erenville",
+      "key": "itsthesameaswhatwewitnessedhappentothosewhoknewnamikka",
       "text_en": "It's the same as what we witnessed happen to those who knew Namikka.",
       "text": "มันเป็นแบบเดียวกับสิ่งที่เราได้ร่วมเป็นพยานพบเจอมากับผู้คนที่เคยรู้จักนามิกก้าเลยครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thencahciuais",
       "text_en": "Then Cahciua is...",
       "text": "ถ้าอย่างนั้น คาชิวาก็..."
     },
     {
-      "character": "Erenville",
+      "key": "younoticedsomethingdidntyouwhateveritispleasetellme",
       "text_en": "You noticed something, didn't you? Whatever it is, please tell me.",
       "text": "คุณจับสังเกตอะไรบางอย่างได้ใช่ไหมครับคุณวาย'ชโตลา? ไม่ว่าเรื่องนั้นคืออะไร ช่วยบอกผมทีเถอะครับ"
     },
     {
-      "character": "Y'shtola",
+      "key": "whilespheneprojectedherselfontomachinescahciuacontrolledhersremotelybuttometheyappearedidenticalintheirexistence",
       "text_en": "While Sphene projected herself onto machines, Cahciua controlled hers remotely. But to me, they appeared identical in their existence.",
       "text": "ในขณะที่สฟีนฉายภาพจิตของตนลงสู่เครื่องจักร คาชิวากลับควบคุมร่างสื่อของเธอมาจากที่ห่างไกล แต่สำหรับฉันแล้ว รูปแบบการมีตัวตนของทั้งสองคนนั้นไม่มีข้อแตกต่างกันเลยค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "bothwereinorganicobjectssuffusedwithfaintamountsofaetherwhenthataetherfadedtheybecamelifelesshusks",
       "text_en": "Both were inorganic objects suffused with faint amounts of aether. When that aether faded, they became lifeless husks.",
       "text": "ทั้งสองร่างเป็นวัตถุอนินทรีย์ที่ผสมผสานพลังงานอีเธอร์เจือจางบางเบา และเมื่ออีเธอร์เหล่านั้นสลายตัวจางหายไป พวกมันจึงกลายเป็นเพียงเปลือกนอกที่ไร้ชีวิตชีวา"
     },
     {
-      "character": "Y'shtola",
+      "key": "andasweallsawthishappenedtoboththemomenttheportalclosed",
       "text_en": "And as we all saw, this happened to both the moment the portal closed...",
       "text": "และอย่างที่พวกเราได้เห็นร่วมกัน สิ่งนี้เกิดขึ้นกับทั้งสองร่างในเสี้ยววินาทีที่ประตูมิติปิดตัวลง..."
     },
     {
-      "character": "Alisaie",
+      "key": "socahciuawasoperatinghervesselfromthereflectionbeyond",
       "text_en": "So Cahciua was operating her vessel from the reflection beyond?",
       "text": "แสดงว่าคุณคาชิวาควบคุมเครื่องสื่อสารนี้มาจากโลกเงาสะท้อนที่อยู่ฝั่งโน้นสินะ?"
     },
     {
-      "character": "Alisaie",
+      "key": "butifnoneofherfriendsandacquaintanceshererememberherthen",
       "text_en": "But if none of her friends and acquaintances here remember her, then...",
       "text": "แต่ถ้ามิตรสหายและคนคุ้นเคยที่นี่ไม่มีใครจำเธอได้เลยสักคนล่ะก็..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theendlessthosewhoarerecreatedfrommemoriesofthedeparted",
       "text_en": "The Endless... Those who are recreated from memories of the departed.",
       "text": "เอ็นด์เลส... พวกที่ถูกสรรค์สร้างขึ้นใหม่จากความทรงจำของผู้ที่ล่วงลับไปแล้วสินะ"
     },
     {
-      "character": "Erenville",
+      "key": "allthistimemymotherwasdeadshefooledusall",
       "text_en": "All this time, my mother was dead. She fooled us all.",
       "text": "ที่แท้ตลอดเวลาที่ผ่านมา แม่ผมเสียชีวิตไปแล้ว... แม่หลอกพวกเราทุกคนจนสนิทใจเลย"
     },
     {
-      "character": "Y'shtola",
+      "key": "spheneforonedoesnotseemtothinkoftheminthatway",
       "text_en": "Sphene, for one, does not seem to think of them in that way.",
       "text": "อย่างน้อย สฟีนก็ไม่ได้มองว่าพวกเขาเป็นเช่นนั้นหรอกค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "noshelovesthemlikeshedoesallhercitizensandshelldoanythingtoprotectthem",
       "text_en": "No. She loves them like she does all her citizens, and she'll do anything to protect them.",
       "text": "อืม เธอรักพวกเขาเหมือนกับที่รักพลเมืองคนอื่นๆ ของเธอ และเธอก็ยอมทำทุกอย่างเพื่อปกป้องพวกเขา"
     },
     {
-      "character": "Y'shtola",
+      "key": "suchasplunderingaetherfromthesourcealaszoraaljahadhisownagendaandspoiledtheplan",
       "text_en": "Such as plundering aether from the Source. Alas, Zoraal Ja had his own agenda and spoiled the plan.",
       "text": "เช่นการปล้นสะดมพลังงานอีเธอร์จากโลกเดิมของเรา น่าเสียดายที่โซราล จามีแผนการส่วนตัวของเขาเองจึงทำให้เป้าหมายนั้นพังพินาศลง"
     },
     {
-      "character": "Y'shtola",
+      "key": "butnowthatshepossessesthekeyshecouldtargetotherreflectionswithoutourinterferencereflectionswhosepeoplehavenoideawhatsheiswillingtodo",
       "text_en": "But now that she possesses the key, she could target other reflections without our interference. Reflections whose people have no idea what she is willing to do.",
       "text": "แต่ในเมื่อตอนนี้นางได้ครอบครองกุญแจไปแล้ว นางก็อาจจะเปลี่ยนเป้าหมายไปเป็นโลกเงาสะท้อนอื่นโดยที่ไม่มีพวกเราขัดขวาง โลกที่ประชาชนไม่เคยล่วงรู้มาก่อนเลยว่านางยอมทำเรื่องถึงขนาดไหนค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thenthepeopleofthesourcearenottheonlyonesindangerwemuststopher",
       "text_en": "Then the people of the Source are not the only ones in danger. We must stop her.",
       "text": "ถ้าเป็นเช่นนั้น ผู้คนบนโลกเดิมก็ไม่ใช่กลุ่มเดียวที่กำลังตกอยู่ในอันตรายแล้วล่ะครับ พวกเราต้องขัดขวางเธอให้ได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wehavetogowheresphenehasgoneiwanttotalktoheragainandperhapswellfindcahciuaaswell",
       "text_en": "We have to go where Sphene has gone. I want to talk to her again. And perhaps we'll find Cahciua as well...",
       "text": "พวกเราต้องตามไปในจุดที่สฟีนไป ข้าอยากพูดคุยกับเธออีกสักครั้ง และบางทีพวกเราอาจจะได้เบาะแสเรื่องของคาชิวาด้วย..."
     },
     {
-      "character": "Y'shtola",
+      "key": "withthegateclosedweneedtofindanalternatemeansofpassageiwilllookintoit",
       "text_en": "With the gate closed, we need to find an alternate means of passage. I will look into it.",
       "text": "ในเมื่อประตูมิติปิดลงแล้ว พวกเราจำเป็นต้องค้นหาเส้นทางข้ามมิติสายอื่นแทน เดี๋ยวฉันจะลองหาเบาะแสดูค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyou",
       "text_en": "Thank you.",
       "text": "ขอบใจนะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "letusbeginbyinvestigatingthisplacetheremaybecluesrelatingtowhatliesbeyond",
       "text_en": "Let us begin by investigating this place. There may be clues relating to what lies beyond.",
       "text": "พวกเราเริ่มต้นศึกษาและตรวจสอบสถานที่แห่งนี้กันก่อนเถอะครับ บางทีอาจจะมีร่องรอยเบาะแสเกี่ยวกับสิ่งที่อยู่ฝั่งโน้นหลงเหลืออยู่บ้าง"
     },
     {
-      "character": "Erenville",
+      "key": "letmehelpilldowhateveryouneedmetodoanythingatall",
       "text_en": "Let me help. I'll do whatever you need me to do—anything at all!",
       "text": "ให้ผมช่วยด้วยนะครับ! ผมยินดีทำหน้าที่ทุกอย่างตามที่คุณต้องการ—อะไรก็ได้หมดเลยครับ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "ofcoursemyfriendyourknowledgeandexpertisewouldbemostwelcome",
       "text_en": "Of course, my friend. Your knowledge and expertise would be most welcome.",
       "text": "ได้แน่นอนอยู่แล้วครับสหาย ความรู้และความเชี่ยวชาญของคุณเป็นที่ต้อนรับและช่วยพวกเราได้มากอย่างยิ่งเลยล่ะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "iexpecttheinvestigationwilltaketimeperhapsyoudliketoheadbackbelowwithgulooljaandgetsomerest",
       "text_en": "I expect the investigation will take time. Perhaps you'd like to head back below with Gulool Ja and get some rest.",
       "text": "ฉันคิดว่าการสำรวจตรวจสอบคงต้องใช้เวลาพอสมควรเลยล่ะ ลามาตี้พาหนูกูลูล จากลับลงไปพักผ่อนข้างล่างก่อนจะดีกว่านะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsnotabadideawedoneedtosharethesedevelopmentswiththoseinthebackroomaswell",
       "text_en": "That's not a bad idea. We do need to share these developments with those in the Backroom as well.",
       "text": "เป็นความคิดที่ดีเหมือนกันแฮะ พวกเราต้องนำความคืบหน้าเรื่องราวทั้งหมดนี้ไปบอกเล่าให้ฝั่งเดอะ แบ็ครูมได้รับรู้ด้วยล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "comeonguloolja",
       "text_en": "Come on, Gulool Ja.",
       "text": "มาเถอะ กูลูล จา"
     },
     {
-      "character": "Alisaie",
+      "key": "youtooforenameyouvemorethandoneyourpartfornowsoleavethistous",
       "text_en": "You too, Forename . You've more than done your part for now, so leave this to us.",
       "text": "เธอเองก็ด้วยนะ [ชื่อ] เธอช่วยพวกเราจนเกินหน้าที่แล้วล่ะ เรื่องการสำรวจยกให้เป็นหน้าที่พวกเราจัดการเองเถอะนะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "illbefineyoudontneedtoworryaboutme",
       "text_en": "I'll be fine. You don't need to worry about me.",
       "text": "ผมไม่เป็นไรครับ พี่ๆ ไม่ต้องเป็นห่วงผมหรอกนะครับ"
     },
     {
-      "character": "Shale",
+      "key": "iwaslivingalifeofexcessesboundforanearlygravewhencahciuacamealongthoughiwasacompletestrangershetookmeunderherwingandsetmestraight",
       "text_en": "I was living a life of excesses, bound for an early grave, when Cahciua came along. Though I was a complete stranger, she took me under her wing and set me straight.",
       "text": "ฉันเคยใช้ชีวิตเหลวแหลกสุรุ่ยสุร่ายจนจวนตัวจะลงโลงก่อนวัยอันควรแล้วล่ะค่ะ โชคดีที่คุณคาชิวาเข้ามาช่วยไว้ ถึงแม้ฉันจะเป็นคนแปลกหน้าแต่เธอก็เมตตาโอบอุ้มและช่วยนำทางให้ฉันกลับมาเป็นผู้เป็นคนได้สำเร็จ"
     },
     {
-      "character": "Shale",
+      "key": "itwasoutofgratitudethatijoinedoblivionbuticantimagineanyotherlifenowiowehereverythingihaveanditpainsmethaticouldntsaygoodbye",
       "text_en": "It was out of gratitude that I joined Oblivion, but I can't imagine any other life now. I owe her everything I have, and it pains me that I couldn't say good-bye...",
       "text": "เพราะความซาบซึ้งใจฉันถึงเข้ามาร่วมกลุ่มอ็อบลิเวียน และจนถึงตอนนี้ฉันก็นึกภาพชีวิตในรูปแบบอื่นไม่ออกแล้วล่ะค่ะ ฉันติดค้างมหากรุณาคุณของเธอทุกอย่าง และมันทำให้ฉันเจ็บปวดลึกๆ ที่ไม่มีโอกาสบอกลาเลยสักคำ..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "illbefineyoudontneedtoworryaboutme",
       "text_en": "I'll be fine. You don't need to worry about me.",
       "text": "ผมไม่เป็นไรครับ พี่ๆ ไม่ต้องเป็นห่วงผมหรอกนะครับ"
     },
     {
-      "character": "Genolt",
+      "key": "timeslikethisyevegottokeepyerhandsmovin",
       "text_en": "Times like this, ye've got to keep yer hands movin'.",
       "text": "เวลาเผชิญหน้ากับเรื่องแบบนี้ มีแต่ต้องขยับมือทำงานให้วุ่นเข้าไว้ล่ะนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "somuchhashappenedandsoquicklyimstillcatchingupmentally",
       "text_en": "So much has happened and so quickly, I'm still catching up mentally.",
       "text": "เรื่องราวมันเกิดขึ้นเยอะแยะและรวดเร็วมากเสียจนฉันแทบตามอารมณ์และจิตใจไม่ทันเลยล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butwhereitconcernszoraaljaihavenoregretsimademychoiceanddidwhatihadtodo",
       "text_en": "But where it concerns Zoraal Ja, I have no regrets. I made my choice and did what I had to do.",
       "text": "แต่ถ้าเป็นเรื่องเกี่ยวกับโซราล จาล่ะก็ ฉันไม่มีความรู้สึกนึกเสียใจในภายหลังเลยล่ะ ฉันได้เลือกหนทางของข้าและได้ทำสิ่งสำคัญที่สมควรทำเสร็จเรียบร้อยแล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ionlywishicouldhavestoppedsphenetoostoppedherfromwalkinghermisguidedpath",
       "text_en": "I only wish I could have stopped Sphene too. Stopped her from walking her misguided path...",
       "text": "ฉันเพียงแค่อยากจะหาทางหยุดยั้งสฟีนได้เช่นกัน หยุดยั้งเธอไม่ให้เดินทางบนหนทางที่ผิดเพี้ยนไปแบบนั้น..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sighicoulddefinitelyusesomerest",
       "text_en": "<sigh> I could definitely use some rest...",
       "text": "<ถอนหายใจ> ฉันคิดว่าฉันต้องการการพักผ่อนจริงๆ จังๆ แล้วล่ะ..."
     }

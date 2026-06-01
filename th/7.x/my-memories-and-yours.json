@@ -1,546 +1,533 @@
 {
-  "id": "my-memories-and-yours",
-  "wiki_path": "/wiki/My_Memories_and_Yours",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
-  "patch": "7.3",
-  "title_en": "My Memories and Yours",
-  "title": "ความทรงจำของฉันและเธอ",
-  "level": "100",
-  "location": "Solution Nine(X:9.6,Y:21.8)",
-  "npc_start": "Sphene",
+  "quest_id": "my-memories-and-yours",
   "dialogues": [
     {
-      "character": "Krile",
+      "key": "iwillholdontogeodesgunifyoucouldtakethesoulcellplease",
       "text_en": "I will hold on to Geode's gun... If you could take the soul cell, please...",
       "text": "ฉันจะช่วยดูแลเก็บรักษาปืนของคุณจีโอดเอาไว้เองค่ะ... ส่วนเซลล์ดวงวิญญาณนั่น ฝากคุณช่วยรับไว้ทีนะคะ..."
     },
     {
-      "character": "Sphene",
+      "key": "weshouldreturntothebackroomshaleandtheothersneedtoknowwhathappened",
       "text_en": "We should return to the Backroom. Shale and the others need to know what happened.",
       "text": "พวกเราควรกลับไปที่เดอะแบ็ครูม (Backroom) กันได้แล้วค่ะ เชลและคนอื่นๆ จำเป็นต้องทราบว่าเกิดอะไรขึ้นที่นี่ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "yesillaskwayakkwetomeetusthereaswell",
       "text_en": "Yes, I'll ask Wayakkwe to meet us there as well.",
       "text": "ค่ะ เดี๋ยวฉันจะแจ้งให้คุณวายักเวเดินทางไปสมทบกับพวกเราที่นั่นด้วยเช่นกันนะคะ"
     },
     {
-      "character": "Shale",
+      "key": "ourdeargeode",
       "text_en": "Our dear Geode...",
       "text": "คุณจีโอดที่แสนดีของพวกเรา..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "thesoldiersifonlyidbeenabletocontrolthem",
       "text_en": "The soldiers... If only I'd been able to control them...",
       "text": "พวกทหารจักรกลเหล่านั้น... ถ้าเพียงแต่ผมจะควบคุมพวกมันไว้ได้ดีกว่านี้ละก็..."
     },
     {
-      "character": "Nostalgia",
+      "key": "thisisntyourfaultgulooljatheblamelieswithcalyxandwithhimalone",
       "text_en": "This isn't your fault, Gulool Ja. The blame lies with Calyx, and with him alone!",
       "text": "ไม่ใช่ความผิดของเธอเลยนะ กูลูล จา คนที่ต้องรับผิดชอบเรื่องทั้งหมดนี้คือคาลิกซ์ และต้องเป็นเขาเพียงคนเดียวเท่านั้น!"
     },
     {
-      "character": "Nostalgia",
+      "key": "itsallsosenseless",
       "text_en": "It's all so senseless...",
       "text": "มันช่างไร้เหตุผลและบ้าบอสิ้นดี..."
     },
     {
-      "character": "Nostalgia",
+      "key": "whyforcehisplansuponuswhenwerealreadyhappylivingourliveswhatdoesheeventhinklifeis",
       "text_en": "Why force his plans upon us when we're already happy, living our lives? What does he even think life is!?",
       "text": "ทำไมเขาต้องมาบังคับยัดเยียดแผนการของตัวเองใส่พวกเราด้วย ทั้งๆ ที่พวกเรากำลังใช้ชีวิตกันอย่างมีความสุขอยู่แท้ๆ? เขาคิดว่าชีวิตคนเรามันเป็นของเล่นหรือยังไงกัน!?"
     },
     {
-      "character": "Nostalgia",
+      "key": "illneverforgivecalyxfordoingthis",
       "text_en": "I'll never forgive Calyx for doing this...",
       "text": "ฉันจะไม่มีวันยกโทษให้คาลิกซ์เด็ดขาดที่ทำเรื่องแบบนี้..."
     },
     {
-      "character": "Nostalgia",
+      "key": "ormyselfforbeingpowerlesstostophim",
       "text_en": "Or myself for being powerless to stop him!",
       "text": "และไม่มีวันยกโทษให้ตัวเองด้วยที่อ่อนแอจนไม่มีปัญญาจะขัดขวางเขาได้!"
     },
     {
-      "character": "Wayakkwe",
+      "key": "waitwhereareyougoing",
       "text_en": "Wait, where are you going?",
       "text": "เดี๋ยวก่อนสิ เธอจะไปไหนน่ะ?"
     },
     {
-      "character": "Nostalgia",
+      "key": "toclearmyheaddontworryiwontdoanythingstupid",
       "text_en": "To clear my head. Don't worry, I won't do anything stupid.",
       "text": "ไปสูดอากาศข้างนอกให้หัวสมองโล่งหน่อยน่ะ ไม่ต้องห่วงหรอก ฉันไม่ทำอะไรบ้าๆ หรอกนะ"
     },
     {
-      "character": "Krile",
+      "key": "stayhereandgetsomerestillmakesurenostalgiastaysoutoftrouble",
       "text_en": "Stay here and get some rest. I'll make sure Nostalgia stays out of trouble.",
       "text": "พักผ่อนร่างกายอยู่ที่นี่เถอะนะคะ เดี๋ยวฉันจะเป็นฝ่ายตามไปดูแลไม่ให้นอสทัลเจียไปก่อเรื่องเดือดร้อนเองค่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "thankyou",
       "text_en": "Thank you...",
       "text": "ขอบคุณมากนะคะ..."
     },
     {
-      "character": "Shale",
+      "key": "thingswouldvebeenfarworseifyouandgeodehadntrushedintheremanypeoplearestillalivebecauseofyou",
       "text_en": "Things would've been far worse if you and Geode hadn't rushed in there. Many people are still alive because of you.",
       "text": "สถานการณ์คงจะเลวร้ายย่ำแย่กว่านี้มากเลยค่ะ ถ้าเกิดว่าคุณกับคุณจีโอดไม่ได้รีบเร่งบุกเข้าไปช่วยเหลือในตอนนั้น ผู้คนตั้งมากมายยังมีชีวิตรอดอยู่ได้ก็เพราะความช่วยเหลือของคุณนะคะ"
     },
     {
-      "character": "Shale",
+      "key": "andafteraddingwhatyoudiscoveredtotheleadswevedugupimhopefulwecandeterminewherecalyxishiding",
       "text_en": "And after adding what you discovered to the leads we've dug up, I'm hopeful we can determine where Calyx is hiding.",
       "text": "และพอนำข้อมูลที่คุณพบมารวมเข้ากับเบาะแสที่พวกเราขุดคุ้ยเจอ ฉันก็หวังว่าจะสามารถระบุตำแหน่งที่ซ่อนตัวของคาลิกซ์ได้สำเร็จค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "butnotrightnow",
       "text_en": "But...not right now.",
       "text": "แต่ว่า... คงไม่ใช่ในตอนนี้ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "weneedtimebeforewecanmoveonjustalittletime",
       "text_en": "We need time before we can move on. Just a little time...",
       "text": "พวกเราจำเป็นต้องขอเวลาทำใจสักหน่อยก่อนที่จะก้าวเดินต่อไปได้ค่ะ ขอเวลาแค่เพียงเล็กน้อยเท่านั้น..."
     },
     {
-      "character": "Oblivion Member",
+      "key": "ohgeode",
       "text_en": "Oh, Geode...",
       "text": "โธ่ คุณจีโอด..."
     },
     {
-      "character": "Genolt",
+      "key": "theybroughtbackgeodesgunitsroundswerespentanitsbarrelwasscorchedsoyecanbesurehewentdownfightin",
       "text_en": "They brought back Geode's gun... Its rounds were spent an' its barrel was scorched, so ye can be sure he went down fightin'.",
       "text": "พวกนั้นนำปืนของคุณจีโอดกลับมาให้ด้วยโว้ย... กระสุนในรังเพลิงถูกยิงออกไปจนเกลี้ยงแถมลำกล้องยังไหม้เกรียมเป็นเขม่าปืนอีก เพราะงั้นมั่นใจได้เลยว่าก่อนตายแกสู้อย่างสุดใจขาดดิ้นแน่นอนว่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "iamtoldthatthememberstaskedwithkeepingresidentssafereturnedwiththebodyoftheircomradetheyallrisksomuch",
       "text_en": "I am told that the members tasked with keeping residents safe returned with the body of their comrade. They all risk so much...",
       "text": "ฉันได้รับรายงานว่ากลุ่มสมาชิกที่ได้รับมอบหมายหน้าที่ดูแลความปลอดภัยของประชาชน นำพาร่างของสหายผู้ล่วงลับกลับมาแล้วค่ะ ทุกคนยอมเผชิญความเสี่ยงที่ยิ่งใหญ่เหลือเกิน..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "wemadeaswiftpatroloftheotherlevelsandconfirmedthatcalyxhadcarriedoutanumberoftargetedattacksalltoharvestmoreaetheritseems",
       "text_en": "We made a swift patrol of the other levels, and confirmed that Calyx had carried out a number of targeted attacks. All to harvest more aether, it seems...",
       "text": "พวกเราลาดตระเวนสั้นๆ ตามชั้นอื่นๆ ของ Everkeep และยืนยันได้แล้วว่าคาลิกซ์ดำเนินการบุกโจมตีแบบเจาะจงเป้าหมายในหลายจุดจริงๆ ครับ ดูเหมือนว่าเป้าหมายทั้งหมดก็เพื่อต้องการชิงเก็บเกี่ยวเอเธอร์ให้ได้มากขึ้นครับ..."
     },
     {
-      "character": "Shale",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Gulool Ja",
+      "key": "igotbackcontrolofthesentriesprobablyaroundthesametimecalyxleftimsorryicouldntstophim",
       "text_en": "I got back control of the sentries...probably around the same time Calyx left. I'm sorry, I couldn't stop him...",
       "text": "ผมเพิ่งจะกู้สิทธิ์ระบบควบคุมพวกทหารยามจักรกลกลับมาได้ครับ... น่าจะเป็นเวลาเดียวกันกับตอนที่คาลิกซ์ล่าถอยเดินทางกลับไปนั่นแหละครับ ผมขอโทษนะครับที่ขัดขวางเขาไว้ไม่ได้..."
     },
     {
-      "character": "Y'shtola",
+      "key": "iassumeyouknowbetterbynowbutihopeyourenotplanningtotryanythingaloneweareallherewithyou",
       "text_en": "I assume you know better by now, but I hope you're not planning to try anything alone. We are all here with you.",
       "text": "ฉันคิดว่าในตอนนี้คุณคงเข้าใจสถานการณ์ดีแล้วนะคะ แต่อย่างไรก็ตาม ฉันหวังว่าคุณไม่ได้กำลังคิดจะลุยทำอะไรตามลำพังคนเดียวนะคะ พวกเราทุกคนล้วนยืนหยัดอยู่เคียงข้างคุณเสมอค่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "ivespokenwithwuklamattheyvecuttheirmeetingshorttodealwiththeaftermathofthislatestviolence",
       "text_en": "I've spoken with Wuk Lamat. They've cut their meeting short to deal with the aftermath of this latest violence.",
       "text": "ฉันเพิ่งคุยกับวุค ลามัต มาน่ะ ทางฝั่งนั้นยอมยกเลิกการประชุมกลางคันเพื่อเร่งเข้าจัดการรับมือกับผลกระทบจากความรุนแรงครั้งล่าสุดนี้แล้วล่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "anothercomradegonesomedaysitsalmostmorethanicanbear",
       "text_en": "Another comrade gone. Some days it's almost more than I can bear.",
       "text": "ต้องสูญเสียสหายร่วมรบไปอีกคนแล้วสินะคะ บางวันความโศกเศร้ามันก็หนักหนาเกินกว่าที่ฉันจะทนทานไหวจริงๆ ค่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "geodewashewasanolderbrothertonostalgiaandme",
       "text_en": "Geode was... He was an older brother to Nostalgia and me.",
       "text": "คุณจีโอดน่ะ... เขาเปรียบเสมือนพี่ชายแท้ๆ ของนอสทัลเจียและฉันเลยล่ะค่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "shaleknewhimlongerthoughandissurelytakingitthehardestandthatsontopofwhathappenedwithcahciua",
       "text_en": "Shale knew him longer, though, and is surely taking it the hardest. And that's on top of what happened with Cahciua...",
       "text": "แต่เชลรู้จักเขามาเนิ่นนานยิ่งกว่าพวกเราเสียอีก ตอนนี้เธอคงจะเศร้าโศกเสียใจและทนทุกข์ทรมานที่สุดอย่างแน่นอนค่ะ แถมเรื่องร้ายนี้ยังมาเกิดขึ้นซ้ำเติมหลังจากเรื่องของคุณคาชิวา (Cahciua) อีก..."
     },
     {
-      "character": "Wayakkwe",
+      "key": "doyouthinkyoucouldcheckonherseehowshesdoingshesliketoputonabravefaceifitsmeormysister",
       "text_en": "Do you think you could check on her? See how she's doing? She's like to put on a brave face if it's me or my sister.",
       "text": "คุณพอจะช่วยไปเยี่ยมนั่งคุยกับเธอหน่อยได้ไหมคะ? ไปดูว่าสภาพจิตใจเธอเป็นอย่างไรบ้างน่ะค่ะ เพราะถ้าเป็นฉันหรือน้องสาวของฉันไปทักทาย เธอคงจะฝืนยิ้มทำเป็นเข้มแข็งไม่ยอมแสดงความอ่อนแอออกมาแน่ๆ ค่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "ohwehaveisadoraandmilosunderguardsothatsonelessthingtoworryabout",
       "text_en": "Oh, we have Isadora and Milos under guard, so...that's one less thing to worry about.",
       "text": "อ้อ ทางฝั่งอิซาดอร่ากับไมลอสพวกเราส่งทหารไปคอยคุ้มกันดูแลแล้วค่ะ... เพราะงั้นเรื่องนั้นก็หมดห่วงไปได้เปลาะหนึ่งค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "apologiesmymindwaselsewhere",
       "text_en": "Apologies. My mind was elsewhere.",
       "text": "ขอโทษด้วยนะคะ พอดีฉันใจลอยไปหน่อยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "weneedtopressonwiththehuntforcalyxbuticantseemtofocusishouldbebetterthanthisiknow",
       "text_en": "We need to press on with the hunt for Calyx, but I can't seem to focus. I should be better than this, I know...",
       "text": "พวกเราจำเป็นต้องเร่งสืบหาแกะรอยตามล่าคาลิกซ์ต่อ แต่ตอนนี้ฉันกลับไม่มีสมาธิลุยงานเลยค่ะ ฉันควรจะทำหน้าที่ได้ดีกว่านี้นะคะ..."
     },
     {
-      "character": "Shale",
+      "key": "youcanthelpyourselfcanyoustilliappreciatetheconcern",
       "text_en": "You can't help yourself, can you? Still, I appreciate the concern.",
       "text": "คุณนี่ชอบอดรนทนเฉยไม่ไหวและเข้ามาวุ่นวายเรื่องคนอื่นเสมอเลยนะคะ แต่ก็นั่นแหละค่ะ ขอบคุณสำหรับความห่วงใยนะคะ"
     },
     {
-      "character": "Shale",
+      "key": "yourerightioughttoheedmyownwordsasitstandsimofnousetoanyone",
       "text_en": "You're right. I ought to heed my own words. As it stands, I'm of no use to anyone.",
       "text": "คุณพูดถูกค่ะ ฉันควรจะตระหนักและทำตามคำแนะนำของตัวเองเสียที ขืนเป็นแบบนี้ต่อไป ฉันคงไม่มีประโยชน์และช่วยทำอะไรให้ใครไม่ได้แน่ๆ ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "cahciuausedtosaythebestthingtodowithgriefwastoletitallout",
       "text_en": "Cahciua used to say the best thing to do with grief was to let it all out.",
       "text": "เมื่อก่อนคุณคาชิวาชอบพูดเสมอว่า วิธีจัดการกับความเศร้าโศกที่ดีที่สุดคือการระบายมันออกมาให้หมดเปลือกค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "soithinkilltakemyselfovertoearthenskyandsaymygoodbyestogeode",
       "text_en": "So, I think I'll take myself over to Earthen Sky and say my good-byes to Geode...",
       "text": "เพราะอย่างนั้น ฉันคิดว่าจะเดินทางไปที่เอิร์ทเทน สกาย (Earthen Sky) เพื่อไปเอ่ยคำอำลากับคุณจีโอดเป็นครั้งสุดท้ายสักหน่อยค่ะ..."
     },
     {
-      "character": "Shale",
+      "key": "whydontyoucomealongicouldusesomeonetoblubbertoifyouveashouldertospare",
       "text_en": "Why don't you come along? I could use someone to blubber to if you've a shoulder to spare.",
       "text": "คุณอยากจะร่วมเดินทางไปด้วยกันไหมคะ? ฉันคงต้องการใครสักคนไว้คอยซับน้ำตาหรือให้ระบายความอัดอั้นตันใจให้ฟัง ถ้าคุณพอมีเวลาและยินดีจะรับฟังน่ะค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "rightthenletsgetoutofeverkeepforabit",
       "text_en": "Right, then... Let's get out of Everkeep for a bit.",
       "text": "ถ้าอย่างนั้น... พวกเราออกไปข้างนอกเอเวอร์คีปกันสักพักเถอะค่ะ"
     },
     {
-      "character": "Oblivion Guard",
+      "key": "wevedecidedtokeepthesoldiersherearmedtodriveawayanywildbeaststhatmightwandertooclosetoeverkeep",
       "text_en": "We've decided to keep the soldiers here armed to drive away any wild beasts that might wander too close to Everkeep.",
       "text": "พวกเราตัดสินใจเตรียมอาวุธยุทโธปกรณ์ให้พวกทหารจักรกลไว้เหมือนเดิม เพื่อคอยขับไล่พวกอสุรกายสัตว์ป่าที่อาจจะเดินเพ่นพ่านเข้ามาใกล้เขตเอเวอร์คีปครับ"
     },
     {
-      "character": "Oblivion Guard",
+      "key": "butseeingashowpeopleliveintheareaaswellweretakingturnspatrollingitweallhavethecodeforemergencyshutdownsowecanhandleanysurprises",
       "text_en": "But seeing as how people live in the area as well, we're taking turns patrolling it. We all have the code for emergency shutdown, so we can handle any surprises.",
       "text": "แต่เมื่อคำนึงถึงว่ามีชาวบ้านอาศัยอยู่ในแถบพื้นที่ลาดตระเวนนี้ด้วย พวกเราจึงผลัดเปลี่ยนเวรกันเดินตรวจตราครับ พวกเราทุกคนมีรหัสคำสั่งหยุดการทำงานฉุกเฉินอยู่แล้ว ดังนั้นหากเกิดเรื่องไม่คาดฝันอะไรขึ้น ก็พร้อมจะรับมือและระงับเหตุได้ทันท่วงทีครับ"
     },
     {
-      "character": "Shale",
+      "key": "itsafairtrekonfootsoivearrangedforacoupleofairwheelers",
       "text_en": "It's a fair trek on foot, so I've arranged for a couple of air-wheelers.",
       "text": "ระยะทางเดินเท้าค่อนข้างไกลพอดูเลยค่ะ ฉันก็เลยจัดหายานลอยฟ้า (air-wheeler) สองคันไว้รอท่าเรียบร้อยแล้วค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "theyvehadtheircommunicationsmodulesremovedsoevencalyxshouldntbeabletoseizecontrolofthemsaythewordandwellsetoff",
       "text_en": "They've had their communications modules removed, so even Calyx shouldn't be able to seize control of them. Say the word, and we'll set off.",
       "text": "ยานพวกนี้ถูกถอดระบบการสื่อสารออกไปแล้วค่ะ ดังนั้นต่อให้เป็นคาลิกซ์ก็ไม่มีทางเจาะระบบเข้ามาควบคุมพาหนะได้แน่นอนค่ะ ถ้าคุณพร้อมแล้วก็ส่งสัญญาณบอกมาได้เลย เดี๋ยวพวกเราจะออกเดินทางกันค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "readywellbeflyingclosetothepylonssofollowmylead",
       "text_en": "Ready? We'll be flying close to the pylons, so follow my lead.",
       "text": "พร้อมหรือยังคะ? พวกเราจะบินเลียบไปตามแนวเสาส่งสัญญาณไฟฟ้านะคะ ขี่ตามฉันมาได้เลยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "theseairwheelersaregenoltsbabiesyouwontfindasmootherrideinallofeverkeep",
       "text_en": "These air-wheelers are Genolt's babies. You won't find a smoother ride in all of Everkeep.",
       "text": "ยานลอยฟ้าพวกนี้คือผลงานชิ้นรักชิ้นโปรดฝีมือเกนอลต์เลยล่ะค่ะ คุณไม่มีทางหารุ่นที่ขับขี่ได้นุ่มนวลลื่นไหลกว่านี้ในเอเวอร์คีปอีกแล้วค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "foryearsnowivebeentakingoneoutforaturnwheneverineededtolightenmymood",
       "text_en": "For years now, I've been taking one out for a turn whenever I needed to lighten my mood.",
       "text": "หลายปีที่ผ่านมานี้ เวลาที่ฉันรู้สึกหดหู่ใจและต้องการผ่อนคลายอารมณ์ให้ดีขึ้น ฉันก็มักจะเอายานพวกนี้ออกไปขับรถเล่นตลอดเลยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "sometimesgeodewouldcomealongtooandwedendupracing",
       "text_en": "Sometimes Geode would come along, too, and we'd end up racing.",
       "text": "บางครั้งคุณจีโอดก็จะแวะมาเล่นสนุกด้วยเหมือนกัน แล้วสุดท้ายพวกเราก็มักจะจบลงด้วยการแข่งความเร็วกันค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "doesthatsurpriseyouourfriendshipalwayshadacompetitiveedge",
       "text_en": "Does that surprise you? Our friendship always had a competitive edge.",
       "text": "เรื่องนี้ทำให้คุณแปลกใจงั้นเหรอคะ? หึๆ มิตรภาพระหว่างฉันกับเขามักจะมีความท้าทายแข่งขันชิงดีชิงเด่นกันอยู่ตลอดนั่นแหละค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "wewouldoftentalkabouthowonedaywemightflyourwheelersoutsidethedome",
       "text_en": "We would often talk about how, one day, we might fly our wheelers outside the dome...",
       "text": "พวกเรามักจะพูดคุยหารือกันบ่อยๆ ว่า วันหนึ่งพวกเราอาจจะขับขี่ยานลอยฟ้าเหล่านี้ออกไปโบยบินนอกโดมสายฟ้าได้..."
     },
     {
-      "character": "Shale",
+      "key": "almosttherebesurethegroundisclearbeforeyoutouchdown",
       "text_en": "...Almost there. Be sure the ground is clear before you touch down.",
       "text": "...ใกล้จะถึงแล้วค่ะ ตรวจดูให้ดีก่อนนะคะว่าพื้นดินปลอดภัยดีแล้วก่อนจะจอดร่อนลงพื้นค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "phewthatshelpedclearmyheadatouch",
       "text_en": "Phew... That's helped clear my head a touch.",
       "text": "เฮ้อ... การได้ออกเดินทางแบบนี้ช่วยให้หัวสมองของฉันปลอดโปร่งแจ่มใสขึ้นเยอะเลยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "youknowforenameyoumightbethefirstpersoniveriddenwithwhowasntanoblivionrecruit",
       "text_en": "You know, Forename , you might be the first person I've ridden with who wasn't an Oblivion recruit.",
       "text": "นี่คุณทราบไหมคะ [ชื่อ] คุณน่าจะเป็นเพื่อนร่วมทางคนแรกของฉันที่ไม่ได้เป็นสมาชิกใหม่กลุ่มอ็อบลิเวียนเลยนะคะ"
     },
     {
-      "character": "Shale",
+      "key": "asfarasirememberatleastthememoriesfrommyregulatordaysarentexactlyreliable",
       "text_en": "...As far as I remember, at least. The memories from my regulator days aren't exactly reliable.",
       "text": "...เท่าที่ฉันจดจำได้ล่ะนะคะ เพราะเอาเข้าจริง ความทรงจำสมัยที่ฉันยังสวมใส่เรกูเลเตอร์อยู่มันไม่ได้น่าเชื่อถือหรือมีความชัดเจนขนาดนั้นหรอกค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "comeonletsheadinsidehopefullythewaywillbeclearofpeststoday",
       "text_en": "Come on, let's head inside. Hopefully the way will be clear of pests today...",
       "text": "ไปกันเถอะค่ะ เข้าไปข้างในกัน หวังว่าเส้นทางเดินป่าในวันนี้จะไม่มีพวกสัตว์ร้ายรบกวนความสงบของพวกเรานะคะ..."
     },
     {
-      "character": "Shale",
+      "key": "ughjustourluck",
       "text_en": "Ugh, just our luck...",
       "text": "เฮ้อ... คราวซวยของพวกเราจริงๆ เลยค่ะ..."
     },
     {
-      "character": "Shale",
+      "key": "thanks",
       "text_en": "Thanks.",
       "text": "ขอบคุณมากนะคะ"
     },
     {
-      "character": "Shale",
+      "key": "wecanusuallyavoidsuchencountersbutsometimestheywanderinandblocktheonlypath",
       "text_en": "We can usually avoid such encounters, but sometimes they wander in and block the only path.",
       "text": "ตามปกติแล้วพวกเรามักจะหลีกเลี่ยงการปะทะพวกนี้ได้ตลอดแหละค่ะ แต่บางครั้งพวกมันก็เดินเพ่นพ่านเข้ามาขวางเส้นทางเดียวที่ใช้ผ่านทางไปได้น่ะค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "notthatitslowedyoudownatalliveneverseenyoufightupclosebeforeandthesurveillancefeedclearlydidntdoitjustice",
       "text_en": "Not that it slowed you down at all. I've never seen you fight up close before, and the surveillance feed clearly didn't do it justice.",
       "text": "แต่ดูเหมือนว่าเรื่องร้ายแรงนั่นจะไม่ได้ทำให้จังหวะการเดินทัพของคุณช้าลงเลยสักนิดเดียว ฉันไม่เคยเห็นฝีมือการต่อสู้ระยะประชิดตัวของคุณมาก่อนเลยค่ะ และภาพมุมมองผ่านกล้องวงจรปิดที่เราเฝ้าดูอยู่ก็สู้ฝีมือจริงๆ ของคุณไม่ได้เลยสักนิดค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "ahemhopefullythatkeepstherouteclearforawhileshallwe",
       "text_en": "Ahem. Hopefully that keeps the route clear for a while. Shall we?",
       "text": " *อะแฮ่ม* หวังว่านั่นจะช่วยล้างเส้นทางให้สงบไปได้อีกพักใหญ่เลยนะคะ ลุยกันต่อดีกว่าค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "wheneverwelostacomradethethreeofuswouldcomebackheretoreminiscemegeodeandcahciua",
       "text_en": "Whenever we lost a comrade, the three of us would come back here to reminisce. Me, Geode, and Cahciua...",
       "text": "เมื่อไหร่ก็ตามที่พวกเราต้องสูญเสียเพื่อนร่วมทีมไป พวกเราทั้งสามคนมักจะเดินทางมาที่นี่เพื่อระลึกความหลังกันเสมอค่ะ ฉัน จีโอด และคุณคาชิวา..."
     },
     {
-      "character": "Shale",
+      "key": "willyouraiseaglass",
       "text_en": "Will you raise a glass?",
       "text": "คุณจะร่วมยกแก้วดื่มรำลึกกับฉันหน่อยไหมคะ?"
     },
     {
-      "character": "Krile",
+      "key": "oh",
       "text_en": "Oh!",
       "text": "อ๊ะ!"
     },
     {
-      "character": "Nostalgia",
+      "key": "whatarethetwoofyoudoinghere",
       "text_en": "What are the two of you doing here?",
       "text": "พวกคุณสองคนมาทำอะไรกันที่นี่เหรอคะ?"
     },
     {
-      "character": "Shale",
+      "key": "ihadafeelingyoudshowupwouldyouliketojoinus",
       "text_en": "I had a feeling you'd show up. Would you like to join us?",
       "text": "ฉันคิดไว้แล้วเชียวว่าเธอต้องเดินทางมาที่นี่ อยากจะมาร่วมวงพูดคุยกับพวกเราหน่อยไหมล่ะ?"
     },
     {
-      "character": "Nostalgia",
+      "key": "isupposeicouldspareamoment",
       "text_en": "I suppose I could spare a moment.",
       "text": "ก็นะ... ฉันคงพอจะมีเวลาร่วมวงสักครู่แหละค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "theytellusoblivionsfoundersdisappearedsomedecadesagoundermysteriouscircumstancesanditwascahciuawhorevivedourorganization",
       "text_en": "They tell us Oblivion's founders disappeared some decades ago under mysterious circumstances , and it was Cahciua who revived our organization.",
       "text": "มีคนบอกพวกเราว่าผู้ก่อตั้งกลุ่มอ็อบลิเวียนดั้งเดิมเลือนหายตัวไปอย่างปริศนาเมื่อหลายทศวรรษก่อน และเป็นคุณคาชิวานี่เองที่เป็นผู้ปลุกชีพฟื้นฟูกลุ่มพวกเรากลับมาอีกครั้ง"
     },
     {
-      "character": "Nostalgia",
+      "key": "youandgeodehelpedherwiththatdidntyoutellusmoreaboutit",
       "text_en": "You and Geode helped her with that, didn't you? Tell us more about it.",
       "text": "เธอกับพี่จีโอดเคยช่วยเหลือคุณคาชิวาทำเรื่องพวกนั้นใช่ไหมคะ? ช่วยเล่าเรื่องตอนนั้นให้ฟังเพิ่มหน่อยสิคะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "yourekeentoknowtoorightwhattheywerelikebackthenthemadthingstheygotuptothatsortofthing",
       "text_en": "You're keen to know too, right? What they were like back then, the mad things they got up to... That sort of thing!",
       "text": "คุณเองก็อยากรู้เรื่องของพวกเขาเหมือนกันใช่ไหมล่ะคะ? ว่าเมื่อก่อนพวกเขาเป็นอย่างไร ทำตัวบ้าคลั่งอะไรกันบ้าง... เรื่องอะไรทำนองนั้นน่ะค่ะ!"
     },
     {
-      "character": "Shale",
+      "key": "ahthosewerethedaysitwasactuallyrightbeforethereformationthatimetgeode",
       "text_en": "Ah, those were the days. It was actually right before the reformation that I met Geode.",
       "text": "อา... คิดถึงช่วงเวลานั้นจัง ที่จริงแล้วเป็นช่วงเวลาก่อนหน้าที่จะมีการปฏิรูปกลุ่มนั่นแหละค่ะที่ฉันได้รู้จักกับคุณจีโอดครั้งแรก"
     },
     {
-      "character": "Shale",
+      "key": "istillworearegulatorthenandhadrecentlylostsomeoneclosetome",
       "text_en": "I still wore a regulator then, and had recently lost someone close to me.",
       "text": "ตอนนั้นฉันยังสวมเรกูเลเตอร์อยู่เลยค่ะ และก็นับว่าเพิ่งจะสูญเสียบุคคลผู้เป็นที่รักในครอบครัวไปหมาดๆ ด้วยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "idalsojustquitalongstintasanadaptertoworkatabarofallplacestheypaidmetositwithpatronsandkeepthemcompany",
       "text_en": "I'd also just quit a long stint as an adapter to work at a bar, of all places. They paid me to sit with patrons and “keep them company.”",
       "text": "แถมในตอนนั้นฉันก็นับว่าเพิ่งลาออกจากตำแหน่งนักดัดแปลง (adapter) ที่ทำมาเนิ่นนาน เพื่อหันมาทำงานในบาร์เหล้าอีกต่างหากค่ะ หน้าที่หลักๆ ของฉันคือการนั่งเป็นเพื่อนคุยและอยู่เคียงข้างลูกค้าคอยบริการความบันเทิงน่ะค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "sogeodecameinonenightanditwasntlongbeforewegotintoanargumentfirsttimecustomerbuttempersflaredandthenoneofusthrewapunch",
       "text_en": "So Geode came in one night, and it wasn't long before we got into an argument. First-time customer, but tempers flared. And then one of us threw a punch...",
       "text": "แล้วคุณจีโอดก็เดินเข้ามานั่งดื่มคืนหนึ่งค่ะ และผ่านไปไม่นานพวกเราก็เกิดปากเสียงขัดแย้งกันอย่างรุนแรงขึ้นมา แม้จะเป็นลูกค้าที่มาใช้บริการครั้งแรกแท้ๆ แต่อารมณ์ก็ร้อนแรงเกินควบ ทั้งคู่ต่างฉุนเฉียวดุเดือด จนสุดท้ายก็มีฝ่ายหนึ่งเปิดฉากชกต่อยเหวี่ยงหมัดเข้าให้ค่ะ..."
     },
     {
-      "character": "Nostalgia",
+      "key": "yougotintoafistfightwhatwereyouevenarguingabout",
       "text_en": "You got into a fistfight!? What were you even arguing about...?",
       "text": "นี่ทะเลาะชกต่อยกันเลยเหรอคะ!? แล้วพวกคุณเถียงเรื่องอะไรกันล่ะคะนั่น...?"
     },
     {
-      "character": "Shale",
+      "key": "damnedifiknowweweredeepinourcupsithinkwewerebothjustfrustratedandangryateverything",
       "text_en": "Damned if I know. We were deep in our cups. I think we were both just frustrated and angry at...everything.",
       "text": "ฉันเองก็ไม่รู้เหมือนกันค่ะ พวกเราดื่มเหล้ากันหนักจนเมามายไม่รู้เรื่อง ฉันคิดว่าตอนนั้นเราทั้งคู่ต่างรู้สึกอึดอัดหงุดหงิดและก่นด่าโกรธเคืองต่อ... ทุกสิ่งทุกอย่างในชีวิตมากกว่าค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "bytheendofitwewerebothsprawledoutinthestreetapairofdrunkenfoolsthenthisoddmachinestoppedtolectureusscoldingusforobstructingthefoottrafficandnottakingbettercareofourselves",
       "text_en": "By the end of it, we were both sprawled out in the street. A pair of drunken fools. Then this odd machine stopped to lecture us, scolding us for obstructing the foot traffic and not taking better care of ourselves...",
       "text": "พอการชกต่อยจบลง พวกเราก็นอนกองแผ่หลากกันอยู่ริมถนนทั้งคู่ค่ะ กลายเป็นไอ้คนเมาโง่เขลาคู่หนึ่ง แล้วจู่ๆ ก็มีเครื่องจักรประหลาดเดินเข้ามาบ่นและดุด่าพวกเรายกใหญ่ โทษฐานกีดขวางเส้นทางสัญจรของผู้คนและไม่ดูแลรักษาตัวเองให้ดีกว่านี้น่ะค่ะ..."
     },
     {
-      "character": "Krile",
+      "key": "icantimagineyoueverbeinginsuchasorrystate",
       "text_en": "I can't imagine you ever being in such a sorry state.",
       "text": "ฉันนึกภาพคุณจีโอดในสภาพน่าเวทนาสะบักสะบอมแบบนั้นไม่ออกเลยนะคะ"
     },
     {
-      "character": "Krile",
+      "key": "theoddmachinethatwascahciuaitakeit",
       "text_en": "The odd machine... That was Cahciua, I take it?",
       "text": "ส่วนเครื่องจักรประหลาดตัวนั้น... คงจะเป็นคุณคาชิวาใช่ไหมคะ?"
     },
     {
-      "character": "Shale",
+      "key": "thatitwasonceshewasdoneupbraidingusforourunseemlybehaviorshelaunchedintoarecruitmentpitch",
       "text_en": "That it was. Once she was done upbraiding us for our unseemly behavior, she launched into a recruitment pitch.",
       "text": "ใช่เลยค่ะ พอเธอดุด่าตักเตือนพวกเราเรื่องพฤติกรรมไม่เหมาะสมเสร็จเรียบร้อยแล้ว เธก็เปิดฉากชักชวนเกลี้ยกล่อมให้พวกเราเข้าร่วมกลุ่มทันทีเลยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "cahciuaexplainedthatshewantedtoprotecttheoutsideworldfromzoraaljasinvasiontokeephimfrombringingruintotheplaceherbelovedsonlivedandifweweresointentonselfdestructionthenperhapswemightconsiderriskingourhidesforajustcause",
       "text_en": "Cahciua explained that she wanted to protect the “outside world” from Zoraal Ja's invasion─to keep him from bringing ruin to the place her beloved son lived. And if we were so intent on self-destruction, then perhaps we might consider risking our hides for a just cause.",
       "text": "คุณคาชิวาอธิบายให้ฟังว่าเธอต้องการจะปกป้อง 'โลกภายนอกโดม' จากการบุกรุกของโซราล จา เพื่อป้องกันไม่ให้เขานำพาความวิบัติยับเยินไปสู่ดินแดนที่ลูกชายสุดที่รักของเธออาศัยอยู่ค่ะ และเธอก็บอกว่าถ้าพวกเราคิดแต่จะทำลายชีวิตตัวเองไปวันๆ แบบนี้ สู้เอาชีวิตอันไร้ค่าไปลองเสี่ยงทำประโยชน์ช่วยเหลือโลกดูจะดีกว่าค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "itwasalottotakeinihadntgivenmuchthoughttowhatlaybeyondthebarrierandlearningthatcahciuaherselfwasalreadydeadwasenoughtomakemyheadspin",
       "text_en": "It was a lot to take in. I hadn't given much thought to what lay beyond the barrier, and learning that Cahciua herself was already dead was enough to make my head spin.",
       "text": "มันเป็นเรื่องที่มีรายละเอียดเยอะแยะเต็มไปหมดเลยค่ะ ฉันไม่เคยคิดถึงดินแดนที่อยู่ภายนอกบาเรียเขตแดนสายฟ้ามาก่อนเลย และการที่ได้รู้ว่าแท้จริงแล้วตัวคุณคาชิวาได้เสียชีวิตไปแล้วก็ทำให้หัวสมองของฉันสับสนจนมึนตึ้บเลยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "butgeodeandiwereintriguedbyherideasandwantedtoseethisfutureofherscometopass",
       "text_en": "But Geode and I were intrigued by her ideas, and wanted to see this future of hers come to pass.",
       "text": "แต่ฉันกับคุณจีโอดต่างรู้สึกสนใจและทึ่งในอุดมการณ์ของเธอค่ะ และอยากจะอยู่ช่วยรอดูอนาคตตามปณิธานของเธอให้กลายเป็นจริงขึ้นมาค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "geodeoftenspokeofithetoldmethatmeetingcahciuawaswhatfirsttaughthimthevalueofrememberingpeople",
       "text_en": "Geode often spoke of it. He told me that meeting Cahciua was what first taught him the value of remembering people.",
       "text": "พี่จีโอดพูดถึงเรื่องนี้บ่อยๆ เลยค่ะ เขาเคยบอกฉันว่าการได้พบเจอกับคุณคาชิวา คือสิ่งแรกที่สอนให้เขารู้ซึ้งถึงคุณค่าและความสำคัญของการระลึกและจดจำผู้คนเอาไว้ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "likehewassharingaholyrevelation",
       "text_en": "Like he was sharing a holy revelation.",
       "text": "พูดราวกับว่ากำลังเผยแพร่คำสอนศักดิ์สิทธิ์อยู่เลยล่ะค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "ohbutbackthenyouhadntyettakenonoblivionsnamehadyou",
       "text_en": "Oh, but... Back then, you hadn't yet taken on Oblivion's name, had you?",
       "text": "อ๊ะ แต่ว่า... ในตอนนั้น พวกคุณยังไม่ได้เริ่มใช้ชื่อกลุ่มว่าอ็อบลิเวียนกันใช่ไหมคะ?"
     },
     {
-      "character": "Krile",
+      "key": "isthatsoidjustassumed",
       "text_en": "Is that so? I'd just assumed...",
       "text": "อย่างนั้นเหรอคะ? ฉันก็นึกว่าเริ่มใช้ชื่อนี้มาตลอดเสียอีก..."
     },
     {
-      "character": "Shale",
+      "key": "ithadntbeencahciuasintentiontocarryonoblivionslegacynoradoptthecauseyourparentschampionednotinitiallyatleast",
       "text_en": "It hadn't been Cahciua's intention to carry on Oblivion's legacy, nor adopt the cause your parents championed. Not initially, at least.",
       "text": "เริ่มแรกสุด คุณคาชิวาไม่ได้ตั้งใจจะสานต่อมรดกชื่อกลุ่มอ็อบลิเวียน หรือรับช่วงต่อการต่อสู้ที่ท่านพ่อท่านแม่ของคุณไครล์บุกเบิกไว้หรอกนะคะ อย่างน้อยก็ไม่ใช่ในช่วงแรกๆ ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "shewasntevenawaresuchanorganizedresistanceexisted",
       "text_en": "She wasn't even aware such an organized resistance existed.",
       "text": "ตัวเธอในตอนนั้นไม่ทราบด้วยซ้ำว่าเคยมีกลุ่มขบวนการต่อต้านที่เป็นระบบแบบนั้นตั้งขึ้นมาอยู่ก่อนหน้านี้ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "shedidhoweversuspectthepresenceofotherdissidentsthosewhoobjectedtoresurrectingthememoriesofthedeadindefianceofthenaturalorder",
       "text_en": "She did, however, suspect the presence of other dissidents─those who objected to resurrecting the memories of the dead in defiance of the natural order.",
       "text": "แต่อย่างไรก็ตาม เธอคาดเดาและพยายามเสาะหาผู้ที่มีความคิดเห็นไม่ตรงกับระบบคนอื่นๆ─กลุ่มคนที่ต่อต้านขัดขืนการชุบชีวิตฟื้นคืนชีพความทรงจำของผู้ล่วงลับ ซึ่งเป็นการฝืนต่อกฎธรรมชาติของโลกค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "inthehopesofidentifyinglikemindedcomradeswebegansearchingthecoresystemfortracesofunauthorizedaccessandthatshowwefoundit",
       "text_en": "In the hopes of identifying like-minded comrades, we began searching the core system for traces of unauthorized access...and that's how we found it.",
       "text": "ด้วยความหวังที่จะได้ระบุและค้นหาตัวสหายที่มีอุดมการณ์ตรงกัน พวกเราจึงเริ่มค้นหาข้อมูลประวัติร่องรอยการเชื่อมต่อที่เข้าข่ายต้องสงสัยในระบบแกนกลางคอยคุมระบบ... และนั่นเองเป็นวิธีที่ทำให้พวกเราหาห้องลึกลับพบค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "ananomaloussectorinthebackoftheneonsteinaccordingtomelancholythedoortothatmysteryhadremainedfirmlyshutsinceshetookoverthebusiness",
       "text_en": "An anomalous sector in the back of the Neon Stein. According to Melancholy, the door to that mystery had remained firmly shut since she took over the business.",
       "text": "มีรหัสสัญญาณพื้นที่ปั่นป่วนตรงบริเวณด้านหลังของร้านนีออน สไตน์ค่ะ ตามข้อมูลของคุณเมลันโคลี (Melancholy) ประตูที่ซ่อนอยู่ข้างหลังตรงนั้นปิดแน่นหนาและไม่มีใครเคยเปิดออกได้เลยนับตั้งแต่เธอเข้ามาสืบทอดกิจการต่อค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "thebackroom",
       "text_en": "The Backroom...",
       "text": "เดอะแบ็ครูม..."
     },
     {
-      "character": "Shale",
+      "key": "thebackroomweforcedourwayinonlytodiscoverthatthehideouthadlongbeenabandoned",
       "text_en": "The Backroom. We forced our way in, only to discover that the hideout had long been abandoned.",
       "text": "เดอะแบ็ครูมนั่นแหละค่ะ พวกเราพยายามทำลายเจาะระบบจนพังประตูบุกเข้าไปข้างในสำเร็จ เพื่อที่จะได้พบว่าฐานทัพลับตรงนั้นถูกปล่อยทิ้งร้างไปนานแสนนานแล้วค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "althoughtheoccupantsweregonetheequipmenttheydleftbehindcontainedrecordsofagroupcallingitselfoblivionafterreadingthroughtheirexploitsandtheirvisionforthefuturewemadethedecisiontocarryontheirwork",
       "text_en": "Although the occupants were gone, the equipment they'd left behind contained records of a group calling itself “Oblivion.” After reading through their exploits and their vision for the future, we made the decision to carry on their work.",
       "text": "แม้ว่าผู้คนจะอพยพหายไปหมดแล้ว แต่อุปกรณ์ต่างๆ ที่พวกเขาหลงเหลือทิ้งไว้มีบันทึกประวัติการบุกเบิกและภารกิจของกลุ่มที่เรียกตัวเองว่า 'อ็อบลิเวียน' (Oblivion) เอาไว้ค่ะ หลังจากที่พวกเราได้อ่านบันทึกภารกิจและอุดมการณ์เพื่ออนาคตของพวกเขาอย่างละเอียดแล้ว พวกเราจึงตัดสินใจที่จะสืบทอดสานต่องานของพวกเขาต่อไปค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "thusweremyparentsandcahciuashopesboundtogether",
       "text_en": "Thus were my parents' and Cahciua's hopes bound together...",
       "text": "ด้วยเหตุนี้ ความหวังและปณิธานของท่านพ่อท่านแม่ของฉัน กับของคุณคาชิวา จึงได้ถูกผูกพันธะเข้าไว้ร่วมกันสินะคะ..."
     },
     {
-      "character": "Nostalgia",
+      "key": "andcarriedonwardbyshaleandgeode",
       "text_en": "And carried onward by Shale and Geode...",
       "text": "และได้รับการสานต่อก้าวเดินต่อไปด้วยมือของเชลและพี่จีโอด..."
     },
     {
-      "character": "Shale",
+      "key": "wecouldneverhavemadeitthisfaronourownofcoursenotwithoutthestrengthofarmsyouandyourfriendsprovided",
       "text_en": "We could never have made it this far on our own, of course. Not without the strength of arms you and your friends provided.",
       "text": "พวกเราไม่มีวันเดินทางมาได้ไกลขนาดนี้เพียงลำพังด้วยตัวเองแน่นอนค่ะ หากไม่มีกำลังความสามารถและการสนับสนุนช่วยเหลือจากพวกคุณและผองเพื่อนค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "losingcomradesisahardthingbutbeingherethinkingbackonthemomentsweshared",
       "text_en": "Losing comrades is a hard thing, but being here, thinking back on the moments we shared...",
       "text": "การสูญเสียเพื่อนร่วมทีมเป็นเรื่องเศร้าโศกเสียใจและรับมือได้ยากลำบากเหลือเกิน แต่การได้มายืนอยู่ตรงนี้ ได้เฝ้าคิดทบทวนถึงช่วงเวลาดีๆ ที่พวกเราเคยใช้ร่วมกันมา..."
     },
     {
-      "character": "Shale",
+      "key": "icanseetheirsmilesheartheirlaughterifeeltheirpresenceandiknowtheyrestillwithus",
       "text_en": "I can see their smiles, hear their laughter. I feel their presence, and I know. They're still with us.",
       "text": "ฉันยังมองเห็นรอยยิ้มของพวกเขา ยังได้ยินเสียงหัวเราะของพวกเขาอย่างแจ่มชัด ฉันสัมผัสได้ถึงการคงอยู่ของพวกเขา และรู้ซึ้งแก่ใจดีค่ะ... ว่าพวกเขยังคงอยู่เคียงข้างพวกเราเสมอ"
     },
     {
-      "character": "Shale",
+      "key": "butthesememoriesofmineareformealoneremindersofwhyichosetodothisandwhyillstaythecourse",
       "text_en": "But these memories of mine are for me alone. Reminders of why I chose to do this...and why I'll stay the course.",
       "text": "แต่ความทรงจำเหล่านี้จะถูกเก็บรักษาไว้สำหรับตัวฉันเพียงคนเดียวค่ะ เป็นเครื่องเตือนใจคอยชี้นำว่าเพราะอะไรฉันถึงตัดสินใจเลือกลุยทำสิ่งนี้... และเพราะเหตุใดฉันถึงต้องยืนหยัดก้าวเดินตามเส้นทางนี้ต่อไปไม่เปลี่ยนใจ"
     },
     {
-      "character": "Shale",
+      "key": "righttimewegotbacktoworkthankyoueveryone",
       "text_en": "Right. Time we got back to work. Thank you, everyone.",
       "text": "เอาล่ะ... ได้เวลาหันกลับไปลุยงานต่อแล้วค่ะ ขอบคุณพวกคุณทุกคนมากเลยนะคะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "nonoitsmewhoshouldbethankingyouthoughthepainisstilldeepidontfeellikeimdrowninginitanymore",
       "text_en": "No, no, it's me who should be thanking you. Though the pain is still deep, I don't feel like I'm drowning in it anymore...",
       "text": "ไม่เลยค่ะ ฉันต่างหากที่ต้องเป็นฝ่ายขอบคุณเธอ ถึงแม้บาดแผลความเจ็บปวดจะยังไม่จางหายไป แต่ในตอนนี้ฉันไม่รู้สึกเหมือนตัวเองกำลังจะจมดิ่งทรมานลงไปในกองน้ำตานั้นอีกต่อไปแล้วล่ะค่ะ..."
     },
     {
-      "character": "Nostalgia",
+      "key": "letsgetoutthereandputastoptocalyxforyouformeandforeveryonewhoseverbelievedinoblivion",
       "text_en": "Let's get out there and put a stop to Calyx─for you, for me, and for everyone who's ever believed in Oblivion!",
       "text": "พวกเราออกไปช่วยกันหยุดยั้งแผนการของคาลิกซ์กันเถอะ─ทั้งเพื่อตัวเธอ เพื่อฉัน และเพื่อทุกๆ คนที่เชื่อมั่นและฝากความหวังไว้กับอ็อบลิเวียน!"
     },
     {
-      "character": "Shale",
+      "key": "iappreciateyouhelpingmethroughthis",
       "text_en": "...I appreciate you helping me through this.",
       "text": "...ฉันขอขอบคุณคุณมากเลยนะคะที่อยู่เคียงข้างคอยคุยช่วยเหลือดูแลทำใจให้ผ่านช่วงเวลาที่ยากลำบากนี้มาได้ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "andnotonlythegriefyouvehelpedmeseethatmycomradesmeanevenmoretomethanirealized",
       "text_en": "And not only the grief. You've helped me see that my comrades mean even more to me than I realized.",
       "text": "และไม่ใช่เพียงแค่ช่วยรักษาแผลใจความเศร้าโศกนี้เท่านั้นหรอกนะคะ แต่คุณยังช่วยชี้ให้ฉันเห็นแจ่มชัดขึ้นว่าสหายรอบตัวทุกคนมีความหมายและมีค่าต่อจิตใจของฉันมากยิ่งกว่าที่ฉันคิดไว้อีกค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "whichonlyfuelsmydetermination",
       "text_en": "Which only fuels my determination...",
       "text": "และเรื่องนี้มีแต่จะช่วยกระตุ้นปณิธานของฉันให้คุกรุ่นขึ้นมาค่ะ..."
     },
     {
-      "character": "Shale",
+      "key": "illbespendingeverywakingmomentworkingtobringcalyxtoaccountforhiscrimes",
       "text_en": "I'll be spending every waking moment working to bring Calyx to account for his crimes.",
       "text": "ฉันจะใช้เวลาในทุกๆ วินาทีลุยทำงานอย่างบ้าระห่ำ เพื่อลากตัวคาลิกซ์มาชดใช้ความผิดและกรรมชั่วทั้งหมดที่เขาทำไว้กับพวกเราค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "illdomypartthenyoudoyoursoblivionneedsyou",
       "text_en": "I'll do my part, then you do yours. Oblivion needs you.",
       "text": "ฉันจะทำหน้าที่ในส่วนของฉันให้ดีที่สุด และฝากคุณลุยส่วนของคุณด้วยนะคะ อ็อบลิเวียนต้องการฝีมือของคุณค่ะ"
     }

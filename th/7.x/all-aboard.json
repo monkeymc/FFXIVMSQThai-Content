@@ -1,896 +1,888 @@
 {
-  "id": "all-aboard",
-  "wiki_path": "/wiki/All_Aboard",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/f/fd/All_Aboard.png",
-  "patch": "7.0",
-  "title_en": "All Aboard",
-  "title": "เตรียมพร้อมออกเดินทาง",
-  "level": "97",
-  "location": "Shaaloani(X:18.6,Y:13.8)",
-  "npc_start": "Wawlika",
+  "quest_id": "all-aboard",
   "dialogues": [
     {
-      "character": "Wawlika",
+      "key": "fromhereonoutwewontstopworkingtillthetrainsready",
       "text_en": "From here on out, we won't stop working till the train's ready.",
       "text": "จากนี้ไป พวกเราจะไม่หยุดทำงานจนกว่ารถไฟจะพร้อม"
     },
     {
-      "character": "Wawlika",
+      "key": "ifyouhaveanypreparationsnowwouldbeagoodtimetoseetothemtheboardingcallwillcomebeforeyouknowit",
       "text_en": "If you have any preparations, now would be a good time to see to them. The boarding call will come before you know it!",
       "text": "ถ้าพวกเธอมีอะไรต้องเตรียมตัว ตอนนี้แหละเป็นเวลาที่เหมาะแล้ว อีกเดี๋ยวก็ได้เวลาขึ้นรถไฟแล้วล่ะ!"
     },
     {
-      "character": "Nitowikwe",
+      "key": "rightwerejustaboutdonewiththemodificationsbutihavetostressthatwecannotaffordatestrun",
       "text_en": "Right, we're just about done with the modifications. But I have to stress that we cannot afford a test run.",
       "text": "ใช่แล้วล่ะ พวกเราดัดแปลงระบบใกล้จะเสร็จแล้ว แต่ฉันต้องขอย้ำนะว่าเราไม่มีเวลาพอที่จะทดลองวิ่งเด็ดขาด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsfineweunderstandandaccepttheriskswehavefaithinyouandyourcraft",
       "text_en": "It's fine—we understand and accept the risks. We have faith in you and your craft.",
       "text": "ไม่เป็นไรหรอก พวกเราเข้าใจและยอมรับความเสี่ยงนี้ได้ พวกเราเชื่อมั่นในตัวเธอและฝีมือของพวกเธอ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imsureeverythingwillgotoplanwithallthehardworkeveryonesputinitcouldntbeotherwise",
       "text_en": "I'm sure everything will go to plan. With all the hard work everyone's put in, it couldn't be otherwise!",
       "text": "ฉันมั่นใจว่าทุกอย่างจะต้องเป็นไปตามแผน ในเมื่อทุกคนทุ่มเทแรงกายแรงใจกันขนาดนี้ มันจะเป็นอย่างอื่นไปไม่ได้หรอก!"
     },
     {
-      "character": "Shenza",
+      "key": "finishedatlast",
       "text_en": "Finished at last!!!",
       "text": "เสร็จแล้วโว้ย!!!"
     },
     {
-      "character": "Shenza",
+      "key": "beholdthepinnacleoflocomotiveengineeringthedawnblazer",
       "text_en": "Behold, the pinnacle of locomotive engineering—the Dawnblazer!",
       "text": "จงดูนี่ซะ สุดยอดนวัตกรรมแห่งหัวรถจักร... ดอว์นเบลเซอร์!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "amazing",
       "text_en": "Amazing!",
       "text": "สุดยอดไปเลย!"
     },
     {
-      "character": "Zawpya",
+      "key": "yepshesbeenfittedwithwoodenarmorandacrystalgroundingrodtomitigatetheeffectsoflightningnaturallywehadtooverhaultheenginesoitcouldhandletheextraweight",
       "text_en": "Yep, she's been fitted with wooden armor and a crystal grounding rod to mitigate the effects of lightning. Naturally, we had to overhaul the engine so it could handle the extra weight.",
       "text": "ใช่แล้วล่ะครับ ตัวรถถูกติดตั้งด้วยเกราะไม้และเสาสายดินคริสตัลเพื่อลดผลกระทบจากสายฟ้า แน่นอนว่าเราต้องยกเครื่องเครื่องยนต์ใหม่ทั้งหมดเพื่อให้รองรับน้ำหนักที่เพิ่มขึ้นมานี้ได้"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ialsohadheroutfittedwithaethericcannonsthebettertocontendwithenemyforcesandastheyremodeleduponthoseusedatthecrystariumicanattesttotheirpotency",
       "text_en": "I also had her outfitted with aetheric cannons, the better to contend with enemy forces. And as they're modeled upon those used at the Crystarium, I can attest to their potency.",
       "text": "ผมยังช่วยติดตั้งปืนใหญ่อีเธอร์เข้าไปด้วย เพื่อให้เราต่อกรกับกองกำลังศัตรูได้ดีขึ้น และเนื่องจากมันจำลองมาจากปืนใหญ่ที่ใช้ในคริสทาริอุม ผมจึงรับประกันความรุนแรงของมันได้เลยครับ"
     },
     {
-      "character": "Wawlika",
+      "key": "sowhatdoyoureckongiventhetightturnaroundidsaywedidadamngoodjob",
       "text_en": "So, what do you reckon? Given the tight turnaround, I'd say we did a damn good job.",
       "text": "เป็นไงล่ะ? ด้วยเวลาที่จำกัดขนาดนี้ ฉันกล้าพูดเลยว่าพวกเราทำออกมาได้โคตรดีเลย"
     },
     {
-      "character": "Wawlika",
+      "key": "gladshestoyourlikingihatetoletgoofsuchabeautifulpieceofmachinerybutiknowyoullgiveherapropersendoffforus",
       "text_en": "Glad she's to your liking. I hate to let go of such a beautiful piece of machinery, but I know you'll give her a proper send-off for us.",
       "text": "ดีใจที่พวกเธอชอบนะ ใจจริงฉันก็ไม่อยากปล่อยเครื่องจักรแสนสวยเครื่องนี้ไปเลย แต่ฉันรู้ว่าพวกเธอจะใช้งานมันอย่างคุ้มค่าเพื่อพวกเราอย่างแน่นอน"
     },
     {
-      "character": "Alisaie",
+      "key": "attheriskofspoilingthemoodweshouldprobablygetmoving",
       "text_en": "At the risk of spoiling the mood, we should probably get moving.",
       "text": "ขอขัดจังหวะอารมณ์ซึ้งหน่อยนะ แต่เราคงต้องเริ่มออกเดินทางกันแล้วล่ะ"
     },
     {
-      "character": "Wawlika",
+      "key": "yepyouwontgetfarifyouletempummelyoufromtheairbutyoullbesafeenoughonceyoureachthetunnel",
       "text_en": "Yep. You won't get far if you let 'em pummel you from the air, but you'll be safe enough once you reach the tunnel.",
       "text": "ใช่แล้วล่ะ ถ้าปล่อยให้พวกมันกระหน่ำโจมตีจากบนฟ้าคงไปได้ไม่ไกลนัก แต่ถ้าเข้าไปในอุโมงค์ได้เมื่อไหร่ พวกเธอก็จะปลอดภัยขึ้นเยอะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "inthatcaseiwillconcealthetrainwithaspellonceeveryoneisonboard",
       "text_en": "In that case, I will conceal the train with a spell once everyone is on board.",
       "text": "ถ้าอย่างนั้น พอทุกคนขึ้นรถไฟเรียบร้อยแล้ว ผมจะใช้เวทมนตร์ช่วยพรางตารถไฟคันนี้เองครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itshouldlastlongenoughforustoreachthetunnelunnoticed",
       "text_en": "It should last long enough for us to reach the tunnel unnoticed.",
       "text": "มันน่าจะคงอยู่ได้นานพอที่จะช่วยให้พวกเราไปถึงอุโมงค์โดยไม่ถูกจับได้ครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightsoeveryoneareweready",
       "text_en": "Right. So everyone—are we ready!?",
       "text": "เอาล่ะ ทุกคน... พร้อมกันหรือยัง!?"
     },
     {
-      "character": "Wawlika",
+      "key": "wevedoneallwecanrestisuptoyou",
       "text_en": "We've done all we can. Rest is up to you.",
       "text": "พวกเราทำหน้าที่ในส่วนของพวกเราเต็มที่แล้ว ที่เหลือฝากพวกเธอด้วยนะ"
     },
     {
-      "character": "Nitowikwe",
+      "key": "iwontletyoudown",
       "text_en": "I won't let you down!",
       "text": "ฉันจะไม่ทำให้ทุกคนผิดหวังเด็ดขาด!"
     },
     {
-      "character": "Nitowikwe",
+      "key": "allaboard",
       "text_en": "All aboard!",
       "text": "ทุกคนขึ้นรถได้!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "vanish",
       "text_en": "Vanish!",
       "text": "จงเลือนหาย!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "atthisspeedweshouldarriveatthedomeinnotimeatall",
       "text_en": "At this speed, we should arrive at the dome in no time at all!",
       "text": "ด้วยความเร็วขนาดนี้ พวกเราน่าจะไปถึงโดมในอีกไม่ช้าครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "butnotbeforewerespottediexpectstayalert",
       "text_en": "But not before we're spotted, I expect. Stay alert!",
       "text": "แต่ฉันคิดว่าเราคงไม่พ้นถูกเจอตัวอยู่ดีนั่นแหละ เตรียมตัวให้พร้อม!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "herewego",
       "text_en": "Here we go.",
       "text": "เอาล่ะนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "standfasteveryone",
       "text_en": "Stand fast, everyone!",
       "text": "ทุกคน เกาะไว้ให้แน่น!"
     },
     {
-      "character": "Krile",
+      "key": "castingspellexerthah",
       "text_en": "[CASTING SPELL EXERT “Hah!”]",
       "text": "[เสียงร่ายเวท “ฮะ!”]"
     },
     {
-      "character": "Alisaie",
+      "key": "noyoudont",
       "text_en": "No you don't!",
       "text": "ฝันไปเถอะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "castingspellsharpexhale",
       "text_en": "[CASTING SPELL SHARP EXHALE]",
       "text": "[เสียงร่ายเวทพร้อมพ่นลมหายใจแรง]"
     },
     {
-      "character": "Krile",
+      "key": "havecaretheyveswitchedtofirearms",
       "text_en": "Have care! They've switched to firearms!",
       "text": "ระวังด้วย! พวกมันเปลี่ยนมาใช้อาวุธปืนแล้ว!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ohdear",
       "text_en": "Oh dear...",
       "text": "แย่แล้วล่ะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "rahajump",
       "text_en": "Raha! Jump!",
       "text": "ราฮา! กระโดดเร็ว!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "jumpingexertion",
       "text_en": "[JUMPING EXERTION]",
       "text": "[เสียงร้องตอนกระโดด]"
     },
     {
-      "character": "Alisaie",
+      "key": "staggeredbyblastexertionugh",
       "text_en": "[STAGGERED BY BLAST EXERTION “Ugh!”]",
       "text": "[เสียงร้องตอนโดนแรงระเบิดกระแทก “อึก!”]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "erenvilleineedyoutotakeoverforme",
       "text_en": "Erenville! I need you to take over for me!",
       "text": "เอเรนวิลล์! ฝากทำหน้าที่แทนฉันที!"
     },
     {
-      "character": "Nitowikwe",
+      "key": "endofthelineeveryone",
       "text_en": "End of the line, everyone!",
       "text": "สุดทางแล้วทุกคน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "stubbornlittle",
       "text_en": "Stubborn little—!",
       "text": "หนอย เจ้าพวกตื๊อไม่เลิก—!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatwastooclose",
       "text_en": "That was too close...",
       "text": "หวุดหวิดไปจริงๆ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "stillaliveerenville",
       "text_en": "Still alive, Erenville?",
       "text": "ยังจะมีชีวิตอยู่ใช่ไหม เอเรนวิลล์?"
     },
     {
-      "character": "Erenville",
+      "key": "mostly",
       "text_en": "Mostly...",
       "text": "ก็เกือบจะไม่รอดแล้วล่ะ..."
     },
     {
-      "character": "Krile",
+      "key": "atlasttheenemystrongholdweshouldhurrybeforetheycanregroup",
       "text_en": "At last, the enemy stronghold... We should hurry before they can regroup.",
       "text": "ในที่สุดก็ถึงป้อมปราการของศัตรูแล้ว... เรารีบไปกันเถอะก่อนที่พวกมันจะตั้งหลักได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letsgoandfindoutwhatsinside",
       "text_en": "Let's go and find out what's inside!",
       "text": "ไปดูกันดีกว่าว่าข้างในมีอะไร!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theresnowayzoraaljawillbeabletoignoreourexplosiveentrance",
       "text_en": "There's no way Zoraal Ja will be able to ignore our explosive entrance.",
       "text": "บุกเข้ามาเสียงดังตู้มต้ามขนาดนี้ ไม่มีทางที่โซราล จา จะเมินพวกเราได้หรอก"
     },
     {
-      "character": "Krile",
+      "key": "theideaofventuringintoenemyterritoryisdauntingbutibelieveimreadyorasreadyasilleverbe",
       "text_en": "The idea of venturing into enemy territory is daunting, but I believe I'm ready. Or as ready as I'll ever be...",
       "text": "การบุกเข้าไปในอาณาเขตของศัตรูมันชวนให้หวั่นใจอยู่เหมือนกัน แต่ฉันคิดว่าฉันพร้อมแล้วล่ะ... หรืออย่างน้อยก็พร้อมที่สุดเท่าที่จะพร้อมได้"
     },
     {
-      "character": "Alisaie",
+      "key": "justalittlefurtherandwellbeinsidethedome",
       "text_en": "Just a little further and we'll be inside the dome!",
       "text": "อีกนิดเดียวพวกเราก็จะเข้าไปในโดมได้แล้ว!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "wecouldnthavemadeitthisfarwithoutthetrainletusseetoitwegotherestoftheway",
       "text_en": "We couldn't have made it this far without the train. Let us see to it we go the rest of the way.",
       "text": "ถ้าไม่มีรถไฟขบวนนั้น เราคงมาไม่ได้ไกลขนาดนี้ ตอนนี้มาพยายามในส่วนที่เหลือกันเถอะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "illremainoutofsightuntilthefightingisoverattheriskofrepeatingmyselftrynottodoanythingreckless",
       "text_en": "I'll remain out of sight until the fighting is over. At the risk of repeating myself, try not to do anything reckless.",
       "text": "ผมจะซ่อนตัวอยู่เงียบๆ จนกว่าการต่อสู้จะจบลงนะ ถึงจะพูดซ้ำซากไปหน่อย แต่ก็ขอร้องล่ะ อย่าทำอะไรบุ่มบ่ามนะ"
     },
     {
-      "character": "Nitowikwe",
+      "key": "therestisuptoyounowicanmakemyownwaybacksodontworryaboutmetakecareandgoodluck",
       "text_en": "The rest is up to you now. I can make my own way back, so don't worry about me. Take care and good luck!",
       "text": "ที่เหลือฝากพวกเธอด้วยนะ ฉันเดินทางกลับเองได้ ไม่ต้องห่วงหรอก ดูแลตัวเองด้วยล่ะ โชคดีนะ!"
     },
     {
-      "character": "Train Watchguard",
+      "key": "ahitsyouwawlikatoldmeyoumaybepassingthroughbecarefuloutthere",
       "text_en": "Ah, it's you. Wawlika told me you may be passing through. Be careful out there.",
       "text": "อ๊ะ พวกเธอเองเหรอ วาวลิกาบอกฉันไว้แล้วล่ะว่าพวกเธออาจจะผ่านมาทางนี้ ระวังตัวด้วยนะ"
     },
     {
-      "character": "Artificial Intelli-guard",
+      "key": "vanguardisunderattackvanguardisunderattackallunitsprepareforbattle",
       "text_en": "Vanguard is under attack! Vanguard is under attack! All units prepare for battle!",
       "text": "แวนการ์ดกำลังถูกโจมตี! แวนการ์ดกำลังถูกโจมตี! ทุกหน่วยเตรียมพร้อมเข้าสู่การรบ!"
     },
     {
-      "character": "Vanguard Sentry S7",
+      "key": "intrudersdetected",
       "text_en": "Intruders detected.",
       "text": "ตรวจพบผู้บุกรุก"
     },
     {
-      "character": "Vanguard Sentry S7",
+      "key": "combatmodeactivated",
       "text_en": "Combat mode activated.",
       "text": "เปิดใช้งานโหมดต่อสู้"
     },
     {
-      "character": "Artificial Intelli-guard",
+      "key": "enemysightedr7sentriespreparetoengage",
       "text_en": "Enemy sighted. R7 sentries, prepare to engage.",
       "text": "พบศัตรู หน่วยรักษาการณ์ R7 เตรียมเข้าปะทะ"
     },
     {
-      "character": "Vanguard Sentry R7",
+      "key": "readytoengage",
       "text_en": "Ready to engage.",
       "text": "พร้อมเข้าปะทะ"
     },
     {
-      "character": "Vanguard Sentry R7",
+      "key": "eliminatingvanguardthreat",
       "text_en": "Eliminating Vanguard threat.",
       "text": "กำลังกำจัดภัยคุกคามแวนการ์ด"
     },
     {
-      "character": "Vanguard Commander R8",
+      "key": "warningintrudersdetectedinitializingexterminationprotocol",
       "text_en": "Warning: intruders detected. Initializing extermination protocol.",
       "text": "คำเตือน: ตรวจพบผู้บุกรุก กำลังเริ่มขั้นตอนกำจัดขั้นเด็ดขาด"
     },
     {
-      "character": "Vanguard Commander R8",
+      "key": "wingbladeengagedpreparinghighspeedmaneuvers",
       "text_en": "Wingblade engaged. Preparing high-speed maneuvers.",
       "text": "เปิดใช้งานใบมีดปีก เตรียมเคลื่อนพลด้วยความเร็วสูง"
     },
     {
-      "character": "Vanguard Commander R8",
+      "key": "combatproficiencyexceedsexpectedparametersrequestingreinforcements",
       "text_en": "Combat proficiency exceeds expected parameters. Requesting reinforcements.",
       "text": "ประสิทธิภาพการต่อสู้ของศัตรูสูงเกินกว่าค่าที่คาดการณ์ไว้ ขอสั่งกองกำลังเสริม"
     },
     {
-      "character": "Vanguard Commander R8",
+      "key": "authorizationtodisengagelimitersgrantedallunitscommencefiring",
       "text_en": "Authorization to disengage limiters granted. All units─commence firing.",
       "text": "ได้รับอนุมัติให้ปลดระบบจำกัดพลังงาน ทุกหน่วย─เริ่มการยิงได้"
     },
     {
-      "character": "Vanguard Commander R8",
+      "key": "allunitsprepareforaerialbombardment",
       "text_en": "All units─prepare for aerial bombardment.",
       "text": "ทุกหน่วย─เตรียมปูพรมโจมตีทางอากาศ"
     },
     {
-      "character": "Vanguard Commander R8",
+      "key": "redeployingwingbladethrustersengaged",
       "text_en": "Redeploying wingblade. Thrusters engaged.",
       "text": "จัดวางใบมีดปีกใหม่ เปิดใช้งานเครื่องขับดัน"
     },
     {
-      "character": "Vanguard Commander R8",
+      "key": "initiatingsecondarydirectiveelectropeweapontesting",
       "text_en": "Initiating secondary directive: electrope weapon testing.",
       "text": "เริ่มคำสั่งสำรอง: ทดสอบอาวุธเอเลกโทรป"
     },
     {
-      "character": "Artificial Intelli-guard",
+      "key": "alertalertintrudersdetectedengagingdefenseturrets",
       "text_en": "Alert. Alert. Intruders detected. Engaging defense turrets.",
       "text": "แจ้งเตือน แจ้งเตือน ตรวจพบผู้บุกรุก กำลังเปิดใช้งานป้อมปืนป้องกัน"
     },
     {
-      "character": "Vanguard Sentry S7",
+      "key": "intruderalertintruderalert",
       "text_en": "Intruder alert. Intruder alert.",
       "text": "ผู้บุกรุกบุกเข้ามา ผู้บุกรุกบุกเข้ามา"
     },
     {
-      "character": "Protector",
+      "key": "intrudersdetectedinitiatingpurgeprotocol",
       "text_en": "Intruders detected... Initiating purge protocol.",
       "text": "ตรวจพบผู้บุกรุก... กำลังเริ่มขั้นตอนกวาดล้าง"
     },
     {
-      "character": "Protector",
+      "key": "turretsdeployedcommencingremotevolley",
       "text_en": "Turrets deployed. Commencing remote volley.",
       "text": "ติดตั้งป้อมปืนเรียบร้อย เริ่มการระดมยิงระยะไกล"
     },
     {
-      "character": "Protector",
+      "key": "restrictingenemymovementelectrofencingactivated",
       "text_en": "Restricting enemy movement. Electrofencing activated.",
       "text": "กำลังจำกัดพื้นที่การเคลื่อนไหวของศัตรู เปิดใช้งานรั้วไฟฟ้า"
     },
     {
-      "character": "Protector",
+      "key": "enemyvitalsignsdetectedinitiatingrazeprotocol",
       "text_en": "Enemy vital signs detected... Initiating raze protocol.",
       "text": "ตรวจพบสัญญาณชีพศัตรู... กำลังเริ่มขั้นตอนทำลายล้าง"
     },
     {
-      "character": "Protector",
+      "key": "enemybreachimminentrelayingemergencysignal",
       "text_en": "Enemy breach imminent. Relaying emergency signal.",
       "text": "ศัตรูใกล้จะฝ่าด่านเข้ามาได้แล้ว ส่งสัญญาณฉุกเฉิน"
     },
     {
-      "character": "Authoritative Voice",
+      "key": "dammitallpowerthecrossbridgeandreleasethebeastswecanstopthemthere",
       "text_en": "Dammit all... Power the Crossbridge and release the beasts! We can stop them there!",
       "text": "บ้าจริง... ส่งพลังงานไปที่สะพานข้ามทางเชื่อมแล้วปล่อยพวกอสูรออกมา! เราต้องหยุดพวกมันตรงนั้นให้ได้!"
     },
     {
-      "character": "Authoritative Voice",
+      "key": "sendinreinforcementsthecommanderwillnottoleratefailure",
       "text_en": "Send in reinforcements! The commander will not tolerate failure!",
       "text": "ส่งกำลังเสริมเข้าไป! ผู้บัญชาการไม่ยอมรับความล้มเหลวเด็ดขาด!"
     },
     {
-      "character": "Vanguard Sentry S7",
+      "key": "purginghostiles",
       "text_en": "Purging hostiles.",
       "text": "กำลังกวาดล้างผู้ประสงค์ร้าย"
     },
     {
-      "character": "Vanguard Sentry G7",
+      "key": "resistanceisfutile",
       "text_en": "Resistance is futile.",
       "text": "การขัดขืนนั้นเปล่าประโยชน์"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "thatsuchaseriousbreachshouldbeallowedbutitendsnow",
       "text_en": "That such a serious breach should be allowed... But it ends now.",
       "text": "ไม่น่าเชื่อว่าจะปล่อยให้มีการบุกรุกร้ายแรงขนาดนี้เกิดขึ้น... แต่มันจะจบลงแค่นี้แหละ"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "weredeemourhonorwithyourlives",
       "text_en": "We redeem our honor with your lives!",
       "text": "พวกเราจะกอบกู้เกียรติยศคืนมาด้วยชีวิตของพวกแก!"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "youtrulybelieveyourselfamatchforustheaudacity",
       "text_en": "You truly believe yourself a match for us? The audacity!",
       "text": "คิดว่าฝีมืออย่างพวกแกจะคู่ควรเป็นคู่ต่อสู้ของพวกเรางั้นเหรอ? ช่างกล้าดีแท้!"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "onyourknees",
       "text_en": "On your knees!",
       "text": "คุกเข่าลงไปซะ!"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "zoraaljawillhaveyourheadonapike",
       "text_en": "Zoraal Ja will have your head on a pike!",
       "text": "โซราล จา จะต้องเสียบประจานหัวของแก!"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "youstillstandimpressive",
       "text_en": "You still stand. Impressive...",
       "text": "ยังยืนหยัดอยู่ได้งั้นรึ น่าประทับใจดีนี่..."
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "knowyourplace",
       "text_en": "Know your place!",
       "text": "เจียมตัวซะบ้าง!"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "hhowhowcouldyouugh",
       "text_en": "H-How...? How could you... Ugh...",
       "text": "บะ...บ้าน่ะ...? พวกแกทำได้ยังไง... อึก..."
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "allrightnomoregames",
       "text_en": "All right. No more games!",
       "text": "ก็ได้... หมดเวลาเล่นสนุกแล้ว!"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "icallonthesouloftheserpentthegreatdevourergivemethestrengthtodestroyourenemies",
       "text_en": "I call on the soul of the serpent, the great devourer. Give me the strength to destroy our enemies.",
       "text": "ข้าขออัญเชิญดวงวิญญาณแห่งอสรพิษ ผู้กลืนกินอันยิ่งใหญ่ มอบพลังในการทำลายล้างศัตรูให้แก่ข้าด้วยเถิด"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "youllpayforthesoulsyouvemademewastethisday",
       "text_en": "You'll pay for the souls you've made me waste this day.",
       "text": "แกต้องชดใช้กับดวงวิญญาณที่ทำให้ข้าต้องเสียไปในวันนี้"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "illtearyoulimbfromlimb",
       "text_en": "I'll tear you limb from limb!",
       "text": "ข้าจะฉีกแกออกเป็นชิ้นๆ!"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "giveupnowandillmakethisquick",
       "text_en": "Give up now and I'll make this quick!",
       "text": "ยอมแพ้ตอนนี้ซะ แล้วข้าจะสงเคราะห์ให้ตายสบายๆ!"
     },
     {
-      "character": "Zander the Snakeskinner",
+      "key": "nonecansurvivetheserpentsart",
       "text_en": "None can survive the serpent's art!",
       "text": "ไม่มีใครรอดพ้นจากศาสตร์แห่งอสรพิษไปได้หรอก!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thatwasamostunexpectedtransformation",
       "text_en": "That was a most unexpected transformation.",
       "text": "เป็นการกลายร่างที่คาดไม่ถึงเลยจริงๆ ครับ"
     },
     {
-      "character": "Krile",
+      "key": "hewasmoresnakethanmanbytheend",
       "text_en": "He was more snake than man by the end...",
       "text": "ตอนท้ายนั่น เขาแทบไม่เหลือความเป็นมนุษย์แล้ว กลายเป็นงูไปซะหมดเลย..."
     },
     {
-      "character": "Alisaie",
+      "key": "nowtoseewhatsinsidethedome",
       "text_en": "Now to see what's inside the dome.",
       "text": "เอาล่ะ ไปดูกันเถอะว่าข้างในโดมมีอะไรอยู่กันแน่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightletsgetmoving",
       "text_en": "Right! Let's get moving!",
       "text": "ใช่แล้ว! รีบไปกันเถอะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "timetomakethempay",
       "text_en": "Time to make them pay!",
       "text": "ได้เวลาสั่งสอนให้พวกมันชดใช้แล้ว!"
     },
     {
-      "character": "Alisaie",
+      "key": "rightletsgivethemasoundthrashing",
       "text_en": "Right, let's give them a sound thrashing!",
       "text": "ใช่ ซัดพวกมันให้หมอบกระแตไปเลย!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "letsgetinsidequickly",
       "text_en": "Let's get inside, quickly!",
       "text": "รีบเข้าไปข้างในกันเถอะครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "finallytimetogoontheoffensive",
       "text_en": "Finally, time to go on the offensive!",
       "text": "ในที่สุดก็ได้เวลาเป็นฝ่ายเปิดฉากโจมตีบ้างแล้ว!"
     },
     {
-      "character": "Krile",
+      "key": "thewayisopenweshouldhurry",
       "text_en": "The way is open. We should hurry.",
       "text": "ทางเปิดแล้ว พวกเราต้องรีบกันหน่อย"
     },
     {
-      "character": "Krile",
+      "key": "zoraaljaholdscommandoverallofthis",
       "text_en": "Zoraal Ja holds command over all of this?",
       "text": "โซราล จา เป็นคนควบคุมดูแลทั้งหมดนี่เลยเหรอ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "wellthatdidnttakelong",
       "text_en": "Well, that didn't take long.",
       "text": "อืม... ใช้เวลาไม่นานเลยแฮะ"
     },
     {
-      "character": "Alisaie",
+      "key": "bringiton",
       "text_en": "Bring it on!",
       "text": "เข้ามาเลย!"
     },
     {
-      "character": "Krile",
+      "key": "iseveryoneready",
       "text_en": "Is everyone ready?",
       "text": "ทุกคนพร้อมกันหรือยัง?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thisisnotatalllikethegarleansortheallagans",
       "text_en": "This is not at all like the Garleans or the Allagans.",
       "text": "เทคโนโลยีพวกนี้ไม่เหมือนของพวกการ์ลีนหรือออลาแกนเลยสักนิด"
     },
     {
-      "character": "Krile",
+      "key": "idaresaywevenotseenitslikebefore",
       "text_en": "I daresay we've not seen its like before.",
       "text": "ฉันกล้าพูดเลยว่าเราไม่เคยเห็นอะไรแบบนี้มาก่อนแน่ๆ"
     },
     {
-      "character": "Alisaie",
+      "key": "arewestillintheirencampment",
       "text_en": "Are we still in their encampment?",
       "text": "นี่เรายังอยู่ในค่ายของพวกมันอยู่อีกเหรอ?"
     },
     {
-      "character": "Krile",
+      "key": "whocouldhavebuiltallthis",
       "text_en": "Who could have built all this?",
       "text": "ใครกันนะที่สร้างของพวกนี้ขึ้นมาทั้งหมด?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "aredvehicleanindicationofrankperhaps",
       "text_en": "A red vehicle. An indication of rank, perhaps?",
       "text": "ยานพาหนะสีแดงงั้นเหรอ หรือจะเป็นตัวบ่งชี้ตำแหน่งฐานะกันนะ?"
     },
     {
-      "character": "Alisaie",
+      "key": "welltheyhavegoodtasteincolorsillgivethemthat",
       "text_en": "Well, they have good taste in colors, I'll give them that.",
       "text": "แหม แต่อย่างน้อยก็เลือกสีได้ตาถึงดีนะเนี่ย"
     },
     {
-      "character": "Alisaie",
+      "key": "whathavewehere",
       "text_en": "What have we here?",
       "text": "นั่นมีอะไรอยู่ตรงนั้นน่ะ?"
     },
     {
-      "character": "Krile",
+      "key": "nodoubtitsasswiftastheothershavecare",
       "text_en": "No doubt it's as swift as the others. Have care.",
       "text": "มันน่าจะเร็วเหมือนเครื่องจักรตัวอื่นๆ แน่ๆ ระวังตัวด้วยนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatwasclose",
       "text_en": "That was close!",
       "text": "หวุดหวิดไป!"
     },
     {
-      "character": "Alisaie",
+      "key": "wellthatsonewaytofight",
       "text_en": "Well, that's one way to fight.",
       "text": "ก็นะ... ถือเป็นวิธีต่อสู้ที่แปลกดี"
     },
     {
-      "character": "Krile",
+      "key": "wasthatabladejustnow",
       "text_en": "Was that a blade just now?",
       "text": "เมื่อกี้คือใบมีดงั้นเหรอ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "suchspeed",
       "text_en": "Such speed...",
       "text": "เร็วมากเลย..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "aboveus",
       "text_en": "Above us!",
       "text": "ข้างบนนั่น!"
     },
     {
-      "character": "Alisaie",
+      "key": "theymeantodropbombsonus",
       "text_en": "They mean to drop bombs on us?",
       "text": "กะจะทิ้งระเบิดใส่เรางั้นสิ?"
     },
     {
-      "character": "Krile",
+      "key": "lookout",
       "text_en": "Look out!",
       "text": "ระวัง!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "standclear",
       "text_en": "Stand clear!",
       "text": "ถอยออกมาครับ!"
     },
     {
-      "character": "Krile",
+      "key": "sofarsogood",
       "text_en": "So far, so good.",
       "text": "เท่าที่ผ่านมายังถือว่าราบรื่นดี"
     },
     {
-      "character": "Alisaie",
+      "key": "theyllhavetotryharderthanthat",
       "text_en": "They'll have to try harder than that.",
       "text": "พวกมันต้องพยายามให้มากกว่านี้หน่อยแล้วล่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "letskeepmoving",
       "text_en": "Let's keep moving.",
       "text": "เดินหน้าต่อไปกันเถอะครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "heretheycome",
       "text_en": "Here they come!",
       "text": "พวกมันมากันแล้ว!"
     },
     {
-      "character": "Alisaie",
+      "key": "watchout",
       "text_en": "Watch out!",
       "text": "ระวังด้วย!"
     },
     {
-      "character": "Krile",
+      "key": "istherenoendtotheirdefenses",
       "text_en": "Is there no end to their defenses?",
       "text": "ระบบป้องกันของพวกมันไม่มีวันหมดเลยหรือไงกัน?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "everythingappearstobemadeofthesamestrangesubstance",
       "text_en": "Everything appears to be made of the same strange substance.",
       "text": "ดูเหมือนว่าทุกสิ่งทุกอย่างจะถูกสร้างขึ้นมาจากสสารประหลาดชนิดเดียวกันเลยนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisplacejustkeepsgettingstrangerandstranger",
       "text_en": "This place just keeps getting stranger and stranger.",
       "text": "ที่นี่ชวนสับสนขึ้นเรื่อยๆ เลยแฮะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thesoonerwecanleavethisplacethebetter",
       "text_en": "The sooner we can leave this place, the better.",
       "text": "ยิ่งรีบออกไปจากที่นี่ได้เร็วเท่าไหร่ก็ยิ่งดีเท่านั้น"
     },
     {
-      "character": "Krile",
+      "key": "nowheretogobutforwarditseems",
       "text_en": "Nowhere to go but forward, it seems...",
       "text": "ดูเหมือนเราจะไม่มีทางเลือกอื่นนอกจากต้องเดินหน้าต่อไป..."
     },
     {
-      "character": "Alisaie",
+      "key": "iwasonlyjokingwhenisaidtheyneedtotryharder",
       "text_en": "I was only joking when I said they need to try harder.",
       "text": "ที่ฉันบ่นว่าให้พยายามมากกว่านี้เมื่อกี้ ฉันแค่พูดเล่นหรอกนะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "wellwellwhathavewehere",
       "text_en": "Well, well. What have we here?",
       "text": "โฮ่... มีตัวอะไรอยู่ตรงนั้นน่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hmphanotherhunkofmetalforthescrappile",
       "text_en": "Hmph. Another hunk of metal for the scrap pile.",
       "text": "หึ... เศษเหล็กผุๆ อีกชิ้นที่จะโดนเราบดขยี้"
     },
     {
-      "character": "Krile",
+      "key": "thisoneisratherimposingisntit",
       "text_en": "This one is rather imposing, isn't it?",
       "text": "เจ้านี่ดูท่าทางน่ากลัวไม่เบาเลยนะ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "carefulitmakesreadytostrike",
       "text_en": "Careful! It makes ready to strike!",
       "text": "ระวังด้วยครับ! มันเตรียมตัวจะโจมตีแล้ว!"
     },
     {
-      "character": "Krile",
+      "key": "whatmannerofweaponisthis",
       "text_en": "What manner of weapon is this?",
       "text": "นี่มันอาวุธประเภทไหนกันเนี่ย?"
     },
     {
-      "character": "Alisaie",
+      "key": "dotheyreallyneedsomanyweapons",
       "text_en": "Do they really need so many weapons?",
       "text": "พวกมันจำเป็นต้องพกอาวุธเยอะแยะขนาดนี้เชียวเหรอ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "allwehavetodoisdodgeeasyright",
       "text_en": "All we have to do is dodge. Easy...right?",
       "text": "สิ่งที่เราต้องทำก็แค่หลบให้พ้น... ง่ายๆ ใช่ไหมล่ะ?"
     },
     {
-      "character": "Alisaie",
+      "key": "whatnow",
       "text_en": "What now?",
       "text": "คราวนี้มีอะไรอีก?"
     },
     {
-      "character": "Krile",
+      "key": "theairisthickwithlightningaether",
       "text_en": "The air is thick with lightning aether.",
       "text": "อากาศรอบตัวหนาแน่นไปด้วยอีเธอร์ธาตุสายฟ้าเต็มไปหมด"
     },
     {
-      "character": "G'raha Tia",
+      "key": "carefulnottotouchthosebarriers",
       "text_en": "Careful not to touch those barriers.",
       "text": "ระวังอย่าไปสัมผัสกับบาเรียพวกนั้นนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "idrathernotgetshockedificanhelpit",
       "text_en": "I'd rather not get shocked if I can help it.",
       "text": "ฉันเองก็ไม่อยากโดนไฟช็อตเล่นเหมือนกันแหละ"
     },
     {
-      "character": "Alisaie",
+      "key": "gladthatsoverwith",
       "text_en": "Glad that's over with.",
       "text": "โล่งอกที่ผ่านพ้นไปได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hahthatwastooeasy",
       "text_en": "Hah, that was too easy!",
       "text": "ฮ่าฮ่า ง่ายเกินคาดเลยแฮะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "howmuchfurtheriwonder",
       "text_en": "How much further, I wonder?",
       "text": "อยากรู้จังว่าต้องไปอีกไกลแค่ไหน?"
     },
     {
-      "character": "Krile",
+      "key": "howwaszoraaljaabletoconceiveofsuchweaponry",
       "text_en": "How was Zoraal Ja able to conceive of such weaponry?",
       "text": "โซราล จา ไปคิดค้นอาวุธพรรค์นี้มาจากไหนกันนะ?"
     },
     {
-      "character": "Krile",
+      "key": "thewallshumwithenergy",
       "text_en": "The walls hum with energy!",
       "text": "กำแพงพวกนี้กำลังส่งเสียงครางฮือเพราะพลังงานที่แล่นผ่านล่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letsdealwiththisquicklyandgetgoing",
       "text_en": "Let's deal with this quickly and get going!",
       "text": "รีบจัดการให้เสร็จแล้วไปต่อกันเถอะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "wellnotbesoeasilydiscouraged",
       "text_en": "We'll not be so easily discouraged.",
       "text": "พวกเราไม่ท้อถอยกับเรื่องแค่นี้หรอกครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "didtheyreallythinkthiswoulddeterus",
       "text_en": "Did they really think this would deter us?",
       "text": "พวกมันคิดจริงๆ เหรอว่าเรื่องแค่นี้จะหยุดเราได้?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isthisthebesttheycando",
       "text_en": "Is this the best they can do?",
       "text": "มีความสามารถแค่นี้เองงั้นเหรอ?"
     },
     {
-      "character": "Alisaie",
+      "key": "ifitiswellbethroughinnotimeatall",
       "text_en": "If it is, we'll be through in no time at all.",
       "text": "ถ้ามีแค่นี้จริง พวกเราคงฝ่าไปได้สบายๆ ในไม่ช้าแน่"
     },
     {
-      "character": "G'raha Tia",
+      "key": "theyregrowingdesperate",
       "text_en": "They're growing desperate.",
       "text": "พวกมันเริ่มจะจนมุมแล้วล่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "asifthiswouldstopus",
       "text_en": "As if this would stop us.",
       "text": "คิดว่าขยะพวกนี้จะหยุดเราได้เรอะ"
     },
     {
-      "character": "Krile",
+      "key": "wemustbegettingclosetoanexit",
       "text_en": "We must be getting close to an exit.",
       "text": "พวกเราน่าจะใกล้ถึงทางออกแล้วล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "thisoneappearstobehuman",
       "text_en": "This one appears to be human.",
       "text": "ดูเหมือนว่าคนนี้จะเป็นมนุษย์นะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisistheirleader",
       "text_en": "This is their leader?",
       "text": "เจ้านี่น่ะเหรอหัวหน้าของพวกมัน?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "somethingsnotrightaboutthis",
       "text_en": "Something's not right about this.",
       "text": "มีบางอย่างไม่ชอบมาพากลแฮะ"
     },
     {
-      "character": "Alisaie",
+      "key": "sotheyreallthatstandsbetweenusandthewayout",
       "text_en": "So they're all that stands between us and the way out?",
       "text": "งั้นเจ้าหมอนี่ก็คืออุปสรรคชิ้นสุดท้ายก่อนที่เราจะออกไปสินะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohoveralready",
       "text_en": "Oh. Over already...",
       "text": "อ้าว จบเห่ซะแล้ว..."
     },
     {
-      "character": "Alisaie",
+      "key": "wedidit",
       "text_en": "We did it!",
       "text": "สำเร็จแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsthesameaszoraalja",
       "text_en": "It's the same as Zoraal Ja!",
       "text": "เหมือนกับกรณีของโซราล จา เลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "whatbuthow",
       "text_en": "What!? But how?",
       "text": "อะไรนะ!? แต่ได้ยังไงกัน?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thatwasnoresurrectionmagick",
       "text_en": "That was no resurrection magick...",
       "text": "นั่นไม่ใช่เวทชุบชีวิตธรรมดาๆ แน่..."
     },
     {
-      "character": "Krile",
+      "key": "onyourguardeveryone",
       "text_en": "On your guard, everyone!",
       "text": "ระวังตัวด้วยทุกคน!"
     },
     {
-      "character": "Alisaie",
+      "key": "helooksmoresnakethanmannow",
       "text_en": "He looks more snake than man now.",
       "text": "ตอนนี้หมอนั่นกลายสภาพจนเหมือนงูมากกว่าคนไปแล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whwhatisthat",
       "text_en": "Wh-What is that !?",
       "text": "นี่มันตัวอะไรกันเนี่ย!?"
     },
     {
-      "character": "Krile",
+      "key": "aharrowingtransformation",
       "text_en": "A harrowing transformation.",
       "text": "เป็นการเปลี่ยนร่างที่น่าสะพรึงกลัวเหลือเกิน"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itsnotunlikethechimerasofallag",
       "text_en": "It's not unlike the chimeras of Allag.",
       "text": "ดูไม่ต่างจากพวกคิเมร่าของออลาแกนเลยแฮะ"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "whatgreeteduswasnotthehomethatihadleftbehind",
       "text_en": "What greeted us was not the home that I had left behind.",
       "text": "สิ่งแรกที่ต้อนรับพวกเรา... ไม่ใช่บ้านเกิดเมืองนอนที่ผมเคยจากไป"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "therewasnomistakingwehadreachedyyasulaniandyet",
       "text_en": "There was no mistaking we had reached Yyasulani, and yet...",
       "text": "ไม่มีข้อสงสัยเลยว่าพวกเรามาถึงยาสุรานีแล้ว แต่ทว่า..."
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "itwaswhollyunlikemymemoriesthelandsofmychildhoodhadchangedbeyondimagining",
       "text_en": "It was wholly unlike my memories. The lands of my childhood had changed beyond imagining.",
       "text": "มันช่างแตกต่างจากความทรงจำของผมโดยสิ้นเชิง ดินแดนในวัยเยาว์แปรเปลี่ยนไปจนเกินกว่าจะจินตนาการ"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "towherehadireturned",
       "text_en": "To where had I returned?",
       "text": "แท้จริงแล้ว... ผมกลับมาเยือนสถานที่แห่งใดกันแน่?"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "wetreadonthedarkenedskiesaboveamirrortomyheartcloudedwithfearanduncertainty",
       "text_en": "We tread on, the darkened skies above a mirror to my heart. Clouded with fear and uncertainty.",
       "text": "พวกเราก้าวเดินต่อไป ท้องฟ้ายามราตรีอันมืดมิดสะท้อนภาพในใจของผม... ที่เต็มไปด้วยความกลัวและความลังเลใจ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "howbizarre",
       "text_en": "How...bizarre.",
       "text": "ช่าง...ประหลาดแท้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thiscannotbeyyasulanicanit",
       "text_en": "This cannot be Yyasulani, can it?",
       "text": "ที่นี่ไม่ใช่ยาสุรานีหรอกมั้ง ใช่ไหม?"
     },
     {
-      "character": "Krile",
+      "key": "thisisyyasulani",
       "text_en": "This is Yyasulani...?",
       "text": "นี่คือยาสุรานีจริงๆ เหรอ...?"
     },
     {
-      "character": "Erenville",
+      "key": "whathappenedhere",
       "text_en": "What happened here...?",
       "text": "เกิดอะไรขึ้นที่นี่กันแน่...?"
     },
     {
-      "character": "Alisaie",
+      "key": "idontknowwhatiwasexpectingbutitwasntthis",
       "text_en": "I don't know what I was expecting, but it wasn't this.",
       "text": "ฉันเองก็ไม่รู้เหมือนกันว่าคาดหวังจะเจออะไร แต่ต้องไม่ใช่สภาพแบบนี้แน่ๆ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "therewasnosensationofpassingintoadifferentworldthiscouldntbeareflectioncouldit",
       "text_en": "There was no sensation of passing into a different world. This couldn't be a reflection...could it?",
       "text": "ตอนเข้ามาก็ไม่ยักรู้สึกว่าข้ามไปอีกโลกหนึ่งเลยแฮะ หรือว่าที่นี่จะไม่ใช่โลกต่างมิติกันนะ...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwaspreparedforsomethingstrangebutthisitslikeanotherworld",
       "text_en": "I was prepared for something strange, but this... It's like another world.",
       "text": "ฉันทำใจเผื่อเรื่องประหลาดๆ ไว้แล้วนะ แต่ภาพที่เห็นนี่มัน... อย่างกับหลุดมาอยู่อีกโลกเลย"
     },
     {
-      "character": "Erenville",
+      "key": "iidontunderstand",
       "text_en": "I...I don't understand...",
       "text": "ผม... ผมไม่เข้าใจเลยสักนิด..."
     }

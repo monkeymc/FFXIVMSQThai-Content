@@ -1,401 +1,388 @@
 {
-  "id": "a-jewel-shattered",
-  "wiki_path": "/wiki/A_Jewel_Shattered",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.2",
-  "title_en": "A Jewel Shattered",
-  "title": "อัญมณีที่แหลกสลาย",
-  "level": "100",
-  "location": "Solution Nine(X:17.1,Y:19.6)",
-  "npc_start": "Sphene",
+  "quest_id": "a-jewel-shattered",
   "dialogues": [
     {
-      "character": "Gulool Ja",
+      "key": "imgladimthewayiamitsmyparentsgifttomeandhowiwasabletolearnmoreaboutthemandaboutmyself",
       "text_en": "I'm glad I'm the way I am. It's my parents' gift to me, and how I was able to learn more about them─and about myself.",
       "text": "ผมดีใจที่เป็นอย่างที่เป็นอยู่นี้ครับ มันคือของขวัญที่พ่อแม่มอบให้ และเป็นสิ่งที่ช่วยให้ผมได้เรียนรู้เกี่ยวกับพวกเขามากขึ้น—รวมถึงเกี่ยวกับตัวเองด้วยครับ"
     },
     {
-      "character": "Sphene",
+      "key": "ibelievethattakescareofthedeliveriesthankyoufortakingchargeforename",
       "text_en": "I believe that takes care of the deliveries. Thank you for taking charge, Forename .",
       "text": "ฉันคิดว่าส่งของครบถ้วนเรียบร้อยแล้วล่ะค่ะ ขอบคุณที่เป็นธุระให้นะคะ [ชื่อ]"
     },
     {
-      "character": "Sphene",
+      "key": "fromwhativeseenandheardtisplainthepeopleheldtheirqueeninhighregardandthesimulanthasexploitedtheirloveandadmirationtowinoversoverymany",
       "text_en": "From what I've seen and heard, 'tis plain the people held their queen in high regard. And the simulant has exploited their love and admiration to win over so very many...",
       "text": "จากเท่าที่ฉันได้เห็นและได้ยินมา เห็นได้ชัดเลยค่ะว่าประชาชนรักและเคารพราชินีของพวกเขามากขนาดไหน และร่างจำลองนั่นก็ฉวยใช้ความรักและความเลื่อมใสของพวกเขา เพื่อซื้อใจผู้คนไปได้มากมายเหลือเกิน..."
     },
     {
-      "character": "Sphene",
+      "key": "comeletusreporttomalachiteheshouldbebackatthenorthoftherecreationzone",
       "text_en": "Come, let us report to Malachite. He should be back at the north of the recreation zone.",
       "text": "ไปกันเถอะค่ะ พวกเราไปรายงานผลกับคุณมาลาไคต์กัน เขาควรจะกลับไปทางเหนือของเขตนันทนาการแล้วล่ะค่ะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "malachiteseemstobedoingbetter",
       "text_en": "Malachite seems to be doing better.",
       "text": "คุณมาลาไคต์ดูท่าทางดีขึ้นแล้วนะครับ"
     },
     {
-      "character": "Sphene",
+      "key": "thosewespokewithallharboredanxietytowardsdeathtishardlyanunnaturalsentimenttohaveandyet",
       "text_en": "Those we spoke with all harbored anxiety towards death. 'Tis hardly an unnatural sentiment to have, and yet...",
       "text": "ผู้คนที่เราพูดคุยด้วยต่างก็มีความกังวลเรื่องความตายกันทั้งนั้น ไม่ใช่เรื่องแปลกอะไรหรอกค่ะที่จะรู้สึกแบบนั้น ทว่า..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "donewithyourdeliverieswevejustgottenbackourselves",
       "text_en": "Done with your deliveries? We've just gotten back ourselves.",
       "text": "ส่งของเสร็จกันแล้วเหรอ? พวกฉันเองก็เพิ่งกลับมาถึงเหมือนกัน"
     },
     {
-      "character": "Malachite",
+      "key": "thankyouforyourassistancewiththiseverydeliveryihadplannedfortodayisaccountedfor",
       "text_en": "Thank you for your assistance. With this, every delivery I had planned for today is accounted for.",
       "text": "ขอบคุณที่ช่วยนะครับ เท่านี้ของที่จะส่งทั้งหมดที่ฉันวางแผนไว้สำหรับวันนี้ก็เรียบร้อยแล้ว"
     },
     {
-      "character": "Malachite",
+      "key": "thereactionsireceivedweremixedwhilesomeweregladothersdecidedtheydidnotwanttheitemsafterallhowwasyourexperience",
       "text_en": "The reactions I received were...mixed. While some were glad, others decided they did not want the items after all. How was your experience?",
       "text": "ปฏิกิริยาที่ฉันได้รับมัน... ค่อนข้างหลากหลายน่ะครับ บางคนก็ดีใจ แต่บางคนก็ตัดสินใจว่าไม่ต้องการของพวกนี้แล้ว ทางฝั่งพวกเธอเป็นอย่างไรบ้างล่ะครับ?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "everyoneacceptedtheiritemsbuttheyallfeltdifferentlyaboutthemonepersoncouldntrememberthekeepsakesownerandanothercouldntstopworryingabouttheirowndeath",
       "text_en": "Everyone accepted their items, but they all felt differently about them. One person couldn't remember the keepsake's owner, and another couldn't stop worrying about their own death.",
       "text": "ทุกคนยอมรับของไปหมดครับ แต่พวกเขารู้สึกต่างกันไปหมดเลย มีคนหนึ่งจำเจ้าของของดูต่างหน้าไม่ได้ ส่วนอีกคนก็กังวลเรื่องความตายของตัวเองไม่หยุดเลยครับ"
     },
     {
-      "character": "Malachite",
+      "key": "iseeitsdifficultindeedtopredicthowpeoplemaybehavewhenconfrontedwithremindersofloss",
       "text_en": "I see. It's difficult indeed to predict how people may behave when confronted with reminders of loss.",
       "text": "อย่างนั้นหรือครับ มันยากจริงๆ ที่จะคาดเดาว่าผู้คนจะแสดงออกอย่างไรเมื่อต้องเผชิญหน้ากับสิ่งคอยเตือนใจถึงความสูญเสีย"
     },
     {
-      "character": "Malachite",
+      "key": "oflateivecometobelievethatweareeachofusthesumofthemomentswevesharedwithourlovedones",
       "text_en": "...Of late, I've come to believe that we are each of us the sum of the moments we've shared with our loved ones.",
       "text": "...ระยะหลังมานี้ ฉันเริ่มเชื่อแล้วว่าตัวตนของเราแต่ละคนนั้น คือผลรวมของช่วงเวลาที่เราได้แบ่งปันร่วมกับคนที่เรารัก"
     },
     {
-      "character": "Malachite",
+      "key": "andwhentheypassedawayandwelostourmemoriesofthesepeoplewelostapartofourselvesitsathoughtthatsaddensmetonoend",
       "text_en": "And when they passed away, and we lost our memories of these people...we lost a part of ourselves. It's a thought that saddens me to no end...",
       "text": "และเมื่อพวกเขาจากไป แล้วพวกเราต้องสูญเสียความทรงจำเกี่ยวกับคนเหล่านั้น... พวกเราก็สูญเสียเศษเสี้ยวของตัวเองไปด้วย มันเป็นความคิดที่ทำให้ฉันเศร้าอย่างบอกไม่ถูกเลยครับ..."
     },
     {
-      "character": "Malachite",
+      "key": "ifourmemoriesofthedepartedarenolongertobeentrustedtothecloudiwishthatthosealreadytakencouldbereturnedtous",
       "text_en": "If our memories of the departed are no longer to be entrusted to the cloud, I wish that those already taken could be returned to us...",
       "text": "หากความทรงจำเกี่ยวกับผู้ล่วงลับไม่สามารถฝากไว้กับคลาวด์ได้อีกต่อไป ฉันก็หวังว่าส่วนที่เคยถูกพรากไปจะกลับคืนมาหาเราบ้าง..."
     },
     {
-      "character": "Malachite",
+      "key": "wellmyfriendsimustresumemyformaldutiesmythanksagainforyouraid",
       "text_en": "Well, my friends, I must resume my formal duties. My thanks again for your aid.",
       "text": "เอาละทุกท่าน ฉันต้องกลับไปทำหน้าที่การงานตามปกติแล้วล่ะครับ ขอบคุณสำหรับความช่วยเหลืออีกครั้งนะ"
     },
     {
-      "character": "Sphene",
+      "key": "malachitespeakstrueourmemoriesarewhatdefineustheyformthepathwewalkedtobewhereweare",
       "text_en": "Malachite speaks true─our memories are what define us. They form the path we walked to be where we are.",
       "text": "คุณมาลาไคต์พูดถูกค่ะ... ความทรงจำคือสิ่งที่นิยามตัวตนของเรา มันเป็นเสมือนเส้นทางที่เราเดินผ่านมาจนถึงจุดนี้"
     },
     {
-      "character": "Sphene",
+      "key": "myendlessselfiexpectwasmuchaliketomeinthebeginning",
       "text_en": "My Endless self, I expect, was much alike to me in the beginning.",
       "text": "ฉันคิดว่าตัวฉันในฐานะเอ็นด์เลส ในช่วงแรกเริ่มก็น่าจะคล้ายกับตัวฉันในตอนนี้มากเลยค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "buticannotbecomelikehernomorethanshecouldbecomelikemeforonceourpathsdivergedsotoodidourlivesandexperiences",
       "text_en": "But I cannot become like her no more than she could become like me. For once our paths diverged, so too did our lives and experiences.",
       "text": "แต่ฉันไม่มีวันเป็นเหมือนเธอได้ เช่นเดียวกับที่เธอไม่มีวันเป็นเหมือนฉัน เพราะเมื่อเส้นทางของเราแยกจากกัน ชีวิตและประสบการณ์ที่ได้รับก็ย่อมต่างกันไปค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatstrueevenifwestartfromthesameplaceweallhavedifferentjourneysatsomepointthingslikeourgoalsandourwaysofthinkingareboundtochange",
       "text_en": "That's true... Even if we start from the same place, we all have different journeys. At some point, things like our goals and our ways of thinking are bound to change.",
       "text": "จริงด้วยนะ... ต่อให้เราจะเริ่มต้นจากจุดเดียวกัน แต่การเดินทางของแต่ละคนมันต่างกัน ถึงจุดหนึ่ง เป้าหมายหรือวิธีคิดของเราก็ย่อมต้องเปลี่ยนไปเป็นธรรมดา"
     },
     {
-      "character": "Sphene",
+      "key": "theendlesssphenewasonepossibilityaversionofmyselfwhomadechoicesiwanttobelieveineverwouldimbeginningtocometotermswiththefactididthough",
       "text_en": "The Endless Sphene was one possibility. A version of myself who made choices I want to believe I never would. I'm beginning to come to terms with the fact I did , though.",
       "text": "สฟีนในร่างเอ็นด์เลสคือหนึ่งในความเป็นไปได้ค่ะ เป็นตัวฉันอีกเวอร์ชันหนึ่งที่เลือกทำในสิ่งที่ฉันอยากจะเชื่อว่าตัวเองไม่มีวันทำ... แต่ฉันก็เริ่มยอมรับความจริงแล้วล่ะค่ะว่าฉันทำลงไปจริงๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "huhisthat",
       "text_en": "Huh? Is that...",
       "text": "เอ๊ะ? นั่นมัน..."
     },
     {
-      "character": "Sphene",
+      "key": "thesimulant",
       "text_en": "The simulant!?",
       "text": "ร่างจำลองนั่นเหรอคะ!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "shewaslookingstraightatusifididntknowbetteridsayshewantedustofollowher",
       "text_en": "She was looking straight at us... If I didn't know better, I'd say she wanted us to follow her.",
       "text": "หล่อนมองตรงมาที่พวกเราเลย... ถ้าไม่คิดอะไรมาก ฉันคงคิดว่าหล่อนอยากให้พวกเราตามไปซะอีก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ihaveabadfeelingaboutthisbutwemightnothaveanotherchancetofigureoutwhatshesuptoweregoingafterherright",
       "text_en": "I have a bad feeling about this, but we might not have another chance to figure out what she's up to. We're going after her, right?",
       "text": "ฉันสังหรณ์ใจไม่ค่อยดีเลย แต่พวกเราอาจจะไม่มีโอกาสอื่นที่จะได้รู้ว่าหล่อนกำลังวางแผนอะไรอยู่อีกแล้วล่ะ ตามหล่อนไปกันใช่ไหม?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "thatwasmyfirsttimeseeingthesimulantthoughshewassmilingsomethingaboutherscaredme",
       "text_en": "That was my first time seeing the simulant. Though she was smiling, something about her scared me...",
       "text": "นี่เป็นครั้งแรกที่ผมได้เห็นร่างจำลองเลยครับ ถึงเธอจะยิ้มอยู่ แต่มีบางอย่างเกี่ยวกับตัวเธอที่ทำให้ผมรู้สึกกลัว..."
     },
     {
-      "character": "Sphene",
+      "key": "tisastrangefeelingpursuingonesspittingimagewheredoesshewantustogoiwonder",
       "text_en": "'Tis a strange feeling, pursuing one's spitting image. Where does she want us to go, I wonder...",
       "text": "มันเป็นความรู้สึกที่แปลกประหลาดจริงๆ ค่ะที่ต้องตามล่าคนที่หน้าตาเหมือนตัวเองเปี๊ยบแบบนี้ อยากรู้จังเลยค่ะว่าเธอต้องการให้พวกเราไปที่ไหนกันแน่..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thesimulantheadedintothestreetoverthere",
       "text_en": "The simulant headed into the street over there.",
       "text": "ร่างจำลองมุ่งหน้าเข้าไปในถนนตรงนั้นแล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theneonsteinisthatwayletshurry",
       "text_en": "The Neon Stein is that way... Let's hurry.",
       "text": "ทางนั้นมันไปร้านนีออนสไตน์นี่... รีบกันเถอะ"
     },
     {
-      "character": "Sphene",
+      "key": "whatissheupto",
       "text_en": "What is she up to...?",
       "text": "เธอต้องการจะทำอะไรกันแน่นะ...?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "idontlikethis",
       "text_en": "I don't like this...",
       "text": "ผมรู้สึกไม่ค่อยดีเลยครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "didweloseher",
       "text_en": "Did we lose her!?",
       "text": "คลาดกันงั้นเหรอ!?"
     },
     {
-      "character": "Sphene",
+      "key": "nothereletspressonifonlyalittlefurther",
       "text_en": "Not here... Let's press on, if only a little further.",
       "text": "ไม่ได้อยู่แถวนี้... ลองเดินต่อกันไปอีกสักหน่อยเถอะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "huh",
       "text_en": "Huh?",
       "text": "เอ๊ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "heyareyoualright",
       "text_en": "Hey! Are you alright!?",
       "text": "เฮ้! เป็นอะไรหรือเปล่า!?"
     },
     {
-      "character": "???",
+      "key": "soheshedidntdievexingbutexpected",
       "text_en": "So he / she didn't die. Vexing, but expected.",
       "text": "ยังไม่ตายงั้นรึ... ช่างน่าขัดใจนัก แต่ก็เป็นไปตามคาด"
     },
     {
-      "character": "Simulant",
+      "key": "thatwasaboutthestrongestboltwecanproducewithineverkeepwhatnow",
       "text_en": "That was about the strongest bolt we can produce within Everkeep. What now?",
       "text": "นั่นคือสายฟ้าที่แรงที่สุดเท่าที่เราจะสร้างได้ภายในเอเวอร์คีปแล้วล่ะค่ะ ต่อจากนี้จะเอาอย่างไรดีคะ?"
     },
     {
-      "character": "???",
+      "key": "weobtainmoreprecisemeasurementsnarrowtherangeofvariablestoavoidunnecessarytrialanderrorthatisthemostexpeditiouscourseofaction",
       "text_en": "We obtain more precise measurements. Narrow the range of variables to avoid unnecessary trial and error. That is the most expeditious course of action.",
       "text": "เราต้องเก็บผลการวัดที่แม่นยำกว่านี้ บีบขอบเขตของตัวแปรให้แคบลงเพื่อหลีกเลี่ยงการลองผิดลองถูกโดยไม่จำเป็น นั่นเป็นขั้นตอนการทำงานที่รวดเร็วที่สุดแล้ว"
     },
     {
-      "character": "Sphene",
+      "key": "iknowthatvoice",
       "text_en": "I know that voice...",
       "text": "ฉันจำเสียงนั้นได้..."
     },
     {
-      "character": "Simulant",
+      "key": "youthereyesyou",
       "text_en": "You there! Yes, you!",
       "text": "คุณคนตรงนั้นน่ะ! ใช่ค่ะ คุณนั่นแหละ!"
     },
     {
-      "character": "Simulant",
+      "key": "wehaveimportantbusinesswithyou",
       "text_en": "We have important business with you!",
       "text": "พวกเรามีธุระสำคัญกับคุณค่ะ!"
     },
     {
-      "character": "Simulant",
+      "key": "weleftsomethinginyourkeepingthekeytointerdimensionalfusionyouwillkindlyreturnittousyes",
       "text_en": "We left something in your keeping─the key to interdimensional fusion. You will kindly return it to us, yes?",
       "text": "พวกเราเคยฝากของชิ้นหนึ่งไว้ในความดูแลของคุณ—กุญแจสำหรับผสานต่างมิติ รบกวนคืนมันให้พวกเราด้วยจะได้ไหมคะ?"
     },
     {
-      "character": "Simulant",
+      "key": "isthatsowhatashame",
       "text_en": "Is that so? What a shame.",
       "text": "อย่างนั้นหรือคะ? น่าเสียดายจังเลยค่ะ"
     },
     {
-      "character": "Simulant",
+      "key": "nowthatyoumentionittheotherwayaroundmayhavebeenmoreappropriate",
       "text_en": "Now that you mention it, the other way around may have been more appropriate.",
       "text": "จะว่าไปแล้ว ถ้าสลับบทบาทกันก็น่าจะดีกว่านะคะ"
     },
     {
-      "character": "Simulant",
+      "key": "ifihadthekeyiwouldntneedtobecruelandturnawaysomanypeoplefarmorethanfivethousandcouldbecomeendlessandknoweternalhappiness",
       "text_en": "If I had the key, I wouldn't need to be cruel and turn away so many people. Far more than five thousand could become Endless and know eternal happiness.",
       "text": "ถ้าหากฉันมีกุญแจชิ้นนั้น ฉันก็ไม่จำเป็นต้องใจร้ายคอยปฏิเสธผู้คนมากมายขนาดนี้หรอกค่ะ คนจำนวนมากกว่าห้าพันคนจะสามารถกลายเป็นเอ็นด์เลส และได้รับรู้ถึงความสุขชั่วนิรันดร์ได้แท้ๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatyoumeantostealaetherfromotherworldsagain",
       "text_en": "What!? You mean to steal aether from other worlds again!?",
       "text": "อะไรนะ!? นี่หล่อนคิดจะช่วงชิงอีเธอร์จากโลกอื่นอีกแล้วงั้นเหรอ!?"
     },
     {
-      "character": "Simulant",
+      "key": "allisforthesakeofhisexperiments",
       "text_en": "All is for the sake of his experiments.",
       "text": "ทั้งหมดนี้ก็เพื่อการทดลองของเขาค่ะ"
     },
     {
-      "character": "Simulant",
+      "key": "twasforthatreasonyouknowthatthepreviousmecreatedtheendless",
       "text_en": "'Twas for that reason, you know, that the previous me created the Endless.",
       "text": "และนั่นก็เป็นเหตุผลที่สฟีนคนก่อนสร้างเหล่าเอ็นด์เลสขึ้นมาด้วยเช่นกันน่ะค่ะ รู้หรือเปล่าคะ?"
     },
     {
-      "character": "Simulant",
+      "key": "ipityhershewasforcedtoattempttheimpossibletoturneverysoulwhodiesintoanendlesseventhoughtheresnoendtothem",
       "text_en": "I pity her. She was forced to attempt the impossible─to turn every soul who dies into an Endless even though there's no end to them.",
       "text": "ฉันนึกสงสารเธอจริงๆ ค่ะ เธอถูกบีบให้ต้องพยายามทำในสิ่งที่เป็นไปไม่ได้—นั่นคือการทำให้วิญญาณของทุกคนที่ตายกลายเป็นเอ็นด์เลส ทั้งที่ความตายของผู้คนมันไม่มีวันจบสิ้นแท้ๆ"
     },
     {
-      "character": "Simulant",
+      "key": "admittedlythatwaspartoftheplanherdesperationwoulddrivehertoclaimthekeyanduseitandsureenoughshedidjustthat",
       "text_en": "Admittedly, that was part of the plan. Her desperation would drive her to claim the key and use it, and sure enough, she did just that.",
       "text": "จะว่าไป นั่นก็เป็นส่วนหนึ่งของแผนการอยู่แล้วล่ะค่ะ ความสิ้นหวังของเธอจะผลักดันให้เธอไปช่วงชิงกุญแจมาใช้งาน และแน่นอนว่าเธอก็ทำตามนั้นจริงๆ เสียด้วย"
     },
     {
-      "character": "Simulant",
+      "key": "iknowyouhadasoftspotforherlamatyi",
       "text_en": "I know you had a soft spot for her, Lamaty'i.",
       "text": "ฉันรู้ค่ะว่าคุณมีมุมที่อ่อนโยนให้กับเธอ คุณวุค ลามัต"
     },
     {
-      "character": "Simulant",
+      "key": "soforwhatitsworthimtrulysorry",
       "text_en": "So for what it's worth, I'm truly sorry.",
       "text": "เพราะฉะนั้น ถึงมันจะไม่ได้ช่วยอะไร แต่ฉันก็ขอโทษจริงๆ นะคะ"
     },
     {
-      "character": "Simulant",
+      "key": "alaswearenaughtmorethanpawnspiecesinhisgranddesign",
       "text_en": "Alas, we are naught more than pawns. Pieces in his grand design.",
       "text": "น่าเสียดายจังเลยนะคะ พวกเราเป็นได้เพียงแค่เบี้ยหมากกระดานหนึ่งในแผนการอันยิ่งใหญ่ของเขาเท่านั้นเอง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "dontyoudaremakelightofherloveforherpeopledontyoudare",
       "text_en": "Don't you dare make light of her love for her people! Don't you dare!",
       "text": "อย่าบังอาจมาล้อเล่นกับความรักที่เธอมีต่อประชาชนนะ! อย่าบังอาจเด็ดขาด!"
     },
     {
-      "character": "Simulant",
+      "key": "strikemedownifyouwishishallbemadeanew",
       "text_en": "Strike me down if you wish. I shall be made anew.",
       "text": "ถ้าคุณอยากจะฟาดฟันฉันลงตรงนี้ก็ตามสบายเลยค่ะ เดี๋ยวฉันก็ถูกสร้างขึ้นมาใหม่อยู่ดี"
     },
     {
-      "character": "Simulant",
+      "key": "andidoubtmanywouldlookkindlyuponthevowofresolveoftuliyollalifsheattackedaneighboringqueenandnotforthefirsttimewouldyoubewillingtoaccepttherepercussions",
       "text_en": "And I doubt many would look kindly upon the Vow of Resolve of Tuliyollal if she attacked a neighboring queen─and not for the first time. Would you be willing to accept the repercussions?",
       "text": "และฉันคิดว่าคงไม่มีใครมองผู้สาบานแห่งความมุ่งมั่นแห่งทูลิโยลลัลในแง่ดีนักหรอกค่ะ หากเธอทำร้ายราชินีของอาณาจักรเพื่อนบ้าน—แถมยังไม่ใช่ครั้งแรกเสียด้วย คุณพร้อมที่จะรับผลที่ตามมาหรือเปล่าคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "damnyou",
       "text_en": "Damn you!",
       "text": "หนอย! เจ็บใจนัก!"
     },
     {
-      "character": "???",
+      "key": "yourespeakingtome",
       "text_en": "You're speaking to me?",
       "text": "เธอพูดกับฉันอย่างนั้นรึ?"
     },
     {
-      "character": "???",
+      "key": "ourgoalistousherinthenextphaseofmankindsevolution",
       "text_en": "Our goal is to usher in the next phase of mankind's evolution.",
       "text": "เป้าหมายของเราคือการนำทางไปสู่ก้าวต่อไปของวิวัฒนาการมนุษยชาติ"
     },
     {
-      "character": "???",
+      "key": "sincetimeimmemoriallifehasuseddeathtofacilitateadaptationinaneverchangingenvironment",
       "text_en": "Since time immemorial, life has used death to facilitate adaptation in an ever-changing environment.",
       "text": "ตั้งแต่โบราณกาลมา สิ่งมีชีวิตใช้ความตายเพื่อช่วยในการปรับตัวให้เข้ากับสภาพแวดล้อมที่เปลี่ยนแปลงอยู่ตลอดเวลา"
     },
     {
-      "character": "???",
+      "key": "theoldandinfirmareweededoutallowingthespeciestothrivegenerationalsuccessionthishasbeenoursurvivalstrategy",
       "text_en": "The old and infirm are weeded out, allowing the species to thrive. Generational succession─this has been our survival strategy.",
       "text": "ผู้ที่แก่ชราและทุพพลภาพจะถูกคัดออก เพื่อให้เผ่าพันธุ์ดำรงอยู่ต่อไปได้ การผลัดเปลี่ยนจากรุ่นสู่รุ่น—นี่คือกลยุทธ์การเอาตัวรอดของเราตลอดมา"
     },
     {
-      "character": "???",
+      "key": "yetthisstrategyhaslongsincereacheditspracticallimititisoutdated",
       "text_en": "Yet this strategy has long since reached its practical limit. It is outdated.",
       "text": "ทว่ากลยุทธ์นี้ได้บรรลุขีดจำกัดสูงสุดในทางปฏิบัติมานานแล้ว มันช่างล้าสมัยเหลือเกิน"
     },
     {
-      "character": "???",
+      "key": "itreliesonprogenywhichgivesrisetouncheckedpopulationgrowthresourcesbecomescarceinvariablyleadingtoconflict",
       "text_en": "It relies on progeny, which gives rise to unchecked population growth. Resources become scarce, invariably leading to conflict.",
       "text": "มันต้องพึ่งพาผู้สืบสันดาน ซึ่งทำให้ประชากรเติบโตอย่างไร้การควบคุม ทรัพยากรจึงขาดแคลน และนำไปสู่ความขัดแย้งในท้ายที่สุดอย่างหลีกเลี่ยงไม่ได้"
     },
     {
-      "character": "???",
+      "key": "allthewhiledeathiseverpresentandrobsourspeciesofuntoldpotential",
       "text_en": "All the while, death is ever present and robs our species of untold potential.",
       "text": "ในขณะเดียวกัน ความตายที่มีอยู่ทุกหนแห่งก็พรากเอาศักยภาพอันล้นพ้นไปจากเผ่าพันธุ์ของเราอยู่เสมอ"
     },
     {
-      "character": "???",
+      "key": "wheremannowstandsinhisevolutionbodiesoffleshnolongermakesensewhatwemuststrivefornextiscarefullymanagedeternalpreservation",
       "text_en": "Where man now stands in his evolution, bodies of flesh no longer make sense. What we must strive for next is carefully managed, eternal preservation.",
       "text": "ณ จุดที่มนุษย์ยืนอยู่ในวิวัฒนาการปัจจุบันนี้ ร่างกายที่เป็นเนื้อหนังไม่มีความหมายอีกต่อไป สิ่งที่เราต้องมุ่งมั่นในลำดับถัดไป คือการเก็บรักษาอย่างเป็นนิรันดร์ภายใต้การจัดการอย่างรอบคอบ"
     },
     {
-      "character": "Sphene",
+      "key": "calyxyourecalyxarentyou",
       "text_en": "Calyx... You're Calyx, aren't you?",
       "text": "คาลิกซ์... คุณคือคาลิกซ์ใช่ไหมคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youknowhim",
       "text_en": "You know him?",
       "text": "เธอรู้จักเขาด้วยเหรอ?"
     },
     {
-      "character": "Sphene",
+      "key": "theyounggeniuswhohadmasteredelectropetechnology",
       "text_en": "The young genius who had mastered electrope technology...",
       "text": "เด็กหนุ่มอัจฉริยะผู้เชี่ยวชาญเทคโนโลยีอิเล็กโทรปคนนั้น..."
     },
     {
-      "character": "Sphene",
+      "key": "hefoundedthescientificcollectiveknownaspreservationanddevotedhimselftodevelopingacurefortheparalysiswhichplaguedourpeople",
       "text_en": "He founded the scientific collective known as Preservation, and devoted himself to developing a cure for the paralysis which plagued our people.",
       "text": "เขาเป็นผู้ก่อตั้งกลุ่มนักวิทยาศาสตร์ที่เรียกว่าพรีเซิร์ฟเวชัน และอุทิศตนให้กับการพัฒนาวิธีการรักษาโรคอัมพาตที่แพร่ระบาดในหมู่ประชาชนของเราค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "calyxyoualwayshadyourgazesetuponthefutureandiknowyoudonow",
       "text_en": "Calyx! You always had your gaze set upon the future, and I know you do now.",
       "text": "คาลิกซ์! คุณมองไปยังอนาคตเสมอมา และฉันรู้ว่าตอนนี้คุณก็ยังทำเช่นนั้นอยู่"
     },
     {
-      "character": "Sphene",
+      "key": "butibegyoudonotdeceivethepeopleofalexandriadonotmanipulatethemwiththisimitationforgedfrommymemories",
       "text_en": "But I beg you, do not deceive the people of Alexandria! Do not manipulate them with this imitation forged from my memories!",
       "text": "แต่ฉันขอร้องล่ะค่ะ อย่าได้หลอกลวงชาวอเล็กซานเดรียเลย! อย่าชักใยพวกเขาด้วยร่างจำลองที่สร้างขึ้นมาจากความทรงจำของฉันแบบนี้เลยค่ะ!"
     },
     {
-      "character": "Simulant",
+      "key": "wellhowrudeyetwhateveryoumaysayimtheonewhomthepeopleregardasqueen",
       "text_en": "Well, how rude. Yet whatever you may say, I'm the one whom the people regard as queen.",
       "text": "อุ๊ย เสียมารยาทจังเลยค่ะ แต่ถึงคุณจะพูดอย่างไร ฉันก็ยังเป็นคนที่ประชาชนยอมรับในฐานะราชินีอยู่ดีล่ะค่ะ"
     },
     {
-      "character": "Simulant",
+      "key": "youmayhavewornthecrownforafewyearsbutnowyouarenoonejustafrailfleshyversionofmethatcoulddieatanymomentthekingdomhasnouseforsuchasyou",
       "text_en": "You may have worn the crown for a few years, but now you are no one. Just a frail, fleshy version of me that could die at any moment. The kingdom has no use for such as you.",
       "text": "คุณอาจจะได้สวมมงกุฎอยู่ไม่กี่ปี แต่ตอนนี้คุณไม่ใช่ใครเลย เป็นเพียงร่างเนื้อที่อ่อนแอและจะตายเมื่อไหร่ก็ได้ของฉันเท่านั้นเอง อาณาจักรนี้ไม่มีความจำเป็นต้องใช้คนแบบคุณหรอกค่ะ"
     },
     {
-      "character": "Calyx",
+      "key": "ourdemandissimplesurrenderthekeyrefusalwillnecessitateconsequences",
       "text_en": "Our demand is simple: surrender the key. Refusal will necessitate consequences.",
       "text": "ข้อเรียกร้องของเราเรียบง่ายมาก นั่นคือจงส่งมอบกุญแจมาซะ การปฏิเสธจะนำมาซึ่งผลลัพธ์ที่หลีกเลี่ยงไม่ได้"
     },
     {
-      "character": "Gulool Ja",
+      "key": "whatacruelthingtosaytosphene",
       "text_en": "What a cruel thing to say to Sphene...",
       "text": "พูดจาใจร้ายกับคุณสฟีนเกินไปแล้วครับ..."
     },
     {
-      "character": "Wuk Lamat",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Sphene",
+      "key": "areyouallrightforename",
       "text_en": "Are you all right, Forename ?",
       "text": "เป็นอะไรไหมคะ [ชื่อ]?"
     },
     {
-      "character": "Sphene",
+      "key": "forgivemeiwasonceabletousehealingspellsbutmylongslumberappearstohavesappedmymagicalreserves",
       "text_en": "Forgive me. I was once able to use healing spells, but my long slumber appears to have sapped my magical reserves...",
       "text": "ขอโทษด้วยนะคะ เมื่อก่อนฉันเคยใช้เวทมนตร์รักษาได้แท้ๆ แต่ดูเหมือนว่าการหลับใหลอันยาวนานจะทำให้พลังเวทสำรองของฉันเหือดแห้งไปหมดเลยค่ะ..."
     },
     {
-      "character": "Sphene",
+      "key": "sighitsfrustratingtobesopowerlessbutperhapsimustacceptmynewfoundlimitations",
       "text_en": "<sigh> It's frustrating to be so powerless...but perhaps I must accept my newfound limitations...",
       "text": "รู้สึกเจ็บใจเหลือเกินค่ะที่ไร้พลังเช่นนี้... แต่บางที ฉันอาจต้องยอมรับข้อจำกัดครั้งใหม่นี้แล้วล่ะค่ะ..."
     }

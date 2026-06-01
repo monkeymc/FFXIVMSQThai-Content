@@ -1,411 +1,403 @@
 {
-  "id": "a-festive-people",
-  "wiki_path": "/wiki/A_Festive_People",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "A Festive People",
-  "title": "ชนเผ่าผู้รักเทศกาล",
-  "level": "90",
-  "location": "Kozama'uka(X:16.1,Y:10.0)",
-  "npc_start": "Wuk Lamat",
+  "quest_id": "a-festive-people",
   "dialogues": [
     {
-      "character": "Krile",
+      "key": "assumingwehavetherightideaoneofthedawnservantselectorsshouldbeheresomewhere",
       "text_en": "Assuming we have the right idea, one of the Dawnservant's electors should be here somewhere.",
       "text": "ถ้าการวิเคราะห์เรื่องลายแทงศิลาของพวกเราถูกต้องล่ะก็ ผู้คุมสอบของท่านดอว์นเซิร์ฟวันต์น่าจะกบดานตั้งด่านทดสอบรอเราอยู่แถวหมู่บ้านนี้แน่นอนค่ะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "onecantellataglancehowverydifferentthehanucultureistothevanus",
       "text_en": "One can tell at a glance how very different the Hanu culture is to the Vanu's.",
       "text": "สังเกตจากสถาปัตยกรรมการตกแต่งบ้านเรือนก็รับรู้ได้ทันทีเลยครับว่ามีวัฒนธรรมการดำรงชีวิตที่แตกต่างไปจากชาววานูวานูแถบทะเลเมฆค่อนข้างมากทีเดียว"
     },
     {
-      "character": "Alisaie",
+      "key": "thewaterfromthefallsmustfloodthewetlandsandflowintoallthesestreamsandrivers",
       "text_en": "The water from the falls must flood the wetlands and flow into all these streams and rivers...",
       "text": "มวลน้ำตกหล่นจากผาหินขนาดยักษ์พวกนั้น น่าจะไหลทะลักลงมาเติมน้ำขังที่ราบลุ่มจนแตกแยกสายน้ำย่อยๆ แตกกิ่งก้านเป็นห้วยหนองคลองบึงเต็มไปหมดสินะ..."
     },
     {
-      "character": "Erenville",
+      "key": "iagreedtoserveasaguidenotanursemaid",
       "text_en": "I agreed to serve as a guide, not a nursemaid.",
       "text": "ผมตกลงมาทำหน้าที่เป็นคนนำทาง ไม่ใช่มาคอยเลี้ยงเด็กเสียหน่อยนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itslikeourfriendsaidthepeopleareinnomoodforfestivities",
       "text_en": "It's like our friend said. The people are in no mood for festivities...",
       "text": "จริงอย่างที่เพื่อนชาวฮานูคนนั้นพูดเป๊ะเลยล่ะ... สภาพชาวเมืองตอนนี้ดูไม่มีกะจิตกะใจจะจัดงานเทศกาลอะไรเลยแฮะ..."
     },
     {
-      "character": "Krile",
+      "key": "icanonlyassumetheyarestillrecoveringfromthedamagewroughtbythestorm",
       "text_en": "I can only assume they are still recovering from the damage wrought by the storm.",
       "text": "คงเป็นเพราะพวกเขาก็ยังจัดการเคลียร์ซากฟื้นฟูความเสียหายจากแรงพายุใหญ่รอบที่แล้วยังไม่เสร็จดีนั่นแหละค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "indeedwellletsdowhatwecametodoandfindthiselector",
       "text_en": "Indeed... Well, let's do what we came to do and find this elector.",
       "text": "นั่นสินะ... เอาล่ะ งั้นเรามารีบลงมือตามหาตัวผู้คุมสอบคนนั้นเพื่อเริ่มทำภารกิจกันเลยเถอะ!"
     },
     {
-      "character": "Elderly Hanu Woman",
+      "key": "ohokaliy",
       "text_en": "Ohokaliy!",
       "text": "โอโฮคาลี! (Ohokaliy)"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohowhatnow",
       "text_en": "Oho...what now?",
       "text": "โอโฮ... อะไรนะ?"
     },
     {
-      "character": "Erenville",
+      "key": "itsahanugreetingsurelyyouhearditthelasttimeyouwerehere",
       "text_en": "It's a Hanu greeting. Surely you heard it the last time you were here.",
       "text": "นั่นเป็นคำทักทายของชาวฮานูน่ะครับ ตอนที่คุณมาเที่ยวเทศกาลคราวก่อนก็น่าจะได้ยินคำนี้บ่อยจนหูชาแล้วไม่ใช่เหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "welliwasbusyenjoyingthefestival",
       "text_en": "Well, I was busy enjoying the festival...",
       "text": "ก็แหงล่ะสิ! ตอนนั้นฉันมัวแต่วิ่งเล่นสนุกกับงานเทศกาลอยู่นี่นา..."
     },
     {
-      "character": "Zanuhali",
+      "key": "greetingstothethirdpromiseandherentourageizanuhaliwelcomeyoutookhanu",
       "text_en": "Greetings to the Third Promise and her entourage! I, Zanuhali, welcome you to Ok'hanu.",
       "text": "ยินดีต้อนรับท่านสัญญาที่สามและคณะผู้ติดตามทุกท่านครับ! ข้ามีนามว่า ซานูฮาลี (Zanuhali) ขอต้อนรับพวกท่านสู่หมู่บ้านโอคฮานูอย่างเป็นทางการครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "aselderofmypeopleishallalsobefulfillingthedutiesofelectorduringtheriteofsuccession",
       "text_en": "As elder of my people, I shall also be fulfilling the duties of elector during the rite of succession.",
       "text": "ในฐานะผู้เฒ่าของชนเผ่าฮานู ข้าจะรับหน้าที่เป็นหนึ่งในผู้คุมสอบเพื่อประเมินฝีมือพวกท่านในพิธีสืบทอดราชบัลลังก์รอบนี้ครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soourideaabouttheelectorswascorrectwejustdoaspapasaidandretracehispathfromthesaga",
       "text_en": "So our idea about the electors was correct. We just do as Papa said, and retrace his path from the saga!",
       "text": "เย้! งั้นสมมติฐานเรื่องผู้คุมสอบของพวกเราก็ถูกต้องเป๊ะเลย! แค่เดินตามรอยปู่รอยทางพงศาวดารของท่านพ่อเหมือนเดิมเลยสิ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imreadygivemethefeatandtestmyworth",
       "text_en": "I'm ready! Give me the feat and test my worth!",
       "text": "ฉันพร้อมลุยแล้ว! มอบโจทย์ภารกิจมาทดสอบความสามารถของข้าได้เลย!"
     },
     {
-      "character": "Zanuhali",
+      "key": "allingoodtimeallingoodtimeinfacticametoletyouknowthatwearenotquitereadytobegin",
       "text_en": "All in good time, all in good time. In fact, I came to let you know that we are not quite ready to begin.",
       "text": "ใจเย็นๆ ก่อนครับ ไม่ต้องรีบร้อนหรอก... อันที่จริงข้าเดินมาแจ้งข่าวว่า ทางพวกเรายังตระเตรียมด่านทดสอบไม่ค่อยเรียบร้อยดีน่ะครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "forthemomentpleaseenjoythehospitalityofourvillage",
       "text_en": "For the moment, please enjoy the hospitality of our village.",
       "text": "ระหว่างนี้ ขอเชิญพวกท่านเดินเล่นพักผ่อนซึมซับบรรยากาศอัธยาศัยไมตรีในหมู่บ้านของพวกเราตามอัธยาศัยก่อนนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "shouldwepokearoundabitthenwemightpickupsomecluesaboutthefeatyouknowprepareourselves",
       "text_en": "Should we poke around a bit, then? We might pick up some clues about the feat. You know, prepare ourselves.",
       "text": "งั้นพวกเราแยกย้ายกันเดินสืบข่าวหาข้อมูลรอบๆ ดูก่อนดีไหม? เผื่อจะเจอเบาะแสเกี่ยวกับโจทย์ทดสอบคราวนี้ จะได้เป็นการเตรียมความพร้อมก่อนลุยจริงน่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thatssurprisinglyprudentofyou",
       "text_en": "That's surprisingly prudent of you.",
       "text": "แหม... แอบมีหัวคิดรอบคอบเตรียมการล่วงหน้ากับเขาเหมือนกันนะเนี่ย น่าประหลาดใจชะมัด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatyouthinkimbeingtoocautious",
       "text_en": "What! You think I'm being too cautious!?",
       "text": "หา! นี่เธอหาว่าฉันป๊อดกังวลเกินเหตุงั้นเหรอ!?"
     },
     {
-      "character": "Alisaie",
+      "key": "nonoimimpressedisallyouadmireandrespectyourfatherwhoispronetodecisiveactionsoiexpectedyoutorushinfirstandaskquestionslaterornever",
       "text_en": "No, no, I'm impressed, is all. You admire and respect your father, who is prone to decisive action, so I expected you to rush in first and ask questions later. Or never.",
       "text": "เปล่าสักหน่อย ฉันแค่ทึ่งน่ะปกติเห็นเธอเคารพเลื่อมใสสไตล์บุกทะลวงฟันของท่านพ่อของเธอซะเหลือเกิน ก็นึกว่าจะเป็นพวกหัวรั้นบุกทะลวงเปิดก่อนแล้วค่อยมาถามทีหลัง... หรือไม่เคยคิดจะถามเลยซะอีก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "idolookuptopapabutyoushouldknowthathehasapragmaticsidetootheheadofreasonisthethinkerwhotakestimetoconsiderallthepossibilities",
       "text_en": "I do look up to Papa, but you should know that he has a pragmatic side too. The Head of Reason is the thinker who takes time to consider all the possibilities.",
       "text": "ข้าก็นับถือสไตล์ท่านพ่อแหละ แต่รู้ไว้ด้วยนะว่าปู่แกก็มีมุมจริงจังสุขุมรอบคอบเหมือนกันนะ ฝั่งเศียรสติปัญญาน่ะคือนักคิดระดับสุดยอดที่คอยวิเคราะห์ความเป็นไปได้ทุกอย่างก่อนลงมือเลยล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "withthelongnapshetakesthesedaysthoughtheheadofresolveislessrestrainedbyhiswisdomicantfaultyouforthinkingthatsallthereistohimbuttheresmoretothedawnservantyouveseenthusfar",
       "text_en": "With the long naps he takes these days, though, the Head of Resolve is less restrained by his wisdom. I can't fault you for thinking that's all there is to him, but there's more to the Dawnservant you've seen thus far.",
       "text": "แต่ช่วงนี้ท่านพ่อเล่นนอนยาวบ่อยไปหน่อย ฝั่งเศียรเด็ดเดี่ยวก็เลยอาละวาดเล่นลุยแหลกโดยไม่มีฝั่งสติปัญญาคอยดึงสติน่ะ ฉันก็ไม่แปลกใจหรอกที่เธอจะเห็นปู่แกบ้าการต่อสู้อยู่ด้านเดียว แต่ความจริงแล้วองค์ดอว์นเซิร์ฟวันต์น่ะลึกซึ้งกว่าที่พวกเธอเห็นเยอะ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "ishouldliketospeakwiththeheadofreasononeday",
       "text_en": "I should like to speak with the Head of Reason one day.",
       "text": "ถ้ามีโอกาส ผมเองก็อยากลองพูดคุยแลกเปลี่ยนความคิดเห็นกับฝั่งเศียรสติปัญญาดูสักครั้งจังเลยครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ahwellimsureyoullcatchhimawakesoonenough",
       "text_en": "Ah, well...I'm sure you'll catch him awake soon enough.",
       "text": "อา... เอาเถอะ เดี๋ยวคงมีโอกาสได้เห็นปู่แกตื่นเต็มตาในเร็วๆ นี้แน่"
     },
     {
-      "character": "Erenville",
+      "key": "toreturntothesubjectathandyouwishtotakealookaroundokhanuthendosomegroundworkbeforethefeatbegins",
       "text_en": "To return to the subject at hand, you wish to take a look around Ok'hanu, then? Do some groundwork before the feat begins?",
       "text": "ถ้างั้น ขอกลับมาเข้าเรื่องตรงหน้านะครับ ตกลงคืออยากเดินสำรวจหาข่าวรอบๆ หมู่บ้านโอคฮานูเพื่อวางรากฐานก่อนเริ่มทำภารกิจจริงๆ ใช่ไหมครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "somethinglikethatimeanicouldprobablypassthistestwithmyeyesclosedbutitllkeepusbusywhilewerewaiting",
       "text_en": "Something like that. I mean, I could probably pass this test with my eyes closed, but it'll keep us busy while we're waiting!",
       "text": "ทำนองนั้นแหละ! คือเรื่องผ่านด่านแค่นี้ข้าต่อให้หลับตาสู้ยังได้เลยเหอะ แต่อย่างน้อยก็มีอะไรให้เดินแก้เซ็งระหว่างยืนรอปู่แกตระเตรียมสอบล่ะนะ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "wuklamathastherightofitaselderzanuhaliisaresidentofthisvillagelearningmoreaboutitcanonlyimproveourchancesinthefeat",
       "text_en": "Wuk Lamat has the right of it. As Elder Zanuhali is a resident of this village, learning more about it can only improve our chances in the feat.",
       "text": "สิ่งที่คุณวุคลามัตคิดสมเหตุสมผลดีครับ เนื่องจากผู้เฒ่าซานูฮาลีเป็นประชากรของหมู่บ้านนี้ การเรียนรู้ซึมซับวิถีชีวิตดั้งเดิมของที่นี่ ก็น่าจะช่วยเพิ่มโอกาสการผ่านด่านทดสอบได้ดียิ่งขึ้นครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightthenithelpedtodosomeinvestigatingatwachunpelosoletstakealookaroundhereaswell",
       "text_en": "Right, then. It helped to do some investigating at Wachunpelo, so let's take a look around here as well!",
       "text": "ดีล่ะ! คราวก่อนตอนไปสืบข่าวที่วาชุนเปลูช่วยได้เยอะมาก รอบนี้เราก็มาลุยตรวจสอบแถวนี้ให้หมดซอกหมดมุมกันเถอะ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "mightisuggestadivisionofforcesforinstanceerenvillealisaieandkrilecouldconcentrateonthesouthernhalfofthesettlement",
       "text_en": "Might I suggest a division of forces? For instance, Erenville, Alisaie, and Krile could concentrate on the southern half of the settlement.",
       "text": "ผมขอเสนอให้พวกเราแยกย้ายแบ่งกำลังพลกันสำรวจดีไหมครับ? เช่น ให้เอเรนวิลล์ อลิเซ และคุณไครล์ เน้นสืบข่าวทางพื้นที่ครึ่งฝั่งใต้ของหมู่บ้าน..."
     },
     {
-      "character": "Alphinaud",
+      "key": "meanwhilewuklamatforenameandmyselfwillhandlethisnorthernhalf",
       "text_en": "Meanwhile, Wuk Lamat, Forename , and myself will handle this northern half.",
       "text": "ส่วนคุณวุค ลามัต, Forename และผม จะรับหน้าที่จัดการพื้นที่ครึ่งฝั่งทิศเหนือนี้เองครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soundsgoodtome",
       "text_en": "Sounds good to me!",
       "text": "จัดไปตามนั้นเลย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisisevenworsethaniexpected",
       "text_en": "This is even worse than I expected...",
       "text": "สภาพความเสียหายหนักหนาสาหัสกว่าที่ฉันคิดไว้เยอะเลยแฮะ..."
     },
     {
-      "character": "Dispirited Hanu",
+      "key": "sigh",
       "text_en": "<sigh>",
       "text": "*เฮ้อ...*"
     },
     {
-      "character": "Dispirited Hanu",
+      "key": "youheardaboutthestormiveneverseenthelikesofitbefore",
       "text_en": "You heard about the storm? I've never seen the likes of it before.",
       "text": "ได้ยินเรื่องพายุใหญ่รอบที่แล้วรึยังครับ? ตั้งแต่เกิดมาข้ายังไม่เคยพบเคยเจอพายุบ้าถล่มหนักหนาขนาดนี้มาก่อนเลย"
     },
     {
-      "character": "Dispirited Hanu",
+      "key": "withthesuppliesandhelpthedawnservantsentweremakingprogressrepairingandrebuildingourhomes",
       "text_en": "With the supplies and help the Dawnservant sent, we're making progress repairing and rebuilding our homes...",
       "text": "ถึงจะได้รับของบรรเทาทุกข์กับความช่วยเหลือที่องค์ดอว์นเซิร์ฟวันต์ส่งมาคอยพยุง จนเริ่มซ่อมแซมสร้างบ้านช่องเสร็จไปได้บางส่วนแล้วก็เถอะ..."
     },
     {
-      "character": "Dispirited Hanu",
+      "key": "butwhileroovesandwallscanbepatchedthereissomuchelsethatwaslostforgood",
       "text_en": "But while rooves and walls can be patched, there is so much else that was lost for good...",
       "text": "แต่ในขณะที่หลังคากับกำแพงบ้านผุๆ มันยังพอจะตอกตะปูซ่อมใหม่ได้ แต่สิ่งของล้ำค่าอย่างอื่นที่จมโคลนสูญหายไปตลอดกาล มันมีเยอะแยะจนนึกแล้วก็เศร้าใจ..."
     },
     {
-      "character": "Dispirited Hanu",
+      "key": "sigh",
       "text_en": "<sigh>",
       "text": "*เฮ้อ...*"
     },
     {
-      "character": "Dispirited Hanu",
+      "key": "sighwhatarewetodo",
       "text_en": "<sigh> What are we to do...?",
       "text": "*เฮ้อ...* ชีวิตหลังจากนี้พวกเราจะทำยังไงกันดีนะ...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "alotofhousesarestilldamagedandthehanuivespokentoarenottheirusualcheeryselvesthatstormbrokemorethanwoodandreeds",
       "text_en": "A lot of houses are still damaged, and the Hanu I've spoken to are not their usual cheery selves. That storm broke more than wood and reeds.",
       "text": "บ้านเรือนอีกหลายหลังยังซ่อมไม่เสร็จดีเลย แถมชาวฮานูที่ฉันเข้าไปคุยด้วยก็ซึมเศร้าอารมณ์บูดบึ้งไม่ร่าเริงเหมือนแต่ก่อนเลย พายุใหญ่ลูกนั้นมันทำลายขวัญกำลังใจของผู้คนพังทลายยิ่งกว่าไม้กับต้นอ้อซะอีกแฮะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theremustbesomethingicandotohelpthem",
       "text_en": "There must be something I can do to help them...",
       "text": "ต้องมีอะไรบางอย่างที่ตัวฉันพอจะช่วยบรรเทาทุกข์ให้พวกเขาได้สิ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imgoingtolookaroundabitmore",
       "text_en": "I'm going to look around a bit more.",
       "text": "เดี๋ยวฉันขอเดินสำรวจรอบๆ แถวนี้เพิ่มเติมอีกหน่อยนะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "somemannerofboat",
       "text_en": "Some manner of boat?",
       "text": "นี่คือเรือท้องแบนประเภทหนึ่งสินะครับ?"
     },
     {
-      "character": "Alphinaud",
+      "key": "thisboatmustbewovenfromthesamereedsiveseengatheredintobundleshereandtheretheplantsholdbothpracticalandculturalsignificancetothehanuthen",
       "text_en": "This boat must be woven from the same reeds I've seen gathered into bundles here and there. The plants hold both practical and cultural significance to the Hanu, then...",
       "text": "เรือลำนี้ถูกสานขึ้นมาจากต้นอ้อพันธุ์เดียวกับที่มัดวางเป็นกองอยู่ตามที่ต่างๆ ในหมู่บ้านเลยครับ แสดงว่าพืชชนิดนี้มีความสำคัญอย่างลึกซึ้งต่อการดำรงชีพและวิถีวัฒนธรรมของชาวฮานูฮานูอย่างมากเลยสินะครับ..."
     },
     {
-      "character": "Krile",
+      "key": "hellocanyouallhearme",
       "text_en": "Hello, can you all hear me?",
       "text": "ฮัลโฮ ทุกคนได้ยินเสียงฉันผ่านลิงก์เพิร์ลไหมคะ?"
     },
     {
-      "character": "Krile",
+      "key": "imtoldtheyrereadytoreceiveusnowcometothelargebuildinginthesouthofthevillage",
       "text_en": "I'm told they're ready to receive us now. Come to the large building in the south of the village!",
       "text": "ทางฝั่งผู้คุมสอบแจ้งว่าพร้อมเริ่มบททดสอบแล้วค่ะ เดินมารวมตัวกันที่อาคารหลังใหญ่ฝั่งทิศใต้ของหมู่บ้านได้เลยค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "onmyway",
       "text_en": "On my way!",
       "text": "กำลังรีบวิ่งไปเดี๋ยวนี้แหละ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "weoughttohurryovertoo",
       "text_en": "We ought to hurry over, too.",
       "text": "พวกเราก็รีบตามไปสมทบกันเถอะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nosignofzoraaljaorthatoversizedlout",
       "text_en": "No sign of Zoraal Ja or that oversized lout.",
       "text": "ยังไม่เห็นแม้แต่เงาหัวของพี่โซราล จา หรือเจ้ายักษ์ล่ำบึ้กนั่นเลยแฮะ"
     },
     {
-      "character": "Koana",
+      "key": "howmucheasieritwouldbeifzoraaljaweretofailherebutthatisntlikelytohappen",
       "text_en": "How much easier it would be if Zoraal Ja were to fail here. But that isn't likely to happen...",
       "text": "ถ้าเกิดพี่โซราล จา สอบตกพ่ายแพ้ไปตั้งแต่ด่านแรกนี้เลย เรื่องราวมันคงจะง่ายดายขึ้นเยอะ... แต่ก็คงไม่มีวันเกิดเรื่องแบบนั้นขึ้นได้หรอกครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "honoredguestsiamzanuhalielderofthehanu",
       "text_en": "Honored guests! I am Zanuhali, elder of the Hanu.",
       "text": "แขกผู้มีเกียรติทุกท่าน ข้ามีนามว่า ซานูฮาลี ผู้เฒ่าแห่งชนเผ่าฮานูครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "iamalsoanelectorchargedwithjudgingwhichamongyouisworthyofascendingthethrone",
       "text_en": "I am also an elector, charged with judging which among you is worthy of ascending the throne.",
       "text": "นอกจากนี้ ข้ายังได้รับเกียรติแต่งตั้งเป็นผู้คุมสอบชี้วัดความสามารถว่า ผู้ใดในหมู่พวกท่านที่มีความคู่ควรคู่บัลลังก์นครทูลิโยลลัลมากที่สุดครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "withoutfurtheradoletustalkofthefeat",
       "text_en": "Without further ado, let us talk of the feat.",
       "text": "เพื่อไม่ให้เป็นการเสียเวลาทำมาหากิน เรามาเริ่มชี้แจงรายละเอียดภารกิจกันเลยครับ"
     },
     {
-      "character": "???",
+      "key": "notsofastsurelyyoucouldntbeginwithoutus",
       "text_en": "Not so fast! Surely you couldn't begin without us!",
       "text": "ช้าก่อนสิปู่! จะเริ่มสอบบ้าบอคอแตกโดยไม่มีพวกข้าอยู่ด้วยได้ยังไงกัน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ughhemadeitafterall",
       "text_en": "Ugh. He made it after all...",
       "text": "ชิ... สุดท้ายก็ถ่อร่างตามมาทันจนได้นะ..."
     },
     {
-      "character": "Zanuhali",
+      "key": "noneedtofussthereisnotimelimitforthischallengenowifyouwouldallowmetoproceed",
       "text_en": "No need to fuss─there is no time limit for this challenge. Now, if you would allow me to proceed...",
       "text": "ไม่ต้องโวยวายไปหรอกครับ การทดสอบนี้ไม่ได้จำกัดระยะเวลาการเข้าประลองอยู่แล้ว เอาล่ะ ถ้าหากทุกท่านยอมให้ข้าชี้แจงต่อ..."
     },
     {
-      "character": "Zanuhali",
+      "key": "itishereinokhanuwheremypeopleforgedabondwiththedawnservantduringourownchapterofthetuliyollalsaga",
       "text_en": "It is here, in Ok'hanu, where my people forged a bond with the Dawnservant during our own chapter of the Tuliyollal Saga.",
       "text": "ณ ผืนดินหมู่บ้านโอคฮานูแห่งนี้ คือพิกัดสถานที่ประวัติศาสตร์ที่ชนเผ่าของพวกเราได้ร่วมสร้างความผูกพันดั่งสายใยมิตรภาพกับองค์ดอว์นเซิร์ฟวันต์กูลูล จา จา ตามที่ถูกสลักไว้บนเสาพงศาวดารนั่นเองครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "inhomagetothoseeventsihavepreparedforyouthefeatofreeds",
       "text_en": "In homage to those events, I have prepared for you the Feat of Reeds.",
       "text": "เพื่อเป็นการเชิดชูเหตุการณ์มิตรภาพในอดีต ข้าก็เลยจัดเตรียมด่านทดสอบชื่อว่า 'บททดสอบต้นอ้อ' (Feat of Reeds) ไว้รอต้อนรับพวกท่านครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "reedsseemtobeofgreatimportancetothehanuiwonderwhatthisfeatentails",
       "text_en": "Reeds seem to be of great importance to the Hanu. I wonder what this feat entails...",
       "text": "ต้นอ้อดูจะมีความสำคัญอย่างลึกซึ้งในชีวิตของชาวฮานูฮานูจริงๆ ครับ ชวนให้อยากรู้แล้วสิครับว่าโจทย์การทดสอบรอบนี้คืออะไรกันแน่..."
     },
     {
-      "character": "Zanuhali",
+      "key": "weusereedsineverypartofourlivesbeitasfoodorweavingmaterial",
       "text_en": "We use reeds in every part of our lives, be it as food or weaving material.",
       "text": "พวกเราชุบชีวิตใช้ประโยชน์จากต้นอ้อในทุกแง่มุมของการดำเนินชีพครับ ไม่ว่าจะนำมารับประทานเป็นอาหารประทังชีวิต หรือนำมาถักทอเครื่องนุ่งห่มข้าวของเครื่องใช้"
     },
     {
-      "character": "Zanuhali",
+      "key": "butlookaroundthenearbypaddiesandyouwillseethatthisseasonourcropsarefailing",
       "text_en": "But look around the nearby paddies, and you will see that this season, our crops are failing.",
       "text": "แต่ถ้าพวกท่านลองกวาดสายตามองไปรอบๆ แปลงเกษตรกรรมลุ่มน้ำแถวนี้ดู จะเห็นว่าผลผลิตการเกษตรต้นอ้อในปีนี้ กำลังแห้งเหี่ยวล้มตายลงไปต่อหน้าต่อตาเลยล่ะครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "howfortunatethenthatmyappointmenttoelectorcoincidedwiththispredicament",
       "text_en": "How fortunate, then, that my appointment to elector coincided with this predicament.",
       "text": "ช่างประจวบเหมาะดีแท้ๆ ที่กำหนดการตั้งด่านประลองผู้คุมสอบของข้า ดันมาตรงกับช่วงมรสุมวิกฤตพืชผลทางการเกษตรเสียหายครั้งใหญ่หลวงพอดิบพอดี"
     },
     {
-      "character": "Zanuhali",
+      "key": "forsurelythosewhoaspiretobedawnservantwouldfindthematterofanailingharvestameretrifletoresolve",
       "text_en": "For surely, those who aspire to be Dawnservant would find the matter of an ailing harvest a mere trifle to resolve?",
       "text": "เพราะข้าเชื่อมั่นว่า คนที่อาจหาญตั้งเป้าขึ้นครองตำแหน่งดอว์นเซิร์ฟวันต์ผู้กุมชะตาชีวิตประชาชน ย่อมมองเรื่องวิกฤตพืชผลเสียหายเพียงแค่นี้ เป็นแค่โจทย์ทดสอบง่ายๆ ที่คลี่คลายได้สบายมากใช่ไหมล่ะครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ayewellitisindeedthedutyofarulertoaddressthepeopleswoes",
       "text_en": "Aye, well, it is indeed the duty of a ruler to address the people's woes.",
       "text": "อื้อ แน่นอนสิ! การช่วยปัดเป่าทุกข์ร้อนและความลำบากของราษฎรมันคือหน้าที่ของราชาผู้ครองแผ่นดินอยู่แล้ว!"
     },
     {
-      "character": "Zanuhali",
+      "key": "exactlyexactlydowellinthisandyouwillearnmykeystone",
       "text_en": "Exactly, exactly! Do well in this, and you will earn my keystone!",
       "text": "ใช่เลยครับ ใช่เลย! ถ้าจัดการปัญหานี้ได้เรียบร้อยล่ะก็ ศิลาไขด่านชิ้นนี้ก็พร้อมจะส่งมอบให้เป็นผลตอบแทนทันทีครับ!"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "whybothermuckingaboutinthemudwhenwecantakethestonebyforce",
       "text_en": "Why bother mucking about in the mud...when we can take the stone by force?",
       "text": "จะลงไปเหนื่อยย่ำเหยียบก้มหัวงมโคลนหาพระแสงอะไรวะ... ในเมื่อพวกข้าสามารถใช้กำลังแย่งชิงก้อนศิลามาต่อหน้าต่อตาได้เลยน่ะ!"
     },
     {
-      "character": "Zanuhali",
+      "key": "ohmercymeyouareahotheadedfellowbakooljaja",
       "text_en": "Oh, mercy me! You are a hot-headed fellow, Bakool Ja Ja!",
       "text": "โอ้... สวรรค์ช่วยเหอะ! ช่างเป็นผู้ท้าชิงที่ใจร้อนมุทะลุบ้าพลังจริงๆ นะครับ บาคูล จา จา!"
     },
     {
-      "character": "Zanuhali",
+      "key": "someelectorsmayenjoygoingtoetotoewithscrapperslikeyoubutirefusetoentertainyourbaseinstincts",
       "text_en": "Some electors may enjoy going toe-to-toe with scrappers like you, but I refuse to entertain your base instincts.",
       "text": "จริงอยู่ว่าผู้คุมสอบคนอื่นบางท่านอาจจะชอบประลองดาบแลกเลือดกับนักเลงบ้าพลังแบบพวกท่าน แต่สำหรับคนแก่อย่างข้า ขอปฏิเสธจะเล่นเกมป่าเถื่อนบ้าเลือดไร้อารยธรรมพรรค์นั้นเด็ดขาดครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "arrangementshavebeenmadeshouldyouattempttoengageafeatgiverincombatwithouttheirconsentwordofyourimmediatedisqualificationwillbesenttothepalaceifyourestillfeelingfeistythenbyallmeansdrawyourweapon",
       "text_en": "Arrangements have been made. Should you attempt to engage a feat-giver in combat without their consent, word of your immediate disqualification will be sent to the palace. If you're still feeling feisty, then by all means, draw your weapon.",
       "text": "กติกาความปลอดภัยได้รับการสั่งการจากวังหลวงมาเป็นที่เรียบร้อยแล้วครับ หากผู้ใดบังอาจใช้กำลังประทุษร้ายเข้าโจมตีผู้คุมสอบโดยไม่ได้รับการยินยอม ข้าจะส่งสัญญาณด่วนตัดสิทธิ์ออกจากการแข่งขันในพิธีสืบทอดราชบัลลังก์ทันทีอย่างไร้เงื่อนไขครับ ถ้าคิดว่าแน่จริงอยากลองดีก็ชักดาบชักอาวุธออกมาลุยได้เลยครับ"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "hmphthiscontestispresidedoverbycowardstheresnosportinfightingyou",
       "text_en": "Hmph, this contest is presided over by cowards. There's no sport in fighting you.",
       "text": "เหอะ... พิธีชิงบัลลังก์ปัญญาอ่อนนี่มีแต่พวกตาแก่ขี้ขลาดคอยบงการทิศทาง สู้ด้วยก็เสียอารมณ์เปล่าๆ ว่ะ"
     },
     {
-      "character": "Zanuhali",
+      "key": "thenwecanreturntothebusinessofearningmykeystone",
       "text_en": "Then we can return to the business of earning my keystone.",
       "text": "เอาล่ะครับ งั้นเรามาวกกลับมาคุยเรื่องกติกาทำเควสแลกศิลาไขด่านต่อดีกว่าครับ"
     },
     {
-      "character": "Zanuhali",
+      "key": "thefeatofreedsisbegunclaimantsiwishyouthebestofluck",
       "text_en": "The Feat of Reeds is begun! Claimants, I wish you the best of luck!",
       "text": "บททดสอบต้นอ้อเริ่มต้นขึ้นอย่างเป็นทางการ ณ บัดนี้! ขออวยพรให้ผู้ท้าชิงทุกท่านโชคดีมีชัยครับ!"
     },
     {
-      "character": "Bakool Ja Ja the Mystic",
+      "key": "thecleverkittycrossedtheseastostudyforeignnoveltieshemightknowtrickswedonttrickswecanuse",
       "text_en": "The clever kitty crossed the seas to study foreign novelties─he might know tricks we don't. Tricks we can use.",
       "text": "ไอ้เปี๊ยกหัวดีนั่นอุตส่าห์ดั้นด้นแล่นเรือข้ามทะเลไปร่ำเรียนวิชาการแปลกใหม่มาจากต่างถิ่น... บางทีมันอาจจะรู้วิธีการแก้เคล็ดลับโจทย์ที่พวกเราไม่รู้ก็ได้นะ พี่ชาย เป็นกลยุทธ์ที่พวกเราแอบจิ๊กมาใช้ได้"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "whatoflittlemissmittens",
       "text_en": "What of Little Miss Mittens?",
       "text": "แล้วยัยลูกแมวบ้านใส่ถุงมือนั่นล่ะ?"
     },
     {
-      "character": "Bakool Ja Ja the Mystic",
+      "key": "hahyouknowtheanswertothatcomparedtothefirstandsecondpromiseshesadistantthirdnotevenintherunning",
       "text_en": "Hah, you know the answer to that! Compared to the First and Second Promise, she's a distant Third. Not even in the running!",
       "text": "ฮ่าๆ คำตอบก็แบเบอร์อยู่แล้วนี่! เทียบชั้นสู้กับสัญญาที่หนึ่งหรือสัญญาที่สองไม่ได้เลย ยัยนั่นเป็นได้แค่สัญญาที่สามปลายแถวที่ไม่มีราคาต่อรองให้ลุ้นชนะได้เลยสักนิด!"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "thenweseeeyetoeyeonthisbrotherbeingbakooljajasolongwithmehasrubbedoffonyou",
       "text_en": "Then we see eye to eye on this, Brother. Being Bakool Ja Ja so long with me has rubbed off on you!",
       "text": "กวนโอ๊ยได้สติปัญญาคิดเหมือนข้าเป๊ะเลย น้องชาย! อยู่กับข้าบาคูล จา จา มานานนี่ซึมซับความเทพของข้าไปเต็มๆ เลยนะเนี่ย!"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "thesealliesofhersthoughtheymightbeaproblem",
       "text_en": "These allies of hers, though... They might be a problem.",
       "text": "แต่ไอ้พวกกากฝรั่งร่วมทางที่หนุนหลังยัยนั่นอยู่เนี่ย... อาจจะเป็นเสี้ยนหนามคอยขวางหูขวางตาเราอยู่บ้างแฮะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "dammitimjustasqualifiedtobehereastheyareillshowthem",
       "text_en": "Dammit, I'm just as qualified to be here as they are. I'll show them!",
       "text": "หนอยแน่... ข้าก็มีสิทธิ์ในการประลองชิงราชบัลลังก์นี้เทียบเท่ากับพวกแกนั่นแหละ คอยดูฝีมือเถอะ เจ็บใจชะมัด!"
     },
     {
-      "character": "Krile",
+      "key": "easynowtheresnotimelimitrememberletskeepcalmandthinkthingsthrough",
       "text_en": "Easy now. There's no time limit, remember? Let's keep calm and think things through.",
       "text": "ใจเย็นๆ ก่อนนะคะ อย่าลืมสิคะว่าโจทย์ด่านนี้ไม่จำกัดเวลา ค่อยๆ สงบสติอารมณ์แล้วหาทางคิดแก้โจทย์ไปด้วยกันเถอะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightyourerightiwontwinagainstthatlumberingvidraalbylosingmyhead",
       "text_en": "Right. You're right. I won't win against that lumbering vidraal by losing my head!",
       "text": "อื้อ จริงของเธอ... ข้าไม่มีทางเอาชนะศึกประลองกับไอ้อสูรกายยักษ์สองหัวบ้าพลังนั่นได้หรอก ถ้าเกิดดันมาสติแตกหัวร้อนไปก่อนแบบนี้!"
     }

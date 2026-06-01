@@ -1,821 +1,813 @@
 {
-  "id": "a-new-world-to-explore",
-  "wiki_path": "/wiki/A_New_World_to_Explore",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/86/A_New_World_to_Explore.png",
-  "patch": "7.0",
-  "title_en": "A New World to Explore",
-  "title": "สู่ดินแดนใหม่แห่งการผจญภัย",
-  "level": "90",
-  "location": "Old Sharlayan(X:9.2,Y:11.2)",
-  "npc_start": "Ojika Tsunjika",
+  "quest_id": "a-new-world-to-explore",
   "dialogues": [
     {
-      "character": "Ojika Tsunjika",
+      "key": "welcomebackforenameivejusthadwordfromerenville",
       "text_en": "Welcome back, Forename ! I've just had word from Erenville.",
       "text": "ยินดีต้อนรับกลับมาครับคุณ [ชื่อ]! ผมเพิ่งได้รับข่าวจากเอเรนวิลล์มาเมื่อกี้นี้เองครับ"
     },
     {
-      "character": "Ojika Tsunjika",
+      "key": "itseemshesmanagedtosecurepassagetoturalaboardaguildshipvessel",
       "text_en": "It seems he's managed to secure passage to Tural aboard a guildship vessel.",
       "text": "ดูเหมือนเขาจะหาลู่ทางจองตั๋วเรือของกิลด์ข้ามไปทูรัลได้แล้วนะครับ"
     },
     {
-      "character": "Ojika Tsunjika",
+      "key": "whydontyouwaitinthemainhallwhileigoandinformyourtravelcompanionsitshouldonlytakeamoment",
       "text_en": "Why don't you wait in the main hall while I go and inform your travel companions? It should only take a moment.",
       "text": "คุณไปรอในห้องโถงใหญ่ก่อนดีไหมครับ เดี๋ยวผมจะไปแจ้งเพื่อนร่วมเดินทางคนอื่นๆ ให้เอง รอประเดี๋ยวเดียวเท่านั้นครับ"
     },
     {
-      "character": "Ojika Tsunjika",
+      "key": "yournextgrandadventurebeginseh",
       "text_en": "Your next grand adventure begins, eh?",
       "text": "การผจญภัยครั้งยิ่งใหญ่ครั้งต่อไปกำลังจะเริ่มขึ้นแล้วสินะครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "ojikagaveusthegoodnewswevemadereadytosetsailatamomentsnotice",
       "text_en": "Ojika gave us the good news. We've made ready to set sail at a moment's notice.",
       "text": "โอจิกะแจ้งข่าวดีกับพวกเราแล้วครับ พวกเราเตรียมสัมภาระพร้อมออกเรือได้ทันทีทุกเมื่อแล้ว"
     },
     {
-      "character": "Krile",
+      "key": "theonlyoneyettoarriveiserenvillehimself",
       "text_en": "The only one yet to arrive is Erenville himself...",
       "text": "เหลือก็แต่เอเรนวิลล์นั่นแหละค่ะที่ยังมาไม่ถึง..."
     },
     {
-      "character": "Erenville",
+      "key": "ahyoureallhere",
       "text_en": "Ah, you're all here.",
       "text": "อา มากันพร้อมหน้าแล้วสินะ"
     },
     {
-      "character": "Erenville",
+      "key": "ittooksomepersuasionbutthegleanersguildshiphasgrantedusplacesaboardavesselboundfortural",
       "text_en": "It took some persuasion, but the gleaners' guildship has granted us places aboard a vessel bound for Tural.",
       "text": "ต้องเจรจาโน้มน้าวอยู่พักใหญ่ แต่ในที่สุดกิลด์คนเก็บกวาดก็ยอมแบ่งที่นั่งให้พวกเราบนเรือที่จะมุ่งหน้าไปยังทูรัลแล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "therellbeotherpassengersresearchersandartisansandthelikesowellneedtosharedeckspace",
       "text_en": "There'll be other passengers─researchers and artisans and the like─so we'll need to share deck space.",
       "text": "บนเรือยังมีผู้โดยสารคนอื่นอีก ทั้งพวกนักวิจัยแล้วก็ช่างฝีมือ เพราะงั้นเราคงต้องแบ่งปันพื้นที่บนดาดฟ้าร่วมกับคนอื่นๆ ด้วยนะ"
     },
     {
-      "character": "Krile",
+      "key": "thatsfineerenvilleidoubtanyoneexpectedwedhaveashipalltoourselves",
       "text_en": "That's fine, Erenville. I doubt anyone expected we'd have a ship all to ourselves.",
       "text": "ไม่เป็นไรหรอกค่ะเอเรนวิลล์ ฉันคิดว่าคงไม่มีใครหวังว่าจะได้เหมาเรือทั้งลำไว้ใช้ส่วนตัวหรอกค่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "theyrenotcastingoffjustyetsoifyouhaveanylingeringconcernsnowisthetimetovoicethem",
       "text_en": "They're not casting off just yet, so if you have any lingering concerns, now is the time to voice them.",
       "text": "เรือยังไม่ยอมออกในทันทีหรอกนะ ถ้าใครยังมีเรื่องคาใจอะไรล่ะก็ รีบพูดมาตอนนี้เลยจะดีกว่า"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwouldntcallitaconcernbuteveryonesstillclearonwhatitiswellbedoinginturalyes",
       "text_en": "I wouldn't call it a concern, but everyone's still clear on what it is we'll be doing in Tural, yes?",
       "text": "ฉันก็ไม่ได้คาใจอะไรหรอกนะ แค่อยากให้ทุกคนแน่ใจอีกรอบว่าพวกเรากำลังจะเดินทางไปทำอะไรที่ทูรัลกันแน่ ชัดเจนกันดีใช่ไหม?"
     },
     {
-      "character": "Alphinaud",
+      "key": "wevenotforgotten",
       "text_en": "We've not forgotten.",
       "text": "พวกเราไม่มีวันลืมอยู่แล้วครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "thenationoftuliyollalisinthemidstofdecidingitsnextruler",
       "text_en": "The nation of Tuliyollal is in the midst of deciding its next ruler.",
       "text": "ตอนนี้อาณาจักรทูลิโยลลัลกำลังอยู่ในช่วงตัดสินตัวผู้ปกครองแผ่นดินคนต่อไป"
     },
     {
-      "character": "Alphinaud",
+      "key": "asyourchosenalliesweshallassistyouduringtheriteofsuccessionandsupportyourbidtobecomedawnservant",
       "text_en": "As your chosen allies, we shall assist you during the rite of succession, and support your bid to become Dawnservant.",
       "text": "ในฐานะพันธมิตรที่คุณเลือก พวกเราจะคอยช่วยเหลือในระหว่างพิธีสืบทอดราชบัลลังก์ และสนับสนุนการชิงตำแหน่งดอว์นเซิร์ฟวันต์ของคุณอย่างเต็มที่ครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "inadditiontothatalphinaudandihaveanotherobjective",
       "text_en": "In addition to that, Alphinaud and I have another objective.",
       "text": "นอกจากเรื่องนั้นแล้ว ฉันกับอัลฟิโนยังมีเป้าหมายอีกอย่างหนึ่งด้วยนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "aspartofitsreconstructiongarlemaldseekswaystoreconcileandreengagewithitsneighbors",
       "text_en": "As part of its reconstruction, Garlemald seeks ways to reconcile and reengage with its neighbors.",
       "text": "ในการฟื้นฟูการ์เลอมัลด์ พวกเราพยายามหาวิธีผูกมิตรและกลับไปเชื่อมสัมพันธ์กับประเทศเพื่อนบ้านอีกครั้ง"
     },
     {
-      "character": "Alisaie",
+      "key": "byvisitingturalwehopetolearnmoreabouthowitsmyriadculturesinteractwithoneanotherhowtheyfindcommongrounddevelopstrongertiesthesortofinsightsthatmighthelpourfriendsinilsabard",
       "text_en": "By visiting Tural, we hope to learn more about how its myriad cultures interact with one another. How they find common ground, develop stronger ties─the sort of insights that might help our friends in Ilsabard.",
       "text": "การไปเยือนทูรัลครั้งนี้ พวกเราหวังว่าจะได้เห็นวิธีการที่ผู้คนต่างวัฒนธรรมอยู่ร่วมกันและสานสัมพันธ์กันลึกซึ้งขึ้น เพื่อเก็บเป็นบทเรียนไปช่วยเหลือพวกพ้องของเราในอิลซาบาร์ดน่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "butwellpursuethisgoalinourowntimeyoucanbeassuredthatwellgivethecontestalldueattention",
       "text_en": "But we'll pursue this goal in our own time. You can be assured that we'll give the contest all due attention.",
       "text": "แต่เรื่องนั้นพวกเราจะหาเวลาทำส่วนตัวล่ะนะ วางใจได้เลยว่าพวกเราจะทุ่มเทให้กับการประลองนี้อย่างแน่นอน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsalliaskotherwiseyourewelcometodoasyoulike",
       "text_en": "That's all I ask. Otherwise, you're welcome to do as you like.",
       "text": "ฉันขอแค่นั้นแหละ นอกเหนือจากนั้นพวกนายจะทำอะไรก็ตามสบายเลย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youwantedtofindoutaboutyourgrandfatherrightkrile",
       "text_en": "You wanted to find out about your grandfather, right, Krile?",
       "text": "แล้วเธอก็อยากสืบเรื่องปู่ของเธอด้วยใช่ไหมล่ะ ไครล์"
     },
     {
-      "character": "Krile",
+      "key": "yesasfaraswecoulddeterminefromtheoldmissiveifoundhehadbeentaskedwithinvestigatingthegoldencitybyyourfatherthedawnservant",
       "text_en": "Yes. As far as we could determine from the old missive I found, he had been tasked with investigating the golden city by your father, the Dawnservant.",
       "text": "ใช่ค่ะ เท่าที่จับใจความจากจดหมายเก่าที่ฉันเจอ ดูเหมือนคุณปู่จะได้รับคำขอจากคุณพ่อของเธอซึ่งเป็นดอว์นเซิร์ฟวันต์ ให้มาสืบเรื่องนครแห่งทองคำน่ะค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "yetoddlyenoughwehavenorecordofthatinvestigationinourarchivesandnothingtoexplaintheearringwhichaccompaniedtheletter",
       "text_en": "Yet oddly enough, we have no record of that investigation in our archives, and nothing to explain the earring which accompanied the letter.",
       "text": "แต่แปลกมากตรงที่บันทึกของพวกเรากลับไม่มีข้อมูลการสืบสวนครั้งนั้นเลย แถมไม่มีอะไรอธิบายเรื่องต่างหูที่แนบมากับจดหมายด้วย"
     },
     {
-      "character": "Krile",
+      "key": "thusforreasonsbothofficialandpersonalishouldverymuchliketogettothebottomofthismystery",
       "text_en": "Thus for reasons both official and personal, I should very much like to get to the bottom of this mystery.",
       "text": "เพราะฉะนั้น ไม่ว่าจะในฐานะหน้าที่การงานหรือเรื่องส่วนตัว ฉันก็อยากจะไขปริศนานี้ให้กระจ่างให้ได้ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imsuretherellbeachancetospeakwithpapayoucangetyouranswersrightfromthesource",
       "text_en": "I'm sure there'll be a chance to speak with Papa. You can get your answers right from the source!",
       "text": "เดี๋ยวต้องมีโอกาสได้คุยกับท่านพ่อแน่ๆ ล่ะ เธอจะได้ถามเอาความจริงจากต้นเรื่องได้เลย!"
     },
     {
-      "character": "Krile",
+      "key": "ilookforwardtomeetinghim",
       "text_en": "I look forward to meeting him.",
       "text": "ฉันตั้งตารอที่จะได้พบท่านเลยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "inanycaseyourenottheonlyonewithaninterestinthecityofgold",
       "text_en": "In any case, you're not the only one with an interest in the city of gold.",
       "text": "อีกอย่างนะ คนที่สนใจเรื่องนครแห่งทองคำน่ะไม่ได้มีแค่เธอคนเดียวหรอก"
     },
     {
-      "character": "Erenville",
+      "key": "thegoldencityisachildrensbedtimestoryiampartofthisexpeditiononlybecausethethirdpromisehascommandedthatiserveasguide",
       "text_en": "The golden city is a children's bedtime story. I am part of this expedition only because the Third Promise has commanded that I serve as guide.",
       "text": "นครแห่งทองคำมันก็แค่เรื่องเล่าก่อนนอนของเด็กๆ เท่านั้นแหละ ที่ผมยอมร่วมเดินทางไปด้วยก็เพราะคำสั่งของท่านสัญญาที่สามที่ให้ผมทำหน้าที่นำทางต่างหาก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "stillplayingthepartofthestoicservantisee",
       "text_en": "Still playing the part of the stoic servant, I see.",
       "text": "ยังทำตัวเป็นคนรับใช้หน้าตายไม่เปลี่ยนเลยนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatofyoudontyoudaretellmeyouvechangedyourmind",
       "text_en": "What of you? Don't you dare tell me you've changed your mind!",
       "text": "แล้วนายล่ะ? ห้ามบอกเด็ดขาดนะว่าเปลี่ยนใจแล้วน่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellsaidwewontgetfarwallowingintheshallows",
       "text_en": "Well said! We won't get far wallowing in the shallows!",
       "text": "พูดได้ดี! ถ้ามัวแต่กล้าๆ กลัวๆ อยู่ริมตลิ่ง เราไม่มีวันไปถึงไหนหรอก!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hahamanwomanofaction",
       "text_en": "Hah! A man / woman of action!",
       "text": "ฮ่า! สมกับเป็นคนจริงที่เน้นการกระทำ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehthatswhattheytellme",
       "text_en": "Heh, that's what they tell me.",
       "text": "เฮะ ใครๆ ก็พูดแบบนั้นแหละ"
     },
     {
-      "character": "Erenville",
+      "key": "rightthenifallarestillcommittedtothejourneythenisaywemakereadytodepart",
       "text_en": "Right, then. If all are still committed to the journey, then I say we make ready to depart.",
       "text": "เอาละ ถ้าทุกคนยังยืนกรานที่จะร่วมเดินทางล่ะก็ ผมว่าพวกเราเตรียมตัวออกเดินทางกันได้แล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "eagerastheyaretheothershavealreadyleftfortheharbor",
       "text_en": "Eager as they are, the others have already left for the harbor.",
       "text": "คนอื่นๆ รีบร้อนจนล่วงหน้าไปรอที่ท่าเรือกันหมดแล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "werenotindangerofmissingtheboardingcallbutperhapsweshouldbeonourwayaswell",
       "text_en": "We're not in danger of missing the boarding call, but perhaps we should be on our way as well.",
       "text": "พวกเราไม่ได้ถึงกับจะตกรถไฟเรือหรอกนะ แต่รีบตามไปตอนนี้เลยก็คงดีกว่า"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "savoringthemomenticanfeelyourexcitementyoureagernesstoexploretheunknown",
       "text_en": "Savoring the moment? I can feel your excitement...your eagerness to explore the unknown!",
       "text": "กำลังดื่มด่ำกับช่วงเวลานี้อยู่เหรอ? ฉันสัมผัสได้ถึงความตื่นเต้นของนายเลยล่ะ... ความกระหายที่จะได้ออกไปสำรวจดินแดนที่ไม่รู้จัก!"
     },
     {
-      "character": "Alisaie",
+      "key": "wellforoncethefateoftheworlddoesntrestonourshoulderswemightevengetachancetoenjoyourselves",
       "text_en": "Well, for once the fate of the world doesn't rest on our shoulders. We might even get a chance to enjoy ourselves!",
       "text": "อย่างน้อยครั้งนี้ชะตากรรมของโลกก็ไม่ได้แบกอยู่บนบ่าพวกเราล่ะนะ บางทีรอบนี้อาจจะได้เที่ยวเล่นสนุกๆ บ้างก็ได้!"
     },
     {
-      "character": "Erenville",
+      "key": "donotbesoquicktorelax",
       "text_en": "Do not be so quick to relax.",
       "text": "อย่าเพิ่งรีบชะล่าใจไปหน่อยเลย"
     },
     {
-      "character": "Erenville",
+      "key": "thoughturalmayseembutashortsailawayonamapthevastseasbetweenbrimwithperilthetreacherouswatersofshadestrianglealonehaveclaimedcountlessvessels",
       "text_en": "Though Tural may seem but a short sail away on a map, the vast seas between brim with peril. The treacherous waters of Shades' Triangle alone have claimed countless vessels.",
       "text": "แม้ทูรัลบนแผนที่จะดูเหมือนอยู่ใกล้แค่แล่นเรือชั่วประเดี๋ยวเดียว แต่มหาสมุทรอันกว้างใหญ่ที่คั่นกลางกลับเต็มไปด้วยอันตราย น่านน้ำอันเชี่ยวกรากของสามเหลี่ยมแห่งเงามืดเพียงแห่งเดียว ก็กลืนกินเรือไปแล้วนับไม่ถ้วน"
     },
     {
-      "character": "Erenville",
+      "key": "evenfollowingthesaferouteplottedbyadmiralbloefhiswynherselfthiswillbenopleasurecruise",
       "text_en": "Even following the “safe” route plotted by Admiral Bloefhiswyn herself, this will be no pleasure cruise.",
       "text": "ต่อให้แล่นตามเส้นทาง 'ปลอดภัย' ที่พลเรือเอกบลูฟิสวินนำร่องไว้ด้วยตัวเอง การเดินทางครั้งนี้ก็ไม่ใช่งานรื่นเริงอยู่ดี"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "perhapsbutmyvoyageherewasuneventfulenoughdisappointinglyso",
       "text_en": "Perhaps, but my voyage here was uneventful enough. Disappointingly so!",
       "text": "อาจจะจริง แต่ตอนฉันนั่งเรือมาที่นี่ก็ราบรื่นดีออก ราบรื่นจนน่าผิดหวังด้วยซ้ำ!"
     },
     {
-      "character": "Krile",
+      "key": "eitherwaythetwoofyouhavefirsthandexperience",
       "text_en": "Either way, the two of you have firsthand experience!",
       "text": "แต่ถึงอย่างนั้น ทั้งคู่ก็ผ่านประสบการณ์จริงมาแล้วนี่คะ!"
     },
     {
-      "character": "Krile",
+      "key": "whichwillbeofgreatcomfortinthedaysaheadimsure",
       "text_en": "Which will be of great comfort in the days ahead, I'm sure.",
       "text": "ซึ่งเรื่องนี้คงช่วยให้พวกเราอุ่นใจขึ้นเยอะเลยล่ะค่ะสำหรับการเดินทางในครั้งนี้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ayeitsnothingnewtous",
       "text_en": "...Aye, it's nothing new to us!",
       "text": "ใช่ เรื่องกล้วยๆ สำหรับพวกเราอยู่แล้ว!"
     },
     {
-      "character": "Sprightly Sailor",
+      "key": "allaboardwerecastinoff",
       "text_en": "All aboard! We're castin' off!",
       "text": "ผู้โดยสารขึ้นเรือได้เลย! เรือจะออกแล้ว!"
     },
     {
-      "character": "Erenville",
+      "key": "itstimeitrustyouhaveeverythingyouneed",
       "text_en": "It's time. I trust you have everything you need.",
       "text": "ได้เวลาแล้ว ตรวจดูสัมภาระให้เรียบร้อยนะ"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "andsodoesourshipcastofffromthedocks",
       "text_en": "And so does our ship cast off from the docks.",
       "text": "และแล้ว เรือของพวกเราก็แล่นออกจากท่า"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "wesailwestasketenrammdidsomeeightyyearspastboundforthenewworldknowntoherchildrenasthecontinentoftural",
       "text_en": "We sail west, as Ketenramm did some eighty years past, bound for the “New World”─known to her children as the continent of Tural.",
       "text": "พวกเรามุ่งหน้าสู่ทิศตะวันตก ตามรอยการเดินทางอันเป็นตำนานของเคเทนแรมเมื่อแปดสิบปีก่อน สู่นครที่ผู้คนขนานนามว่า 'โลกใหม่' หรือดินแดนทูรัลในใจของเหล่าบุตรธิดาแห่งทวีปนี้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "justwaitpapawhenthiscontestissaidanddoneitllbeyourdaughterwhositsthethronemewuklamat",
       "text_en": "Just wait, Papa! When this contest is said and done, it'll be your daughter who sits the throne... Me, Wuk Lamat!",
       "text": "คอยดูเถอะท่านพ่อ! พอการประลองนี้สิ้นสุดลงเมื่อไหร่ ลูกสาวของท่านคนนี้แหละที่จะขึ้นครองราชบัลลังก์... ข้าเอง วุค ลามัต!"
     },
     {
-      "character": "Erenville",
+      "key": "smoothsailingsofar",
       "text_en": "Smooth sailing so far?",
       "text": "แล่นเรือราบรื่นดีอยู่ใช่ไหม?"
     },
     {
-      "character": "Sprightly Sailor",
+      "key": "ayesofarsogood",
       "text_en": "Aye, so far, so good.",
       "text": "ครับ ตอนนี้ยังเรียบร้อยดีอยู่"
     },
     {
-      "character": "Sprightly Sailor",
+      "key": "butthisseashesafickleonecalmonemomentblowinagalethenext",
       "text_en": "But this sea, she's a fickle one. Calm one moment, blowin' a gale the next.",
       "text": "แต่ทะเลแถวนี้เอาแน่เอานอนไม่ได้หรอก บทจะสงบก็เงียบกริบ บทจะพายุก็มาทันทีทันใด"
     },
     {
-      "character": "Erenville",
+      "key": "illtakemyrestwhileicanthen",
       "text_en": "I'll take my rest while I can, then.",
       "text": "งั้นผมขอพักผ่อนเอาแรงก่อนเท่าที่จะทำได้แล้วกัน"
     },
     {
-      "character": "Krile",
+      "key": "weleftportwhatseemsanageagonowandweveseennaughtbutopenwateraheadiknewturalwasfarbutitsanotherthingtoreallyknow",
       "text_en": "We left port what seems an age ago now, and we've seen naught but open water ahead. I knew Tural was far, but it's another thing to really know.",
       "text": "พวกเราแล่นเรือออกจากท่าเรือมานานแสนนานราวกับผ่านมาเป็นศตวรรษ เบื้องหน้ามีเพียงผืนน้ำกว้างสุดลูกหูลูกตา ฉันรู้อยู่แล้วว่าทูรัลน่ะห่างไกลนัก แต่การได้มาเห็นด้วยตาตัวเองจริงๆ แบบนี้มันต่างกันลิบลับเลยล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "speakingofwhichsomeofourfellowpassengershavemadethistripbeforeseveraltimesinfactiwasabletolearnafewthingsabouttuliyollalandtheriteofsuccession",
       "text_en": "Speaking of which, some of our fellow passengers have made this trip before─several times in fact. I was able to learn a few things about Tuliyollal and the rite of succession.",
       "text": "พูดถึงเรื่องนี้ ผู้โดยสารคนอื่นๆ บางคนเคยเดินทางมาแล้วหลายครั้ง ฉันเลยแวะไปคุยเก็บข้อมูลเกี่ยวกับทูลิโยลลัลกับพิธีสืบทอดราชบัลลังก์มาได้นิดหน่อยค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "sincewestillhavealongwaytogowhynothaveachatwiththemyourselfimsureyouhavequestionsofyourown",
       "text_en": "Since we still have a long way to go─why not have a chat with them yourself? I'm sure you have questions of your own.",
       "text": "ไหนๆ หนทางยังอีกไกล ทำไมคุณไม่ลองไปคุยกับพวกเขาสักหน่อยล่ะคะ? น่าจะช่วยไขข้อสงสัยที่คุณมีได้เหมือนกันนะ"
     },
     {
-      "character": "Krile",
+      "key": "didyoulookoutacrossthesesamewatersgrandfather",
       "text_en": "Did you look out across these same waters, Grandfather...?",
       "text": "คุณปู่คะ... ตอนนั้นคุณปู่เคยมองออกไปข้ามผืนน้ำแห่งนี้แบบฉันไหมนะ...?"
     },
     {
-      "character": "Krile",
+      "key": "haveyouspokenwithourshipmatesturalisstillagooddistanceawayanditmightbeapleasantwaytopassthetime",
       "text_en": "Have you spoken with our shipmates? Tural is still a good distance away, and it might be a pleasant way to pass the time.",
       "text": "แวะไปคุยกับเพื่อนร่วมเรือมาหรือยังคะ? ทูรัลยังอยู่อีกไกลนัก ไปชวนพวกเขาคุยแก้เหงาฆ่าเวลาหน่อยก็น่าสนุกดีนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "deepbreathsdeepbreaths",
       "text_en": "Deep breaths... Deep breaths...",
       "text": "สูดลมหายใจลึกๆ... สูดลมหายใจลึกๆเข้าไว้..."
     },
     {
-      "character": "Alisaie",
+      "key": "icanfeelmyedgestarttodullontheselongseavoyageshowaboutsomelightsparringlater",
       "text_en": "I can feel my edge start to dull on these long sea voyages. How about some light sparring later?",
       "text": "การเดินทางทางเรือยาวๆ แบบนี้ทำให้ประสาทสัมผัสฉันเริ่มตื้อแล้วสิ เดี๋ยวเรามาซ้อมประลองกันเบาๆ หน่อยไหม?"
     },
     {
-      "character": "Alphinaud",
+      "key": "imtoldthisvesselhasbeenequippedwithabarriergeneratortoprotectitfromstorms",
       "text_en": "I'm told this vessel has been equipped with a barrier generator to protect it from storms.",
       "text": "เห็นว่าเรือลำนี้ติดตั้งเครื่องสร้างบาเรียเวทมนตร์สำหรับป้องกันพายุด้วยนะครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "areassuringthoughtthoughineverthelesspraytherewillbenoneedforit",
       "text_en": "A reassuring thought─though I nevertheless pray there will be no need for it...",
       "text": "คิดแล้วก็น่าอุ่นใจดี... แต่ถึงอย่างนั้น ผมก็ขอภาวนาอย่าให้เรามีโอกาสได้เปิดใช้งานมันเลยครับ..."
     },
     {
-      "character": "Lalafellin Gleaner",
+      "key": "idhearderenvillewaslookingforpassagetotuliyollalsoimanagedtosqueezehispartyaboardoneofourcharteredvesselsasfortunewouldhaveitwehadjustscheduledanexpeditiontotural",
       "text_en": "I'd heard Erenville was looking for passage to Tuliyollal, so I managed to squeeze his party aboard one of our chartered vessels. As fortune would have it, we had just scheduled an expedition to Tural.",
       "text": "ฉันได้ยินมาว่า Erenville กำลังหาทางไปยัง ทูลิโยลลัล ดังนั้นฉันจึงจัดปาร์ตี้ของเขาขึ้นเรือลำหนึ่งที่เราเช่ามาได้ โชคลาภน่าจะมี เราเพิ่งกำหนดการเดินทางไปที่ทูรัล"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "hmohthiswillbemyfirstvisittotural",
       "text_en": "Hm? Oh, this will be my first visit to Tural.",
       "text": "หือ? อ๋อ นี่เป็นครั้งแรกที่ผมจะไปเยือนทูรัลน่ะครับ"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "fonjeantainesthenameiwasworkingateshtaimesaestheticsinuldahyouseebutmyemploymentwiththemuhcametoanend",
       "text_en": "Fonjeantaine's the name. I was working at Eshtaime's Aesthetics in Ul'dah, you see, but my employment with them, uh...came to an end.",
       "text": "ผมชื่อฟงชองแตนครับ เดิมทีเคยทำงานที่ร้านเครื่องประดับเอสไตม์ในอุลดาห์ แต่ว่างานนั้น... มันสิ้นสุดลงแล้วล่ะครับ"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "thatswhyivisitedsharlayaninthehopesofstartingoverwhileiwasattemptingandfailingtofindanewjobiseizedthechancetoboardthisvesselwhenioverheardroomforanotherpassengerhadsuddenlyopenedup",
       "text_en": "That's why I visited Sharlayan, in the hopes of starting over. While I was attempting─and failing─to find a new job, I seized the chance to board this vessel when I overheard room for another passenger had suddenly opened up.",
       "text": "ผมก็เลยตัดสินใจมาเริ่มต้นใหม่ที่ชาร์ลายัน แต่ในระหว่างที่พยายามหางานใหม่แล้วล้มเหลวไม่เป็นท่า ผมบังเอิญได้ยินว่ามีที่นั่งบนเรือลำนี้ว่างกะทันหัน ก็เลยรีบคว้าโอกาสขึ้นเรือมาทันทีเลยครับ"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "imtoldthedawnservantwelcomesallregardlessoforiginandsotuliyollalseemedliketheperfectplacetobeginanew",
       "text_en": "I'm told the Dawnservant welcomes all regardless of origin, and so Tuliyollal seemed like the perfect place to begin anew.",
       "text": "เห็นเขาว่าดอว์นเซิร์ฟวันต์ยินดีต้อนรับทุกคนโดยไม่เกี่ยงชาติกำเนิด ทูลิโยลลัลก็เลยดูเป็นสถานที่ที่สมบูรณ์แบบสำหรับการเริ่มต้นชีวิตใหม่ของผมครับ"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "sighhopefullythingswillbebetterthistime",
       "text_en": "<sigh> Hopefully things will be better this time...",
       "text": "เฮ้อ... หวังว่าคราวนี้อะไรๆ จะดีขึ้นกว่าเดิมนะ..."
     },
     {
-      "character": "Swarthy Sailor",
+      "key": "didyouwanttomakeawagerweretakingbetsonwhollbesatnextinthedawnservantsshinychair",
       "text_en": "Did you want to make a wager? We're taking bets on who'll be sat next in the Dawnservant's shiny chair.",
       "text": "อยากลองวางเดิมพันสักหน่อยไหมครับ? พวกเรากำลังเปิดโต๊ะพนันกันอยู่ว่าใครจะได้ขึ้นไปนั่งบนเก้าอี้สีทองของดอว์นเซิร์ฟวันต์คนต่อไป"
     },
     {
-      "character": "Swarthy Sailor",
+      "key": "therearefourclaimantsintheriteofsuccessionyouryoungwuklamatbeingoneofthemofcourse",
       "text_en": "There are four claimants in the rite of succession─your young Wuk Lamat being one of them, of course.",
       "text": "ในพิธีสืบทอดบัลลังก์มีผู้ท้าชิงสี่คน แน่นอนว่าแม่หนูวุค ลามัต ของพวกคุณก็เป็นหนึ่งในนั้น"
     },
     {
-      "character": "Swarthy Sailor",
+      "key": "butfromwhatamamooljablokewastellingustheotherthreeareallstrongcontendersnottoomanykeentorisktheircoinonthethirdpromise",
       "text_en": "But from what a Mamool Ja bloke was telling us, the other three are all strong contenders. Not too many keen to risk their coin on the Third Promise.",
       "text": "แต่จากที่คนของเผ่ามามูอูล จา เล่าให้ฟัง อีกสามคนเป็นคู่แข่งที่น่ากลัวมาก เลยไม่ค่อยมีใครกล้าเสี่ยงเงินเดิมพันกับท่านสัญญาที่สามเท่าไหร่ครับ"
     },
     {
-      "character": "Burly Adventurer",
+      "key": "mystorywellsinceyouaskediwantedtoretracethehistoricjourneyofthegreatketenrammyouknowthefirsteorzeantosetfootonturalalmosteightyyearsago",
       "text_en": "My story? Well, since you asked, I wanted to retrace the historic journey of the great Ketenramm. You know─the first Eorzean to set foot on Tural, almost eighty years ago.",
       "text": "เรื่องราวของผมงั้นเหรอ? ถ้าอยากรู้ล่ะก็ ผมตั้งใจจะเดินทางตามรอยประวัติศาสตร์ของเคเทนแรมผู้ยิ่งใหญ่น่ะครับ คุณรู้จักใช่ไหม—ชาวอีออร์เซียคนแรกที่เหยียบทูรัลเมื่อเกือบแปดสิบปีก่อนน่ะ"
     },
     {
-      "character": "Burly Adventurer",
+      "key": "themamooljasleaderissaidtohavewelcomedketenrammwithopenarmsandsenthimhomewithabountyofsilverwareasatokenoftheirfriendship",
       "text_en": "The Mamool Ja's leader is said to have welcomed Ketenramm with open arms, and sent him home with a bounty of silverware as a token of their friendship.",
       "text": "เล่ากันว่าผู้นำชาวมามูอูล จา ต้อนรับเคเทนแรมอย่างอบอุ่นมาก แถมยังมอบเครื่องเงินมากมายให้เขากลับบ้านเพื่อเป็นหลักฐานแห่งมิตรภาพด้วย"
     },
     {
-      "character": "Burly Adventurer",
+      "key": "buttherealtreasurewasthecropshebroughtbackpopotoestomatoesandcornwhichspreadacrosseorzealikewildfirehisgrandadventureledtoaculinaryrevolution",
       "text_en": "But the real treasure was the crops he brought back─popotoes, tomatoes, and corn─which spread across Eorzea like wildfire. His grand adventure led to a culinary revolution!",
       "text": "แต่สมบัติที่แท้จริงคือพืชผลที่เขานำกลับมาด้วย ทั้งมันฝรั่ง มะเขือเทศ และข้าวโพด ซึ่งแพร่กระจายไปทั่วอีออร์เซียอย่างรวดเร็วราวกับไฟลามทุ่ง การผจญภัยของเขานำไปสู่การปฏิวัติวงการอาหารเลยล่ะ!"
     },
     {
-      "character": "Burly Adventurer",
+      "key": "thetalessayketenrammreturnedtoturalseveraltimesafterthatbuthisshipvanishedduringhislastrecordedvoyageandhewasneverheardfromagainthatevenaseasonedexplorerlikehimcouldmeetsuchanendistestimonytotheoceansperil",
       "text_en": "The tales say Ketenramm returned to Tural several times after that, but his ship vanished during his last recorded voyage, and he was never heard from again. That even a seasoned explorer like him could meet such an end is testimony to the ocean's peril...",
       "text": "ตำนานเล่าว่าหลังจากนั้นเคเทนแรมกลับไปทูรัลอีกหลายครั้ง แต่เรือของเขาหายสาบสูญไปในการเดินทางครั้งล่าสุด และไม่มีใครได้ยินข่าวคราวจากเขาอีกเลย ขนาดนักสำรวจผู้ช่ำชองอย่างเขายังพบจุดจบแบบนั้น แสดงให้เห็นเลยว่ามหาสมุทรแห่งนี้อันตรายแค่ไหน..."
     },
     {
-      "character": "Self-Assured Trader",
+      "key": "anadventureripresume",
       "text_en": "An adventurer, I presume?",
       "text": "เดาว่าเป็นนักผจญภัยสินะครับ?"
     },
     {
-      "character": "Self-Assured Trader",
+      "key": "imamerchantmyselfbasedinuldahspecialtyimportsandexportseorzeanandturaliboth",
       "text_en": "I'm a merchant myself, based in Ul'dah. Specialty imports and exports, Eorzean and Turali both.",
       "text": "ผมเป็นพ่อค้าจากอุลดาห์น่ะครับ ทำธุรกิจนำเข้าส่งออกสินค้าพิเศษ ทั้งของอีออร์เซียและทูรัล"
     },
     {
-      "character": "Self-Assured Trader",
+      "key": "ifthisisyourfirstcrossingthesaltastheysaydorememberthatthesocialmoresofeorzeaarenotnecessarilythesameasthoseoveryonder",
       "text_en": "If this is your first “crossing the salt,” as they say, do remember that the social mores of Eorzea are not necessarily the same as those over yonder.",
       "text": "ถ้าหากนี่เป็นครั้งแรกที่คุณ 'ข้ามทะเลเกลือ' มาล่ะก็ จำไว้หน่อยนะครับว่าธรรมเนียมทางสังคมของอีออร์เซียไม่เหมือนกับที่ฝั่งโน้นเสมอไปหรอกนะ"
     },
     {
-      "character": "Self-Assured Trader",
+      "key": "considerthisitisnotuncommonforthevariousracestobereferredtoinsteadbythenamesofcertainclansforthemiqotethehhetsarrothehrothgarthexbraalnotbecauseeverymemberofagivenclanisofthesameracemindbutbecausemanyindividualsofsaidraceareassociatedwiththatclanafairassumptionincertaincasesbuttakecarenottogiveoffense",
       "text_en": "Consider this: it is not uncommon for the various races to be referred to instead by the names of certain clans. For the Miqo'te, the Hhetsarro; the Hrothgar, the Xbr'aal. Not because every member of a given clan is of the same race, mind, but because many individuals of said race are associated with that clan. A fair assumption, in certain cases─but take care not to give offense.",
       "text": "ยกตัวอย่างเช่น ชนเผ่าต่างๆ มักจะถูกเรียกตามชื่อตระกูลหลักแทน อย่างเผ่ามิโคเตจะถูกเรียกว่าเฮตซาร์โร ส่วนโรธการ์คือชิบราล ไม่ใช่เพราะทุกคนในตระกูลนั้นจะเป็นเผ่านั้นทั้งหมดหรอกนะครับ แต่เพราะเผ่านั้นส่วนใหญ่ในดินแดนนั้นผูกพันกับตระกูลดังกล่าว ถือเป็นข้อสมมติฐานทั่วไปแต่ก็ระวังอย่าไปพูดจาลบหลู่เข้าล่ะ"
     },
     {
-      "character": "Retired Mercenary",
+      "key": "iseeyouineorzeabeforeyougreatandfamoushero",
       "text_en": "I see you in Eorzea before. You great and famous hero.",
       "text": "ข้าเคยเห็นเจ้าในอีออร์เซียมาก่อน เจ้าคือวีรบุรุษผู้ยิ่งใหญ่และมีชื่อเสียงคนนั้นสินะ"
     },
     {
-      "character": "Retired Mercenary",
+      "key": "gahivehadenoughofplayingthesimpletontherewasatimewhenwetookgreatpainstomaintainthedeceptionbutwithmoreofyoueorzeanscomingtoturalitsbecomeimpractical",
       "text_en": "...Gah, I've had enough of playing the simpleton. There was a time when we took great pains to maintain the deception, but with more of you Eorzeans coming to Tural, it's become impractical.",
       "text": "...เฮ้อ ข้าเลิกแกล้งทำเป็นคนโง่เง่าดีกว่า สมัยก่อนพวกข้าต้องแสร้งทำเป็นพวกป่าเถื่อนไร้การศึกษาเพื่อเอาตัวรอด แต่พอชาวอีออร์เซียแห่กันมาทูรัลมากขึ้นเรื่อยๆ แกล้งทำไปก็ป่วยการแล้ว"
     },
     {
-      "character": "Retired Mercenary",
+      "key": "besidesmymercenarydaysareovertoomanyofourwarbandhavefallenandsoweheadhometolickourwounds",
       "text_en": "Besides, my mercenary days are over. Too many of our warband have fallen, and so we head home to lick our wounds...",
       "text": "อีกอย่าง วันเวลาในฐานะทหารรับจ้างของข้ามันจบลงแล้ว เพื่อนพ้องในกองกำลังล้มตายไปมากเกินไป พวกข้าเลยเลือกกลับบ้านเกิดไปรักษาแผลใจดีกว่า..."
     },
     {
-      "character": "Fonjeantaine",
+      "key": "iwonderwhatthecitywillbelike",
       "text_en": "I wonder what the city will be like...",
       "text": "อยากรู้ว่าเมืองจะเป็นยังไง..."
     },
     {
-      "character": "Swarthy Sailor",
+      "key": "waitirecognizeyouyourethechampionofeorzeaifthethirdpromisehasyouonhersidethenthatshiftstheoddsafairbitimighthavetochangemybet",
       "text_en": "Wait, I recognize you─you're the champion of Eorzea! If the Third Promise has you on her side, then that shifts the odds a fair bit! I might have to change my bet...",
       "text": "เดี๋ยวก่อน ฉันจำคุณได้─คุณคือแชมป์เปี้ยนของ Eorzea! หาก Third Promise มีคุณอยู่เคียงข้างเธอ นั่นก็ทำให้โอกาสเปลี่ยนไปเล็กน้อย! ฉันอาจจะต้องเปลี่ยนเดิมพัน..."
     },
     {
-      "character": "Burly Adventurer",
+      "key": "somepartsofturalaresaidtobesoremotethatnotevenketenrammmadeittothemificouldexplorethoseplacesthenperhapsillbecomeevenmorefamousthanhim",
       "text_en": "Some parts of Tural are said to be so remote that not even Ketenramm made it to them. If I could explore those places, then perhaps I'll become even more famous than him!",
       "text": "ว่ากันว่าบางส่วนของ ทูรัล นั้นห่างไกลมากจนแม้แต่ Ketenramm ก็ไม่สามารถไปถึงได้ ถ้าฉันสามารถสำรวจสถานที่เหล่านั้นได้ บางทีฉันอาจจะมีชื่อเสียงมากกว่าเขาด้วยซ้ำ!"
     },
     {
-      "character": "Self-Assured Trader",
+      "key": "thegoodsimbringingoveronthistripareararesighttotheturalisoiexpecttomakeadecentprofitthelocalmerchantsareanagreeablefolk",
       "text_en": "The goods I'm bringing over on this trip are a rare sight to the Turali, so I expect to make a decent profit. The local merchants are an agreeable folk.",
       "text": "สินค้าที่ฉันนำติดตัวไปด้วยในทริปนี้เป็นของหายากสำหรับ ทูรัลi ดังนั้นฉันคาดว่าจะทำกำไรได้พอสมควร พ่อค้าในท้องถิ่นเป็นชาวบ้านที่น่าอยู่"
     },
     {
-      "character": "Retired Mercenary",
+      "key": "ilookforwardtoalongsoakinthehotspringsofurqopachaandnocomplaintswhenidancethebathingdance",
       "text_en": "I look forward to a long soak in the hot springs of Urqopacha. And no complaints when I dance the bathing dance.",
       "text": "ได้ข้อมูลอะไรน่าสนใจมาบ้างไหมคะ?"
     },
     {
-      "character": "Krile",
+      "key": "didyoulearnanythingofinterest",
       "text_en": "Did you learn anything of interest?",
       "text": "โอ๊ะ! เรื่องชื่อตระกูลเฉพาะถิ่นนั่นฉันเพิ่งเคยได้ยินเลยค่ะ ไว้เราค่อยให้วุค ลามัต กับเอเรนวิลล์ช่วยสอนพวกเราทีหลังนะคะ"
     },
     {
-      "character": "Krile",
+      "key": "ohihadntheardthatabouttheclannamesweshouldhavewuklamatanderenvilleteachustheonesweshouldknow",
       "text_en": "Oh! I hadn't heard that about the clan names. We should have Wuk Lamat and Erenville teach us the ones we should know.",
       "text": "จริงๆ แล้ว ตรงดาดฟ้านี่เริ่มหนาวขึ้นเรื่อยๆ แล้วล่ะค่ะ พวกเรารีบเข้าไปคุยกันต่อในเคบินดีกว่านะคะ"
     },
     {
-      "character": "Krile",
+      "key": "actuallyitsgettingalittlechillyuphereondeckletsallgatherinthecabin",
       "text_en": "Actually, it's getting a little chilly up here on deck. Let's all gather in the cabin.",
       "text": "ดูเหมือนเรากำลังจะเจอกับพายุลูกใหญ่ของจริงเข้าแล้วสิ"
     },
     {
-      "character": "Alisaie",
+      "key": "wereinforaproperstormitseems",
       "text_en": "We're in for a proper storm, it seems.",
       "text": "ท้องไส้เป็นอย่างไรบ้างคะ? ดีขึ้นบ้างหรือยัง?"
     },
     {
-      "character": "Krile",
+      "key": "howsyourstomachanybetter",
       "text_en": "How's your stomach? Any better?",
       "text": "ฉันไม่รู้... ว่าเธอหมายถึงอะไร... ฉันไม่ได้เมาเรือสักหน่อย..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "idontknowwhatyoumeanidontgetseasick",
       "text_en": "I don't know...what you mean. I don't get seasick.",
       "text": "ฉันแค่... รู้สึกพะอืดพะอมนิดหน่อย... เท่านั้นเอง..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imjustfeelingalittlenauseousisall",
       "text_en": "I'm just feeling...a little nauseous, is all...",
       "text": "นั่นแหละที่เขาเรียกว่าเมาเรือไม่ใช่เหรอ...?"
     },
     {
-      "character": "Alisaie",
+      "key": "isntthatwhatseasicknessis",
       "text_en": "Isn't that what seasickness is...?",
       "text": "เอเรนวิลล์ คุณเกิดในทูรัลใช่ไหมครับ? ที่นั่นมีชาววีร่าอาศัยอยู่เยอะหรือเปล่า?"
     },
     {
-      "character": "Alphinaud",
+      "key": "erenvilleyouwereborninturalyesdomanyvieralivethere",
       "text_en": "Erenville, you were born in Tural, yes? Do many Viera live there?",
       "text": "ชาวเชโตนาตามที่ผู้คนฝั่งโน้นเรียกพวกเรา ส่วนใหญ่ตั้งถิ่นฐานอยู่ทางตอนเหนือในเขตซัคทูรัลน่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "theshetonaasmypeoplearecalledhavesettlementsmainlyinthenorthinxaktural",
       "text_en": "The Shetona, as my people are called, have settlements mainly in the north, in Xak Tural.",
       "text": "แล้วครอบครัวของคุณล่ะครับ?"
     },
     {
-      "character": "Alphinaud",
+      "key": "andyourfamily",
       "text_en": "And your family?",
       "text": "เรื่องพ่อผมไม่รู้อะไรเลย แม้แต่ชื่อของเขาก็ไม่รู้"
     },
     {
-      "character": "Erenville",
+      "key": "iknownothingofmyfathernotevenhisname",
       "text_en": "I know nothing of my father─not even his name.",
       "text": "ส่วนเรื่องแม่ของผม..."
     },
     {
-      "character": "Erenville",
+      "key": "asformymother",
       "text_en": "As for my mother...",
       "text": "พวกเรากำลังเผชิญหน้ากับพายุคลั่งแล้วพวก! รีบเก็บใบเรือก่อนที่เสากระโดงจะหักเร็ว!"
     },
     {
-      "character": "Alarmed Sailor",
+      "key": "wereintheteethofitnowladsreefthatsailaforethemastsnaps",
       "text_en": "We're in the teeth of it now, lads! Reef that sail afore the mast snaps!",
       "text": "แย่แล้ว..."
     },
     {
-      "character": "Krile",
+      "key": "ohdear",
       "text_en": "Oh dear...",
       "text": "ใครเป็นคนเฝ้าเวรยามวะ!? ลมแรงเกินไปจนลดใบเรือไม่ได้แล้ว—อ๊ากกก!"
     },
     {
-      "character": "Distressed Sailor",
+      "key": "whothehellswasonwatchthiswindstoostrongtotakeinthesaiaaargh",
       "text_en": "Who the hells was on watch!? This wind's too strong to take in the sai─aaargh!",
       "text": "มีคนตกจากเสากระโดงเรือ! ขอแรงสนับสนุนด่วน!"
     },
     {
-      "character": "Panicked Sailor",
+      "key": "manfallenoffthemastweneedhelp",
       "text_en": "Man fallen off the mast! We need help!",
       "text": "พยุงเขาลงไปใต้ดาดฟ้าก่อน!"
     },
     {
-      "character": "Alarmed Sailor",
+      "key": "gethimbelowdecksfirst",
       "text_en": "Get him belowdecks first!",
       "text": "เร็วเข้า! ก่อนที่เขาจะโดนคลื่นซัดตกทะเล!"
     },
     {
-      "character": "Panicked Sailor",
+      "key": "quicklybeforeheswashedoverboard",
       "text_en": "Quickly, before he's washed overboard!",
       "text": "มาครับ พวกเรารีบไปช่วยพวกเขาเท่าที่จะทำได้กันเถอะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "comeweshouldlendwhataidwecan",
       "text_en": "Come, we should lend what aid we can.",
       "text": "ผมไม่เคยเห็นมหาสมุทรพิโรธบ้าคลั่งขนาดนี้มาก่อนเลยในชีวิต"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "ihavenotseentheoceanragewithsuchfurybeforeorsince",
       "text_en": "I have not seen the ocean rage with such fury before or since.",
       "text": "เกลียวคลื่นบ้าคลั่งเหวี่ยงเรือของพวกเราราวกับเป็นของเล่นตัวต่อ ซัดเอาพวกกะลาสีกลิ้งระเนระนาด..."
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "theheavingwavestossedourshipaboutlikeatoysendingsailorstumbling",
       "text_en": "The heaving waves tossed our ship about like a toy, sending sailors tumbling...",
       "text": "อลิเซผู้ห้าวหาญรีบพุ่งเข้าไปช่วยชีวิตทหารเรืออย่างรวดเร็ว จนหวุดหวิดจะถูกกลืนหายไปในท้องทะเลเสียเอง"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "thedauntlessalisaiequicktotherescuewasalmostlosttotheseaherself",
       "text_en": "The dauntless Alisaie, quick to the rescue, was almost lost to the sea herself.",
       "text": "ในขณะเดียวกัน วีรบุรุษของพวกเราก็รีบเปิดใช้งานระบบป้องกันเวทมนตร์ของเรือ เพื่อปกป้องพวกเราจากสายฟ้าฟาดได้อย่างทันท่วงที"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "meanwhileourchampionrushedtodeploythevesselsmagicaldefensesandtherebyshieldusfromthelightning",
       "text_en": "Meanwhile, our champion rushed to deploy the vessel's magical defenses, and thereby shield us from the lightning.",
       "text": "ช่างเป็นชีวิตที่เหลือเชื่อจริงๆ ที่คนคนหนึ่งจะสามารถควบคุมอุปกรณ์เวทมนตร์ที่ซับซ้อนขนาดนั้นได้อย่างช่ำชองและผ่อนคลาย"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "whatanextraordinarylifeshehemustleadtobeabletooperatesuchadevicewithpracticedease",
       "text_en": "What an extraordinary life shehe must lead to be able to operate such a device with practiced ease.",
       "text": "วุค ลามัต ก็พุ่งตัวเข้าช่วยหน่วยกู้ภัยอย่างสุดกำลัง แม้ว่าสภาพของเธอจะดูเหมือนผู้ประสบภัยที่ต้องการความช่วยเหลือมากกว่าก็เถอะ"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "wuklamattoothrewherselfintotherescueeffortsthoughonemighthavemistakenherforanothersoulindistress",
       "text_en": "Wuk Lamat, too, threw herself into the rescue efforts, though one might have mistaken her for another soul in distress.",
       "text": "กว่าคลื่นลมพายุจะยอมสงบลง เรี่ยวแรงของพวกเราก็แทบจะมอดดับไปหมดสิ้น โดยที่ยังไม่มีโอกาสได้เห็นชายฝั่งของทูรัลเลยด้วยซ้ำ"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "bythetimetheunrulyseashadcalmedourstrengthwasallbutspentandwehadyettoevenglimpsetheshoresoftural",
       "text_en": "By the time the unruly seas had calmed, our strength was all but spent, and we had yet to even glimpse the shores of Tural.",
       "text": "แต่เมื่อมองย้อนกลับไป การต่อสู้กับมรสุมคลั่งครั้งนั้น ถือเป็นบทโหมโรงที่เหมาะสมอย่างยิ่งก่อนที่ศึกแย่งชิงบัลลังก์จะเริ่มต้นขึ้น"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "inretrospectofcoursethatbattleagainstthestormwouldproveafittingpreludetothecomingcontestforthethrone",
       "text_en": "In retrospect, of course, that battle against the storm would prove a fitting prelude to the coming contest for the throne.",
       "text": "อรุณสวัสดิ์ ออกมารับลมเช้าด้วยกันเหรอ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "morningjoiningusforsomefreshair",
       "text_en": "Morning. Joining us for some fresh air?",
       "text": "ดูเหมือนท้องไส้ของฉันจะสงบลงตามสภาพอากาศแล้วล่ะ แต่คงจะดีขึ้นกว่านี้เยอะถ้าได้เหยียบดินแข็งๆ สักที"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "seemsmybellyhassettledalongwiththeweatherbutillfeelmuchbetteroncewereonsolidground",
       "text_en": "Seems my belly has settled along with the weather, but I'll feel much better once we're on solid ground.",
       "text": "เฮ้อ คงอีกไม่ไกลแล้วใช่ไหมนะ...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ughcantbemuchfarthernowcanit",
       "text_en": "Ugh, can't be much farther now...can it?",
       "text": "นกทะเลน่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "seabirds",
       "text_en": "Seabirds.",
       "text": "แผ่นดินน่าจะอยู่ใกล้ๆ นี้แล้วล่ะ อดทนอีกนิดเดียวก็ถึงแล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "landmustbenearyouneedonlyholdoutawhilelonger",
       "text_en": "Land must be near. You need only hold out a while longer.",
       "text": "มีอยู่แวบหนึ่งฉันนึกว่าพวกเราจะโดนทะเลกลืนซะแล้ว ดีใจจริงๆ ที่ความกังวลของฉันมันผิดพลาดไป"
     },
     {
-      "character": "Alisaie",
+      "key": "foradarkmomentithoughttheoceanmightswallowusgladtohavemypessimismprovenwrong",
       "text_en": "For a dark moment, I thought the ocean might swallow us. Glad to have my pessimism proven wrong.",
       "text": "และยังมีข่าวดีอีกอย่างนะ ผมได้ตรวจอาการของทหารเรือที่ตกจากเสากระโดงแล้ว อาการทรงตัวดีมากครับ เชื่อว่าเขาจะหายดีในไม่ช้าแน่นอน"
     },
     {
-      "character": "Alphinaud",
+      "key": "inothergoodnewsiexaminedthesailorwhotookafallandhesfaringwellimsurehellmakeafullrecovery",
       "text_en": "In other good news, I examined the sailor who took a fall, and he's faring well. I'm sure he'll make a full recovery.",
       "text": "ข่าวดีจริงๆ ถ้าทุกอย่างเรียบร้อยดีล่ะก็ พวกเราเตรียมปล่อยเรือบดลงน้ำกันได้เลย"
     },
     {
-      "character": "Erenville",
+      "key": "goodnewsindeedifallswellthenweneedntdelayinlaunchingthelandingboat",
       "text_en": "Good news indeed. If all's well, then we needn't delay in launching the landing boat.",
       "text": "เรือใหญ่ต้องทอดสมอห่างจากชายฝั่งพอสมควร ถ้าขยับเข้าไปใกล้กว่านี้ ท้องเรืออาจโดนแนวปะการังที่หนาแน่นรอบชายฝั่งทูลิโยลลัลฉีกจนพังพินาศได้ ไปกันเถอะ"
     },
     {
-      "character": "Erenville",
+      "key": "shipshavetoloweranchorsomewayfromshoretoocloseandtheyriskhavingtheirunderbelliesrippedopenbythereefsthatcrowdtuliyollalscoastscome",
       "text_en": "Ships have to lower anchor some way from shore. Too close, and they risk having their underbellies ripped open by the reefs that crowd Tuliyollal's coasts. Come.",
       "text": "ขอบใจมากนะที่พาพวกเรามาส่งถึงที่นี่!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thanksforbringingusallthisway",
       "text_en": "Thanks for bringing us all this way!",
       "text": "ฮ่าๆ พวกข้าก็แค่ทำตามงานที่จ้างมานั่นแหละ! จะทิ้งพวกท่านไว้กลางทางได้ยังไงเล่า!"
     },
     {
-      "character": "Sprightly Sailor",
+      "key": "hahweonlydidwhatwewerepaidtodocouldnthardlysetyeadrifthalfway",
       "text_en": "Hah, we only did what we were paid to do! Couldn't hardly set ye adrift halfway!",
       "text": "ถ้าจะขอบคุณล่ะก็ ต้องเป็นพวกข้าสิที่ต้องขอบคุณพวกท่านที่ช่วยฝ่ามรสุมคลั่งนั่นมาได้!"
     },
     {
-      "character": "Sprightly Sailor",
+      "key": "ifanythinitshouldbeusthankinyouforhelpinusthroughthatbeastofastorm",
       "text_en": "If anythin', it should be us thankin' you for helpin' us through that beast of a storm!",
       "text": "แถมตอนนี้ทุกคนในเรือเริ่มหันมาเชียร์ให้ท่านชนะการประลองแล้วด้วยนะเนี่ย ขืนเป็นแบบนี้ต่อไป โต๊ะพนันของพวกข้าคงต้องปิดตัวลงแน่ๆ!"
     },
     {
-      "character": "Sprightly Sailor",
+      "key": "asamatterofacteveryonesstartintofancyyerchancesinthecontestatthisratewewontbeabletolaywagersnomore",
       "text_en": "As a matter o' fact, everyone's startin' to fancy yer chances in the contest. At this rate, we won't be able to lay wagers no more!",
       "text": "งั้นฉันก็ต้องพยายามให้เต็มที่เพื่อไม่ให้พวกนายผิดหวังแล้วล่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenidbetternotletyoudown",
       "text_en": "Then I'd better not let you down!",
       "text": "อุ้ก... นิ่งไว้เจ้าท้อง นิ่งไว้ก่อนนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ulpeasystomacheasy",
       "text_en": "Ulp... Easy, stomach. Easy.",
       "text": "พวกเราเป็นกลุ่มสุดท้ายที่จะขึ้นเรือแล้วนะ ถ้าไม่มีอะไรจะพูดแล้วก็ ออกเรือกันเลยดีไหม?"
     },
     {
-      "character": "Erenville",
+      "key": "werethelasttoboardiftheresnothinglefttosaythenletsshoveoffshallwe",
       "text_en": "We're the last to board. If there's nothing left to say, then let's shove off, shall we?",
       "text": "อา... ท้องทะเลสีคราม ท้องฟ้าสดใส และความเป็นไปได้อันไร้ขอบเขต... ฉันว่าจุดหมายปลายทางของเราใกล้จะปรากฏแก่สายตาแล้วล่ะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "ahhblueseasclearskiesandboundlesspossibilitiesidaresayourdestinationwillsoonbeinsight",
       "text_en": "Ahh! Blue seas, clear skies, and boundless possibilities... I daresay our destination will soon be in sight.",
       "text": "ดูจะเพลิดเพลินผิดกับทุกทีเลยนะ"
     },
     {
-      "character": "Erenville",
+      "key": "enjoyingyourselfforachange",
       "text_en": "Enjoying yourself for a change?",
       "text": "ดูนั่นสิเพื่อนๆ! จงดูฉากทัศน์แห่งการผจญภัยครั้งยิ่งใหญ่ครั้งต่อไปของพวกเรา!"
     },
     {
-      "character": "Alphinaud",
+      "key": "therelookmyfriendsbeholdthesceneofournextgreatadventure",
       "text_en": "There, look my friends! Behold the scene of our next great adventure!",
       "text": "ในที่สุด พวกเราก็มาถึงดินแดนที่พวกนายเรียกว่า 'โลกใหม่' บ้านเกิดของฉัน... ทูรัล!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "atlastwearecometothelandyoucallthenewworldtomyhometural",
       "text_en": "At last, we are come to the land you call the “New World.” To my home, Tural!",
       "text": "พระเจ้า... ฉันเคยเห็นเมืองที่มีความหลากหลายทางวัฒนธรรมมาก็มากนะ แต่ที่นี่มันสุดยอดไปเลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "godsiveseencitieswithanimpressivemixofculturesbutthisissomethingelse",
       "text_en": "Gods... I've seen cities with an impressive mix of cultures, but this is something else!",
       "text": "นั่นมัน... ไม่สิ ฉันไม่เคยเห็นขนนกของเผ่าวานูสีสันแบบนั้นมาก่อนเลย"
     },
     {
-      "character": "Alphinaud",
+      "key": "isthatanoiveneverseenvanufeathersinthatcolorbefore",
       "text_en": "Is that a...? No. I've never seen Vanu feathers in that color before.",
       "text": "ที่นี่มีสิ่งแปลกใหม่ที่พวกนายไม่เคยรู้ว่ามีอยู่จริงอีกเยอะเลยล่ะ! ถึงตอนนี้จะมีเส้นทางเดินเรือแล้ว แต่คนที่มาเยือนทูลิโยลลัลก็ยังถือว่าน้อยมากอยู่ดี"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youllfindmuchhereyouneverknewexistedtheremaybeasearoutenowbutvisitorstotuliyollalarestillfewandfarbetween",
       "text_en": "You'll find much here you never knew existed! There may be a sea route now, but visitors to Tuliyollal are still few and far between.",
       "text": "และเนื่องจากพวกเราไม่ได้สร้างเรือเดินมหาสมุทรขนาดใหญ่ คนทูรัลก็เลยแทบไม่มีใครเคยเดินทางออกไปต่างแดนเลยล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andaswedontbuildseafaringshipsonlyahandfulofturalieverventureabroad",
       "text_en": "And as we don't build seafaring ships, only a handful of Turali ever venture abroad.",
       "text": "ส่วนใหญ่จะเป็นทหารรับจ้างชาวมามูอูล จา พวกที่ยอมทำตัวเป็นคนเขลาไปกับเรือสินค้าของโลมินซาเพื่อหาจ้างงานในอีออร์เซียนั่นแหละ"
     },
     {
-      "character": "Erenville",
+      "key": "mamooljasellswordsmostlythosewillingtoplaythefoolsailwithlominsanmerchantstosecureemploymentineorzea",
       "text_en": "Mamool Ja sellswords, mostly. Those willing to play the fool sail with Lominsan merchants to secure employment in Eorzea.",
       "text": "มิน่าล่ะ พวกเราถึงดูเป็นของแปลกในประเทศของพวกคุณ"
     },
     {
-      "character": "Alphinaud",
+      "key": "isupposethatmakesusararesightinyourcountry",
       "text_en": "I suppose that makes us a rare sight in your country.",
       "text": "แปลกและยังไม่ได้ลงทะเบียนสิทธิผู้เข้าเมืองด้วยค่ะ พวกเราต้องกรอกเอกสารอะไรก่อนหรือเปล่าคะ...?"
     },
     {
-      "character": "Krile",
+      "key": "rareandcurrentlyundocumentedweretheresomeformsweshouldfilloutor",
       "text_en": "Rare and currently undocumented. Were there some forms we should fill out, or...?",
       "text": "กรอกเอกสารงั้นเหรอ? ลืมไปแล้วหรือไงว่าพวกเธอเดินทางมากับใครน่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "formsdidyouforgetwhoyouretravelingwith",
       "text_en": "Forms? Did you forget who you're traveling with?",
       "text": "พวกท่านเป็นคนนอกงั้นรึ? ผู้มาเยือนทูรัลรึ?"
     },
     {
-      "character": "Xbr'aal Landsguard",
+      "key": "youareoutsidersvisitorstotural",
       "text_en": "You are outsiders? Visitors to Tural?",
       "text": "ใช่ครับ พวกเราเอง"
     },
     {
-      "character": "Alphinaud",
+      "key": "weare",
       "text_en": "We are.",
       "text": "อาณาจักรของพวกเรากำลังจะจัดพิธีสืบทอดราชบัลลังก์เพื่อคัดเลือกดอว์นเซิร์ฟวันต์คนต่อไปในเร็วๆ นี้"
     },
     {
-      "character": "Mamool Ja Landsguard",
+      "key": "ournationissoontoholdariteofsuccessiontochooseitsnextdawnservant",
       "text_en": "Our nation is soon to hold a rite of succession to choose its next Dawnservant.",
       "text": "พวกข้าจะไม่ยอมให้พวกต่างถิ่นเข้ามาแทรกแซงเพื่อก่อความไม่สงบเด็ดขาด พวกเจ้ามาทำอะไรที่ทูลิโยลลัลกัน?"
     },
     {
-      "character": "Mamool Ja Landsguard",
+      "key": "wewillnotabideinterferencefromforeignagentsseekingtofomenttroublewhatbringsyoutotuliyollal",
       "text_en": "We will not abide interference from foreign agents seeking to foment trouble. What brings you to Tuliyollal?",
       "text": "เรื่องนั้นฉันตอบได้เอง คนกลุ่มนี้เป็นพันธมิตรที่ฉันคัดเลือกมาร่วมในพิธีสืบทอดบัลลังก์ของฉันเอง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icananswerthatthesefinepeoplearealliesinmysuccessionbid",
       "text_en": "I can answer that. These fine people are allies in my succession bid.",
       "text": "ทะ-ท่านสัญญาที่สาม! หากท่านเป็นคนรับรองด้วยตัวเองล่ะก็ ไม่มีปัญหาแน่นอนครับ!"
     },
     {
-      "character": "Mamool Ja Landsguard",
+      "key": "ththirdpromiseifyouvouchforthemthenalliswellofcourse",
       "text_en": "Th-Third Promise! If you vouch for them, then all is well, of course!",
       "text": "ต้องขออภัยในความเสียมารยาทด้วยครับ!"
     },
     {
-      "character": "Xbr'aal Landsguard",
+      "key": "pleaseacceptourapologies",
       "text_en": "Please accept our apologies!",
       "text": "ไม่ต้องเกรงใจก้มหัวขนาดนั้นหรอก! การที่ทหารของพวกเราเข้มงวดกวดขันทำหน้าที่อย่างขยันแข็งแข็งแบบนี้ มันทำให้ข้าภูมิใจจะตายไป"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "noneedtobowandscrapethatoursoldiersaresodiligentintheirdutiesfillsmewithpride",
       "text_en": "No need to bow and scrape! That our soldiers are so diligent in their duties fills me with pride.",
       "text": "งั้นพวกข้าขอตัวไปตรวจลาดตระเวนต่อนะครับ!"
     },
     {
-      "character": "Xbr'aal Landsguard",
+      "key": "wellbecontinuingourpatrolthen",
       "text_en": "We'll be continuing our patrol, then!",
       "text": "แหม่ๆ เธอเนี่ยดูเป็นคนมีบารมีในบ้านเกิดเมืองนอนเหมือนกันนะเนี่ย"
     },
     {
-      "character": "Alisaie",
+      "key": "wellwellyoureallyareafigureofauthorityhere",
       "text_en": "Well, well. You really are a figure of authority here.",
       "text": "นี่นายจะบอกว่าท่าทางข้าดูไม่สมฐานะงั้นเรอะ!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "areyousuggestingidontlookthepart",
       "text_en": "Are you suggesting I don't look the part!?",
       "text": "เอาเถอะ เรื่องสำคัญอันดับแรกก็คือ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "anywayfirstthingsfirst",
       "text_en": "Anyway, first things first...",
       "text": "ฉันขอต้อนรับพวกนายสู่ทูลิโยลลัลอย่างเป็นทางการ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ibidyouwelcometotuliyollal",
       "text_en": "I bid you welcome to Tuliyollal!",
       "text": "เฮ้อ... การได้สัมผัสสายลมที่คุ้นเคยอีกครั้งมันดีจริงๆ... นึกว่าท้องไส้ฉันจะไม่รอดซะแล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ahhhitssonicetofeelthatfamiliarbreezeagainiwasntsuremystomachwouldmakeit",
       "text_en": "Ahhh, it's so nice to feel that familiar breeze again... I wasn't sure my stomach would make it.",
       "text": "ฉันสงสัยจังเลยค่ะว่าพวกทหารกำลังกังวลเรื่องความวุ่นวายแบบไหนอยู่กันแน่?"
     },
     {
-      "character": "Krile",
+      "key": "iwonderwhatkindoftroublethosesoldiersareexpecting",
       "text_en": "I wonder what kind of trouble those soldiers are expecting?",
       "text": "จากที่เอเรนวิลล์เล่าให้ฟัง เผ่าที่คล้ายวานูที่ผมคิดว่าเห็นตะกี้ จัดอยู่ในตระกูลที่เรียกว่าฮานูฮานูน่ะครับ ดูเหมือนพวกเขาจะมีจุดร่วมมากกว่าแค่รูปร่างภายนอกที่คล้ายกันนะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "accordingtoerenvillethevanuithoughtisawbelongstoaclanknownasthehanuhanuitseemstheysharemorethanaphysicalresemblance",
       "text_en": "According to Erenville, the Vanu I thought I saw belongs to a clan known as the Hanuhanu. It seems they share more than a physical resemblance.",
       "text": "ช่างเป็นเมืองที่น่าทึ่งจริงๆ—มีชีวิตชีวาเหมือนอุลดาห์ แถมยังมีสีสันตระการตากว่าตั้งเยอะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "whatanamazingcityaslivelyasuldahandevenmorecolorful",
       "text_en": "What an amazing city─as lively as Ul'dah, and even more colorful...",
       "text": "เอาละ ถึงแม้จะมีพายุคอยขัดขวาง แต่ในที่สุดพวกเราก็มาถึงจุดหมายปลายทางอย่างปลอดภัยกันทุกคน"
     },
     {
-      "character": "Erenville",
+      "key": "welldespitethestormseffortstothecontraryherewearesafeandsound",
       "text_en": "Well, despite the storm's efforts to the contrary, here we are. Safe and sound.",
       "text": "แม้ว่าพายุจะพยายามตรงกันข้าม แต่เราก็ยังอยู่ตรงนี้ ปลอดภัยและเสียง"
     }

@@ -1,356 +1,348 @@
 {
-  "id": "blowing-smoke",
-  "wiki_path": "/wiki/Blowing_Smoke",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "Blowing Smoke",
-  "title": "จุดไฟปล่อยควันล่อเป้า",
-  "level": "95",
-  "location": "Shaaloani(X:9.7,Y:20.2)",
-  "npc_start": "Erenville",
+  "quest_id": "blowing-smoke",
   "dialogues": [
     {
-      "character": "Erenville",
+      "key": "afairnumberappeartobegatheredinsidenowsourchance",
       "text_en": "A fair number appear to be gathered inside. Now's our chance.",
       "text": "ดูเหมือนจะมีตัวเลขจำนวนหนึ่งถูกรวบรวมอยู่ภายใน ตอนนี้เป็นโอกาสของเราแล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "iwillkeepwatchfromheretheattractantileavetoyou",
       "text_en": "I will keep watch from here. The attractant I leave to you.",
       "text": "ฉันจะเฝ้าดูจากที่นี่ เสน่ห์ที่ฉันปล่อยให้คุณ"
     },
     {
-      "character": "Erenville",
+      "key": "tossitintothebonfirenearthemiddleoftowntheyeheheceyaawillcomesoonafter",
       "text_en": "Toss it into the bonfire near the middle of town. The yeheheceyaa will come soon after.",
       "text": "โยนมันลงกองไฟใกล้ใจกลางเมือง เยเฮเฮเซยาจะมาหลังจากนั้นไม่นาน"
     },
     {
-      "character": "Blue-haired Daybreaker",
+      "key": "whatsthatsmell",
       "text_en": "What's that smell?",
       "text": "กลิ่นอะไรน่ะ?"
     },
     {
-      "character": "Blue-haired Daybreaker",
+      "key": "ughthatreeks",
       "text_en": "Ugh, that reeks !",
       "text": "อ๊าก มันเหม็น!"
     },
     {
-      "character": "Silver-haired Daybreaker",
+      "key": "whatdidyouputinthefire",
       "text_en": "What did you put in the fire!?",
       "text": "คุณเอาอะไรไปกองไฟ!?"
     },
     {
-      "character": "Blue-haired Daybreaker",
+      "key": "wasntmeiswear",
       "text_en": "Wasn't me, I swear!",
       "text": "ไม่ใช่ฉัน ฉันสาบาน!"
     },
     {
-      "character": "Red-haired Daybreaker",
+      "key": "ughdidsomethingdie",
       "text_en": "Ugh, did something die?",
       "text": "เอ่อ มีอะไรตายมั้ย?"
     },
     {
-      "character": "Wihuwte",
+      "key": "someonewannaexplainthatungodlystenchtome",
       "text_en": "Someone wanna explain that ungodly stench to me?",
       "text": "มีคนอยากอธิบายกลิ่นเหม็นอันน่ารังเกียจให้ฉันฟังไหม?"
     },
     {
-      "character": "Silver-haired Daybreaker",
+      "key": "bbossooverthere",
       "text_en": "B-Boss...? O-Over there...",
       "text": "บีบอส...? อ-นั่น..."
     },
     {
-      "character": "Wihuwte",
+      "key": "huh",
       "text_en": "Huh?",
       "text": "ฮะ?"
     },
     {
-      "character": "Wihuwte",
+      "key": "whwhatintheworld",
       "text_en": "Wh-What in the world!?",
       "text": "มะ-อะไรวะเนี่ย!?"
     },
     {
-      "character": "Red-haired Daybreaker",
+      "key": "aaahhhhhh",
       "text_en": "Aaahhhhhh!",
       "text": "อ๊าาา!"
     },
     {
-      "character": "Blue-haired Daybreaker",
+      "key": "runforyourlives",
       "text_en": "Run for your lives!",
       "text": "วิ่งเพื่อชีวิตของคุณ!"
     },
     {
-      "character": "Wihuwte",
+      "key": "hmphsothesmokeswhatdrewthemhereiswearwhenifindoutwhodidthis",
       "text_en": "Hmph, so the smoke's what drew them here? I swear, when I find out who did this...",
       "text": "ฮึ่ม แล้วควันคือสิ่งที่ดึงดูดพวกเขามาที่นี่เหรอ? ฉันสาบาน เมื่อฉันรู้ว่าใครทำสิ่งนี้..."
     },
     {
-      "character": "Erenville",
+      "key": "idsayourfriendshavestirredupenoughtroubletimetoretrievethebracelet",
       "text_en": "I'd say our friends have stirred up enough trouble. Time to retrieve the bracelet.",
       "text": "ฉันว่าเพื่อนของเราก่อปัญหามามากพอแล้ว ถึงเวลาคืนสร้อยข้อมือแล้ว"
     },
     {
-      "character": "Zekowa",
+      "key": "heywhatsgoingonoutthere",
       "text_en": "Hey! What's going on out there!?",
       "text": "เฮ้! เกิดเรื่องยุ่งยากอะไรขึ้นข้างนอกน่ะ!?"
     },
     {
-      "character": "Zekowa",
+      "key": "imstillinhereincaseyouveforgotten",
       "text_en": "I'm still in here in case you've forgotten!",
       "text": "ข้ายังติดอยู่ข้างในนี้นะโว้ย เผื่อพวกแกจะลืมกันไปแล้วน่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "sittightwellbebackforyou",
       "text_en": "Sit tight. We'll be back for you.",
       "text": "นิ่ง ๆ ไว้ก่อนครับ เดี๋ยวพวกเราจะย้อนกลับมาช่วยคุณครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "whatyougottagetmeoutofherenowtheyregonnakillme",
       "text_en": "What!? You gotta get me out of here now! They're gonna kill me!",
       "text": "หา!? แกต้องช่วยข้าออกไปจากที่นี่เดี๋ยวนี้เลยนะโว้ย! พวกมันตระเตรียมจะฆ้าข้าแล้วเนี่ย!"
     },
     {
-      "character": "Zekowa",
+      "key": "imbegginyouplease",
       "text_en": "I'm beggin' you! Please!",
       "text": "ข้าไหว้ล่ะ! ได้โปรดช่วยข้าทีเถอะ!"
     },
     {
-      "character": "Erenville",
+      "key": "shhhtheyllhearyou",
       "text_en": "Shhh! They'll hear you!",
       "text": "ชู่! เงียบ ๆ หน่อยครับ เดี๋ยวพวกมันก็ได้ยินหรอก!"
     },
     {
-      "character": "Wihuwte",
+      "key": "shitwhowasthat",
       "text_en": "Shit. Who was that?",
       "text": "อึ. นั่นคือใคร?"
     },
     {
-      "character": "Zekowa",
+      "key": "heyareyougoingtohelpmeorwhat",
       "text_en": "Hey! Are you going to help me or what!?",
       "text": "นี่! สรุปพวกแกจะยื่นมือมาช่วยข้าไหมเนี่ยห๊ะ!?"
     },
     {
-      "character": "Erenville",
+      "key": "sighthebraceletmustwaitletsbreakhimoutandwithdrawfornow",
       "text_en": "<sigh> The bracelet must wait. Let's break him out and withdraw for now.",
       "text": "<ถอนหายใจ> เรื่องกำไลข้อมือคงต้องพักไว้ก่อนชั่วคราวครับ พวกเราช่วยเขาพังห้องขังพาหนีออกไปปักหลักตั้งหลักกันข้างนอกก่อนเถอะครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "thanksioweyouoneforamomentthereithoughtyoumightactuallyleavemebehind",
       "text_en": "Thanks, I owe you one. For a moment there I thought you might actually leave me behind.",
       "text": "ขอบใจมากโว้ย ข้าติดหนี้บุญคุณพวกแกครั้งใหญ่แล้วล่ะ เมื่อกี้แอบเสียววูบคิดว่าพวกแกจะทำตัวเย็นชาทิ้งข้าไว้ในหลุมดำนั่นจริง ๆ ซะแล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "allthateffortandnaughttoshowforit",
       "text_en": "All that effort, and naught to show for it...",
       "text": "อุตส่าห์ทุ่มเทแรงกายวางแผนมาตั้งเยอะ แต่กลับลงเอยด้วยความล้มเหลวไม่มีผลงานอะไรติดมือกลับมาเลยนะครับ..."
     },
     {
-      "character": "Zekowa",
+      "key": "sorryaboutthatbutdamnididntthinkanyonewouldhavetheballstotakeonthevulture",
       "text_en": "Sorry about that... But damn, I didn't think anyone would have the balls to take on the Vulture!",
       "text": "เออ ข้าขอโทษด้วยละกัน... แต่ให้ตายสิ ข้าไม่นึกฝันเลยว่าจะมีใครหน้าไหนกล้าท้าชนทักษะการสู้รบกับไอ้แร้ง (ไอ้แร้ง) ขนาดนี้โว้ย!"
     },
     {
-      "character": "Erenville",
+      "key": "noneedtoapologizewewereplanningtosaveyoueventually",
       "text_en": "No need to apologize. We were planning to save you. Eventually.",
       "text": "ไม่ต้องเอ่ยปากขอโทษหรอกครับ พวกเราก็วางแผนจะยื่นมือช่วยคุณอยู่แล้วครับ... แค่อาจจะเป็นหลังจากนี้อีกสักหน่อยน่ะครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "reallyandidontevenknowwhoyouareyousecretadmirersofmineorsomething",
       "text_en": "Really? And I don't even know who you are. You secret admirers of mine or something?",
       "text": "จริงดิ? ทั้งที่ข้ายังไม่รู้หัวนอนปลายเท้าเลยนะว่าพวกแกเป็นใครเนี่ย แกแอบนิยมชมชอบในตัวข้าหรือยังไงกันห๊ะ?"
     },
     {
-      "character": "Zekowa",
+      "key": "heheimjusthavinfunwithyoubutidoappreciatethehelp",
       "text_en": "Hehe, I'm just havin' fun with you. But I do appreciate the help.",
       "text": "ฮะฮะ ข้าแค่พูดเล่นแหย่พวกแกสนุก ๆ เท่านั้นแหละ แต่ข้าซาบซึ้งใจในความช่วยเหลือจริง ๆ นะโว้ย"
     },
     {
-      "character": "Erenville",
+      "key": "thismantheycallthevultureiveseenhisfacebefore",
       "text_en": "This man they call the Vulture. I've seen his face before.",
       "text": "ชายที่ไอ้พวกโจรมันเรียกว่าไอ้แร้งคนนั้น... ผมรู้สึกคุ้นหน้าคุ้นตาเขามาก่อนครับ"
     },
     {
-      "character": "Erenville",
+      "key": "washenottheofficeryouconfrontedintown",
       "text_en": "Was he not the officer you confronted in town?",
       "text": "เขาคือทหารเจ้าพนักงานที่คุณท้าทายทะเลาะวิวาทกลางเมืองเมื่อกี้ใช่ไหมครับ?"
     },
     {
-      "character": "Zekowa",
+      "key": "theoneandthesamewhenhesnotmasqueradingasagangleaderheservesasdeputychiefofthedustwatch",
       "text_en": "The one and the same. When he's not masquerading as a gang leader, he serves as deputy chief of the Dustwatch.",
       "text": "ก็คนเดียวกันนั่นแหละโว้ย ยามที่แกไม่ได้ใส่หน้ากากแฝงตัวเป็นหัวหน้าแก๊งโจร แกก็ทำหน้าที่เป็นถึงรองหัวหน้ากองพิทักษ์ดัสต์วอทช์เลยล่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "thatwouldexplainwhythebanditsaresoconfidenttheycanavoidcapture",
       "text_en": "That would explain why the bandits are so confident they can avoid capture.",
       "text": "แบบนี้นี่เอง มิน่าล่ะไอ้พวกโจรมันถึงมั่นใจประเมินผลสุดก้นบึ้งว่ามันจะไม่มีวันโดนจับกุมตัวได้ครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "youretryingtogetbacksomethingthevulturestolerightletmehelpitstheleasticandoafteryoubailedmeoutbackthere",
       "text_en": "You're trying to get back something the Vulture stole, right? Let me help. It's the least I can do after you bailed me out back there.",
       "text": "พวกแกกำลังเสาะหาของสำคัญที่โดนไอ้แร้งฉกไปอยู่ใช่ไหมล่ะ? ให้ข้าช่วยสิโว้ย ถือเป็นสิ่งเล็ก ๆ น้อย ๆ ที่ข้าพอจะตอบแทนที่พวกแกช่วยข้าแหกคุกออกมาได้"
     },
     {
-      "character": "Zekowa",
+      "key": "ihaveanideawhereheshidhiscachereckonhesheadedtherenowtoo",
       "text_en": "I have an idea where he's hid his cache. Reckon he's headed there now, too.",
       "text": "ข้าพอจะรู้พิกัดทำเลทองที่มันชอบเอาสมบัติไปซุกซ่อนไว้ และข้าเดาว่าป่านนี้มันก็คงกำลังมุ่งหน้าไปที่นั่นเหมือนกันแหละ"
     },
     {
-      "character": "Zekowa",
+      "key": "wecangotogetherivegotascoretosettlewithhimmyself",
       "text_en": "We can go together. I've got a score to settle with him myself.",
       "text": "พวกเราไปด้วยกันเถอะโว้ย ข้าเองก็มีหนี้แค้นที่ต้องสะสางคิดบัญชีกับมันอยู่พอดีเหมือนกัน"
     },
     {
-      "character": "Erenville",
+      "key": "idontdoubtthatyoudobutweneedtoknowwhatitisfirstwillyoutellus",
       "text_en": "I don't doubt that you do, but we need to know what it is first. Will you tell us?",
       "text": "ผมไม่สงสัยหรอกครับว่าคุณมีเป้าหมายแค้นร่วมกัน แต่ก่อนอื่นพวกเราจำเป็นต้องล่วงรู้ข้อมูลเรื่องนั้นอย่างละเอียดก่อนครับ ยินดีเล่าแบ่งปันให้ฟังไหมครับ?"
     },
     {
-      "character": "Zekowa",
+      "key": "rightsothosebanditsattonatenyawitheyrecalledthedaybreakersanditwasmeandmyfriendsthatfoundedthegroup",
       "text_en": "Right, so. Those bandits at Tonatenyawi? They're called the Daybreakers, and it was me and my friends that founded the group...",
       "text": "เออ เรื่องมันมีอยู่ว่า ไอ้พวกโจรป่าที่โทนาเทนยาวีนั่นน่ะ? พวกมันเรียกตัวเองว่า กลุ่มเดย์เบรกเกอร์ (กลุ่มเดย์เบรกเกอร์) และจริง ๆ แล้วข้ากับแก๊งเพื่อนคือผู้ร่วมกันก่อตั้งกลุ่มนี้ขึ้นมาเองแหละ..."
     },
     {
-      "character": "Zekowa",
+      "key": "bbutitwasntagangofcutthroatsnotbackthen",
       "text_en": "B-But it wasn't a gang of cutthroats! Not back then...",
       "text": "แ-แต่ยามนั้นมันไม่ใช่แก๊งโจรชั่วช้าสารเลวจ้องปล้นฆ่าฟันรังแกใครแบบนี้นะโว้ย! ไม่ใช่เลย..."
     },
     {
-      "character": "Zekowa",
+      "key": "wejustwantedtoprotectpeoplewhocouldntprotectthemselveskidsbeingharassedbybulliesworkersbeingexploitedbytheminingconcernsfolkswhoneededhelptoeventheodds",
       "text_en": "We just wanted to protect people who couldn't protect themselves. Kids being harassed by bullies, workers being exploited by the mining concerns─folks who needed help to even the odds.",
       "text": "พวกเราแค่ต้องการจะช่วยเหลือปกป้องคุ้มครองผู้ที่อ่อนแอช่วยเหลือตัวเองไม่ได้ เด็ก ๆ ที่โดนพวกอันธพาลรังแก คนงานเหมืองแร่ที่โดนพวกนายทุนขูดรีดเอาเปรียบ—พวกเราอยากช่วยถ่วงดุลความเท่าเทียมให้พวกเขาน่ะโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "thatwasthreeyearsagoandwheneverwefoundsomeoneschemingintheshadowswesettledmattersthebestwayweknewhow",
       "text_en": "That was three years ago. And whenever we found someone scheming in the shadows, we settled matters the best way we knew how.",
       "text": "เรื่องราวนั้นเกิดขึ้นเมื่อสามปีก่อน และเมื่อไหร่ก็ตามที่พวกเราตรวจเจอพวกชั่วร้ายคอยวางแผนลอบทำลายผู้คนในเงามืด พวกเราก็จะสะสางชำระความด้วยวิธีที่ดีที่สุดเท่าที่พวกเราทำได้"
     },
     {
-      "character": "Zekowa",
+      "key": "withaduel",
       "text_en": "With a duel!",
       "text": "ด้วยการท้าดวลตัดสินชี้ชะตายังไงล่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "iseebytheoldlawsanyonewholosesinaduelmustbeheldtoaccountfortheircrimeseventhoseinpositionsofauthority",
       "text_en": "I see. By the old laws, anyone who loses in a duel must be held to account for their crimes, even those in positions of authority.",
       "text": "เข้าใจแล้วครับ ตามกฎกติกาโบราณของดินแดนแถบนี้ ใครก็ตามที่พ่ายแพ้ในการดวลปืนจะต้องยอมรับโทษทัณฑ์ชดใช้ความผิดบาปที่ก่อไว้ แม้ว่าคนคนนั้นจะเป็นผู้มีสิทธิ์อำนาจปกครองก็ตามสินะครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "andwemadedamnsuretheydideverytimebeforeweknewitoursmallbandoffriendscommandedaforcetobereckonedwith",
       "text_en": "And we made damn sure they did, every time. Before we knew it, our small band of friends commanded a force to be reckoned with.",
       "text": "และพวกข้าก็คอยคุมผลลัพธ์ให้เป็นแบบนั้นอย่างเข้มงวดทุกครั้งโว้ย รู้ตัวอีกที กลุ่มเพื่อนเล็ก ๆ ของข้าก็เติบโตขยายตัวจนกลายเป็นกองกำลังที่ทรงอิทธิพลมากทีเดียวล่ะ"
     },
     {
-      "character": "Zekowa",
+      "key": "thenaboutayearagothevultureandhisthugsshoweduptheygotthebetterofusandtookoverthedaybreakers",
       "text_en": "Then, about a year ago, the Vulture and his thugs showed up. They got the better of us and took over the Daybreakers.",
       "text": "จนกระทั่งเมื่อประมาณปีที่แล้ว ไอ้แร้งกับพวกบริวารสุนัขรับใช้ของมันก็โผล่หัวเข้ามา พวกมันใช้กลโกงเอาชนะพวกข้าและบุกยึดครองสิทธิ์อำนาจการสั่งการของกลุ่มเดย์เบรกเกอร์ไปหน้าตาเฉย"
     },
     {
-      "character": "Zekowa",
+      "key": "everyonewasafraidofhimsotheydidhisbiddingwithoutquestionbutwhenheshowedthemhowtheycouldmakeafortuneeasilythatwaswhenhereallywonthemover",
       "text_en": "Everyone was afraid of him, so they did his bidding without question. But when he showed them how they could make a fortune, easily─that was when he really won them over.",
       "text": "ทุกคนในกลุ่มต่างก็ประหม่าและหวาดกลัวอิทธิพลชั่วร้ายของมัน เลยก้มหน้ายอมทำตามแผนชั่วร้ายของมันอย่างจำนน แต่พอมันแนะช่องทางทำเงินเสาะหาความร่ำรวยมาประเคนให้แบบง่าย ๆ—นั่นแหละคือตอนที่มันซื้อหัวใจดวงใจของคนในกลุ่มไปได้เกือบหมดจริง ๆ"
     },
     {
-      "character": "Zekowa",
+      "key": "nowthedaybreakersisnothingbutabunchofbanditsandcutthroatswhopreyonthepeopleitwascreatedtoprotect",
       "text_en": "Now the Daybreakers is nothing but a bunch of bandits and cutthroats who prey on the people it was created to protect.",
       "text": "ยามนี้ กลุ่มเดย์เบรกเกอร์เลยแปรสภาพกลายเป็นแค่รังรวมตัวของโจรชั่วที่จ้องเอารัดเอาเปรียบรังแกประชาชนที่ในอดีตพวกเราเคยวางแผนปกป้องคุ้มครองด้วยชีวิตแท้ ๆ"
     },
     {
-      "character": "Zekowa",
+      "key": "italkeditoverwithmyfriendskwikanaandliwineandweallagreedtheonlywaytostophimwastochallengehimtoaduel",
       "text_en": "I talked it over with my friends, Kwikana and Liwine, and we all agreed the only way to stop him was to challenge him to a duel.",
       "text": "ข้าเลยเปิดอกคุยปรึกษาหารือกับเพื่อนสนิทของข้า คือควิคานา (ควิคานา) กับลิไวน์ (ลิไวน์) และทุกคนต่างก็เห็นพ้องต้องกันว่า หนทางเดียวที่จะหยุดยั้งมันได้คือต้องท้าทายดวลปืนตัดสินชี้ชะตากับมันโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "andheacceptedistillrememberhowhegloatedthathedwin",
       "text_en": "And he accepted. I still remember how he gloated that he'd win...",
       "text": "และมันก็ตอบรับปากรับคำท้าดวลด้วยนะ ข้ายังจำท่าทางอวดดีแสยะยิ้มของมันยามโม้โอ้อวดว่าจะสยบข้าได้อยู่เลย..."
     },
     {
-      "character": "Zekowa",
+      "key": "butwhenthedaycameheshowedupwiththedustwatchandhadmyfriendsarrestedonchargesofrobbery",
       "text_en": "But when the day came, he showed up with the Dustwatch and had my friends arrested on charges of robbery.",
       "text": "แต่พอถึงวันดวลจริง ๆ ไอ้สารเลวนั่นกลับพาพวกกองพิทักษ์ดัสต์วอทช์มาล้อมจับกุมเพื่อน ๆ ของข้าไปขังตารางในข้อหาปล้นชิงทรัพย์สินซะงั้น"
     },
     {
-      "character": "Zekowa",
+      "key": "asifthatwasntenoughhesettheirbailatapricenoonecouldeverhopetopay",
       "text_en": "As if that wasn't enough, he set their bail at a price no one could ever hope to pay.",
       "text": "เท่านั้นยังไม่สะใจพอ มันยังตั้งค่าประกันตัวพิกัดความสูงเสียจนไม่มีทางที่ใครหน้าไหนในชาโลเอนีจะปัญญาหามาจ่ายได้เลยล่ะโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "withthemlockedawaytherewasnoonelefttohelpmenoneofmyoldfriendsfromthedaybreakersandcertainlynotthedustwatch",
       "text_en": "With them locked away, there was no one left to help me. None of my old friends from the Daybreakers, and certainly not the Dustwatch...",
       "text": "พอพวกเพื่อน ๆ โดนขังลืม ข้าก็ไม่เหลือใครคอยหนุนหลังช่วยเหลืออีกเลย ไม่มีทั้งอดีตเพื่อนพ้องเดย์เบรกเกอร์ และแน่นอนว่าไม่มีทางหวังพึ่งพวกดัสต์วอทช์สุนัขรับใช้นั่นได้..."
     },
     {
-      "character": "Erenville",
+      "key": "andthatswhyyouwerereadytochallengehiminthemiddleoftown",
       "text_en": "And that's why you were ready to challenge him in the middle of town.",
       "text": "นั่นแหละคือเหตุผลที่คุณถึงไปยืนตะโกนท้าชนกับเขากลางชุมชนเมื่อกี้สินะครับ"
     },
     {
-      "character": "Zekowa",
+      "key": "iwasuntilthatguywiththespearstoppedme",
       "text_en": "I was, until that guy with the spear stopped me.",
       "text": "ก็ใช่น่ะสิโว้ย ถ้าไอ้หน้าหล่อที่ถือหอกยาวคนนั้นไม่แวะมาขัดขวางขจัดทางซะก่อนนะ"
     },
     {
-      "character": "Zekowa",
+      "key": "nosoonerhadisteppedoutoftownthanthevulturesminionscaughtmebysurprisetheytookmeprisonerthenwellyouknowtherest",
       "text_en": "No sooner had I stepped out of town than the Vulture's minions caught me by surprise. They took me prisoner, then...well, you know the rest.",
       "text": "พอข้าก้าวพ้นปากทางชุมชนได้ไม่กี่ก้าว ไอ้พวกสุนัขรับใช้ของไอ้แร้งมันก็ดักซุ่มโจมตีจับข้ามาเป็นเชลย แล้วหลังจากนั้น... ก็อย่างที่พวกแกเห็นนั่นแหละโว้ย"
     },
     {
-      "character": "Erenville",
+      "key": "yousaidthedustwatchwouldbeofnohelparetheyallworkingforthevulturethen",
       "text_en": "You said the Dustwatch would be of no help. Are they all working for the Vulture, then?",
       "text": "คุณบอกว่าพวกกองพิทักษ์ดัสต์วอทช์พึ่งพาไม่ได้เลย แสดงว่าทุกคนทำงานเปรียบเสมือนบริวารคอยส่งส่วยให้ไอ้แร้งหมดเลยงั้นเหรอครับ?"
     },
     {
-      "character": "Zekowa",
+      "key": "nonotallofthem",
       "text_en": "No, not all of them.",
       "text": "เปล่าหรอกโว้ย ไม่ใช่ทุกคนหรอก"
     },
     {
-      "character": "Zekowa",
+      "key": "thesheriffkemakkahesashonestastheycomeastaunchkeeperofthepeaceproblemishesalittletootrustinganddoesntsuspectathing",
       "text_en": "The sheriff, Kemakka─he's as honest as they come, a staunch keeper of the peace. Problem is, he's a little too trusting and doesn't suspect a thing.",
       "text": "ท่านนายอำเภอเคมักก้า (เคมักก้า)—แกเป็นคนซื่อสัตย์สุจริตมาก คอยดูแลความสงบสุขอย่างเคร่งครัดจริงใจ ปัญหาเดียวคือแกหัวอ่อนเกินไปและชอบไว้ใจคนง่ายจนมองข้ามความผิดบาปของพวกรองหัวหน้าไปซะสนิทเลยล่ะโว้ย"
     },
     {
-      "character": "Zekowa",
+      "key": "ifitweremywordagainstthedeputychiefswhodoyouthinkhedbelieve",
       "text_en": "If it were my word against the deputy chief's, who do you think he'd believe?",
       "text": "ถ้าข้าเดินไปแจ้งความบอกข้อมูลขัดแย้งกับคำให้การของรองหัวหน้ากองล่ะก็ แกคิดว่านายอำเภอจะหันมาเชื่อถ้อยคำของเด็กปากเสียอย่างข้าหรือยังไงล่ะห๊ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "wellifheknowswherethisvulturekeepshisspoilsperhapshecanhelpusrecovernamikkasbraceletwhatdoyouthink",
       "text_en": "Well, if he knows where this Vulture keeps his spoils, perhaps he can help us recover Namikka's bracelet. What do you think?",
       "text": "อืม ในเมื่อเขาพอจะรู้เบาะแสทำเลทองที่ไอ้แร้งซุกซ่อนสมบัติที่ปล้นมา บางทีเขาอาจช่วยอำนวยความสะดวกให้พวกเราเสาะหากำไลข้อมือของคุณน้านามิกก้าคืนมาได้นะครับ คุณ [ชื่อ] คิดเห็นอย่างไรครับ?"
     },
     {
-      "character": "Zekowa",
+      "key": "forwhatitsworthihaveaplanbuticantdoitalone",
       "text_en": "For what it's worth, I have a plan. But I can't do it alone.",
       "text": "คุ้มแค่ไหนผมก็มีแผน แต่ฉันไม่สามารถทำมันคนเดียวได้"
     },
     {
-      "character": "Erenville",
+      "key": "aplan",
       "text_en": "A plan?",
       "text": "แผนเหรอ?"
     },
     {
-      "character": "Zekowa",
+      "key": "alliaskisthatyouhearmeoutbutnothereillbewaitingforyouatsheshenewezisprings",
       "text_en": "All I ask is that you hear me out─but not here. I'll be waiting for you at Sheshenewezi Springs.",
       "text": "ฉันขอแค่คุณได้ยินฉันบ้าง แต่ไม่ใช่ที่นี่ ฉันจะรอคุณที่ น้ำพุเชเชเนเวซี"
     },
     {
-      "character": "Erenville",
+      "key": "iguesswecandecidewhattodoafterhegivesusthepitch",
       "text_en": "I guess we can decide what to do after he gives us the pitch.",
       "text": "ฉันเดาว่าเราสามารถตัดสินใจได้ว่าจะทำอย่างไรหลังจากที่เขาลงสนามให้เราแล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "imgratefulhecouldtakeustothedeputychiefbutitwillallbefornaughtifwereseen",
       "text_en": "I'm grateful he could take us to the deputy chief, but it will all be for naught if we're seen.",
       "text": "ฉันดีใจที่เขาพาเราไปพบรองหัวหน้าได้ แต่ทุกอย่างจะสูญเปล่าถ้าเรามีคนเห็น"
     },
     {
-      "character": "Zekowa",
+      "key": "goodyourehere",
       "text_en": "Good, you're here.",
       "text": "ดีคุณอยู่ที่นี่"
     },
     {
-      "character": "Zekowa",
+      "key": "thisiswherehehideshislootiexpecthellshowupsoon",
       "text_en": "This is where he hides his loot. I expect he'll show up soon.",
       "text": "นี่คือที่ที่เขาซ่อนของขวัญของเขา ฉันคาดว่าเขาจะปรากฏตัวเร็วๆ นี้"
     }

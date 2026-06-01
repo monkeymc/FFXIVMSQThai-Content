@@ -1,871 +1,863 @@
 {
-  "id": "on-the-cloud",
-  "wiki_path": "/wiki/On_the_Cloud",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "On the Cloud",
-  "title": "สู่ระบบคลาวด์",
-  "level": "97",
-  "location": "Heritage Found(X:19.1,Y:14.4)",
-  "npc_start": "Sphene",
+  "quest_id": "on-the-cloud",
   "dialogues": [
     {
-      "character": "Mahuwsa",
+      "key": "myapologiesforlaughingearlieryourfriendpaintedanimagesofarremovedfromthespheneweknowicouldnthelpmyself",
       "text_en": "My apologies for laughing earlier. Your friend painted an image so far removed from the Sphene we know, I couldn't help myself.",
       "text": "ขอโทษด้วยนะคะที่หัวเราะออกไปเมื่อกี้ พอดีเพื่อนของคุณพูดภาพลักษณ์ของราชินีสฟีนออกมาแตกต่างจากตัวจริงที่พวกเราคุ้นเคยอย่างสุดขั้ว ฉันเลยอดขำไม่ได้จริงๆ ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "zoraaljayoubastard",
       "text_en": "Zoraal Ja, you bastard...",
       "text": "โซราล จา ไอ้คนสารเลว..."
     },
     {
-      "character": "Sphene",
+      "key": "perhapsweshouldheadbacktotheoutskirtsidaresayyourfriendswillalsohavereturnedbynow",
       "text_en": "Perhaps we should head back to the outskirts? I daresay your friends will also have returned by now.",
       "text": "พวกเรากลับไปที่ชานเมืองกันดีกว่าไหมคะ? ฉันคิดว่าเพื่อนๆ ของคุณก็น่าจะกลับมากันแล้วล่ะค่ะ"
     },
     {
-      "character": "Mahuwsa",
+      "key": "mythanksagainfordealingwiththefiendscomeandvisitusanytime",
       "text_en": "My thanks again for dealing with the fiends. Come and visit us any time.",
       "text": "ขอบคุณอีกครั้งนะคะที่ช่วยจัดการกับพวกอสูร แวะมาหาพวกเราได้ตลอดเวลาเลยนะคะ"
     },
     {
-      "character": "Mahuwsa",
+      "key": "likeeveryoneihavetheutmostadmirationandrespectforqueenspheneitsalittleembarrassingtosaysuchthingstoherinpersonthough",
       "text_en": "Like everyone, I have the utmost admiration and respect for Queen Sphene. It's a little embarrassing to say such things to her in person, though...",
       "text": "ฉันรักและเคารพเทิดทูนราชินีสฟีนเหมือนกับทุกๆ คนนั่นแหละค่ะ แต่ถ้าให้ไปพูดต่อหน้าท่านตรงๆ ก็คงเขินแย่เลยนะคะ..."
     },
     {
-      "character": "Sphene",
+      "key": "thereissomuchofalexandriaiwouldlovetoshowyou",
       "text_en": "There is so much of Alexandria I would love to show you!",
       "text": "ยังมีอีกหลายสิ่งหลายอย่างในอเล็กซานเดรียที่ฉันอยากจะอวดคุณจังเลยค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "doyouhearthat",
       "text_en": "...Do you hear that?",
       "text": "...เธอได้ยินเสียงนั่นไหม?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatshappeningoverthere",
       "text_en": "What's happening over there?",
       "text": "ตรงนั้นเกิดอะไรขึ้นน่ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "itsnearlytime",
       "text_en": "It's nearly time.",
       "text": "ใกล้ได้เวลาแล้วล่ะค่ะ"
     },
     {
-      "character": "Pepoane",
+      "key": "imgladyoucouldmakeit",
       "text_en": "I'm glad you could make it.",
       "text": "ดีใจที่เธอมาได้นะ"
     },
     {
-      "character": "Softspoken Man",
+      "key": "areyouwithus",
       "text_en": "Are you with us?",
       "text": "เธอได้ยินพวกเราไหม?"
     },
     {
-      "character": "Softspoken Woman",
+      "key": "queensphenehascometoseeyou",
       "text_en": "Queen Sphene has come to see you.",
       "text": "ราชินีสฟีนมาเยี่ยมเธอแน่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "wereherenamikkaeverythingisgoingtobeallright",
       "text_en": "We're here, Namikka. Everything is going to be all right.",
       "text": "พวกเราอยู่ตรงนี้แล้วนะจ๊ะ นามิกก้า ทุกอย่างจะไม่เป็นไรนะ"
     },
     {
-      "character": "Namikka",
+      "key": "wuwuk",
       "text_en": "Wu... Wuk...",
       "text": "วุ... วุค..."
     },
     {
-      "character": "Sphene",
+      "key": "whatsthematterdear",
       "text_en": "What's the matter, dear?",
       "text": "มีอะไรเหรอจ๊ะคนดี?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itcantbe",
       "text_en": "It can't be...",
       "text": "เป็นไปไม่ได้..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsthebangleigavetonamikka",
       "text_en": "That's the bangle I gave to Namikka!",
       "text": "นั่นมันกำไลที่ฉันให้เป็นของขวัญนามิกก้านี่นา!"
     },
     {
-      "character": "Sphene",
+      "key": "youknowher",
       "text_en": "You know her?",
       "text": "คุณรู้จักเธอด้วยเหรอคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ofcourseiknowhershewaslikeamothertome",
       "text_en": "Of course I know her. She was like a mother to me...",
       "text": "ทำไมจะไม่รู้จักล่ะ เธอเปรียบเสมือนแม่ของฉันเลยนะ..."
     },
     {
-      "character": "Sphene",
+      "key": "iseeshewasalwayswillingtolendakindlyeartoothersbutrarelydidsheeverspeakofherself",
       "text_en": "I see. She was always willing to lend a kindly ear to others, but rarely did she ever speak of herself.",
       "text": "อย่างนั้นเองเหรอคะ ปกติเธอมักจะเป็นผู้รับฟังที่ดีของคนอื่นเสมอ แต่กลับแทบไม่เคยเล่าเรื่องส่วนตัวของตัวเองให้ใครฟังเลยล่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isitisitreallyyou",
       "text_en": "Is it...is it really you?",
       "text": "เธอ... ใช่เธอจริงๆ ใช่ไหม?"
     },
     {
-      "character": "Krile",
+      "key": "shemusthavearrivedshortlybeforethebarriermanifestedforusitwasperhapsdaysbutforher",
       "text_en": "She must have arrived shortly before the barrier manifested. For us it was perhaps days, but for her...",
       "text": "เธอคงจะเดินทางมาถึงที่นี่ไม่นานก่อนที่บาเรียจะปรากฏขึ้นมา สำหรับพวกเรามันอาจจะผ่านไปแค่ไม่กี่วัน แต่สำหรับเธอแล้ว..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "namikkaitsmewuklamat",
       "text_en": "Namikka, it's me! Wuk Lamat!",
       "text": "นามิกก้า นี่ฉันเอง! วุค ลามัต ไง!"
     },
     {
-      "character": "Pepoane",
+      "key": "imafraidhertimewithusisnearlyatanend",
       "text_en": "I'm afraid her time with us is nearly at an end...",
       "text": "เกรงว่าเวลาของเธอที่จะอยู่กับพวกเราใกล้จะหมดลงแล้วล่ะครับ..."
     },
     {
-      "character": "Worried Gentleman",
+      "key": "hasshenomoresoulcells",
       "text_en": "Has she no more soul cells?",
       "text": "เธอไม่มีเซลล์ดวงวิญญาณสำรองเหลือแล้วเหรอครับ?"
     },
     {
-      "character": "Disappointed Woman",
+      "key": "shealwaysusedherssparinglybutatherageitwouldntmakeadifference",
       "text_en": "She always used hers sparingly, but at her age? It wouldn't make a difference.",
       "text": "ปกติเธอก็ใช้อย่างประหยัดมาตลอดนั่นแหละ แต่ด้วยเลขอายุขัยของเธอขนาดนี้แล้ว? ต่อให้มีดวงวิญญาณเหลือก็คงไม่ช่วยยื้ออายุได้หรอก"
     },
     {
-      "character": "Pepoane",
+      "key": "maamtheushershavearrived",
       "text_en": "Ma'am, the ushers have arrived.",
       "text": "ฝ่าบาท ผู้นำทางเดินทางมาถึงแล้วครับ"
     },
     {
-      "character": "Sphene",
+      "key": "thankyounamikkaforyourmanyyearsoffriendshiptakecomfortintheknowledgethatthisisnottheend",
       "text_en": "Thank you, Namikka, for your many years of friendship. Take comfort in the knowledge that this is not the end.",
       "text": "ขอบคุณนะจ๊ะนามิกก้า สำหรับมิตรภาพที่มีให้กันมาตลอดหลายปี ขอให้วางใจเถิดนะว่าเรื่องนี้ไม่ใช่จุดจบของทุกสิ่ง"
     },
     {
-      "character": "Sphene",
+      "key": "benotafraidyourmemorywillliveoninus",
       "text_en": "Be not afraid. Your memory will live on in us.",
       "text": "ไม่ต้องกลัวไปหรอกนะ ความทรงจำของเธอจะยังคงมีชีวิตสืบต่อไปในตัวพวกเรา"
     },
     {
-      "character": "Alisaie",
+      "key": "livingoninmemorythegiantsshareasimilarbelief",
       "text_en": "Living on in memory... The giants share a similar belief.",
       "text": "การมีชีวิตอยู่ต่อไปในความทรงจำ... พวกยักษ์ก็มีความเชื่อคล้ายๆ แบบนี้เหมือนกันสินะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "waitwhereareyoutakingher",
       "text_en": "Wait! Where are you taking her!?",
       "text": "เดี๋ยวก่อน! พวกเธอจะพาตัวเธอไปไหนกันน่ะ!?"
     },
     {
-      "character": "Sphene",
+      "key": "worrynotsheisbeingescortedtoamedicalfacilityinthetowertherewewilleaseherburden",
       "text_en": "Worry not. She is being escorted to a medical facility in the tower. There we will ease her burden.",
       "text": "ไม่ต้องกังวลหรอกค่ะ เธอจะถูกพาส่งตัวไปที่สถานพยาบาลภายในหอคอย ที่นั่นพวกเราจะช่วยแบ่งเบาภาระความเจ็บปวดของเธอลงเองค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "ihadhopedtomakearrangementsforhersoonerbutshewishedtoremainhereforaslongaspossibleicouldnotbringmyselftorefuseher",
       "text_en": "I had hoped to make arrangements for her sooner, but she wished to remain here for as long as possible. I could not bring myself to refuse her.",
       "text": "ใจจริงฉันหวังจะจัดการส่งตัวเธอไปให้เร็วกว่านี้ แต่เธอขอยืนกรานจะอยู่ที่นี่ให้นานที่สุดเท่าที่จะทำได้ ฉันเลยใจแข็งปฏิเสธคำขอของเธอไม่ได้น่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isthereanywayimightstaywithherforalittlewhilelonger",
       "text_en": "Is there any way I might stay with her for a little while longer?",
       "text": "พอจะมีทางไหมที่ฉันจะขออยู่กับเธอต่ออีกสักนิดน่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wemaynotsharethesamebloodbutshewasmymotherplease",
       "text_en": "We may not share the same blood, but...she was my mother. Please...",
       "text": "ถึงเราจะไม่ได้มีสายเลือดเดียวกัน แต่... เธอคือแม่ของฉันนะ ได้โปรดเถอะ..."
     },
     {
-      "character": "Sphene",
+      "key": "letusgivethemsometimealone",
       "text_en": "Let us give them some time alone.",
       "text": "ปล่อยให้พวกเขาอยู่ด้วยกันตามลำพังเถอะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "shedidntspeakbutimgratefulthaticouldbewithherattheendthankyou",
       "text_en": "She didn't speak, but I'm grateful that I could be with her at the end. Thank you.",
       "text": "ถึงเธอจะไม่ได้เอ่ยปากพูดอะไรเลย แต่ฉันก็รู้สึกซาบซึ้งใจมากแล้วล่ะที่ได้อยู่เคียงข้างเธอจนถึงวินาทีสุดท้าย ขอบคุณนะ"
     },
     {
-      "character": "Sphene",
+      "key": "itsnottheend",
       "text_en": "It's not the end.",
       "text": "มันไม่ใช่จุดจบหรอกค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hm",
       "text_en": "Hm?",
       "text": "เอ๊ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "ohnothingiwasjustthinkingthatwehavemuchtodiscusswhereshallwebegin",
       "text_en": "Oh, nothing. I was just thinking that we have much to discuss. Where shall we begin?",
       "text": "อ๋อ เปล่าค่ะ ไม่มีอะไร ฉันแค่คิดว่าพวกเรามีเรื่องที่ต้องคุยกันยาวเลยล่ะ จะเริ่มจากตรงไหนดีล่ะคะ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "withwhatwecanbereasonablycertainofperhaps",
       "text_en": "With what we can be reasonably certain of, perhaps.",
       "text": "เริ่มจากเรื่องที่เราพอจะแน่ใจได้ก่อนดีกว่าครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "betweenwhatwehavewitnessedandthetestimonyofalexandriasinhabitantsitssafetosaythattwodistinctlandshaveindeedbecomeone",
       "text_en": "Between what we have witnessed and the testimony of Alexandria's inhabitants, it's safe to say that two distinct lands have indeed become one.",
       "text": "จากสิ่งที่เราเห็นด้วยตาตนเองประกอบกับคำบอกเล่าของชาวเมืองอเล็กซานเดรีย ชัดเจนแล้วล่ะครับว่าดินแดนสองแห่งที่แตกต่างกันอย่างสิ้นเชิงได้หลอมรวมเข้าเป็นหนึ่งเดียวกันแล้วจริงๆ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whatsmorehavingmetnamikkathereisnodenyingthedivergenceinthepassageoftime",
       "text_en": "What's more, having met Namikka, there is no denying the divergence in the passage of time.",
       "text": "ยิ่งไปกว่านั้น การที่เราได้พบกับนามิกก้า ก็ปฏิเสธไม่ได้เลยว่ากระแสเวลาของทั้งสองฝั่งนั้นมีความคลาดเคลื่อนกันอย่างมาก"
     },
     {
-      "character": "G'raha Tia",
+      "key": "takentogetherthesephenomenastronglysuggestthatsomemannerofcrossriftdisplacementhasoccurred",
       "text_en": "Taken together, these phenomena strongly suggest that some manner of cross-rift displacement has occurred.",
       "text": "เมื่อพิจารณารวมกันแล้ว ปรากฏการณ์เหล่านี้ชี้ชัดว่าน่าจะเกิดการเคลื่อนย้ายข้ามรอยแยกมิติขึ้นมาครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "specificallythedisplacementofalexandriafromanotherreflectiontothesource",
       "text_en": "Specifically, the displacement of Alexandria from another reflection to the Source.",
       "text": "ระบุให้ชัดก็คือ การเคลื่อนย้ายอาณาจักรอเล็กซานเดรียจากโลกเงาสะท้อนแห่งอื่น มาสู่โลกเดิมแห่งนี้ครับ"
     },
     {
-      "character": "Krile",
+      "key": "itdoesseemthemostlikelyexplanation",
       "text_en": "It does seem the most likely explanation.",
       "text": "ดูจะเป็นคำอธิบายที่สมเหตุสมผลที่สุดแล้วล่ะค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whatperplexesmehoweveristhescaleofsaiddisplacementitfarexceedswhatcouldconceivablybeachievedwithavoidgateorevenwiththecrystaltower",
       "text_en": "What perplexes me, however, is the scale of said displacement. It far exceeds what could conceivably be achieved with a voidgate, or even with the Crystal Tower.",
       "text": "แต่สิ่งที่ทำให้ผมแปลกใจก็คือขนาดของการเคลื่อนย้ายเนี่ยแหละครับ มันใหญ่โตเกินกว่าที่จะทำได้ด้วยประตูมิติมืด หรือแม้แต่หอคอยคริสตัลเสียอีก"
     },
     {
-      "character": "G'raha Tia",
+      "key": "inessencewearedealingwithalocalizedinstanceofdimensionalcompressiontheascianswouldnodoubtlikenittoarejoining",
       "text_en": "In essence, we are dealing with a localized instance of dimensional compression. The Ascians would no doubt liken it to a Rejoining.",
       "text": "ในทางปฏิบัติแล้ว นี่มันคือการบีบอัดมิติแบบเฉพาะส่วน ชนิดที่พวกแอสเชียนคงจะเปรียบเทียบว่ามันคือกระบวนการหลอมรวมโลกแน่นอนครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whichinvitesthequestionhowwassuchafeataccomplished",
       "text_en": "Which invites the question: how was such a feat accomplished?",
       "text": "ซึ่งนำไปสู่คำถามสำคัญที่ว่า... พวกเขาทำเรื่องเหลือเชื่อขนาดนี้สำเร็จได้ยังไงกัน?"
     },
     {
-      "character": "Sphene",
+      "key": "iwishthatihadananswerforyoubutthistalkofreflectionsanddimensionsiswellbeyondmyunderstanding",
       "text_en": "...I wish that I had an answer for you, but this talk of reflections and dimensions is well beyond my understanding.",
       "text": "...ฉันเองก็อยากจะตอบคำถามนี้ได้เหมือนกันค่ะ แต่เรื่องโลกเงาสะท้อนกับเรื่องมิติพวกนี้มันยากเกินกว่าที่ฉันจะเข้าใจจริงๆ"
     },
     {
-      "character": "Sphene",
+      "key": "icanonlytellyouthatwelivedpeacefullyunderthebarriersprotectionformanymanyyearsuntilthedaythatpeacewassuddenlybroken",
       "text_en": "I can only tell you that we lived peacefully under the barrier's protection for many, many years, until the day that peace was suddenly broken.",
       "text": "ฉันบอกได้เพียงแค่ว่า พวกเราใช้ชีวิตอยู่อย่างสงบสุขภายใต้การปกป้องของบาเรียมานานแสนนาน จนกระทั่งวันหนึ่ง ความสงบสุขนั้นก็ถูกทำลายลงอย่างกะทันหันค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "ifimayclarifythebarrierpredatesalexandriasdisplacement",
       "text_en": "If I may clarify—the barrier predates Alexandria's displacement?",
       "text": "ขอถามเพื่อความแน่ชัดหน่อยนะคะ... แสดงว่าบาเรียนี้ถูกสร้างขึ้นมาก่อนที่อเล็กซานเดรียจะถูกย้ายมิติมางั้นเหรอคะ?"
     },
     {
-      "character": "Sphene",
+      "key": "byseveralhundredyearsyestowhenthecontinentwecallhomewasravagedbyadevastatingcataclysm",
       "text_en": "By several hundred years, yes. To when the continent we call home was ravaged by a devastating cataclysm.",
       "text": "ใช่ค่ะ สร้างขึ้นมาก่อนหน้านั้นหลายร้อยปีเลยทีเดียว ตั้งแต่ตอนที่ทวีปบ้านเกิดของพวกเราถูกทำลายล้างด้วยมหันตภัยครั้งใหญ่"
     },
     {
-      "character": "Sphene",
+      "key": "thebarrierwaserectedtoisolateusfromthesurroundinglandsnocuousinfluence",
       "text_en": "The barrier was erected to isolate us from the surrounding land's nocuous influence.",
       "text": "บาเรียถูกสร้างขึ้นเพื่อคัดแยกพวกเราออกจากการปนเปื้อนที่เป็นอันตรายของดินแดนโดยรอบค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "iseeanditwasonlylaterthatitwaswhiskedawayalongwithitscontentsbymeansunknown",
       "text_en": "I see... And it was only later that it was whisked away, along with its contents, by means unknown.",
       "text": "เข้าใจแล้วค่ะ... แล้วหลังจากนั้นไม่รู้ว่าด้วยวิธีใด มันจึงพัดพาทุกสิ่งทุกอย่างรวมถึงดินแดนภายในบาเรียนี้ข้ามมิติมาสินะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "inotherwordssphenesaslostastherestofusrightthealexandriansdidntmeantoendupintural",
       "text_en": "In other words, Sphene's as lost as the rest of us, right? The Alexandrians didn't mean to end up in Tural.",
       "text": "พูดง่ายๆ ก็คือ สฟีนเองก็สับสนไม่แพ้พวกเราเลยใช่ไหมล่ะ? ชาวอเล็กซานเดรียไม่ได้ตั้งใจจะมาโผล่ที่ทูรัลแต่แรกหรอก"
     },
     {
-      "character": "Sphene",
+      "key": "ahbutofcourseournextstopoughttobeeverkeepthattoweroveryonder",
       "text_en": "...Ah, but of course! Our next stop ought to be Everkeep. That tower over yonder.",
       "text": "...อ๊ะ จริงด้วยสิคะ! จุดหมายต่อไปของพวกเราควรจะเป็นเอเวอร์คีป หอคอยยักษ์ตรงโน้นล่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "onceyouhavebeenregisteredasmyguestsyouwillhaveaccesstosolutionnineanditsresidentialdistrictwhereyouwilldoubtlessgaininvaluableinsightintoalexandriasstateofaffairs",
       "text_en": "Once you have been registered as my guests, you will have access to Solution Nine and its residential district, where you will doubtless gain invaluable insight into Alexandria's state of affairs.",
       "text": "เมื่อทุกคนได้รับการลงทะเบียนเป็นแขกของฉันแล้ว ก็จะสามารถเข้าสู่โซลูชันไนน์ และย่านที่อยู่อาศัยในนั้นได้ ซึ่งจะช่วยให้พวกคุณได้เห็นและเข้าใจวิถีชีวิตความเป็นอยู่ของชาวอเล็กซานเดรียได้เป็นอย่างดีแน่นอนค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "unfortunatelyicannottakeyoudirectlytowherezoraaljaresides",
       "text_en": "Unfortunately, I cannot take you directly to where Zoraal Ja resides...",
       "text": "แต่น่าเสียดายที่ฉันคงไม่สามารถพาพวกคุณตรงไปหาจุดที่โซราล จา พำนักอยู่ได้โดยตรงหรอกนะคะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatyoudletusinatallgoesalongwaytowardprovingyourenotcontenttoletzoraaljadoashepleases",
       "text_en": "That you'd let us in at all goes a long way toward proving you're not content to let Zoraal Ja do as he pleases.",
       "text": "แค่เธอยอมเปิดทางให้พวกเราเข้าไปข้างในก็น่าจะช่วยพิสูจน์ได้มากพอแล้วล่ะว่าเธอเองก็ไม่เห็นด้วยที่จะปล่อยให้โซราล จา ทำตามใจชอบ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butwerenottalkingaboutasimpledifferenceofopinionhere",
       "text_en": "But we're not talking about a simple difference of opinion here.",
       "text": "แต่เรื่องที่เราจะทำต่อจากนี้ มันไม่ใช่แค่เรื่องความคิดเห็นไม่ตรงกันเฉยๆ หรอกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ivecometoavengemyfatherandtodosoiintendtotakezoraaljaslifeareyouwillingtostandbyandallowalexandriaskingtobeslain",
       "text_en": "I've come to avenge my father, and to do so, I intend to take Zoraal Ja's life. Are you willing to stand by and allow Alexandria's king to be slain?",
       "text": "ฉันมาที่นี่เพื่อล้างแค้นให้ท่านพ่อของฉัน และเป้าหมายของฉันคือการปลิดชีวิตโซราล จา... เธอพร้อมที่จะยืนดูเฉยๆ ปล่อยให้ราชาแห่งอเล็กซานเดรียถูกฆ่าตายจริงๆ หรือ?"
     },
     {
-      "character": "Sphene",
+      "key": "afairquestion",
       "text_en": "A fair question...",
       "text": "เป็นคำถามที่ตรงประเด็นมากเลยค่ะ..."
     },
     {
-      "character": "Sphene",
+      "key": "permitmetoansweritthusmypeoplecomefirsttheirwelfareisparamount",
       "text_en": "Permit me to answer it thus. My people come first. Their welfare is paramount.",
       "text": "ฉันขอตอบคำถามนี้แบบนี้แล้วกันนะจ๊ะ ประชาชนของฉันต้องมาก่อนเสมอ ความเป็นอยู่และความสุขของพวกเขาคือสิ่งที่สำคัญที่สุดในชีวิตฉัน"
     },
     {
-      "character": "Sphene",
+      "key": "iwilldoeverythinginmypowertokeepthemfromharm",
       "text_en": "I will do everything in my power to keep them from harm.",
       "text": "ฉันจะทำทุกวิถีทางที่ทำได้เพื่อปกป้องไม่ให้พวกเขาได้รับอันตรายใดๆ"
     },
     {
-      "character": "Sphene",
+      "key": "itisarulersduty",
       "text_en": "It is a ruler's duty.",
       "text": "มันคือหน้าที่ของผู้ปกครองแผ่นดินค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "nowiamofftoregisteryouateverkeepitmaytakesometimebutyoushallfindtheentranceopentoyouinduecourse",
       "text_en": "Now, I am off to register you at Everkeep. It may take some time, but you shall find the entrance open to you in due course.",
       "text": "เอาล่ะค่ะ ฉันขอตัวไปทำเรื่องลงทะเบียนให้พวกคุณที่เอเวอร์คีปก่อนนะคะ อาจจะต้องใช้เวลาสักหน่อย แต่เมื่อเรียบร้อยแล้ว ทางเข้าจะเปิดต้อนรับพวกคุณแน่นอนค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "ohandereiforgetyourmothercahciuayoumighttrythethunderyardstotheeast",
       "text_en": "Oh, and ere I forget... Your mother, Cahciua. You might try the Thunderyards to the east.",
       "text": "อ๊ะ เกือบลืมไปแน่ะ... เรื่องแม่ของคุณ คาชิวา ลองไปตามหาเธอแถวๆ ทุ่งสายฟ้าทางตะวันออกดูนะคะ"
     },
     {
-      "character": "Erenville",
+      "key": "thethunderyardsisthatwheresheis",
       "text_en": "The Thunderyards? Is that where she is!?",
       "text": "ทุ่งสายฟ้าเหรอครับ? เธออยู่ที่นั่นงั้นเหรอ!?"
     },
     {
-      "character": "Sphene",
+      "key": "imafraidicansaynomorethanthatmakeforthethunderyardsandallwillbemadeclear",
       "text_en": "I'm afraid I can say no more than that. Make for the Thunderyards, and all will be made clear.",
       "text": "เกรงว่าฉันจะบอกรายละเอียดมากกว่านี้ไม่ได้แล้วล่ะค่ะ ลองไปที่นั่นดู แล้วทุกอย่างจะกระจ่างเองค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsnotasifwehaveotherpressingbusinessnotuntilwecangetintothiseverkeepanyway",
       "text_en": "It's not as if we have other pressing business. Not until we can get into this Everkeep, anyway.",
       "text": "ช่วงนี้เราก็ไม่มีเรื่องด่วนอะไรต้องทำอยู่แล้วล่ะ อย่างน้อยก็จนกว่าจะเปิดทางเข้าไปในเอเวอร์คีปได้ล่ะนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouforearlierandforbeingafriendtonamikkathesepastthirtyyearsitmeansalottome",
       "text_en": "Thank you for earlier...and for being a friend to Namikka these past thirty years. It means a lot to me.",
       "text": "ขอบคุณสำหรับเรื่องเมื่อกี้ด้วยนะ... และก็ขอบคุณที่เป็นเพื่อนที่ดีกับนามิกก้ามาตลอดสามสิบปีที่ผ่านมา มันมีความหมายต่อฉันมากจริงๆ"
     },
     {
-      "character": "Pepoane",
+      "key": "namikkaimsorrybutidontknowwhoyoumean",
       "text_en": "Namikka...? I'm sorry, but I don't know who you mean.",
       "text": "นามิกก้า...? ขอโทษด้วยนะครับ แต่ผมไม่รู้จักคนที่คุณพูดถึงเลย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatwewerejustwithherifthisissomesortofajokeitisntfunny",
       "text_en": "What? We were just with her! If this is some sort of a joke, it isn't funny.",
       "text": "อะไรนะ? พวกเราเพิ่งจะอยู่กับเธอเมื่อกี้นี้เองนะ! ถ้าคิดจะล้อเล่นแบบนี้ล่ะก็ มันไม่ตลกเลยสักนิด"
     },
     {
-      "character": "Pepoane",
+      "key": "idontmeantogiveoffensebutihonestlyhavenoideawhoyouaretalkingaboutimsorry",
       "text_en": "I don't mean to give offense, but...I honestly have no idea who you are talking about. I'm sorry.",
       "text": "ผมไม่ได้มีเจตนาจะกวนโทโสหรือลบหลู่นะครับ... แต่ผมไม่รู้จริงๆ ว่าคุณกำลังพูดถึงใครอยู่ ขอโทษด้วยครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "howcanyounotknowwhosheis",
       "text_en": "How can you not know who she is?",
       "text": "คุณจะไม่รู้จักเธอได้ยังไงกัน?"
     },
     {
-      "character": "Alisaie",
+      "key": "youreinchargehereshewasunderyourcare",
       "text_en": "You're in charge here! She was under your care!",
       "text": "คุณเป็นคนคอยดูแลที่นี่นะ! แถมเธอก็อยู่ในความดูแลของคุณด้วย!"
     },
     {
-      "character": "Pepoane",
+      "key": "theninalllikelihoodmymemoriesofherhavebeenstoredinthecloud",
       "text_en": "Then in all likelihood, my memories of her have been stored in the cloud.",
       "text": "ถ้าอย่างนั้น ก็มีความเป็นไปได้สูงมากว่าความทรงจำของผมเกี่ยวกับเธอคงจะถูกอัปโหลดไปเก็บไว้บนระบบคลาวด์แล้วล่ะครับ"
     },
     {
-      "character": "Pepoane",
+      "key": "anypersonseeminglyforgottenwithoutreasonisprobablythereinthecloud",
       "text_en": "Any person seemingly forgotten without reason is probably there. In the cloud.",
       "text": "ใครก็ตามที่จู่ๆ ก็เหมือนจะถูกลืมไปโดยไม่มีเหตุผล ก็น่าจะไปอยู่ในนั้นแหละครับ... บนคลาวด์"
     },
     {
-      "character": "Pepoane",
+      "key": "ohireallymustbegettingbacktoworkifyoullexcuseme",
       "text_en": "Oh, I really must be getting back to work. If you'll excuse me...",
       "text": "เอ้อ... ผมต้องกลับไปทำงานต่อแล้วล่ะครับ ขอตัวก่อนนะครับ..."
     },
     {
-      "character": "Alisaie",
+      "key": "thisisveryunsettling",
       "text_en": "This is very unsettling...",
       "text": "เรื่องนี้ชวนให้น่าขนลุกชะมัด..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "asfarasicouldtellpepoanegenuinelyhadnorecollectionofnamikka",
       "text_en": "As far as I could tell, Pepoane genuinely had no recollection of Namikka.",
       "text": "เท่าที่ผมสังเกต เปโปอาเน่ลืมนามิกก้าไปสนิทใจจริงๆ แบบไม่ได้แกล้งทำเลยครับ"
     },
     {
-      "character": "Krile",
+      "key": "wellseehowitiswithotherpeople",
       "text_en": "We'll see how it is with other people.",
       "text": "ลองไปสอบถามคนอื่นดูบ้างเถอะค่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "iveneverseennorheardofanythinglikethisbefore",
       "text_en": "I've never seen nor heard of anything like this before.",
       "text": "ผมไม่เคยเห็นหรือได้ยินเรื่องชวนเหลือเชื่อแบบนี้มากก่อนเลยแฮะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatsgoingonhowcouldpepoanesuddenlyforgetaboutnamikka",
       "text_en": "What's going on? How could Pepoane suddenly forget about Namikka?",
       "text": "มันเกิดอะไรขึ้นกันแน่? ทำไมเปโปอาเน่ถึงได้ลืมเรื่องของนามิกก้าไปดื้อๆ แบบนั้นล่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsasifheneverknewher",
       "text_en": "It's as if he never knew her...",
       "text": "เหมือนกับว่าเขาไม่เคยรู้จักเธอมากก่อนเลยในชีวิต..."
     },
     {
-      "character": "Alisaie",
+      "key": "couldthesamethinghavehappenedtoothersaswelliwonder",
       "text_en": "Could the same thing have happened to others as well, I wonder?",
       "text": "อยากรู้จังว่าเรื่องแบบนี้เกิดขึ้นกับคนอื่นด้วยหรือเปล่านะ?"
     },
     {
-      "character": "Krile",
+      "key": "theresonlyonewaytofindoutletsmakeinquiriesaboutnamikkaintheareawecanreconveneafterwardsattheaetheryte",
       "text_en": "There's only one way to find out. Let's make inquiries about Namikka in the area. We can reconvene afterwards at the aetheryte.",
       "text": "มีทางเดียวที่จะรู้ได้ค่ะ ลองไปตระเวนถามคนแถวนี้เกี่ยวกับนามิกก้ากันดูเถอะ แล้วค่อยกลับมาเจอกันที่เสาอีเธอร์ไรต์นะคะ"
     },
     {
-      "character": "Working Resident",
+      "key": "anoldwomannamednamikka",
       "text_en": "An old woman named Namikka?",
       "text": "หญิงชราที่ชื่อนามิกก้างั้นเหรอครับ?"
     },
     {
-      "character": "Working Resident",
+      "key": "imafraididontknowthatpersonimsorryicouldntbeofhelp",
       "text_en": "I'm afraid I don't know that person. I'm sorry I couldn't be of help.",
       "text": "เกรงว่าผมจะไม่รู้จักคนชื่อนั้นเลย ขอโทษด้วยนะที่ช่วยเหลืออะไรไม่ได้"
     },
     {
-      "character": "Working Resident",
+      "key": "imsorryperhapssomeoneelseknowsthisnamikka",
       "text_en": "I'm sorry. Perhaps someone else knows this Namikka.",
       "text": "ขอภัยด้วยนะครับ บางทีคนอื่นอาจจะรู้จักคนชื่อนามิกก้าคนนี้ก็ได้ครับ"
     },
     {
-      "character": "Preoccupied Resident",
+      "key": "whatsthatdoiknowanamikka",
       "text_en": "What's that? Do I know a Namikka?",
       "text": "มีอะไรเหรอครับ? ถามว่าผมรู้จักคนชื่อนามิกก้าไหมงั้นเหรอ?"
     },
     {
-      "character": "Preoccupied Resident",
+      "key": "nevermetanyonebythatnameandiveworkedattheoutskirtsforagoodwhilenowifshedspenttimehereiwouldremember",
       "text_en": "Never met anyone by that name, and I've worked at the outskirts for a good while now. If she'd spent time here, I would remember.",
       "text": "ผมไม่เคยเจอใครชื่อนั้นเลยนะ ทั้งที่ผมก็ทำงานแถวชานเมืองนี้มานานมากแล้ว ถ้าเธอเคยอยู่ที่นี่จริง ผมก็น่าจะจำได้สิครับ"
     },
     {
-      "character": "Preoccupied Resident",
+      "key": "likeasnotthisnamikkaisupinthecloud",
       "text_en": "Like as not, this Namikka is up in the cloud...",
       "text": "สงสัยนามิกก้าคนนี้จะขึ้นไปอยู่บนคลาวด์แล้วมั้งครับ..."
     },
     {
-      "character": "Caregiving Resident",
+      "key": "hmmmidorecallcaringforsomeoneuntilrecentlyandyousaythatitwasawomannamednamikka",
       "text_en": "Hmmm... I do recall caring for someone until recently. And you say that it was a woman named Namikka?",
       "text": "หืม... ผมจำได้ว่าเพิ่งจะดูแลใครบางคนอยู่จนถึงเมื่อไม่นานมานี้เองนะครับ แล้วคุณบอกว่าเธอเป็นผู้หญิงที่ชื่อนามิกก้างั้นเหรอ?"
     },
     {
-      "character": "Caregiving Resident",
+      "key": "whileicantsayforcertainifitwasheriwouldntworryimsureshesjustbeentakenuptothecloud",
       "text_en": "While I can't say for certain if it was her, I wouldn't worry. I'm sure she's just been taken up to the cloud.",
       "text": "ถึงผมจะบอกได้ไม่เต็มปากว่าใช่เธอหรือเปล่า แต่ก็ไม่ต้องห่วงหรอกครับ มั่นใจว่าเธอคงจะถูกพาตัวขึ้นไปบนระบบคลาวด์เรียบร้อยแล้วล่ะครับ"
     },
     {
-      "character": "Caregiving Resident",
+      "key": "itsnotcommonbutitdoeshappenfromtimetotime",
       "text_en": "It's not common, but it does happen from time to time.",
       "text": "ถึงจะไม่เกิดขึ้นบ่อยๆ แต่เรื่องแบบนี้ก็มีให้เห็นอยู่เรื่อยๆ แหละครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soitwasthesameforeveryone",
       "text_en": "So it was the same for everyone.",
       "text": "ทุกคนพูดจาแบบเดียวกันหมดเลยสินะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "notasinglepersonremembersnamikkaitsasifthememoryofherhasbeenpurgedfromtheirminds",
       "text_en": "Not a single person remembers Namikka. It's as if the memory of her has been purged from their minds.",
       "text": "ไม่มีใครจำนามิกก้าได้เลยสักคนเดียว ราวกับว่าความทรงจำเกี่ยวกับเธอถูกลบหายไปจากสมองของพวกเขาจนหมดเกลี้ยงแล้ว"
     },
     {
-      "character": "Krile",
+      "key": "whilesuchathingmightbedonewithmagictoalterthememoriesofsomanyatoncewouldbeatremendousundertakingwewouldhavefeltasurgeofaethercorrespondingtotheacttooandisensednoneinthatmoment",
       "text_en": "While such a thing might be done with magic, to alter the memories of so many at once would be a tremendous undertaking. We would have felt a surge of aether corresponding to the act, too, and I sensed none in that moment.",
       "text": "ถึงเรื่องแบบนี้อาจจะทำได้ด้วยเวทมนตร์ แต่การจะบิดเบือนความทรงจำของคนหมู่มากพร้อมกันขนาดนี้จำเป็นต้องใช้พลังมหาศาลมากเลยล่ะค่ะ และเราก็น่าจะจับสัมผัสกระแสพลังอีเธอร์ที่รุนแรงได้ในเวลานั้นด้วย แต่เมื่อกี้ฉันกลับไม่รู้สึกถึงความผิดปกติของอีเธอร์เลยสักนิด"
     },
     {
-      "character": "Alisaie",
+      "key": "neitherdidibutididnoticesomethingelserightbeforepepoaneseeminglyforgotalightinthedeviceonhisheadbegantoblink",
       "text_en": "Neither did I. But I did notice something else—right before Pepoane seemingly forgot, a light in the device on his head began to blink.",
       "text": "ฉันเองก็ไม่รู้สึกเหมือนกัน แต่ฉันสังเกตเห็นอะไรบางอย่าง... ก่อนที่เปโปอาเน่จะลืมเรื่องของเธอไป ไฟบนอุปกรณ์ที่สวมอยู่บนหัวของเขามันเริ่มกะพริบล่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "couldtherebeaconnectionsomeonealsosaidsomethingaboutsoulcells",
       "text_en": "Could there be a connection? Someone also said something about “soul cells.”",
       "text": "หรือว่ามันจะมีส่วนเกี่ยวข้องกันนะ? แล้วเมื่อกี้ก็มีคนพูดถึงเรื่อง “เซลล์ดวงวิญญาณ” อะไรนั่นด้วย..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "butwhomightweaskaboutthisifwecontinuedmakingsuchinquiriesiexpectwewouldonlycauseconfusion",
       "text_en": "But who might we ask about this? If we continued making such inquiries, I expect we would only cause confusion.",
       "text": "แต่เราจะไปถามเรื่องนี้กับใครดีล่ะครับ? ขืนตระเวนถามชาวบ้านสุ่มสี่สุ่มห้าต่อไปเรื่อยๆ มีหวังสร้างความตื่นตระหนกและสับสนให้พวกเขาแน่เลย"
     },
     {
-      "character": "Alisaie",
+      "key": "indeedifwecantreadilysolvethemysteryaboutnamikkaperhapswecouldsearchforcahciuainstead",
       "text_en": "Indeed... If we can't readily solve the mystery about Namikka, perhaps we could search for Cahciua instead?",
       "text": "นั่นสินะ... ในเมื่อตอนนี้เรายังหาคำตอบเรื่องนามิกก้าไม่ได้ งั้นเราเปลี่ยนเป้าหมายไปตามหาคาชิวากันก่อนดีกว่าไหม?"
     },
     {
-      "character": "Erenville",
+      "key": "sphenesaidtotrythethunderyards",
       "text_en": "Sphene said to try the Thunderyards.",
       "text": "สฟีนบอกให้ลองไปแถวทุ่งสายฟ้านี่เองแหละครับ"
     },
     {
-      "character": "Erenville",
+      "key": "itshouldbeinthisdirection",
       "text_en": "It should be in this direction.",
       "text": "น่าจะเป็นทางด้านนี้แหละ"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "gaspimpossible",
       "text_en": "<gasp> Impossible!",
       "text": "บะ...บ้าน่า!"
     },
     {
-      "character": "Erenville",
+      "key": "hm",
       "text_en": "Hm?",
       "text": "หืม?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "anotherkindofmechanicalsoldieritlooksdangerouswedbetterdestroyit",
       "text_en": "Another kind of mechanical soldier!? It looks dangerous! We'd better destroy it!",
       "text": "ทหารกลไกแบบใหม่งั้นเหรอ!? ดูท่าทางอันตรายชะมัด! รีบทำลายมันกันเถอะ!"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "uwaaah",
       "text_en": "Uwaaah!",
       "text": "อ๊ากกก!"
     },
     {
-      "character": "Krile",
+      "key": "shouldwegivechase",
       "text_en": "Should we give chase?",
       "text": "พวกเราตามไปดีไหมคะ?"
     },
     {
-      "character": "Alisaie",
+      "key": "ithinkitunderstoodourwordsitmightbeworthaskingitsomequestions",
       "text_en": "I think it understood our words. It might be worth asking it some questions.",
       "text": "ฉันรู้สึกเหมือนมันจะฟังภาษาของเราเข้าใจนะ ลองตามไปจับตัวมาถามคำถามดูเถอะ"
     },
     {
-      "character": "Alisaie",
+      "key": "erenvilleareyoualrightyoulooklikeyouveseenaghost",
       "text_en": "...Erenville? Are you alright? You look like you've seen a ghost.",
       "text": "...เอเรนวิลล์? นายเป็นอะไรหรือเปล่าน่ะ? หน้าตาซีดเซียวอย่างกับเห็นผีเลย"
     },
     {
-      "character": "Erenville",
+      "key": "iitsnothingimfine",
       "text_en": "I-It's nothing. I'm fine.",
       "text": "มะ... ไม่มีอะไรครับ ผมสบายดี"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellitwentoffinthedirectionwereheadedanywaysoletstrytotrackitdown",
       "text_en": "Well, it went off in the direction we're headed anyway, so let's try to track it down.",
       "text": "มันหนีไปทางทิศเดียวกับที่เรากำลังจะไปพอดีเลย งั้นตามรอยมันไปกันเถอะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nothingbutbirdsoverhere",
       "text_en": "Nothing but birds over here.",
       "text": "ฝั่งนี้มีแต่พวกนกแฮะ"
     },
     {
-      "character": "Alisaie",
+      "key": "itsfasterthanitlooks",
       "text_en": "It's faster than it looks.",
       "text": "มันเร็วกว่าที่เห็นภายนอกเยอะเลยนะ"
     },
     {
-      "character": "Krile",
+      "key": "nosignofitoverhere",
       "text_en": "No sign of it over here.",
       "text": "ฝั่งนี้ไม่มีวี่แววเลยค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "idonotseeit",
       "text_en": "I do not see it...",
       "text": "ผมไม่เห็นมันเลยแฮะ..."
     },
     {
-      "character": "Erenville",
+      "key": "thatvoicecoulditbe",
       "text_en": "That voice... Could it be...?",
       "text": "น้ำเสียงแบบนั้น... หรือว่าจะเป็น...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youfoundit",
       "text_en": "You found it!?",
       "text": "นายเจอมันแล้วเหรอ!?"
     },
     {
-      "character": "Erenville",
+      "key": "tothenortheastthenitmustbeboundforthemines",
       "text_en": "To the northeast? Then it must be bound for the mines.",
       "text": "ไปทางตะวันออกเฉียงเหนือเหรอ? ถ้าอย่างนั้นมันต้องมุ่งหน้าไปทางเหมืองแร่แน่ๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "comeonthen",
       "text_en": "Come on, then!",
       "text": "งั้นรีบตามไปกันเลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "itcouldwellbeatrapsoletsnotrushintooquickly",
       "text_en": "It could well be a trap, so let's not rush in too quickly.",
       "text": "มันอาจจะเป็นกับดักล่อเราเข้าไปก็ได้นะ อย่าเพิ่งบุ่มบ่ามวิ่งเข้าไปล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soitwentinhere",
       "text_en": "So it went in here?",
       "text": "ตกลงมันหนีเข้าไปข้างในนี้เหรอ?"
     },
     {
-      "character": "Alisaie",
+      "key": "ithinkitssafetoassumeitwentintothemines",
       "text_en": "I think it's safe to assume it went into the mines.",
       "text": "น่าจะฟันธงได้แล้วล่ะว่ามันมุ่งหน้าเข้าเหมืองไปแล้วจริงๆ"
     },
     {
-      "character": "Krile",
+      "key": "anoldcoalmineitappearstohavelongsincebeenabandonedlikesomanyotherplaces",
       "text_en": "An old coal mine? It appears to have long since been abandoned, like so many other places.",
       "text": "เหมืองถ่านหินเก่าเหรอคะ? ดูเหมือนว่าจะถูกทิ้งร้างมานานมากแล้วเหมือนกับสถานที่อื่นๆ เลยล่ะค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thestonesinthosecratescoulditbeturquoise",
       "text_en": "The stones in those crates... Could it be turquoise?",
       "text": "หินในลังไม้พวกนั้น... หรือว่าจะเป็นหินเทอร์ควอยส์นะครับ?"
     },
     {
-      "character": "Erenville",
+      "key": "iheardfaintvoicescomingfrominside",
       "text_en": "I heard faint voices coming from inside.",
       "text": "ผมได้ยินเสียงพูดคุยกันเบาๆ ดังมาจากข้างในครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soitsnotalonebutwerestillgoinginofcourse",
       "text_en": "So it's not alone. But we're still going in, of course?",
       "text": "แสดงว่าไม่ได้มีมันแค่ตัวเดียวสินะ แต่ยังไงเราก็ต้องบุกเข้าไปอยู่แล้วใช่ไหมล่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thismaybeatrapbereadyforafighteveryone",
       "text_en": "This may be a trap. Be ready for a fight, everyone!",
       "text": "นี่อาจจะเป็นกับดักก็ได้ เตรียมตัวต่อสู้ไว้ด้วยนะทุกคน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thistunneljustkeepsgoing",
       "text_en": "This tunnel just keeps going...",
       "text": "อุโมงค์นี้ลึกแถมยาวไม่สิ้นสุดเลยแฮะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "imnotworriedwevehadtoimprovisecountlesstimesbeforeafterall",
       "text_en": "I'm not worried. We've had to improvise countless times before, after all.",
       "text": "ฉันไม่คงห่วงเรื่องนั้นหรอก ที่ผ่านมาพวกเราก็ต้องคอยแก้ปัญหาเฉพาะหน้ากันมานับครั้งไม่ถ้วนอยู่แล้ว"
     },
     {
-      "character": "Krile",
+      "key": "adevicemadewithelectropeitseemstobetheonlyonehere",
       "text_en": "A device made with electrope. It seems to be the only one here.",
       "text": "เครื่องมือที่ทำมาจากเอเลกโทรปเหรอคะเนี่ย ดูเหมือนจะเป็นชิ้นเดียวที่ตั้งอยู่ตรงนี้เลยนะคะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itwouldappearnoonehasworkedthesetunnelsinquitesometime",
       "text_en": "It would appear no one has worked these tunnels in quite some time...",
       "text": "ดูท่าทางคงจะไม่มีใครเข้ามาทำงานในอุโมงค์เหมืองแร่เหล่านี้นานมากแล้วล่ะครับ..."
     },
     {
-      "character": "Erenville",
+      "key": "icanhearthemseveralpeopleupahead",
       "text_en": "I can hear them. Several people up ahead.",
       "text": "ผมได้ยินเสียงแล้วล่ะครับ มีคนอยู่ข้างหน้าหลายคนเลย"
     },
     {
-      "character": "Erenville",
+      "key": "hmmicantmakeouttheirconversationwiththeechoing",
       "text_en": "Hmm. I can't make out their conversation with the echoing.",
       "text": "อืม... เสียงมันก้องสะท้อนไปหมดจนจับใจความคำพูดไม่ได้เลยครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letskeepgoingstayonyourguard",
       "text_en": "Let's keep going. Stay on your guard.",
       "text": "เดินหน้าต่อเถอะ ระวังตัวด้วยนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "caughtoffguardgasp",
       "text_en": "[CAUGHT OFF GUARD, GASP]",
       "text": "[เสียงสะดุ้งตกใจ]"
     },
     {
-      "character": "Erenville",
+      "key": "whatisthis",
       "text_en": "What is this?",
       "text": "นี่มันอะไรกันเนี่ย?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "erenville",
       "text_en": "Erenville!",
       "text": "เอเรนวิลล์!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ughatrap",
       "text_en": "Ugh, a trap!?",
       "text": "อึก! กับดักงั้นเหรอ!?"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "eleneshpyaitreallyisyou",
       "text_en": "Elene'shpya? It really is you!",
       "text": "เอเลเน่ชเพียเหรอ? ใช่เธอจริงๆ ด้วย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "huh",
       "text_en": "...Huh?",
       "text": "...หา?"
     },
     {
-      "character": "Blue-haired Man",
+      "key": "who",
       "text_en": "...Who?",
       "text": "...ใครกันน่ะ?"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "ijusthadtogetalookatyouinthelightandicanstillhardlybelievemyeyesbutitisyoumydarlingeleneshpya",
       "text_en": "I just had to get a look at you in the light—and I can still hardly believe my eyes! But it is you, my darling Elene'shpya.",
       "text": "ฉันขอจ้องหน้าเธอในที่สว่างๆ ให้เต็มตาหน่อยสิ... โอ้ เหลือเชื่อจริงๆ! แต่ใช่เธอจริงๆ ด้วย เอเลเน่ชเพีย ลูกรักของแม่"
     },
     {
-      "character": "Krile",
+      "key": "mydarlingwhatnow",
       "text_en": "My darling what now?",
       "text": "ลูกรักอะไรนะคะนะ?"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "ohitssogoodtoseeyoumyfussylittlebunbunbutwhatareyoudoingherewhatbringsyouallthisway",
       "text_en": "Oh, it's so good to see you, my fussy little bunbun. But what are you doing here? What brings you all this way?",
       "text": "โอ๊ย ดีใจเหลือเกินค่ะที่ได้เจอเธอ เจ้ากระต่ายน้อยขี้บ่นของแม่ แต่มาทำอะไรที่นี่ล่ะจ๊ะ? ลมอะไรหอบมาไกลถึงขนาดนี้กันเนี่ย?"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "ahahaha",
       "text_en": "Ahahaha!",
       "text": "อ๊าฮะฮ่า!"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "whythelongfacearentyouhappytoseemeafterallthistime",
       "text_en": "Why the long face? Aren't you happy to see me after all this time?",
       "text": "ทำไมทำหน้าบอกบุญไม่รับแบบนั้นล่ะจ๊ะ? ไม่ดีใจเหรอที่ได้เจอแม่หลังจากไม่ได้พบกันตั้งนานน่ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "idknowthatlaughanywheremother",
       "text_en": "I'd know that laugh anywhere... Mother?",
       "text": "ผมจำเสียงหัวเราะนี้ได้ดีไม่มีวันลืม... แม่เหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "waitwaitwaitsincewhenwasyourmotheraweirdfloatingthing",
       "text_en": "Wait, wait, wait! Since when was your mother a weird...floating thing!?",
       "text": "เดี๋ยวนะๆๆ! ตั้งแต่เมื่อไหร่กันที่แม่ของนายกลายสภาพเป็นเครื่องจักรลอยได้หน้าตาพิลึกแบบนี้เนี่ย!?"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "andwhathaveweheresayarentyougulooljajaskitten",
       "text_en": "And what have we here? Say, aren't you Gulool Ja Ja's kitten?",
       "text": "แล้วนั่นใครกันเอ่ย? อ๊ะ... ใช่ลูกแมวน้อยของกูลูล จา จา หรือเปล่านะจ๊ะ?"
     },
     {
-      "character": "Unidentified Floating Object",
+      "key": "iknewirecognizedthatadorablefuzzyfaceeleneshpyawasalwayssoooexcitedwheneveryouinvitedhimovertoplayyouremembermeihope",
       "text_en": "I knew I recognized that adorable fuzzy face! Elene'shpya was always sooo excited whenever you invited him over to play. You remember me, I hope?",
       "text": "ฉันจำหน้ากลมๆ ฟูๆ แสนน่ารักนั่นได้แม่นเลยล่ะ! ตอนเด็กๆ เอเลเน่ชเพียตื่นเต้นสุดๆ ทุกครั้งที่เธอชวนเขาไปเล่นด้วยที่บ้านเลยนะ หวังว่าจะยังจำฉันได้อยู่นะจ๊ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icantsaythatidobutyouknewmyfather",
       "text_en": "I can't say that I do... But you knew my father?",
       "text": "สารภาพตามตรงว่าฉันจำไม่ได้เลยค่ะ... แต่ว่าคุณรู้จักท่านพ่อของฉันด้วยเหรอ?"
     },
     {
-      "character": "Erenville",
+      "key": "sigh",
       "text_en": "[SIGH]",
       "text": "[เสียงถอนหายใจยาว]"
     },
     {
-      "character": "Erenville",
+      "key": "appearancesnotwithstandingitwouldseemthisismymothercahciua",
       "text_en": "Appearances notwithstanding, it would seem this is my mother, Cahciua.",
       "text": "ถึงภาพลักษณ์ภายนอกจะดูไม่เหมือนคนก็เถอะ แต่ดูเหมือนว่านี่คือคุณแม่ของผม คาชิวา จริงๆ ครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "imsorry",
       "text_en": "I'm sorry...?",
       "text": "ขอโทษนะคะ... อะไรนะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "ohbutthiswontdocomeincomeinfriendsofmyeleneshpyaarealwayswelcome",
       "text_en": "Oh, but this won't do! Come in, come in! Friends of my Elene'shpya are always welcome...",
       "text": "โอ๊ะ ยืนคุยตรงนี้คงไม่ดีแน่ เข้ามาข้างในก่อนสิคะ เข้ามาเลย! เพื่อนๆ ของเอเลเน่ชเพียยินดีต้อนรับเสมอค่ะ..."
     },
     {
-      "character": "Blue-haired Man",
+      "key": "alliaskisalittleforewarningbutno",
       "text_en": "All I ask is a little forewarning, but no!",
       "text": "ผมขอแค่ให้เตือนกันล่วงหน้าสักนิดก็ไม่ได้เลยจริงๆ ให้ตายเถอะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sigh",
       "text_en": "[SIGH]",
       "text": "[เสียงถอนหายใจ]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "justwhenithoughtiwasstartingtogetahandleonthisplacehowarethingsstillgettingstranger",
       "text_en": "Just when I thought I was starting to get a handle on this place. How are things still getting stranger?",
       "text": "ทั้งที่ฉันนึกว่าเริ่มจะทำความเข้าใจสถานการณ์ของที่นี่ได้บ้างแล้วเชียว ทำไมมันถึงได้มีเรื่องประหลาดๆ โผล่มาไม่หยุดหย่อนเลยเนี่ย?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icantsayiunderstandwhatsgoingonbutatleastcahciuaissafe",
       "text_en": "I can't say I understand what's going on, but at least Cahciua is safe.",
       "text": "ฉันก็บอกไม่ได้หรอกนะว่าเข้าใจเรื่องทั้งหมดดี แต่เอาเป็นว่าอย่างน้อยคุณคาชิวาก็ปลอดภัยดีล่ะนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "erenvillesmotherisafloatingmachinerightthatmakesaboutasmuchsenseaseverythingelsethusfar",
       "text_en": "Erenville's mother is a floating machine. Right—that makes about as much sense as everything else thus far.",
       "text": "แม่ของเอเรนวิลล์เป็นเครื่องจักรลอยได้... โอเค เรื่องนี้ดูสมเหตุสมผลพอๆ กับเรื่องประหลาดทั้งหมดที่เราเจอมาจนถึงตอนนี้เลยล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "atthispointidoubtanythingcouldpossiblysurpriseme",
       "text_en": "At this point, I doubt anything could possibly surprise me.",
       "text": "มาถึงขั้นนี้แล้ว ฉันคิดว่าคงไม่มีเรื่องอะไรทำให้ฉันประหลาดใจได้อีกแล้วล่ะค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "theallaganshadmachinesthatcouldbecontrolledremotelyissheusingsomethingsimilartocommunicatewithus",
       "text_en": "The Allagans had machines that could be controlled remotely. Is she using something similar to communicate with us?",
       "text": "พวกออลาแกนเคยสร้างเครื่องจักรที่ควบคุมระยะไกลได้อยู่ครับ เธออาจจะกำลังใช้อุปกรณ์คล้ายๆ กันนี้ในการสื่อสารกับพวกเราอยู่ก็ได้นะครับ"
     },
     {
-      "character": "Geode",
+      "key": "alwaystoomuchexcitementwithhersorryfordrawingourweaponsonyou",
       "text_en": "Always too much excitement with her... Sorry for drawing our weapons on you.",
       "text": "อยู่กับเธอทีไรมีเรื่องให้ตื่นเต้นหวาดเสียวตลอดเลย... ต้องขอโทษด้วยนะครับที่พวกเราชักอาวุธใส่พวกคุณเมื่อกี้"
     },
     {
-      "character": "Nostalgia",
+      "key": "ifitsanyconsolationthisisallratherconfusingtousaswell",
       "text_en": "If it's any consolation, this is all rather confusing to us as well.",
       "text": "ถ้ามันพอจะช่วยให้รู้สึกดีขึ้นได้บ้างล่ะก็ บอกเลยว่าพวกเราเองก็สับสนปวดหัวกับเรื่องทั้งหมดนี้ไม่แพ้กันหรอกครับ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "ohuhhello",
       "text_en": "Oh, uh...hello.",
       "text": "เอ่อ... สวัสดีค่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "comecomemakeyourselvescomfortable",
       "text_en": "Come, come, make yourselves comfortable!",
       "text": "เชิญเลยค่ะ เชิญตามสบายกันเลยนะคะ!"
     },
     {
-      "character": "Erenville",
+      "key": "asfarasicantellthisisindeedmymothericanthinkoffewpeopleintheworldquitesospirited",
       "text_en": "As far as I can tell, this is indeed my mother. I can think of few people in the world quite so spirited...",
       "text": "เท่าที่ดูแล้ว เจ้านี่คือคุณแม่ของผมไม่ผิดแน่ครับ ผมนึกภาพคนอื่นในโลกที่มีพลังงานเหลือล้นและมีชีวิตชีวาขนาดนี้ไม่ออกแล้วล่ะ..."
     },
     {
-      "character": "Erenville",
+      "key": "butastowhatshappenedwellneedtoaskher",
       "text_en": "But as to what's happened, we'll need to ask her...",
       "text": "แต่เรื่องที่ว่ามันเกิดอะไรขึ้นกับเธอนั้น คงต้องรอฟังคำอธิบายจากปากของเธอเองแล้วล่ะครับ..."
     }

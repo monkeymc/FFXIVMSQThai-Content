@@ -1,741 +1,733 @@
 {
-  "id": "gone-and-forgotten",
-  "wiki_path": "/wiki/Gone_and_Forgotten",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "Gone and Forgotten",
-  "title": "เลือนหายและถูกลืม",
-  "level": "97",
-  "location": "Earthen Sky Hideout(X:6.0,Y:6.2)",
-  "npc_start": "Erenville",
+  "quest_id": "gone-and-forgotten",
   "dialogues": [
     {
-      "character": "Wuk Lamat",
+      "key": "icantsayiunderstandwhatsgoingonbutatleastcahciuaissafe",
       "text_en": "I can't say I understand what's going on, but at least Cahciua is safe.",
       "text": "ฉันก็บอกไม่ได้หรอกนะว่าเข้าใจเรื่องทั้งหมดดี แต่เอาเป็นว่าอย่างน้อยคุณคาชิวาก็ปลอดภัยดีล่ะนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "erenvillesmotherisafloatingmachinerightthatmakesaboutasmuchsenseaseverythingelsethusfar",
       "text_en": "Erenville's mother is a floating machine. Right—that makes about as much sense as everything else thus far.",
       "text": "แม่ของเอเรนวิลล์เป็นเครื่องจักรลอยได้... โอเค เรื่องนี้ดูสมเหตุสมผลพอๆ กับเรื่องประหลาดทั้งหมดที่เราเจอมาจนถึงตอนนี้เลยล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "atthispointidoubtanythingcouldpossiblysurpriseme",
       "text_en": "At this point, I doubt anything could possibly surprise me.",
       "text": "มาถึงขั้นนี้แล้ว ฉันคิดว่าคงไม่มีเรื่องอะไรทำให้ฉันประหลาดใจได้อีกแล้วล่ะค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "theallaganshadmachinesthatcouldbecontrolledremotelyissheusingsomethingsimilartocommunicatewithus",
       "text_en": "The Allagans had machines that could be controlled remotely. Is she using something similar to communicate with us?",
       "text": "พวกออลาแกนเคยสร้างเครื่องจักรที่ควบคุมระยะไกลได้อยู่ครับ เธออาจจะกำลังใช้อุปกรณ์คล้ายๆ กันนี้ในการสื่อสารกับพวกเราอยู่ก็ได้นะครับ"
     },
     {
-      "character": "Geode",
+      "key": "alwaystoomuchexcitementwithhersorryfordrawingourweaponsonyou",
       "text_en": "Always too much excitement with her... Sorry for drawing our weapons on you.",
       "text": "อยู่กับเธอทีไรมีเรื่องให้ตื่นเต้นหวาดเสียวตลอดเลย... ต้องขอโทษด้วยนะครับที่พวกเราชักอาวุธใส่พวกคุณเมื่อกี้"
     },
     {
-      "character": "Nostalgia",
+      "key": "ifitsanyconsolationthisisallratherconfusingtousaswell",
       "text_en": "If it's any consolation, this is all rather confusing to us as well.",
       "text": "ถ้ามันพอจะช่วยให้รู้สึกดีขึ้นได้บ้างล่ะก็ บอกเลยว่าพวกเราเองก็สับสนปวดหัวกับเรื่องทั้งหมดนี้ไม่แพ้กันหรอกครับ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "ohuhhello",
       "text_en": "Oh, uh...hello.",
       "text": "เอ่อ... สวัสดีค่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "comecomemakeyourselvescomfortable",
       "text_en": "Come, come, make yourselves comfortable!",
       "text": "เชิญเลยค่ะ เชิญตามสบายกันเลยนะคะ!"
     },
     {
-      "character": "Erenville",
+      "key": "sighletshearwhatshehastosay",
       "text_en": "<sigh> Let's hear what she has to say.",
       "text": "<ถอนหายใจ> ลองฟังดูซิว่าเธอมีอะไรจะพูดบ้าง"
     },
     {
-      "character": "Cahciua",
+      "key": "itssowonderfultomeetyouall",
       "text_en": "It's so wonderful to meet you all.",
       "text": "ดีใจเหลือเกินค่ะที่ได้พบกับทุกคน"
     },
     {
-      "character": "Cahciua",
+      "key": "andthestudentsofbaldesionitsbeenawhilesinceiheardthatname",
       "text_en": "And the Students of Baldesion... It's been a while since I heard that name.",
       "text": "แล้วก็คณะศิษย์แห่งบัลเดสิออนด้วย... ไม่ได้ยินชื่อนี้มานานมากแล้วนะคะเนี่ย"
     },
     {
-      "character": "Erenville",
+      "key": "dareiaskthereasonforyourappearance",
       "text_en": "Dare I ask the reason for your appearance?",
       "text": "ผมขอถามเหตุผลที่คุณแม่มาปรากฏตัวในสภาพนี้หน่อยได้ไหมครับ?"
     },
     {
-      "character": "Cahciua",
+      "key": "ohthisitsjustabodythaticontrolremotelyiusethisforouroperations",
       "text_en": "Oh, this? It's just a body that I control remotely. I use this for our operations.",
       "text": "อ๋อ เจ้านี่เหรอจ๊ะ? มันเป็นแค่ร่างจำลองที่แม่ควบคุมระยะไกลน่ะจ๊ะ แม่เอาไว้ใช้สำหรับปฏิบัติงานการเคลื่อนไหวของกลุ่มพวกเรา"
     },
     {
-      "character": "Cahciua",
+      "key": "weremembersofaresistanceorganizationoblivionwecallourselvesandourgoalistothwartzoraaljasambitionsforconquest",
       "text_en": "We're members of a resistance organization—Oblivion, we call ourselves, and our goal is to thwart Zoraal Ja's ambitions for conquest.",
       "text": "พวกเราเป็นสมาชิกของกลุ่มต่อต้านที่มีชื่อว่า อ็อบลิเวียน (Oblivion) น่ะจ๊ะ และเป้าหมายหลักของพวกเราคือการสกัดกั้นขัดขวางปณิธานความทะเยอทะยานในการยึดครองแผ่นดินของโซราล จา"
     },
     {
-      "character": "Cahciua",
+      "key": "astheleaderitsprudentthatiremainwhereicantbeeasilyfound",
       "text_en": "As the leader, it's prudent that I remain where I can't be easily found.",
       "text": "และในฐานะผู้นำกลุ่ม มันจึงเป็นการฉลาดกว่าที่แม่จะซ่อนตัวอยู่ในจุดที่ไม่มีใครตามหาตัวเจอได้ง่ายๆ ยังไงล่ะจ๊ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "iseewhimsicalappearancesnotwithstandingyoursisaseriouscause",
       "text_en": "I see. Whimsical appearances notwithstanding, yours is a serious cause.",
       "text": "เข้าใจแล้วล่ะ ถึงรูปร่างภายนอกจะดูตลกพิลึกไปหน่อย แต่เป้าหมายและอุดมการณ์ของพวกคุณนับว่าจริงจังน่าเลื่อมใสมากเลยนะคะ"
     },
     {
-      "character": "Cahciua",
+      "key": "rightyouarethoughtruthbetoldoblivionwasfoundedforanaltogetherdifferentpurpose",
       "text_en": "Right you are. Though truth be told, Oblivion was founded for an altogether different purpose.",
       "text": "ใช่แล้วจ๊ะ แต่อันที่จริงแล้ว กลุ่มอ็อบลิเวียนถูกก่อตั้งขึ้นมาตอนแรกด้วยจุดประสงค์ที่ต่างออกไปโดยสิ้นเชิงเลยล่ะนะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "andthatis",
       "text_en": "And that is?",
       "text": "จุดประสงค์อะไรเหรอครับ?"
     },
     {
-      "character": "Cahciua",
+      "key": "asiexpectyouvealreadynoticedeverythingyouseewithinthisdomethebuildingsthepeopletheveryearthbeneathourfeetisafusionoftwoworlds",
       "text_en": "As I expect you've already noticed, everything you see within this dome—the buildings, the people, the very earth beneath our feet—is a fusion of two worlds.",
       "text": "อย่างที่แม่คิดว่าพวกเธอน่าจะสังเกตเห็นกันแล้วล่ะว่า ทุกสิ่งทุกอย่างที่เห็นภายในโดมแห่งนี้... ทั้งสิ่งปลูกสร้าง ผู้คน หรือแม้แต่ผืนแผ่นดินใต้ฝ่าเท้าเรา มันคือการหลอมรวมกันของสองโลก"
     },
     {
-      "character": "Cahciua",
+      "key": "stoppingsuchafusionwasoblivionsoriginalmission",
       "text_en": "Stopping such a fusion was Oblivion's original mission.",
       "text": "และเป้าหมายดั้งเดิมของกลุ่มอ็อบลิเวียนก็คือการหยุดยั้งกระบวนการหลอมรวมมิตินี้แหละจ๊ะ"
     },
     {
-      "character": "Krile",
+      "key": "thendoesthatmeanyouknowwhoorwhatisresponsibleforit",
       "text_en": "Then does that mean you know who or what is responsible for it?",
       "text": "ถ้าอย่างนั้น แปลว่าคุณรู้ตัวคนบงการหรือสาเหตุเบื้องหลังเรื่องนี้งั้นเหรอคะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "imafraidnotthiswasalongtimeagoandourmissionstatementhasbecomemoreofalegendthatspasseddowntomembersbythetimewejoinedoursoleobjectivewasstoppingzoraalja",
       "text_en": "I'm afraid not. This was a long time ago, and our mission statement has become more of a legend that's passed down to members. By the time we joined, our sole objective was stopping Zoraal Ja.",
       "text": "เกรงว่าจะไม่รู้หรอกจ๊ะ เรื่องนั้นมันเกิดมานานมากแล้ว และเป้าหมายแรกเริ่มของกลุ่มก็กลายสภาพเป็นกึ่งๆ ตำนานที่เล่าขานต่อกันมาในหมู่สมาชิกไปเสียแล้วล่ะ พอถึงยุคที่พวกแม่เข้าร่วมกลุ่ม เป้าหมายเดียวที่เหลืออยู่ก็คือการหยุดยั้งโซราล จา เท่านั้นจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "butwefailedtodothatandnowhestakenhisarmyoutsidethedome",
       "text_en": "But we failed to do that. And now he's taken his army outside the dome...",
       "text": "แต่พวกเราดันทำพลาด และตอนนี้เขาก็ยกกองทัพเครื่องจักรออกไปนอกบาเรียเรียบร้อยแล้ว..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "noneofyouwearthosestrangedevicesonyourheadsdoesthathavesomethingtodowithyourwork",
       "text_en": "None of you wear those strange devices on your heads. Does that have something to do with your work?",
       "text": "พวกเธอทุกคนที่นี่ไม่มีใครสวมอุปกรณ์ประหลาดๆ บนหัวเลยสักคนเดียว เรื่องนี้เกี่ยวข้องกับงานที่ทำอยู่หรือเปล่า?"
     },
     {
-      "character": "Cahciua",
+      "key": "youmeanthis",
       "text_en": "You mean this?",
       "text": "หมายถึงเจ้านี่น่ะเหรอจ๊ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "itsaregulatorthepinnacleofelectropetechnologyandthatwedontwearitisindeedrelatedtoouroperations",
       "text_en": "It's a regulator, the pinnacle of electrope technology. And that we don't wear it is indeed related to our operations.",
       "text": "มันคือเรกูเลเตอร์ (regulator) สุดยอดเทคโนโลยีแห่งแร่เอเลกโทรปน่ะจ๊ะ และการที่พวกเราไม่สวมมันก็เกี่ยวพันกับภารกิจของพวกเราโดยตรงเลยล่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whatexactlydoesitdo",
       "text_en": "What exactly does it do?",
       "text": "มันทำหน้าที่อะไรกันแน่ครับ?"
     },
     {
-      "character": "Geode",
+      "key": "allowmetoexplain",
       "text_en": "Allow me to explain.",
       "text": "ผมขอเป็นฝ่ายอธิบายเองครับ"
     },
     {
-      "character": "Geode",
+      "key": "regulatorshavetwoprimaryfunctions",
       "text_en": "Regulators have two primary functions.",
       "text": "เรกูเลเตอร์มีหน้าที่หลักสองประการครับ"
     },
     {
-      "character": "Geode",
+      "key": "thefirstasthenamesuggestsistheregulationofthewearersreserveofsoulsshouldtheydietheregulatorexpendsasoultobringthembacktolife",
       "text_en": "The first, as the name suggests, is the regulation of the wearer's reserve of souls. Should they die, the regulator expends a soul to bring them back to life.",
       "text": "ประการแรก อย่างที่ชื่อของมันระบุเลยครับ คือใช้คอยควบคุมและจัดการดวงวิญญาณสำรองของผู้สวมใส่ หากผู้สวมใส่เสียชีวิต เรกูเลเตอร์จะจ่ายพลังงานของดวงวิญญาณสะสมหนึ่งดวงเพื่อชุบชีวิตพวกเขากลับคืนมาครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "reserveyoumeanpeoplewalkaroundcarryingsparesouls",
       "text_en": "“Reserve”? You mean people walk around carrying spare souls!?",
       "text": "“สำรอง” งั้นเหรอ? หมายความว่าผู้คนเดินไปเดินมาโดยพกดวงวิญญาณอะไหล่ติดตัวไปด้วยเนี่ยนะ!?"
     },
     {
-      "character": "Geode",
+      "key": "theydosoulsarepackagedincellsandtheycanbeusedtoreplenishthelifeforcethatislostduetosuddendeathsuchasinaccidentstheydonothingforthosewhodieofoldagethough",
       "text_en": "They do. Souls are packaged in cells, and they can be used to replenish the life force that is lost due to sudden death, such as in accidents. They do nothing for those who die of old age, though.",
       "text": "ใช่ครับ ดวงวิญญาณจะถูกบรรจุลงในรูปแบบเซลล์ และสามารถนำมาใช้ฟื้นคืนพลังชีวิตที่สูญเสียไปจากการเสียชีวิตกะทันหัน เช่น จากอุบัติเหตุต่างๆ แต่เจ้านี้ช่วยอะไรไม่ได้เลยนะครับกับคนที่หมดอายุขัยตายไปตามธรรมชาติน่ะ"
     },
     {
-      "character": "Geode",
+      "key": "distributionofsoulcellsisbasedononesworkevaluationtoencourageexemplaryperformancewhenfulfillingtheirduties",
       "text_en": "Distribution of soul cells is based on one's work evaluation. To encourage “exemplary performance” when fulfilling their duties.",
       "text": "การแจกจ่ายเซลล์ดวงวิญญาณนี้จะพิจารณาประเมินผลจากผลงานการปฏิบัติหน้าที่การงานครับ เพื่อกระตุ้นให้เกิด “ผลงานอันดีเยี่ยม” ในการรับผิดชอบหน้าที่ของตนเอง"
     },
     {
-      "character": "Alisaie",
+      "key": "soulsasacommonresourceandpaymentforservicesrendered",
       "text_en": "Souls as a common resource...and payment for services rendered...",
       "text": "ใช้ดวงวิญญาณเป็นทรัพยากรส่วนกลาง... แถมยังใช้จ่ายเป็นค่าตอบแทนสำหรับผลงานการทำงานเนี่ยนะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "thevoidsentpracticeofconsumingothersfortheiraethercomestomindandsimilarlyiexpectthattheactcomeswithsomerisk",
       "text_en": "The voidsent practice of consuming others for their aether comes to mind. And similarly, I expect that the act comes with some risk.",
       "text": "ชวนให้นึกถึงวิถีปฏิบัติของพวกอสูรกายแห่งความมืด (voidsent) ที่กัดกินผู้อื่นเพื่อชิงกระแสอีเธอร์มาเลยครับ และในทำนองเดียวกัน ผมคาดว่ากรรมวิธีแบบนี้ก็น่าจะมีผลข้างเคียงที่เป็นอันตรายเหมือนกันใช่ไหมครับ"
     },
     {
-      "character": "Geode",
+      "key": "thatispreventedthroughmemorymanagementaprocessinwhichregulatorsalsoplayarole",
       "text_en": "That is prevented through memory management, a process in which regulators also play a role.",
       "text": "เรื่องนั้นป้องกันได้ด้วยระบบจัดการความทรงจำครับ ซึ่งเป็นขั้นตอนที่เรกูเลเตอร์มีบทบาทสำคัญในการควบคุมดูแลด้วยเช่นกัน"
     },
     {
-      "character": "Krile",
+      "key": "memorymanagementthenthereasoneveryonehasforgottennamikkasexistence",
       "text_en": "Memory management? Then the reason everyone has forgotten Namikka's existence...",
       "text": "ระบบจัดการความทรงจำเหรอคะ? ถ้างั้น สาเหตุที่ทุกคนลืมการมีตัวตนอยู่ของนามิกก้า..."
     },
     {
-      "character": "Geode",
+      "key": "theregulatorsareconstantlyrecordingthememoriesoftheirwearersoiftheyshouldsuddenlydietheirmemoriescanberefreshedaspartoftherestorationprocess",
       "text_en": "The regulators are constantly recording the memories of their wearer, so if they should suddenly die, their memories can be refreshed as part of the restoration process.",
       "text": "เรกูเลเตอร์จะคอยบันทึกความทรงจำของผู้สวมใส่อยู่ตลอดเวลาครับ เพื่อที่ว่าหากพวกเขาเสียชีวิตกะทันหัน ความทรงจำเหล่านั้นจะได้ถูกกู้คืนและนำมาลงทะเบียนใหม่เพื่อเป็นส่วนหนึ่งของกระบวนการฟื้นคืนชีพ"
     },
     {
-      "character": "Geode",
+      "key": "thisishowtheypreserveonesidentityandsenseofselfhowevertheregulatorsarealsotriggeredwhensomeoneelsedies",
       "text_en": "This is how they preserve one's identity and sense of self. However, the regulators are also triggered when someone else dies.",
       "text": "นี่คือวิธีการรักษาตัวตนและความรู้สึกนึกคิดดั้งเดิมเอาไว้ครับ ทว่า... ระบบของเรกูเลเตอร์จะถูกเปิดใช้งานเมื่อมีบุคคลอื่นเสียชีวิตด้วยเช่นกัน"
     },
     {
-      "character": "Geode",
+      "key": "reasonbeingisthatregulatorsforciblyextractmemoriesrelatingtothedeceasedfromanyonewearingone",
       "text_en": "Reason being is that regulators forcibly extract memories relating to the deceased from anyone wearing one.",
       "text": "เหตุผลก็คือ เรกูเลเตอร์จะทำการดึงเอาความทรงจำที่มีความเกี่ยวข้องกับผู้เสียชีวิตออกจากหัวสมองของทุกคนที่สวมใส่อุปกรณ์นี้โดยอัตโนมัติและบังคับครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "whywouldtheydosuchathing",
       "text_en": "Why would they do such a thing?",
       "text": "ทำไมต้องทำเรื่องป่าเถื่อนพรรค์นั้นด้วยล่ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "itsakindnessbestoweduponthepeoplebyeverkeepscoresystemsothatnoonehastosufferthepainofloss",
       "text_en": "It's a “kindness” bestowed upon the people by Everkeep's core system, so that no one has to suffer the pain of loss.",
       "text": "มันคือ “ความเมตตา” ที่ระบบส่วนกลางของเอเวอร์คีปมอบให้แก่ประชาชนน่ะจ๊ะ เพื่อไม่ให้มีใครต้องทนทุกข์ทรมานกับความโศกเศร้าจากการสูญเสียบุคคลอันเป็นที่รัก"
     },
     {
-      "character": "Krile",
+      "key": "sothisiswhatismeantbytheirmemoriesbeinginthecloud",
       "text_en": "So this is what is meant by their memories being in the cloud.",
       "text": "อย่างนี้เองสินะคะ ที่ว่าความทรงจำของพวกเขาขึ้นไปอยู่บนระบบคลาวด์น่ะ"
     },
     {
-      "character": "Geode",
+      "key": "indeedallmemoriesofthedeceasedarewipedfromthemindsofthepeopleandarchivedinthesystem",
       "text_en": "Indeed. All memories of the deceased are wiped from the minds of the people and archived in the system.",
       "text": "ใช่ครับ ความทรงจำทั้งหมดเกี่ยวกับผู้ล่วงลับจะถูกลบออกจากใจของผู้คนและถูกจัดเก็บไฟล์สำรองเอาไว้ในระบบ"
     },
     {
-      "character": "Geode",
+      "key": "itsafrighteningfunctionoftheregulatorsandanintegralstepinsoulcellproduction",
       "text_en": "It's a frightening function of the regulators—and an integral step in soul cell production.",
       "text": "มันเป็นฟังก์ชันที่น่ากลัวของเรกูเลเตอร์... และเป็นขั้นตอนสำคัญในการผลิตเซลล์ดวงวิญญาณด้วยครับ"
     },
     {
-      "character": "Geode",
+      "key": "youseewhenapersondiesofnaturalcausestheirsoulistemporarilyhousedwithintheregulator",
       "text_en": "You see, when a person dies of natural causes, their soul is temporarily housed within the regulator.",
       "text": "คืออย่างงี้ครับ เมื่อมีคนเสียชีวิตตามธรรมชาติ ดวงวิญญาณของพวกเขาจะถูกเก็บกักไว้ชั่วคราวในเรกูเลเตอร์"
     },
     {
-      "character": "Geode",
+      "key": "itsthendeliveredtoafacilitywherememoriesareseparatedfromthesoul",
       "text_en": "It's then delivered to a facility where memories are separated from the soul.",
       "text": "จากนั้นดวงวิญญาณจะถูกส่งไปยังโรงงานคัดแยกเพื่อทำหน้าที่แยกเอาความทรงจำออกจากดวงวิญญาณ"
     },
     {
-      "character": "Geode",
+      "key": "theresultisafreshsoulcellfreeofimpuritiesreadyfordistributionandconsumption",
       "text_en": "The result is a fresh soul cell, free of impurities, ready for distribution and consumption.",
       "text": "ผลลัพธ์ที่ได้ก็คือเซลล์ดวงวิญญาณที่บริสุทธิ์ ไร้ซึ่งสิ่งเจือปน พร้อมสำหรับการนำไปแจกจ่ายและใช้งานฟื้นพลังต่อไปครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "meanwhilethememoriesarestoredinthecoresystemtoberememberedforever",
       "text_en": "Meanwhile, the memories are stored in the core system. To be “remembered” forever.",
       "text": "ในขณะเดียวกัน ความทรงจำที่ถูกคัดแยกออกไปก็จะถูกเก็บรักษาไว้ในระบบหลัก เพื่อที่จะได้ถูก “จดจำ” ตลอดไปจ๊ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "andthisiswhypeoplearehappyhereonitssurfaceitssimilartotheyokhuyphilosophybutiseenothingnobleorcomfortinginit",
       "text_en": "And this is why people are happy here? On its surface, it's similar to the Yok Huy philosophy, but I see nothing noble or comforting in it...",
       "text": "และนี่คือสาเหตุที่ผู้คนที่นี่มีความสุขงั้นเหรอ? มองเผินๆ มันอาจจะคล้ายคลึงกับหลักปรัชญาของพวกยอคฮุยอยู่หรอกนะ แต่ฉันไม่เห็นความน่ายกย่องหรือความสุขใจจากระบบนี้เลยสักนิด..."
     },
     {
-      "character": "Geode",
+      "key": "wellitdoesntseemsoterribletomepersonallyallcomesdowntowhatyoureusedtoisuppose",
       "text_en": "Well, it doesn't seem so terrible to me personally. All comes down to what you're used to, I suppose.",
       "text": "ก็นะ... สำหรับตัวผมเองส่วนตัวแล้วคิดว่ามันไม่ได้แย่อะไรขนาดนั้นหรอกครับ เรื่องพวกนี้มันขึ้นอยู่กับว่าคุณคุ้นชินกับระบบแบบไหนมากกว่าน่ะครับ"
     },
     {
-      "character": "Geode",
+      "key": "likethebarrierencasingalexandriathissystemwascreatedtoovercomethecalamitythattransformedtheworldhundredsofyearsago",
       "text_en": "Like the barrier encasing Alexandria, this system was created to overcome the calamity that transformed the world hundreds of years ago.",
       "text": "ระบบนี้ถูกสร้างขึ้นมาเพื่อรับมือกับมหันตภัยที่เปลี่ยนแปลงโลกเมื่อหลายร้อยปีก่อน เช่นเดียวกับโดมบาเรียที่ห่อหุ้มอเล็กซานเดรียแห่งนี้แหละครับ"
     },
     {
-      "character": "Geode",
+      "key": "amidstthemountingdeathtollscientistsusedelectropetodeviseameanstosavewhatlivestheycouldsothatthenationcouldendure",
       "text_en": "Amidst the mounting death toll, scientists used electrope to devise a means to save what lives they could so that the nation could endure.",
       "text": "ท่ามกลางยอดผู้เสียชีวิตที่พุ่งสูงขึ้นอย่างต่อเนื่อง นักวิทยาศาสตร์ในยุคโบราณได้นำแร่เอเลกโทรปมาประดิษฐ์คิดค้นวิธียื้อชีวิตผู้คนเท่าที่จะทำได้ เพื่อช่วยให้ประเทศชาติอยู่รอดสืบต่อไปครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iunderstandthepeopleofalexandriadidwhattheybelievedwasbesttosavetheirpeopleijustfindithardtobelievetheturaliwouldalsoacceptthiswayofliving",
       "text_en": "I understand the people of Alexandria did what they believed was best to save their people. I just find it hard to believe the Turali would also accept this way of living.",
       "text": "ฉันเข้าใจนะว่าชาวอเล็กซานเดรียทำในสิ่งที่พวกเขาเชื่อว่าดีที่สุดเพื่อรักษาชีวิตคนเอาไว้ แต่ฉันทำใจเชื่อได้ยากจริงๆ ว่าชาวทูรัลเองก็จะยอมรับและยินดีกับวิถีชีวิตแบบนี้ด้วย"
     },
     {
-      "character": "Cahciua",
+      "key": "itcameasashocktousaswellinfactagreatmanywereopposedtoit",
       "text_en": "It came as a shock to us as well. In fact, a great many were opposed to it.",
       "text": "เรื่องนี้ทำให้พวกเราตกใจปนประหลาดใจเหมือนกันจ๊ะ ความจริงแล้ว มีคนจำนวนมากที่คัดค้านระบบนี้"
     },
     {
-      "character": "Cahciua",
+      "key": "whichiswhytheuseofregulatorswasnevercompulsorythepeoplehavealwaysbeenfreetogowithoutthemiftheysowish",
       "text_en": "Which is why the use of regulators was never compulsory. The people have always been free to go without them if they so wish.",
       "text": "นั่นเป็นสาเหตุที่การสวมเรกูเลเตอร์ไม่เคยเป็นข้อบังคับเด็ดขาดจ๊ะ ประชาชนมีอิสระเสมอที่จะไม่สวมใส่มันหากพวกเขาต้องการแบบนั้น"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sphenedidntstrikemeasthesortofrulertoimposeherwillonothers",
       "text_en": "Sphene didn't strike me as the sort of ruler to impose her will on others.",
       "text": "สฟีนดูไม่ใช่ผู้ปกครองประเภทที่จะชอบบังคับขู่เข็ญหรือยัดเยียดความต้องการของตนให้คนอื่นอยู่แล้วล่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "ahsoyouvealreadymet",
       "text_en": "Ah, so you've already met?",
       "text": "อ๊ะ... แสดงว่าพวกเธอเจอกับองค์ราชินีแล้วงั้นเหรอจ๊ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "shestheonewhosuggestedwecometothethunderyardsinthefirstplaceshealsosaidshewantstohelpusstopzoraalja",
       "text_en": "She's the one who suggested we come to the Thunderyards in the first place. She also said she wants to help us stop Zoraal Ja.",
       "text": "เธอเป็นคนแนะนำให้พวกเราลองมาตามหาที่ทุ่งสายฟ้านี่เองแหละครับ แถมยังบอกอีกว่าอยากจะช่วยพวกเราสกัดกั้นโซราล จา ด้วย"
     },
     {
-      "character": "Cahciua",
+      "key": "awfullykindofhertopointyouinmydirectionandtospeaksocandidlyaswell",
       "text_en": "Awfully kind of her to point you in my direction. And to speak so candidly as well...",
       "text": "ใจดีชะมัดเลยนะจ๊ะที่ชี้ทางสว่างให้พวกเธอมาหาแม่แบบนี้ แถมยังคุยเปิดอกอย่างตรงไปตรงมาขนาดนี้ด้วย..."
     },
     {
-      "character": "Cahciua",
+      "key": "whateverhermotivesshehasgiventhepeopleachoicelivewiththeriskoftruedeathorthesecurityoftheregulators",
       "text_en": "Whatever her motives, she has given the people a choice: live with the risk of true death, or the security of the regulators.",
       "text": "ไม่ว่าแรงจูงใจของเธอจะเป็นอย่างไร แต่อย่างน้อยเธอนั้นก็มอบทางเลือกให้แก่ประชาชนจ๊ะ: ระหว่างยอมรับความเสี่ยงที่จะเผชิญความตายที่แท้จริง หรือมีชีวิตที่ปลอดภัยมั่นคงโดยพึ่งพาระบบเรกูเลเตอร์"
     },
     {
-      "character": "Erenville",
+      "key": "everythingthatlivesmustsomedaydiethatisthenaturalorderofthings",
       "text_en": "Everything that lives must someday die. That is the natural order of things.",
       "text": "ทุกสิ่งทุกอย่างที่มีชีวิต วันหนึ่งก็ต้องตายจากไปตามเวลา นั่นคือครรลองตามธรรมชาติที่ควรจะเป็นครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "quiterightbuthoweveryoufeelaboutthemitwouldbeeasiertounderstandwhattheregulatorsarecapableofifyousawitforyourself",
       "text_en": "Quite right... But however you feel about them, it would be easier to understand what the regulators are capable of if you saw it for yourself.",
       "text": "ถูกต้องที่สุดจ๊ะ... แต่ไม่ว่าพวกเธอจะรู้สึกกับระบบนี้ยังไง การได้ไปเห็นกับตาตัวเองน่าจะช่วยให้เข้าใจศักยภาพและความสามารถของเรกูเลเตอร์ได้ง่ายที่สุดนะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "iknowjustthepersontoshowyouandasluckwouldhaveittheyshouldbestartingworkrightaboutnow",
       "text_en": "I know just the person to show you, and as luck would have it, they should be starting work right about now.",
       "text": "แม่รู้จักคนคนหนึ่งที่จะช่วยสาธิตให้ดูได้ และโชคดีเหลือเกินที่เขาใกล้จะได้เวลาเริ่มงานพอดีในตอนนี้จ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whoarewegoingtoseeexactly",
       "text_en": "Who are we going to see, exactly?",
       "text": "พวกเรากำลังจะเดินทางไปพบกับใครเหรอคะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "comewithmeandyoullfindout",
       "text_en": "Come with me and you'll find out.",
       "text": "ตามแม่มาเถอะจ๊ะ เดี๋ยวก็รู้เอง"
     },
     {
-      "character": "Geode",
+      "key": "takecarenottogetstruckbylightningoutthereonefellowreckonedyoucoulddodgethembyjumpingbacktheinstanttheresaflashbutthatscrazyifyouaskme",
       "text_en": "Take care not to get struck by lightning out there. One fellow reckoned you could dodge them by jumping back the instant there's a flash, but that's crazy if you ask me.",
       "text": "ระวังอย่าโดนสายฟ้าฟาดใส่ที่ข้างนอกนั่นนะ มีพวกสมองใสคนหนึ่งบอกว่าเราสามารถหลบสายฟ้าได้ด้วยการกระโดดถอยหลังทันทีที่มีแสงสว่างวูบขึ้นมา แต่สำหรับผมแล้วเรื่องนั้นมันบ้าบอคอแตกสิ้นดีเลยล่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "firearmsmakethemostsenseforpeoplewhodonthavecombattraininglikeusthatswhywesalvageasmanyaswecanfromthemechanicalsoldiersandconvertthemforouruse",
       "text_en": "Firearms make the most sense for people who don't have combat training like us. That's why we salvage as many as we can from the mechanical soldiers, and convert them for our use.",
       "text": "อาวุธปืนเหมาะที่สุดแล้วล่ะครับสำหรับผู้คนที่ไม่ได้ผ่านการฝึกซ้อมรบมาอย่างพวกเรา นั่นเป็นสาเหตุที่พวกเราคอยเก็บกู้ซากปืนจากพวกทหารกลไกมาดัดแปลงให้เราใช้งานได้น่ะครับ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "nostalgiaismytwinsisterlikemostpeoplewebothusedtowearregulatorsbutwellletsjustsayalothappened",
       "text_en": "Nostalgia is my twin sister. Like most people, we both used to wear regulators, but... Well, let's just say a lot happened...",
       "text": "นอสทัลเจียเป็นน้องสาวฝาแฝดของฉันเองค่ะ เมื่อก่อนเราสองคนก็เคยสวมเรกูเลเตอร์เหมือนคนอื่นนั่นแหละ แต่... เอาเป็นว่าเกิดเรื่องขึ้นเยอะแยะเลยล่ะค่ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sothoseregulatorsaretoblameforeveryoneforgettingnamikkaforforgettingwhatawonderfulpersonshewas",
       "text_en": "So those regulators are to blame for everyone forgetting Namikka. For forgetting what a wonderful person she was...",
       "text": "งั้นเจ้าพวกเรกูเลเตอร์นี่เองที่เป็นต้นเหตุทำให้ทุกคนลืมเลือนเรื่องนามิกก้า... ลืมเลือนไปว่าเธอเคยเป็นคนที่ดีและน่ารักขนาดไหน..."
     },
     {
-      "character": "Alisaie",
+      "key": "imsorrybutijustcantaccepttheideaofusingsoulsasaresource",
       "text_en": "I'm sorry, but I just can't accept the idea of using souls as a resource.",
       "text": "ขอโทษเถอะนะ แต่ฉันทำใจยอมรับแนวคิดการเอาดวงวิญญาณมาใช้เป็นทรัพยากรแบบนี้ไม่ได้จริงๆ"
     },
     {
-      "character": "Krile",
+      "key": "weretoseehowtheregulatorsworkbuthow",
       "text_en": "We're to see how the regulators work, but how?",
       "text": "พวกเราจะได้ไปดูหลักการทำงานของเรกูเลเตอร์แล้ว แต่ว่าจะทำยังไงกันนะ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "toalterthememoriesofthepopulacewithsuchprecisionisnosmallfeat",
       "text_en": "To alter the memories of the populace with such precision is no small feat.",
       "text": "การบิดเบือนแก้ไขความทรงจำของประชาชนได้อย่างแม่นยำราบคาบขนาดนี้ ถือเป็นเทคโนโลยีที่ทรงพลังและน่ากลัวมากเลยนะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "whatdoessheintendtoshowus",
       "text_en": "What does she intend to show us?",
       "text": "เธอตั้งใจจะแสดงอะไรให้พวกเราดูน่ะครับ?"
     },
     {
-      "character": "Cahciua",
+      "key": "everyoneheregood",
       "text_en": "Everyone here? Good.",
       "text": "มากันครบทุกคนแล้วใช่ไหมจ๊ะ ดีมาก"
     },
     {
-      "character": "Cahciua",
+      "key": "itistheresponsibilityofthethunderyardshunterstofellanyfiendsfoundwanderingthearea",
       "text_en": "It is the responsibility of the Thunderyard's hunters to fell any fiends found wandering the area.",
       "text": "มันเป็นหน้าที่ของเหล่านักล่าประจำทุ่งสายฟ้าที่จะคอยจำกัดและกำจัดพวกอสูรร้ายที่หลงเพ่นพ่านอยู่ในเขตนี้จ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "weretomeetanacquaintanceofminestrikaoneofthesehunters",
       "text_en": "We're to meet an acquaintance of mine, Strika, one of these hunters.",
       "text": "พวกเรากำลังจะเดินทางไปพบกับคนรู้จักของแม่ ชื่อสไตรกา เขาเป็นหนึ่งในกลุ่มนักล่าพวกนี้แหละจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatdoyouthinkisinthisboximguessingfood",
       "text_en": "What do you think is in this box? I'm guessing food.",
       "text": "เธอคิดว่าข้างในกล่องนี้มีอะไรเก็บไว้อยู่เหรอ? ฉันเดาว่าเป็นของกินนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "judgingbyitsnameitakeitthisfacilityisforgatheringlightningenergy",
       "text_en": "Judging by its name, I take it this facility is for gathering lightning energy.",
       "text": "ดูจากชื่อโรงงานแล้ว เดาว่าสถานที่นี้คงมีไว้สำหรับกักเก็บและควบคุมพลังงานสายฟ้าสินะ"
     },
     {
-      "character": "Krile",
+      "key": "giventheopportunityishouldverymuchliketostudyelectropeonbehalfofthestudents",
       "text_en": "Given the opportunity, I should very much like to study electrope on behalf of the Students.",
       "text": "หากมีโอกาส ฉันก็อยากลองวิจัยเรื่องแร่เอเลกโทรปนี้ในนามของคณะศิษย์แห่งบัลเดสิออนบ้างจังค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whileiamnotblindtothepotentialbenefitsoftheseregulatorstherisksinherentingivinganotherpartythepowertoalteryourmemoriescannotbeoverstatednevermindtheethicalconsiderationsofusingsoulsinsuchafashion",
       "text_en": "While I am not blind to the potential benefits of these regulators, the risks inherent in giving another party the power to alter your memories cannot be overstated—never mind the ethical considerations of using souls in such a fashion.",
       "text": "ถึงแม้ผมจะไม่มองข้ามประโยชน์ที่ได้จากเรกูเลเตอร์เหล่านี้ แต่ความเสี่ยงที่แฝงอยู่จากการมอบสิทธิ์และอำนาจในการดัดแปลงความทรงจำของคุณให้คนอื่นควบคุมดูแลมันร้ายแรงเกินกว่าจะละเลยได้ครับ... ยังไม่รวมถึงประเด็นทางจริยธรรมในการนำดวงวิญญาณมาป่นใช้แบบนี้อีก"
     },
     {
-      "character": "Erenville",
+      "key": "letsgetthisoverwith",
       "text_en": "Let's get this over with.",
       "text": "รีบทำเรื่องนี้ให้เสร็จๆ ไปเถอะครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "strikawillshowyouwhatlifecanbelikewearingaregulator",
       "text_en": "Strika will show you what life can be like wearing a regulator.",
       "text": "สไตรกาจะช่วยแสดงให้พวกเธอเห็นเองว่าการใช้ชีวิตโดยสวมเรกูเลเตอร์นั้นเป็นอย่างไรจ๊ะ"
     },
     {
-      "character": "Strika",
+      "key": "cahciuawhatareyoudoinghereandwithsomanyfriends",
       "text_en": "Cahciua? What are you doing here? And with so many friends.",
       "text": "คาชิวา? ลมอะไรหอบมาถึงที่นี่กันล่ะครับเนี่ย? แล้วพาเพื่อนมาเยอะแยะเลยนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "apologiesfortheinterruptionbutiwashopingtheymightobserveyouatwork",
       "text_en": "Apologies for the interruption, but I was hoping they might observe you at work.",
       "text": "ขอโทษทีจ๊ะที่มารบกวนเวลาทำงาน พอดีหวังว่าอยากจะให้เพื่อนๆ มาช่วยดูวิธีการทำงานของเธอหน่อยน่ะ"
     },
     {
-      "character": "Strika",
+      "key": "huntingyoumeanthatsfineiguess",
       "text_en": "Hunting, you mean? That's fine, I guess...",
       "text": "หมายถึงการล่าอสูรงั้นเหรอครับ? ก็ได้อยู่นะครับ..."
     },
     {
-      "character": "Strika",
+      "key": "holdoniassumedtheywerewearingspecialregulatorslikequeensphenescrownbuttheyarentwearinganythingatall",
       "text_en": "Hold on. I assumed they were wearing special regulators like Queen Sphene's crown, but they aren't wearing anything at all.",
       "text": "เดี๋ยวก่อนนะครับ... ตอนแรกผมนึกว่าพวกเขาจะสวมเรกูเลเตอร์แบบพิเศษเหมือนกับมงกุฎของราชินีสฟีนเสียอีก แต่ดูแล้วพวกเขาไม่ได้ใส่อะไรเลยนี่นา"
     },
     {
-      "character": "Strika",
+      "key": "itsmuchtoodangeroustobeherewithoutonewhatiftheyrestruckbylightningorattackedbybeasts",
       "text_en": "It's much too dangerous to be here without one. What if they're struck by lightning, or attacked by beasts?",
       "text": "การมาเดินเพ่นพ่านแถวนี้โดยไม่สวมเรกูเลเตอร์มันอันตรายเกินไปนะครับ! ถ้าเกิดพวกโดนฟ้าผ่า หรือถูกสัตว์อสูรขย้ำเอาจะทำยังไงกัน?"
     },
     {
-      "character": "Cahciua",
+      "key": "icanassureyoutheyreallquitecapableoflookingafterthemselvesifanythingshouldgoamissiwilltakefullresponsibility",
       "text_en": "I can assure you they're all quite capable of looking after themselves. If anything should go amiss, I will take full responsibility.",
       "text": "แม่รับรองและรับประกันได้เลยล่ะจ๊ะว่าทุกคนที่นี่เอาตัวรอดกันเก่งมากๆ ถ้าเกิดข้อผิดพลาดอะไรขึ้นมา แม่ขอรับผิดชอบทั้งหมดเองจ๊ะ"
     },
     {
-      "character": "Strika",
+      "key": "welldontsayididntwarnyoudangerasidethereisntreallymuchtosee",
       "text_en": "Well, don't say I didn't warn you. Danger aside, there isn't really much to see.",
       "text": "งั้นก็ตามใจนะครับ อย่าหาว่าผมไม่เตือนก็แล้วกัน แต่ตัดเรื่องอันตรายออกไป งานล่าปกติของผมก็ไม่ได้มีอะไรหวือหวาให้ดูหรอกนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "cahciuasaidyoureahunterbutwouldntitbeeasierforthosemechanicalsoldierstoguardthisplace",
       "text_en": "Cahciua said you're a hunter, but wouldn't it be easier for those mechanical soldiers to guard this place?",
       "text": "คาชิวาบอกว่าเธอเป็นนักล่าน่ะ แต่จริงๆ ปล่อยให้พวกทหารกลไกพวกนั้นเฝ้าป้องกันพื้นที่นี้น่าจะง่ายกว่าไม่ใช่เหรอ?"
     },
     {
-      "character": "Strika",
+      "key": "itwouldifnotforthefacttheyreweaktolightningthethunderyardbeingwhatitistheyvebeenorderedtosteerclear",
       "text_en": "It would, if not for the fact they're weak to lightning. The Thunderyard being what it is, they've been ordered to steer clear.",
       "text": "ก็ใช่ครับ... ถ้าไม่ติดตรงที่ว่าพวกหุ่นกลไกพวกนั้นมันแพ้กระแสไฟฟ้าแรงสูงอย่างหนักน่ะ ทุ่งสายฟ้ามีพลังงานไฟฟ้าสะสมหนาแน่นแบบนี้ พวกมันเลยได้รับคำสั่งห้ามเฉียดกรายเข้ามาใกล้เด็ดขาดเลยครับ"
     },
     {
-      "character": "Strika",
+      "key": "somegoodtheyareehbutthesefacilitiesarevitaltotheupkeepingofalexandriasinfrastructuresoitfallstohunterslikemetodealwithanyfiends",
       "text_en": "Some good they are, eh? But these facilities are vital to the upkeeping of Alexandria's infrastructure, so it falls to hunters like me to deal with any fiends.",
       "text": "พวกมันพึ่งพาไม่ได้เรื่องเลยใช่ไหมล่ะครับ? แต่เนื่องจากโรงงานพวกนี้สำคัญต่อสาธารณูปโภคขั้นพื้นฐานของอเล็กซานเดรีย หน้าที่กำจัดสิ่งแปลกปลอมและสัตว์อสูรเลยตกมาเป็นงานของนักล่าอย่างผมแทนครับ"
     },
     {
-      "character": "Strika",
+      "key": "giventhedangerwerewellcompensatedforourworkitsaperfectprofessionforanyonelookingtobuildupsavings",
       "text_en": "Given the danger, we're well compensated for our work. It's a perfect profession for anyone looking to build up savings.",
       "text": "และเมื่อต้องแลกกับความเสี่ยงอันตราย ผลตอบแทนที่ได้ก็นับว่าคุ้มค่าเหนื่อยมากเลยครับ ถือเป็นอาชีพที่เหมาะมากสำหรับคนที่ต้องการเก็บเงินก้อนน่ะครับ"
     },
     {
-      "character": "Strika",
+      "key": "thespecialselectionofsoulsforhuntersisntterribleeither",
       "text_en": "The special selection of souls for hunters isn't terrible either.",
       "text": "แถมโควตาดวงวิญญาณพิเศษสำหรับนักล่าก็ไม่ได้แย่ด้วยล่ะครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "ibroughtthislotheretoseethisdangeryouspeakofifitsnottoomuchtroubletoask",
       "text_en": "I brought this lot here to see this danger you speak of. If it's not too much trouble to ask.",
       "text": "แม่พาเด็กๆ พวกนี้มาเพื่อมาดูความเสี่ยงอันตรายที่เธอบอกนี่แหละจ๊ะ รบกวนช่วยสาธิตให้ดูหน่อยได้ไหมจ๊ะ"
     },
     {
-      "character": "Strika",
+      "key": "ahofcourseinwhichcaseitdbeashametowastemyeffortsonjustanyoldbeast",
       "text_en": "Ah, of course. In which case, it'd be a shame to waste my efforts on just any old beast.",
       "text": "อ๋อ ได้เลยครับ งั้นถ้าจะโชว์ทั้งที ก็คงเสียของแย่ถ้าปะทะกับสัตว์อสูรระดับกระจอกทั่วไป"
     },
     {
-      "character": "Strika",
+      "key": "youallcanhandleyourselvesinafightrightifyoucausearuckusslayingwhatcrittersyouseenearbytheresachanceyoulldrawoutsomethingworthyofademonstration",
       "text_en": "You all can handle yourselves in a fight, right? If you cause a ruckus slaying what critters you see nearby, there's a chance you'll draw out something worthy of a demonstration.",
       "text": "พวกคุณทุกคนมีฝีมือสู้รบอยู่ใช่ไหมครับ? ถ้าลองไปอาละวาดจัดการอสูรรอบๆ นี้ดู บางทีแรงกระเพื่อมอาจจะช่วยดึงดูดตัวเด็ดๆ ออกมาให้ผมแสดงฝีมือโชว์ล่ะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "imnotsureiunderstandbutisupposeweshouldeachslaywhatwecan",
       "text_en": "I'm not sure I understand, but I suppose we should each slay what we can.",
       "text": "ฉันไม่ค่อยเก็ทเท่าไหร่หรอกนะ แต่เอาเป็นว่าพวกเราแยกย้ายกันไปปราบสัตว์อสูรแถวนี้เท่าที่ทำได้กันเถอะ"
     },
     {
-      "character": "Erenville",
+      "key": "imafraidimustleavethefightingtoyou",
       "text_en": "I'm afraid I must leave the fighting to you.",
       "text": "ส่วนผมคงต้องขอละเว้นเรื่องการสู้รบ ปล่อยให้เป็นหน้าที่ของพวกคุณแล้วกันนะครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "myfussylittlebunbunwasneveranygoodatfightingandthisbodyofmineisntsuitedtoiteitherweleavethisworkinyourcapablehands",
       "text_en": "My fussy little bunbun was never any good at fighting, and this body of mine isn't suited to it either. We leave this work in your capable hands!",
       "text": "เจ้ากระต่ายน้อยขี้บ่นของแม่ไม่เคยเก่งเรื่องสู้รบตบมือกับใครอยู่แล้วล่ะจ๊ะ และร่างจักรกลลอยได้ของแม่ร่างนี้ก็ไม่เหมาะกับการสู้รบด้วย เพราะงั้นฝากฝีมือเก่งๆ ของทุกคนด้วยนะจ๊ะ!"
     },
     {
-      "character": "Strika",
+      "key": "thisonelldonicely",
       "text_en": "This one'll do nicely.",
       "text": "เจ้านี่แหละ กำลังเหมาะเลยล่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "wellhelpyou",
       "text_en": "We'll help you!",
       "text": "พวกเราจะช่วยเธอเอง!"
     },
     {
-      "character": "Strika",
+      "key": "itsfinereallyivefacedworsejustwatch",
       "text_en": "It's fine, really. I've faced worse. Just watch.",
       "text": "ไม่เป็นไรหรอกครับ สบายมาก เคยเจอตัวโหดกว่านี้มาแล้ว คอยดูเถอะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "idontlikethelooksofthisletushelp",
       "text_en": "I don't like the looks of this. Let us help!",
       "text": "ดูท่าทางไม่ค่อยดีเลยแฮะ ให้พวกเราช่วยดีกว่า!"
     },
     {
-      "character": "Strika",
+      "key": "ohno",
       "text_en": "Oh no!",
       "text": "แย่แล้ว!"
     },
     {
-      "character": "Alisaie",
+      "key": "lookout",
       "text_en": "Look out!",
       "text": "ระวัง!"
     },
     {
-      "character": "Strika",
+      "key": "arrrgh",
       "text_en": "Arrrgh!",
       "text": "อ๊ากกก!"
     },
     {
-      "character": "Krile",
+      "key": "twelvepreserve",
       "text_en": "Twelve preserve...",
       "text": "คุณพระช่วย..."
     },
     {
-      "character": "Alisaie",
+      "key": "sheneedshealing",
       "text_en": "She needs healing!",
       "text": "เธอต้องการการรักษาด่วนเลย!"
     },
     {
-      "character": "Strika",
+      "key": "thatwasembarrassingthebastardcaughtmeoffguard",
       "text_en": "That was embarrassing. The bastard caught me off guard.",
       "text": "น่าอายชะมัดเลยแฮะ ดันโดนมันเล่นงานทีเผลอซะได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "areyoumadseriouslyletushelp",
       "text_en": "Are you mad!? Seriously, let us help!",
       "text": "บ้าไปแล้วหรือเปล่า!? ให้พวกเราช่วยเถอะน่า!"
     },
     {
-      "character": "Strika",
+      "key": "itoldyounottoworry",
       "text_en": "I told you not to worry.",
       "text": "บอกแล้วไงว่าไม่ต้องเป็นห่วง"
     },
     {
-      "character": "Strika",
+      "key": "thiswillonlytakeamoment",
       "text_en": "This will only take a moment.",
       "text": "ขอเวลาประเดี๋ยวเดียว เดี๋ยวก็จบแล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "justlikezoraalja",
       "text_en": "Just like Zoraal Ja...",
       "text": "เหมือนกับโซราล จา เลย..."
     },
     {
-      "character": "Strika",
+      "key": "comeonletsgetoutofhere",
       "text_en": "Come on, let's get out of here.",
       "text": "เอาล่ะ รีบออกไปจากที่นี่กันเถอะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thatsalsoafunctionoftheregulator",
       "text_en": "That's also a function of the regulator?",
       "text": "เรื่องกลายร่างเมื่อกี้ ก็เป็นหน้าที่การทำงานของเรกูเลเตอร์เหมือนกันเหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ithinkiunderstandnowhowzoraaljawasabletoreturnfromthedeadanddefeatpapabutimnotsurewhatwesawattheendthere",
       "text_en": "I think I understand now how Zoraal Ja was able to return from the dead and defeat Papa, but I'm not sure what we saw at the end there.",
       "text": "ตอนนี้ฉันคิดว่าฉันพอจะเข้าใจแล้วล่ะว่าทำไมโซราล จา ถึงฟื้นจากความตายมาโค่นท่านพ่อได้ แต่ภาพที่เราเห็นช่วงท้ายเมื่อกี้นี่สิ ฉันยังสับสนอยู่เลย"
     },
     {
-      "character": "Alisaie",
+      "key": "assoonastheregulatorturnedreditwasasifyouwerepossessedyourmovementsbecamebeastlike",
       "text_en": "As soon as the regulator turned red, it was as if you were possessed. Your movements became beast-like.",
       "text": "ทันทีที่เรกูเลเตอร์บนหัวเปลี่ยนเป็นสีแดง ท่าทางของเธอก็เปลี่ยนไปราวกับถูกสิงสู่เลยล่ะ การเคลื่อนไหวดูเหมือนพวกสัตว์ป่าไม่มีผิด"
     },
     {
-      "character": "G'raha Tia",
+      "key": "donttellmeyouempoweredyourselfwiththesoulofabeastimremindedoftheserpentinesoldierweencounteredatvanguardwhodidthesame",
       "text_en": "Don't tell me...you empowered yourself with the soul of a beast? I'm reminded of the serpentine soldier we encountered at Vanguard who did the same...",
       "text": "อย่าบอกนะครับว่า... คุณดึงเอาพลังของดวงวิญญาณสัตว์อสูรมาใช้งาน? ชวนให้นึกถึงพวกทหารครึ่งงูที่พวกเราปะทะตรงด่านแวนการ์ดที่ทำแบบนี้เลยแฮะ..."
     },
     {
-      "character": "Strika",
+      "key": "soyouvecrossedpathswithoneofthekingselitesuchaformcanonlybeachievedfromgorgingyourselfonsouls",
       "text_en": "So you've crossed paths with one of the king's elite? Such a form can only be achieved from gorging yourself on souls.",
       "text": "อ๋อ... แสดงว่าพวกคุณเคยเจอกับยอดทหารองค์รักษ์ของราชามาแล้วสินะครับ การจะแปลงโฉมเป็นอสูรกายร่างนั้นได้ จำเป็นต้องกินดวงวิญญาณเข้าไปสะสมในปริมาณที่เยอะมากๆ เลยล่ะครับ"
     },
     {
-      "character": "Strika",
+      "key": "wecoulddothesameintheorybutitsincrediblydangerousbesidesitsnotasiftheydallowhunterstocarrythatmanysoulstobeginwith",
       "text_en": "We could do the same, in theory, but it's incredibly dangerous. Besides, it's not as if they'd allow hunters to carry that many souls to begin with.",
       "text": "ทางทฤษฎีแล้วพวกเราก็ทำได้เช่นกันครับ แต่มันอันตรายมากๆ และอีกอย่าง ระบบก็คงไม่อนุญาตให้นักล่าธรรมดาๆ พกดวงวิญญาณสะสมติดตัวเยอะแยะขนาดนั้นแต่แรกด้วยครับ"
     },
     {
-      "character": "Strika",
+      "key": "wellishouldbegettingbacktoworktakecare",
       "text_en": "Well, I should be getting back to work. Take care.",
       "text": "เอาล่ะ ผมต้องขอตัวกลับไปทำงานต่อแล้วล่ะครับ ระวังตัวด้วยนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "andthereyouhaveitregulatorscanbeloadedwithtwokindsofsoulsthoseofpeoplesandthoseofbeasts",
       "text_en": "And there you have it. Regulators can be loaded with two kinds of souls, those of peoples and those of beasts.",
       "text": "นั่นแหละจ๊ะ เรกูเลเตอร์สามารถบรรจุและโหลดดวงวิญญาณใช้งานได้สองประเภท: คือดวงวิญญาณของมนุษย์ และดวงวิญญาณของสัตว์อสูร"
     },
     {
-      "character": "Cahciua",
+      "key": "thesoulsofpeoplecanbeusedtogranttheuserpreternaturalstrength",
       "text_en": "The souls of people can be used to grant the user preternatural strength.",
       "text": "ดวงวิญญาณของมนุษย์สามารถนำมาใช้เพื่อมอบพละกำลังที่เหนือธรรมชาติให้แก่ผู้สวมใส่ได้จ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "naturallytheycanalsobeusedtoensurenoonesuffersanuntimelydeath",
       "text_en": "Naturally, they can also be used to ensure no one suffers an untimely death.",
       "text": "และแน่นอนว่ามันยังใช้เพื่อรับประกันความปลอดภัย ป้องกันไม่ให้ใครต้องเสียชีวิตกะทันหันก่อนวัยอันควรด้วย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andwhataboutthesoulsofbeasts",
       "text_en": "And what about the souls of beasts?",
       "text": "แล้วดวงวิญญาณของสัตว์อสูรล่ะคะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "theyworkmuchinthesamefashionimbuingyouwiththestrengthofthechosenanimal",
       "text_en": "They work much in the same fashion, imbuing you with the strength of the chosen animal.",
       "text": "มันก็ทำงานคล้ายๆ กันนั่นแหละจ๊ะ โดยจะช่วยมอบพละกำลังและความสามารถของสัตว์อสูรตัวที่เลือกใช้งานให้แก่เรา"
     },
     {
-      "character": "Cahciua",
+      "key": "ifforexampleyouusedthesoulofawolfyouwouldgrowmoreagileandferalasyousawwithstrika",
       "text_en": "If, for example, you used the soul of a wolf, you would grow more agile and feral, as you saw with Strika.",
       "text": "ตัวอย่างเช่น ถ้าหากเธอเลือกใช้ดวงวิญญาณของหมาป่า ร่างกายของเธอก็จะมีความคล่องแคล่วว่องไวและดุร้ายขึ้น เหมือนอย่างที่เห็นจากการสาธิตเมื่อกี้ของสไตรกานั่นแหละจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "usingseveralofthesametypeatoncehoweverwouldresultinphysicalchangesyourteethmightbecomefangsyournailsclawstoomanyandyoullbecomemorebeastthanman",
       "text_en": "Using several of the same type at once, however, would result in physical changes. Your teeth might become fangs, your nails claws—too many, and you'll become more beast than man.",
       "text": "แต่ทว่าหากเลือกใช้ดวงวิญญาณประเภทเดียวกันพร้อมกันหลายดวง มันจะเริ่มส่งผลต่อโครงสร้างทางกายภาพภายนอกล่ะนะ ฟันอาจจะงอกยาวเป็นเขี้ยว เล็บอาจจะคมเป็นกรงเล็บ... และหากใช้มากเกินขนาด ร่างกายก็จะแปรสภาพจนกลายเป็นสัตว์ป่ามากกว่ามนุษย์ไปในที่สุดจ๊ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "changingonesformthroughthesoulsofotherbeingsitbecomesmoreandmorereminiscentofvoidsent",
       "text_en": "Changing one's form through the souls of other beings... It becomes more and more reminiscent of voidsent.",
       "text": "การเปลี่ยนสภาพรูปร่างของตนเองด้วยการกลืนดวงวิญญาณของสิ่งมีชีวิตอื่น... มันชวนให้นึกถึงพฤติกรรมของพวกปีศาจแห่งความมืดขึ้นเรื่อยๆ เลยครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "yetunlikethevoidwherethecycleofdeathandrebirthissimplybrokensoulshereareforciblytakenbeforetheymightreachtheaetherialseadifferentmeanstoachievesimilarends",
       "text_en": "Yet unlike the void, where the cycle of death and rebirth is simply broken, souls here are forcibly taken before they might reach the aetherial sea. Different means to achieve similar ends.",
       "text": "แต่สิ่งที่ต่างออกไปคือ ในมิติแห่งความมืด วัฏจักรแห่งความตายและการเกิดใหม่จะถูกทำลายไปดื้อๆ แต่ที่นี่ ดวงวิญญาณกลับถูกแย่งชิงไปก่อนที่พวกมันจะได้เดินทางไปถึงทะเลอีเธอร์เสียอีก... วิธีการอาจต่างกัน แต่นำไปสู่ปลายทางที่คล้ายกันเลยครับ"
     },
     {
-      "character": "Erenville",
+      "key": "acycletowhichallwithinthedomearebound",
       "text_en": "A cycle to which all within the dome are bound...",
       "text": "วัฏจักรที่ผูกมัดผืนแผ่นดินและทุกคนในโดมนี้เอาไว้..."
     },
     {
-      "character": "Alisaie",
+      "key": "thisiswrongthisisallwrong",
       "text_en": "This is wrong. This is all wrong.",
       "text": "นี่มันผิดเพี้ยนไปหมดแล้ว ผิดหลักธรรมชาติสิ้นดีเลย"
     },
     {
-      "character": "Krile",
+      "key": "itisindeedhardtoacceptbeingsofarremovedfromourownbeliefs",
       "text_en": "It is indeed hard to accept, being so far removed from our own beliefs.",
       "text": "เรื่องนี้ทำใจยอมรับยากจริงๆ ค่ะ เพราะมันช่างขัดแย้งกับหลักความเชื่อและความจริงของฝั่งพวกเราเหลือเกิน"
     },
     {
-      "character": "Krile",
+      "key": "perhapsmoreshockingisthatthetechnologytoachieveallthiswasdevelopedhundredsofyearsago",
       "text_en": "Perhaps more shocking is that the technology to achieve all this was developed hundreds of years ago.",
       "text": "แต่ที่น่าตกใจยิ่งกว่าคือ เทคโนโลยีที่ใช้ทำเรื่องเหลือเชื่อพวกนี้ถูกพัฒนาขึ้นมาตั้งแต่เมื่อหลายร้อยปีก่อนแล้วต่างหากล่ะคะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thecivilizationsinthereflectionsaresurprisingindeed",
       "text_en": "The civilizations in the reflections are surprising indeed...",
       "text": "อารยธรรมในโลกเงาสะท้อนต่างๆ ช่างน่าทึ่งและประหลาดใจจริงๆ ครับ..."
     },
     {
-      "character": "Alisaie",
+      "key": "havingseenthebeautyoftheaetherialseafirsthandisimplycantacceptwhattheyvedonehereinalexandria",
       "text_en": "Having seen the beauty of the aetherial sea firsthand, I simply can't accept what they've done here in Alexandria.",
       "text": "ในเมื่อพวกเราเคยไปเห็นความงดงามของทะเลอีเธอร์ด้วยตาตัวเองมาแล้ว ฉันยอมรับระบบและสิ่งที่พวกเขาทำขึ้นในอเล็กซานเดรียนี้ไม่ได้เด็ดขาดเลยล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "iunderstandthisispartoftheirculturebutitisnolessdisconcerting",
       "text_en": "I understand this is part of their culture, but it is no less disconcerting.",
       "text": "ฉันเข้าใจนะว่านี่คือส่วนหนึ่งของวัฒนธรรมดั้งเดิมของพวกเขา แต่ก็อดรู้สึกกังวลใจและหดหู่ไม่ได้อยู่ดีนั่นแหละค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whenemetselchspokeofsurprisingcivilizationsinotherreflectionsiwonderifhehadalexandriainmind",
       "text_en": "When Emet-Selch spoke of surprising civilizations in other reflections, I wonder if he had Alexandria in mind.",
       "text": "ตอนที่เอเมท-เซลช์เคยพูดพาดพิงถึงความน่าทึ่งของอารยธรรมในโลกเงาสะท้อนอื่นๆ... ผมอดคิดไม่ได้ว่าเขากำลังหมายถึงอเล็กซานเดรียแห่งนี้อยู่หรือเปล่านะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "sphenespeaksoflivedexperiencesthatsuggestshesfarolderthansheappearsconsideringthepoweroftheseregulatorsperhapsitsnotsofarfetched",
       "text_en": "Sphene speaks of lived experiences that suggest she's far older than she appears. Considering the power of these regulators, perhaps it's not so far-fetched.",
       "text": "คำพูดของสฟีนเกี่ยวกับเรื่องราวและประสบการณ์ชีวิตในอดีต บ่งชี้ว่าเธออาจจะมีชีวิตอยู่มายาวนานกว่าที่เห็นภายนอกมากนัก และเมื่อพิจารณาถึงความสามารถของเรกูเลเตอร์พวกนี้แล้ว สมมติฐานนี้ก็อาจจะไม่ใช่เรื่องเพ้อฝันเสียทีเดียวครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "iveneverseenitformyselfbutitssaidthatifabeastssoulispotentenoughasinglesoulisenoughtoinduceamonstroustransformation",
       "text_en": "I've never seen it for myself, but it's said that if a beast's soul is potent enough, a single soul is enough to induce a monstrous transformation.",
       "text": "แม่เองก็ไม่เคยเห็นกับตาตัวเองหรอกนะจ๊ะ แต่เขาเล่ากันว่าหากดวงวิญญาณของสัตว์อสูรตัวนั้นมีพลังที่กล้าแกร่งมากพอ เพียงแค่ดวงวิญญาณดวงเดียวก็สามารถทำให้เกิดการกลายร่างเป็นอสูรกายขนาดยักษ์ได้แล้วล่ะจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whileweallhaveourthoughtsonsoulsfornowtheimportantthingisweknowwhatpowerzoraaljahasathisdisposal",
       "text_en": "While we all have our thoughts on souls, for now the important thing is we know what power Zoraal Ja has at his disposal.",
       "text": "ถึงพวกเราต่างจะมีมุมมองและความคิดเห็นเรื่องดวงวิญญาณแตกต่างกันไป แต่สิ่งที่สำคัญที่สุดในตอนนี้คือ พวกเรารู้แล้วว่าโซราล จา มีพลังอำนาจแบบไหนอยู่ในมือ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itisonethingtoseparatecorporealaetherfromincorporealaetherbuttostripmemoriesfromthesoulentirelyisunprecedentedtechnology",
       "text_en": "It is one thing to separate corporeal aether from incorporeal aether, but to strip memories from the soul entirely is unprecedented technology.",
       "text": "การคัดแยกกระแสอีเธอร์ทางกายภาพและจิตวิญญาณออกจากกันก็นับว่ายากแล้วครับ แต่การลอกเอาความทรงจำออกจากดวงวิญญาณจนหมดจดขนาดนี้ ถือเป็นเทคโนโลยีที่ล้ำยุคจนน่าสะพรึงกลัวและไม่เคยพบเคยเห็นมาก่อนเลยครับ"
     },
     {
-      "character": "Krile",
+      "key": "thisisnolongeronlytuliyollalsconcernwithhisnewfoundpowerzoraaljahasbecomearealthreattotheentireworld",
       "text_en": "This is no longer only Tuliyollal's concern. With his newfound power, Zoraal Ja has become a real threat to the entire world.",
       "text": "นี่ไม่ใช่เรื่องส่วนตัวและเป็นปัญหาของทางทูลิโยลลัลเพียงอย่างเดียวแล้วล่ะค่ะ ด้วยพละกำลังและเทคโนโลยีที่เขาได้มาใหม่นี้ โซราล จา ได้กลายมาเป็นภัยคุกคามที่แท้จริงต่อโลกทั้งใบแล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "indeedhehastobestoppednomatterthecost",
       "text_en": "Indeed. He has to be stopped, no matter the cost!",
       "text": "ใช่แล้วล่ะ ไม่ว่าต้องแลกด้วยอะไรก็ตาม เราต้องหยุดยั้งเขาให้ได้!"
     }

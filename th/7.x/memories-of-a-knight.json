@@ -1,591 +1,583 @@
 {
-  "id": "memories-of-a-knight",
-  "wiki_path": "/wiki/Memories_of_a_Knight",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/50/Memories_of_a_Knight.png",
-  "patch": "7.0",
-  "title_en": "Memories of a Knight",
-  "title": "ความทรงจำของอัศวิน",
-  "level": "98",
-  "location": "Heritage Found(X:12.1,Y:27.8)",
-  "npc_start": "Otis",
+  "quest_id": "memories-of-a-knight",
   "dialogues": [
     {
-      "character": "Alisaie",
+      "key": "youhaventfinishedyetrightthatwouldbetoofastevenforyou",
       "text_en": "You haven't finished yet, right? That would be too fast, even for you!",
       "text": "นายยังทำไม่เสร็จใช่ไหมเนี่ย? นั่นมันจะเร็วเกินไปแล้ว ต่อให้เป็นนายก็เถอะ!"
     },
     {
-      "character": "Otis",
+      "key": "oncealisaiebringsherportionweshallhaveagloriousbountytosatisfygrowingyounglingslikeyourselves",
       "text_en": "Once Alisaie brings her portion, we shall have a glorious bounty to satisfy growing younglings like yourselves!",
       "text": "เมื่อท่านอลิเซนำวัตถุดิบในส่วนของนางมาส่งแล้ว พวกเราก็จะมีเสบียงอันอุดมสมบูรณ์เพียงพอที่จะทำให้เยาวชนที่กำลังเติบโตอย่างพวกท่านอิ่มท้องได้!"
     },
     {
-      "character": "Otis",
+      "key": "indeediexpecttherewillbeampleleftoverstosharewiththegoodfolkofthedriftdownstheyalwaysappreciateawarmmeal",
       "text_en": "Indeed, I expect there will be ample leftovers to share with the good folk of the driftdowns. They always appreciate a warm meal.",
       "text": "ถูกต้องแล้ว ข้าพเจ้าคาดว่าจะมีอาหารเหลือเฟือพอที่จะแบ่งปันให้แก่ผู้คนที่ดีในดริฟต์ดาวน์สด้วย พวกเขาชื่นชอบมื้ออาหารอุ่นๆ เสมออยู่แล้ว"
     },
     {
-      "character": "Otis",
+      "key": "nowseeingasyouhavecompletedyourtasksoquicklyihaveanotherrequesttomakeofyouweveexhaustedoursuppliesofkindlingelectropeandishouldbegratefulifyoucouldsearchthehousesyonderformore",
       "text_en": "Now, seeing as you have completed your task so quickly, I have another request to make of you. We've exhausted our supplies of kindling electrope, and I should be grateful if you could search the houses yonder for more.",
       "text": "เอาล่ะ ในเมื่อท่านจัดการงานของตนเองเสร็จสิ้นรวดเร็วปานนี้ ข้าพเจ้าจึงมีเรื่องใคร่ขอรบกวนท่านอีกประการหนึ่ง ยามนี้ถ่านเอเลกโทรปสำหรับจุดไฟของพวกเราหมดเกลี้ยงแล้ว ข้าพเจ้าจะยินดียิ่งหากท่านช่วยไปค้นหาเพิ่มเติมตามบ้านเรือนแถวนั้นให้เสียหน่อย"
     },
     {
-      "character": "Otis",
+      "key": "intheoldkingdomelectroperationswereissuedtoeachcitizenwhilesmallfragmentsmaystillbefoundhereandthere",
       "text_en": "In the old kingdom, electrope rations were issued to each citizen. While small, fragments may still be found here and there.",
       "text": "ในอาณาจักรยุคเก่า ประชาชนทุกคนจะได้รับแจกส่วนแบ่งเอเลกโทรป แม้จะเป็นเศษเสี้ยวเล็กๆ แต่ก็น่าจะพอหาพบได้ตามที่ต่างๆ"
     },
     {
-      "character": "Otis",
+      "key": "ifyoucanobtainfivepiecessayatleastoneoughttobewhatwerequirethatisthekindthatconvertslightningtofiregulooljacanidentifythembytheircircuitrysopraytakethemtohim",
       "text_en": "If you can obtain five pieces, say, at least one ought to be what we require—that is, the kind that converts lightning to fire. Gulool Ja can identify them by their circuitry, so pray take them to him.",
       "text": "หากท่านหามาได้สักห้าชิ้น ก็น่าจะมีอย่างน้อยชิ้นหนึ่งที่เป็นแบบที่เราต้องการ—นั่นคือชนิดที่แปลงพลังงานสายฟ้าเป็นไฟ กูลูล จาสามารถจำแนกพวกมันได้จากลายวงจร ดังนั้นได้โปรดนำพวกมันไปให้เขาด้วยเถิด"
     },
     {
-      "character": "Otis",
+      "key": "theboyhasbecomequitedeftatdiscerningelectropetypesandinaveryshorttimeimightaddnowoffyougoandhappyforaging",
       "text_en": "The boy has become quite deft at discerning electrope types, and in a very short time, I might add. Now, off you go, and happy foraging!",
       "text": "เด็กน้อยคนนั้นสามารถแยกแยะประเภทของเอเลกโทรปได้อย่างเชี่ยวชาญยิ่งนักในระยะเวลาอันสั้น เอาล่ะ ออกเดินทางได้เลย ขอให้สนุกกับการค้นหานะ!"
     },
     {
-      "character": "Otis",
+      "key": "oflatemyarmsandlegshavegrownsomewhatcreakyanduncooperativeafewcenturieswilldothateventothebestofusisupposehahaha",
       "text_en": "Of late, my arms and legs have grown somewhat creaky and uncooperative. A few centuries will do that even to the best of us, I suppose! Hahaha!",
       "text": "ระยะหลังมานี้ แขนขาของข้าพเจ้าเริ่มจะฝืดเคืองและไม่ค่อยฟังคำสั่งเสียแล้ว การอยู่มานานหลายศตวรรษคงส่งผลเช่นนี้ต่อทุกคนล่ะนะ! ฮ่าๆๆ!"
     },
     {
-      "character": "Otis",
+      "key": "theothershavereturnedaswellwhatablessedlylivelydaythishasbecome",
       "text_en": "The others have returned as well. What a blessedly lively day this has become!",
       "text": "คนอื่นๆ ก็กลับมากันแล้ว ช่างเป็นวันที่ครึกครื้นและน่ายินดียิ่งนัก!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wevegottherequestedvegetablesalongwithafewextrabitsihavetosayallthisrunningaroundsmademehungry",
       "text_en": "We've got the requested vegetables, along with a few extra bits! I have to say, all this running around's made me hungry...",
       "text": "พวกเราได้ผักตามที่ขอแล้วล่ะ แถมได้ของอย่างอื่นติดมือมาอีกนิดหน่อยด้วย! จะว่าไป การวิ่งวุ่นไปทั่วแบบนี้ทำเอาฉันหิวชะมัดเลย..."
     },
     {
-      "character": "Alisaie",
+      "key": "hmphidaredtothinkihadwonthistimebutitturnsoutyouwerealreadyoffdoinganothertask",
       "text_en": "Hmph, I dared to think I had won this time, but it turns out you were already off doing another task.",
       "text": "หึ ฉันอุตส่าห์หลงคิดว่าครั้งนี้ฉันชนะแล้วซะอีก ที่ไหนได้ นายแอบไปทำภารกิจอื่นต่อเรียบร้อยแล้วเหรอเนี่ย"
     },
     {
-      "character": "Gulool Ja",
+      "key": "otissaysyouhaveelectropeforme",
       "text_en": "Otis says you have electrope for me?",
       "text": "คุณโอทิสบอกว่าพี่มีเอเลกโทรปมาให้ผมเหรอครับ?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "wowyoufoundalot",
       "text_en": "Wow, you found a lot!",
       "text": "โห พี่หามาได้เยอะแยะเลยครับ!"
     },
     {
-      "character": "Gulool Ja",
+      "key": "letsseethisonecreateswindthisoneisforwater",
       "text_en": "Let's see... This one creates wind, this one is for water...",
       "text": "ไหนดูซิครับ... ชิ้นนี้สร้างลม ส่วนชิ้นนี้สำหรับสร้างน้ำ..."
     },
     {
-      "character": "Alisaie",
+      "key": "youcantelljustlikethatimimpressed",
       "text_en": "You can tell just like that? I'm impressed.",
       "text": "เธอสั่งสมประสบการณ์จนดูออกได้ทันทีเลยเหรอเนี่ย? เก่งจังเลยนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "cleverisntheillbethegetsitfromhisfather",
       "text_en": "Clever, isn't he? I'll bet he gets it from his father...",
       "text": "ฉลาดมากเลยใช่ไหมล่ะ? ฉันพนันได้เลยว่าต้องได้ความหัวดีมาจากพ่อของเขาแน่ๆ..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "ahthisisitthisconvertstofire",
       "text_en": "Ah, this is it! This converts to fire!",
       "text": "อ๊ะ ชิ้นนี้แหละครับ! ชิ้นนี้แปลงเป็นไฟได้!"
     },
     {
-      "character": "Gulool Ja",
+      "key": "itsabsorbedlotsoflightningsoweshouldbeabletokindleaflameeasily",
       "text_en": "It's absorbed lots of lightning, so we should be able to kindle a flame easily.",
       "text": "มันดูดซับสายฟ้าไว้เยอะมากเลยครับ น่าจะใช้จุดไฟได้ง่ายๆ เลย"
     },
     {
-      "character": "Gulool Ja",
+      "key": "thankyouforename",
       "text_en": "Thank you, Forename !",
       "text": "ขอบคุณมากครับพี่ [ชื่อ]!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "heheitmakesmehappytoseegulooljahappy",
       "text_en": "Hehe... It makes me happy to see Gulool Ja happy.",
       "text": "เฮะๆ... เห็นกูลูล จามีความสุข ฉันก็พลอยมีความสุขไปด้วยเลยแฮะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "wuklamatcouldcarrylotsofvegetablesatonceshesreallystrong",
       "text_en": "Wuk Lamat could carry lots of vegetables at once. She's really strong!",
       "text": "พี่วุค ลามัตขนผักตั้งเยอะแยะได้ในคราวเดียวเลยครับ แข็งแกร่งสุดยอดไปเลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "withapologiestoerenvilleandkrileletsenjoythemeal",
       "text_en": "With apologies to Erenville and Krile, let's enjoy the meal!",
       "text": "ต้องขอโทษเอเรนวิลล์กับไครล์ด้วยละกันนะ แต่พวกเรามาลุยอาหารมื้อนี้กันเลยเถอะ!"
     },
     {
-      "character": "Otis",
+      "key": "thankstoyourkindassistancewehaveeverythingweneedforourrepast",
       "text_en": "Thanks to your kind assistance, we have everything we need for our repast.",
       "text": "ด้วยความช่วยเหลืออันดีของพวกท่าน ยามนี้พวกเราจึงมีวัตถุดิบทุกอย่างครบถ้วนสำหรับมื้ออาหารนี้แล้ว"
     },
     {
-      "character": "Otis",
+      "key": "youhavedoneyourpartandnowishalldomineibidyourelaxmyfriendsthemealwillsoonbeserved",
       "text_en": "You have done your part, and now I shall do mine. I bid you relax, my friends—the meal will soon be served!",
       "text": "พวกท่านทำหน้าที่ของตนเองเรียบร้อยแล้ว ยามนี้จึงเป็นคราวของข้าพเจ้าบ้าง ขอให้ทำตัวตามสบายเถิดสหายของข้าพเจ้า—อาหารพร้อมจะเสิร์ฟในอีกไม่ช้าแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisisthekindofthingfamiliesdogulooljawehavemealstogetherandtalkaboutwhatsonourminds",
       "text_en": "This is the kind of thing families do, Gulool Ja. We have meals together and talk about what's on our minds.",
       "text": "นี่แหละคือสิ่งที่ครอบครัวเขาทำกันล่ะกูลูล จา พวกเราจะกินข้าวด้วยกันแล้วก็พูดคุยเรื่องที่อยู่ในใจกัน"
     },
     {
-      "character": "Gulool Ja",
+      "key": "soyouatewithyourfather",
       "text_en": "So you ate with your father?",
       "text": "ถ้าอย่างนั้น พี่เคยทานข้าวร่วมกับคุณพ่อของพี่ด้วยเหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yeswiththemandmybrothersitwasmostlytheheadofresolveandidoingthetalkingthoughkoanaandtheheadofreasonoccasionallyjoinedinandzoraaljaspokewhenhewasspokento",
       "text_en": "Yes, with them and my brothers. It was mostly the Head of Resolve and I doing the talking, though. Koana and the Head of Reason occasionally joined in, and Zoraal Ja...spoke when he was spoken to.",
       "text": "เคยสิ ร่วมโต๊ะกับท่านพ่อและพี่ๆ น้องๆ ของฉันน่ะ แต่ส่วนใหญ่จะเป็นหัวแห่งปณิธานกับฉันที่เป็นคนคุยซะมากกว่า ส่วนโคอานากับหัวแห่งเหตุผลจะคอยเสริมขึ้นมาบ้างเป็นครั้งคราว ส่วนโซราล จา... จะพูดก็ต่อเมื่อมีคนถามเท่านั้นแหละ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "yousaidthatyouhavetwopapasdoesthatmeanoneisyoursandtheotherismyfathers",
       "text_en": "You said that you have two papas. Does that mean one is yours, and the other is my father's?",
       "text": "พี่บอกว่าพี่มีคุณพ่อสองคน งั้นก็หมายความว่าคนหนึ่งเป็นของพี่ ส่วนอีกคนเป็นของพ่อผมเหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nonobothareourfatherheswhatpeoplecallblessedsiblingsamamooljawithtwoheads",
       "text_en": "No, no, both are our father. He's what people call blessed siblings—a Mamool Ja with two heads.",
       "text": "ไม่ใช่หรอก ทั้งสองหัวก็คือท่านพ่อของเราทั้งคู่นั่นแหละ ท่านคือที่ผู้คนเรียกกันว่า 'พี่น้องผู้ได้รับพร' — มามูอูล จา ที่มีสองหัวน่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "zoraaljaishistruebornchildwhilekoanaandiwereadoptedanddontsharethesameblood",
       "text_en": "Zoraal Ja is his trueborn child, while Koana and I were adopted and don't share the same blood.",
       "text": "โซราล จาคือลูกแท้ๆ ของท่านพ่อ ส่วนฉันกับโคอานาน่ะเป็นลูกบุญธรรมที่ไม่ได้มีสายเลือดเดียวกันหรอก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butthatdoesntmakeusanylessafamilywhatmattersisthatourheartsareconnectedtheheadofresolvetaughtmethat",
       "text_en": "But that doesn't make us any less a family. What matters is that our hearts are connected. The Head of Resolve taught me that.",
       "text": "ถึงอย่างนั้นก็ไม่ได้ทำให้ความผูกพันในครอบครัวของเราลดน้อยลงเลยนะ สิ่งสำคัญคือหัวใจของเราเชื่อมโยงถึงกันต่างหากล่ะ หัวแห่งปณิธานเคยสอนฉันไว้แบบนี้"
     },
     {
-      "character": "Gulool Ja",
+      "key": "family",
       "text_en": "Family...",
       "text": "ครอบครัว..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "doyouhavesomeonelikethattooapersonyouthinkisfamilyeventhoughyoudontsharethesameblood",
       "text_en": "Do you have someone like that too? A person you think is family, even though you don't share the same blood.",
       "text": "พี่ๆ เองก็มีคนแบบนั้นเหมือนกันเหรอครับ? คนที่คิดว่าเป็นครอบครัวเดียวกัน ทั้งที่ไม่ได้สืบสายเลือดเดียวกันน่ะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "thatsagoodquestion",
       "text_en": "That's...a good question.",
       "text": "นั่นเป็น... คำถามที่ดีเลยนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "whataboutyou",
       "text_en": "What about you?",
       "text": "แล้วเธอล่ะจ๊ะ?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "idliketomeetthemoneday",
       "text_en": "I'd like to meet them one day.",
       "text": "สักวันหนึ่ง... ผมก็อยากจะได้เจอกับครอบครัวแบบนั้นบ้างจังเลยครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "youmustbestrongidontthinkicouldbealonelikethatforlong",
       "text_en": "You must be strong. I don't think I could be alone like that for long.",
       "text": "พี่ๆ คงจะเข้มแข็งกันมากเลยนะครับ ผมคิดว่าตัวเองคงจะทนอยู่คนเดียวแบบนั้นนานๆ ไม่ไหวแน่ๆ เลย"
     },
     {
-      "character": "Gulool Ja",
+      "key": "iimsorryifisaidsomethingwrong",
       "text_en": "I-I'm sorry if I said something wrong...",
       "text": "ผะ-ผมขอโทษด้วยนะครับถ้าเกิดพูดอะไรผิดไป..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sogulooljaimhopingthatwecouldbefamilyyouandi",
       "text_en": "So, Gulool Ja. I'm hoping that we could be family, you and I.",
       "text": "กูลูล จาจ๊ะ ฉันหวังว่าพวกเราสองคนจะได้เป็นครอบครัวเดียวกันนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wontyoutellmeaboutyourself",
       "text_en": "Won't you tell me about yourself?",
       "text": "เธอช่วยเล่าเรื่องของตัวเองให้ฉันฟังหน่อยได้ไหม?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "youreallywanttoknowaboutme",
       "text_en": "You...really want to know about me?",
       "text": "พี่... อยากจะรู้จักเรื่องของผมจริงๆ เหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "idoiwanttoknowallaboutyouthethingsyoulovethethingsyouhateanythingandeverything",
       "text_en": "I do. I want to know all about you. The things you love, the things you hate—anything and everything.",
       "text": "อยากรู้สิ ฉันอยากจะรู้เรื่องของเธอทุกเรื่องเลยนะ ทั้งเรื่องที่เธอชอบ เรื่องที่เธอเกลียด—ทุกสิ่งทุกอย่างเลยล่ะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "iwanttoknowallaboutyoutoo",
       "text_en": "I want to know all about you too!",
       "text": "ผมเองก็อยากรู้เรื่องของพี่เหมือนกันครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "thatremindsmewewerehopingtohearyourstorytoootis",
       "text_en": "That reminds me, we were hoping to hear your story too, Otis.",
       "text": "จะว่าไป พวกเราเองก็อยากฟังเรื่องราวของคุณเหมือนกันนะโอทิส"
     },
     {
-      "character": "Otis",
+      "key": "asyouwishbeforewarnedthatmineisatalethatwillbelonginrecounting",
       "text_en": "As you wish. Be forewarned that mine is a tale that will be long in recounting.",
       "text": "ตามที่ท่านปรารถนา ทว่าข้าพเจ้าจำต้องขอเตือนไว้ก่อนว่า เรื่องราว of ข้าพเจ้านั้นค่อนข้างจะยาวนานเสียหน่อยในการเล่าขาน"
     },
     {
-      "character": "Otis",
+      "key": "itwasbeforelightninghadalteredtheworldthatiwasappointedlordcaptainoftheroyalknights",
       "text_en": "It was before lightning had altered the world that I was appointed lord captain of the royal knights.",
       "text": "ย้อนกลับไปในยุคสมัยก่อนที่สายฟ้าจะเข้ามาแปรเปลี่ยนโลกใบนี้ ข้าพเจ้าได้รับการแต่งตั้งให้เป็นหัวหน้ากองอัศวินหลวง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "weretalkinghundredsofyearspriortothecalamityright",
       "text_en": "We're talking hundreds of years prior to the calamity, right?",
       "text": "นี่พวกเรากำลังพูดถึงช่วงเวลาหลายร้อยปีก่อนหน้าที่จะเกิดมหาวิบัติใช่ไหม?"
     },
     {
-      "character": "Otis",
+      "key": "indeedearlierstillthanwheniassumedthismechanicalformfourhundredandfiftyfouryearsagotobeprecise",
       "text_en": "Indeed. Earlier still than when I assumed this mechanical form—four hundred and fifty-four years ago, to be precise.",
       "text": "ถูกต้องแล้ว ย้อนไปไกลยิ่งกว่าตอนที่ข้าพเจ้ายอมรับร่างเครื่องจักรนี้เสียอีก—หากจะกล่าวให้ชัดเจนคือเมื่อสี่ร้อยห้าสิบสี่ปีที่แล้วนั่นเอง"
     },
     {
-      "character": "Alisaie",
+      "key": "thenyouusedtobeanormalperson",
       "text_en": "Then...you used to be a normal person?",
       "text": "ถ้าอย่างนั้น... เมื่อก่อนคุณก็เคยเป็นมนุษย์ธรรมดาๆ งั้นเหรอ?"
     },
     {
-      "character": "Otis",
+      "key": "ohyesiwasoncefleshandbloodlikeyouandiproudlyservedasaknightofalexandria",
       "text_en": "Oh yes. I was once flesh and blood, like you, and I proudly served as a knight of Alexandria.",
       "text": "โอ้ ใช่แล้ว ข้าพเจ้าเคยมีเลือดมีเนื้อเช่นเดียวกับพวกท่าน และได้ปฏิบัติหน้าที่เป็นอัศวินแห่งอเล็กซานเดรียด้วยความภาคภูมิใจ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soratherthanamachinethatbehaveslikeapersonyouwereareanactualpersonhowisthispossible",
       "text_en": "So rather than a machine that behaves like a person, you were— are an actual person? How is this possible?",
       "text": "งั้นแทนที่จะเป็นเครื่องจักรที่พฤติกรรมเหมือนมนุษย์ คุณก็เคยเป็น—และยังเป็นมนุษย์จริงๆ อยู่สินะ? มันเป็นไปได้ยังไงกัน?"
     },
     {
-      "character": "Otis",
+      "key": "tisonlynaturalthatyouareconfusedhearmytaletotheendandallshallbecomeclear",
       "text_en": "'Tis only natural that you are confused. Hear my tale to the end, and all shall become clear.",
       "text": "เป็นธรรมดาที่พวกท่านจะสับสนมึนงง ขอเพียงรับฟังเรื่องราวของข้าพเจ้าไปจนจบ แล้วทุกสิ่งทุกอย่างก็จะกระจ่างแจ้งเอง"
     },
     {
-      "character": "Otis",
+      "key": "theforemostdutyoftheroyalknightswastheprotectionoftheroyalfamilyinmytimethatwastheirmajestiesthekingandqueenandtheironlychildherhighnesstheprincess",
       "text_en": "The foremost duty of the royal knights was the protection of the royal family. In my time, that was Their Majesties the King and Queen, and their only child, Her Highness the Princess.",
       "text": "หน้าที่สำคัญที่สุดของกองอัศวินหลวงคือการปกป้องราชวงศ์ ในยุคสมัยของข้าพเจ้านั้นคือองค์พระราชาและพระราชินี รวมถึงพระธิดาเพียงพระองค์เดียวของพวกพระองค์ ซึ่งก็คือองค์หญิงนั่นเอง"
     },
     {
-      "character": "Otis",
+      "key": "bytheneverynationofourstarwasembroiledinsomemannerofconflictoverelectropethuswasourkingdomdrawnintoawarwithitsneighbor",
       "text_en": "By then, every nation of our star was embroiled in some manner of conflict over electrope. Thus was our kingdom drawn into a war with its neighbor.",
       "text": "ในขณะนั้น ทุกประเทศบนดวงดาวของพวกเราต่างตกอยู่ในความขัดแย้งเกี่ยวกับเอเลกโทรป ด้วยเหตุนี้ อาณาจักรของพวกเราจึงถูกดึงเข้าไปพัวพันในสงครามกับประเทศเพื่อนบ้าน"
     },
     {
-      "character": "Otis",
+      "key": "thatwarwasthecatalystforthegreatcalamitythatalteredtheenvironmentcountlesscountrymenlosttheirlivesamidstthechaosthekingandqueenamongthem",
       "text_en": "That war was the catalyst for the great calamity that altered the environment. Countless countrymen lost their lives amidst the chaos, the king and queen among them.",
       "text": "สงครามครั้งนั้นเป็นชนวนเหตุที่นำไปสู่มหาวิบัติครั้งใหญ่ที่แปรเปลี่ยนสภาพแวดล้อม ประชาชนจำนวนนับไม่ถ้วนต้องสูญเสียชีวิตท่ามกลางความโกลาหลนั้น รวมถึงองค์ราชาและองค์ราชินีด้วยเช่นกัน"
     },
     {
-      "character": "Otis",
+      "key": "forablessingwewereabletoprotecttheprincesswhothenrosetotheoccasionandbroughthopetoherpeopleinthosetryingtimessokindheartedwasouryoungqueenthatatherbehestweeventookinrefugeesfromtheenemynation",
       "text_en": "For a blessing, we were able to protect the princess, who then rose to the occasion and brought hope to her people in those trying times. So kind-hearted was our young queen that, at her behest, we even took in refugees from the enemy nation.",
       "text": "ช่างเป็นพระมหากรุณาธิคุณที่พวกเราสามารถปกป้ององค์หญิงไว้ได้ ซึ่งต่อมาพระองค์ก็ได้ทรงก้าวขึ้นมานำพาความหวังมาสู่ประชาชนในยามยากลำบาก องค์ราชินีผู้อ่อนเยาว์ของเราทรงมีพระทัยเมตตายิ่งนัก ถึงขนาดที่ทรงมีพระบัญชาให้พวกเรายอมรับเอาผู้ลี้ภัยจากประเทศศัตรูเข้ามาดูแลด้วย"
     },
     {
-      "character": "Otis",
+      "key": "butsadlyherreignwascutshortlikemanyothersherbodyhadbeenravagedbylightningandonedayshecollapsedandpassedaway",
       "text_en": "But sadly, her reign was cut short. Like many others, her body had been ravaged by lightning, and one day she collapsed and passed away...",
       "text": "ทว่าช่างน่าเศร้าที่รัชสมัยของพระองค์สั้นนัก ร่างกายของพระองค์ทรงถูกทำลายด้วยพลังสายฟ้าเฉกเช่นผู้คนจำนวนมาก และในวันหนึ่งพระองค์ก็ทรงล้มลงและเสด็จสวรรคตไป..."
     },
     {
-      "character": "Alisaie",
+      "key": "howtragic",
       "text_en": "How tragic...",
       "text": "ช่างน่าเศร้าเหลือเกิน..."
     },
     {
-      "character": "Otis",
+      "key": "ayenarywasthereacitizenwhoseeyesremaineddryandmanyamoonwasspentconstructingagreattombworthyofhermemory",
       "text_en": "Aye... Nary was there a citizen whose eyes remained dry, and many a moon was spent constructing a great tomb worthy of her memory.",
       "text": "ใช่แล้ว... ไม่มีประชาชนคนใดเลยที่ไม่มีน้ำตา และพวกเราต้องใช้เวลาหลายเดือนในการก่อสร้างสุสานอันยิ่งใหญ่ให้คู่ควรแก่การระลึกถึงพระองค์"
     },
     {
-      "character": "Otis",
+      "key": "yeticlungtohopestillforwhilehermajestywasonherdeathbedthekingdomsfinestscientistshadsuccessfullyextractedhersoul",
       "text_en": "Yet I clung to hope still. For while Her Majesty was on her deathbed, the kingdom's finest scientists had successfully extracted her soul.",
       "text": "ทว่าข้าพเจ้ายังคงยึดมั่นในความหวัง เพราะในระหว่างที่องค์ราชินีทรงนอนอยู่บนแท่นบรรทมในวาระสุดท้าย เหล่านักวิทยาศาสตร์ที่เก่งกาจที่สุดของอาณาจักรได้สกัดดวงจิตของพระองค์ออกมาสำเร็จ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "didwehearthatrightextractedhersoul",
       "text_en": "Did we hear that right? Extracted her soul?",
       "text": "พวกเราฟังไม่ผิดใช่ไหม? สกัดดวงจิตเนี่ยนะ?"
     },
     {
-      "character": "Otis",
+      "key": "ourfleshmaywitheranddiebutsolongaswearerememberedwemayliveon",
       "text_en": "Our flesh may wither and die. But so long as we are remembered, we may live on.",
       "text": "เนื้อหนังมังสาของเราอาจเน่าเปื่อยผุพังและมอดม้วยไป ทว่าตราบใดที่พวกเรายังถูกจดจำ พวกเราก็สามารถมีชีวิตอยู่ต่อไปได้"
     },
     {
-      "character": "Otis",
+      "key": "thisageoldbeliefhadalwayscomfortedourpeoplebutascasualtiesmountedinthewakeofthecalamitywesoughttomakeitintorealitythroughthepowerofelectrope",
       "text_en": "This age-old belief had always comforted our people. But as casualties mounted in the wake of the calamity, we sought to make it into reality through the power of electrope.",
       "text": "ความเชื่อที่มีมาแต่โบราณนี้คอยปลอบประโลมจิตใจประชาชนของเราเสมอมา ทว่าเมื่อยอดผู้เสียชีวิตพุ่งสูงขึ้นหลังเกิดมหาวิบัติ พวกเราจึงพยายามทำให้ความเชื่อนั้นกลายเป็นจริงขึ้นมาด้วยพลังของเอเลกโทรป"
     },
     {
-      "character": "Otis",
+      "key": "intimewesucceededindevelopingthemeanstopreservethesoulanditwasusedtosparethequeeneternaldeath",
       "text_en": "In time, we succeeded in developing the means to preserve the soul, and it was used to spare the queen eternal death.",
       "text": "ในเวลาต่อมา พวกเราประสบความสำเร็จในการพัฒนาวิธีการเก็บรักษาดวงจิต และนำมาใช้ช่วยปกป้ององค์ราชินีจากการความตายอันเป็นนิรันดร์"
     },
     {
-      "character": "Otis",
+      "key": "yetitwasntenoughtosimplypreventthesoulsdeparturefortheultimategoalwastorecreateapersonastheywereinlifeandthisrequiredthattheirmemoriesbefurtherextractedfromtheirsoul",
       "text_en": "Yet it wasn't enough to simply prevent the soul's departure. For the ultimate goal was to recreate a person as they were in life, and this required that their memories be further extracted from their soul.",
       "text": "ทว่าเพียงแค่การเหนี่ยวรั้งมิให้ดวงจิตดับสูญนั้นยังไม่เพียงพอ เพราะเป้าหมายสูงสุดคือการรังสรรค์ตัวตนของผู้นั้นขึ้นมาใหม่ให้เหมือนยามมีชีวิตอยู่ ซึ่งสิ่งนี้จำเป็นต้องอาศัยการสกัดความทรงจำออกจากดวงจิตเพิ่มเติมด้วย"
     },
     {
-      "character": "Otis",
+      "key": "ittookmanymoreyearsofresearchtomakethispossiblebywhichtimeihadbecomeagreyoldmanwithmydaysnumberedididnothesitatetovolunteermyselfasatestsubjectfortheprocedure",
       "text_en": "It took many more years of research to make this possible, by which time I had become a grey old man. With my days numbered, I did not hesitate to volunteer myself as a test subject for the procedure.",
       "text": "ต้องใช้เวลาศึกษาวิจัยอีกหลายปีในการทำให้สำเร็จ ซึ่งในตอนนั้นข้าพเจ้าก็ได้กลายสภาพเป็นชายชราผมหงอกขาวไปเสียแล้ว เมื่อวันเวลาที่เหลืออยู่ของข้าพเจ้าลดน้อยลง ข้าพเจ้าจึงมิได้ลังเลเลยที่จะเสนอตัวเป็นหนูทดลองสำหรับกระบวนการนี้"
     },
     {
-      "character": "Otis",
+      "key": "soitwasthatiattainedthisvessel",
       "text_en": "So it was that I attained this vessel.",
       "text": "ด้วยเหตุนั้น ข้าพเจ้าจึงได้รับร่างภาชนะนี้มา"
     },
     {
-      "character": "Otis",
+      "key": "andbymysuccessfulrebirthipavedthewayforthosewhoarerecreatedfromthememoriesofthedeparted",
       "text_en": "And by my successful rebirth, I paved the way for those who are recreated from the memories of the departed.",
       "text": "และด้วยการถือกำเนิดใหม่ที่ประสบความสำเร็จของข้าพเจ้า จึงเป็นการเบิกทางให้แก่ผู้ที่ถูกรังสรรค์ขึ้นมาจากความทรงจำของผู้ที่ล่วงลับไปแล้ว"
     },
     {
-      "character": "Otis",
+      "key": "theendlesstheyarecalled",
       "text_en": "The Endless, they are called.",
       "text": "ผู้คนต่างเรียกขานพวกเขาว่า เอ็นด์เลส"
     },
     {
-      "character": "Alisaie",
+      "key": "ifyourtaleistruethenthequeenthatyourpeoplebroughtbacktolife",
       "text_en": "If your tale is true, then the queen that your people brought back to life...",
       "text": "หากเรื่องที่คุณเล่าเป็นความจริง งั้นองค์ราชินีที่ผู้คนของคุณปลุกคืนชีพขึ้นมาก็คือ..."
     },
     {
-      "character": "Otis",
+      "key": "ohosoyouknowhermajestyaswell",
       "text_en": "Oho, so you know Her Majesty as well!",
       "text": "โอ้โฮ แสดงว่าพวกท่านก็รู้จักองค์ราชินีด้วยงั้นรึ!"
     },
     {
-      "character": "Otis",
+      "key": "mydescriptionofherboundlesskindnessmusthavepaledincomparisontowhatyounodoubtfeltinherpresence",
       "text_en": "My description of her boundless kindness must have paled in comparison to what you no doubt felt in her presence.",
       "text": "คำพรรณนาเกี่ยวกับความเมตตาอันล้นพ้นของพระองค์คงเทียบไม่ได้เลยกับสิ่งที่พวกท่านสัมผัสได้ยามอยู่ต่อหน้าพระพักตร์"
     },
     {
-      "character": "Otis",
+      "key": "ihaventmethermyselficonfessnotsinceassumingmycurrentformwouldntwanttofrightenthelivingdaylightsoutofher",
       "text_en": "I haven't met her myself, I confess. Not since assuming my current form. Wouldn't want to frighten the living daylights out of her!",
       "text": "สารภาพตามตรงว่าข้าพเจ้าเองยังมิเคยได้พบพระองค์เลย นับตั้งแต่ข้าพเจ้ามารับร่างปัจจุบันนี้ ข้าพเจ้ามิปรารถนาจะทำให้พระองค์ทรงตกพระทัยจนขวัญหนีดีฝ่อหรอกนะ!"
     },
     {
-      "character": "Otis",
+      "key": "hahaha",
       "text_en": "Hahaha!",
       "text": "ฮ่าๆๆ!"
     },
     {
-      "character": "Otis",
+      "key": "ihaveseenmyqueenfromafarmanytimesbutivenotthecouragetoapproachher",
       "text_en": "I have seen my queen from afar many times. But I've not the courage to approach her...",
       "text": "ข้าพเจ้าเฝ้ามององค์ราชินีของข้าพเจ้าจากระยะไกลอยู่บ่อยครั้ง ทว่าข้าพเจ้ากลับไม่มีความกล้าพอที่จะก้าวเข้าไปหาพระองค์..."
     },
     {
-      "character": "Otis",
+      "key": "thisisntoutofcowardicemindyoubutratherconcernyesconcernthatiwouldcausehermajestyunduedistress",
       "text_en": "This isn't out of cowardice, mind you, but rather...concern. Yes, concern that I would cause Her Majesty undue distress!",
       "text": "แต่นี่มิใช่เพราะความขลาดกลัวหรอกนะ ทว่าเป็นเพราะ... ความเกรงใจต่างหาก ใช่แล้ว เกรงใจว่าข้าพเจ้าจะทำให้องค์ราชินีต้องเผชิญกับความลำบากใจโดยมิจำเป็น!"
     },
     {
-      "character": "Gulool Ja",
+      "key": "otishastoldmethetalebefore",
       "text_en": "Otis has told me the tale before.",
       "text": "คุณโอทิสเคยเล่าเรื่องนี้ให้ผมฟังมาก่อนแล้วล่ะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "doesthismeanthequeenofalexandriaisntactuallyapersonlikeyouandme",
       "text_en": "Does this mean the queen of Alexandria isn't actually a person like you and me...?",
       "text": "งั้นก็หมายความว่าราชินีแห่งอเล็กซานเดรียก็ไม่ใช่มนุษย์ที่มีชีวิตเหมือนอย่างคุณและฉันงั้นเหรอ...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theendlesssoallthistimesphenewasntalive",
       "text_en": "The Endless... So all this time, Sphene wasn't alive?",
       "text": "เอ็นด์เลส... งั้นตลอดเวลาที่ผ่านมา สฟีนก็ไม่ได้มีชีวิตอยู่จริงๆ งั้นเหรอ?"
     },
     {
-      "character": "Otis",
+      "key": "shelivesyetshedoesnottisadmittedlyadifficultdistinctiontomake",
       "text_en": "She lives yet she does not. 'Tis admittedly a difficult distinction to make.",
       "text": "พระองค์มีชีวิตอยู่ทว่าก็หาไม่ ยอมรับตามตรงว่านี่เป็นข้อแตกต่างที่จำแนกได้ยากยิ่ง"
     },
     {
-      "character": "Otis",
+      "key": "havinginheritedthememoriesofadepartedsoulanendlessfeelsthinksandactspreciselyasthatpersonwould",
       "text_en": "Having inherited the memories of a departed soul, an Endless feels, thinks, and acts precisely as that person would.",
       "text": "ในฐานะผู้สืบทอดความทรงจำจากดวงจิตที่ล่วงลับไปแล้ว เอ็นด์เลสจะรู้สึก นึกคิด และกระทำทุกอย่างตรงตามที่คนผู้นั้นเคยเป็นอย่างแม่นยำ"
     },
     {
-      "character": "Otis",
+      "key": "inthatsenseibelievetheyarealive",
       "text_en": "In that sense, I believe they are alive.",
       "text": "หากมองในแง่นั้น ข้าพเจ้าเชื่อว่าพวกเขาก็มีชีวิตอยู่ล่ะนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thealexandriansknowaboutthisrightitcanthavegoneunnoticedthatspheneisperpetuallyyouthful",
       "text_en": "The Alexandrians know about this, right? It can't have gone unnoticed that Sphene is perpetually youthful.",
       "text": "ชาวอเล็กซานเดรียรู้เรื่องนี้กันหรือเปล่า? การที่สฟีนคงความเยาว์วัยอยู่ตลอดเวลาแบบนั้น มันไม่มีทางรอดพ้นจากความผิดสังเกตไปได้หรอก"
     },
     {
-      "character": "Gulool Ja",
+      "key": "noonereallyknowsabouttheendlesspeoplewhowearregulatorsdonteventhinkaboutdeath",
       "text_en": "No one really knows about the Endless. People who wear regulators don't even think about death.",
       "text": "ไม่มีใครรู้เรื่องเอ็นด์เลสจริงๆ หรอกครับ คนที่สวมเครื่องควบคุมต่างก็ไม่ได้ใส่ใจคิดถึงเรื่องความตายเลยด้วยซ้ำ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "everyoneseesthatthequeendoesntchangebuttheyjustacceptit",
       "text_en": "Everyone sees that the queen doesn't change, but they just accept it.",
       "text": "ทุกคนเห็นว่าองค์ราชินีไม่เปลี่ยนไปเลย แต่พวกเขาก็แค่ยอมรับมันไปอย่างนั้นเองครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "tothemitsjustwhosheis",
       "text_en": "To them, it's just who she is.",
       "text": "สำหรับพวกเขาแล้ว นั่นเป็นเพียงแค่สิ่งที่พระองค์เป็นครับ"
     },
     {
-      "character": "Otis",
+      "key": "whilethereshouldbeasmanyendlessasthosewhohavediedibelievetheyarelimitedinwheretheycanexistqueenspheneisuniqueinherabilitytoappearbeforeyou",
       "text_en": "While there should be as many Endless as those who have died, I believe they are limited in where they can exist. Queen Sphene is unique in her ability to appear before you.",
       "text": "แม้จำนวนของเอ็นด์เลสควรจะเท่ากับจำนวนของผู้ที่ล่วงลับไปแล้ว ทว่าข้าพเจ้าเชื่อว่าสถานที่ที่พวกเขาจะคงอยู่ได้นั้นมีจำกัด องค์ราชินีสฟีนทรงมีความพิเศษในความสามารถที่จะปรากฏตัวต่อหน้าพวกท่านได้"
     },
     {
-      "character": "Otis",
+      "key": "strictlyspeakingimyselfamnotanendlesstheyarecreatedusingmemoriesextractedfromasoulbutmyentiresoulwasplacedinsideamachine",
       "text_en": "Strictly speaking, I myself am not an Endless. They are created using memories extracted from a soul, but my entire soul was placed inside a machine.",
       "text": "หากจะกล่าวตามตรง ตัวข้าพเจ้าเองมิใช่เอ็นด์เลสหรอกนะ เพราะพวกเขาถูกสร้างขึ้นมาจากความทรงจำที่สกัดจากดวงจิต แต่ดวงจิตทั้งหมดของข้าพเจ้าถูกนำมาใส่ไว้ในเครื่องจักรนี้เลยต่างหาก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "beinginsideamachinemakesyoudifferenthow",
       "text_en": "Being inside a machine makes you different...how?",
       "text": "การอยู่ข้างในเครื่องจักรมันทำให้คุณแตกต่างจากพวกเขายังไงเหรอ?"
     },
     {
-      "character": "Otis",
+      "key": "whileidonotunderstandthefinerpointsmylifeisboundtothisvesselifitbreaksdownthenitwouldbeoverformemuchlikeabeingoffleshandbloodhardlyanendlessunchanginglifeimsureyoullagree",
       "text_en": "While I do not understand the finer points, my life is bound to this vessel. If it breaks down, then it would be over for me, much like a being of flesh and blood. Hardly an endless, unchanging life, I'm sure you'll agree!",
       "text": "ถึงแม้ข้าพเจ้าจะไม่เข้าใจรายละเอียดลึกๆ นัก ทว่าชีวิต of ข้าพเจ้ายึดโยงอยู่กับร่างภาชนะนี้ หากมันพังทลายลง ทุกอย่างสำหรับข้าพเจ้าก็คงจบสิ้นลงเช่นกัน ไม่ต่างอะไรกับสิ่งมีชีวิตที่มีเลือดเนื้อเลย ซึ่งนั่นก็ไม่อาจเรียกว่าชีวิตอันเป็นนิรันดร์ที่ไม่เปลี่ยนแปลงได้เลยใช่ไหมล่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "anendlessunchanginglifeicanthelpbutberemindedoftheea",
       "text_en": "An endless, unchanging life... I can't help but be reminded of the Ea.",
       "text": "ชีวิตที่เป็นนิรันดร์และไม่มีวันแปรเปลี่ยน... อดคิดถึงพวกเอียไม่ได้เลยแฮะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "didcahciuaandtheothersknowaboutallthis",
       "text_en": "Did Cahciua and the others know about all this?",
       "text": "แล้วคาชิวากับคนอื่นๆ เขารู้เรื่องพวกนี้กันหมดแล้วเหรอ?"
     },
     {
-      "character": "Alisaie",
+      "key": "consideringtheirextensiveintelligencegatheringidbesurprisediftheydidnt",
       "text_en": "Considering their extensive intelligence gathering, I'd be surprised if they didn't.",
       "text": "เมื่อพิจารณาจากความสามารถในการรวบรวมข้อมูลข่าวสารอันกว้างขวางของพวกเขาแล้ว ถ้าพวกเขาไม่รู้นี่สิถึงจะแปลก"
     },
     {
-      "character": "Alisaie",
+      "key": "fornowletssharewhatwevelearnedwithkrileandrahaicanthelpbuthavemisgivingsaboutthis",
       "text_en": "For now, let's share what we've learned with Krile and Raha. I can't help but have misgivings about this...",
       "text": "ตอนนี้พวกเราเอาข้อมูลที่ได้ยินมาไปคุยกับไครล์และราฮากันก่อนเถอะ ฉันรู้สึกสังหรณ์ใจไม่ค่อยดีเกี่ยวกับเรื่องนี้เลย..."
     },
     {
-      "character": "Erenville",
+      "key": "naaheisthatyou",
       "text_en": "Naahe? Is that you?",
       "text": "นาเฮเหรอ? นั่นนายใช่ไหม?"
     },
     {
-      "character": "Naahe",
+      "key": "goodgodseleneshpyaitsbeentoolongmyfriend",
       "text_en": "Good gods, Elene'shpya!? It's been too long, my friend!",
       "text": "พระเจ้าช่วย เอเลเนชเปีย!? ไม่ได้เจอกันตั้งนานเลยนะเพื่อนยาก!"
     },
     {
-      "character": "Naahe",
+      "key": "wherehaveyoubeenalltheseyearswhathaveyoubeendoingwithyourself",
       "text_en": "Where have you been all these years? What have you been doing with yourself?",
       "text": "นายหายไปไหนมาตั้งหลายปีเนี่ย? ไปทำอะไรมาบ้างล่ะ?"
     },
     {
-      "character": "Naahe",
+      "key": "holdontheysayqueensphenehasguestsfromoutsidethebarrierthatsyouigather",
       "text_en": "Hold on... They say Queen Sphene has guests from outside the barrier. That's you, I gather?",
       "text": "เดี๋ยวก่อน... ได้ยินคนเขาพูดกันว่าองค์ราชินีสฟีนมีแขกผู้มาเยือนจากภายนอกบาเรีย นั่นคือพวกนายงั้นเหรอ?"
     },
     {
-      "character": "Erenville",
+      "key": "itseemssoimlookingformymotherdoyouknowwheresheis",
       "text_en": "It seems so. I'm looking for my mother—do you know where she is?",
       "text": "ดูเหมือนจะเป็นอย่างนั้นนะ ฉันกำลังตามหาแม่ของฉันอยู่น่ะ—นายรู้ไหมว่าตอนนี้แม่ฉันอยู่ที่ไหน?"
     },
     {
-      "character": "Naahe",
+      "key": "yourmother",
       "text_en": "Your mother?",
       "text": "แม่ของนายงั้นเหรอ?"
     },
     {
-      "character": "Naahe",
+      "key": "sorrybutwhatwasshelikeagain",
       "text_en": "Sorry, but what was she like again?",
       "text": "ขอโทษทีนะ แต่แม่นายหน้าตาเป็นยังไง มีลักษณะแบบไหนนะ?"
     },
     {
-      "character": "Erenville",
+      "key": "whatitscahciuayouknowtheonewhowastooadventurousbyhalfwhojourneyedwiththedawnservant",
       "text_en": "What? It's Cahciua. You know, the one who was too adventurous by half. Who journeyed with the Dawnservant.",
       "text": "หา? ก็คาชิวาไงล่ะ นายก็รู้ คนที่รักการผจญภัยแบบสุดโต่งคนนั้นน่ะ คนที่ร่วมเดินทางไปกับท่านดอว์นเซิร์ฟวันต์นั่นไง"
     },
     {
-      "character": "Naahe",
+      "key": "hmmmitsnotringinganybells",
       "text_en": "Hmmm... It's not ringing any bells.",
       "text": "อืม... ไม่คุ้นหูเลยแฮะ"
     },
     {
-      "character": "Erenville",
+      "key": "youcantbeseriousourswasatinylittlevillagesurelyyourememberher",
       "text_en": "You can't be serious. Ours was a tiny little village. Surely you remember her!",
       "text": "นายต้องล้อฉันเล่นแน่ๆ หมู่บ้านของเราออกจะเล็กแค่นั้น นายต้องจำแม่ฉันได้สิ!"
     },
     {
-      "character": "Naahe",
+      "key": "ireallydontitsallablank",
       "text_en": "I really don't... It's all a blank...",
       "text": "ฉันจำไม่ได้จริงๆ... ในหัวมันว่างเปล่าไปหมดเลย..."
     },
     {
-      "character": "Erenville",
+      "key": "isanyoneelseherefromthevillage",
       "text_en": "Is anyone else here from the village?",
       "text": "มีคนอื่นจากหมู่บ้านเราอยู่ที่นี่อีกไหม?"
     },
     {
-      "character": "Naahe",
+      "key": "hhey",
       "text_en": "H-Hey!",
       "text": "เ-เฮ้ย!"
     },
     {
-      "character": "Ecaate",
+      "key": "eleneshpya",
       "text_en": "Elene'shpya!?",
       "text": "เอเลเนชเปีย!?"
     },
     {
-      "character": "Ecaate",
+      "key": "grabbedbyshoulderssurprisedreaxuwaaah",
       "text_en": "[GRABBED BY SHOULDERS, SURPRISED REAX “Uwaaah!”]",
       "text": "[โดนคว้าไหล่, ร้องด้วยความตกใจ — “อุหวาาา!”]"
     },
     {
-      "character": "Erenville",
+      "key": "imlookingforcahciuawhereisshe",
       "text_en": "I'm looking for Cahciua! Where is she?",
       "text": "ฉันกำลังตามหาคาชิวา! ตอนนี้แม่ฉันอยู่ที่ไหน?!"
     },
     {
-      "character": "Ecaate",
+      "key": "whwhatsthisallofasuddenwhoscahciua",
       "text_en": "Wh-What's this all of a sudden? Who's Cahciua?",
       "text": "อะ-อะไรของนายเนี่ย จู่ๆ ก็โผล่มา? ใครคือคาชิวางั้นเหรอ?"
     },
     {
-      "character": "Erenville",
+      "key": "thisthiscannotbe",
       "text_en": "This...this cannot be...",
       "text": "เรื่องแบบนี้... มันเป็นไปได้ยังไงกัน..."
     },
     {
-      "character": "Erenville",
+      "key": "thememoriesofthedepartedaretakenaway",
       "text_en": "The memories of the departed...are taken away...",
       "text": "ความทรงจำของผู้ล่วงลับ... ถูกพรากไปงั้นเหรอ..."
     },
     {
-      "character": "Erenville",
+      "key": "no",
       "text_en": "No...",
       "text": "ไม่นะ..."
     },
     {
-      "character": "Cahciua",
+      "key": "eleneshpyawhereareyoutheotherswillbeheresoonsohurrybackwontyou",
       "text_en": "Elene'shpya, where are you? The others will be here soon, so hurry back, won't you?",
       "text": "เอเลเนชเปีย ลูกอยู่ไหนจ๊ะ? คนอื่นๆ ใกล้จะมากันแล้ว รีบกลับมาหน่อยสิลูก"
     },
     {
-      "character": "Cahciua",
+      "key": "doyouhearmesaysomethingwouldyou",
       "text_en": "Do you hear me? Say something, would you?",
       "text": "ได้ยินแม่ไหม? ตอบแม่หน่อยสิ"
     }

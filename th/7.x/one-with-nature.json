@@ -1,396 +1,388 @@
 {
-  "id": "one-with-nature",
-  "wiki_path": "/wiki/One_with_Nature",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "One with Nature",
-  "title": "ประสานวิถีธรรมชาติ",
-  "level": "96",
-  "location": "Shaaloani(X:14.4,Y:19.3)",
-  "npc_start": "Erenville",
+  "quest_id": "one-with-nature",
   "dialogues": [
     {
-      "character": "Shenza",
+      "key": "wellbereadytohandlethattimberwhenyouandthechiefgetback",
       "text_en": "We'll be ready to handle that timber when you and the chief get back.",
       "text": "เราจะพร้อมจัดการไม้นั้น เมื่อคุณและหัวหน้ากลับมา"
     },
     {
-      "character": "Zawpya",
+      "key": "withyourhelpwellgettherailroadoperatingagainandthenyoullhavethechancetoseeourengineinmotionitspoetryitellyou",
       "text_en": "With your help, we'll get the railroad operating again. And then you'll have the chance to see our engine in motion─it's poetry, I tell you!",
       "text": "ด้วยความช่วยเหลือของคุณ เราจะเปิดดำเนินการทางรถไฟอีกครั้ง แล้วคุณจะมีโอกาสเห็นเครื่องยนต์ของเราเคลื่อนไหว - ฉันบอกคุณแล้วว่ามันเป็นบทกวี!"
     },
     {
-      "character": "Nitowikwe",
+      "key": "rightwevegotworktobegettingonwithourselves",
       "text_en": "Right, we've got work to be getting on with ourselves!",
       "text": "เอาล่ะ เรามีงานที่ต้องทำด้วยตัวเอง!"
     },
     {
-      "character": "Erenville",
+      "key": "comeletsfollowwawlika",
       "text_en": "Come, let's follow Wawlika.",
       "text": "มาครับ เดินตามคุณวอว์ลิก้า (Wawlika) ไปกันเถอะครับ"
     },
     {
-      "character": "Shenza",
+      "key": "theresanotherstationonthewaysobesuretodropinthetrainllbeinthedepotbutyoucanstillseeitfromoutside",
       "text_en": "There's another station on the way, so be sure to drop in. The train'll be in the depot, but you can still see it from outside!",
       "text": "ระหว่างทางยังมีสถานีอื่นอยู่ ดังนั้นอย่าลืมแวะ รถไฟจะอยู่ในคลัง แต่คุณยังสามารถมองเห็นได้จากด้านนอก!"
     },
     {
-      "character": "Shenza",
+      "key": "imquitetakenwiththesleekdesignoftheheadendmyselfthoughifyoupeekthroughthewindowsyoucanprobablycatchaglimpseof",
       "text_en": "I'm quite taken with the sleek design of the headend, myself. Though if you peek through the windows, you can probably catch a glimpse of─",
       "text": "ฉันค่อนข้างพอใจกับการออกแบบส่วนหัวที่โฉบเฉี่ยวของตัวเอง แม้ว่าคุณจะมองผ่านหน้าต่างก็อาจจะมองเห็นได้─"
     },
     {
-      "character": "Zawpya",
+      "key": "enoughjabberingshenzathankstothesetwowefinallyhavesomerealworktodosoletsgettoit",
       "text_en": "Enough jabbering, Shenza. Thanks to these two, we finally have some real work to do, so let's get to it.",
       "text": "พูดพล่อยพอแล้ว Shenza ต้องขอบคุณทั้งสองสิ่งนี้ ในที่สุดเราก็มีงานที่ต้องทำจริงๆ ดังนั้นเรามาเริ่มกันเลยดีกว่า"
     },
     {
-      "character": "Shenza",
+      "key": "wellseeyoulater",
       "text_en": "We'll see you later!",
       "text": "แล้วพบกันใหม่!"
     },
     {
-      "character": "Erenville",
+      "key": "isupposetheresnoharminstoppingatthestationitsonthewayafterall",
       "text_en": "I suppose there's no harm in stopping at the station. It's on the way, after all.",
       "text": "ผมประเมินผลว่าแวะเข้าไปตรวจสอบตรงสถานีรถไฟสักหน่อยก็ไม่เสียหายอะไรครับ มันตั้งอยู่พิกัดกึ่งกลางทางพอดีด้วยครับ"
     },
     {
-      "character": "Erenville",
+      "key": "imustconfessthetrainisanimpressivesighthoweasyitmustbetoshipgoodsthroughoutthewildsnow",
       "text_en": "I must confess, the train is an impressive sight. How easy it must be to ship goods throughout the wilds now.",
       "text": "ยอมรับจากใจจริงเลยครับว่าขบวนรถไฟหัวจักรเหล็กนี่ดูภูมิฐานน่าทึ่งมากเลยครับ ยามนี้การจัดส่งเสบียงสินค้าข้ามเขตแดนถิ่นทุรกันดารคงสะดวกราบรื่นขึ้นเยอะเลยนะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "rightmehwahhetsoanshouldbetothenortheastofhereletscontinueon",
       "text_en": "Right, Mehwahhetsoan should be to the northeast of here. Let's continue on.",
       "text": "เอาละครับ ค่ายพักแรมเมห์วาเฮตโซอันน่าจะตั้งอยู่ทางทิศตะวันออกเฉียงเหนือของที่นี่ครับ พวกเราเดินทางกันต่อเถอะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "suchbeautyiknowmorethanafewgleanerswhowouldlovetoexplorethisland",
       "text_en": "Such beauty. I know more than a few gleaners who would love to explore this land.",
       "text": "ช่างเป็นทัศนียภาพที่งดงามเจริญตาเหลือเกินครับ ผมรู้จักพวกเพื่อน ๆ นักเก็บเกี่ยว (gleaners) หลายคนเลยล่ะครับที่ต้องตกหลุมรักอยากแวะมาสำรวจที่นี่แน่นอนครับ"
     },
     {
-      "character": "Wawlika",
+      "key": "ahthereyouarethevillageisjustupahead",
       "text_en": "Ah, there you are. The village is just up ahead.",
       "text": "อ้าว คุณอยู่นี่แล้ว หมู่บ้านอยู่ข้างหน้า"
     },
     {
-      "character": "Wawlika",
+      "key": "truthbetoldiveneverhaddirectdealingswiththepeopleofmehwahhetsoanbutidoknowthattheirtraditionsmeanagreatdealtothemasdoestheland",
       "text_en": "Truth be told, I've never had direct dealings with the people of Mehwahhetsoan. But I do know that their traditions mean a great deal to them, as does the land...",
       "text": "บอกตามตรงว่าฉันไม่เคยมีความสัมพันธ์โดยตรงกับผู้คนในเมฮวาเฮตโซอันเลย แต่ฉันรู้ว่าประเพณีของพวกเขามีความหมายอย่างมากต่อพวกเขา เช่นเดียวกับผืนดิน..."
     },
     {
-      "character": "Erenville",
+      "key": "ahhhsuchlovelycleanairitfeelslikeatreataftertheoverpoweringceruleumofsheshenewezisprings",
       "text_en": "Ahhh, such lovely clean air... It feels like a treat after the overpowering ceruleum of Sheshenewezi Springs.",
       "text": "ฮ้า สูดอากาศบริสุทธิ์รอบตัวนี่แล้วรู้สึกดีจังเลยครับ ช่วยฟื้นฟูเยียวยาปอดได้เยอะหลังจากต้องไปดมกลิ่นควันแร่เซรูเลียมฉุน ๆ ที่น้ำพุเชเชเนเวซีมาตั้งนานครับ"
     },
     {
-      "character": "Erenville",
+      "key": "thewatersnearbyarejustaspristineitsaparadiseforpeopleandanimalsboth",
       "text_en": "The waters nearby are just as pristine. It's a paradise for people and animals both.",
       "text": "แหล่งน้ำทำกินใกล้เคียงรอบตัวก็ใสสะอาดไร้มลพิษดีแท้ครับ เรียกได้ว่าเป็นสวรรค์บารมีรุ่งเรืองสำหรับทั้งคนและสัตว์ป่าเลยล่ะครับ"
     },
     {
-      "character": "???",
+      "key": "imgladyouappreciatetheblessingsofnatureaswedo",
       "text_en": "I'm glad you appreciate the blessings of nature as we do.",
       "text": "ฉันดีใจที่คุณชื่นชมพรของธรรมชาติเช่นเดียวกับเรา"
     },
     {
-      "character": "Hhwato",
+      "key": "greetingstravelersandwelcome",
       "text_en": "Greetings, travelers, and welcome.",
       "text": "สวัสดีนักเดินทางและยินดีต้อนรับ"
     },
     {
-      "character": "Hhwato",
+      "key": "iamhhwatochiefofmehwahhetsoanandthisismysonshepetto",
       "text_en": "I am Hhwato, chief of Mehwahhetsoan. And this is my son, Shepetto.",
       "text": "ฉันชื่อฮวาโต หัวหน้ากลุ่มเมฮวาเฮตโซอัน และนี่คือเชเพตโต ลูกชายของฉัน"
     },
     {
-      "character": "Shepetto",
+      "key": "apleasuretomeetyou",
       "text_en": "A pleasure to meet you.",
       "text": "ยินดีที่ได้พบคุณ"
     },
     {
-      "character": "Wawlika",
+      "key": "ithankyouforthewarmwelcomeandapologizeforoursuddenintrusion",
       "text_en": "I thank you for the warm welcome, and apologize for our sudden intrusion.",
       "text": "ฉันขอขอบคุณสำหรับการต้อนรับอันอบอุ่น และขออภัยสำหรับการบุกรุกอย่างกะทันหันของเรา"
     },
     {
-      "character": "Wawlika",
+      "key": "imwawlikastationmasterofxakturalrailing",
       "text_en": "I'm Wawlika, stationmaster of Xak Tural Railing.",
       "text": "ฉันชื่อ Wawlika นายสถานีของ แซกทูรัล Railing"
     },
     {
-      "character": "Wawlika",
+      "key": "therecentearthquakehasdamagedourtracksandwerequiretimbertomakerepairs",
       "text_en": "The recent earthquake has damaged our tracks, and we require timber to make repairs.",
       "text": "แผ่นดินไหวเมื่อเร็วๆ นี้ทำให้เส้นทางของเราเสียหาย และเราต้องการไม้เพื่อซ่อมแซม"
     },
     {
-      "character": "Wawlika",
+      "key": "thisisforenameanderenvillewhohavevolunteeredtoassistuswiththerestorationeffort",
       "text_en": "This is Forename and Erenville, who have volunteered to assist us with the restoration effort.",
       "text": "นี่คือชื่อหน้าและเอเรนวิลล์ ซึ่งอาสาช่วยเหลือเราในการฟื้นฟู"
     },
     {
-      "character": "Shepetto",
+      "key": "sniffyouveamostcuriousairaboutyouofoilandsteeltannedleatherandthefaintesthintoffairwindsblownfromadistantshorethoughiknownotwhererosesofamostunusualvarietyfreshfruitsbutnotofanysortwithwhichiamfamiliarmeadowsawashwithunfamiliarflorasaltandsandoflandsunknowntendergrassoflandsunknownpinebutnotoftheturalisortbloodsoakedsoiloflandsunknownigatheryouarenotfromtheselands",
       "text_en": "<sniff> You've a most curious air about you. Of oil and steel, tanned leather, and the faintest hint of... fair winds blown from a distant shore, though I know not where / roses of a most unusual variety / fresh fruits, but not of any sort with which I am familiar / meadows awash with unfamiliar flora / salt and sand of lands unknown / tender grass of lands unknown / pine...but not of the Turali sort / blood-soaked soil of lands unknown . I gather you are not from these lands?",
       "text": "<สูดอากาศ> คุณมีความอยากรู้อยากเห็นเกี่ยวกับตัวคุณมากที่สุด ประกอบด้วยน้ำมันและเหล็กกล้า หนังฟอกฝาด และคำใบ้จาง ๆ ของ... ลมที่พัดมาจากชายฝั่งอันห่างไกล แม้ว่าฉันจะไม่รู้ว่าที่ไหน / กุหลาบที่มีความหลากหลายมากที่สุด / ผลไม้สด แต่ไม่ใช่ชนิดใด ๆ ที่ฉันคุ้นเคย / ทุ่งหญ้าที่เต็มไปด้วยพืชพรรณที่ไม่คุ้นเคย / เกลือและทรายของดินแดนที่ไม่รู้จัก / หญ้าอ่อนของดินแดนที่ไม่รู้จัก / ต้นสน... แต่ไม่ใช่ของประเภท Turali / ดินที่โชกเลือดของดินแดนที่ไม่รู้จัก ฉันรวบรวมคุณไม่ได้มาจากดินแดนเหล่านี้?"
     },
     {
-      "character": "Shepetto",
+      "key": "trulyiwouldlovetoknowmoreofyouandthelandsyouhaveseen",
       "text_en": "Truly? I would love to know more of you and the lands you have seen...",
       "text": "อย่างแท้จริง? ฉันอยากจะรู้จักคุณมากขึ้น และดินแดนที่คุณได้เห็น..."
     },
     {
-      "character": "Erenville",
+      "key": "iamtoldyourpeopleholdyourtraditionsinthehighestyetigatheryouarecuriousaboutthoseofothersaswell",
       "text_en": "I am told your people hold your traditions in the highest. Yet I gather you are curious about those of others as well?",
       "text": "ผมได้ข่าวว่าชนเผ่าของคุณน้าเคารพบูชาขนบธรรมเนียมขนบประเพณีโบราณอย่างสูงสุด แต่อย่างไรก็ตาม ดูเหมือนคุณน้าจะมีความสนใจสงสัยใคร่รู้ในวัฒนธรรมของต่างแดนด้วยเหมือนกันใช่ไหมครับ?"
     },
     {
-      "character": "Hhwato",
+      "key": "butofcoursenatureisboundlessasisourloveforherlandsandherchildrenthehhetsoinparticularhavedonemuchtoguideourwayoflife",
       "text_en": "But of course. Nature is boundless, as is our love for her lands and her children. The hhetso, in particular, have done much to guide our way of life.",
       "text": "แต่แน่นอน ธรรมชาตินั้นไร้ขอบเขต เช่นเดียวกับความรักที่เรามีต่อผืนดินและลูกๆ ของเธอ โดยเฉพาะอย่างยิ่งชาวเฮตโซได้ช่วยชี้แนะวิถีชีวิตของเรามากมาย"
     },
     {
-      "character": "Hhwato",
+      "key": "wheretohunttogathertolayourheadsthehhetsoteachusallthesethingsandmoreitisforthatreasonibelievethatweareattunedtotheshiftingwindsaroundus",
       "text_en": "Where to hunt, to gather, to lay our heads─the hhetso teach us all these things and more. It is for that reason, I believe, that we are attuned to the shifting winds around us.",
       "text": "จะล่าสัตว์ที่ไหน รวบรวม วางหัว ทั้งหมดนี้สอนเราทุกอย่างและอีกมากมาย ฉันเชื่อว่าด้วยเหตุผลนั้นเองที่ทำให้เราปรับตัวเข้ากับลมที่เปลี่ยนแปลงรอบตัวเรา"
     },
     {
-      "character": "Erenville",
+      "key": "iseethatwordhhetsoitmeansleaderofsoulsinthehhetsarrotonguedoesitnot",
       "text_en": "I see... That word, hhetso─it means “leader of souls” in the Hhetsarro tongue, does it not?",
       "text": "เข้าใจแล้วครับ... คำว่า เฮตโซ (hhetso) ในภาษาเฮตซาร์โร หมายถึง “ผู้นำทางจิตวิญญาณ” ใช่ไหมครับ?"
     },
     {
-      "character": "Hhwato",
+      "key": "itdoestherearemanycreaturesreveredashhetsoamongthehhetsarroherewelooktotherroneekforguidance",
       "text_en": "It does. There are many creatures revered as hhetso among the Hhetsarro. Here, we look to the rroneek for guidance.",
       "text": "มันทำ มีสิ่งมีชีวิตมากมายที่นับถือในหมู่เฮตโซ ที่นี่เราขอคำแนะนำจากเจ้าหน้าที่"
     },
     {
-      "character": "Hhwato",
+      "key": "howeverasyoumayhavegleanedfromouruseofaetheryteswhilewearecommittedtoourtraditionsthisdoesnotmeanwerejectalloutsideinfluences",
       "text_en": "However, as you may have gleaned from our use of aetherytes, while we are committed to our traditions, this does not mean we reject all outside influences.",
       "text": "อย่างไรก็ตาม เนื่องจากคุณอาจได้รับมาจากการใช้แออีเทอร์รีตของเรา ในขณะที่เรายังคงยึดมั่นในประเพณีของเรา แต่ก็ไม่ได้หมายความว่าเราจะปฏิเสธอิทธิพลภายนอกทั้งหมด"
     },
     {
-      "character": "Hhwato",
+      "key": "thatsaidtherearecertainthingsthatgiveuspause",
       "text_en": "That said, there are certain things that give us pause...",
       "text": "ที่กล่าวว่ามีบางสิ่งที่ทำให้เราหยุด..."
     },
     {
-      "character": "Hhwato",
+      "key": "wewillfurnishyouwiththetimberyourequirebutfirstasneighborsinthislandweaskthatyouindulgeusinadiscussion",
       "text_en": "We will furnish you with the timber you require. But first, as neighbors in this land, we ask that you indulge us in a discussion.",
       "text": "เราจะจัดหาไม้ที่คุณต้องการให้คุณ แต่ก่อนอื่น ในฐานะเพื่อนบ้านในดินแดนนี้ เราขอให้คุณตามใจเราในการสนทนา"
     },
     {
-      "character": "Wawlika",
+      "key": "wedbegladtoofcourse",
       "text_en": "We'd be glad to, of course!",
       "text": "แน่นอนเรายินดี!"
     },
     {
-      "character": "Hhwato",
+      "key": "wonderfulwedonotoftenreceiveguestscomesuchalongwayandmysonisalwayssodelightedtoheartheirtalesnowifyoullfollowme",
       "text_en": "Wonderful. We do not often receive guests come such a long way, and my son is always so delighted to hear their tales. Now, if you'll follow me.",
       "text": "มหัศจรรย์. เราไม่ค่อยต้อนรับแขกที่มาไกลขนาดนี้ และลูกชายของฉันก็ยินดีเป็นอย่างยิ่งที่ได้ฟังนิทานของพวกเขา ตอนนี้ถ้าคุณจะติดตามฉัน"
     },
     {
-      "character": "Shepetto",
+      "key": "saydoyouliketohuntandwhatweaponsdoyouliketouse",
       "text_en": "Say, do you like to hunt? And what weapons do you like to use?",
       "text": "บอกว่าคุณชอบที่จะล่าสัตว์? และคุณชอบใช้อาวุธอะไร?"
     },
     {
-      "character": "Wawlika",
+      "key": "iftheyfollowtherroneekwiththeseasonsitmakessensethattheywouldliveintentsthatcanbebrokendownandtransportedeasily",
       "text_en": "If they follow the rroneek with the seasons, it makes sense that they would live in tents that can be broken down and transported easily.",
       "text": "หากพวกเขาเดินตามฤดูต่างๆ ก็สมเหตุสมผลที่พวกเขาจะอาศัยอยู่ในเต็นท์ที่สามารถพังทลายและขนย้ายได้ง่าย"
     },
     {
-      "character": "Erenville",
+      "key": "thistentismadewiththehideandbonesofrroneekiwonderwhatelsetheyareusedforhere",
       "text_en": "This tent is made with the hide and bones of rroneek. I wonder what else they are used for here.",
       "text": "เต็นท์พักแรมหลังนี้สร้างจากหนังสัตว์ป่าและโครงกระดูกของโรนีกนี่ครับ ผมชักสงสัยใคร่รู้ซะแล้วว่าชาวบ้านที่นี่ใช้ประโยชน์จากมันทำอะไรได้อีกบ้างครับ"
     },
     {
-      "character": "Hhwato",
+      "key": "iwillspeakfranklywefearthewindsofchangewillsoonbringmisfortunetotheland",
       "text_en": "I will speak frankly. We fear the winds of change will soon bring misfortune to the land.",
       "text": "ฉันจะพูดอย่างตรงไปตรงมา เราเกรงว่าลมแห่งการเปลี่ยนแปลงจะนำโชคร้ายมาสู่แผ่นดินในไม่ช้า"
     },
     {
-      "character": "Hhwato",
+      "key": "therroneekhavemadethepotentialfordangerplain",
       "text_en": "The rroneek have made the potential for danger plain.",
       "text": "นักล่าได้ทำให้โอกาสที่จะเกิดอันตรายเป็นที่ประจักษ์แล้ว"
     },
     {
-      "character": "Hhwato",
+      "key": "asyoumayhaveheardtheirtemperamenthasbecomeerraticoflate",
       "text_en": "As you may have heard, their temperament has become erratic of late.",
       "text": "ดังที่คุณอาจเคยได้ยินมาว่านิสัยของพวกเขาเริ่มไม่อยู่กับร่องกับรอยเลย"
     },
     {
-      "character": "Erenville",
+      "key": "astablemannearhhusatahwimentionedthatdoyouknowwhathascausedthis",
       "text_en": "A stableman near Hhusatahwi mentioned that. Do you know what has caused this?",
       "text": "คนคุมคอกม้าแถวฮูซาทาห์วีก็เคยเล่าข้อมูลเรื่องนี้ให้ผมฟังอยู่เหมือนกันครับ คุณน้าพอจะทราบเบาะแสสาเหตุความผิดปกติไหมครับ?"
     },
     {
-      "character": "Hhwato",
+      "key": "wehaveoursuspicionssinceothersweredrawntothislandbyceruleumshaaloanihasundergoneatransformation",
       "text_en": "We have our suspicions. Since others were drawn to this land by ceruleum, Shaaloani has undergone a transformation.",
       "text": "เรามีข้อสงสัยของเรา เนื่องจากซีรูเลียมดึงดูดผู้อื่นมายังดินแดนนี้ ชาโลเอนี จึงได้รับการเปลี่ยนแปลง"
     },
     {
-      "character": "Wawlika",
+      "key": "andtherailroadsareapartofthat",
       "text_en": "And the railroads are a part of that...",
       "text": "และการรถไฟก็มีส่วน..."
     },
     {
-      "character": "Hhwato",
+      "key": "asstrongandresilientastheymayseemrroneekaresensitivecreaturestheroarofthetrainasitthundersthroughtheplainsmaywellcausethemdistress",
       "text_en": "As strong and resilient as they may seem, rroneek are sensitive creatures. The roar of the train as it thunders through the plains may well cause them distress.",
       "text": "แม้ว่าโรนีคจะดูแข็งแกร่งและยืดหยุ่นได้ แต่โรนีคก็เป็นสิ่งมีชีวิตที่อ่อนไหว เสียงคำรามของรถไฟเมื่อฟ้าร้องผ่านที่ราบอาจทำให้พวกเขาเดือดร้อนได้"
     },
     {
-      "character": "Shepetto",
+      "key": "asmyfathersaidwedonotnecessarilyrejectoutsideinfluencesorinnovationsbutinthiswecanthelpbutworry",
       "text_en": "As my father said, we do not necessarily reject outside influences or innovations. But in this, we can't help but worry.",
       "text": "ดังที่พ่อของฉันกล่าวไว้ เราไม่จำเป็นต้องปฏิเสธอิทธิพลหรือนวัตกรรมจากภายนอก แต่เรื่องนี้เราอดไม่ได้ที่จะกังวล"
     },
     {
-      "character": "Wawlika",
+      "key": "understandablyithankyouforbeingforthright",
       "text_en": "Understandably. I thank you for being forthright.",
       "text": "อย่างเข้าใจได้. ฉันขอบคุณที่คุณเป็นคนตรงไปตรงมา"
     },
     {
-      "character": "Wawlika",
+      "key": "thismatterconcernsnotonlythehhetsarrobutallofshaaloani",
       "text_en": "This matter concerns not only the Hhetsarro, but all of Shaaloani.",
       "text": "เรื่องนี้ไม่เพียงเกี่ยวข้องกับ เฮตซาร์โร เท่านั้น แต่ยังเกี่ยวข้องกับ ชาโลเอนี ทั้งหมดด้วย"
     },
     {
-      "character": "Erenville",
+      "key": "hmmperhapsweshouldbringittotheattentionofvowkoana",
       "text_en": "Hmm... Perhaps we should bring it to the attention of Vow Koana.",
       "text": "อืม... บางทีพวกเราควรรายงานข้อมูลความเดือดร้อนนี้ให้ท่านสัญญาแห่งปัญญาโคอานาทราบดีไหมครับ"
     },
     {
-      "character": "Hhwato",
+      "key": "vowkoanayousayweknowhimonlythroughrumorsbutheisapparentlyhowshalliputthis",
       "text_en": "Vow Koana, you say... We know him only through rumors, but he is apparently...how shall I put this?",
       "text": "สาบานว่า โคอานา คุณพูดว่า... เรารู้จักเขาผ่านข่าวลือเท่านั้น แต่ดูเหมือนว่าเขา...ฉันจะพูดยังไงดี?"
     },
     {
-      "character": "Shepetto",
+      "key": "hardheadedandaloofhevaluestechnologicaladvancementandefficiencytothedetrimentofallelse",
       "text_en": "Hardheaded and aloof. He values technological advancement and efficiency to the detriment of all else.",
       "text": "หัวแข็งและห่างเหิน เขาให้ความสำคัญกับความก้าวหน้าทางเทคโนโลยีและประสิทธิภาพเพื่อทำลายสิ่งอื่นทั้งหมด"
     },
     {
-      "character": "Hhwato",
+      "key": "mmindyourtongueshepetto",
       "text_en": "M-Mind your tongue, Shepetto!",
       "text": "ม-ระวังลิ้นนะเชเพตโต!"
     },
     {
-      "character": "Erenville",
+      "key": "hehwhilethereisagrainoftruthtotherumorsheisnotnearlyasbadastheymakehimouttobe",
       "text_en": "Heh. While there is a grain of truth to the rumors, he is not nearly as bad as they make him out to be.",
       "text": "ฮะฮะ ถึงข่าวลือชวนปวดหัวเหล่านั้นจะมีมูลความจริงปะปนอยู่บ้าง แต่ตัวตนจริง ๆ ของท่านไม่ได้เลวร้ายเฉยเมยรังเกียจวัฒนธรรมดั้งเดิมเหมือนอย่างที่คนอื่น ๆ พากันนินทาหรอกนะครับ"
     },
     {
-      "character": "Hhwato",
+      "key": "sointhecourseoftravelingwithhimyouwitnessedhimchangewithyourowneyes",
       "text_en": "So in the course of traveling with him, you witnessed him change with your own eyes?",
       "text": "ระหว่างเดินทางไปกับเขาคุณเห็นเขาเปลี่ยนไปด้วยตาของคุณเองเหรอ?"
     },
     {
-      "character": "Hhwato",
+      "key": "isthatsoaswehaveadmittedlyhavenevermethimourselvesperhapsweweretooquicktojudgehisintentions",
       "text_en": "Is that so? As we have admittedly have never met him ourselves, perhaps we were too quick to judge his intentions.",
       "text": "เป็นอย่างนั้นเหรอ? เนื่องจากเรายอมรับว่าไม่เคยพบเขามาก่อน บางทีเราอาจเร็วเกินไปที่จะตัดสินความตั้งใจของเขา"
     },
     {
-      "character": "Hhwato",
+      "key": "isthatsothatiscertainlyasideofhimwewerentawareof",
       "text_en": "Is that so? That is certainly a side of him we weren't aware of.",
       "text": "เป็นอย่างนั้นเหรอ? นั่นเป็นด้านของเขาที่เราไม่รู้อย่างแน่นอน"
     },
     {
-      "character": "Erenville",
+      "key": "forenamefoughtbesidevowkoanaintheriteofsuccessionidtakehisherwordoverrumors",
       "text_en": "Forename fought beside Vow Koana in the rite of succession. I'd take his / her word over rumors.",
       "text": "คุณ [ชื่อ] เคยต่อสู้ศึกเคียงบ่าเคียงไหล่ร่วมกับท่านสัญญาแห่งปัญญาโคอานามาตลอดพิธีประลองเลยนะครับ ผมเลือกที่จะเชื่อถ้อยคำชี้แนะของเขาดีกว่าไปเชื่อลมปากข่าวลือนินทาครับ"
     },
     {
-      "character": "Shepetto",
+      "key": "youtookpartintheriteofsuccession",
       "text_en": "You took part in the rite of succession!?",
       "text": "คุณได้มีส่วนร่วมในพิธีสืบทอดตำแหน่ง!?"
     },
     {
-      "character": "Wawlika",
+      "key": "yourethatclosetothedawnservantsiwasgratefulforanyhelpbuthadnoideaihadrecruitedabonafidehero",
       "text_en": "You're that close to the Dawnservants!? I was grateful for any help, but had no idea I had recruited a bona fide hero.",
       "text": "คุณสนิทกับ Dawnservants ขนาดนั้นเลยเหรอ!? ฉันรู้สึกขอบคุณสำหรับความช่วยเหลือใดๆ แต่ไม่รู้ว่าฉันได้คัดเลือกฮีโร่ที่ซื่อสัตย์มาด้วย"
     },
     {
-      "character": "Hhwato",
+      "key": "thesuccessionofdawnservantsfilleduswithuncertaintyforthefuturebutthereisclearlymuchwedonotknow",
       "text_en": "The succession of Dawnservants filled us with uncertainty for the future, but there is clearly much we do not know.",
       "text": "การสืบทอดตำแหน่งของ Dawnservants ทำให้เราเต็มไปด้วยความไม่แน่นอนในอนาคต แต่มีความชัดเจนอีกมากมายที่เราไม่รู้"
     },
     {
-      "character": "Hhwato",
+      "key": "onthisparticularoccasionthewindsofchangearenotmeanttobefearednowemustopenourheartsandmindsthatwemightseevowkoanaforwhohetrulyis",
       "text_en": "On this particular occasion, the winds of change are not meant to be feared. No, we must open our hearts and minds that we might see Vow Koana for who he truly is.",
       "text": "ในโอกาสพิเศษนี้ สายลมแห่งการเปลี่ยนแปลงไม่ได้เป็นสิ่งที่ควรกลัว ไม่ เราต้องเปิดใจและความคิดของเราเพื่อที่เราจะได้เห็น Vow โคอานา อย่างที่เขาเป็นจริงๆ"
     },
     {
-      "character": "Shepetto",
+      "key": "doyouthinkhemightvisitsomeday",
       "text_en": "Do you think he might visit someday?",
       "text": "คุณคิดว่าสักวันหนึ่งเขาจะมาเยี่ยมไหม?"
     },
     {
-      "character": "Hhwato",
+      "key": "justashisfatherofferedusguidanceimhopefulthathewilldothesame",
       "text_en": "Just as his father offered us guidance, I'm hopeful that he will do the same.",
       "text": "เช่นเดียวกับที่พ่อของเขาให้คำแนะนำแก่เรา ฉันหวังว่าเขาจะทำเช่นเดียวกัน"
     },
     {
-      "character": "Hhwato",
+      "key": "thankyouforhearingandallayingourconcernsimgladwecouldspeak",
       "text_en": "Thank you for hearing and allaying our concerns. I'm glad we could speak.",
       "text": "ขอขอบคุณที่รับฟังและคลายข้อกังวลของเรา ฉันดีใจที่เราสามารถพูดได้"
     },
     {
-      "character": "Hhwato",
+      "key": "asforyourtimberwehavefreshlycutlogsnearthelakepleasetakeallthatyourequire",
       "text_en": "As for your timber, we have freshly cut logs near the lake. Please, take all that you require.",
       "text": "ส่วนไม้ของคุณ เรามีท่อนไม้ที่เพิ่งตัดใหม่ใกล้ทะเลสาบ โปรดรับทุกสิ่งที่คุณต้องการ"
     },
     {
-      "character": "Wawlika",
+      "key": "wereterriblygrateful",
       "text_en": "We're terribly grateful!",
       "text": "เรารู้สึกขอบคุณอย่างยิ่ง!"
     },
     {
-      "character": "Wawlika",
+      "key": "ipromisewellkeeptherroneekforemostinourmindsaswecontinueworkingontherailroadandifneedsbewellseekvowkoanascounsel",
       "text_en": "I promise we'll keep the rroneek foremost in our minds as we continue working on the railroad. And if needs be, we'll seek Vow Koana's counsel.",
       "text": "ฉันสัญญาว่าเราจะเก็บผู้เฝ้าประตูไว้เป็นอันดับแรกในใจของเราในขณะที่เราทำงานบนทางรถไฟต่อไป และหากจำเป็น เราจะขอคำปรึกษาจาก Vow โคอานา"
     },
     {
-      "character": "Wawlika",
+      "key": "mythanksagainforyourtimeandthetimberweshallendeavortoreturnthefavor",
       "text_en": "My thanks again for your time and the timber. We shall endeavor to return the favor.",
       "text": "ฉันขอขอบคุณอีกครั้งสำหรับเวลาและไม้ของคุณ เราจะพยายามตอบแทนบุญคุณ"
     },
     {
-      "character": "Shepetto",
+      "key": "ihopetoseeyouagainsoon",
       "text_en": "I hope to see you again soon.",
       "text": "ฉันหวังว่าจะได้พบคุณอีกครั้งในเร็ว ๆ นี้"
     },
     {
-      "character": "Shepetto",
+      "key": "youllcomebackwontyoutheressomuchidliketoknowaboutthelandsbeyondtural",
       "text_en": "You'll come back, won't you? There's so much I'd like to know about the lands beyond Tural.",
       "text": "คุณจะกลับมาแล้วใช่ไหม? มีเรื่องมากมายที่ฉันอยากรู้เกี่ยวกับดินแดนที่อยู่นอกเหนือจาก Tural"
     },
     {
-      "character": "Hhwato",
+      "key": "wemusttalkagainsoonnexttimeperhapsonahunttogether",
       "text_en": "We must talk again soon. Next time, perhaps, on a hunt together.",
       "text": "เราคงต้องคุยกันใหม่เร็วๆ นี้ คราวหน้าอาจจะออกล่าด้วยกัน"
     },
     {
-      "character": "Erenville",
+      "key": "wehavetocarryallofthisbacktothestation",
       "text_en": "We have to carry all of this back to the station?",
       "text": "นี่พวกเราจำเป็นต้องแบกหามท่อนไม้ขนาดยักษ์พวกนี้ทั้งหมดกลับไปที่สถานีรถไฟจริง ๆ เหรอครับ? โห..."
     },
     {
-      "character": "Wawlika",
+      "key": "wevemorethanenoughtimbertofixtheties",
       "text_en": "We've more than enough timber to fix the ties.",
       "text": "เรามีไม้มากพอที่จะยึดสายสัมพันธ์"
     },
     {
-      "character": "Wawlika",
+      "key": "nowweneedtotransportittothestationwhichwillbeabitmoreinvolvedthanithoughtididntexpectwedbegivensomuch",
       "text_en": "Now we need to transport it to the station─which will be a bit more involved than I thought. I didn't expect we'd be given so much.",
       "text": "ตอนนี้เราต้องขนส่งมันไปที่สถานี ซึ่งจะมีอะไรมากกว่าที่ฉันคิดไว้เล็กน้อย ฉันไม่ได้คาดหวังว่าเราจะได้รับมากขนาดนี้"
     },
     {
-      "character": "Wawlika",
+      "key": "mindwaitinghereaspellwhileiroundupafewmorehandsandarroneekiwontbelong",
       "text_en": "Mind waiting here a spell while I round up a few more hands and a rroneek? I won't be long!",
       "text": "คุณคิดจะรออยู่ที่นี่ในขณะที่ฉันรวบรวมมืออีกสองสามมือและ โรนีก บ้างไหม? ฉันจะอยู่ได้ไม่นาน!"
     },
     {
-      "character": "Erenville",
+      "key": "imgladthatwentwellandthankfullyitseemswewontneedtomakeseveraltripsforthetimber",
       "text_en": "I'm glad that went well. And thankfully, it seems we won't need to make several trips for the timber.",
       "text": "ดีใจจริง ๆ ครับที่ภารกิจสู้ชีวิตครั้งนี้ลุล่วงไปด้วยดี และโชคดีมากที่พวกเราไม่ต้องเหนื่อยเดินไปกลับหลายรอบเพื่อขนฟืนท่อนไม้เหล่านี้ครับ"
     }

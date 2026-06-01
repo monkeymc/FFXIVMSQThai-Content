@@ -1,766 +1,758 @@
 {
-  "id": "the-shape-of-peace",
-  "wiki_path": "/wiki/The_Shape_of_Peace",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "The Shape of Peace",
-  "title": "วิถีแห่งความสงบ",
-  "level": "92",
-  "location": "Tuliyollal(X:9.9,Y:4.4)",
-  "npc_start": "Wuk Lamat",
+  "quest_id": "the-shape-of-peace",
   "dialogues": [
     {
-      "character": "Wuk Lamat",
+      "key": "istillhaventhadonebiteofnamikkasfoodthankstopapasnonsensesoimgoingbacktofinishmyplatebeforeiheadout",
       "text_en": "I still haven't had one bite of Namikka's food thanks to Papa's nonsense, so I'm going back to finish my plate before I head out.",
       "text": "เพราะตาแก่นั่นหาเรื่องปวดหัวมาให้แท้ ๆ ฉันเลยยังไม่ได้กินอาหารฝีมือนามิกก้าสักคำเลยเนี่ย งั้นฉันขอย้อนกลับไปกินให้หมดจานก่อนที่จะออกเดินทางแล้วกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iveotherwiseaskedeveryonetomeetattheforardcabinscomeandjoinusafteryouvehadamomenttorecovereh",
       "text_en": "I've otherwise asked everyone to meet at the For'ard Cabins. Come and join us after you've had a moment to recover, eh?",
       "text": "ส่วนคนอื่น ๆ ฉันบอกให้พวกเขาไปเจอกันที่ห้องพักฟอร์อาร์ด (For'ard Cabins) แล้วล่ะ พอนายพักผ่อนหายเหนื่อยแล้วก็ตามมาสมทบนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "dammitpapa",
       "text_en": "Dammit, Papa...",
       "text": "ให้ตายสิ ท่านพ่อนะท่านพ่อ..."
     },
     {
-      "character": "Fonjeantaine",
+      "key": "sorrytokeepeveryonewaiting",
       "text_en": "Sorry to keep everyone waiting.",
       "text": "ต้องขออภัยที่ทำให้ทุกท่านต้องรอนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isthatityoureallsettogo",
       "text_en": "Is that it? You're all set to go?",
       "text": "เรียบร้อยแล้วเหรอ? ข้าวของเตรียมพร้อมออกเดินทางแล้วใช่ไหม?"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "ilefteorzeapreparedtotravelinsearchofworksoihadfewbelongingstobeginwithbiddingfarewelltomyfellowartisanstookratheralotoftimehowever",
       "text_en": "I left Eorzea prepared to travel in search of work, so I had few belongings to begin with. Bidding farewell to my fellow artisans took rather a lot of time, however.",
       "text": "ตอนที่ข้าเดินทางออกจากอีออร์เซียเพื่อมาหางานทำ ข้าก็ไม่ได้มีสัมภาระติดตัวมามากมายแต่แรกแล้วล่ะครับ เพียงแต่การร่ำลาพวกเพื่อนร่วมอาชีพช่างด้วยกันมันค่อนข้างใช้เวลาน่ะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "againiappreciateyoumakingthiscommitmentfonjeantaine",
       "text_en": "Again, I appreciate you making this commitment, Fonjeantaine.",
       "text": "ฉันต้องขอบใจนายจริงๆ นะที่ยอมตกลงมาช่วยงานกันน่ะ ฟงชองแตน"
     },
     {
-      "character": "Alphinaud",
+      "key": "shallwedepartforearthenshirethen",
       "text_en": "Shall we depart for Earthenshire, then?",
       "text": "ถ้าอย่างนั้น พวกเราออกเดินทางมุ่งหน้าสู่เอิร์ทเทนเชียร์กันเลยดีไหมครับ?"
     },
     {
-      "character": "???",
+      "key": "awordbeforeyougo",
       "text_en": "A word before you go.",
       "text": "เดี๋ยวก่อน ขอข้าแลกเปลี่ยนเจรจาสักคำสองคำก่อนที่พวกท่านจะไป"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wukevuwhatareyoudoinghere",
       "text_en": "Wuk Evu, what are you doing here?",
       "text": "อุค เอวู (Wuk Evu) นายมาทำอะไรที่นี่น่ะ?"
     },
     {
-      "character": "Wuk Evu",
+      "key": "ahhhispendmydayscorrectingmannersandhereiamperpetratingthegraveoffenseofdelayingthethirdpromisesdeparture",
       "text_en": "Ahhh! I spend my days correcting manners, and here I am perpetrating the grave offense of delaying the Third Promise's departure!",
       "text": "อ๊า! ข้าอุตส่าห์ใช้เวลาทั้งวันคอยตักเตือนกิริยามารยาทของผู้คนแท้ ๆ แต่ตัวข้ากลับมาก่อเรื่องเสียมารยาทร้ายแรงอย่างการทำให้ท่านสัญญาที่สามต้องเสียเวลาออกเดินทางซะเอง!"
     },
     {
-      "character": "Wuk Evu",
+      "key": "pleasetakeupyouraxeandrendmyfleshuntotacomeat",
       "text_en": "Please, take up your axe and rend my flesh unto taco meat!",
       "text": "ได้โปรดเถอะครับ หยิบขวานของท่านขึ้นมาสับเนื้อข้าให้กลายเป็นเนื้อทาโก้เดี๋ยวนี้เลยครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "mustyourdemandsbesogruesomebesidesitoldyouthatkindofthingdoesntbotherme",
       "text_en": "Must your demands be so gruesome!? Besides, I told you that kind of thing doesn't bother me!",
       "text": "ทำไมต้องขอร้องอะไรชวนสยดสยองขนาดนั้นด้วยเล่า!? อีกอย่างฉันก็บอกตั้งกี่ครั้งแล้วว่าเรื่องแค่นี้ฉันไม่ได้ใส่ใจหรอก!"
     },
     {
-      "character": "Wuk Evu",
+      "key": "allrighttheniwontletitbothermeeither",
       "text_en": "All right, then. I won't let it bother me either.",
       "text": "อ๋อ งั้นเหรอครับ ถ้าอย่างนั้นข้าก็จะไม่ใส่ใจเหมือนกันครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "whatwasthatallabout",
       "text_en": "What was that all about...?",
       "text": "เมื่อกี้มันเรื่องอะไรกันล่ะเนี่ย...?"
     },
     {
-      "character": "Wuk Evu",
+      "key": "idcometothecitytopurchasesupplieswhenispottedyourentouragegettingreadytoleaveyouseekthecityofgoldifimnotmistaken",
       "text_en": "I'd come to the city to purchase supplies when I spotted your entourage getting ready to leave. You seek the city of gold, if I'm not mistaken?",
       "text": "ข้าแวะเข้ามาในเมืองเพื่อซื้อเสบียงกรังน่ะครับ แล้วบังเอิญเห็นคณะผู้ติดตามของท่านกำลังเตรียมตัวออกเดินทางพอดี พวกท่านกำลังตามหานครแห่งทองคำอยู่ใช่ไหมครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsrightitsthefinalstepoftheriteofsuccessionifyouknowanythingaboutthesubjectidlovetohearit",
       "text_en": "That's right─it's the final step of the rite of succession. If you know anything about the subject, I'd love to hear it.",
       "text": "ใช่แล้วล่ะ—นั่นเป็นขั้นตอนสุดท้ายของพิธีสืบทอดราชบัลลังก์เลย ถ้านายพอจะรู้อะไรเกี่ยวกับเรื่องนี้บ้างล่ะก็ ช่วยเล่าให้ฉันฟังหน่อยสิ"
     },
     {
-      "character": "Wuk Evu",
+      "key": "thenallowmetobeofserviceasyouknowlegendsofthegoldencityhavebeenpasseddowninturalforathousandyears",
       "text_en": "Then allow me to be of service. As you know, legends of the golden city have been passed down in Tural for a thousand years.",
       "text": "ถ้าอย่างนั้น ข้าขอยื่นมือช่วยเหลือเองครับ อย่างที่ท่านทราบดีว่าตำนานเรื่องนครแห่งทองคำถูกเล่าขานสืบต่อกันมาในทูรัลเป็นเวลานับพันปีแล้ว"
     },
     {
-      "character": "Wuk Evu",
+      "key": "yetwhenitcomestodescribingtheplaceitselfthestoriesdonotalwaysagreesomeportrayitasonemightexpectaglitteringmetropolisofgoldentowersotherssuggestitismoreunassumingandowesthenametoafabuloustreasurehiddenatitsheart",
       "text_en": "Yet when it comes to describing the place itself, the stories do not always agree. Some portray it as one might expect: a glittering metropolis of golden towers. Others suggest it is more unassuming and owes the name to a fabulous treasure hidden at its heart.",
       "text": "แต่ทว่าพอลองมาเปรียบเทียบเรื่องลักษณะของตัวนครแล้ว เรื่องเล่าต่าง ๆ กลับดูขัดแย้งไม่ค่อยตรงกันเท่าไหร่ บางตำนานก็เล่าว่าเป็นมหานครอันรุ่งเรืองที่เต็มไปด้วยหอคอยทองคำระยิบระยับอย่างที่ใคร ๆ จินตนาการไว้ แต่บางเรื่องก็บอกว่ามันเรียบง่ายกว่านั้นเยอะ และที่ได้ชื่อนี้มาก็เพราะมีขุมทรัพย์ล้ำค่าซ่อนอยู่ใจกลางนครต่างหาก"
     },
     {
-      "character": "Wuk Evu",
+      "key": "everytellinghoweverhasacommonthreadthosewhogoinsearchofthegoldencitydonotreturn",
       "text_en": "Every telling, however, has a common thread: those who go in search of the golden city do not return.",
       "text": "แต่ไม่ว่าจะเล่าขานแบบไหน ทุกตำนานต่างมีจุดร่วมที่เหมือนกันอยู่อย่างหนึ่ง... นั่นคือผู้ใดก็ตามที่ออกตามหานครแห่งทองคำ จะไม่มีวันได้หวนกลับคืนมาอีกเลย"
     },
     {
-      "character": "Wuk Evu",
+      "key": "thelessontobelearnedfromthisthirdpromiseisthattoseekthelegendistocourtdeathimustimploreyoutoproceedwiththeutmostcare",
       "text_en": "The lesson to be learned from this, Third Promise, is that to seek the legend is to court death. I must implore you to proceed with the utmost care.",
       "text": "บทเรียนที่ท่านสัญญาที่สามควรจำใส่ใจไว้ก็คือ การออกตามหาดินแดนในตำนานนี้ไม่ต่างอะไรจากการรนหาที่ตาย ข้าจึงอยากกราบขอร้องให้ท่านเดินทางด้วยความระมัดระวังเป็นที่สุดครับ"
     },
     {
-      "character": "Wuk Evu",
+      "key": "thatisalliwishedtosayishallprayforyoursafejourney",
       "text_en": "That is all I wished to say. I shall pray for your safe journey.",
       "text": "ข้าอยากเตือนสติเพียงเท่านี้แหละครับ ข้าจะขอสวดอ้อนวอนให้การเดินทางของพวกท่านปลอดภัยไร้ภยันตรายนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouwukevu",
       "text_en": "Thank you, Wuk Evu.",
       "text": "ขอบใจมากนะ อุค เอวู"
     },
     {
-      "character": "Erenville",
+      "key": "whatarewetomakeofthesecautionarytalesifeveryexpeditionhasendedintragedyhowthendidthedawnservantfindthecityandreturnwithoutincident",
       "text_en": "What are we to make of these cautionary tales? If every expedition has ended in tragedy, how then did the Dawnservant find the city and return without incident?",
       "text": "พวกเราจะเอาอย่างไรกับคำเตือนพวกนี้ดีล่ะ? หากการสำรวจทุกครั้งต้องจบลงด้วยโศกนาฏกรรม แล้วเหตุใดท่านดอว์นเซิร์ฟวันต์ถึงค้นพบนครนั้นและเดินทางกลับมาได้อย่างปลอดภัยล่ะ?"
     },
     {
-      "character": "Krile",
+      "key": "itseemsthelegendoriginatedwiththeyokhuyspeakingwiththemremainsourstrongestleadifeel",
       "text_en": "It seems the legend originated with the Yok Huy. Speaking with them remains our strongest lead, I feel.",
       "text": "ดูเหมือนตำนานนี้จะมีต้นกำเนิดมาจากพวกยอคฮุย (Yok Huy) นะคะ ฉันคิดว่าเบาะแสสำคัญที่สุดตอนนี้คือการไปพูดคุยกับพวกเขาค่ะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "aleadweshallfollowintimebutfirstletusseefonjeantainesafelyintothemoblinscare",
       "text_en": "A lead we shall follow in time. But first, let us see Fonjeantaine safely into the Moblins' care.",
       "text": "นั่นคือสิ่งที่เราต้องตามสืบกันต่อไปครับ แต่ก่อนอื่น พวกเราควรพาฟงชองแตนไปส่งให้ถึงมือพวกม็อบลินอย่างปลอดภัยก่อนดีกว่า"
     },
     {
-      "character": "Sareel Ja",
+      "key": "findingawillingartisanwaseveneasierthanexpected",
       "text_en": "Finding a willing artisan was even easier than expected.",
       "text": "การเสาะหาช่างฝีมือที่ยอมเซ็นสัญญามาร่วมงานด้วยเนี่ย มันง่ายดายกว่าที่ข้าคิดไว้ซะอีกนะ"
     },
     {
-      "character": "Sareel Ja",
+      "key": "manyindeedareeagertocurryfavorwiththeresilientsonespeciallyifitmeanssharingthepromiseofnewterritories",
       "text_en": "Many indeed are eager to curry favor with the Resilient Son─especially if it means sharing the promise of new territories.",
       "text": "ผู้คนต่างพากันกระตือรือร้นอยากจะประจบประแจงเอาใจโอรสอุดมทรหด (Resilient Son) กันทั้งนั้น—โดยเฉพาะถ้ามันหมายถึงการมีส่วนแบ่งในดินแดนใหม่ในอนาคตน่ะนะ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "thosewhoproveusefulwillhaveallthelandtheydesire",
       "text_en": "Those who prove useful will have all the land they desire.",
       "text": "คนที่มีประโยชน์ย่อมได้รับส่วนแบ่งดินแดนทั้งหมดตามที่ต้องการ"
     },
     {
-      "character": "Sareel Ja",
+      "key": "suchgenerouswordsyetthemannerinwhichhespeaksthem",
       "text_en": "Such generous words, yet the manner in which he speaks them...",
       "text": "ช่างเป็นคำพูดที่กว้างขวางเหลือเกินนะ ทว่าน้ำเสียงที่ท่านใช้พูดยามนี้น่ะ..."
     },
     {
-      "character": "Sareel Ja",
+      "key": "ifneitherwealthnorterritoryareofvaluewhereforedoesheseektobringtheworldtoheel",
       "text_en": "If neither wealth nor territory are of value, wherefore does he seek to bring the world to heel...?",
       "text": "หากทั้งทรัพย์ศฤงคารและดินแดนไม่ได้มีค่าในสายตาของท่านเลย แล้วเหตุใดท่านถึงปรารถนาจะสยบโลกทั้งใบไว้ใต้ฝ่าเท้ากันนะ...?"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "stepaside",
       "text_en": "Step aside.",
       "text": "หลีกทางไป"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "remindmetherewasnoruleagainstpoachingcraftsmenfromotherclaimantswasthere",
       "text_en": "Remind me... There was no rule against poaching craftsmen from other claimants, was there?",
       "text": "ช่วยเตือนความจำข้าทีซิ... มันไม่มีกฎข้อไหนที่ห้ามแย่งตัวช่างฝีมือมาจากผู้ท้าชิงคนอื่นใช่ไหมเนี่ย?"
     },
     {
-      "character": "Sareel Ja",
+      "key": "donotbefoolishbakooljaja",
       "text_en": "Do not be foolish, Bakool Ja Ja!",
       "text": "อย่าทำตัวโง่เขลาไปหน่อยเลย บาคูล จา จา!"
     },
     {
-      "character": "Bakool Ja Ja the Mystic",
+      "key": "hahfoolishwouldbecarryingonwiththesedullfeatswhenallineedtowinarethekeystones",
       "text_en": "Hah! Foolish would be carrying on with these dull feats when all I need to win are the keystones!",
       "text": "ฮ่า! ที่โง่เขลาคือการทนทำบททดสอบน่าเบื่อพวกนี้ต่างหาก ในเมื่อสิ่งเดียวที่ข้าต้องมีเพื่อคว้าชัยคือหินศิลาพวกนั้น!"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "andbesidesitslongpasttimeihumbledthisarrogantonehead",
       "text_en": "And besides... It's long past time I humbled this arrogant one-head.",
       "text": "แล้วอีกอย่างนะ... มันถึงเวลาตั้งนานแล้วล่ะที่ข้าควรจะสั่งสอนไอ้หัวเดียวจองหองคนนี้ให้รู้จักเจียมตัวซะบ้าง"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "thedawnservantmayhavesiredyouagainstalloddsbutthereisnothingblessedaboutyourbirth",
       "text_en": "The Dawnservant may have sired you against all odds, but there is nothing blessed about your birth!",
       "text": "ต่อให้ท่านดอว์นเซิร์ฟวันต์จะให้กำเนิดแกออกมาได้เหนือความคาดหมายของคนทั้งแผ่นดิน แต่การเกิดมาของแกมันไม่ได้มีอะไรน่ายกย่องชวนอวยชัยเลยสักนิด!"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "onlyatwoheadisfittoruleonlyweareworthy",
       "text_en": "Only a two-head is fit to rule. Only we are worthy!",
       "text": "มีเพียงคนสองหัวเท่านั้นที่คู่ควรแก่การปกครองแผ่นดิน มีเพียงพวกเราเท่านั้นที่เหมาะสม!"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "drawyourweaponfacemeinbattleandlearnyourplace",
       "text_en": "Draw your weapon! Face me in battle and learn your place!",
       "text": "ชักอาวุธของแกออกมา! มาสู้กับข้าแล้วหัดรู้จักที่ต่ำที่สูงซะบ้าง!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "amomentfirstpromise",
       "text_en": "A moment, First Promise.",
       "text": "ประเดี๋ยวก่อนครับ ท่านสัญญาที่หนึ่ง"
     },
     {
-      "character": "Sareel Ja",
+      "key": "leavehimaliveifyouwouldiforeseeauseforthisnuisance",
       "text_en": "Leave him alive, if you would. I foresee a use for this...nuisance.",
       "text": "หากเป็นไปได้ โปรดไว้ชีวิตเขาเถอะครับ ข้าคาดการณ์ไว้แล้วว่าไอ้...ตัวน่ารำคาญคนนี้ยังมีประโยชน์ให้พวกเราใช้งานได้อยู่"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "tooscaredtomakethefirstmove",
       "text_en": "Too scared to make the first move?",
       "text": "กลัวจนไม่กล้าลงมือก่อนรึไง?"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "thenallowme",
       "text_en": "Then allow me!",
       "text": "งั้นข้าจัดให้เอง!"
     },
     {
-      "character": "Bakool Ja Ja",
+      "key": "painfullystruckreactiongah",
       "text_en": "[PAINFULLY STRUCK REACTION - “Gah!”]",
       "text": "[ร้องโอดครวญด้วยความเจ็บปวด — “ก๊ะ!”]"
     },
     {
-      "character": "Bakool Ja Ja",
+      "key": "painfullystruckreactionugh",
       "text_en": "[PAINFULLY STRUCK REACTION - “Ugh!”]",
       "text": "[ร้องโอดครวญด้วยความเจ็บปวด — “อั่ก!”]"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "buthehesjustarunt",
       "text_en": "But he... He's just a runt...",
       "text": "เจ้านั่น... มันก็แค่ไอ้กระจอก..."
     },
     {
-      "character": "Sareel Ja",
+      "key": "mythanksforyourrestraint",
       "text_en": "My thanks for your restraint.",
       "text": "ขอบพระคุณอย่างยิ่งครับที่ท่านช่วยออมมือไว้"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "icankillhimwheneveriplease",
       "text_en": "I can kill him whenever I please.",
       "text": "ข้าจะฆ่ามันทิ้งเมื่อไหร่ก็ได้ตามใจข้า"
     },
     {
-      "character": "Sareel Ja",
+      "key": "yourpartinthisisfarfromover",
       "text_en": "Your part in this is far from over.",
       "text": "บทบาทของแกในเรื่องนี้น่ะยังไม่จบแค่นี้หรอก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "werebackandwevebroughtwithusawillingpotswornthisisfonjeantaineatalentedgoldsmithwhoonceworkedateshtaimesaestheticsinuldah",
       "text_en": "We're back, and we've brought with us a willing potsworn. This is Fonjeantaine, a talented goldsmith who once worked at Eshtaime's Aesthetics in Ul'dah.",
       "text": "พวกเรากลับมาแล้ว พร้อมกับช่างฝีมือผู้ปฏิญาณต่อหม้อที่เต็มใจร่วมงานด้วย นี่คือฟงชองแตน ช่างทองฝีมือฉกาจที่เคยทำงานอยู่ที่ร้านอัญมณีเอชไทม์ส แอสเธติกส์ (Eshtaime's Aesthetics) ในอุล'ดาห์น่ะ"
     },
     {
-      "character": "Rediroq",
+      "key": "wonderfulimpressiveyouarefirsttoreturnthirdpromise",
       "text_en": "Wonderful! Impressive! You are first to return, Third Promise!",
       "text": "ยอดเยี่ยม! น่าประทับใจแสนสุข ยิ่งนัก! ท่านสัญญาที่สามคือคนแรกที่กลับมาถึงเลยนะเนี่ย!"
     },
     {
-      "character": "Rediroq",
+      "key": "andwithanartisanfromacrossthesaltnolesswewelcomeyouandyouruniqueskillstoearthenshirehelphandwillshowyoutotheworkpot",
       "text_en": "And with an artisan from across the salt, no less! We welcome you and your unique skills to Earthenshire. Helphand will show you to the Workpot.",
       "text": "แถมยังพาช่างฝีมือข้ามน้ำข้ามทะเลมาอีกต่างหาก! พวกเรายินดีต้อนรับท่านและฝีมืออันเป็นเอกลักษณ์สู่เอิร์ทเทนเชียร์นะจ๊ะ เดี๋ยวผู้ช่วยจะนำทางท่านไปยังโรงงานหม้อดินเผาเอง"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "thisisitthenilookforwardtohearingyouproclaimeddawnservant",
       "text_en": "This is it, then. I look forward to hearing you proclaimed Dawnservant!",
       "text": "ในที่สุดก็ถึงเวลาทำหน้าที่แล้วสินะครับ ข้าจะตั้งตารอฟังข่าวดีตอนที่ท่านสัญญาที่สามได้รับการแต่งตั้งเป็นดอว์นเซิร์ฟวันต์นะครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyoufonjeantaineillbesurenottodisappointyou",
       "text_en": "Thank you, Fonjeantaine. I'll be sure not to disappoint you.",
       "text": "ขอบใจนายมากนะ ฟงชองแตน ฉันสัญญาว่าจะไม่ทำให้นายผิดหวังแน่นอน"
     },
     {
-      "character": "Rediroq",
+      "key": "youhavereachmettherequirementsofthefeatofpotsrediroqpresentsyourkeystonewithjoysmilesandwellwishing",
       "text_en": "You have reachmet the requirements of the Feat of Pots. Rediroq presents your keystone with joysmiles and wellwishing!",
       "text": "ท่านบรรลุข้อกำหนดในการประลอง 'บททดสอบแห่งหม้อ' เรียบร้อยแล้ว! เรดิร็อกขอมอบหินศิลาให้แก่ท่านด้วยรอยยิ้มอิ่มใจ และคำอวยพรแสนสุขนะจ๊ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatmakesthree",
       "text_en": "That makes three...",
       "text": "แผ่นที่สามแล้วสิ..."
     },
     {
-      "character": "Rediroq",
+      "key": "pfffpfffkohhhmorepotsworncandidatescomecometellrediroqyourtales",
       "text_en": "Pfff... Pfffkohhh... More potsworn candidates!? Come, come, tell Rediroq your tales!",
       "text": "ฟู่... ฟู่โฮ่... มีผู้ท้าชิงช่างฝีมือมาเพิ่มอีกงั้นรึ!? มาเลยๆ มาเล่าเรื่องราวของพวกท่านให้เรดิร็อกฟังซิ!"
     },
     {
-      "character": "Koana",
+      "key": "anotherfeataccomplishedanotherkeystoneacquired",
       "text_en": "Another feat accomplished, another keystone acquired.",
       "text": "บรรลุผลการประลองไปอีกขั้น และได้หินศิลามาครองอีกหนึ่งแผ่นแล้ว"
     },
     {
-      "character": "Sareel Ja",
+      "key": "ohohohoyouaredoingwelliexpectednothinglessofzoraaljasesteemedsiblings",
       "text_en": "Ohohoho, you are doing well. I expected nothing less of Zoraal Ja's esteemed siblings.",
       "text": "โอโฮโฮโฮ ทำผลงานได้ดีจริง ๆ ครับ สมแล้วที่เป็นน้องๆ ผู้มีเกียรติของท่านโซราล จา"
     },
     {
-      "character": "Sareel Ja",
+      "key": "yourclevernessinparticularismostadmirablesecondpromisewemusthaveyouapplythatsharlayanknowledgeyousocherishandarmturalwithweaponsofmagitekdesign",
       "text_en": "Your cleverness in particular is most admirable, Second Promise. We must have you apply that Sharlayan knowledge you so cherish, and arm Tural with weapons of magitek design.",
       "text": "โดยเฉพาะความรอบรู้ฉลาดเฉลียวของท่านสัญญาที่สองนั้นช่างน่านับถือยิ่งนัก พวกเราต้องพึ่งพาให้ท่านนำเอาความรู้จากชาร์ลายัน (Sharlayan) ที่ท่านรักมาปรับใช้ เพื่อติดอาวุธยุทโธปกรณ์มาจิเทค (magitek) ให้แก่ทูรัลแล้วละครับ"
     },
     {
-      "character": "Sareel Ja",
+      "key": "inyourroleasthenewdawnservantschiefadvisorofcourse",
       "text_en": "...In your role as the new Dawnservant's chief advisor, of course.",
       "text": "ซึ่งแน่นอนว่า... ทั้งหมดนี้จะทำในบทบาทหัวหน้าที่ปรึกษาของดอว์นเซิร์ฟวันต์คนใหม่ครับ"
     },
     {
-      "character": "Koana",
+      "key": "thetoolsofwarholdnointerestformeiwishonlytoimproveournationthroughpracticalinnovations",
       "text_en": "The tools of war hold no interest for me. I wish only to improve our nation through practical innovations.",
       "text": "ข้าไม่ได้สนใจเรื่องยุทโธปกรณ์ในการทำสงครามเลยสักนิด ข้าเพียงแค่ปรารถนาจะพัฒนาประเทศชาติของเราด้วยนวัตกรรมที่ใช้งานได้จริงต่างหาก"
     },
     {
-      "character": "Koana",
+      "key": "foreignpowerswillthinktwiceabouttestingourstrengthoncetuliyollalisknownforitsadvancedtechnology",
       "text_en": "Foreign powers will think twice about testing our strength once Tuliyollal is known for its advanced technology.",
       "text": "และพวกขั้วอำนาจภายนอกย่อมต้องไตร่ตรองให้จงหนักหากคิดจะมาลองดีกับเรา เมื่อทูลิโยลลัลเป็นที่เลื่องลือในด้านเทคโนโลยีที่ล้ำสมัย"
     },
     {
-      "character": "Koana",
+      "key": "justasthegarleanempirewasdeterredfrominvadingsharlayan",
       "text_en": "Just as the Garlean Empire was deterred from invading Sharlayan.",
       "text": "เฉกเช่นเดียวกับที่จักรวรรดิการ์ลีนไม่กล้ายกพลรุกรานชาร์ลายันนั่นแหละ"
     },
     {
-      "character": "Sareel Ja",
+      "key": "thatmaywellbetruebuthowlongwillittaketuliyollaltoprogresstothisadvancedstatehowmanyyears",
       "text_en": "That may well be true... But how long will it take Tuliyollal to progress to this advanced state? How many years?",
       "text": "นั่นก็อาจจะจริงครับ... แต่กว่าทูลิโยลลัลจะพัฒนาไปจนถึงขั้นที่ล้ำสมัยขนาดนั้นได้ล่ะ? มันต้องใช้เวลาอีกกี่สิบปีกันล่ะครับ?"
     },
     {
-      "character": "Koana",
+      "key": "withacollectivecommitmenttoeducationandhardworkitshouldnottakesovery",
       "text_en": "With a collective commitment to education and hard work, it should not take so very─",
       "text": "หากพวกเราทุกคนหันมาร่วมใจกันมุ่งเน้นการศึกษาและทำงานอย่างขยันขันแข็ง มันก็คงไม่น่าจะนานขนาดนั้น—"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "yourwayistooslow",
       "text_en": "Your way is too slow.",
       "text": "วิถีของเจ้าน่ะช้าเกินไป"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "easiertoexpandourterritoryandswallowsharlayanwhole",
       "text_en": "Easier to expand our territory...and swallow Sharlayan whole.",
       "text": "ขยายอาณาเขตดินแดนของเราออกไป... แล้วกลืนกินชาร์ลายันเข้าไปทั้งตัวยังง่ายซะกว่า"
     },
     {
-      "character": "Thancred",
+      "key": "conquerothernationsthroughforceofarmsandyourelookingatafutureofuprisingsandbloodshedyourswouldntbethefirstfailedempire",
       "text_en": "Conquer other nations through force of arms, and you're looking at a future of uprisings and bloodshed. Yours wouldn't be the first failed empire.",
       "text": "พี่คงไม่ได้พูดจริงใช่ไหม! หนทางแห่งการพิชิตดินแดนรังแต่จะนำพาไปสู่สงคราม—อนาคตที่มีแต่การกบฏลุกฮือและการนองเลือด จักรวรรดิของพี่คงไม่ใช่จักรวรรดิแรกที่ต้องล่มสลายลงหรอกนะ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "thenwekeepfightinguntilthemountingcostsconvincethemtolaydowntheirweaponsuntilallhavegrowntiredofloss",
       "text_en": "Then we keep fighting, until the mounting costs convince them to lay down their weapons. Until all have grown tired of loss.",
       "text": "ถ้าเช่นนั้นเราก็แค่สู้ต่อไป จนกว่าความสูญเสียและมูลค่าของสงครามจะบีบบังคับให้พวกเขายอมวางอาวุธลง จนกว่าทุกคนจะเหนื่อยล้ากับความสูญเสียไปเอง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "howwouldsuchanoutcomebringanyonejoywhatyouproposeisamockeryofpeace",
       "text_en": "How would such an outcome bring anyone joy!? What you propose is a mockery of peace!",
       "text": "แล้วผลลัพธ์แบบนั้นจะนำพาความสุขมาให้ใครได้ยังไงกัน!? สิ่งที่พี่เสนอมาน่ะ มันคือการดูถูกเหยียดหยามสันติภาพชัด ๆ!"
     },
     {
-      "character": "Rediroq",
+      "key": "pfffpfffkohhhrediroqisremindedofdayslongago",
       "text_en": "Pfff... Pfffkohhh... Rediroq is reminded of days long ago.",
       "text": "ฟู่... ฟู่โฮ่... เรื่องนี้ทำเอาเรดิร็อกหวนคิดถึงวันวานในอดีตอันแสนไกลเลยแฮะ"
     },
     {
-      "character": "Rediroq",
+      "key": "inthetimebeforetuliyollaltherewerenopotpactsforthepotswornitwasnormaltograbsnatchartisansandforcethemtoworkformobbies",
       "text_en": "In the time before Tuliyollal, there were no potpacts for the potsworn. It was normal to grabsnatch artisans, and force them to work for Mobbies.",
       "text": "ในยุคสมัยก่อนหน้าที่จะมีทูลิโยลลัล ยุคนั้นยังไม่มีสิ่งที่เรียกว่าพันธสัญญาแห่งหม้อ (potpact) สำหรับช่างฝีมือเลย การลักพาตัวช่างฝีมือมาบังคับทำงานให้พวกเราเป็นเรื่องปกติทั่วไปของพวกม็อบลินเลยล่ะ"
     },
     {
-      "character": "Rediroq",
+      "key": "untilthedaygulooljajaarrivedthefamiliesofthegrabsnatchedpleadedwithhimandsohecametoearthenshire",
       "text_en": "Until the day Gulool Ja Ja arrived. The families of the grabsnatched pleaded with him, and so he came to Earthenshire.",
       "text": "จนกระทั่งวันที่กูลูล จา จา เดินทางมาถึง ครอบครัวของเหล่าช่างฝีมือที่ถูกลักพาตัวพากันไปกราบขอร้องเขา เขาจึงตัดสินใจเดินทางมายังเอิร์ทเทนเชียร์แห่งนี้"
     },
     {
-      "character": "Rediroq",
+      "key": "mobbiesarenotawarmakepeoplewefeareddeathhadcomeforusbutgulooljajajustwantedtotalk",
       "text_en": "Mobbies are not a warmake people. We feared death had come for us, but Gulool Ja Ja just wanted to talk!",
       "text": "พวกม็อบลินไม่ใช่พวกที่ชอบทำสงครามรบราฆ่าฟันหรอกนะ พวกเราคิดว่าความตายมาเยือนถึงหัวกะโหลกแล้วแท้ ๆ แต่กูลูล จา จา กลับอยากมาเพื่อเจรจาพูดคุยเท่านั้นเอง!"
     },
     {
-      "character": "Vow of Reason Gulool Ja Ja",
+      "key": "beateaseweareheretotradewordsnotblows",
       "text_en": "Be at ease. We are here to trade words, not blows.",
       "text": "ทำใจให้สบายเถอะ พวกเรามาที่นี่เพื่อแลกเปลี่ยนเจรจา ไม่ใช่มาเพื่อสู้รบตบมือกัน"
     },
     {
-      "character": "Vow of Reason Gulool Ja Ja",
+      "key": "thegoldworkcraftedinthisvillageissuperbonecantellataglancethequalityofmaterialsusedthemasteryoftechniqueemployed",
       "text_en": "The goldwork crafted in this village is superb. One can tell at a glance the quality of materials used; the mastery of technique employed.",
       "text": "งานทองที่ปั้นแต่งขึ้นในหมู่บ้านแห่งนี้ช่างยอดเยี่ยมเหลือเกิน มองแค่แวบเดียวก็รู้ได้ทันทีถึงคุณภาพของวัตถุดิบและความเชี่ยวชาญในเชิงช่างที่ใช้รังสรรค์ขึ้นมา"
     },
     {
-      "character": "Vow of Reason Gulool Ja Ja",
+      "key": "yetitdoesnotstirtheheartagobletshapedbyboundhandsandbrokenspiritisdevoidofluster",
       "text_en": "Yet it does not stir the heart. A goblet shaped by bound hands and broken spirit is devoid of luster.",
       "text": "แต่ถึงกระนั้น มันกลับไม่ช่วยดึงดูดกระตุ้นหัวใจเลยสักนิด ถ้วยทองที่ปั้นขึ้นด้วยมือที่ถูกพันธนาการและจิตวิญญาณอันแหลกสลายย่อมขาดซึ่งความงดงามเปร่งประกายล่ะนะ"
     },
     {
-      "character": "Vow of Reason Gulool Ja Ja",
+      "key": "comparethatnowtotheworksofajoyfulartisanshepoursherverysoulintohercreationsandtheyshinelikethenewlyrisensunhaveyounotseenthistobetrue",
       "text_en": "Compare that now to the works of a joyful artisan. She pours her very soul into her creations, and they shine like the newly risen sun. Have you not seen this to be true?",
       "text": "เจ้าจงลองนำมันไปเปรียบเทียบกับงานฝีมือของช่างที่เปี่ยมไปด้วยความสุขดูสิ ช่างฝีมือที่หลั่งไหลจิตวิญญาณของตนลงไปในงานสร้างสรรค์ ผลงานเหล่านั้นย่อมส่องประกายสุกสกาวดั่งแสงตะวันยามเช้า เจ้าเห็นด้วยกับความจริงข้อนี้รึเปล่าล่ะ?"
     },
     {
-      "character": "Rediroq",
+      "key": "andsobeganthecustomofgoodlivinghappypotswornmakegoodworksandgoodworksmakemobbieshappy",
       "text_en": "And so began the custom of goodliving. Happy potsworn make good works, and good works make Mobbies happy!",
       "text": "และนั่นคือจุดเริ่มต้นของประเพณีวิถีชีวิตที่ดี ช่างฝีมือผู้มีสุข ย่อมรังสรรค์ผลงานดี และงานช่างที่ดี ย่อมทำให้พวกม็อบลินมีความสุขแสนดี!"
     },
     {
-      "character": "Rediroq",
+      "key": "gulooljajaswordswerewisejoysmilesdidindeedbringfinecraftandmuchjinglyshine",
       "text_en": "Gulool Ja Ja's words were wise! Joysmiles did indeed bring fine craft and much jinglyshine!",
       "text": "คำพูดของกูลูล จา จา ช่างเปี่ยมปัญญายิ่งนัก! รอยยิ้มอิ่มใจนำพามาซึ่งงานฝีมือชั้นยอดและเหรียญทองแวววาวมากมายจริง ๆ!"
     },
     {
-      "character": "Koana",
+      "key": "sotheheadofreasonwasbehindtheforgingofpotpacts",
       "text_en": "So the Head of Reason was behind the forging of potpacts...",
       "text": "ที่แท้หัวแห่งเหตุผลก็อยู่เบื้องหลังการก่อตั้งพันธสัญญาแห่งหม้อนี่เอง..."
     },
     {
-      "character": "Rediroq",
+      "key": "yesreasonandcleverthinkchangedmobbieswayoflife",
       "text_en": "Yes! Reason and cleverthink changed Mobbies' way of life!",
       "text": "ใช่แล้วจ้ะ! เหตุผลและความคิดแสนฉลาดเปลี่ยนวิถีชีวิตของพวกม็อบลินไปเลย!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "hmph",
       "text_en": "Hmph.",
       "text": "หึ"
     },
     {
-      "character": "Sareel Ja",
+      "key": "thefirstpromisetiresofyourtalkofoldendayshewouldratherlooktothefutureandthenextfeat",
       "text_en": "The First Promise tires of your talk of olden days. He would rather look to the future, and the next feat.",
       "text": "ท่านสัญญาที่หนึ่งเริ่มเหนื่อยใจกับเรื่องเล่าในอดีตของพวกเธอแล้วล่ะครับ ท่านปรารถนาจะมองไปข้างหน้ายังอนาคตและการประลองขั้นต่อไปมากกว่า"
     },
     {
-      "character": "Koana",
+      "key": "weshouldbegettingonaswell",
       "text_en": "We should be getting on as well.",
       "text": "พวกเราเองก็ควรออกเดินทางกันต่อได้แล้วล่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "bakooljajaneverdidcomebackdidhe",
       "text_en": "Bakool Ja Ja never did come back, did he?",
       "text": "บาคูล จา จา ไม่ย้อนกลับมาที่นี่อีกเลยใช่ไหมนะ?"
     },
     {
-      "character": "Rakorok",
+      "key": "pfffpfffkohhhdoyouhaveamomentthirdpromise",
       "text_en": "Pfff... Pfffkohhh... Do you have a moment, Third Promise?",
       "text": "ฟู่... ฟู่โฮ่... ท่านสัญญาที่สามพอจะมีเวลาว่างแลกเปลี่ยนเจรจาสักนิดไหมครับ?"
     },
     {
-      "character": "Rakorok",
+      "key": "rakorokwouldrepayyouforhandhelpingwithkaahehebringsataleofthegoldencity",
       "text_en": "Rakorok would repay you for handhelping with Kaahe. He brings a tale of the golden city!",
       "text": "ราโคล็อกอยากจะตอบแทนท่านที่ยื่นมือช่วยเหลือดูแลคาเฮน่ะครับ ข้ามีเรื่องเล่าเกี่ยวกับนครแห่งทองคำมาแบ่งปันด้วยล่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "reallyidlovetohearit",
       "text_en": "Really? I'd love to hear it!",
       "text": "จริงเหรอ? ฉันอยากฟังใจจะขาดแล้ว เล่ามาเลยสิ!"
     },
     {
-      "character": "Rakorok",
+      "key": "thetowersthestreetsallfashionedfromgoldeverywhereyoulookeverysplendoryoucanimagine",
       "text_en": "The towers, the streets, all fashioned from gold. Everywhere you look, every splendor you can imagine!",
       "text": "หอคอย ถนนหนทาง ทุกสิ่งทุกอย่างล้วนรังสรรค์ขึ้นมาจากทองคำทั้งสิ้น! ไม่ว่าจะหันมองไปทางไหน ก็มีแต่ความหรูหราตระการตาสุดจะจินตนาการเลยล่ะครับ!"
     },
     {
-      "character": "Rakorok",
+      "key": "theyoungtheoldandeveryoneinbetweentheyliveingoldenhappinessacityofeternalblissforeverperchedabovetheclouds",
       "text_en": "The young, the old, and everyone in between, they live in golden happiness. A city of eternal bliss, forever perched above the clouds!",
       "text": "ไม่ว่าจะเป็นเด็กหรือคนแก่ หรือใครก็ตาม ต่างก็ใช้ชีวิตอยู่อย่างมีความสุขในแดนทองคำ เป็นนครแห่งความบรมสุขชั่วนิรันดร์ที่ตั้งตระหง่านอยู่เหนือหมู่เมฆครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "everythingfashionedfromgoldehandjustimagineeveryonelivingingoldenhappinessnowthatsacityidliketovisit",
       "text_en": "Everything fashioned from gold, eh? And just imagine everyone living in golden happiness─now that's a city I'd like to visit!",
       "text": "ทุกสิ่งสร้างจากทองคำงั้นเหรอ? แถมทุกคนยังอยู่กันอย่างมีความสุขในแดนทองคำอีก—จินตนาการดูสิว่านั่นคือนครที่ฉันอยากจะแวะไปเยือนจริงๆ!"
     },
     {
-      "character": "Krile",
+      "key": "excusemerakorokwheredidyouhearthatparticulartale",
       "text_en": "Excuse me, Rakorok, where did you hear that particular tale?",
       "text": "ขอโทษนะคะ ราโคล็อก คุณไปได้ยินเรื่องเล่านี้มาจากที่ไหนเหรอคะ?"
     },
     {
-      "character": "Rakorok",
+      "key": "fromourlongtimeyokhuyfriendstheyliveupinthemountainsinurqopacha",
       "text_en": "From our longtime Yok Huy friends! They live up in the mountains, in Urqopacha.",
       "text": "จากมิตรสหายชาวยอคฮุย (Yok Huy) ที่คบค้าสมาคมกันมานานน่ะครับ! พวกเขาอาศัยอยู่บนยอดเขาสูงในอูร์โกปาชาครับ"
     },
     {
-      "character": "Krile",
+      "key": "thegiantsagain",
       "text_en": "The giants again...",
       "text": "พวกคนยักษ์อีกแล้วสินะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "seemseverythingispointingustheirway",
       "text_en": "Seems everything is pointing us their way!",
       "text": "ดูเมื่อเบาะแสทุกอย่างจะชี้ทางให้พวกเรามุ่งไปหาพวกเขาเลยนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisfeatandeverythingleadinguptoithastaughtmemuchaboutthemoblinwayoflifeillbesadtoleaveearthenshireandyourjoysmilesbehind",
       "text_en": "This feat and everything leading up to it has taught me much about the Moblin way of life. I'll be sad to leave Earthenshire and your joysmiles behind!",
       "text": "การประลองครั้งนี้และทุกสิ่งที่เกิดขึ้นทำให้ฉันได้เรียนรู้วิถีชีวิตของพวกม็อบลินเยอะแยะเลยล่ะ ฉันคงรู้สึกใจหายแน่ๆ ที่ต้องบอกลาเอิร์ทเทนเชียร์และรอยยิ้มอิ่มใจของพวกเธอไปน่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "thesetalesraisemanyquestionsletushopethegiantshaveanswers",
       "text_en": "These tales raise many questions... Let us hope the giants have answers.",
       "text": "เรื่องเล่าพวกนี้ก่อให้เกิดคำถามขึ้นมามากมาย... หวังว่าพวกคนยักษ์จะมีคำตอบให้เรานะ"
     },
     {
-      "character": "Krile",
+      "key": "thestoriesdescribeaplaceofboundlesshappinessbutarealsorifewithdirewarningsofseekerswhodidnotreturnwhatarewetomakeofthis",
       "text_en": "The stories describe a place of boundless happiness, but are also rife with dire warnings of seekers who did not return. What are we to make of this...?",
       "text": "ตำนานเล่าว่าเป็นดินแดนแห่งความบรมสุขอย่างไม่มีที่สิ้นสุดก็จริง แต่ก็เต็มไปด้วยคำเตือนชวนขนหัวลุกว่าผู้ที่ออกตามหาไม่มีใครได้กลับมาอีกเลย พวกเราจะมองเรื่องนี้ยังไงกันดีล่ะคะ...?"
     },
     {
-      "character": "Alphinaud",
+      "key": "itunsettlesmethatzoraaljaisevenaclaimantinthefirstplacesurelyhisfathercannotcondonehisviolentambitions",
       "text_en": "It unsettles me that Zoraal Ja is even a claimant in the first place. Surely his father cannot condone his violent ambitions...",
       "text": "ผมรู้สึกไม่สบายใจเลยครับที่พี่โซราล จา ลงแข่งขันชิงบัลลังก์นี้ด้วยความทะเยอทะยานกระหายเลือดแบบนั้น ท่านพ่อของเขาไม่มีวันยอมรับเป้าหมายอันโหดร้ายป่าเถื่อนนั่นแน่..."
     },
     {
-      "character": "Alisaie",
+      "key": "theheadofreasoninrediroqsstorysoundssodifferentfromtheheadofresolvetheysharethesamebodyyettheirpersonalitiesarewhollydistinct",
       "text_en": "The Head of Reason in Rediroq's story sounds so different from the Head of Resolve. They share the same body, yet their personalities are wholly distinct.",
       "text": "หัวแห่งเหตุผลในเรื่องที่เรดิร็อกเล่าฟังดูแตกต่างจากหัวแห่งปณิธานลิบลับเลยนะ ทั้งที่อยู่ในร่างเดียวกันแท้ๆ แต่บุคลิกท่าทางกลับไม่เหมือนกันเลยสักนิด"
     },
     {
-      "character": "Rediroq",
+      "key": "worrynotforpotswornfonjeantaineheisingoodhelphands",
       "text_en": "Worry not for potsworn Fonjeantaine! He is in good helphands!",
       "text": "ไม่ต้องห่วงเรื่องฟงชองแตนช่างทองผู้ปฏิญานต่อหม้อหรอกนะจ๊ะ! เขาอยู่ในความดูแลของผู้ช่วยอย่างดีแสนสุขแล้วละจ๊ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightweshouldgoandseethegiantsnext",
       "text_en": "Right, we should go and see the giants next!",
       "text": "เอาล่ะ เป้าหมายต่อไปของพวกเราคือการขึ้นไปพบพวกคนยักษ์กัน!"
     },
     {
-      "character": "Erenville",
+      "key": "agreedgoldenmysteriesnotwithstandingtheirvillageisfeaturedprominentlyinthesagaandisnottobeignored",
       "text_en": "Agreed. Golden mysteries notwithstanding, their village is featured prominently in the saga and is not to be ignored.",
       "text": "เห็นด้วย ต่อให้ไม่นับเรื่องปริศนาสีทองคำ หมู่บ้านของพวกเขาก็ระบุไว้ชัดเจนในมหากาพย์ทูลิโยลลัล ซึ่งพวกเราจะเพิกเฉยไม่ได้เด็ดขาด"
     },
     {
-      "character": "Erenville",
+      "key": "theurqopachahighlandsshouldbeeasyenoughtoreachfromhere",
       "text_en": "The Urqopacha highlands should be easy enough to reach from here.",
       "text": "การเดินทางไปยังอูร์โกปาชาตอนบนจากที่นี่น่าจะไม่ใช่เรื่องยากอะไร"
     },
     {
-      "character": "Erenville",
+      "key": "ifweleaveearthenshirefromthewesttheresaroadwhichleadsupintothemountainsletsfindthatfirst",
       "text_en": "If we leave Earthenshire from the west, there's a road which leads up into the mountains. Let's find that first.",
       "text": "หากพวกเราออกจากเอิร์ทเทนเชียร์ทางทิศตะวันตก จะมีถนนสายหลักที่ทอดยาวขึ้นไปบนภูเขา พวกเราไปตามหาถนนสายนั้นกันก่อนเถอะ"
     },
     {
-      "character": "Erenville",
+      "key": "thisroadwilltakeusthroughthemountainstotheurqopachahighlandsanexhaustingrouteperhapsbutastraightforwardone",
       "text_en": "This road will take us through the mountains to the Urqopacha highlands. An exhausting route, perhaps, but a straightforward one.",
       "text": "ถนนเส้นนี้จะพาพวกเราผ่านหุบเขาไปสู่เขตนูโนอูร์โกปาชาตอนบนทางอาจจะค่อนข้างชันเหนื่อยล้าไปหน่อย แต่เส้นทางตรงไปตรงมาไม่ซับซ้อนหรอกครับ"
     },
     {
-      "character": "Krile",
+      "key": "weretomeetwiththeyokhuyatlast",
       "text_en": "We're to meet with the Yok Huy at last...",
       "text": "ในที่สุดพวกเราก็จะได้พบกับชาวยอคฮุยจริงๆ แล้วสินะคะ..."
     },
     {
-      "character": "Alphinaud",
+      "key": "thehighlandsarewherethelayofprooftookplacethatbeinggulooljajasencounterwiththeyokhuy",
       "text_en": "The highlands are where the Lay of Proof took place─that being Gulool Ja Ja's encounter with the Yok Huy.",
       "text": "ดินแดนตอนบนคือสถานที่จัดประลอง 'บททดสอบแห่งการพิสูจน์' ครับ ซึ่งเป็นจุดที่ท่านกูลูล จา จา ได้เผชิญหน้าเจรจากับชาวยอคฮุยในอดีต"
     },
     {
-      "character": "Alphinaud",
+      "key": "buttisalsothestageforthelayoficewhereheroesfoughtthemonstrousvaligarmandaiammostcurioustoknowwhattheritewilldemandofusthere",
       "text_en": "But 'tis also the stage for the Lay of Ice, where heroes fought the monstrous Valigarmanda. I am most curious to know what the rite will demand of us there...",
       "text": "แถมที่นั่นยังเป็นเวทีสำหรับ 'บททดสอบแห่งน้ำแข็ง' ที่เหล่าผู้กล้าต้องเข้าปะทะกับอสูรภัยพิบัติวาลิการ์มันดา (Valigarmanda) อีกด้วย ผมชักสงสัยใคร่รู้แล้วสิครับว่าบททดสอบที่นั่นจะให้พวกเราทำอะไรบ้าง..."
     },
     {
-      "character": "Alisaie",
+      "key": "onedayweresailingupriversandthenextwerehikingupmountains",
       "text_en": "One day we're sailing up rivers, and the next we're hiking up mountains.",
       "text": "วันนี้เพิ่งจะแล่นเรือทวนน้ำขึ้นมา วันต่อมาก็ต้องมาปีนป่ายเขาสูงซะแล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "lookslikethetrailisgoingtogetsteepfromhereoninihopeeveryoneisreadyforsomeclimbing",
       "text_en": "Looks like the trail is going to get steep from here on in. I hope everyone is ready for some climbing!",
       "text": "ดูเหมือนว่าเส้นทางนับจากนี้จะเริ่มชันขึ้นเรื่อย ๆ แล้วนะ หวังว่าทุกคนจะเตรียมตัวเตรียมใจรับมือกับการปีนเขากันพร้อมนะ!"
     },
     {
-      "character": "Bright-haired Tonawawtan Man",
+      "key": "thirdpromise",
       "text_en": "Third Promise!",
       "text": "ท่านสัญญาที่สามครับ!"
     },
     {
-      "character": "Bright-haired Tonawawtan Man",
+      "key": "imgladicaughtyourediroqaskedmetobringyoubacktothevillage",
       "text_en": "I'm glad I caught you... Rediroq asked me to bring you back to the village.",
       "text": "ดีจริง ๆ ที่ตามมาทัน... ท่านแม่ข่ายเรดิร็อกฝากให้ข้ามาตามตัวท่านย้อนกลับไปที่หมู่บ้านครับ"
     },
     {
-      "character": "Bright-haired Tonawawtan Man",
+      "key": "shesaystheressomethingsheforgottogiveyou",
       "text_en": "She says there's something she forgot to give you.",
       "text": "นางบอกว่ามีของสำคัญบางอย่างที่ลืมมอบให้ท่านน่ะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "huhsomethingotherthanthekeystone",
       "text_en": "Huh...? Something other than the keystone?",
       "text": "เอ๋...? มีอย่างอื่นนอกจากหินศิลาอีกงั้นเหรอ?"
     },
     {
-      "character": "Bright-haired Tonawawtan Man",
+      "key": "yesanitemofgreatimportanceorsoiwastolditshouldnttakelongifyouwouldpleasefollowme",
       "text_en": "Yes, an item of great importance, or so I was told. It shouldn't take long, if you would please follow me.",
       "text": "ครับ เป็นของที่มีความสำคัญมาก ๆ ตามที่นางบอกข้ามาน่ะนะ คงใช้เวลาไม่นานหรอกครับ รบกวนท่านช่วยเดินทางตามข้ามาทางนี้หน่อยได้ไหมครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwonderwhatthisisallaboutwellnoneedforeveryonetocomeillbebackinalittlewhile",
       "text_en": "I wonder what this is all about? Well, no need for everyone to come─I'll be back in a little while!",
       "text": "มันคืออะไรกันแน่นะ? ช่างเถอะ พวกนายไม่ต้องตามมาหรอก—เดี๋ยวฉันไปแป๊บเดียวก็กลับมาแล้วล่ะ!"
     },
     {
-      "character": "Rediroq",
+      "key": "pfffpfffkohhhmoblinsarebusyensuringgoodlivingfornewpotswornrediroqhasnotimeforidletongueflaps",
       "text_en": "Pfff... Pfffkohhh... Moblins are busy ensuring goodliving for new potsworn! Rediroq has no time for idle tongueflaps!",
       "text": "ฟู่... ฟู่โฮ่... พวกม็อบลินกำลังง่วนอยู่กับการดูแลชีวิตความเป็นอยู่ที่ดีให้ช่างฝีมือคนใหม่อยู่จ้ะ! เรดิร็อกไม่มีเวลาว่างมาเสวนาเจรจาเปล่าๆ ปลี้ๆ หรอกนะ!"
     },
     {
-      "character": "Krile",
+      "key": "hehadratherinterestinghairforahyurorshouldisaytonawawtainanycasestrangethatinevernoticedhimwhilewewereinearthenshire",
       "text_en": "He had rather interesting hair for a Hyur...or should I say Tonawawta? In any case, strange that I never noticed him while we were in Earthenshire.",
       "text": "ผู้ชายคนนั้นมีสีผมที่สะดุดตาแปลกตาดีนะคะสำหรับชาวฮิวร์... หรือจะเรียกว่าชนเผ่าโทนาวอว์ตา (Tonawawta) ดี? แต่จะว่าไปก็น่าแปลกนะคะที่ตอนอยู่ในหมู่บ้าน ฉันไม่ยักษ์กะสังเกตเห็นเขาเลยสักครั้ง"
     },
     {
-      "character": "Erenville",
+      "key": "knowingwuklamatshewasprobablyeatingsweetsbehindourbacksandforgottopaytheshopkeeperorsomethingequallycareless",
       "text_en": "Knowing Wuk Lamat, she was probably eating sweets behind our backs and forgot to pay the shopkeeper or something equally careless.",
       "text": "ถ้ารู้ใจวุค ลามัต ดีล่ะก็ ยัยหนูนั่นคงแอบไปกินขนมลับหลังพวกเราแล้วลืมจ่ายเงิน หรือไม่ก็ก่อเรื่องซุ่มซ่ามอะไรทำนองนั้นไว้อีกตามเคยนั่นแหละ"
     },
     {
-      "character": "Alphinaud",
+      "key": "imeagertocontinuetothehighlandsandmeetayokhuyfacetofaceweveheardmuchaboutthembutimnotentirelysurewhattoexpect",
       "text_en": "I'm eager to continue to the highlands and meet a Yok Huy face-to-face. We've heard much about them, but I'm not entirely sure what to expect.",
       "text": "ผมตั้งตารอที่จะขึ้นไปบนเขาสูงเพื่อพบปะพูดคุยกับชาวยอคฮุยต่อหน้าจริงๆ ครับ พวกเราได้ยินเรื่องของพวกเขามาเยอะ แต่ก็ยังเดาไม่ค่อยถูกว่าจะเป็นยังไงแฮะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thatmanseemedfamiliarsomehowbutijustcantplacehim",
       "text_en": "That man seemed familiar somehow... But I just can't place him.",
       "text": "ผู้ชายคนนั้นดูหน้าตาคุ้นๆ ยังไงชอบกล... แต่นึกยังไงก็นึกไม่ออกแฮะ"
     },
     {
-      "character": "Krile",
+      "key": "thisistakingquiteawhilejustkeepwaitingfornowisuppose",
       "text_en": "This is taking quite a while... Just keep waiting for now, I suppose.",
       "text": "ไปนานเกินไปหน่อยแล้วนะเนี่ย... แต่ตอนนี้พวกเราคงทำได้แค่ยืนรอไปก่อนล่ะมั้งคะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "perhapstherewerecomplicationswellletuswaitalittlelonger",
       "text_en": "Perhaps there were complications? Well, let us wait a little longer.",
       "text": "หรือว่าจะเกิดปัญหาอะไรขึ้นรึเปล่านะครับ? ช่างเถอะ พวกเราลองยืนรอดูกันอีกสักพักแล้วกัน"
     },
     {
-      "character": "Alisaie",
+      "key": "thisisgettingalittleridiculousdidshegetlostonthewaybacktofindus",
       "text_en": "This is getting a little ridiculous. Did she get lost on the way back to find us?",
       "text": "นี่มันเริ่มจะตลกเกินไปแล้วนะเนี่ย หรือยัยนั่นจะหลงทางตอนเดินขากลับมาหาเรากันแน่?"
     },
     {
-      "character": "Krile",
+      "key": "buthowtheresonlytheoneroad",
       "text_en": "But how? There's only the one road.",
       "text": "แต่จะหลงได้ยังไงกันคะ? ในเมื่อถนนหลักก็มีอยู่เส้นทางเดียวแท้ๆ"
     },
     {
-      "character": "Erenville",
+      "key": "iwouldntunderestimatewuklamatssenseofdirectionorlackthereof",
       "text_en": "I wouldn't underestimate Wuk Lamat's sense of direction...or lack thereof.",
       "text": "ฉันล่ะไม่เคยประเมินทักษะการบอกทิศทาง—หรือความไร้สำนึกด้านทิศทางของวุค ลามัต สูงเกินไปหรอกนะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "fortunatelyshehasalinkpearlletsseewhatskeepinghershallwe",
       "text_en": "Fortunately, she has a linkpearl. Let's see what's keeping her, shall we?",
       "text": "โชคดีที่ยัยหนูมีลิงก์เพิร์ล (linkpearl) ติดตัวอยู่นะครับ ลองติดต่อดูหน่อยสิว่าเกิดอะไรขึ้นกับเธอรึเปล?"
     },
     {
-      "character": "Alphinaud",
+      "key": "shesnotrespondingperhapsweshouldallreturntoearthenshire",
       "text_en": "She's not responding... Perhaps we should all return to Earthenshire.",
       "text": "เธอไม่ตอบรับการติดต่อกลับเลยครับ... บางทีพวกเราทั้งหมดควรจะพากันย้อนกลับไปที่เอิร์ทเทนเชียร์กันดีกว่า"
     },
     {
-      "character": "Alphinaud",
+      "key": "twasrediroqwhohadbusinesswithheryes",
       "text_en": "'Twas Rediroq who had business with her, yes?",
       "text": "คนที่บอกว่ามีธุระกับเธอก็คือเรดิร็อกใช่ไหมครับ?"
     },
     {
-      "character": "Krile",
+      "key": "shedoesntseemtobehere",
       "text_en": "She doesn't seem to be here...",
       "text": "ดูเหมือนเธอจะไม่ได้อยู่ที่นี่นะคะ..."
     },
     {
-      "character": "Erenville",
+      "key": "idthoughtwuklamatwasjustbeingherusualimpulsiveselfbutnowimnotsocertain",
       "text_en": "I'd thought Wuk Lamat was just being her usual impulsive self, but now I'm not so certain...",
       "text": "ทีแรกฉันก็นึกว่าวุค ลามัต แค่ทำตัวใจร้อนวู่วามไร้หัวคิดตามปกติของเธอเฉยๆ แต่ตอนนี้ฉันเริ่มชักไม่ค่อยมั่นใจซะแล้วสิ..."
     },
     {
-      "character": "Alphinaud",
+      "key": "ipraynaughtuntowardhasbefallenthethirdpromise",
       "text_en": "I pray naught untoward has befallen the Third Promise.",
       "text": "ผมได้แต่ภาวนาขออย่าให้เกิดเรื่องร้ายแรงอันใดขึ้นกับท่านสัญญาที่สามเลยครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "somethingsnotrighticanfeelit",
       "text_en": "Something's not right. I can feel it...",
       "text": "มีบางอย่างไม่ปกติแล้วล่ะ ฉันสัมผัสได้ถึงลางสังหรณ์แปลกๆ..."
     },
     {
-      "character": "Rediroq",
+      "key": "pfffpfffkohhhbackagainsosoon",
       "text_en": "Pfff... Pfffkohhh... Back again so soon?",
       "text": "ฟู่... ฟู่โฮ่... ไหงย้อนกลับมาที่นี่เร็วจังล่ะจ๊ะ?"
     },
     {
-      "character": "Alphinaud",
+      "key": "wevecomelookingforwuklamatdidyounotsendsomeonetofetchher",
       "text_en": "We've come looking for Wuk Lamat. Did you not send someone to fetch her?",
       "text": "พวกเรากำลังตามหาวุค ลามัต อยู่ครับ เมื่อกี้คุณได้ส่งคนไปตามตัวเธอให้กลับมาหาคุณรึเปล?"
     },
     {
-      "character": "Rediroq",
+      "key": "rediroqdidnotneitherhassheseenthethirdpromisesinceyouwerelasthere",
       "text_en": "Rediroq did not! Neither has she seen the Third Promise since you were last here.",
       "text": "เรดิร็อกไม่ได้ทำอย่างนั้นเลยนะจ๊ะ! แล้วตัวข้าเองก็ไม่ได้เจอหน้าท่านสัญญาที่สามอีกเลยนับตั้งแต่พวกท่านเดินจากไปครั้งล่าสุดนั่นแหละ"
     },
     {
-      "character": "Krile",
+      "key": "thenwhowasthatmanwhocameforher",
       "text_en": "Then who was that man who came for her...?",
       "text": "ถ้าอย่างนั้น... ผู้ชายสีผมแปลกตาคนนั้นที่มารับตัวเธอไปคือใครกันล่ะคะ...?"
     },
     {
-      "character": "Thancred",
+      "key": "ohithoughtyoudleftalready",
       "text_en": "Oh? I thought you'd left already.",
       "text": "อ้าว? ข้านึกว่าพวกเจ้าออกเดินทางไปเขาสูงกันแล้วซะอีก"
     },
     {
-      "character": "Koana",
+      "key": "whereislamatyiisshenotwithyou",
       "text_en": "Where is Lamaty'i? Is she not with you?",
       "text": "ลามะตี้ล่ะ? เธอไม่ได้อยู่กับพวกนายหรอกเหรอ?"
     },
     {
-      "character": "Koana",
+      "key": "youdontknowwheresheishowcouldyouletthishappen",
       "text_en": "You don't know where she is? How could you let this happen!?",
       "text": "พวกนายไม่รู้รึไงว่าเธอหายไปไหน!? ปล่อยให้เรื่องพรรค์นี้เกิดขึ้นได้ยังไงกัน!?"
     },
     {
-      "character": "Urianger",
+      "key": "thatthoushouldstworryforthysisterisunderstandableyetratherthanassignblamethineenergiesarebetterspentonlocatingher",
       "text_en": "That thou shouldst worry for thy sister is understandable. Yet rather than assign blame, thine energies are better spent on locating her.",
       "text": "การที่ท่านเป็นห่วงความปลอดภัยของน้องสาวย่อมเป็นเรื่องเข้าใจได้ครับ ทว่าแทนที่จะมัวมาโทษหาคนรับผิดชอบในตอนนี้ การทุ่มเทกำลังทั้งหมดออกตามหาตัวเธอจะเป็นประโยชน์สูงสุดนะครับ"
     },
     {
-      "character": "Koana",
+      "key": "iwillhelpyousearchthisisnothowidwishafellowclaimanttolosethecontestmysisterleastofall",
       "text_en": "I will help you search. This is not how I'd wish a fellow claimant to lose the contest─my sister least of all.",
       "text": "ข้าจะช่วยพวกนายออกตามหาตัวเธอด้วย ข้าไม่อยากเห็นผู้ท้าชิงคนอื่นต้องแพ้พ่ายตกรอบไปด้วยวิธีการสกปรกแบบนี้—โดยเฉพาะถ้าคนคนนั้นคือน้องสาวของข้าล่ะก็"
     },
     {
-      "character": "Thancred",
+      "key": "inthatcasedividingourforceswillallowustocovermoreground",
       "text_en": "In that case, dividing our forces will allow us to cover more ground.",
       "text": "ถ้าเช่นนั้น การแยกกันออกเป็นหลายกลุ่มเพื่อค้นหาจะช่วยให้พวกเราครอบคลุมพื้นที่ได้กว้างและทั่วถึงยิ่งขึ้นนะ"
     },
     {
-      "character": "Koana",
+      "key": "forenameandishouldworktogetheratleastthebettertofacilitatecommunicationbetweenourgroups",
       "text_en": "Forename and I should work together at least, the better to facilitate communication between our groups.",
       "text": "อย่างน้อย คุณ [ชื่อ] กับข้าควรทำงานร่วมกลุ่มเดียวกัน จะได้ช่วยให้การแลกเปลี่ยนสื่อสารติดต่อระหว่างกลุ่มสะดวกและรวดเร็วขึ้น"
     },
     {
-      "character": "Alphinaud",
+      "key": "thentherestofuswillsplitupreportinshouldyoufindanything",
       "text_en": "Then the rest of us will split up. Report in should you find anything.",
       "text": "งั้นพวกเราที่เหลือจะแยกย้ายกันออกค้นหาครับ หากใครพบเบาะแสข้อมูลอะไรให้รีบติดต่อรายงานส่งข่าวทันทีนะครับ"
     },
     {
-      "character": "Thancred",
+      "key": "wellbeonourwayaswell",
       "text_en": "We'll be on our way as well.",
       "text": "งั้นพวกเราก็ขอตัวแยกย้ายออกไปค้นหาก่อนนะ"
     },
     {
-      "character": "Koana",
+      "key": "rightkeepintouch",
       "text_en": "Right. Keep in touch.",
       "text": "ตกลง คอยส่งข่าวติดต่อสื่อสารกันไว้ด้วยล่ะ"
     },
     {
-      "character": "Koana",
+      "key": "comeweshouldbeginoursearch",
       "text_en": "Come─we should begin our search.",
       "text": "ไปกันเถอะ—พวกเราต้องเริ่มออกค้นหากันแล้ว"
     }

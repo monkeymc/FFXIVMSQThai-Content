@@ -1,366 +1,343 @@
 {
-  "id": "drowned-vestiges",
-  "wiki_path": "/wiki/Drowned_Vestiges",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "Drowned Vestiges",
-  "title": "ซากปรักหักพังใต้น้ำ",
-  "level": "98",
-  "location": "Heritage Found(X:7.3,Y:17.2)",
-  "npc_start": "Wuk Lamat",
+  "quest_id": "drowned-vestiges",
   "dialogues": [
     {
-      "character": "Wuk Lamat",
+      "key": "ionlysawhimforamomentbeforehedisappearedbehindabuildingbutimprettysuregulooljawasheadingfurthersouth",
       "text_en": "I only saw him for a moment before he disappeared behind a building, but I'm pretty sure Gulool Ja was heading further south.",
       "text": "ฉันเห็นเขาแค่แวบเดียก่อนที่เขาจะหายวับไปหลังตึก แต่ฉันค่อนข้างมั่นใจว่ากูลูล จา กำลังมุ่งหน้าลงใต้ไปอีกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "illcontactalisaieonlinkpearlandletherknowtojoinus",
       "text_en": "I'll contact Alisaie on linkpearl and let her know to join us.",
       "text": "เดี๋ยวฉันจะติดต่ออลิเซทางลิงก์เพิร์ลให้ตามมาสมทบกับพวกเราก่อนนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisistheareabutthecanalsandthedebrismakeithardtogetagoodview",
       "text_en": "This is the area, but the canals and the debris make it hard to get a good view...",
       "text": "แถวนี้แหละใช่เลย แต่เพราะพวกคลองกับซากปรักหักพังพวกนี้ทำให้มองเห็นทางได้ยากชะมัด..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letssplitupandsearchifyoucouldheadintothecanalsillmakemywaythroughthestreets",
       "text_en": "Let's split up and search. If you could head into the canals, I'll make my way through the streets.",
       "text": "แยกย้ายกันหาเถอะ ถ้านายช่วยไปหาแถวทางน้ำพวกนั้น ฉันจะเดินหาตามตรอกซอกซอยเอง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whenwefindgulooljaletswatchfromadistanceuntilhegetstohisdestinationwouldntwanttostartlehimandcauseanaccident",
       "text_en": "When we find Gulool Ja, let's watch from a distance until he gets to his destination. Wouldn't want to startle him and cause an accident.",
       "text": "พอเจอกูลูล จา แล้ว พวกเราคอยเฝ้าดูอยู่ห่างๆ จนกว่าเขาจะถึงจุดหมายดีกว่านะ จะได้ไม่ทำให้เขาตกใจจนเกิดอุบัติเหตุเอาได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "alisaieiscomingasfastasshecanletskeepsearchinginthemeantime",
       "text_en": "Alisaie is coming as fast as she can. Let's keep searching in the meantime.",
       "text": "อลิเซกำลังรีบมาให้เร็วที่สุดเท่าที่จะทำได้แล้ว ระหว่างนี้พวกเราหาตัวเขาต่อไปกันเถอะ"
     },
     {
-      "character": "Gulool Ja (text bubble)",
+      "key": "uwaaah",
       "text_en": "Uwaaah!",
       "text": "อว้าาา!"
     },
     {
-      "character": "Gulool Ja (text bubble)",
+      "key": "ohdear",
       "text_en": "Oh dear...",
       "text": "แย่แล้วสิ..."
     },
     {
-      "character": "Gulool Ja (text bubble)",
+      "key": "hm",
       "text_en": "Hm?",
       "text": "หืม?"
     },
     {
-      "character": "Gulool Ja (text bubble)",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Gulool Ja (text bubble)",
+      "key": "hm",
       "text_en": "Hm?",
       "text": "หืม?"
     },
     {
-      "character": "Gulool Ja (text bubble)",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Gulool Ja (text bubble)",
+      "key": "hm",
       "text_en": "Hm?",
       "text": "หืม?"
     },
     {
-      "character": "Gulool Ja (text bubble)",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Gulool Ja (text bubble)",
+      "key": "whew",
       "text_en": "Whew!",
       "text": "ฟู่..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hescomealongwayonsuchshortlegsitsareliefhedidntgethurt",
       "text_en": "He's come a long way on such short legs. It's a relief he didn't get hurt.",
       "text": "ขาสั้นๆ แค่นั้นแต่เดินมาตั้งไกลแน่ะ โล่งอกไปทีที่เขาไม่ได้รับบาดเจ็บอะไร"
     },
     {
-      "character": "Alisaie",
+      "key": "whatshereiwonder",
       "text_en": "What's here, I wonder.",
       "text": "มีอะไรอยู่ที่นี่กันแน่นะ ฉันล่ะสงสัยจริง"
     },
     {
-      "character": "Alisaie",
+      "key": "soheslookingafterthoselittleones",
       "text_en": "So he's looking after those little ones.",
       "text": "ที่แท้เขาก็มาคอยดูแลเจ้าพวกตัวเล็กพวกนี้สินะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "guloolja",
       "text_en": "Gulool Ja...",
       "text": "กูลูล จา..."
     },
     {
-      "character": "???",
+      "key": "notanotherstep",
       "text_en": "Not another step!",
       "text": "หยุดอยู่ตรงนั้นนะ! ห้ามก้าวเข้ามาอีกแม้แต่ก้าวเดียว!"
     },
     {
-      "character": "Gulool Ja",
+      "key": "surprisedreaxuwaaah",
       "text_en": "[SURPRISED REAX “Uwaaah!”]",
       "text": "อว้าาา!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asentry",
       "text_en": "A sentry!?",
       "text": "ทหารยามงั้นเหรอ!?"
     },
     {
-      "character": "Alisaie",
+      "key": "rungulooljarun",
       "text_en": "Run, Gulool Ja! Run!",
       "text": "วิ่งเร็ว กูลูล จา! วิ่งหนีไป!"
     },
     {
-      "character": "Rusty Mechanical Soldier",
+      "key": "youknowtheboywhoareyouandwhatdoyouwant",
       "text_en": "You know the boy? Who are you and what do you want?",
       "text": "พวกท่านรู้จักเด็กคนนี้งั้นรึ? พวกท่านเป็นใคร และต้องการสิ่งใดกัน?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "mynameiswuklamatandivecometotalktoguloolja",
       "text_en": "My name is Wuk Lamat, and I've come to talk to Gulool Ja.",
       "text": "ฉันชื่อวุค ลามัต ฉันมาเพื่อพูดคุยกับกูลูล จาน่ะ"
     },
     {
-      "character": "Rusty Mechanical Soldier",
+      "key": "isthatso",
       "text_en": "Is that so...",
       "text": "เช่นนั้นรึ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imsorryifiscaredyouiwanttogettoknowyoubetterthatsall",
       "text_en": "I'm sorry if I scared you. I want to get to know you better. That's all.",
       "text": "ขอโทษด้วยนะที่ทำให้ตกใจ ฉันแค่อยากจะรู้จักหนูให้มากขึ้นเท่านั้นเองจ้ะ"
     },
     {
-      "character": "Rusty Mechanical Soldier",
+      "key": "andyoumyboydoyouwishtospeakwiththem",
       "text_en": "And you, my boy? Do you wish to speak with them?",
       "text": "แล้วเจ้าล่ะ เด็กน้อย? เจ้าปรารถนาจะเสวนากับพวกเขาหรือไม่?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "iheardthemtalkingshesaidshesgoingtokillmyfather",
       "text_en": "I heard them talking... She said she's going to kill my father...",
       "text": "ผมได้ยินพวกพี่ๆ เค้าคุยกัน... พี่สาวคนนั้นบอกว่าจะฆ่าคุณพ่อของผมครับ..."
     },
     {
-      "character": "Rusty Mechanical Soldier",
+      "key": "villainsiwilldealwiththemforthwith",
       "text_en": "Villains! I will deal with them forthwith!",
       "text": "พวกคนโฉดชั่ว! ข้าพเจ้าจะจัดการพวกมัน ณ บัดนี้!"
     },
     {
-      "character": "Gulool Ja",
+      "key": "but",
       "text_en": "But...",
       "text": "แต่ว่า..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "iiwanttogettoknowhertoo",
       "text_en": "I...I want to get to know her too.",
       "text": "ผม... ผมเองก็อยากทำความรู้จักกับพี่สาวคนนั้นเหมือนกันครับ"
     },
     {
-      "character": "Rusty Mechanical Soldier",
+      "key": "iseeifthatisyourdesirethenishallstandaside",
       "text_en": "I see. If that is your desire, then I shall stand aside.",
       "text": "เข้าใจแล้ว หากนั่นเป็นความปรารถนาของเจ้า ข้าพเจ้าก็จะยอมหลีกทางให้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "alrightthenletstalkyouandilots",
       "text_en": "Alright, then! Let's talk, you and I—lots!",
       "text": "เยี่ยมเลย งั้นพวกเรามาคุยกันเถอะ คุยกันเยอะๆ เลยนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butuhwhostheancientlookingandarticulatemachine",
       "text_en": "But, uh...who's the ancient-looking and...articulate machine?",
       "text": "แต่ว่านะ... เจ้าเครื่องจักรหน้าตาโบราณแถมนิยมพูดจาสละสลวยตัวนี้คือใครกันเหรอ?"
     },
     {
-      "character": "Rusty Mechanical Soldier",
+      "key": "ifilookancientitisbecauseiamthishasbeenmyvesselfornolessthanthreehundredandeightyyears",
       "text_en": "If I look ancient, it is because I am. This has been my vessel for no less than three hundred and eighty years.",
       "text": "หากข้าพเจ้าดูโบราณคร่ำคร่า นั่นก็เพราะข้าพเจ้าเป็นเช่นนั้นจริงๆ ร่างเหล็กนี้เป็นภาชนะรองรับจิตวิญญาณของข้าพเจ้ามาไม่ต่ำกว่าสามร้อยแปดสิบปีแล้ว"
     },
     {
-      "character": "Alisaie",
+      "key": "vessel",
       "text_en": "Vessel...?",
       "text": "ภาชนะรองรับงั้นเหรอ...?"
     },
     {
-      "character": "Gulool Ja",
+      "key": "otisismyfriendwheniwashungryandsadhecameandlookedafterme",
       "text_en": "Otis is my friend. When I was hungry and sad, he came and looked after me.",
       "text": "คุณโอทิสคือเพื่อนของผมครับ ตอนที่ผมกำลังหิวและเศร้าสร้อย เขาก็เข้ามาช่วยดูแลผม"
     },
     {
-      "character": "Gulool Ja",
+      "key": "hecooksformeandteachesmeallkindsofthings",
       "text_en": "He cooks for me, and teaches me all kinds of things.",
       "text": "เขาช่วยทำอาหารให้ผมกิน และคอยสั่งสอนเรื่องต่างๆ ให้ผมตั้งเยอะแยะเลยครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "likehowtoreadandwriteandandnotbenoticedbydangerouscreatures",
       "text_en": "Like how to read and write and...and not be noticed by dangerous creatures.",
       "text": "อย่างเช่นวิธีการอ่าน การเขียนหนังสือ แล้วก็... แล้วก็วิธีการหลบเลี่ยงไม่ให้พวกสัตว์อันตรายสังเกตเห็นตัวด้วยครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "thismachinecooksforyou",
       "text_en": "This machine...cooks for you?",
       "text": "เครื่องจักรเครื่องนี้... ทำอาหารให้เธอเนี่ยนะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andteachesyouaboutfiendswhatisheexactly",
       "text_en": "And teaches you about fiends... What is he exactly?",
       "text": "แถมยังสอนเรื่องอสูรกายอีก... ตกลงเขาเป็นตัวอะไรกันแน่เนี่ย?"
     },
     {
-      "character": "Rusty Mechanical Soldier",
+      "key": "ahhowremissofmeihadneglectedtointroducemyself",
       "text_en": "Ah, how remiss of me. I had neglected to introduce myself.",
       "text": "โอ้ ข้าพเจ้าช่างเสียมารยาทยิ่งนัก ที่ละเลยการแนะนำตนเองไปเสียได้"
     },
     {
-      "character": "Otis",
+      "key": "serotisvelonalordcaptainoftheroyalknightsofalexandriaatyourservice",
       "text_en": "Ser Otis Velona, lord captain of the royal knights of Alexandria, at your service.",
       "text": "ข้าพเจ้า เซอร์โอทิส เวโลนา หัวหน้ากองอัศวินหลวงแห่งอเล็กซานเดรีย ยินดีรับใช้พวกท่าน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yourecaptainoftheknights",
       "text_en": "You're captain of the knights!?",
       "text": "นายเป็นหัวหน้ากองอัศวินงั้นเหรอ!?"
     },
     {
-      "character": "Otis",
+      "key": "amusedlaughterhahaha",
       "text_en": "[AMUSED LAUGHTER “Hahaha!”]",
       "text": "[หัวเราะอย่างขบขัน — “ฮะฮะฮ่า!”]"
     },
     {
-      "character": "Otis",
+      "key": "andthereithoughtitwasgulooljawithwhomyouwishedtospeaknotthatimaversetotakingawalkdownmemorylane",
       "text_en": "And there I thought it was Gulool Ja with whom you wished to speak. Not that I'm averse to taking a walk down memory lane...",
       "text": "ข้าพเจ้านึกว่าผู้ที่พวกท่านปรารถนาจะเสวนาด้วยคือกูลูล จา เสียอีก แต่ก็มิได้หมายความว่าข้าพเจ้าจะรังเกียจที่จะย้อนรำลึกความหลังแต่อย่างใด..."
     },
     {
-      "character": "Otis",
+      "key": "butereiregaleyouwemusttakeourrepast",
       "text_en": "But ere I regale you: we must take our repast!",
       "text": "ทว่าก่อนที่ข้าพเจ้าจะเล่าความหลังให้ฟัง: พวกเราจำต้องรับประทานอาหารกันเสียก่อน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "amealhereihatetoturndownfoodbutidprefertohavethisconversationinthebackroom",
       "text_en": "A meal? Here? I hate to turn down food, but I'd prefer to have this conversation in the Backroom...",
       "text": "มื้ออาหารเหรอ? ที่นี่เนี่ยนะ? ใจจริงฉันก็ไม่เคยปฏิเสธเรื่องของกินหรอกนะ แต่ฉันอยากจะไปพูดคุยกันต่อในเดอะ แบ็ครูม มากกว่า..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "pleaseimreallyhungry",
       "text_en": "Please? I'm really hungry...",
       "text": "ขอร้องละครับ? ผมหิวข้าวมากๆ เลย..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "alrightalrightarepastitis",
       "text_en": "Alright, alright! A repast it is!",
       "text": "โอเคๆ! กินข้าวกันก่อนก็ได้!"
     },
     {
-      "character": "Alisaie",
+      "key": "shesgoingtospoilhernephewsillyillsendwordtoerenvillesotheotherscanstopworrying",
       "text_en": "She's going to spoil her nephew silly. I'll send word to Erenville so the others can stop worrying.",
       "text": "ยัยนี่ต้องตามใจหลานชายจนเสียคนแน่ๆ เลย เดี๋ยวฉันจะส่งข่าวบอกเอเรนวิลล์ก่อนนะ คนอื่นๆ จะได้เลิกเป็นห่วงกันสักที"
     },
     {
-      "character": "Otis",
+      "key": "nowifimightprevailuponyourassistanceishallwhipupmymostdelectablespecialty",
       "text_en": "Now, if I might prevail upon your assistance, I shall whip up my most delectable specialty!",
       "text": "ยามนี้ หากข้าพเจ้าจะขอรบกวนความช่วยเหลือจากพวกท่านสักเล็กน้อย ข้าพเจ้าก็จะได้ลงมือปรุงอาหารจานพิเศษที่สุดแสนจะเลิศรสขึ้นมา!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hespoketousgulooljaactuallyspoketous",
       "text_en": "He spoke to us! Gulool Ja actually spoke to us!",
       "text": "เขาพูดกับพวกเราแล้ว! กูลูล จา ยอมพูดกับพวกเราจริงๆ แล้ว!"
     },
     {
-      "character": "Alisaie",
+      "key": "ifotishasbeenaroundforaslongasheclaimsperhapsheknowsthingsthatnotevenoblivionisawareof",
       "text_en": "If Otis has been around for as long as he claims, perhaps he knows things that not even Oblivion is aware of.",
       "text": "ถ้าโอทิสอยู่มานานขนาดนั้นจริงๆ ตามที่เขาอ้าง บางทีเขาอาจจะรู้อะไรบางอย่างที่แม้แต่อ็อบลิเวียนยังไม่รู้ก็ได้นะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "otiscooksthebestfood",
       "text_en": "Otis cooks the best food.",
       "text": "คุณโอทิสทำอาหารอร่อยที่สุดเลยครับ"
     },
     {
-      "character": "Otis",
+      "key": "somynewfriendsiwouldenlistyouraidinprocuringtheingredientsforourrepast",
       "text_en": "So, my new friends! I would enlist your aid in procuring the ingredients for our repast.",
       "text": "เอาล่ะ สหายใหม่ของข้าพเจ้า! ข้าพเจ้าใคร่ขอความช่วยเหลือจากพวกท่านในการจัดเตรียมวัตถุดิบสำหรับมื้ออาหารของเรา"
     },
     {
-      "character": "Otis",
+      "key": "afterallthemostenjoyablemealsarethosewemaketogether",
       "text_en": "After all, the most enjoyable meals are those we make together!",
       "text": "เพราะท้ายที่สุดแล้ว มื้ออาหารที่เอร็ดอร่อยและรื่นเริงที่สุด ย่อมเป็นมื้อที่พวกเราช่วยกันปรุงขึ้นมาอย่างไรเล่า!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "werehappytopitchinofcoursewhatingredientsdidyouhaveinmind",
       "text_en": "We're happy to pitch in, of course. What ingredients did you have in mind?",
       "text": "พวกเรายินดีช่วยอยู่แล้วล่ะ แล้ววัตถุดิบที่คุณคิดไว้มีอะไรบ้างเหรอ?"
     },
     {
-      "character": "Otis",
+      "key": "firstofallsomeyamandpumpkinthepeopleoftheoutskirtsshouldbewillingtosharetheirharvestifyouandgulooljacouldgoandspeaktothem",
       "text_en": "First of all, some yam and pumpkin. The people of the outskirts should be willing to share their harvest, if you and Gulool Ja could go and speak to them.",
       "text": "ประการแรกคือมันเทศและฟักทอง หากท่านและกูลูล จา ช่วยไปเจรจากับผู้คนแถวชานเมือง พวกเขาก็น่าจะยินดีแบ่งปันผลผลิตที่เก็บเกี่ยวได้มาให้บ้าง"
     },
     {
-      "character": "Gulool Ja",
+      "key": "sureillaskforthecastoffstooasusual",
       "text_en": "Sure. I'll ask for the castoffs too, as usual.",
       "text": "ได้เลยครับ เดี๋ยวผมจะขอส่วนที่คัดทิ้งมาให้เหมือนเคยนะครับ"
     },
     {
-      "character": "Otis",
+      "key": "asforforenameandalisaieiwouldbeobligedifyoucouldprocuresomewoolbackmeat",
       "text_en": "As for Forename and Alisaie, I would be obliged if you could procure some woolback meat.",
       "text": "ส่วนท่าน [ชื่อ] และท่านอลิเซ ข้าพเจ้าจะยินดียิ่งหากพวกท่านช่วยไปหาเนื้อวูลแบ็คมาให้สักเล็กน้อย"
     },
     {
-      "character": "Otis",
+      "key": "thecreaturescanbefoundgrazingontheslopesoutsideoftownasbeefislessreadilyavailabletheirfleshmakesforagoodsubstitutethatoftheyoungeronesespeciallyasitismoretenderandlessgamy",
       "text_en": "The creatures can be found grazing on the slopes outside of town. As beef is less readily available, their flesh makes for a good substitute—that of the younger ones especially, as it is more tender and less gamy.",
       "text": "พวกมันมักจะเล็มหญ้าอยู่ตามเนินเขาด้านนอกเมือง เนื่องจากเนื้อวัวหาได้ค่อนข้างยาก เนื้อของพวกมันจึงเป็นตัวแทนที่ดีเลิศ—โดยเฉพาะเนื้อของวูลแบ็ควัยเยาว์ เพราะจะมีความนุ่มนวลและมีกลิ่นสาบน้อยกว่า"
     },
     {
-      "character": "Alisaie",
+      "key": "consideritdonewellbebackwiththemeatbeforeyouknowit",
       "text_en": "Consider it done. We'll be back with the meat before you know it!",
       "text": "ไว้ใจได้เลย เดี๋ยวพวกเราจะรีบเอาเนื้อกลับมาให้เร็วที่สุด!"
     },
     {
-      "character": "Otis",
+      "key": "thankyoukindlyinthemeantimeishallseetootherpreparations",
       "text_en": "Thank you kindly! In the meantime, I shall see to other preparations.",
       "text": "ขอบพระคุณเป็นอย่างยิ่ง! ระหว่างนี้ ข้าพเจ้าจะไปจัดการเตรียมการส่วนอื่นๆ รอไว้"
     },
     {
-      "character": "Otis",
+      "key": "hahahathereisnothingsofineasamealwithfriendsoldandnew",
       "text_en": "Hahaha! There is nothing so fine as a meal with friends old and new!",
       "text": "ฮ่าๆๆ! ไม่มีสิ่งใดจะวิเศษไปกว่าการรับประทานอาหารร่วมกับสหายเก่าและสหายใหม่อีกแล้ว!"
     },
     {
-      "character": "Alisaie",
+      "key": "saywhydontwemakeacontestoutofitwhoeverdeliversthemeatfirstisthewinner",
       "text_en": "Say, why don't we make a contest out of it? Whoever delivers the meat first is the winner!",
       "text": "นี่ๆ พวกเรามาแข่งกันหน่อยดีไหม? ใครเอาเนื้อกลับมาส่งได้ก่อน คนนั้นชนะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "youhaventfinishedyetrightthatwouldbetoofastevenforyou",
       "text_en": "You haven't finished yet, right? That would be too fast, even for you!",
       "text": "นายยังทำไม่เสร็จใช่ไหมเนี่ย? นั่นมันจะเร็วเกินไปแล้ว ต่อให้เป็นนายก็เถอะ!"
     },
     {
-      "character": "Otis",
+      "key": "whatsthisamitounderstandthatyouhavealreadyprocuredthemeat",
       "text_en": "What's this? Am I to understand that you have already procured the meat?",
       "text": "โอ้ นี่คือสิ่งใดกัน? ข้าพเจ้าเข้าใจถูกต้องหรือไม่ว่าท่านได้เนื้อมาเรียบร้อยแล้ว?"
     },
     {
-      "character": "Otis",
+      "key": "goodheavensyouhaveandsuchachoicecutitisbesides",
       "text_en": "Good heavens, you have—and such a choice cut it is besides!",
       "text": "คุณพระช่วย ท่านได้เนื้อมาแล้วจริงๆ—แถมยังเป็นเนื้อส่วนที่คัดสรรมาอย่างยอดเยี่ยมเสียด้วย!"
     },
     {
-      "character": "Otis",
+      "key": "tisplainyouknowhowtohandleyourselfinbattlewereitfourhundredyearsagoiwouldhaverecruitedyoutotheroyalknightshahaha",
       "text_en": "'Tis plain you know how to handle yourself in battle. Were it four hundred years ago, I would have recruited you to the royal knights. Hahaha!",
       "text": "เห็นได้ชัดว่าท่านมีฝีไม้ลายมือในการต่อสู้ที่ไม่ธรรมดา หากเป็นเมื่อสี่ร้อยปีก่อน ข้าพเจ้าคงจะชักชวนท่านเข้ามาร่วมกองอัศวินหลวงอย่างแน่นอน ฮ่าๆๆ!"
     }

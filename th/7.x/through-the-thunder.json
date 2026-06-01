@@ -1,491 +1,483 @@
 {
-  "id": "through-the-thunder",
-  "wiki_path": "/wiki/Through_the_Thunder",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
-  "patch": "7.4",
-  "title_en": "Through the Thunder",
-  "title": "ฝ่าม่านอสนีบาต",
-  "level": "100",
-  "location": "Tuliyollal(X:16.0,Y:14.5)",
-  "npc_start": "Krile",
+  "quest_id": "through-the-thunder",
   "dialogues": [
     {
-      "character": "Y'shtola",
+      "key": "forourmanymeetingsandpartingswehavefewenoughopportunitiestoproperlysayourfarewellstwaspleasanttotakethetimeforit",
       "text_en": "For our many meetings and partings, we have few enough opportunities to properly say our farewells. 'Twas pleasant to take the time for it.",
       "text": "ตลอดการพบพานและพรากจากกันหลายต่อหลายครั้ง พวกเรากลับมีโอกาสบอกลากันอย่างเป็นเรื่องเป็นราวกันน้อยนัก... การได้สละเวลาสำหรับเรื่องนี้ก็น่ายินดีไม่น้อย"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thoughidelightincompanionshipsolojourneystoohavetheirappealandtravelbyseaisrelaxing",
       "text_en": "Though I delight in companionship, solo journeys too have their appeal. And travel by sea is relaxing...",
       "text": "ถึงฉันจะชอบการมีเพื่อนร่วมทาง แต่การเดินทางคนเดียวก็มีเสน่ห์เฉพาะตัวเหมือนกันนะ ยิ่งเป็นการเดินทางทางเรือด้วยแล้ว ก็น่าผ่อนคลายไม่น้อยเลย..."
     },
     {
-      "character": "Sphene",
+      "key": "withalisaieandalphinaudspreadingwordofalexandriaweshallsoonhavethechancetoestablishrelationswithothernationsimustmakereadytotreatwiththeirleaders",
       "text_en": "With Alisaie and Alphinaud spreading word of Alexandria, we shall soon have the chance to establish relations with other nations. I must make ready to treat with their leaders.",
       "text": "พอได้อลิเซย์กับอัลฟิโนช่วยบอกเล่าเรื่องราวของอเล็กซานเดรียให้ผู้คนรับรู้ อีกไม่ช้าเราก็คงมีโอกาสผูกสัมพันธไมตรีกับนานาประเทศแล้วล่ะค่ะ ฉันเองก็ต้องเตรียมตัวเจรจากับเหล่าผู้นำของพวกเขาสักหน่อยแล้วค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "imgladigotthechancetoseehimoffcahciuawouldbegladtoo",
       "text_en": "I'm glad I got the chance to see him off. Cahciua would be glad, too.",
       "text": "ดีใจจริงที่ได้มีโอกาสมาส่งเขานะคะ... คุณคาชิวาเองก็คงจะดีใจด้วยเหมือนกันค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "ifimayithinkitprudenttodiscussourfutureplanselsewhere",
       "text_en": "If I may, I think it prudent to discuss our future plans elsewhere.",
       "text": "หากไม่เป็นการเสียมารยาท ฉันคิดว่าเราน่าจะย้ายไปคุยเรื่องแผนการหลังจากนี้ที่อื่นกันดีกว่าค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "weareliabletohinderthedockworkershereifwelinger",
       "text_en": "We are liable to hinder the dockworkers here if we linger.",
       "text": "ขืนยืนอ้อยอิ่งอยู่ตรงนี้รังแต่จะเกะกะคนงานท่าเรือเปล่าๆ ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "perhapsthebeachwouldbeamoreappropriatevenue",
       "text_en": "Perhaps the beach would be a more appropriate venue.",
       "text": "ย้ายไปคุยกันริมชายหาดน่าจะเหมาะกว่านะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "tistrulyabeautifulplacetural",
       "text_en": "'Tis truly a beautiful place, Tural.",
       "text": "ทูรัลนี่ช่างเป็นดินแดนที่งดงามเหลือเกินนะคะ"
     },
     {
-      "character": "Shale",
+      "key": "anendlessoceanandeverchangingsky",
       "text_en": "An endless ocean and ever-changing sky...",
       "text": "ท้องทะเลกว้างใหญ่ไพศาลกับผืนฟ้าที่แปรเปลี่ยนอยู่ทุกเมื่อเชื่อวัน..."
     },
     {
-      "character": "Shale",
+      "key": "firsttimeisawthemicouldntbelievemyeyesitwaslikeiwaswalkingamongimagesfromouroldestrecords",
       "text_en": "First time I saw them, I couldn't believe my eyes. It was like I was walking among images from our oldest records.",
       "text": "ตอนที่เห็นภาพพวกนี้เป็นครั้งแรก ฉันแทบไม่เชื่อสายตาตัวเองเลยล่ะค่ะ รู้สึกราวกับกำลังหลุดเข้าไปเดินอยู่ในภาพวาดจากบันทึกเก่าแก่ที่สุดของพวกเราอย่างนั้นแหละ"
     },
     {
-      "character": "Shale",
+      "key": "andbeyondthathorizonaremorelandsandmorepeoplehehthatoneistillstruggletoimagine",
       "text_en": "And beyond that horizon are more lands and more people... Heh. That one, I still struggle to imagine.",
       "text": "แถมเลยเส้นขอบฟ้านั่นออกไป ยังมีแผ่นดินและผู้คนอีกตั้งมากมาย... เหอะๆ เรื่องนี้ฉันยังพยายามนึกภาพตามอยู่เลยค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "weourselveshailfrombeyondthathorizoninfact",
       "text_en": "We ourselves hail from “beyond that horizon,” in fact.",
       "text": "อันที่จริง พวกเราเองก็เดินทางมาจาก “ฟากฝั่งโน้นของขอบฟ้า” เหมือนกันค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "rathermostofusdoimerelythoughtidid",
       "text_en": "...Rather, most of us do. I merely thought I did.",
       "text": "...เอ๋ หรือจะพูดให้ถูกก็คือพวกเราส่วนใหญ่ล่ะนะคะ ส่วนฉันเอง... แค่เคยคิดไปเองว่ามาจากที่นั่นน่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "ohthatsrighticanonlyimaginehowitmustvefelttolearnyoureanativeofourworld",
       "text_en": "Oh, that's right... I can only imagine how it must've felt to learn you're a native of our world.",
       "text": "จริงด้วยสิคะ... ฉันพอจะเข้าใจเลยค่ะว่าคุณคงสับสนไม่น้อยเมื่อได้รู้ความจริงว่าตัวเองเป็นคนของโลกฝั่งนี้"
     },
     {
-      "character": "Krile",
+      "key": "thefactthatiwasntborninthelandwhereivespentmostofmylifehastakentimetosinkin",
       "text_en": "The fact that I wasn't born in the land where I've spent most of my life has...taken time to sink in.",
       "text": "เรื่องที่ว่าฉันไม่ได้เกิดในแผ่นดินที่ใช้ชีวิตเติบโตมาเกือบทั้งชีวิต... กว่าจะยอมรับความจริงนี้ได้ก็ต้องใช้เวลาทำใจอยู่นานเลยค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "twasnotuntilimetmyparentsinlivingmemorythatthetruthofmyoriginbegantofeelreal",
       "text_en": "'Twas not until I met my parents in Living Memory that the truth of my origin began to feel real.",
       "text": "จนกระทั่งได้พบหน้าคุณพ่อคุณแม่ในลิฟวิ่งเมมโมรีนั่นแหละค่ะ เรื่องราวชาติกำเนิดของฉันถึงได้เริ่มรู้สึกว่าเป็นความจริงขึ้นมา"
     },
     {
-      "character": "Sphene",
+      "key": "yourexperienceisnotunlikeminewhenfirstiawoketherealmeveryonespokeofsoundednothinglikemyownihadtowalkitsstreetsliveandbreatheitbeforeicouldacceptandembracemynewreality",
       "text_en": "Your experience is not unlike mine. When first I awoke, the realm everyone spoke of sounded nothing like my own. I had to walk its streets─live and breathe it─before I could accept and embrace my new reality.",
       "text": "ประสบการณ์ของคุณคล้ายกับฉันเลยค่ะ ตอนที่ฉันฟื้นขึ้นมาครั้งแรก ดินแดนที่ผู้คนกล่าวขานกันช่างห่างไกลกับโลกที่ฉันรู้จักเหลือเกิน ฉันต้องไปเดินย่ำอยู่บนถนนของที่นั่น ได้ใช้ชีวิตและหายใจร่วมกับมันจริงๆ ถึงจะเริ่มทำใจยอมรับและโอบรับความเป็นจริงครั้งใหม่นี้ได้ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "andformetoembracemineineedtolearnmoreaboutmypeoplethemilalla",
       "text_en": "And for me to embrace mine, I need to learn more about my people, the Milalla.",
       "text": "และการที่ฉันจะยอมรับตัวตนนี้ได้อย่างแท้จริง ฉันก็จำเป็นต้องเรียนรู้เรื่องราวของชาวมิลาลลาซึ่งเป็นบรรพบุรุษของฉันให้มากกว่านี้ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "weshouldcomeuponmoreinformationinthecourseofstudyingthekeybutasshalesinvestigationofthecontainmentcomplexisstillongoing",
       "text_en": "We should come upon more information in the course of studying the key, but as Shale's investigation of the containment complex is still ongoing...",
       "text": "จริงอยู่ว่าการสืบหากุญแจนั่นน่าจะช่วยให้เราได้ข้อมูลเพิ่มขึ้น ทว่าตอนนี้เชลก็ยังสืบสวนพื้นที่คุมขังไม่เสร็จสิ้นเลย..."
     },
     {
-      "character": "Krile",
+      "key": "wouldyoumindifwesoughtadifferentavenueofinquiryintothehistoryoftheninth",
       "text_en": "Would you mind if we sought a different avenue of inquiry into the history of the Ninth?",
       "text": "จะว่าอะไรไหมคะ หากพวกเราจะลองหาลู่ทางอื่นเพื่อสืบค้นประวัติศาสตร์ของโลกที่เก้าดูน่ะค่ะ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ihavenoobjectionaughtwelearnwilldeepenourunderstandingofthebroaderpicture",
       "text_en": "I have no objection. Aught we learn will deepen our understanding of the broader picture.",
       "text": "ฉันไม่ขัดอยู่แล้วล่ะ ข้อมูลอะไรก็ตามที่เราได้มา ย่อมช่วยให้เรามองเห็นภาพกว้างของเรื่องนี้ได้ลึกซึ้งขึ้นทั้งนั้น"
     },
     {
-      "character": "Y'shtola",
+      "key": "agreedmycuriosityextendswellbeyondourdutytoassessascianinfluence",
       "text_en": "Agreed. My curiosity extends well beyond our duty to assess Ascian influence.",
       "text": "เห็นด้วย ลำพังความอยากรู้อยากเห็นของฉันก็ขยายไปไกลเกินกว่าหน้าที่ในการประเมินอิทธิพลของพวกแอสเซียนแล้วล่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "ifitisknowledgeoftheninthspastyouseekihaveanideawheretobegin",
       "text_en": "If it is knowledge of the Ninth's past you seek, I have an idea where to begin.",
       "text": "หากสิ่งที่พวกคุณตามหาคือประวัติศาสตร์ในอดีตของโลกที่เก้าล่ะก็ ฉันพอจะนึกออกแล้วค่ะว่าจะเริ่มต้นจากที่ไหนดี"
     },
     {
-      "character": "Sphene",
+      "key": "alexandriawasoriginallypartofalandmassknownasthemistcontinent",
       "text_en": "Alexandria was originally part of a landmass known as the Mist Continent.",
       "text": "แต่เดิมอเล็กซานเดรียเคยเป็นส่วนหนึ่งของผืนแผ่นดินใหญ่ที่เรียกขานกันว่า ทวีปสายหมอก ค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "thiscontinenthadbeenleftinruinsinthewakeofthestormsurgewithalexandriathesolenationtosurvivethedevastation",
       "text_en": "This continent had been left in ruins in the wake of the Storm Surge, with Alexandria the sole nation to survive the devastation.",
       "text": "ทว่าทวีปแห่งนั้นกลับล่มสลายลงเพราะภัยพิบัติวายุอัสนี จนเหลือเพียงแค่อเล็กซานเดรียที่เป็นอาณาจักรเดียวซึ่งรอดพ้นจากภัยพิบัติมาได้ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "thecalamityoflightningthatravagedtheworld",
       "text_en": "The calamity of lightning that ravaged the world...",
       "text": "มหาภัยพิบัติแห่งสายฟ้าที่กวาดล้างทำลายโลกใบนั้นสินะคะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "ayeperthesourceswerecoveredfromtheunderkeepthoughtheconflictbetweennationswasdestructiveinitsownrighttwaslevinthatdealtthefinalblow",
       "text_en": "Aye. Per the sources we recovered from the Underkeep, though the conflict between nations was destructive in its own right, 'twas levin that dealt the final blow.",
       "text": "ใช่แล้วล่ะ จากบันทึกหลักฐานที่เรากู้คืนมาจากอันเดอร์คีป แม้สงครามระหว่างประเทศจะสร้างความล่มสลายในตัวเองอยู่แล้ว แต่ก็เป็นภัยพิบัติสายฟ้านั่นแหละที่ลงดาบสุดท้ายทำลายล้างทุกสิ่ง"
     },
     {
-      "character": "Sphene",
+      "key": "noplacewasspareditsfuryandallwaschaosinthecastletownwetriedtoevacuatethepeopleinairshipsotistheknightsandibutwecouldntsaveeveryone",
       "text_en": "No place was spared its fury, and all was chaos in the castle town. We tried to evacuate the people in airships─Otis, the knights, and I─but we couldn't save everyone...",
       "text": "ไม่มีที่ใดรอดพ้นจากความเกรี้ยวกราดของมันได้เลย ในเมืองรอบปราสาทมีแต่ความโกลาหลอลหม่านไปหมด ทั้งโอทิส เหล่าอัศวิน และตัวฉัน ต่างพยายามอพยพผู้คนขึ้นเรือเหาะ... ทว่าเราก็ไม่อาจช่วยชีวิตทุกคนเอาไว้ได้..."
     },
     {
-      "character": "Sphene",
+      "key": "thosewhosurvivedgatheredwithinthebarrierandwetookinasmanyforeignrefugeesaswecould",
       "text_en": "Those who survived gathered within the barrier, and we took in as many foreign refugees as we could...",
       "text": "ผู้ที่รอดชีวิตต่างมารวมตัวกันอยู่ภายใต้บาเรียป้องกัน และพวกเราก็พยายามเปิดรับผู้อพยพต่างแดนเข้ามาเท่าที่จะทำได้ค่ะ..."
     },
     {
-      "character": "Sphene",
+      "key": "yetdespitethedangerousenvironmentoursystemsshowedthatthereweresomefewsoulswhoventuredoutsidethebarrierintothelandsbeyond",
       "text_en": "Yet despite the dangerous environment, our systems showed that there were some few souls who ventured outside the barrier into the lands beyond.",
       "text": "แต่ถึงสภาพแวดล้อมภายนอกจะอันตรายถึงชีวิต ระบบของเรากลับตรวจพบว่ายังมีผู้คนอีกจำนวนหยิบมือที่ยอมเสี่ยงชีวิตก้าวออกไปนอกบาเรีย สู่ดินแดนที่อยู่ห่างไกลออกไปค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "beyondbutwethoughtthatwasimpossible",
       "text_en": "Beyond!? But we thought that was impossible!",
       "text": "ดินแดนภายนอกงั้นหรือคะ!? แต่พวกเรานึกว่ามันเป็นไปไม่ได้เสียอีกนะคะนั่น!"
     },
     {
-      "character": "Krile",
+      "key": "iwasundertheimpressionthestarwasscouredoflifethatmancouldnotsurviveoutsidethebarrier",
       "text_en": "I was under the impression the star was scoured of life─that man could not survive outside the barrier...",
       "text": "ฉันเคยเข้าใจมาตลอดว่าโลกใบนี้ไม่มีสิ่งมีชีวิตหลงเหลืออยู่อีกแล้ว... และมนุษย์ก็ไม่น่าจะเอาชีวิตรอดนอกบาเรียคุ้มกันนั่นได้เลย..."
     },
     {
-      "character": "Shale",
+      "key": "goingbytherecordsthestormsurgeextendedtoeverycorneroftheworldnothingandnowherewasspared",
       "text_en": "Going by the records, the Storm Surge extended to every corner of the world. Nothing and nowhere was spared.",
       "text": "หากดูจากบันทึกแล้ว ภัยพิบัติวายุอัสนีนั้นแผ่ขยายไปทั่วทุกมุมโลกอย่างแท้จริงค่ะ ไม่มีสิ่งใดหรือสถานที่แห่งใดจะรอดพ้นไปได้เลย"
     },
     {
-      "character": "Shale",
+      "key": "ifanyonedidsurviveoutthereitwouldhavebeenanunimaginabletrial",
       "text_en": "If anyone did survive out there, it would have been an unimaginable trial.",
       "text": "หากมีใครรอดชีวิตอยู่ข้างนอกนั่นได้จริงๆ พวกเขาคงต้องเผชิญกับความยากลำบากชนิดที่เกินกว่าจะจินตนาการได้เลยล่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "andyetthosepeoplemusthavebeengoingsomewherewhatiftherewasarefugeaplacethatweatheredthestormsurgeandrebuiltovertheinterveningfourcenturies",
       "text_en": "And yet, those people must have been going somewhere... What if there was a refuge─a place that weathered the Storm Surge, and rebuilt over the intervening four centuries?",
       "text": "แต่ถึงอย่างนั้น คนกลุ่มนั้นก็ต้องมีจุดหมายปลายทางอยู่ดี... จะเป็นไปได้ไหมคะว่าอาจจะมีแหล่งพักพิง... สถานที่ที่รอดพ้นจากภัยพิบัติวายุอัสนี และฟื้นฟูตัวเองขึ้นมาใหม่ตลอดช่วงสี่ร้อยปีที่ผ่านมา?"
     },
     {
-      "character": "Y'shtola",
+      "key": "givenalexandriasdisplacementtothesourcewehadneithercausenoropportunitytosurveytheremainderofthecontinent",
       "text_en": "Given Alexandria's displacement to the Source, we had neither cause nor opportunity to survey the remainder of the continent.",
       "text": "ในเมื่ออเล็กซานเดรียถูกเคลื่อนย้ายมิติมายังซอร์สเสียแล้ว พวกเราจึงไม่มีเหตุผลหรือโอกาสที่จะได้สืบค้นพื้นที่ส่วนที่เหลือของทวีปแห่งนั้นเลย"
     },
     {
-      "character": "Krile",
+      "key": "livingmemoryremainsphysicallyintheninth",
       "text_en": "Living Memory remains physically in the Ninth...",
       "text": "ทว่าลิฟวิ่งเมมโมรียังคงตั้งอยู่ในโลกที่เก้าทางกายภาพ..."
     },
     {
-      "character": "Krile",
+      "key": "ifweseekameansofegressotherthantheportalconnectingittoalexandriaperhapsitmightleadustothemistcontinent",
       "text_en": "If we seek a means of egress other than the portal connecting it to Alexandria, perhaps it might lead us to the Mist Continent.",
       "text": "หากเราลองหาทางออกอื่น นอกเหนือจากประตูมิติที่เชื่อมต่อกับอเล็กซานเดรีย บางทีมันอาจจะนำพาพวกเราไปสู่ทวีปสายหมอกก็ได้นะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "livingmemorywasnottransportedheredespitebeingatopeverkeepinwhichcaseitmayhavebeenaphysicallyindependentspaceallalong",
       "text_en": "Living Memory was not transported here despite being “atop” Everkeep. In which case, it may have been a physically independent space all along.",
       "text": "ลิฟวิ่งเมมโมรีไม่ได้ถูกเคลื่อนย้ายมาพร้อมกัน ทั้งที่ตั้งอยู่ “บนยอด” เอเวอร์คีปแท้ๆ... ถ้าเป็นอย่างนั้น บางทีพื้นที่ตรงนั้นอาจจะเป็นเอกเทศทางกายภาพมาตั้งแต่แรกแล้วก็ได้ค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "meaninganotherpointofegresscouldwellexist",
       "text_en": "Meaning another point of egress could well exist.",
       "text": "แปลว่าน่าจะมีทางออกอื่นซ่อนอยู่จริงๆ สินะ"
     },
     {
-      "character": "Shale",
+      "key": "andifitdoessomeonehastobemaintainingitthemechanicalsoldiersforinstance",
       "text_en": "And if it does, someone has to be maintaining it. The mechanical soldiers, for instance.",
       "text": "และหากมีอยู่จริง ก็คงต้องมีคนคอยดูแลรักษาเส้นทางนั้นอยู่แน่ค่ะ อย่างเช่นพวกทหารจักรกลนั่นไงคะ"
     },
     {
-      "character": "Sphene",
+      "key": "shallwehaveachatwiththemandseewhattheyknow",
       "text_en": "Shall we have a chat with them and see what they know?",
       "text": "ลองไปคุยกับพวกเขาดูสักหน่อยดีไหมคะว่าพอจะรู้อะไรบ้างหรือเปล่า"
     },
     {
-      "character": "Krile",
+      "key": "ifitpleaseyourmajesty",
       "text_en": "If it please Your Majesty!",
       "text": "ด้วยความยินดีค่ะฝ่าบาท!"
     },
     {
-      "character": "Krile",
+      "key": "willyouaccompanyusifwedolanduponthemistcontinentiwouldfeelmuchmoreassuredwithyouatourside",
       "text_en": "Will you accompany us? If we do land upon the Mist Continent, I would feel much more assured with you at our side...",
       "text": "จะร่วมเดินทางไปกับพวกเราด้วยไหมคะ? หากพวกเราได้เหยียบทวีปสายหมอกขึ้นมาจริงๆ การมีคุณอยู่ด้วยจะทำให้ฉันอุ่นใจขึ้นมากเลยล่ะค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "ithoughtasmuchintothegreatunknownwegothen",
       "text_en": "I thought as much! Into the great unknown we go, then.",
       "text": "คิดไว้ไม่มีผิดเลยค่ะ! ถ้าอย่างนั้น พวกเราก็ออกเดินทางสู่ดินแดนลี้ลับอันกว้างใหญ่กันเถอะค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "aswouldiletusmakeeveryefforttoensurenoneofussuffersuchadreadfulfate",
       "text_en": "As would I. Let us make every effort to ensure none of us suffer such a dreadful fate.",
       "text": "ฉันก็คิดเช่นนั้นค่ะ พวกเราต้องพยายามทำทุกวิถีทางเพื่อไม่ให้ใครในกลุ่มต้องมาเผชิญกับชะตากรรมอันน่าสะพรึงกลัวแบบนั้นอีก"
     },
     {
-      "character": "Krile",
+      "key": "wellthankyoukindlyilookforwardtoanotheradventureatyourside",
       "text_en": "Well, thank you kindly! I look forward to another adventure at your side.",
       "text": "ขอบคุณมากจริงๆ ค่ะ! ฉันตั้งตารอที่จะได้ออกไปผจญภัยเคียงข้างคุณอีกครั้งนะคะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "outsideofalexandriaourknowledgeoftheninthislimitedtothestormsurgeandpassingmentionsoflindblum",
       "text_en": "Outside of Alexandria, our knowledge of the Ninth is limited to the Storm Surge and passing mentions of Lindblum.",
       "text": "หากไม่นับอเล็กซานเดรียแล้ว ความรู้เกี่ยวกับโลกที่เก้าของพวกเราก็จำกัดอยู่เพียงเรื่องภัยพิบัติวายุอัสนี และการพูดถึงลินด์บลูมเพียงผ่านๆ เท่านั้น"
     },
     {
-      "character": "Y'shtola",
+      "key": "thatbeingthecaseaforayacrossthemistcontinentwouldbeaninvaluableopportunityfordiscovery",
       "text_en": "That being the case, a foray across the Mist Continent would be an invaluable opportunity for discovery.",
       "text": "ในเมื่อเป็นเช่นนี้ การเดินทางสำรวจทวีปสายหมอกจึงนับเป็นโอกาสอันล้ำค่ายิ่งในการค้นพบสิ่งใหม่ๆ"
     },
     {
-      "character": "Krile",
+      "key": "betweentheasciansthekeyandthemilallathereismuchtobelearnedsurelywecanturnupacluetoonemysteryoranother",
       "text_en": "Between the Ascians, the key, and the Milalla, there is much to be learned. Surely we can turn up a clue to one mystery or another.",
       "text": "ทั้งเรื่องพวกแอสเซียน เรื่องกุญแจ หรือเรื่องชาวมิลาลลา... มีสิ่งที่เราต้องเรียนรู้อีกตั้งเยอะแยะเลยค่ะ ฉันเชื่อว่าพวกเราต้องค้นพบเบาะแสเพื่อไขปริศนาใดปริศนาหนึ่งได้อย่างแน่นอนค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "onceconditionsdeterioratepastacertainpointanenvironmentbecomesanathematolifeyetmanisaresilientcreature",
       "text_en": "Once conditions deteriorate past a certain point, an environment becomes anathema to life. Yet man is a resilient creature.",
       "text": "พอสภาพแวดล้อมเสื่อมโทรมลงจนถึงจุดหนึ่ง มันก็จะกลายเป็นสถานที่ที่ชีวิตไม่อาจอาศัยอยู่ได้ แต่ถึงอย่างนั้น มนุษย์เราก็เป็นสิ่งมีชีวิตที่ทรหดอดทนนะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ifthereisawaytosurvivethenhewillsurelyfindit",
       "text_en": "If there is a way to survive, then he will surely find it.",
       "text": "ถ้ามันมีหนทางรอดอยู่จริงล่ะก็ พวกเขาจะต้องหาทางจนเจอแน่ ๆ"
     },
     {
-      "character": "Sphene",
+      "key": "themechanicalsoldierswonthesitatetoanswertheirqueenletushopetheyhaveusefulinformation",
       "text_en": "The mechanical soldiers won't hesitate to answer their queen. Let us hope they have useful information.",
       "text": "ทหารจักรกลคงไม่ลังเลที่จะตอบคำถามของราชินีหรอกค่ะ หวังว่าพวกเขาจะมีข้อมูลที่เป็นประโยชน์กับพวกเรานะคะ"
     },
     {
-      "character": "Shale",
+      "key": "nowthatssettledidbestbeoffistillneedtocheckfordecryptionerrorsperiodicallysoicanonlystepawayforsolong",
       "text_en": "Now that's settled, I'd best be off. I still need to check for decryption errors periodically, so I can only step away for so long.",
       "text": "ในเมื่อตกลงกันได้แล้ว ฉันขอตัวก่อนดีกว่าค่ะ ฉันยังต้องคอยตรวจสอบข้อผิดพลาดในการถอดรหัสอยู่เรื่อย ๆ เลยปลีกตัวออกมานานกว่านี้ไม่ได้ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "withluckillhaveplentytosharethenexttimewemeet",
       "text_en": "With luck, I'll have plenty to share the next time we meet.",
       "text": "ถ้าโชคดีล่ะก็ ครั้งต่อไปที่พบกัน ฉันคงมีเรื่องมาแบ่งปันเยอะแยะเลยค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "untilthen",
       "text_en": "Until then!",
       "text": "ไว้เจอกันใหม่นะคะ!"
     },
     {
-      "character": "Krile",
+      "key": "lettherestofusmakereadyforapotentialforayandmeetatleynodemnemo",
       "text_en": "Let the rest of us make ready for a potential foray and meet at leynode mnemo.",
       "text": "งั้นพวกเราที่เหลือก็ไปเตรียมตัวสำหรับออกเดินทางกันเถอะค่ะ แล้วค่อยไปเจอพร้อมกันที่ Leynode Mnemo นะคะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "theatmosphereiscertainlylessgrimthanwhenlastivisited",
       "text_en": "The atmosphere is certainly less grim than when last I visited.",
       "text": "บรรยากาศดูอึมครึมน้อยลงกว่าตอนที่ฉันมาเยือนครั้งก่อนเยอะเลยล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "thoughmymindknowsbetteristillfeeluncomfortablearoundthesemechanicalsoldiers",
       "text_en": "Though my mind knows better, I still feel uncomfortable around these mechanical soldiers...",
       "text": "ถึงในหัวจะเข้าใจดีอยู่แล้ว แต่ฉันก็ยังแอบรู้สึกไม่ค่อยคุ้นชินเวลารายล้อมไปด้วยทหารจักรกลพวกนี้อยู่ดีแหละค่ะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "sphenehasfoundusasuitablesourceofinformationsparingyouthatdutyforonce",
       "text_en": "Sphene has found us a suitable source of information, sparing you that duty for once.",
       "text": "คุณสฟีนช่วยหาแหล่งข้อมูลที่เหมาะสมให้พวกเราแล้ว ครั้งนี้ก็ช่วยทุ่นแรงนายไปได้เปลาะหนึ่งล่ะนะ"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "welcometolivingmemoryallytohermajestyhowmayihelpyou",
       "text_en": "Welcome to Living Memory, ally to Her Majesty! How may I help you?",
       "text": "ยินดีต้อนรับสู่ Living Memory ครับ พันธมิตรขององค์ราชินี! มีสิ่งใดให้กระผมช่วยรับใช้หรือครับ?"
     },
     {
-      "character": "Sphene",
+      "key": "thisclerkhasmadeitselfavailabletoanswerourquestions",
       "text_en": "This clerk has made itself available to answer our questions.",
       "text": "เจ้าหน้าที่คนนี้พร้อมที่จะตอบคำถามของพวกเราแล้วค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "clerkpx0093ifonewishedtodescendtothesurfacefromherehowwouldtheytypicallydoso",
       "text_en": "Clerk PX-0093, if one wished to descend to the surface from here, how would they typically do so?",
       "text": "เจ้าหน้าที่ PX-0093 หากต้องการลงไปยังพื้นผิวด้านล่างจากที่นี่ โดยปกติแล้วต้องทำอย่างไรหรือคะ?"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "livingmemoryiscurrentlydetachedfromeverkeepandisoperatingindependentlywhilesupportedbyitsaerialsuspensionsystems",
       "text_en": "Living Memory is currently detached from Everkeep, and is operating independently while supported by its aerial suspension systems.",
       "text": "ขณะนี้ระบบลอยตัว of Living Memory แยกตัวออกจาก Everkeep และกำลังทำงานอย่างเป็นเอกเทศโดยได้รับการพยุงตัวด้วยระบบพยุงตัวลอยกลางอากาศครับ"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "thusbothliftandleynodebasedtransitiscurrentlyunavailableiapologizefortheinconvenience",
       "text_en": "Thus, both lift- and leynode-based transit is currently unavailable. I apologize for the inconvenience.",
       "text": "ด้วยเหตุนี้ การเดินทางโดยใช้ลิฟต์และระบบ Leynode จึงไม่สามารถใช้บริการได้ในขณะนี้ ต้องขออภัยในความไม่สะดวกด้วยครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "despiteitsabilitytoremainaloftperhapslivingmemorywasneverintendedtofunctioninthisstateindefinitelyifsowereoutofluck",
       "text_en": "Despite its ability to remain aloft, perhaps Living Memory was never intended to function in this state indefinitely. If so, we're out of luck...",
       "text": "ถึงจะลอยตัวอยู่ได้ แต่บางที Living Memory ก็อาจไม่ได้ถูกสร้างมาให้ทำงานในสภาพนี้ตลอดไปล่ะมั้ง ถ้าเป็นอย่างนั้นจริง พวกเราคงหมดสิทธิ์แล้วล่ะ..."
     },
     {
-      "character": "Y'shtola",
+      "key": "notnecessarilyliftsandleynodeswerelikelythepreferredmodesoftransportationbutthatdoesnotprecludetheexistenceofothers",
       "text_en": "Not necessarily. Lifts and leynodes were likely the preferred modes of transportation, but that does not preclude the existence of others.",
       "text": "ก็ไม่แน่เสมอไปหรอก ลิฟต์และระบบ Leynode อาจเป็นช่องทางเดินทางหลักก็จริง แต่นั่นไม่ได้หมายความว่าตัดหนทางอื่น ๆ ทิ้งไปเสียหมด"
     },
     {
-      "character": "Y'shtola",
+      "key": "intheeventofanemergencyhowwouldweevacuatethisfacility",
       "text_en": "In the event of an emergency, how would we evacuate this facility?",
       "text": "หากเกิดเหตุฉุกเฉินขึ้นมา เราจะอพยพออกจากสถานที่แห่งนี้ด้วยวิธีใดกัน?"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "consultingemergencysystems",
       "text_en": "Consulting emergency systems...",
       "text": "กำลังสืบค้นระบบรับมือสถานการณ์ฉุกเฉินครับ..."
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "livingmemorysairshipremainspreparedtodeployshouldevacuationbenecessarywouldyourmajestyliketoappropriateit",
       "text_en": "Living Memory's airship remains prepared to deploy should evacuation be necessary. Would Your Majesty like to appropriate it?",
       "text": "เรือเหาะกู้ภัยของ Living Memory อยู่ในสถานะพร้อมออกตัวหากจำเป็นต้องอพยพครับ องค์ราชินีมีพระประสงค์จะจัดสรรมาใช้งานหรือไม่ครับ?"
     },
     {
-      "character": "Krile",
+      "key": "anairship",
       "text_en": "An airship!",
       "text": "เรือเหาะเหรอคะ!"
     },
     {
-      "character": "Sphene",
+      "key": "yespleaseassoonasispossible",
       "text_en": "Yes, please. As soon as is possible.",
       "text": "รบกวนด้วยนะคะ ขอเตรียมให้พร้อมเร็วที่สุดเท่าที่จะทำได้เลยค่ะ"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "withyourmajestysauthorizationthevesselcanbereadiedforlaunchwithoutdelayallowmeamomenttoexecutethebypassprotocols",
       "text_en": "With Your Majesty's authorization, the vessel can be readied for launch without delay. Allow me a moment to execute the bypass protocols.",
       "text": "หากได้รับคำอนุมัติจากองค์ราชินี ตัวเรือสามารถเตรียมความพร้อมเพื่อออกเดินทางได้ทันทีครับ โปรดรอสักครู่เพื่อดำเนินการปลดล็อกระบบโปรโตคอลสำรองครับ"
     },
     {
-      "character": "Y'shtola",
+      "key": "asithoughtnowwhatawaitsusbelowiwonder",
       "text_en": "As I thought. Now, what awaits us below, I wonder?",
       "text": "เป็นอย่างที่คิดจริง ๆ เอาล่ะ ทีนี้มีอะไรรอเราอยู่ข้างล่างกันนะ?"
     },
     {
-      "character": "Krile",
+      "key": "itneveroccurredtomethattheremightbeanairshipherehowfortuitous",
       "text_en": "It never occurred to me that there might be an airship here. How fortuitous!",
       "text": "ไม่เคยคิดเลยค่ะว่าจะมีเรือเหาะอยู่ที่นี่ด้วย ช่างโชคดีอะไรอย่างนี้จ๊ะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "withanairshipalargenumberofalexandrianscouldbeevacuatedatonceregardlessofthesituationbelowanexcellentcontingency",
       "text_en": "With an airship, a large number of Alexandrians could be evacuated at once, regardless of the situation below. An excellent contingency.",
       "text": "ถ้ามีเรือเหาะ ไม่ว่าสถานการณ์ข้างล่างจะเป็นยังไง ก็สามารถอพยพชาวอเล็กซานเดรียจำนวนมากออกมาได้พร้อมกันล่ะนะ เป็นแผนสำรองที่ยอดเยี่ยมจริง ๆ"
     },
     {
-      "character": "Sphene",
+      "key": "thoughiamnervousaboutwhatwemightfindbelowiamgladwefoundthemeanstogetthere",
       "text_en": "Though I am nervous about what we might find below, I am glad we found the means to get there.",
       "text": "ถึงเราจะรู้สึกกังวลกับสิ่งที่จะได้เจอข้างล่างอยู่บ้าง แต่ก็ยินดีที่เราหาทางลงไปได้นะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "asqueenimustbearwitnesstothetruthhoweverterrible",
       "text_en": "As queen, I must bear witness to the truth, however terrible.",
       "text": "ในฐานะราชินีแล้ว เราต้องขอเป็นพยานเพื่อรับรู้ความจริงข้อนั้น ไม่ว่ามันจะน่าสะพรึงกลัวเพียงใดก็ตามค่ะ"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "safetytestshavebeensuccessfullycompletedsettingthegateofremembranceasinitialdestination",
       "text_en": "Safety tests have been successfully completed. Setting the Gate of Remembrance as initial destination...",
       "text": "ทำการทดสอบความปลอดภัยของระบบเสร็จสิ้นสมบูรณ์แล้วครับ กำลังกำหนดพิกัดให้ Gate of Remembrance เป็นจุดหมายปลายทางแรกครับ..."
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "vesselisenroute",
       "text_en": "Vessel is en route!",
       "text": "ตัวเรือเหาะกำลังออกเดินทางมา ณ ที่แห่งนี้ครับ!"
     },
     {
-      "character": "Sphene",
+      "key": "isthatmyship",
       "text_en": "Is that... my ship?",
       "text": "นั่นมัน... เรือของเราเหรอคะ?"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "itwaspurposebuiltforlivingmemoryhoweveritwasmodeledafterthevesselyourmajestyusedduringthestormsurgeera",
       "text_en": "It was purpose-built for Living Memory. However, it was modeled after the vessel Your Majesty used during the Storm Surge era.",
       "text": "เรือเหาะลำนี้ถูกสร้างขึ้นเพื่อใช้สำหรับ Living Memory โดยเฉพาะครับ อย่างไรก็ตาม มันถูกถอดแบบมาจากเรือเหาะที่องค์ราชินีเคยใช้ปฏิบัติภารกิจในยุควิกฤตพายุอัสนีบาตพัดกระหน่ำ (Storm Surge) ครับ"
     },
     {
-      "character": "Sphene",
+      "key": "areplicastillitdoesmegoodtoseeit",
       "text_en": "A replica... Still, it does me good to see it.",
       "text": "ของจำลองงั้นเหรอ... แต่ถึงอย่างนั้น การได้เห็นมันก็ช่วยให้รู้สึกอุ่นใจขึ้นบ้างล่ะนะ"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "iwilldeploythegangwayforboardingthiswayplease",
       "text_en": "I will deploy the gangway for boarding. This way, please.",
       "text": "กระผมจะทำหน้าที่ติดตั้งสะพานทอดเรือเพื่อให้ทุกท่านเดินขึ้นครับ เชิญทางนี้เลยครับ"
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "inordertoreachthesurfacewemustpassthroughthestormcloudsiadviseyoutobraceforturbulence",
       "text_en": "In order to reach the surface, we must pass through the storm clouds. I advise you to brace for turbulence!",
       "text": "ในการร่อนตัวลงสู่พื้นผิวเบื้องล่าง เราจำเป็นต้องฝ่าชั้นเมฆพายุฝนฟ้าคะนองครับ ขอแนะนำให้เตรียมรับการสั่นสะเทือนที่อาจเกิดขึ้นด้วยครับ!"
     },
     {
-      "character": "Sphene",
+      "key": "thewardalisaiegavemeisreacting",
       "text_en": "The ward Alisaie gave me is reacting...",
       "text": "เครื่องรางที่คุณอลิเซมอบให้เรากำลังส่งปฏิกิริยาตอบสนองค่ะ..."
     },
     {
-      "character": "Y'shtola",
+      "key": "thoughnottotheextentofthethirteenththeaethericimbalancehereissevereindeed",
       "text_en": "Though not to the extent of the Thirteenth, the aetheric imbalance here is severe indeed.",
       "text": "ถึงจะยังไม่เทียบเท่ากับระดับของโลกที่สิบสาม แต่ความปั่นป่วนของเอเทอร์ที่นี่ก็นับว่าวิกฤตทีเดียว"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itdoesservetoimpressupononethemarvelofthebarrier",
       "text_en": "It does serve to impress upon one the marvel of the barrier.",
       "text": "พอได้มาเห็นแบบนี้แล้ว ยิ่งรู้สึกทึ่งกับความยอดเยี่ยมของบาเรียป้องกันนั่นจริง ๆ"
     },
     {
-      "character": "Sphene",
+      "key": "thelightninginheritagefoundistamebycomparison",
       "text_en": "The lightning in Heritage Found is tame by comparison.",
       "text": "พายุกระหน่ำสายฟ้าที่ผืนดินมรดก (Heritage Found) ดูเบาบางไปถนัดตาเลยนะคะเมื่อเทียบกับที่นี่"
     },
     {
-      "character": "Krile",
+      "key": "alandwherelevinreigns",
       "text_en": "A land where levin reigns...",
       "text": "ดินแดนที่อัสนีบาตเกรี้ยวกราดครอบงำสินะคะ..."
     },
     {
-      "character": "Y'shtola",
+      "key": "thestateofthisreflectionsaetherismoredirethanweanticipated",
       "text_en": "The state of this reflection's aether is more dire than we anticipated.",
       "text": "สภาพเอเทอร์ of โลกเงาสะท้อนนี้ย่ำแย่เกินกว่าที่เราจินตนาการไว้เสียอีก"
     },
     {
-      "character": "Y'shtola",
+      "key": "ishouldbesurprisediftheascianshadnohandinthewarthatwroughtthis",
       "text_en": "I should be surprised if the Ascians had no hand in the war that wrought this.",
       "text": "ฉันคงแปลกใจพิลึก หากพวกเอเชียนไม่ได้มีส่วนเกี่ยวข้องกับสงครามที่เป็นต้นเหตุของเรื่องทั้งหมดนี้"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thewardingscaleistrulyagodssendforthoseofuswithouttheblessingoflightremindmetosendmyprofusethankstovrtraandthehannishalchemistsoncemore",
       "text_en": "The warding scale is truly a godssend for those of us without the blessing of Light. Remind me to send my profuse thanks to Vrtra and the Hannish alchemists once more.",
       "text": "เกล็ดมังกรป้องกันนี่เป็นเครื่องรางช่วยชีวิตของพวกเราที่ไม่มีพรแห่งแสงจริง ๆ นะเนี่ย ไว้เตือนฉันให้ส่งคำขอบคุณอย่างสุดซึ้งไปถึงท่านวฤตรากับเหล่านักแปรธาตุแห่งราซ-อัต-ฮันอีกครั้งด้วยล่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "thatcraterwasoncealexandria",
       "text_en": "That crater...was once Alexandria...",
       "text": "แอ่งหลุมตรงนั้น... ครั้งหนึ่งเคยเป็นอเล็กซานเดรียอย่างนั้นหรือคะ..."
     },
     {
-      "character": "Clerk PX-0093",
+      "key": "ifyouwouldliketoreturntolivingmemoryitwillbemypleasuretorunthelaunchprotocols",
       "text_en": "If you would like to return to Living Memory, it will be my pleasure to run the launch protocols.",
       "text": "หากมีความประสงค์จะเดินทางกลับสู่ Living Memory กระผมยินดีที่จะเปิดการทำงานของโปรโตคอลเตรียมตัวขึ้นบินให้อีกครั้งครับ"
     },
     {
-      "character": "Krile",
+      "key": "asoberingsighttosaytheleastbutishantturnbacknowthatwevecomethisfar",
       "text_en": "A sobering sight, to say the least. But I shan't turn back now that we've come this far.",
       "text": "เป็นภาพที่ชวนให้รู้สึกสลดใจอยู่ไม่น้อยเลยล่ะค่ะ... แต่ในเมื่อพวกเราเดินทางมาไกลขนาดนี้แล้ว ฉันก็จะไม่ยอมหันหลังกลับแน่นอนจ๊ะ"
     }

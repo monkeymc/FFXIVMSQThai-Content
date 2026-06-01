@@ -1,316 +1,308 @@
 {
-  "id": "in-her-heart",
-  "wiki_path": "/wiki/In_Her_Heart",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.4",
-  "title_en": "In Her Heart",
-  "title": "ในขั้วหัวใจ",
-  "level": "100",
-  "location": "Treno(X:10.9,Y:10.1)",
-  "npc_start": "Eyaney",
+  "quest_id": "in-her-heart",
   "dialogues": [
     {
-      "character": "Eyaney",
+      "key": "krileistakingawhilebeingnewtothecityifsomethingweretohappenshewouldntknowwheretogoforhelp",
       "text_en": "Krile is taking a while... Being new to the city, if something were to happen, she wouldn't know where to go for help.",
       "text": "คุณไครล์ไปนานจังเลยนะคะ... เธอเพิ่งเคยมาเมืองนี้เป็นครั้งแรก หากเกิดเรื่องอะไรขึ้นมา คงไม่รู้ว่าจะไปขอความช่วยเหลือจากที่ไหนแน่เลยค่ะ"
     },
     {
-      "character": "Eyaney",
+      "key": "wouldyoucheckonhershestartedoffinthedirectionoftownhall",
       "text_en": "Would you check on her? She started off in the direction of town hall.",
       "text": "รบกวนคุณช่วยไปดูเธอหน่อยได้ไหมคะ? เห็นเธอเดินมุ่งหน้าไปทางศาลากลางน่ะค่ะ"
     },
     {
-      "character": "Eyaney",
+      "key": "thankfullyicanconfirmshesinnoimmediatedangerigotthedetectorrunningagainjustnowandithasntpickedupanynewsignals",
       "text_en": "Thankfully, I can confirm she's in no immediate danger─I got the detector running again just now, and it hasn't picked up any new signals.",
       "text": "แต่ยังดีนะคะที่ยืนยันได้ว่าตอนนี้เธอยังปลอดภัยดี—ฉันเพิ่งกู้ระบบเครื่องตรวจจับให้กลับมาทำงานได้เมื่อครู่ และเครื่องก็ไม่ได้จับสัญญาณผิดปกติใหม่ๆ ได้เลยค่ะ"
     },
     {
-      "character": "Affable Local",
+      "key": "yourelookingamitelostthereladlassaughticanhelpwith",
       "text_en": "You're looking a mite lost there, lad / lass . Aught I can help with?",
       "text": "ท่าทางกำลังหลงทางอยู่รึเปล่าจ๊ะ พ่อหนุ่ม / แม่หนู? มีเรื่องอะไรพอให้ฉันช่วยเหลือไหม"
     },
     {
-      "character": "Affable Local",
+      "key": "amilallaseenquiteafewofthemtodayhehbutifshesafriendofyours",
       "text_en": "A Milalla? Seen quite a few of them today, heh. But if she's a friend of yours...",
       "text": "อ๋อ ชาวมิลาลล่าหรือจ๊ะ? วันนี้ก็เห็นผ่านตาอยู่หลายคนเลยล่ะ แต่ถ้าเป็นเพื่อนของเธอล่ะก็..."
     },
     {
-      "character": "Affable Local",
+      "key": "ipresumeyoumeankrilehadagrandoldchatwithherearlier",
       "text_en": "I presume you mean Krile. Had a grand old chat with her earlier.",
       "text": "น่าจะหมายถึงหนูไครล์สินะ ก่อนหน้านี้เราเพิ่งคุยกันออกรสออกชาติเชียวละ"
     },
     {
-      "character": "Affable Local",
+      "key": "nottomentionshesavedmyhidecantbelieveimissedthatlightningspritetillitwasrightontopofme",
       "text_en": "Not to mention she saved my hide! Can't believe I missed that lightning sprite till it was right on top of me...",
       "text": "แถมแม่หนูคนนั้นยังช่วยชีวิตฉันไว้อีกต่างหาก! เหลือเชื่อเลยว่าฉันจะไม่ทันสังเกตเห็นสไปรท์สายฟ้านั่น จนมันปรี่เข้ามาจวนตัวเสียแล้ว..."
     },
     {
-      "character": "Affable Local",
+      "key": "itsthankstoherthatigotoutunscathed",
       "text_en": "It's thanks to her that I got out unscathed.",
       "text": "ต้องขอบคุณฝีมือเธอแท้ๆ ที่ช่วยให้ฉันรอดพ้นอันตรายมาได้โดยไม่มีรอยขีดข่วนสักนิด"
     },
     {
-      "character": "Affable Local",
+      "key": "bitawkwardstrikingupaconversationafterthatanditdbeenawhilesinceitalkedtoanyoneihaventknownmywholelife",
       "text_en": "Bit awkward, striking up a conversation after that. And it'd been a while since I talked to anyone I haven't known my whole life...",
       "text": "พ้นจากเรื่องนั้นมาก็ทำตัวไม่ค่อยถูกเหมือนกันที่จะชวนคุยต่อ แถมฉันเองก็นานๆ ทีจะได้เสวนากับคนแปลกหน้าด้วยสิ ปกติก็เจอแต่คนที่รู้จักมักจี่กันมาตั้งแต่เกิด..."
     },
     {
-      "character": "Affable Local",
+      "key": "shesakindlassgoodatputtingfolksateaselikemiayliiquiteenjoyedtellingheraboutthecity",
       "text_en": "She's a kind lass. Good at putting folks at ease, like Miayli. I quite enjoyed telling her about the city.",
       "text": "เธอเป็นแม่หนูที่อัธยาศัยดีเชียวละ ช่างพูดช่างคุยชวนให้คนฟังรู้สึกผ่อนคลายเหมือนท่านเมียลี่ไม่มีผิด ฉันเองก็เล่าเรื่องบ้านเรื่องเมืองให้เธอฟังเสียเพลินไปเลย"
     },
     {
-      "character": "Affable Local",
+      "key": "whenweweredonechattingshewentofftowardsthecanalhadatouchofmelancholyaboutherthoughandiwasntsurewhy",
       "text_en": "When we were done chatting, she went off towards the canal. Had a touch of melancholy about her, though, and I wasn't sure why...",
       "text": "พอคุยกันเสร็จ เธอก็เดินเลี่ยงไปทางคลองส่งน้ำ ทว่าแววตาของเธอดูดูกังวลอมทุกข์พิกล ฉันเองก็ไม่รู้ว่าเพราะอะไรเหมือนกัน..."
     },
     {
-      "character": "Affable Local",
+      "key": "didntthinkitwassomethingisaidbutiknewthatifitwassayingmorewouldnthelpsoilethergo",
       "text_en": "Didn't think it was something I said, but I knew that if it was, saying more wouldn't help. So I let her go.",
       "text": "หวังว่าคงไม่ใช่เพราะคำพูดของฉันหรอกนะ แต่ถึงใช่... ไปเซ้าซี้ถามก็คงไม่ช่วยให้อะไรดีขึ้น ฉันก็เลยปล่อยให้เธอไปตามทางของเธอ"
     },
     {
-      "character": "Affable Local",
+      "key": "ireckonshedwelcomethecompanyofagoodfriendrightnow",
       "text_en": "I reckon she'd welcome the company of a good friend right now.",
       "text": "ชั่วโมงนี้ เธอคงอยากได้เพื่อนสนิทสักคนคอยอยู่เคียงข้างนั่นแหละ"
     },
     {
-      "character": "Affable Local",
+      "key": "goodplaceforponderingthatcanalmaybethatswhyshewentthatway",
       "text_en": "Good place for pondering, that canal. Maybe that's why she went that way.",
       "text": "ตรงคลองส่งน้ำนั่นเหมาะแก่การนั่งทอดอารมณ์คิดอะไรเรื่อยเปื่อยดีนะ บางทีแม่หนูคนนั้นอาจจะแค่อยากไปหาที่สงบๆ นั่งพักสมองก็ได้"
     },
     {
-      "character": "Krile",
+      "key": "ahwereyoulookingforme",
       "text_en": "Ah, were you looking for me?",
       "text": "อ๊ะ... กำลังตามหาฉันอยู่หรือคะ?"
     },
     {
-      "character": "Krile",
+      "key": "ionlyintendedtositdownforamomentbutimusthavelosttrackoftime",
       "text_en": "I only intended to sit down for a moment, but I must have lost track of time...",
       "text": "ตั้งใจว่าจะมานั่งพักผ่อนหย่อนใจสักครู่เดียวแท้ๆ แต่คงเผลอนั่งเพลินจนลืมดูเวลาไปเสียได้ค่ะ..."
     },
     {
-      "character": "Krile",
+      "key": "willyoulendmeyourear",
       "text_en": "Will you lend me your ear?",
       "text": "พอจะช่วยรับฟังเรื่องที่ฉันกำลังกังวลอยู่หน่อยได้ไหมคะ?"
     },
     {
-      "character": "Krile",
+      "key": "thesourceandtheninth",
       "text_en": "The Source and the Ninth...",
       "text": "ทั้งโลกเดิม (Source) และโลกเงาสะท้อนที่เก้า (Ninth)..."
     },
     {
-      "character": "Krile",
+      "key": "somedayiwillhavetodecidewhichonetocallhome",
       "text_en": "Someday, I will have to decide which one to call home.",
       "text": "สักวันหนึ่ง... ฉันคงต้องเลือกว่าจะเรียกโลกใบไหนว่าเป็นบ้านของตัวเองกันแน่ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "thethoughthaslingeredlikeastormcloudinmymind",
       "text_en": "The thought has lingered like a storm cloud in my mind...",
       "text": "ความกังวลข้อนี้ยังคงตามหลอกหลอน ดั่งเมฆพายุทมิฬที่เกาะกุมจิตใจของฉันไม่ยอมห่าง..."
     },
     {
-      "character": "Krile",
+      "key": "ivetriedtoignoreitremindmyselfthatwehavemoreimportantmatterstocontendwithbuticannotkeepdriftingbetweentheseworldsforever",
       "text_en": "I've tried to ignore it. Remind myself that we have more important matters to contend with. But I cannot keep drifting between these worlds forever.",
       "text": "พยายามจะสลัดมันทิ้งไปและคอยเตือนตัวเองอยู่เสมอว่า ยังมีภารกิจอื่นที่สำคัญกว่ารออยู่ข้างหน้า... ทว่าในความจริง ฉันจะปล่อยให้ตัวเองล่องลอยอยู่ตรงกลางระหว่างสองโลกนี้ไปตลอดกาลไม่ได้หรอกค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "whenifirstlearnedthetruthofmypastiassumeditwouldhavenobearingonmyfuturethesourcewasmyhomeandthestudentsofbaldesionmypurpose",
       "text_en": "When I first learned the truth of my past, I assumed it would have no bearing on my future. The Source was my home, and the Students of Baldesion my purpose.",
       "text": "แรกเริ่มที่ล่วงรู้ความจริงเรื่องอดีตหนหลัง ฉันเคยทึกทักเอาเองว่าสิ่งเหล่านั้นย่อมไม่มีวันแปรเปลี่ยนวิถีชีวิตภายภาคหน้า... โลกเดิม (Source) คือบ้านแท้จริงของฉัน และเหล่านักศึกษาแห่งบาลเดเชียนคือเป้าหมายสูงสุดที่ฉันอุทิศชีวิตให้"
     },
     {
-      "character": "Krile",
+      "key": "butaftermeetingmyparents",
       "text_en": "But after meeting my parents...",
       "text": "ทว่าหลังจากที่ได้พบหน้าท่านพ่อกับท่านแม่..."
     },
     {
-      "character": "Krile",
+      "key": "itstruckmethattosimplychoosethesourcewouldbetoabandonthemandnotonlythembutahomeicouldhavelovedhadmylifegoneasitshouldhave",
       "text_en": "It struck me that to simply choose the Source would be to abandon them. And not only them, but a home I could have loved, had my life gone as it should have...",
       "text": "ฉันก็เริ่มตระหนักว่า หากตัดใจเลือกโลกเดิมไปดื้อๆ มันก็ไม่ต่างอะไรจากการทอดทิ้งพวกท่าน... และไม่เพียงเท่านั้น แต่มันยังเป็นการละทิ้งบ้านเกิดเมืองนอนที่ฉันคงจะได้ตกหลุมรักไปแล้ว หากชีวิตดำเนินไปในครรลองที่ควรจะเป็น..."
     },
     {
-      "character": "Krile",
+      "key": "thatiswhyihadtolearnmoreofthisplaceandthemeicouldhavebeen",
       "text_en": "That is why I had to learn more of this place─and the “me” I could have been.",
       "text": "นั่นเป็นเพราะเหตุใดฉันจึงต้องดิ้นรนเพื่อสืบค้นเรื่องราวของแผ่นดินนี้ให้มากยิ่งขึ้น... รวมถึง \"ตัวตน\" อีกคนหนึ่งที่ฉันเกือบจะได้เป็น"
     },
     {
-      "character": "Krile",
+      "key": "ifeelevenlesscertainthanbefore",
       "text_en": "I feel even less certain than before.",
       "text": "กลับกลายเป็นว่า ตอนนี้ในหัวของฉันยิ่งสับสนจับต้นชนปลายไม่ถูกยิ่งกว่าเดิมเสียอีกค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "butthemoreilearnthelesscertainibecome",
       "text_en": "But the more I learn, the less certain I become.",
       "text": "ยิ่งฉันได้ล่วงรู้เรื่องราวมากเท่าใด หัวใจก็ยิ่งทวีความไม่มั่นใจมากขึ้นเท่านั้น..."
     },
     {
-      "character": "Krile",
+      "key": "thoughwearestrangerstothemthesepeoplehavewelcomedusasifwearetheirownitslikespeakingwitholdfriends",
       "text_en": "Though we are strangers to them, these people have welcomed us as if we are their own. It's like speaking with old friends.",
       "text": "ถึงแม้ว่าพวกเราจะเป็นคนแปลกหน้า แต่ผู้คนที่นี่กลับให้การต้อนรับพวกเราด้วยความจริงใจ ดั่งเป็นคนในครอบครัวเดียวกัน... รู้สึกอบอุ่นราวกับได้สนทนากับมิตรสหายที่คุ้นเคยกันมานานแสนนานเลยละค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "andknowingnowthechallengestheyfacewhatwoulditsayaboutmeifijustleftthembehindandreturnedtothesource",
       "text_en": "And knowing now the challenges they face, what would it say about me if I just left them behind and returned to the Source?",
       "text": "และเมื่อฉันได้รับรู้ถึงความทุกข์ยากที่พวกเขากำลังเผชิญหน้าอยู่ในเพลานี้... หากฉันสะบัดก้นทอดทิ้งพวกเขาไว้ข้างหลังแล้วเดินทางกลับไปยังโลกเดิมดื้อๆ แล้วมันจะสะท้อนว่าฉันเป็นคนเช่นไรกันคะ?"
     },
     {
-      "character": "Krile",
+      "key": "isthatwhoiamwhoiwasmeanttobeoristhiswhereibelong",
       "text_en": "Is that who I am─who I was meant to be? Or is this where I belong...?",
       "text": "นั่นคือตัวตนแท้จริงของฉัน—คือเส้นทางที่ฉันถูกกำหนดมาให้เดินจริงๆ หรือคะ? หรือว่าที่แห่งนี้ต่างหาก... คือแผ่นดินที่ตัวฉันควรจะสถิตอยู่ชั่วนิรันดร์...?"
     },
     {
-      "character": "Krile",
+      "key": "thankyouforlisteningimalittlelessafraidtofacetheanswernowwhateveritmaybe",
       "text_en": "Thank you for listening. I'm a little less afraid to face the answer now, whatever it may be.",
       "text": "ขอบคุณที่รับฟังกันนะคะ ตอนนี้ฉันพอจะคลายความกลัวที่จะเผชิญหน้ากับคำตอบลงได้บ้างแล้วล่ะค่ะ ไม่ว่าผลของมันจะเป็นเช่นไรก็ตาม"
     },
     {
-      "character": "Krile",
+      "key": "andwhenifinditihopeyoullbethere",
       "text_en": "And when I find it, I hope you'll be there.",
       "text": "และหากวันใดที่ฉันได้พบมัน... ก็หวังว่าคุณจะอยู่ตรงนั้นด้วยนะคะ"
     },
     {
-      "character": "Krile",
+      "key": "butwevekepteyaneywaitinglongenoughletshurryback",
       "text_en": "...But we've kept Eyaney waiting long enough. Let's hurry back.",
       "text": "...แต่พวกเราปล่อยให้คุณเอยาเนย์รอนานเกินไปแล้ว รีบกลับกันเถอะค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "triflingthoughitwasifeelthattheworkwevedonehashelpedmegainabetterunderstandingoftrenothecountlesssmallactionstakenbymyriadpeopleeverydayarewhatmakeaplacewhatitisafterall",
       "text_en": "Trifling though it was, I feel that the work we've done has helped me gain a better understanding of Treno. The countless small actions taken by myriad people every day are what make a place what it is, after all.",
       "text": "แม้จะเป็นเพียงเรื่องเล็กน้อย ทว่างานที่พวกเราทำก็ช่วยให้ฉันเข้าใจวิถีชีวิตของเทรโนได้ดียิ่งขึ้นค่ะ... ท้ายที่สุดแล้ว กิจวัตรเล็กๆ น้อยๆ นับไม่ถ้วนของผู้คนมากมายในแต่ละวันนี่เอง ที่หล่อหลอมสถานที่แห่งหนึ่งขึ้นมา"
     },
     {
-      "character": "Eyaney",
+      "key": "imgladyourebothbacksafeandsound",
       "text_en": "I'm glad you're both back safe and sound!",
       "text": "ดีใจจังที่เห็นพวกคุณกลับมาอย่างปลอดภัยนะคะ!"
     },
     {
-      "character": "Eyaney",
+      "key": "nowwecanrelaxuntilmybrotherdoesthesamewithyourfriendescortinghimhecantgethimselfintotoomuchtroubleunlesshetumblesdownthestairsintotownagainisuppose",
       "text_en": "Now we can relax until my brother does the same. With your friend escorting him, he can't get himself into too much trouble...unless he tumbles down the stairs into town again, I suppose.",
       "text": "คราวนี้พวกเราค่อยเบาใจลงได้หน่อย รอจนกว่าพี่ชายของฉันจะกลับมาเหมือนกัน มีเพื่อนของคุณคอยดูแลแบบนี้ เขาคงไม่ไปก่อเรื่องวุ่นวายอะไรหรอกค่ะ... เว้นแต่จะซุ่มซ่ามกลิ้งตกบันไดทางขึ้นเมืองไปอีกรอบล่ะมั้งคะ"
     },
     {
-      "character": "Krile",
+      "key": "thatremindsmethestructuresnearthebarrierallseemtobedesignedformilallaisthereareasonthatthoseinthecenterofthecityaresomuchlarger",
       "text_en": "That reminds me─the structures near the barrier all seem to be designed for Milalla. Is there a reason that those in the center of the city are so much larger?",
       "text": "จริงด้วยค่ะ... เรื่องนั้นทำให้ฉันนึกขึ้นได้ว่า สิ่งปลูกสร้างแถวบาเรียดูเหมือนจะสร้างขึ้นเพื่อชาวมิลัลลาโดยเฉพาะเลย มีเหตุผลใดเป็นพิเศษไหมคะ ที่อาคารบริเวณใจกลางเมืองกลับมีขนาดใหญ่โตกว่ามาก?"
     },
     {
-      "character": "Eyaney",
+      "key": "ohyesthecenteristheoldestpartoftrenobuiltbythehyuneandtheelditebeforethemilallacame",
       "text_en": "Oh, yes! The center is the oldest part of Treno, built by the Hyune and the Eldite before the Milalla came.",
       "text": "อ๋อ ใช่แล้วค่ะ! บริเวณใจกลางเมืองคือส่วนที่เก่าแก่ที่สุดของเทรโนเลยล่ะค่ะ มันถูกสร้างขึ้นโดยชาวฮิวน์และเอลดิต ก่อนที่พวกมิลัลลาจะย้ายเข้ามาเสียอีกค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "sotrenopredatesthemilallasarrival",
       "text_en": "So Treno predates the Milalla's arrival?",
       "text": "แสดงว่าเมืองเทรโนนี้มีอยู่ก่อนที่ชาวมิลัลลาจะเดินทางมาถึงอย่างนั้นหรือคะ?"
     },
     {
-      "character": "Eyaney",
+      "key": "themayoratthetimewaskindenoughtotakeourancestorsinandgavethemleavetoestablishtheirownresidentialquarter",
       "text_en": "The mayor at the time was kind enough to take our ancestors in, and gave them leave to establish their own residential quarter.",
       "text": "ท่านนายกเทศมนตรีในตอนนั้นมีเมตตารับบรรพบุรุษของพวกเราไว้ แล้วก็อนุญาตให้พวกท่านตั้งถิ่นฐานสร้างย่านที่อยู่อาศัยของตัวเองขึ้นมาค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "yetihaveseennaughtbutmilallasincewecametothecitywheredidtheotherpeoplesgo",
       "text_en": "Yet I have seen naught but Milalla since we came to the city. Where did the other peoples go?",
       "text": "แต่ตั้งแต่พวกเรามาถึงที่นี่ ฉันยังไม่เห็นใครอื่นนอกจากชาวมิลัลลาเลยนะคะ... แล้วเผ่าพันธุ์อื่นหายไปไหนกันหมดหรือคะ?"
     },
     {
-      "character": "Eyaney",
+      "key": "alexandriaintheclosingdaysofthestormsurgewhendeathanddestructionwereeverywheretheybelieveditwouldbesafertrenodidnthaveabarrieratfirstyousee",
       "text_en": "Alexandria. In the closing days of the Storm Surge, when death and destruction were everywhere, they believed it would be safer. Treno didn't have a barrier at first, you see.",
       "text": "อเล็กซานเดรียค่ะ... ในช่วงบั้นปลายของภัยพิบัติวายุคลั่ง (Storm Surge) ยามที่ความตายและความพินาศย่อยยับแผ่ซ่านไปทุกหย่อมหญ้า พวกเขาเชื่อกันว่าที่นั่นคงปลอดภัยกว่า เพราะเดิมทีแล้วเทรโนยังไม่มีบาเรียป้องกันภัยหรอกนะคะ"
     },
     {
-      "character": "Eyaney",
+      "key": "butoneofourindustriousbrethrenhadservedastutorintheroyalhouseholdandreturnedtouswithknowledgeofthebarriersdesignitsthankstohimthatthecitysurvivestothisday",
       "text_en": "But one of our industrious brethren had served as tutor in the royal household, and returned to us with knowledge of the barrier's design. It's thanks to him that the city survives to this day.",
       "text": "ทว่ามีเพื่อนร่วมเผ่าพันธุ์ผู้ขยันขันแข็งคนหนึ่งของเรา เคยรับหน้าที่เป็นอาจารย์สอนหนังสือในราชสำนัก แล้วก็นำความรู้เกี่ยวกับโครงสร้างบาเรียกลับมาด้วย... เมืองนี้อยู่รอดมาได้จนถึงทุกวันนี้ ก็เพราะความดีความชอบของเขาแท้ๆ เลยค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "mightiaskamorepersonalquestion",
       "text_en": "Might I ask a more personal question?",
       "text": "หากไม่ว่าอะไร... ฉันขอถามคำถามที่เป็นส่วนตัวสักหน่อยได้ไหมคะ?"
     },
     {
-      "character": "Krile",
+      "key": "wepreviouslyuncoveredsomerecordspertainingtothemilallaspast",
       "text_en": "We previously uncovered some records pertaining to the Milalla's past.",
       "text": "ก่อนหน้านี้ พวกเราได้พบเอกสารบันทึกที่กล่าวถึงอดีตของชาวมิลัลลาเข้าค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "inthemitwaswrittenthatthemilallalefttheirparadiseofeternalsummerwhenagreatcalamityfrozetheirisles",
       "text_en": "In them, it was written that the Milalla left their “paradise of eternal summer” when “a great calamity froze their isles.”",
       "text": "ในบันทึกเขียนไว้ว่า ชาวมิลัลลาจำต้องละทิ้ง 'ดินแดนสวรรค์แห่งคิมหันต์นิรันดร์' ของตนไป ยามเมื่อ 'ภัยพิบัติครั้งใหญ่เยือกแข็งหมู่เกาะของพวกเขาจนหมดสิ้น'"
     },
     {
-      "character": "Krile",
+      "key": "understandablyallwerenotcontenttoleavetheirhomelandbehind",
       "text_en": "Understandably, all were not content to leave their homeland behind.",
       "text": "ซึ่งก็เป็นเรื่องที่เข้าใจได้ไม่ยากเลยค่ะว่า ใช่ว่าทุกคนจะยินดีตัดใจทิ้งบ้านเกิดเมืองนอนไว้เบื้องหลังได้..."
     },
     {
-      "character": "Krile",
+      "key": "someattemptedtoreturnusingthesamepowerthathadbroughtthemherebuttheyfoundthewayclosedtothem",
       "text_en": "Some attempted to return using the same power that had brought them here, but they found the way closed to them.",
       "text": "บางคนพยายามจะเดินทางกลับไปโดยใช้พลังสายเดียวกับที่พาพวกเขามาที่นี่ ทว่าพวกเขากลับพบว่าเส้นทางนั้นได้ปิดตายลงเสียแล้ว..."
     },
     {
-      "character": "Krile",
+      "key": "neveragainhasthegoldenpathopenedthatallowedtheirancestorstofleetosafety",
       "text_en": "“Never again has the golden path opened that allowed their ancestors to flee to safety.”",
       "text": "'นับแต่นั้นมา เส้นทางสีทองที่เคยช่วยให้เหล่าบรรพบุรุษหลบหนีมายังดินแดนปลอดภัย... ก็ไม่เคยเปิดออกอีกเลย'"
     },
     {
-      "character": "Krile",
+      "key": "tellmewerethatgoldenpathtoopenoncemoreandyouweretofindthemilallahomelandrestoredtoitsformerglory",
       "text_en": "Tell me─were that golden path to open once more, and you were to find the Milalla homeland restored to its former glory...",
       "text": "บอกฉันทีเถอะค่ะ... หากเส้นทางสีทองสายนั้นเปิดออกอีกครั้ง และคุณพบว่าแผ่นดินเกิดของชาวมิลัลลาได้กลับคืนสู่ความรุ่งเรืองดังเช่นในอดีต..."
     },
     {
-      "character": "Krile",
+      "key": "wouldyougoback",
       "text_en": "...Would you go back?",
       "text": "...คุณคิดจะเดินทางกลับไปไหมคะ?"
     },
     {
-      "character": "Eyaney",
+      "key": "idcertainlyliketoseethatparadiseofeternalsummerformyselfwhowouldnt",
       "text_en": "I'd certainly like to see that “paradise of eternal summer” for myself! Who wouldn't?",
       "text": "ฉันเองก็อยากเห็น 'ดินแดนสวรรค์แห่งคิมหันต์นิรันดร์' ด้วยตาตัวเองสักครั้งเหมือนกันค่ะ! มีใครไม่อยากบ้างล่ะคะ?"
     },
     {
-      "character": "Eyaney",
+      "key": "butitwouldntbegoingbackafterallmyoneandonlyhomeishere",
       "text_en": "But it wouldn't be “going back.” After all, my one and only home is here.",
       "text": "แต่มันคงไม่ใช่การ 'กลับไป' หรอกค่ะ เพราะท้ายที่สุดแล้ว บ้านเพียงแห่งเดียวของฉันก็คือที่นี่"
     },
     {
-      "character": "Eyaney",
+      "key": "trenothisrundownbeatupbeautifulcity",
       "text_en": "Treno! This run-down, beat-up, beautiful city.",
       "text": "เทรโน! เมืองที่ทั้งซอมซ่อ ผุพัง ทว่าก็งดงามแห่งนี้ไงคะ"
     },
     {
-      "character": "Krile",
+      "key": "youtrulyloveitdontyou",
       "text_en": "You truly love it, don't you?",
       "text": "คุณรักเมืองนี้จากใจจริงเลยสินะคะ?"
     },
     {
-      "character": "Eyaney",
+      "key": "doyouknowwhatthespeakersaidwhenthemilallacametothisplace",
       "text_en": "Do you know what the Speaker said, when the Milalla came to this place?",
       "text": "คุณทราบไหมคะว่า 'ท่านผู้นำจิตวิญญาณ' (Speaker) เคยกล่าวคำอันใดไว้ ยามที่ชาวมิลัลลาเดินทางมาถึงที่นี่?"
     },
     {
-      "character": "Eyaney",
+      "key": "olifeflourishonthisfarawayshoreunfurlyourfragilepetalswithfearlessjoyletthisskygrantshelterfromdarkeststormandherebloomhandinhandforevermore",
       "text_en": "O life, flourish on this faraway shore, Unfurl your fragile petals with fearless joy. Let this sky grant shelter from darkest storm, And here bloom, hand in hand, forevermore.",
       "text": "โอ้ชีวิต... จงงอกงาม ณ ชายฝั่งอันแสนไกล,\nจงคลี่กลีบบอบบางอย่างเริงใจ ไร้ความหวาดหวั่นใด,\nขอผืนฟ้านี้โอบอุ้มบังภัย จากพายุอันมืดมิดโหมกระหน่ำ,\nแล้วเบ่งบานร่วมใจ กุมมือกันไปตราบนานเท่านาน..."
     },
     {
-      "character": "Eyaney",
+      "key": "weneverforgotthosewordsnotmyancestorsnormygrandmothernormybrotherandme",
       "text_en": "We never forgot those words. Not my ancestors, nor my grandmother, nor my brother and me.",
       "text": "พวกเราไม่เคยลืมเลือนถ้อยคำเหล่านั้นเลยค่ะ... ทั้งบรรพบุรุษ คุณยาย พี่ชายของฉัน หรือแม้กระทั่งตัวฉันเอง"
     },
     {
-      "character": "Eyaney",
+      "key": "thatboundlessoptimismthatcommunalspiritthatistrenonomatterwhatcomesorhowharditgetswellchoosejoyoverfearandstandtogethertheresnowhereelseidratherbe",
       "text_en": "That boundless optimism, that communal spirit─that is Treno. No matter what comes or how hard it gets, we'll choose joy over fear and stand together. There's nowhere else I'd rather be.",
       "text": "การมองโลกในแง่ดีอย่างไร้ขีดจำกัด จิตวิญญาณแห่งความสามัคคีเกื้อกูล... นั่นแหละค่ะคือเทรโน ไม่ว่าจะเกิดอะไรขึ้นหรือยากลำบากเพียงใด พวกเราก็จะเลือกความยินดีมากกว่าความหวาดกลัว และยืนหยัดไปด้วยกัน... ไม่มีสถานที่อื่นใดที่ฉันอยากอยู่ไปมากกว่าที่นี่อีกแล้วค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "nowhereelseyoudratherbeperhapsitreallyisassimpleaslisteningtoyourheart",
       "text_en": "Nowhere else you'd rather be... Perhaps it really is as simple as listening to your heart.",
       "text": "ไม่มีสถานที่อื่นใดที่อยากอยู่ไปมากกว่านี้... บางที มันอาจจะง่ายดายเพียงแค่ลองเงี่ยหูฟังเสียงจากหัวใจของตัวเองจริงๆ ก็ได้นะคะ"
     },
     {
-      "character": "Eyaney",
+      "key": "grandmotherusedtotellusstoriesofthemilallahomelandallthetimebutitwasthepartwheretheoceanfrozeoverthatalwaysfascinatedmemostthevastopenseaturnedtoiceimagine",
       "text_en": "Grandmother used to tell us stories of the Milalla homeland all the time, but it was the part where the ocean froze over that always fascinated me most. The vast, open sea, turned to ice? Imagine!",
       "text": "คุณยายมักจะเล่าเรื่องราวดินแดนเกิดของชาวมิลัลลาให้พวกเราฟังอยู่เป็นประจำเลยค่ะ แต่ท่อนที่บอกว่ามหาสมุทรกลายเป็นน้ำแข็งนี่แหละค่ะ ที่ฉันสนใจมากที่สุดมาตลอด ทะเลกว้างใหญ่ไพศาลกลายเป็นน้ำแข็ง... ลองนึกภาพตามดูสิคะ!"
     }

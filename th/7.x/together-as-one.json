@@ -1,746 +1,738 @@
 {
-  "id": "together-as-one",
-  "wiki_path": "/wiki/Together_as_One",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "Together as One",
-  "title": "รวมกันเป็นหนึ่ง",
-  "level": "96",
-  "location": "Sunperch(X:6.1,Y:4.4)",
-  "npc_start": "Wuk Lamat",
+  "quest_id": "together-as-one",
   "dialogues": [
     {
-      "character": "Koana",
+      "key": "thistalkofreflectionisperplexingtosaytheleastishouldbegladforyourhelpinunderstandingandovercomingthiscrisis",
       "text_en": "This talk of reflection is perplexing, to say the least. I should be glad for your help in understanding and overcoming this crisis.",
       "text": "การพูดคุยเจรจาเรื่องต่างโลกเหล่านี้ชวนสับสนมึนงงพอดูเลยทีเดียวครับ ผมต้องขอขอบคุณและพึ่งพาพวกคุณในการช่วยทำความเข้าใจและฟื้นฟูผ่านพ้นวิกฤตครั้งนี้ไปด้วยกันนะครับ"
     },
     {
-      "character": "Krile",
+      "key": "istruggletobelieveiamfromanotherreflectioniwonderdoesthismeanmysoulisthinnerthananativeofthesource",
       "text_en": "I struggle to believe I am from another reflection. I wonder, does this mean my soul is thinner than a native of the Source?",
       "text": "ฉันพยายามดิ้นรนที่จะเชื่อว่าฉันมาจากภาพสะท้อนอื่น ฉันสงสัยว่านี่หมายความว่าจิตวิญญาณของฉันผอมกว่าคนพื้นเมืองของ Source หรือไม่?"
     },
     {
-      "character": "Krile",
+      "key": "surelynotyshtolawouldhavenoticedgodstheressomuchidontunderstandmyheadisripetoburst",
       "text_en": "Surely not. Y'shtola would have noticed. Gods, there's so much I don't understand, my head is ripe to burst...",
       "text": "ไม่แน่นอน ยาชโตลา คงจะสังเกตเห็น พระเจ้า มีเรื่องมากมายที่ฉันไม่เข้าใจ หัวของฉันก็แทบจะระเบิด..."
     },
     {
-      "character": "Alphinaud",
+      "key": "ifearweneedtoknowmoreifweretodefendagainstanotherassault",
       "text_en": "I fear we need to know more if we're to defend against another assault.",
       "text": "ฉันเกรงว่าเราจำเป็นต้องรู้มากกว่านี้ หากเราต้องป้องกันการถูกโจมตีอีกครั้ง"
     },
     {
-      "character": "G'raha Tia",
+      "key": "imindebtedtoojikaforoverseeingouroperationsinmyabsenceiwillendeavortomakemyselfasusefulasicanhere",
       "text_en": "I'm indebted to Ojika for overseeing our operations in my absence. I will endeavor to make myself as useful as I can here.",
       "text": "ฉันเป็นหนี้บุญคุณ Ojika ที่ช่วยดูแลการปฏิบัติงานของเราในช่วงที่ฉันไม่อยู่ ฉันจะพยายามทำให้ตัวเองมีประโยชน์มากที่สุดที่นี่"
     },
     {
-      "character": "Y'shtola",
+      "key": "anotherreflectionencroachesuponourownbuthowandwhynow",
       "text_en": "Another reflection encroaches upon our own, but how, and why now?",
       "text": "การสะท้อนอีกประการหนึ่งกำลังรุกล้ำตัวเราเอง แต่อย่างไร และทำไมตอนนี้?"
     },
     {
-      "character": "Erenville",
+      "key": "pleasebesafe",
       "text_en": "Please be safe...",
       "text": "ขอให้ปลอดภัย..."
     },
     {
-      "character": "Alisaie",
+      "key": "wellfindawaytobreachthedomeandwellmakesureeveryoneinsideissafe",
       "text_en": "We'll find a way to breach the dome, and we'll make sure everyone inside is safe.",
       "text": "เราจะหาทางพังโดม และต้องแน่ใจว่าทุกคนในนั้นปลอดภัย"
     },
     {
-      "character": "Ketenramm",
+      "key": "itsembarrassintothinkhowzoraaljacaughtmeunawaresbutivenodoubtthebastardcametokillmeireckonhewouldvesucceededwereitanyoneelse",
       "text_en": "It's embarrassin' to think how Zoraal Ja caught me unawares, but I've no doubt the bastard came to kill me. I reckon he would've succeeded were it anyone else.",
       "text": "มันน่าอายที่จะคิดว่า โซราล จา จับฉันโดยไม่รู้ตัวได้อย่างไร แต่ฉันไม่สงสัยเลยว่าไอ้สารเลวนั่นจะมาฆ่าฉัน ฉันคิดว่าเขาจะประสบความสำเร็จถ้าเป็นคนอื่น"
     },
     {
-      "character": "Ketenramm",
+      "key": "whowouldvethoughthimtakinthatkeywouldleadtoallthis",
       "text_en": "Who would've thought him takin' that key would lead to all this?",
       "text": "ใครจะคิดว่าเขารับกุญแจนั่นจะนำไปสู่เรื่องทั้งหมดนี้?"
     },
     {
-      "character": "Sunperch Guard",
+      "key": "vowwuklamatandtheothersarewaitingforyourightthisway",
       "text_en": "Vow Wuk Lamat and the others are waiting for you. Right this way.",
       "text": "โว้ว วุค ละมาด และคนอื่นๆ รอคุณอยู่ ตรงนี้ครับ."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iknowwereinahurrytosetoffbutbeforewedoineedtoaddressmypeople",
       "text_en": "I know we're in a hurry to set off. But before we do, I need to address my people.",
       "text": "ฉันรู้ว่าพวกเราต้องเร่งรีบเตรียมตัวออกเดินทางกันค่ะ แต่ก่อนหน้านั้น ฉันจำเป็นต้องพูดจาชี้แจงกับประชาชนของฉันก่อนค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thepeacewesworetoupholdhasbeenshatteredtheyneedtounderstandwhatshappenedandhowweintendtofixit",
       "text_en": "The peace we swore to uphold has been shattered. They need to understand what's happened and how we intend to fix it.",
       "text": "สันติภาพความสงบสุขที่พวกเราเคยให้สัญญาสัญญาเกียรติยศว่าจะปกป้องบัดนี้ได้พังทลายลงแล้ว พวกเขาควรได้รับรู้ความจริงว่าเกิดอะไรขึ้น และพวกเราตั้งใจจะแก้ไขปัญหาชดใช้ภัยกู้สถานการณ์นี้อย่างไรค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soiwanttocallanassemblyatthewingedwalkandassurethemthatallwillbewell",
       "text_en": "So I want to call an assembly at the Winged Walk and assure them that all will be well.",
       "text": "เพราะอย่างนั้น ฉันเลยอยากจะเรียกประชุมประชาชนทุกคนที่ลานทางเดินปีกปักษ์ เพื่อให้สัญญากับพวกเขาว่าพวกเราจะผ่านพ้นเรื่องนี้ไปได้ด้วยดีค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butasshakenastheyareidontknowhowmanywillcome",
       "text_en": "But as shaken as they are, I don't know how many will come...",
       "text": "แต่หวั่นไหวไม่รู้จะมากี่คน..."
     },
     {
-      "character": "Alphinaud",
+      "key": "itsthosewhoaremostdistressedthattrulyneedhearyourwords",
       "text_en": "It's those who are most distressed that truly need hear your words...",
       "text": "คนที่ทุกข์ใจที่สุดต่างหากที่ต้องการฟังคำพูดของคุณจริงๆ..."
     },
     {
-      "character": "Alphinaud",
+      "key": "ifyoulikeishallseekoutsuchsoulsandencouragethemtoattend",
       "text_en": "If you like, I shall seek out such souls and encourage them to attend.",
       "text": "หากคุณต้องการ ฉันจะค้นหาวิญญาณเหล่านั้นและสนับสนุนให้พวกเขาเข้าร่วม"
     },
     {
-      "character": "Alisaie",
+      "key": "illhelptoothisisanimportantstepinthecitysrecovery",
       "text_en": "I'll help too. This is an important step in the city's recovery.",
       "text": "ฉันจะช่วยด้วย นี่เป็นก้าวสำคัญในการฟื้นฟูเมือง"
     },
     {
-      "character": "Alisaie",
+      "key": "caretojoinusforename",
       "text_en": "Care to join us, Forename ?",
       "text": "สนใจที่จะเข้าร่วมกับเรา คุณ [ชื่อ] ?"
     },
     {
-      "character": "Krile",
+      "key": "whileyouhandlethaterenvilleandiwillseetoprovisionsfortheexpedition",
       "text_en": "While you handle that, Erenville and I will see to provisions for the expedition.",
       "text": "ในขณะที่คุณจัดการเรื่องนั้น เอเรนวิลล์และฉันจะดูแลเรื่องเสบียงสำหรับการเดินทาง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouillgoaheadandhavethelandsguardannouncetheaddresspeoplemustfirstknowtheresgoingtobeonebeforetheycandecidewhetherornottheywanttohearit",
       "text_en": "Thank you... I'll go ahead and have the Landsguard announce the address. People must first know there's going to be one before they can decide whether or not they want to hear it.",
       "text": "ขอบใจมากจ้ะ... เดี๋ยวฉันจะให้พวกทหารรักษาดินแดนแลนด์สการ์ดไปป่าวประกาศเรื่องการแถลงการณ์ก่อน ประชาชนจะได้เตรียมตัวรับรู้ข่าวสารและตัดสินใจแวะมารับฟังกันจ้ะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "ifyoucouldseetotheresplendentquarterandbaysidebevyalisaieandiwillsplittherestofthecitybetweenus",
       "text_en": "If you could see to the Resplendent Quarter and Bayside Bevy, Alisaie and I will split the rest of the city between us.",
       "text": "หากคุณสามารถเห็น Resplendent Quarter และ Bayside Bevy ได้ อลิเซ และฉันจะแยกส่วนอื่นๆ ของเมืองระหว่างเรา"
     },
     {
-      "character": "Y'shtola",
+      "key": "ishallhavetoexamineoneofthesemechanicalsoldierslater",
       "text_en": "I shall have to examine one of these mechanical soldiers later.",
       "text": "ฉันจะต้องตรวจสอบทหารกลคนหนึ่งในภายหลัง"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ihaveamindtoinformthancredanduriangeraswellbuttheymayhavealreadylefttural",
       "text_en": "I have a mind to inform Thancred and Urianger as well, but they may have already left Tural.",
       "text": "ฉันมีความคิดที่จะแจ้งธานเคร็ดและอูเรียนเงอร์ด้วย แต่พวกเขาอาจจะออกจากทูรัลไปแล้ว"
     },
     {
-      "character": "Landsguard Gatekeeper",
+      "key": "ishouldhopeyouwillcontinuetolendyourstrengthtothedawnservantstheyhaveneedofpowerfulalliesnowmorethanever",
       "text_en": "I should hope you will continue to lend your strength to the Dawnservants. They have need of powerful allies now more than ever.",
       "text": "ฉันควรจะหวังว่าคุณจะมอบความแข็งแกร่งให้กับเหล่า Dawnservants ต่อไป พวกเขาต้องการพันธมิตรที่แข็งแกร่งมากขึ้นกว่าเดิม"
     },
     {
-      "character": "Cullaal Ja",
+      "key": "evenintimesofwarthewingofreflectionhasaroletoplayourmostpressingjobisensuringthevowofresolvecanconcentrateonthefightahead",
       "text_en": "Even in times of war, the Wing of Reflection has a role to play. Our most pressing job is ensuring the Vow of Resolve can concentrate on the fight ahead.",
       "text": "แม้ในช่วงสงคราม Wing of Reflection ก็มีบทบาทสำคัญ งานที่เร่งด่วนที่สุดของเราคือการทำให้ ท่านสัญญาแห่งปณิธาน มีสมาธิกับการต่อสู้ที่อยู่ข้างหน้า"
     },
     {
-      "character": "Baitabrik",
+      "key": "baitabriksfavoritepotswereshattersmashedduringthechaosofthebigflusterfightandaaaghnowhisankleissprainedbuttheseareonlysmallfrets",
       "text_en": "Baitabrik's favorite pots were shattersmashed during the chaos of the big flusterfight, and─aaagh!─now his ankle is sprained. But these are only smallfrets.",
       "text": "หม้อใบโปรดของ Baitabrik พังทลายลงระหว่างความวุ่นวายของการต่อสู้ครั้งใหญ่ และ─aaagh!─ตอนนี้ข้อเท้าของเขาแพลง แต่สิ่งเหล่านี้เป็นเพียงเฟรตเล็กๆ เท่านั้น"
     },
     {
-      "character": "Baitabrik",
+      "key": "moreimportantlyisthecitysafenoworstillcrawlingwithdangerfrightsanynewsoftheinbreakers",
       "text_en": "More importantly, is the city safe now, or still crawling with dangerfrights? Any news of the inbreakers?",
       "text": "ที่สำคัญกว่านั้น ตอนนี้เมืองนี้ปลอดภัยแล้วหรือยังคลานไปด้วยความหวาดกลัวต่ออันตราย? มีข่าวคนบุกรุกบ้างไหม?"
     },
     {
-      "character": "Hunmu Hoh",
+      "key": "wevescarcelyhadtimetowelcomeournewrulersandnowthiscantwehaveadayofpeaceinthisdamnedcountry",
       "text_en": "We've scarcely had time to welcome our new rulers, and now this? Can't we have a day of peace in this damned country?",
       "text": "เราแทบไม่มีเวลาต้อนรับผู้ปกครองคนใหม่ของเรา แล้วตอนนี้ล่ะ? เราไม่สามารถมีวันแห่งสันติภาพในประเทศที่ถูกสาปนี้ได้หรือไม่?"
     },
     {
-      "character": "Pyatta",
+      "key": "timesliketheseareexactlywhywekeepcarefulrecordsofeverythingnowthecratesinthebackarefromlimsalominsaandwaitwerentthoseinthefrontughnowimconfused",
       "text_en": "Times like these are exactly why we keep careful records of everything! Now, the crates in the back are from Limsa Lominsa, and─wait, weren't those in the front? Ugh, now I'm confused...",
       "text": "ช่วงเวลาเช่นนี้เป็นเหตุผลว่าทำไมเราถึงเก็บบันทึกทุกอย่างอย่างระมัดระวัง! ตอนนี้ลังที่อยู่ด้านหลังมาจาก Limsa Lominsa และ─เดี๋ยวก่อน ไม่ใช่ลังที่อยู่ข้างหน้าเหรอ? เอ่อ ตอนนี้ผมสับสน..."
     },
     {
-      "character": "Level-headed Resident",
+      "key": "istillcantbelievewewereattacked",
       "text_en": "I still can't believe we were attacked...",
       "text": "ฉันยังไม่อยากจะเชื่อว่าเราถูกโจมตี..."
     },
     {
-      "character": "Level-headed Resident",
+      "key": "foramercymyfamilywassparedidontknowwhatiwouldvedonehadtheycometoharm",
       "text_en": "For a mercy, my family was spared. I don't know what I would've done had they come to harm.",
       "text": "เพื่อความเมตตา ครอบครัวของข้าพเจ้าจึงได้ไว้ชีวิต ฉันไม่รู้ว่าฉันจะทำอะไรถ้าพวกเขาได้รับอันตราย"
     },
     {
-      "character": "Level-headed Resident",
+      "key": "iunderstandvowwuklamatisgoingtomakeanaddresssoonillbethereofcourse",
       "text_en": "I understand Vow Wuk Lamat is going to make an address soon. I'll be there, of course.",
       "text": "ฉันเข้าใจว่า โว้ว วุค ละมาด กำลังจะมีการกล่าวปราศรัยเร็วๆ นี้ ฉันจะอยู่ที่นั่นแน่นอน"
     },
     {
-      "character": "Level-headed Resident",
+      "key": "levelheadedresidentifyouwerecomingtoaskafterusyouneedntbeconcernedmyfamilyisthankfullyunharmed",
       "text_en": "Level-headed Resident: If you were coming to ask after us, you needn't be concerned. My family is thankfully unharmed.",
       "text": "ผู้อยู่อาศัยระดับหัวกะทิ: ถ้าจะมาถามพวกเราก็ไม่ต้องเป็นห่วง โชคดีที่ครอบครัวของฉันไม่ได้รับอันตราย"
     },
     {
-      "character": "Cheerful Resident",
+      "key": "hmcheckingoneveryoneareyou",
       "text_en": "Hm? Checking on everyone, are you?",
       "text": "หืม? เช็คทุกคนแล้วใช่ไหม?"
     },
     {
-      "character": "Cheerful Resident",
+      "key": "thecitysdefinitelyseenbetterdaysbutwecanonlysparesomuchtimeformourningonlybylookingtothefuturecanweovercomethiscrisisandwellallneedtodoourpart",
       "text_en": "The city's definitely seen better days, but we can only spare so much time for mourning. Only by looking to the future can we overcome this crisis─and we'll all need to do our part.",
       "text": "เมืองนี้เห็นวันที่ดีขึ้นอย่างแน่นอน แต่เราก็ทำได้เพียงเผื่อเวลาไว้ไว้ทุกข์เท่านั้น มีเพียงการมองไปสู่อนาคตเท่านั้นที่เราจะสามารถเอาชนะวิกฤตินี้ได้ และเราทุกคนจะต้องทำหน้าที่ในส่วนของเรา"
     },
     {
-      "character": "Cheerful Resident",
+      "key": "ivenodoubtvowwuklamatandvowkoanawillsharesimilarsentimentsattheiraddress",
       "text_en": "I've no doubt Vow Wuk Lamat and Vow Koana will share similar sentiments at their address.",
       "text": "ฉันไม่สงสัยเลยว่า Vow วุค ลามัต และ Vow โคอานา จะมีความรู้สึกคล้ายกันในที่อยู่ของพวกเขา"
     },
     {
-      "character": "Cheerful Resident",
+      "key": "itsabouttimeiwasonmywaytothewingedwalk",
       "text_en": "It's about time I was on my way to the Winged Walk.",
       "text": "ถึงเวลาที่ฉันกำลังเดินทางไป ทางเดินปีกปักษ์"
     },
     {
-      "character": "Dumbfounded Farmer",
+      "key": "iftuliyollalfallstotheenemywhatwillhappentoustoourhomesourfarmseverythingweveworkedsohardtobuild",
       "text_en": "If Tuliyollal falls to the enemy, what will happen to us? To our homes, our farms─everything we've worked so hard to build?",
       "text": "ถ้าทูลิโยลัลล้มศัตรูจะเกิดอะไรขึ้นกับเรา? สำหรับบ้านของเรา ฟาร์มของเรา ทุกอย่างที่เราทำงานหนักเพื่อสร้างมันขึ้นมาเหรอ?"
     },
     {
-      "character": "Dumbfounded Farmer",
+      "key": "livesandcommunitiesandhistoriesallreducedtoashbythesemercilessvillains",
       "text_en": "Lives and communities and histories, all reduced to ash by these merciless villains...",
       "text": "ชีวิต ชุมชน และประวัติศาสตร์ ล้วนถูกสาปให้กลายเป็นเถ้าถ่านโดยเหล่าวายร้ายผู้ไร้ความปรานีเหล่านี้..."
     },
     {
-      "character": "Dumbfounded Farmer",
+      "key": "iheardvowwuklamatisplanningtoaddressthepeoplebutwhatsthepointwhatcansheandherbrotherpossiblyhavetosay",
       "text_en": "I heard Vow Wuk Lamat is planning to address the people, but what's the point? What can she and her brother possibly have to say?",
       "text": "ได้ยินมาว่า โว้ว วุค ละมาด กำลังวางแผนปราศรัยกับประชาชน แต่ประเด็นคืออะไรล่ะ? เธอและน้องชายของเธอจะพูดอะไรได้?"
     },
     {
-      "character": "Dumbfounded Farmer",
+      "key": "reallythedawnservantshaveaplanalreadytheyvelostsomuchyettheyrepreparedtocarryon",
       "text_en": "Really? The Dawnservants have a plan already? They've lost so much, yet they're prepared to carry on.",
       "text": "จริงหรือ Dawnservants มีแผนอยู่แล้วเหรอ? พวกเขาสูญเสียไปมากแต่พวกเขาก็พร้อมที่จะดำเนินต่อไป"
     },
     {
-      "character": "Dumbfounded Farmer",
+      "key": "andstandingaroundworryingaboutwhatstocomewillchangenothing",
       "text_en": "And standing around worrying about what's to come will change nothing...",
       "text": "และการยืนกังวลกับสิ่งที่จะเกิดขึ้นจะไม่เปลี่ยนแปลงอะไร..."
     },
     {
-      "character": "Dumbfounded Farmer",
+      "key": "itwouldbealietosayimhopefulforthefuturebutiwillgohearwhattheyintendtodo",
       "text_en": "It would be a lie to say I'm hopeful for the future, but I will go hear what they intend to do.",
       "text": "คงเป็นเรื่องโกหกที่จะบอกว่าฉันมีความหวังในอนาคต แต่ฉันจะไปฟังว่าพวกเขาตั้งใจจะทำอะไร"
     },
     {
-      "character": "Sorrowful Citizen",
+      "key": "pleaseleavemebe",
       "text_en": "Please, leave me be.",
       "text": "ได้โปรดปล่อยฉันไปเถอะ"
     },
     {
-      "character": "Sorrowful Citizen",
+      "key": "myfatherisgoneleavemetomourn",
       "text_en": "My father is gone. Leave me to mourn.",
       "text": "พ่อของฉันไปแล้ว ปล่อยให้ฉันเสียใจ"
     },
     {
-      "character": "Sorrowful Citizen",
+      "key": "gulooljajaisslainandyetvowwuklamatandvowkoanastillfightforournationforus",
       "text_en": "Gulool Ja Ja is slain? And yet Vow Wuk Lamat and Vow Koana still fight for our nation. For us...",
       "text": "กูลูล จาจา โดนฆ่าเหรอ? แต่ Vow วุค ลามัต และ Vow โคอานา ยังคงต่อสู้เพื่อชาติของเรา สำหรับเรา..."
     },
     {
-      "character": "Sorrowful Citizen",
+      "key": "verywelliftheywouldspeaktheleasticandoislisten",
       "text_en": "Very well. If they would speak, the least I can do is listen.",
       "text": "ดีมาก. ถ้าพวกเขาจะพูด สิ่งเดียวที่ฉันทำได้คือฟัง"
     },
     {
-      "character": "Despairing Alpaca Herder",
+      "key": "itsnotsafeherenotanymoreicouldtrytoleaveturalbutwhereelseistheretogo",
       "text_en": "It's not safe here, not anymore. I could try to leave Tural, but...where else is there to go?",
       "text": "ที่นี่ไม่ปลอดภัยอีกต่อไปแล้ว ฉันสามารถลองออกจาก Tural ได้ แต่...จะมีที่ไหนอีกล่ะ?"
     },
     {
-      "character": "Despairing Alpaca Herder",
+      "key": "youlooklikethewelltraveledsortpleaseicantstayherebutifearnowhereinturalisbeyondtheenemysreachwhatofthelandsacrossthesalt",
       "text_en": "You look like the well-traveled sort. Please, I can't stay here─but I fear nowhere in Tural is beyond the enemy's reach. What of the lands across the salt?",
       "text": "คุณดูเหมือนเป็นคนชอบเที่ยวมาก ได้โปรด ฉันไม่สามารถอยู่ที่นี่ได้─แต่ฉันกลัวว่าไม่มีที่ไหนใน Tural ที่ไกลเกินเอื้อมของศัตรู แล้วดินแดนที่อยู่ตรงข้ามเกลือล่ะ?"
     },
     {
-      "character": "Despairing Alpaca Herder",
+      "key": "iknowiknowevenifiraniknowidregretitintheend",
       "text_en": "I know, I know. Even if I ran, I know I'd regret it in the end.",
       "text": "ฉันรู้ ฉันรู้ แม้ว่าฉันจะวิ่งไป แต่ฉันก็รู้ว่าสุดท้ายจะต้องเสียใจ"
     },
     {
-      "character": "Despairing Alpaca Herder",
+      "key": "iloveturalthisismyhomeandiknowthedawnservantswouldgivetheirlivestodefendher",
       "text_en": "I love Tural. This is my home, and I know the Dawnservants would give their lives to defend her.",
       "text": "ฉันรักทูรัล นี่คือบ้านของฉัน และฉันรู้ว่าเหล่า Dawnservants จะสละชีวิตเพื่อปกป้องเธอ"
     },
     {
-      "character": "Despairing Alpaca Herder",
+      "key": "iwillputmyfaithinthemandlistentowhattheyhavetosay",
       "text_en": "I will put my faith in them, and listen to what they have to say.",
       "text": "ฉันจะเชื่อมั่นในตัวพวกเขาและฟังสิ่งที่พวกเขาพูด"
     },
     {
-      "character": "Composed Merchant",
+      "key": "whewthewaresaremostlyintactgladtidingsformyclients",
       "text_en": "Whew, the wares are mostly intact. Glad tidings for my clients.",
       "text": "ว้าว สินค้าส่วนใหญ่ไม่เสียหาย ข่าวดีสำหรับลูกค้าของฉัน"
     },
     {
-      "character": "Composed Merchant",
+      "key": "ohsorryfriendbutivenotimetosparevowwuklamatandvowkoanawillsoonbegivingapublicaddressandihavetofinishtakinginventorybeforethen",
       "text_en": "Oh! Sorry friend, but I've no time to spare. Vow Wuk Lamat and Vow Koana will soon be giving a public address, and I have to finish taking inventory before then.",
       "text": "โอ้! ขอโทษนะเพื่อน แต่ฉันไม่มีเวลาว่าง โว้ วุค ลามัต และ โว้ โคอาน่า จะมีการกล่าวปราศรัยต่อสาธารณะเร็วๆ นี้ และฉันต้องจัดการรายการสินค้าให้เสร็จก่อนถึงเวลานั้น"
     },
     {
-      "character": "Composed Merchant",
+      "key": "giventhecircumstancesitmustbequiteimportantyoullwanttobethereaswell",
       "text_en": "Given the circumstances, it must be quite important. You'll want to be there as well.",
       "text": "เมื่อพิจารณาจากสถานการณ์แล้ว มันคงมีความสำคัญมากทีเดียว คุณจะต้องการอยู่ที่นั่นเช่นกัน"
     },
     {
-      "character": "Composed Merchant",
+      "key": "onlyafewmorecratesandillbeonmywaytothewingedwalk",
       "text_en": "Only a few more crates and I'll be on my way to the Winged Walk.",
       "text": "เหลืออีกไม่กี่ลังฉันก็จะเดินทางไป ทางเดินปีกปักษ์ แล้ว"
     },
     {
-      "character": "Resting Resident",
+      "key": "phewcleaningupistiringwork",
       "text_en": "Phew. Cleaning up is tiring work.",
       "text": "วุ้ย. การทำความสะอาดเป็นงานที่เหนื่อย"
     },
     {
-      "character": "Resting Resident",
+      "key": "youvebeenbusyhelpingaswellimguessing",
       "text_en": "You've been busy helping as well, I'm guessing?",
       "text": "ฉันเดาว่าคุณคงยุ่งอยู่กับการช่วยเหลือเหมือนกันใช่ไหม?"
     },
     {
-      "character": "Resting Resident",
+      "key": "rightnowitstoughforeveryonebuttuliyollalwontsuccumbtothis",
       "text_en": "Right now it's tough for everyone, but Tuliyollal won't succumb to this.",
       "text": "ตอนนี้มันยากสำหรับทุกคน แต่ Tuliyollal จะไม่ยอมจำนนต่อสิ่งนี้"
     },
     {
-      "character": "Resting Resident",
+      "key": "withthenewdawnservantstoprotectandleaduswellgetthroughittogether",
       "text_en": "With the new Dawnservants to protect and lead us, we'll get through it together.",
       "text": "ด้วย Dawnservants คนใหม่ที่จะปกป้องและนำเรา เราจะผ่านมันไปด้วยกัน"
     },
     {
-      "character": "Resting Resident",
+      "key": "vowwuklamathasaskedwegatheratthewingedwalkyesillbeonmywayafterashortrest",
       "text_en": "Vow Wuk Lamat has asked we gather at the Winged Walk, yes? I'll be on my way after a short rest.",
       "text": "โว้ วุค ละมาด ชวนมารวมตัวกันที่ ทางเดินปีกปักษ์ ใช่ไหม? ฉันจะไปหลังจากพักผ่อนสักพัก"
     },
     {
-      "character": "Paranoid Resident",
+      "key": "icantleavenowwhatifthosesoldierscomeback",
       "text_en": "I can't leave now. What if those soldiers come back?",
       "text": "ฉันไม่สามารถออกไปได้ตอนนี้ แล้วถ้าทหารพวกนั้นกลับมาล่ะ?"
     },
     {
-      "character": "Paranoid Resident",
+      "key": "andwhatarethosestrangemachinesloomingoverheadgodsihavesomanyquestions",
       "text_en": "And what are those strange machines looming overhead? Gods, I have so many questions.",
       "text": "แล้วเครื่องจักรประหลาดๆ พวกนั้นคืออะไรล่ะ? พระเจ้า ฉันมีคำถามมากมาย"
     },
     {
-      "character": "Paranoid Resident",
+      "key": "iseeitwouldputmymindateasetolearnsomethinganythingofthethreatweface",
       "text_en": "I see... It would put my mind at ease to learn something─anything─of the threat we face.",
       "text": "ฉันเข้าใจแล้ว... มันทำให้ฉันสบายใจที่จะเรียนรู้บางสิ่งบางอย่าง─อะไรก็ได้─เกี่ยวกับภัยคุกคามที่เราเผชิญอยู่"
     },
     {
-      "character": "Paranoid Resident",
+      "key": "allrightthenillgotothewingedwalk",
       "text_en": "All right, then. I'll go to the Winged Walk.",
       "text": "เอาล่ะ ฉันจะไปที่ ทางเดินปีกปักษ์"
     },
     {
-      "character": "Paranoid Resident",
+      "key": "thankyouifeelbetteralreadyandlikelybetterstillonceihearwhatthedawnservantshavetosay",
       "text_en": "Thank you. I feel better already, and likely better still once I hear what the Dawnservants have to say.",
       "text": "ขอบคุณ ฉันรู้สึกดีขึ้นแล้ว และคงจะดีขึ้นอีกเมื่อฉันได้ยินสิ่งที่เหล่า Dawnservants พูด"
     },
     {
-      "character": "Stockpiling Citizen",
+      "key": "ineedtostockupfoodandmedicineasmuchasicanandwhatelseisthereicantaffordtoforgetanything",
       "text_en": "I need to stock up food and medicine. As much as I can. And what else is there? I can't afford to forget anything...",
       "text": "ฉันจำเป็นต้องตุนอาหารและยา เท่าที่ทำได้. แล้วมีอะไรอีกบ้าง? ฉันไม่สามารถลืมสิ่งใดได้เลย..."
     },
     {
-      "character": "Stockpiling Citizen",
+      "key": "sorrysirmissbutimbusytoomuchtodoandtoolittletime",
       "text_en": "Sorry, sir / miss , but I'm busy. Too much to do and too little time.",
       "text": "ขอโทษครับ/คุณ แต่ฉันยุ่งอยู่ มีเวลาทำมากเกินไปและมีเวลาน้อยเกินไป"
     },
     {
-      "character": "Stockpiling Citizen",
+      "key": "theresnotellingwhenthosestonemenwillreturnihavetogetoutofherefindsomewheresafe",
       "text_en": "There's no telling when those stone men will return. I have to get out of here, find somewhere safe.",
       "text": "ไม่มีการบอกว่ามนุษย์หินเหล่านั้นจะกลับมาเมื่อใด ฉันต้องออกไปจากที่นี่ หาที่ที่ปลอดภัย"
     },
     {
-      "character": "Stockpiling Citizen",
+      "key": "vowwuklamatwantstospeaktous",
       "text_en": "Vow Wuk Lamat wants to speak to us?",
       "text": "โว้ว วุค ละมาด อยากคุยกับเราเหรอ?"
     },
     {
-      "character": "Stockpiling Citizen",
+      "key": "perhapsshehasaplanthenisupposetheresnoharminhearingwhatshehastosay",
       "text_en": "Perhaps she has a plan, then. I suppose there's no harm in hearing what she has to say.",
       "text": "บางทีเธออาจจะมีแผนแล้วก็ได้ ฉันคิดว่าการได้ยินสิ่งที่เธอพูดไม่เสียหาย"
     },
     {
-      "character": "Flustered Citizen",
+      "key": "whateveritisidonthavetimeihavetofinishrepairingthiscart",
       "text_en": "Whatever it is, I don't have time. I have to finish repairing this cart.",
       "text": "อะไรก็ได้ฉันไม่มีเวลา ฉันต้องซ่อมรถเข็นนี้ให้เสร็จ"
     },
     {
-      "character": "Flustered Citizen",
+      "key": "theresonlysomuchicancarryonmybackwhenthosehollowdevilscomeagainineedtobeready",
       "text_en": "There's only so much I can carry on my back. When those hollow devils come again, I need to be ready.",
       "text": "มีสิ่งมากมายที่ฉันสามารถแบกขึ้นหลังได้ เมื่อปีศาจกลวงเหล่านั้นกลับมาอีกครั้ง ฉันก็ต้องเตรียมตัวให้พร้อม"
     },
     {
-      "character": "Flustered Citizen",
+      "key": "vowwuklamatandvowkoanameanwellbuttheyreyoungandinexperiencedtheycanbarelylookafterthemselvesifweretosurviveidonotknowifwecancountonthem",
       "text_en": "Vow Wuk Lamat and Vow Koana mean well, but they're young and inexperienced. They can barely look after themselves. If we're to survive, I do not know if we can count on them.",
       "text": "โว้ วุค ลามัต และ โว้ โคอาน่า ทั้งคู่ยังอายุน้อยและไม่มีประสบการณ์ พวกเขาแทบจะไม่สามารถดูแลตัวเองได้ ถ้าเราจะรอดก็ไม่รู้จะพึ่งมันได้ไหม"
     },
     {
-      "character": "Flustered Citizen",
+      "key": "theyregoingtostrikebackattheenemysotheyreresolvedtofacethis",
       "text_en": "They're going to strike back at the enemy? So they're resolved to face this...",
       "text": "พวกเขาจะโจมตีศัตรูกลับเหรอ? พวกเขาจึงตัดสินใจเผชิญสิ่งนี้..."
     },
     {
-      "character": "Flustered Citizen",
+      "key": "maybeitistooearlytobethinkingofrunningalrightillgoandheartheiraddress",
       "text_en": "Maybe it is too early to be thinking of running... Alright, I'll go and hear their address.",
       "text": "อาจจะเร็วเกินไปที่จะคิดวิ่ง... เอาล่ะ ฉันจะไปฟังที่อยู่ของพวกเขา"
     },
     {
-      "character": "Y'shtola",
+      "key": "iwasjustdiscussingthegatetothegoldencitywithketenrammhehasbeenpatientlyansweringmyfewquestions",
       "text_en": "I was just discussing the gate to the golden city with Ketenramm. He has been patiently answering my few questions.",
       "text": "ฉันแค่กำลังคุยเรื่องประตูสู่เมืองสีทองกับ เคเทนรัมม์ เขาอดทนตอบคำถามสองสามข้อของฉัน"
     },
     {
-      "character": "Alphinaud",
+      "key": "didyounotseealisaieonyourwayhere",
       "text_en": "Did you not see Alisaie on your way here?",
       "text": "คุณไม่เห็นอลิเซียระหว่างทางมาที่นี่เหรอ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itseemskrileanderenvillehaveyettoreturnstillbusymakingpreparationsforourexpeditionipresume",
       "text_en": "It seems Krile and Erenville have yet to return. Still busy making preparations for our expedition, I presume.",
       "text": "ดูเหมือนว่าครีล์และเอเรนวิลล์จะยังไม่กลับมา ฉันคิดว่ายังคงยุ่งอยู่กับการเตรียมการเดินทางของเรา"
     },
     {
-      "character": "Koana",
+      "key": "thankyouagainforspreadingwordofouraddressifearthosewhoneededassurancemostwouldnothavebeenpresentotherwise",
       "text_en": "Thank you again for spreading word of our address. I fear those who needed assurance most would not have been present otherwise.",
       "text": "ต้องขอขอบคุณพวกคุณอีกครั้งนะครับที่ช่วยกระจายข่าวสารเรื่องการกล่าวสุนทรพจน์ของเรา ผมเกรงว่าหากไม่ได้ความช่วยเหลือจากพวกคุณ คนที่กำลังขวัญเสียที่สุดก็คงไม่ได้เดินทางมาร่วมฟังในวันนี้แน่ครับ"
     },
     {
-      "character": "Ketenramm",
+      "key": "afewquestionsmorelikeableedinbroadsideofemtookmebacktometimewithgalufitdidsharlayanscholarsiswear",
       "text_en": "\"A few questions“? More like a bleedin' broadside of 'em. Took me back to me time with Galuf, it did. Sharlayan scholars, I swear...",
       "text": "“คำถามสองสามข้อ“? เหมือนกับการที่เลือดออกจากด้านข้างของพวกมัน พาฉันย้อนเวลากลับไปหา Galuf ฉันก็ทำได้ นักวิชาการ Sharlayan ฉันสาบาน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itlookslikeyouvebroughtquiteafewpeoplethankyou",
       "text_en": "It looks like you've brought quite a few people. Thank you.",
       "text": "ดูเหมือนว่าคุณจะพาคนมาจำนวนไม่น้อย ขอบคุณ"
     },
     {
-      "character": "Alphinaud",
+      "key": "alisaiehadactuallyreturnedaheadofyoubutuponhearingthatyouwerestilloutthereshedecidedshewasunsatisfiedwithherowneffortsandleftagain",
       "text_en": "Alisaie had actually returned ahead of you, but upon hearing that you were still out there, she decided she was unsatisfied with her own efforts and left again.",
       "text": "จริงๆ แล้ว อลิเซ กลับมาก่อนคุณแล้ว แต่เมื่อได้ยินว่าคุณยังอยู่ที่นั่น เธอตัดสินใจว่าเธอไม่พอใจกับความพยายามของเธอเองและจากไปอีกครั้ง"
     },
     {
-      "character": "Koana",
+      "key": "myapologiesforinvolvingyouallinturaliaffairs",
       "text_en": "My apologies for involving you all in Turali affairs.",
       "text": "ฉันขอโทษที่ทำให้พวกคุณมีส่วนร่วมในกิจการของ Turali"
     },
     {
-      "character": "Alphinaud",
+      "key": "wearesimplyhelpingdearfriendsinneedhavingtraveledthelandsofturalsharingintherichculturesofyourpeopleicanseeitnootherway",
       "text_en": "We are simply helping dear friends in need. Having traveled the lands of Tural, sharing in the rich cultures of your people, I can see it no other way.",
       "text": "เราเพียงแต่ช่วยเหลือเพื่อนรักที่ต้องการความช่วยเหลือ หลังจากได้เดินทางไปในดินแดนแห่ง Tural แบ่งปันวัฒนธรรมอันมั่งคั่งของผู้คนของคุณแล้ว ฉันมองไม่เห็นด้วยวิธีอื่นเลย"
     },
     {
-      "character": "Alphinaud",
+      "key": "whatsmorezoraaljaandhisarmyposeathreatnotonlytoturalbuttothestarasawhole",
       "text_en": "What's more, Zoraal Ja and his army pose a threat not only to Tural, but to the star as a whole.",
       "text": "ยิ่งไปกว่านั้น โซราล จา และกองทัพของเขายังเป็นภัยคุกคามไม่เพียงแต่ต่อ Tural เท่านั้น แต่ยังรวมถึงดวงดาวโดยรวมด้วย"
     },
     {
-      "character": "Alphinaud",
+      "key": "wewillstandwithyoutoprotectwhatyouholddear",
       "text_en": "We will stand with you, to protect what you hold dear.",
       "text": "เราจะยืนหยัดเคียงข้างคุณเพื่อปกป้องสิ่งที่คุณรัก"
     },
     {
-      "character": "Koana",
+      "key": "thankyou",
       "text_en": "Thank you.",
       "text": "ขอบคุณ"
     },
     {
-      "character": "Alphinaud",
+      "key": "idontexpectyouvehadmuchifanyresthowareyouholdingup",
       "text_en": "I don't expect you've had much, if any, rest. How are you holding up?",
       "text": "ฉันไม่ได้คาดหวังว่าคุณจะพักผ่อนมากนัก ถ้ามี เป็นยังไงกันบ้างคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imfinethankstoalittleencouragementfromforename",
       "text_en": "I'm fine, thanks to a little encouragement from Forename .",
       "text": "สบายดีค่ะ ขอบคุณกำลังใจเล็กๆ น้อยๆ จาก คุณ [ชื่อ] ค่ะ"
     },
     {
-      "character": "Koana",
+      "key": "youneedntworryaboutmeeither",
       "text_en": "You needn't worry about me either.",
       "text": "คุณไม่จำเป็นต้องกังวลเกี่ยวกับฉันเช่นกัน"
     },
     {
-      "character": "Koana",
+      "key": "whateverwearinessifeelisnomatchformydesiretoprotectmypeople",
       "text_en": "Whatever weariness I feel is no match for my desire to protect my people.",
       "text": "ไม่ว่าฉันรู้สึกเหนื่อยล้าแค่ไหนก็ไม่ตรงกับความปรารถนาที่จะปกป้องผู้คนของฉัน"
     },
     {
-      "character": "Koana",
+      "key": "wewillrestorepeacetothenationandpreserveourfatherslegacy",
       "text_en": "We will restore peace to the nation and preserve our father's legacy...",
       "text": "เราจะคืนความสงบสุขให้ชาติและสืบสานมรดกของพ่อเรา..."
     },
     {
-      "character": "Koana",
+      "key": "anditbeginsbyspeakingtothepeoplefromourhearts",
       "text_en": "And it begins by speaking to the people from our hearts.",
       "text": "และเริ่มต้นจากการพูดคุยกับผู้คนจากใจของเรา"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "right",
       "text_en": "Right!",
       "text": "ขวา!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "weneedtoseetoafewthingsfirstbutfeelfreetogoaheadtotheplazaandwait",
       "text_en": "We need to see to a few things first, but feel free to go ahead to the plaza and wait.",
       "text": "พวกเราต้องขอเวลาตระเตรียมงานเอกสารเล็กน้อยก่อนค่ะ แต่พวกคุณสามารถเดินทางล่วงหน้าไปยืนรอที่ลานกว้างก่อนได้เลยนะคะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "theirfatherraisedthemwell",
       "text_en": "Their father raised them well.",
       "text": "พ่อของพวกเขาเลี้ยงดูพวกเขาอย่างดี"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thathedid",
       "text_en": "That he did.",
       "text": "ที่เขาทำ."
     },
     {
-      "character": "Koana",
+      "key": "lamatyiareyouallright",
       "text_en": "Lamaty'i, are you all right?",
       "text": "ลามาตี คุณสบายดีไหม?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yesdontworry",
       "text_en": "Yes. Don't worry.",
       "text": "ใช่. ไม่ต้องกังวล."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imreadyforitthefearandsadnessandangereverything",
       "text_en": "I'm ready for it. The fear and sadness and anger─everything.",
       "text": "ฉันพร้อมสำหรับมัน ความกลัวและความโศกเศร้าและความโกรธ─ทุกสิ่งทุกอย่าง"
     },
     {
-      "character": "Koana",
+      "key": "iamthereasontoyourresolvebutmorethanthatiamyourbrotheryouneedntbearthisburdenalonerememberthis",
       "text_en": "I am the reason to your resolve. But more than that, I am your brother. You needn't bear this burden alone. Remember this.",
       "text": "ผมคือสติปัญญาเคียงข้างปณิธานของคุณหนูวุค ลามัตครับ... แต่ยิ่งไปกว่านั้น ผมคือพี่ชายของคุณด้วยนะ น้องพี่... เจ้าไม่จำเป็นต้องแบกรับภาระอันหนักอึ้งนี้ไว้เพียงลำพังหรอก จำเรื่องนี้ไว้ให้ดีเถอะนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asyoulikelyalreadyknowmyfatherourformerdawnservantlosthislifeintherecentattack",
       "text_en": "As you likely already know, my father, our former Dawnservant, lost his life in the recent attack.",
       "text": "อย่างที่คุณรู้อยู่แล้ว พ่อของฉัน อดีต Dawnservant ของเรา เสียชีวิตจากการโจมตีครั้งล่าสุด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hechallengedtheenemyleadertoaduelandfoughtwithskillandvalorandforamomentwebelievedhehadwon",
       "text_en": "He challenged the enemy leader to a duel and fought with skill and valor. And for a moment, we believed he had won.",
       "text": "เขาท้าทายผู้นำศัตรูให้ดวลและต่อสู้ด้วยทักษะและความกล้าหาญ และชั่วขณะหนึ่ง เราก็เชื่อว่าเขาชนะแล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butwieldinganunknownpowerhisfoereturnedfromdeathandstruckhimdown",
       "text_en": "But wielding an unknown power, his foe returned from death and struck him down.",
       "text": "แต่ด้วยพลังที่ไม่รู้จัก ศัตรูของเขากลับมาจากความตายและโจมตีเขาล้มลง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icouldonlywatchasthishappenedicouldnottarnishmyfathershonorbyinterfering",
       "text_en": "I could only watch as this happened. I could not tarnish my father's honor by interfering.",
       "text": "ฉันทำได้เพียงเฝ้าดูสิ่งนี้เกิดขึ้น ฉันไม่สามารถทำให้เกียรติของพ่อเสื่อมเสียด้วยการแทรกแซง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "manyofyouhavesufferedterriblyyouvetakenwoundsyouvelostfriendsandfamily",
       "text_en": "Many of you have suffered terribly. You've taken wounds. You've lost friends and family.",
       "text": "หลายท่านได้รับความเดือดร้อนสาหัส คุณได้รับบาดแผล คุณสูญเสียเพื่อนและครอบครัวไป"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asvowofresolveifailedinmydutytoprotectyouwordscantexpresstheshameandregretifeel",
       "text_en": "As Vow of Resolve, I failed in my duty to protect you. Words can't express the shame and regret I feel.",
       "text": "ในฐานะคำปฏิญาณแห่งการแก้ไข ฉันล้มเหลวในหน้าที่การปกป้องคุณ คำพูดไม่สามารถแสดงความอับอายและความเสียใจที่ฉันรู้สึกได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andasmuchasitpainsmetorevealthistheenemyleaderwasnoneotherthanmybrotherzoraalja",
       "text_en": "And as much as it pains me to reveal this, the enemy leader was none other than my brother Zoraal Ja.",
       "text": "และถึงแม้ว่าฉันจะเจ็บปวดที่ต้องเปิดเผยสิ่งนี้ ผู้นำศัตรูก็ไม่ใช่ใครอื่นนอกจากโซราล จา พี่ชายของฉัน"
     },
     {
-      "character": "Shetona Youth",
+      "key": "zoraalja",
       "text_en": "Zoraal Ja!?",
       "text": "โซราล จา!?"
     },
     {
-      "character": "Xbr'aal Youth",
+      "key": "itstrueisawhim",
       "text_en": "It's true! I saw him!",
       "text": "มันเป็นเรื่องจริง! ฉันเห็นเขา!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "webelievehestagedtheattackfromyyasulaniwhichhasbeenencasedwithinamysteriousdomeiknowthatyoureconcernedforyourlovedonesthereaswell",
       "text_en": "We believe he staged the attack from Yyasulani, which has been encased within a mysterious dome. I know that you're concerned for your loved ones there as well.",
       "text": "เราเชื่อว่าเขาจัดฉากการโจมตีจาก ยาสุลานี ซึ่งถูกห่อหุ้มอยู่ภายในโดมลึกลับ ฉันรู้ว่าคุณก็เป็นห่วงคนที่คุณรักเช่นกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butmarkmywordsiwontletzoraaljatormentusanyfurtherourfathergavehislifetoprotectournationandimpreparedtodothesame",
       "text_en": "But mark my words: I won't let Zoraal Ja torment us any further. Our father gave his life to protect our nation, and I'm prepared to do the same.",
       "text": "แต่จำคำพูดของฉันไว้: ฉันจะไม่ยอมให้โซราล จา ทรมานเราอีกต่อไป พ่อของเราสละชีวิตเพื่อปกป้องชาติของเรา และฉันก็พร้อมที่จะทำเช่นเดียวกัน"
     },
     {
-      "character": "Tonawawtan Onlooker",
+      "key": "yousaythatbutthosemetalmonstrositiesarestillupthereintheskywhatareyougoingtodoaboutthem",
       "text_en": "You say that, but those metal monstrosities are still up there in the sky! What are you going to do about them!?",
       "text": "คุณพูดอย่างนั้น แต่ความชั่วร้ายของโลหะเหล่านั้นยังคงอยู่บนท้องฟ้า! คุณจะทำอย่างไรกับพวกเขา!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theenemyisstillonourdoorstepandwaitingforthemtostrikeagainaccomplishesnothing",
       "text_en": "The enemy is still on our doorstep, and waiting for them to strike again accomplishes nothing.",
       "text": "ศัตรูยังคงอยู่ที่หน้าประตูบ้านของเรา และการรอให้พวกเขาโจมตีอีกครั้งก็ไม่ประสบผลสำเร็จเลย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatswhyweregoingtostrikefirstweregoingtotakethebattlestraighttozoraaljaandputanendtoitall",
       "text_en": "That's why we're going to strike first. We're going to take the battle straight to Zoraal Ja and put an end to it all.",
       "text": "นั่นเป็นเหตุผลที่เราจะโจมตีก่อน เราจะทำการต่อสู้ตรงไปที่ โซราล จา และยุติมันทั้งหมด"
     },
     {
-      "character": "Koana",
+      "key": "andwhilemysistersalliesforthiwilltakechargeofthecitysdefensesnotanothersoulwillcometoharmwesweartoyou",
       "text_en": "And while my sister sallies forth, I will take charge of the city's defenses. Not another soul will come to harm, we swear to you.",
       "text": "และในขณะที่พี่สาวของฉันออกไปข้างนอก ฉันจะดูแลการป้องกันเมือง ไม่มีวิญญาณอื่นมาทำอันตรายเราสาบานกับคุณ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "likeourfatherbeforeuswewillleadwithresolveandreasontorestorepeacetoournationsopleasehavepatienceandfaith",
       "text_en": "Like our father before us, we will lead with resolve and reason to restore peace to our nation. So please, have patience and faith.",
       "text": "เช่นเดียวกับบิดาของเราก่อนหน้าเรา เราจะเป็นผู้นำด้วยความมุ่งมั่นและเหตุผลเพื่อนำสันติสุขกลับคืนมาสู่ประเทศของเรา ดังนั้นโปรดอดทนและศรัทธา"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "gehehehe",
       "text_en": "Gehehehe!",
       "text": "เกอเฮ่เฮ่!"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "sotheresolvegoesontheattackwhilereasonshoresupthedefensessoundslikeafineplan",
       "text_en": "So the resolve goes on the attack while reason shores up the defenses... Sounds like a fine plan.",
       "text": "ดังนั้นการแก้ไขจึงดำเนินต่อไปในการโจมตี ในขณะที่เหตุผลก็เสริมการป้องกัน... ฟังดูเหมือนเป็นแผนที่ดี"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "needlesstosayyoucancountonmyswordturalsmyhomeandilldomypartforit",
       "text_en": "Needless to say you can count on my sword. Tural's my home, and I'll do my part for it!",
       "text": "ไม่ต้องบอกว่าคุณสามารถวางใจในดาบของฉันได้ Tural คือบ้านของฉัน และฉันจะทำหน้าที่ของฉันเอง!"
     },
     {
-      "character": "Bakool Ja Ja the Mystic",
+      "key": "hearhearbrother",
       "text_en": "Hear, hear, Brother!",
       "text": "ได้ยินได้ยินพี่ชาย!"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "thatmakestwoofuserorwasthattwoofwebahnevermindthat",
       "text_en": "That makes two of us! Er, or was that two of we? Bah, never mind that.",
       "text": "นั่นทำให้เราสองคน! เอ่อ หรือว่าพวกเราสองคน? เอ่อ ไม่เป็นไรหรอก"
     },
     {
-      "character": "Bakool Ja Ja the Mighty",
+      "key": "whatoftherestofyouwillyouletothersdotheworkorwillyoudoyourpartandfight",
       "text_en": "What of the rest of you? Will you let others do the work? Or will you do your part and fight!?",
       "text": "แล้วพวกคุณที่เหลือล่ะ? คุณจะปล่อยให้คนอื่นทำงานหรือไม่? หรือคุณจะทำหน้าที่ของคุณและต่อสู้!?"
     },
     {
-      "character": "Elderly Hanu",
+      "key": "wefightwefightweretuliyollansbecausewereunitedwellstandwithyouandweatherthisstorm",
       "text_en": "We fight, we fight! We're Tuliyollans because we're united! We'll stand with you and weather this storm!",
       "text": "เราสู้ เราสู้! เราคือ Tuliyollans เพราะเรารวมเป็นหนึ่ง! เราจะยืนหยัดเคียงข้างคุณและฝ่าฟันพายุลูกนี้!"
     },
     {
-      "character": "Tonawawtan Onlooker",
+      "key": "hesrightthisisournationanditfallstoustoprotectit",
       "text_en": "He's right. This is our nation and it falls to us to protect it.",
       "text": "เขาพูดถูก. นี่คือชาติของเราและตกเป็นหน้าที่ของเราที่จะปกป้องมัน"
     },
     {
-      "character": "Tuliyollan Youth",
+      "key": "wellfighttoofortuliyollal",
       "text_en": "We'll fight too! For Tuliyollal!",
       "text": "เราก็จะสู้เหมือนกัน! เพื่อทูลิโยลัล!"
     },
     {
-      "character": "Hhetsarro Youth",
+      "key": "metoometoo",
       "text_en": "Me too! Me too!",
       "text": "ฉันด้วย! ฉันด้วย!"
     },
     {
-      "character": "Hoobigo Onlooker",
+      "key": "werealltogetherinthis",
       "text_en": "We're all together in this!",
       "text": "เราทุกคนอยู่ด้วยกันในเรื่องนี้!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyoueveryonethankyou",
       "text_en": "Thank you, everyone! Thank you!",
       "text": "ขอบคุณทุกคน! ขอบคุณ!"
     },
     {
-      "character": "Koana",
+      "key": "wevealreadylearnedmuchaboutourfoeandwewillcontinuetolearnmoreintimewewillhavethemeanstomaketheirwarshipsfallfromthesky",
       "text_en": "We've already learned much about our foe, and we will continue to learn more. In time, we will have the means to make their warships fall from the sky.",
       "text": "เราได้เรียนรู้มากมายเกี่ยวกับศัตรูของเราแล้ว และเราจะเรียนรู้เพิ่มเติมต่อไป เมื่อเวลาผ่านไป เราจะมีวิธีทำให้เรือรบของพวกเขาตกลงมาจากท้องฟ้า"
     },
     {
-      "character": "Koana",
+      "key": "whenwejoinhandswithourcountrymenandouralliesfromafarwerestrongerthanwedaretohope",
       "text_en": "When we join hands with our countrymen and our allies from afar, we're stronger than we dare to hope!",
       "text": "เมื่อเราจับมือกับเพื่อนร่วมชาติและพันธมิตรจากแดนไกล เราก็แข็งแกร่งกว่าที่เรากล้าหวัง!"
     },
     {
-      "character": "Koana",
+      "key": "togetherletusshowtheenemythemightoftuliyollal",
       "text_en": "Together, let us show the enemy the might of Tuliyollal!",
       "text": "ร่วมกันแสดงให้ศัตรูเห็นถึงพลังของ Tuliyollal!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youarethebeatingheartofournationeachandeveryoneofyou",
       "text_en": "You are the beating heart of our nation. Each and every one of you!",
       "text": "คุณคือหัวใจที่เต้นแรงของประเทศของเรา พวกคุณแต่ละคน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "uncertaindayslieaheadbutfornowiaskyoutoperseveretogoaboutyourlivesasyoualwaysdo",
       "text_en": "Uncertain days lie ahead, but for now I ask you to persevere. To go about your lives as you always do.",
       "text": "วันที่ไม่แน่นอนรออยู่ข้างหน้า แต่ตอนนี้ฉันขอให้คุณอดทน ที่จะดำเนินชีวิตของคุณเหมือนเช่นเคย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "onlythencanweensurewehavetheresourcestoseeournationthroughthesetrials",
       "text_en": "Only then can we ensure we have the resources to see our nation through these trials.",
       "text": "เมื่อนั้นเท่านั้นที่เราจะมั่นใจได้ว่าเรามีทรัพยากรที่จะได้เห็นประเทศของเราผ่านการทดลองเหล่านี้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andwhenthetimecomeswewillstrike",
       "text_en": "And when the time comes, we will strike!",
       "text": "และเมื่อถึงเวลาเราจะโจมตี!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "tuliyollalwillnotfallwewillprevailandpeaceandhappinesswillbeoursagain",
       "text_en": "Tuliyollal will not fall! We will prevail, and peace and happiness will be ours again!",
       "text": "ทูลิโยลัลไม่ล้ม! เราจะมีชัย และความสงบสุขและความสุขจะกลับมาเป็นของเราอีกครั้ง!"
     },
     {
-      "character": "Erenville",
+      "key": "shedidwell",
       "text_en": "...She did well.",
       "text": "...เธอทำได้ดี."
     },
     {
-      "character": "Y'shtola",
+      "key": "itisinspiringtoseesuchdiversepeoplesrallyasone",
       "text_en": "It is inspiring to see such diverse peoples rally as one.",
       "text": "นับเป็นแรงบันดาลใจที่ได้เห็นผู้คนหลากหลายรวมตัวกันเป็นหนึ่งเดียว"
     },
     {
-      "character": "Krile",
+      "key": "thepeopleofturalhavecometogetherforthisfightwemustendeavornottofailthem",
       "text_en": "The people of Tural have come together for this fight. We must endeavor not to fail them.",
       "text": "ชาว Tural รวมตัวกันเพื่อการต่อสู้ครั้งนี้ เราต้องพยายามไม่ล้มเหลว"
     },
     {
-      "character": "Alisaie",
+      "key": "imgladtoseesomanypeoplecameiwasntsurehowmanyihadwonoversoidecidedtokeepatit",
       "text_en": "I'm glad to see so many people came. I wasn't sure how many I had won over, so I decided to keep at it.",
       "text": "ฉันดีใจที่มีคนมามากมาย ฉันไม่แน่ใจว่าฉันชนะมาได้มากแค่ไหน ดังนั้นฉันจึงตัดสินใจทำต่อไป"
     },
     {
-      "character": "Alphinaud",
+      "key": "thatwasarousingspeechwasitnotletusdoourparttoensurethatthedawnservantscanfulfilltheirpromisetothepeople",
       "text_en": "That was a rousing speech, was it not? Let us do our part to ensure that the Dawnservants can fulfill their promise to the people.",
       "text": "นั่นเป็นคำพูดที่เร้าใจมิใช่หรือ? ให้เราทำหน้าที่ในส่วนของเราเพื่อให้แน่ใจว่า Dawnservants สามารถปฏิบัติตามคำสัญญาที่ให้ไว้กับผู้คนได้"
     },
     {
-      "character": "G'raha Tia",
+      "key": "listeningtowuklamatandkoanaiwasremindedofmytimeinthefirst",
       "text_en": "Listening to Wuk Lamat and Koana, I was reminded of my time in the First.",
       "text": "เมื่อฟัง วุค ลามัต และ โคอานา ฉันก็นึกถึงสมัยในภาคแรก"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whiletheexarchwasnokingioftenfoundmyselfspeakingbeforethepeopleofthecrystariuminlikemannerandthroughtheirdeedstheyansweredme",
       "text_en": "While the Exarch was no king, I often found myself speaking before the people of the Crystarium in like manner. And through their deeds, they answered me.",
       "text": "แม้ว่า Exarch จะไม่ใช่ราชา แต่ฉันมักจะพบว่าตัวเองกำลังพูดต่อหน้าผู้คนใน Crystarium ในลักษณะเดียวกัน และโดยการกระทำของพวกเขาพวกเขาตอบฉัน"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thepeopleofturaltoowillrisetotheoccasionthisicantell",
       "text_en": "The people of Tural, too, will rise to the occasion. This I can tell.",
       "text": "ชาวเมืองทูราลก็จะลุกขึ้นมาร่วมงานด้วย เรื่องนี้ผมบอกได้เลย"
     }

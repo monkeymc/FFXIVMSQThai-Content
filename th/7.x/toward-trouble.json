@@ -1,361 +1,353 @@
 {
-  "id": "toward-trouble",
-  "wiki_path": "/wiki/Toward_Trouble",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.4",
-  "title_en": "Toward Trouble",
-  "title": "มุ่งสู่วิกฤต",
-  "level": "100",
-  "location": "Treno(X:10.9,Y:10.1)",
-  "npc_start": "Krile",
+  "quest_id": "toward-trouble",
   "dialogues": [
     {
-      "character": "Eyaney",
+      "key": "grandmotherusedtotellusstoriesofthemilallahomelandallthetimebutitwasthepartwheretheoceanfrozeoverthatalwaysfascinatedmemostthevastopenseaturnedtoiceimagine",
       "text_en": "Grandmother used to tell us stories of the Milalla homeland all the time, but it was the part where the ocean froze over that always fascinated me most. The vast, open sea, turned to ice? Imagine!",
       "text": "คุณยายมักจะเล่าเรื่องราวเกี่ยวกับมาตุภูมิของชาวมิลาลลาให้พวกเราฟังอยู่ตลอดเลยค่ะ แต่เรื่องตอนที่มหาสมุทรจับตัวเป็นน้ำแข็งต่างหากที่ทำให้ฉันรู้สึกทึ่งที่สุด ท้องทะเลอันกว้างใหญ่ไพศาลกลับกลายเป็นน้ำแข็งไปหมดงั้นเหรอคะ? ลองจินตนาการดูสิคะ!"
     },
     {
-      "character": "Krile",
+      "key": "earlieryousaidthatyourbrothercouldntgetintotoomuchtroubleifhewaswithrahabuthowmuchtroubleisthatpreciselyonewouldthinktheyoughttohavereturnedbynow",
       "text_en": "Earlier, you said that your brother couldn't get into too much trouble if he was with Raha, but how much trouble is that, precisely? One would think they ought to have returned by now...",
       "text": "ก่อนหน้านี้คุณบอกว่าน้องชายของคุณคงไม่ไปก่อเรื่องวุ่นวายอะไรใหญ่โตถ้าอยู่กับระฮะใช่ไหมคะ แต่ปัญหามันจะวุ่นวายขนาดไหนกันแน่ล่ะคะนั่น? อันที่จริงป่านนี้ก็น่าจะกลับมากันได้แล้วนะคะ..."
     },
     {
-      "character": "Krile",
+      "key": "converselyihadntexpectedtoseethetwoofyouagainsosoonitakeitmiayliscuriosityissated",
       "text_en": "...Conversely, I hadn't expected to see the two of you again so soon! I take it Miayli's curiosity is sated?",
       "text": "...แต่จะว่าไป ฉันก็ไม่นึกว่าจะได้พบพวกคุณสองคนเร็วขนาดนี้เลยล่ะค่ะ! ดูท่าว่าความอยากรู้อยากเห็นของมิอายลีจะได้รับการตอบสนองเรียบร้อยแล้วใช่ไหมจ๊ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "forthemoment",
       "text_en": "For the moment.",
       "text": "สำหรับในตอนนี้ก็นับว่าเป็นเช่นนั้นค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "igaveherabriefaccountofthesituationinalexandriaaswellaseventsinvolvingthekey",
       "text_en": "I gave her a brief account of the situation in Alexandria, as well as events involving the key.",
       "text": "ฉันได้เล่าสถานการณ์ในอเล็กซานเดรีย รวมถึงเหตุการณ์ต่างๆ ที่เกี่ยวกับกุญแจให้เธอฟังคร่าวๆ แล้วค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "shewasmostinterestedinthelatterinfactitseemssheknewofthereliclongbeforewedidandwishestodiscussitwitheveryonewouldyoubeabletojoinus",
       "text_en": "She was most interested in the latter. In fact, it seems she knew of the relic long before we did, and wishes to discuss it with everyone. Would you be able to join us?",
       "text": "ดูเหมือนเธอจะสนใจเรื่องหลังเป็นพิเศษทีเดียวล่ะ อันที่จริง ดูเหมือนเธอจะรู้จักโบราณวัตถุชิ้นนี้มานานก่อนพวกเราเสียอีก และต้องการจะพูดคุยเรื่องนี้กับทุกคนด้วย คุณพอจะมาร่วมคุยกับพวกเราได้ไหม?"
     },
     {
-      "character": "Krile",
+      "key": "ishouldlovetogostraightawaybutweareawaitingrahasreturn",
       "text_en": "I should love to go straightaway, but we are awaiting Raha's return...",
       "text": "ใจจริงฉันก็อยากจะไปเสียเดี๋ยวนี้เลยล่ะค่ะ แต่พวกเรายังต้องรอระฮะกลับมาอยู่เลย..."
     },
     {
-      "character": "Y'shtola",
+      "key": "aswespeakmiayliherselfismakingherroundsthroughthecitywehavetime",
       "text_en": "As we speak, Miayli herself is making her rounds through the city. We have time.",
       "text": "ในตอนนี้ตัวมิอายลีเองก็กำลังเดินตรวจตราไปทั่วเมืองอยู่ล่ะนะ เรายังมีเวลาเหลือเฟือ"
     },
     {
-      "character": "Y'shtola",
+      "key": "iwasntcertainifweshoulddivulgeanyinformationconcerningthekeybutalexandriaspresentlocationisdifficulttoexplainwithoutmentioningitfortunatelyitturnedoutforthebest",
       "text_en": "I wasn't certain if we should divulge any information concerning the key, but Alexandria's present location is difficult to explain without mentioning it. Fortunately, it turned out for the best.",
       "text": "ทีแรกฉันยังชั่งใจอยู่เลยว่าสมควรจะเปิดเผยข้อมูลเรื่องกุญแจดีหรือไม่ ทว่าหากไม่เอ่ยถึงมัน ก็คงยากจะอธิบายเรื่องพิกัดที่ตั้งในปัจจุบันของอเล็กซานเดรียได้ แต่โชคดีที่ผลลัพธ์ลงเอยด้วยดีล่ะนะ"
     },
     {
-      "character": "Krile",
+      "key": "ifthemilallaarrivedintrenoimmediatelyafterfleeingthesourceicanunderstandhowitsmayormightbeprivytoknowledgeofthekeyparticularlywhenthatmayorisamilallaherself",
       "text_en": "If the Milalla arrived in Treno immediately after fleeing the Source, I can understand how its mayor might be privy to knowledge of the key. Particularly when that mayor is a Milalla herself...",
       "text": "หากชาวมิลาลลาเดินทางมาถึงเทรโนทันทีหลังจากหลบหนีมาจากโลกปฐมภูมิ (Source) ฉันก็พอจะเข้าใจได้ล่ะค่ะว่าทำไมท่านนายกเทศมนตรีถึงได้รู้เรื่องกุญแจด้วย โดยเฉพาะเมื่อนายกเทศมนตรีท่านนั้นเองก็เป็นชาวมิลาลลาด้วยแบบนี้..."
     },
     {
-      "character": "Sphene",
+      "key": "ihaveamindtoreestablishdiplomaticrelationswithtrenobutitgoeswithoutsayingthattherearelogisticalchallengesgivenourrespectivelocations",
       "text_en": "I have a mind to reestablish diplomatic relations with Treno, but it goes without saying that there are logistical challenges given our respective locations.",
       "text": "ฉันเองก็คิดอยากจะฟื้นฟูความสัมพันธ์ทางการทูตกับเทรโนอยู่เหมือนกันค่ะ ทว่าการเดินทางขนส่งระหว่างสองเมืองย่อมมีอุปสรรคใหญ่หลวงนักเมื่อดูจากตำแหน่งที่ตั้งของพวกเราในยามนี้..."
     },
     {
-      "character": "Sphene",
+      "key": "theleastoftheseisthatanytravelwouldrequirepassagethroughturaltobeginwithishallhavetoconsultwithgossanandthevowofresolve",
       "text_en": "The least of these is that any travel would require passage through Tural. To begin with, I shall have to consult with Gossan and the Vow of Resolve.",
       "text": "อย่างน้อยที่สุด การเดินทางสัญจรก็จำเป็นต้องผ่านดินแดนทูรัลค่ะ ดังนั้นในเบื้องต้น ฉันคงต้องขอปรึกษาหารือกับคุณกอสซันและท่านสัญญาแห่งปณิธานเสียก่อนค่ะ"
     },
     {
-      "character": "Eyaney",
+      "key": "alexandriathekingdompastthemountainstheonethatvanished",
       "text_en": "Alexandria!? The kingdom past the mountains? The one that vanished ?",
       "text": "อเล็กซานเดรียงั้นเหรอคะ!? อาณาจักรที่ตั้งอยู่หลังเทือกเขาโน้นน่ะเหรอคะ? เมืองที่จู่ๆ ก็หายสาบสูญไปน่ะเหรอคะ?"
     },
     {
-      "character": "Eyaney",
+      "key": "ihadwonderedwhereyoulotcamefrombutthatwasntmyfirstguessormyfifthforthatmatter",
       "text_en": "I had wondered where you lot came from, but that wasn't my first guess. Or my fifth, for that matter.",
       "text": "ฉันเองก็เคยนึกสงสัยอยู่เหมือนกันค่ะว่าพวกคุณเดินทางมาจากไหนกันแน่ แต่ให้ตายยังไงก็นึกไม่ถึงเรื่องนั้นเป็นอันดับแรกหรอกค่ะ... หรือต่อให้เดาสักห้าครั้งก็ไม่มีทางถูกแน่ๆ ค่ะ"
     },
     {
-      "character": "Lumull",
+      "key": "werebackthemineisinworkingorderimpleasedtosay",
       "text_en": "We're back! The mine is in working order, I'm pleased to say.",
       "text": "พวกเรากลับมาแล้วครับ! ยินดีที่จะบอกว่าเหมืองแร่กลับมาเปิดใช้งานได้ตามปกติแล้วล่ะครับ"
     },
     {
-      "character": "Lumull",
+      "key": "electropeisbeingdeliveredforthebarrierevenaswespeak",
       "text_en": "Electrope is being delivered for the barrier even as we speak!",
       "text": "ตอนนี้กำลังมีการลำเลียงอิเล็กโทรปไปใช้สำหรับม่านบาเรียอยู่พอดีเลยครับ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "haveyoutwofinishedregalingthemayor",
       "text_en": "Have you two finished regaling the mayor?",
       "text": "พวกนายเล่าเรื่องต้อนรับท่านนายกเทศมนตรีกันเสร็จเรียบร้อยแล้วใช่ไหม?"
     },
     {
-      "character": "Y'shtola",
+      "key": "wehave",
       "text_en": "We have.",
       "text": "เรียบร้อยดีแล้วล่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "thoughshehasherownstorytotellofthekeyinfactwethoughtyoumightliketojoinusatthe",
       "text_en": "Though she has her own story to tell─of the key, in fact. We thought you might like to join us at the─",
       "text": "ทว่าเธอก็มีเรื่องเล่าของฝั่งเธอเองเช่นกัน... ซึ่งเกี่ยวกับเรื่องกุญแจเสียด้วยสิ พวกเราคิดว่าคุณน่าจะอยากไปร่วมฟังด้วยกันที่—"
     },
     {
-      "character": "Railway Monitoring System",
+      "key": "thisisanevacuationalert",
       "text_en": "This is an evacuation alert.",
       "text": "นี่คือประกาศแจ้งเตือนภัยอพยพ"
     },
     {
-      "character": "Railway Monitoring System",
+      "key": "allcitizenspleaseproceedtoemergencysheltersrepeatpleaseproceedtoemergencyshelters",
       "text_en": "All citizens, please proceed to emergency shelters. Repeat: please proceed to emergency shelters.",
       "text": "ขอให้ประชาชนทุกท่านเดินทางไปยังศูนย์หลบภัยฉุกเฉินโดยทันที ย้ำอีกครั้ง: ขอให้เดินทางไปยังศูนย์หลบภัยฉุกเฉินโดยทันที"
     },
     {
-      "character": "Railway Monitoring System",
+      "key": "thedoomtrainisapproachingrepeatpleaseproceedtoemergencyshelters",
       "text_en": "The Doomtrain is approaching. Repeat: please proceed to emergency shelters.",
       "text": "รถไฟดูมเทรนกำลังเคลื่อนตัวใกล้เข้ามา ย้ำอีกครั้ง: ขอให้เดินทางไปยังศูนย์หลบภัยฉุกเฉินโดยทันที"
     },
     {
-      "character": "Sphene",
+      "key": "thedoomtrainwasntthatoneoflindblumsweaponsofwar",
       "text_en": "The Doomtrain? Wasn't that one of Lindblum's weapons of war?",
       "text": "ดูมเทรนงั้นเหรอคะ? นั่นเป็นหนึ่งในอาวุธสงครามของลินด์บลูมไม่ใช่หรือคะ?"
     },
     {
-      "character": "Krile",
+      "key": "youknowofit",
       "text_en": "You know of it?",
       "text": "คุณรู้จักเจ้ารถไฟขบวนนั้นด้วยเหรอคะ?"
     },
     {
-      "character": "Sphene",
+      "key": "iveneverseenitmyselfbutaccordingtozeleniaitwasanarmoredvehicleusedtotransportwarbeaststothefront",
       "text_en": "I've never seen it myself, but according to Zelenia, it was an armored vehicle used to transport war-beasts to the front.",
       "text": "ตัวฉันเองก็ไม่เคยเห็นกับตาหรอกค่ะ แต่ตามที่เซเลเนียเคยเล่าไว้ มันคือยานพาหนะหุ้มเกราะที่ใช้สําหรับลำเลียงอสูรสงครามมุ่งหน้าสู่สมรภูมิแนวหน้าน่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "inordertopreventthemfromrunningwilderetheirdeploymentapowerfularcaneentitywashousedintheengine",
       "text_en": "In order to prevent them from running wild ere their deployment, a powerful arcane entity was housed in the engine.",
       "text": "และเพื่อควบคุมไม่ให้พวกอสูรคลุ้มคลั่งก่อนที่จะเริ่มปล่อยตัวเข้าสู่สนามรบ จึงได้มีการบรรจุแก่นพลังเวทมนตร์อันทรงอานุภาพไว้ในห้องเครื่องยนต์น่ะค่ะ"
     },
     {
-      "character": "Eyaney",
+      "key": "theendofthewardidntslowitonebitquitethecontraryfueledbylightningaetheritsbeenspeedingacrossthecontinenteversince",
       "text_en": "The end of the war didn't slow it one bit. Quite the contrary. Fueled by lightning aether, it's been speeding across the continent ever since.",
       "text": "การสิ้นสุดของสงครามไม่ได้ทำให้เจ้ารถไฟนั่นแล่นช้าลงเลยแม้แต่น้อยค่ะ ตรงกันข้ามเสียอีก พอมันได้รับเอเธอร์ธาตุสายฟ้าเข้าไปเป็นพลังงานขับเคลื่อน มันก็วิ่งตะบึงไปทั่วทวีปนับตั้งแต่นั้นมาเลยค่ะ"
     },
     {
-      "character": "Eyaney",
+      "key": "thedoomtrainanditsbeastsbringdeathanddestructioneverywhereitgoesitsaveritablecalamityonrails",
       "text_en": "The Doomtrain and its beasts bring death and destruction everywhere it goes. It's a veritable calamity on rails.",
       "text": "ดูมเทรนกับฝูงสัตว์ร้ายของมันมักจะนำพาความตายและความพินาศย่อยยับไปทุกหนทุกแห่งที่มันแล่นผ่าน... เรียกได้ว่าเป็นภัยพิบัติเดินรางของจริงเลยค่ะ"
     },
     {
-      "character": "Eyaney",
+      "key": "itpassedneartrenosomeyearsagoclaimingmanylivesincludingourparents",
       "text_en": "It passed near Treno some years ago, claiming many lives. Including our parents'...",
       "text": "มันเคยแล่นผ่านใกล้กับเมืองเทรโนเมื่อหลายปีก่อน และคร่าชีวิตผู้คนไปมากมาย... รวมถึงคุณพ่อกับคุณแม่ของพวกเราด้วยค่ะ..."
     },
     {
-      "character": "Eyaney",
+      "key": "imustgoandrepairthebarrierasswiftlyaspossiblewithoutitwehaventgotachance",
       "text_en": "I must go and repair the barrier as swiftly as possible. Without it, we haven't got a chance.",
       "text": "ฉันต้องรีบไปซ่อมแซมบาเรียป้องกันภัยให้เร็วที่สุดเท่าที่จะทำได้ค่ะ ถ้าไม่มีม่านบาเรียคอยสกัดไว้ พวกเราคงไม่มีทางรอดแน่ค่ะ"
     },
     {
-      "character": "Lumull",
+      "key": "youcantbeseriousyoullneverfinishintimeandyoullberightinitspath",
       "text_en": "You can't be serious! You'll never finish in time─and you'll be right in its path!",
       "text": "เธอพูดเป็นเล่นไปได้! ซ่อมยังไงก็ไม่มีทางเสร็จทันหรอก—แถมเธอยังจะพาตัวเองไปอยู่บนทางผ่านของมันพอดีด้วยนะ!"
     },
     {
-      "character": "Eyaney",
+      "key": "ihavetotryfortreno",
       "text_en": "I have to try. For Treno.",
       "text": "แต่ฉันก็ต้องขอลองดูค่ะ... เพื่อเทรโนค่ะ"
     },
     {
-      "character": "Lumull",
+      "key": "eyaneyno",
       "text_en": "Eyaney, no!",
       "text": "เอยานีย์ อย่าทำอย่างนั้นนะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itseemsmyservicesarerequiredoncemore",
       "text_en": "It seems my services are required once more.",
       "text": "ดูเหมือนว่าจะถึงเวลาที่ฉันต้องออกโรงอีกครั้งแล้วสินะ"
     },
     {
-      "character": "Sphene",
+      "key": "illgowithyouperhapsmyknowledgeofelectropewillbeofuse",
       "text_en": "I'll go with you. Perhaps my knowledge of electrope will be of use.",
       "text": "ฉันจะขอไปกับคุณด้วยคนค่ะ บางทีความรู้เรื่องอิเล็กโทรปของฉันอาจจะพอช่วยอะไรได้บ้างค่ะ"
     },
     {
-      "character": "Lumull",
+      "key": "iwishiwereafighterlikeyoutwokeephersafewillyouplease",
       "text_en": "I wish I were a fighter like you two. Keep her safe, will you? Please...",
       "text": "ผมล่ะอยากเป็นนักสู้เหมือนอย่างพวกคุณทั้งสองคนเหลือเกิน... ฝากดูแลเอยาเนย์ให้ปลอดภัยทีนะครับ ขอร้องละ..."
     },
     {
-      "character": "Y'shtola",
+      "key": "whiledestroyingthedoomtrainwouldbepreferableweshouldseektodelayitsadvanceattheveryleast",
       "text_en": "While destroying the Doomtrain would be preferable, we should seek to delay its advance at the very least.",
       "text": "แม้ว่าการทำลายดูมเทรนทิ้งจะเป็นทางเลือกที่ดีที่สุด ทว่ายามนี้อย่างน้อยก็ควรหาทางหน่วงการรุดหน้าของมันเอาไว้ก่อน"
     },
     {
-      "character": "Lumull",
+      "key": "youcantbethinkingoffightingitheadonthatsmadness",
       "text_en": "You can't be thinking of fighting it head-on! That's madness!",
       "text": "นี่คิดจะเผชิญหน้ากับมันตรงๆ หรือครับ! มันบ้าบิ่นเกินไปแล้ว!"
     },
     {
-      "character": "Lumull",
+      "key": "ifyourmindismadeuptheremaybeaway",
       "text_en": "If your mind is made up...there may be a way.",
       "text": "หากพวกคุณตกลงใจแน่วแน่แล้ว... ก็พอจะมีหนทางอยู่บ้างครับ"
     },
     {
-      "character": "Lumull",
+      "key": "theresafreightdepotnotfarfromuswecanusethetrainthatsstoppedthere",
       "text_en": "There's a freight depot not far from us. We can use the train that's stopped there.",
       "text": "ไม่ไกลจากที่นี่มีคลังสินค้าอยู่แห่งหนึ่งครับ เราน่าจะใช้ประโยชน์จากรถไฟที่จอดอยู่ที่นั่นได้"
     },
     {
-      "character": "Krile",
+      "key": "rahamentionedthatbeforedidhenot",
       "text_en": "Raha mentioned that before, did he not?",
       "text": "เรื่องนั้นระฮะเคยพูดถึงมาก่อนใช่ไหมคะ?"
     },
     {
-      "character": "Lumull",
+      "key": "thedoomtrainwillhavetopassthroughthedepottoreachtrenoandsincetheevacuationalertwasonlyjusttriggeredwemightbeabletoreachitfirst",
       "text_en": "The Doomtrain will have to pass through the depot to reach Treno. And since the evacuation alert was only just triggered, we might be able to reach it first.",
       "text": "ดูมเทรนจำเป็นต้องแล่นผ่านคลังสินค้าแห่งนั้นเพื่อเข้าสู่เทรโนครับ และในเมื่อสัญญาณเตือนให้อพยพเพิ่งจะเริ่มทำงาน พวกเราก็น่าจะชิงไปถึงที่นั่นก่อนมันได้"
     },
     {
-      "character": "Y'shtola",
+      "key": "sowecommandeerthisfreighttrainmatchourspeedtotheenemysanduseitasaplatformfromwhichwelaunchasustainedcounteroffensiveisthatyourproposal",
       "text_en": "So we commandeer this freight train, match our speed to the enemy's, and use it as a platform from which we launch a sustained counteroffensive. Is that your proposal?",
       "text": "หมายความว่าให้พวกเรายึดรถไฟสินค้าขบวนนั้น ปรับความเร็วให้เคียงคู่ไปกับฝ่ายตรงข้าม แล้วใช้เป็นฐานระดมโจมตีโต้กลับอย่างต่อเนื่องสินะ... นี่คือแผนการของคุณใช่ไหม?"
     },
     {
-      "character": "Lumull",
+      "key": "itdbebetterthantryingtosmashthebloodythingbeforeitrunsusallover",
       "text_en": "It'd be better than trying to smash the bloody thing before it runs us all over.",
       "text": "ก็ยังดีกว่าพยายามบดขยี้ไอ้รถไฟบ้านั่น ก่อนที่มันจะแล่นทับพวกเราทุกคนนั่นแหละครับ"
     },
     {
-      "character": "Lumull",
+      "key": "andifitmightsaveeyaneyilldowhateverittakes",
       "text_en": "And if it might save Eyaney...I'll do whatever it takes.",
       "text": "และหากนั่นจะช่วยช่วยชีวิตเอยาเนย์ได้... ไม่ว่าจะต้องแลกด้วยอะไรผมก็ยอมทั้งนั้นครับ"
     },
     {
-      "character": "Lumull",
+      "key": "letmedrivethetrainthatwillleaveyoufreetoconcentrateonthefight",
       "text_en": "Let me drive the train. That will leave you free to concentrate on the fight.",
       "text": "เรื่องขับรถไฟปล่อยให้เป็นหน้าที่ของผมเองครับ พวกคุณจะได้ทุ่มสมาธิไปกับการต่อสู้ได้อย่างเต็มที่"
     },
     {
-      "character": "Krile",
+      "key": "lumull",
       "text_en": "Lumull...",
       "text": "คุณลูมัล..."
     },
     {
-      "character": "Lumull",
+      "key": "ineedtograbafewthingsmeetmebythegate",
       "text_en": "I need to grab a few things. Meet me by the gate.",
       "text": "ผมต้องไปหยิบของบางอย่างก่อน แล้วเจอกันที่หน้าประตูเมืองนะครับ"
     },
     {
-      "character": "Y'shtola",
+      "key": "whileitisnotinournaturetostandidleatatimelikethisweshouldfirstconsiderhowbesttoapplyourindividualskills",
       "text_en": "While it is not in our nature to stand idle at a time like this, we should first consider how best to apply our individual skills...",
       "text": "จริงอยู่ว่าคนอย่างพวกเราไม่คิดจะอยู่เฉยในสถานการณ์เช่นนี้ ทว่าในเบื้องต้น เราควรพิจารณาเสียก่อนว่าจะใช้ความสามารถเฉพาะตัวของแต่ละคนให้เกิดประโยชน์สูงสุดอย่างไร..."
     },
     {
-      "character": "Krile",
+      "key": "ifanyonecanstopaspeedingweaponofwaritisforenamebutwemustalsorecognizethethreatposedbyitscompanyofbeastsifitsinfluenceissopowerfulthatevenasitbarrelsaheadenthralledcreaturescontinuetofollowitthenthetrainmaywellgatheradditionalminionsasitdrawsnear",
       "text_en": "If anyone can stop a speeding weapon of war, it is Forename . But we must also recognize the threat posed by its company of beasts. If its influence is so powerful that, even as it barrels ahead, enthralled creatures continue to follow it, then the train may well gather additional minions as it draws near.",
       "text": "หากจะมีใครหยุดยั้งอาวุธสงครามที่กำลังแล่นตะบึงขบวนนี้ได้ละก็ คนคนนั้นย่อมต้องเป็น [ชื่อ] แน่นอนค่ะ ทว่าพวกเราก็มองข้ามภัยคุกคามจากฝูงสัตว์อสูรที่ห้อมล้อมมันไม่ได้เช่นกัน หากอิทธิพลของมันแกร่งกล้าถึงขนาดทำให้สัตว์อสูรที่ถูกครอบงำยังคงวิ่งตามขบวนรถไฟที่แล่นตะบึงไปข้างหน้าได้ละก็ ยิ่งรถไฟแล่นเข้ามาใกล้ ก็เป็นไปได้ว่าจะยิ่งรวบรวมสมุนมาระหว่างทางเพิ่มขึ้นนะคะ"
     },
     {
-      "character": "Krile",
+      "key": "thereisnotellinghowmanywillchargetrenosgatesoweshouldpreparefortheworstperhapsyshtolaandioughttoremainonguardhere",
       "text_en": "There is no telling how many will charge Treno's gate, so we should prepare for the worst. Perhaps Y'shtola and I ought to remain on guard here.",
       "text": "ไม่มีทางรู้เลยค่ะว่าจะมีพวกมันบุกเข้าใส่ประตูเมืองเทรโนมากน้อยเพียงใด ทางที่ดีควรเตรียมรับมือกับสถานการณ์ที่เลวร้ายที่สุดเอาไว้ก่อน บางทีฉันกับคุณยาชโทลาควรจะปักหลักเฝ้าระวังอยู่ที่นี่ค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "iminclinedtoagree",
       "text_en": "I'm inclined to agree.",
       "text": "ฉันเองก็เห็นพ้องด้วยเช่นกัน"
     },
     {
-      "character": "Y'shtola",
+      "key": "forenamewhileyouremovetheheadofthismetalserpentwewillattendtothedefenseofthecity",
       "text_en": "Forename ─while you remove the head of this metal serpent, we will attend to the defense of the city.",
       "text": "[ชื่อ]... ในระหว่างที่คุณไปเด็ดหัวอสรพิษเหล็กขบวนนี้ พวกเราจะรับหน้าที่ปกป้องเมืองเอง"
     },
     {
-      "character": "Krile",
+      "key": "amongotherthingswemustdowhatwecantoensurethecitizensgettoshelterbeforethefightingbeginsgodsspeed",
       "text_en": "Among other things, we must do what we can to ensure the citizens get to shelter before the fighting begins. Godsspeed!",
       "text": "นอกจากนี้ เราต้องจัดการให้ชาวเมืองอพยพเข้าไปยังที่หลบภัยอย่างปลอดภัยก่อนการต่อสู้จะเริ่มขึ้นด้วยค่ะ... ขอให้ปลอดภัยและโชคดีนะคะ!"
     },
     {
-      "character": "Koymi",
+      "key": "ihatetosaythiswhenyouvebarelyhadthechancetoenjoythecitybutyoureallyoughttoleavebeforethedoomtraingetsheretheresonlysomuchwecando",
       "text_en": "I hate to say this when you've barely had the chance to enjoy the city, but you really ought to leave before the Doomtrain gets here. There's only so much we can do...",
       "text": "ไม่อยากพูดแบบนี้เลยในตอนที่คุณเพิ่งจะมีโอกาสได้มาเยือนเมืองนี้แท้ๆ แต่ทางที่ดีคุณควรรีบหนีไปก่อนที่ดูมเทรนจะมาถึงดีกว่านะ ลำพังพวกเราเองก็คงต้านไว้ได้ไม่เท่าไหร่..."
     },
     {
-      "character": "Pepep",
+      "key": "thedoomtrainiscompletelyunlikethecreaturesyoufoughtbeforenotthatthosewerentterrifyingintheirownwaybut",
       "text_en": "The Doomtrain is completely unlike the creatures you fought before. Not that those weren't terrifying in their own way, but...",
       "text": "ไอ้ดูมเทรนนั่นต่างจากสัตว์อสูรที่คุณเคยสู้มาลิบลับเลยละ ไม่ใช่ว่าพวกนั้นจะไม่น่ากลัวในแบบของมันเองหรอกนะ แต่ว่า..."
     },
     {
-      "character": "Pepep",
+      "key": "listenifiwereyouidbethinkingaboutgettingoutoftownrightnowyourewelcomeherewithusbutireckonyoudbesaferbackwhereveryoucamefrom",
       "text_en": "Listen, if I were you, I'd be thinking about getting out of town right now. You're welcome here with us, but I reckon you'd be safer back wherever you came from.",
       "text": "ฟังนะ ถ้าฉันเป็นคุณ ฉันคงคิดเรื่องหนีไปจากเมืองนี้ตั้งแต่ตอนนี้เลย ถึงพวกเราจะยินดีต้อนรับคุณก็เถอะ แต่ฉันว่าคุณกลับไปที่ที่จากมาน่าจะปลอดภัยกว่านะ"
     },
     {
-      "character": "Osao",
+      "key": "aaaaaaaaaaaaugh",
       "text_en": "Aaaaaaaaaaaaugh!",
       "text": "อ๊ากกกกกกกก!"
     },
     {
-      "character": "Osao",
+      "key": "oohiamsosorryithoughtyouwerethedoomtrainnnotbecauseofanythingaboutyouinparticularofcourseimsureyourenotatallterrifyingandmurderous",
       "text_en": "...O-Oh. I am so sorry─I thought you were the Doomtrain. N-Not because of anything about you in particular, of course... I'm sure you're not at all terrifying and murderous!",
       "text": "...อะ อ้าว ขอโทษทีครับ! ผมก็นึกว่าเป็นดูมเทรนเสียอีก... แน่นอนว่าไม่ได้หมายความว่ารูปลักษณ์คุณเหมือนมันหรอกนะครับ! ผมมั่นใจว่าคุณไม่ได้ดูน่ากลัวหรือโหดเหี้ยมขนาดนั้นเลยสักนิด!"
     },
     {
-      "character": "Tamat",
+      "key": "thundrousheavenswhatreyouwanderingaroundherefor",
       "text_en": "Thund'rous heavens, what're you wandering around here for?",
       "text": "สาบานต่อสายฟ้าเถอะ! มาเดินทอดน่องทำอะไรอยู่แถวนี้ล่ะนั่น?"
     },
     {
-      "character": "Tamat",
+      "key": "ivegottagetthesebirdsstowedawayforeicangototownhallmyselfbutyoushouldrunforyourlife",
       "text_en": "I've gotta get these birds stowed away 'fore I can go to town hall myself, but you should run for your life!",
       "text": "ฉันต้องรีบต้อนเจ้านกพวกนี้เข้าที่เก็บให้เรียบร้อยก่อนจะหนีไปที่ว่าการเมืองเหมือนกัน แต่คุณน่ะ รีบวิ่งโกยเอาชีวิตรอดก่อนเถอะ!"
     },
     {
-      "character": "Lotoll",
+      "key": "quickhowmanycoinsveyougottossemallinwecouldusealltheluckwecanget",
       "text_en": "Quick, how many coins've you got!? Toss 'em all in─we could use all the luck we can get!",
       "text": "เร็วเข้า! มีเหรียญอยู่เท่าไหร่โยนลงไปในนี้ให้หมดเลย! ยามนี้โชคเล็กโชคน้อยแบบไหนเราก็ต้องเอาไว้ก่อนทั้งนั้น!"
     },
     {
-      "character": "Cargo Operator",
+      "key": "ireallycouldhavegonewithoutadoomtrainattacktoday",
       "text_en": "I really could have gone without a Doomtrain attack today...",
       "text": "วันนี้ไม่น่าต้องมาเจอการโจมตีของดูมเทรนเลยพับผ่า..."
     },
     {
-      "character": "Lumull",
+      "key": "righttheplacewereheadedisthebentinidepot",
       "text_en": "Right. The place we're headed is the Bentini Depot.",
       "text": "เอาละครับ จุดหมายที่เราจะมุ่งหน้าไปคือคลังสินค้าเบนตินี"
     },
     {
-      "character": "Lumull",
+      "key": "althoughtrenohasitsownrailwaystationourassailantsfromearlierleftitinneedofsignificantrepairs",
       "text_en": "Although Treno has its own railway station, our assailants from earlier left it in need of significant repairs.",
       "text": "แม้เทรโนจะมีสถานีรถไฟเป็นของตัวเอง ทว่าผู้บุกรุกเมื่อครู่ทำให้สถานีเสียหายหนักจนต้องซ่อมแซมขนานใหญ่ครับ"
     },
     {
-      "character": "Lumull",
+      "key": "thuswellbetakingahovercargo",
       "text_en": "Thus, we'll be taking a hover cargo.",
       "text": "ด้วยเหตุนี้ พวกเราจึงต้องหันมานั่งรถขนสินค้าลอยตัวแทนครับ"
     },
     {
-      "character": "Lumull",
+      "key": "myfriendherehasvolunteeredforthemissionandyesididexplainthedangers",
       "text_en": "My friend here has volunteered for the mission─and yes, I did explain the dangers.",
       "text": "เพื่อนของผมคนนี้อาสาเข้าร่วมภารกิจเองครับ... แน่นอนว่าผมอธิบายเรื่องอันตรายให้เขาฟังเรียบร้อยแล้ว"
     },
     {
-      "character": "Cargo Operator",
+      "key": "thecargosequippedwithaportablebarrierandfranklyimgreatatmyjob",
       "text_en": "The cargo's equipped with a portable barrier, and frankly, I'm great at my job.",
       "text": "รถขนสินค้าคันนี้ติดตั้งม่านบาเรียแบบพกพาไว้ครับ และเอาตรงๆ ผมน่ะเก่งเรื่องงานของตัวเองจะตายไป"
     },
     {
-      "character": "Cargo Operator",
+      "key": "iguaranteeoursafetyduringtheridewhathappensoncewegettobentiniwellthatsyourproblem",
       "text_en": "I guarantee our safety during the ride. What happens once we get to Bentini... Well, that's your problem.",
       "text": "เรื่องความปลอดภัยระหว่างเดินทางผมรับประกันให้ได้แน่นอนครับ แต่หลังจากที่ไปถึงเบนตินีแล้วจะเกิดอะไรขึ้น... นั่นก็เป็นปัญหาของพวกคุณแล้วละ"
     },
     {
-      "character": "Lumull",
+      "key": "itcertainlyisletmeknowwhenyourereadytomoveout",
       "text_en": "It certainly is! Let me know when you're ready to move out.",
       "text": "ก็จริงของเขาละครับ! ถ้าพวกคุณพร้อมออกเดินทางเมื่อไหร่ก็แจ้งได้เลยนะครับ"
     }

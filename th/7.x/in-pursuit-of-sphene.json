@@ -1,291 +1,283 @@
 {
-  "id": "in-pursuit-of-sphene",
-  "wiki_path": "/wiki/In_Pursuit_of_Sphene",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "In Pursuit of Sphene",
-  "title": "ตามล่าตัวสฟีน",
-  "level": "99",
-  "location": "Tuliyollal(X:15.8,Y:4.1)",
-  "npc_start": "Wuk Lamat",
+  "quest_id": "in-pursuit-of-sphene",
   "dialogues": [
     {
-      "character": "Gulool Ja",
+      "key": "iwishtherewassomethingicoulddotohelp",
       "text_en": "I wish there was something I could do to help...",
       "text": "ผมหวังว่าจะมีอะไรบางอย่างที่ผมพอจะช่วยได้บ้างจังเลยครับ..."
     },
     {
-      "character": "Koana",
+      "key": "iunderstandzoraaljasparednosoulsforrevivinghimselfinbattlehispridewouldntpermithimtodootherwiseiexpect",
       "text_en": "I understand Zoraal Ja spared no souls for reviving himself in battle. His pride wouldn't permit him to do otherwise, I expect...",
       "text": "ผมเข้าใจดีเลยครับว่าโซราล จาไม่เหลือจิตวิญญาณใดๆ ไว้สำหรับคืนชีพตัวเองในระหว่างการต่อสู้เลย ศักดิ์ศรีอันสูงส่งของเขาคงไม่ยอมให้ทำเป็นอื่นแน่ๆ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellitwasgoodtocatchkoanaupnowwelltalktothesolhm",
       "text_en": "Well, it was good to catch Koana up. Now we'll talk to the sol— ...Hm?",
       "text": "ก็นะ ถือเป็นเรื่องดีที่ได้เล่าเรื่องทั้งหมดให้โคอานาฟังเสร็จเรียบร้อยแล้ว ทีนี้เราไปคุยกับทหา— ...หืม?"
     },
     {
-      "character": "Koana",
+      "key": "whomightthisbefrom",
       "text_en": "Who might this be from?",
       "text": "ใครส่งการติดต่อมากันนะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hellothatsrightforenameiswithme",
       "text_en": "Hello? ...That's right, Forename is with me.",
       "text": "ฮัลโหล? ...ใช่แล้วล่ะ [ชื่อ]อยู่กับฉันนี่แหละ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isthatsointhatcaseletsmeetatsunperchseeyousoon",
       "text_en": "...Is that so? In that case, let's meet at Sunperch. See you soon!",
       "text": "...งั้นเหรอ? ถ้าอย่างนั้น ไปเจอกันที่ซันเพิร์ชนะ แล้วเจอกันจ้ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yshtolaisheadingbackidaretohopeshesfoundawaytopursuesphene",
       "text_en": "Y'shtola is heading back. I dare to hope she's found a way to pursue Sphene.",
       "text": "วาย'ชโตลากำลังเดินทางกลับมาแล้วล่ะ ฉันหวังเป็นอย่างยิ่งเลยว่าเธอจะหาทางตามสฟีนไปได้นะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifyouallwantedtogoonaheadtosunperchillpayoursoldiersaquickcall",
       "text_en": "If you all wanted to go on ahead to Sunperch, I'll pay our soldiers a quick call.",
       "text": "ถ้าพวกคุณอยากล่วงหน้าไปที่ซันเพิร์ชก่อน เชิญตามสบายเลยนะ เดี๋ยวฉันจะแวะไปคุยกับพวกทหารของเราประเดี๋ยวเดียวจ้ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "apologiesforthewait",
       "text_en": "Apologies for the wait.",
       "text": "ขอโทษทีนะคะที่ทำให้รอนาน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youreallherethenthatmeans",
       "text_en": "You're all here. Then that means...",
       "text": "ทุกคนมากันพร้อมหน้าแล้ว แสดงว่า..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "ayewebelievewevefoundawaytotraveltothereflectiontowheresphenehasretreated",
       "text_en": "Aye. We believe we've found a way to travel to the reflection to where Sphene has retreated.",
       "text": "ครับ พวกเราเชื่อว่าพวกเราสามารถหาหนทางเดินทางไปยังโลกเงาสะท้อนที่สฟีนหนีกลับไปได้แล้วครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "iwasbusyprovidingaidinsolutionninesoihaventheardthedetailsmyself",
       "text_en": "I was busy providing aid in Solution Nine, so I haven't heard the details myself.",
       "text": "ฉันมัวแต่ยุ่งกับการช่วยเหลือผู้คนในโซลูชันไนน์ ก็เลยยังไม่รู้รายละเอียดเหมือนกันล่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "couldyoustartfromthebeginningyshtola",
       "text_en": "Could you start from the beginning, Y'shtola?",
       "text": "ช่วยเล่าเริ่มตั้งแต่ต้นเลยได้ไหม วาย'ชโตลา?"
     },
     {
-      "character": "Y'shtola",
+      "key": "persphenesownwordsthegateatopeverkeepwasopenedandclosedbythepowerofinterdimensionalfusion",
       "text_en": "Per Sphene's own words, the gate atop Everkeep was opened and closed by the power of interdimensional fusion.",
       "text": "ตามคำพูดของสฟีน ประตูมิติที่อยู่บนยอดเอเวอร์คีปเปิดและปิดลงด้วยพลังของการหลอมรวมมิติค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "anditwastheartifactknownasthekeythatallowedhertocontrolit",
       "text_en": "And it was the artifact known as the key that allowed her to control it.",
       "text": "และโบราณวัตถุที่เป็นที่รู้จักกันในนามของกุญแจดอกนั้น คือสิ่งสำคัญที่ช่วยให้นางสามารถควบคุมประตูมิติตามใจนึกได้"
     },
     {
-      "character": "Krile",
+      "key": "accordingtoketenrammthekeywasbroughtwithmetothesourcetwentyyearsago",
       "text_en": "According to Ketenramm, the key was brought with me to the Source twenty years ago.",
       "text": "ตามที่คุณเคเทนแรมบอก กุญแจดอกนั้นถูกนำข้ามมายังโลกเดิมพร้อมกับฉันเมื่อยี่สิบปีก่อนค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "itwasthenkepthereinthepalaceuntilitstheftbyzoraaljawhouseditinyyasulanitofuseaportionofourworldwiththisreflection",
       "text_en": "It was then kept here in the palace until its theft by Zoraal Ja, who used it in Yyasulani to fuse a portion of our world with this reflection.",
       "text": "จากนั้นมันก็ถูกเก็บรักษาไว้ที่พระราชวังแห่งนี้ จนกระทั่งถูกโซราล จาขโมยไปและนำไปใช้ในยาสุรานีเพื่อหลอมรวมบางส่วนของโลกเราเข้ากับโลกเงาสะท้อนแห่งนี้"
     },
     {
-      "character": "Y'shtola",
+      "key": "followingzoraaljasdemisespheneclaimedthekeyanddisappearedthroughthegate",
       "text_en": "Following Zoraal Ja's demise, Sphene claimed the key and disappeared through the gate.",
       "text": "หลังจากโซราล จาเสียชีวิต สฟีนก็นำกุญแจนั้นไปและจางหายเข้าไปในประตูมิติทันทีค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "butwhereexactlydidthatgateleadinseekingtheanswerwetookanotherlookatorigenicsandmadeastartlingdiscovery",
       "text_en": "But where exactly did that gate lead? In seeking the answer, we took another look at Origenics—and made a startling discovery.",
       "text": "แต่ประตูมิติตามทางไปสู่ที่ใดกันแน่? เพื่อค้นหาคำตอบ พวกเราจึงได้ลองกลับไปตรวจสอบออริเจนิกส์อีกครั้ง—แล้วก็พบบางสิ่งที่น่าตกใจอย่างยิ่งค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "asyouallknowthereshouldhavebeenonemorelevelatthesummitofeverkeep",
       "text_en": "As you all know, there should have been one more level at the summit of Everkeep.",
       "text": "อย่างที่พวกเราทุกคนรู้กันดี บนยอดของเอเวอร์คีปควรจะมีระดับชั้นหลงเหลืออยู่อีกชั้นหนึ่งนะคะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thetwelfthlevelthekingofresolvesroyalabode",
       "text_en": "The twelfth level—the King of Resolve's royal abode.",
       "text": "ชั้นที่สิบสอง—ที่ประทับของราชาแห่งปณิธานสินะ"
     },
     {
-      "character": "Shale",
+      "key": "rightbutwhenyouactuallywentthereyousawthatitdidntexist",
       "text_en": "Right. But when you actually went there, you saw that it didn't exist.",
       "text": "ใช่ค่ะ แต่พอพวกคุณเดินทางขึ้นไปที่นั่นจริงๆ กลับพบว่าชั้นสิบสองไม่มีอยู่จริง"
     },
     {
-      "character": "Shale",
+      "key": "curiousweanalyzedorigenicsslogstoseewherethememoriesofthedepartedwerebeingsentandwhereshoulditbebutthroughthegatetothemissingtwelfthlevel",
       "text_en": "Curious, we analyzed Origenics's logs to see where the memories of the departed were being sent. And where should it be but through the gate, to the missing twelfth level.",
       "text": "ด้วยความสงสัย พวกเราจึงวิเคราะห์บันทึกข้อมูลของออริเจนิกส์เพื่อดูว่าความทรงจำของผู้ล่วงลับถูกส่งไปที่ไหน และผลลัพธ์คือพวกมันถูกส่งผ่านประตูมิติไปยังชั้นสิบสองที่หายสาบสูญไปค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "thatlevelalonemusthavelainoutsidethefusedregionandsowasleftbehind",
       "text_en": "That level alone must have lain outside the fused region, and so was left behind.",
       "text": "เป็นเพราะเฉพาะระดับชั้นนั้นเท่านั้นที่ตั้งอยู่นอกพื้นที่หลอมรวมมิติ มันจึงถูกทิ้งไว้เบื้องหลังค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thenitmeans",
       "text_en": "Then it means...",
       "text": "แสดงว่า..."
     },
     {
-      "character": "Y'shtola",
+      "key": "indeed",
       "text_en": "Indeed.",
       "text": "ใช่ค่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "tisspheneshomeworldandshehasreturnedtheretojointhememoriesofherdepartedcitizens",
       "text_en": "'Tis Sphene's home world, and she has returned there, to join the memories of her departed citizens.",
       "text": "นั่นคือโลกบ้านเกิดของสฟีน และนางก็ตัดสินใจกลับไปที่นั่น เพื่อไปอยู่ร่วมกับความทรงจำของประชาชนที่ล่วงลับไปแล้วของนางค่ะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "itmeansthatbeyondthegateliesnotjustanyreflectionbuttheonefromwhichalexandriaoriginallyhailed",
       "text_en": "It means that beyond the gate lies not just any reflection, but the one from which Alexandria originally hailed.",
       "text": "หมายความว่า ดินแดนที่อยู่หลังประตูมิตินั้นไม่ใช่โลกเงาสะท้อนธรรมดาทั่วไป แต่เป็นโลกเงาสะท้อนที่เป็นต้นกำเนิดของอเล็กซานเดรียจริงๆ ครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "tisspheneshomeworldandshehasreturnedtheretojointhememoriesofherdepartedcitizens",
       "text_en": "'Tis Sphene's home world, and she has returned there, to join the memories of her departed citizens.",
       "text": "หมายความว่า ดินแดนที่อยู่หลังประตูมิตินั้นไม่ใช่โลกเงาสะท้อนธรรมดาทั่วไป แต่เป็นโลกเงาสะท้อนที่เป็นต้นกำเนิดของอเล็กซานเดรียจริงๆ ครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "butasthekeylieswithherontheothersidewehaventthemeanstoreopenthegate",
       "text_en": "But as the key lies with her on the other side, we haven't the means to reopen the gate.",
       "text": "แต่ในเมื่อกุญแจดอกนั้นอยู่กับเธอที่ฝั่งโน้น พวกเราจึงไม่มีทางที่จะเปิดประตูมิติตั้นขึ้นมาใหม่ได้เลยครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "forgivemebutithoughtwealreadyknewshehadgonehomeoratleastitseemedobvioustomewhatiwanttoknowishowdowepursuespheneifthegatehereisclosed",
       "text_en": "Forgive me, but I thought we already knew she had gone home—or at least it seemed obvious to me. What I want to know is, how do we pursue Sphene if the gate here is closed?",
       "text": "ขอโทษทีนะ แต่ข้านึกว่าพวกเราก็เดาได้อยู่แล้วว่าเธอหนีกลับบ้านเกิด—หรืออย่างน้อยมันก็ดูชัดเจนอยู่แล้วล่ะ แต่ที่ฉันอยากจะรู้ก็คือ พวกเราจะตามล่าสฟีนได้อย่างไรล่ะหากประตูมิติที่นี่ปิดตัวลงไปแล้ว?"
     },
     {
-      "character": "Krile",
+      "key": "weuseanothergateanditjustsohappensweknowwhereoneis",
       "text_en": "We use another gate. And it just so happens we know where one is.",
       "text": "พวกเราจะใช้ประตูมิติสายอื่นค่ะ และก็บังเอิญเหลือเกินว่าพวกเราพอจะทราบเบาะแสว่ามีตั้งอยู่ที่ไหนแห่งหนึ่งพอดี"
     },
     {
-      "character": "Alisaie",
+      "key": "theskydeepcenote",
       "text_en": "The Skydeep Cenote!",
       "text": "สกายดีปซีโนเต!"
     },
     {
-      "character": "Krile",
+      "key": "ayeallevidencesuggeststhatthegatethereleadstotheworldwhencethealexandriansandicame",
       "text_en": "Aye. All evidence suggests that the gate there leads to the world whence the Alexandrians and I came.",
       "text": "ใช่ค่ะ หลักฐานทั้งหมดชี้ว่า ประตูมิติที่นั่นนำทางไปสู่โลกที่เป็นแหล่งกำเนิดของชาวอเล็กซานเดรียและตัวฉันเองค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "butassumingthatstruehowcanweopenit",
       "text_en": "But assuming that's true, how can we open it?",
       "text": "แต่ต่อให้เป็นแบบนั้นจริงๆ พวกเราจะเปิดมันขึ้นมาได้อย่างไรล่ะ?"
     },
     {
-      "character": "Krile",
+      "key": "thatiswhatweshallfindoutusingthecodeinthisearring",
       "text_en": "That is what we shall find out, using the code in this earring.",
       "text": "นั่นคือสิ่งสำคัญที่เราจะได้รู้ร่วมกัน โดยใช้ประโยชน์จากรหัสข้อมูลที่บรรจุอยู่ในต่างหูคู่นี้ค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "asyoullrecallkrilesearringisinfactadatastoragedevice",
       "text_en": "As you'll recall, Krile's earring is in fact a data storage device.",
       "text": "อย่างที่พวกคุณจำได้ ต่างหูของคุณไครล์แท้จริงแล้วคือเครื่องบันทึกและเก็บข้อมูลค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "ananalysisofityieldedacodesomethingusedtocontrolacontraptionandaverylargeoneatthat",
       "text_en": "An analysis of it yielded a code—something used to control a contraption, and a very large one at that.",
       "text": "ผลการวิเคราะห์เจ้านี่ทำให้ได้รหัสผ่าน—บางสิ่งบางอย่างที่ใช้สำหรับการควบคุมเครื่องกล ซึ่งน่าจะมีขนาดที่ใหญ่โตมโหฬารมากทีเดียวค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "giventhecircumstancesofkrilesarrivalinthesourcewebelievethatsaidcontraptionisthegatetothegoldencity",
       "text_en": "Given the circumstances of Krile's arrival in the Source, we believe that said contraption is the gate to the golden city.",
       "text": "เมื่อดูจากบริบทแวดล้อมที่นำพาคุณไครล์ข้ามมายังโลกเดิม เราจึงเชื่อว่าเครื่องกลที่ว่านั้นน่าจะเป็นประตูสู่นครแห่งทองคำครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thisisadmittedlyaneducatedguessbutwearequitehopefulthatitwillwork",
       "text_en": "This is admittedly an educated guess, but we are quite hopeful that it will work.",
       "text": "ถึงแม้นี่จะเป็นเพียงแค่การสันนิษฐานที่มีมูล แต่พวกเราก็หวังเป็นอย่างยิ่งเลยล่ะครับว่ามันจะประสบความสำเร็จ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "tomakesuchprogressinsoshortatimeyoureallyareamazing",
       "text_en": "To make such progress in so short a time... You really are amazing!",
       "text": "สามารถหาความคืบหน้าได้รวดเร็วขนาดนี้ในเวลาสั้นๆ... พวกเธอเนี่ยสุดยอดชะมัดเลย!"
     },
     {
-      "character": "Y'shtola",
+      "key": "wecouldnthavedoneitalonethecreditmustgotothemembersofoblivionforacquiringtheinformationweneededshaleespecially",
       "text_en": "We couldn't have done it alone. The credit must go to the members of Oblivion for acquiring the information we needed, Shale especially.",
       "text": "พวกเราไม่สามารถทำทั้งหมดนี้ได้ด้วยตัวคนเดียวหรอกค่ะ ต้องยกความดีความชอบให้สมาชิกกลุ่มอ็อบลิเวียนที่ช่วยสืบค้นหาข้อมูลสำคัญที่เราต้องการมาได้ โดยเฉพาะเชลค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightthenitseemstheplanissettotheskydeepcenote",
       "text_en": "Right then, it seems the plan is set! To the Skydeep Cenote!",
       "text": "ถ้าอย่างนั้น แผนการของพวกเราก็ลงตัวแล้วล่ะ! มุ่งหน้าสู่สกายดีปซีโนเตกันเลย!"
     },
     {
-      "character": "Gulool Ja",
+      "key": "arentwegoingyet",
       "text_en": "Aren't we going yet?",
       "text": "พวกเรายังไม่เดินทางกันอีกเหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ivetoldtheofficersofthelandsguardaboutmyintentiontheyfullysupportourendeavor",
       "text_en": "I've told the officers of the Landsguard about my intention. They fully support our endeavor.",
       "text": "ข้าได้แจ้งเรื่องเจตจำนงทั้งหมดนี้ให้พวกนายทหารแห่งแลนด์สการ์ดรับทราบแล้วล่ะ พวกเขายินดีและพร้อมจะสนับสนุนพวกเราอย่างเต็มที่"
     },
     {
-      "character": "Koana",
+      "key": "beggingyourpardonforenamebutmightihaveamomenteresettingforth",
       "text_en": "Begging your pardon, Forename , but might I have a moment ere setting forth?",
       "text": "[ชื่อ]ครับ ขอประทานโทษทีนะครับ แต่ก่อนจะออกเดินทางกัน ผมขอเวลาคุยด้วยประเดี๋ยวหนึ่งได้ไหมครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohyourealreadygoingtogivehimherthething",
       "text_en": "Oh, you're already going to give him / her the thing?",
       "text": "โอ๊ะ เจ้าตั้งใจจะมอบสิ่งนั้นให้เลยสินะ?"
     },
     {
-      "character": "Koana",
+      "key": "yesihadthoughttosaveitforlaterbutinlightofthesedevelopmentsifeelnowisthetime",
       "text_en": "Yes. I had thought to save it for later, but in light of these developments, I feel now is the time.",
       "text": "ครับ ผมตั้งใจจะเก็บมันไว้มอบให้ทีหลังอยู่เหมือนกัน แต่เมื่อมีเรื่องราวคืบหน้าขึ้นมา ผมคิดว่าในตอนนี้น่าจะเป็นโอกาสที่เหมาะสมที่สุดแล้วล่ะครับ"
     },
     {
-      "character": "Koana",
+      "key": "aslamatyisaysihavesomethingforyoupleasecomewithmetobaysidebevy",
       "text_en": "As Lamaty'i says, I have something for you. Please come with me to Bayside Bevy.",
       "text": "ตามที่ลามาตี้บอกนั่นแหละครับ ผมมีบางอย่างจะมอบให้คุณ รบกวนตามผมไปที่เบย์ไซด์บีวี่หน่อยนะครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "aretheseallshopsitssodifferentfromsolutionnine",
       "text_en": "Are these all shops? It's so different from Solution Nine!",
       "text": "ทั้งหมดนี่คือร้านค้าเหรอครับ? แตกต่างจากที่โซลูชันไนน์ลิบลับเลยครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "heheihopeyoulikeit",
       "text_en": "Hehe, I hope you like it!",
       "text": "อิๆ หวังว่าเจ้าจะชอบที่นี่นะ!"
     },
     {
-      "character": "Mewazunte",
+      "key": "openingashopintuliyollalhasalwaysbeenadreamofmineimhonoredtobepartofbaysidebevysbustlingtrade",
       "text_en": "Opening a shop in Tuliyollal has always been a dream of mine. I'm honored to be part of Bayside Bevy's bustling trade!",
       "text": "การได้มาเปิดร้านค้าที่ทูลิโยลลัลเป็นความฝันของผมมาโดยตลอดเลยครับ รู้สึกเป็นเกียรติอย่างยิ่งเลยครับที่ได้ร่วมเป็นส่วนหนึ่งของย่านการค้าเบย์ไซด์บีวี่อันแสนคึกคักแห่งนี้!"
     },
     {
-      "character": "Koana",
+      "key": "tuliyollalissafeinnosmallpartduetoyourvalorasatokenofourappreciationihavecommissionedspecialequipmentforyou",
       "text_en": "Tuliyollal is safe in no small part due to your valor. As a token of our appreciation, I have commissioned special equipment for you.",
       "text": "ทูลิโยลลัลปลอดภัยไว้ได้ด้วยความกล้าหาญและวีรกรรมอันยิ่งใหญ่ของคุณ เพื่อเป็นสัญลักษณ์แสดงความขอบคุณจากพวกเรา ผมจึงได้ว่าจ้างจัดทำอุปกรณ์พิเศษชิ้นนี้มาเพื่อคุณโดยเฉพาะครับ"
     },
     {
-      "character": "Koana",
+      "key": "whileitisinadequateasanexpressionofgratitudeiprayitwillserveyouwellinyourcomingmission",
       "text_en": "While it is inadequate as an expression of gratitude, I pray it will serve you well in your coming mission.",
       "text": "ถึงแม้มันอาจจะไม่เพียงพอกับการแสดงความขอบคุณทั้งหมดที่เรามี แต่ผมก็ขอสวดภาวนาให้อุปกรณ์ชิ้นนี้ช่วยคุ้มครองและช่วยให้คุณประสบความสำเร็จในภารกิจที่กำลังจะมาถึงนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itapparentlyincorporatesforeigntechnologyleaveittokoanatorequestsuchathingeh",
       "text_en": "It apparently incorporates foreign technology. Leave it to Koana to request such a thing, eh?",
       "text": "ดูเหมือนว่าเจ้านี่จะมีการประยุกต์ใช้เทคโนโลยีจากต่างแดนผสมผสานไว้ด้วยนะ สมเป็นงานที่โคอานาสั่งทำขึ้นมาจริงๆ เลยใช่ไหมล่ะ?"
     },
     {
-      "character": "Koana",
+      "key": "mewazunteyonderhastheequipmentinhiskeepingjustsaythewordandhewillbringitout",
       "text_en": "Mewazunte yonder has the equipment in his keeping. Just say the word, and he will bring it out.",
       "text": "เมวาซุนเตที่อยู่ตรงโน้นคือคนที่เป็นคนดูแลเก็บรักษาอุปกรณ์ชิ้นนั้นไว้อยู่ครับ เพียงแค่คุณบอกคำเดียว เดี๋ยวเขาก็จะนำมันออกมามอบให้ทันทีเลยครับ"
     }

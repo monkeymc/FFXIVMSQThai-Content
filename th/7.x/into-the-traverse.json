@@ -1,301 +1,293 @@
 {
-  "id": "into-the-traverse",
-  "wiki_path": "/wiki/Into_the_Traverse",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "Into the Traverse",
-  "title": "มุ่งหน้าสู่เส้นทางตัดผ่าน",
-  "level": "94",
-  "location": "Yak T'el(X:10.8,Y:12.9)",
-  "npc_start": "Wuk Lamat",
+  "quest_id": "into-the-traverse",
   "dialogues": [
     {
-      "character": "Krile",
+      "key": "forasweatheredasourpromiselooksshespositivelyglowingwithconfidencewhatintheworldhappened",
       "text_en": "For as weathered as our Promise looks, she's positively glowing with confidence. What in the world happened?",
       "text": "ถึงท่านสัญญาของเราจะดูสะบักสะบอมไปหน่อย แต่เธอกลับดูมั่นใจจนเปล่งประกายออกมาเลยนะเนี่ย เกิดอะไรขึ้นกันแน่ล่ะเนี่ย?"
     },
     {
-      "character": "Erenville",
+      "key": "thetwinsranmefromoneendoftheutohmuhorizontotheotheraskingabouteverythingofremoteinterestalongtheway",
       "text_en": "The twins ran me from one end of the Ut'ohmu Horizon to the other, asking about everything of remote interest along the way...",
       "text": "คู่แฝดนั่นพาผมเดินวุ่นจากฟากหนึ่งของอูตอฮ์มูโฮไรซันไปยังอีกฟากเลยครับ ถามจุกจิกทุกเรื่องที่ดูจะน่าสนใจตลอดทางเลย..."
     },
     {
-      "character": "Alphinaud",
+      "key": "erenvillestourwasbotheducationalandexcitingihopewecanpersuadehimtoconductanotherinthelowerforests",
       "text_en": "Erenville's tour was both educational and exciting! I hope we can persuade him to conduct another in the lower forests.",
       "text": "การนำชมของเอเรนวิลล์ทั้งได้ความรู้และน่าตื่นเต้นมากเลยครับ! หวังว่าพวกเราจะกล่อมให้เขานำทางพวกเราในเขตป่าตอนล่างได้อีกครั้งนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "didsomethinghappenwhilewewereawaytheresacertainsatisfiedairaboutyou",
       "text_en": "Did something happen while we were away? There's a certain satisfied air about you...",
       "text": "มีอะไรเกิดขึ้นตอนที่พวกเราไม่อยู่หรือเปล่าเนี่ย? ดูเธออิ่มอกอิ่มใจชอบกลนะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sowhatsthestateofthetyiinbektraverse",
       "text_en": "So what's the state of the Ty'iinbek Traverse?",
       "text": "แล้วทางฝั่งเส้นทางไทอินเบกเป็นยังไงบ้างล่ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "stillbeingclearedidassumehunmurruksaidhewouldnotifyusassoonasworkwasdone",
       "text_en": "Still being cleared, I'd assume. Hunmu Rruk said he would notify us as soon as work was done.",
       "text": "น่าจะยังอยู่ระหว่างการเคลียร์ทางล่ะมั้งครับ ท่านฮุนมู รุก บอกว่าถ้าเรียบร้อยเมื่อไหร่จะรีบส่งข่าวมาบอกพวกเราทันที"
     },
     {
-      "character": "Krile",
+      "key": "thenperhapsnowwouldbeagoodtimetoconsiderhowwemightreclaimwuklamatsstolenkeystonethenextfeatwillbeourlastafterall",
       "text_en": "Then perhaps now would be a good time to consider how we might reclaim Wuk Lamat's stolen keystone. The next feat will be our last, after all.",
       "text": "ถ้าอย่างนั้น ช่วงนี้ก็น่าจะเป็นโอกาสดีที่เราจะมาหาวิธีทวงคืนศิลาไขด่านของวุค ลามัต ที่โดนขโมยไปกันนะคะ ยังไงบททดสอบหน้าก็เป็นบททดสอบสุดท้ายแล้วด้วยสิคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohialreadygotitback",
       "text_en": "Oh, I already got it back.",
       "text": "อ๋อ เรื่องนั้นฉันได้คืนมาเรียบร้อยแล้วล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "whatwhen",
       "text_en": "What!? When?",
       "text": "เอ๊ะ!? ตั้งแต่เมื่อไหร่กันคะ?"
     },
     {
-      "character": "Alphinaud",
+      "key": "nottomentionhowthisisbakooljajaweretalkingabout",
       "text_en": "Not to mention how! This is Bakool Ja Ja we're talking about!",
       "text": "แถมยังได้คืนมาด้วยวิธีไหนอีกต่างหาก! นั่นมันบาคูล จา จา เชียวนะครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soitaughthimalessonandtookmykeystoneback",
       "text_en": "...So I taught him a lesson and took my keystone back.",
       "text": "...ฉันก็แค่สั่งสอนหมอนั่นไปนิดๆ หน่อยๆ แล้วก็แย่งศิลาไขด่านของฉันคืนมาน่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "youbestedbakooljajainsinglecombatbravo",
       "text_en": "You bested Bakool Ja Ja in single combat? Bravo!",
       "text": "เธอเอาชนะบาคูล จา จา ในการดวลเดี่ยวได้เนี่ยนะ? สุดยอดไปเลย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehewhatcanisayivehadgoodfriendstoencourageandcheermeon",
       "text_en": "Hehe, what can I say? I've had good friends to encourage and cheer me on.",
       "text": "ฮิๆ จะว่ายังไงดีล่ะ... ก็เพราะฉันมีเพื่อนดีๆ คอยเป็นกำลังใจและหนุนหลังอยู่ตลอดนั่นแหละ"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "thereyouareourexcavatorshavecontactedmewithnewsoftheirsuccessthetyiinbektraverseisnowsafefortravel",
       "text_en": "There you are. Our excavators have contacted me with news of their success. The Ty'iinbek Traverse is now safe for travel.",
       "text": "อยู่นี่กันเองรึ กลุ่มคนงานขุดเจาะของเราส่งข่าวความสำเร็จมาแล้วล่ะ ตอนนี้เส้นทางไทอินเบกเปิดให้สัญจรได้อย่างปลอดภัยแล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "thenwefinallycanmakeformamook",
       "text_en": "Then we finally can make for Mamook.",
       "text": "ถ้าอย่างนั้น ในที่สุดพวกเราก็มุ่งหน้าสู่มามูคได้เสียที"
     },
     {
-      "character": "Alisaie",
+      "key": "cometothinkofitisntitbakooljajashomewecanonlyhopeitsresidentsdontsharehiswinningpersonality",
       "text_en": "Come to think of it, isn't it Bakool Ja Ja's home? We can only hope its residents don't share his winning personality.",
       "text": "จะว่าไป ที่นั่นเป็นบ้านเกิดของบาคูล จา จา ใช่ไหมล่ะ? ได้แต่หวังว่าชาวเมืองที่นั่นคงจะไม่มีนิสัย 'น่าคบหา' แบบเดียวกับหมอนั่นหรอกนะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "ifitisindeedthecitywhereketenrammfirstmetthedawnservantsurelysomecivilityawaitsus",
       "text_en": "If it is indeed the city where Ketenramm first met the Dawnservant, surely some civility awaits us.",
       "text": "หากที่นั่นเป็นเมืองที่ท่านเคเทนแรมได้พบกับท่านดอว์นเซิร์ฟวันต์เป็นครั้งแรกจริงๆ อย่างน้อยพวกเราก็น่าจะได้รับการต้อนรับด้วยอัธยาศัยไมตรีอยู่บ้างนะครับ"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "iwouldnotbesocertain",
       "text_en": "I would not be so certain.",
       "text": "ข้าว่าเจ้าอย่าเพิ่งมั่นใจไปนักเลย"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "itistruethatthedawnservantreceivedketenramminmamookandwasinstrumentalintheestablishmentoffriendlyrelationsbetweenthexbraalandmamoolja",
       "text_en": "It is true that the Dawnservant received Ketenramm in Mamook and was instrumental in the establishment of friendly relations between the Xbr'aal and Mamool Ja.",
       "text": "จริงอยู่ที่ท่านดอว์นเซิร์ฟวันต์เคยให้การต้อนรับท่านเคเทนแรมในมามูค และมีบทบาทสำคัญในการผูกสัมพันธไมตรีระหว่างชาวชิบราลกับชาวมามูอูล จา"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "butsincethattimemostofthemamooljawhosupportedhispeacehavelefttheircityinfavorofabidinginthecapital",
       "text_en": "But since that time, most of the Mamool Ja who supported his peace have left their city in favor of abiding in the capital.",
       "text": "ทว่านับแต่นั้นมา ชาวมามูอูล จา ส่วนใหญ่ที่เห็นดีเห็นงามกับความสงบสุขนี้ ต่างก็ย้ายออกจากเมืองของตนเพื่อไปตั้งรกรากในเมืองหลวงกันหมด"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "whatremainsisacloisterofmamookandwhilethesetraditionalistsdonottakeuparmsagainstusneitherdotheybeargreatloveforoutsiders",
       "text_en": "What remains is a cloister of Mamook. And while these traditionalists do not take up arms against us, neither do they bear great love for outsiders.",
       "text": "สิ่งที่หลงเหลืออยู่ในตอนนี้ก็มีเพียงสังคมอันปิดกั้นของมามูคเท่านั้น... และแม้พวกหัวอนุรักษนิยมเหล่านั้นจะไม่ถึงขั้นหยิบอาวุธขึ้นมารบรากับพวกเรา แต่พวกเขาก็ไม่ได้ยินดีต้อนรับคนนอกสักเท่าไหร่หรอก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatevertheyrelikethepeopleofmamookarealsooftuliyollalifimtobedawnservantitsmyjobtoknowthemfirstofall",
       "text_en": "Whatever they're like, the people of Mamook are also of Tuliyollal. If I'm to be Dawnservant, it's my job to know them first of all.",
       "text": "ไม่ว่าพวกเขาจะเป็นยังไง ชาวมามูคก็เป็นประชาชนของทูลิโยลลัลเหมือนกันนั่นแหละ ถ้าฉันจะขึ้นเป็นดอว์นเซิร์ฟวันต์ล่ะก็ หน้าที่แรกของฉันก็คือต้องรู้จักและเข้าใจพวกเขาให้ดีที่สุดนั่นแหละ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellwellbeonourwaythenimgladicouldlearnaboutwhereicamefromandeatsomuchxibruqpibilbesides",
       "text_en": "Well, we'll be on our way, then. I'm glad I could learn about where I came from. And eat so much xibruq pibil besides!",
       "text": "เอาล่ะ งั้นพวกเราเดินทางต่อกันเลยดีกว่า! ดีใจจริงๆ ที่ได้รู้เรื่องราวของบ้านเกิดตัวเองเพิ่มขึ้น... แถมยังได้อิ่มท้องกับชิบรุกพีบิลตั้งเยอะแยะอีกต่างหาก!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouforeverythinghunmurruktillnexttimetakecare",
       "text_en": "Thank you for everything, Hunmu Rruk. Till next time, take care!",
       "text": "ก่อนอื่น พวกเราต้องมุ่งหน้าไปทางทิศตะวันออกเฉียงใต้ ข้ามทุ่งเถ้าถ่านโซบริตกันก่อนครับ"
     },
     {
-      "character": "Erenville",
+      "key": "firstwemakeourwayacrossthexobritcinderfieldduesoutheast",
       "text_en": "First we make our way across the Xobr'it Cinderfield, due southeast.",
       "text": "เจ้าช่างเติบโตขึ้นมากจริงๆ..."
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "howyouhavegrownindeed",
       "text_en": "How you have grown indeed...",
       "text": "ท่านสัญญาที่สามได้เติบโตขึ้นเป็นหญิงสาวที่น่าเลื่อมใสยิ่ง ข้าเชื่อหมดใจว่าก้าวต่อๆ ไปในการเดินทางจะนำพาชีวิตของนางไปสู่หนทางที่ถูกต้องอย่างแน่นอน"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "thethirdpromisehasgrownintoaremarkableyoungwomanihavenodoubtsthatherjourneywillcontinuetoleadhertrue",
       "text_en": "The Third Promise has grown into a remarkable young woman. I have no doubts that her journey will continue to lead her true.",
       "text": "อุตส่าห์กวาดชิบรุกพีบิลยัดใส่กระเป๋ามาจนเต็มก่อนออกเดินทางแท้ๆ... แต่ไหงตอนนี้เหลือห่อสุดท้ายแล้วล่ะเนี่ย..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifilledmybagwithxibruqpibilbeforeweleftbutimdowntomylastservingalready",
       "text_en": "I filled my bag with xibruq pibil before we left, but I'm down to my last serving already...",
       "text": "ไม่รู้ว่าท่านสัญญาที่หนึ่งกับท่านสัญญาที่สองจะเดินทางไปถึงมามูคกันหรือยังนะคะ"
     },
     {
-      "character": "Krile",
+      "key": "iwonderifthefirstandsecondpromiseshavealreadyarrivedinmamook",
       "text_en": "I wonder if the First and Second Promises have already arrived in Mamook.",
       "text": "ถ้าบาคูล จา จา เตลิดหนีมาทางทิศนี้หลังจากพ่ายแพ้ให้แก่คุณวุค ลามัต ปลายทางของเขาก็คงหนีไม่พ้นการกลับมามูคอย่างแน่นอนครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "ifbakooljajaraninthisdirectionafterlosingtowuklamatthenheundoubtedlywasreturningtomamook",
       "text_en": "If Bakool Ja Ja ran in this direction after losing to Wuk Lamat, then he undoubtedly was returning to Mamook.",
       "text": "พอได้เห็นสนามรบพวกนั้นแล้ว ฉันล่ะทึ่งจริงๆ ที่ท่านดอว์นเซิร์ฟวันต์สามารถเจรจาตกลงเรื่องสันติภาพกันได้สำเร็จ"
     },
     {
-      "character": "Alisaie",
+      "key": "afterseeingthatbattlefieldifinditmiraculousthatthedawnservantwasabletonegotiateapeace",
       "text_en": "After seeing that battlefield, I find it miraculous that the Dawnservant was able to negotiate a peace.",
       "text": "เมื่อสุดเส้นทางนี้แล้ว พวกเราก็จะเข้าสู่ใจกลางป่าจาตีกาโดยตรงครับ"
     },
     {
-      "character": "Erenville",
+      "key": "thetraversewillbringusstraightintothejatiikaheartland",
       "text_en": "The Traverse will bring us straight into the Ja Tiika Heartland.",
       "text": "ยังจำได้ไหมครับว่าตอนนั้นเธอยืนกรานเสียงแข็งแค่ไหนว่าป่านี้เป็นสีเขียวน่ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "rememberhowyouinsistedthisforestisgreen",
       "text_en": "...Remember how you insisted this forest is green?",
       "text": "ทางเดินค่อนข้างลาดชันทีเดียวเลยนะคะ ค่อยๆ เดินลงไปอย่างระมัดระวังกันเถอะค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "thispathisquitesteepisntitletustakeourtimeanddescendsafely",
       "text_en": "This path is quite steep, isn't it? Let us take our time and descend safely.",
       "text": "ขอพักหายใจสักประเดี๋ยวเถอะค่ะ..."
     },
     {
-      "character": "Krile",
+      "key": "illtakeamomentsrestithink",
       "text_en": "I'll take a moment's rest, I think...",
       "text": "ระหว่างทางเดินลงมา ผมได้ลองคุยกับคนงานขุดเจาะคนหนึ่งดูน่ะครับ ดูเหมือนบาคูล จา จา จะเคลียร์ขอนไม้ล้มชิ้นสุดท้ายที่ขวางทางออกด้วยการพุ่งชนมันจนหักกระจุยเลยล่ะครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "ispokewithoneoftheexcavatorsonmywaydownapparentlybakooljajaclearedawaytheonefallentreeremainingbybarrelingthroughit",
       "text_en": "I spoke with one of the excavators on my way down. Apparently, Bakool Ja Ja cleared away the one fallen tree remaining by barreling through it.",
       "text": "การที่คุณวุค ลามัต สามารถเอาชนะผู้ที่มีพละกำลังมหาศาลขนาดนั้นได้ในการดวลเดี่ยวเนี่ย ถือเป็นเรื่องที่น่าเหลือเชื่อจริงๆ ครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "thatwuklamatsinglehandedlydefeatedsomeonepossessedofsuchphysicalmightisnothingshortofremarkable",
       "text_en": "That Wuk Lamat single-handedly defeated someone possessed of such physical might is nothing short of remarkable.",
       "text": "ถึงอย่างนั้น พวกเราก็ยังคงต้องเดินหน้าต่ออย่างระมัดระวังล่ะครับ เพราะเดาใจไม่ถูกเลยว่าความหยิ่งทะนงที่โดนเหยียบย่ำจนเสียศักดิ์ศรี จะบีบให้เขาลงมือทำเรื่องบ้าๆ อะไรอีก"
     },
     {
-      "character": "Alphinaud",
+      "key": "stillweoughttoproceedwithcautiontheresnotellingwhathiswoundedpridemightcompelhimtoattempt",
       "text_en": "Still, we ought to proceed with caution. There's no telling what his wounded pride might compel him to attempt.",
       "text": "พวกเราคงหนีไม่พ้นต้องเผชิญหน้ากับบาคูล จา จา อีกครั้งแน่ครับ... แต่บอกตามตรงเลยว่า ผมล่ะไม่ได้ยินดีกับการพบกันใหม่นั่นสักเท่าไหร่เลย"
     },
     {
-      "character": "Alphinaud",
+      "key": "wewilldoubtlessfacebakooljajaagainicannotsayirelishthethoughtofthereunion",
       "text_en": "We will doubtless face Bakool Ja Ja again. I cannot say I relish the thought of the reunion.",
       "text": "เอเรนวิลล์บอกว่าเส้นทางนี้ถูกขุดขึ้นมาเพื่อเตรียมยกทัพไปบุกป่าตอนบนน่ะ... แต่ไม่ว่าจุดประสงค์แรกเริ่มจะร้ายกาจแค่ไหน ก็ต้องยอมรับในความพยายามของพวกเขาล่ะนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "erenvillesaidthistraversewasdugtofacilitateincursionsintotheforestsaboveintentionsnotwithstandingyouhavetoadmirethededication",
       "text_en": "Erenville said this Traverse was dug to facilitate incursions into the forests above. Intentions notwithstanding, you have to admire the dedication.",
       "text": "ดูนี่สิ! เรืองแสงได้แวววับสวยงามชะมัดเลย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "justlookatthisthingwhatavibrantglow",
       "text_en": "Just look at this thing! What a vibrant glow!",
       "text": "งดงามดึงดูดใจดีใช่ไหมล่ะครับ?"
     },
     {
-      "character": "Erenville",
+      "key": "alluringisntit",
       "text_en": "Alluring, isn't it?",
       "text": "ไม่ใช่แค่เพราะความสวยงามอย่างเดียวน่ะครับ... เอาหินเหนี่ยวนำของผมไป ลองจ่อเข้าไปใกล้ๆ หินเรืองแสงก้อนนั้นดูสิครับ"
     },
     {
-      "character": "Erenville",
+      "key": "inmorewaysthanonetakemypairingstoneandholditclosetotheglowingrock",
       "text_en": "In more ways than one. Take my pairing stone and hold it close to the glowing rock.",
       "text": "ลองดูสิครับ ใช้หินเหนี่ยวนำของผมแล้วรอดูว่าจะเกิดอะไรขึ้น"
     },
     {
-      "character": "Erenville",
+      "key": "goonusemypairingstoneandseewhathappens",
       "text_en": "Go on. Use my pairing stone and see what happens.",
       "text": "หินเหนี่ยวนำเป็นแม่เหล็กธรรมชาติครับ—ส่วนหินเรืองแสงก้อนนั้นก็คืออุกกาบาตที่มีแร่เหล็กอยู่หนาแน่น เป็นหนึ่งในเศษซากหลงเหลือจากฝนดาวตกยุคโบราณน่ะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "pairingstonesarenaturalmagnetsandthatsameteoritefilledwithirononeofmanyremnantsofanancientmeteorshower",
       "text_en": "Pairing stones are natural magnets─and that's a meteorite filled with iron. One of many remnants of an ancient meteor shower.",
       "text": "กระแสอีเธอร์อันแปลกประหลาดที่พวกมันปล่อยออกมา ส่งผลให้พืชพรรณแถบนี้เรืองแสงสีสันแปลกตาอย่างที่เห็นนี่แหละครับ"
     },
     {
-      "character": "Erenville",
+      "key": "theheterogeneousaethertheyemitcausessurroundingfloratoglowuniquehuesasyoucansee",
       "text_en": "The heterogeneous aether they emit causes surrounding flora to glow unique hues, as you can see.",
       "text": "หมายความว่า เจ้าพวกหินเรืองแสงก้อนยักษ์พวกนี้ตกลงมาจากฟ้าอย่างนั้นเหรอ? ขอวิดราลทรงโปรดเถอะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sotheseglowingboulderscameplummetingdownfromtheheavensvidraalbemerciful",
       "text_en": "So these glowing boulders came plummeting down from the heavens? Vidraal be merciful...",
       "text": "อยู่นี่กันเองเหรอ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thereyouare",
       "text_en": "There you are!",
       "text": "สีฟ้า! ทุกอย่างกลายเป็นสีฟ้าไปหมดเลยค่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "blueitsallblue",
       "text_en": "Blue! It's all blue!",
       "text": "ช่างแตกต่างจากเขตป่าตอนบนราวฟ้ากับดินเลยนะครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "afarcryfromtheupperforestsindeed",
       "text_en": "A far cry from the upper forests, indeed.",
       "text": "ขนาดเพิ่งมาถึงยังน่าตื่นตาตื่นใจขนาดนี้เลย... อยากรู้จริงๆ ว่าชาวเมืองมามูคจะมีเรื่องเล่าอะไรเกี่ยวกับที่นี่ให้พวกเราฟังบ้างนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisplaceisalreadysofascinatingimeagertohearwhatthepeopleofmamookcantellusaboutit",
       "text_en": "This place is already so fascinating... I'm eager to hear what the people of Mamook can tell us about it!",
       "text": "วิ่งต่อเลยพวกเรา! ใกล้จะถึงแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "keeprunningwerealmostthere",
       "text_en": "Keep running! We're almost there!",
       "text": "ทีนี้เราจะได้เห็นกันแล้วล่ะครับว่า ความกังวลของท่านฮุนมู รุก จะมีมูลความจริงจริงหรือเปล่า..."
     },
     {
-      "character": "Alphinaud",
+      "key": "nowtoseewhetherornothunmurruksfearswerewellfounded",
       "text_en": "Now to see whether or not Hunmu Rruk's fears were well founded...",
       "text": "เงียบเชียบกว่าที่ฉันคิดไว้ซะอีกนะเนี่ย..."
     },
     {
-      "character": "Alisaie",
+      "key": "rathermorequietthaniexpected",
       "text_en": "Rather more quiet than I expected...",
       "text": "ไม่รู้เลยนะคะว่าบททดสอบสุดท้ายจะเป็นอย่างไรบ้าง"
     },
     {
-      "character": "Krile",
+      "key": "iwonderwhatthefinalfeatwillbe",
       "text_en": "I wonder what the final feat will be.",
       "text": "และในที่สุดพวกเราก็มาถึงจนได้... เอาล่ะ ก้าวต่อไปก็คือตามหาตัวผู้คุมสอบให้เจอ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andherewefinallyarenowtofindtheelector",
       "text_en": "And here we finally are... Now to find the elector!",
       "text": "เนื่องจากนี่ก็เป็นครั้งแรกของผมที่ได้มาเยือนมามูคเหมือนกัน เลยไม่มีประสบการณ์พูดคุยกับผู้คนที่นี่เท่าไหร่ครับ"
     },
     {
-      "character": "Erenville",
+      "key": "asthisisalsomyfirsttimevisitingmamookihavenoexperienceinteractingwiththelocals",
       "text_en": "As this is also my first time visiting Mamook, I have no experience interacting with the locals.",
       "text": "แต่เมื่อดูจากคำเตือนทิ้งท้ายของท่านฮุนมู รุก แล้ว... ผมคิดว่าพวกเราควรจะระมัดระวังตัวเอาไว้ก่อนจะดีกว่าครับ"
     },
     {
-      "character": "Erenville",
+      "key": "butgivenhunmurrukspartingwordsiwouldadviseacautionaryapproach",
       "text_en": "But given Hunmu Rruk's parting words, I would advise...a cautionary approach.",
       "text": ""
     }

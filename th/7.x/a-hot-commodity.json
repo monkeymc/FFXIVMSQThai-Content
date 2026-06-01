@@ -1,266 +1,258 @@
 {
-  "id": "a-hot-commodity",
-  "wiki_path": "/wiki/A_Hot_Commodity",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "A Hot Commodity",
-  "title": "วัตถุดิบร้อนแรง",
-  "level": "96",
-  "location": "Shaaloani(X:15.1,Y:17.9)",
-  "npc_start": "Iyaate",
+  "quest_id": "a-hot-commodity",
   "dialogues": [
     {
-      "character": "G'raha Tia",
+      "key": "righttimetoputmyknowledgegainedinthefirsttouse",
       "text_en": "Right. Time to put my knowledge gained in the First to use.",
       "text": "ขวา. ถึงเวลานำความรู้ที่ได้รับมาไปใช้ครั้งแรก"
     },
     {
-      "character": "Krile",
+      "key": "shenzahasgivenmealistofmaterialswellseetoittheyhaveeverythingtheyneed",
       "text_en": "Shenza has given me a list of materials. We'll see to it they have everything they need!",
       "text": "เชนซา ให้รายการวัสดุแก่ฉัน เราจะคอยดูว่าพวกเขามีทุกสิ่งที่ต้องการ!"
     },
     {
-      "character": "Alisaie",
+      "key": "itsashamecidandhisengineersarentheretohelpiftheywerehereiexpecttheydturnitintoaflyingtrain",
       "text_en": "It's a shame Cid and his engineers aren't here to help. If they were here, I expect they'd turn it into a flying train.",
       "text": "น่าเสียดายที่ซิดและวิศวกรของเขาไม่ได้มาช่วย หากพวกเขาอยู่ที่นี่ ฉันหวังว่าพวกเขาจะเปลี่ยนมันให้เป็นรถไฟเหาะ"
     },
     {
-      "character": "Erenville",
+      "key": "zoraaljasforcesremainquietfornowifthereisanymovementillalerteveryoneimmediately",
       "text_en": "Zoraal Ja's forces remain quiet for now. If there is any movement, I'll alert everyone immediately.",
       "text": "กองทัพของโซราล จายังคงสงบเงียบอยู่ครับ หากพวกมันเริ่มมีความเคลื่อนไหวผิดปกติใด ๆ ฉันจะเร่งแจ้งเตือนพันธมิตรทุกคนทันทีครับ"
     },
     {
-      "character": "Shenza",
+      "key": "iyaateissuretogetyouallthefirecrystalsyoudeverwantandthensome",
       "text_en": "Iyaate is sure to get you all the fire crystals you'd ever want, and then some.",
       "text": "อิยาเต จะทำให้คุณได้รับคริสตัลไฟทั้งหมดที่คุณต้องการอย่างแน่นอน และหลังจากนั้นอีกบางส่วน"
     },
     {
-      "character": "Iyaate",
+      "key": "nowirememberceruleanalas",
       "text_en": "Now I remember—cerule analas!",
       "text": "ตอนนี้ฉันจำได้แล้ว—เซรูเล อนาลาส!"
     },
     {
-      "character": "Iyaate",
+      "key": "youcanfindthemtothesouthoftowntheyactuallyingestfirecrystalsandkeepthemintheirgutifyoucanbelieveit",
       "text_en": "You can find them to the south of town. They actually ingest fire crystals and keep them in their gut, if you can believe it!",
       "text": "คุณสามารถพบพวกมันได้ทางใต้ของเมือง จริงๆ แล้วพวกมันกินคริสตัลไฟเข้าไปและเก็บไว้ในลำไส้ ถ้าคุณเชื่อได้!"
     },
     {
-      "character": "Iyaate",
+      "key": "ifyouwantthepurestcrystalsthoughyoullhavetogoaftertheoldesttoughestanalasnothingyoucanthandleright",
       "text_en": "If you want the purest crystals, though, you'll have to go after the oldest, toughest analas. Nothing you can't handle, right?",
       "text": "หากคุณต้องการคริสตัลที่บริสุทธิ์ที่สุด คุณจะต้องเลือกซื้ออัญมณีที่เก่าแก่และแข็งที่สุด ไม่มีอะไรที่คุณไม่สามารถจัดการได้ใช่ไหม?"
     },
     {
-      "character": "Iyaate",
+      "key": "illshowyouwhereyoucanfindsometohuntlookingforwardtoseeingwhyerenvillethinkssohighlyofyou",
       "text_en": "I'll show you where you can find some to hunt. Looking forward to seeing why Erenville thinks so highly of you.",
       "text": "ฉันจะแสดงให้คุณเห็นว่าคุณสามารถหาล่าสัตว์ได้ที่ไหน รอดูว่าทำไมเอเรนวิลล์ถึงยกย่องคุณมากขนาดนี้"
     },
     {
-      "character": "Iyaate",
+      "key": "theresquitealotoffierywildlifeinthesepartswethinkitsduetotheceruleumbutnoonecansayforsure",
       "text_en": "There's quite a lot of fiery wildlife in these parts. We think it's due to the ceruleum, but no one can say for sure.",
       "text": "มีสัตว์ป่าที่ลุกเป็นไฟค่อนข้างมากในส่วนนี้ เราคิดว่าเป็นเพราะซีรูเลี่ยม แต่ก็ไม่มีใครสามารถพูดได้แน่ชัด"
     },
     {
-      "character": "Iyaate",
+      "key": "stillitsnotoftenthatyouseethebiggerdominatingsortandthatswhatyouneed",
       "text_en": "Still, it's not often that you see the bigger, dominating sort—and that's what you need.",
       "text": "ถึงกระนั้น ก็ไม่บ่อยนักที่คุณจะเห็นประเภทที่ใหญ่กว่าและมีอำนาจเหนือกว่า—และนั่นคือสิ่งที่คุณต้องการ"
     },
     {
-      "character": "Iyaate",
+      "key": "whatyoullhavetodoishuntdownafewoftheirkindestablishyourselfasathreatthatsknowntodrawouttheleader",
       "text_en": "What you'll have to do is hunt down a few of their kind. Establish yourself as a threat—that's known to draw out the leader.",
       "text": "สิ่งที่คุณต้องทำคือตามล่าพวกมันสักสองสามชนิด สร้างตัวเองให้เป็นภัยคุกคาม—ซึ่งรู้กันว่าสามารถดึงผู้นำออกมาได้"
     },
     {
-      "character": "Iyaate",
+      "key": "thatsthespiritwhileyoureonthehuntillkeepwatchnearbytomakesurenohaplesstravelerscomestumblingin",
       "text_en": "That's the spirit! While you're on the hunt, I'll keep watch nearby to make sure no hapless travelers come stumbling in.",
       "text": "นั่นคือวิญญาณ! ขณะที่คุณกำลังออกล่าสัตว์ ฉันจะคอยเฝ้าดูใกล้ๆ เพื่อให้แน่ใจว่าไม่มีนักเดินทางผู้เคราะห์ร้ายเข้ามาสะดุด"
     },
     {
-      "character": "Iyaate",
+      "key": "theleadersarecertaintoshowupifyoukillafewofthecommononesitsonlyamatterofwhen",
       "text_en": "The leaders are certain to show up if you kill a few of the common ones. It's only a matter of when.",
       "text": "ผู้นำจะต้องปรากฏตัวอย่างแน่นอนหากคุณฆ่าคนทั่วไปสองสามคน มันเป็นเพียงเรื่องของเมื่อ"
     },
     {
-      "character": "Iyaate",
+      "key": "amazingyoudealtwiththebeastsinnotimeatall",
       "text_en": "Amazing! You dealt with the beasts in no time at all!",
       "text": "อัศจรรย์! คุณจัดการกับสัตว์ร้ายได้ในเวลาไม่นาน!"
     },
     {
-      "character": "Iyaate",
+      "key": "youneedthecrystalsdeliveredtoshenzaillseethathegetsit",
       "text_en": "You need the crystals delivered to Shenza? I'll see that he gets it.",
       "text": "คุณต้องการคริสตัลที่ส่งไปยัง เชนซา หรือไม่? ฉันจะเห็นว่าเขาได้รับมัน"
     },
     {
-      "character": "Iyaate",
+      "key": "thesefirecrystalsareforthetrainarentthey",
       "text_en": "These fire crystals are for the train, aren't they?",
       "text": "คริสตัลไฟพวกนี้มีไว้สำหรับรถไฟใช่ไหม?"
     },
     {
-      "character": "Iyaate",
+      "key": "iheardaboutyourplanstoenterthedome",
       "text_en": "I heard about your plans to enter the dome.",
       "text": "ฉันได้ยินเกี่ยวกับแผนการของคุณที่จะเข้าไปในโดม"
     },
     {
-      "character": "Iyaate",
+      "key": "iwanttothankyouforgoingtosuchlengthstostoptheseinvaders",
       "text_en": "I want to thank you for going to such lengths to stop these invaders.",
       "text": "ฉันอยากจะขอบคุณสำหรับการพยายามอย่างสุดความสามารถเพื่อหยุดผู้รุกรานเหล่านี้"
     },
     {
-      "character": "Iyaate",
+      "key": "andthoughhedgrumbleifheknewiwasaskingthispleasetakecareofeleneshpya",
       "text_en": "And though he'd grumble if he knew I was asking this, please take care of Elene'shpya.",
       "text": "แล้วก็... ถึงแม้หมอนั่นจะบ่นอุบอิบแน่ถ้ารู้ว่าฉันมาพูดแบบนี้ แต่ฉันฝากนายช่วยดูแลเอเลเนชเปียด้วยนะ"
     },
     {
-      "character": "Iyaate",
+      "key": "anywayidbestbeonmywayandyouaswellincaseyouregoingtomeetherisawwuklamatheadingforthestation",
       "text_en": "Anyway, I'd best be on my way—and you as well. In case you're going to meet her, I saw Wuk Lamat heading for the station.",
       "text": "อย่างไรก็ตาม ฉันควรออกเดินทาง—และคุณก็เช่นกัน เผื่อคุณจะไปพบเธอ ฉันเห็นวุคละมาดกำลังมุ่งหน้าไปที่สถานี"
     },
     {
-      "character": "Erenville",
+      "key": "takencareofthecrystalshaveyouthingsproceedapaceheretoo",
       "text_en": "Taken care of the crystals, have you? Things proceed apace here too.",
       "text": "ดูแลคริสตัลแล้วใช่ไหม? สิ่งต่างๆดำเนินไปอย่างรวดเร็วที่นี่เช่นกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "shenzatoldmeyougotthecrystalsforhimgoodwork",
       "text_en": "Shenza told me you got the crystals for him. Good work!",
       "text": "เชนซ่าบอกฉันว่าคุณมีคริสตัลให้เขา ทำได้ดีมาก!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ivejustreturnedfromlookingforextrahelpwellseeinamomentwhoanswersthecall",
       "text_en": "I've just returned from looking for extra help. We'll see in a moment who answers the call!",
       "text": "ฉันเพิ่งเดินทางกลับมาจากการไปสืบเสาะขอแรงอาสาสมัครเพิ่มเติมค่ะ เดี๋ยวก็รู้กันว่าจะมีใครยอมตบเท้าก้าวเข้ามาช่วยเหลือพวกเราบ้างนะคะ!"
     },
     {
-      "character": "Erenville",
+      "key": "allwillbeinreadinessforthemwhentheyarrive",
       "text_en": "All will be in readiness for them when they arrive.",
       "text": "ทุกคนจะเตรียมพร้อมเมื่อมาถึง"
     },
     {
-      "character": "Erenville",
+      "key": "dammitimidleforamomentandallicanthinkaboutismyhome",
       "text_en": "Dammit... I'm idle for a moment, and all I can think about is my home...",
       "text": "ให้ตายเถอะ... ฉันอยู่เฉยๆ สักพัก และฉันก็คิดได้แค่บ้านของฉันเท่านั้น..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "keepyourchinuperenvillewellbeonourwaysoonandwellfindyourmother",
       "text_en": "Keep your chin up, Erenville. We'll be on our way soon, and we'll find your mother.",
       "text": "เชิดหน้าเข้าไว้สิจ๊ะเอเรนวิลล์ พวกเราจะออกเดินทางกันในไม่ช้าแล้ว และพวกเราต้องไปพบคุณแม่ของนายให้ได้จ้ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itllbegoodtoseeherafteralltheseyearstheressomuchidliketoaskherabouthertimetogetherwithpapa",
       "text_en": "It'll be good to see her after all these years. There's so much I'd like to ask her about her time together with Papa.",
       "text": "ดีจังเลยนะที่จะได้พบหน้าท่านหลังจากผ่านไปหลายปีขนาดนี้... ฉันเองก็มีเรื่องตั้งมากมายที่อยากถามท่านเกี่ยวกับกาลเวลาช่วงที่ทำงานผจญภัยเคียงข้างร่วมกับท่านพ่อเหมือนกันจ้ะ"
     },
     {
-      "character": "Erenville",
+      "key": "ohshelltalkyourearsoffoncemymotherstartstheresnostoppingher",
       "text_en": "Oh, she'll talk your ears off. Once my mother starts, there's no stopping her.",
       "text": "โอ้เธอจะพูดหูของคุณออก เมื่อแม่ของฉันเริ่ม อะไรก็หยุดเธอไม่ได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwouldntwantitanyotherway",
       "text_en": "I wouldn't want it any other way!",
       "text": "ฉันไม่ต้องการมันเป็นอย่างอื่น!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightletsreturntohelpingwherewecantherealworkbeginswhentheextrahandsarrive",
       "text_en": "Right, let's return to helping where we can! The real work begins when the extra hands arrive!",
       "text": "เอาล่ะจ้ะ พวกเรากลับไปช่วยตระเตรียมงานเตรียมเตาเตรียมฟืนเท่าที่พอทำได้กันก่อนเถอะ! งานใหญ่ของจริงจะเริ่มขึ้นทันทีที่กองทัพพันธมิตรอาสาสมัครเดินทางมาถึงจ้ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thanksformakingthetrekheretobehonestiwasntexpectingsomanyofyou",
       "text_en": "Thanks for making the trek here. To be honest, I wasn't expecting so many of you!",
       "text": "ต้องขอบใจทุกคนมากจริง ๆ นะคะที่ยอมอุตส่าห์เดินทางไกลมาร่วมด้วยช่วยกัน พูดกันตรง ๆ ฉันไม่ได้คาดหวังล่วงหน้าเลยว่าจะมารวมตัวกันเยอะขนาดนี้ค่ะ!"
     },
     {
-      "character": "Wuk Evu",
+      "key": "sincetheattackontuliyollalihadbeenwonderingiftherewasaughticoulddotohelp",
       "text_en": "Since the attack on Tuliyollal, I had been wondering if there was aught I could do to help.",
       "text": "ตั้งแต่การโจมตีทูลิโยลัล ฉันสงสัยว่ามีอะไรที่ฉันสามารถช่วยได้บ้าง"
     },
     {
-      "character": "Wuk Evu",
+      "key": "sowheniheardabouttheupcomingoperationfromvowkoanaileaptatthechancetodomypart",
       "text_en": "So when I heard about the upcoming operation from Vow Koana, I leapt at the chance to do my part!",
       "text": "ดังนั้นเมื่อฉันได้ยินเกี่ยวกับการผ่าตัดที่กำลังจะเกิดขึ้นจาก Vow โคอานา ฉันก็เลยรีบคว้าโอกาสนี้ไปทำหน้าที่ในส่วนของฉัน!"
     },
     {
-      "character": "Mablu",
+      "key": "peacewillberestoredandthenwecanallenjoyanicecupofmezcal",
       "text_en": "Peace will be restored, and then we can all enjoy a nice cup of mezcal!",
       "text": "ความสงบสุขจะกลับคืนมา จากนั้นเราทุกคนจะได้เพลิดเพลินกับเมซคาลสักแก้ว!"
     },
     {
-      "character": "Mablu",
+      "key": "thisisourhomeandwelldowhateverittakestokeepitsafe",
       "text_en": "This is our home, and we'll do whatever it takes to keep it safe.",
       "text": "นี่คือบ้านของเรา และเราจะทำทุกอย่างเพื่อรักษามันให้ปลอดภัย"
     },
     {
-      "character": "Zurmurwur",
+      "key": "whileiassistwiththeeffortsherehighluminarygurfurlurdoesthesameatthecapital",
       "text_en": "While I assist with the efforts here, High Luminary Gurfurlur does the same at the capital.",
       "text": "ขณะที่ฉันช่วยงานที่นี่ High Luminary Gurfurlur ก็ทำเช่นเดียวกันที่เมืองหลวง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imtrulygrateful",
       "text_en": "I'm truly grateful!",
       "text": "ฉันรู้สึกขอบคุณจริงๆ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "withallofusworkingtogethertheresnothingwecantaccomplish",
       "text_en": "With all of us working together, there's nothing we can't accomplish!",
       "text": "เมื่อเราทุกคนร่วมมือกัน ไม่มีอะไรที่เราทำไม่ได้!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letsgettoitmyfriends",
       "text_en": "Let's get to it, my friends!",
       "text": "มาเริ่มกันเลยเพื่อน!"
     },
     {
-      "character": "Erenville",
+      "key": "yesletsgettoit",
       "text_en": "Yes. Let's get to it.",
       "text": "ใช่. มาเริ่มกันเลย"
     },
     {
-      "character": "Wawlika",
+      "key": "alrighteveryonethatlldoit",
       "text_en": "Alright, everyone! That'll do it!",
       "text": "เอาล่ะ ทุกคน! นั่นจะทำ!"
     },
     {
-      "character": "Nitowikwe",
+      "key": "youvedoneyourpartleaveittoustofinishmountingthearmorandcannonsandhaveyourselvesahardearnedrest",
       "text_en": "You've done your part. Leave it to us to finish mounting the armor and cannons, and have yourselves a hard-earned rest.",
       "text": "คุณได้ทำในส่วนของคุณแล้ว ปล่อยให้เราติดตั้งชุดเกราะและปืนใหญ่ให้เสร็จ และพักผ่อนอย่างเหนื่อยยาก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouallagainforansweringthecall",
       "text_en": "Thank you all again for answering the call.",
       "text": "ขอขอบคุณทุกท่านอีกครั้งสำหรับการตอบรับสาย"
     },
     {
-      "character": "Zekowa",
+      "key": "noneedforthanksnowwheneveryouneedhelpjustgiveusaholler",
       "text_en": "No need for thanks, now! Whenever you need help, just give us a holler!",
       "text": "ไม่จำเป็นต้องขอบคุณแล้ว! เมื่อใดก็ตามที่คุณต้องการความช่วยเหลือ เพียงแค่ตะโกนใส่เรา!"
     },
     {
-      "character": "Wuk Evu",
+      "key": "indeedwemustalldoourpartwhenournationisimperiled",
       "text_en": "Indeed. We must all do our part when our nation is imperiled.",
       "text": "อย่างแท้จริง. เราทุกคนต้องทำในส่วนของเราเมื่อประเทศของเราตกอยู่ในอันตราย"
     },
     {
-      "character": "Mablu",
+      "key": "hearhearweloveturalandweloveyouvowwuklamat",
       "text_en": "Hear, hear! We love Tural, and we love you, Vow Wuk Lamat!",
       "text": "ได้ยินได้ยิน! เรารัก Tural และเรารักคุณ Vow วุค ลามัต!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iloveyoualltooyourkindnessandgoodwillwillnotbeinvainthisipromise",
       "text_en": "I love you all too! Your kindness and goodwill will not be in vain, this I promise!",
       "text": "ฉันก็รักและซาบซึ้งใจพวกคุณทุกคนมาก ๆ ค่ะ! ความเมตตาและน้ำใจพันธมิตรร่วมมือในคราวนี้จะไม่มีวันสูญเปล่าอย่างไร้ประโยชน์แน่นอน ฉันให้สัญญาสัญญาเกียรติยศไว้ตรงนี้เลยค่ะ!"
     },
     {
-      "character": "Iyaate",
+      "key": "nicelydonefindingthatcrystalwontbelongnowbeforethetrainsready",
       "text_en": "Nicely done finding that crystal. Won't be long now before the train's ready!",
       "text": "ทำได้ดีมากในการหาคริสตัลนั้น Won't be long now before the train's ready!"
     },
     {
-      "character": "Wawlika",
+      "key": "thanksagainforallyourhelpwouldnthavebeenabletofinishsoquicklywithoutyou",
       "text_en": "Thanks again for all your help. Wouldn't have been able to finish so quickly without you.",
       "text": "ขอขอบคุณอีกครั้งสำหรับความช่วยเหลือทั้งหมดของคุณ คงไม่สามารถเสร็จเร็วขนาดนี้ได้หากไม่มีคุณ"
     },
     {
-      "character": "Wawlika",
+      "key": "goandrestupfriendwontbelongbeforethetrainsready",
       "text_en": "Go and rest up, friend. Won't be long before the train's ready.",
       "text": "ไปพักผ่อนเถอะเพื่อน อีกไม่นานรถไฟจะพร้อม"
     }

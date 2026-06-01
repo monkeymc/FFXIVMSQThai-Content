@@ -1,766 +1,743 @@
 {
-  "id": "in-serenity-and-sorrow",
-  "wiki_path": "/wiki/In_Serenity_and_Sorrow",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "In Serenity and Sorrow",
-  "title": "ในความสงบและหยาดน้ำตา",
-  "level": "99",
-  "location": "Living Memory(X:16.1,Y:32.1)",
-  "npc_start": "G'raha Tia",
+  "quest_id": "in-serenity-and-sorrow",
   "dialogues": [
     {
-      "character": "G'raha Tia",
+      "key": "icannotclaimtoknowexactlyhowendlessbehavebuthopefullyourmanhasnotgonefar",
       "text_en": "I cannot claim to know exactly how Endless behave, but hopefully our man has not gone far.",
       "text": "ผมเองก็ไม่กล้าพูดว่าเข้าใจพฤติกรรมของพวกเอ็นด์เลสอย่างถ่องแท้หรอกนะครับ แต่หวังว่าชายคนนั้นจะยังเดินไปไม่ไกลนะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "letussplituptosearchforhimheisanelditewithfairhair",
       "text_en": "Let us split up to search for him. He is an Eldite with fair hair.",
       "text": "พวกเราแยกย้ายกันตามหาเขาเถอะครับ เขาเป็นชาวเอลไดต์ (Eldite) ที่มีผมสีบลอนด์สว่าง"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "godsstrikemedownwereuniteagainafterahundredyearsandwhatshouldhappen",
       "text_en": "Gods strike me down... We reunite again after a hundred years, and what should happen...",
       "text": "ให้ตายเถอะ... พวกเราอุตส่าห์ได้กลับมาพบกันอีกครั้งในรอบร้อยปี แต่ทำไมต้องมาเกิดเรื่องแบบนี้ขึ้นด้วยนะ..."
     },
     {
-      "character": "Fair-haired Man",
+      "key": "yyesmyapologiesbutiminsomehasteifyouhavesomethingtosaypleasemakeitbrief",
       "text_en": "Y-Yes? My apologies, but I'm in some haste. If you have something to say, please make it brief.",
       "text": "มะ-มีอะไรเหรอครับ? ต้องขออภัยด้วยนะพอดีผมกำลังรีบอยู่ ถ้ามีอะไรจะพูดรบกวนช่วยพูดรวบรัดหน่อยนะครับ"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "yourfriendnoticedthatiseemedtroubledsoyouvebeenlookingformewhatkindsoulsyouare",
       "text_en": "Your friend noticed that I seemed troubled, so you've been looking for me? What kind souls you are!",
       "text": "เพื่อนของคุณสังเกตเห็นว่าผมดูท่าทางกำลังเดือดร้อน พวกคุณก็เลยช่วยกันตามหาผมงั้นเหรอครับ? ช่างมีน้ำใจงามกันจริงๆ!"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "ivelostsomethingimportanttheengagementringintendedformybelovedalankymonkeylikefiendstoleitfromme",
       "text_en": "I've lost something important—the engagement ring intended for my beloved. A lanky, monkey-like fiend stole it from me.",
       "text": "คือผมทำของสำคัญหายน่ะครับ... มันคือแหวนหมั้นที่ตั้งใจจะมอบให้หญิงคนรักของผม จู่ๆ ก็มีสัตว์อสูรตัวผอมสูงหน้าตาเหมือนลิงมาขโมยชิงมันไปจากผม"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "afterrunninghitherandthitherimanagedtolocatethebeastinyondersquarebutimuncertainhowishouldtaketheringback",
       "text_en": "After running hither and thither, I managed to locate the beast in yonder square, but I'm uncertain how I should take the ring back...",
       "text": "หลังจากวิ่งพล่านตามหาไปทั่ว ในที่สุดผมก็เจอตัวเจ้าสัตว์อสูรนั่นตรงลานกว้างฝั่งโน้นแล้วครับ แต่ผมก็ไม่รู้เหมือนกันว่าจะแย่งชิงแหวนกลับคืนมายังไงดี..."
     },
     {
-      "character": "Fair-haired Man",
+      "key": "onceimighthaveconsideredfightingforitbutgiventheshortageofaetherthedangerissimplytoogreat",
       "text_en": "Once, I might have considered fighting for it, but given the shortage of aether, the danger is simply too great.",
       "text": "ถ้าเป็นเมื่อก่อน ผมคงคิดจะเข้าไปสู้แย่งชิงมันคืนมาแล้วล่ะครับ แต่เนื่องจากตอนนี้เราขาดแคลนพลังงานอีเธอร์อย่างหนัก การทำแบบนั้นมันอันตรายเกินไป"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "ifiweretobestruckdownandmyessencedispersediamnotliketoberemadeforalongtime",
       "text_en": "If I were to be struck down and my essence dispersed, I am not like to be remade for a long time.",
       "text": "หากผมถูกโจมตีจนสลายไป พลังงานหลักกระจายออกไปล่ะก็ คาดว่าผมคงไม่ได้รับการจำลองร่างขึ้นมาใหม่อีกนานเลยล่ะครับ"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "icannotriskthatnotaftermybelovedhasfinallybeengivenformagainafterahundredyears",
       "text_en": "I cannot risk that. Not after my beloved has finally been given form again after a hundred years.",
       "text": "ผมจะยอมเสี่ยงกับเรื่องนั้นไม่ได้เด็ดขาดครับ... โดยเฉพาะหลังจากที่หญิงคนรักของผมเพิ่งจะได้ร่างจำลองกลับคืนมาในรอบร้อยปีแบบนี้"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "thoughitpainsmetodosoishallgiveupontheringbutithankyouforyourkindconcern",
       "text_en": "Though it pains me to do so, I shall give up on the ring, but I thank you for your kind concern.",
       "text": "ถึงแม้จะเจ็บใจจนแทบกระอัก แต่ผมคงต้องยอมตัดใจจากแหวนวงนั้นแล้วล่ะครับ... ยังไงก็ต้องขอขอบคุณในความห่วงใยของพวกคุณมากๆ นะครับ"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "thataccursedbeastwasholdinguptheringtauntingmegrrrhowishouldliketoteachitalessonjusttowarnyouitseemstobefondofshinyobjectsshouldyouventureintoyondersquareisuggestyoukeepaneyeonyourpossessions",
       "text_en": "That accursed beast was holding up the ring, taunting me! Grrr, how I should like to teach it a lesson... Just to warn you, it seems to be fond of shiny objects. Should you venture into yonder square, I suggest you keep an eye on your possessions.",
       "text": "ไอ้สัตว์อสูรเฮงซวยนั่นมันชูแหวนขึ้นมาเขย่าเยาะเย้ยผมด้วยนะ! หน็อย... ถ้าทำได้ล่ะก็อยากจะสั่งสอนมันให้รู้สำนึกชะมัด... อ้อ เตือนไว้ก่อนนะครับ ดูเหมือนเจ้านั่นจะชอบพวกของมันวาวระยิบระยับเป็นพิเศษ ถ้าคุณจะเดินไปแถวลานกว้างตรงนั้น ก็ระวังทรัพย์สินของตัวเองไว้ให้ดีๆ นะครับ"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "ohtisyouagainwastheresomethingelse",
       "text_en": "Oh, 'tis you again. Was there something else?",
       "text": "อ้าว คุณนั่นเอง มีธุระอะไรอีกหรือเปล่าครับ?"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "goodheavensthisistheringyoutookitbackfromthatbeast",
       "text_en": "Good heavens, this is the ring! You took it back from that beast!?",
       "text": "พระช่วย! นี่มันแหวนวงนั้นนี่นา! คุณไปแย่งมันคืนมาจากสัตว์อสูรตัวนั้นได้งั้นเหรอครับ!?"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "thankyouthankyoueversomuch",
       "text_en": "Thank you! Thank you ever so much!",
       "text": "ขอบคุณมากครับ! ขอบคุณคุณจริงๆ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "iseeyouvealreadyresolvedthesituationforename",
       "text_en": "I see you've already resolved the situation, Forename .",
       "text": "ดูเหมือนคุณจะจัดการคลี่คลายสถานการณ์เรียบร้อยแล้วสินะครับ [ชื่อ]"
     },
     {
-      "character": "Fair-haired Man",
+      "key": "youmustbethefriendwhofirstnoticedmeioweyoumygratitudeaswell",
       "text_en": "You must be the friend who first noticed me. I owe you my gratitude as well.",
       "text": "คุณคงเป็นเพื่อนคนที่สังเกตเห็นอาการผมคนแรกสินะครับ ผมต้องขอขอบคุณคุณด้วยเช่นกันนะครับ"
     },
     {
-      "character": "Euclase",
+      "key": "mynameiseuclaseiwasplanningtoproposetomybelovedwiththeringandthankstoyouicandojustthat",
       "text_en": "My name is Euclase. I was planning to propose to my beloved with the ring, and thanks to you, I can do just that.",
       "text": "ผมมีชื่อว่ายูเคลส (Euclase) ครับ ผมตั้งใจจะใช้แหวนวงนี้ไปขอแต่งงานกับหญิงคนรัก และต้องขอบคุณพวกคุณจริงๆ ที่ช่วยให้ความตั้งใจนี้เป็นจริงได้เสียที"
     },
     {
-      "character": "G'raha Tia",
+      "key": "wellwellthatiscausetorejoiceindeeddidthetwoofyoumeethere",
       "text_en": "Well, well, that is cause to rejoice indeed. Did the two of you meet here?",
       "text": "แหม ยินดีด้วยจริงๆ ครับ ถือเป็นเรื่องที่น่ายินดีมากเลย แล้วพวกคุณสองคนมาพบเจอกันที่นี่งั้นเหรอครับ?"
     },
     {
-      "character": "Euclase",
+      "key": "noweweresweetheartsinlifebutidiedyoungandsheonlyfollowedmedecadeslater",
       "text_en": "No, we were sweethearts in life. But I died young, and she only followed me decades later.",
       "text": "เปล่าหรอกครับ พวกเราเป็นคู่รักกันตั้งแต่สมัยยังมีชีวิตอยู่แล้วครับ แต่ทว่าผมด่วนจากไปตั้งแต่ยังหนุ่ม ส่วนเธอเพิ่งจะเสียชีวิตตามผมมาหลังจากนั้นอีกหลายสิบปีเลยล่ะครับ"
     },
     {
-      "character": "Euclase",
+      "key": "eventhenourreunionwasntyettobefortheaethershortagemeansnoteveryonecanberecreatedihadtowaituntilbutrecentlytoseeheragain",
       "text_en": "Even then, our reunion wasn't yet to be, for the aether shortage means not everyone can be recreated. I had to wait until but recently to see her again.",
       "text": "แถมตอนแรกพวกเราก็ยังไม่ได้พบกันทันทีหรอกนะครับ เพราะการขาดแคลนอีเธอร์ทำให้ระบบไม่สามารถชุบชีวิตทุกคนขึ้นมาได้พร้อมกัน ผมต้องเฝ้ารอคอยจนกระทั่งเมื่อไม่นานมานี้เองถึงจะได้มีโอกาสพบหน้าเธออีกครั้ง"
     },
     {
-      "character": "G'raha Tia",
+      "key": "areunionbeyonddeathsuchathingwouldbepossiblehereisuppose",
       "text_en": "A reunion beyond death... Such a thing would be possible here, I suppose.",
       "text": "การได้หวนกลับมาพบกันอีกครั้งหลังความตาย... สำหรับที่นี่แล้ว เรื่องอัศจรรย์แบบนั้นก็คงมีความเป็นไปได้สินะครับ"
     },
     {
-      "character": "Euclase",
+      "key": "iassumeyourenewlyarrived",
       "text_en": "I assume you're newly arrived.",
       "text": "ผมเดาว่าพวกคุณน่าจะเพิ่งเคยเดินทางมาที่นี่กันใช่ไหมครับ"
     },
     {
-      "character": "Euclase",
+      "key": "whileourmemoriesarestoredintheterminalslessthanoneintenofushasbeengivenformatpresent",
       "text_en": "While our memories are stored in the terminals, less than one in ten of us has been given form at present.",
       "text": "ถึงแม้ข้อมูลความทรงจำของพวกเราจะถูกกักเก็บเอาไว้ในเครื่องเทอร์มินัล แต่ในปัจจุบัน มีเอ็นด์เลสไม่ถึงหนึ่งในสิบส่วนด้วยซ้ำครับที่ได้รับการจำลองสร้างร่างขึ้นมาจริง"
     },
     {
-      "character": "Euclase",
+      "key": "imyselfhavebeenreincarnatedthreetimesnowandeachtimethereseemstobefewerofusitsfairlyamiraclethatmybelovedandicouldmeet",
       "text_en": "I myself have been reincarnated three times now, and each time there seems to be fewer of us. It's fairly a miracle that my beloved and I could meet.",
       "text": "ตัวผมเองก็เพิ่งจะได้รับการจำลองร่างเป็นครั้งที่สามแล้วล่ะครับ และดูเหมือนว่าในแต่ละครั้งจำนวนของพวกเราจะลดน้อยถอยลงไปเรื่อยๆ การที่ผมกับหญิงคนรักสามารถมาพบกันได้ในจังหวะเดียวกันเนี่ย มันคือปาฏิหาริย์ที่แท้จริงเลยล่ะครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "iseegiventhecircumstancesthechancesofexistingconcurrentlywithanacquaintancewouldbeslimindeedandslimmerstillforalovedone",
       "text_en": "I see. Given the circumstances, the chances of existing concurrently with an acquaintance would be slim indeed—and slimmer still for a loved one.",
       "text": "เข้าใจแล้วครับ เมื่อดูจากสถานการณ์แล้ว โอกาสที่จะได้ใช้ร่างจำลองในช่วงเวลาเดียวกันกับคนรู้จักก็น้อยมากอยู่แล้ว ยิ่งเป็นคนรักก็น่าจะยิ่งยากเข้าไปใหญ่เลยนะครับ"
     },
     {
-      "character": "Euclase",
+      "key": "trulythatiswhyidecidedtodothatwhichifailedtodoinlifeaskherforherhand",
       "text_en": "Truly. That is why I decided to do that which I failed to do in life: ask her for her hand.",
       "text": "ถูกต้องแล้วครับ นั่นเป็นเหตุผลที่ทำให้ผมตัดสินใจที่จะทำในสิ่งที่ผมพลาดทำไม่สำเร็จตอนยังมีชีวิตอยู่ นั่นคือการขอเธอแต่งงานครับ"
     },
     {
-      "character": "Euclase",
+      "key": "withherregulatorshewassparedthesadnessofmydeathevensoshenevertookanothermanfortherestofherdays",
       "text_en": "With her regulator, she was spared the sadness of my death. Even so, she never took another man for the rest of her days.",
       "text": "เพราะมีเครื่องเรกูเลเตอร์ช่วยไว้ เธอเลยไม่ต้องมาทนทุกข์จมอยู่กับความเศร้าโศกเสียใจยามที่ผมตาย แต่ถึงอย่างนั้น ตลอดช่วงชีวิตที่เหลือของเธอ เธอก็ไม่เคยยอมเปิดใจคบหาผู้ชายคนอื่นอีกเลยครับ"
     },
     {
-      "character": "Euclase",
+      "key": "shetoldmethatalthoughshecouldntremembermeafterwardsshecouldnevershakethefeelingthatsomeoneprecioushadbeenapartofherlifethesweetfool",
       "text_en": "She told me that, although she couldn't remember me afterwards, she could never shake the feeling that someone precious had been a part of her life. The sweet fool...",
       "text": "เธอบอกผมว่า ถึงแม้หลังจากนั้นเธอจะจำเรื่องราวของผมไม่ได้เลยสักนิด แต่ในใจเธอกลับรู้สึกอยู่ตลอดเวลาว่าเคยมีใครบางคนที่สำคัญมากๆ ร่วมเดินทางอยู่ในชีวิตของเธอ... ยัยคนซื่อบื้อเอ๊ย..."
     },
     {
-      "character": "Euclase",
+      "key": "theringrepresentsayearningihavelongcarriedthoughiknowfullwellitisonlyaconstructlikethesebodiesofours",
       "text_en": "The ring represents a yearning I have long carried, though I know full well it is only a construct. Like these bodies of ours.",
       "text": "แหวนวงนี้คือตัวแทนความโหยหาที่ผมเก็บงำสะสมมาตลอด ถึงแม้ผมจะรู้ดีแก่ใจอยู่แล้วว่ามันเป็นเพียงแค่สิ่งประดิษฐ์จำลองขึ้นมา... เช่นเดียวกับร่างกายนวัตกรรมพวกนี้ของพวกเราก็ตามครับ"
     },
     {
-      "character": "Euclase",
+      "key": "thereisapartofmethatwondersifthisiswrongnotthatiexpectustoexistforevereveninthisform",
       "text_en": "...There is a part of me that wonders if this is wrong. Not that I expect us to exist forever, even in this form.",
       "text": "...บางครั้งผมก็อดคิดไม่ได้เหมือนกันครับว่าสิ่งที่เราเป็นอยู่นี้มันผิดธรรมชาติหรือเปล่า และผมก็ไม่ได้คาดหวังให้พวกเราอยู่รอดตลอดไปในร่างแบบนี้หรอกนะครับ"
     },
     {
-      "character": "Euclase",
+      "key": "buttobewiththeoneiloveonceagainandmakeherhappyhoweverwrongthisworldmaybeihavenothingbutgratitudeforqueensphene",
       "text_en": "But to be with the one I love once again and make her happy... However wrong this world may be, I have nothing but gratitude for Queen Sphene.",
       "text": "แต่การได้กลับมาอยู่เคียงข้างกับผู้หญิงที่รักและได้สร้างความสุขให้เธออีกครั้ง... ต่อให้โลกใบนี้จะบิดเบี้ยวผิดเพี้ยนแค่ไหนก็ตาม ในใจผมก็มีแต่ความซาบซึ้งและขอบคุณราชินีสฟีนอย่างหาที่สุดไม่ได้ครับ"
     },
     {
-      "character": "Euclase",
+      "key": "nowifyoullexcusemeishallgoandmakethatproposalivemadeherwaitlongenoughasitis",
       "text_en": "Now, if you'll excuse me, I shall go and make that proposal. I've made her wait long enough as it is.",
       "text": "ถ้าอย่างนั้น ผมขอตัวไปขอแต่งงานก่อนนะครับ ปล่อยให้เธอเฝ้ารอคอยมานานแสนนานเกินพอแล้วล่ะครับ"
     },
     {
-      "character": "Euclase",
+      "key": "thisisntmuchbutpleaseacceptitasatokenofmythanks",
       "text_en": "This isn't much, but please accept it as a token of my thanks.",
       "text": "ของชิ้นนี้อาจจะไม่ใช่ของมีค่าอะไรมากมาย แต่โปรดรับไว้แทนคำขอบคุณจากผมด้วยนะครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "tickets",
       "text_en": "Tickets?",
       "text": "ตั๋วเหรอครับ?"
     },
     {
-      "character": "Euclase",
+      "key": "forthegondolatoensurethatorderispreservedwemustobservetheproperwayofdoingthingsevenhereitsverymuchlikequeensphenetomakeitsoisitnot",
       "text_en": "For the gondola. To ensure that order is preserved, we must observe the proper way of doing things even here. It's very much like Queen Sphene to make it so, is it not?",
       "text": "ตั๋วสำหรับขึ้นเรือกอนโดลาน่ะครับ เพื่อให้ความเป็นระเบียบเรียบร้อยยังคงอยู่ แม้แต่ในดินแดนแห่งนี้พวกเราก็ต้องปฏิบัติตามกฎเกณฑ์ขั้นตอนที่ถูกต้องครับ วิธีคิดแบบนี้สมกับเป็นแนวทางของราชินีสฟีนดีใช่ไหมล่ะครับ?"
     },
     {
-      "character": "Euclase",
+      "key": "takecaremyfriendsandseetoityouhavenoregrets",
       "text_en": "Take care, my friends—and see to it you have no regrets!",
       "text": "เดินทางปลอดภัยนะครับเพื่อนๆ—และขอให้ใช้ชีวิตอย่างไม่มีเรื่องให้ต้องมานึกเสียใจภายหลังนะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "wellithinkitsabouttimewerejoinedtheothersbutwhatdoyousaywegobygondola",
       "text_en": "Well, I think it's about time we rejoined the others...but what do you say we go by gondola?",
       "text": "เอาล่ะ ผมว่าน่าจะถึงเวลาที่พวกเราต้องกลับไปรวมกลุ่มกับคนอื่นๆ แล้ว... แต่พวกเราลองนั่งเรือกอนโดลาไปกันดูดีไหมครับ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "iexpectitwontbepossibletodosooncetheterminalhasbeenshutdown",
       "text_en": "I expect it won't be possible to do so once the terminal has been shut down.",
       "text": "เพราะถ้าเกิดปิดเครื่องเทอร์มินัลลงไปแล้ว พวกเราก็น่าจะไม่มีโอกาสได้สัมผัสบรรยากาศแบบนี้อีกแล้วล่ะครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "comethenletusseekavesselatthepier",
       "text_en": "Come then, let us seek a vessel at the pier.",
       "text": "ถ้าอย่างนั้น ไปตามหาเรือแถวๆ ท่าเรือกันเถอะครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ivepresentedourticketswhileimnostrangertoboatsicanthelpbutfeelalittleexcited",
       "text_en": "I've presented our tickets. While I'm no stranger to boats, I can't help but feel a little excited!",
       "text": "ผมยื่นตั๋วให้พนักงานเรียบร้อยแล้วล่ะครับ ถึงแม้ผมจะไม่ได้แปลกหน้าอะไรกับการนั่งเรือสักเท่าไหร่ แต่ก็อดรู้สึกตื่นเต้นนิดๆ ไม่ได้เลยนะครับเนี่ย!"
     },
     {
-      "character": "Gondolier",
+      "key": "wecanpushoffatanytimemindthegapwhenyouboard",
       "text_en": "We can push off at any time. Mind the gap when you board.",
       "text": "เรือพร้อมออกตัวได้ตลอดเวลาเลยครับ ตอนก้าวขึ้นเรือโปรดระมัดระวังช่องว่างระหว่างทางเดินด้วยนะครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "doyourememberwhatisaidtoyoubeforeallthis",
       "text_en": "Do you remember what I said to you before all this?",
       "text": "คุณยังจำเรื่องที่ผมเคยพูดกับคุณก่อนที่เรื่องราวทั้งหมดนี้จะเริ่มต้นขึ้นได้ไหมครับ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thatlifeisaseriesofjourneysthatyoumustbetruetoyourselfforindeedtheresnotellingwhatawaits",
       "text_en": "That life is a series of journeys. That you must be true to yourself, for indeed, there's no telling what awaits.",
       "text": "เรื่องที่ว่าชีวิตคือการเดินทางที่ต่อเนื่องยาวนาน การที่พวกเราต้องซื่อสัตย์จริงใจกับความรู้สึกของตัวเอง เพราะพวกเราไม่อาจล่วงรู้ได้เลยว่ามีอะไรรอคอยเราอยู่ข้างหน้า"
     },
     {
-      "character": "G'raha Tia",
+      "key": "idontknowaboutyoubuticertainlydidntexpecttobeholdsuchsightsthefutureisasfluidasthewaterbeneathustruly",
       "text_en": "I don't know about you, but I certainly didn't expect to behold such sights. The future is as fluid as the water beneath us, truly.",
       "text": "สำหรับคุณผมไม่รู้นะครับ แต่สำหรับผมแล้ว ผมไม่ได้คาดคิดเลยว่าจะได้มาเห็นภาพทิวทัศน์แบบนี้กับตา อนาคตเบื้องหน้าช่างมีความลื่นไหลเปลี่ยนแปลงได้ง่ายดายเหมือนกับสายน้ำที่รองรับเรือของพวกเราอยู่ตอนนี้จริงๆ ครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "tellmemyfriendhaveyoueverwishedtobereunitedwithsomeonewhohaspassedaway",
       "text_en": "Tell me, my friend. Have you ever wished to be reunited with someone who has passed away?",
       "text": "บอกผมหน่อยสิครับเพื่อนรัก คุณเคยมีความรู้สึกปรารถนาอยากจะกลับไปพบหน้าใครบางคนที่จากไปแล้วบ้างไหมครับ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ihaveidobutithinkaboveallelseiwishthattheyhadlived",
       "text_en": "I have. I do. But I think... Above all else, I wish that they had lived.",
       "text": "ผมเคยครับ... และตอนนี้ก็ยังรู้สึกอยู่ แต่ทว่าผมคิดว่า... เหนือสิ่งอื่นใดทั้งหมด สิ่งที่ผมปรารถนาที่สุดคือการอยากให้พวกเขายังมีชีวิตอยู่ต่อ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ifonlyforonemoredayonemoredayajoyousoneificouldchoose",
       "text_en": "If only for one more day. One more day... A joyous one, if I could choose.",
       "text": "ขอเพียงแค่อีกวันเดียวก็ยังดี... อีกเพียงแค่วันเดียว... และถ้าหากเลือกได้ ก็อยากให้เป็นวันที่มีแต่ความสุขร่าเริงใจด้วยครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ididallthaticouldtomakeithappenitriedeverythingsparednothing",
       "text_en": "I did all that I could to make it happen. I tried everything. Spared nothing.",
       "text": "ผมทำทุกวิถีทางเท่าที่จะทำได้เพื่อให้มันเกิดขึ้นจริง ลองทำทุกอย่างแล้วโดยไม่เสียดายอะไรเลย"
     },
     {
-      "character": "G'raha Tia",
+      "key": "inthatmanneriwasabletokeepsomefewsoulsoutofharmswaybutsosomanywerebeyondmypowertosave",
       "text_en": "In that manner, I was able to keep some few souls out of harm's way. But so, so many were beyond my power to save.",
       "text": "ด้วยวิธีนั้น ผมจึงสามารถช่วยดึงรั้งชีวิตบางส่วนให้อยู่รอดปลอดภัยพ้นจากอันตรายมาได้ แต่ก็ยังมีชีวิตอีกจำนวนมากมายเหลือเกินครับที่อยู่เหนือขอบเขตพลังความสามารถที่ผมจะเอื้อมมือไปช่วยคุ้มภัยได้ทัน"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whatwouldihavedonethenhadithis",
       "text_en": "What would I have done then, had I this ...?",
       "text": "ถ้าหากในตอนนั้น... ตัวผมมีวิทยาการเทคโนโลยีแบบเดียวกับที่นี่ล่ะก็ ผมจะเลือกตัดสินใจอย่างไรกันนะ...?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "andyoucanyouimagineyourselfspendingeternityhereknowingnoloss",
       "text_en": "And you—can you imagine yourself spending eternity here, knowing no loss?",
       "text": "แล้วสำหรับคุณล่ะครับ—คุณจินตนาการภาพตัวเองมาพำนักอาศัยใช้ชีวิตอยู่ที่นี่ชั่วนิรันดร์ โดยไม่ต้องประสบพบเจอกับความสูญเสียใดๆ ออกไหมครับ?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "twasnicetochatwithyouagainmyfrienditfeelsasthoughithasbeensometime",
       "text_en": "'Twas nice to chat with you again, my friend. It feels as though it has been some time.",
       "text": "ดีใจจังครับที่ได้มานั่งคุยเปิดอกกับคุณอีกครั้ง รู้สึกเหมือนไม่ได้ทำแบบนี้มาพักใหญ่แล้วนะเนี่ย"
     },
     {
-      "character": "G'raha Tia",
+      "key": "havingmetendlesslikeeuclaseifeelivecometounderstandsphenealittlebetter",
       "text_en": "Having met Endless like Euclase, I feel I've come to understand Sphene a little better.",
       "text": "พอได้ลองพูดคุยเจอกับเอ็นด์เลสอย่างคุณยูเคลสแล้ว มันช่วยให้ผมรู้สึกเข้าใจความรู้สึกของสฟีนขึ้นมาอีกนิดหนึ่งเลยครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "anyonewouldwishthosedeartothemalongandhappyfutureandshebearstheburdenofthisdesireforallhersubjects",
       "text_en": "Anyone would wish those dear to them a long and happy future, and she bears the burden of this desire for all her subjects.",
       "text": "ไม่ว่าใครก็ย่อมอยากให้คนสำคัญของตนมีอนาคตที่ยืนยาวและเปี่ยมสุขทั้งนั้นแหละครับ และเธอก็กำลังแบกรับภาระอันหนักอึ้งของความปรารถนานั้นแทนราษฎรทั้งหมดของเธออยู่"
     },
     {
-      "character": "G'raha Tia",
+      "key": "yetaskrilesaidwetoohavepeoplewecannotlose",
       "text_en": "Yet as Krile said, we too have people we cannot lose...",
       "text": "แต่ก็อย่างที่คุณไครล์พูดนั่นแหละครับ ฝั่งพวกเราเองก็มีคนสำคัญที่ไม่อาจยอมสูญเสียไปได้เช่นกัน..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "comeforenamewecangettothefountainviayonderbridge",
       "text_en": "Come, Forename . We can get to the fountain via yonder bridge.",
       "text": "ไปกันเถอะครับ [ชื่อ] พวกเราสามารถเดินข้ามสะพานตรงโน้นไปหาที่ตั้งของน้ำพุได้ครับ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "nowthatilookatitcloselytheclockhasnohandsonaccountoftherebeingnoneedtokeeptrackoftimeperhaps",
       "text_en": "Now that I look at it closely, the clock has no hands. On account of there being no need to keep track of time, perhaps.",
       "text": "พอลองสังเกตดูใกล้ๆ หอนาฬิกาอันนั้นไม่มีเข็มนาฬิกาติดตั้งอยู่เลยแฮะ คงเป็นเพราะว่าที่ดินแดนแห่งนี้ไม่มีความจำเป็นต้องคอยนับวันเวลาอีกต่อไปแล้วล่ะมั้งครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "finishedtalkingtothelocalshaveyouidbekeentohearyourimpressions",
       "text_en": "Finished talking to the locals, have you? I'd be keen to hear your impressions.",
       "text": "คุยสอบถามพูดคุยกับชาวเมืองเรียบร้อยแล้วใช่ไหมจ๊ะ? ฉันอยากฟังความประทับใจและความคิดเห็นของพวกเธอจังเลย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "krileanderenvillearestilloutandaboutitseems",
       "text_en": "Krile and Erenville are still out and about, it seems.",
       "text": "ดูเหมือนไครล์กับเอเรนวิลล์จะยังเดินสำรวจกันอยู่แถวอื่นเลยแฮะ"
     },
     {
-      "character": "Cahciua",
+      "key": "sohowwasitwhatareyourimpressionsofthoseyoumet",
       "text_en": "So, how was it? What are your impressions of those you met?",
       "text": "เป็นยังไงบ้างจ๊ะ? รู้สึกอย่างไรกับคนเมืองนี้ที่ได้พบเจอกันบ้างล่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itwasgreateveryonewassohappyjusttalkingtothemmademehappytoo",
       "text_en": "It was great! Everyone was so happy, just talking to them made me happy too.",
       "text": "วิเศษมากเลยล่ะ! ทุกคนดูมีความสุขร่าเริงกันมากๆ แค่ได้ไปนั่งคุยกับพวกเขาก็พลอยทำให้ฉันรู้สึกมีความสุขตามไปด้วยเลย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whataboutyouforename",
       "text_en": "What about you, Forename ?",
       "text": "แล้วนายล่ะ [ชื่อ]?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sweetheartsreunitedthatsamiracle",
       "text_en": "Sweethearts reunited? That's a miracle!",
       "text": "คู่รักที่พลัดพรากได้กลับมาพบกันงั้นเหรอ? ปาฏิหาริย์ชัดๆ เลย!"
     },
     {
-      "character": "Cahciua",
+      "key": "whileitisamiracleafterafashionthesystemstrivestomakesuchencounterspossible",
       "text_en": "While it is a miracle after a fashion, the system strives to make such encounters possible.",
       "text": "ถึงแม้จะพูดว่าเป็นปาฏิหาริย์ก็เถอะจ้ะ แต่ความจริงคือนวัตกรรมของระบบนี้ต่างหากที่ทุ่มเททำงานเพื่อให้การพบเจอเหล่านั้นเกิดขึ้นได้จริง"
     },
     {
-      "character": "Cahciua",
+      "key": "ifyoumeetsomeoneyouknowitsprobablynotbychancetheterminalsholdinformationonunfulfilledlongingsandusethemtoorchestratereunionslikeeuclases",
       "text_en": "If you meet someone you know, it's probably not by chance. The terminals hold information on unfulfilled longings, and use them to orchestrate reunions like Euclase's.",
       "text": "การที่พวกเธอได้พบเจอคนรู้จักที่นี่ ส่วนใหญ่มักไม่ใช่เรื่องบังเอิญหรอกจ้ะ เพราะเครื่องเทอร์มินัลจะกักเก็บข้อมูลความปรารถนาโหยหาที่ไม่ได้รับการเติมเต็มเอาไว้ แล้วคอยประมวลผลจัดการจับคู่ให้เกิดการหวนกลับมาพบกันใหม่เหมือนอย่างกรณีของยูเคลสนี่แหละจ้ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "iseethattheterminalscandothisisimpressiveindeedbutthereisonethingidonotunderstand",
       "text_en": "I see... That the terminals can do this is impressive indeed. But there is one thing I do not understand.",
       "text": "อย่างนี้นี่เอง... การที่ระบบเครื่องเทอร์มินัลจัดการเรื่องแบบนี้ได้ช่างน่าทึ่งจริงๆ ครับ แต่มีเรื่องหนึ่งที่ผมยังไม่ค่อยเข้าใจเท่าไหร่"
     },
     {
-      "character": "G'raha Tia",
+      "key": "accordingtoeuclasehisbelovedpassedawaydecadesafterhedidyettheyappearedtobeoflikeage",
       "text_en": "According to Euclase, his beloved passed away decades after he did, yet they appeared to be of like age.",
       "text": "ตามข้อมูลที่ยูเคลสเล่ามา หญิงคนรักของเขาเสียชีวิตหลังจากเขาหลายสิบปี แต่ทำไมรูปร่างลักษณะภายนอกยามที่มาเจอกันถึงดูมีอายุไล่เลี่ยกันได้ล่ะครับ?"
     },
     {
-      "character": "Cahciua",
+      "key": "ahyespeoplearenotnecessarilyrecreatedastheywerewhentheypassedaway",
       "text_en": "Ah, yes. People are not necessarily recreated as they were when they passed away.",
       "text": "อ้า ใช่แล้วจ้ะ ความจริงแล้วระบบไม่ได้จำเป็นต้องชุบจำลองภาพลักษณ์ขึ้นมาตามสภาพในวันที่คนคนนั้นเสียชีวิตหรอกนะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "theappearanceofanendlessispeculatereflectsthehappiestperiodintheirlife",
       "text_en": "The appearance of an Endless, I speculate, reflects the happiest period in their life.",
       "text": "เท่าที่แม่ตั้งสมมติฐานไว้ รูปร่างหน้าตาภายนอกของชาวเอ็นด์เลสน่าจะถอดแบบสะท้อนมาจากช่วงเวลาที่พวกเขามีความสุขที่สุดในชีวิตน่ะจ้ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isthatthecaseforyouthennotthaticantellhowoldyouareasslowlyasyourpeopleage",
       "text_en": "Is that the case for you, then? Not that I can tell how old you are, as slowly as your people age.",
       "text": "งั้นเรื่องนี้ก็เป็นแบบเดียวกันกับตัวคุณด้วยใช่ไหมคะ? แต่ฉันก็ดูไม่ค่อยออกหรอกนะว่าคุณมีอายุเท่าไหร่ เพราะชาวเผ่าของคุณแก่ตัวช้ามากๆ เลย"
     },
     {
-      "character": "Cahciua",
+      "key": "imnotsuretobehonestihavesomanyhappytimesitshardtoknowwhichoneapplies",
       "text_en": "I'm not sure, to be honest. I have so many happy times, it's hard to know which one applies.",
       "text": "บอกตามตรงว่าแม่เองก็ไม่ค่อยแน่ใจเหมือนกันจ้ะ เพราะช่วงเวลาที่แม่มีความสุขมันมีเยอะมากเหลือเกิน จนเดาไม่ถูกเลยว่าหน้าตอนนี้ถอดแบบมาจากช่วงไหนน่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "iminsufferablyinquisitivewhetheritsnatureortechnologyicanthelpbutwanttolearnmoreabouttheworldaroundme",
       "text_en": "I'm insufferably inquisitive. Whether it's nature or technology, I can't help but want to learn more about the world around me.",
       "text": "แถมแม่ยังเป็นคนประเภทอยากรู้อยากเห็นเป็นที่สุด ไม่ว่าจะเป็นเรื่องของธรรมชาติหรือเทคโนโลยีล้ำสมัย ก็อดรนทนไม่ได้ที่จะต้องออกไปเสาะหาเรียนรู้สิ่งใหม่ๆ รอบตัวเสมอ"
     },
     {
-      "character": "Cahciua",
+      "key": "youmightsaythatdiscoveryiswhatgivesmejoyitmademehappyinlifeandmayhavebeenablessingafterwards",
       "text_en": "You might say that discovery is what gives me joy. It made me happy in life...and may have been a blessing afterwards.",
       "text": "จะพูดว่าการค้นพบสิ่งใหม่คือความสุขสูงสุดของชีวิตแม่ก็คงได้ล่ะมั้งจ๊ะ เรื่องนั้นทำให้แม่มีชีวิตชีวามากในอดีต... และก็น่าจะเป็นผลดีต่อเนื่องมาจนถึงชีวิตหลังความตายในตอนนี้ด้วย"
     },
     {
-      "character": "Cahciua",
+      "key": "theotherendlessarecontentwithwhattheyhavehereyouseetheydontdeveloptheurgetoleave",
       "text_en": "The other Endless are content with what they have here, you see. They don't develop the urge to leave.",
       "text": "เพราะว่าชาวเอ็นด์เลสคนอื่นๆ เขามักจะพึงพอใจและมีความสุขอยู่กับสิ่งที่ได้รับภายในดินแดนแห่งนี้อยู่แล้วจ้ะ พวกเขาเลยไม่เคยมีความรู้สึกอยากจะย้ายหนีออกไปข้างนอกบาเรียเลย"
     },
     {
-      "character": "Cahciua",
+      "key": "butiwassodeterminedtoseetheworldagainthatitaughtmyselfhowtogaincontrolofavesselandventuredoutside",
       "text_en": "But I was so determined to see the world again that I taught myself how to gain control of a vessel and ventured outside.",
       "text": "แต่สำหรับแม่ แม่มีความมุ่งมั่นตั้งใจอย่างแรงกล้าที่จะออกไปสัมผัสโลกกว้างอีกครั้ง ก็เลยศึกษาและฝึกฝนเรียนรู้วิธีควบคุมหุ่นยนต์ร่างเชื่อมต่อนั่น แล้วก็แอบหนีออกไปผจญภัยข้างนอกนั่นแหละจ้ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehyoureaproperrebel",
       "text_en": "Heh, you're a proper rebel!",
       "text": "ฮะๆ คุณนี่ก็นักบุกเบิกขาลุยของจริงเลยนะเนี่ย!"
     },
     {
-      "character": "Cahciua",
+      "key": "wellthatsenoughaboutmefornowwhilewewaitforkrileandeleneshpyaihaveafavortoaskofyou",
       "text_en": "Well, that's enough about me for now. While we wait for Krile and Elene'shpya, I have a favor to ask of you.",
       "text": "เอาล่ะ พักเรื่องของแม่ไว้แค่นี้ก่อนดีกว่าจ้ะ ในระหว่างที่พวกเรากำลังเฝ้ารอไครล์กับเอเลเนสเพีย (Elene'shpya) แม่มีเรื่องอยากจะรบกวนให้ช่วยทำหน่อยน่ะจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "asyoumayhavenoticedmostofthefountainsherearentrunningthatsbecausedespiteitsshinyappearancethiscityiscenturiesoldandeverythingisdreadfullyrundown",
       "text_en": "As you may have noticed, most of the fountains here aren't running. That's because, despite its shiny appearance, this city is centuries old and everything is dreadfully run-down.",
       "text": "พวกเธอน่าจะสังเกตเห็นแล้วใช่ไหมจ๊ะว่าน้ำพุส่วนใหญ่แถวนี้ไม่ยอมทำงานเลย นั่นก็เพราะว่า ต่อให้เปลือกภายนอกจะดูสวยงามวาววับ แต่ความจริงคือเมืองนี้มีอายุหลายร้อยปีแล้ว และระบบอุปกรณ์อะไรต่างๆ ก็ชำรุดทรุดโทรมไปตามกาลเวลามากเลยล่ะจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thefountainsapparentlyusedtoputonmagnificentshowsandiwashopingthatwecouldgetthemworkingagain",
       "text_en": "The fountains apparently used to put on magnificent shows, and I was hoping that we could get them working again.",
       "text": "ตามข้อมูลบอกไว้ว่าน้ำพุพวกนี้เคยใช้แสดงโชว์ระดับอลังการตระการตามาก่อน และแม่ก็หวังอยากจะเห็นระบบพ่นน้ำพวกนี้กลับมาทำงานได้อีกครั้งจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "givingthecontrolunitsadoseofaethershouldbeenoughtorestorethecircuitsandswitchthemonbutbeinganendlessimunabletodothat",
       "text_en": "Giving the control units a dose of aether should be enough to restore the circuits and switch them on. But being an Endless, I'm unable to do that.",
       "text": "เพียงแค่แผ่พลังงานอีเธอร์เข้าไปกระตุ้นแผงควบคุมระบบ ก็น่าจะช่วยซ่อมแซมฟื้นฟูแผงวงจรและเปิดให้เครื่องทำงานได้แล้วจ้ะ แต่ในฐานะเอ็นด์เลส แม่ไม่มีแหล่งพลังงานที่จะลงมือทำเรื่องนั้นได้เองเลย"
     },
     {
-      "character": "Cahciua",
+      "key": "irealizethisisaselfishrequestbutatthelastidliketotreatthepeopleheretothedisplay",
       "text_en": "I realize this is a selfish request, but at the last, I'd like to treat the people here to the display.",
       "text": "แม่รู้ดีว่ามันเป็นคำขอที่ดูเอาแต่ใจตัวเองไปหน่อย แต่อย่างน้อยในวาระสุดท้ายนี้ แม่ก็อยากจะจัดการแสดงน้ำพุอันแสนวิเศษนี้ให้เป็นของขวัญแก่ราษฎรของที่นี่สักครั้งจ้ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "justleaveittousidlovetoseetheshowmyself",
       "text_en": "Just leave it to us! I'd love to see the show myself!",
       "text": "ปล่อยเป็นหน้าที่พวกเราเอง! ฉันเองก็อยากจะเห็นโชว์การแสดงนั่นเหมือนกันล่ะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "thankyouthecontrolunitsarebuiltintothesurroundinglamppostsifyoutendtoafewofthemeachyoullbedonebeforeyouknowit",
       "text_en": "Thank you. The control units are built into the surrounding lampposts. If you tend to a few of them each, you'll be done before you know it.",
       "text": "ขอบใจมากนะจ๊ะ ตัวแผงควบคุมจะติดตั้งแฝงอยู่ในพวกเสาไฟส่องสว่างรอบๆ นี้แหละจ้ะ ถ้าพวกเธอช่วยกันแผ่พลังงานกระตุ้นคนละต้นสองต้น แป๊บเดียวก็เสร็จเรียบร้อยแล้วจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "oncethefountainsarefixedwecanroundupeleneshpyaandkrileandheadtothehydroterminaltogether",
       "text_en": "Once the fountains are fixed, we can round up Elene'shpya and Krile and head to the Hydro Terminal together.",
       "text": "พอน้ำพุกลับมาใช้งานได้ตามปกติแล้ว พวกเราจะได้ไปตามตัวเอเลเนสเพียกับไครล์มาร่วมกลุ่ม แล้วมุ่งหน้าไปยังไฮโดรเทอร์มินัล (Hydro Terminal) พร้อมๆ กันจ้ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "sothetimeisnighcomeletussettoit",
       "text_en": "So the time is nigh... Come, let us set to it.",
       "text": "ใกล้จะได้เวลาแล้วสินะครับ... มาเถอะ พวกเราไปลุยจัดการเรื่องนี้กันเถอะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thismustbethecontrol",
       "text_en": "This must be the control.",
       "text": "แผงควบคุมต้องอยู่ตรงเสานี้แน่ๆ เลยครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itlookslikeordinarystonebutinsideitselectropetalkaboutconfusing",
       "text_en": "It looks like ordinary stone, but inside it's electrope. Talk about confusing.",
       "text": "รูปร่างภายนอกดูเหมือนเสาหินธรรมดาๆ แท้ๆ แต่ข้างในกลับกลายเป็นแร่เอเลกโทรปซะงั้น ชวนสับสนขัดแย้งสายตาดีจริงๆ"
     },
     {
-      "character": "Cahciua",
+      "key": "thefountainshowsaresupposedlymagnificentperhapstheyllimpressevenmyfussylittlebunbun",
       "text_en": "The fountain shows are supposedly magnificent. Perhaps they'll impress even my fussy little bunbun.",
       "text": "การแสดงน้ำพุที่ว่ากันว่าสุดยอดอลังการนั้น บางทีอาจจะช่วยทำให้เจ้าลูกกระต่ายน้อยแสนจู้จี้จุกจิกของแม่รู้สึกทึ่งขึ้นมาบ้างก็ได้นะจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "weveswitchedonthecircuitslikeyouasked",
       "text_en": "We've switched on the circuits like you asked.",
       "text": "พวกเราเปิดใช้กระแสไฟระบบแผงวงจรตามที่คุณบอกเรียบร้อยแล้วล่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thankyoueveryonehopefullythisdoesthetrick",
       "text_en": "Thank you, everyone. Hopefully this does the trick.",
       "text": "ขอบใจทุกคนมากนะจ๊ะ หวังว่าวิธีนี้จะได้ผลนะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "oh",
       "text_en": "Oh!",
       "text": "โอ้!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "amazing",
       "text_en": "Amazing...",
       "text": "งดงามมากเลยค่ะ"
     },
     {
-      "character": "Delighted Girl",
+      "key": "wow",
       "text_en": "Wow!",
       "text": "ว้าว!"
     },
     {
-      "character": "Delighted Girl",
+      "key": "lookmotherlook",
       "text_en": "Look, Mother! Look!",
       "text": "ดูโน่นสิคะคุณแม่! ดูน้ำพุสิคะ!"
     },
     {
-      "character": "Canal Town Male Endless (no text)",
+      "key": "impressedreaxwow",
       "text_en": "[IMPRESSED REAX “Wow”]",
       "text": "(ไม่มีบทพูด - แสดงท่าทางทึ่ง \"ว้าว\")"
     },
     {
-      "character": "Krile",
+      "key": "itsbeautiful",
       "text_en": "It's beautiful.",
       "text": "งดงามมากเลยค่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "iveneverseenanythinglikeit",
       "text_en": "I've never seen anything like it.",
       "text": "ฉันไม่เคยเห็นอะไรที่วิเศษขนาดนี้มาก่อนเลยจ้ะ"
     },
     {
-      "character": "???",
+      "key": "wuklamat",
       "text_en": "Wuk Lamat!",
       "text": "วุค ลามัต!"
     },
     {
-      "character": "???",
+      "key": "whereareyouwuklamat",
       "text_en": "Where are you? Wuk Lamat!",
       "text": "ลูกอยู่ที่ไหนน่ะ? วุค ลามัต!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "bythegodsitsnamikka",
       "text_en": "By the gods... It's...Namikka...",
       "text": "คุณพระช่วย... นั่นมัน... นามิกก้านี่..."
     },
     {
-      "character": "Namikka",
+      "key": "beggingyourpardonbutimlookingforachildasmallxbraalgirlhaveyouseenherbychance",
       "text_en": "Begging your pardon, but I'm looking for a child—a small Xbr'aal girl. Have you seen her by chance?",
       "text": "ขออภัยด้วยนะคะคุณผู้หญิง พอดีฉันกำลังตามหาเด็กน้อยคนหนึ่งน่ะค่ะ—เป็นเด็กผู้หญิงชนเผ่าชิบราลตัวเล็กๆ ไม่ทราบว่าคุณบังเอิญเห็นเธอผ่านมาแถวนี้บ้างไหมคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youyouarenamikkaarentyou",
       "text_en": "You—you are Namikka, aren't you?",
       "text": "คุณ... คุณคือนามิกก้าจริงๆ ใช่ไหม?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsmewuklamatdontyourecognizeme",
       "text_en": "It's me, Wuk Lamat. Don't you recognize me?",
       "text": "นี่ฉันเอง วุค ลามัต ไง จำฉันไม่ได้เหรอ?"
     },
     {
-      "character": "Namikka",
+      "key": "ohwhatamitodothechildandiwearentrelatedbybloodbutshesasdeartomeasmyown",
       "text_en": "Oh, what am I to do? The child and I, we aren't related by blood, but she's as dear to me as my own...",
       "text": "โธ่ ฉันจะทำยังไงดีล่ะเนี่ย? ถึงตัวเด็กคนนั้นกับฉันจะไม่ได้มีสายเลือดเดียวกัน แต่เธอก็เป็นดั่งดวงใจและแสนล้ำค่าสำหรับฉันเหมือนลูกแท้ๆ เลย..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsallrightyouvefoundherimhere",
       "text_en": "It's all right. You've found her. I'm here.",
       "text": "ไม่เป็นไรนะน้า... น้าเจอตัวเธอแล้วล่ะ ฉันอยู่ตรงนี้แล้ว"
     },
     {
-      "character": "Namikka",
+      "key": "youcoulditbe",
       "text_en": "You...could it be?",
       "text": "คุณ... หรือว่าจะเป็น...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yesnamikkayouknowtheseeyesthisvoiceitsmewuklamat",
       "text_en": "Yes, Namikka. You know these eyes, this voice. It's me, Wuk Lamat.",
       "text": "ใช่แล้วล่ะนามิกก้า น้าจำดวงตาคู่นี้และน้ำเสียงนี้ได้สิ นี่ฉันเอง วุค ลามัต"
     },
     {
-      "character": "Namikka",
+      "key": "gaspofrealization",
       "text_en": "[GASP OF REALIZATION]",
       "text": "(สูดหายใจด้วยความตื่นตะลึงระลึกได้)"
     },
     {
-      "character": "Namikka",
+      "key": "itisyouhowsillyofmebutifyoureherethenthatmeans",
       "text_en": "It is you! How silly of me. But if you're here, then that means...",
       "text": "เป็นลูกจริงๆ ด้วย! ฉันนี่ช่างเซ่อซ่าเหลือเกิน แต่การที่ลูกมาอยู่ตรงนี้ได้ แปลว่า..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nonoimstillalive",
       "text_en": "No, no. I'm still alive.",
       "text": "เปล่าหรอกจ้ะ ไม่ใช่แบบนั้น ฉันยังมีชีวิตอยู่ดีนะ"
     },
     {
-      "character": "Namikka",
+      "key": "relievedsigh",
       "text_en": "[RELIEVED SIGH]",
       "text": "(ถอนหายใจด้วยความโล่งอก)"
     },
     {
-      "character": "Namikka",
+      "key": "goodgoodthankthegodsforthat",
       "text_en": "Good, good... Thank the gods for that...",
       "text": "ดีแล้ว... ดีจริงๆ ค่ะ... ขอบคุณเทพเจ้าที่คอยคุ้มครอง..."
     },
     {
-      "character": "Namikka",
+      "key": "butwhatpowerhasbroughtustogetheragainthisisntadreamisit",
       "text_en": "But what power has brought us together again? This isn't a dream, is it?",
       "text": "แต่ทว่ามีพลังปาฏิหาริย์ใดกันนะที่นำพาให้พวกเราได้กลับมาพบเจอกันอีกครั้ง? นี่ฉันไม่ได้กำลังฝันไปใช่ไหมจ๊ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsnotadream",
       "text_en": "It's not a dream.",
       "text": "ไม่ใช่ความฝันหรอกจ้ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "orratheritisadreamcometrueisowantedtohearyourvoiceonemoretime",
       "text_en": "Or rather, it is a dream come true. I so wanted to hear your voice one more time.",
       "text": "หรือถ้าจะพูดให้ถูก มันคือความฝันที่เป็นจริงต่างหากล่ะ ฉันปรารถนาอยากจะได้ยินน้ำเสียงอันอบอุ่นของน้าอีกสักครั้งเหลือเกิน"
     },
     {
-      "character": "Namikka",
+      "key": "justlookatyoumywuklamatstrongerandmoreassuredthaniveeverseen",
       "text_en": "Just look at you. My Wuk Lamat. Stronger and more assured than I've ever seen.",
       "text": "ดูตัวลูกตอนนี้สิจ๊ะ วุค ลามัตของฉัน เติบโตขึ้นมาดูแข็งแกร่งและสง่างามมั่นคงกว่าที่ฉันเคยเห็นในวันวานเยอะแยะเลยล่ะ"
     },
     {
-      "character": "Namikka",
+      "key": "suchhazardsyoumusthavebravedandhardshipsenduredtocomesofar",
       "text_en": "Such hazards you must have braved and hardships endured to come so far...",
       "text": "ตลอดทางที่ผ่านมา ลูกคงต้องเผชิญกับอันตรายและฝ่าฟันความยากลำบากมาอย่างหนักหน่วงเลยสินะจ๊ะ กว่าจะเดินทางมาถึงจุดนี้ได้..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itwastoughbutimadeitthankstomyfriends",
       "text_en": "It was tough, but I made it thanks to my friends.",
       "text": "มันก็ยากลำบากจริงๆ นั่นแหละจ้ะ แต่ที่ฉันผ่านมันมาได้ก็เพราะมีเพื่อนๆ คอยช่วยสนับสนุนเสมอนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andtoyounamikka",
       "text_en": "And to you, Namikka.",
       "text": "และก็ต้องขอบคุณน้าด้วยเหมือนกันนะ นามิกก้า"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imthepersoniamnowbecauseyoualwaysbelievedinmebecauseyoulovedmeasifiwereyourowndaughter",
       "text_en": "I'm the person I am now because you always believed in me. Because you loved me as if I were your own daughter.",
       "text": "ที่ฉันก้าวมาเป็นคนแบบทุกวันนี้ได้ ก็เพราะมีน้าคอยเชื่อมั่นในตัวฉันอยู่เสมอ และคอยรักคอยเอาใจใส่ดูแลฉันเหมือนเป็นลูกสาวแท้ๆ ของตัวเองตลอดมา"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouthankyouyoureeverythingicouldveaskedforthebestmother",
       "text_en": "Thank you, thank you. You're everything I could've asked for—the best mother!",
       "text": "ขอบใจนะ ขอบใจน้าจริงๆ น้าคือทุกสิ่งทุกอย่างที่ชีวิตฉันต้องการเลย... เป็นแม่ที่ดีที่สุดเลยล่ะ!"
     },
     {
-      "character": "Namikka",
+      "key": "ahhhimsoglad",
       "text_en": "Ahhh... I'm so glad...",
       "text": "อา... ฉันดีใจเหลือเกินจ้ะ..."
     },
     {
-      "character": "Namikka",
+      "key": "lookingbackivehadablessedlifeanditwasbecauseiwasapartofyours",
       "text_en": "Looking back, I've had a blessed life. And it was because I was a part of yours.",
       "text": "พอนึกย้อนทบทวนดูแล้ว ชีวิตของฉันช่างเป็นชีวิตที่เปี่ยมสุขและได้รับพรประเสริฐยิ่งนัก และนั่นก็เป็นเพราะตัวฉันได้มีโอกาสเข้ามาเป็นส่วนหนึ่งของชีวิตลูกนะจ๊ะ"
     },
     {
-      "character": "Namikka",
+      "key": "whenilostmychildtoillnessithoughtidneverknowhappinessagainbutitrekindledinmybreasttheinstantyousmiledyourlittlesmileatmeyoubecamemypurposemyjoy",
       "text_en": "When I lost my child to illness, I thought I'd never know happiness again. But it rekindled in my breast the instant you smiled your little smile at me. You became my purpose. My joy.",
       "text": "ตอนที่ฉันต้องสูญเสียลูกแท้ๆ ไปเพราะอาการเจ็บป่วย ฉันเคยนึกว่าตัวเองคงไม่มีวันที่จะพบเจอกับความสุขได้อีกแล้วล่ะจ้ะ แต่ทว่าประกายความหวังนั้นกลับจุดประกายขึ้นในอกอีกครั้ง ในวินาทีแรกที่ลูกส่งรอยยิ้มเล็กๆ ไร้เดียงสานั้นส่งมาให้ฉัน นับแต่วันนั้น ลูกจึงกลายเป็นเป้าหมายชีวิตและเป็นความสุขสูงสุดของฉันจ้ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youwereminetoo",
       "text_en": "You were mine too.",
       "text": "น้าเองก็เป็นเป้าหมายและความสุขของฉันเหมือนกันจ้ะ"
     },
     {
-      "character": "Namikka",
+      "key": "tohavethischancetospeakwithyouagainandleavenothingunsaidiknownothoworwhybutiamgratefulsograteful",
       "text_en": "To have this chance to speak with you again and leave nothing unsaid... I know not how or why, but I am grateful. So grateful.",
       "text": "การที่ได้รับโอกาสดีๆ ในการพูดคุยฝากคำร่ำลากันอีกครั้งโดยไม่หลงเหลือความคาใจใดๆ อีก... ฉันไม่รู้หรอกนะจ๊ะว่าทำไมหรืออย่างไร แต่ในใจฉันมีแต่ความซาบซึ้งและขอบคุณเหลือเกินจ้ะ"
     },
     {
-      "character": "Namikka",
+      "key": "whereyoumustgoicannotfollowbutknowthatillalwaysbewithyoutakecareofyourselfpromiseme",
       "text_en": "Where you must go, I cannot follow, but know that I'll always be with you. Take care of yourself. Promise me.",
       "text": "หนทาเบื้องหน้าที่ลูกต้องก้าวเดินต่อ ฉันคงไม่อาจติดตามเคียงข้างไปด้วยได้ แต่จงรับรู้นะจ๊ะว่าจิตวิญญาณของฉันจะคอยอยู่เคียงข้างลูกเสมอ ดูแลตัวเองให้ดีๆ นะ สัญญากับฉันสิจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwillmamaiwill",
       "text_en": "I will, Mama. I will.",
       "text": "ฉันสัญญาค่ะคุณแม่นม... ฉันสัญญาค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andonedaywellmeetagain",
       "text_en": "And one day...we'll meet again!",
       "text": "แล้วสักวันหนึ่ง... พวกเราจะได้กลับมาพบเจอกันอีกครั้งนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iunderstandwhysphenecannotbeartoletthemgo",
       "text_en": "I understand why Sphene cannot bear to let them go.",
       "text": "ตอนนี้ฉันเข้าใจแล้วล่ะว่าทำไมสฟีนถึงทนยอมรับกับการปล่อยวางพวกเขาสลายไปไม่ได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butaspainfulasitistopart",
       "text_en": "But as painful as it is to part...",
       "text": "แต่ทว่าต่อให้การร่ำลาพบความจากลามันจะเจ็บปวดทรมานสักแค่ไหน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "weremeanttoliveanddietoletgoandletotherscarryoninoursteadwecantclingtoeverythingforever",
       "text_en": "We're meant to live and die. To let go and let others carry on in our stead. We can't cling to everything forever.",
       "text": "วัฏจักรของพวกเราคือการเกิดและหนทางสู่ความตาย การรู้จักปล่อยวางและปล่อยให้คนรุ่นหลังก้าวสืบทอดรับช่วงต่อแทนพวกเรา พวกเราไม่สามารถกอดเก็บสิ่งสำคัญทุกอย่างเอาไว้กับตัวชั่วนิรันดร์ได้หรอก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "comeletskeepmoving",
       "text_en": "Come, let's keep moving!",
       "text": "มาเถอะ พวกเราออกเดินทางไปข้างหน้ากันต่อได้แล้ว!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "theshowwasbreathtakingwasitnot",
       "text_en": "The show was breathtaking, was it not?",
       "text": "การแสดงน้ำพุเมื่อกี้ ช่างงดงามตระการตาจนแทบหยุดหายใจเลยนะครับ?"
     },
     {
-      "character": "Cahciua",
+      "key": "ivemadeawonderfulmemorythankyou",
       "text_en": "I've made a wonderful memory. Thank you.",
       "text": "แม่ได้รับความทรงจำอันแสนล้ำค่าเพิ่มมาอีกเรื่องหนึ่งแล้วล่ะจ้ะ ขอบใจพวกเธอมากนะ"
     },
     {
-      "character": "Krile",
+      "key": "namikkalookedtrulyhappy",
       "text_en": "Namikka looked truly happy...",
       "text": "คุณน้านามิกก้าดูมีความสุขจากใจจริงเลยนะคะ..."
     },
     {
-      "character": "Erenville",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Wuk Lamat",
+      "key": "justtomakesurecahciuayourenotgoingtodisappearwhenweshutthisterminaldownright",
       "text_en": "Just to make sure, Cahciua—you're not going to disappear when we shut this terminal down, right?",
       "text": "ขอถามเพื่อความแน่ใจหน่อยนะคุณคาชิวา—คุณจะไม่ได้สลายหายไปยามที่พวกเราปิดเครื่องเทอร์มินัลของเขตนี้ใช่ไหม?"
     },
     {
-      "character": "Cahciua",
+      "key": "notjustyetitstheaeroterminalinthenorthwesternzonethatholdsmymemories",
       "text_en": "Not just yet. It's the Aero Terminal in the northwestern zone that holds my memories.",
       "text": "ยังไม่ถึงคิวของฉันหรอกจ้ะ แหล่งบันทึกความทรงจำของแม่ถูกกักเก็บไว้ในแอร์โรเทอร์มินัล (Aero Terminal) ของเขตทางตะวันตกเฉียงเหนือต่างหากล่ะจ้ะ"
     },
     {
-      "character": "Erenville",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Cahciua",
+      "key": "youalreadyknowhowtooperatetheterminalitsthesameprocessasthefountainscontrol",
       "text_en": "You already know how to operate the terminal. It's the same process as the fountain's control.",
       "text": "ขั้นตอนการใช้งานเครื่องเทอร์มินัลพวกเธอก็รู้หลักการทำงานแล้วใช่ไหมจ๊ะ วิธีการก็ทำแบบเดียวกับที่ใช้กระตุ้นแผงควบคุมระบบน้ำพุนั่นแหละจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "ileaveitforyoutodecidewhentoshutitdowndoingsowillcausetheendlessheretofadeawaytogetherwiththisbeautifulscenery",
       "text_en": "I leave it for you to decide when to shut it down. Doing so will cause the Endless here to fade away, together with this beautiful scenery.",
       "text": "แม่จะปล่อยให้พวกเธอเป็นคนตัดสินใจเลือกจังหวะเวลากดปิดระบบเองนะจ๊ะ ยามที่พวกเธอสั่งปิดการทำงาน กลุ่มเอ็นด์เลสของเขตนี้ก็จะค่อยๆ เลือนสลายหายไป... พร้อมๆ กับทัศนียภาพอันแสนงดงามแห่งนี้ด้วย"
     },
     {
-      "character": "Cahciua",
+      "key": "ifyoustillwishtospeakwithpeopleorseethesightsyoullwanttodothatfirst",
       "text_en": "If you still wish to speak with people or see the sights, you'll want to do that first.",
       "text": "เพราะฉะนั้น หากพวกเธอยังมีคนที่อยากจะทักทายพูดคุยด้วย หรือมีวิวทิวทัศน์ที่อยากเดินสำรวจชมเพิ่มเติม ก็จัดการเรื่องพวกนั้นให้เสร็จสิ้นเรียบร้อยเสียก่อนนะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "sleeptighteveryone",
       "text_en": "Sleep tight, everyone...",
       "text": "หลับฝันดีนะจ๊ะทุกคน..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "ihadbracedmyselfforitbuttoactuallyerasetheendlessishard",
       "text_en": "I had braced myself for it, but to actually erase the Endless is...hard.",
       "text": "ถึงผมจะพยายามเตรียมใจยอมรับผลลัพธ์นี้ล่วงหน้ามาแล้ว แต่พอถึงเวลาที่ต้องมาลบตัวตนของกลุ่มเอ็นด์เลสเข้าจริงๆ... มันช่างทำใจลำบากเหลือเกินครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "thankyou",
       "text_en": "Thank you.",
       "text": "ขอบใจพวกเธอมากนะจ๊ะ"
     },
     {
-      "character": "Krile",
+      "key": "thisislivingmemorystrueappearance",
       "text_en": "This is Living Memory's true appearance...",
       "text": "นี่คือรูปร่างทัศนียภาพที่แท้จริงของลิฟวิ่งเมโมรีสินะคะ..."
     },
     {
-      "character": "Erenville",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Wuk Lamat",
+      "key": "thishurtsidbelyingifisaidotherwise",
       "text_en": "This hurts. I'd be lying if I said otherwise.",
       "text": "มันเจ็บปวดร้าวรานใจมากเลยล่ะ ถ้าบอกว่าไม่เจ็บก็คงเป็นการโกหกคำโตแน่ๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "buttheonlywaynowisforward",
       "text_en": "But the only way now is forward...",
       "text": "แต่ทว่าในยามนี้ ทางเดียวที่พวกเราต้องเลือกเดินคือการก้าวไปข้างหน้าเท่านั้น..."
     }

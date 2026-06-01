@@ -1,446 +1,438 @@
 {
-  "id": "the-endless-choice",
-  "wiki_path": "/wiki/The_Endless_Choice",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.3",
-  "title_en": "The Endless Choice",
-  "title": "การตัดสินใจอันไร้สิ้นสุด",
-  "level": "100",
-  "location": "Solution Nine(X:4.2,Y:18.9)",
-  "npc_start": "Wayakkwe",
+  "quest_id": "the-endless-choice",
   "dialogues": [
     {
-      "character": "Sphene",
+      "key": "fortheirsakesihavetoremaincalm",
       "text_en": "For their sakes, I have to remain calm...",
       "text": "เพื่อเป็นหลักใจของพวกเขา ฉันจำเป็นต้องตั้งสติและทำใจเข้มแข็งเข้าไว้ค่ะ..."
     },
     {
-      "character": "Milos",
+      "key": "wheniwassickandcouldntmovemymotherwasalwaysatmysidealwayskeepingmecompanyandimgoingtodothesameforher",
       "text_en": "When I was sick and couldn't move, my mother was always at my side, always keeping me company. And I'm going to do the same for her!",
       "text": "ตอนที่ผมป่วยหนักจนขยับร่างกายไม่ได้ ท่านแม่คอยอยู่ดูแลเคียงข้างกายผมเสมอ คอยเฝ้าไม่ห่างไปไหนเลยครับ และตอนนี้ผมก็ตั้งใจจะอยู่ดูแลเคียงข้างเฝ้าท่านแม่แบบนั้นเหมือนกันครับ!"
     },
     {
-      "character": "Krile",
+      "key": "illtakecareofthisgentlemangoandcheckonisadoraandmilos",
       "text_en": "I'll take care of this gentleman. Go and check on Isadora and Milos!",
       "text": "เดี๋ยวทางสุภาพบุรุษคนนี้ฉันจะคอยช่วยเหลือดูแลความปลอดภัยให้เองค่ะ คุณรีบไปดูอาการของอิซาดอร่ากับไมลอสเถอะค่ะ!"
     },
     {
-      "character": "Radius Resident",
+      "key": "whywhyisthishappening",
       "text_en": "Why...? Why is this happening...?",
       "text": "ทำไมกัน...? ทำไมเรื่องร้ายแรงแบบนี้ถึงต้องมาเกิดขึ้นกับพวกเราด้วย...?"
     },
     {
-      "character": "Wayakkwe",
+      "key": "ourcomradeyouthinkhemayhavebeenstruckdown",
       "text_en": "Our comrade...you think he may have been struck down?",
       "text": "สหายของพวกเรา... คุณคิดว่าเขาอาจจะถูกทำร้ายจนเสียชีวิตไปแล้วงั้นเหรอคะ?"
     },
     {
-      "character": "Wayakkwe",
+      "key": "ifheiswoundedorworseishouldgotohim",
       "text_en": "If he is wounded or worse, I should go to him...",
       "text": "ถ้าเขาบาดเจ็บหรือเกิดเรื่องที่ร้ายแรงกว่านั้นขึ้นมา ฉันควรจะรีบไปช่วยเขา..."
     },
     {
-      "character": "Sphene",
+      "key": "waitpleaseitisntsafeandyoustillneedrestwouldyoustaywithmilosandwatchoverisadoraforme",
       "text_en": "Wait! Please. It isn't safe and you still need rest. Would you stay with Milos and watch over Isadora for me?",
       "text": "เดี๋ยวก่อนค่ะ! ได้โปรดเถอะ ตอนนี้ข้างนอกมันไม่ปลอดภัยเลยนะคะ และคุณเองก็ยังต้องพักผ่อนร่างกายอยู่ด้วย ช่วยกรุณาอยู่ดูแลไมลอสและเฝ้าอาการของอิซาดอร่าแทนฉันจะได้ไหมคะ?"
     },
     {
-      "character": "Sphene",
+      "key": "wewilltendtoyourfriend",
       "text_en": "We will tend to your friend.",
       "text": "ทางสหายของคุณคนนั้น พวกเราจะเป็นฝ่ายไปช่วยดูแลให้เองค่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "ithankyoupleasebecarefulyourself",
       "text_en": "I... Thank you. Please be careful yourself.",
       "text": "ฉัน... ขอบคุณมากค่ะ ขอความกรุณาช่วยระมัดระวังตัวด้วยนะคะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "isadoraandmiloshadcompletedtheirapplicationstoleavethedomeandwerepracticallyoutthedoorwhenallthishappenedwellmakesuretheyretakencareofthemomentisadoraisreadytotravel",
       "text_en": "Isadora and Milos had completed their applications to leave the dome and were practically out the door when...all this happened. We'll make sure they're taken care of the moment Isadora is ready to travel.",
       "text": "ที่จริงอิซาดอร่ากับไมลอสทำเรื่องยื่นขอเดินทางออกจากโดมเสร็จเรียบร้อยแล้วค่ะ และเกือบจะก้าวเท้าออกจากประตูเมืองอยู่แล้วเชียวตอนที่...เกิดเรื่องบ้าๆ ทั้งหมดนี่ขึ้นมา เดี๋ยวพวกเราจะคอยดูแลดูแลพวกเขาให้ดีที่สุดทันทีที่อิซาดอร่าพร้อมจะเดินทางค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "thatmanhethisisawful",
       "text_en": "That man, he... This is awful.",
       "text": "ผู้ชายคนนั้น เขา... ช่างเป็นเรื่องที่โหดร้ายเหลือเกินค่ะ"
     },
     {
-      "character": "Radius Resident",
+      "key": "whywhyisthishappening",
       "text_en": "Why...? Why is this happening...?",
       "text": "ทำไมกัน...? ทำไมเรื่องร้ายแรงแบบนี้ถึงต้องมาเกิดขึ้นกับพวกเราด้วย...?"
     },
     {
-      "character": "Krile",
+      "key": "isadoraisgoingtobealrightthenimsoglad",
       "text_en": "...Isadora is going to be alright, then? I'm so glad.",
       "text": "...ถ้าอย่างนั้น อาการของอิซาดอร่าก็ปลอดภัยไม่เป็นอะไรแล้วสินะคะ? โล่งอกไปทีค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "ivejustfinishedmyministrationshere",
       "text_en": "I've just finished my ministrations here.",
       "text": "ทางด้านผู้บาดเจ็บตรงนี้ ฉันเองก็ปฐมพยาบาลช่วยเหลือเสร็จเรียบร้อยแล้วค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "ouroblivioncomradewasbeyondsavingimafraid",
       "text_en": "Our Oblivion comrade was beyond saving, I'm afraid...",
       "text": "แต่น่าเสียดายที่สหายจากกลุ่มอ็อบลิเวียนคนนั้น... พวกเราช่วยชีวิตเขาไว้ไม่ทันการแล้วล่ะค่ะ..."
     },
     {
-      "character": "Sphene",
+      "key": "thatbravesoulhegavehislifetosaveanother",
       "text_en": "That brave soul. He gave his life to save another...",
       "text": "ช่างเป็นจิตวิญญาณที่กล้าหาญจริงๆ ค่ะ เขายอมสละชีวิตของตนเองเพื่อปกป้องชีวิตของผู้อื่น..."
     },
     {
-      "character": "Radius Resident",
+      "key": "hediedprotectingmeidontunderstandwhyanyofthisishappening",
       "text_en": "He died protecting me... I don't understand why any of this is happening!",
       "text": "เขาเสียชีวิตเพื่อปกป้องตัวข้าแท้ๆ... ข้าไม่เข้าใจเลยจริงๆ ว่าทำไมเรื่องพรรค์นี้ถึงต้องมาเกิดขึ้นด้วย!"
     },
     {
-      "character": "Radius Resident",
+      "key": "thatsentrywasbehavingnormallylikeanyotherthenallofasuddenitittriedtokillme",
       "text_en": "That sentry was behaving normally, like any other. Then, all of a sudden, it...it tried to kill me!",
       "text": "ก่อนหน้านั้นทหารยามจักรกลตัวนั้นก็ขยับตัวทำหน้าที่ตามปกติเหมือนตัวอื่นๆ แท้ๆ แต่แล้วจู่ๆ มันก็...มันก็พยายามจะเข้ามาฆ่าข้า!"
     },
     {
-      "character": "Krile",
+      "key": "weaponsornocalyxcommandedthemtocommitmurder",
       "text_en": "Weapons or no, Calyx commanded them to commit murder...",
       "text": "ไม่ว่าจะติดตั้งอาวุธอยู่หรือไม่ก็ตาม แต่คาลิกซ์ก็ยังคงสั่งการให้พวกมันก่อเหตุฆาตกรรมเข่นฆ่าผู้คนอยู่ดีค่ะ..."
     },
     {
-      "character": "Hopeful Oblivion Member",
+      "key": "isitoverwecameassoonaswayakkwesentword",
       "text_en": "Is it over!? We came as soon as Wayakkwe sent word...",
       "text": "เหตุการณ์สงบลงแล้วเหรอครับ!? พวกเราเร่งเดินทางมาทันทีหลังจากได้รับสัญญาณแจ้งข่าวจากวายักเวเลยครับ..."
     },
     {
-      "character": "Sphene",
+      "key": "iamsorrybythetimewearriveditwasalreadytoolate",
       "text_en": "I am sorry... By the time we arrived, it was already too late.",
       "text": "ฉันขอโทษนะคะ... กว่าพวกเราจะเดินทางมาถึงที่นี่ มันก็สายเกินไปเสียแล้วค่ะ"
     },
     {
-      "character": "Anxious Oblivion Member",
+      "key": "thengeodecouldbeintroubletoooncewehavethisradiuslockeddownweneedtofindhim",
       "text_en": "...Then Geode could be in trouble, too. Once we have this radius locked down, we need to find him.",
       "text": "...ถ้าอย่างนั้น คุณจีโอดเองก็อาจจะกำลังตกอยู่ในอันตรายด้วยเหมือนกันครับ พอกั้นพื้นที่ป้องกันในเขตนี้เสร็จเรียบร้อยแล้ว พวกเราคงต้องรีบออกไปตามหาตัวเขาด่วนเลยครับ"
     },
     {
-      "character": "Sphene",
+      "key": "butwhyhassomethinghappened",
       "text_en": "But why...? Has something happened!?",
       "text": "แต่ทำไมกันคะ...? เกิดเรื่องอะไรขึ้นกับเขาอย่างนั้นเหรอคะ!?"
     },
     {
-      "character": "Anxious Oblivion Member",
+      "key": "possiblywerenotsurewhatbuthestoppedrespondingtoourcommunications",
       "text_en": "Possibly. We're not sure what, but he stopped responding to our communications.",
       "text": "มีความเป็นไปได้สูงครับ พวกเราก็ไม่มั่นใจเหมือนกันว่าเกิดอะไรขึ้น แต่ว่าจู่ๆ เขาก็ขาดการติดต่อและไม่ตอบสนองต่อสัญญาณสื่อสารของพวกเราไปดื้อๆ เลยครับ"
     },
     {
-      "character": "Hopeful Oblivion Member",
+      "key": "weneedtoprioritizesecuringtheresidentialsectorthoughatleastuntilweregaincontroloverthesentries",
       "text_en": "We need to prioritize securing the residential sector, though, at least until we regain control over the sentries...",
       "text": "แต่พวกเราจำเป็นต้องให้ความสำคัญกับการรักษาความปลอดภัยในเขตที่อยู่อาศัยนี้ก่อนครับ อย่างน้อยก็จนกว่าจะควบคุมจำกัดการเคลื่อนไหวของพวกทหารยามจักรกลได้..."
     },
     {
-      "character": "Sphene",
+      "key": "thenweshouldsearchforgeode",
       "text_en": "Then we should search for Geode.",
       "text": "ถ้าอย่างนั้น พวกเราจะเป็นฝ่ายออกตามหาตัวคุณจีโอดให้เองค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "iagreesincemostoblivionmembershaveswornoffregulatorsifourtheoryholdstruethentheycouldbeprimetargetsforthenextattack",
       "text_en": "I agree. Since most Oblivion members have sworn off regulators, if our theory holds true, then they could be prime targets for the next attack.",
       "text": "ฉันเห็นด้วยค่ะ เพราะว่าสมาชิกกลุ่มอ็อบลิเวียนส่วนใหญ่ตัดสินใจไม่สวมใส่เรกูเลเตอร์กันอยู่แล้ว หากสมมติฐานของพวกเราเป็นจริงล่ะก็ พวกเขาก็อาจจะตกเป็นเป้าหมายหลักโจมตีในระลอกถัดไปได้ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "pleasedowhatyoucantoshepherdtheresidentstosafetybutavoidthesentriesatallcosts",
       "text_en": "Please do what you can to shepherd the residents to safety, but avoid the sentries at all costs.",
       "text": "ขอความกรุณาช่วยกันอพยพผู้พักอาศัยไปยังพื้นที่ปลอดภัยเท่าที่จะทำได้นะคะ แต่โปรดหลีกเลี่ยงการเผชิญหน้ากับพวกทหารยามจักรกลให้ดีที่สุดด้วยค่ะ"
     },
     {
-      "character": "Anxious Oblivion Member",
+      "key": "ourthanksheretakethesecommunicators",
       "text_en": "Our thanks. Here, take these communicators.",
       "text": "ขอบคุณมากครับ นี่ครับ โปรดรับอุปกรณ์สื่อสารนี้ไปด้วย"
     },
     {
-      "character": "Anxious Oblivion Member",
+      "key": "wevemademodificationstothemtopreventcalyxfrominterceptingthesignalandhavebeenusingthemtocoordinatemovementswithalliesinthevicinity",
       "text_en": "We've made modifications to them to prevent Calyx from intercepting the signal, and have been using them to coordinate movements with allies in the vicinity.",
       "text": "พวกเราดัดแปลงระบบอุปกรณ์นี้เพื่อป้องกันไม่ให้คาลิกซ์ดักฟังหรือแทรกแซงสัญญาณสื่อสารได้สำเร็จครับ และกำลังใช้เจ้านี่ในการประสานงานการเคลื่อนไหวกับพวกพันธมิตรในแถบพื้นที่นี้อยู่พอดีครับ"
     },
     {
-      "character": "Anxious Oblivion Member",
+      "key": "wayakkwehasonetoosoillaskhertokeephailinggeode",
       "text_en": "Wayakkwe has one too, so I'll ask her to keep hailing Geode.",
       "text": "วายักเวเองก็มีเครื่องนี้อยู่เหมือนกัน เดี๋ยวผมจะบอกให้เธอคอยส่งสัญญาณเรียกคุณจีโอดอยู่เรื่อยๆ ครับ"
     },
     {
-      "character": "Hopeful Oblivion Member",
+      "key": "goodluckandstaysafe",
       "text_en": "Good luck, and stay safe!",
       "text": "ขอให้โชคดีและเดินทางอย่างปลอดภัยนะครับ!"
     },
     {
-      "character": "Krile",
+      "key": "geodesaidhewouldsweepthesurroundingareasoheshouldnthaveventuredtoofarletsgetgoing",
       "text_en": "Geode said he would sweep the surrounding area, so he shouldn't have ventured too far. Let's get going!",
       "text": "คุณจีโอดบอกว่าจะสำรวจความเรียบร้อยรอบๆ แถวนี้อยู่ เพราะงั้นเขาคงไม่ได้เดินทางไปไหนไกลนักหรอกค่ะ พวกเรารีบไปกันเถอะ!"
     },
     {
-      "character": "Anxious Oblivion Member",
+      "key": "leavemattersheretouswellseetoourfallencomradeandmakesurenooneelsecomestoharm",
       "text_en": "Leave matters here to us. We'll see to our fallen comrade, and make sure no one else comes to harm.",
       "text": "เรื่องทางนี้ปล่อยให้เป็นหน้าที่ของพวกเราเถอะครับ พวกเราจะช่วยกันจัดการดูแลร่างของสหายที่ล่วงลับ และคอยระวังไม่ให้มีใครต้องได้รับบาดเจ็บอีกครับ"
     },
     {
-      "character": "Hopeful Oblivion Member",
+      "key": "ihopeyoufindgeodesooniknowhesprobablysavingpeoplewithonehandandfightingoffthreatswiththeotherbuticanthelpbutworry",
       "text_en": "I hope you find Geode soon. I know he's probably saving people with one hand and fighting off threats with the other, but I can't help but worry...",
       "text": "ผมหวังว่าพวกคุณจะพบตัวคุณจีโอดในเร็วๆ นี้นะครับ ผมรู้ว่าคนอย่างเขาคงกำลังใช้มือข้างหนึ่งช่วยชีวิตผู้คน และใช้อีกมือคอยต่อสู้ป้องกันภัยคุกคามอยู่แน่ๆ แต่ก็อดรู้สึกเป็นห่วงไม่ได้อยู่ดีครับ..."
     },
     {
-      "character": "Radius Resident",
+      "key": "praythankyourmilallafriendformeiwouldstillbeahelplessmessifnotforherencouragement",
       "text_en": "Pray thank your Milalla friend for me. I would still be a helpless mess if not for her encouragement...",
       "text": "ฝากขอบใจเพื่อนชาวมิลาลลา (Milalla) ของคุณแทนข้าด้วยนะ ข้าคงจะตื่นตระหนกทำอะไรไม่ถูกแน่ๆ ถ้าไม่ได้คำพูดช่วยให้กำลังใจของเธอคนนั้นช่วยเตือนสติน่ะ..."
     },
     {
-      "character": "Sphene",
+      "key": "pleasegeodepleasebesafe",
       "text_en": "Please, Geode... Please be safe...",
       "text": "คุณจีโอดคะ... ได้โปรดปลอดภัยด้วยเถอะนะคะ..."
     },
     {
-      "character": "Krile",
+      "key": "letssearcharoundtheapartmentsfirst",
       "text_en": "Let's search around the apartments first!",
       "text": "พวกเราลองค้นหาดูรอบๆ อาคารที่พักอาศัยกันก่อนเถอะค่ะ!"
     },
     {
-      "character": "Wayakkwe",
+      "key": "geodegeodeanswerme",
       "text_en": "Geode! Geode, answer me!",
       "text": "จีโอด! จีโอด ตอบฉันหน่อยสิ!"
     },
     {
-      "character": "Geode",
+      "key": "thisistheonlyplaceleftletthembesafe",
       "text_en": "This is the only place left. Let them be safe...",
       "text": "เหลือแค่พื้นที่ตรงนี้จุดสุดท้ายแล้ว ขอให้ทุกคนปลอดภัยดีด้วยเถอะ..."
     },
     {
-      "character": "Wayakkwe",
+      "key": "geodeareyouthereanswermeplease",
       "text_en": "Geode, are you there? Answer me, please!",
       "text": "จีโอด นายอยู่ที่นั่นหรือเปล่า? ช่วยตอบฉันหน่อยสิ ได้โปรด!"
     },
     {
-      "character": "Geode",
+      "key": "imheresorryforthelongsilenceivebeenbusy",
       "text_en": "I'm here. Sorry for the long silence─I've been busy.",
       "text": "ฉันอยู่ตรงนี้ ขอโทษทีที่ขาดการติดต่อชั่วคราว─พอดีกำลังยุ่งอยู่น่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "yourealivethankthegods",
       "text_en": "You're alive! Thank the gods...",
       "text": "นายยังไม่ตายสินะ! ขอบคุณสวรรค์..."
     },
     {
-      "character": "Wayakkwe",
+      "key": "whereareyounow",
       "text_en": "Where are you now!?",
       "text": "ตอนนี้ตัวนายอยู่ที่ไหนกันน่ะ!?"
     },
     {
-      "character": "Geode",
+      "key": "theradiusnextdoorthelobbyissecure",
       "text_en": "The radius next door. The lobby is secure.",
       "text": "เขตที่อยู่อาศัยถัดมาข้างๆ นี่แหละ ห้องโถงทางเข้าหลักปลอดภัยดีแล้ว"
     },
     {
-      "character": "Geode",
+      "key": "illscoutthesecondfloorthenilljoin",
       "text_en": "I'll scout the second floor, then I'll join...",
       "text": "เดี๋ยวฉันขอไปตรวจตราดูบนชั้นสองก่อน แล้วจะรีบตามไป..."
     },
     {
-      "character": "Geode",
+      "key": "thatdust",
       "text_en": "That dust...",
       "text": "ฝุ่นผงนั่น..."
     },
     {
-      "character": "Wayakkwe",
+      "key": "dustwhatareyoutalkingaboutwhatshappening",
       "text_en": "“Dust”? What are you talking about? What's happening?",
       "text": "\"ฝุ่นผง\" งั้นเหรอ? นายพูดเรื่องอะไรกันน่ะ? มันเกิดอะไรขึ้นเหรอ?"
     },
     {
-      "character": "Geode",
+      "key": "theyrenotjustcollectingsoulstheyredrainingthebodiesofcorporealaether",
       "text_en": "They're not just collecting souls. They're draining the bodies of corporeal aether.",
       "text": "พวกมันไม่ได้แค่คอยดักเก็บดวงวิญญาณเท่านั้นโว้ย... พวกมันกำลังดูดรีดเอเธอร์ทางกายภาพออกไปจากร่างของผู้คนด้วย"
     },
     {
-      "character": "Geode",
+      "key": "thedustthatwesawwasallthatwasleftofthevictimstheymusthavemodifiedthesoulcells",
       "text_en": "The “dust” that we saw was all that was left of the victims. They must have modified the soul cells...",
       "text": "ฝุ่นผงที่พวกเราเห็นตามพื้นนั่น แท้จริงแล้วคือเศษซากสังขารที่หลงเหลืออยู่ของเหยื่อพวกนั้น พวกมันคงทำการดัดแปลงระบบเซลล์ดวงวิญญาณ (soul cell)..."
     },
     {
-      "character": "Geode",
+      "key": "shit",
       "text_en": "Shit!",
       "text": "เวรเอ๊ย!"
     },
     {
-      "character": "Geode",
+      "key": "grunts",
       "text_en": "<grunts>",
       "text": "อึก...!"
     },
     {
-      "character": "Geode",
+      "key": "damnyou",
       "text_en": "Damn you!",
       "text": "ไอ้สารเลวเอ๊ย!"
     },
     {
-      "character": "Geode",
+      "key": "youcantbehereyouneedtorunnow",
       "text_en": "You can't be here! You need to run─now!",
       "text": "พวกเธอมาอยู่ที่นี่ไม่ได้นะ! รีบหนีไปซะ─เดี๋ยวนี้เลย!"
     },
     {
-      "character": "Geode",
+      "key": "atrap",
       "text_en": "A trap!?",
       "text": "นี่มันกับดักงั้นเร้อ!?"
     },
     {
-      "character": "Geode",
+      "key": "heh",
       "text_en": "Heh.",
       "text": "เหอะ..."
     },
     {
-      "character": "Geode",
+      "key": "takecareoftheotherseh",
       "text_en": "Take care of the others, eh?",
       "text": "ฝากดูแลคนอื่นๆ ที่เหลือด้วยนะ..."
     },
     {
-      "character": "Sphene",
+      "key": "nosignofhimsofarthiswaymaybe",
       "text_en": "No sign of him so far. This way, maybe...?",
       "text": "ยังไม่พบร่องรอยของคุณจีโอดเลยค่ะ ไปทางนี้ดูดีไหมคะ...?"
     },
     {
-      "character": "Krile",
+      "key": "geode",
       "text_en": "Geode...!?",
       "text": "คุณจีโอดคะ...!?"
     },
     {
-      "character": "???",
+      "key": "ashameihadhopedtoleaveherewithatleastonemorecellsworthofaether",
       "text_en": "A shame. I had hoped to leave here with at least one more cell's worth of aether.",
       "text": "ช่างน่าเสียดายจริงๆ ข้าคาดหวังว่าจะได้นำพาพลังงานเอเธอร์กลับไปให้ได้อย่างน้อยเทียบเท่ากับหนึ่งเซลล์ดวงวิญญาณแท้ๆ"
     },
     {
-      "character": "???",
+      "key": "butseeinghoweageryouaretointerfereishallcutthisforayshort",
       "text_en": "But seeing how eager you are to interfere, I shall cut this foray short.",
       "text": "แต่เมื่อดูจากท่าทางที่พวกเจ้าจ้องแต่จะเข้ามารบกวนขัดขวางข้าแบบนี้ ข้าคงต้องยุติการเดินทางเสาะหาในครั้งนี้ให้เร็วขึ้นแล้วล่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "calyx",
       "text_en": "Calyx!",
       "text": "คาลิกซ์!"
     },
     {
-      "character": "Sphene",
+      "key": "whatcouldyoupossiblystandtogainfromthesetheseatrocities",
       "text_en": "What could you possibly stand to gain from these...these atrocities!?",
       "text": "เธอทำเรื่อง... เรื่องที่โหดเหี้ยมทารุณผิดมนุษย์เหล่านี้ไปเพื่อประโยชน์อะไรกันคะ!?"
     },
     {
-      "character": "Calyx",
+      "key": "aethersufficienttogeneratefivethousandendlesshowwouldyouacquireit",
       "text_en": "Aether sufficient to generate five thousand Endless. How would you acquire it?",
       "text": "พลังงานเอเธอร์ที่มากพอจะนำไปรังสรรค์สร้างเอ็นด์เลสได้จำนวนห้าพันคน แล้วเจ้าจะไปจัดหามันมาจากที่ไหนกันล่ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "howwouldi",
       "text_en": "How would I...?",
       "text": "ฉันจะไปจัดหามาจากที่ไหนงั้นเหรอคะ...?"
     },
     {
-      "character": "Calyx",
+      "key": "untilihavethekeythereflectionsareclosedtomethusdoimakedowiththesourcesathand",
       "text_en": "Until I have the key, the reflections are closed to me. Thus do I make do with the sources at hand.",
       "text": "ตราบใดที่ข้ายังไม่ได้ครอบครองกุญแจ มิติโลกเงาสะท้อนต่างๆ ก็ยังคงปิดกั้นสำหรับข้าอยู่ ดังนั้น ข้าจึงต้องพึ่งพาและจัดการระบบพลังงานแหล่งกำเนิดที่มีอยู่ตรงหน้านี้แทนอย่างไรเล่า"
     },
     {
-      "character": "Calyx",
+      "key": "sevenpercentofalexandriascurrentpopulationwillyieldtheenergytoconvertfivethousandintoendlesswithelevenpercentoperationscouldcontinueunabatedforeighthundredyears",
       "text_en": "Seven percent of Alexandria's current population will yield the energy to convert five thousand into Endless. With eleven percent, operations could continue unabated for eight hundred years.",
       "text": "เพียงแค่เจ็ดเปอร์เซ็นต์ของจำนวนประชากรในอเล็กซานเดรียปัจจุบัน ก็จะช่วยให้เกิดพลังงานที่มากพอในการแปลงร่างผู้คนห้าพันคนให้เป็นเอ็นด์เลสได้แล้ว หากเป็นสิบเอ็ดเปอร์เซ็นต์ ระบบการทำงานก็จะดำเนินต่อไปได้โดยไม่มีสิ่งใดรบกวนได้ยาวนานถึงแปดร้อยปีทีเดียว"
     },
     {
-      "character": "Calyx",
+      "key": "ourbodiesarefatedtodecaysoonerorlatertheseonesrefusedthegiftofeternallifesowhatdifferencedoesitmakeifireturnthemtoaethernow",
       "text_en": "Our bodies are fated to decay, sooner or later. These ones refused the gift of eternal life, so what difference does it make if I return them to aether now?",
       "text": "สังขารอันเป็นเนื้อหนังของพวกเรานั้น ย่อมมีโชคชะตาที่จะต้องเสื่อมสลายผุพังไปในสักวันหนึ่งอยู่ดี ในเมื่อคนพวกนี้ปฏิเสธของขวัญแห่งชีวิตที่เป็นนิรันดร์ แล้วมันจะแตกต่างอะไรกันเล่าหากข้าจะส่งคืนร่างของพวกเขากลับไปสู่สภาวะเอเธอร์ตั้งแต่ตอนนี้เลย?"
     },
     {
-      "character": "Calyx",
+      "key": "iwillnotwastetimeandresourcesonmeaninglessconflictthisunitcannotofferyouworthwhileresistance",
       "text_en": "I will not waste time and resources on meaningless conflict. This unit cannot offer you worthwhile resistance.",
       "text": "ข้าจะไม่มัวเสียเวลาและทรัพยากรไปกับการต่อสู้อันไร้ค่าไร้ประโยชน์หรอกนะ ร่างหุ่นจำลองนี้ไม่มีกำลังความสามารถพอที่จะปะทะต่อต้านพวกเจ้าได้อย่างสมน้ำสมเนื้อหรอก"
     },
     {
-      "character": "Calyx",
+      "key": "insteadiposeaquestionwouldyouhandoverthekeyifipromisedtohaltmyharvest",
       "text_en": "Instead, I pose a question: would you hand over the key if I promised to halt my harvest?",
       "text": "แต่ข้ามีคำถามข้อหนึ่งอยากจะเสนอ: เจ้าจะยอมส่งมอบกุญแจสำคัญนั่นให้แก่ข้าไหม หากข้าสัญญาว่าจะยุติกระบวนการเก็บเกี่ยวชีวิตนี้ลง?"
     },
     {
-      "character": "Calyx",
+      "key": "itwasfoolishofmetoevenask",
       "text_en": "It was foolish of me to even ask.",
       "text": "ข้าช่างโง่เขลาเหลือเกินที่เอ่ยปากถามคำถามเช่นนั้นออกไป"
     },
     {
-      "character": "Calyx",
+      "key": "ireturntomyworkthenthereismuchtodoifimusttakethekeybyforce",
       "text_en": "I return to my work, then. There is much to do if I must take the key by force.",
       "text": "ถ้าอย่างนั้น ข้าขอตัวกลับไปทำงานของข้าต่อล่ะ มีภารกิจอีกหลายอย่างที่ต้องจัดการหากข้าต้องแย่งชิงสิทธิ์กุญแจมาด้วยกำลัง"
     },
     {
-      "character": "Krile",
+      "key": "icanttherearenowords",
       "text_en": "I can't... There are no words...",
       "text": "ฉันทนฟังไม่ได้เลยค่ะ... มันไร้คำพูดจะมาเอ่ยอธิบายจริงๆ..."
     },
     {
-      "character": "Sphene",
+      "key": "thispileofdusttheseashes",
       "text_en": "This pile of dust. These...ashes...",
       "text": "ฝุ่นผงกองนี้... ซากธุลีดินเหล่านี้..."
     },
     {
-      "character": "Sphene",
+      "key": "andthesoulcellheleftbehindwasthathistwistedwayofreturninggeodetous",
       "text_en": "And the soul cell he left behind... Was that his twisted way of returning Geode to us?",
       "text": "แล้วเซลล์ดวงวิญญาณที่คุณจีโอดทิ้งเอาไว้ข้างหลังนี่อีก... นี่คือวิธีการส่งตัวคุณจีโอดกลับคืนสู่พวกเราในรูปแบบที่บิดเบี้ยวของเขาอย่างนั้นเหรอคะ?"
     },
     {
-      "character": "Sphene",
+      "key": "damnyoucalyxdamnyouandyourcarelesscruelty",
       "text_en": "Damn you, Calyx... Damn you and your careless cruelty!",
       "text": "ไอ้คนสารเลวคาลิกซ์... ชั่วร้ายเหลือทนกับความโหดเหี้ยมอำมหิตโดยไม่สนใจไยดีใครของเธอจริงๆ!"
     },
     {
-      "character": "Sphene",
+      "key": "hewasourfriend",
       "text_en": "He was our friend...",
       "text": "เขาเคยเป็นสหายที่แสนดีของพวกเรา..."
     },
     {
-      "character": "Krile",
+      "key": "evensosomemightsayeverydeathwasjustifiedifitmeantfivethousandendlesscouldcontinuetheirimmortallives",
       "text_en": "Even so. Some might say every death was justified if it meant five thousand Endless could continue their immortal lives.",
       "text": "แต่ถึงอย่างนั้น... บางคนอาจจะบอกว่าการล้มตายของคนทุกคนนั้นถือเป็นเรื่องสมเหตุสมผลแล้ว หากมันช่วยต่อชีวิตอมตะให้แก่เอ็นด์เลสอีกห้าพันชีวิตดำเนินต่อไปได้ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "andifareflectionsstolenaetherallowedformanymoreendlesswhythattoowouldbeanoblesacrificeforthegreatergood",
       "text_en": "And if a reflection's stolen aether allowed for many more Endless? Why, that too would be a noble sacrifice for the greater good...",
       "text": "และถ้าหากเอเธอร์ที่ช่วงชิงมาจากโลกเงาสะท้อนอื่นๆ ช่วยชุบชีวิตเอ็นด์เลสให้มีจำนวนเพิ่มขึ้นอีกมากมายมหาศาลล่ะคะ? บางที พวกเขาก็คงจะมองว่าการเสียสละเพื่อประโยชน์ส่วนใหญ่เช่นนั้นเป็นสิ่งที่ทรงเกียรติและน่ายกย่องเหมือนกันค่ะ..."
     },
     {
-      "character": "Sphene",
+      "key": "whocouldthinkthat",
       "text_en": "Who could think that!?",
       "text": "ใครจะกล้าคิดแบบนั้นกันคะ!?"
     },
     {
-      "character": "Krile",
+      "key": "noti",
       "text_en": "Not I!",
       "text": "ไม่ใช่ฉันแน่นอนค่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "certainlynoti",
       "text_en": "...Certainly not I.",
       "text": "...ไม่มีทางเป็นฉันเด็ดขาดค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "weknowonlytoowellthereisnaughtnobleinthissacrifice",
       "text_en": "We know only too well... There is naught noble in this sacrifice.",
       "text": "เพราะพวกเราต่างรู้ดีซึ้งยิ่งกว่าใคร... ว่ามันไม่มีเกียรติยศหรือความน่ายกย่องใดๆ เลยในการเสียสละเช่นนี้ค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "wehavetostophimwehavetofindcalyxandputanendtothismadnessassoonaspossible",
       "text_en": "We have to stop him. We have to find Calyx, and put an end to this madness as soon as possible...",
       "text": "พวกเราต้องหยุดยั้งเขาให้ได้ค่ะ ต้องสืบหาตัวคาลิกซ์และยุติเรื่องราวบ้าคลั่งนี้ลงโดยเร็วที่สุดเท่าที่จะทำได้ค่ะ..."
     },
     {
-      "character": "Sphene",
+      "key": "andundernocircumstancescanweletthekeyfallintohispossessionforename",
       "text_en": "And under no circumstances can we let the key fall into his possession, Forename .",
       "text": "และไม่ว่าจะเกิดอะไรขึ้นก็ตาม พวกเราไม่มีวันปล่อยให้กุญแจสำคัญนั้นตกอยู่ในมือของเขาเด็ดขาดเลยนะคะ [ชื่อ]"
     },
     {
-      "character": "Sphene",
+      "key": "itfallstouswemustwewillthwarthisplanshereinalexandriabeforehecanterrorizeinnocentsinreflectionselsewhere",
       "text_en": "It falls to us. We must─we will thwart his plans here in Alexandria before he can terrorize innocents in reflections elsewhere...",
       "text": "หน้าที่นี้ตกเป็นของพวกเราแล้วค่ะ พวกเราจะต้อง─และจะต้องขัดขวางยับยั้งแผนการของเขาที่อเล็กซานเดรียแห่งนี้ให้สำเร็จ ก่อนที่เขาจะแผ่ขยายความน่ากลัวบ้าคลั่งไปเข่นฆ่าผู้บริสุทธิ์ในโลกเงาสะท้อนมิติอื่นๆ ค่ะ..."
     },
     {
-      "character": "Krile",
+      "key": "iwillholdontogeodesgunifyoucouldtakethesoulcellplease",
       "text_en": "I will hold on to Geode's gun... If you could take the soul cell, please...",
       "text": "ฉันจะช่วยดูแลเก็บรักษาปืนของคุณจีโอดเอาไว้เองค่ะ... ส่วนเซลล์ดวงวิญญาณนั่น ฝากคุณช่วยรับไว้ทีนะคะ..."
     }

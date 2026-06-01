@@ -1,821 +1,808 @@
 {
-  "id": "embracing-oblivion",
-  "wiki_path": "/wiki/Embracing_Oblivion",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/8/8b/Embracing_Oblivion.png",
-  "patch": "7.0",
-  "title_en": "Embracing Oblivion",
-  "title": "โอบรับอ็อบลิเวียน",
-  "level": "97",
-  "location": "Heritage Found(X:30.5,Y:12.0)",
-  "npc_start": "Cahciua",
+  "quest_id": "embracing-oblivion",
   "dialogues": [
     {
-      "character": "Alisaie",
+      "key": "havingseenthebeautyoftheaetherialseafirsthandisimplycantacceptwhattheyvedonehereinalexandria",
       "text_en": "Having seen the beauty of the aetherial sea firsthand, I simply can't accept what they've done here in Alexandria.",
       "text": "ในเมื่อพวกเราเคยไปเห็นความงดงามของทะเลอีเธอร์ด้วยตาตัวเองมาแล้ว ฉันยอมรับระบบและสิ่งที่พวกเขาทำขึ้นในอเล็กซานเดรียนี้ไม่ได้เด็ดขาดเลยล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "iunderstandthisispartoftheirculturebutitisnolessdisconcerting",
       "text_en": "I understand this is part of their culture, but it is no less disconcerting.",
       "text": "ฉันเข้าใจนะว่านี่คือส่วนหนึ่งของวัฒนธรรมดั้งเดิมของพวกเขา แต่ก็อดรู้สึกกังวลใจและหดหู่ไม่ได้อยู่ดีนั่นแหละค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whenemetselchspokeofsurprisingcivilizationsinotherreflectionsiwonderifhehadalexandriainmind",
       "text_en": "When Emet-Selch spoke of surprising civilizations in other reflections, I wonder if he had Alexandria in mind.",
       "text": "ตอนที่เอเมท-เซลช์เคยพูดพาดพิงถึงความน่าทึ่งของอารยธรรมในโลกเงาสะท้อนอื่นๆ... ผมอดคิดไม่ได้ว่าเขากำลังหมายถึงอเล็กซานเดรียแห่งนี้อยู่หรือเปล่านะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "sphenelookstobeofanagewithalisaieandwuklamatbutnowiwonderiftheseregulatorshaveanythingtodowiththat",
       "text_en": "Sphene looks to be of an age with Alisaie and Wuk Lamat, but now I wonder if these regulators have anything to do with that.",
       "text": "สฟีนดูแล้วน่าจะอายุไล่เลี่ยกับอลิเซและวุค ลามัต แต่ตอนนี้ผมชักสงสัยแล้วสิครับว่าพวกเรกูเลเตอร์จะมีส่วนเกี่ยวข้องกับเรื่องนี้ด้วยหรือเปล่า"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "regulatorsgivezoraaljaafrightfuladvantageandthatsjustoneofthedeviceshesgottenhishandson",
       "text_en": "Regulators give Zoraal Ja a frightful advantage, and that's just one of the devices he's gotten his hands on...",
       "text": "พวกเรกูเลเตอร์มอบความได้เปรียบที่น่ากลัวให้แก่โซราล จา และนั่นก็เป็นเพียงแค่อุปกรณ์ชิ้นหนึ่งที่เขาได้มันมาไว้ในครอบครอง..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifweretohaveachanceatdefeatinghimwehavetolearnallwecanaboutthetechnologyhehasathisdisposal",
       "text_en": "If we're to have a chance at defeating him, we have to learn all we can about the technology he has at his disposal.",
       "text": "ถ้าพวกเราอยากจะมีโอกาสโค่นเขาลงให้ได้ เราจำเป็นต้องเรียนรู้ทุกสิ่งทุกอย่างเกี่ยวกับเทคโนโลยีที่เขามีอยู่ในมือให้ได้มากที่สุด"
     },
     {
-      "character": "Cahciua",
+      "key": "itrustyouvegainedaninsightintotheuseofsoulsinalexandria",
       "text_en": "I trust you've gained an insight into the use of souls in Alexandria?",
       "text": "แม่หวังว่าพวกเธอจะเข้าใจวิธีการและระบบการนำดวงวิญญาณมาใช้งานในอเล็กซานเดรียมากขึ้นแล้วนะจ๊ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "itsshockingiknowiwasoverwhelmedmyselfatfirstiexpectyoullneedsometimetodigestitallbutfornowletsheadbacktoearthensky",
       "text_en": "It's shocking, I know—I was overwhelmed myself at first. I expect you'll need some time to digest it all, but for now, let's head back to Earthen Sky.",
       "text": "มันน่าตกใจใช่ไหมล่ะ แม่เข้าใจดี... ตอนแรกแม่เองก็ช็อกไปเหมือนกัน คิดว่าพวกเธอคงต้องใช้เวลาปรับตัวและย่อยข้อมูลทั้งหมดนี้สักหน่อย แต่สำหรับตอนนี้ พวกเรากลับไปที่เอิร์ทเทนสกาย (Earthen Sky) กันก่อนเถอะจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "atthisrate",
       "text_en": "At this rate...",
       "text": "ถ้าขืนเป็นแบบนี้ต่อไป..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theressomethingiwanttodiscusswitheveryoneletstakeamomentbeforeweheadintothetunnel",
       "text_en": "There's something I want to discuss with everyone. Let's take a moment before we head into the tunnel.",
       "text": "มีเรื่องหนึ่งที่ฉันอยากจะคุยกับทุกคนหน่อยน่ะ ขอเวลาคุยกันสักเดี๋ยวก่อนที่เราจะเดินเข้าอุโมงค์ไปนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "iunderstandtheargumentthatweshouldkeepanopenmindifthispracticeisintegraltotheirculturebuteveryfiberofmybeingrailsagainstit",
       "text_en": "I understand the argument that we should keep an open mind, if this practice is integral to their culture. But every fiber of my being rails against it...",
       "text": "ฉันเข้าใจข้อโต้แย้งที่ว่าเราควรเปิดใจยอมรับในเมื่อวิถีชีวิตแบบนี้เป็นส่วนสำคัญในวัฒนธรรมของพวกเขา แต่ถึงอย่างนั้น ทุกอณูในร่างกายของฉันก็ยังคัดค้านและยอมรับมันไม่ได้จริงๆ..."
     },
     {
-      "character": "Krile",
+      "key": "whatdoeslamatyiwishtodiscussiwonder",
       "text_en": "What does Lamaty'i wish to discuss, I wonder...",
       "text": "อยากรู้จังว่าลามาตี้อยากจะคุยเรื่องอะไรกับพวกเรากันนะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "tiswellthatwecouldseefirsthandhowregulatorsareusedtodrawuponeventhesoulsoffiendsishuddertoimaginehowpowerfulzoraaljacouldbecome",
       "text_en": "'Tis well that we could see firsthand how regulators are used. To draw upon even the souls of fiends... I shudder to imagine how powerful Zoraal Ja could become.",
       "text": "ดีแล้วล่ะครับที่เราได้มาเห็นกับตาตนเองว่าเรกูเลเตอร์ถูกนำมาใช้งานอย่างไร ขนาดดวงวิญญาณของสัตว์อสูรก็ยังเอามาป่นใช้ได้... คิดแล้วก็น่าขนลุกถ้านึกว่าโซราล จา จะแข็งแกร่งขึ้นได้ขนาดไหน"
     },
     {
-      "character": "Erenville",
+      "key": "tothinkthateveryonehaslivedhereforthirtyyearslongenoughtobecomeaccustomedtothewayoflife",
       "text_en": "To think that everyone has lived here for thirty years. Long enough to become accustomed to the way of life...",
       "text": "ไม่น่าเชื่อเลยว่าทุกคนจะใช้ชีวิตอยู่ที่นี่มาตั้งสามสิบปีแล้ว นานพอที่จะทำให้พวกเขาเคยชินกับวิถีชีวิตแบบนี้ไปหมดแล้วสินะครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imsorryfordelayingusbutihavesomethoughtsineedtoshare",
       "text_en": "I'm sorry for delaying us, but I have some thoughts I need to share.",
       "text": "ขอโทษทีนะที่ทำให้เสียเวลา แต่มีบางเรื่องที่ฉันรู้สึกว่าจำเป็นต้องแชร์ให้ทุกคนฟังน่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "inbothtechnologyandvaluesitsplaintheresawidegulfbetweentuliyollalandalexandria",
       "text_en": "In both technology...and values...it's plain there's a wide gulf between Tuliyollal and Alexandria.",
       "text": "ทั้งในแง่ของเทคโนโลยี... และค่านิยม... ชัดเจนเลยว่าทูลิโยลลัลและอเล็กซานเดรียมีช่องว่างที่กว้างขวางเหลือเกิน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andwhilezoraaljaknowseverythingaboutusweknowhardlyanythingaboutwhathesbecome",
       "text_en": "And while Zoraal Ja knows everything about us, we know hardly anything about what he's become.",
       "text": "และในขณะที่โซราล จา รู้เรื่องราวเกี่ยวกับพวกเราทุกอย่าง แต่พวกเรากลับแทบไม่รู้อะไรเลยเกี่ยวกับพลังของเขาในตอนนี้"
     },
     {
-      "character": "G'raha Tia",
+      "key": "indeedwehaventevenseenwhatlieswithinthatenormoustowereverkeep",
       "text_en": "Indeed... We haven't even seen what lies within that enormous tower, Everkeep.",
       "text": "นั่นสิครับ... พวกเรายังไม่ได้เข้าไปดูเลยด้วยซ้ำว่ามีอะไรอยู่ภายในหอคอยยักษ์เอเวอร์คีปนั่นน่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sohereidliketomakeaproposal",
       "text_en": "So here I'd like to make a proposal.",
       "text": "เพราะฉะนั้น ฉันเลยอยากจะยื่นข้อเสนออย่างหนึ่งน่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatisweworkwithcahciuaandherpeople",
       "text_en": "That is, we work with Cahciua and her people.",
       "text": "นั่นก็คือ... พวกเราจะร่วมมือทำงานกับคุณคาชิวาและกลุ่มของเธอ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "weneedtolearnasmuchaswecanabouttheenemythequickestwaywouldbetojoinhandswithoblivion",
       "text_en": "We need to learn as much as we can about the enemy. The quickest way would be to join hands with Oblivion.",
       "text": "พวกเราจำเป็นต้องเรียนรู้ข้อมูลเกี่ยวกับศัตรูให้ได้มากที่สุด และวิธีที่เร็วที่สุดก็คือการจับมือร่วมกับกลุ่มอ็อบลิเวียน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "weveonlyjustmetthemiknowandweshouldntbetooquicktotrustbutthefactremainsthattheyshareourdesiretostopzoraalja",
       "text_en": "We've only just met them, I know, and we shouldn't be too quick to trust. But the fact remains that they share our desire to stop Zoraal Ja.",
       "text": "ฉันรู้ว่าพวกเราเพิ่งจะรู้จักพวกเขา และไม่ควรด่วนวางใจเชื่อใครเร็วเกินไปนัก แต่ความจริงข้อหนึ่งก็คือ พวกเขามีเป้าหมายเดียวกับเราในการหยุดยั้งโซราล จา"
     },
     {
-      "character": "G'raha Tia",
+      "key": "sphenetooclaimstobeatoddswiththekingofresolvemayiaskwhyyouwouldcooperatewithoblivioninstead",
       "text_en": "Sphene, too, claims to be at odds with the King of Resolve. May I ask why you would cooperate with Oblivion instead?",
       "text": "คุณสฟีนเองก็บอกว่าขัดแย้งกับราชาแห่งปณิธานเหมือนกันนี่ครับ ขอถามหน่อยได้ไหมครับว่าทำไมคุณถึงเลือกที่จะร่วมมือกับทางอ็อบลิเวียนแทน?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itssimplereallytheirleaderiserenvillesmother",
       "text_en": "It's simple, really. Their leader is Erenville's mother.",
       "text": "เหตุผลมันง่ายมากเลยล่ะ ผู้นำของพวกเขาคือแม่ของเอเรนวิลล์ไง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "meanwhilewhateversphenemayfeelshesarulerofthisnationtheresagreaterriskinworkingwithherandlessreasontotakeheratherword",
       "text_en": "Meanwhile, whatever Sphene may feel, she's a ruler of this nation. There's a greater risk in working with her, and less reason to take her at her word.",
       "text": "ในขณะเดียวกัน ไม่ว่าสฟีนจะรู้สึกอย่างไร เธอก็ยังเป็นถึงผู้ปกครองของประเทศนี้ การทำงานร่วมกับเธอย่อมมีความเสี่ยงสูงกว่า และไม่มีเหตุผลเพียงพอที่เราจะปักใจเชื่อทุกคำพูดของเธอได้ร้อยเปอร์เซ็นต์"
     },
     {
-      "character": "G'raha Tia",
+      "key": "afairpointandknowingzoraaljawemustassumethathisarrangementwithsphenewasnotmadewithoutsomeconsideration",
       "text_en": "A fair point. And knowing Zoraal Ja, we must assume that his arrangement with Sphene was not made without some consideration.",
       "text": "เป็นเหตุผลที่ดีครับ และเมื่อพิจารณาจากนิสัยของโซราล จา เราก็ต้องเดาว่าการยอมทำข้อตกลงร่วมกับสฟีนของเขานั้นคงไม่ได้ทำไปโดยปราศจากการไตร่ตรองผลประโยชน์แน่ๆ"
     },
     {
-      "character": "Krile",
+      "key": "alliknowisthatitwouldbehearteningtohavealliesinthisstrangerealm",
       "text_en": "All I know is that it would be heartening to have allies in this strange realm.",
       "text": "เท่าที่ฉันรู้คือ การได้มีพันธมิตรในดินแดนประหลาดแห่งนี้น่าจะช่วยให้อุ่นใจขึ้นเยอะเลยล่ะค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "ithinkeveryonewouldagreethatanyhelpwecangetwouldbewelcome",
       "text_en": "I think everyone would agree that any help we can get would be welcome.",
       "text": "คิดว่าทุกคนก็น่าจะเห็นพ้องต้องกันนะคะว่า ความช่วยเหลือใดๆ ก็ตามที่เราได้มาในตอนนี้ล้วนเป็นเรื่องดีทั้งนั้นค่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "holdontheresnoguaranteethatitsactuallymymotherbehindthemachine",
       "text_en": "Hold on. There's no guarantee that it's actually my mother behind the machine.",
       "text": "เเดี๋ยวก่อนสิครับ ไม่มีอะไรมารับประกันเลยนะว่าคนที่ควบคุมเครื่องจักรนั่นอยู่จะเป็นแม่ของผมจริงๆ"
     },
     {
-      "character": "Erenville",
+      "key": "withoutseeingherinthefleshwecantruleoutthepossibilityofaploy",
       "text_en": "Without seeing her in the flesh, we can't rule out the possibility of a ploy.",
       "text": "ถ้าหากไม่ได้เห็นตัวจริงเสียงจริงของเธอ เราจะตัดความเป็นไปได้ที่ว่านี่อาจเป็นแผนลวงของศัตรูออกไปไม่ได้นะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "ifitturnsouttobeatrapweendangernotonlyourselvesbuteveryoneintuliyollal",
       "text_en": "If it turns out to be a trap, we endanger not only ourselves, but everyone in Tuliyollal.",
       "text": "ถ้าเกิดมันเป็นกับดักขึ้นมาจริงๆ เราจะไม่ใช่แค่พาตัวเองไปเจอกับอันตรายเท่านั้น แต่รวมถึงทุกคนในทูลิโยลลัลด้วยนะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asyousaywehavenoproofthatitreallyiscahciua",
       "text_en": "As you say, we have no proof that it really is Cahciua.",
       "text": "อย่างที่นายว่านั่นแหละ พวกเราไม่มีหลักฐานอะไรมายืนยันว่าหุ่นตัวนั้นคือคุณคาชิวาจริงๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butimakemyproposalinfullawarenessofthis",
       "text_en": "But I make my proposal in full awareness of this.",
       "text": "ทว่าฉันยื่นข้อเสนอนี้โดยตระหนักถึงความเสี่ยงข้อนี้ดีอยู่แล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whetherweregoingtowarorstrivingforpeaceweneedtolearnasmuchaswecanotherwisewecanthopetodoanythingmeaningful",
       "text_en": "Whether we're going to war or striving for peace, we need to learn as much as we can. Otherwise we can't hope to do anything meaningful.",
       "text": "ไม่ว่าเราจะเลือกทำสงครามหรือต่อสู้เพื่อสันติภาพ สิ่งจำเป็นที่สุดคือการหาข้อมูลความรู้ให้ได้มากที่สุด ไม่อย่างนั้นเราคงไม่สามารถลงมือทำสิ่งใดสำเร็จได้อย่างมีความหมายหรอก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asitstandsweknowtoolittleaboutthisrealmweneedtoremedythatweneedtostudytheenemyandwhenthetimecomesstrikedownzoraaljaforgoodandall",
       "text_en": "As it stands, we know too little about this realm. We need to remedy that. We need to study the enemy, and when the time comes, strike down Zoraal Ja for good and all.",
       "text": "ในสภาพปัจจุบัน พวกเราแทบไม่รู้จักอะไรเกี่ยวกับดินแดนแห่งนี้เลย เราต้องรีบแก้ไขจุดบกพร่องข้อนี้ด่วน เราต้องศึกษาวิเคราะห์ศัตรู และเมื่อถึงเวลาที่เหมาะสม เราจะปลิดชีวิตโซราล จา ลงให้จงได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatsmore",
       "text_en": "What's more...",
       "text": "และที่สำคัญกว่านั้น..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itrustyouerenvilleyouvealwayshadgreatinstinctshonedfromyourtimetrainingunderyourmother",
       "text_en": "I trust you , Erenville. You've always had great instincts, honed from your time training under your mother.",
       "text": "ฉันเชื่อใจนายนี่นา เอเรนวิลล์ นายมีสัญชาตญาณที่ยอดเยี่ยมอยู่เสมอ สัญชาตญาณที่ได้รับการฝึกฝนมาอย่างดีจากการสั่งสอนของคุณแม่นายน่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "whatifimwrongwhatifsentimentiscloudingmyjudgment",
       "text_en": "What if I'm wrong? What if sentiment is clouding my judgment?",
       "text": "แล้วถ้าผมคาดเดาผิดไปล่ะครับ? จะเกิดอะไรขึ้นถ้าความรู้สึกส่วนตัวกำลังทำให้การตัดสินใจของผมไขว้เขวอยู่?"
     },
     {
-      "character": "Erenville",
+      "key": "sighthatsalwaysthewayofitwithyou",
       "text_en": "<sigh> That's always the way of it with you...",
       "text": "นายนี่มักจะชอบใช้วิธีนี้อยู่เรื่อยเลยนะ..."
     },
     {
-      "character": "Erenville",
+      "key": "fineifyouresetonthisthenillsaynomore",
       "text_en": "Fine. If you're set on this, then I'll say no more.",
       "text": "ก็ได้ครับ ในเมื่อเธอตัดสินใจแน่วแน่ขนาดนี้แล้ว ผมก็จะไม่พูดขัดอะไรอีกแล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenitssettledletsheadinsideandsecureourselvessomenewallies",
       "text_en": "Then it's settled. Let's head inside and secure ourselves some new allies!",
       "text": "งั้นตกลงตามนี้เถอะ! พวกเราบุกเข้าไปข้างในเดี๋ยวนี้เลย ไปต้อนรับพวกพ้องพันธมิตรกลุ่มใหม่ของเรากัน!"
     },
     {
-      "character": "Geode",
+      "key": "youunderstandhowregulatorsworknowitrustitsoneofthosethingsthatsbestseeninaction",
       "text_en": "You understand how regulators work now, I trust? It's one of those things that's best seen in action.",
       "text": "หวังว่าจะเข้าใจวิธีการทำงานของเรกูเลเตอร์มากขึ้นแล้วนะครับ? เรื่องพรรค์นี้ไปยืนดูสาธิตของจริงน่าจะเข้าใจได้ชัดเจนที่สุดแล้วล่ะครับ"
     },
     {
-      "character": "Nostalgia",
+      "key": "thewildlifecanbeverydangerousoutthereyouneedtotakecareifyoudontweararegulator",
       "text_en": "The wildlife can be very dangerous out there. You need to take care if you don't wear a regulator.",
       "text": "พวกสัตว์อสูรธรรมชาติแถวนี้ดุร้ายและอันตรายมากเลยนะครับ ต้องดูแลระวังตัวเองให้ดีๆ นะครับในเมื่อไม่ได้สวมเรกูเลเตอร์กันน่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "oohhelloagain",
       "text_en": "O-Oh, hello again...",
       "text": "โอ๊ะ... สวัสดีอีกครั้งนะคะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "whileimallfordealingwithzoraaljaweneedtoconsiderhowouractionsmayaffectordinaryalexandrianstheyrenottheenemyafterall",
       "text_en": "While I'm all for dealing with Zoraal Ja, we need to consider how our actions may affect ordinary Alexandrians. They're not the enemy, after all.",
       "text": "ถึงแม้ฉันจะเห็นด้วยสุดตัวกับการจัดการโซราล จา แต่เราก็ต้องคำนึงถึงผลกระทบจากการกระทำของพวกเราต่อชาวอเล็กซานเดรียทั่วไปด้วยนะ พวกเขาไม่ใช่ศัตรูของเราสักหน่อย"
     },
     {
-      "character": "Krile",
+      "key": "iagreewithwuklamatitsagambleregardlessofwhetherornotwechoosetoworkwiththepeoplehereandmoreknowledgeisbetterthanless",
       "text_en": "I agree with Wuk Lamat. It's a gamble regardless of whether or not we choose to work with the people here, and more knowledge is better than less.",
       "text": "ฉันเห็นพ้องกับวุค ลามัต ค่ะ ไม่ว่าเราจะเลือกจับมือกับผู้คนทีนี่หรือไม่ก็นับเป็นการเดิมพันเหมือนกันหมด และการมีข้อมูลอยู่ในมือเยอะย่อมได้เปรียบกว่าไม่มีอะไรเลยค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thevowofresolveispossessedofconvictionandflexibilitybothifthetalesaretrueshelearnedmuchinthecourseoftheriteofsuccession",
       "text_en": "The Vow of Resolve is possessed of conviction and flexibility both. If the tales are true, she learned much in the course of the rite of succession.",
       "text": "องค์รัชทายาทแห่งปณิธานมีความมุ่งมั่นแน่วแน่และยืดหยุ่นในเวลาเดียวกันเลยนะครับ ถ้าเรื่องเล่าลือเป็นจริง เธอคงจะได้เรียนรู้อะไรหลายๆ อย่างมามากมายในระหว่างพิธีสืบทอดบัลลังก์แน่ๆ"
     },
     {
-      "character": "Erenville",
+      "key": "imunaccustomedtoseeinghermakedecisionslikearulerbetterthatthanherformervacillatingselfthough",
       "text_en": "I'm unaccustomed to seeing her make decisions like a ruler. Better that than her former vacillating self, though.",
       "text": "ผมชักไม่ค่อยคุ้นชินกับการที่เห็นเธอตัดสินใจเฉียบขาดเหมือนผู้ปกครองแผ่นดินแบบนี้เลยแฮะ... แต่ก็นับว่าดีกว่าเมื่อก่อนที่ชอบลังเลใจละล้าละลังล่ะนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "withtheresourcesattheirdisposalimhopefulthatcahciuaandherpeoplewillmakegreatallies",
       "text_en": "With the resources at their disposal, I'm hopeful that Cahciua and her people will make great allies!",
       "text": "ด้วยทรัพยากรและระบบข้อมูลที่พวกเขามีอยู่ ฉันหวังใจไว้สูงมากเลยว่าคุณคาชิวาและพรรคพวกของเธอจะมาเป็นพันธมิตรที่ยอดเยี่ยมของพวกเรา!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "cahciuatheressomethingineedtotellyouandyourpeople",
       "text_en": "Cahciua, there's something I need to tell you and your people.",
       "text": "คุณคาชิวาคะ มีเรื่องหนึ่งที่ฉันจำเป็นต้องบอกให้คุณและพรรคพวกได้รับทราบไว้ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wecameherefornootherreasonthantostrikedownzoraalja",
       "text_en": "We came here for no other reason than to strike down Zoraal Ja.",
       "text": "เหตุผลเดียวที่พวกเราเดินทางมายังดินแดนแห่งนี้ ก็เพื่อมาโค่นล้มโซราล จา ลงให้ได้ค่ะ"
     },
     {
-      "character": "Geode",
+      "key": "butithoughthewasyourbrother",
       "text_en": "But...I thought he was your brother.",
       "text": "แต่ว่า... ผมนึกว่าเขาเป็นพี่ชายของท่านเสียอีกนะครับ"
     },
     {
-      "character": "Geode",
+      "key": "doyoureallymeantokillyourownkin",
       "text_en": "Do you really mean to kill your own kin?",
       "text": "นี่ท่านตั้งใจจะสังหารคนในครอบครัวของตัวเองจริงๆ งั้นเหรอครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "mykininvadedournationandmurderedourpeopleasvowofresolveitfallstometobringhimtoaccount",
       "text_en": "My kin invaded our nation and murdered our people. As Vow of Resolve, it falls to me to bring him to account.",
       "text": "สายเลือดคนนั้นบุกรุกรานอาณาจักรของเราและเข่นฆ่าประชาชนของพวกเราอย่างไร้ความปรานี ในฐานะคำปฏิญาณแห่งปณิธาน หน้าที่การจัดการความผิดของเขาจึงหลีกเลี่ยงไม่ได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iampreparedtodowhatimustandiwonthesitatewhenthetimecomes",
       "text_en": "I am prepared to do what I must, and I won't hesitate when the time comes.",
       "text": "ฉันเตรียมใจที่จะทำในสิ่งที่จำเป็นต้องทำเรียบร้อยแล้ว และจะไม่ลังเลเด็ดขาดเมื่อถึงเวลา"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "likeusyouandyoursopposezoraaljainlightofthisiproposethatweworktogethertostophimonceandforall",
       "text_en": "Like us, you and yours oppose Zoraal Ja. In light of this, I propose that we work together to stop him once and for all.",
       "text": "และในเมื่อพวกคุณเองก็ขัดแย้งคัดค้านโซราล จา เหมือนกับพวกเรา เพราะฉะนั้น ฉันจึงอยากจะเสนอให้พวกเราร่วมมือทำงานกันเพื่อสกัดกั้นเขาให้ได้จ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "irealizethatthisissuddenthatitsagambletotrustsomeoneyouveonlyjustmet",
       "text_en": "I realize that this is sudden. That it's a gamble to trust someone you've only just met.",
       "text": "ฉันเข้าใจดีค่ะว่าเรื่องนี้อาจจะปุบปับเกินไปหน่อย และการจะปักใจเชื่อใจคนที่เพิ่งรู้จักกันก็นับว่าเป็นการเดิมพันครั้งใหญ่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butiwouldtrustintheconvictionofanyonewhosharesmygoalsofightwithmeibegyou",
       "text_en": "But I would trust in the conviction of anyone who shares my goal. So fight with me, I beg you!",
       "text": "แต่ฉันพร้อมจะเชื่อมั่นในปณิธานของใครก็ตามที่มีเป้าหมายเดียวกับฉัน เพราะฉะนั้น ได้โปรดมาร่วมต่อสู้ไปกับฉันเถอะค่ะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "asyousayourgoalsalignandidontdoubtyourresolveintheleast",
       "text_en": "As you say, our goals align. And I don't doubt your resolve in the least.",
       "text": "อย่างที่เธอว่านั่นแหละจ๊ะ เป้าหมายของพวกเราตรงกัน และแม่ก็ไม่ได้สงสัยในปณิธานความมุ่งมั่นของเธอเลยสักนิดเดียว"
     },
     {
-      "character": "Cahciua",
+      "key": "ifyouhadntproposedworkingtogetheriwouldvedonesoinstead",
       "text_en": "If you hadn't proposed working together, I would've done so instead.",
       "text": "ต่อให้เธอไม่ได้ยื่นข้อเสนอร่วมมือกันเมื่อกี้ แม่ก็กะจะเอ่ยปากชวนเธอเองเหมือนกันแหละจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "truthbetolditsbeentoughgoingatitalonewhilewevegatheredampleintelligencewedonthavethestrengthtotakedecisiveaction",
       "text_en": "Truth be told, it's been tough going at it alone. While we've gathered ample intelligence, we don't have the strength to take decisive action.",
       "text": "พูดตามตรงนะ ลุยกันเองเฉพาะกลุ่มที่ผ่านมามันเหนื่อยยากลำบากมากเลยล่ะ ถึงพวกเราจะตระเวนเก็บรวบรวมข้อมูลข่าวสารมาได้เยอะแยะ แต่กำลังรบของเรากลับไม่เพียงพอจะเปิดฉากปฏิบัติการขั้นเด็ดขาดได้น่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "besideshowcouldwenottrustyou",
       "text_en": "Besides, how could we not trust you?",
       "text": "และอีกอย่าง จะไม่ให้พวกเราเชื่อใจพวกเธอได้ยังไงกันล่ะจ๊ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "myonlysoniswithyoumyfussylittlebunbunhesallthereasonineed",
       "text_en": "My only son is with you—my fussy little bunbun. He's all the reason I need.",
       "text": "ในเมื่อลูกชายหัวแก้วหัวแหวนคนเดียวของแม่อยู่ร่วมเดินทางไปกับเธอด้วย... เจ้ากระต่ายน้อยขี้บ่นคนนั้นคือเหตุผลทั้งหมดที่แม่ต้องการแล้วล่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thenitsdecidedherestoafruitfulcollaboration",
       "text_en": "Then it's decided. Here's to a fruitful collaboration!",
       "text": "งั้นตกลงตามนี้เลยนะจ๊ะ มาร่วมมือกันทำงานให้ประสบความสำเร็จกันเถอะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyoucahciuaeveryonetogetherwellachievegreatthingsimsureofit",
       "text_en": "Thank you, Cahciua, everyone! Together we'll achieve great things, I'm sure of it!",
       "text": "ขอบคุณค่ะคุณคาชิวา และทุกคนด้วย! ร่วมมือกันขนาดนี้ เราต้องทำงานใหญ่ได้สำเร็จแน่นอน ฉันมั่นใจเต็มร้อยเลยค่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "thenletsnotwasteanytimewevebeenwonderingaboutzoraaljaswhereaboutsisthereapalaceinsidethattower",
       "text_en": "Then let's not waste any time. We've been wondering about Zoraal Ja's whereabouts. Is there a palace inside that tower?",
       "text": "งั้นพวกเราก็อย่ารอช้าให้เสียเวลาเลยค่ะ พวกเราอยากจะทราบเกี่ยวกับเบาะแสที่อยู่ของโซราล จา น่ะค่ะ ข้างในหอคอยนั่นมีพระราชวังตั้งอยู่หรือเปล่าคะ?"
     },
     {
-      "character": "Geode",
+      "key": "afterafashionthekingresidesontheuppermostlevelbutwhilequeensphenehasapenchantforgoingoutinpublicheseldomshowshimself",
       "text_en": "After a fashion. The king resides on the uppermost level. But while Queen Sphene has a penchant for going out in public, he seldom shows himself.",
       "text": "ก็ประมาณนั้นครับ องค์ราชาพำนักอยู่บนชั้นสูงสุดของหอคอย แต่ทว่าในขณะที่ราชินีสฟีนชอบออกไปพบปะประชาชนบ่อยๆ เขากลับแทบไม่เคยปรากฏตัวให้ใครเห็นเลยครับ"
     },
     {
-      "character": "Geode",
+      "key": "whatsmorehismovementsarehighlyclassifiednotevenhiscommandersareprivytothatinformationifanyoneknowswhereheisatanygiventimeitcouldonlybethequeen",
       "text_en": "What's more, his movements are highly classified. Not even his commanders are privy to that information. If anyone knows where he is at any given time, it could only be the queen.",
       "text": "ยิ่งไปกว่านั้น เส้นทางการเคลื่อนไหวของเขาก็ถูกปิดเป็นความลับสุดยอด ขนาดพวกผู้บัญชาการทหารระดับสูงยังไม่มีสิทธิ์รู้เลยครับ ถ้าจะมีใครรู้ว่าเขาอยู่ที่ไหนในเวลาใด ก็คงมีแค่องค์ราชินีคนเดียวเท่านั้นแหละครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "evenifwedontknowhiswhereaboutszoraaljawilleventuallymarchontuliyollalagainthatswhenwecangoafterhim",
       "text_en": "Even if we don't know his whereabouts, Zoraal Ja will eventually march on Tuliyollal again. That's when we can go after him.",
       "text": "ถึงเราจะไม่รู้ว่าเขาแอบซ่อนตัวอยู่ที่ไหน แต่ดูลักษณะแล้ว ไม่ช้าก็เร็วโซราล จา จะต้องยกทัพไปรุกรานทูลิโยลลัลอีกครั้งแน่นอนจ๊ะ และตอนนั้นแหละคือโอกาสที่เราจะตามไปจัดการเขาได้"
     },
     {
-      "character": "Cahciua",
+      "key": "thedrawbackiswedhavetowaitfortheinvasiontohappeninnocentswouldbeputinharmsway",
       "text_en": "The drawback is we'd have to wait for the invasion to happen. Innocents would be put in harm's way.",
       "text": "ข้อเสียของแผนนี้คือเราต้องคอยตั้งรับรอให้เกิดการรุกรานขึ้นมาก่อน ซึ่งจะทำให้ผู้บริสุทธิ์จำนวนมากตกอยู่ในอันตราย"
     },
     {
-      "character": "Cahciua",
+      "key": "theresalsothepossibilitythathellleaveeverythingtohisminionsandnotcommandthearmyinperson",
       "text_en": "There's also the possibility that he'll leave everything to his minions and not command the army in person.",
       "text": "และยังมีความเป็นไปได้อีกอย่างคือ เขาอาจจะสั่งปล่อยให้พวกสมุนเครื่องจักรลุยกันเอง โดยที่ตัวเขาไม่ได้ลงคุมกองทัพสู้รบด้วยตัวเองน่ะจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nohelltakethefield",
       "text_en": "No. He'll take the field.",
       "text": "ไม่หรอก เขาจะลงสนามรบด้วยตัวเองแน่นอน"
     },
     {
-      "character": "Cahciua",
+      "key": "whatmakesyousocertain",
       "text_en": "What makes you so certain?",
       "text": "ทำไมเธอถึงได้มั่นใจขนาดนั้นล่ะจ๊ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "mybrotherhasalwaysyearnedtosurpassourfatherthatswhyheattackedtuliyollal",
       "text_en": "My brother has always yearned to surpass our father. That's why he attacked Tuliyollal.",
       "text": "พี่ชายของฉันมีความปรารถนาอย่างแรงกล้ามาตลอดชีวิตที่จะก้าวข้ามท่านพ่อของเราให้ได้ นั่นเป็นสาเหตุที่เขาบุกโจมตีทูลิโยลลัล"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "afterwaitingforthirtyyearsthefirstthinghewantedtodowasdemonstratehisnewfoundstrength",
       "text_en": "After waiting for thirty years, the first thing he wanted to do was demonstrate his newfound strength.",
       "text": "หลังจากเฝ้ารอมานานตั้งสามสิบปี สิ่งแรกที่เขาต้องการจะทำก็คือการแสดงพลังอันเกรียงไกรที่เขาเพิ่งได้มาใหม่นี่แหละ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butkillingpapadidntsatisfyhimsonowhesbentonprovinghimselfstrongerthanmeandkoanawhobestedhimintheriteofsuccession",
       "text_en": "But killing Papa didn't satisfy him. So now he's bent on proving himself stronger than me and Koana, who bested him in the rite of succession.",
       "text": "แต่การสังหารท่านพ่อไม่ได้ทำให้เขาพึงพอใจเลยสักนิด ตอนนี้เป้าหมายหลักของเขาคือการพิสูจน์ตัวเองว่าแข็งแกร่งกว่าฉันและโคอานา ซึ่งเคยเอาชนะเขามาได้ในพิธีสืบทอดราชบัลลังก์"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hechallengedmetostrikehimdownhewantsadueltoshoweveryonethathessuperiortothedawnservantandhewontlethisminionsdeprivehimofthepleasure",
       "text_en": "He challenged me to strike him down. He wants a duel to show everyone that he's superior to the Dawnservant, and he won't let his minions deprive him of the pleasure.",
       "text": "เขาเอ่ยปากท้าทายให้ฉันไปโค่นล้มเขาเอง เขาอยากจะท้าดวลเพื่อแสดงให้ทุกคนประจักษ์ว่าตัวเขาเหนือกว่าดอว์นเซิร์ฟวันต์คนก่อน และเขาจะไม่มีวันยอมให้พวกสมุนมาแย่งความสนุกและชัยชนะนี้ไปจากมือเด็ดขาด"
     },
     {
-      "character": "Alisaie",
+      "key": "thenwhyhasntheappearedandgivenyouyourchancesurelyhesawareofourpresencehere",
       "text_en": "Then why hasn't he appeared and given you your chance? Surely, he's aware of our presence here.",
       "text": "ถ้าอย่างนั้น ทำไมจู่ๆ เขาถึงไม่ยอมปรากฏตัวออกมาดีๆ พวกเราก็ต้องหาวิธีบีบบังคับให้เขาต้องยอมโผล่หัวออกมาเอง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "atthaticanonlyguessperhapshewantstodazzleuswithhiswondrousrealmbutifhewontdeigntoappearthenwellforcehimtodoso",
       "text_en": "At that, I can only guess. Perhaps he wants to dazzle us with his wondrous realm. But if he won't deign to appear, then we'll force him to do so.",
       "text": "เรื่องนั้นฉันก็ได้แต่คาดเดาล่ะนะ บางทีเขาอาจจะอยากโอ้อวดดินแดนแสนมหัศจรรย์ของเขาให้เราสับสนเล่น แต่ในเมื่อเขาเลือกที่จะไม่ยอมปรากฏตัวออกมาดีๆ พวกเราก็ต้องหาวิธีบีบบังคับให้เขาต้องยอมโผล่หัวออกมาเอง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "evenaswegatherintelligencewemakenomovetoattackhimshowabsolutelynointerestinaconfrontation",
       "text_en": "Even as we gather intelligence, we make no move to attack him. Show absolutely no interest in a confrontation.",
       "text": "ในขณะที่เรากำลังเดินหน้าเก็บรวบรวมข้อมูลข่าวสารอยู่ เราจะทำเป็นนิ่งเฉยไม่เปิดฉากบุกโจมตีก่อน แสดงท่าทีว่าไม่ได้สนใจจะเผชิญหน้ากับเขาเลยสักนิดเดียว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "knowinghimhelltireofwaitingandturnhisattentiontokoanainsteadhellattacktuliyollalagainlikehesaidhewould",
       "text_en": "Knowing him, he'll tire of waiting and turn his attention to Koana instead. He'll attack Tuliyollal again, like he said he would.",
       "text": "เมื่อพิจารณาจากนิสัยของเขาแล้ว อีกไม่ช้าเขาจะเบื่อที่จะรอคอย และหันไปเพ่งเล็งเป้าหมายที่โคอานาแทน จากนั้นเขาจะยกทัพไปรุกรานทูลิโยลลัลอีกรอบตามคำขู่แน่"
     },
     {
-      "character": "Cahciua",
+      "key": "iseeifyoubelievethisthebestapproachthenwehavenoobjections",
       "text_en": "I see... If you believe this the best approach, then we have no objections.",
       "text": "เข้าใจแล้วจ๊ะ... ในเมื่อเธอเชื่อมั่นว่าแนวทางปฏิบัตินี้ดีที่สุด พวกแม่ก็ยินยอมทำตามโดยไม่มีข้อคัดค้านใดๆ จ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "anycampaignagainsttuliyollalrequiresthatzoraaljaleadhisforcesthroughvanguardwellhavelookoutskeepaneyeonitdayandnight",
       "text_en": "Any campaign against Tuliyollal requires that Zoraal Ja lead his forces through Vanguard. We'll have lookouts keep an eye on it day and night.",
       "text": "การที่โซราล จา จะกรีธาทัพไปทูลิโยลลัลได้ จำเป็นต้องนำกองกำลังเคลื่อนทัพผ่านด่านแวนการ์ดก่อน เดี๋ยวแม่จะสั่งให้หน่วยสังเกตการณ์คอยเฝ้าระวังจับตาดูตรงจุดนั้นไว้ตลอดทั้งวันทั้งคืนเลยจ๊ะ"
     },
     {
-      "character": "Krile",
+      "key": "suchastrategyiscertainlyviableifwereproceedingwithitthoughweshouldwarnthoseoutside",
       "text_en": "Such a strategy is certainly viable... If we're proceeding with it, though, we should warn those outside.",
       "text": "แผนการนี้ก็พอน่าจะมีความเป็นไปได้นะคะ... แต่หากเราตกลงใจจะดำเนินการตามแนวทางนี้จริงๆ เราก็ควรจะรีบส่งข่าวแจ้งเตือนภัยให้ฝั่งนอกบาเรียทราบล่วงหน้าด้วยนะคะ"
     },
     {
-      "character": "Alisaie",
+      "key": "indeedtheyllneedtimetopreparetheirdefenses",
       "text_en": "Indeed. They'll need time to prepare their defenses.",
       "text": "เห็นด้วยค่ะ ทางฝั่งนั้นจะได้มีเวลาเตรียมพร้อมสร้างระบบป้องกันการโจมตีได้ทันท่วงที"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ishouldbegladtocoordinateoureffortsimalreadyinregularcontactwithyshtolaandwillmakesuretokeepourcomradesapprisedofdevelopments",
       "text_en": "I should be glad to coordinate our efforts. I'm already in regular contact with Y'shtola, and will make sure to keep our comrades apprised of developments.",
       "text": "ผมยินดีจะทำหน้าที่คอยประสานงานรวบรวมการติดต่อสื่อสารให้เองครับ ตอนนี้ผมติดต่อกับวาย'ชโตลาอยู่เป็นระยะอยู่แล้ว จะคอยส่งรายงานสถานการณ์ความคืบหน้าให้พวกพ้องภายนอกรับทราบแน่นอนครับ"
     },
     {
-      "character": "Geode",
+      "key": "youcanleavevanguardtouswellsendwordatthefirstsignofmovement",
       "text_en": "You can leave Vanguard to us. We'll send word at the first sign of movement.",
       "text": "ส่วนเรื่องจับตาดูด่านแวนการ์ดปล่อยให้เป็นหน้าที่ของพวกเราเถอะครับ หากจับสัญญาณการเคลื่อนไหวได้แม้เพียงนิดเดียว จะรีบส่งข่าวบอกทันทีครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "itseemswehaveaplan",
       "text_en": "It seems we have a plan.",
       "text": "ดูเหมือนว่าพวกเราจะได้แผนการรบแล้วล่ะนะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "whilewewaitforzoraaljatomoveyouddowelltoprepareforbattleanditbeginswithfamiliarizingyourselveswiththetechnologythatempowershim",
       "text_en": "While we wait for Zoraal Ja to move, you'd do well to prepare for battle, and it begins with familiarizing yourselves with the technology that empowers him.",
       "text": "ในระหว่างที่พวกเรารอจังหวะให้โซราล จา เคลื่อนพล สิ่งที่พวกเธอควรทำคือการเตรียมพร้อมรับศึก และนั่นต้องเริ่มจากการทำความคุ้นเคยกับเทคโนโลยีที่มอบพลังอำนาจให้แก่เขาจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "tothatendillshowyoutooblivionsmainheadquarters",
       "text_en": "To that end, I'll show you to Oblivion's main headquarters.",
       "text": "เพื่อการนั้น เดี๋ยวแม่จะพาทุกคนไปที่ศูนย์บัญชาการหลักของกลุ่มอ็อบลิเวียนกันนะจ๊ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohithoughtthisplacewasit",
       "text_en": "Oh? I thought this place was it.",
       "text": "เอ๋? ฉันนึกว่าที่นี่คือศูนย์ใหญ่ของพวกเธอแล้วเสียอีกนะเนี่ย"
     },
     {
-      "character": "Cahciua",
+      "key": "chuckleyoullbeimpressedtoknowthatwerelocatedrightinsidethattowerintheresidentialdistrictofsolutionnine",
       "text_en": "<chuckle> You'll be impressed to know that we're located right inside that tower, in the residential district of Solution Nine.",
       "text": "<หัวเราะเบาๆ> ถ้าได้ยินแล้วจะทึ่งนะจ๊ะ เพราะศูนย์ใหญ่ของพวกเราตั้งอยู่ข้างในหอคอยนั่นแหละ ตรงย่านที่อยู่อาศัยของโซลูชันไนน์เลยล่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "hidingatreeintheforestasitwere",
       "text_en": "Hiding a tree in the forest, as it were.",
       "text": "เป็นการซ่อนตัวแบบ ‘ซ่อนต้นไม้ไว้ในป่าใหญ่’ ยังไงล่ะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "theonlyquestionishowtogetyouthroughthecheckpoint",
       "text_en": "The only question is how to get you through the checkpoint...",
       "text": "ปัญหาเดียวที่เหลืออยู่คือ จะพาพวกเธอผ่านด่านตรวจเข้าไปข้างในได้ยังไงเนี่ยแหละจ๊ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ahaboutthatsphenesaidthatshedmakeitsowecouldenterwithoutissue",
       "text_en": "Ah, about that. Sphene said that she'd make it so we could enter without issue.",
       "text": "อ๊ะ เรื่องนั้นสบายมากค่ะ สฟีนบอกไว้ว่าเธอจะดำเนินการให้พวกเราเดินผ่านด่านตรวจเข้าไปได้โดยไม่มีปัญหาอะไรค่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "shedidcuriousshesnotsupposedtohavesuchauthorityoverthesentries",
       "text_en": "She did? Curious. She's not supposed to have such authority over the sentries.",
       "text": "เธอพูดแบบนั้นจริงๆ เหรอจ๊ะ? แปลกจังแฮะ ตามหลักแล้วเธอไม่ควรจะมีอำนาจสั่งการควบคุมพวกหน่วยรักษาการณ์หุ่นกลไกพวกนั้นได้ขนาดนี้เลยนะ"
     },
     {
-      "character": "Krile",
+      "key": "ifirecallcorrectlyherwordswerethatshewouldregisterusasguests",
       "text_en": "If I recall correctly, her words were that she would register us as guests.",
       "text": "เท่าที่ฉันจำได้คลับคล้ายคลับคลา คำพูดของเธอคือเธอจะช่วยทำเรื่องลงทะเบียนพวกเราในฐานะแขกของเธอน่ะค่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "iseeperhapswereintheclearthen",
       "text_en": "I see. Perhaps we're in the clear, then.",
       "text": "อย่างนี้เองเหรอจ๊ะ ถ้างั้นพวกเราก็น่าจะผ่านด่านไปได้โดยราบรื่นแล้วล่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "whenyourereadycomeandmeetmeatthetowerentrance",
       "text_en": "When you're ready, come and meet me at the tower entrance.",
       "text": "เอาล่ะจ๊ะ ถ้าเตรียมตัวพร้อมเมื่อไหร่ ก็เดินทางมาพบแม่ที่หน้าทางเข้าหอคอยได้เลยนะจ๊ะ"
     },
     {
-      "character": "Geode",
+      "key": "beforeyouheadoutgiveusamomenttointroduceourselvesproperlyeh",
       "text_en": "Before you head out, give us a moment to introduce ourselves properly, eh?",
       "text": "ก่อนที่พวกคุณจะออกเดินทางกัน ขอเวลาให้พวกเราได้แนะนำตัวอย่างเป็นทางการหน่อยนะครับ"
     },
     {
-      "character": "Geode",
+      "key": "afterallnamesaregoodtoknowwhenworkingtogether",
       "text_en": "After all, names are good to know when working together.",
       "text": "ยังไงซะ การรู้จักชื่อเสียงเรียงนามกันไว้ก็ช่วยให้ทำงานร่วมกันง่ายขึ้นเยอะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "betweenmakingnewfriendsandenteringthetowericanthelpbutfeelalittleexcited",
       "text_en": "Between making new friends and entering the tower, I can't help but feel a little excited.",
       "text": "ทั้งเรื่องการได้รู้จักเพื่อนกลุ่มใหม่ แถมยังจะได้บุกเข้าไปในหอคอยนั่นอีก... อดรู้สึกตื่นเต้นนิดหน่อยไม่ได้เลยแฮะ"
     },
     {
-      "character": "Krile",
+      "key": "isitjustmeorareerenvilleandcahciuacompleteoppositesinpersonality",
       "text_en": "(Is it just me or are Erenville and Cahciua complete opposites in personality?)",
       "text": "(คิดไปเองหรือเปล่านะว่า นิสัยใจคอของเอเรนวิลล์กับคุณคาชิวาเนี่ยดูต่างกันอย่างสุดขั้วเลยจริงๆ)"
     },
     {
-      "character": "G'raha Tia",
+      "key": "theintelligencethatcahciuaandherpeoplepossesswillbeveryusefultoourefforts",
       "text_en": "The intelligence that Cahciua and her people possess will be very useful to our efforts.",
       "text": "ระบบรวบรวมข้อมูลข่าวสารที่คุณคาชิวาและกลุ่มของเธอมีอยู่ จะเป็นประโยชน์อย่างมากต่อการทำภารกิจของพวกเราแน่นอนครับ"
     },
     {
-      "character": "Erenville",
+      "key": "itseeriehearingmymothersvoicecomefromthatpeculiarmachine",
       "text_en": "...It's eerie hearing my mother's voice come from that peculiar machine.",
       "text": "...รู้สึกพิลึกชะมัดที่ได้ยินเสียงของคุณแม่ดังออกมาจากเครื่องจักรหน้าตาแปลกๆ เครื่องนั้น"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifthisisnttheirmainheadquartersicantimaginewhattheactualplaceislike",
       "text_en": "If this isn't their main headquarters, I can't imagine what the actual place is like...",
       "text": "ขนาดที่นี่ยังไม่ใช่ศูนย์ใหญ่ของพวกเธอเลยนะเนี่ย อยากเห็นแล้วสิว่าของจริงข้างในหอคอยจะมีสภาพแบบไหนกัน..."
     },
     {
-      "character": "Nostalgia",
+      "key": "ifcahciuatrustsyouthensodowe",
       "text_en": "If Cahciua trusts you, then so do we!",
       "text": "ในเมื่อคุณคาชิวาเชื่อใจพวกคุณ พวกเราเองก็พร้อมใจเชื่อใจพวกคุณด้วยครับ!"
     },
     {
-      "character": "Wayakkwe",
+      "key": "umnnicetomeetyou",
       "text_en": "Um... N-Nice to meet you...",
       "text": "เอ่อ... ยิ... ยินดีที่ได้รู้จักนะคะ..."
     },
     {
-      "character": "Geode",
+      "key": "whileoblivionhasoperativesalloverwerethemaincrewhere",
       "text_en": "While Oblivion has operatives all over, we're the main crew here.",
       "text": "ถึงแม้กลุ่มอ็อบลิเวียนจะมีสายลับปฏิบัติงานอยู่กระจายไปทั่ว แต่พวกเราคือทีมหลักที่ประจำการอยู่ตรงฐานนี้ครับ"
     },
     {
-      "character": "Geode",
+      "key": "imgeodetheleaderofthishideout",
       "text_en": "I'm Geode, the leader of this hideout.",
       "text": "ผมชื่อจีโอด เป็นหัวหน้าดูแลกบดานที่ซ่อนแห่งนี้ครับ"
     },
     {
-      "character": "Geode",
+      "key": "andthedependableyoungtwinsbehindmearenostalgiaandwayakkwe",
       "text_en": "And the dependable young twins behind me are Nostalgia and Wayakkwe.",
       "text": "และคู่แฝดวัยรุ่นสุดแสนพึ่งพาได้เบื้องหลังผมคือ นอสทัลเจีย กับ วายัคเว่ ครับ"
     },
     {
-      "character": "Nostalgia",
+      "key": "imnostalgiaitsapleasuretomeetyou",
       "text_en": "I'm Nostalgia! It's a pleasure to meet you.",
       "text": "ฉันชื่อนอสทัลเจียค่ะ! ยินดีที่ได้รู้จักทุกคนนะคะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "mysisterandiwerebornandraisedinsidethebarrier",
       "text_en": "My sister and I were born and raised inside the barrier.",
       "text": "ฉันกับน้องสาวเกิดและเติบโตมาภายใต้บาเรียแห่งนี้ค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "wevebeenwithoblivionforthreeyearsandourmaindutiesaresurveillanceandprovisioning",
       "text_en": "We've been with Oblivion for three years, and our main duties are surveillance and provisioning.",
       "text": "พวกเราเข้าร่วมกลุ่มอ็อบลิเวียนมาได้สามปีแล้วค่ะ หน้าที่หลักๆ คือคอยเฝ้าระวังสังเกตการณ์และจัดหาเสบียงสนับสนุนค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "twinsehthatexplainstheresemblancewayakkweisatonawawtannameunlessimmistaken",
       "text_en": "Twins, eh? That explains the resemblance. Wayakkwe is a Tonawawtan name, unless I'm mistaken?",
       "text": "เป็นฝาแฝดกันสินะ มิน่าล่ะหน้าตาเหมือนกันเป๊ะเลย... ว่าแต่วายัคเว่นี่ ฟังดูเป็นชื่อสไตล์ชาวโทนาวอว์ตาใช่ไหมนะ ถ้าฉันจำไม่ผิดน่ะ?"
     },
     {
-      "character": "Nostalgia",
+      "key": "thatsrightourmotheristuliyollanandourfatherisalexandriantheywantedtohonorbothcultures",
       "text_en": "That's right. Our mother is Tuliyollan and our father is Alexandrian. They wanted to honor both cultures.",
       "text": "ถูกต้องแล้วค่ะ คุณแม่ของพวกเราเป็นชาวทูลิโยลลัล ส่วนคุณพ่อเป็นชาวอเล็กซานเดรีย ท่านทั้งสองก็เลยอยากตั้งชื่อเพื่อเป็นการให้เกียรติแก่วัฒนธรรมของทั้งสองฝั่งค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "theyrebeautifulnames",
       "text_en": "They're beautiful names.",
       "text": "เป็นชื่อที่ไพเราะและมีความหมายงดงามมากเลยนะคะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "ththankyouthoughihavenomemoriesofmymotheriliketothinkicarryapartofherwithme",
       "text_en": "Th-Thank you. Though I have no memories of my mother, I like to think I carry a part of her with me.",
       "text": "ขะ... ขอบคุณค่ะ ถึงฉันจะไม่มีความทรงจำหลงเหลือเกี่ยวกับคุณแม่เลยก็ตาม แต่ฉันก็อยากจะคิดว่าตัวเองได้รับสืบทอดส่วนหนึ่งของท่านติดตัวมาด้วยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sowhatmadeyoudecidetojoinoblivion",
       "text_en": "So, what made you decide to join Oblivion?",
       "text": "แล้วมีสาเหตุอะไรเหรอที่ทำให้พวกเธอตกลงใจเข้าร่วมกลุ่มอ็อบลิเวียนน่ะ?"
     },
     {
-      "character": "Nostalgia",
+      "key": "wewantedtoavengeourfather",
       "text_en": "We wanted to avenge our father.",
       "text": "พวกเราต้องการทวงแค้นให้คุณพ่อค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "ambrosewashisnameandyearsagohewastakenawayafterascufflewithasoldieroveradisagreement",
       "text_en": "Ambrose was his name, and years ago, he was taken away after a scuffle with a soldier over a disagreement.",
       "text": "คุณพ่อของพวกเราชื่อแอมโบรสค่ะ เมื่อหลายปีก่อน ท่านถูกจับตัวไปหลังจากเกิดเหตุทะเลาะวิวาทและมีปากเสียงกับทหารนายหนึ่งเนื่องจากความคิดเห็นไม่ตรงกัน"
     },
     {
-      "character": "Nostalgia",
+      "key": "itwasaminorincidentsoatfirstweclungtothehopethathedbereleasedbutwhenmonthswentbywithnowordfromorabouthimwemadethedecisiontoremoveourregulators",
       "text_en": "It was a minor incident, so at first we clung to the hope that he'd be released. But when months went by with no word from or about him, we made the decision to remove our regulators.",
       "text": "ตอนแรกมันเป็นแค่เรื่องทะเลาะเบาะแว้งเล็กๆ น้อยๆ เราสองคนเลยยังแอบหวังอยู่ลึกๆ ว่าอีกไม่ช้าคุณพ่อคงจะได้รับการปล่อยตัวกลับมา แต่ทว่าพอเวลาล่วงเลยผ่านไปเป็นเดือนๆ โดยที่ไม่มีข่าวคราวหรือข้อมูลอะไรเกี่ยวกับท่านเลย พวกเราก็เลยตกลงใจที่จะถอดเรกูเลเตอร์ทิ้งค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "wehadalreadylostthememoriesofourmotherwedidntwanttolosethoseofourfatheraswell",
       "text_en": "We had already lost the memories of our mother. We didn't want to lose those of our father as well.",
       "text": "พวกเราลืมความทรงจำเกี่ยวกับคุณแม่ไปจนหมดสิ้นแล้ว... เราเลยไม่อยากจะสูญเสียความทรงจำเกี่ยวกับคุณพ่อตามไปอีกคนค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "theyveallforgottenabouthimnoweveryonewhohadknownhim",
       "text_en": "They've all forgotten about him now—everyone who had known him...",
       "text": "ตอนนี้คนอื่นๆ ลืมเรื่องเกี่ยวกับคุณพ่อไปหมดเกลี้ยงแล้วล่ะค่ะ... ทุกคนที่เคยรู้จักมักจี่กับท่าน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatbastardevenherehethinksnothingofhisownpeople",
       "text_en": "That bastard... Even here, he thinks nothing of his own people!",
       "text": "ไอ้สารเลวนั่น... ขนาดอยู่ที่นี่ มันก็ยังไม่เคยใส่ใจแยแสชีวิตคนของตัวเองเลยสักนิด!"
     },
     {
-      "character": "Nostalgia",
+      "key": "sometimelaterwewereapproachedbyamemberofoblivionhopingtogetjusticeforourfatherwejoinedtheorder",
       "text_en": "Some time later, we were approached by a member of Oblivion. Hoping to get justice for our father, we joined the order.",
       "text": "หลังจากนั้นได้ไม่นาน สมาชิกคนหนึ่งของอ็อบลิเวียนได้แวะมาพูดคุยชักชวนพวกเรา ด้วยความหวังที่จะทวงคืนความยุติธรรมให้แก่คุณพ่อ พวกเราเลยตัดสินใจเข้าร่วมกลุ่มตั้งแต่นั้นมาค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "imsorryididntmeantodarkenthemood",
       "text_en": "I'm sorry, I didn't mean to darken the mood...",
       "text": "ขอโทษด้วยนะจ๊ะ ฉันไม่ได้มีเจตนาจะพูดทำลายบรรยากาศดีๆ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nonoiappreciateyousharingthistogetherwellavengeyourfather",
       "text_en": "No, no, I appreciate you sharing this. Together, we'll avenge your father.",
       "text": "ไม่เป็นไรหรอก ฉันขอบใจมากนะที่เธอช่วยแชร์เรื่องนี้ให้ฟัง ร่วมมือกันเดี๋ยวพวกเราจะช่วยทวงแค้นให้คุณพ่อของเธอด้วยอีกแรงนะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "thankyousomethingtellsmeyouhavewhatittakes",
       "text_en": "Thank you. Something tells me you have what it takes.",
       "text": "ขอบคุณมากค่ะ สัญชาตญาณบางอย่างบอกฉันว่า ท่านวุค ลามัต จะต้องทำได้แน่นอนค่ะ"
     },
     {
-      "character": "Nostalgia",
+      "key": "youintroduceyourselftoogoon",
       "text_en": "You introduce yourself too. Go on!",
       "text": "วายัคเว่ แนะนำตัวเองบ้างสิจ๊ะ ไปเร็ว!"
     },
     {
-      "character": "Wayakkwe",
+      "key": "umitsprettymuchthesamestoryforme",
       "text_en": "Um... It's pretty much the same story for me.",
       "text": "เอ่อ... เรื่องของฉันก็คล้ายๆ กันนี่แหละค่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "andwhilemineisatonawawtannameihaventthefaintesthowthingsareoutsidethebarrier",
       "text_en": "And while mine is a Tonawawtan name, I haven't the faintest how things are outside the barrier.",
       "text": "และถึงแม้ฉันจะมีชื่อเป็นแบบชาวโทนาวอว์ตา แต่ฉันกลับไม่มีข้อมูลหรือความรู้เรื่องวิถีชีวิตนอกบาเรียเลยแม้แต่นิดเดียวค่ะ"
     },
     {
-      "character": "Wayakkwe",
+      "key": "itsmydreamtogoandseeitwithmyowneyesourmothershomeland",
       "text_en": "It's my dream to go and see it with my own eyes. Our mother's homeland.",
       "text": "มันคือความฝันสูงสุดของฉันเลยล่ะค่ะ... การที่จะได้เดินทางออกไปเห็นบ้านเกิดเมืองนอนของคุณแม่ด้วยตาตนเองสักครั้ง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "oncepeaceisrestoredyoumustcomeandvisitthewildsarebeautifulthefooddeliciousandeveryonesoniceyoullloveit",
       "text_en": "Once peace is restored, you must come and visit. The wilds are beautiful, the food delicious, and everyone so nice. You'll love it!",
       "text": "เมื่อไรที่ความสงบสุขกลับคืนมาแล้ว เธอต้องหาโอกาสมาเยี่ยมบ้านเกิดของคุณแม่ให้ได้นะ ผืนป่าธรรมชาติที่นั่นงดงามมาก ของกินก็อร่อยล้ำ แถมผู้คนก็ใจดีเป็นกันเองสุดๆ รับรองเลยว่าเธอต้องตกหลุมรักแน่ๆ!"
     },
     {
-      "character": "Geode",
+      "key": "andthatsushereyoullmeetothersinthebackroomthatsourheadquarterssomeofthemarealittleeccentricbuttheyhavegoodheartsall",
       "text_en": "And that's us here. You'll meet others in the Backroom—that's our headquarters. Some of them are a little eccentric, but they have good hearts, all.",
       "text": "นั่นแหละครับคือพวกเราที่นี่ เดี๋ยวพวกคุณจะได้พบกับสมาชิกคนอื่นๆ ในแบ็ครูม ซึ่งเป็นศูนย์ใหญ่ของพวกเรา คนที่นั่นบางคนอาจจะนิสัยแปลกพิลึกคนไปบ้าง แต่ทุกคนล้วนมีจิตใจดีงามแน่นอนครับ"
     },
     {
-      "character": "Geode",
+      "key": "aheleneshpyaonelastthing",
       "text_en": "Ah, Elene'shpya. One last thing.",
       "text": "สะ... เอเลเน่ชเพีย มีเรื่องสุดท้ายอยากจะบอกหน่อยครับ"
     },
     {
-      "character": "Geode",
+      "key": "itisntexactlymyplacetosaythisbutthankyouforseekingoutcahciuashetalksaboutyousomuchitsclearhowimportantyouaretoher",
       "text_en": "It isn't exactly my place to say this, but thank you for seeking out Cahciua. She talks about you so much, it's clear how important you are to her.",
       "text": "มันอาจจะไม่ใช่หน้าที่หรือเรื่องที่ผมควรพูดหรอกนะครับ แต่ก็ต้องขอบคุณจริงๆ ครับที่อุตสาหะตามหาตัวคุณคาชิวาจนเจอ เธอคอยพูดอวดเรื่องเกี่ยวกับคุณบ่อยมาก ชัดเจนเลยว่าคุณมีความสำคัญต่อเธอมากขนาดไหนครับ"
     },
     {
-      "character": "Erenville",
-      "text_en": "...",
-      "text": "..."
-    },
-    {
-      "character": "Geode",
+      "key": "thatsallbegoodtoyourmotherwhileyoustillcaneh",
       "text_en": "That's all. Be good to your mother while you still can, eh?",
       "text": "แค่นี้แหละครับ ทำดีและใส่ใจคุณแม่ของตนเองให้มากๆ ในตอนที่ยังมีโอกาสอยู่นะครับ?"
     },
     {
-      "character": "Geode",
+      "key": "wellwellletyougonowfeelfreetousethishideoutasyoulike",
       "text_en": "Well, we'll let you go now. Feel free to use this hideout as you like.",
       "text": "เอาล่ะครับ พวกเราไม่รบกวนเวลาแล้วล่ะ เชิญใช้สถานที่พักกบดานแห่งนี้ได้ตามสบายเลยนะครับ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "youvebeenconsortingwithwuklamat",
       "text_en": "You've been consorting with Wuk Lamat.",
       "text": "เจ้าไปคบค้าสมาคมกับวุค ลามัต มาสินะ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "nomatteridonotknowwhatyouarescheming",
       "text_en": "No matter. I do not know what you are scheming...",
       "text": "ช่างมันเถอะ ข้าไม่สนใจว่าพวกเจ้ากำลังวางแผนกลอุบายอะไรอยู่..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "butwhenyourrealmlayonthebrinkyouwerepowerlessyouhadnochoicebuttoturntome",
       "text_en": "But when your realm lay on the brink, you were powerless. You had no choice but to turn to me.",
       "text": "ทว่าในยามที่อาณาจักรของเจ้าใกล้จะล่มสลายลง เจ้าไร้ซึ่งพละกำลังใดๆ และไม่มีทางเลือกอื่นนอกจากต้องบากหน้ามาขอความช่วยเหลือจากข้า"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "whateversentimentyoumayfeelforheritismypoweryourequireisitnot",
       "text_en": "Whatever sentiment you may feel for her, it is my power you require. Is it not?",
       "text": "ไม่ว่าเจ้าจะมีความรู้สึกร่วมและสงสารเห็นใจนางขนาดไหน แต่พลังของข้าคือสิ่งที่เจ้าจำเป็นต้องใช้ในการอยู่รอด... ใช่หรือไม่?"
     },
     {
-      "character": "Sphene",
+      "key": "perhapsandyetknowingthelovethatwuklamatbearsforherpeoplehowsheregardsthemallaskin",
       "text_en": "Perhaps... And yet, knowing the love that Wuk Lamat bears for her people—how she regards them all as kin...",
       "text": "ก็อาจจะจริงค่ะ... แต่ทว่า เมื่อพิจารณาถึงความรักที่วุค ลามัต มีต่อประชาชนของเธอ... วิธีที่เธอมองและดูแลทุกคนดั่งสายเลือดร่วมสาบาน..."
     },
     {
-      "character": "Sphene",
+      "key": "icannothelpbutwishtospareherthesamepainihavesuffered",
       "text_en": "I cannot help but wish to spare her the same pain I have suffered.",
       "text": "ฉันก็อดคิดและหวังไม่ได้ว่าจะช่วยให้เธอไม่ต้องพบเจอกับความทุกข์ทรมานอย่างแสนสาหัสแบบเดียวกันกับที่ฉันเคยเผชิญมา"
     },
     {
-      "character": "Sphene",
+      "key": "whatsmoreherfriendspossessnewknowledgewerewetoworktogetherwemightfindanotherpath",
       "text_en": "What's more, her friends possess new knowledge. Were we to work together, we might find another path.",
       "text": "ยิ่งไปกว่านั้น พรรคพวกของเธอยังมีความรู้และภูมิปัญญาใหม่ๆ ด้วย หากพวกเราร่วมมือช่วยกันคิด เราอาจจะพบปลายทางและทางออกที่ดีกว่านี้ก็ได้นะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "iknowyoureloathtoconsideritbutistherenohopeforpeacewithtuliyollal",
       "text_en": "I know you're loath to consider it, but...is there no hope for peace with Tuliyollal?",
       "text": "ฉันรู้ว่าคุณคงจะไม่อยากพิจารณาเรื่องนี้เลย แต่ว่า... ไม่มีหนทางสร้างสันติภาพร่วมกับทูลิโยลลัลจริงๆ หรือคะ?"
     },
     {
-      "character": "Sphene",
+      "key": "whatwevealreadydonemaybeunforgivablebutitneedntcontinueyouneedntkillyourbrotherandsister",
       "text_en": "What we've already done may be unforgivable, but it needn't continue. You needn't kill your brother and sister.",
       "text": "สิ่งที่พวกเราได้ก่อลงไปแล้วมันอาจจะเป็นความผิดร้ายแรงที่ยากจะได้รับการอภัย แต่เราไม่จำเป็นต้องเดินหน้าสงครามนี้ต่อเลยนี่คะ คุณไม่จำเป็นต้องลงมือสังหารน้องชายและน้องสาวของตัวเองด้วย"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "hmphislewmyonlyfleshandbloodyetyouattempttoswaymewithanappealtofamily",
       "text_en": "Hmph. I slew my only flesh and blood. Yet you attempt to sway me with an appeal to family?",
       "text": "เหอะ ขนาดสายเลือดร่วมมารดาเดียวกันเพียงคนเดียวข้ายังปลิดชีวิตมาแล้ว เจ้ายังกล้าพยายามจะเอาคำว่าครอบครัวมาเหนี่ยวรั้งเกลี้ยกล่อมข้าอีกงั้นรึ?"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "thememoryofmyfathersfinalmomentsstillfillsmewithdisappointmentagecameforhimbeforeidid",
       "text_en": "The memory of my father's final moments still fills me with disappointment. Age came for him before I did.",
       "text": "ความทรงจำในวินาทีสุดท้ายของท่านพ่อยังคงทำให้ข้าผิดหวังหนักหนา สภาพสังขารที่โรยรามาพรากชีวิตเขาไปก่อนที่ข้าจะได้ลงมือพิชิตด้วยตัวเองเสียอีก"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "forlongyearsisoughttoprovethemiracleandweakashewasdefeatinghimachievednothing",
       "text_en": "For long years I sought to prove the miracle. And weak as he was, defeating him achieved nothing.",
       "text": "ข้าเฝ้าเสาะหาหนทางพิสูจน์ความเหนือชั้นและปาฏิหาริย์มานานหลายปี และในสภาพที่เขาอ่อนแอลงปานนั้น การโค่นเขากลับไม่ได้ช่วยสร้างความภาคภูมิใจอะไรให้ข้าเลย"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "tokillthemismyonlyrecourse",
       "text_en": "To kill them is my only recourse...",
       "text": "การสังหารสองคนนั้นคือหนทางและปลายทางเดียวของข้า..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "wuklamatandkoanawhobestedhimashewasinhisprime",
       "text_en": "Wuk Lamat and Koana, who bested him as he was in his prime!",
       "text": "วุค ลามัต และโคอานา... สองคนที่เคยเอาชนะข้าในช่วงเวลาที่แข็งแกร่งและสมบูรณ์ที่สุดไปได้!"
     },
     {
-      "character": "Sphene",
+      "key": "theyarestillyoursiblingsevenifnotbybloodthatsuchbondsshouldmeansolittletoyou",
       "text_en": "They are still your siblings, even if not by blood. That such bonds should mean so little to you...",
       "text": "ถึงแม้จะไม่ใช่พี่น้องแท้ๆ ทางสายเลือด แต่พวกเขาก็ยังถือเป็นครอบครัวของคุุณนะคะ การที่สายสัมพันธ์ร่วมสาบานนั้นไร้ความหมายสำหรับคุณขนาดนี้มัน..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "iamboundtonooneservenonesavemyselfimadethatclearwhenfirstyouspoketomeinthegoldencity",
       "text_en": "I am bound to no one—serve none save myself. I made that clear when first you spoke to me in the golden city.",
       "text": "ข้าไม่ยึดติดและไม่เคยผูกพันกับใครหน้าไหนทั้งสิ้น... และจะไม่ยอมรับใช้ใครนอกจากเป้าหมายของตัวเอง ข้าเคยประกาศเจตนารมณ์นี้ชัดเจนแล้วตั้งแต่ตอนที่เราคุยกันครั้งแรกในเมืองทองคำ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "remembericaneasilykillyourbelovedfamilyifyouwouldprotectthemcastasideanyfoolishnotions",
       "text_en": "Remember: I can easily kill your beloved “family.” If you would protect them, cast aside any foolish notions.",
       "text": "จดจำใส่หัวไว้ซะ: ข้าสามารถสังหาร “ครอบครัว” แสนรักแสนหวงของเจ้าได้ง่ายดายดุจพลิกฝ่ามือ หากเจ้าอยากจะปกป้องพวกมัน จงเขี่ยความคิดที่โง่เง่าไร้สาระพวกนั้นทิ้งไปซะ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "yourwisdomandabilitiesarevaluableinsofarasourgoalsalignsothinkwellbeforeyouactqueenofreason",
       "text_en": "Your wisdom and abilities are valuable insofar as our goals align. So think well before you act, Queen of Reason.",
       "text": "ภูมิปัญญาและความสามารถของเจ้าจะมีค่าสำหรับข้าก็ต่อเมื่อเป้าหมายของเรายังตรงกันอยู่เท่านั้น เพราะฉะนั้น คิดใคร่ครวญให้รอบคอบก่อนจะลงมือทำอะไรล่ะ ราชินีแห่งเหตุผล"
     },
     {
-      "character": "Sphene",
+      "key": "grittedteethgrunt",
       "text_en": "[GRITTED-TEETH GRUNT]",
       "text": "[เสียงขบฟันคำรามในลำคอ]"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "wuklamatifyouarefathersworthysuccessorthenyouwillfindyourwaytome",
       "text_en": "Wuk Lamat. If you are Father's worthy successor, then you will find your way to me.",
       "text": "วุค ลามัต หากเจ้าคือผู้สืบทอดราชบัลลังก์ที่คู่ควรของท่านพ่อจริงล่ะก็ เจ้าต้องบุกฝ่ามาหาข้าให้สำเร็จด้วยตัวเอง"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "butshouldyoufallshortiwilllaywastetotuliyollal",
       "text_en": "But should you fall short, I will lay waste to Tuliyollal.",
       "text": "แต่ถ้าเจ้าไร้ซึ่งความสามารถและตกม้าตายไปก่อนล่ะก็ ข้าจะบดขยี้ทำลายล้างทูลิโยลลัลให้ราบเป็นหน้ากลอง"
     },
     {
-      "character": "Sphene",
+      "key": "whatnow",
       "text_en": "What now...?",
       "text": "จะเอาอย่างไรต่อดีล่ะคะทีนี้...?"
     }

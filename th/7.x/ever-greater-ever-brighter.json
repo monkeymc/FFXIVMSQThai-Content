@@ -1,1021 +1,1013 @@
 {
-  "id": "ever-greater-ever-brighter",
-  "wiki_path": "/wiki/Ever_Greater,_Ever_Brighter",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "Ever Greater, Ever Brighter",
-  "title": "รุ่งเรืองยิ่งขึ้น เจิดจรัสยิ่งกว่า",
-  "level": "95",
-  "location": "Tuliyollal(X:11.6,Y:7.6)",
-  "npc_start": "Krile",
+  "quest_id": "ever-greater-ever-brighter",
   "dialogues": [
     {
-      "character": "Alphinaud",
+      "key": "theheadofreasonwasverywiseindeedtodevisesomethingsoelaborateandmeaningfulastheriteofsuccessiontisashamehecouldnotbeheretobearwitnesstotheend",
       "text_en": "The Head of Reason was very wise indeed to devise something so elaborate and meaningful as the rite of succession. 'Tis a shame he could not be here to bear witness to the end.",
       "text": "หัวหน้าแห่งเหตุผลฉลาดมากที่จะประดิษฐ์บางสิ่งที่ซับซ้อนและมีความหมายเหมือนกับพิธีกรรมสืบทอด 'น่าเสียดายที่เขาไม่สามารถมาที่นี่เพื่อเป็นพยานจนถึงวาระสุดท้ายได้"
     },
     {
-      "character": "Alisaie",
+      "key": "abittersweetcelebrationtobesurebutimgladwuklamatfinallygottherecognitionshedeserves",
       "text_en": "A bittersweet celebration to be sure, but I'm glad Wuk Lamat finally got the recognition she deserves.",
       "text": "แน่นอนว่าเป็นการเฉลิมฉลองที่หวานอมขมกลืน แต่ฉันดีใจที่ในที่สุด วุค ลามัต ก็ได้รับการยอมรับว่าเธอสมควรได้รับ"
     },
     {
-      "character": "Erenville",
+      "key": "shemighthavetoldsomeonewhatshewasplanning",
       "text_en": "She might have told someone what she was planning...",
       "text": "เธอน่าจะบอกใครสักคนเกี่ยวกับแผนการของเธอบ้างนะ..."
     },
     {
-      "character": "Erenville",
+      "key": "butwuklamatdoesnotactwithoutthebestinterestsofherpeopleinmind",
       "text_en": "But Wuk Lamat does not act without the best interests of her people in mind.",
       "text": "แต่วุค ลามัต ไม่เคยลงมือทำอะไรโดยไม่มีผลประโยชน์และความสุขของประชาชนอยู่ในใจหรอกครับ"
     },
     {
-      "character": "Krile",
+      "key": "wuklamathastrulycomeintoherownhasshenot",
       "text_en": "Wuk Lamat has truly come into her own, has she not?",
       "text": "วุค ละมาด มาเป็นของตัวเองแล้วจริงๆ ใช่ไหม?"
     },
     {
-      "character": "Alphinaud",
+      "key": "indeedevenasshemovedthepeoplewithherheartfeltwordssheretainedhercharacteristicspontaneityasevidencedbyhernominationofkoanaasfellowdawnservant",
       "text_en": "Indeed. Even as she moved the people with her heartfelt words, she retained her characteristic spontaneity─as evidenced by her nomination of Koana as fellow Dawnservant.",
       "text": "อย่างแท้จริง. แม้ในขณะที่เธอกระตุ้นผู้คนด้วยคำพูดที่จริงใจ เธอยังคงรักษาความเป็นธรรมชาติของเธอเอาไว้ ดังที่เห็นได้จากการที่เธอเสนอชื่อโคอาน่าให้เป็นเพื่อน Dawnservant"
     },
     {
-      "character": "Erenville",
+      "key": "assuddenasitwasiwouldliketobelieveshegaveitalldueconsideration",
       "text_en": "As sudden as it was, I would like to believe she gave it all due consideration.",
       "text": "ถึงมันจะปุบปับไปหน่อย แต่ผมอยากจะเชื่อว่าเธอได้ไตร่ตรองเรื่องนี้มาเป็นอย่างดีแล้วครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "shecoulddofarworsekoanacompletedeveryfeatexceptthelastandthatheonlyforfeitedtohelpwuklamatsecurevictory",
       "text_en": "She could do far worse. Koana completed every feat except the last, and that he only forfeited to help Wuk Lamat secure victory.",
       "text": "เธอทำได้แย่กว่านั้นมาก โคอาน่าทำสำเร็จทุกประการ ยกเว้นครั้งสุดท้าย และเขาเพียงแต่พ่ายแพ้เพื่อช่วยให้ วุค ลามัต ได้รับชัยชนะเท่านั้น"
     },
     {
-      "character": "Krile",
+      "key": "ilookforwardtoseeinghowtuliyollalwillprosperundertheircare",
       "text_en": "I look forward to seeing how Tuliyollal will prosper under their care.",
       "text": "ฉันหวังว่าจะได้เห็นว่า Tuliyollal จะประสบความสำเร็จอย่างไรภายใต้การดูแลของพวกเขา"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "everyonethankyouforcoming",
       "text_en": "Everyone, thank you for coming!",
       "text": "ทุกคนคะ ขอบคุณมากนะคะที่มาร่วมงานในวันนี้!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icouldseeyouallperfectlyfromupthere",
       "text_en": "I could see you all perfectly from up there.",
       "text": "ฉันมองเห็นทุกคนได้อย่างชัดเจนจากข้างบนนั่นเลยล่ะค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thatwasanimpressivespeechdawnservant",
       "text_en": "That was an impressive speech, Dawnservant.",
       "text": "นั่นเป็นคำพูดที่น่าประทับใจนะ Dawnservant"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itoldyounotitles",
       "text_en": "I told you─no titles!",
       "text": "ฉันบอกแล้วไงคะ—ห้ามเรียกยศเด็ดขาด!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "besidesaftereverythingwevebeenthroughtogetheryourenothinglessthanfamily",
       "text_en": "Besides, after everything we've been through together, you're nothing less than family.",
       "text": "อีกอย่าง หลังจากความยากลำบากทั้งหมดที่เราก้าวผ่านร่วมกันมา พวกคุณก็เปรียบเสมือนครอบครัวของฉันแล้วค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "solikemyfamilydoesidlikeyoutocallmelamatyi",
       "text_en": "So...like my family does, I'd like you to call me Lamaty'i.",
       "text": "เพราะงั้น... เหมือนที่ครอบครัวของฉันเรียก ฉันอยากให้พวกคุณเรียกฉันว่า ลามัตยี่ นะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouitmeansalottome",
       "text_en": "Thank you. It means a lot to me.",
       "text": "ขอบคุณมากนะคะ มันมีความหมายสำหรับฉันมากเลยค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "itwouldalsobemyhonortocallyoulamatyi",
       "text_en": "It would also be my honor to call you Lamaty'i.",
       "text": "มันจะเป็นเกียรติของฉันเช่นกันที่จะเรียกคุณว่า ลามัตยี่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohdontworryaboutthathoweveryousayitiknowitllbewithlove",
       "text_en": "Oh, don't worry about that. However you say it, I know it'll be with love.",
       "text": "โอ้ ไม่ต้องกังวลเรื่องนั้นหรอกค่ะ ไม่ว่าจะออกเสียงยังไง ฉันก็รู้ว่ามันเต็มไปด้วยความรักแน่นอนค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "ifwedomispronounceitpleasecorrectusbut",
       "text_en": "If we do mispronounce it, please correct us, but...",
       "text": "หากเราออกเสียงผิด โปรดแก้ไขด้วย แต่..."
     },
     {
-      "character": "Krile",
+      "key": "itwouldbemyhonortocallyoulamatyi",
       "text_en": "It would be my honor to call you Lamaty'i.",
       "text": "มันจะเป็นเกียรติของฉันที่จะเรียกคุณว่า ลามัตยี่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "comeonsaysomethingwouldyouwealreadyhaveerenvilleforthemockingsilences",
       "text_en": "Come on, say something would you? We already have Erenville for the mocking silences!",
       "text": "โธ่ เอ่ยอะไรสักคำหน่อยสิคะ? ปกติเราก็มีเอเรนวิลล์คอยเงียบเงียบจิกกัดอยู่คนเดียวก็พอแล้วนะ!"
     },
     {
-      "character": "Krile",
+      "key": "ithinkyouvesimplycaughtourfriendoffguard",
       "text_en": "I think you've simply caught our friend off guard.",
       "text": "ฉันคิดว่าคุณทำให้เพื่อนของเราไม่ทันระวัง"
     },
     {
-      "character": "Krile",
+      "key": "personallyitwouldbemyhonortocallyoulamatyi",
       "text_en": "Personally, it would be my honor to call you Lamaty'i.",
       "text": "โดยส่วนตัวแล้ว ถือเป็นเกียรติอย่างยิ่งที่ได้เรียกคุณว่าลามาตีอิ"
     },
     {
-      "character": "Alisaie",
+      "key": "mineaswell",
       "text_en": "Mine as well.",
       "text": "ของฉันด้วย"
     },
     {
-      "character": "Alphinaud",
+      "key": "indeedconsiderusyoureorzeancousinsifsuchanotionappealstoyou",
       "text_en": "Indeed. Consider us your Eorzean cousins, if such a notion appeals to you.",
       "text": "อย่างแท้จริง. ลองนึกถึงลูกพี่ลูกน้องชาว Eorzean ของคุณกับเราหากแนวคิดดังกล่าวดึงดูดใจคุณ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "eorzeancousins",
       "text_en": "Eorzean cousins...",
       "text": "ลูกพี่ลูกน้องจากอีออร์เซียงั้นเหรอ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsalittleembarrassingbutnotinabadway",
       "text_en": "It's a little embarrassing...but not in a bad way!",
       "text": "มันแอบเขินอยู่นิดหน่อยนะ... แต่ก็รู้สึกดีไม่หยอกเลยล่ะค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theresstilllotsidliketosaybutineedtomakemyroundsfirst",
       "text_en": "There's still lots I'd like to say, but I need to make my rounds first.",
       "text": "ยังมีอีกหลายเรื่องเลยค่ะที่ฉันอยากจะพูด แต่ตอนนี้ฉันต้องแวะไปพบปะผู้คนให้ทั่วถึงก่อนค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwanttothankmysupporterswhorevisitingfortheoccasioncouldyouwaitformehere",
       "text_en": "I want to thank my supporters who're visiting for the occasion. Could you wait for me here?",
       "text": "ฉันอยากจะไปขอบคุณผู้สนับสนุนที่อุตส่าห์เดินทางมาเยือนในโอกาสพิเศษนี้ รบกวนทุกคนเฝ้ารอฉันอยู่ที่นี่ก่อนได้ไหมคะ?"
     },
     {
-      "character": "Krile",
+      "key": "ofcoursewellkeepourselvesentertained",
       "text_en": "Of course. We'll keep ourselves entertained.",
       "text": "แน่นอน. เราจะสร้างความบันเทิงให้กับตัวเอง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsaidwouldyoujoinmeforename",
       "text_en": "That said, would you join me, Forename ?",
       "text": "จะว่าไป คุณ [ชื่อ] สะดวกจะแวะไปเป็นเพื่อนฉันหน่อยไหมคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wonderfulcomeandmeetmeoutsidethewingedwalkthen",
       "text_en": "Wonderful! Come and meet me outside the Winged Walk, then.",
       "text": "ยอดเยี่ยมเลย! งั้นเดี๋ยวไปเจอกันที่ข้างนอกทางเดินปีกปักษ์ (Winged Walk) นะคะ"
     },
     {
-      "character": "Erenville",
+      "key": "shellalwaysbewuklamattomenomatterhowimportantshegets",
       "text_en": "She'll always be “Wuk Lamat” to me. No matter how important she gets.",
       "text": "สำหรับผมแล้ว เธอจะยังคงเป็น “วุค ลามัต” เสมอครับ ไม่ว่าเธอจะมียศใหญ่โตขึ้นขนาดไหนก็ตาม"
     },
     {
-      "character": "Krile",
+      "key": "dontworryaboutusgoonandhavefunwithwuklaerlamatyi",
       "text_en": "Don't worry about us! Go on and have fun with Wuk La─er, Lamaty'i!",
       "text": "ไม่ต้องกังวลเกี่ยวกับเรา! มาสนุกไปกับ Wuk La─er, ลามัตยี่!"
     },
     {
-      "character": "Alisaie",
+      "key": "lamatyilamatyihmm",
       "text_en": "La ma ty'i... Lama ty 'i? Hmm...",
       "text": "ลามะตี๋... ลามะตี๋? อืม..."
     },
     {
-      "character": "Alphinaud",
+      "key": "idontbelieveisawketenramminattendancedidyou",
       "text_en": "I don't believe I saw Ketenramm in attendance. Did you?",
       "text": "ฉันไม่เชื่อว่าจะได้เห็น Ketenramm เข้าร่วมงาน คุณล่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "readyletsgo",
       "text_en": "Ready? Let's go.",
       "text": "พร้อมหรือยังคะ? ไปกันเถอะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ourfirststopisaunttiistacosandnotjustforasnackipromisewukevuandmablushouldbethere",
       "text_en": "Our first stop is Aunt Tii's Tacos─and not just for a snack, I promise. Wuk Evu and Mablu should be there.",
       "text": "จุดแวะพักแรกของเราคือร้านทาโก้ของป้าทีค่ะ—และฉันรับรองว่าไม่ใช่แค่แวะหาของกินเล่นแน่ ๆ เพราะคุณวุค เอวู กับมาบลู น่าจะรอเราอยู่ที่นั่นค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ofcoursesincewellbeataunttiistacosanywaywemightaswellpickupsomesnacksaswellright",
       "text_en": "Of course, since we'll be at Aunt Tii's Tacos anyway , we might as well pick up some snacks as well, right?",
       "text": "แน่นอนว่า ในเมื่อเราแวะไปถึงร้านทาโก้ป้าทีทั้งที เราก็ควรจะซื้ออะไรติดไม้ติดมือมาทานเล่นด้วยใช่ไหมล่ะคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "didsomethingcomeupthatsfinemeetmebythewingedwalkonceyourefinished",
       "text_en": "Did something come up? That's fine─meet me by the Winged Walk once you're finished!",
       "text": "มีธุระด่วนเข้ามาเหรอคะ? ไม่เป็นไรค่ะ—เสร็จงานแล้วค่อยไปเจอกันแถวทางเดินปีกปักษ์นะคะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letsgetgoing",
       "text_en": "Let's get going!",
       "text": "ออกเดินทางกันเถอะค่ะ!"
     },
     {
-      "character": "Linuhanu",
+      "key": "ohokaliy",
       "text_en": "Ohokaliy!",
       "text": "โอ้โฮคาลี่!"
     },
     {
-      "character": "Linuhanu",
+      "key": "thesetacosaredeliciousthoughnodoubteventastieriftoppedwithreeds",
       "text_en": "These tacos are delicious! Though no doubt even tastier if topped with reeds...",
       "text": "ทาโก้เหล่านี้อร่อย! ไม่ต้องสงสัยเลยว่าอร่อยกว่าถ้าโรยด้วยกก..."
     },
     {
-      "character": "Tobli",
+      "key": "itsbeenawhilesinceivemadeittothecapitalimgladtofinditsolively",
       "text_en": "It's been a while since I've made it to the capital. I'm glad to find it so lively.",
       "text": "ไม่นานมานี้ฉันก็ไปถึงเมืองหลวงแล้ว ฉันดีใจที่พบว่ามันมีชีวิตชีวามาก"
     },
     {
-      "character": "Mablu",
+      "key": "dawnservantwuklamatohshewasmarvelousuptherewasntsheisimplyweptwithjoy",
       "text_en": "Dawnservant Wuk Lamat! Oh, she was marvelous up there, wasn't she? I simply wept with joy!",
       "text": "ผู้รับใช้รุ่งอรุณ วุค ละมาด! โอ้ เธอมหัศจรรย์มากที่นั่นใช่ไหม ฉันแค่ร้องไห้ด้วยความดีใจ!"
     },
     {
-      "character": "Wuk Evu",
+      "key": "whyifitisntforenamemarvelousceremonywasntit",
       "text_en": "Why if it isn't Forename ! Marvelous ceremony, wasn't it?",
       "text": "ทำไมถ้าไม่ใช่คุณ [ชื่อ]ล่ะ ! พิธีอัศจรรย์ใช่หรือไม่?"
     },
     {
-      "character": "Wuk Evu",
+      "key": "dawnservantwuklamatwordscannotwellexpresstheprofoundjoyyourascensionhasbroughtme",
       "text_en": "Dawnservant Wuk Lamat. Words cannot well express the profound joy your ascension has brought me.",
       "text": "คนรับใช้รุ่งอรุณ วุค ละมาด. คำพูดไม่สามารถแสดงถึงความสุขอันลึกซึ้งที่คุณเสด็จขึ้นสู่สวรรค์นำมาให้ฉันได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "noneedforformalitiesimstillthesameoldme",
       "text_en": "No need for formalities. I'm still the same old me.",
       "text": "ไม่ต้องมากพิธีหรอกค่ะ ฉันก็ยังเป็นคนเดิมคนเดิมนั่นแหละ"
     },
     {
-      "character": "Wuk Evu",
+      "key": "allrightthenishallforgoformalities",
       "text_en": "All right, then. I shall forgo formalities.",
       "text": "เอาล่ะ ฉันจะละทิ้งพิธีการ"
     },
     {
-      "character": "Wuk Evu",
+      "key": "arghbuticannotyouaredawnservanttoodisrespectfulitistoaddressyouwithoutyourduetitle",
       "text_en": "Argh, but I cannot! You are Dawnservant! Too disrespectful it is to address you without your due title!",
       "text": "อ๊า แต่ฉันทำไม่ได้! คุณเป็น Dawnservant! เป็นการดูหมิ่นเกินไปที่จะพูดกับคุณโดยไม่มีตำแหน่ง!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asdawnservantimorderingyounottobotherwithformalities",
       "text_en": "As Dawnservant, I'm ordering you not to bother with formalities!",
       "text": "ในฐานะดอว์นเซิร์ฟวันต์ ฉันขอสั่งให้พวกคุณห้ามเกรงใจหรือใช้คำเป็นทางการกับฉันเด็ดขาดค่ะ!"
     },
     {
-      "character": "Wuk Evu",
+      "key": "allrighttheniwontbotheranymore",
       "text_en": "All right, then. I won't bother anymore.",
       "text": "เอาล่ะ ฉันจะไม่รบกวนอีกต่อไป"
     },
     {
-      "character": "Tobli",
+      "key": "icouldmoreeasilyconversewithadrunkenalpaca",
       "text_en": "I could more easily converse with a drunken alpaca.",
       "text": "ฉันสามารถพูดคุยกับอัลปาก้าขี้เมาได้ง่ายขึ้น"
     },
     {
-      "character": "Mablu",
+      "key": "thankyouforhelpingwuklamatbecomedawnservantforename",
       "text_en": "Thank you for helping Wuk Lamat become Dawnservant, Forename !",
       "text": "ขอบคุณที่ช่วย วุค ลามัต มาเป็น Dawnservant, คุณ [ชื่อ] !"
     },
     {
-      "character": "Mablu",
+      "key": "politicalopinionsinourcommunitymayhavebeendividedbutadawnservantsascensionpresentsusallwithaprimeopportunitywhichiswhyiconvincedeveryonetoparticipateinacommemorativesalescampaign",
       "text_en": "Political opinions in our community may have been divided, but a Dawnservant's ascension presents us all with a prime opportunity. Which is why I convinced everyone to participate in a commemorative sales campaign!",
       "text": "ความคิดเห็นทางการเมืองในชุมชนของเราอาจถูกแบ่งแยก แต่การเสด็จขึ้นสู่สวรรค์ของ Dawnservant มอบโอกาสสำคัญให้กับเราทุกคน นั่นคือเหตุผลที่ฉันโน้มน้าวให้ทุกคนเข้าร่วมในแคมเปญการขายที่ระลึก!"
     },
     {
-      "character": "Mablu",
+      "key": "awonderfulplannomyfirstbigundertakingasamerchant",
       "text_en": "A wonderful plan, no? My first big undertaking as a merchant!",
       "text": "แผนการที่ยอดเยี่ยมใช่ไหม? งานใหญ่ครั้งแรกของฉันในฐานะพ่อค้า!"
     },
     {
-      "character": "Linuhanu",
+      "key": "idolikethesoundofasalesolongasimnotpersuadedtobuytoomuch",
       "text_en": "I do like the sound of a sale! ...So long as I'm not persuaded to buy too much.",
       "text": "ฉันชอบเสียงขายของนะ! ...ตราบใดที่ผมไม่ชักชวนให้ซื้อมากเกินไป"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itssogoodtoseeallofyouagainiwantedtopersonallythankeachofyouforyourhelp",
       "text_en": "It's so good to see all of you again. I wanted to personally thank each of you for your help.",
       "text": "ดีใจจริง ๆ ที่ได้พบทุกคนอีกครั้งนะคะ ฉันอยากจะแวะมาขอบคุณทุกคนด้วยตัวเองสำหรับความช่วยเหลือที่ผ่านมาค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thefeatofreedsandthefeatofgoldweremyfirsttruetestsasaclaimantifnotforyourguidanceiwouldhavefailedtheriteofsuccessionbeforeifullyunderstooditsimportance",
       "text_en": "The Feat of Reeds and the Feat of Gold were my first true tests as a claimant. If not for your guidance, I would have failed the rite of succession before I fully understood its importance.",
       "text": "บททดสอบแห่งต้นอ้อและบททดสอบแห่งทองคำคืองานทดสอบก้าวแรกที่แท้จริงของฉันในฐานะผู้ท้าชิง หากไม่มีคำชี้แนะชี้ทางจากพวกคุณ ฉันคงล้มเหลวในการชิงบัลลังก์ไปตั้งแต่ยังไม่ทันเข้าใจความสำคัญของมันเลยด้วยซ้ำค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nowthatyouvegivenmeatasteforcelebratingcultureicantwaittoseewhatelsetuliyollalhastoofferinxakturalforinstance",
       "text_en": "Now that you've given me a taste for celebrating culture, I can't wait to see what else Tuliyollal has to offer. In Xak Tural, for instance!",
       "text": "ยามนี้เมื่อพวกคุณช่วยเปิดตาให้ฉันได้สัมผัสรสชาติของการชื่นชมมรดกวัฒนธรรมแล้ว ฉันล่ะแทบอดใจรอไม่ไหวที่จะได้ศึกษาสิ่งวิเศษอื่น ๆ ที่ทูลิโยลลัลจะมอบให้ เช่น ดินแดนแซกทูรัล เป็นต้นค่ะ!"
     },
     {
-      "character": "Wuk Evu",
+      "key": "asalwaysyoumustobserveproperetiquetteiwouldbehappytooffermyservicesasatutorshouldyoudesirethem",
       "text_en": "As always, you must observe proper etiquette. I would be happy to offer my services as a tutor, should you desire them.",
       "text": "เช่นเคยคุณต้องปฏิบัติตามมารยาทที่เหมาะสม ฉันยินดีที่จะเสนอบริการของฉันในฐานะครูสอนพิเศษ หากคุณต้องการ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icanthinkofnobetterinstructorillbesuretobringkoanaaswell",
       "text_en": "I can think of no better instructor! I'll be sure to bring Koana as well.",
       "text": "ฉันคิดหาอาจารย์ผู้สอนที่ดีกว่านี้ไม่ออกเลยล่ะค่ะ! เดี๋ยวฉันจะลากตัวพี่โคอานามาร่วมเรียนรู้ด้วยแน่นอนค่ะ"
     },
     {
-      "character": "Linuhanu",
+      "key": "yourdutiesasdawnservantwillbeplentifulbutdontforgetyourpromisetoattendihihhananextseason",
       "text_en": "Your duties as Dawnservant will be plentiful─but don't forget your promise to attend Ihih'hana next season.",
       "text": "หน้าที่ของคุณในฐานะ Dawnservant จะมีมากมาย แต่อย่าลืมสัญญาว่าจะเข้าร่วม Ihih'hana ในฤดูกาลหน้า"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ofcourseiwouldntmissit",
       "text_en": "Of course! I wouldn't miss it.",
       "text": "แน่นอนสิคะ! ฉันไม่มีวันพลาดแน่ ๆ"
     },
     {
-      "character": "Mablu",
+      "key": "whenivemadeanameformyselfasamerchantillcomebythepalaceandtellyouallaboutmybiggestsales",
       "text_en": "When I've made a name for myself as a merchant, I'll come by the palace and tell you all about my biggest sales!",
       "text": "เมื่อฉันสร้างชื่อให้กับตัวเองในฐานะพ่อค้า ฉันจะมาที่พระราชวังและบอกคุณเกี่ยวกับยอดขายที่ยิ่งใหญ่ที่สุดของฉัน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "heheilookforwardtoit",
       "text_en": "Hehe, I look forward to it!",
       "text": "ฮะฮะ ฉันจะเฝ้ารอคอยเลยค่ะ!"
     },
     {
-      "character": "Tobli",
+      "key": "ihavebeenpersonallyattendingtoyouralpacascaredarewehopetoseeyouattheranchagain",
       "text_en": "I have been personally attending to your alpaca's care. Dare we hope to see you at the ranch again?",
       "text": "ฉันได้ดูแลอัลปาก้าของคุณเป็นการส่วนตัวแล้ว เรากล้าหวังว่าจะได้พบคุณที่ฟาร์มอีกครั้งหรือไม่?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehetellmyfluffyspitfilledfriendthatwuklamatwillvisitsoon",
       "text_en": "Hehe, tell my fluffy, spit-filled friend that Wuk Lamat will visit soon.",
       "text": "ฮะฮะ ฝากบอกเจ้าเพื่อนขนฟูจอมพ่นน้ำลายตัวนั้นด้วยนะคะว่าวุค ลามัต จะแวะไปหาในเร็ว ๆ นี้แน่นอนค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "anywayyoullhavetoexcuseusohyouhaventseenfonjeantainearoundherehaveyouatallslimfellowwithlongpointyears",
       "text_en": "Anyway, you'll have to excuse us. Oh─you haven't seen Fonjeantaine around here, have you? A tall, slim fellow with long pointy ears.",
       "text": "อย่างไรก็ตาม พวกเราคงต้องขอตัวก่อนนะคะ อ้อ—พวกคุณเห็นฟอนจองแตนแถวนี้บ้างไหมคะ? ชายตัวสูงเพรียวที่มีหูแหลมยาวน่ะค่ะ"
     },
     {
-      "character": "Wuk Evu",
+      "key": "isawamanmatchingthatdescriptionbytheweaponsdealerinbaysidebevyinthecompanyofamoblinandapairofyokhuyifiremembercorrectly",
       "text_en": "I saw a man matching that description by the weapons dealer in Bayside Bevy. In the company of a Moblin and a pair of Yok Huy, if I remember correctly.",
       "text": "ฉันเห็นชายคนหนึ่งตรงกับคำอธิบายของพ่อค้าอาวุธในเบย์ไซด์ เบวี่ ในกลุ่มม็อบลินและยกฮุยคู่หนึ่งถ้าจำไม่ผิด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "baysidebevygotit",
       "text_en": "Bayside Bevy─got it!",
       "text": "ร้านของป่าริมอ่าว (Bayside Bevy)—เข้าใจแล้วค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "enjoythefestivitieseveryoneandthetacos",
       "text_en": "Enjoy the festivities, everyone. And the tacos!",
       "text": "ขอให้ทุกคนสนุกสนานกับเทศกาลเฉลิมฉลองนะคะ และขอให้อร่อยกับทาโก้ด้วยค่ะ!"
     },
     {
-      "character": "Wuk Evu",
+      "key": "wecouldnothaveaskedforafinerdawnservant",
       "text_en": "We could not have asked for a finer Dawnservant.",
       "text": "เราไม่สามารถขอ Dawnservant ที่ดีกว่านี้ได้"
     },
     {
-      "character": "Mablu",
+      "key": "thenitssettledthedawnservantdedicationdaydiscountisherebyineffect",
       "text_en": "Then it's settled─the Dawnservant Dedication Day Discount is hereby in effect!",
       "text": "ถ้าอย่างนั้นก็ตัดสิน─ส่วนลดวันอุทิศ Dawnservant มีผลใช้บังคับแล้ว!"
     },
     {
-      "character": "Tobli",
+      "key": "thefirstpromisesgoldenalpacaisasspiritedasevertoospiritedifyouaskme",
       "text_en": "The First Promise's golden alpaca is as spirited as ever. Too spirited, if you ask me.",
       "text": "อัลปาก้าสีทองของ The First Promise นั้นมีชีวิตชีวาเช่นเคย ร่าเริงเกินไปถ้าคุณถามฉัน"
     },
     {
-      "character": "Linuhanu",
+      "key": "ihopedawnservantkoanawilljoinusforihihhanaaswell",
       "text_en": "I hope Dawnservant Koana will join us for Ihih'hana as well.",
       "text": "ฉันหวังว่า Dawnservant โคอานา จะเข้าร่วมกับเราใน Ihih'hana ด้วยเช่นกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soundslikefonjeantainehasmadenewfriendswhichshouldmakehimeasytofind",
       "text_en": "Sounds like Fonjeantaine has made new friends. Which should make him easy to find!",
       "text": "ดูเหมือนฟอนจองแตนจะได้เพื่อนใหม่เพียบเลยนะนั่น แบบนี้น่าจะสืบค้นตามหาตัวเขาได้ง่ายขึ้นเยอะค่ะ!"
     },
     {
-      "character": "Zurmurwur",
+      "key": "thecitizensbeholdthehighluminarywithawenodoubtfewhaveseenoneofhisstationorhisstature",
       "text_en": "The citizens behold the High Luminary with awe. No doubt few have seen one of his station...or his stature.",
       "text": "ประชาชนเฝ้าดูพระผู้ทรงคุณวุฒิด้วยความตกตะลึง ไม่ต้องสงสัยเลยว่าน้อยคนนักจะได้เห็นตำแหน่งของเขา...หรือความสูงของเขา"
     },
     {
-      "character": "Gurfurlur",
+      "key": "ihavenotcometotuliyollalinquitesometime",
       "text_en": "I have not come to Tuliyollal in quite some time...",
       "text": "ไม่ได้มาทูลิโยลัลมาสักพักแล้ว..."
     },
     {
-      "character": "Rakorok",
+      "key": "pfffkohhhpotfriendrakorokisgratefulforthismeetagain",
       "text_en": "Pfff... Kohhh... Potfriend! Rakorok is grateful for this meetagain!",
       "text": "จุ๊ฟ...โค่...เพื่อนหม้อ! Rakorok รู้สึกขอบคุณสำหรับการพบกันครั้งนี้อีกครั้ง!"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "ahforenameapleasuretoseeyouagain",
       "text_en": "Ah, Forename ! A pleasure to see you again.",
       "text": "เอ่อ คุณ [ชื่อ] ! ยินดีที่ได้พบคุณอีกครั้ง"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "wuklaerdawnservantforenameyouhonoruswithyourpresence",
       "text_en": "Wuk La─er, Dawnservant! Forename ! You honor us with your presence!",
       "text": "วุค ลา─er, Dawnservant! ชื่อเล่น ! คุณให้เกียรติเราด้วยการปรากฏตัวของคุณ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankyouforcomingeveryoneiknowthejourneytotuliyollalisntashortone",
       "text_en": "Thank you for coming, everyone! I know the journey to Tuliyollal isn't a short one.",
       "text": "ขอบคุณทุกคนมากนะคะที่เดินทางมาร่วมงาน! ฉันรู้ดีว่าการเดินทางมาถึงทูลิโยลลัลนั้นไม่ใช่หนทางสั้น ๆ เลยล่ะค่ะ"
     },
     {
-      "character": "Rakorok",
+      "key": "pfffpfffkohhhlongroadworththetraveltocongratulatenewdawnservants",
       "text_en": "Pfff... Pfffkohhh... Longroad worth the travel to congratulate new Dawnservants!",
       "text": "Pfff... Pfffkohhh... Longroad คุ้มค่ากับการเดินทางเพื่อแสดงความยินดีกับ Dawnservants ใหม่!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "toheartheheadofreasonhaspassedbringsmesorrowbutwewhorememberhimwillensurehelivesonmaytheaccoladesofthisdaybeasofferingstothefutureheenvisioned",
       "text_en": "To hear the Head of Reason has passed brings me sorrow, but we who remember him will ensure he lives on. May the accolades of this day be as offerings to the future he envisioned.",
       "text": "การได้ยินว่าหัวหน้าแห่งเหตุผลจากไปแล้วทำให้ฉันเสียใจ แต่พวกเราที่จำเขาได้ จะทำให้มั่นใจว่าเขาจะมีชีวิตอยู่ต่อไป ขอให้รางวัลในวันนี้เป็นเหมือนเครื่องบูชาสำหรับอนาคตที่เขาจินตนาการไว้"
     },
     {
-      "character": "Zurmurwur",
+      "key": "thehighluminaryandiattendonbehalfofworlarsechohadourpeoplecomeenmassewewouldhavebeenanobstruction",
       "text_en": "The High Luminary and I attend on behalf of Worlar's Echo. Had our people come en masse, we would have been an obstruction.",
       "text": "ข้าและผู้ทรงคุณวุฒิมาร่วมงานในนามของ Worlar's Echo ถ้าคนของเรามารวมกันเราคงเป็นอุปสรรค"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nonsenseyourealwayswelcomeallofyouthisisyourcityasmuchasanyones",
       "text_en": "Nonsense! You're always welcome─all of you! This is your city as much as anyone's!",
       "text": "พูดเหลวไหลน่ะ! พวกคุณได้รับการต้อนรับเสมอ—ทุกคนเลยค่ะ! เมืองนี้ก็เป็นเมืองของพวกคุณเหมือนกับเป็นของคนอื่น ๆ นั่นแหละค่ะ!"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "imgladtoseeyouhaleandwholeforenamethoughiknowlittleoftheparticularsicanonlyimagineyourlatestadventurehasbeenbothlongandcolorful",
       "text_en": "I'm glad to see you hale and whole, Forename . Though I know little of the particulars, I can only imagine your latest adventure has been both long and...colorful.",
       "text": "ฉันดีใจที่เห็นคุณแข็งแรงและสมบูรณ์ คุณ [ชื่อ] แม้ว่าฉันจะรู้รายละเอียดเพียงเล็กน้อย แต่ฉันทำได้แต่จินตนาการว่าการผจญภัยครั้งล่าสุดของคุณนั้นทั้งยาวนานและ...มีสีสัน"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "beginningwithnearshipwreckifyoullrememberyetherewestandcelebratingtheascensionofyourclaimant",
       "text_en": "Beginning with near shipwreck, if you'll remember! Yet here we stand, celebrating the ascension of your claimant.",
       "text": "เริ่มด้วยเรื่องใกล้เรืออับปาง ถ้าคุณจำได้! แต่เรายืนอยู่ที่นี่ เฉลิมฉลองการเสด็จขึ้นสู่สวรรค์ของผู้อ้างสิทธิ์ของคุณ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whenmyjourneybeganithoughtonlyofpreservingthepeacethatmyfatherworkedsohardtocreate",
       "text_en": "When my journey began, I thought only of preserving the peace that my father worked so hard to create.",
       "text": "ตอนเริ่มออกเดินทางผจญภัยครั้งแรก ฉันคิดเพียงแค่อยากจะปกป้องดูแลความสงบสุขที่ท่านพ่อพยายามสร้างขึ้นมาอย่างยากลำบากเท่านั้นค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butthefeatofpotsthefeatofproofandthefeatoficeshowedmethatpeaceisnotsimplytheabsenceofwar",
       "text_en": "But the Feat of Pots, the Feat of Proof, and the Feat of Ice showed me that peace is not simply the absence of war.",
       "text": "แต่บททดสอบแห่งเครื่องปั้น บททดสอบแห่งการพิสูจน์ และบททดสอบแห่งน้ำแข็ง แสดงให้ฉันตระหนักว่า ความสงบสุขไม่ได้หมายถึงเพียงแค่การไม่มีศึกสงครามเท่านั้นค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "beingabletolivetogetherinsafetyandhappinessthatwaswhatmyfatherenvisionedforthisnationthatsthetuliyollaliwantforyouall",
       "text_en": "Being able to live together in safety and happiness─that was what my father envisioned for this nation. That's the Tuliyollal I want for you all.",
       "text": "การที่พวกเราสามารถอาศัยอยู่ร่วมกันได้อย่างปลอดภัยและมีรอยยิ้มความสุข—นั่นคือสิ่งที่ท่านพ่อวาดฝันจินตนาการไว้สำหรับแผ่นดินนี้ และนั่นคือทูลิโยลลัลในแบบที่ฉันต้องการมอบให้พวกคุณทุกคนค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "soipromiseyouthisasdawnservantiwilldoeverythingicantobringthatsamehappinesstothebanditsinkozamaukaandtheyokhuyofchirwagursalterniwontforsakethem",
       "text_en": "So I promise you this─as Dawnservant, I will do everything I can to bring that same happiness to the bandits in Kozama'uka and the Yok Huy of Chirwagur Saltern. I won't forsake them.",
       "text": "ดังนั้น ฉันขอให้สัญญาแก่พวกคุณ—ในฐานะดอว์นเซิร์ฟวันต์ ฉันจะทำทุกวิถีทางสุดกำลังความสามารถเพื่อนำพาความสุขแบบเดียวกันนี้ไปมอบให้แก่โจรป่าในโคซามาอูกาและชาวยอคฮุยแห่งชีวากูรด้วย ฉันจะไม่ทอดทิ้งพวกเขาเด็ดขาดค่ะ"
     },
     {
-      "character": "Gurfurlur",
+      "key": "asiwasmovedbyyourfathersinfluencesotoomaythechirwagurcometoacceptyourpeace",
       "text_en": "As I was moved by your father's influence, so too may the Chirwagur come to accept your peace.",
       "text": "ขณะที่ฉันรู้สึกประทับใจกับอิทธิพลของพ่อของคุณ Chirwagur ก็อาจยอมรับความสงบสุขของคุณเช่นกัน"
     },
     {
-      "character": "Zurmurwur",
+      "key": "theirbeliefshavestoodforamillenniumwhilenoteasilyshiftedneitheraretheyimmutable",
       "text_en": "Their beliefs have stood for a millennium. While not easily shifted, neither are they immutable.",
       "text": "ความเชื่อของพวกเขายืนหยัดมานับพันปี แม้ว่าจะไม่เปลี่ยนง่าย แต่ก็ไม่เปลี่ยนรูปเช่นกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehwellicanbeprettydeterminedtheyllcomearoundeventuallymarkmywords",
       "text_en": "Heh! Well, I can be pretty determined. They'll come around eventually, mark my words!",
       "text": "ฮึ! ก็นะ ฉันมีปณิธานความมุ่งมั่นสูงพอตัวอยู่แล้ว เชื่อหัวไอ้เรืองได้เลยว่าสุดท้ายพวกเขาจะต้องยอมเปิดใจแน่นอนค่ะ!"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "icanvouchfortheefficacyofsuchdeterminationthankstothemoblinshospitalityihavebeenabletorediscoverthejoyofmycraftandhonormyfatherslegacy",
       "text_en": "I can vouch for the efficacy of such determination. Thanks to the Moblins' hospitality, I have been able to rediscover the joy of my craft and honor my father's legacy.",
       "text": "ข้าพเจ้าขอรับรองความมีประสิทธิผลของความมุ่งมั่นดังกล่าวได้ ต้องขอบคุณการต้อนรับอย่างอบอุ่นของ Moblins ฉันจึงสามารถค้นพบความสุขในงานฝีมือของฉันอีกครั้ง และเป็นเกียรติแก่มรดกของพ่อฉัน"
     },
     {
-      "character": "Rakorok",
+      "key": "pfffkohhhnowthatgoodlivingissecurethevillageoverflowswithfeelsmilessuchcooperationbetweenhelphandsandpotswornistheveryspiritofahealthypotpact",
       "text_en": "Pfff... Kohhh... Now that goodliving is secure, the village overflows with feelsmiles! Such cooperation between helphands and potsworn is the very spirit of a healthy potpact.",
       "text": "จุ๊ฟ... โฮะ... ตอนนี้ชีวิตที่ดีปลอดภัยแล้ว หมู่บ้านก็เต็มไปด้วยรอยยิ้ม! ความร่วมมือระหว่างผู้ช่วยเหลือและคำสาบานดังกล่าวถือเป็นจิตวิญญาณของการร่วมดื่มเพื่อสุขภาพที่ดี"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "apartnershiplikeyoursisboundtobefruitfulilookforwardtoseeingthefantasticpiecesyouproduce",
       "text_en": "A partnership like yours is bound to be fruitful. I look forward to seeing the fantastic pieces you produce!",
       "text": "การร่วมมือประสานงานของพวกคุณต้องออกมาสำเร็จราบรื่นแน่นอนค่ะ ฉันจะเฝ้ารอคอยชื่นชมผลงานการสร้างสรรค์อันงดงามของพวกคุณนะคะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "therearesomeotherpeopleidliketoseesoweshouldtakeourleaveletstryandfindhunmurruk",
       "text_en": "There are some other people I'd like to see, so we should take our leave. Let's try and find Hunmu Rruk.",
       "text": "ยังมีคนอื่น ๆ ที่ฉันอยากจะแวะไปพบอีกค่ะ งั้นพวกเราคงต้องขอตัวลาก่อนนะคะ ลองไปสืบค้นหาตัวคุณฮุนมู รุก กันเถอะค่ะ"
     },
     {
-      "character": "Zurmurwur",
+      "key": "thexbraaxraxibelieveisawhimonthesandsbelow",
       "text_en": "The Xbr'aax Rax? I believe I saw him on the sands below.",
       "text": "Xbr'aax Rax? ฉันเชื่อว่าฉันเห็นเขาบนผืนทรายเบื้องล่าง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thegleamsandsthankyou",
       "text_en": "The Gleamsands! Thank you.",
       "text": "ย่านหาดประกายทราย (Gleamsands)! ขอบคุณมากนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "enjoyyourtimeinthecityandrememberthiswillalwaysbeyourhometoo",
       "text_en": "Enjoy your time in the city! And remember─this will always be your home too.",
       "text": "ขอให้เที่ยวสนุกในเมืองหลวงนะคะ! และจำไว้ด้วยล่ะ—ที่นี่จะเป็นบ้านเกิดเมืองนอนของพวกคุณเสมอเช่นกันค่ะ"
     },
     {
-      "character": "Fonjeantaine",
+      "key": "comeandvisitusinearthenshirerakorokandishouldbegladtowelcomeyou",
       "text_en": "Come and visit us in Earthenshire! Rakorok and I should be glad to welcome you.",
       "text": "มาเยี่ยมเราที่ Earthenshire! ฉันกับรากร๊อคควรจะดีใจที่ได้ต้อนรับคุณ"
     },
     {
-      "character": "Rakorok",
+      "key": "pfffkohhhrakorokisexcitedtoseehowthenewdawnservantswillhandhelptuliyollalthiscitywillbeasonebighappypot",
       "text_en": "Pfffkohhh... Rakorok is excited to see how the new Dawnservants will handhelp Tuliyollal. This city will be as one big happypot!",
       "text": "Pfffkohhh... Rakorok รู้สึกตื่นเต้นที่ได้เห็นว่า Dawnservants ใหม่จะช่วยเหลือ Tuliyollal ได้อย่างไร เมืองนี้จะเป็นเหมือนหม้อสุขขนาดใหญ่แห่งหนึ่ง!"
     },
     {
-      "character": "Zurmurwur",
+      "key": "beforetheceremonyweperusedthetuliyollalsagaonmorrowsmeasureiamproudtoseeyokhuyglyphictraditionssoprominentlydisplayedinthecity",
       "text_en": "Before the ceremony, we perused the Tuliyollal Saga on Morrow's Measure. I am proud to see Yok Huy glyphic traditions so prominently displayed in the city.",
       "text": "ก่อนเริ่มพิธี เราได้อ่าน Tuliyollal Saga ใน Morrow's Measure ฉันภูมิใจที่ได้เห็นประเพณีสัญลักษณ์หยกฮุยปรากฏเด่นชัดในเมือง"
     },
     {
-      "character": "Gurfurlur",
+      "key": "imustpaymyrespectstogulooljajathoughhewilldoubtlessinsistuponabout",
       "text_en": "I must pay my respects to Gulool Ja Ja, though he will doubtless insist upon a bout...",
       "text": "ฉันต้องแสดงความเคารพต่อ กูลูล จาจา แม้ว่าเขาจะยืนกรานที่จะชกอย่างแน่นอน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letsmakeforthegleamsandshunmurrukshouldbethere",
       "text_en": "Let's make for the Gleamsands. Hunmu Rruk should be there!",
       "text": "มุ่งหน้าไปยังย่านหาดประกายทรายกันเถอะค่ะ คุณฮุนมู รุก น่าจะอยู่ที่นั่นนะ!"
     },
     {
-      "character": "Miilal Ja",
+      "key": "whatawonderfulvarietyoffoodsandflavorstheyhavehereimustbesuretobringsomehomefortheothers",
       "text_en": "What a wonderful variety of foods and flavors they have here... I must be sure to bring some home for the others.",
       "text": "พวกเขามีอาหารและรสชาติที่ยอดเยี่ยมจริงๆ... ฉันจะต้องนำกลับบ้านไปให้คนอื่นอย่างแน่นอน"
     },
     {
-      "character": "Zereel Ja",
+      "key": "youmustthinkmyattendanceincongruoustosuchanauspiciousoccasionyetasautarchofmamookihaveadutytorepresentthegoodwillofmypeople",
       "text_en": "You must think my attendance incongruous to such an auspicious occasion. Yet as Autarch of Mamook, I have a duty to represent the goodwill of my people.",
       "text": "คุณต้องคิดว่าการมาของฉันไม่สอดคล้องกับโอกาสอันเป็นมงคลเช่นนี้ แต่ในฐานะเผด็จการมามุก ฉันมีหน้าที่แสดงไมตรีจิตให้กับคนของฉัน"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "gladamitoseeyouforenameihadhopedimightextendcongratulationstothedawnservantbutshenodoubthasotherdutiestoattendto",
       "text_en": "Glad am I to see you, Forename . I had hoped I might extend congratulations to the Dawnservant, but she no doubt has other duties to attend to...",
       "text": "ดีใจที่ได้พบคุณ คุณ [ชื่อ] ฉันหวังว่าฉันจะแสดงความยินดีกับ Dawnservant แต่เธอก็มีหน้าที่อื่นที่ต้องดูแลอย่างไม่ต้องสงสัย..."
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "mymyyouhonoruswithapersonalvisitdawnservantcongratulationsuponyourascension",
       "text_en": "My, my. You honor us with a personal visit, Dawnservant. Congratulations upon your ascension.",
       "text": "ของฉันของฉัน คุณให้เกียรติเราด้วยการมาเยี่ยมเป็นการส่วนตัว Dawnservant ขอแสดงความยินดีกับการเสด็จขึ้นสู่สวรรค์ของคุณ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nonononeofthatmytitlemayhavechangedbutimstilljustwuklamat",
       "text_en": "No, no, none of that. My title may have changed, but I'm still just Wuk Lamat.",
       "text": "ไม่เอาสิคะ ไม่ต้องเรียกยศตำแหน่งหรอก ถึงยศของฉันจะเปลี่ยนไป แต่ฉันก็ยังคงเป็นแค่วุค ลามัต คนเดิมคนเดิมค่ะ"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "morethanjustidsayyouhavegrownintoaleaderfitforthisnationyourfathermustbeproud",
       "text_en": "More than “just,” I'd say. You have grown into a leader fit for this nation. Your father must be proud.",
       "text": "ฉันว่ามากกว่าคำว่า \"เพียงแค่\" คุณเติบโตขึ้นเป็นผู้นำที่เหมาะกับชาตินี้ พ่อของคุณต้องภูมิใจ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ihopesobutbigeventslikethismakemewonderyouknowwhatmybirthparentsmightsayiftheyknew",
       "text_en": "I hope so. But...big events like this make me wonder, you know? What my birth parents might say if they knew.",
       "text": "ฉันหวังว่าจะเป็นอย่างนั้นนะคะ แต่... งานใหญ่อันทรงเกียรติระดับนี้ก็แอบทำให้ฉันสงสัยใคร่รู้อยู่เหมือนกันนะ ว่าพ่อแม่ผู้ให้กำเนิดแท้ ๆ ของฉันจะเอ่ยว่าอย่างไรหากพวกเขารับรู้เรื่องนี้"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "iimaginetheywouldsaythatitfillstheirheartswithjoytoseethestrongcompassionatewomanyouhavebecome",
       "text_en": "...I imagine they would say that it fills their hearts with joy to see the strong, compassionate woman you have become.",
       "text": "...ฉันจินตนาการว่าพวกเขาจะพูดว่ารู้สึกยินดีที่ได้เห็นคุณกลายเป็นผู้หญิงที่เข้มแข็งและมีความเห็นอกเห็นใจ"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "ioweyoumythanksaswellforfulfillingyourpromisetome",
       "text_en": "I owe you my thanks as well. For fulfilling your promise to me.",
       "text": "ฉันเป็นหนี้คุณเช่นกัน สำหรับการปฏิบัติตามสัญญาของคุณกับฉัน"
     },
     {
-      "character": "Miilal Ja",
+      "key": "itoldbakooljajatostaywithussowecouldallcongratulateyouinperson",
       "text_en": "I told Bakool Ja Ja to stay with us so we could all congratulate you in person.",
       "text": "ฉันบอกให้บาคูล จาจาอยู่กับเรา เพื่อที่เราจะได้แสดงความยินดีกับคุณเป็นการส่วนตัว"
     },
     {
-      "character": "Miilal Ja",
+      "key": "buthemarchedoffmutteringsomethingaboutnotbeingabletofaceyoujustyet",
       "text_en": "But he marched off, muttering something about not being able to face you just yet.",
       "text": "แต่เขาเดินออกไป พึมพำบางอย่างเกี่ยวกับเรื่องที่ยังเผชิญหน้าคุณไม่ได้"
     },
     {
-      "character": "Zereel Ja",
+      "key": "theboyneedspurposepurposebeyondcateringtothedemandsofothershewasalwaystooobligingforhisowngood",
       "text_en": "The boy needs purpose. Purpose beyond catering to the demands of others. He was always too obliging for his own good...",
       "text": "เด็กชายต้องการจุดมุ่งหมาย วัตถุประสงค์ที่นอกเหนือไปจากการตอบสนองความต้องการของผู้อื่น เขามักให้ความสำคัญกับประโยชน์ของตัวเองมากเกินไป..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imsurehellfinditinhisowntimeespeciallyifheknowshisfamilyisthereforhim",
       "text_en": "I'm sure he'll find it in his own time. Especially if he knows his family is there for him.",
       "text": "ฉันมั่นใจว่าเขาจะค้นพบคำตอบในวิถีทางของตัวเองในวันหนึ่งค่ะ โดยเฉพาะอย่างยิ่งหากเขารับรู้ว่ายังมีครอบครัวคอยหนุนหลังช่วยเหลืออยู่เสมอค่ะ"
     },
     {
-      "character": "Zereel Ja",
+      "key": "thatweare",
       "text_en": "...That we are.",
       "text": "...ว่าเราเป็น."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "bythebyhaveyouseenketenrammanywhereertankwathatis",
       "text_en": "By the by, have you seen Ketenramm anywhere? Er, Tankwa, that is!",
       "text": "จะว่าไป พวกคุณเห็นคุณเคเทนแรมม์บ้างไหมคะ? เอ้อ ลุงทังควานั่นแหละค่ะ!"
     },
     {
-      "character": "Miilal Ja",
+      "key": "ketenrammwasitastrongnameifabitexotic",
       "text_en": "Ketenramm, was it? A strong name...if a bit exotic.",
       "text": "เคเทนรัมม์ใช่ไหม? ชื่อที่แข็งแกร่ง...หากแปลกใหม่สักหน่อย"
     },
     {
-      "character": "Miilal Ja",
+      "key": "wecalleduponhimbeforeleavingmamookbuthewasntathomeidontrecallseeinghimattheceremonyeither",
       "text_en": "We called upon him before leaving Mamook, but he wasn't at home. I don't recall seeing him at the ceremony either.",
       "text": "เราโทรหาเขาก่อนจะออกจากมามุกแต่เขาไม่อยู่บ้าน ฉันจำไม่ได้ว่าเคยเจอเขาในพิธีด้วย"
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "thefirstpromisewasnotablyabsentaswellthoughiassumedherequiredtimetosalvehisinjuredpride",
       "text_en": "The First Promise was notably absent as well. Though I assumed he required time to salve his injured pride.",
       "text": "คำสัญญาแรกก็ขาดหายไปเช่นกัน แม้ว่าฉันคิดว่าเขาต้องใช้เวลาเพื่อรักษาความภาคภูมิใจที่ได้รับบาดเจ็บ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "everyonethoughthedbetheonetosucceedpapamyvictorymusthavecomeasquiteashocktohim",
       "text_en": "Everyone thought he'd be the one to succeed Papa. My victory must have come as quite a shock to him.",
       "text": "ทีแรกใคร ๆ ก็เดาว่าเขาจะเป็นผู้สืบทอดตำแหน่งของท่านพ่อค่ะ ชัยชนะของฉันคงทำให้เขาตกใจจนเหวอไปไม่น้อยเลยล่ะมั้งคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asfortankwaimsurehesaroundheresomewhereorreadytoappearwhenweleastexpecthim",
       "text_en": "As for Tankwa, I'm sure he's around here somewhere. Or ready to appear when we least expect him.",
       "text": "ส่วนลุงทังควา ฉันมั่นใจว่าแกคงซ่อนตัวเดินป้วนเปี้ยนอยู่แถวนี้แหละค่ะ หรือไม่ก็ตระเตรียมโผล่หัวออกมาตอนที่เราคาดไม่ถึงแน่นอนค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wedbestbegoingbutrelaxenjoyandmakeyourselvesathomeandcomeandvisitusanytime",
       "text_en": "We'd best be going, but relax, enjoy, and make yourselves at home! And come and visit us any time!",
       "text": "พวกเราคงต้องขอตัวลาก่อนนะคะ ขอเชิญตามสบาย พักผ่อนและคิดซะว่าเป็นบ้านของตัวเองได้เลยค่ะ! แวะมาเยี่ยมเยือนหาพวกเราได้ทุกเมื่อเลยนะจ๊ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "allrightithinkifoundeveryoneicouldfindletsreturntotheothersinthewingedwalk",
       "text_en": "All right, I think I found everyone I could find. Let's return to the others in the Winged Walk!",
       "text": "เอาล่ะ ฉันคิดว่าแวะขอบคุณทุกคนได้ครบหมดแล้วล่ะค่ะ ย้อนกลับไปสมทบกับคนอื่น ๆ ตรงทางเดินปีกปักษ์กันเถอะค่ะ!"
     },
     {
-      "character": "Zereel Ja",
+      "key": "morethanafewofmamookscitizenshaveexpressednewinterestinmovingtotuliyollaliwillconferwithdawnservantkoanatoensuretheirtransitionisasmoothone",
       "text_en": "More than a few of Mamook's citizens have expressed new interest in moving to Tuliyollal. I will confer with Dawnservant Koana to ensure their transition is a smooth one.",
       "text": "พลเมืองของ Mamook มากกว่าสองสามคนแสดงความสนใจใหม่ในการย้ายมาที่ Tuliyollal ฉันจะหารือกับ Dawnservant โคอานา เพื่อให้แน่ใจว่าการเปลี่ยนแปลงของพวกเขาจะราบรื่น"
     },
     {
-      "character": "Miilal Ja",
+      "key": "iveheardtheresanothershopthatservesdelicioustacosidlovetotrythem",
       "text_en": "I've heard there's another shop that serves delicious tacos. I'd love to try them...",
       "text": "ฉันได้ยินมาว่ามีอีกร้านหนึ่งที่ให้บริการทาโก้แสนอร่อย ฉันอยากจะลองพวกเขา..."
     },
     {
-      "character": "Hunmu Rruk",
+      "key": "wuklamatmayhaverealizedhergoalbutihopeyouwillcontinuetobeafriendtoher",
       "text_en": "Wuk Lamat may have realized her goal, but I hope you will continue to be a friend to her.",
       "text": "วุค ละมาด อาจจะบรรลุเป้าหมายของเธอแล้ว แต่ฉันหวังว่าคุณจะเป็นเพื่อนกับเธอต่อไป"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letsheadbacktothewingedwalkeveryoneswaiting",
       "text_en": "Let's head back to the Winged Walk. Everyone's waiting!",
       "text": "กลับไปยังทางเดินปีกปักษ์กันเถอะค่ะ ทุกคนกำลังเฝ้ารอคอยอยู่เลย!"
     },
     {
-      "character": "Erenville",
+      "key": "therearerumorsthatgulooljajamaygoonpilgrimagenowthathesnolongerdawnservantthoughimsurethetransitionprocesswillkeephiminthecapitalforsometimeyet",
       "text_en": "There are rumors that Gulool Ja Ja may go on pilgrimage now that he's no longer Dawnservant. Though I'm sure the transition process will keep him in the capital for some time yet.",
       "text": "มีข่าวลือหนาหูว่าท่านกูลูล จา จา อาจจะออกเดินทางแสวงบุญในฐานะอดีตดอว์นเซิร์ฟวันต์ครับ แต่ผมมั่นใจว่าขั้นตอนการส่งมอบงานการสืบทอดบัลลังก์คงจะรั้งตัวท่านให้อยู่ในเมืองหลวงต่อไปอีกพักใหญ่เลยล่ะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "ohyourebackerenvillewasjustregalinguswithstoriesoflamatyifromwhentheywerelittle",
       "text_en": "Oh, you're back! Erenville was just regaling us with stories of Lamaty'i from when they were little.",
       "text": "โอ้คุณกลับมาแล้ว! เอเรนวิลล์แค่เล่าให้เราฟังด้วยเรื่องราวของลามาตีอิตั้งแต่สมัยยังเล็กๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whattheoneaboutthetacoitwasbasicallycleanwhenifounditornotheoneaboutpapasfeatherslookididntknowwhereelsetowipemynoseandiwastoolittletoknowbetter",
       "text_en": "What, the one about the taco? It was basically clean when I found it─or no, the one about Papa's feathers!? Look, I didn't know where else to wipe my nose, and I was too little to know better!",
       "text": "อะไรนะคะ เรื่องทาโก้นั่นเหรอ? ตอนฉันเก็บมันขึ้นมาทานมันก็ดูสะอาดดีนี่นา—หรือว่าจะเป็นเรื่องขนนกของท่านพ่อ!? โธ่เอ๊ย ตอนนั้นฉันไม่รู้ว่าจะสั่งน้ำมูกใส่ตรงไหนดีนี่นา แถมตอนนั้นฉันยังเด็กเกินกว่าจะรู้เดียงสาด้วยค่ะ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "gulooljajastoppedbytoofferhisthanksforoursupport",
       "text_en": "Gulool Ja Ja stopped by to offer his thanks for our support.",
       "text": "กูลูล จาจา แวะมาขอบคุณที่อุดหนุน"
     },
     {
-      "character": "Alphinaud",
+      "key": "healsobademeextendhisgratitudetoyouforassistingaconcernedfatherimnotsurewhathemeantbyitbutiassumeyoudo",
       "text_en": "He also bade me extend his gratitude to you for assisting a concerned father? I'm not sure what he meant by it, but I assume you do.",
       "text": "เขายังฝากฉันขอบคุณคุณที่ช่วยพ่อที่เป็นห่วงด้วย? ฉันไม่แน่ใจว่าเขาหมายถึงอะไร แต่ฉันคิดว่าคุณคงเข้าใจ"
     },
     {
-      "character": "Krile",
+      "key": "iswuklamatstillmakingherrounds",
       "text_en": "Is Wuk Lamat still making her rounds?",
       "text": "วุค ละมาด ยังออกรอบอยู่มั้ย?"
     },
     {
-      "character": "Krile",
+      "key": "welcomebackihopeyoudidntrushonouraccount",
       "text_en": "Welcome back. I hope you didn't rush on our account.",
       "text": "ยินดีต้อนรับกลับมา ฉันหวังว่าคุณจะไม่รีบเร่งกับบัญชีของเรา"
     },
     {
-      "character": "Alisaie",
+      "key": "seeneveryoneyouwantedtosee",
       "text_en": "Seen everyone you wanted to see?",
       "text": "เห็นทุกคนที่คุณอยากจะเจอไหม?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ihavesorryforkeepingyouall",
       "text_en": "I have. Sorry for keeping you all.",
       "text": "เรียบร้อยแล้วค่ะ ขอโทษทีนะที่ปล่อยให้ทุกคนต้องรอกันนานจ้ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nowtheresjustonelastmatterwhatkoanaspoketoyouabout",
       "text_en": "Now, there's just one last matter. What Koana spoke to you about.",
       "text": "ยามนี้ เหลือเรื่องสุดท้ายที่สำคัญมากค่ะ เรื่องที่พี่โคอานาแวะไปทาบทามทิ้งท้ายไว้กับนาย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imsurehemadeitabundantlyclearbutimcompletelyserious",
       "text_en": "I'm sure he made it abundantly clear, but I'm completely serious.",
       "text": "ฉันมั่นใจว่าพี่เขาคงอธิบายเจตจำนงอย่างละเอียดแล้ว แต่ฉันเองก็จริงจังกับเรื่องนี้มากนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwantyoutostayintuliyollalwithme",
       "text_en": "I want you to stay in Tuliyollal with me.",
       "text": "ฉันอยากให้นายปักหลักอาศัยอยู่ที่ทูลิโยลลัลเพื่อช่วยเหลือเยียวยาฉันต่อไปค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "imnotforcingyouofcoursebutshouldyouwishityoullalwayshaveaplacehere",
       "text_en": "...I'm not forcing you, of course. But should you wish it, you'll always have a place here.",
       "text": "...แน่นอนว่าฉันไม่ได้คิดบังคับขืนใจนายหรอกนะ แต่หากนายปรารถนา ที่นี่จะตระเตรียมต้อนรับและมีตำแหน่งสำคัญให้นายเสมอค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ahthatsrightthisisforyou",
       "text_en": "Ah, that's right. This is for you.",
       "text": "อ๊ะ จริงด้วยสิ สิ่งนี้สำหรับนายนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "apermitgrantingpassagetoxakturalwhichasirecallyouveyettosee",
       "text_en": "A permit granting passage to Xak Tural, which as I recall, you've yet to see.",
       "text": "มันคือเอกสารผ่านทางเข้าสู่ดินแดนแซกทูรัลค่ะ ซึ่งเท่าที่ฉันจำได้ นายยังไม่มีโอกาสได้แวะไปเหยียบสำรวจเลยใช่ไหมล่ะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "anadventurerlikeyoucouldhardlyresistno",
       "text_en": "An adventurer like you could hardly resist, no?",
       "text": "นักผจญภัยที่รักอิสระแบบนายคงไม่มีวันปฏิเสธคำชักชวนอันน่าเย้ายวนนี้ลงหรอก จริงไหมคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icantbelieveourjourneyisoveralready",
       "text_en": "I can't believe our journey is over already!",
       "text": "ฉันล่ะไม่ยากจะเชื่อเลยว่าการเดินทางผจญภัยเพื่อชิงบัลลังก์ของพวกเราจะสิ้นสุดลงเร็วขนาดนี้!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youacceptedmeasacomradeandstoodwithmetotheend",
       "text_en": "You accepted me as a comrade and stood with me to the end.",
       "text": "นายยอมรับคนไม่ได้เรื่องอย่างฉันในฐานะพันธมิตร และยืนหยัดต่อสู้ร่วมศึกเคียงข้างฉันมาจนถึงที่สุดค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youhavemyeternalgratitudethankyou",
       "text_en": "You have my eternal gratitude. Thank you.",
       "text": "ฉันรู้สึกยินดีและขอบคุณนายอย่างล้นพ้นจากก้นบึ้งของจิตใจจริง ๆ ค่ะ ขอบคุณมากนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellihadbettergetgoingineedtostartlearningallmyofficialdawnservantduties",
       "text_en": "Well, I had better get going. I need to start learning all my official Dawnservant duties.",
       "text": "เอาล่ะ ฉันคงต้องขอตัวไปทำหน้าที่ก่อนนะจ๊ะ ต้องเริ่มศึกษาวิชาการและเข้าฝึกหัดงานราชการดอว์นเซิร์ฟวันต์อย่างเป็นทางการแล้วล่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "illbesuretosharewhatmyoldmansaysaboutthegoldencitytoooncehetellsme",
       "text_en": "I'll be sure to share what my old man says about the golden city too, once he tells me.",
       "text": "และถ้าวันไหนท่านพ่อยอมเล่าเบาะแสความลับของนครแห่งทองคำให้ฟัง ฉันจะรีบคาบข่าวมาบอกเล่าแบ่งปันให้นายฟังแน่นอนจ้ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "tillthenfeelfreetopassthetimeasyoulike",
       "text_en": "Till then, feel free to pass the time as you like.",
       "text": "ก่อนจะถึงเวลานั้น ขอให้นายใช้เวลาพักผ่อนท่องเที่ยวตามสบายใจได้เลยนะจ๊ะ"
     },
     {
-      "character": "Erenville",
+      "key": "fornowiwillremaininturaltheressomeoneidliketoseebeforereturningtosharlayan",
       "text_en": "For now, I will remain in Tural. There's someone I'd like to see before returning to Sharlayan.",
       "text": "สำหรับตอนนี้ ผมคงจะปักหลักอยู่ที่ทูรัลอีกสักพักครับ พอดีมีคนที่ผมอยากจะแวะไปพบหน้าก่อนจะเดินทางกลับชาร์ลายันน่ะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatabouttherestofyou",
       "text_en": "What about the rest of you?",
       "text": "แล้วคนอื่น ๆ วางแผนชีวิตอย่างไรกันต่อบ้างคะ?"
     },
     {
-      "character": "Alphinaud",
+      "key": "alisaieandialsointendtoremainawhilelongeraseducationalasthisexperiencehasbeenthusfarwefeelthereareevenmorelessonstobehadforgarlemald",
       "text_en": "Alisaie and I also intend to remain a while longer. As educational as this experience has been thus far, we feel there are even more lessons to be had for Garlemald.",
       "text": "ฉันกับอลิเซียตั้งใจที่จะอยู่ต่ออีกสักพักหนึ่ง แม้ว่าประสบการณ์นี้จะได้รับความรู้มาจนถึงตอนนี้แล้วก็ตาม เรารู้สึกว่ายังมีบทเรียนอีกมากมายสำหรับการ์เลมัลด์"
     },
     {
-      "character": "Alphinaud",
+      "key": "byhearingaboutthepeaceyourfatherfacilitatedandthenseeingyoureforgerelationswithmamookwewereremindedofaprofoundtruth",
       "text_en": "By hearing about the peace your father facilitated, and then seeing you reforge relations with Mamook, we were reminded of a profound truth.",
       "text": "เมื่อได้ยินเกี่ยวกับความสงบสุขที่พ่อของคุณอำนวยความสะดวก และจากนั้นเมื่อเห็นคุณปรับความสัมพันธ์กับมามุก เราก็นึกถึงความจริงอันลึกซึ้ง"
     },
     {
-      "character": "Alphinaud",
+      "key": "thatisacceptancebeginswithunderstanding",
       "text_en": "That is, acceptance begins with understanding.",
       "text": "นั่นคือการยอมรับเริ่มต้นด้วยความเข้าใจ"
     },
     {
-      "character": "Alisaie",
+      "key": "andlikeyoudemonstratedthroughouttheritethereareunexpectedyeteffectivewaysfortwosidestounderstandeachother",
       "text_en": "And like you demonstrated throughout the rite, there are unexpected-yet-effective ways for two sides to understand each other.",
       "text": "และเช่นเดียวกับที่คุณแสดงให้เห็นตลอดพิธีกรรม มีวิธีต่างๆ ที่ไม่คาดคิดแต่มีประสิทธิภาพสำหรับทั้งสองฝ่ายในการทำความเข้าใจซึ่งกันและกัน"
     },
     {
-      "character": "Alisaie",
+      "key": "thequestionishowtoencourageitandbyseeingmoreofthisnationbornofunitywehopetofindsomehints",
       "text_en": "The question is how to encourage it, and by seeing more of this nation born of unity, we hope to find some hints.",
       "text": "คำถามคือจะให้กำลังใจได้อย่างไร และเมื่อเห็นประเทศนี้เกิดจากความสามัคคีมากขึ้น เราก็หวังว่าจะพบเบาะแสบางอย่าง"
     },
     {
-      "character": "Krile",
+      "key": "personallyicanhardlywaittolearnmoreaboutthecityofgoldsoifimayidliketostayintuliyollalaswell",
       "text_en": "Personally, I can hardly wait to learn more about the city of gold. So if I may, I'd like to stay in Tuliyollal as well.",
       "text": "โดยส่วนตัวแล้วฉันแทบรอไม่ไหวที่จะเรียนรู้เพิ่มเติมเกี่ยวกับเมืองแห่งทองคำ ถ้าเป็นไปได้ ฉันก็อยากจะพักที่ทูลิโยลัลเช่นกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "byallmeansyourroomsareatyourdisposalforaslongasyouneedthem",
       "text_en": "By all means! Your rooms are at your disposal for as long as you need them.",
       "text": "ตามสบายเลยค่ะ! ห้องพักส่วนตัวของทุกคนจะจัดตระเตรียมไว้ให้ตราบเท่าที่ทุกคนต้องการพักอาศัยเลยค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "andwhatofyouthinkingoftouringxakturalperhaps",
       "text_en": "And what of you? Thinking of touring Xak Tural, perhaps?",
       "text": "แล้วคุณล่ะ? กำลังคิดจะไปเที่ยว แซกทูรัล ใช่ไหม?"
     },
     {
-      "character": "Alisaie",
+      "key": "ofcourseyourehardlythetypetoleavehalfofacontinentunexplored",
       "text_en": "Of course. You're hardly the type to leave half of a continent unexplored.",
       "text": "แน่นอน. คุณไม่ใช่คนประเภทที่จะปล่อยให้ครึ่งหนึ่งของทวีปถูกสำรวจโดยไม่มีใครสำรวจ"
     },
     {
-      "character": "Erenville",
+      "key": "thenperhapswecouldtraveltogether",
       "text_en": "Then perhaps we could travel together?",
       "text": "ถ้าอย่างนั้น พวกเราออกเดินทางไปด้วยกันเลยดีไหมครับ?"
     },
     {
-      "character": "Erenville",
+      "key": "thepersoniintendtomeetismymentorsoillbevisitingmyhometowninxaktural",
       "text_en": "The person I intend to meet is my mentor, so I'll be visiting my hometown in Xak Tural.",
       "text": "บุคคลที่ผมตั้งใจจะแวะไปพบก็คืออาจารย์ของผมเองครับ ผมเลยถือโอกาสนี้เดินทางกลับไปเยี่ยมเยือนบ้านเกิดในแซกทูรัลน่ะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "ifyouhavenoparticulardestinationinmindidbehappytoguideyouenroute",
       "text_en": "If you have no particular destination in mind, I'd be happy to guide you en route.",
       "text": "หากคุณยังไม่มีเป้าหมายปลายทางที่เฉพาะเจาะจง ผมก็ยินดีที่จะทำหน้าที่เป็นผู้นำทางอำนวยความสะดวกให้ตลอดเส้นทางครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenitsfarewellfornow",
       "text_en": "Then it's farewell for now.",
       "text": "ถ้าอย่างนั้น คงต้องเอ่ยคำอำลากันชั่วคราวแล้วล่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "takecareallofyou",
       "text_en": "Take care, all of you!",
       "text": "ดูแลรักษาสุมภาพร่างกายกันด้วยนะคะทุกคน!"
     },
     {
-      "character": "Erenville",
+      "key": "whenyourereadycomeandmeetmeatthexakturalskygate",
       "text_en": "When you're ready, come and meet me at the Xak Tural skygate.",
       "text": "เมื่อคุณตระเตรียมตัวเสร็จสิ้นแล้ว ค่อยมาพบเจอผมตรงประตูด่านฟ้าแซกทูรัล (แซกทูรัล skygate) นะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "werefriendstotheendyouhearmefriendstotheend",
       "text_en": "We're friends to the end, you hear me! Friends to the end!",
       "text": "พวกเราจะเป็นเพื่อนกันจนวันตายเลยนะ ได้ยินฉันไหม! เพื่อนแท้ตลอดไปค่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "pastthesegatesandoverthebridgeliesxaktural",
       "text_en": "Past these gates and over the bridge lies Xak Tural.",
       "text": "ก้าวผ่านประตูบานนี้และสะพานใหญ่ข้างหน้าไปก็คือแซกทูรัลแล้วครับ"
     },
     {
-      "character": "Erenville",
+      "key": "youhaveyourpermityespackedandreadynolastminutestopstomakebeforeweleave",
       "text_en": "You have your permit, yes? Packed and ready? No last-minute stops to make before we leave?",
       "text": "คุณพกเอกสารผ่านทางมาเรียบร้อยแล้วใช่ไหมครับ? จัดกระเป๋าเดินทางเสร็จสรรพแล้วนะ? ไม่มีธุระตกค้างที่ต้องแวะไปทำก่อนออกเดินทางใช่ไหมครับ?"
     },
     {
-      "character": "Erenville",
+      "key": "sighforgivemeimafraidtravelingwithournewdawnservantmayhavescarredmeforlife",
       "text_en": "<sigh> Forgive me. I'm afraid traveling with our new Dawnservant may have scarred me for life...",
       "text": "<ถอนหายใจ> ขออภัยด้วยครับ ผมเกรงว่าการร่วมเดินทางไปกับท่านดอว์นเซิร์ฟวันต์คนใหม่ของเราก่อนหน้านี้ คงทิ้งรอยแผลเป็นและความหลอนไปตลอดชีวิตของผมซะแล้วล่ะครับ..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "thisisthegatetothegoldencity",
       "text_en": "This...is the gate to the golden city?",
       "text": "นี่คือ...ประตูสู่เมืองทองเหรอ?"
     },
     {
-      "character": "Sareel Ja",
+      "key": "twodecadesagoyourfatherbademetranscribealettertoascholaracrossthesaltpetitioningthestudyofthisplace",
       "text_en": "Two decades ago, your father bade me transcribe a letter to a scholar across the salt, petitioning the study of this place.",
       "text": "สองทศวรรษที่แล้ว พ่อของคุณสั่งให้ฉันเขียนจดหมายถึงนักวิชาการข้ามเกลือ เพื่อยื่นคำร้องให้ศึกษาสถานที่นี้"
     },
     {
-      "character": "Sareel Ja",
+      "key": "whathediscoveredwassomethingthedawnservantfearedenoughtosealawayforeverorsowethoughtuntiltheritesobjectivebecamethecityofgold",
       "text_en": "What he discovered was something the Dawnservant feared enough to seal away forever...or so we thought until the rite's objective became the city of gold.",
       "text": "สิ่งที่เขาค้นพบคือสิ่งที่ Dawnservant กลัวมากพอที่จะปิดผนึกไว้ตลอดไป...หรืออย่างที่เราคิดจนกระทั่งเป้าหมายของพิธีกรรมกลายเป็นเมืองแห่งทองคำ"
     },
     {
-      "character": "Sareel Ja",
+      "key": "buttothinkthattankwawouldbeentrustedwithitssafekeepinghadiknownthatdodderingoldfoolcarriedasetofkeystoneswemighthavesparedourselvesthosetiresomefeats",
       "text_en": "But to think that Tankwa would be entrusted with its safekeeping! Had I known that doddering old fool carried a set of keystones, we might have spared ourselves those tiresome feats.",
       "text": "แต่คิดว่า Tankwa จะได้รับความไว้วางใจให้เก็บรักษาไว้! ถ้าฉันรู้ว่าคนเฒ่าผู้โง่เขลาถือศิลาหลักชุดหนึ่ง เราอาจละเว้นการกระทำอันน่าเบื่อหน่ายเหล่านั้นได้"
     },
     {
-      "character": "Sareel Ja",
+      "key": "greatpowersleepshereandwithityoushallobtainyourbirthright",
       "text_en": "Great power sleeps here─and with it, you shall obtain your birthright.",
       "text": "พลังอันยิ่งใหญ่หลับใหลอยู่ที่นี่ และด้วยมัน คุณจะได้รับสิทธิโดยกำเนิด"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "soyousayyetthenewdawnservantssucceededwhereicouldnottakingtheirthronewillbenoeasytask",
       "text_en": "So you say. Yet the new Dawnservants succeeded where I could not. Taking their throne will be no easy task.",
       "text": "ดังนั้นคุณพูด แต่เหล่า Dawnservants คนใหม่ก็ประสบความสำเร็จในจุดที่ฉันทำไม่ได้ การยึดบัลลังก์ของพวกเขาจะไม่ใช่เรื่องง่าย"
     },
     {
-      "character": "Sareel Ja",
+      "key": "theresilientsonunderestimateshisownpotentialthereisnoneedforworry",
       "text_en": "The Resilient Son underestimates his own potential! There is no need for worry.",
       "text": "ลูกชายผู้ยืดหยุ่นประเมินศักยภาพของตัวเองต่ำไป! ไม่จำเป็นต้องกังวล"
     },
     {
-      "character": "Sareel Ja",
+      "key": "ihaveliberatedthekeyfromthedawnservantsvaultyoualonehavethemeanstounlockthegate",
       "text_en": "I have liberated the key from the Dawnservant's vault. You alone have the means to unlock the gate.",
       "text": "ฉันได้ปลดปล่อยกุญแจจากห้องนิรภัยของ Dawnservant แล้ว คุณคนเดียวเท่านั้นที่สามารถปลดล็อคประตูได้"
     },
     {
-      "character": "Sareel Ja",
+      "key": "youwillgainallyouweredeniedtheriteyourfathersshadethesebittermemoriesshallsoonbeforgotten",
       "text_en": "You will gain all you were denied. The rite, your father's shade─these bitter memories shall soon be forgotten.",
       "text": "คุณจะได้รับทุกสิ่งที่คุณถูกปฏิเสธ พิธีกรรม ร่มเงาของบิดาเจ้า ความทรงจำอันขมขื่นเหล่านี้จะถูกลืมในไม่ช้า"
     },
     {
-      "character": "Sareel Ja",
+      "key": "seizeyourfuturepromiseopenthegateandbecometheruleryouweredestinedtobe",
       "text_en": "Seize your future, Promise. Open the gate, and become the ruler you were destined to be!",
       "text": "คว้าอนาคตของคุณไว้ สัญญา เปิดประตูแล้วกลายเป็นผู้ปกครองที่คุณถูกกำหนดให้เป็น!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "iitsworking",
       "text_en": "I-It's working!",
       "text": "ม-มันได้ผล!"
     },
     {
-      "character": "???",
+      "key": "issometherecanhearme",
       "text_en": "Is some...there? Can...hear me?",
       "text": "มี...อยู่บ้างไหม? ได้ยินฉันไหม?"
     },
     {
-      "character": "???",
+      "key": "atlast",
       "text_en": "...At last!",
       "text": "...ในที่สุด!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "whosthereshowyourself",
       "text_en": "Who's there!? Show yourself!",
       "text": "มีใครอยู่บ้าง!? แสดงตัวเอง!"
     },
     {
-      "character": "???",
+      "key": "ifonlyicouldalasthisgatewillnotopenformeonlythekeyinyourpossessioncanconnectus",
       "text_en": "If only I could. Alas, this gate will not open for me. Only the key in your possession can connect us.",
       "text": "ถ้าเพียงแต่ฉันทำได้ อนิจจา ประตูนี้จะไม่เปิดให้ฉัน มีเพียงกุญแจที่คุณครอบครองเท่านั้นที่สามารถเชื่อมต่อเราได้"
     },
     {
-      "character": "Sareel Ja",
+      "key": "thenyouaretheguardianofthecitysgreatpower",
       "text_en": "Then...you are the guardian of the city's great power?",
       "text": "ถ้าอย่างนั้น...คุณเป็นผู้พิทักษ์มหาอำนาจของเมืองเหรอ?"
     },
     {
-      "character": "???",
+      "key": "idonotclaimthispowerisgreatbuttheknowledgeipossessisenoughtorealizeanydesiretoremakeworlds",
       "text_en": "I do not claim this power is great... But the knowledge I possess is enough to realize any desire. To remake worlds.",
       "text": "ฉันไม่ได้อ้างว่าพลังนี้ยิ่งใหญ่... แต่ความรู้ที่ฉันมีก็เพียงพอที่จะบรรลุความปรารถนาใดๆ ได้ เพื่อสร้างโลกใหม่"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "isthatso",
       "text_en": "Is that so...",
       "text": "อย่างนั้นเหรอ..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "hahahaahahaha",
       "text_en": "Hahaha... Ahahaha!",
       "text": "ฮ่าฮ่าฮ่า... ฮ่าฮ่าฮ่า!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "fascinatingnameyourpricethenformydesireistheworlditself",
       "text_en": "Fascinating. Name your price, then. For my desire is the world itself...",
       "text": "น่าหลงใหล. ตั้งชื่อราคาของคุณแล้ว เพราะความปรารถนาของฉันคือโลกนั่นเอง..."
     },
     {
-      "character": "Sareel Ja",
+      "key": "yesyestheresilientsonrisestogetherweshallcreateanationworthyofourrule",
       "text_en": "Yes, yes! The Resilient Son rises! Together we shall create a nation worthy of our rule!",
       "text": "ใช่ ใช่! ลูกชายผู้ยืดหยุ่นลุกขึ้น! เราจะร่วมกันสร้างชาติที่คู่ควรกับการปกครองของเรา!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "ppromisewhwhy",
       "text_en": "P-Promise! Wh-Why?",
       "text": "ป-สัญญา! มะ-ทำไม?"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "theuselesstooliscastaside",
       "text_en": "The useless tool is cast aside.",
       "text": "เครื่องมือไร้ประโยชน์ก็ถูกโยนทิ้งไป"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "delivermeanewworldonethatbendstomywill",
       "text_en": "Deliver me a new world. One that bends to my will.",
       "text": "มอบโลกใหม่ให้ฉัน สิ่งหนึ่งที่โค้งงอตามความประสงค์ของฉัน"
     },
     {
-      "character": "???",
+      "key": "asyouwishbutinexchange",
       "text_en": "As you wish. But in exchange...",
       "text": "ตามที่คุณต้องการ แต่เป็นการแลก..."
     }

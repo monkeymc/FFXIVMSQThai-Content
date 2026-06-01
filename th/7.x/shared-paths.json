@@ -1,631 +1,623 @@
 {
-  "id": "shared-paths",
-  "wiki_path": "/wiki/Shared_Paths",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
-  "patch": "7.2",
-  "title_en": "Shared Paths",
-  "title": "วิถีแห่งการร่วมทาง",
-  "level": "100",
-  "location": "Throne Room(X:6.1,Y:6.5)",
-  "npc_start": "Sphene",
+  "quest_id": "shared-paths",
   "dialogues": [
     {
-      "character": "Lift Attendant",
+      "key": "headingbelowidbegladtoshowyoutheway",
       "text_en": "Heading below? I'd be glad to show you the way!",
       "text": "กำลังจะลงไปด้านล่างเหรอครับ? ผมยินดีช่วยนำทางให้ครับ!"
     },
     {
-      "character": "Sphene",
+      "key": "zeleniaitpainsmetothinkthatyouregonetoo",
       "text_en": "Zelenia... It pains me to think that you're gone too...",
       "text": "คุณเซเลเนีย... ฉันปวดใจเหลือเกินเมื่อคิดว่าคุณเองก็ด่วนจากไปอีกคน..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ahhahwevefoundyouatlast",
       "text_en": "Ah hah! We've found you at last!",
       "text": "อาฮะ! ในที่สุดก็เจอตัวพวกเธอสักที!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "youhadusquiteworriedwhenyousuddenlydisappearedwhatintheworldhappened",
       "text_en": "You had us quite worried when you suddenly disappeared. What in the world happened?",
       "text": "พวกเราเป็นห่วงแทบแย่ตอนที่จู่ๆ พวกนายก็หายตัวไป เกิดอะไรขึ้นกันแน่?"
     },
     {
-      "character": "Krile",
+      "key": "thenpreservationsobjectiveisindeedwhatcalyxclaimed",
       "text_en": "Then Preservation's objective is indeed what Calyx claimed.",
       "text": "ถ้าอย่างนั้น เป้าหมายของกลุ่มพรีเซิร์ฟเวชันก็คือสิ่งที่คาลิกซ์กล่าวอ้างจริงๆ สินะคะ"
     },
     {
-      "character": "Krile",
+      "key": "butforthemtoknowaboutthesourceandtheshardsandtorefertotheirsastheninththatraisessomequestions",
       "text_en": "But for them to know about the Source and the shards, and to refer to theirs as the Ninth... That raises some questions.",
       "text": "แต่การที่พวกเขาล่วงรู้เกี่ยวกับโลกหลักและโลกเงาสะท้อน แถมยังเรียกโลกของพวกเขาว่าโลกที่เก้าอีก... เรื่องนี้มันน่าสงสัยอยู่หลายประการเลยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "indeedbutfornowimjustgladthetwoofyouaresafe",
       "text_en": "Indeed. But for now, I'm just glad the two of you are safe.",
       "text": "นั่นสินะ แต่ในเวลานี้ แค่เห็นพวกเธอทั้งสองคนปลอดภัยดีฉันก็โล่งใจแล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohrightwhilewewerescouringthecastleforyouwecameuponaroomthatlookedlikealibrary",
       "text_en": "Oh, right. While we were scouring the castle for you, we came upon a room that looked like a library.",
       "text": "อ้อ จริงด้วย ในระหว่างที่พวกฉันกำลังค้นหาพวกเธอในปราสาท พวกเราบังเอิญไปเจอห้องหนึ่งที่ดูเหมือนห้องสมุดน่ะ"
     },
     {
-      "character": "Krile",
+      "key": "bylearningaboutthealexandriaofoldwemaygainvaluableinsightsintopreservationmightwetakeanumberofbookswithus",
       "text_en": "By learning about the Alexandria of old, we may gain valuable insights into Preservation. Might we take a number of books with us?",
       "text": "การเรียนรู้เรื่องราวในอดีตของอเล็กซานเดรีย อาจจะช่วยให้พวกเราได้ข้อมูลที่เป็นประโยชน์เกี่ยวกับกลุ่มพรีเซิร์ฟเวชันนะคะ พวกเราขออนุญาตนำหนังสือบางส่วนกลับไปด้วยได้ไหมคะ?"
     },
     {
-      "character": "Sphene",
+      "key": "sobooksstillremainofcourseyouarewelcometoanythatmaybeofuse",
       "text_en": "So books still remain... Of course, you are welcome to any that may be of use.",
       "text": "ยังมีหนังสือหลงเหลืออยู่อีกงั้นเหรอคะ... แน่นอนอยู่แล้วค่ะ ยินดีให้นำเล่มที่มีประโยชน์ไปได้ตามสบายเลยนะคะ"
     },
     {
-      "character": "Shale",
+      "key": "ifyoudontmindcouldwetakealookaroundherefirstimespeciallycuriousabouttheareaoverbythethrone",
       "text_en": "If you don't mind, could we take a look around here first? I'm especially curious about the area over by the throne.",
       "text": "ถ้าไม่ว่าอะไร พวกเราขอสำรวจรอบๆ นี้ดูก่อนได้ไหมคะ? ฉันสงสัยใคร่รู้เกี่ยวกับบริเวณรอบๆ พระบัลลังก์นั่นเป็นพิเศษน่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thistiaraitwasherstheendlessspheneswhatsitdoinghere",
       "text_en": "This tiara... It was hers─the Endless Sphene's... What's it doing here?",
       "text": "รัดเกล้านี่... มันเป็นของเธอ—สฟีนในร่างเอ็นด์เลสคนนั้นนี่... มันมาอยู่ที่นี่ได้ยังไงกัน?"
     },
     {
-      "character": "Shale",
+      "key": "itsatypeofregulatoribelieve",
       "text_en": "It's a type of regulator, I believe.",
       "text": "ฉันคิดว่ามันน่าจะเป็นเรกูเลเตอร์ประเภทหนึ่งนะคะ"
     },
     {
-      "character": "Shale",
+      "key": "itcontainsthedataoftheendlesssphenesmemoriescalyxlikelyusedittocreatethesimulant",
       "text_en": "It contains the data of the Endless Sphene's memories. Calyx likely used it to create the simulant.",
       "text": "มันเก็บข้อมูลความทรงจำของสฟีนร่างเอ็นด์เลสเอาไว้ คาลิกซ์น่าจะใช้สิ่งนี้เพื่อสร้างร่างจำลองขึ้นมาค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "whichmeansthataslongasthetiaraisinourkeepingweshouldntneedtodealwithanymoresimulants",
       "text_en": "Which means that, as long as the tiara is in our keeping, we shouldn't need to deal with any more simulants.",
       "text": "ซึ่งนั่นหมายความว่า ตราบใดที่รัดเกล้านี้อยู่ในการดูแลของพวกเรา พวกเราก็น่าจะไม่ต้องเผชิญหน้ากับร่างจำลองตัวใหม่อีกแล้วล่ะค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "strangethathewouldabandonitthoughperhapsbecausethesimulantalreadyplayedherrolelikeshesaidorcalyxmadeacopyofthememories",
       "text_en": "Strange that he would abandon it, though. Perhaps because the simulant already played her role, like she said. Or Calyx made a copy of the memories...",
       "text": "แต่มันก็น่าแปลกนะคะที่เขาจงใจทิ้งมันไว้แบบนี้ บางทีอาจเป็นเพราะร่างจำลองได้ทำหน้าที่ของเธอเสร็จสิ้นแล้วอย่างที่เธอพูด หรือไม่คาลิกซ์ก็อาจจะคัดลอกข้อมูลความทรงจำพวกนั้นเก็บไว้แล้ว..."
     },
     {
-      "character": "Shale",
+      "key": "inanycasenotmuchinformationofimportappearstoremainonthisterminalbutillmakeitsowecanaccessitremotelyfromthebackroom",
       "text_en": "In any case, not much information of import appears to remain on this terminal, but I'll make it so we can access it remotely from the Backroom.",
       "text": "อย่างไรก็ตาม ดูเหมือนจะไม่ค่อยมีข้อมูลสำคัญหลงเหลืออยู่ในเทอร์มินัลนี้มากนัก แต่ฉันจะปรับแต่งให้พวกเราสามารถเข้าถึงข้อมูลจากระยะไกลจากเดอะแบ็ครูมได้ค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "thiscontainsthememoriesofanothermethetaleofherjourneyasqueenofalexandria",
       "text_en": "This contains the memories of another me... The tale of her journey as Queen of Alexandria...",
       "text": "สิ่งนี้เก็บความทรงจำของตัวฉันอีกคนหนึ่งเอาไว้... เรื่องราวการเดินทางของเธอในฐานะราชินีแห่งอเล็กซานเดรีย..."
     },
     {
-      "character": "Sphene",
+      "key": "mightiholdontothistiarayoumayexamineitwheneveryouwishofcourse",
       "text_en": "Might I hold on to this tiara? You may examine it whenever you wish, of course.",
       "text": "ฉันขอเป็นคนเก็บรักษารัดเกล้านี้ไว้จะได้ไหมคะ? แน่นอนว่าถ้าคุณอยากจะตรวจสอบมันเมื่อไหร่ก็บอกได้ทุกเมื่อเลยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itwouldbeforthebestithink",
       "text_en": "It would be for the best, I think.",
       "text": "ฉันคิดว่าให้เธอเก็บเอาไว้นั่นแหละดีที่สุดแล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "doesthatworkforyoushale",
       "text_en": "Does that work for you, Shale?",
       "text": "เธอเห็นด้วยไหม เชล?"
     },
     {
-      "character": "Shale",
+      "key": "noobjectionsfromme",
       "text_en": "No objections from me.",
       "text": "ฉันไม่มีข้อคัดค้านค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "alrightimfinishedletsheadtothelibraryandthenbackoutside",
       "text_en": "Alright, I'm finished. Let's head to the library and then back outside.",
       "text": "เอาละ เรียบร้อยแล้วค่ะ พวกเราไปที่ห้องสมุดแล้วค่อยออกไปข้างนอกกันเถอะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "farewellzelenia",
       "text_en": "Farewell, Zelenia.",
       "text": "ลาก่อนนะคะ คุณเซเลเนีย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theendlesssphenewasjustaprojectedimageoutsidelivingmemorysoitwasabitofasurprisetoseeanactualitemthatbelongedtoher",
       "text_en": "The Endless Sphene was just a projected image outside Living Memory, so it was a bit of a surprise to see an actual item that belonged to her.",
       "text": "สฟีนร่างเอ็นด์เลสเคยเป็นแค่ภาพฉายที่ปรากฏตัวนอกลิฟวิ่งเมโมรี ดังนั้นการได้เห็นของจริงๆ ที่เคยเป็นของเธอจึงทำให้ตกใจอยู่เหมือนกันนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "onthewaybackiaskedshalewhythetiaramighthavebeeninthethroneroom",
       "text_en": "On the way back, I asked Shale why the tiara might have been in the throne room.",
       "text": "ระหว่างทางกลับ ฉันถามเชลว่าทำไมรัดเกล้านั่นถึงไปอยู่ในห้องโถงบัลลังก์ได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "shebelievesthatitwasbeingusedtorecordsphenesactionstheresnowaytotellnowwhetherornotitwaswithherknowledge",
       "text_en": "She believes that it was being used to record Sphene's actions. There's no way to tell now whether or not it was with her knowledge...",
       "text": "เธอเชื่อว่ามันถูกใช้เพื่อบันทึกการกระทำของสฟีน ซึ่งตอนนี้พวกเราไม่มีทางรู้เลยว่าเธอรู้เห็นเป็นใจกับเรื่องนี้ด้วยหรือเปล่า..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butitcantbeusedforquestionableendsanymoresowecanatleasttakecomfortinthat",
       "text_en": "But it can't be used for questionable ends anymore, so we can at least take comfort in that.",
       "text": "แต่ที่แน่ๆ คือมันจะไม่สามารถถูกนำไปใช้ในทางที่ชั่วร้ายได้อีกต่อไปแล้ว อย่างน้อยแค่นี้ก็เบาใจได้เปลาะหนึ่งล่ะนะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "imgladeveryonessafe",
       "text_en": "I'm glad everyone's safe!",
       "text": "ผมดีใจที่ทุกคนปลอดภัยดีครับ!"
     },
     {
-      "character": "Shale",
+      "key": "basedonthegeographicdataigathereditseemstheinnersectioncontainingthecastleservedasaresidentialareaduringtheearlystagesofeverkeepsconstruction",
       "text_en": "Based on the geographic data I gathered, it seems the inner section containing the castle served as a residential area during the early stages of Everkeep's construction.",
       "text": "จากข้อมูลภูมิศาสตร์ที่ฉันรวบรวมมา ดูเหมือนว่าส่วนในที่เป็นปราสาทเคยถูกใช้เป็นเขตที่อยู่อาศัยในช่วงเริ่มแรกของการก่อสร้างเอเวอร์คีปค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "theoutersectionwasthenaddedwhentheyexpandedthestructureintoitspresentdayshapeiexpectthesystemtodrytheearthwasinstalledsothattheycouldbuildastablefoundationonsubmergedland",
       "text_en": "The outer section was then added when they expanded the structure into its present-day shape. I expect the system to dry the earth was installed so that they could build a stable foundation on submerged land.",
       "text": "จากนั้นส่วนนอกจึงถูกเสริมเข้ามาเมื่อพวกเขาขยายโครงสร้างหอคอยจนกลายเป็นรูปทรงอย่างในปัจจุบัน ฉันคาดว่าระบบไล่ความชื้นในดินคงถูกติดตั้งขึ้นเพื่อให้พวกเขาสามารถสร้างรากฐานที่มั่นคงบนพื้นที่ที่จมอยู่ใต้น้ำได้ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "theinterferencemadeitimpossibletolocateyouandpreventedlinkpearltransmissionsbesides",
       "text_en": "The interference made it impossible to locate you, and prevented linkpearl transmissions besides...",
       "text": "สัญญาณรบกวนทำให้พวกเราไม่สามารถระบุพิกัดตำแหน่งของพวกเธอได้เลย แถมยังส่งสัญญาณลิงก์เพิร์ลไม่ได้อีกด้วย..."
     },
     {
-      "character": "Krile",
+      "key": "apologiesthatwecouldntbethereforthecriticalmomentbutasusualyoufoundawaytohandlematters",
       "text_en": "Apologies that we couldn't be there for the critical moment, but as usual you found a way to handle matters.",
       "text": "ต้องขออภัยด้วยนะคะที่พวกเราไม่ได้อยู่ช่วยเหลือในนาทีวิกฤต แต่ก็นั่นแหละค่ะ สุดท้ายคุณก็หาทางรับมือกับมันได้เองตามเคย"
     },
     {
-      "character": "G'raha Tia",
+      "key": "calyxseemstoconsiderthereflectionsnaughtbutfieldstobeharvestedforhisendless",
       "text_en": "Calyx seems to consider the reflections naught but fields to be harvested for his Endless.",
       "text": "คาลิกซ์ดูเหมือนจะมองว่าโลกเงาสะท้อนเป็นเพียงแค่ทุ่งนาให้เขาเข้าไปเก็บเกี่ยวอีเธอร์มาใช้กับเอ็นด์เลสของเขาเท่านั้นเอง"
     },
     {
-      "character": "G'raha Tia",
+      "key": "idonotmakeahabitofdismissingtheassertionsofothersoutofhandbuticannotabidesuchcallousdisregardforlife",
       "text_en": "I do not make a habit of dismissing the assertions of others out of hand, but I cannot abide such callous disregard for life.",
       "text": "ปกติฉันไม่ใช่คนที่ชอบปฏิเสธความคิดเห็นของคนอื่นในทันทีหรอกนะ แต่ฉันไม่สามารถทนเห็นการละเลยและเหยียบย่ำคุณค่าของชีวิตอย่างเย็นชาแบบนี้ได้จริงๆ"
     },
     {
-      "character": "Sphene",
+      "key": "thesimulantgavetheimpressionthatshewouldntbebackbutisupposeonlytimewilltellandatpresentwehavenofurtherleadsoncalyx",
       "text_en": "The simulant gave the impression that she wouldn't be back, but I suppose only time will tell. And at present, we have no further leads on Calyx...",
       "text": "ร่างจำลองนั่นทิ้งท้ายไว้เหมือนว่าเธอจะไม่กลับมาอีกแล้ว แต่ฉันคิดว่าเวลาเท่านั้นที่จะเป็นเครื่องพิสูจน์ค่ะ และในตอนนี้ พวกเราก็ไม่มีเบาะแสใดๆ เพิ่มเติมเกี่ยวกับคุณคาลิกซ์เลย..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "fornowperhapsyoucouldtakeamomenttocontactourfriends",
       "text_en": "For now, perhaps you could take a moment to contact our friends.",
       "text": "สำหรับตอนนี้ นายลองหาเวลาติดต่อเพื่อนๆ ของพวกเราดูหน่อยสิ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itwouldbegoodtocatcheachotheruponrecentdevelopmentsandiamcertaineveryonewouldappreciatehearingfromyou",
       "text_en": "It would be good to catch each other up on recent developments, and I am certain everyone would appreciate hearing from you.",
       "text": "มันคงจะดีถ้าพวกเราได้แชร์ข้อมูลความคืบหน้าล่าสุดให้กันฟัง และฉันมั่นใจว่าทุกคนย่อมอยากได้ยินข่าวคราวจากนายแน่นอน"
     },
     {
-      "character": "Sphene",
+      "key": "ishalltaketheopportunitytoreviewthebooksfromthecastleandonegrimoireinparticular",
       "text_en": "I shall take the opportunity to review the books from the castle...and one grimoire in particular.",
       "text": "ฉันจะใช้โอกาสนี้ตรวจสอบหนังสือที่นำมาจากปราสาทดูค่ะ... โดยเฉพาะคัมภีร์เวทมนตร์เล่มหนึ่งเป็นพิเศษค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "cometothinkofitihavenoideawhaterenvillesupto",
       "text_en": "Come to think of it, I have no idea what Erenville's up to...",
       "text": "จะว่าไป ฉันก็ไม่รู้เลยนะว่าเอเรนวิลล์กำลังทำอะไรอยู่ตอนนี้..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "illtakealookatthepreservationterminalhopefullytherellbesomethinguseful",
       "text_en": "I'll take a look at the Preservation terminal. Hopefully there'll be something useful.",
       "text": "ผมจะลองตรวจดูเทอร์มินัลของกลุ่มพรีเซิร์ฟเวชันนะครับ หวังว่าจะมีข้อมูลอะไรที่เป็นประโยชน์บ้างนะ"
     },
     {
-      "character": "Shale",
+      "key": "itirksmetothinkwerebeingledonbycalyxbutilldomybesttofindcluesofhispassage",
       "text_en": "It irks me to think we're being led on by Calyx, but I'll do my best to find clues of his passage.",
       "text": "รู้สึกขัดใจจริงๆ ค่ะที่คิดว่าพวกเรากำลังโดนคาลิกซ์ปั่นหัวเล่นแบบนี้ แต่ฉันจะพยายามอย่างสุดความสามารถเพื่อหาร่องรอยการเดินทางของเขาให้พบค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "mostofthetomeswefoundweredilapidatedfromagebutsomearethankfullystilllegible",
       "text_en": "Most of the tomes we found were dilapidated from age, but some are thankfully still legible.",
       "text": "ตำราส่วนใหญ่ที่พวกเราพบมีสภาพทรุดโทรมไปตามกาลเวลาค่ะ แต่โชคดีที่บางเล่มยังพออ่านจับใจความได้อยู่ค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "yshtolaalphinaudalisaieanderenvilleshouldallbesomewherewithinthedomepraydothehonorsinanyorderyoulike",
       "text_en": "Y'shtola, Alphinaud, Alisaie, and Erenville should all be somewhere within the dome. Pray do the honors in any order you like.",
       "text": "วาย'ชโตลา, อัลฟิโน, อลิเซ และเอเรนวิลล์ น่าจะกระจายตัวกันอยู่ในโดมนี้แหละ รบกวนนายช่วยไปทักทายพวกเขาตามลำดับที่ต้องการได้เลยนะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "ifitisntforenameissomethingthematter",
       "text_en": "If it isn't Forename . Is something the matter?",
       "text": "นึกว่าใคร ที่แท้ก็ [ชื่อ] นี่เอง มีธุระอะไรด่วนงั้นหรือ?"
     },
     {
-      "character": "Y'shtola",
+      "key": "sopreservationisbehindtherecentintrigueitdoesntsurprisemeimgladtohearyouarenonetheworseforyourtrialsthough",
       "text_en": "...So Preservation is behind the recent intrigue. It doesn't surprise me. I'm glad to hear you are none the worse for your trials, though.",
       "text": "...อย่างนี้นี่เอง ที่แท้กลุ่มพรีเซิร์ฟเวชันก็อยู่เบื้องหลังแผนการสมคบคิดครั้งล่าสุดนี้สินะ ไม่แปลกใจเท่าไหร่หรอก แต่ก็ดีใจนะที่ได้ยินว่าเธอปลอดภัยดีและไม่ได้บาดเจ็บอะไรจากบททดสอบเหล่านั้น"
     },
     {
-      "character": "Y'shtola",
+      "key": "asformyselfivejustconcludedameetingwithgossanitoldhimaboutthecureforlevinsicknessandweformedatentativeplantotreatallthosewhoarestricken",
       "text_en": "As for myself, I've just concluded a meeting with Gossan. I told him about the cure for levin sickness, and we formed a tentative plan to treat all those who are stricken.",
       "text": "ในส่วนของฉัน เพิ่งจะประชุมเสร็จกับคุณกอสซันน่ะ ฉันบอกเขาเรื่องยารักษาโรคไข้สายฟ้า และพวกเราก็ร่างแผนการคร่าวๆ เพื่อรักษาทุกคนที่ล้มป่วยแล้วล่ะ"
     },
     {
-      "character": "Y'shtola",
+      "key": "imnowotherwiseunoccupiedsoishalltakealookaroundthegovernmentsectortoseeifaughtisamiss",
       "text_en": "I'm now otherwise unoccupied, so I shall take a look around the government sector to see if aught is amiss.",
       "text": "ตอนนี้ฉันไม่มีธุระอะไรอื่นแล้วล่ะ ก็เลยตั้งใจจะไปเดินดูรอบๆ เขตการปกครองเสียหน่อยว่ามีสิ่งใดผิดปกติหรือเปล่า"
     },
     {
-      "character": "Y'shtola",
+      "key": "andifthiscalyxisobsessedwiththekeythenioughttobeginstudyingitinearnestaswell",
       "text_en": "And if this Calyx is obsessed with the key, then I ought to begin studying it in earnest as well.",
       "text": "และถ้าคาลิกซ์คนนี้ยึดติดกับกุญแจชิ้นนั้นมากขนาดนั้น ฉันเองก็คงต้องเริ่มศึกษาเรื่องกุญแจอย่างจริงจังด้วยเช่นกันสินะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "ahexcellenttimingmyfriendihadamindtocallyoumyselftoseehowyouwerefaring",
       "text_en": "Ah, excellent timing, my friend. I had a mind to call you myself to see how you were faring.",
       "text": "อ๊ะ ประจวบเหมาะพอดีเลยครับสหาย ฉันเองก็กำลังคิดที่จะติดต่อไปหาเพื่อถามไถ่สารทุกข์สุกดิบอยู่เหมือนกันพอดีเลย"
     },
     {
-      "character": "Alphinaud",
+      "key": "calyxwhilesomethingwasobviouslyafooticouldnthaveimaginedthatsuchanindividualwouldbeinvolved",
       "text_en": "Calyx... While something was obviously afoot, I couldn't have imagined that such an individual would be involved.",
       "text": "คาลิกซ์งั้นหรือ... แม้จะเห็นได้ชัดว่ามีแผนการบางอย่างกำลังดำเนินอยู่ แต่ฉันไม่เคยคิดฝันเลยว่าบุคคลเช่นนั้นจะเข้ามามีส่วนเกี่ยวข้องด้วยจริงๆ"
     },
     {
-      "character": "Alphinaud",
+      "key": "tiswellyouwereabletopreventthesimulantfromsowingfurtheruncertaintythatsaidherabsencemayhaveconsequences",
       "text_en": "'Tis well you were able to prevent the simulant from sowing further uncertainty. That said, her absence may have consequences.",
       "text": "ดีแล้วล่ะครับที่คุณสามารถยับยั้งไม่ให้ร่างจำลองนั่นสร้างความปั่นป่วนใจให้ผู้คนไปมากกว่านี้ ทว่า การที่จู่ๆ เธอหายตัวไปก็อาจส่งผลกระทบตามมาได้เหมือนกัน"
     },
     {
-      "character": "Alphinaud",
+      "key": "thepeopleofalexandriastillhavegreattrustinsphenetisplaininthewaytheyspeakofherevennowandinhowthesimulantwasabletowinthemover",
       "text_en": "The people of Alexandria still have great trust in Sphene─'tis plain in the way they speak of her even now, and in how the simulant was able to win them over.",
       "text": "ประชาชนชาวอเล็กซานเดรียยังคงรักและศรัทธาในตัวสฟีนอย่างมาก ซึ่งเห็นได้ชัดจากวิธีที่พวกเขาพูดถึงเธอแม้ในเวลานี้ และการที่ร่างจำลองสามารถซื้อใจพวกเขาได้อย่างง่ายดายก็เป็นข้อพิสูจน์ชั้นดี"
     },
     {
-      "character": "Alphinaud",
+      "key": "whentheynoticeshehasceasedtoappearagainrumorandworrywillspreadwemustbemindfulofanypronouncedshiftinthemoodofthepopulace",
       "text_en": "When they notice she has ceased to appear again, rumor and worry will spread. We must be mindful of any pronounced shift in the mood of the populace.",
       "text": "เมื่อพวกเขาสังเกตเห็นว่าเธอไม่ได้ปรากฏตัวออกมาอีกแล้ว ข่าวลือและความวิตกกังวลก็จะแพร่สะพัดไปทั่ว พวกเราจึงต้องคอยเฝ้าระวังความเปลี่ยนแปลงของกระแสอารมณ์ของประชาชนอย่างใกล้ชิดครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "butforgivemeitsbeenbattleafterbattleforyouhasntitwecanhandleourselvesfornowsoprayrestupwhileyoucanandrecoveryourstrength",
       "text_en": "But forgive me─it's been battle after battle for you, hasn't it? We can handle ourselves for now, so pray rest up while you can and recover your strength.",
       "text": "แต่ขออภัยด้วยครับ นายต้องเผชิญกับการต่อสู้ครั้งแล้วครั้งเล่าเลยใช่ไหมล่ะ? เรื่องทางนี้ปล่อยให้พวกเราจัดการกันเองก่อนเถอะ นายหาเวลาพักผ่อนเพื่อฟื้นฟูพละกำลังให้เต็มที่ก่อนนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "yeshelloforenameforyoutocalloutoftheblueissomethingwrong",
       "text_en": "Yes, hello! ... Forename !? For you to call out of the blue, is something wrong?",
       "text": "ใช่ ฮัลโหล! ... [ชื่อ] เหรอ!? จู่ๆ ก็ติดต่อมาแบบไม่มีปี่ไม่มีขลุ่ย มีเรื่องอะไรหรือเปล่า?"
     },
     {
-      "character": "Alisaie",
+      "key": "whatyouwentallthewaytothebottomofeverkeepandyoudidntthinktoaskmetocome",
       "text_en": "...What? You went all the way to the bottom of Everkeep, and you didn't think to ask me to come!?",
       "text": "...หา? นายบึ่งลงไปถึงก้นบึ้งของเอเวอร์คีปโดยที่ไม่คิดจะชวนฉันไปด้วยเนี่ยนะ!?"
     },
     {
-      "character": "Alisaie",
+      "key": "sighbutisupposeivebeenfairlybusymyself",
       "text_en": "<sigh> But I suppose I've been fairly busy myself...",
       "text": "<ถอนหายใจ> แต่ก็นะ ตัวฉันเองก็ยุ่งวุ่นวายอยู่เหมือนกันแหละ..."
     },
     {
-      "character": "Alisaie",
+      "key": "impleasedtosaythatwevereceivedpermissiontobeginadministeringthecureforlevinsicknesstocitizens",
       "text_en": "I'm pleased to say that we've received permission to begin administering the cure for levin sickness to citizens.",
       "text": "มีข่าวดีมาบอกล่ะ ตอนนี้พวกเราได้รับอนุญาตให้เริ่มแจกจ่ายยารักษาโรคไข้สายฟ้าให้แก่ประชาชนแล้วนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "imactuallyduetovisitaboynamedmilosshortlytoseehowheisrespondingtohistreatment",
       "text_en": "I'm actually due to visit a boy named Milos shortly, to see how he is responding to his treatment.",
       "text": "ความจริงแล้วอีกประเดี๋ยวฉันต้องไปหาเด็กผู้ชายที่ชื่อไมลอส เพื่อไปดูว่าผลการรักษาของเขาเป็นอย่างไรบ้างน่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "youvemethimbeforewithlamatyiibelievethetwoofyoushouldattendaswellifyouhavetime",
       "text_en": "You've met him before with Lamaty'i, I believe? The two of you should attend as well if you have time.",
       "text": "ฉันคิดว่านายเคยเจอเขาพร้อมกับคุณวุค ลามัต มาก่อนแล้วใช่ไหมล่ะ? ถ้านายกับเธอพอมีเวลาก็มาร่วมดูด้วยกันสิ"
     },
     {
-      "character": "Erenville",
+      "key": "forenamethisisasurprisehaswuklamatgottenintotroubleagain",
       "text_en": "Forename , this is a surprise. Has Wuk Lamat gotten into trouble again?",
       "text": "[ชื่อ] แปลกใจจังที่นายติดต่อมา วุค ลามัต ไปก่อเรื่องวุ่นวายอะไรอีกหรือเปล่า?"
     },
     {
-      "character": "Erenville",
+      "key": "iseeknowingyouiexpectyourealreadylookingforwardtothenextobvioustraptrynottooverdoit",
       "text_en": "...I see. Knowing you, I expect you're already looking forward to the next obvious trap. Try not to overdo it.",
       "text": "...อย่างนี้นี่เอง ถ้ารู้แบบนี้ นายก็คงกะว่าจะเดินเข้ากับดักโต้งๆ นั่นต่ออยู่แล้วสินะ พยายามอย่าทำอะไรเกินตัวนักล่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "imintheoutskirtsatthemomentivebeenhelpingthepeoplewiththeirworkandtalkingtothoseimeettogaugetheirsentiment",
       "text_en": "I'm in the outskirts at the moment. I've been helping the people with their work, and talking to those I meet to gauge their sentiment.",
       "text": "ตอนนี้ฉันอยู่ที่ชานเมืองน่ะ กำลังช่วยงานชาวบ้านอยู่ แล้วก็คอยพูดคุยกับผู้คนที่ผ่านไปมาเพื่อประเมินความรู้สึกของพวกเขาด้วย"
     },
     {
-      "character": "Erenville",
+      "key": "itsbeenuneventfulforthemostpartbuttherewasonenotabledevelopment",
       "text_en": "It's been uneventful for the most part, but there was one notable development.",
       "text": "ส่วนใหญ่แล้วก็ไม่มีอะไรเกิดขึ้นหรอกนะ ทว่ามีความเปลี่ยนแปลงที่น่าสนใจอย่างหนึ่งเกิดขึ้นน่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "followingrecenteventssomeherestoppedwearingregulatorsthishasledtoadisparityinwhatpeoplerememberaboutthequeensdeathandtheoccasionalepisodeofconfusion",
       "text_en": "Following recent events, some here stopped wearing regulators. This has led to a disparity in what people remember about the queen's death, and the occasional episode of confusion.",
       "text": "หลังจากเหตุการณ์ล่าสุด มีบางคนเริ่มเลิกสวมใส่เรกูเลเตอร์แล้วล่ะ นั่นทำให้ความทรงจำของประชาชนเกี่ยวกับการสิ้นพระชนม์ขององค์ราชินีเกิดความเหลื่อมล้ำกัน และมีอาการสับสนวุ่นวายเกิดขึ้นในบางครั้งด้วย"
     },
     {
-      "character": "Erenville",
+      "key": "illbesuretoletyouknowifthereareanyotherchanges",
       "text_en": "I'll be sure to let you know if there are any other changes.",
       "text": "ถ้ามีความเปลี่ยนแปลงอย่างอื่นเกิดขึ้นอีก ฉันจะคอยบอกนายนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "beingabletocontactpeoplesofarawaysoeasilycandowondersforyourpeaceofmindlinkpearlsreallyareconvenientthings",
       "text_en": "Being able to contact people so far away so easily can do wonders for your peace of mind. Linkpearls really are convenient things.",
       "text": "การที่สามารถติดต่อผู้คนที่อยู่ห่างไกลได้อย่างง่ายดายขนาดนี้มันช่วยให้สบายใจขึ้นเยอะเลยนะ ลิงก์เพิร์ลเนี่ยช่างเป็นของที่สะดวกจริงๆ"
     },
     {
-      "character": "Krile",
+      "key": "iseeyouwereabletoreacheveryonethatiswell",
       "text_en": "I see you were able to reach everyone. That is well.",
       "text": "ดูเหมือนคุณจะติดต่อทุกคนเรียบร้อยแล้วนะคะ ดีจังเลยค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ithoughtiheardalisaieyellingihopeeverythingisallright",
       "text_en": "I thought I heard Alisaie yelling. I hope everything is all right...",
       "text": "ฉันนึกว่าหูฝาดไปซะอีกที่ได้ยินเสียงอลิเซตะโกนลั่น หวังว่าทุกอย่างจะเรียบร้อยดีนะ..."
     },
     {
-      "character": "Sphene",
+      "key": "whatdidtheothershavetosayifimayask",
       "text_en": "What did the others have to say, if I may ask?",
       "text": "คนอื่นๆ ว่าอย่างไรกันบ้างเหรอคะ ถ้าหากฉันจะขอถามดูน่ะค่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theyvefinishedtreatingmilosthenwehavetogoandvisithim",
       "text_en": "They've finished treating Milos? Then we have to go and visit him!",
       "text": "พวกเขารักษาไมลอสเสร็จแล้วเหรอ? ถ้างั้นพวกเราต้องไปเยี่ยมเขาแล้วล่ะ!"
     },
     {
-      "character": "Sphene",
+      "key": "wouldyoumindifiaccompaniedyouiunderstandhesafflictedwiththeselfsameconditionasiwasandicannothelpbutworryforhim",
       "text_en": "Would you mind if I accompanied you? I understand he's afflicted with the selfsame condition as I was, and I cannot help but worry for him.",
       "text": "จะรังเกียจไหมคะถ้าฉันจะขอร่วมเดินทางไปด้วย? ฉันรู้มาว่าเขาป่วยด้วยโรคชนิดเดียวกันกับที่ฉันเคยเป็น ก็เลยอดเป็นห่วงไม่ได้จริง ๆ ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ofcoursewedontmindatall",
       "text_en": "Of course, we don't mind at all.",
       "text": "แน่นอนสิ พวกเราไม่รังเกียจอยู่แล้วล่ะ"
     },
     {
-      "character": "Krile",
+      "key": "inthemeantimeishalltakemyselfaroundsolutionnineandseehowthingsare",
       "text_en": "In the meantime, I shall take myself around Solution Nine and see how things are.",
       "text": "ในระหว่างนี้ ฉันตั้งใจจะไปเดินสำรวจรอบๆ โซลูชันไนน์เพื่อดูว่าสถานการณ์เป็นอย่างไรบ้างค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "isharealphinaudsconcernaboutthequeensabsenceandevensettingthatasidethesituationisnotliketoresolveitselfwhilebecomingendlessremainsanoption",
       "text_en": "I share Alphinaud's concern about the queen's absence. And even setting that aside, the situation is not like to resolve itself while becoming Endless remains an option.",
       "text": "ฉันเองก็เป็นกังวลเรื่องการหายตัวไปขององค์ราชินีเหมือนกับอัลฟิโนค่ะ และต่อให้ข้ามเรื่องนั้นไป สถานการณ์ก็คงไม่คลี่คลายลงได้เองง่ายๆ ตราบใดที่การกลายเป็นเอ็นด์เลสยังคงเป็นทางเลือกที่มีอยู่ค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "ihadbeenmeaningtovisitsomeshopssoishalljoinkrile",
       "text_en": "I had been meaning to visit some shops, so I shall join Krile.",
       "text": "ฉันเองก็กำลังวางแผนจะไปเดินดูร้านค้าอยู่พอดี งั้นฉันขอไปกับไครล์ด้วยคนนะ"
     },
     {
-      "character": "Shale",
+      "key": "whileeveryonesoutandaboutilltrytopickupcalyxstrailillseeificandigupsomeinformationaboutthekeyforyshtolaaswell",
       "text_en": "While everyone's out and about, I'll try to pick up Calyx's trail. I'll see if I can dig up some information about the key for Y'shtola as well.",
       "text": "ในระหว่างที่ทุกคนออกไปข้างนอกกัน ฉันจะพยายามแกะรอยตามหาคาลิกซ์ดูค่ะ แล้วก็จะช่วยค้นข้อมูลเกี่ยวกับกุญแจชิ้นนั้นส่งไปให้คุณวาย'ชโตลาด้วยนะคะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "illhelpyou",
       "text_en": "I'll help you!",
       "text": "ผมจะช่วยพี่เชลด้วยครับ!"
     },
     {
-      "character": "Sphene",
+      "key": "itseemsweallhavethingstodostilltheresnotellingwhatelsecalyxmighthaveplannedsopleasebecarefuleveryone",
       "text_en": "It seems we all have things to do. Still, there's no telling what else Calyx might have planned...so please be careful, everyone.",
       "text": "ดูเหมือนพวกเราทุกคนจะมีหน้าที่ต้องทำกันหมดเลยนะคะ ถึงอย่างนั้น ก็บอกไม่ได้เลยว่าคาลิกซ์วางแผนอะไรไว้อีก... เพราะฉะนั้น ขอให้ทุกคนระมัดระวังตัวด้วยนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightletsgotomilossapartmentitsinresidentialradius914ifiremembercorrectly",
       "text_en": "Right, let's go to Milos's apartment. It's in residential radius 9-14, if I remember correctly.",
       "text": "เอาละ งั้นพวกเราไปที่อพาร์ตเมนต์ของไมลอสกันเถอะ ถ้าจำไม่ผิด มันตั้งอยู่ในเขตที่พักอาศัย 9-14 นะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "lamatyitoldmeallaboutmilosshesaidhewasaroundmyagebutcouldntleavehisbed",
       "text_en": "Lamaty'i told me all about Milos. She said he was around my age, but couldn't leave his bed.",
       "text": "คุณวุค ลามัต เล่าเรื่องไมลอสให้ผมฟังหมดแล้วครับ เธอ บอกว่าเขาอายุรุ่นราวคราวเดียวกับผม แต่ต้องนอนซมอยู่บนเตียงตลอดเวลาเลยครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "idliketogomeethimnexttimemaybewecanbefriends",
       "text_en": "I'd like to go meet him next time. Maybe we can be friends.",
       "text": "โอกาสหน้าผมอยากจะไปพบเขาบ้างจังเลยครับ บางทีพวกเราอาจจะได้เป็นเพื่อนกันก็ได้นะครับ"
     },
     {
-      "character": "Shale",
+      "key": "calyxismorecleverthananyonehasanyrighttobebutillsniffhimoutsomehowjustleaveittome",
       "text_en": "Calyx is more clever than anyone has any right to be, but I'll sniff him out somehow. Just leave it to me.",
       "text": "คาลิกซ์ช่างฉลาดเฉลียวเกินกว่าคนธรรมดาทั่วไปจะเทียบได้ แต่ฉันต้องตามแกะรอยเขาจนเจอให้ได้ล่ะค่ะ ปล่อยให้เป็นหน้าที่ของฉันเถอะค่ะ"
     },
     {
-      "character": "Isadora",
+      "key": "itssogoodtoseeyouagainandadelighttoknowthatyouandalisaiearefriendsshesbeenverykindtous",
       "text_en": "It's so good to see you again, and a delight to know that you and Alisaie are friends. She's been very kind to us.",
       "text": "ดีใจจังเลยค่ะที่ได้พบคุณอีกครั้ง และยินดีมากเลยที่ได้รู้ว่าคุณกับอลิเซเป็นเพื่อนกัน เธอมีเมตตาและคอยช่วยเหลือพวกเราอย่างดีมาโดยตลอดเลยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "lookmilosissittingupidseenthetreatmentbeforesoiknewitwouldworkbutitsstillsoamazingalisaieandyshtolaaremiracleworkers",
       "text_en": "Look, Milos is sitting up! I'd seen the treatment before, so I knew it would work...but it's still so amazing! Alisaie and Y'shtola are miracle workers!",
       "text": "ดูนั่นสิ ไมลอสลุกขึ้นมานั่งได้แล้ว! ถึงฉันจะเคยเห็นการรักษามาก่อนและรู้ว่ามันต้องได้ผลแน่ๆ... แต่พอกลับมาเห็นจริงมันก็น่าทึ่งอยู่ดีนั่นแหละ! อลิเซกับวาย'ชโตลานี่เก่งกาจราวกับเนรมิตปาฏิหาริย์ได้เลยนะ!"
     },
     {
-      "character": "Sphene",
+      "key": "iunderstandmyendlessselfvisitedmilosofteniwillkeepquietsoastonotdrawsuspicion",
       "text_en": "I understand my Endless self visited Milos often. I will keep quiet, so as to not draw suspicion.",
       "text": "ฉันรู้มาว่าตัวฉันในร่างเอ็นด์เลสเคยมาเยี่ยมไมลอสอยู่บ่อยๆ ฉันจะทำตัวเงียบๆ ไว้เพื่อไม่ให้ดึงดูดความสงสัยของพวกเขานะคะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thereyouarenexttimesomethingisintheoffingyouhadbetterremembertocallonme",
       "text_en": "There you are. Next time something is in the offing, you had better remember to call on me!",
       "text": "มาแล้วเหรอ คราวหน้าถ้ามีแผนการสำคัญอะไรกำลังจะเกิดขึ้นล่ะก็ นายห้ามลืมเรียกฉันไปด้วยเด็ดขาดเลยนะ!"
     },
     {
-      "character": "Milos",
+      "key": "hhelloyoucamebeforewithqueenspheneimgladimgladyoucameagain",
       "text_en": "H-Hello... You came before...with Queen Sphene... I'm glad...I'm glad you came again...",
       "text": "ส-สวัสดีครับ... คุณเคยมาที่นี่เมื่อคราวก่อน... พร้อมกับองค์ราชินีสฟีน... ดีใจจัง... ดีใจจังเลยครับที่คุณแวะมาหาอีกครั้ง..."
     },
     {
-      "character": "Alisaie",
+      "key": "ibelievehellbefinenowbutjustforgoodmeasureilladministerahealingspell",
       "text_en": "I believe he'll be fine now. But just for good measure, I'll administer a healing spell.",
       "text": "ฉันคิดว่าอาการของเขาพ้นขีดอันตรายแล้วล่ะค่ะ แต่เพื่อความมั่นใจ ฉันจะร่ายเวทมนตร์รักษาเสริมให้อีกทีนะคะ"
     },
     {
-      "character": "Isadora",
+      "key": "ioncehopedthatmilosatleastmightbemadeanendlessthenhewouldntneedtosufferanymore",
       "text_en": "I once hoped that Milos, at least, might be made an Endless. Then he wouldn't need to suffer anymore.",
       "text": "ฉันเคยแอบหวังว่า อย่างน้อยถ้าไมลอสได้กลายเป็นเอ็นด์เลส เขาก็คงไม่ต้องทนทุกข์ทรมานอีกต่อไปแล้วล่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youfeeldifferentnow",
       "text_en": "You feel different now?",
       "text": "ตอนนี้เธอคิดต่างไปจากเดิมแล้วเหรอ?"
     },
     {
-      "character": "Isadora",
+      "key": "thankstoalisaiemilosisontheroadtorecoveryhecangrowupandliveanormallife",
       "text_en": "Thanks to Alisaie, Milos is on the road to recovery. He can grow up and live a normal life.",
       "text": "ต้องขอบคุณอลิเซจริงๆ ค่ะ ตอนนี้ไมลอสกำลังฟื้นตัวดีขึ้นเรื่อยๆ แล้ว เขาจะได้เติบโตขึ้นมาและใช้ชีวิตตามปกติเหมือนคนอื่นๆ เสียทีค่ะ"
     },
     {
-      "character": "Isadora",
+      "key": "andiwanttobetherewithhimeverystepofthewaytogrowoldwithhimashismotherandnotsomethingelse",
       "text_en": "And I want to be there with him every step of the way. To grow old with him, as his mother...and not something else.",
       "text": "และฉันก็อยากจะคอยอยู่เคียงข้างเขาในทุกก้าวของชีวิต อยากจะแก่เฒ่าไปพร้อมๆ กับเขาในฐานะผู้เป็นแม่... ไม่ใช่ร่างจำลองที่ไม่มีวันโรยราหรืออะไรแบบนั้นหรอกค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thatshoulddoityouredoingwellimgladtosay",
       "text_en": "That should do it. You're doing well, I'm glad to say.",
       "text": "เรียบร้อยแล้วล่ะ ดีใจด้วยนะที่อาการของนายดีขึ้นมากทีเดียว"
     },
     {
-      "character": "Milos",
+      "key": "thankyoualisaie",
       "text_en": "Thank you...Alisaie.",
       "text": "ขอบคุณมากนะครับ... พี่อลิเซ"
     },
     {
-      "character": "Alisaie",
+      "key": "yourewelcomemilosnowyoullfeelbreathlessforalittlewhilestillbutdontfretitllgeteasiertospeakwithtime",
       "text_en": "You're welcome, Milos. Now, you'll feel breathless for a little while still, but don't fret. It'll get easier to speak with time.",
       "text": "ยินดีจ้ะ ไมลอส ตอนนี้อาจจะยังรู้สึกเหนื่อยหอบอยู่บ้างเล็กน้อย แต่อย่ากังวลไปเลยนะ พอผ่านไปสักพักนายจะพูดคุยได้สะดวกขึ้นเองล่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thatsaidwecantruleoutthepossibilityofarelapseasaprecautioniwouldkeephimawayfromlightninginfusedobjects",
       "text_en": "That said, we can't rule out the possibility of a relapse. As a precaution, I would keep him away from lightning-infused objects.",
       "text": "ถึงอย่างนั้น พวกเราก็ยังวางใจไม่ได้เต็มร้อยว่าอาการจะไม่กำเริบอีก เพื่อความปลอดภัย ฉันคิดว่าควรให้เขาหลีกเลี่ยงและอยู่ห่างจากสิ่งของที่มีพลังงานสายฟ้าสะสมอยู่จะดีกว่าค่ะ"
     },
     {
-      "character": "Isadora",
+      "key": "lightningdoesthatincluderegulators",
       "text_en": "Lightning... Does that include regulators?",
       "text": "พลังงานสายฟ้า... นั่นรวมถึงพวกเรกูเลเตอร์ด้วยหรือเปล่าคะ?"
     },
     {
-      "character": "Alisaie",
+      "key": "itdoesiunderstandifitsdifficultforyoutopartwithsomethingthatyouvewornforsolongthoughsoitsentirelyuptoyou",
       "text_en": "It does. I understand if it's difficult for you to part with something that you've worn for so long, though, so it's entirely up to you...",
       "text": "รวมด้วยค่ะ ฉันเข้าใจดีนะคะว่ามันอาจจะทำใจยอมรับได้ยากที่จะต้องแยกห่างจากสิ่งของที่สวมใส่ติดตัวมาอย่างช้านานแบบนี้ เพราะฉะนั้นมันจึงขึ้นอยู่กับการตัดสินใจของคุณเองทั้งหมดเลยค่ะ..."
     },
     {
-      "character": "Isadora",
+      "key": "noformilosssakeiwilldoitandiftheenvironmenthereisntgoodforhimimustconsidermovingoutsidethedome",
       "text_en": "No. For Milos's sake, I will do it. And if the environment here isn't good for him, I must consider moving outside the dome.",
       "text": "ไม่หรอกค่ะ เพื่อตัวไมลอสแล้ว ฉันยินดีทำค่ะ และหากสภาพแวดล้อมที่นี่ส่งผลเสียต่อร่างกายของเขา ฉันก็คงต้องพิจารณาเรื่องการย้ายออกไปอยู่นอกโดมแทนแล้วล่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youtwowouldbemorethanwelcomeintuliyollal",
       "text_en": "You two would be more than welcome in Tuliyollal!",
       "text": "ทูลิโยลลัลยินดีต้อนรับพวกเธอสองคนอย่างยิ่งเลยล่ะ!"
     },
     {
-      "character": "Isadora",
+      "key": "itsveryassuringtohearthatifyoudontmindcouldyoutellmeabouttheprocess",
       "text_en": "It's very assuring to hear that. If you don't mind, could you tell me about the process?",
       "text": "ได้ยินแบบนั้นก็สบายใจขึ้นเยอะเลยค่ะ ถ้าไม่ว่าอะไร ช่วยแนะนำขั้นตอนการย้ายไปอยู่ให้ฉันฟังหน่อยได้ไหมคะ?"
     },
     {
-      "character": "Milos",
+      "key": "imhappyicantalkagain",
       "text_en": "I'm happy...I can talk again.",
       "text": "ผมดีใจจังเลยครับ... ที่สามารถพูดคุยได้อีกครั้ง"
     },
     {
-      "character": "Milos",
+      "key": "beforeicouldnteventhankmymotherforcaringforme",
       "text_en": "Before, I couldn't even thank my mother for caring for me...",
       "text": "ก่อนหน้านี้ ผมไม่มีโอกาสแม้แต่จะเอ่ยปากขอบคุณคุณแม่ที่คอยดูแลผมมาโดยตลอด..."
     },
     {
-      "character": "Milos",
+      "key": "butnowwecantalklotsicantellherthatimhappythatilikeitwhenshestrokesmyhair",
       "text_en": "But now we can talk lots... I can tell her that I'm happy... That I like it when she strokes my hair...",
       "text": "แต่ตอนนี้พวกเราสามารถคุยกันได้เยอะแยะเลยครับ... ผมจะได้บอกคุณแม่ว่าผมมีความสุขมากแค่ไหน... แล้วก็บอกว่าผมชอบเวลาที่คุณแม่ลูบหัวผมที่สุดเลยด้วยครับ..."
     },
     {
-      "character": "Alisaie",
+      "key": "yourmotherishappytotalktoyouaswellimsure",
       "text_en": "Your mother is happy to talk to you as well, I'm sure.",
       "text": "ฉันมั่นใจเลยจ้ะว่าคุณแม่ของนายก็ดีใจอย่างยิ่งที่จะได้พูดคุยกับนายเช่นกัน"
     },
     {
-      "character": "Milos",
+      "key": "queensphenealwayscheeredmeupalwayssaidthatshewouldcureme",
       "text_en": "Queen Sphene always cheered me up... Always said that she would cure me...",
       "text": "องค์ราชินีสฟีนคอยให้กำลังใจผมมาโดยตลอดเลยครับ... เธอบอกเสมอว่าเธอจะรักษาผมให้หายขาดให้ได้..."
     },
     {
-      "character": "Milos",
+      "key": "todayillpracticewalkingwithmotherandnexttimeillgoandvisityou",
       "text_en": "Today, I'll practice walking with Mother... And next time, I'll go and visit you...",
       "text": "วันนี้ผมจะลองหัดเดินร่วมกับคุณแม่ครับ... และโอกาสหน้า ผมจะเป็นฝ่ายไปหาพวกพี่ๆ เองนะครับ..."
     },
     {
-      "character": "Isadora",
+      "key": "thankyouforexplainingeverything",
       "text_en": "Thank you for explaining everything.",
       "text": "ขอบคุณมากนะคะสำหรับคำอธิบายและคำแนะนำทั้งหมด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellcomeagaintocheckonyousoifyouhaveanyotherquestionsjustletmeknow",
       "text_en": "We'll come again to check on you, so if you have any other questions, just let me know!",
       "text": "เดี๋ยวพวกฉันจะแวะกลับมาเยี่ยมและดูอาการอีกนะ เพราะฉะนั้นถ้ามีข้อสงสัยอะไรเพิ่มเติมก็ถามมาได้ตลอดเลยนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightletsgetgoingshallwe",
       "text_en": "Right, let's get going, shall we?",
       "text": "เอาละ งั้นพวกเราออกเดินทางกันต่อเถอะนะ?"
     },
     {
-      "character": "Milos",
+      "key": "pleasecomebacksoonyoutoomiss",
       "text_en": "Please come back soon... You too, miss...",
       "text": "รีบกลับมาหาอีกนะครับ... พี่ผู้หญิงคนนั้นด้วยนะครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itsgoodtoseemilosdoingsowell",
       "text_en": "It's good to see Milos doing so well.",
       "text": "ดีจังเลยนะที่เห็นไมลอสแข็งแรงดีขึ้นมากขนาดนี้"
     },
     {
-      "character": "Sphene",
+      "key": "theendlessmegavehimthestrengthtohangonandshedidntrelyonanyspecialpowertodoso",
       "text_en": "The Endless me gave him the strength to hang on, and she didn't rely on any special power to do so...",
       "text": "ตัวฉันในร่างเอ็นด์เลสคอยมอบพละกำลังใจให้เขาประคับประคองชีวิตต่อไปได้ โดยที่ไม่จำเป็นต้องพึ่งพาพลังวิเศษใดๆ เลยล่ะค่ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "fondlyagreeinghm",
       "text_en": "[FONDLY AGREEING “Hm”]",
       "text": "[ตอบรับอย่างอ่อนโยน “อื้ม”]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "shewantedherpeopletobehappyeventhoughwehadtofightherloveforthemwasveryrealanditreachedmilos",
       "text_en": "She wanted her people to be happy. Even though we had to fight, her love for them was very real, and it reached Milos.",
       "text": "เธอน่ะอยากให้ประชาชนมีความสุขกันทั้งนั้นแหละ ถึงแม้ว่าท้ายที่สุดพวกเราจะต้องห้ำหั่นต่อสู้กัน แต่ความรักที่เธอมีต่อทุกคนมันเป็นของจริงแน่นอน และมันก็ส่งไปถึงหัวใจของไมลอสแล้วล่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "iwishtobetheretowatchhimgrowaswelltomakemywaybesidethepeopleofalexandria",
       "text_en": "I wish to be there to watch him grow as well. To make my way beside the people of Alexandria.",
       "text": "ฉันเองก็อยากจะร่วมเป็นพยานคอยเฝ้ามองดูเขาเติบโตขึ้นด้วยเช่นกันค่ะ อยากจะก้าวเดินเคียงข้างไปพร้อมๆ กับประชาชนชาวอเล็กซานเดรีย..."
     },
     {
-      "character": "Sphene",
+      "key": "inthenameofhisevolutioncalyxhaswroughtmuchuneaseandmiseryandicannotcondonehispath",
       "text_en": "In the name of his evolution, Calyx has wrought much unease and misery, and I cannot condone his path.",
       "text": "ภายใต้คำกล่าวอ้างเรื่องวิวัฒนาการ คาลิกซ์ได้สร้างความปั่นป่วนใจและรังแต่จะนำพาความทุกข์ระทมมาให้ผู้คน ฉันไม่สามารถเห็นดีเห็นงามไปกับเส้นทางของเขาได้หรอกค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "noishallforgeaheadonapathofmyownonethathonorsthememoryofmyotherself",
       "text_en": "No, I shall forge ahead on a path of my own─one that honors the memory of my other self!",
       "text": "ไม่มีวันหรอกค่ะ ฉันจะบุกเบิกและก้าวเดินไปตามเส้นทางของตัวเอง—เส้นทางที่จะเชิดชูเกียรติยศและความทรงจำของตัวฉันอีกคนหนึ่งให้ถึงที่สุดค่ะ!"
     },
     {
-      "character": "Milos",
+      "key": "comecomevisitusagain",
       "text_en": "Come...come visit us again!",
       "text": "แวะ...แวะมาหาพวกเราอีกนะครับ!"
     },
     {
-      "character": "Isadora",
+      "key": "youllalwaysbewelcomeheremiloslovesvisitors",
       "text_en": "You'll always be welcome here. Milos loves visitors.",
       "text": "ยินดีต้อนรับพวกคุณเสมอเลยค่ะ ไมลอสชอบเวลาที่มีคนแวะมาหามากเลยล่ะค่ะ"
     },
     {
-      "character": "Alisaie",
+      "key": "asitreatedmiloswithangeloicouldnthelpbutthinkofgabuandhalriciwonderhowtheyvebeen",
       "text_en": "As I treated Milos with Angelo, I couldn't help but think of Ga Bu and Halric. I wonder how they've been.",
       "text": "ตอนที่รักษาไมลอสด้วยแองเจโล มันทำเอาฉันอดคิดถึงกา บู กับฮัลริก ขึ้นมาไม่ได้เลยล่ะค่ะ ป่านนี้พวกเขาจะเป็นอย่างไรบ้างนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iwishtheendlesssphenecouldhavebeenheretoseemilos",
       "text_en": "I wish the Endless Sphene could have been here to see Milos...",
       "text": "ฉันล่ะอยากให้สฟีนในร่างเอ็นด์เลสมาอยู่ที่นี่เพื่อเห็นภาพของไมลอสในตอนนี้จังเลยนะ..."
     }

@@ -1,491 +1,483 @@
 {
-  "id": "in-search-of-discovery",
-  "wiki_path": "/wiki/In_Search_of_Discovery",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/c/c9/In_Search_of_Discovery.png",
-  "patch": "7.0",
-  "title_en": "In Search of Discovery",
-  "title": "เสาะหาการค้นพบ",
-  "level": "100",
-  "location": "Living Memory(X:16.6,Y:20.1)",
-  "npc_start": "Cahciua",
+  "quest_id": "in-search-of-discovery",
   "dialogues": [
     {
-      "character": "Wuk Lamat",
+      "key": "whenitcomestoinquisitivenessireckonimamatchforbothyouanderenville",
       "text_en": "When it comes to inquisitiveness, I reckon I'm a match for both you and Erenville!",
       "text": "แต่ถ้าเรื่องของความอยากรู้อยากเห็นล่ะก็ ฉันว่าฉันสู้ได้ทั้งเธอและเอเรนวิลล์เลยล่ะ!"
     },
     {
-      "character": "G'raha Tia",
+      "key": "somecreaturesheredoindeedappeartoresemblethoseineorzeasuchwasthecaseinthefirsttoo",
       "text_en": "Some creatures here do indeed appear to resemble those in Eorzea. Such was the case in the First, too...",
       "text": "สัตว์บางประเภทที่นี่ดูเหมือนจะคล้ายกับสิ่งมีชีวิตในอีออร์เซียจริงๆ เลยนะครับ เหมือนกับในกรณีของโลกที่หนึ่งเลย..."
     },
     {
-      "character": "Krile",
+      "key": "gigglecahciualooksawfullyhappydoesntshe",
       "text_en": "<giggle> Cahciua looks awfully happy, doesn't she?",
       "text": "<หัวเราะคิก> คุณคาชิวาดูมีความสุขมากๆ เลยนะคะว่าไหม?"
     },
     {
-      "character": "Erenville",
+      "key": "icantrecallthelasttimemymotherwassoexcited",
       "text_en": "I can't recall the last time my mother was so excited...",
       "text": "ผมจำไม่ได้เลยครับว่าครั้งสุดท้ายที่คุณแม่ตื่นเต้นขนาดนี้คือตอนไหน..."
     },
     {
-      "character": "Cahciua",
+      "key": "tobeginwithidlikeyoutoscoutoutthevicinityandreportbackwithanypointsofnote",
       "text_en": "To begin with, I'd like you to scout out the vicinity and report back with any points of note.",
       "text": "งั้นมาเริ่มกันด้วยการให้พวกเธอช่วยไปสำรวจดูบริเวณรอบๆ นี้หน่อยจ้ะ แล้วมารายงานสิ่งน่าสนใจที่พบให้ฉันฟังหน่อยนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "thiswouldbeagoodopportunitytospeakwiththelocalstheyreboundtobefamiliarwiththeareaafterall",
       "text_en": "This would be a good opportunity to speak with the locals. They're bound to be familiar with the area, after all.",
       "text": "นี่น่าจะเป็นโอกาสที่ดีที่จะลองพูดคุยกับผู้คนในพื้นที่ดู เพราะยังไงพวกเขาก็น่าจะคุ้นเคยกับแถวนี้ดีที่สุดล่ะจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "aseleneshpyasuggesteditwouldbeinterestingtocomparethecreaturesherewiththosenativetothesource",
       "text_en": "As Elene'shpya suggested, it would be interesting to compare the creatures here with those native to the Source.",
       "text": "เหมือนอย่างที่เอเลเนสเพียเสนอแนะไว้ มันคงน่าสนใจไม่น้อยเลยล่ะที่จะลองเปรียบเทียบสิ่งมีชีวิตที่นี่กับพวกที่อาศัยอยู่บนโลกเดิม"
     },
     {
-      "character": "Cahciua",
+      "key": "ineverventuredoutsideofturalsoilookforwardtoyourinsights",
       "text_en": "I never ventured outside of Tural, so I look forward to your insights!",
       "text": "ตัวฉันเองก็ไม่เคยออกเดินทางไปนอกดินแดนทูรัลเลย เพราะงั้นตั้งตารอคอยข้อมูลจากพวกเธออยู่นะจ๊ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "justleaveittousiveonlyeverbeentosharlayanmyselfbutidliketothinkiknowinterestingwheniseeit",
       "text_en": "Just leave it to us! I've only ever been to Sharlayan myself, but I'd like to think I know interesting when I see it!",
       "text": "ปล่อยให้เป็นหน้าที่พวกเราได้เลย! ตัวฉันเองก็เคยไปเยือนแค่ชาร์ลายันเหมือนกัน แต่ฉันมั่นใจว่าตัวเองพอมองออกนะว่าอะไรน่าสนใจน่ะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "ofeveryoneidaresayyouvebeentothemostplacesicannotwaittohearyourthoughts",
       "text_en": "Of everyone, I daresay you've been to the most places. I cannot wait to hear your thoughts!",
       "text": "ในบรรดาทุกคนในกลุ่ม ฉันเดาว่าเธอน่าจะเป็นคนที่เดินทางไปเยือนสถานที่มามากที่สุดเลยล่ะมั้งจ๊ะ ตื่นเต้นที่จะได้รับฟังความคิดเห็นของเธอจริงๆ นะ!"
     },
     {
-      "character": "Specimen-observing Endless",
+      "key": "ohhellotherewhatamidoingyouask",
       "text_en": "Oh, hello there. What am I doing, you ask?",
       "text": "โอ้ สวัสดีครับ แวะมาถามว่าผมกำลังทำอะไรอยู่งั้นเหรอครับ?"
     },
     {
-      "character": "Specimen-observing Endless",
+      "key": "lookupthetrunkseetheplantswithincapsules",
       "text_en": "Look up the trunk. See the plants within capsules?",
       "text": "ลองมองขึ้นไปบนลำต้นดูสิครับ เห็นพวกพืชพรรณที่อยู่ในแคปซูลแก้วพวกนั้นไหมครับ?"
     },
     {
-      "character": "Specimen-observing Endless",
+      "key": "thesearespeciesthateithercantsurviveinwindspathgardensorwouldbecomeinvasiveanddisrupttheecosystem",
       "text_en": "These are species that either can't survive in Windspath Gardens, or would become invasive and disrupt the ecosystem.",
       "text": "นั่นเป็นสายพันธุ์ที่ไม่สามารถเอาชีวิตรอดในสภาพแวดล้อมปกติของวินด์สพาธการ์เดนส์ได้ หรือไม่ก็เป็นพวกพืชต่างถิ่นที่อาจแพร่ระบาดทำลายระบบนิเวศน์น่ะครับ"
     },
     {
-      "character": "Specimen-observing Endless",
+      "key": "thecapsulesrecreatetheconditionstheyrequirefromtropicaltofrigidclimeswhilekeepingthemisolated",
       "text_en": "The capsules recreate the conditions they require, from tropical to frigid climes, while keeping them isolated.",
       "text": "ตัวแคปซูลจำลองสภาพภูมิอากาศเฉพาะที่พืชพวกนั้นต้องการ ตั้งแต่สภาพเขตร้อนไปจนถึงอากาศหนาวจัด โดยแยกพวกมันออกเป็นเอกเทศครับ"
     },
     {
-      "character": "Specimen-observing Endless",
+      "key": "inthiswayanyandallplantlifecanbepreservedforeverjustlikeourselves",
       "text_en": "In this way, any and all plant life can be preserved forever. Just like ourselves.",
       "text": "ด้วยวิธีการนี้ พวกพืชพรรณสารพัดประเภทจะได้รับการเก็บรักษาไว้ตลอดกาล เปรียบเสมือนพวกเรานั่นแหละครับ"
     },
     {
-      "character": "Specimen-observing Endless",
+      "key": "ivebeenobservingtheplantsfordecadesnowtheyrelikechildrentome",
       "text_en": "I've been observing the plants for decades now. They're like children to me.",
       "text": "ผมผมคอยเฝ้าสังเกตพืชพวกนี้มาหลายทศวรรษแล้วล่ะครับ พวกมันเปรียบเสมือนลูกๆ ของผมเลยล่ะ"
     },
     {
-      "character": "Water-watching Endless",
+      "key": "didyouknowthateventhewaterhereiscreatedusingelectrope",
       "text_en": "Did you know that even the water here is created using electrope?",
       "text": "ทราบไหมครับว่าแม้แต่น้ำของที่นี่ ก็ถูกสร้างขึ้นมาโดยใช้แร่เอเลกโทรปเหมือนกันนะครับ?"
     },
     {
-      "character": "Water-watching Endless",
+      "key": "theinitialproductistoopurethoughandadjustmentshavetobemadesothecompositionresembleswhatsfoundinthenaturalenvironment",
       "text_en": "The initial product is too pure, though, and adjustments have to be made so the composition resembles what's found in the natural environment.",
       "text": "แต่น้ำที่ผลิตขึ้นมาในรอบแรกมันบริสุทธิ์จนเกินไปน่ะครับ เลยต้องมีขั้นตอนปรับแต่งเพิ่มเติมเพื่อให้มีสารอาหารและองค์ประกอบต่างๆ คล้ายกับน้ำในธรรมชาติจริงๆ"
     },
     {
-      "character": "Water-watching Endless",
+      "key": "thatsjustoneofthemanythingstheydotocreatetheidealconditionsfortheseplantstothrive",
       "text_en": "That's just one of the many things they do to create the ideal conditions for these plants to thrive.",
       "text": "นั่นเป็นเพียงส่วนหนึ่งในสารพัดกระบวนการเพื่อให้แน่ใจว่าพืชพรรณเหล่านี้จะมีสภาพแวดล้อมที่เหมาะสมที่สุดสำหรับการเติบโตครับ"
     },
     {
-      "character": "Water-watching Endless",
+      "key": "idontknowwhatsbecomeoftheworldoutsidethebarrierbutishouldliketovisitalovelyspotsuchasthisinreallife",
       "text_en": "I don't know what's become of the world outside the barrier, but I should like to visit a lovely spot such as this in real life.",
       "text": "ผมไม่รู้เลยล่ะครับว่าตอนนี้นอกบาเรียโลกภายนอกเป็นยังไงบ้างแล้ว แต่ใจจริงอยากลองไปเยือนสถานที่งดงามร่มรื่นแบบนี้ในชีวิตจริงดูจังเลยครับ"
     },
     {
-      "character": "Water-watching Endless",
+      "key": "speakingoflovelyspotshaveyoubeentothetopofthislookouthereitsagreatvantagepointandtheresevenafoodstallincaseyourehungry",
       "text_en": "Speaking of lovely spots, have you been to the top of this lookout here? It's a great vantage point, and there's even a food stall in case you're hungry.",
       "text": "ถ้าพูดถึงสถานที่สวยงาม แวะขึ้นไปด้านบนจุดชมวิวตรงนี้หรือยังครับ? ตรงนั้นเป็นจุดชมวิวที่ดีมาก แถมยังมีร้านขายของกินเล่นตั้งอยู่เผื่อว่าคุณจะหิวด้วยล่ะครับ"
     },
     {
-      "character": "Water-watching Endless",
+      "key": "theresrealfishherebythewaywereallowedtocatchsomebutidratherjustwatchthem",
       "text_en": "There's real fish here, by the way. We're allowed to catch some, but I'd rather just watch them.",
       "text": "อ้อ แล้วก็น้ำแถวนี้มีปลาจริงๆ อาศัยอยู่ด้วยนะครับ พวกเขาอนุญาตให้ตกปลาได้อยู่หรอก แต่ส่วนตัวผมชอบนั่งดูพวกมันว่ายไปมามากกว่าน่ะครับ"
     },
     {
-      "character": "Terminal-gazing Endless",
+      "key": "myancestorsarentactuallyalexandrianbuthailedfromaplacecalledcondepetie",
       "text_en": "My ancestors aren't actually Alexandrian, but hailed from a place called Conde Petie.",
       "text": "อันที่จริง บรรพบุรุษของผมไม่ได้มาจากอเล็กซานเดรียหรอกนะครับ แต่มาจากดินแดนที่ชื่อว่า คอนเดเปตี น่ะครับ"
     },
     {
-      "character": "Terminal-gazing Endless",
+      "key": "theyhadsomeuniquecustomsthereforinstancewhengreetingsomeoneyouhadtosaylalihoinaspiritedmanner",
       "text_en": "They had some unique customs there. For instance, when greeting someone, you had to say “lali-ho” in a spirited manner.",
       "text": "พวกเขามีขนบธรรมเนียมเฉพาะตัวที่เป็นเอกลักษณ์อยู่หลายอย่างเลยครับ ตัวอย่างเช่น เวลาทักทายใคร เราจะต้องพูดคำว่า \"ลาลิ-โฮ\" อย่างกระฉับกระเฉงและมีชีวิตชีวาครับ"
     },
     {
-      "character": "Terminal-gazing Endless",
+      "key": "oursettlementwasalsofamousforagigantictreethatgrewnearbyitwassoenormousthatwhenyoustoodatitsbasetherootscoveringthegroundwentbeyondthehorizon",
       "text_en": "Our settlement was also famous for a gigantic tree that grew nearby. It was so enormous that, when you stood at its base, the roots covering the ground went beyond the horizon.",
       "text": "หมู่บ้านของพวกเรายังมีชื่อเสียงโด่งดังเรื่องต้นไม้ยักษ์ที่ขึ้นอยู่ใกล้ๆ ด้วยครับ มันใหญ่โตมโหฬารมากจนกระทั่งเวลาที่คุณไปยืนอยู่ที่โคนต้น รากของมันที่ชอนไชไปตามพื้นดินยาวเหยียดออกไปจนสุดขอบฟ้าเลยล่ะครับ"
     },
     {
-      "character": "Terminal-gazing Endless",
+      "key": "theterminalhereatwindspathgardensisapparentlyinspiredbythatverytreetheiifatreeitsnamewas",
       "text_en": "The terminal here at Windspath Gardens is apparently inspired by that very tree—the Iifa Tree, its name was.",
       "text": "ดูเหมือนว่าตัวเทอร์มินัลที่วินด์สพาธการ์เดนส์นี้ จะได้รับแรงบันดาลใจมาจากต้นไม้ยักษ์ต้นนั้นนั่นแหละครับ─มันมีชื่อเรียกว่า ต้นไม้อีฟา"
     },
     {
-      "character": "Terminal-gazing Endless",
+      "key": "itmaynotberealbutitsnicetohaveitasamementoforposterity",
       "text_en": "It may not be real, but it's nice to have it as a memento for posterity.",
       "text": "ถึงแม้ตัวต้นไม้ที่นี่จะไม่ใช่ของจริง แต่มันก็ดีใจนะครับที่มีของแบบนี้ไว้เป็นอนุสรณ์ให้คนรุ่นหลังได้ดูชม"
     },
     {
-      "character": "Terminal-gazing Endless",
+      "key": "theactualiifatreewouldhavebeenbiggerthanthismuchmuchbigger",
       "text_en": "The actual Iifa Tree would have been bigger than this! Much, much bigger!",
       "text": "ต้นไม้อีฟาของจริงน่ะต้องใหญ่ยิ่งกว่านี้อีกเยอะเลยครับ! ใหญ่กว่านี้เยอะแยะเลยล่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "therewasabeastihadneverseenbefore",
       "text_en": "There was a beast I had never seen before.",
       "text": "เมื่อกี้มีสัตว์อสูรตัวหนึ่งที่ผมไม่เคยพบเห็นมาก่อนด้วยล่ะครับ"
     },
     {
-      "character": "Krile",
+      "key": "whilethearboretumsofsharlayanimitatenaturalenvironsthisplacehasthefeelofanexhibitinthatsensethewordgardensdoessuititwell",
       "text_en": "While the arboretums of Sharlayan imitate natural environs, this place has the feel of an exhibit. In that sense, the word “gardens” does suit it well.",
       "text": "ในขณะที่เรือนกระจกเพาะชำพืชพรรณของชาร์ลายันจะจำลองสิ่งแวดล้อมให้สมจริงตามธรรมชาติ แต่ที่แห่งนี้กลับให้ความรู้สึกเหมือนงานนิทรรศการจัดแสดงมากกว่าค่ะ ในแง่นั้น คำว่า \"สวน\" ก็ดูเหมาะสมคู่ควรกับสถานที่นี้ดีนะคะ"
     },
     {
-      "character": "Cahciua",
+      "key": "ahwelcomebackforenamekrilehasjustdeliveredtomeamostfascinatingreport",
       "text_en": "Ah, welcome back, Forename ! Krile has just delivered to me a most fascinating report.",
       "text": "อ๊ะ ยินดีต้อนรับกลับมาจ้ะ Forename ! พอดีไครล์เพิ่งจะรายงานสิ่งที่เธอน่าสนใจพบให้ฉันฟังเมื่อกี้นี้เองจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "youhavesomeengagingimpressionstosharetooihope",
       "text_en": "You have some engaging impressions to share too, I hope?",
       "text": "แล้วฝั่งเธอล่ะจ๊ะ มีเรื่องราวน่าสนใจมาแบ่งปันเล่าให้พวกเราฟังบ้างไหมเอ่ย?"
     },
     {
-      "character": "Cahciua",
+      "key": "wellwellthatisallveryinterestingindeedbutimustsayiammostfascinatedbytheambulatingtrees",
       "text_en": "Well, well, that is all very interesting indeed. But I must say, I am most fascinated by the ambulating trees.",
       "text": "แหมๆ เรื่องที่เล่ามานี่น่าสนใจมากเลยจริงๆ จ้ะ แต่พูดก็พูดเถอะ ฉันรู้สึกสนใจพวกต้นไม้ที่ขยับเดินได้มากที่สุดเลยล่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "whiletherearesimilarcreaturesinurqopachacouldyoutellmemoreaboutthesetreantsasyouknowthem",
       "text_en": "While there are similar creatures in Urqopacha, could you tell me more about these treants as you know them?",
       "text": "ถึงแม้ที่อูร์โกปาชาจะมีพวกสิ่งมีชีวิตที่คล้ายๆ กันแบบนี้อยู่บ้าง แต่ช่วยเล่าเรื่องราวของพวกทรีแอนท์ที่เธอรู้จักให้ฟังหน่อยได้ไหมจ๊ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "isthatsotomaintaintheecosystemhereiimaginetherearecreaturesthatserveastheirprey",
       "text_en": "Is that so? To maintain the ecosystem here, I imagine there are creatures that serve as their prey.",
       "text": "งั้นเหรอจ๊ะ? ในการรักษาระบบนิเวศน์ของที่นี่ ฉันคิดว่าคงต้องมีพวกสิ่งมีชีวิตตัวเล็กที่เป็นเหยื่ออาหารของพวกมันอยู่เหมือนกันนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "isthatsothoughitmakessensetheywouldadapttotheirenvironmentinthatfashioniimaginetheyneedcarefulmanagementtoflourishsuchashavingspecificvarietiesoftreesaroundthem",
       "text_en": "Is that so? Though it makes sense they would adapt to their environment in that fashion. I imagine they need careful management to flourish, such as having specific varieties of trees around them.",
       "text": "งั้นเหรอจ๊ะ? แต่คิดๆ ดูแล้ว การที่พวกมันปรับตัวให้เข้ากับสภาพแวดล้อมในรูปแบบนั้นก็สมเหตุสมผลดีนะ ฉันคิดว่าพวกมันคงต้องการการดูแลจัดการอย่างใส่ใจเพื่อที่จะเติบโตได้ดี อย่างเช่นการมีสายพันธุ์ต้นไม้เฉพาะเจาะจงอยู่รายล้อมน่ะจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "hahaisthatsotomaintainanecosystemwithsuchformidablecreaturesiimaginetheremustbeotherequallyimposingspeciestokeepthemincheck",
       "text_en": "Haha, is that so? To maintain an ecosystem with such formidable creatures, I imagine there must be other equally imposing species to keep them in check.",
       "text": "ฮ่าๆ งั้นเหรอจ๊ะ? การจะประคองรักษาระบบนิเวศน์ที่มีพวกสิ่งมีชีวิตที่น่ากลัวขนาดนี้อาศัยอยู่ ฉันคิดว่าน่าจะต้องมีสิ่งมีชีวิตสายพันธุ์อื่นที่แข็งแกร่งทรงพลังพอๆ กันคอยควบคุมคุมเชิงพวกมันเอาไว้นะ"
     },
     {
-      "character": "Krile",
+      "key": "themanagementofecosystemsthatcallstomindlabyrinthosdoesitnot",
       "text_en": "The management of ecosystems... That calls to mind Labyrinthos, does it not?",
       "text": "การควบคุมดูแลระบบนิเวศน์... ฟังดูชวนให้นึกถึงแลบิรินธอสขึ้นมาเลยนะคะ จริงไหมคะ?"
     },
     {
-      "character": "Erenville",
+      "key": "thatitdoes",
       "text_en": "That it does.",
       "text": "นั่นสินะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "lestyouwonderlabyrinthosisastoragefacilitydeepbeneathsharlayanthatcontainsarecreationofatemperateclimatezone",
       "text_en": "Lest you wonder, Labyrinthos is a storage facility deep beneath Sharlayan that contains a recreation of a temperate climate zone.",
       "text": "เผื่อว่าคุณแม่จะสงสัยนะครับ แลบิรินธอสเป็นสถานที่จัดเก็บสิ่งของที่อยู่ลึกลงไปดินของชาร์ลายัน ซึ่งมีการจำลองพื้นที่เขตภูมิอากาศอบอุ่นเอาไว้น่ะครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "suchaplaceexistsamazing",
       "text_en": "Such a place exists? Amazing!",
       "text": "มีสถานที่แบบนั้นอยู่จริงงั้นเหรอ? สุดยอดไปเลยจ้ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "bythebydidanyonealsocatchsightofalargescalekin",
       "text_en": "By the by, did anyone also catch sight of a large scalekin?",
       "text": "ว่าแต่ มีใครสังเกตเห็นสัตว์มีเกล็ดขนาดใหญ่บ้างไหมครับ?"
     },
     {
-      "character": "Cahciua",
+      "key": "alargescalekinyousaywhatdoesitlooklike",
       "text_en": "A large scalekin, you say? What does it look like?",
       "text": "สัตว์มีเกล็ดขนาดใหญ่เหรอจ๊ะ? หน้าตาเป็นยังไงล่ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "nothingiveseenbeforebutithasarodentlikeformandwalksonallfours",
       "text_en": "Nothing I've seen before, but it has a rodent-like form and walks on all fours.",
       "text": "ผมผมไม่เคยเห็นมันมาก่อนเลยครับ แต่โครงสร้างร่างกายคล้ายกับสัตว์ฟันแทะ และเดินสี่ขาครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "ifitlookslikearodentwouldntthatmakeitabeastkin",
       "text_en": "If it looks like a rodent, wouldn't that make it a beastkin?",
       "text": "ถ้าหน้าตาเหมือนสัตว์ฟันแทะ มันก็น่าจะเป็นพวกสัตว์ป่าไม่ใช่เหรอจ๊ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "noitscoveredinscalesonesthatappeartomimicsucculentplantsbythatiwoulddefinitelyclassifyitasascalekin",
       "text_en": "No. It's covered in scales—ones that appear to mimic succulent plants. By that, I would definitely classify it as a scalekin.",
       "text": "ไม่ครับ ตัวมันปกคลุมไปด้วยเกล็ด─เกล็ดที่ดูเหมือนจะลอกเลียนแบบพืชอวบน้ำน่ะครับ จากลักษณะนั้น ผมจัดให้มันอยู่ในกลุ่มสัตว์มีเกล็ดแน่นอนครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "wellitshardtosayforcertainwithoutseeingitwhydontyoushowme",
       "text_en": "Well, it's hard to say for certain without seeing it. Why don't you show me?",
       "text": "ทำไมไม่พาแม่ไปดูล่ะจ๊ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "verywellitwasinaflowerfieldearlierandshouldstillbenear",
       "text_en": "Very well. It was in a flower field earlier, and should still be near.",
       "text": "ได้ครับ เมื่อกี้มันอยู่แถวๆ ทุ่งดอกไม้นี่เอง น่าจะยังอยู่แถวนี้ครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "letsheadovertherethenwhenwefinditwellseewhosright",
       "text_en": "Let's head over there, then. When we find it, we'll see who's right!",
       "text": "งั้นเราไปที่นั่นกันเลย พอเจอแล้วจะได้รู้กันว่าใครถูก!"
     },
     {
-      "character": "Cahciua",
+      "key": "thetwoofyoushouldcomealongtooandlendusyouropinions",
       "text_en": "The two of you should come along too and lend us your opinions!",
       "text": "ทั้งสองคนก็มาด้วยกันสิ จะได้ช่วยแสดงความคิดเห็นหน่อย!"
     },
     {
-      "character": "Krile",
+      "key": "goonaheadforenameilllettheothersknowandthenjoinyou",
       "text_en": "Go on ahead, Forename . I'll let the others know and then join you.",
       "text": "ล่วงหน้าไปก่อนเลยนะ Forename เดี๋ยวฉันจะไปบอกคนอื่นๆ แล้วตามไปสมทบค่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "thisistheareathebeastdidntgivetheimpressionthatitmovesfrequently",
       "text_en": "This is the area. The beast didn't give the impression that it moves frequently.",
       "text": "แถวนี้แหละครับ ดูเหมือนเจ้าสัตว์ตัวนี้จะไม่ค่อยขยับไปไหนบ่อยๆ นะครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "hehethisissoexcitingcomeonandhelpusfindthecreature",
       "text_en": "Hehe, this is so exciting! Come on and help us find the creature!",
       "text": "เฮะๆ น่าตื่นเต้นจังเลย! มาช่วยกันตามหาเจ้าตัวนั้นเร็วเข้า!"
     },
     {
-      "character": "Erenville",
+      "key": "thatstheonethere",
       "text_en": "That's the one there.",
       "text": "ตัวนั้นแหละครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "iseeiseeataglanceitcertainlyhasthelookofbothscalekinandbeastkin",
       "text_en": "I see, I see... At a glance, it certainly has the look of both scalekin and beastkin.",
       "text": "อ๋อ เห็นแล้วๆ... มองแวบแรกก็มีลักษณะของทั้งสัตว์มีเกล็ดและสัตว์ป่าจริงๆ ด้วยแฮะ"
     },
     {
-      "character": "Cahciua",
+      "key": "letsexamineitmorecloselyshallwetellmeyourobservations",
       "text_en": "Let's examine it more closely, shall we? Tell me your observations.",
       "text": "ลองมาตรวจดูใกล้ๆ กันหน่อยดีไหม? บอกสิ่งที่ลูกสังเกตเห็นมาหน่อยสิจ๊ะ"
     },
     {
-      "character": "Erenville",
+      "key": "thatwasalsothefirstthinginoticedidaresaythosescalesareforhidinginfoliage",
       "text_en": "That was also the first thing I noticed. I daresay those scales are for hiding in foliage.",
       "text": "นั่นก็เป็นจุดแรกที่ผมสังเกตเห็นเหมือนกันครับ ผมเดาว่าเกล็ดพวกนั้นมีไว้สำหรับพรางตัวในพุ่มไม้นะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "indeedsuchforelimbswouldbewellsuitedtoholdingnutsandberriesandthelike",
       "text_en": "Indeed. Such forelimbs would be well suited to holding nuts and berries and the like.",
       "text": "ใช่ครับ ขาหน้าแบบนั้นเหมาะมากสำหรับใช้หยิบจับลูกนัทหรือพวกเบอร์รี่ครับ"
     },
     {
-      "character": "Erenville",
+      "key": "indeedsuchasnoutwouldbewellsuitedtofeedingongrounddwellingvilekin",
       "text_en": "Indeed. Such a snout would be well suited to feeding on ground-dwelling vilekin.",
       "text": "ใช่ครับ จมูกแบบนั้นเหมาะมากสำหรับการกินพวกแมลงที่อยู่ตามพื้นดินครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "havingstudieditibelievethatthescalesuponitsbackareinfactauniqueformofhideratherthanbeingsheditgrowswiththecreature",
       "text_en": "Having studied it, I believe that the “scales” upon its back are in fact a unique form of hide. Rather than being shed, it grows with the creature.",
       "text": "หลังจากศึกษาดูแล้ว ฉันคิดว่า \"เกล็ด\" บนหลังของมัน แท้จริงแล้วคือผิวหนังรูปแบบพิเศษจ้ะ แทนที่จะหลุดลอก แต่มันกลับเติบโตไปพร้อมกับตัวสัตว์น่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "hmmmyoumayberightifweconsiderthatalongwithitsothercharacteristicssuchasitsfaceandhandsitsmorelikelytobeabeastkinlikeyousaid",
       "text_en": "Hmmm, you may be right... If we consider that along with its other characteristics, such as its face and hands, it's more likely to be a beastkin like you said.",
       "text": "หืม... อาจจะจริงอย่างที่คุณแม่ว่าก็ได้ครับ... ถ้าลองพิจารณาร่วมกับลักษณะอื่นๆ อย่างใบหน้าและมือแล้ว มันน่าจะเป็นสัตว์ป่าอย่างที่คุณแม่บอกมากกว่าครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "aphysicalexaminationwouldbeneededtoconfirmthisbeyonddoubtbutimsatisfiedsimplytohaveseenit",
       "text_en": "A physical examination would be needed to confirm this beyond doubt, but I'm satisfied simply to have seen it!",
       "text": "คงต้องตรวจสภาพร่างกายของมันให้ละเอียดกว่านี้ถึงจะยืนยันได้ร้อยเปอร์เซ็นต์ล่ะนะ แต่แค่ได้มาเห็นแบบนี้ฉันก็พอใจแล้วล่ะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "itseemsyoualonewerefamiliarwiththisspecieswheredidyouencounterit",
       "text_en": "It seems you alone were familiar with this species. Where did you encounter it?",
       "text": "ดูเหมือนจะมีแค่เธอคนเดียวสินะที่คุ้นเคยกับสัตว์สายพันธุ์นี้ เธอเคยไปเจอมันที่ไหนเหรอ?"
     },
     {
-      "character": "Cahciua",
+      "key": "thefaeriekingdomofthefirst",
       "text_en": "The faerie kingdom of the First!?",
       "text": "อาณาจักรภูตแห่งโลกที่หนึ่งงั้นเหรอ!?"
     },
     {
-      "character": "Erenville",
+      "key": "forenamehasbeentotheveryedgeofexistenceheshehasseenlifethatotherscouldonlyimagine",
       "text_en": "Forename has been to the very edge of existence. He / She has seen life that others could only imagine.",
       "text": "Forename เดินทางไปมาจนถึงสุดขอบของโลกแล้วล่ะครับ เขาได้เห็นสิ่งมีชีวิตที่คนอื่นทำได้แค่จินตนาการเท่านั้นครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "amazingcreationtrulyholdsnoendofmysteries",
       "text_en": "Amazing... Creation truly holds no end of mysteries!",
       "text": "สุดยอดไปเลย... สรรพสิ่งในธรรมชาติช่างเต็มไปด้วยปริศนาที่ไม่มีวันสิ้นสุดจริงๆ!"
     },
     {
-      "character": "Cahciua",
+      "key": "ohhowidlovetoseethemallthelifebeyondtheboundsofourstarandplaneboth",
       "text_en": "Oh, how I'd love to see them all—the life beyond the bounds of our star and plane both!",
       "text": "โอ๊ย อยากจะเห็นให้ครบทุกสิ่งจังเลย─ทั้งสิ่งมีชีวิตนอกดวงดาวของเราและต่างมิติด้วยน่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "lookslikewerehavingfun",
       "text_en": "Looks like we're having fun.",
       "text": "ดูท่าทางกำลังสนุกสนานกันใหญ่เลยนะ"
     },
     {
-      "character": "Cahciua",
+      "key": "ahhhearingabouttheunknownneverfailstorousemeifeltthesamewaywhenketenrammandgaluftreatedmetotalesoftheirtravels",
       "text_en": "Ahh, hearing about the unknown never fails to rouse me. I felt the same way when Ketenramm and Galuf treated me to tales of their travels.",
       "text": "อา... เวลาได้ยินเรื่องราวของโลกกว้างที่เราไม่เคยรู้ มันทำให้ฉันกระชุ่มกระชวยใจเสมอเลยล่ะจ้ะ ตอนที่เคเทนแรมกับกาลูฟเล่าเรื่องราวการเดินทางของพวกเขาก็ให้ความรู้สึกแบบเดียวกันเลย"
     },
     {
-      "character": "Krile",
+      "key": "youvemetmygrandfathertoo",
       "text_en": "You've met my grandfather too!?",
       "text": "คุณคาชิวาเคยพบกับคุณปู่ของฉันด้วยเหรอคะ!?"
     },
     {
-      "character": "Cahciua",
+      "key": "ohdidntialreadymentionit",
       "text_en": "Oh? Didn't I already mention it?",
       "text": "เอ๊ะ? ฉันยังไม่ได้พูดถึงเรื่องนี้งั้นเหรอจ๊ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "itwaswhengalufcametoturaltoinvestigatethegoldencityihappenedtohavebusinesswithgulooljajasowemetintuliyollal",
       "text_en": "It was when Galuf came to Tural to investigate the golden city. I happened to have business with Gulool Ja Ja, so we met in Tuliyollal.",
       "text": "ก็นะ ตอนที่กาลูฟเดินทางมาเยือนทูรัลเพื่อสืบหาข้อมูลเกี่ยวกับนครแห่งทองคำน่ะจ้ะ พอดีตอนนั้นฉันมีธุระต้องไปคุยกับกูลูล จา จา พอดี พวกเราก็เลยบังเอิญได้พบเจอกันในทูลิโยลลัลจ้ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "littledidiknowthatthetinybabehewascradlingwouldreturnasyou",
       "text_en": "Little did I know that the tiny babe he was cradling would return as you.",
       "text": "ตอนนั้นฉันไม่รู้เลยจริงๆ จ้ะว่า เด็กทารกตัวน้อยที่เขาคอยอุ้มทะนุถนอมประคับประคองอยู่ จะเติบโตกลับมาหาพวกเราในฐานะเธอแบบนี้"
     },
     {
-      "character": "Krile",
+      "key": "tothinkthatourpathshadalreadycrossedalltheseyearsago",
       "text_en": "To think that our paths had already crossed all these years ago...",
       "text": "ไม่น่าเชื่อเลยนะคะว่าเส้นทางชีวิตของพวกเราเคยพาดผ่านและพบเจอกันมาตั้งแต่หลายสิบปีก่อนแล้ว..."
     },
     {
-      "character": "Cahciua",
+      "key": "notonlyyoursandmineeithereleneshpyawastheretooyouknow",
       "text_en": "Not only yours and mine either. Elene'shpya was there too, you know?",
       "text": "ไม่ใช่แค่เส้นทางของเธอของกับฉันเท่านั้นหรอกนะ เอเลเนสเพียเองก็อยู่ในเหตุการณ์วันนั้นด้วยล่ะ ทราบไหมจ๊ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "idontremember",
       "text_en": "...I don't remember.",
       "text": "...ผมจำไม่ได้แล้วครับ"
     },
     {
-      "character": "Krile",
+      "key": "itsquitefineifyoudont",
       "text_en": "It's quite fine if you don't!",
       "text": "จำไม่ได้ก็ไม่แปลกหรอกค่ะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "itwasactuallybecausegaluftoldmeaboutsharlayanthatilaterurgedeleneshpyatotakeupgleaning",
       "text_en": "It was actually because Galuf told me about Sharlayan that I later urged Elene'shpya to take up gleaning.",
       "text": "ความจริงก็เป็นเพราะกาลูฟเล่าเรื่องราวเกี่ยวกับชาร์ลายันให้ฉันฟังนี่แหละจ้ะ ภายหลังฉันเลยคอยแนะนำกระตุ้นให้เอเลเนสเพียลองไปทำอาชีพกลีนเนอร์น่ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "myfussybunbunwasgrowingupdourandwithdrawnanditwaswheniwasatmywitsendthatirecalledyourgrandfathersstoryaboutgleanersseeingtheworldthroughtheiradventureswouldinspireachangeforthebetteribelieved",
       "text_en": "My fussy bunbun was growing up dour and withdrawn, and it was when I was at my wit's end that I recalled your grandfather's story about gleaners. Seeing the world through their adventures would inspire a change for the better, I believed.",
       "text": "เจ้ากระต่ายน้อยแสนขี้บ่นของฉันโตขึ้นมาแบบเงียบขรึมและชอบเก็บตัวน่ะจ้ะ ตอนที่ฉันกำลังหมดหนทางคิดหาทางแก้ไม่ตก จู่ๆ ก็นึกถึงเรื่องเล่าของปู่เธอเกี่ยวกับกลีนเนอร์ขึ้นมาได้ ฉันเลยเชื่อมั่นว่า การได้ออกไปเห็นโลกกว้างและผจญภัยในฐานะกลีนเนอร์ จะช่วยสร้างแรงบันดาลใจให้เขาเปลี่ยนแปลงตัวเองไปในทางที่ดีขึ้นได้จ้ะ"
     },
     {
-      "character": "Erenville",
+      "key": "imsorryiwasdourandwithdrawn",
       "text_en": "...I'm sorry I was dour and withdrawn.",
       "text": "...ผมขอโทษด้วยครับที่คุณแม่มองว่าผมเป็นคนขรึมและเก็บตัว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifyouaskmeyoustillhavesomeworktodobutitsbecauseyourethatwaythatyourewithusnowandiforoneamgrateful",
       "text_en": "If you ask me, you still have some work to do. But it's because you're that way that you're with us now, and I for one am grateful!",
       "text": "ถ้าให้พูดตรงๆ ตอนนี้ก็น่าจะยังมีจุดที่ต้องแก้ไขอยู่นิดหน่อยล่ะนะ แต่นั่นแหละคือสิ่งที่ทำให้นายได้มาเดินทางร่วมกับพวกเราในตอนนี้ และสำหรับตัวฉันเองแล้ว ฉันรู้สึกขอบคุณในเรื่องนั้นนะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "wellletskeepmovingshallwe",
       "text_en": "Well, let's keep moving, shall we?",
       "text": "เอาล่ะ งั้นพวกเราเดินทางต่อไปกันเลยดีไหมจ๊ะ?"
     },
     {
-      "character": "Cahciua",
+      "key": "thereisafacilityivebeenwantingtovisitthecleyramuseumofnaturetheyresupposedtohavecreaturesthattakeyouonleisureflights",
       "text_en": "There is a facility I've been wanting to visit—the Cleyra Museum of Nature. They're supposed to have creatures that take you on leisure flights!",
       "text": "มีสถานที่แห่งหนึ่งที่ฉันอยากแวะไปเยี่ยมชมมากๆ เลยจ้ะ นั่นคือ พิพิธภัณฑ์ธรรมชาติวิทยาเคลย์รา แว่วมาว่าที่นั่นมีสิ่งมีชีวิตที่จะพาเราบินชมบรรยากาศได้ด้วยนะ!"
     },
     {
-      "character": "Cahciua",
+      "key": "theresjustoneproblemitseemsonlythreepeoplecanflyatonetime",
       "text_en": "There's just one problem: it seems only three people can fly at one time...",
       "text": "ติดอยู่แค่ปัญหาเดียวแฮะ: ดูเหมือนว่าเขาจะอนุญาตให้ขึ้นบินได้แค่ครั้งละสามคนเท่านั้นน่ะจ้ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenyouanderenvilleshouldgotherestofusstillhaveplentyofotherthingswecandohere",
       "text_en": "Then you and Erenville should go. The rest of us still have plenty of other things we can do here.",
       "text": "งั้นเธอกับเอเรนวิลล์ก็ไปกันเถอะ พวกเราที่เหลือยังมีอย่างอื่นให้ทำแถวนี้อีกเยอะแยะเลยล่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "iftheresroomforonemorewhydontyoucomewithusforename",
       "text_en": "If there's room for one more, why don't you come with us, Forename ?",
       "text": "ในเมื่อยังมีที่ว่างเหลืออยู่อีกที่หนึ่ง ทำไมไม่มาร่วมเดินทางไปกับพวกเราล่ะครับ Forename ?"
     },
     {
-      "character": "Cahciua",
+      "key": "thenitssettledthemuseumisatthebottomoftherampthatrunswestofleynodeaerocomeon",
       "text_en": "Then it's settled. The museum is at the bottom of the ramp that runs west of leynode aero. Come on!",
       "text": "ตกลงตามนี้จ้ะ! ตัวพิพิธภัณฑ์ตั้งอยู่ด้านล่างเนินทางทิศตะวันตกของเลย์โหนดแอร์โร่ นี่เอง ตามมาเลยจ้ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "itdoeslookthepartthismuseumimustsayimcuriouswhatsinside",
       "text_en": "It does look the part, this museum. I must say I'm curious what's inside.",
       "text": "ตัวอาคารพิพิธภัณฑ์ดูสมบูรณ์ดีนะครับ ยอมรับเลยครับว่าอยากรู้เหมือนกันว่าข้างในจะเป็นยังไง"
     },
     {
-      "character": "Museum Curator",
+      "key": "hellotherecometoridethemehwapyarrashaveyou",
       "text_en": "Hello there! Come to ride the mehwapyarras, have you?",
       "text": "สวัสดีครับ! แวะมาเพื่อจะขี่เจ้าเมฮวาเพียรากันสินะครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "lookaftererenvilleforme",
       "text_en": "Look after Erenville for me!",
       "text": "ฝากดูแลเอเรนวิลล์แทนฉันด้วยนะ!"
     },
     {
-      "character": "Krile",
+      "key": "allthistimemygrandfatherwasthecommonthreadbetweenus",
       "text_en": "All this time, my grandfather was the common thread between us...",
       "text": "ตลอดเวลาที่ผ่านมา คุณปู่ของฉันคอยทำหน้าที่เป็นเสมือนเส้นใยเชื่อมโยงสายสัมพันธ์พวกเราเอาไว้สินะคะ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "donotmindusandjustenjoyyourselvesweshallexplorealittlemoreandthenmakeourwaytotheterminal",
       "text_en": "Do not mind us and just enjoy yourselves. We shall explore a little more and then make our way to the terminal.",
       "text": "ไม่ต้องเป็นห่วงพวกเราหรอกครับ ไปเที่ยวเล่นสนุกให้เต็มที่เถอะ เดี๋ยวพวกเราจะขอเดินสำรวจเพิ่มอีกสักหน่อยแล้วค่อยเดินทางไปรอที่เทอร์มินัลครับ"
     },
     {
-      "character": "Cahciua",
+      "key": "hereitisthecleyramuseumofnaturethemainbuildingisclosedduetotheaethershortagebuthappilytheyrestillofferingleisureflights",
       "text_en": "Here it is, the Cleyra Museum of Nature. The main building is closed due to the aether shortage, but happily they're still offering leisure flights.",
       "text": "ถึงแล้วจ้ะ พิพิธภัณฑ์ธรรมชาติวิทยาเคลย์รา ตัวอาคารหลักปิดให้บริการชั่วคราวเนื่องจากสภาวะขาดแคลนอีเธอร์ แต่โชคดีที่พวกเขายังเปิดให้บริการขึ้นบินขี่พาหนะชมวิวอยู่นะจ๊ะ"
     },
     {
-      "character": "Cahciua",
+      "key": "andthesearethefellowsthatwillbearushowadorable",
       "text_en": "And these are the fellows that will bear us. How adorable!",
       "text": "และเจ้านี่แหละที่จะมาทำหน้าที่เป็นพาหนะพาพวกเราบินชมวิว น่ารักน่าเอ็นดูเชียว!"
     },
     {
-      "character": "Erenville",
+      "key": "theydontlookcapableofflight",
       "text_en": "They don't look capable of flight...",
       "text": "ดูจากโครงสร้างร่างกายมันไม่น่าจะบินได้เลยนะครับ..."
     },
     {
-      "character": "Cahciua",
+      "key": "ahahacomenowyouknowbetterthantojudgeacreaturebyitsappearancethiswillbegreatijustknowit",
       "text_en": "Ahaha! Come now, you know better than to judge a creature by its appearance. This will be great, I just know it!",
       "text": "ฮ่าๆๆ โธ่ อย่าด่วนตัดสินสิ่งมีชีวิตเพียงจากหน้าตาภายนอกสิจ๊ะ มันต้องออกมาสุดยอดแน่ๆ แม่มั่นใจเลยล่ะ!"
     }

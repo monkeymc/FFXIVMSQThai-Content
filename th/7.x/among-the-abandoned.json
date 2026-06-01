@@ -1,351 +1,343 @@
 {
-  "id": "among-the-abandoned",
-  "wiki_path": "/wiki/Among_the_Abandoned",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.1",
-  "title_en": "Among the Abandoned",
-  "title": "ท่ามกลางหมู่บ้านร้าง",
-  "level": "100",
-  "location": "Yuweyawata (Zone)(X:11.8,Y:12.9)",
-  "npc_start": "Krile",
+  "quest_id": "among-the-abandoned",
   "dialogues": [
     {
-      "character": "Gulool Ja",
+      "key": "isitalrightifigoaroundbymyselfnow",
       "text_en": "Is it alright if I go around by myself now?",
       "text": "ตอนนี้ผมขอเดินดูรอบๆ คนเดียวได้ไหมครับ?"
     },
     {
-      "character": "Alisaie",
+      "key": "nowthatthedangerisbehindusitsstartedsinkinginjusthowunsettlingthisplaceishardtobelieveitusedtobeavillage",
       "text_en": "Now that the danger is behind us, it's started sinking in just how unsettling this place is. Hard to believe it used to be a village.",
       "text": "พอภัยอันตรายผ่านพ้นไปแล้ว ฉันถึงเริ่มรู้สึกว่าที่นี่มันน่าขนลุกชอบกล แทบไม่อยากเชื่อเลยว่าเมื่อก่อนเคยเป็นหมู่บ้านมาก่อน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "teeshaljayousaidhernamewasiwonderwhatherstoryis",
       "text_en": "Teeshal Ja, you said her name was? I wonder what her story is...",
       "text": "ทีชาล จา สินะ ที่นายบอกว่าหล่อนชื่อนี้? อยากรู้จริงว่าหล่อนมีเรื่องราวความเป็นมายังไง..."
     },
     {
-      "character": "Alphinaud",
+      "key": "thevillagerswerelikelymonitoringtheimprisonedturalvidraalatzoraaljasbehestandatsomepointtheybecameinvolvedintheresearchofsouls",
       "text_en": "The villagers were likely monitoring the imprisoned tural vidraal at Zoraal Ja's behest. And at some point, they became involved in the research of souls...",
       "text": "พวกชาวบ้านน่าจะคอยเฝ้าระวังทูรัลวิดราลที่ถูกกักขังไว้ตามคำบัญชาของโซราล จา ครับ และเมื่อถึงจุดหนึ่ง พวกเขาก็เข้ามามีส่วนร่วมในการวิจัยเรื่องดวงวิญญาณ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "itseemsthiskanilokkawasinchargeherefromyourrecountinghewasquitededicatedtozoraalja",
       "text_en": "It seems this Kanilokka was in charge here. From your recounting, he was quite dedicated to Zoraal Ja.",
       "text": "ดูเหมือนว่าคานิล็อกกาคนนี้จะเป็นผู้ดูแลที่นี่นะครับ จากที่คุณเล่ามา เขาดูจะภักดีต่อโซราล จามิใช่น้อยเลย"
     },
     {
-      "character": "Kiluwsa",
+      "key": "illlaunchthehovercargowheneveryourereadyjustsaytheword",
       "text_en": "I'll launch the hover cargo whenever you're ready. Just say the word.",
       "text": "ถ้าพร้อมเมื่อไหร่ผมจะออกเดินทางโฮเวอร์คาร์โกทันทีครับ แค่บอกคำเดียวมาได้เลย"
     },
     {
-      "character": "Krile",
+      "key": "whilewevediscernedthepurposeoftheresearchconductedherethetracesofitthatremainmightaffordusgreaterinsightintowhatcameofit",
       "text_en": "While we've discerned the purpose of the research conducted here, the traces of it that remain might afford us greater insight into what came of it.",
       "text": "ถึงพวกเราจะพอเดาจุดประสงค์ของการวิจัยที่นี่ออกแล้ว แต่ร่องรอยที่ยังหลงเหลืออยู่อาจช่วยให้เราเข้าใจผลลัพธ์ของมันได้ลึกซึ้งยิ่งขึ้นค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "letustakealookaroundforinformationaswellasawaytotheupperlevel",
       "text_en": "Let us take a look around─for information as well as a way to the upper level.",
       "text": "พวกเราลองสำรวจรอบๆ กันเถอะค่ะ เผื่อจะได้เบาะแสและหาทางขึ้นไปยังชั้นบนด้วย"
     },
     {
-      "character": "Gulool Ja",
+      "key": "whathappenedtothepeopleheredidtheyallleaveordidwealreadymeetthem",
       "text_en": "What happened to the people here? Did they all leave...or did we already meet them?",
       "text": "เกิดอะไรขึ้นกับคนที่นี่เหรอครับ? พวกเขาพากันย้ายออกไปหมด... หรือว่าพวกเราเคยพบพวกเขาไปแล้วกันแน่ครับ?"
     },
     {
-      "character": "Alphinaud",
+      "key": "tothinkthatpeopleactuallyvolunteeredtheirsoulsfortheseexperiments",
       "text_en": "To think that people actually volunteered their souls for these experiments...",
       "text": "ไม่คิดเลยว่าจะมีคนที่ยอมอุทิศดวงวิญญาณของตัวเองเพื่อการทดลองเหล่านี้จริงๆ..."
     },
     {
-      "character": "Alphinaud",
+      "key": "successwasfarfromguaranteedandeveninthebestcasetheywouldceasetobemenwastheirdevotiontozoraaljasoabsolute",
       "text_en": "Success was far from guaranteed, and even in the best case, they would cease to be men. Was their devotion to Zoraal Ja so absolute?",
       "text": "โอกาสสำเร็จมีอยู่น้อยนิดเหลือเกิน และต่อให้สำเร็จด้วยดี พวกเขาก็จะไม่มีวันกลับมาเป็นมนุษย์ได้อีก ความภักดีที่พวกเขามีต่อโซราล จา มันล้นพ้นขนาดนั้นเลยหรือครับ?"
     },
     {
-      "character": "Alisaie",
+      "key": "itwontopenandidontthinkitllyieldtoourshoulderseitherwellhavetodoittheoldfashionedwayandfindthekey",
       "text_en": "It won't open, and I don't think it'll yield to our shoulders either. We'll have to do it the old-fashioned way and find the key.",
       "text": "ประตูไม่ยอมเปิดเลย แล้วฉันก็คิดว่าใช้กำลังพังเข้าไปไม่ไหวแน่ คงต้องใช้วิธีดั้งเดิมอย่างการเดินหากุญแจแล้วละ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "iwonderwhatbeqluggwouldmakeofthisresearchintotransferringsouls",
       "text_en": "I wonder what Beq Lugg would make of this research into transferring souls.",
       "text": "อยากรู้จังเลยนะครับว่าคุณเบ็ค ลุกก์ จะคิดยังไงกับงานวิจัยเรื่องการถ่ายโอนดวงวิญญาณแบบนี้"
     },
     {
-      "character": "Krile",
+      "key": "theresearcherslikelymovedbetweentheupperandlowerlevelsperhapswecanfindakeyamongtheirbelongings",
       "text_en": "The researchers likely moved between the upper and lower levels. Perhaps we can find a key among their belongings.",
       "text": "พวกนักวิจัยน่าจะเดินทางไปมาระหว่างชั้นบนกับชั้นล่าง บางทีเราอาจจะพบกุญแจในข้าวของเครื่องใช้ของพวกเขาบ้างก็ได้นะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itmakesmeangrytothinkaboutwhattheydidhere",
       "text_en": "It makes me angry to think about what they did here...",
       "text": "พอนึกถึงสิ่งที่พวกนั้นทำลงไปที่นี่แล้ว มันชวนให้โมโหชะมัดเลย..."
     },
     {
-      "character": "Test Subject's Journal",
+      "key": "theyrerecruitingvolunteersforanewexperimentiknowimnotasbrightastheothersbuttheywouldntlaughatmeifiwasstrongerthanthemthismightbemychance",
       "text_en": "They're recruiting volunteers for a new experiment. I know I'm not as bright as the others, but they wouldn't laugh at me if I was stronger than them. This might be my chance.",
       "text": "พวกนั้นกำลังหาสมัครใจมาทดลองเรื่องใหม่ ฉันรู้ตัวดีว่าไม่ได้หัวดีเหมือนคนอื่น แต่ถ้าฉันแข็งแกร่งกว่าพวกนั้น พวกนั้นก็คงไม่หัวเราะเยาะฉันอีกต่อไป นี่แหละโอกาสของฉันแล้ว"
     },
     {
-      "character": "Test Subject's Journal",
+      "key": "soultransferredfewdaysagoicanwritecanwritegoodyesiamgoodverygood",
       "text_en": "Soul transferred few days ago. I can write. Can write good, yes? I am good! Very good!",
       "text": "ย้ายดวงวิญญาณมาแล้วเมื่อไม่กี่วันก่อน ฉันเขียนได้ เขียนได้ดีใช่ไหม? ฉันดีเลิศ! ดีเลิศที่สุดเลย!"
     },
     {
-      "character": "Test Subject's Journal",
+      "key": "gettinghardtocontrolstrengthtodaybitoffhandoffeedercannothelpitsostrong",
       "text_en": "Getting hard to control strength. Today bit off hand of feeder. Cannot help it so strong.",
       "text": "เริ่มคุมพลังตัวเองยากแล้ว วันนี้เผลอกัดมือคนป้อนอาหารขาดเลย ช่วยไม่ได้ ก็พลังมันแข็งแกร่งขนาดนี้นี่นา"
     },
     {
-      "character": "Test Subject's Journal",
+      "key": "hungryalwayshungrycannotcontroleatimusteatameatermusteat",
       "text_en": "Hungry. Always hungry. Cannot control. Eat. I must eat am eater must eat...",
       "text": "หิว หิวตลอดเวลาเลย คุมไม่อยู่แล้ว กิน ต้องกิน ฉันเป็นผู้กิน ต้องกิน..."
     },
     {
-      "character": "Researcher's Journal",
+      "key": "iwastransferredtoyuweyawatastationinordertotrainthevillagersintheuseofelectropetechnology",
       "text_en": "I was transferred to Yuweyawata station in order to train the villagers in the use of electrope technology.",
       "text": "ข้าพเจ้าถูกย้ายมายังสถานียูเวยาวาตาเพื่อฝึกสอนชาวบ้านในการใช้งานเทคโนโลยีอิเล็กโทรป"
     },
     {
-      "character": "Researcher's Journal",
+      "key": "whileachildcanquicklylearntooperatecommoncontraptionsitwillbenoeasythingforthemtoattaintherequisiteskilltodevelopnewweaponsoneswhichrequirenolessthanthemanipulationofsouls",
       "text_en": "While a child can quickly learn to operate common contraptions, it will be no easy thing for them to attain the requisite skill to develop new weapons─ones which require no less than the manipulation of souls.",
       "text": "แม้นว่าเด็กๆ จะเรียนรู้วิธีการใช้งานสิ่งประดิษฐ์ทั่วไปได้อย่างรวดเร็ว ทว่าการจะช่วยให้พวกเขามีทักษะเพียงพอที่จะพัฒนาอาวุธชนิดใหม่ขึ้นมานั้นหาใช่เรื่องง่าย โดยเฉพาะอาวุธที่จำเป็นต้องใช้การควบคุมชักนำดวงวิญญาณ"
     },
     {
-      "character": "Researcher's Journal",
+      "key": "thankfullytwoofmypupilshavedemonstratedgreataptitudeinthefieldkanilokkathevillagechiefandteeshaljaafieldchirurgeon",
       "text_en": "Thankfully, two of my pupils have demonstrated great aptitude in the field: Kanilokka, the village chief, and Teeshal Ja, a field chirurgeon.",
       "text": "ทว่าก็นับเป็นโชคดีที่ศิษย์สองคนของข้าพเจ้าแสดงให้เห็นถึงพรสวรรค์อันโดดเด่นในศาสตร์แขนงนี้ นั่นคือคานิล็อกกาผู้เป็นหัวหน้าหมู่บ้าน และทีชาล จา ผู้เป็นแพทย์สนาม"
     },
     {
-      "character": "Researcher's Journal",
+      "key": "furtherdrivenbytheirloyaltytoourkingtheirgrowthhasbeenremarkableidaretohopethatbeforelongtheywillbeabletocarryouttheirdutieswithoutfurtherinstructionandimayberelievedofmyduty",
       "text_en": "Further driven by their loyalty to our king, their growth has been remarkable. I dare to hope that, before long, they will be able to carry out their duties without further instruction, and I may be relieved of my duty.",
       "text": "บวกกับความภักดีอันแรงกล้าที่พวกเขามีต่อองค์ราชา การพัฒนาของพวกเขาจึงก้าวหน้าไปอย่างน่าอัศจรรย์ยิ่ง ข้าพเจ้าหวังใจเหลือเกินว่าในอีกไม่ช้า พวกเขาจะสามารถปฏิบัติหน้าที่ได้โดยไม่ต้องมีผู้คอยชี้แนะอีก และข้าพเจ้าจะได้พ้นจากหน้าที่เสียที"
     },
     {
-      "character": "Alisaie",
+      "key": "youfoundthekeygreatillcalltheothers",
       "text_en": "You found the key? Great, I'll call the others.",
       "text": "เจอกุญแจแล้วเหรอ? ดีเลย เดี๋ยวฉันจะเรียกคนอื่นมานะ"
     },
     {
-      "character": "Alisaie",
+      "key": "itseemsthekeycanbeusedtooperatetheliftaswellupwego",
       "text_en": "It seems the key can be used to operate the lift as well. Up we go.",
       "text": "ดูเหมือนกุญแจดอกนี้จะใช้เปิดลิฟต์ได้ด้วยนะ ขึ้นไปกันเถอะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sothisistheobservatory",
       "text_en": "So this is the observatory.",
       "text": "ที่นี่คือหอสังเกตการณ์สินะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ididntexpectittobesimilarbutthisisafarcryfromthetemplethatheldvaligarmanda",
       "text_en": "I didn't expect it to be similar, but this is a far cry from the temple that held Valigarmanda.",
       "text": "ฉันไม่ได้หวังว่ามันจะคล้ายกันหหรอกนะ แต่นี่มันต่างจากวิหารที่เคยสะกดวาลีการ์มันดาลิบลับเลย"
     },
     {
-      "character": "G'raha Tia",
+      "key": "allthemachineryappearstostillbeinoperationiexpectthereareauxiliarysystemsinplacetoensurethatmonitoringcancontinueeveninemergencies",
       "text_en": "All the machinery appears to still be in operation. I expect there are auxiliary systems in place to ensure that monitoring can continue even in emergencies.",
       "text": "เครื่องจักรทุกเครื่องดูเหมือนยังทำงานอยู่นะครับ คาดว่าน่าจะมีระบบสำรองเผื่อไว้ เพื่อให้สามารถเฝ้าระวังได้อย่างต่อเนื่องแม้ในสถานการณ์ฉุกเฉิน"
     },
     {
-      "character": "Krile",
+      "key": "thewarningsindicatevariousanomaliesrelatedtothesealsfailuremostlikelyforablessingwemanagedtofellthebeastbeforeitcouldcauseharm",
       "text_en": "The warnings indicate various anomalies─related to the seal's failure, most likely. For a blessing, we managed to fell the beast before it could cause harm.",
       "text": "สัญญาณเตือนบ่งชี้ถึงความผิดปกติหลายอย่างเลยค่ะ น่าจะเป็นเรื่องความล้มเหลวของตราสะกด แต่ยังถือเป็นโชคดีที่พวกเราล้มสัตว์อสูรตนนั้นลงได้ก่อนที่มันจะก่อภัยพิบัติใดๆ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightthenletsseeifwecanfindsomecluesaboutgulooljasmother",
       "text_en": "Right then, let's see if we can find some clues about Gulool Ja's mother.",
       "text": "เอาละ งั้นพวกเราลองหาเบาะแสเกี่ยวกับแม่ของกูลูล จากันเถอะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "ithinkicanusethisterminalshaletaughtmehow",
       "text_en": "I think I can use this terminal. Shale taught me how.",
       "text": "ผมคิดว่าผมสามารถใช้งานเครื่องนี้ได้ครับ พี่เชลเคยสอนวิธีการใช้ให้ผมแล้ว"
     },
     {
-      "character": "Gulool Ja",
+      "key": "theressomuchdataidontknowwhatweshouldlookat",
       "text_en": "There's so much data... I don't know what we should look at.",
       "text": "ข้อมูลมีเยอะแยะไปหมดเลยครับ... ผมไม่รู้ว่าพวกเราควรจะเปิดดูตรงไหนก่อนดี"
     },
     {
-      "character": "G'raha Tia",
+      "key": "perhapswecannarrowdownthesearchbyinputtingthenameteeshalja",
       "text_en": "Perhaps we can narrow down the search by inputting the name Teeshal Ja.",
       "text": "บางทีถ้าเราลองพิมพ์ชื่อ 'ทีชาล จา' ลงไป น่าจะช่วยจำกัดขอบเขตการค้นหาให้แคบลงได้นะครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "ahitbroughtupalotofresultstheyallseemtosaythesamething",
       "text_en": "Ah, it brought up a lot of results. They all seem to say the same thing...",
       "text": "อ๊ะ มันแสดงผลลัพธ์ขึ้นมาเต็มเลยครับ แต่หัวข้อดูเหมือนจะเหมือนกันหมดเลย..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "teeshaljaadministratorofexperimentaltreatmentsresearchlogs",
       "text_en": "“Teeshal Ja, Administrator of Experimental Treatments: Research Logs.”",
       "text": "“บันทึกการวิจัยของทีชาล จา ผู้ดูแลระบบรักษาระดับทดลอง”"
     },
     {
-      "character": "Gulool Ja",
+      "key": "thissoundsgooddoesntit",
       "text_en": "This sounds good, doesn't it?",
       "text": "อันนี้น่าจะใช่เรื่องที่ต้องการใช่ไหมครับ?"
     },
     {
-      "character": "Krile",
+      "key": "chancesarethedataisencryptedandevenifnotitwilltakeconsiderabletimetogothroughitall",
       "text_en": "Chances are the data is encrypted. And even if not, it will take considerable time to go through it all.",
       "text": "มีความเป็นไปได้สูงว่าข้อมูลเหล่านี้น่าจะถูกเข้ารหัสเอาไว้ค่ะ และต่อให้ไม่ได้เข้ารหัส ก็คงต้องใช้เวลานานโขกว่าจะอ่านทั้งหมดนี้ได้ครบ"
     },
     {
-      "character": "Alphinaud",
+      "key": "thenletustakeitwithustothebackroomandhaveshaleanalyzeit",
       "text_en": "Then let us take it with us to the Backroom and have Shale analyze it.",
       "text": "ถ้าอย่างนั้น พวกเรานำข้อมูลนี้กลับไปยังเดอะแบ็ครูม เพื่อให้คุณเชลช่วยวิเคราะห์ดูดีกว่าครับ"
     },
     {
-      "character": "Krile",
+      "key": "agreed",
       "text_en": "Agreed.",
       "text": "เห็นด้วยค่ะ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "alrightilltransferittothisstoragedeviceibrought",
       "text_en": "Alright. I'll transfer it to this storage device I brought.",
       "text": "ตกลงครับ ผมจะเซฟข้อมูลลงในอุปกรณ์เก็บข้อมูลที่เตรียมมานะครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "thereitsfinished",
       "text_en": "There, it's finished!",
       "text": "เสร็จเรียบร้อยแล้วครับ!"
     },
     {
-      "character": "Gulool Ja",
+      "key": "thankyousomuchforbringingmeallthewayhereeveryone",
       "text_en": "Thank you so much for bringing me all the way here, everyone!",
       "text": "ขอบคุณพี่ๆ ทุกคนที่พาผมเดินทางมาไกลถึงที่นี่นะครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifyourehappythensoamibesidesiwasabletolearnmoreaboutmybrotheraswellitwasafruitfuladventureforthebothofus",
       "text_en": "If you're happy, then so am I. Besides, I was able to learn more about my brother as well. It was a fruitful adventure for the both of us.",
       "text": "เห็นนายมีความสุข ฉันก็ดีใจด้วย อีกอย่าง ฉันเองก็ได้รู้เรื่องราวของพี่ชายเพิ่มขึ้นเหมือนกัน ถือว่าเป็นการผจญภัยที่คุ้มค่าสำหรับพวกเราทั้งคู่ละนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "iadmittheturalvidraalgavemeafrightatfirstbutthenirememberedwhofelledthemightyvaligarmanda",
       "text_en": "I admit the tural vidraal gave me a fright at first. But then I remembered who felled the mighty Valigarmanda!",
       "text": "สารภาพเลยว่าตอนแรกฉันก็ตกใจทูรัลวิดราลนั่นอยู่เหมือนกัน แต่แล้วก็พอนึกขึ้นได้ว่าใครกันน้าที่เป็นคนปราบวาลีการ์มันดาผู้น่าเกรงขามลงได้!"
     },
     {
-      "character": "Alphinaud",
+      "key": "illnotsoonforgetourvisittothatfacilityitwasatroublingreminderofthedepravitythatcanarisefromthebeliefthatsoulsaresimplyaresourcetobeexploited",
       "text_en": "I'll not soon forget our visit to that facility. It was a troubling reminder of the depravity that can arise from the belief that souls are simply a resource to be exploited.",
       "text": "ผมคงไม่ลืมเรื่องที่เราได้ไปเยือนสถานีวิจัยแห่งนั้นในเร็วๆ นี้แน่ครับ มันเป็นสิ่งย้ำเตือนใจที่ชวนหดหู่ว่าความวิปริตสามารถเกิดขึ้นได้เสมอ เมื่อมีความคิดที่มองว่าดวงวิญญาณเป็นเพียงทรัพยากรชิ้นหนึ่งที่ตักตวงได้ตามใจชอบ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "kiluwsaisreallygoodatdrivingthehovercargoiwonderificanlearnhowtodriveittoo",
       "text_en": "Kiluwsa is really good at driving the hover cargo. I wonder if I can learn how to drive it too...",
       "text": "คุณคิลูว์ซาขับโฮเวอร์คาร์โกเก่งจังเลยครับ ผมอยากรู้จังว่าจะฝึกขับแบบนั้นได้บ้างหรือเปล่า..."
     },
     {
-      "character": "Krile",
+      "key": "imgladwecouldfindwhatwesoughtinthatabandonedfacility",
       "text_en": "I'm glad we could find what we sought in that abandoned facility.",
       "text": "ยินดีเหลือเกินค่ะที่พวกเราพบสิ่งที่เราตามหาในสถานีวิจัยร้างแห่งนั้น"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itseemssafetosaymybrotherreturnedtoyuweyawatafortheturalvidraalhewanteditspowernomatterthecost",
       "text_en": "It seems safe to say my brother returned to Yuweyawata for the tural vidraal. He wanted its power, no matter the cost...",
       "text": "ดูเหมือนจะค่อนข้างแน่ชัดแล้วว่าพี่ชายของฉันกลับไปยังยูเวยาวาตาก็เพื่อตามหาทูรัลวิดราลนั่น เขาต้องการพลังของมันโดยไม่สนว่าจะต้องจ่ายราคาเท่าใด..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "andherewearetheauthoritieswilldoubtlesswishtobeinformedaboutthefacilityanditscontents",
       "text_en": "And here we are. The authorities will doubtless wish to be informed about the facility and its contents...",
       "text": "และในที่สุดก็กลับมาถึงเสียที ทางการคงต้องการรายงานเรื่องสถานีวิจัยร้างรวมถึงสิ่งต่างๆ ที่อยู่ข้างในนั้นอย่างแน่นอนครับ..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "butfirstthingsfirstletusdeliverthedatatoshale",
       "text_en": "But first things first: let us deliver the data to Shale.",
       "text": "แต่ก่อนอื่นเลย พวกเราเอาข้อมูลนี้ไปส่งให้คุณเชลกันก่อนเถอะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "fromwhaticanseethingshaventchangedmuchsincethefuneralpeoplearestilllistlesslikebefore",
       "text_en": "From what I can see, things haven't changed much since the funeral. People are still listless like before.",
       "text": "เท่าที่ฉันมองดู รอบตัวแทบไม่มีอะไรเปลี่ยนไปจากตอนพิธีศพเลยนะ ผู้คนยังดูซึมเซาหมดอาลัยตายอยากกันเหมือนเดิมเลย"
     },
     {
-      "character": "Krile",
+      "key": "ivebeenthinkingitmaybehooveustolearnhowtousethevariousdevicesfoundthroughoutalexandriabetterlatethanneverafterall",
       "text_en": "I've been thinking, it may behoove us to learn how to use the various devices found throughout Alexandria. Better late than never, after all.",
       "text": "ฉันคิดว่า มันน่าจะเป็นประโยชน์กับเราไม่น้อยที่จะเรียนรู้วิธีการใช้งานอุปกรณ์ต่างๆ ทั่วอเล็กซานเดรียนะคะ ยังไงเสีย เรียนรู้ช้าก็ยังดีกว่าไม่เรียนรู้เลยล่ะค่ะ"
     },
     {
-      "character": "G'raha Tia",
+      "key": "thedatawillbeingoodhandswithshale",
       "text_en": "The data will be in good hands with Shale.",
       "text": "ถ้าเป็นคุณเชลล่ะก็ ต้องดูแลข้อมูลนี้ได้ดีแน่นอนครับ"
     },
     {
-      "character": "Gulool Ja",
+      "key": "itwasshalewhogavemethestoragedevicebeforeweleftshesaidthatwedprobablyneeditandwedid",
       "text_en": "It was Shale who gave me the storage device before we left. She said that we'd probably need it...and we did!",
       "text": "พี่เชลเป็นคนส่งอุปกรณ์เก็บข้อมูลให้ผมก่อนที่พวกเราจะออกเดินทางน่ะครับ พี่เชลบอกว่าพวกเราน่าจะได้ใช้มัน... แล้วก็ได้ใช้จริงๆ ด้วย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "gulooljahadnotroublekeepingupduringtheoutinghereallyishisfathersson",
       "text_en": "Gulool Ja had no trouble keeping up during the outing. He really is his father's son.",
       "text": "กูลูล จา เดินตามพวกเราทันตลอดการเดินทางโดยไม่มีปัญหาอะไรเลยแฮะ สมกับเป็นลูกชายของพ่อเขาจริงๆ"
     },
     {
-      "character": "Alphinaud",
+      "key": "havingnowspentsometimeintheseharshenvironsifeelihaveabetterunderstandingofhowmuchofasteadyingpresencesphenewastoherpeople",
       "text_en": "Having now spent some time in these harsh environs, I feel I have a better understanding of how much of a steadying presence Sphene was to her people.",
       "text": "พอได้มาใช้เวลาในสภาพแวดล้อมที่โหดร้ายแบบนี้ ผมคิดว่าผมเข้าใจขึ้นมาบ้างแล้วล่ะครับว่าสฟีนเปรียบเสมือนศูนย์รวมจิตใจอันมั่นคงให้แก่ผู้คนของหล่อนมากเพียงใด"
     },
     {
-      "character": "Geode",
+      "key": "youvefoundinformationongulooljasmotheryoulotneverceasetoamaze",
       "text_en": "You've found information on Gulool Ja's mother? You lot never cease to amaze...",
       "text": "พวกเธอไปหาข้อมูลเกี่ยวกับแม่ของกูลูล จา มาได้งั้นเหรอ? พวกนายนี่มีเรื่องให้ฉันประหลาดใจได้ตลอดเลยแฮะ..."
     },
     {
-      "character": "Shale",
+      "key": "welcomebackgulooljahasalreadygivenmethestoragedevice",
       "text_en": "Welcome back. Gulool Ja has already given me the storage device.",
       "text": "ยินดีต้อนรับกลับค่ะ กูลูล จา ส่งอุปกรณ์เก็บข้อมูลให้ฉันเรียบร้อยแล้วค่ะ"
     },
     {
-      "character": "Shale",
+      "key": "therelookstobeawealthofdataallofwhichisencryptedsoillneedtimetoprocesseverything",
       "text_en": "There looks to be a wealth of data, all of which is encrypted, so I'll need time to process everything.",
       "text": "ดูเหมือนว่าข้อมูลข้างในจะมีมากมายมหาศาลเลยทีเดียว แถมยังถูกเข้ารหัสไว้ทั้งหมดด้วย ดังนั้นฉันคงต้องขอเวลาในการถอดรหัสและประมวลผลสักพักนะคะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "inthatcasealisaieandimighttakeourselvesaroundthecityandcheckonthepeople",
       "text_en": "In that case, Alisaie and I might take ourselves around the city and check on the people.",
       "text": "ถ้าอย่างนั้น ผมกับอลิเซย์จะขอออกไปเดินตรวจตราดูรอบเมืองและคอยสอบถามสารทุกข์สุกดิบของผู้คนหน่อยนะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "ayetheirmoodhasusabitworriedidontknowiftheresanythingwecandotohelpbutwellsee",
       "text_en": "Aye, their mood has us a bit worried. I don't know if there's anything we can do to help, but we'll see...",
       "text": "ใช่จ้ะ สภาพจิตใจของพวกเขาทำให้พวกเราเป็นกังวลอยู่นิดหน่อย ถึงไม่รู้ว่าจะพอช่วยอะไรได้บ้างหรือเปล่า แต่จะลองดูเท่าที่ทำได้นะ..."
     },
     {
-      "character": "Shale",
+      "key": "understoodillletyouknowassoonasivefinishedmywork",
       "text_en": "Understood. I'll let you know as soon as I've finished my work.",
       "text": "รับทราบค่ะ หากฉันจัดการเสร็จเรียบร้อยเมื่อไหร่ จะรีบแจ้งให้ทราบทันทีนะคะ"
     },
     {
-      "character": "Alisaie",
+      "key": "thankyouwellseeyouagainsoon",
       "text_en": "Thank you. We'll see you again soon.",
       "text": "ขอบคุณนะ แล้วพบกันใหม่จ้ะ"
     },
     {
-      "character": "Krile",
+      "key": "isuspectthealexandriansplightremindsalphinaudandalisaieofthegarleanslittlewondertheyfeelcompelledtoassistinanywaytheycan",
       "text_en": "I suspect the Alexandrians' plight reminds Alphinaud and Alisaie of the Garleans'. Little wonder they feel compelled to assist in any way they can.",
       "text": "ฉันเดาว่าความทุกข์ยากของชาวอเล็กซานเดรียคงชวนให้อัลฟิโนกับอลิเซย์นึกถึงสถานการณ์ของชาวการ์เลียนน่ะค่ะ จึงไม่แปลกใจเลยที่พวกเขาจะรู้สึกว่าต้องยื่นมือเข้าช่วยเท่าที่จะทำได้"
     },
     {
-      "character": "G'raha Tia",
+      "key": "imetsomemembersofobliviononmywaybackheretheythemselveswerereturningafterhavingpaidtheirrespectstosphene",
       "text_en": "I met some members of Oblivion on my way back here. They themselves were returning after having paid their respects to Sphene.",
       "text": "ระหว่างทางกลับมาที่นี่ ผมบังเอิญเจอสมาชิกของเดอะแบ็ครูมบางคนน่ะครับ ดูเหมือนพวกเขาก็กำลังเดินทางกลับมาหลังจากไปแสดงความเคารพต่อสฟีนมาเช่นกัน"
     },
     {
-      "character": "Shale",
+      "key": "decryptingfilesisntthehardpartitswhenthenumberofdigitsinapasswordisunknownthatthelongnightsbegin",
       "text_en": "Decrypting files isn't the hard part. It's when the number of digits in a password is unknown that the long nights begin...",
       "text": "การถอดรหัสไฟล์น่ะไม่ยากหรอกค่ะ แต่เวลาที่เราไม่รู้จำนวนหลักของรหัสผ่านต่างหากล่ะคะที่ราตรีอันยาวนานจะเริ่มต้นขึ้น..."
     },
     {
-      "character": "Gulool Ja",
+      "key": "illstayherewithshaletheresaloticanlearnjustfromwatchingher",
       "text_en": "I'll stay here with Shale. There's a lot I can learn just from watching her.",
       "text": "ผมจะขออยู่ช่วยพี่เชลที่นี่นะครับ แค่ได้ยืนดูพี่เชลทำงาน ผมก็น่าจะได้เรียนรู้อะไรเยอะแยะเลยครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ishareourfriendsconcernitsnotsurprisingthatthealexandriansarehavingdifficultycopingwiththeirgriefbutstill",
       "text_en": "I share our friends' concern. It's not surprising that the Alexandrians are having difficulty coping with their grief...but still...",
       "text": "ฉันเข้าใจความกังวลของทุกคนนะ มันไม่แปลกหรอกที่ชาวอเล็กซานเดรียจะก้าวผ่านความโศกเศร้าครั้งนี้ไปได้ยาก... แต่ถึงอย่างนั้นก็เถอะ..."
     }

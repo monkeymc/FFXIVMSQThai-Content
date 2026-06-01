@@ -1,601 +1,593 @@
 {
-  "id": "wuk-lamat-in-the-saddle",
-  "wiki_path": "/wiki/Wuk_Lamat_in_the_Saddle",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/5/55/Quest_Complete.png",
-  "patch": "7.0",
-  "title_en": "Wuk Lamat in the Saddle",
-  "title": "วุค ลามัต บนอานม้า",
-  "level": "90",
-  "location": "Urqopacha(X:28.3,Y:12.5)",
-  "npc_start": "Wuk Lamat",
+  "quest_id": "wuk-lamat-in-the-saddle",
   "dialogues": [
     {
-      "character": "Mablu",
+      "key": "mastergoblispraisemakesmeconfidenticanbeapeddlerafterallwellabitmoreconfidentthanbeforeatleast",
       "text_en": "Master Gobli's praise makes me confident I can be a peddler after all... Well, a bit more confident than before, at least!",
       "text": "คำชมจากคุณกอบลีทำให้ฉันเริ่มมั่นใจขึ้นมาแล้วล่ะค่ะว่าตัวเองจะเป็นแม่ค้าเร่ได้... อย่างน้อยก็น่าจะมั่นใจขึ้นมาอีกนิดกว่าเมื่อก่อนล่ะค่ะ!"
     },
     {
-      "character": "Gobli",
+      "key": "imsatisfiedwithourtradeanditrustyouaretooshouldyouhaveneedofmoremezcalyouknowwhotocometo",
       "text_en": "I'm satisfied with our trade, and I trust you are too. Should you have need of more mezcal, you know who to come to!",
       "text": "ข้าพอใจกับข้อตกลงแลกเปลี่ยนของเรามาก และหวังว่าพวกท่านเองก็พึงพอใจด้วยเช่นกันนะ หากพวกท่านต้องการเมสคัลอีกเมื่อไหร่ ก็รู้แล้วใช่ไหมล่ะว่าต้องมาหาใคร!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "evenatthepalaceidontthinkiveheldatenthousandpeljugofanythingbeforemyhandswontstopshakinghereyoudbetterholdontoituntilwegettothesaddlemaker",
       "text_en": "Even at the palace, I don't think I've held a ten thousand pel jug of anything before. My hands won't stop shaking... Here, you'd better hold on to it until we get to the saddlemaker.",
       "text": "ต่อให้จะเป็นในวังหลวงก็เถอะ ฉันก็ไม่คิดว่าตัวเองเคยถือสุราไหละหมื่นเปลมาก่อนเลยแฮะ มือสั่นไม่หยุดเลยเนี่ย... นี่ นายช่วยถือมันไว้ก่อนจนกว่าเราจะไปถึงร้านช่างทำอานทีเถอะ"
     },
     {
-      "character": "Mablu",
+      "key": "ahahahacanyouimagineifwedroppeditandhadtostartalloveragain",
       "text_en": "Ahahaha! Can you imagine if we dropped it and had to start all over again?",
       "text": "ฮะๆๆ! ลองนึกสภาพถ้าเกิดพวกเราทำมันตกแตก แล้วต้องเริ่มการแลกเปลี่ยนใหม่หมดตั้งแต่แรกดูสิคะ"
     },
     {
-      "character": "Mablu",
+      "key": "luckilyhavlisplaceisnotfarwejustneedtoheadacrosstheplaza",
       "text_en": "Luckily, Havli's place is not far─we just need to head across the plaza!",
       "text": "โชคดีที่ร้านของคุณฮาฟลีอยู่ไม่ไกล─แค่เดินข้ามลานกว้างตรงนี้ไปก็ถึงแล้วค่ะ!"
     },
     {
-      "character": "Mablu",
+      "key": "thethirdpromiselooksreadytotradethemezcalnow",
       "text_en": "The Third Promise looks ready to trade the mezcal now!",
       "text": "ท่านสัญญาที่สามดูพร้อมที่จะเจรจาแลกเปลี่ยนเมสคัลในมือแล้วล่ะค่ะ!"
     },
     {
-      "character": "Havli",
+      "key": "mypriceisfinalbringmeajugofpremiummezcalorgobargainwithanothersaddlemaker",
       "text_en": "My price is final. Bring me a jug of premium mezcal, or go bargain with another saddlemaker.",
       "text": "ข้ายืนกรานราคานี้เท่านั้น หาเหล้าเมสคัลเกรดพรีเมียมมาให้ข้าสักไห ไม่อย่างนั้นก็จงไปต่อรองเจรจากับช่างทำอานคนอื่นซะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisisitthetradewevebeenworkingtowards",
       "text_en": "This is it─the trade we've been working towards!",
       "text": "นี่แหละ─การเจรจาแลกเปลี่ยนที่เป็นเป้าหมายของพวกเรา!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "phewstillinonepiecerighttimetomakeourdeal",
       "text_en": "Phew, still in one piece... Right, time to make our deal!",
       "text": "ฟู่... ปลอดภัยไม่บุบสลาย เอาล่ะ ได้เวลาลุยดีลการค้าของเราแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "getyourtoolsreadysaddlerwevebroughtyourpreciousmezcal",
       "text_en": "Get your tools ready, saddler─we've brought your precious mezcal!",
       "text": "เตรียมเครื่องมือของนายไว้ให้พร้อมเลยช่างทำอาน─พวกเรานำสุราเมสคัลสุดหวงของนายมาให้แล้ว!"
     },
     {
-      "character": "Havli",
+      "key": "waityouactuallygotyourhandsonajugbutyouhadnothingafewmeaslyclumpsofwool",
       "text_en": "Wait, you actually got your hands on a jug? But you had nothing─a few measly clumps of wool...",
       "text": "เดี๋ยวสิ พวกเจ้าไปหาไหเหล้านั่นมาได้จริงๆ รึ!? ทั้งที่ตอนแรกไม่มีอะไรเลย นอกจากกลุ่มขนสัตว์กระจุกน้อยๆ พรรค์นั้นเนี่ยนะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatwehadwasanaspiringtraderwithagiftfornegotiation",
       "text_en": "What we had was an aspiring trader with a gift for negotiation.",
       "text": "สิ่งที่พวกเรามีน่ะเหรอ ก็คือแม่ค้าฝึกหัดที่มีพรสวรรค์เรื่องต่อรองเจรจายังไงล่ะ"
     },
     {
-      "character": "Havli",
+      "key": "althoughidsooneraidnoclaimantbutzoraaljaicannotgoagainsttheguidingprinciplesofthepelupelu",
       "text_en": "Although I'd sooner aid no claimant but Zoraal Ja, I cannot go against the guiding principles of the Pelupelu.",
       "text": "แม้ใจจริงข้าจะไม่อยากสนับสนุนผู้ท้าชิงคนอื่นเลยนอกจากท่านโซราล จา แต่ข้าก็ไม่อาจขัดขืนหลักธรรมข้อปฏิบัติอันแน่วแน่ของชาวเปลูเปลูได้"
     },
     {
-      "character": "Havli",
+      "key": "thetradeisafaironeiwillcraftyoursaddlethirdpromise",
       "text_en": "The trade is a fair one. I will craft your saddle, Third Promise.",
       "text": "การแลกเปลี่ยนนี้ยุติธรรมดี ข้ายินดีจะทำอานปราบสัตว์ให้ท่านครับท่านสัญญาที่สาม"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "great",
       "text_en": "Great!",
       "text": "เยี่ยมเลย!"
     },
     {
-      "character": "Havli",
+      "key": "stayandwaitifyoulikeihavealltherequisitematerialssothiswonttakelong",
       "text_en": "Stay and wait if you like. I have all the requisite materials, so this won't take long.",
       "text": "จะยืนรอตรงนี้ก็ตามสบายครับ ข้ามีวัตถุดิบและอุปกรณ์เตรียมพร้อมอยู่แล้ว คงใช้เวลาไม่นานนักหรอก"
     },
     {
-      "character": "Havli",
+      "key": "yourcommissionisreadycatchingawildalpacaisneverasimpleaffairbutyoullhaveaneasiertimeofitwithoneofmysaddles",
       "text_en": "...Your commission is ready. Catching a wild alpaca is never a simple affair, but you'll have an easier time of it with one of my saddles.",
       "text": "ชิ้นงานตามสั่งเรียบร้อยแล้วครับ การตามจับอัลปาก้าป่าย่อมไม่ใช่งานที่ง่ายดายธรรมดาหรอกครับ แต่หากสวมอานปราบสัตว์ฝีมือของข้าชิ้นนี้ งานก็คงจะราบรื่นขึ้นเยอะเลยล่ะครับ"
     },
     {
-      "character": "Havli",
+      "key": "nowifyoudontmindihaveotherworkthatneedsfinishingahicantastethatsmoothmezcalalready",
       "text_en": "Now, if you don't mind, I have other work that needs finishing. Ah, I can taste that smooth mezcal already...",
       "text": "ถ้าไม่ว่าอะไร ข้าคงต้องขอตัวไปสะสางงานที่เหลือต่อล่ะนะ โอย... ข้าชักจะอยากลิ้มรสชาติอันนุ่มละมุนของเหล้าเมสคัลขวดนี้ขึ้นมาซะตอนนี้เลยเชียว..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wediditthesaddleisours",
       "text_en": "We did it! The saddle is ours!",
       "text": "พวกเราทำสำเร็จแล้ว! อานม้าตกเป็นของพวกเราแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andtothinkwestartedoutwithonlyahundredpelbasketofalpacawoolmabluyouaregoingtobeanincrediblemerchant",
       "text_en": "And to think we started out with only a hundred-pel basket of alpaca wool... Mablu, you are going to be an incredible merchant!",
       "text": "แถมยังคิดดูสิว่าเราเริ่มเรื่องนี้ด้วยการตะลุยแลกเปลี่ยนจากขนอัลปาก้ามูลค่าแค่ร้อยเปลเท่านั้นเอง... มาบลู เธอจะต้องก้าวขึ้นเป็นแม่ค้าที่เก่งกาจและยอดเยี่ยมที่สุดแน่นอน!"
     },
     {
-      "character": "Mablu",
+      "key": "thankyouitmakesmesogladtohearyousaythatthirdpromise",
       "text_en": "Thank you! It makes me so glad to hear you say that, Third Promise!",
       "text": "ขอบคุณมากเลยค่ะ! ได้ยินท่านสัญญาที่สามพูดชมแบบนี้ ฉันดีใจที่สุดเลยค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wegotwhatwecameforsoletsreturntotheranchtheotherswillbewaiting",
       "text_en": "We got what we came for, so let's return to the ranch! The others will be waiting.",
       "text": "ได้ของที่เราต้องการมาครบแล้ว งั้นพวกเรากลับไปที่ฟาร์มกันเถอะ! คนอื่นๆ คงจะตั้งตารอพวกเราอยู่แน่ๆ"
     },
     {
-      "character": "Mablu",
+      "key": "itlookslikeeveryonesbeenpitchinginwiththealpacas",
       "text_en": "It looks like everyone's been pitching in with the alpacas!",
       "text": "ดูเหมือนคนอื่นๆ จะคอยช่วยดูแลพวกอัลปาก้าอยู่ด้วยนะคะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "letstellthemthegoodnews",
       "text_en": "Let's tell them the good news!",
       "text": "รีบไปบอกข่าวดีพวกเขากันเถอะ!"
     },
     {
-      "character": "Krile",
+      "key": "toblianderenvillehavebeenteachingushowtocareforalpacasonegentlegirlatethefeedstraightfrommyhand",
       "text_en": "Tobli and Erenville have been teaching us how to care for alpacas. One gentle girl ate the feed straight from my hand!",
       "text": "คุณโทบลีกับคุณเอเรนวิลล์ช่วยสอนวิธีดูแลพวกอัลปาก้าให้พวกเราด้วยล่ะค่ะ มีน้องตัวเมียแสนเชื่องตัวนึงยอมมากินอาหารจากมือของฉันตรงๆ เลยด้วยล่ะค่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "youvebeenawayforsometimeiassumetradingwasproductive",
       "text_en": "You've been away for some time. I assume trading was productive?",
       "text": "พวกเธอหายไปนานทีเดียวนะ การเจรจาค้าขายได้ผลลัพธ์ที่ดีกลับมาใช่ไหม?"
     },
     {
-      "character": "Alisaie",
+      "key": "imadethemistakeofstartlingoneandcaughtaglobofspittleformytroubleimbeginningtounderstandwuklamatsaversiontotheanimals",
       "text_en": "I made the mistake of startling one and caught a glob of spittle for my trouble. I'm beginning to understand Wuk Lamat's aversion to the animals...",
       "text": "ฉันเผลอไปทำให้ตัวนึงมันตกใจเข้า เลยโดนพ่นน้ำลายใส่เป็นการตอบแทนชิ้นโตเลยล่ะ ตอนนี้ฉันเริ่มจะเข้าใจความเกลียดชังของวุค ลามัต ที่มีต่อพวกมันขึ้นมาบ้างแล้วล่ะ..."
     },
     {
-      "character": "Havli",
+      "key": "sothatwasthethirdpromiseshesnotthespoileduntesteddaughteriwasexpecting",
       "text_en": "So that was the Third Promise. She's not the spoiled, untested daughter I was expecting...",
       "text": "นั่นน่ะรึท่านสัญญาที่สาม... ผิดคาดจากที่ข้านึกถึงลูกสาวสปอยล์ผู้ไม่เคยผ่านการทดสอบอะไรมาเลยตั้งเยอะแฮะ..."
     },
     {
-      "character": "Alphinaud",
+      "key": "youveacquiredthesaddlethen",
       "text_en": "You've acquired the saddle, then?",
       "text": "ได้อานปราบสัตว์มาครองแล้วใช่ไหมครับ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yesandthanksinnosmallparttomablu",
       "text_en": "Yes, and thanks in no small part to Mablu!",
       "text": "ใช่แล้วล่ะ! และแน่นอนว่าส่วนหนึ่งต้องยกความดีความชอบให้มาบลูด้วยนะ!"
     },
     {
-      "character": "Mablu",
+      "key": "beforeyourushofftocatchanalpacathoughletmeteachyouhowtosaddleoneillbringoutoneofourwildbornfriendssoyoucanpractice",
       "text_en": "Before you rush off to catch an alpaca, though, let me teach you how to saddle one. I'll bring out one of our wild-born friends so you can practice!",
       "text": "แต่ก่อนที่ท่านจะรีบร้อนวิ่งออกไปจับอัลปาก้าป่า ฉันขอสอนวิธีใส่อานให้ท่านก่อนนะคะ เดี๋ยวจะจูงเจ้าเพื่อนยากที่เคยจับมาจากป่ามาให้ท่านได้ลองฝึกฝีมือดูก่อนค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iknowiknowthisissomethingineedtolearn",
       "text_en": "I know, I know. This is something I need to learn.",
       "text": "รู้แล้วน่า รู้แล้ว เรื่องสำคัญพรรค์นี้ฉันต้องเรียนรู้ไว้อยู่แล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "greatsunkengodsididit",
       "text_en": "Great sunken gods, I did it!",
       "text": "โอ้เทพเจ้าใต้สมุทรทั้งหลาย ฉันทำได้แล้ว!"
     },
     {
-      "character": "Erenville",
+      "key": "hehardlyseemedbotheredmuchlessinclinedtospitasifhewascompletelyacceptingofwuklamatstouch",
       "text_en": "He hardly seemed bothered, much less inclined to spit. As if he was completely accepting of Wuk Lamat's touch...",
       "text": "ดูเจ้านั่นจะไม่รู้สึกขัดขืนหรือพยายามพ่นน้ำลายใส่เลยแฮะ ราวกับว่ามันยอมรับสัมผัสจากวุค ลามัต โดยสิ้นเชิงเลยทีเดียว..."
     },
     {
-      "character": "Mablu",
+      "key": "thatisbecauseofthesingularscentwithwhichthesaddlehasbeencoatedalpacasfinditverysoothing",
       "text_en": "That is because of the singular scent with which the saddle has been coated. Alpacas find it very soothing.",
       "text": "นั่นเป็นเพราะกลิ่นเฉพาะตัวที่เคลือบเอาไว้บนอานปราบสัตว์ชิ้นนี้ยังไงล่ะคะ มันช่วยสะกดกล่อมให้พวกอัลปาก้าผ่อนคลายและสงบลงได้มากค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youknowivenevertakenagoodlonglookatoneofyoubeforebut",
       "text_en": "You know, I've never taken a good, long look at one of you before, but...",
       "text": "รู้ไหม ฉันก็ไม่เคยได้จ้องมองพวกแกแบบใกล้ชิดและนานขนาดนี้มาก่อนเลยแฮะ แต่ว่า..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youreactuallykindofcute",
       "text_en": "You're actually kind of cute.",
       "text": "จริงๆ แกก็น่ารักน่าเอ็นดูดีเหมือนกันนะเนี่ย"
     },
     {
-      "character": "Mablu",
+      "key": "ahahahayoureonlynownoticingthat",
       "text_en": "Ahahaha, you're only now noticing that!?",
       "text": "ฮะๆๆ นี่ท่านเพิ่งจะมาสังเกตเห็นเรื่องนี้เหรอคะเนี่ย!?"
     },
     {
-      "character": "Krile",
+      "key": "zoraaljahesback",
       "text_en": "Zoraal Ja! He's back.",
       "text": "โซราล จา! เขากลับมาแล้วค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "havingdoneexactlywhathesetouttodo",
       "text_en": "Having done exactly what he set out to do...",
       "text": "แถมยังทำเป้าหมายสำเร็จสมใจอยากเป๊ะๆ เลยด้วย..."
     },
     {
-      "character": "Alisaie",
+      "key": "thatalpacahesbroughtisitjustmeorisitglowing",
       "text_en": "That alpaca he's brought... Is it just me or is it...glowing?",
       "text": "อัลปาก้าตัวที่เขาพามานั่น... ฉันตาฝาดไปเองรึเปล่า หรือว่ามัน... กำลังส่องแสงเรืองรองอยู่น่ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "iveheardtalesofsuchabeasttheysaythegoldenalpacalivesasolitaryexistencedeepinthevalleywhereitshunsthecompanyofbothmananditsownkind",
       "text_en": "I've heard tales of such a beast. They say the golden alpaca lives a solitary existence deep in the valley, where it shuns the company of both man and its own kind.",
       "text": "ผมเคยได้ยินเรื่องเล่าตำนานเกี่ยวกับสัตว์ชนิดนี้อยู่เหมือนกันนะ มีคำเล่าลือว่าพวกอัลปาก้าทองคำจะใช้ชีวิตอยู่อย่างโดดเดี่ยวในหุบเขาลึก หลีกหนีห่างไกลจากทั้งมนุษย์และสัตว์ร่วมสายพันธุ์เดียวกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "howdidhemanagetosnareaprizelikethat",
       "text_en": "How did he manage to snare a prize like that?",
       "text": "แล้วเขาไปกวาดต้อนจับสัตว์ล้ำค่าแบบนั้นมาได้ยังไงกันนะ?"
     },
     {
-      "character": "Sareel Ja",
+      "key": "abeastknowsitsbettersfacedwithoverwhelmingstrengthitwillyieldratherthanriskdeathanaptillustrationofhowgreatlythepowerofthefirstpromiseexceedsyourswuklamat",
       "text_en": "A beast knows its betters. Faced with overwhelming strength, it will yield rather than risk death. An apt illustration of how greatly the power of the First Promise exceeds yours, Wuk Lamat.",
       "text": "สัตว์ร้ายย่อมตระหนักรู้ดีว่าใครอยู่เหนือกว่า เมื่อเผชิญหน้ากับความแข็งแกร่งอันท่วมท้น มันย่อมเลือกที่จะยอมจำนนดีกว่าเอาชีวิตมาทิ้ง นี่คือภาพสะท้อนที่ชัดเจนว่าพลังความแข็งแกร่งของท่านสัญญาที่หนึ่งนั้นห่างชั้นและอยู่เหนือกว่าเจ้ามากเพียงใด วุค ลามัต"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "strengthalonewontwinhimourfathersthroneillbetheonetofindthegoldencityandthenturalcanremainatpeace",
       "text_en": "Strength alone won't win him our father's throne. I'll be the one to find the golden city, and then Tural can remain at peace.",
       "text": "แค่กำลังอย่างเดียวไม่มีวันชิงบัลลังก์ของท่านพ่อมาครองได้หรอก ฉันต่างหากที่จะเป็นคนค้นพบเมืองทองคำให้ได้ แล้วทูรัลก็จะได้อยู่อย่างสงบสุขต่อไป"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "aneverlastingdesireforpeacecanonlybeforgedinthefiresofwar",
       "text_en": "An everlasting desire for peace can only be forged in the fires of war.",
       "text": "ความปรารถนาในสันติภาพอันเป็นนิรันดร์ ย่อมมีเพียงต้องหลอมขึ้นมาจากเปลวเพลิงแห่งสงครามเท่านั้น"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "touniteasonethepeoplemustbetaughttheymustsufferthehorrorandthehopelessnessfirsthand",
       "text_en": "To unite as one, the people must be taught. They must suffer the horror and the hopelessness firsthand.",
       "text": "เพื่อการหลอมรวมเป็นหนึ่ง ประชาชนต้องได้รับการสั่งสอน พวกเขาต้องเรียนรู้ความสยดสยองและความสิ้นหวังด้วยตนเองเป็นอันดับแรก"
     },
     {
-      "character": "Sareel Ja",
+      "key": "exhaustionfromprolongedconflictthewagesofwarsmercilessnaturethesearewhatmovedtheclanstojoininthefoundingoftuliyollalallthoseyearsago",
       "text_en": "Exhaustion from prolonged conflict. The wages of war's merciless nature. These are what moved the clans to join in the founding of Tuliyollal all those years ago.",
       "text": "ความเหนื่อยล้าท้อแท้จากการต่อสู้อันยืดเยื้อ ผลพวงจากการทำสงครามอันไร้ความปราณี... สิ่งเหล่านี้ต่างหากคือสิ่งที่ขับเคลื่อนให้แต่ละชนเผ่ายินยอมก้าวเข้ามาร่วมก่อตั้งนครทูลิโยลลัลเมื่อหลายสิบปีก่อน"
     },
     {
-      "character": "Sareel Ja",
+      "key": "considertheyoungergenerationofthisvillagesincebirthhavetheybaskedinunbrokenharmonyandbeholdtheyregardwarnotastragedybutopportunity",
       "text_en": "Consider the younger generation of this village. Since birth have they basked in unbroken harmony, and behold: they regard war not as tragedy but opportunity .",
       "text": "ลองดูเด็กๆ คนรุ่นใหม่ในหมู่บ้านนี้เป็นตัวอย่างสิครับ ตั้งแต่ลืมตาดูโลกพวกเขาก็ใช้ชีวิตร่มเย็นเป็นสุขในความสงบสุขเรื่อยมา และดูเอาเถิด: พวกเขามองว่าสงครามไม่ใช่เรื่องโศกนาฏกรรม หากแต่เป็นโอกาสทำเงินเสียนี่"
     },
     {
-      "character": "Sareel Ja",
+      "key": "thusdoestheresilientsonseektoprovideeducationheoffersmuchneededlessonsintherealitiesofconquestandarenewedappreciationforpeacetime",
       "text_en": "Thus does the Resilient Son seek to provide education. He offers much-needed lessons in the realities of conquest and a renewed appreciation for peacetime.",
       "text": "ด้วยเหตุนี้ โอรสอุดมทรหด จึงมุ่งหวังที่จะมอบบทเรียนให้แก่ผู้คน ท่านพร้อมจะสั่งสอนความเป็นจริงของการพิชิตดินแดนเพื่อดึงสติให้ผู้คนกลับมาซาบซึ้งเห็นค่าของสันติภาพอีกครั้ง"
     },
     {
-      "character": "Alphinaud",
+      "key": "tistruethatwarsmiserybreedsalongingforpeace",
       "text_en": "'Tis true that war's misery breeds a longing for peace.",
       "text": "จริงอยู่ครับที่ความทุกข์ยากจากสงครามจะหล่อเลี้ยงให้ผู้คนถวิลหาความสงบสุข"
     },
     {
-      "character": "Alphinaud",
+      "key": "butihaveseenwithmyowneyeswhatbecomesofanempireforgedthroughtheviolenceyouproposetherebellionsitspawnedandtheruinsitleftbehind",
       "text_en": "But I have seen with my own eyes what becomes of an empire forged through the violence you propose─the rebellions it spawned, and the ruins it left behind.",
       "text": "แต่ผมได้เห็นมากับตาตัวเองแล้วว่า จะเกิดอะไรขึ้นกับจักรวรรดิที่สร้างขึ้นด้วยความรุนแรงตามแบบที่ท่านเสนอ─ทั้งการก่อกบฏที่เกิดขึ้นตามมา และความพังพินาศย่อยยับที่มันทิ้งไว้เบื้องหลัง"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "thegarleanempirewasacongregationofsimpletons",
       "text_en": "The Garlean Empire was a congregation of simpletons.",
       "text": "จักรวรรดิการ์ลีนเป็นเพียงแหล่งรวบรวมของพวกคนเขลาเท่านั้น"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "theoppressedfoughtbackagainsttheiroppressorsaswelltheyshould",
       "text_en": "The oppressed fought back against their oppressors. As well they should.",
       "text": "ผู้ถูกกดขี่ลุกขึ้นสู้กับผู้กดขี่ ย่อมเป็นสิ่งที่พวกเขาสมควรทำแล้ว"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "menarenotbeastsonlyafoolwouldseektoruleoverallwiththethreatofforcealone",
       "text_en": "Men are not beasts. Only a fool would seek to rule over all with the threat of force alone.",
       "text": "มนุษย์ไม่ใช่สัตว์ร้าย มีแต่คนโง่เท่านั้นที่คิดจะปกครองทุกสิ่งด้วยการข่มขู่ด้วยกำลังเพียงอย่างเดียว"
     },
     {
-      "character": "Sareel Ja",
+      "key": "thisiswhygulooljajadidnotelevatethemamooljawhyhetreatedallclanswithequalrespect",
       "text_en": "This is why Gulool Ja Ja did not elevate the Mamool Ja; why he treated all clans with equal respect.",
       "text": "นี่คือเหตุผลว่าทำไมท่านกูลูล จา จา จึงไม่ได้ยกย่องชูชาวมะมุกดา (Mamool Ja) ขึ้นเหนือกว่า และทำไมท่านจึงปฏิบัติต่อทุกชนเผ่าด้วยความเคารพอย่างเท่าเทียมกันครับ"
     },
     {
-      "character": "Sareel Ja",
+      "key": "however",
       "text_en": "However!",
       "text": "แต่ทว่า!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "thefirstpromisehashisgazefixeduponmoredistanthorizonshewouldunitenotonlytuliyollalbutthestarinitsentirety",
       "text_en": "The First Promise has his gaze fixed upon more distant horizons! He would unite not only Tuliyollal, but the star in its entirety!",
       "text": "ท่านสัญญาที่หนึ่งได้ทอดสายตามองไปยังเส้นขอบฟ้าที่ห่างไกลยิ่งกว่านั้นครับ! ท่านไม่เพียงตั้งใจจะรวมทูลิโยลลัลให้เป็นหนึ่งเดียวเท่านั้น แต่หมายถึงดาวดวงนี้ทั้งหมดต่างหากครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatwhy",
       "text_en": "What? Why?",
       "text": "หา? ทำไมล่ะ?"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "ineednotexplainmyselftoyou",
       "text_en": "I need not explain myself to you.",
       "text": "ข้าไม่มีความจำเป็นต้องอธิบายอะไรให้เจ้าฟัง"
     },
     {
-      "character": "Tobli",
+      "key": "ohwelldonewelldoneindeedthefirstpromisehascompletedthefeatofgoldwithanappropriatelygoldenflourishmayipresenttoyouyourmuchdeservedkeystone",
       "text_en": "Oh, well done! Well done, indeed! The First Promise has completed the Feat of Gold with an appropriately golden flourish! May I present to you your much-deserved keystone!",
       "text": "โอ้ ยอดเยี่ยมมากครับ! ยอดเยี่ยมจริงๆ! ท่านสัญญาที่หนึ่งสามารถพิชิตบททดสอบทองคำได้สำเร็จอย่างตระการตาสมเกียรติทองคำทีเดียวครับ! ข้าขอมอบหินศิลาไขด่านอันคู่ควรนี้ให้แก่ท่านครับ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hesalwaysbeenlikethatneversharinghisinnermostthoughtswithmeorevenwithkoana",
       "text_en": "He's always been like that─never sharing his innermost thoughts with me or even with Koana.",
       "text": "หมอนั่นก็เป็นแบบนี้มาแต่ไหนแต่ไรแล้วล่ะ─ไม่เคยเปิดใจแชร์ความคิดข้างในให้ฉัน หรือแม้แต่โคอานาฟังเลยสักครั้ง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itslikewerenotevenfamily",
       "text_en": "It's like we're not even family...",
       "text": "ราวกับว่าพวกเราไม่ได้เป็นครอบครัวเดียวกันอย่างนั้นแหละ..."
     },
     {
-      "character": "Mablu",
+      "key": "icouldneveragreewithzoraaljaiwanttuliyollaltobealandofpeacenowandalways",
       "text_en": "I could never agree with Zoraal Ja. I want Tuliyollal to be a land of peace, now and always.",
       "text": "ฉันไม่มีวันเห็นพ้องกับคุณโซราล จา เด็ดขาดเลยค่ะ ฉันอยากให้ทูลิโยลลัลเป็นดินแดนแห่งความสงบสุขตลอดไปค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "zoraaljaiswillingtogotowarforhistwistedvisionofpeacebutshouldheachievethispeacethenwhat",
       "text_en": "Zoraal Ja is willing to go to war for his twisted vision of peace. But should he achieve this peace, then what...?",
       "text": "โซราล จายอมก่อสงครามเพื่อภาพฝันแห่งสันติภาพอันบิดเบี้ยวของเขา แต่หากเขาสามารถสร้างสันติภาพนั้นขึ้นมาได้จริง แล้วหลังจากนั้นล่ะจะเกิดอะไรขึ้น...?"
     },
     {
-      "character": "Erenville",
+      "key": "agoldenalpacainthefleshlikethegoldencityithoughtthemachildrenstale",
       "text_en": "A golden alpaca in the flesh... Like the golden city, I thought them a children's tale.",
       "text": "อัลปาก้าทองคำตัวจริงเสียงจริงรึนี่... นึกว่าเป็นแค่เรื่องเล่าหลอกเด็กเหมือนกับเมืองทองคำเสียอีก"
     },
     {
-      "character": "Alphinaud",
+      "key": "somuchofourstarhasbeguntoembracereconciliationandrebuildandthiswouldbewarlordwouldthrustusallbackintoturmoilwecannotallowittohappen",
       "text_en": "So much of our star has begun to embrace reconciliation and rebuild...and this would-be warlord would thrust us all back into turmoil. We cannot allow it to happen.",
       "text": "ดาวดวงนี้ของเรากำลังเริ่มที่จะก้าวเข้าสู่การประนีประนอมและฟื้นฟูเยียวยาแท้ๆ... แต่ผู้ที่ฝักใฝ่สงครามคนนี้กลับจะผลักพวกเราทั้งหมดกลับเข้าสู่ความโกลาหลอีกครั้ง เราจะปล่อยให้เป็นแบบนั้นไม่ได้เด็ดขาด"
     },
     {
-      "character": "Alisaie",
+      "key": "whatkindofidiotthinkstheworldcanbeunitedwithwarevenmostgarleanshavesincerealizedthattheirconquestswereamistake",
       "text_en": "What kind of idiot thinks the world can be united with war? Even most Garleans have since realized that their conquests were a mistake.",
       "text": "คนบ้าที่ไหนกันคิดจะรวมโลกเป็นหนึ่งเดียวด้วยสงครามน่ะ? ขนาดชาวการ์ลีนส่วนใหญ่ในตอนนี้ยังตระหนักได้แล้วเลยว่า การยกทัพไปรุกรานชาวบ้านมันคือความผิดพลาดครั้งใหญ่"
     },
     {
-      "character": "Wild-eyed Alpaca",
+      "key": "thealpacaseemsglumperhapsitiswistfulforthesoothingscentofthetamingsaddle",
       "text_en": "The alpaca seems glum. Perhaps it is wistful for the soothing scent of the taming saddle...",
       "text": "เจ้าอัลปาก้าตัวนี้ดูหงอยๆ แฮะ บางทีมันอาจจะกำลังคิดถึงกลิ่นหอมผ่อนคลายของอานปราบสัตว์อยู่รึเปล่านะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "illponderzoraaljaandhismysterieslaterrightnowineedtothinkaboutfinishingthefeatofgold",
       "text_en": "I'll ponder Zoraal Ja and his mysteries later. Right now, I need to think about finishing the Feat of Gold!",
       "text": "เรื่องของโซราล จา กับปริศนาของเขาน่ะเอาไว้คิดทีหลังเถอะ ตอนนี้ฉันต้องมุ่งมั่นกับการเคลียร์บททดสอบทองคำของตัวเองให้ผ่านก่อน!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ihavemysaddleivepracticedhowtouseitsoleadontowherethewildalpacasroam",
       "text_en": "I have my saddle, I've practiced how to use it, so lead on to where the wild alpacas roam!",
       "text": "ฉันมีอานม้าแล้ว แถมยังซ้อมวิธีใส่เรียบร้อยแล้วด้วย งั้นช่วยนำทางไปยังถิ่นที่พวกอัลปาก้าป่าอาศัยอยู่เลยสิ!"
     },
     {
-      "character": "Mablu",
+      "key": "thevalleyoforuncancaisnorthwestofherecomeoneveryoneevenifwecantenterourselveswecanseewuklamatoffonherhunt",
       "text_en": "The valley of Oruncanca is northwest of here. Come on, everyone─even if we can't enter ourselves, we can see Wuk Lamat off on her hunt!",
       "text": "หุบเขาโอรุนคังกา (Oruncanca) อยู่ทางทิศตะวันตกเฉียงเหนือจากที่นี่ค่ะ ไปกันเถอะทุกคน─ถึงพวกเราจะเข้าไปด้วยไม่ได้ แต่อย่างน้อยก็ไปช่วยส่งท่านวุค ลามัต ออกไปล่าจับอัลปาก้ากันค่ะ!"
     },
     {
-      "character": "Mablu",
+      "key": "oruncancaisasteepandtreacherousplacesoonlythosewiththeheadledgersblessingarepermittedtogothere",
       "text_en": "Oruncanca is a steep and treacherous place, so only those with the head ledger's blessing are permitted to go there.",
       "text": "หุบเขาโอรุนคังกาเป็นพื้นที่ลาดชันและอันตรายมากค่ะ ดังนั้นต้องได้รับอนุญาตและคำอวยพรจากคุณหัวหน้ากลุ่มพ่อค้าเท่านั้นถึงจะเข้าไปที่นั่นได้ค่ะ"
     },
     {
-      "character": "Krile",
+      "key": "mablusrighttheleastwecandoisletwuklamatknowwerecheeringforher",
       "text_en": "Mablu's right. The least we can do is let Wuk Lamat know we're cheering for her!",
       "text": "มาบลูพูดถูกค่ะ อย่างน้อยที่สุดที่เราทำได้คือส่งกำลังใจให้วุค ลามัต รู้ว่าพวกเราคอยเชียร์เธออยู่ข้างหลังนะคะ!"
     },
     {
-      "character": "Erenville",
+      "key": "iveneversetfootbeyondthispointthevalleyissaidtobehometofiendsfarmoreferociousthanspittingalpacas",
       "text_en": "I've never set foot beyond this point. The valley is said to be home to fiends far more ferocious than spitting alpacas.",
       "text": "ผมไม่เคยเหยียบย่างล้ำพ้นจุดนี้ไปก่อนเลย ได้ยินมาว่าหุบเขานั้นเป็นถิ่นอาศัยของพวกสัตว์อสูรที่ดุร้ายกว่าพวกอัลปาก้าพ่นน้ำลายเยอะมากเลยล่ะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "howdeepdoyouthinkthevalleyisiglancedovertheedgeonthewayherebutthemistwastoothicktoevenspeculate",
       "text_en": "How deep do you think the valley is? I glanced over the edge on the way here, but the mist was too thick to even speculate.",
       "text": "คุณคิดว่าหุบเขานี้จะลึกขนาดไหนกันครับ? ตอนเดินทางมาที่นี่ผมลองมองลงไปข้างล่างแวบหนึ่ง แต่หมอกลงหนามากจนไม่สามารถคาดเดาอะไรได้เลยครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "zoraaljamayhavecaughthisalpacafirstbutthatdoesntmeanwuklamatisoutoftherunningshecandothis",
       "text_en": "Zoraal Ja may have caught his alpaca first, but that doesn't mean Wuk Lamat is out of the running. She can do this.",
       "text": "โซราล จา อาจจะจับอัลปาก้าได้ก่อนก็จริง แต่นั่นไม่ได้หมายความว่าวุค ลามัต จะหมดโอกาสชิงชัยสักหน่อย เธอต้องทำได้แน่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icandothisiknowican",
       "text_en": "I can do this... I know I can...",
       "text": "ฉันทำได้แน่... ฉันรู้ตัวดีว่าฉันทำได้..."
     },
     {
-      "character": "Mablu",
+      "key": "goodluckthirdpromise",
       "text_en": "Good luck, Third Promise!",
       "text": "ขอให้โชคดีนะคะท่านสัญญาที่สาม!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thanksillneedit",
       "text_en": "Thanks, I'll need it!",
       "text": "ขอบใจนะ ฉันจำเป็นต้องใช้มันแน่ๆ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "truthbetoldimstillnotsureaboutalpacasidrathernotgonearoneificanhelpit",
       "text_en": "Truth be told, I'm still not sure about alpacas. I'd rather not go near one if I can help it.",
       "text": "ตามตรงนะ ฉันก็ยังกังวลเรื่องพวกอัลปาก้าอยู่ดีนั่นแหละ ถ้าเลี่ยงได้ก็ไม่อยากจะเข้าใกล้พวกมันเลยสักนิด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butifimtorulethisnationthenillneedtolearnhowtolivewiththemturalistheirhometoo",
       "text_en": "But if I'm to rule this nation, then I'll need to learn how to live with them. Tural is their home, too.",
       "text": "แต่หากฉันต้องการจะปกครองแผ่นดินนี้ ฉันก็จำเป็นต้องเรียนรู้วิถีที่จะอยู่ร่วมกับพวกมัน เพราะทูรัลก็เป็นบ้านของพวกมันด้วยเช่นกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightimoff",
       "text_en": "Right, I'm off!",
       "text": "เอาล่ะ ฉันลุยละนะ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "soshallweheadbacktotheranchor",
       "text_en": "So, shall we head back to the ranch, or...",
       "text": "เอาอย่างไรดีครับ เราควรกลับไปรอที่ฟาร์มก่อน หรือว่าจะ..."
     },
     {
-      "character": "Mablu",
+      "key": "imstayinghere",
       "text_en": "I'm staying here!",
       "text": "ฉันจะรออยู่ตรงนี้ค่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "aswilliwuklamatisaloneinthistheleastwecandoisstandwatchandawaitherreturn",
       "text_en": "As will I. Wuk Lamat is alone in this. The least we can do is stand watch and await her return.",
       "text": "ฉันก็ด้วยค่ะ วุค ลามัต ต้องเผชิญหน้ากับเรื่องนี้ตามลำพัง อย่างน้อยที่สุดพวกเราก็ควรจะเฝ้ารอคอยต้อนรับการกลับมาของเธอนะคะ"
     },
     {
-      "character": "Erenville",
+      "key": "itmaybeawhileyethelpmepitchthetent",
       "text_en": "It may be a while yet. Help me pitch the tent.",
       "text": "คงต้องใช้เวลาอีกสักพักใหญ่เลยล่ะ มาช่วยผมกางเต็นท์หน่อยสิ"
     },
     {
-      "character": "Alisaie",
+      "key": "trustagleanertocomepreparedforanything",
       "text_en": "Trust a gleaner to come prepared for anything.",
       "text": "สมกับเป็นกลีนเนอร์จริงๆ เตรียมพร้อมรับมือทุกสถานการณ์เลยนะ"
     },
     {
-      "character": "Mablu",
+      "key": "whatsagleaner",
       "text_en": "What's a gleaner?",
       "text": "กลีนเนอร์คืออะไรเหรอคะ?"
     },
     {
-      "character": "Alphinaud",
+      "key": "someonewhosejobitistotraveltheworldandprocureuncommonthingsfortheiremployerserenvillespecializesinfindinganimalsibelieve",
       "text_en": "Someone whose job it is to travel the world and procure uncommon things for their employers. Erenville specializes in finding animals, I believe.",
       "text": "คนที่ทำหน้าที่เดินทางไปทั่วโลกเพื่อจัดหาสิ่งของหายากมาให้ผู้จ้างวานน่ะครับ รู้สึกว่าคุณเอเรนวิลล์จะเชี่ยวชาญการค้นหาสิ่งมีชีวิตเป็นพิเศษน่ะครับ"
     },
     {
-      "character": "Mablu",
+      "key": "butarentyouashetonafromxakturalwhydidyoucrossthesalt",
       "text_en": "But aren't you a Shetona, from Xak Tural? Why did you cross the salt?",
       "text": "แต่คุณไม่ใช่ชาวเชโตน่า (Shetona) จากซักทูรัล (Xak Tural) หหรอคะ? ทำไมคุณถึงได้เดินทางข้ามน้ำข้ามทะเลไปไกลขนาดนั้นล่ะคะ?"
     },
     {
-      "character": "Erenville",
+      "key": "wheniwasmuchyoungerthethoughtofleavingturalneverevenoccurredtome",
       "text_en": "When I was much younger, the thought of leaving Tural never even occurred to me.",
       "text": "ตอนที่ผมยังเด็กกว่านี้ ความคิดที่จะทิ้งทูรัลไปไม่เคยแวบเข้ามาในหัวเลยล่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "butthensomeyearsagomymentortaskedmewithadifficulthunt",
       "text_en": "But then, some years ago, my mentor tasked me with a difficult hunt.",
       "text": "แต่แล้วเมื่อหลายปีก่อน อาจารย์ของผมได้มอบหมายภารกิจตามล่าสิ่งของที่ยากลำบากอย่างหนึ่งให้ผม"
     },
     {
-      "character": "Erenville",
+      "key": "somethingicouldneverfindshesaidsolongasiclungtothefamiliarshesuggestedthatileavehomeleaveturalandjointhegleanersofsharlayan",
       "text_en": "Something I could never find, she said, so long as I clung to the familiar. She suggested that I leave home─leave Tural─and join the gleaners of Sharlayan.",
       "text": "เธอพูดว่าเจ้านั่นเป็นสิ่งที่ผมไม่มีวันหาเจอ หากผมยังคงยึดติดอยู่แต่กับสภาพแวดล้อมเดิมๆ ที่คุ้นเคย และเธอก็แนะนำให้ผมเดินทางออกจากบ้านเกิด─ทิ้งทูรัล─แล้วไปสมัครเข้ากลุ่มกลีนเนอร์ของชาร์ลายัน (Sharlayan) ซะ"
     },
     {
-      "character": "Erenville",
+      "key": "asoneoftheirnumbericouldexperiencetheworldimmersemyselfinmyriadculturesandcustomsseethemanyfacesofnatureandonceihadlearnedwhatistrulyimportantiwouldfindthatwhichiseek",
       "text_en": "As one of their number, I could experience the world. Immerse myself in myriad cultures and customs. See the many faces of nature. And once I had learned what is truly important, I would find that which I seek.",
       "text": "ในฐานะหนึ่งในสมาชิกกลุ่มกลีนเนอร์ ผมจะได้ออกเดินทางเผชิญโลกกว้าง ได้เรียนรู้ซึมซับวัฒนธรรมและจารีตประเพณีอันหลากหลาย ได้พบเห็นธรรมชาติในแง่มุมต่างๆ และเมื่อผมได้เรียนรู้ว่าสิ่งใดที่สำคัญอย่างแท้จริงแล้ว ผมก็จะค้นพบสิ่งที่ผมกำลังตามหาเอง"
     },
     {
-      "character": "Erenville",
+      "key": "myyoungerselftookthosewordstoheartandoffiwenttobecomeagleaner",
       "text_en": "My younger self took those words to heart, and off I went to become a gleaner.",
       "text": "ตัวผมในตอนนั้นจดจำคำพูดเหล่านั้นขึ้นใจ แล้วก็ตัดสินใจออกเดินทางไปเป็นกลีนเนอร์นับแต่นั้น"
     },
     {
-      "character": "Mablu",
+      "key": "herwordsalonemovedyoutoleavebehindeverythingyoudeverknownyoumusthavegreatrespectforyourmentor",
       "text_en": "Her words alone moved you to leave behind everything you'd ever known? You must have great respect for your mentor.",
       "text": "แค่คำพูดของเธอคำเดียว ก็สามารถผลักดันให้คุณยอมทิ้งทุกอย่างที่คุ้นเคยไปเลยเหรอคะ? คุณคงจะเคารพรักอาจารย์ของคุณมากเลยนะคะเนี่ย"
     },
     {
-      "character": "Erenville",
+      "key": "asithappensgleanerworkwasmuchtomylikingandiallbutforgotwhyihadpursueditinthefirstplace",
       "text_en": "As it happens, gleaner work was much to my liking, and I all but forgot why I had pursued it in the first place...",
       "text": "ก็เผอิญว่างานกลีนเนอร์มันดันถูกปากถูกใจผมมากๆ จนผมเกือบจะลืมเป้าหมายแรกเริ่มที่ทำไปซะสนิทเลยน่ะสิ..."
     },
     {
-      "character": "Erenville",
+      "key": "yeteventsconspiredtoputmebackonthetrailidabandoned",
       "text_en": "Yet events conspired to put me back on the trail I'd abandoned.",
       "text": "แต่แล้วโชคชะตาก็นำพาให้ผมต้องกลับมาเดินบนเส้นทางที่เคยละทิ้งไปอีกครั้ง"
     },
     {
-      "character": "Krile",
+      "key": "waitareyousayingyouweretaskedwithfindingthecityofgold",
       "text_en": "Wait... Are you saying you were tasked with finding the city of gold?",
       "text": "เดี๋ยวนะคะ... หรือว่าคุณได้รับภารกิจให้ค้นหาเมืองทองคำงั้นเหรอคะ?"
     },
     {
-      "character": "Erenville",
+      "key": "iwasandthoughmyhuntisnowentangledwiththeriteofsuccessionimeantoseeitthrough",
       "text_en": "I was. And though my hunt is now entangled with the rite of succession, I mean to see it through.",
       "text": "ใช่ครับ และถึงแม้ตอนนี้ภารกิจตามล่าของผมจะไปพัวพันเข้ากับพิธีสืบทอดราชบัลลังก์ แต่ผมก็ตั้งใจที่จะทำให้มันสำเร็จลุล่วงให้ได้"
     },
     {
-      "character": "Krile",
+      "key": "welltheniunderstandcompletelyweallhaveourreasonsforseekingthegoldencity",
       "text_en": "Well then...I understand completely! We all have our reasons for seeking the golden city...",
       "text": "ถ้าอย่างนั้น... ฉันเข้าใจอย่างที่สุดเลยค่ะ! พวกเราทุกคนต่างก็มีเหตุผลส่วนตัวในการตามหาเมืองทองคำแห่งนั้นกันทั้งนั้นสินะคะ..."
     },
     {
-      "character": "Krile",
+      "key": "whichisallthemorereasonforustoworktogether",
       "text_en": "Which is all the more reason for us to work together!",
       "text": "นั่นจึงเป็นเหตุผลสำคัญที่ทำให้พวกเราต้องร่วมมือกันยังไงล่ะคะ!"
     },
     {
-      "character": "Erenville",
+      "key": "justso",
       "text_en": "Just so.",
       "text": "นั่นสินะครับ"
     },
     {
-      "character": "Mablu",
+      "key": "sheshouldvebeenbackbynowwhatifsomethingshappenedtoherweneedtotelltobliandarrangeasearchparty",
       "text_en": "She should've been back by now! What if something's happened to her? We need to tell Tobli and arrange a search party!",
       "text": "ท่านน่าจะกลับมาตั้งนานแล้วนะคะ! หรือว่าจะเกิดเรื่องร้ายแรงอะไรขึ้นกับท่านหรือเปล่า? พวกเราต้องไปแจ้งคุณโทบลีและจัดตั้งหน่วยออกค้นหาเดี๋ยวนี้เลยค่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "waitdoyouhearthat",
       "text_en": "Wait... Do you hear that?",
       "text": "เดี๋ยวก่อน... ได้ยินเสียงอะไรไหม?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ididit",
       "text_en": "I did it...",
       "text": "ฉันทำได้แล้ว..."
     },
     {
-      "character": "Alphinaud",
+      "key": "youreutterlyspentandsmallwonder",
       "text_en": "You're utterly spent, and small wonder.",
       "text": "ท่านเหน็ดเหนื่อยจนหมดเรี่ยวหมดแรงแล้วล่ะครับ ไม่ใช่เรื่องแปลกเลย"
     },
     {
-      "character": "Krile",
+      "key": "welldonethirdpromise",
       "text_en": "Well done, Third Promise.",
       "text": "ทำได้ดีมากค่ะท่านสัญญาที่สาม"
     },
     {
-      "character": "Erenville",
+      "key": "theranchisntgoinganywheretakearestinthetent",
       "text_en": "The ranch isn't going anywhere. Take a rest in the tent.",
       "text": "ฟาร์มไม่หนีหายไปไหนหรอกน่า พักผ่อนในเต็นท์ก่อนเถอะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ithinkiwillthankyouallforbelievinginme",
       "text_en": "I think I will. Thank you all for believing in me.",
       "text": "งั้นฉันขอพักหน่อยละกัน ขอบใจทุกคนมากนะที่เชื่อมั่นในตัวฉัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankstoalphinaudandhishealinghandsicanactuallystandagainmaybeevenwalk",
       "text_en": "Thanks to Alphinaud and his healing hands, I can actually stand again...maybe even walk!",
       "text": "ขอบคุณวิชาฟื้นฟูของอัลฟิโนจริงๆ ที่ทำให้ฉันกลับมายืนได้อีกครั้ง... หรืออาจจะพอเดินไหวแล้วด้วยซ้ำ!"
     },
     {
-      "character": "Krile",
+      "key": "wewereouthereforquitesometimebutimgladwuklamatwasabletocatchheralpacaanderenvillechoosingtosharehisstorywithuswasawelcomesurprise",
       "text_en": "We were out here for quite some time, but I'm glad Wuk Lamat was able to catch her alpaca. And Erenville choosing to share his story with us was a welcome surprise!",
       "text": "พวกเรารออยู่ตรงนี้ตั้งนานแน่ะค่ะ แต่ก็ดีใจจังที่วุค ลามัต สามารถจับอัลปาก้าของตัวเองได้สำเร็จ และการที่คุณเอเรนวิลล์ยอมเล่าเรื่องราวของตัวเองให้พวกเราฟัง ก็นับเป็นเรื่องเซอร์ไพรส์ที่น่ายินดีมากเลยค่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "ispoketoomuchifwuklamatisuptoitweshouldbeheadingbacktotobli",
       "text_en": "...I spoke too much. If Wuk Lamat is up to it, we should be heading back to Tobli.",
       "text": "...ผมพูดมากเกินไปหน่อยแล้ว ถ้าวุค ลามัต ไหวแล้วล่ะก็ พวกเราก็ควรกลับไปหาคุณโทบลีกันเถอะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "wuklamathadnoseriousinjuriestospeakofhowevershehadclearlybeenpushedtotheverylimitsofherendurance",
       "text_en": "Wuk Lamat had no serious injuries to speak of. However, she had clearly been pushed to the very limits of her endurance.",
       "text": "ท่านวุค ลามัต ไม่ได้มีอาการบาดเจ็บรุนแรงตรงไหนครับ ทว่าร่างกายของเธอเห็นได้ชัดเลยว่าถูกใช้งานอย่างหนักจนถึงขีดจำกัดสูงสุดแล้วล่ะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "alphinaudwasquicktolendahandwithdismantlingthetentisthistobehisnewobsessionnowthathesmasteredcollectingfirewood",
       "text_en": "Alphinaud was quick to lend a hand with dismantling the tent. Is this to be his new obsession now that he's mastered collecting firewood...?",
       "text": "อัลฟิโนรีบวิ่งไปช่วยรื้อเต็นท์ใหญ่เลยแฮะ นี่กลายเป็นงานโปรดชิ้นใหม่ของเขาไปแล้วเหรอ หลังจากเรียนรู้วิธีการเก็บฟืนจนชำนาญน่ะ...?"
     },
     {
-      "character": "Mablu",
+      "key": "imsorelievedthethirdpromisecamebacktoussafely",
       "text_en": "I'm so relieved the Third Promise came back to us safely!",
       "text": "ฉันโล่งอกมากเลยค่ะที่ท่านสัญญาที่สามกลับมาหาพวกเราได้อย่างปลอดภัย!"
     },
     {
-      "character": "Mablu",
+      "key": "andthealpacashetamedisahealthylookingbeastsurelythiswillbeenoughtosatisfythefeatofgold",
       "text_en": "And the alpaca she tamed is a healthy-looking beast. Surely this will be enough to satisfy the Feat of Gold!",
       "text": "แถมอัลปาก้าป่าที่ท่านปราบปราบจับมาได้ก็ดูแข็งแรงสมบูรณ์ดีมากเลยด้วยค่ะ ผลงานขนาดนี้ต้องผ่านบททดสอบทองคำแน่นอนค่ะ!"
     }

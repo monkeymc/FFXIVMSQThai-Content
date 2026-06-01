@@ -1,456 +1,448 @@
 {
-  "id": "the-long-road-to-xak-tural",
-  "wiki_path": "/wiki/The_Long_Road_to_Xak_Tural",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/The_Long_Road_to_Xak_Tural.png",
-  "patch": "7.0",
-  "title_en": "The Long Road to Xak Tural",
-  "title": "เส้นทางอันยาวไกลสู่แซกทูรัล",
-  "level": "95",
-  "location": "Tuliyollal(X:14.3,Y:2.4)",
-  "npc_start": "Erenville",
+  "quest_id": "the-long-road-to-xak-tural",
   "dialogues": [
     {
-      "character": "Erenville",
+      "key": "readytogetunderway",
       "text_en": "Ready to get underway?",
       "text": "พร้อมที่จะออกเดินทางกันหรือยังครับ?"
     },
     {
-      "character": "Erenville",
+      "key": "thenpresentyourtravelpasstothatguardandletusbeoff",
       "text_en": "Then present your travel pass to that guard, and let us be off.",
       "text": "ถ้าอย่างนั้นก็นำเอกสารผ่านทางไปแสดงให้ทหารยามคนนั้นตรวจสอบ แล้วพวกเราก็ไปกันเถอะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "youwonthavetowaitlongtoenjoysightseeingthebridgetoxakturalisawonderinitsownright",
       "text_en": "You won't have to wait long to enjoy sightseeing. The bridge to Xak Tural is a wonder in its own right.",
       "text": "คุณคงไม่ต้องเฝ้ารอคอยนานหรอกครับเพื่อจะเริ่มชมทัศนียภาพอันสวยงาม ตัวสะพานใหญ่ที่ทอดข้ามไปแซกทูรัลนับเป็นสิ่งก่อสร้างอันน่าทึ่งในตัวเองเลยล่ะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "goonshowyourtravelpasstotheguard",
       "text_en": "Go on, show your travel pass to the guard.",
       "text": "เชิญเลยครับ แสดงเอกสารผ่านทางให้ทหารยามดูได้เลยครับ"
     },
     {
-      "character": "Landsguard Gate Sentry",
+      "key": "thisgateisbarredtoallsavethosewithexpresspermissionfromoneofthedawnservants",
       "text_en": "This gate is barred to all save those with express permission from one of the Dawnservants.",
       "text": "ประตูนี้ถูกกันไว้ไม่ให้ทุกคนยกเว้นผู้ที่ได้รับอนุญาตอย่างชัดแจ้งจากหนึ่งใน Dawnservants"
     },
     {
-      "character": "Landsguard Gate Sentry",
+      "key": "signedbyvowwuklamatherselfmyapologiessirmissifyouwouldwaitherejustamoment",
       "text_en": "...Signed by Vow Wuk Lamat herself! My apologies, sir / miss . If you would wait here just a moment.",
       "text": "...ลงนามโดย โว้ว วุค ละมาดเอง! ฉันขอโทษครับ/คุณ. หากคุณจะรออยู่ที่นี่สักครู่"
     },
     {
-      "character": "Erenville",
+      "key": "shallwethen",
       "text_en": "Shall we, then?",
       "text": "พวกเราไปกันเลยไหมครับ?"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "onthefarsideofthegreatbridgeunfoldedthewildsofshaaloaniwherethesunguidesintheshetonatongue",
       "text_en": "On the far side of the great bridge unfolded the wilds of Shaaloani—\"where the sun guides\" in the Shetona tongue.",
       "text": "อีกฟากหนึ่งของสะพานใหญ่เผยให้เห็นป่า ชาโลเอนี ซึ่งเป็น \"ที่ซึ่งดวงอาทิตย์นำทาง\" ในภาษาของ Shetona"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "aharshguidetobesurewithitsblazingraysscorchingthelandandhardeningitsinhabitants",
       "text_en": "A harsh guide, to be sure, with its blazing rays scorching the land and hardening its inhabitants.",
       "text": "แน่นอนว่าเป็นผู้นำทางที่โหดเหี้ยมด้วยรังสีอันลุกโชนที่แผดเผาแผ่นดินและทำให้ผู้อยู่อาศัยแข็งตัว"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "butsweepingchangehadcometothearidexpansewhenbeneathitsredcrustvastdepositsofceruleumwerediscovered",
       "text_en": "But sweeping change had come to the arid expanse when, beneath its red crust, vast deposits of ceruleum were discovered.",
       "text": "แต่การเปลี่ยนแปลงครั้งใหญ่ได้เกิดขึ้นในพื้นที่อันแห้งแล้ง เมื่อใต้เปลือกสีแดงมีการค้นพบซีรูเลียมจำนวนมหาศาล"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "embracingthisopportunityvowkoanassupportershurtleondrivenbydreamsofafutureilluminatedbyblueflame",
       "text_en": "Embracing this opportunity, Vow Koana's supporters hurtle on, driven by dreams of a future illuminated by blue flame.",
       "text": "ด้วยโอกาสนี้ ผู้สนับสนุนของ Vow โคอานา จึงพุ่งทะยานต่อไป โดยขับเคลื่อนด้วยความฝันถึงอนาคตที่ส่องสว่างด้วยเปลวไฟสีน้ำเงิน"
     },
     {
-      "character": "Erenville (Narration)",
+      "key": "itisherethatourjourneycontinuesourpathtakingusalongwendingroadsofsteeleachlengthoftrackadeclarationofhopeandambition",
       "text_en": "It is here that our journey continues, our path taking us along wending roads of steel. Each length of track a declaration of hope—and ambition.",
       "text": "ที่นี่คือการเดินทางของเราดำเนินต่อไป เส้นทางของเราพาเราไปตามถนนเหล็กที่คดเคี้ยว แต่ละเส้นทางคือการประกาศความหวังและความทะเยอทะยาน"
     },
     {
-      "character": "Erenville",
+      "key": "myhomeyyasulaniliespastshaaloani",
       "text_en": "My home, Yyasulani, lies past Shaaloani.",
       "text": "ยาสุลานี บ้านเกิดเมืองนอนของผม ตั้งอยู่ลึกเข้าไปถัดจากชาโลเอนีครับ"
     },
     {
-      "character": "Erenville",
+      "key": "itwillbealongjourneybuttherailroadshouldmakeiteasier",
       "text_en": "It will be a long journey, but the railroad should make it easier.",
       "text": "การเดินทางสืบค้นครั้งนี้คงยาวไกลพอดู แต่เส้นทางรถไฟน่าจะช่วยทุ่นแรงอำนวยความสะดวกให้พวกเราได้เยอะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "hmhm",
       "text_en": "Hmhm!",
       "text": "อืม!"
     },
     {
-      "character": "Erenville",
+      "key": "asforthewaytothetrainstationletsridethesefellowsshallwe",
       "text_en": "As for the way to the train station, let's ride these fellows, shall we?",
       "text": "ส่วนเรื่องการเดินทางไปยังสถานีรถไฟ พวกเราลองขี่เจ้าพวกสัตว์พาหนะเหล่านี้ไปกันดีไหมครับ?"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "wellwhathavewehere",
       "text_en": "Well, what have we here?",
       "text": "แล้วเรามีอะไรอยู่ที่นี่?"
     },
     {
-      "character": "Tsanaya",
+      "key": "wegetawholelottapeopletravelinthroughhereontheirwaytoandfromthecityneveradullmomentformeortherroneek",
       "text_en": "We get a whole lotta people travelin' through here on their way to and from the city. Never a dull moment for me or the rroneek.",
       "text": "เรามีผู้คนมากมายสัญจรไปมาที่นี่ ระหว่างทางไปและกลับจากเมือง ไม่เคยมีช่วงเวลาที่น่าเบื่อสำหรับฉันหรือผู้บุกรุก"
     },
     {
-      "character": "Erenville",
+      "key": "shortonrroneek",
       "text_en": "Short on rroneek?",
       "text": "ขาดแคลนโรนีกงั้นเหรอครับ?"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "fraidsoifonellsufficeihaveacreaturereadyandwaiting",
       "text_en": "'Fraid so. If one'll suffice, I have a creature ready and waiting.",
       "text": "'กลัวอย่างนั้น. หากใครพอเพียง ฉันก็เตรียมสิ่งมีชีวิตที่พร้อมรออยู่"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "butifyouneedtwothenyoullhavetowait",
       "text_en": "But if you need two, then you'll have to wait.",
       "text": "แต่ถ้าคุณต้องการสองคุณจะต้องรอ"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "therroneekhavebeenactinstrangelyoflatemoreeasilyspookedandotherwisedisagreeablepickinoutthefewfitforrentinsprovinbothersomework",
       "text_en": "The rroneek have been actin' strangely of late─more easily spooked and otherwise disagreeable. Pickin' out the few fit for rentin's provin' bothersome work.",
       "text": "นักล่ามีพฤติกรรมแปลกๆ ในช่วงหลังๆ มากขึ้น หวาดกลัวง่ายกว่าและไม่น่าพึงพอใจ เลือกเอาบางส่วนที่เหมาะกับการเช่างานที่น่ารำคาญ"
     },
     {
-      "character": "Erenville",
+      "key": "theyreusuallysodocileandtheonesisawearlierdidntappeartobeunhealthyeitherbutmuchhaschangedsincelastiwashere",
       "text_en": "They're usually so docile, and the ones I saw earlier didn't appear to be unhealthy, either. But much has changed since last I was here...",
       "text": "ปกติแล้วเจ้าโรนีกพวกนี้ค่อนข้างว่านอนสอนง่ายมากเลยนะครับ และตัวที่ผมเห็นเมื่อกี้ก็ดูแข็งแรงสุขภาพดีด้วย แต่ดูเหมือนสิ่งต่าง ๆ จะแปรเปลี่ยนไปเยอะนับจากครั้งสุดท้ายที่ผมเคยปักหลักอยู่ที่นี่ครับ..."
     },
     {
-      "character": "Erenville",
+      "key": "notthebeststarttoourjourney",
       "text_en": "Not the best start to our journey.",
       "text": "เริ่มต้นการเดินทางผจญภัยได้ไม่ค่อยสวยงามราบรื่นเท่าไหร่นะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "stillthetrainstationisntfarseeingaswearentinahurryletsgoonfoot",
       "text_en": "Still, the train station isn't far. Seeing as we aren't in a hurry, let's go on foot.",
       "text": "แต่อย่างไรก็ตาม สถานีรถไฟก็ตั้งอยู่ไม่ไกลจากตรงนี้มากนัก ในเมื่อพวกเราไม่ได้มีธุระรีบร้อนอะไร งั้นเดินเท้าไปกันเถอะครับ"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "aboutthatsiraswelltraveledasyoulookitsnotonlytherroneekthatvebeengivinustroubleotherwildlifehaveshownsignsofaggressiontoo",
       "text_en": "About that, sir. As well traveled as you look, it's not only the rroneek that've been givin' us trouble. Other wildlife have shown signs of aggression, too.",
       "text": "ประมาณนั้นครับท่าน เช่นเดียวกับการเดินทางที่คุณมองมา ไม่ใช่แค่คนเฝ้าบ้านเท่านั้นที่สร้างปัญหาให้กับเรา สัตว์ป่าอื่นๆ ก็มีสัญญาณของการรุกรานเช่นกัน"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "amerchantshouldbereturninsoonwithoneofourbeastsstickaroundtilltheydoandillseeyoubothonrroneekforasafertrip",
       "text_en": "A merchant should be returnin' soon with one of our beasts. Stick around till they do, and I'll see you both on rroneek for a safer trip.",
       "text": "พ่อค้าน่าจะกลับมาเร็วๆ นี้พร้อมกับหนึ่งในสัตว์ร้ายของเรา อยู่รอบๆ จนกว่าพวกเขาจะทำได้ แล้วเจอกันที่ Rroneek ทั้งคู่เพื่อการเดินทางที่ปลอดภัยยิ่งขึ้น"
     },
     {
-      "character": "Erenville",
+      "key": "yourofferismostappreciatedbutidontthinkmyfriendhereisparticularlyconcernedaboutthewildlife",
       "text_en": "Your offer is most appreciated, but I don't think my friend here is particularly concerned about the wildlife.",
       "text": "ขอขอบคุณในความหวังดีและเมตตาอย่างยิ่งครับ แต่ผมคิดว่าเพื่อนร่วมเดินทางของผมคนนี้คงไม่ได้มีปัญหาในการสู้รบรับมือกับพวกสัตว์ป่าแถวนี้หรอกครับ"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "aswellyoushouldgladtoseeatleastoneofyousgotsomesense",
       "text_en": "As well you should. Glad to see at least one of you's got some sense.",
       "text": "เช่นกันคุณควร ดีใจที่เห็นอย่างน้อยก็มีคนหนึ่งที่เข้าใจ"
     },
     {
-      "character": "Erenville",
+      "key": "youreenjoyingthisarentyou",
       "text_en": "...You're enjoying this, aren't you?",
       "text": "...คุณกำลังสนุกกับเรื่องน่าปวดหัวนี่อยู่ใช่ไหมครับ?"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "hahahaifthisisyourfirsttimeinshaaloaniicanunderstandyourenthusiasmitdbeashamenottorideatleastonewhileyourehere",
       "text_en": "Hahaha! If this is your first time in Shaaloani, I can understand your enthusiasm, it'd be a shame not to ride at least one while you're here.",
       "text": "ฮ่าๆๆ! หากนี่เป็นครั้งแรกที่คุณมาที่ ชาโลเอนี ฉันเข้าใจความกระตือรือร้นของคุณ คงน่าเสียดายที่จะไม่นั่งรถอย่างน้อยหนึ่งครั้งในขณะที่คุณอยู่ที่นี่"
     },
     {
-      "character": "Erenville",
+      "key": "afairpointifweretogiveyoutheauthenticshaaloaniexperienceisupposeitsworththewait",
       "text_en": "A fair point, if we're to give you the \"authentic Shaaloani experience,\" I suppose it's worth the wait.",
       "text": "ก็จริงของครูครับ หากต้องการจะให้คุณได้สัมผัส “ประสบการณ์การท่องเที่ยวชาโลเอนีของแท้ดั้งเดิม” ล่ะก็ ก็นับว่าคู่ควรแก่การเฝ้ารอคอยอยู่ครับ"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "evenifyouleftnowwaitinfortherroneekdbefasterthanwalkinandsaferbesidesyoullbebackontheroadbeforeyouknowitipromise",
       "text_en": "Even if you left now, waitin' for the rroneek'd be faster than walkin', and safer besides. You'll be back on the road before you know it, I promise.",
       "text": "แม้ว่าคุณจะจากไปตอนนี้ การรอเจ้าหน้าที่ก็เร็วกว่าการเดิน และปลอดภัยกว่าด้วย คุณจะกลับมาบนถนนก่อนที่คุณจะรู้ตัว ฉันสัญญา"
     },
     {
-      "character": "Erenville",
+      "key": "andtherewehaveit",
       "text_en": "And there we have it.",
       "text": "และนั่นแหละคือสิ่งที่ผมคาดเดาไว้"
     },
     {
-      "character": "Erenville",
+      "key": "rightchangeofplanstheresasmalltownnearbywecanpassthetimetherewhilewaiting",
       "text_en": "Right, change of plans. There's a small town nearby. We can pass the time there while waiting.",
       "text": "เอาล่ะครับ เปลี่ยนแผนการเดินทางกันหน่อยดีกว่า พอดีมีชุมชนเล็ก ๆ ตั้งอยู่ใกล้ ๆ แถวนี้ พวกเราสามารถแวะไปฆ่าเวลารอคอยรถไฟกันที่นั่นก่อนได้ครับ"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "takeityoureheadintohhusatahwithenillhaveamanbringtherroneekoverthere",
       "text_en": "Take it you're headin' to Hhusatahwi, then. I'll have a man bring the rroneek over there.",
       "text": "เข้าใจแล้ว คุณกำลังมุ่งหน้าไปยังฮูซาตาห์วี ฉันจะให้คนพาโรนีกไปที่นั่น"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "justmindyourselfaroundthedrunkardsandtroublemakerseh",
       "text_en": "Just mind yourself around the drunkards and troublemakers, eh?",
       "text": "แค่นึกถึงตัวเองอยู่ท่ามกลางคนขี้เมาและผู้ก่อปัญหาใช่ไหม?"
     },
     {
-      "character": "Sunbaked Stablekeep",
+      "key": "wonttakelongrestassuredkeepaneyeoutforamaninhhusatahwiwithtworroneek",
       "text_en": "Won't take long, rest assured. Keep an eye out for a man in Hhusatahwi with two rroneek.",
       "text": "ใช้เวลาไม่นาน มั่นใจได้เลย จับตาดูชายคนหนึ่งในฮูซาตาห์วีพร้อมกับคนสองคน"
     },
     {
-      "character": "Erenville",
+      "key": "lasttimeiwashereitwaslittlemorethanacampwithashoporthree",
       "text_en": "Last time I was here, it was little more than a camp with a shop or three.",
       "text": "ครั้งสุดท้ายที่ผมแวะมาเยือน ที่นี่มีสภาพเป็นแค่จุดกางเต็นท์ค่ายพักแรมที่มีร้านค้าซอมซ่อตั้งอยู่สองสามร้านเท่านั้นเองครับ"
     },
     {
-      "character": "Erenville",
+      "key": "wellwellitsbecomeapropertown",
       "text_en": "Well, well... It's become a proper town.",
       "text": "โอ้โฮ... ยามนี้มันพัฒนาจนกลายเป็นเมืองที่สมบูรณ์แบบไปซะแล้วครับ"
     },
     {
-      "character": "Hot-headed Youth (no text)",
+      "key": "hey",
       "text_en": "Hey!",
       "text": "เฮ้!"
     },
     {
-      "character": "Hot-headed Youth",
+      "key": "nowholdonaminute",
       "text_en": "Now hold on a minute!",
       "text": "ตอนนี้รอสักครู่!"
     },
     {
-      "character": "Erenville",
+      "key": "somesortoftrouble",
       "text_en": "Some sort of trouble?",
       "text": "เกิดเรื่องยุ่งยากอะไรขึ้นงั้นเหรอครับ?"
     },
     {
-      "character": "Hot-headed Youth",
+      "key": "imtalkingtoyouyouoldbastard",
       "text_en": "I'm talking to you, you old bastard!",
       "text": "ฉันกำลังคุยกับคุณนะ ไอ้สารเลว!"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "givemestrength",
       "text_en": "Give me strength...",
       "text": "ให้พลังแก่ฉัน..."
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "forthelasttimetheinvestigationisclosedtheresnorefutingtheevidence",
       "text_en": "For the last time, the investigation is closed. There's no refuting the evidence.",
       "text": "เป็นครั้งสุดท้ายที่การสอบสวนปิดลง ไม่มีการปฏิเสธหลักฐาน"
     },
     {
-      "character": "Hot-headed Youth",
+      "key": "idontgiveashitaboutyourevidenceyoulyingscumyoureleasemyfriendsorillmakeyouwishyouhad",
       "text_en": "I don't give a shit about your evidence, you lying scum! You release my friends, or I'll make you wish you had!",
       "text": "ฉันไม่สนเรื่องหลักฐานของคุณหรอก ไอ้สารเลว! คุณปล่อยเพื่อนของฉัน ไม่งั้นฉันจะทำให้คุณหวังว่าคุณจะมี!"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "letmeremindyouwhothescumishere",
       "text_en": "Let me remind you who the scum is here.",
       "text": "ฉันขอเตือนคุณว่าใครเป็นคนขยะที่นี่"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "yourfriendswhohadthetemeritytopointtheirfirearmsatmethedeputychiefofthedustwatch",
       "text_en": "Your friends, who had the temerity to point their firearms at me, the deputy chief of the Dustwatch.",
       "text": "เพื่อนๆ ของคุณที่มีความใจเย็นที่จะชี้ปืนมาที่ฉัน รองหัวหน้ากลุ่ม กองพิทักษ์ดัสต์วอทช์"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "andaftertakingthemintocustodywhatshouldwediscoverbutincontrovertibleproofthattheyhadcommittedlarceny",
       "text_en": "And after taking them into custody, what should we discover but incontrovertible proof that they had committed larceny.",
       "text": "และหลังจากควบคุมตัวพวกเขาแล้ว เราควรค้นพบอะไรนอกจากข้อพิสูจน์ที่ไม่อาจโต้แย้งได้ว่าพวกเขาได้กระทำการลักขโมย"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "theywillnotbereleaseduntiltheyvepaidfortheircrimes",
       "text_en": "They will not be released until they've paid for their crimes.",
       "text": "พวกเขาจะไม่ถูกปล่อยตัวจนกว่าพวกเขาจะชดใช้ความผิดของตน"
     },
     {
-      "character": "Erenville",
+      "key": "idheardapeacekeepingforcehadbeenformedtodealwithgrowinglawlessnessseemsthesituationisbadindeed",
       "text_en": "I'd heard a peacekeeping force had been formed to deal with growing lawlessness. Seems the situation is bad indeed.",
       "text": "ผมเคยได้ยินข่าวลือว่ามีการจัดตั้งกองกำลังท้องถิ่นเพื่อคุมความปลอดภัยรับมือกับพวกโจรป่าและกฎหมายนอกรีต ดูเหมือนสถานการณ์ความไม่สงบจะย่ำแย่กว่าที่คิดไว้เยอะเลยครับ"
     },
     {
-      "character": "Tipsy Man",
+      "key": "stillkickingupafussehsoundslikepoorzekowaneedshisbottle",
       "text_en": "Still kicking up a fuss, eh? Sounds like poor Zekowa needs his bottle.",
       "text": "ยังคงสร้างความยุ่งยากอยู่ใช่มั้ย? ดูเหมือนเซโคว่าผู้น่าสงสารต้องการขวดของเขา"
     },
     {
-      "character": "Blustering Hhetsarro",
+      "key": "surehewouldntpreferhismamasteat",
       "text_en": "Sure he wouldn't prefer his mama's teat?",
       "text": "แน่นอนว่าเขาคงไม่ชอบจุกนมของแม่ใช่ไหม?"
     },
     {
-      "character": "Zekowa",
+      "key": "treatmelikeachildwillyoumyfriendshaventdoneanythingwrongdamnittheyvebeenframed",
       "text_en": "Treat me like a child, will you!? My friends haven't done anything wrong, damn it! They've been framed!",
       "text": "เห็นข้าเป็นเด็กอมมือรึไง!? พวกพ้องของข้าไม่ได้ทำอะไรผิดทั้งนั้นแหละ โธ่เอ๊ย! พวกเขาโดนใส่ความปรักปรำต่างหาก!"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "stubbornlittlerunt",
       "text_en": "Stubborn little runt...",
       "text": "เด็กน้อยผู้ดื้อรั้น..."
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "listenherezekowaifyouwanttobetreatedlikeanadultthenyoudbestcomportyourselflikeonethatmeansrespectingtheruleoflaw",
       "text_en": "Listen here, Zekowa. If you want to be treated like an adult, then you'd best comport yourself like one. That means respecting the rule of law.",
       "text": "ฟังทางนี้เซโควา หากคุณต้องการได้รับการปฏิบัติเหมือนผู้ใหญ่ คุณควรทำตัวเหมือนผู้ใหญ่ดีที่สุด นั่นหมายถึงการเคารพหลักนิติธรรม"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "ordermaybeprecarioushereinshaaloanibutitcanbehadifeachmandoestherightthingandforthosethatdontwelltheyhavetoanswertothedustwatch",
       "text_en": "Order may be precarious here in Shaaloani, but it can be had if each man does the right thing. And for those that don't, well─they have to answer to the Dustwatch.",
       "text": "ระเบียบอาจไม่มั่นคงใน ชาโลเอนี แต่จะเกิดขึ้นได้หากแต่ละคนทำสิ่งที่ถูกต้อง และสำหรับผู้ที่ไม่ชอบ พวกเขาก็ต้องตอบคำถาม กองพิทักษ์ดัสต์วอทช์"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "nowrunalongandthinkbeforeyoucastaspersionsnexttime",
       "text_en": "Now run along, and think before you cast aspersions next time.",
       "text": "ตอนนี้วิ่งตามและคิดก่อนที่จะแสดงความเห็นในครั้งต่อไป"
     },
     {
-      "character": "Frustrated Gentleman",
+      "key": "lestyouhurtmyfeelings",
       "text_en": "Lest you hurt my feelings.",
       "text": "เกรงว่าคุณจะทำร้ายความรู้สึกของฉัน"
     },
     {
-      "character": "Zekowa",
+      "key": "fineifthatshowitsgonnabe",
       "text_en": "Fine... If that's how it's gonna be...",
       "text": "ก็ได้... ในเมื่อจะเอาแบบนี้ล่ะก็..."
     },
     {
-      "character": "???",
+      "key": "iwouldntifiwereyou",
       "text_en": "I wouldn't if I were you.",
       "text": "ฉันจะไม่ทำถ้าฉันเป็นคุณ"
     },
     {
-      "character": "Erenville",
+      "key": "isthat",
       "text_en": "Is that...?",
       "text": "นั่นคือ...?"
     },
     {
-      "character": "Estinien",
+      "key": "theresatimetofightandatimetowithdrawforyouthatsnow",
       "text_en": "There's a time to fight and a time to withdraw. For you, that's now.",
       "text": "มีเวลาต่อสู้และมีเวลาถอนตัว สำหรับคุณนั่นคือตอนนี้"
     },
     {
-      "character": "Zekowa",
+      "key": "what",
       "text_en": "What?",
       "text": "อะไร"
     },
     {
-      "character": "Concerned Hhetsarro",
+      "key": "hey",
       "text_en": "Hey!",
       "text": "เฮ้!"
     },
     {
-      "character": "Concerned Hhetsarro",
+      "key": "whatareyoudoingzekowayoubetternotbestirringuptrouble",
       "text_en": "What are you doing, Zekowa? You better not be stirring up trouble!",
       "text": "ทำอะไรอยู่ เซโควา? อย่าสร้างปัญหาดีกว่า!"
     },
     {
-      "character": "Zekowa",
+      "key": "wihuwteyousackofrroneekshitthisaintoveryouhearme",
       "text_en": "Wihuwte, you sack of rroneek shit! This ain't over, you hear me!?",
       "text": "วิฮูฟเต เจ้ามูลโรนีกเอ๊ย! เรื่องนี้ยังไม่จบหรอก ได้ยินข้าไหม!?"
     },
     {
-      "character": "Concerned Hhetsarro",
+      "key": "youwanttotellmewhatthatwasabout",
       "text_en": "You want to tell me what that was about?",
       "text": "คุณอยากจะบอกฉันว่ามันเกี่ยวกับอะไร?"
     },
     {
-      "character": "Wihuwte",
+      "key": "nothingthatneedconcernyousirzekowaissimplystrugglingtocometotermswiththelowcharacterofhisfriends",
       "text_en": "Nothing that need concern you, sir. Zekowa is simply struggling to come to terms with the low character of his friends.",
       "text": "ไม่มีอะไรที่ต้องกังวลครับท่าน เซโควาพยายามดิ้นรนที่จะยอมรับนิสัยต่ำต้อยของเพื่อนๆ"
     },
     {
-      "character": "Wihuwte",
+      "key": "butforgoodmeasureillhavethemenkeepaneyeonhim",
       "text_en": "But for good measure, I'll have the men keep an eye on him.",
       "text": "แต่เพื่อประโยชน์ที่ดี ฉันจะให้พวกผู้ชายจับตาดูเขาไว้"
     },
     {
-      "character": "Concerned Hhetsarro",
+      "key": "yesyoudothat",
       "text_en": "Yes, you do that.",
       "text": "ใช่คุณทำอย่างนั้น"
     },
     {
-      "character": "Wihuwte",
+      "key": "nowifyoullexcusemeillgomakemyrounds",
       "text_en": "Now, if you'll excuse me, I'll go make my rounds.",
       "text": "เอาล่ะ ถ้าคุณจะขอโทษ ฉันจะไปทำรอบของฉัน"
     },
     {
-      "character": "Estinien",
+      "key": "iwasntexpectingtoseeyourfacesamongthecrowd",
       "text_en": "I wasn't expecting to see your faces among the crowd.",
       "text": "ฉันไม่ได้คาดหวังที่จะเห็นใบหน้าของคุณท่ามกลางฝูงชน"
     },
     {
-      "character": "Estinien",
+      "key": "talkisrifetheresanewdawnservantitakeityouvefounditthenthegoldencity",
       "text_en": "Talk is rife there's a new Dawnservant. I take it you've found it, then─the golden city.",
       "text": "มีการพูดคุยกันมากมาย มี Dawnservant ใหม่ ฉันเข้าใจว่าคุณได้พบแล้ว─เมืองสีทอง"
     },
     {
-      "character": "Erenville",
+      "key": "ayethecontestisoverandasineededtoreturnhometoyyasulaniiofferedtoshowourfriendsomeofxaktural",
       "text_en": "Aye, the contest is over. And as I needed to return home to Yyasulani, I offered to show our friend some of Xak Tural.",
       "text": "ใช่ครับ พิธีประลองการแย่งชิงบัลลังก์จบสิ้นลงแล้ว และในเมื่อผมมีธุระต้องเดินทางกลับบ้านเกิดที่ยาสุลานีพอดี เลยถือโอกาสชวนคุณ [ชื่อ] แวะมาเที่ยวชมแผ่นดินแซกทูรัลน่ะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "whatbringsyounorth",
       "text_en": "What brings you north?",
       "text": "อะไรดลใจให้คุณเดินทางขึ้นเหนือมาล่ะครับ?"
     },
     {
-      "character": "Estinien",
+      "key": "nothinginparticularjustseeingwhatthereistosee",
       "text_en": "Nothing in particular. Just seeing what there is to see.",
       "text": "ไม่มีอะไรเป็นพิเศษ แค่เห็นว่ามีอะไรให้ดูบ้าง"
     },
     {
-      "character": "Estinien",
+      "key": "gulooljajacompensatedmerathergenerouslyforourduelillbeabletoenjoyacomfortablelifeontheroadfortheforeseeablefuture",
       "text_en": "Gulool Ja Ja compensated me rather generously for our duel. I'll be able to enjoy a comfortable life on the road for the foreseeable future.",
       "text": "กูลูล จาจาตอบแทนฉันค่อนข้างมากสำหรับการดวลของเรา ฉันจะสามารถเพลิดเพลินไปกับชีวิตที่สะดวกสบายบนท้องถนนได้ในอนาคตอันใกล้"
     },
     {
-      "character": "Estinien",
+      "key": "butfornowishallbemovingon",
       "text_en": "But for now, I shall be moving on.",
       "text": "แต่สำหรับตอนนี้ ฉันจะเดินหน้าต่อไป"
     },
     {
-      "character": "Estinien",
+      "key": "ohbythewayirecommendyoutrythesabotendertheymaynotlookitbuttheyresurprisinglydelicious",
       "text_en": "Oh, by the way─I recommend you try the sabotender. They may not look it, but they're surprisingly delicious.",
       "text": "โอ้ ยังไงก็ตาม─ฉันขอแนะนำให้คุณลองผู้ก่อวินาศกรรมดู ถึงอาจจะดูไม่เข้าท่าแต่ก็อร่อยอย่างน่าประหลาดใจ"
     },
     {
-      "character": "Erenville",
+      "key": "butwedontservesabotenderhere",
       "text_en": "But...we don't serve sabotender here.",
       "text": "ขออภัยด้วยครับ... แต่ที่ร้านของพวกเราไม่มีเมนูกระบองเพชรซาโบเทนเดอร์บริการหรอกนะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "nosoonerdowesetoutthanwerunintoexcitementatleastnoonewashurt",
       "text_en": "No sooner do we set out than we run into excitement... At least no one was hurt.",
       "text": "เพิ่งจะก้าวพ้นประตูเมืองออกมาแท้ ๆ ก็มีเรื่องราวตื่นเต้นท้าทายให้ปวดหัวซะแล้ว... แต่อย่างน้อยก็ไม่มีใครได้รับบาดเจ็บล้มตายล่ะนะครับ"
     },
     {
-      "character": "Erenville",
+      "key": "thisdustwatchhastheirworkcutoutforthemforaslongasicanrememberalldisputesbigorsmallweresettledbydueling",
       "text_en": "This Dustwatch has their work cut out for them. For as long as I can remember, all disputes big or small were settled by dueling.",
       "text": "กองพิทักษ์ดัสต์วอทช์คงต้องเหนื่อยแก้ไขปัญหากันหนักหน่อยล่ะครับ เพราะเท่าที่ผมจำความได้ ปัญหาความขัดแย้งไม่ว่าจะเล็กหรือใหญ่ในดินแดนแถบนี้มักลงเอยด้วยการดวลปืนชี้ชะตากันเสมอครับ"
     },
     {
-      "character": "Erenville",
+      "key": "thepeoplesofshaaloanirarelysaweyetoeyeandforbetterorworseitwasthesimplestwaytosettledifferences",
       "text_en": "The peoples of Shaaloani rarely saw eye to eye. And for better or worse, it was the simplest way to settle differences.",
       "text": "ประชาชนชาวชาโลเอนีแทบจะไม่เคยมีความคิดเห็นตรงกันเลยครับ และไม่ว่าจะส่งผลดีหรือผลเสียอย่างไร การท้าดวลก็เป็นทางออกที่ง่ายและรวดเร็วที่สุดในการสะสางปัญหาคาใจครับ"
     },
     {
-      "character": "Erenville",
+      "key": "sincemostwouldsoonernotrisktheirlivesthoughitencouragedpartiestopursuepeacefulresolutionsinaroundaboutfashion",
       "text_en": "Since most would sooner not risk their lives, though, it encouraged parties to pursue peaceful resolutions in a roundabout fashion.",
       "text": "แต่ในเมื่อคนส่วนใหญ่ก็แอบกังวลไม่ยากจะเอาชีวิตตัวเองมาเดิมพันเสี่ยงตายเปล่า ๆ มันเลยคอยกระตุ้นให้คู่กรณีหันมาเจรจาประนีประนอมกันอย่างสันติวิธีทางอ้อมแทนครับ"
     },
     {
-      "character": "Erenville",
+      "key": "thedustwatchwaslikelyestablishedbysupportersofkoanapreferringpeacebeenforcedthroughtheformalruleoflaw",
       "text_en": "The Dustwatch was likely established by supporters of Koana, preferring peace be enforced through the formal rule of law.",
       "text": "กองพิทักษ์ดัสต์วอทช์น่าจะถูกจัดตั้งขึ้นโดยกลุ่มผู้สนับสนุนแนวคิดของพี่โคอานา เพื่อมุ่งเน้นการคุมความปลอดภัยรักษาสันติภาพผ่านกฎหมายราชการอย่างเป็นระบบครับ"
     },
     {
-      "character": "Erenville",
+      "key": "areasonablestanceallthingsconsideredifthingsevergotoutofhandthelandsguardwouldbeforcedtostepinwhatfreedomtheyhavenowwouldbelostunderzoraaljasauthority",
       "text_en": "A reasonable stance, all things considered. If things ever got out of hand, the Landsguard would be forced to step in. What freedom they have now would be lost under Zoraal Ja's authority.",
       "text": "ก็นับเป็นจุดยืนที่สมเหตุสมผลดีครับ เพราะหากสถานการณ์บานปลายไร้การควบคุม กองกำลังทหารรักษาดินแดนแลนด์สการ์ด (ทหารรักษาดินแดนแลนด์สการ์ด) ก็คงจำเป็นต้องยื่นมือเข้ามาแทรกแซง ซึ่งหากเป็นเช่นนั้น อิสรภาพที่ชาวบ้านมีอยู่ย่อมจะมลายสลายหายไปภายใต้สิทธิ์อำนาจการปกครองอันโหดเหี้ยมของพี่ใหญ่โซราล จา แน่นอนครับ"
     },
     {
-      "character": "Erenville",
+      "key": "allofwhichistosaythatunlessalengthystayinajailhouseappealstoyoubemindfulofhowyouhandleyourarmsintown",
       "text_en": "All of which is to say that, unless a lengthy stay in a jailhouse appeals to you, be mindful of how you handle your arms in town.",
       "text": "ที่ผมอธิบายเล่ามาทั้งหมดนี้ก็เพื่อจะบอกว่า หากคุณไม่อยากต้องไปนอนนับลูกกรงกินข้าวแดงในคุกตารางยาว ๆ ล่ะก็ โปรดระมัดระวังตัวในการใช้กำลังอาวุธยามอยู่ในเมืองด้วยนะครับ"
     }

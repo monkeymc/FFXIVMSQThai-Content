@@ -1,506 +1,498 @@
 {
-  "id": "her-people-her-family",
-  "wiki_path": "/wiki/Her_People,_Her_Family",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/Quest_Accepted.png",
-  "patch": "7.0",
-  "title_en": "Her People, Her Family",
-  "title": "ประชาชนของเธอ ครอบครัวของเธอ",
-  "level": "98",
-  "location": "Solution Nine(X:4.3,Y:19.6)",
-  "npc_start": "Sphene",
+  "quest_id": "her-people-her-family",
   "dialogues": [
     {
-      "character": "Wuk Lamat",
+      "key": "tothinkthattheyhadsuchaproblem",
       "text_en": "To think that they had such a problem...",
       "text": "ไม่คิดเลยว่าพวกเขากำลังเผชิญหน้ากับปัญหาร้ายแรงขนาดนั้นอยู่..."
     },
     {
-      "character": "Sphene",
+      "key": "wellletscontinuethetourshallwe",
       "text_en": "Well, let's continue the tour, shall we?",
       "text": "เอาล่ะค่ะ พวกเรากลับมาดำเนินทัวร์กันต่อดีไหมคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "lookyouobviouslyhavedutiestoattendtocitizenstolookafterwecanstophereifyoulike",
       "text_en": "Look, you obviously have duties to attend to—citizens to look after. We can stop here if you like.",
       "text": "นี่ เธอมีภาระหน้าที่ดูแลจัดการแผ่นดินและประชาชนเต็มไปหมดเลยไม่ใช่เหรอ หากต้องการจะพักเสร็จสิ้นทัวร์ไว้แค่นี้ก่อนก็บอกได้เลยนะ"
     },
     {
-      "character": "Sphene",
+      "key": "nonoidothisbecauseiwanttosopleasedonotworry",
       "text_en": "No, no. I do this because I want to, so please do not worry.",
       "text": "ไม่หรอกค่ะ ฉันทำเพราะมีความตั้งใจอยากจะพาเดินสำรวจอยู่แล้วล่ะค่ะ เพราะฉะนั้นกรุณาอย่าเป็นกังวลใจไปเลยนะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "nextillshowyouoneofthedistrictsmostvitalfacilitiesaplacecalledresolutiontoreachitwellneedtogobywayofleynodeninewheretheaetheryteissituated",
       "text_en": "Next, I'll show you one of the district's most vital facilities, a place called Resolution. To reach it, we'll need to go by way of leynode nine, where the aetheryte is situated.",
       "text": "จุดหมายต่อไป ฉันอยากจะพาไปดูหนึ่งในสิ่งอำนวยความสะดวกที่สำคัญที่สุดของเขตนี้ สถานที่นี้มีชื่อเรียกว่าเรโซลูชันค่ะ การจะเดินทางไปที่นั่น พวกเราจำเป็นต้องเดินทางผ่านเลย์โนดเก้าซึ่งเป็นจุดติดตั้งอีเธอร์ไรต์น่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "gulpddonttellmeweneedtousethatnow",
       "text_en": "<gulp> D-Don't tell me we need to use that now?",
       "text": "อึ๋ย... อย่าบอกนะว่าเราต้องขึ้นเจ้าสายพานนั่นกันเดี๋ยวนี้เลยน่ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "theconveyoraheadwilltransportyoutothegovernmentsectorwhereresolutionislocated",
       "text_en": "The conveyor ahead will transport you to the government sector, where Resolution is located.",
       "text": "สายพานส่งกำลังข้างหน้าจะช่วยพาคุณเดินทางเคลื่อนย้ายไปยังเขตราชการ ซึ่งเป็นที่ตั้งของเรโซลูชันน่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "themarkingsonaconveyorindicateitsdirectionandthereisapairjustlikeitontheotherside",
       "text_en": "The markings on a conveyor indicate its direction, and there is a pair just like it on the other side.",
       "text": "ลวดลายสัญลักษณ์บนสายพานจะทำหน้าที่บอกทิศทางการเคลื่อนที่ค่ะ และจะมีสายพานในลักษณะเดียวกันอีกคู่อยู่ที่อีกฝั่งตรงข้ามด้วยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iisitsafe",
       "text_en": "I-Is it safe?",
       "text": "ม... มันปลอดภัยดีใช่ไหม?"
     },
     {
-      "character": "Sphene",
+      "key": "extremelytheresnoneedtobeafraid",
       "text_en": "Extremely. There's no need to be afraid.",
       "text": "ปลอดภัยมากๆ เลยล่ะค่ะ ไม่มีอะไรที่ต้องกลัวเลยนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whwhosaidiwasafraidcomeonforename",
       "text_en": "Wh-Who said I was afraid? Come on, Forename !",
       "text": "คร... ใครบอกว่าข้ากลัวกันเล่า? ไปกันเถอะ Forename!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "nnothingtoitehachildsamusementride",
       "text_en": "N-Nothing to it, eh? A child's amusement ride!",
       "text": "ม... ไม่มีอะไรน่ากลัวเลยเนอะ? ของเล่นเครื่องเล่นธรรมดาๆ ของพวกเด็กๆ แท้ๆ!"
     },
     {
-      "character": "Sphene",
+      "key": "andhereweareresolutiontheoperationalheartofsolutionnine",
       "text_en": "And here we are—Resolution, the operational heart of Solution Nine.",
       "text": "และพวกเราก็เดินทางมาถึงแล้วค่ะ—เรโซลูชัน ศูนย์กลางหลักในการดำเนินงานขับเคลื่อนโซลูชันไนน์ค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "fromresolutionweoverseetherunningofthedistrictandprovideessentialservicestocitizenssuchaswelfaresupportandjobintroductions",
       "text_en": "From Resolution we oversee the running of the district and provide essential services to citizens, such as welfare support and job introductions.",
       "text": "พวกเราใช้เรโซลูชันทำหน้าที่บริหารจัดการปกครองเขต และส่งมอบการบริการที่จำเป็นต่างๆ แก่พลเมือง เช่น ระบบดูแลสวัสดิการสังคม และการรับลงทะเบียนแนะนำอาชีพการงานค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "itsquickertoshowthantellsoletsproceedinside",
       "text_en": "It's quicker to show than tell, so let's proceed inside.",
       "text": "สิบปากว่าไม่เท่าตาเห็น เชิญพวกเราก้าวเท้าเข้าไปดูข้างในกันดีกว่าค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "strangecontraptionseverywhereyoulook",
       "text_en": "Strange contraptions everywhere you look...",
       "text": "มีพวกเครื่องไม้เครื่องมือรูปทรงประหลาดเต็มไปหมดเลยแฮะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatsthat",
       "text_en": "What's that?",
       "text": "แล้วนั่นมันคืออะไรล่ะ?"
     },
     {
-      "character": "Sphene",
+      "key": "aninfusionstationitdispensessoulsinexchangeforcredits",
       "text_en": "An infusion station. It dispenses souls in exchange for credits.",
       "text": "สถานีประจุวิญญาณค่ะ เครื่องนี้จะทำหน้าที่จ่ายวิญญาณให้แก่พลเมืองเพื่อแลกกับแต้มเครดิตค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "throughhardworkcitizenscanobtainthepeaceofmindprovidedbysparesoulsitsthewayoflifeforalexandriansandhasbeenforquitesometime",
       "text_en": "Through hard work, citizens can obtain the peace of mind provided by spare souls. It's the way of life for Alexandrians and has been for quite some time.",
       "text": "ด้วยการทุ่มเททำงานอย่างแข็งขัน ประชาชนจะสามารถแลกความอุ่นใจในการมีดวงวิญญาณสำรองเก็บสะสมไว้ได้ค่ะ นี่คือวิถีชีวิตดั้งเดิมของชาวอเล็กซานเดรียมาเป็นเวลาช้านานแล้วล่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "butiimagineitmustbedifficultforoutsiderstocomprehend",
       "text_en": "But I imagine it must be difficult for outsiders to comprehend.",
       "text": "แต่ฉันเข้าใจนะคะว่าคนนอกอาณาจักรอาจจะทำใจเชื่อและเข้าใจระบบแบบนี้ได้ยากน่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsputtingitlightlytobehonestitsoundsdisturbing",
       "text_en": "That's putting it lightly. To be honest, it sounds disturbing.",
       "text": "พูดซะเบาไปเลยล่ะ ความจริงคือมันฟังดูน่าขนลุกและชวนอึดอัดใจชะมัดเลย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "stilliwontdismissitoutofhandpracticeslikethesedontarisefromnothing",
       "text_en": "Still, I won't dismiss it out of hand. Practices like these don't arise from nothing.",
       "text": "แต่ถึงอย่างนั้น ฉันก็จะไม่ด่วนปฏิเสธคัดค้านมันโดยไม่คิดวิเคราะห์หรอกนะ เพราะวิถีธรรมเนียมแบบนี้คงไม่ได้จู่ๆ ก็โผล่เกิดขึ้นมาลอยๆ แน่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theresareasonwhyyourcultureisthewayitisandidliketounderstandwontyoutellussomeofyourrealmshistory",
       "text_en": "There's a reason why your culture is the way it is, and I'd like to understand. Won't you tell us some of your realm's history?",
       "text": "มันต้องมีเรื่องราวจุดเริ่มต้นที่ทำให้วัฒนธรรมของพวกเธอลงเอยแบบนี้ และฉันอยากจะศึกษาทำความเข้าใจ ช่วยเล่าเรื่องราวประวัติศาสตร์ในอดีตของดินแดนแห่งนี้ให้พวกเราฟังหน่อยได้ไหม?"
     },
     {
-      "character": "Sphene",
+      "key": "verywellbewarnedthoughthatitmaytakeawhile",
       "text_en": "Very well. Be warned, though, that it may take a while.",
       "text": "ได้แน่นอนค่ะ แต่ขอบอกเตือนไว้ก่อนนะคะว่าเรื่องเล่าประวัติศาสตร์นี้อาจจะค่อนข้างยาวนานสักหน่อยนะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "inthedistantpastoverathousandyearsagoitssaidlightningenergybegantoswellinourworld",
       "text_en": "In the distant past—over a thousand years ago, it's said—lightning energy began to swell in our world.",
       "text": "ย้อนเวลากลับไปในอดีตอันแสนไกลโพ้น—เล่าต่อกันมาว่ากว่าหนึ่งพันปีที่แล้ว พลังงานสายฟ้าในโลกของพวกเราเริ่มที่จะสะสมหนาแน่นและขยายตัวขึ้นอย่างรุนแรงค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "accordingtoancientrecordsthatdatebackaroundeightcenturiestherainyseasonspannedaquarteroftheyearduringwhichtimeseverethunderstormsravagedtheland",
       "text_en": "According to ancient records that date back around eight centuries, the rainy season spanned a quarter of the year, during which time severe thunderstorms ravaged the land.",
       "text": "สืบเนื่องจากบันทึกจารึกโบราณเมื่อประมาณแปดร้อยปีก่อน ฤดูฝนกินเวลายาวนานถึงหนึ่งในสี่ของปี ซึ่งในช่วงเวลาดังกล่าวจะเกิดพายุฝนฟ้าคะนองรุนแรงกระหน่ำทำลายผืนแผ่นดินจนเสียหายย่อยยับค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "fourcenturieslaterthisseasonhadlengthenedtonearlyhalftheyear",
       "text_en": "Four centuries later, this season had lengthened to nearly half the year.",
       "text": "พอเวลาผ่านล่วงเลยไปอีกสี่ร้อยปีต่อมา ฤดูมรสุมนี้ก็แผ่ขยายเวลายาวนานเพิ่มขึ้นจนครอบคลุมเวลาเกือบครึ่งค่อนปีเลยล่ะค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "thetrendcontinuedwithourancestorsspendinglongerandlongerlanguishingbeneathstormcloudscropsfailedandlivestockstarved",
       "text_en": "The trend continued, with our ancestors spending longer and longer languishing beneath storm clouds. Crops failed and livestock starved.",
       "text": "สถานการณ์เลวร้ายลงเรื่อยๆ บรรพบุรุษของพวกเราต้องทนใช้ชีวิตอยู่ภายใต้เงามืดของเมฆฝนฟ้าคะนองอันยาวนาน พืชพรรณทางการเกษตรเหี่ยวเฉาแห้งตาย และพวกสัตว์เลี้ยงในคอกล้มตายเพราะไม่มีอาหารกินค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "butamidstthisgrowingdesperationamiraculousmaterialwasdiscoveredthatpromisedsalvationelectrope",
       "text_en": "But amidst this growing desperation, a miraculous material was discovered that promised salvation: electrope.",
       "text": "แต่ทว่าในระหว่างที่ความสิ้นหวังกำลังแผ่ซ่านกว้างขวางขึ้น จู่ๆ ก็มีการประดิษฐ์ค้นพบแร่วิเศษที่กลายมาเป็นแสงสว่างช่วยยื้อชีวิตผู้คน นั่นก็คือเอเลกโทรปค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thestuffthatsusedeverywherehere",
       "text_en": "The stuff that's used everywhere here.",
       "text": "ไอ้วัสดุวิเศษที่ใช้ก่อสร้างข้าวของเกือบทุกอย่างของที่นี่สินะ"
     },
     {
-      "character": "Sphene",
+      "key": "indeedonedaywhenoutinspectingaforestafterlightninghadcausedafireavillagercameuponacuriousblackorenonehadseenbefore",
       "text_en": "Indeed. One day, when out inspecting a forest after lightning had caused a fire, a villager came upon a curious black ore none had seen before.",
       "text": "ใช่ค่ะ วันหนึ่งหลังจากมีพายุฝนฟ้าคะนองและฟ้าผ่าจนเกิดไฟไหม้ป่าขึ้น ชาวบ้านคนหนึ่งได้ออกไปเดินตรวจป่าแล้วบังเอิญพบกับแร่สีดำรูปทรงประหลาดที่ไม่มีใครเคยเห็นมาก่อนในชีวิตค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "testingrevealedthattheorepossessedasingularpropertyitcouldstorelightningandconvertittootherenergiesinthatinstantthescourgeofendlessstormsbecameablessing",
       "text_en": "Testing revealed that the ore possessed a singular property: it could store lightning and convert it to other energies. In that instant, the scourge of endless storms became a blessing.",
       "text": "หลังจากนำมาทดสอบวิเคราะห์ ก็พบว่าแร่นี้มีคุณสมบัติพิเศษเฉพาะตัวอย่างยิ่ง: มันสามารถดูดซับกักเก็บพลังงานสายฟ้าและแปลงเป็นพลังงานธาตุอื่นๆ ได้ค่ะ ในวินาทีนั้น วิกฤตพายุร้ายแรงที่ไม่มีวันจบสิ้นก็แปรเปลี่ยนกลับกลายเป็นพรสวรรค์และสิ่งล้ำค่าในทันทีเลยค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "dubbedelectropetheorefounduseinmyriadinventionsanddramaticallyimprovedpeopleslives",
       "text_en": "Dubbed electrope, the ore found use in myriad inventions and dramatically improved people's lives.",
       "text": "แร่นี้ถูกตั้งชื่อว่าเอเลกโทรป และถูกนำมาใช้ประดิษฐ์คิดค้นสิ่งของเครื่องใช้จำนวนนับไม่ถ้วน ช่วยยกระดับคุณภาพชีวิตความเป็นอยู่ของผู้คนให้ดีขึ้นอย่างก้าวกระโดดเลยค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "somuchsoinfactthatallnationssoonbecamedependentuponitdespitethedifficultyofobtainingitinquantity",
       "text_en": "So much so, in fact, that all nations soon became dependent upon it—despite the difficulty of obtaining it in quantity.",
       "text": "ส่งผลให้ประเทศเพื่อนบ้านและแว่นแคว้นทั้งหมดหันมาพึ่งพาแร่นี้อย่างหลีกเลี่ยงไม่ได้—แม้ว่าการเสาะหาและสกัดแร่ในปริมาณที่เยอะๆ จะเป็นเรื่องยากเย็นแสนเข็ญก็ตามค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "supplywaschronicallyscarceandwhennationscouldntmeettheirneedswiththeirowndepositssomeresortedtotakingelectropefromothers",
       "text_en": "Supply was chronically scarce. And when nations couldn't meet their needs with their own deposits, some resorted to taking electrope from others...",
       "text": "ผลผลิตแร่นี้ขาดแคลนเรื้อรังมาโดยตลอดค่ะ และเมื่อบางประเทศไม่มีปริมาณแร่เพียงพอจะตอบสนองความต้องการในดินแดนของตนเองได้ บางแคว้นเลยหันมาใช้วิธีแย่งชิงสิทธิ์เอเลกโทรปจากประเทศอื่นแทนค่ะ..."
     },
     {
-      "character": "Sphene",
+      "key": "fightingwasisolatedandsporadicuntilelectropecametobeusedinwarfarefirstintheweaponryofinvaderstheninthecountermeasuresofdefendersandthenineveryaspectofcombatwhereanadvantagemightbehad",
       "text_en": "Fighting was isolated and sporadic—until electrope came to be used in warfare. First in the weaponry of invaders, then in the countermeasures of defenders, and then in every aspect of combat where an advantage might be had.",
       "text": "ช่วงแรกการสู้รบจำกัดวงและเกิดขึ้นประปรายเท่านั้น—จนกระทั่งมีการนำเอเลกโทรปมาดัดแปลงใช้ในทางการทหารและสงคราม เริ่มจากการผลิตเป็นอาวุธของผู้รุกราน จากนั้นฝั่งป้องกันก็นำมาทำแนวต้านรับศึก และในที่สุดก็นำมาประยุกต์ใช้ในทุกมิติของการสู้รบเพื่อชิงความได้เปรียบทางสงครามค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "thisservedonlytoexacerbatetheoreshortageleadingtofurtherescalationbeforelongtheentireworldwasengulfedinaterriblewarknownasthestormsurge",
       "text_en": "This served only to exacerbate the ore shortage, leading to further escalation. Before long, the entire world was engulfed in a terrible war known as the Storm Surge.",
       "text": "เรื่องนี้ทำให้วิกฤตการขาดแคลนแร่ทวีความรุนแรงและบานปลายขึ้นไปอีก ในไม่ช้า โลกทั้งใบก็ถูกกลืนกินโดยสงครามทำลายล้างครั้งใหญ่ที่ถูกขนานนามว่า สงครามวายุอัสนี ค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "asthewarcametoaheadalexandriasneighborlindblumcommitteditsstoresofelectropetotheproductionofaweaponofmassdestruction",
       "text_en": "As the war came to a head, Alexandria's neighbor Lindblum committed its stores of electrope to the production of a weapon of mass destruction.",
       "text": "เมื่อสงครามดำเนินมาถึงขีดสุด ลินด์บลุมซึ่งเป็นประเทศเพื่อนบ้านติดกับอเล็กซานเดรีย ได้นำคลังสำรองเอเลกโทรปทั้งหมดของตนไปทุ่มเทผลิตอาวุธทำลายล้างอานุภาพสูงขึ้นมาค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "theydeployeditonthefrontlinesandtriggeredacalamityoffrightfulmagnitudenoteventheirownscientistshadanticipatedtheforceofthelightningthatwasunleashedtheenergyinundatedtheentirecontinentlayingittowaste",
       "text_en": "They deployed it on the front lines...and triggered a calamity of frightful magnitude. Not even their own scientists had anticipated the force of the lightning that was unleashed. The energy inundated the entire continent, laying it to waste.",
       "text": "พวกเขาใช้อาวุธนั้นโจมตีแนวรบแนวหน้า... และก่อให้เกิดมหาวิบัติร้ายแรงขนาดที่ประเมินไม่ได้ แม้แต่เหล่านักวิทยาศาสตร์ผู้สร้างเองก็คาดการณ์ไม่ถึงว่ากระแสไฟฟ้าที่ปะทุออกมาจะรุนแรงขนาดยักษ์ได้เพียงนั้น พลังงานสายฟ้าไหลบ่าเข้าท่วมและทำลายผืนแผ่นดินทั้งทวีปจนราบคาบเหลือแต่ซากปรักหักพังค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sothatshowyourworldcametobethisway",
       "text_en": "So that's how your world came to be this way...",
       "text": "มิน่าล่ะ โลกฝั่งของเธอถึงได้กลายสภาพมาเป็นแบบนี้เองสินะ..."
     },
     {
-      "character": "Sphene",
+      "key": "youtrulyknowagreatmanythingsthatidontishouldliketolearnaboutyoutoosometime",
       "text_en": "You truly know a great many things that I don't. I should like to learn about you too sometime.",
       "text": "คุณมีความรู้และความเข้าใจในหลายๆ เรื่องที่ฉันไม่เคยรู้มาก่อนเลยล่ะค่ะ ไว้มีโอกาสฉันก็อยากจะเรียนรู้เรื่องราวของคุณบ้างเหมือนกันนะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "buttocontinuethetalethepeopleofalexandriahadalreadylostmuchtothewartheylostalmosteverythingelsetothelevin",
       "text_en": "But to continue the tale... The people of Alexandria had already lost much to the war. They lost almost everything else to the levin.",
       "text": "ขอเล่าเรื่องราวต่อจากเมื่อกี้นะคะ... ประชาชนชาวอเล็กซานเดรียสูญเสียอะไรต่อมิอะไรไปมากมายจากภัยสงครามอยู่ก่อนแล้ว และพอเกิดมหาวิบัติสายฟ้าฟาดครั้งใหญ่นั่นขึ้น พวกเขาก็สูญเสียเกือบทุกสิ่งทุกอย่างที่เหลือรอดไปจนหมดสิ้นค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "thosewhosurvivedboredeepscarstormentedbythememoryoflovedonestakentoosoonthoughtheyyetlivedthecruelspecterofdeathwaswiththemalways",
       "text_en": "Those who survived bore deep scars, tormented by the memory of loved ones taken too soon. Though they yet lived, the cruel specter of death was with them always.",
       "text": "ทุกคนที่รอดชีวิตต่างก็มีบาดแผลทางใจที่หยั่งรากลึก ต้องทนทุกข์ทรมานกับความทรงจำเกี่ยวกับบุคคลอันเป็นที่รักที่ด่วนจากไปก่อนวัยอันควร ถึงแม้ชีวิตจะยังไม่สิ้น แต่เงามืดแห่งความตายที่น่ากลัวก็ยังคงคอยหลอกหลอนพวกเขาอยู่ทุกวินาทีค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "seekingasolutionourscientiststurnedoncemoretoelectropeandafterextensiveresearchtheydevelopedthemeanstopreservememoryandsoul",
       "text_en": "Seeking a solution, our scientists turned once more to electrope. And after extensive research, they developed the means to preserve memory and soul.",
       "text": "เพื่อค้นหาหนทางแก้ไขปัญหานี้ เหล่านักวิทยาศาสตร์ของเราจึงหันกลับมาพัฒนาเทคโนโลยีจากเอเลกโทรปอีกครั้ง และหลังจากผ่านการวิจัยเก็บข้อมูลอย่างทรหด พวกเขาก็คิดค้นวิธีเก็บรักษาความทรงจำและดวงวิญญาณขึ้นมาได้สำเร็จค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "physicaldeathisnttheendsolongasourmemoriesendurewemayliveon",
       "text_en": "Physical death isn't the end. So long as our memories endure, we may live on...",
       "text": "ความตายทางร่างกายไม่ใช่ปลายทางสุดท้ายอีกต่อไป ตราบใดที่ความทรงจำของพวกเรายังคงหลงเหลืออยู่ พวกเราก็จะมีชีวิตสืบต่อไปได้..."
     },
     {
-      "character": "Sphene",
+      "key": "thisbeliefsustainedusthenanditsustainsusnowgrantinguscomfort",
       "text_en": "This belief sustained us then, and it sustains us now, granting us comfort.",
       "text": "ความเชื่อนี้เป็นเสมือนเสาหลักคอยค้ำจุนพวกเราตั้งแต่วันวานจนถึงปัจจุบัน ช่วยให้พวกเราพบความสุขและอุ่นใจขึ้นมาได้ค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsquiteatale",
       "text_en": "That's quite a tale...",
       "text": "เป็นประวัติศาสตร์ที่ดุเดือดและน่าเศร้ามากเลยนะ..."
     },
     {
-      "character": "Frantic Man",
+      "key": "yourmajestyhelpmeibegyouhelpme",
       "text_en": "Your Majesty! Help me, I beg you! Help me!",
       "text": "องค์ราชินี! ได้โปรดช่วยชีวิตผมด้วยเถอะครับ! ช่วยผมด้วย!"
     },
     {
-      "character": "Sphene",
+      "key": "whwhatsthematter",
       "text_en": "Wh-What's the matter?",
       "text": "เกิดอะไรขึ้นงั้นเหรอคะ?"
     },
     {
-      "character": "Frantic Man",
+      "key": "ivegotnosoulsleftnotasingleonebutthelotatsoulsupplyrefusetogivemeany",
       "text_en": "I've got no souls left—not a single one—but the lot at Soul Supply refuse to give me any!",
       "text": "ดวงวิญญาณของผมหมดเกลี้ยงแล้ว—ไม่เหลือแม้แต่ดวงเดียว—แต่พวกเจ้าหน้าที่ที่ศูนย์บริการวิญญาณกลับคัดค้านและปฏิเสธไม่ยอมมอบวิญญาณให้ผมเลยสักดวงครับ!"
     },
     {
-      "character": "Frantic Man",
+      "key": "pleaseyoumustdosomething",
       "text_en": "Please, you must do something!",
       "text": "ได้โปรดเถอะครับ ท่านต้องทำอะไรสักอย่างเพื่อช่วยเหลือผมนะ!"
     },
     {
-      "character": "Resolution Clerk",
+      "key": "myapologiesyourmajestythismanhedoesnoworkinsteadhedrinkshisdaysawayontruevue",
       "text_en": "My apologies, Your Majesty! This man, he does no work. Instead he drinks his days away on True Vue.",
       "text": "ขออภัยด้วยค่ะองค์ราชินี! ชายผู้นี้ไม่เคยยอมทำงานทำการอะไรเลยค่ะ วันๆ เอาแต่เตร่ดื่มเหล้าเมาหัวราน้ำอยู่ที่ทรูวิวค่ะ"
     },
     {
-      "character": "Resolution Clerk",
+      "key": "hehasonlyhimselftoblameifhehasnocreditsforsouls",
       "text_en": "He has only himself to blame if he has no credits for souls.",
       "text": "หากเขาไม่มีแต้มเครดิตสะสมเพียงพอมาแลกดวงวิญญาณ ก็นับเป็นผลกรรมและความผิดของตัวเองล้วนๆ เลยค่ะ"
     },
     {
-      "character": "Frantic Man",
+      "key": "thatsnottrueimafighteratthearcadionorratheriwas",
       "text_en": "That's not true! I'm a fighter at the Arcadion—or rather, I was!",
       "text": "ไม่จริงนะครับ! ผมเป็นถึงนักสู้ประลองฝีมือในอาร์เคเดียน—หรือพูดให้ถูกคือ เคยเป็นครับ!"
     },
     {
-      "character": "Frantic Man",
+      "key": "ihaventbeenallowedtofightbecauseofthekingsdecreeitisntmychoice",
       "text_en": "I haven't been allowed to fight because of the king's decree! It isn't my choice!",
       "text": "ผมไม่ได้รับอนุญาตให้ลงแข่งต่อสู้เพราะกฎประกาศขององค์ราชาต่างหาก! มันไม่ใช่ความต้องการของผมเองนะครับ!"
     },
     {
-      "character": "Sphene",
+      "key": "iseeyoureabravewarriorofthearena",
       "text_en": "I see, you're a brave warrior of the arena.",
       "text": "เข้าใจแล้วค่ะ คุณคือยอดนักสู้ผู้กล้าหาญจากสนามประลองนั่นเอง"
     },
     {
-      "character": "Sphene",
+      "key": "iwanttohelpyouisincerelydobuticannotgiveyoupreferentialtreatment",
       "text_en": "I want to help you, I sincerely do, but I cannot give you preferential treatment.",
       "text": "ฉันปรารถนาอยากจะยื่นมือช่วยเหลือคุณจากใจจริงเลยนะคะ แต่ทว่าฉันไม่สามารถมอบสิทธิ์พิเศษข้ามหน้าข้ามตากฎระเบียบปกติให้แก่ใครได้หรอกค่ะ"
     },
     {
-      "character": "Frantic Man",
+      "key": "thenopenupthearcadionagainsoicanfight",
       "text_en": "Then open up the Arcadion again so I can fight!",
       "text": "ถ้าอย่างนั้นก็ช่วยเปิดสนามประลองอาร์เคเดียนอีกรอบสิครับ ผมจะได้ลงแข่งสู้หาแต้มได้!"
     },
     {
-      "character": "Sphene",
+      "key": "imsorrybutthatsnotmydecisiontomakethekingrequiresferalsoulsforwarhedoesntwishforthemtobeexpendedonamusements",
       "text_en": "I'm sorry, but that's not my decision to make. The king requires feral souls for war. He doesn't wish for them to be expended on amusements.",
       "text": "ฉันต้องขออภัยด้วยจริงๆ นะคะ แต่นั่นไม่ใช่เรื่องที่ฉันจะสามารถตัดสินใจได้เองหรอกค่ะ องค์ราชาจำเป็นต้องนำดวงวิญญาณสัตว์อสูรไปใช้เพื่อกักตุนทำสงคราม พระองค์จึงไม่ประสงค์จะให้นำพวกมันมาใช้อย่างสุรุ่ยสุร่ายเพื่อความบันเทิงน่ะค่ะ"
     },
     {
-      "character": "Frantic Man",
+      "key": "youreuselessaqueeninnaughtbutname",
       "text_en": "You're useless! A queen in naught but name!",
       "text": "ท่านมันพึ่งพาไม่ได้เลย! เป็นถึงราชินีแต่มีแต่ชื่อเท่านั้นแหละ!"
     },
     {
-      "character": "Sphene",
+      "key": "wrylaughter",
       "text_en": "[WRY LAUGHTER]",
       "text": "[หัวเราะเจื่อนๆ ด้วยความขมขื่น]"
     },
     {
-      "character": "Resolution Clerk",
+      "key": "insolentwretchhowdareyoutakethattonewithhermajesty",
       "text_en": "Insolent wretch! How dare you take that tone with Her Majesty!",
       "text": "เจ้าคนโอหังสารเลว! สามหาวบังอาจมาใช้น้ำเสียงแบบนั้นกับองค์ราชินีได้ยังไงกัน!"
     },
     {
-      "character": "Sphene",
+      "key": "itsquitealrightsuchthingsdontbothermenordoithinkillofthisman",
       "text_en": "It's quite alright. Such things don't bother me, nor do I think ill of this man.",
       "text": "ไม่เป็นไรหรอกค่ะ ฉันไม่ได้ติดใจหรือรู้สึกขุ่นเคืองใจอะไร และไม่คิดจะมองชายผู้นี้ในแง่ร้ายด้วยค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "hearmethoughicannotgrantyouasoulimeanitwhenisayiwantyoutolive",
       "text_en": "Hear me. Though I cannot grant you a soul, I mean it when I say I want you to live.",
       "text": "ฟังฉันนะคะ ถึงแม้ฉันจะไม่สามารถจัดหาดวงวิญญาณพิเศษมอบให้แก่คุณได้ในตอนนี้ แต่สิ่งที่ฉันพูดว่าอยากให้คุณมีชีวิตรอดสืบต่อไปนั้น ออกมาจากใจจริงของฉันเสมอนะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "iloveallofyouequallydearlyyouareasfamilytomeanditpainsmetoseeyoudenyyourselfhope",
       "text_en": "I love all of you equally. Dearly. You are as family to me, and it pains me to see you deny yourself hope.",
       "text": "ฉันรักและผูกพันกับทุกคนอย่างเท่าเทียมกันค่ะ รักพวกคุณดั่งสายเลือดในครอบครัวเดียวกัน และการเห็นคุณเริ่มสิ้นหวังท้อแท้แบบนี้มันทำให้ฉันรู้สึกปวดใจมากเลยนะคะ"
     },
     {
-      "character": "Sphene",
+      "key": "iwantyoutofindahappinessallyourownevenifyoumustgrowitfromthesmallestseedofjoyouttheresomewhereisareasonforyoutosmileagain",
       "text_en": "I want you to find a happiness all your own, even if you must grow it from the smallest seed of joy. Out there, somewhere, is a reason for you to smile again.",
       "text": "ฉันอยากให้คุณค้นพบความสุขในแบบฉบับของตัวคุณเอง แม้ว่ามันจะเป็นแค่เมล็ดพันธุ์ความยินดีเล็กๆ ที่ค่อยๆ เติบโตขึ้นมาก็ตาม ณ สถานที่แห่งใดแห่งหนึ่งข้างนอกนั่น จะต้องมีเหตุผลและปลายทางที่ช่วยดึงรอยยิ้มของคุณกลับมาแน่นอนค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "weallneedtoventourfrustrationsfromtimetotimeiwillalwaysbewillingtolendanear",
       "text_en": "We all need to vent our frustrations from time to time. I will always be willing to lend an ear.",
       "text": "พวกเราทุกคนต่างก็มีบางเวลาที่อยากจะระบายความเครียดอึดอัดใจออกมาเป็นธรรมดาค่ะ ฉันยินดีจะคอยรับฟังเรื่องราวของคุณเสมอนะคะ"
     },
     {
-      "character": "Frantic Man",
+      "key": "yesmaamofcourse",
       "text_en": "Yes, ma'am... Of course...",
       "text": "ครับ... เข้าใจแล้วครับ..."
     },
     {
-      "character": "Frantic Man",
+      "key": "evenwithoutasparesoulisupposeimfineaslongasistayinsolutionnine",
       "text_en": "Even without a spare soul, I suppose I'm fine as long as I stay in Solution Nine.",
       "text": "ต่อให้ไม่มีดวงวิญญาณสำรองเหลืออยู่ แต่คิดว่าถ้าผมคอยกบดานพำนักอยู่แค่ในโซลูชันไนน์ก็น่าจะปลอดภัยดีแหละครับ"
     },
     {
-      "character": "Frantic Man",
+      "key": "iapologizeformyrudenessgooddaytoyou",
       "text_en": "I apologize for my rudeness. Good day to you.",
       "text": "ต้องขอโทษด้วยจริงๆ ครับสำหรับความหยาบคายและกิริยาสามหาวของผมเมื่อกี้ ขอตัวก่อนนะครับ"
     },
     {
-      "character": "Sphene",
+      "key": "keepyourchinupmyfriendandwhenyoufeelbetterimsureyoullfindanotherwaytoapplyyourtalents",
       "text_en": "Keep your chin up, my friend! And when you feel better, I'm sure you'll find another way to apply your talents.",
       "text": "เชิดหน้าลุกขึ้นสู้ต่อเถอะค่ะเพื่อนยาก! และเมื่อสภาพจิตใจของคุุณดีขึ้นแล้ว ฉันเชื่อว่าคุณจะหาวิธีการอื่นนำทักษะความสามารถของตนเองไปใช้ทำประโยชน์ได้แน่นอนค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "ahahaimsorryyouhadtoseethatletskeepmovingshallwe",
       "text_en": "Ahaha... I'm sorry you had to see that. Let's keep moving, shall we?",
       "text": "ฮะๆๆ... ขอโทษด้วยนะคะที่ทำให้พวกคุณต้องมาเห็นภาพแบบนี้ พวกเราเดินทางไปกันต่อเถอะนะคะ?"
     },
     {
-      "character": "Sphene",
+      "key": "rightibelievewevevisitedallthemainfacilitieswiththatideclareourtourconcluded",
       "text_en": "Right—I believe we've visited all the main facilities. With that, I declare our tour concluded!",
       "text": "เอาล่ะค่ะ—ฉันคิดว่าพวกเราได้ไปเดินสำรวจดูครบทุกสิ่งอำนวยความสะดวกหลักๆ เรียบร้อยแล้วนะคะ ถ้างั้นขอยุติและปิดฉากกิจกรรมทัวร์ของพวกเราในวันนี้ไว้แค่นี้ค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatmanfrombeforedoesthatsortofthinghappenoften",
       "text_en": "That man from before... Does that sort of thing happen often?",
       "text": "ชายคนเมื่อกี้... เกิดเรื่องราวเหตุการณ์ประท้วงโวยวายพรรค์นี้บ่อยหรือเปล่า?"
     },
     {
-      "character": "Sphene",
+      "key": "somewhatitsunavoidablehardshipsareafactoflife",
       "text_en": "Somewhat. It's unavoidable. Hardships are a fact of life.",
       "text": "ก็มีบ้างค่ะ เป็นเรื่องธรรมดาที่หลีกเลี่ยงไม่ได้ในชีวิตที่มีอุปสรรคความลำบากปะปนอยู่เป็นสัจธรรมค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "oursoulmanagementsystemhassustainedourrealmforgenerationsbutitisntwithoutflaws",
       "text_en": "Our soul management system has sustained our realm for generations, but it isn't without flaws.",
       "text": "ระบบการจัดการคัดกรองวิญญาณของเราช่วยค้ำจุนประเทศชาติมาหลายชั่วอายุคนก็จริง แต่ก็ไม่ใช่ว่ามันจะสมบูรณ์แบบไร้ที่ติหรอกค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "foronepeoplehavebecomeaccustomedtohavingsparesoulswithoutthemtheyfeelvulnerableandanxioussomeclaimitmayalsohavecontributedtoadeclineinbirths",
       "text_en": "For one, people have become accustomed to having spare souls. Without them they feel vulnerable and anxious. Some claim it may also have contributed to a decline in births.",
       "text": "ประการหนึ่งคือ ประชาชนเริ่มเสพติดและเคยชินกับการมีดวงวิญญาณสำรองเก็บไว้ในครอบครอง พอไม่มีมันพวกเขาก็จะรู้สึกอ่อนแอ หวาดระแวง และกังวลใจไปหมด และมีบางความเห็นอ้างว่าระบบนี้อาจมีส่วนทำให้ยอดอัตราการเกิดของเด็กลดลงด้วยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "justthinkingoutloudbutwoulditbepossibletodoawaywiththesystem",
       "text_en": "Just thinking out loud, but would it be possible to do away with the system?",
       "text": "อันนี้คิดเล่นๆ คนเดียวนะ แต่... มันไม่มีหนทางที่จะยกเลิกถอดระบบพวกนี้ทิ้งไปเลยจริงๆ เหรอ?"
     },
     {
-      "character": "Sphene",
+      "key": "no",
       "text_en": "No.",
       "text": "ไม่มีทางค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iknowitisnteasytochangeonesbeliefsandwayoflifethemamooljahadtheirreasonsfortheirrelianceonblessedsiblingsmuchasyouhaveyoursforsouls",
       "text_en": "I know it isn't easy to change one's beliefs and way of life. The Mamool Ja had their reasons for their reliance on blessed siblings, much as you have yours for souls.",
       "text": "ฉันรู้ว่าการเปลี่ยนแปลงความเชื่อและวิถีชีวิตดั้งเดิมของคนมันไม่ใช่เรื่องที่จะทำกันง่ายๆ หรอก อย่างพวกมามูอูล จา เองก็มีเหตุผลในการพึ่งพาสายสัมพันธ์พี่น้องศักดิ์สิทธิ์ เหมือนกับที่พวกเธอมีต่อระบบวิญญาณนี่นั่นแหละ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butifwedefeatedzoraaljayoudbeabletomakeallthedecisionsright",
       "text_en": "But if we defeated Zoraal Ja, you'd be able to make all the decisions, right?",
       "text": "แต่ถ้าเกิดพวกเราโค่นล้มโซราล จา ลงได้แล้ว เธอก็จะมีอำนาจสิทธิ์ขาดในการตัดสินใจทำทุกสิ่งทุกอย่างได้ด้วยตนเองไม่ใช่เหรอ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenwecouldworktogethertofixthingsrestoreyourrealmtowhereitbelongsandseewherewecangofromthere",
       "text_en": "Then we could work together to fix things. Restore your realm to where it belongs, and see where we can go from there.",
       "text": "ตอนนั้นพวกเราจะได้มาช่วยกันคิดหาทางแก้ไขปัญหาร่วมกันยังไงล่ะ ช่วยฟื้นฟูอาณาจักรของเธอให้กลับมาสงบสุข และขยับขยายก้าวหน้าต่อไปจากตรงนั้นได้"
     },
     {
-      "character": "Sphene",
+      "key": "listentometheressomethingthatineedtotellyou",
       "text_en": "Listen to me. There's something that I need to tell you...",
       "text": "ฟังฉันนะคะ... มีเรื่องหนึ่งที่ฉันจำเป็นต้องพูดคุยอธิบายให้คุณรับทราบไว้ค่ะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatisit",
       "text_en": "What is it?",
       "text": "เรื่องอะไรเหรอ?"
     },
     {
-      "character": "Sphene",
+      "key": "aactuallyneverminditsnothingofimport",
       "text_en": "A-Actually, never mind. It's nothing of import.",
       "text": "เอ่อ... ช่างมันเถอะค่ะ ไม่มีเรื่องสำคัญอะไรหรอกค่ะ"
     },
     {
-      "character": "Sphene",
+      "key": "wellitwaslovelyshowingyouaround",
       "text_en": "Well, it was lovely showing you around.",
       "text": "ก็นะคะ การพาเดินสำรวจทัวร์ในวันนี้เป็นเรื่องที่น่ายินดีและมีความสุขมากเลยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ofcourseofcourse",
       "text_en": "Of course, of course.",
       "text": "แน่นอนอยู่แล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thankssomuchforthetourwevelearnednotonlyaboutyourrealmbutyouaswell",
       "text_en": "Thanks so much for the tour. We've learned not only about your realm, but you as well.",
       "text": "ขอบใจเธอมากนะสำหรับกิจกรรมทัวร์ในวันนี้ พวกเราไม่เพียงแต่ได้เรียนรู้โครงสร้างอาณาจักรของเธอเท่านั้น แต่ยังได้รู้จักและเข้าใจตัวตนของเธอดีขึ้นด้วย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "fornowourpriorityiszoraalja",
       "text_en": "For now, our priority is Zoraal Ja.",
       "text": "ในตอนนี้ เป้าหมายหลักที่ต้องมาก่อนของเราคือโซราล จา"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butoncewevedealtwithhimperhapsicanreturnthefavorandshowyoutuliyollal",
       "text_en": "But once we've dealt with him, perhaps I can return the favor and show you Tuliyollal.",
       "text": "แต่ถ้าหากธุระความขัดแย้งกับเขาคลี่คลายเรียบร้อยแล้ว ไว้คราวหลังฉันจะเป็นคนตอบแทนพาทัวร์แนะนำเมืองทูลิโยลลัลให้เธอบ้างนะ"
     },
     {
-      "character": "Sphene",
+      "key": "idlikethatverymuch",
       "text_en": "I'd like that very much!",
       "text": "ฉันปรารถนาอยากจะไปเห็นแบบนั้นมากเลยล่ะค่ะ!"
     },
     {
-      "character": "Sphene",
+      "key": "itseemsivenochoicebuttocontinuedownthispath",
       "text_en": "It seems I've no choice but to continue down this path...",
       "text": "ดูเหมือนว่าฉันจะไม่มีทางเลือกอื่นนอกจากต้องก้าวเท้าเดินต่อไปบนเส้นทางสายนี้จริงๆ สินะ..."
     },
     {
-      "character": "Sphene",
+      "key": "forgivemevowwuklamatbutimustdisappointyou",
       "text_en": "Forgive me, Vow Wuk Lamat, but I must disappoint you.",
       "text": "ได้โปรดอภัยให้ฉันด้วยนะคะ คำปฏิญาณวุค ลามัต แต่ฉันคงต้องทำให้คุณเสียใจและผิดหวังในตัวฉันเข้าแล้วล่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatwassphenewantingtotellusiwonder",
       "text_en": "What was Sphene wanting to tell us, I wonder...",
       "text": "สฟีนมีเรื่องราวปณิธานอะไรที่อยากจะบอกเรากันแน่นะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellitcanwaitforanothertimewevebeenexploringforawhilenowandshouldprobablygotocahciuasmeetingpoint",
       "text_en": "Well, it can wait for another time. We've been exploring for a while now and should probably go to Cahciua's meeting point.",
       "text": "ช่างเถอะ ค่อยว่ากันโอกาสหน้า ตอนนี้พวกเราก็เดินสำรวจมาค่อนข้างนานแล้วล่ะ สมควรจะได้เวลาเดินทางไปพบตามพิกัดจุดนัดพบของคุณคาชิวาแล้ว"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatllbebackthewaywecameithink",
       "text_en": "That'll be back the way we came...I think?",
       "text": "น่าจะเป็นเส้นทางย้อนกลับไปทางเดิมที่พวกเราก้าวเท้าผ่านมา... ล่ะมั้งนะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sphenegenuinelycaresforherpeopleicanrespectherforthat",
       "text_en": "Sphene genuinely cares for her people. I can respect her for that.",
       "text": "สฟีนรักและห่วงใยประชาชนของตนเองอย่างสุดซึ้งจริงๆ นั่นแหละ ฉันยอมรับนับถือในปณิธานจุดนี้ของเธอมากเลยล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andthankstohertourivecometobetterunderstandthelivesofalexandrians",
       "text_en": "And thanks to her tour, I've come to better understand the lives of Alexandrians.",
       "text": "และต้องขอบคุณทัวร์นำทางของเธอมากเลยที่ช่วยให้ฉันได้หันมาทำความเข้าใจวิถีชีวิตความเป็นอยู่ของชาวอเล็กซานเดรียได้กว้างขึ้นมาก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theydontfeelsostrangeanddistantanymore",
       "text_en": "They don't feel so strange and distant anymore.",
       "text": "พวกเขาไม่ได้ดูประหลาดพิลึกและห่างเหินจากพวกเราอีกต่อไปแล้วล่ะ"
     }

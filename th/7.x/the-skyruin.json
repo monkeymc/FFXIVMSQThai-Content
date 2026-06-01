@@ -1,761 +1,753 @@
 {
-  "id": "the-skyruin",
-  "wiki_path": "/wiki/The_Skyruin",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/1/1b/The_Skyruin.png",
-  "patch": "7.0",
-  "title_en": "The Skyruin",
-  "title": "ศึกกำราบสกายรูอิน",
-  "level": "93",
-  "location": "Urqopacha(X:32.9,Y:28.6)",
-  "npc_start": "Erenville",
+  "quest_id": "the-skyruin",
   "dialogues": [
     {
-      "character": "Aether Seeker",
+      "key": "sampleanalyzedrecalibratingsensors",
       "text_en": "SaMpLe AnAlYzEd. ReCaLiBrAtInG sEnSoRs.",
       "text": "เครื่องตรวจจับอีเธอร์: <ปี๊บ> วิ-เ-ค-ร-า-ะ-ห์-ตั-ว-อ-ย่-า-ง-เ-รี-ย-บ-ร้-อ-ย. กํ-า-ลั-ง-ป-รั-บ-ตั้-ง-ค่-า-เ-ซ็-น-เ-ซ็-อ-ร์..."
     },
     {
-      "character": "Erenville",
+      "key": "thistimetheseekershouldbeattractedsolelytovaligarmandasaether",
       "text_en": "This time, the seeker should be attracted solely to Valigarmanda's aether.",
       "text": "คราวนี้เซ็นเซอร์น่าจะค้นหาจับสัญญาณเฉพาะกระแสพลังอีเธอร์ของวาลิการ์มันดาเท่านั้นแล้วล่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "resumetrackingbasedonthelatestsample",
       "text_en": "Resume tracking based on the latest sample.",
       "text": "จงเริ่มค้นหาแกะรอยตามข้อมูลตัวอย่างล่าสุดได้เลย"
     },
     {
-      "character": "Aether Seeker",
+      "key": "affirmativeresumingtracking",
       "text_en": "AfFiRmAtIvE! rEsUmInG tRaCkInG!",
       "text": "เครื่องตรวจจับอีเธอร์: ยื-น-ยั-น! กํ-า-ลั-ง-ค้-น-หา-ต่-อ!"
     },
     {
-      "character": "Aether Seeker",
+      "key": "beepsampleaetherialsignaturedetectedengagingacceleratedpursuitmode",
       "text_en": "<beep> SaMpLe AeThErIaL sIgNaTuRe DeTeCtEd. EnGaGiNg AcCeLeRaTeD pUrSuIt MoDe!",
       "text": "เครื่องตรวจจับอีเธอร์: <ปี๊บ> ตร-ว-จ-พ-บ-สั-ญ-ญ-า-ณ-แ-ห่-ง-ตั-ว-อ-ย่-า-ง. เริ่-ม-ต้-น-โ-ห-ม-ด-ค้-น-หา-ค้-น-หา-ด่-ว-น!"
     },
     {
-      "character": "Aether Seeker",
+      "key": "beepsourceofaetherialsignaturelocatedtrackingdisengaged",
       "text_en": "<beep> SoUrCe Of AeThErIaL sIgNaTuRe LoCaTeD. tRaCkInG dIsEnGaGeD.",
       "text": "เครื่องตรวจจับอีเธอร์: <ปี๊บ> ตร-ว-จ-พ-บ-แ-ห่-ง-สั-ญ-ญ-า-ณ-แ-ห่-ง-ตั-ว-อ-ย่-า-ง. สิ้น-สุ-ด-ก-า-ร-ค้-น-หา."
     },
     {
-      "character": "Erenville",
+      "key": "goodtheseekerwasdrawndirectlytotheskyruinsfirenowweknowwevesetthecorrectparametersforitsaetherialaspect",
       "text_en": "Good, the seeker was drawn directly to the Skyruin's fire. Now we know we've set the correct parameters for its aetherial aspect.",
       "text": "ดีมาก ตัวจับสัญญาณพาพวกเราตรงมาหาไอเปลวไฟของสกายรูอินจริงๆ ด้วย ตอนนี้พวกเรามั่นใจได้แล้วว่าตั้งค่าตัวแปรได้ถูกต้องสอดคล้องกับคุณลักษณะของมันแล้ว"
     },
     {
-      "character": "Erenville",
+      "key": "illtryincreasingthethresholdforaethericconcentrationthatshoulddirectustotheturalvidraalitself",
       "text_en": "I'll try increasing the threshold for aetheric concentration─that should direct us to the tural vidraal itself.",
       "text": "ฉันจะลองปรับระดับความเข้มข้นของพลังงานอีเธอร์ให้สูงขึ้น—นั่นน่าจะช่วยนำทางพวกเราตรงไปยังตัวอสูรภัยพิบัติโดยตรงได้เลย"
     },
     {
-      "character": "Aether Seeker",
+      "key": "recalibratingsensorsresumingtracking",
       "text_en": "ReCaLiBrAtInG sEnSoRs. ReSuMiNg TrAcKiNg!",
       "text": "เครื่องตรวจจับอีเธอร์: ป-รั-บ-ตั้-ง-ค่-า-เ-ซ็-น-เ-ซ็-อ-ร์. ยื-น-ยั-น! กํ-า-ลั-ง-ค้-น-หา-ต่-อ!"
     },
     {
-      "character": "Aether Seeker",
+      "key": "beepaethericsignaturedetectedahead",
       "text_en": "<beep> AeThErIc SiGnAtUrE dEtEcTeD aHeAd.",
       "text": "เครื่องตรวจจับอีเธอร์: <ปี๊บ> ตร-ว-จ-พ-บ-สั-ญ-ญ-า-ณ-อี-เ-ธ-อ-ร์-ข้-า-ง-ห-น้-า."
     },
     {
-      "character": "Erenville",
+      "key": "ithinkwednoticeifvaligarmandawasinsidethispassageletsheadthroughtotheotherside",
       "text_en": "I think we'd notice if Valigarmanda was inside this passage. Let's head through to the other side.",
       "text": "ถ้าหากวาลิการ์มันดาอยู่ในช่องทางเดินแคบๆ นี่จริง พวกเราก็คงสังเกตเห็นตัวมันได้ง่ายๆ แล้วล่ะ ลุยข้ามผ่านไปยังอีกฟากหนึ่งกันเถอะ"
     },
     {
-      "character": "Aether Seeker",
+      "key": "beepaethericsignaturelost",
       "text_en": "<beep> AeThErIc SiGnAtUrE lOsT!",
       "text": "เครื่องตรวจจับอีเธอร์: <ปี๊บ> สั-ญ-ญ-า-ณ-อี-เ-ธ-อ-ร์-ข้-า-ด-หา-ย!"
     },
     {
-      "character": "Erenville",
+      "key": "thetrailendshereitseems",
       "text_en": "The trail ends here, it seems.",
       "text": "ดูเหมือนรอยเท้าแกะรอยจะสิ้นสุดลงตรงนี้นะ"
     },
     {
-      "character": "Erenville",
+      "key": "couldvaligarmandahaveshifteditselementalaspectitdoeshavethreetochoosefromafterall",
       "text_en": "Could Valigarmanda have shifted its elemental aspect...? It does have three to choose from, after all.",
       "text": "หรือว่าวาลิการ์มันดาจะเปลี่ยนธาตุลักษณะของมันไปแล้วกันนะ...? ท้ายที่สุดแล้วมันก็มีถึงสามธาตุพลังให้เลือกสลับเปลี่ยนนี่นา"
     },
     {
-      "character": "Erenville",
+      "key": "inanycaseimalmostcertainthevidraalwasheadedinthedirectionofworqorlardor",
       "text_en": "In any case, I'm almost certain the vidraal was headed in the direction of Worqor Lar Dor.",
       "text": "แต่อย่างไรก็ตาม ฉันค่อนข้างมั่นใจว่าอสูรร้ายกำลังมุ่งหน้าไปทางวอร์กอร์ ลาร์ ดอร์ (Worqor Lar Dor)"
     },
     {
-      "character": "Erenville",
+      "key": "weshouldlettheothersknowwehavealikelylocation",
       "text_en": "We should let the others know we have a likely location.",
       "text": "พวกเราควรรีบไปส่งข่าวแจ้งตำแหน่งที่น่าจะเป็นไปได้มากที่สุดให้คนอื่นทราบกันเถอะ"
     },
     {
-      "character": "Alisaie",
+      "key": "alphinaudisassistingtheyokhuywiththeirevacuationhethoughttheycoulduseahealinghandwiththeinjured",
       "text_en": "Alphinaud is assisting the Yok Huy with their evacuation. He thought they could use a healing hand with the injured.",
       "text": "อัลฟิโนกำลังช่วยชาวยอคฮุยอพยพหลบภัยอยู่ค่ะ เขาคิดว่ากำลังเวทมนตร์เยียวยาของเขาน่าจะมีประโยชน์ในการช่วยรักษาผู้ได้รับบาดเจ็บค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sowhereisvaligarmanda",
       "text_en": "So, where is Valigarmanda?",
       "text": "แล้วตกลงวาลิการ์มันดาอยู่ที่ไหนล่ะ?"
     },
     {
-      "character": "Erenville",
+      "key": "worqorlardoritsstratifiedlayerscontainawealthofcrystalssaidtobethesourceofitsmanycoloredglow",
       "text_en": "Worqor Lar Dor. Its stratified layers contain a wealth of crystals, said to be the source of its many-colored glow.",
       "text": "วอร์กอร์ ลาร์ ดอร์ น่ะสิ พื้นดินชั้นหินสะสมผลึกคริสตัลหนาแน่นแถวนั้นกล่าวกันว่าเป็นแหล่งพลังงานที่ทำให้เกล็ดรอบตัวมันส่องประกายแสงหลากสีสันออกมา"
     },
     {
-      "character": "Erenville",
+      "key": "aftereightyyearsofimprisonmentthevidraalwillbeindireneedofsustenanceitwouldvebeendrawntothemountainsenergies",
       "text_en": "After eighty years of imprisonment, the vidraal will be in dire need of sustenance. It would've been drawn to the mountain's energies.",
       "text": "หลังจากโดนสะกดคุมขังมานานถึงแปดสิบปี อสูรภัยพิบัติย่อมจะต้องการพลังงานประทังชีพอย่างแสนสาหัส แน่นอนว่ามันต้องโดนดึงดูดเข้าหาพลังงานกระแสแร่ธาตุของภูเขาแน่"
     },
     {
-      "character": "Krile",
+      "key": "sovaligarmandaseekstoreplenishitsaether",
       "text_en": "So Valigarmanda seeks to replenish its aether...",
       "text": "แปลว่าวาลิการ์มันดากำลังหาทางเติมพลังงานอีเธอร์ให้ตัวเองอยู่สินะคะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenwedbetternotgiveitthechance",
       "text_en": "Then we'd better not give it the chance.",
       "text": "ถ้าอย่างนั้นพวกเราก็ไม่ควรยอมปล่อยโอกาสให้มันทำแบบนั้นสำเร็จเด็ดขาด!"
     },
     {
-      "character": "???",
+      "key": "stop",
       "text_en": "Stop!",
       "text": "หยุดเดี๋ยวนี้นะ!"
     },
     {
-      "character": "Vorporlor",
+      "key": "thatmountainissacredgroundiforbidyoutosetfootonit",
       "text_en": "That mountain is sacred ground. I forbid you to set foot on it.",
       "text": "ภูเขาลูกนั้นคือดินแดนศักดิ์สิทธิ์ ข้าขอสั่งห้ามไม่ให้พวกเจ้าเหยียบย่างเข้าไปเด็ดขาด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sorryweitisnotourintentiontotrespass",
       "text_en": "Sorry, we... It is not our intention to trespass.",
       "text": "ขออภัยด้วยนะคะ... พวกเราไม่ได้มีเจตนาจะรุกรานลบหลู่แผ่นดินศักดิ์สิทธิ์หรอกค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "butyoumustunderstandthatswherevaligarmandahasgone",
       "text_en": "But you must understand. That's where Valigarmanda has gone!",
       "text": "แต่ท่านต้องเข้าใจก่อนนะคะ นั่นคือที่ที่วาลิการ์มันดามุ่งหน้าไปต่างหากล่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifwedontslayitnowitwillslaughtercountlessinnocentsjustlikeintheolddaysibegyoupermitustoenter",
       "text_en": "If we don't slay it now, it will slaughter countless innocents─just like in the old days. I beg you, permit us to enter!",
       "text": "หากพวกเราไม่กำจัดมันลงตรงนี้ มันจะออกเข่นฆ่าผู้บริสุทธิ์จำนวนมหาศาลเหมือนอย่างเช่นยุคอดีตแน่นอน ข้าขอร้องล่ะค่ะ โปรดอนุญาตให้พวกเราผ่านทางเข้าไปเถอะนะ!"
     },
     {
-      "character": "Vorporlor",
+      "key": "outofthequestion",
       "text_en": "Out of the question.",
       "text": "ไม่มีทาง"
     },
     {
-      "character": "Vorporlor",
+      "key": "yourbandisincapableofdefeatingvaligarmandaeitheryouseektodefileworqorlardororyouarefools",
       "text_en": "Your band is incapable of defeating Valigarmanda. Either you seek to defile Worqor Lar Dor, or you are fools.",
       "text": "พวกเจ้าไม่มีความสามารถพอจะเอาชนะวาลิการ์มันดาได้หรอก การเข้าไปมีแต่จะทำให้วอร์กอร์ ลาร์ ดอร์ ต้องแปดเปื้อน หรือไม่พวกเจ้าก็เป็นแค่พวกคนเขลาไร้สติเท่านั้นแหละ"
     },
     {
-      "character": "Koana",
+      "key": "ifyoudoubttheirchanceshowwouldyoufeelwerewetojointhem",
       "text_en": "If you doubt their chances, how would you feel were we to join them?",
       "text": "หากคุณยังเคลือบแคลงสงสัยในความสามารถของพวกเขา คุณจะรู้สึกยังไงหากพวกเราจะขอเข้าร่วมต่อสู้ในศึกครั้งนี้ด้วยล่ะครับ?"
     },
     {
-      "character": "Koana",
+      "key": "themonumenttovaligarmandasdefeatbearsthenamesofsevenheroeswithourforcescombinedwealsonumberseven",
       "text_en": "The monument to Valigarmanda's defeat bears the names of seven heroes. With our forces combined, we also number seven.",
       "text": "อนุสาวรีย์แห่งการสยบศึกวาลิการ์มันดาจารึกนามของวีรบุรุษไว้เจ็ดท่าน พอดีเลยว่าหากรวมพลังรบของพวกเราเข้าด้วยกัน กองกำลังของเราก็จะมีเจ็ดคนเท่ากันพอดีครับ"
     },
     {
-      "character": "Vorporlor",
+      "key": "sevenweaklingsarenolessdoomedthanfour",
       "text_en": "Seven weaklings are no less doomed than four.",
       "text": "คนอ่อนแอเจ็ดคนก็ไม่ได้มีจุดจบแตกต่างจากคนอ่อนแอสี่คนหรอก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "zoraaljayouvecometohelpaswell",
       "text_en": "Zoraal Ja! You've come to help as well!",
       "text": "โซราล จา! พี่ก็ร่วมเดินทางมาช่วยสู้ศึกครั้งนี้ด้วยงั้นเหรอ!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "againstmysoundadvicewhiletherestofyouweretusslingwiththeskyruinwemighthavesecuredaninsurmountablelead",
       "text_en": "Against my sound advice. While the rest of you were tussling with the Skyruin, we might have secured an insurmountable lead.",
       "text": "เป็นการตัดสินใจที่ขัดต่อคำแนะนำอันดีของข้าโดยสิ้นเชิงเลย ในระหว่างที่พวกเจ้ามัวแต่เสียเวลาวุ่นวายอยู่กับสกายรูอิน พวกเราน่าจะทำแต้มแซงหน้าทิ้งห่างไปไกลลิบแล้วแท้ๆ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "aminordelayitwillnotchangethecontestsoutcome",
       "text_en": "A minor delay. It will not change the contest's outcome.",
       "text": "แค่ความชักช้าเล็กน้อย ไม่ได้ส่งผลกระทบเปลี่ยนผลลัพธ์ของการแข่งขันหรอก"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "iwouldtakethemeasureofthisturalvidraalmyfatherwasunabletokill",
       "text_en": "I would take the measure of this tural vidraal my father was unable to kill.",
       "text": "ข้าแค่อยากจะขอทดสอบพละกำลังฝีมือของอสูรภัยพิบัติที่ท่านพ่อไม่สามารถฆ่ามันลงได้ก็เท่านั้น"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "withbothmybrothersherethisbattleisallbutwon",
       "text_en": "With both my brothers here, this battle is all but won!",
       "text": "เมื่อพี่น้องของข้ามาพร้อมหน้ากันหมดขนาดนี้ ชัยชนะในศึกครั้งนี้ย่อมอยู่แค่เอื้อมแล้วล่ะ!"
     },
     {
-      "character": "Vorporlor",
+      "key": "yourcelebrationisprematureineversaidiwouldletyoupass",
       "text_en": "Your celebration is premature. I never said I would let you pass.",
       "text": "การเฉลิมฉลองของเจ้าย่างก้าวเร็วเกินไปแล้ว ข้ายังไม่ได้เอ่ยปากยินยอมให้ผ่านทางไปเลยนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "brothernowedonotbeararmsagainstourownpeople",
       "text_en": "Brother, no! We do not bear arms against our own people!",
       "text": "ท่านพี่ อย่าทำแบบนั้นนะ! พวกเราต้องไม่ชักอาวุธขึ้นมาต่อสู้กับคนในแผ่นดินของเราเองนะ!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "whatanoddthingtosayasirecalltheinhabitantsofchirwagursalterndonotconsiderthemselvesmembersofthetuliyollalnation",
       "text_en": "What an odd thing to say. As I recall, the inhabitants of Chirwagur Saltern do not consider themselves members of the Tuliyollal nation.",
       "text": "ช่างเป็นคำเจรจาที่พิลึกพิลั่นจังเลยนะ เท่าที่ข้าจำได้ ประชาชนที่อาศัยอยู่ ณ นาเกลือชีร์วากูร์ (Chirwagur Saltern) ไม่ได้ถือว่าตนเองเป็นประชากรใต้การปกครองของทูลิโยลลัลสักหน่อยนี่นา"
     },
     {
-      "character": "Sareel Ja",
+      "key": "idhardlycallthemourownpeople",
       "text_en": "I'd hardly call them “our own people.”",
       "text": "ข้าคงยากจะเรียกคนพวกนั้นว่าเป็น 'คนในแผ่นดินของเรา' ได้หรอกครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatdoesthatmattermembersornoteveryoneinturalispartofourdreamforpeace",
       "text_en": "What does that matter!? Members or not, everyone in Tural is part of our dream for peace!",
       "text": "เรื่องนั้นมันเกี่ยวอะไรด้วยล่ะ!? ไม่ว่าจะเป็นประชากรใต้การปกครองหรือไม่ก็ตาม ทุกคนในทูรัลต่างก็เป็นส่วนหนึ่งของความฝันเรื่องความสงบสุขที่พวกเราเฝ้าประคับประคองมาตลอดนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifyouwouldhurtthemthenyoullhavetogothroughme",
       "text_en": "If you would hurt them, then you'll have to go through me!",
       "text": "หากคิดจะทำร้ายพวกเขา เจ้าก็ต้องข้ามศพข้าไปก่อนแล้วกัน!"
     },
     {
-      "character": "Vorporlor's Aide",
+      "key": "sheshesavedmefromthemountainbirdnowthenthesameeyeseyesofstonewordsofstone",
       "text_en": "She...she saved me. From the mountain bird. Now, then...the same eyes. Eyes of stone. Words of stone.",
       "text": "นาง... นางช่วยชีวิตข้าไว้ จากนกยักษ์บนภูเขา ตอนนี้... แววตาแบบเดียวกัน แววตาที่แข็งแกร่งดั่งหินผา คำพูดที่หนักแน่นดั่งศิลาจารึก"
     },
     {
-      "character": "Vorporlor",
+      "key": "wearestillinherdebtthisistrue",
       "text_en": "We are still in her debt. This is true.",
       "text": "พวกเรายังคงเป็นหนี้ชีวิตนางอยู่ เรื่องนี้คือความจริง"
     },
     {
-      "character": "Vorporlor",
+      "key": "considerthedebtrepaid",
       "text_en": "Consider the debt repaid.",
       "text": "ถือว่าหนี้ชีวิตครั้งนี้ได้รับการชดใช้คืนเรียบร้อยแล้ว"
     },
     {
-      "character": "Vorporlor",
+      "key": "butdonotmisunderstandwedonotsubmittotuliyollanrule",
       "text_en": "But do not misunderstand. We do not submit to Tuliyollan rule.",
       "text": "แต่จงอย่าเข้าใจผิดไปล่ะ พวกเราไม่ได้ยอมก้มหัวสยบยอมต่อการปกครองของทูลิโยลลัลหรอกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ayeyouvemadeyourpointwecantalkmoreoncethecontestisover",
       "text_en": "Aye, you've made your point. We can talk more once the contest is over!",
       "text": "อื้ม เจ้าแสดงเจตจำนงชัดเจนแล้วล่ะ เรื่องการปกครองไว้ค่อยคุยเจรจากันใหม่หลังจากเสร็จสิ้นพิธีการแข่งขันเถอะนะ!"
     },
     {
-      "character": "Vorporlor",
+      "key": "iaskyourname",
       "text_en": "...I ask your name.",
       "text": "...ข้าขอทราบนามของเจ้า"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wuklamatprotectorofpeaceandsoontobedawnservant",
       "text_en": "Wuk Lamat! Protector of peace and soon-to-be Dawnservant!",
       "text": "วุค ลามัต! ผู้ปกป้องคุ้มครองความสงบสุข และว่าที่ดอว์นเซิร์ฟวันต์คนต่อไปยังไงล่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "evenpeoplewithwildlydifferentidealscanfindunderstandingthroughearnestdiscussionibelievethatwholeheartedly",
       "text_en": "Even people with wildly different ideals can find understanding through earnest discussion. I believe that wholeheartedly.",
       "text": "แม้แต่ผู้คนที่มีอุดมการณ์ความเชื่อแตกต่างกันอย่างสุดขั้ว ก็ยังสามารถเปิดใจยอมรับทำความเข้าใจกันได้ผ่านการพูดคุยเจรจาอย่างจริงใจค่ะ ฉันเชื่อมั่นแบบนั้นจากใจจริงเลยค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asdoiiwontgiveupuntilwereachacompromise",
       "text_en": "As do I. I won't give up until we reach a compromise.",
       "text": "ข้าเองก็เชื่อแบบนั้นเหมือนกัน ข้าไม่มีวันยอมแพ้เด็ดขาดจนกว่าพวกเราจะเจรจาประนีประนอมหาข้อตกลงร่วมกันสำเร็จ!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "assumingyousurvivemyoldbonesandiwillbewaitinghereforthetrueheirsreturn",
       "text_en": "Assuming you survive. My old bones and I will be waiting here for the true heir's return.",
       "text": "ก็นะ หากเจ้ารอดชีวิตกลับมาได้ล่ะก็ ตัวข้าและกระดูกแก่ๆ นี้จะเฝ้ารอคอยการกลับมาของผู้สืบทอดบัลลังก์ที่แท้จริงอยู่ตรงนี้นะครับ"
     },
     {
-      "character": "Koana",
+      "key": "yourthoughtshavealwaysbeenamysterytomebrotherbutimrelievedtoseeyouputasidethecontestforthesakeofthegreatergood",
       "text_en": "Your thoughts have always been a mystery to me, Brother, but I'm relieved to see you put aside the contest for the sake of the greater good.",
       "text": "ข้าไม่เคยคาดเดาความฝันหรือความรู้สึกนึกคิดในใจของพี่ได้เลยนะพี่ชาย แต่ข้าก็รู้สึกโล่งใจจริงๆ ที่เห็นพี่ยอมวางเรื่องการแข่งขันลงชั่วคราวเพื่อประโยชน์สุขส่วนรวมของแผ่นดิน"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "ournationisafortressanditspeoplethebrickswithwhichitisbuiltthemorethatarelostorbrokentheweakertuliyollalbecomes",
       "text_en": "Our nation is a fortress, and its people the bricks with which it is built. The more that are lost or broken, the weaker Tuliyollal becomes.",
       "text": "อาณาจักรของพวกเราคือป้อมปราการอันแข็งแกร่ง และประชาชนก็คือแผ่นอิฐที่ใช้ก่อสร้างมันขึ้นมา ยิ่งสูญเสียหรือพังเสียหายไปมากเท่าไหร่ ทูลิโยลลัลก็ยิ่งอ่อนแอลงมากเท่านั้น"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "eventhecrudestrockhasvalueasasteppingstone",
       "text_en": "Even the crudest rock has value as a stepping stone.",
       "text": "แม้แต่ก้อนหินที่ผุพังไร้ค่าที่สุด ก็ยังมีประโยชน์ในฐานะแท่นเหยียบเพื่อก้าวต่อไปได้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "comeonyoutwoforgetabouttheriteofsuccessionfornowandhelpmefightthisovergrownsnakebird",
       "text_en": "Come on, you two! Forget about the rite of succession for now, and help me fight this overgrown snake-bird!",
       "text": "มาเถอะพี่น้องทั้งสองคน! ลืมเรื่องพิธีชิงราชบัลลังก์ไปชั่วคราว แล้วร่วมมือช่วยข้าสู้กับนกยักษ์กึ่งงูตัวนี้ก่อนเถอะนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "idontcarehowstrongtheskyruinmaybeweregoingtoputthismenacedownforgood",
       "text_en": "I don't care how strong the Skyruin may be─we're going to put this menace down for good!",
       "text": "ข้าไม่สนใจหรอกนะว่าสกายรูอินจะเก่งกาจทรงพลังขนาดไหน—พวกเราจะช่วยกันกำจัดอสุรกายตัวนี้ให้สิ้นซากตลอดกาลไปเลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "valigarmandawilldemandourundividedattentionletshopezoraaljahasnothingsinisterplanned",
       "text_en": "Valigarmanda will demand our undivided attention. Let's hope Zoraal Ja has nothing sinister planned.",
       "text": "ศึกรับมือวาลิการ์มันดาครั้งนี้ต้องการความร่วมมืออย่างเต็มกำลังจากพวกเราค่ะ หวังว่าโซราล จา จะไม่มีแผนการชั่วร้ายอะไรแอบแฝงอยู่นะคะ"
     },
     {
-      "character": "Krile",
+      "key": "iveneverfacedanythingthispowerfulbeforebutisweariwontholdyouback",
       "text_en": "I've never faced anything this powerful before, but I swear I won't hold you back!",
       "text": "ฉันไม่เคยเผชิญหน้ากับศัตรูที่ทรงพลังขนาดนี้มาก่อนเลย แต่ฉันสาบานว่าจะไม่ยอมทำตัวเป็นภาระถ่วงทุกคนแน่นอนค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "evenpapamaynothavebeenabletoslayvaligarmandabutwiththedawnspromiseandouralliesallfightingtogetheribelievewecandojustthat",
       "text_en": "Even Papa may not have been able to slay Valigarmanda...but with the Dawn's Promise and our allies all fighting together, I believe we can do just that!",
       "text": "ขนาดท่านพ่อผู้ยิ่งใหญ่ยังไม่อาจเข่นฆ่าเอาชนะวาลิการ์มันดาลงได้เลย... ทว่าเมื่อมีคำสัญญาแห่งรุ่งอรุณและเพื่อนพ้องร่วมศึกทุกคนยืนหยัดต่อสู้ร่วมกัน ข้าเชื่อว่าพวกเราจะทำเรื่องที่ยิ่งใหญ่นี้ได้สำเร็จแน่นอนค่ะ!"
     },
     {
-      "character": "Erenville",
+      "key": "youandyourshavejourneyedtotheedgeofexistenceandbackimsuredefeatingthisovergrownsnakebirdiswellwithinyourcapabilitiesyetibidyoutobecautiousallthesame",
       "text_en": "You and yours have journeyed to the edge of existence and back─I'm sure defeating this “overgrown snake-bird” is well within your capabilities. Yet I bid you to be cautious, all the same.",
       "text": "นายและพรรคพวกเคยเดินทางไปถึงจุดสิ้นสุดของความมีตัวตนและย้อนกลับมาได้สำเร็จ—ฉันมั่นใจว่าการโค่นเจ้านกยักษ์กึ่งงูนี่คงไม่เหลือบ่ากว่าแรงความสามารถของนายหรอก แต่อย่างไรก็ตาม ก็จงระมัดระวังตัวไว้ด้วยล่ะ"
     },
     {
-      "character": "Thancred",
+      "key": "iknewkoanawouldntbeonetorushoffandleaveotherstodealwithacreaturelikevaligarmanda",
       "text_en": "I knew Koana wouldn't be one to rush off and leave others to deal with a creature like Valigarmanda.",
       "text": "ฉันคิดไว้แล้วเชียวว่าโคอานาไม่มีทางวิ่งหนีหน้าและทิ้งภาระหน้าที่ให้คนอื่นเผชิญหน้ากับสัตว์ร้ายอย่างวาลิการ์มันดาเพียงลำพังหรอก"
     },
     {
-      "character": "Urianger",
+      "key": "ithathbeensomewhilesincelastijoinedtheeinbattleindeedsofullhavebeenourdaysupontheseshoresitdothseemalifetimehathpassed",
       "text_en": "It hath been some while since last I joined thee in battle. Indeed, so full have been our days upon these shores, it doth seem a lifetime hath passed.",
       "text": "มันช่างผ่านไปนานเหลือเกินตั้งแต่ที่ข้าได้ร่วมศึกเคียงบ่าเคียงไหล่กับเจ้าครั้งล่าสุด แท้จริงแล้ว วันเวลาที่พวกเราได้ผ่านพ้นมาบนแผ่นดินชายฝั่งแห่งนี้ช่างเต็มไปด้วยเรื่องราวประหนึ่งกาลเวลาผ่านไปชั่วอายุคนเลยทีเดียว"
     },
     {
-      "character": "Koana",
+      "key": "whatisonyourmindbrother",
       "text_en": "What is on your mind, Brother...?",
       "text": "พี่กำลังคิดวางแผนการอะไรอยู่ในใจงั้นเหรอครับ พี่ชาย...?"
     },
     {
-      "character": "Sareel Ja",
+      "key": "thatthefuturedawnservantshouldignoremycounseltoindulgeawhimisvexing",
       "text_en": "That the future Dawnservant should ignore my counsel to indulge a whim is...vexing.",
       "text": "การที่ว่าที่ดอว์นเซิร์ฟวันต์คนต่อไปยอมละทิ้งคำปรึกษาชี้แนะของข้าเพื่อทำตามอารมณ์ความรู้สึกชั่วครู่นั้น... ช่างน่าขัดเคืองใจยิ่งนัก"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "weneedntspeak",
       "text_en": "We needn't speak.",
       "text": "พวกเราไม่มีความจำเป็นต้องเจรจาพูดคุยกันหรอก"
     },
     {
-      "character": "Krile",
+      "key": "smallwondertheycalledittheskyruin",
       "text_en": "Small wonder they called it the \"Skyruin\"!",
       "text": "ไม่แปลกใจเลยจริงๆ ทำไมพวกเขาถึงตั้งฉายามันว่า \"สกายรูอิน\"!"
     },
     {
-      "character": "Alisaie",
+      "key": "idbeencurioustoseezoraaljainaction",
       "text_en": "I'd been curious to see Zoraal Ja in action...",
       "text": "ฉันเองก็เคยนึกสงสัยใคร่รู้ฝีมือการต่อสู้ของโซราล จา ยามลงมือเอาจริงอยู่เหมือนกันนะ..."
     },
     {
-      "character": "Urianger",
+      "key": "twasanordealindeed",
       "text_en": "'Twas an ordeal, indeed.",
       "text": "ช่างเป็นศึกที่ยากลำบากจริงๆ ครับ"
     },
     {
-      "character": "Thancred",
+      "key": "wellthatwasgrueling",
       "text_en": "Well, that was grueling!",
       "text": "ฟู่... ตึงมือชะมัดยาดเลยแฮะ!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "iexpectedmore",
       "text_en": "I expected...more.",
       "text": "ข้าคาดหวังว่าจะได้สัมผัส... ความท้าทายที่มากกว่านี้เสียอีก"
     },
     {
-      "character": "Koana",
+      "key": "youfoughtwelllamatyiwithouthesitation",
       "text_en": "You fought well, Lamaty'i... Without hesitation.",
       "text": "ฝีมือยอดเยี่ยมมาก ลามัตยี่... ตัดสินใจลงมือได้ไร้ความลังเลสมเป็นนักรบเลย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wwewonwewon",
       "text_en": "W-We won...? We won!",
       "text": "พ-พวกเราชนะแล้วงั้นเหรอ...? พวกเราชนะแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "theskyruinfallstodayfortuliyollal",
       "text_en": "The Skyruin falls today! For Tuliyollal!",
       "text": "สกายรูอินพ่ายแพ้แล้วในวันนี้! เพื่อทูลิโยลลัล!"
     },
     {
-      "character": "Koana",
+      "key": "stayalivenofoolishrisks",
       "text_en": "Stay alive. No foolish risks.",
       "text": "รักษาชีวิตตัวเองไว้ด้วยล่ะ อย่าหาเรื่องเอาตัวเองไปเสี่ยงอันตรายโดยเปล่าประโยชน์"
     },
     {
-      "character": "Krile",
+      "key": "thewinditsallaroundus",
       "text_en": "The wind... It's all around us!",
       "text": "สายลมเกรี้ยวกราด... มันพัดล้อมตัวพวกเราอยู่ค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehthiswillbesomefight",
       "text_en": "Heh... This will be some fight.",
       "text": "หึ... ศึกครั้งนี้ได้ตึงมือของจริงแน่"
     },
     {
-      "character": "Thancred",
+      "key": "thisisnotasafespottostand",
       "text_en": "This is not a safe spot to stand...",
       "text": "ตรงนี้ไม่ใช่ตำแหน่งที่ปลอดภัยสำหรับยืนตั้งหลักนะ..."
     },
     {
-      "character": "Zoraal Ja",
+      "key": "hmphabeastisabeast",
       "text_en": "Hmph... A beast is a beast.",
       "text": "ชิ... สัตว์ป่าก็ยังคงเป็นแค่วิสัยของสัตว์ป่าอยู่วันยังค่ำนั่นแหละ"
     },
     {
-      "character": "Koana",
+      "key": "youwontcatchmethesamewaytwice",
       "text_en": "You won't catch me the same way twice.",
       "text": "ไม่มีทางจับจุดข้าได้ด้วยมุกเดิมเป็นครั้งที่สองหรอก"
     },
     {
-      "character": "Urianger",
+      "key": "wareitsbreath",
       "text_en": "Ware its breath!",
       "text": "ระวังไอพิษและลมหายใจของมันด้วยครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "ughineedtopaymoreattention",
       "text_en": "Ugh... I need to pay more attention!",
       "text": "อึก... ข้าจำเป็นต้องเพ่งสมาธิคอยสังเกตให้มากกว่านี้แล้วล่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatsthisnow",
       "text_en": "What's this now!?",
       "text": "คราวนี้มันคิดจะทำอะไรกันแน่!?"
     },
     {
-      "character": "Krile",
+      "key": "itsaetherisstaggering",
       "text_en": "Its aether is staggering!",
       "text": "กระแสพลังอีเธอร์ของมันช่างหนาแน่นสะท้านฟ้าสะท้านดินจริงๆ ค่ะ!"
     },
     {
-      "character": "Koana",
+      "key": "theskythegrounditsallchanged",
       "text_en": "The sky, the ground... It's all changed!",
       "text": "ผืนฟ้า ผืนดิน... ทุกอย่างบิดเบี้ยวแปรเปลี่ยนไปหมดแล้วครับ!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "trickstofrightenchildren",
       "text_en": "Tricks to frighten children.",
       "text": "ภาพมายาเวทมนตร์หลอกเด็ก"
     },
     {
-      "character": "Alisaie",
+      "key": "youcanfeelthecracklingintheair",
       "text_en": "You can feel the crackling in the air.",
       "text": "สัมผัสได้ถึงกระแสประจุไฟฟ้าที่แล่นพุ่งพล่านอยู่ในอากาศเลยแฮะ"
     },
     {
-      "character": "Krile",
+      "key": "thepowerofvaligarmanda",
       "text_en": "The power of Valigarmanda...",
       "text": "นี่แหละคืออานุภาพพลังของวาลิการ์มันดา..."
     },
     {
-      "character": "Krile",
+      "key": "becarefulofthewindinfusedground",
       "text_en": "Be careful of the wind-infused ground!",
       "text": "ระวังพื้นดินที่อบอวลไปด้วยไอพลังงานกระแสลมด้วยนะคะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "damnitallhowcouldanyoneseethatcoming",
       "text_en": "Damn it all! How could anyone see that coming!?",
       "text": "ให้ตายสิ! ใครมันจะไปคาดคิดมองออกล่วงหน้าได้ทันกันล่ะ!?"
     },
     {
-      "character": "Urianger",
+      "key": "nowitstrikethfromourflanks",
       "text_en": "Now it striketh from our flanks...",
       "text": "คราวนี้มันหันมาโจมตีขนาบข้างจากฝั่งแนวข้างของพวกเราแล้วครับ..."
     },
     {
-      "character": "Alisaie",
+      "key": "imreadythistime",
       "text_en": "I'm ready this time!",
       "text": "ข้าพร้อมลุยรอบนี้แล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "everythingsgonebacktonormal",
       "text_en": "Everything's gone back to normal!",
       "text": "ทุกอย่างฟื้นสภาพคืนกลับสู่ปกติแล้วค่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "itmusthavetiredofcontrollingtheambientaether",
       "text_en": "It must have tired of controlling the ambient aether.",
       "text": "มันน่าจะเริ่มอ่อนล้าจากการควบคุมดึงกระแสพลังอีเธอร์โดยรอบแล้วล่ะค่ะ"
     },
     {
-      "character": "Koana",
+      "key": "oncemoreitdistortsreality",
       "text_en": "Once more, it distorts reality...",
       "text": "มันเริ่มบิดเบือนมิติความจริงอีกครั้งแล้วครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wereontoyourgamesnow",
       "text_en": "We're onto your games now!",
       "text": "พวกเราจับทางมุกตื้นๆ ของแกได้หมดแล้วน่า!"
     },
     {
-      "character": "Koana",
+      "key": "itschangingthingsagain",
       "text_en": "It's changing things again...",
       "text": "มันกำลังแปรเปลี่ยนสลับมิติสิ่งแวดล้อมอีกแล้วครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "doyourworstwellfightthroughitall",
       "text_en": "Do your worst! We'll fight through it all!",
       "text": "ส่งสิ่งที่ร้ายกาจที่สุดของแกเข้ามาเลย! พวกเราพร้อมจะลุยฝ่าฟันมันไปให้หมดนั่นแหละ!"
     },
     {
-      "character": "Alisaie",
+      "key": "thisbitingcolditsunbearable",
       "text_en": "This biting cold... It's unbearable!",
       "text": "ความเย็นยะเยือกแช่แข็งนี่... มันหนาวทารุณจนแทบจะทนไม่ไหวแล้วนะ!"
     },
     {
-      "character": "Thancred",
+      "key": "weneedtodosomethingbeforewefreezetodeath",
       "text_en": "We need to do something before we freeze to death!",
       "text": "พวกเราต้องทำอะไรสักอย่างก่อนที่จะโดนแช่แข็งตายกันหมดนะ!"
     },
     {
-      "character": "Thancred",
+      "key": "thatscomingfromthemountainsidewatchoutbehindus",
       "text_en": "That's coming from the mountainside... Watch out behind us!",
       "text": "การโจมตีพุ่งเป้ามาจากทิศทางหน้าผาภูเขา... คอยระวังทางด้านหลังพวกเราไว้ด้วย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isthegroundshaking",
       "text_en": "Is the ground shaking?",
       "text": "พื้นดินกำลังสั่นสะเทือนงั้นเหรอ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whoa",
       "text_en": "Whoa!",
       "text": "เหวอ!"
     },
     {
-      "character": "Alisaie",
+      "key": "wecouldhavebeenburiedalive",
       "text_en": "We could have been buried alive...",
       "text": "พวกเราเกือบจะโดนหิมะถล่มทับฝังทั้งเป็นแล้วไหมล่ะ..."
     },
     {
-      "character": "Urianger",
+      "key": "anicyembracewemustneedskeepinmotion",
       "text_en": "An icy embrace... We must needs keep in motion!",
       "text": "ความหนาวเหน็บเกาะกุม... พวกเราจำเป็นต้องเคลื่อนไหวขยับร่างกายไว้ตลอดเวลานะครับ!"
     },
     {
-      "character": "Alisaie",
+      "key": "idrathernotendupanicicle",
       "text_en": "I'd rather not end up an icicle!",
       "text": "ฉันไม่อยากโดนแช่แข็งกลายเป็นแท่งน้ำแข็งหรอกนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hahyoumissedme",
       "text_en": "Hah! You missed me!",
       "text": "หึ! พลาดแล้วล่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "yourequickonyourfeet",
       "text_en": "You're quick on your feet!",
       "text": "นายขยับร่างกายได้ว่องไวปรู๊ดปร๊าดดีจริงๆ เลยนะ!"
     },
     {
-      "character": "Thancred",
+      "key": "thesespikesareratherominous",
       "text_en": "These spikes are rather ominous...",
       "text": "แท่งหนามแหลมพวกนี้ดูน่ากลัวลางร้ายพิกลแฮะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenwebreakthemthisonefirst",
       "text_en": "Then we break them. This one first!",
       "text": "งั้นก็ทำลายพวกมันซะ จัดการแท่งนี้ก่อนเลย!"
     },
     {
-      "character": "Thancred",
+      "key": "tomebracefortheworst",
       "text_en": "To me! Brace for the worst!",
       "text": "มาทางนี้เร็ว! เตรียมรับมือกับแรงปะทะที่เลวร้ายที่สุดไว้!"
     },
     {
-      "character": "Koana",
+      "key": "ugh",
       "text_en": "Ugh!",
       "text": "อั่ก!"
     },
     {
-      "character": "Urianger",
+      "key": "enduremyfriends",
       "text_en": "Endure, my friends!",
       "text": "ยืนหยัดไว้สิ เพื่อนพ้องร่วมศึกทุกคน!"
     },
     {
-      "character": "Krile",
+      "key": "itsnnotsobad",
       "text_en": "It's n-not so bad...",
       "text": "มันก็ไม่ได้แ-ย่ขนาดนั้นหรอกค่ะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "wecantakethis",
       "text_en": "We can take this!",
       "text": "พวกเราต้านทานมันได้อยู่แล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "haaahyouwontbreakus",
       "text_en": "Haaah! You won't break us!",
       "text": "ย้าก! แกไม่มีวันทำลายพวกเราได้หรอก!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "amomentarydiscomfort",
       "text_en": "A momentary discomfort...",
       "text": "เป็นแค่ความอึดอัดทรมานชั่วครู่ชั่วแล่นเท่านั้นแหละ..."
     },
     {
-      "character": "Krile",
+      "key": "iseveryonestillwithus",
       "text_en": "Is everyone still with us!?",
       "text": "ทุกคนยังอยู่ครบกันดีใช่ไหมคะ!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ofcourse",
       "text_en": "Of course!",
       "text": "แน่นอนอยู่แล้ว!"
     },
     {
-      "character": "Alisaie",
+      "key": "thenletsfinishthis",
       "text_en": "Then let's finish this!",
       "text": "ถ้าอย่างนั้นก็มาปิดฉากศึกครั้งนี้กันเลย!"
     },
     {
-      "character": "Krile",
+      "key": "againwiththeambientaetheritsenergiesareinexhaustible",
       "text_en": "Again with the ambient aether...? Its energies are inexhaustible!",
       "text": "มันยังดึงพลังอีเธอร์โดยรอบมาใช้อีกงั้นเหรอคะ...? พลังงานกระแสชีวิตของมันจะไม่มีวันหมดสิ้นเลยหรือไงกัน!"
     },
     {
-      "character": "Alisaie",
+      "key": "isthattheskyruinstruestrengththen",
       "text_en": "Is that the Skyruin's true strength, then?",
       "text": "นั่นคืออานุภาพพลังที่แท้จริงของสกายรูอินสินะคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "endlessstrengthornotvictorywillbeours",
       "text_en": "Endless strength or not, victory will be ours!",
       "text": "จะมีพลังมหาศาลไร้ขอบเขตยังไง ชัยชนะในศึกครั้งนี้ก็ต้องเป็นของพวกเราอยู่ดี!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wediditweslewvaligarmanda",
       "text_en": "We did it... We slew Valigarmanda!",
       "text": "พวกเราทำสำเร็จแล้ว... พวกเราโค่นวาลิการ์มันดาลงได้แล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "afeatthateventhegreatgulooljajacouldntmanage",
       "text_en": "A feat that even the great Gulool Ja Ja couldn't manage!",
       "text": "ผลงานที่แม้แต่ท่านกูลูล จา จา ผู้ยิ่งใหญ่ยังไม่อาจเอาชนะศึกเข่นฆ่ามันลงได้สำเร็จเลยนะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hahforyoupapa",
       "text_en": "Hah! For you, Papa!",
       "text": "ย้าก! ข้าทำเพื่อท่านพ่อนะ!"
     },
     {
-      "character": "Koana",
+      "key": "theresnodenyingitwasanimpressiveachievementbutiwouldntbesoquicktoclaimweveoutdonefather",
       "text_en": "There's no denying it was an impressive achievement. But I wouldn't be so quick to claim we've outdone Father.",
       "text": "ไม่อาจปฏิเสธได้ว่าเป็นผลงานความสำเร็จที่น่าประทับใจมาก ทว่าข้ายังไม่ด่วนสรุปว่าพวกเราได้ก้าวข้ามผลงานของท่านพ่อไปแล้วหรอกนะ"
     },
     {
-      "character": "Koana",
+      "key": "thevidraalwasweakenedbydecadesofimprisonmenthadwefaceditinitsprimewewouldnthavefaredafractionaswell",
       "text_en": "The vidraal was weakened by decades of imprisonment. Had we faced it in its prime, we wouldn't have fared a fraction as well.",
       "text": "อสูรภัยพิบัติถูกสะกดกักขังลดทอนพลังมานานหลายทศวรรษ หากพวกเราต้องเผชิญหน้ากับมันในยุคเฟื่องฟูที่สุดล่ะก็ พวกเราคงไม่มีโอกาสรอดชีวิตหรือทำผลงานได้ถึงเศษเสี้ยวของท่านพ่อแน่นอน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "howcanyousaythateightyyearscouldnthavemadethatmuchofadifferencecouldit",
       "text_en": "How can you say that!? Eighty years couldn't have made that much of a difference, could it?",
       "text": "ทำไมพี่พูดจาแบบนั้นล่ะ!? วันเวลาแปดสิบปีมันจะสร้างความแตกต่างของพละกำลังรบได้ขนาดนั้นเลยงั้นเหรอ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohwhoamikiddingpapasstillthebest",
       "text_en": "Oh, who am I kidding. Papa's still the best...",
       "text": "เฮ้อ ข้าจะหลอกตัวเองทำไมเนี่ย ก็นะ... ท่านพ่อยังคงเป็นที่หนึ่งอยู่ดีนั่นแหละ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ididdidntievenifitwasntatfullstrengthwedefeatedalivinglegend",
       "text_en": "I did, didn't I? Even if it wasn't at full strength, we defeated a living legend!",
       "text": "ข้าเอาชนะมันได้จริงๆ ใช่ไหม? ต่อให้มันจะไม่ได้อยู่ในสภาพสมบูรณ์พร้อมรบเต็มที่ แต่พวกเราก็เอาชนะสัตว์ภัยพิบัติในตำนานลงได้ล่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "iswearillsurpasstheoldmanoneday",
       "text_en": "I swear, I'll surpass the old man one day!",
       "text": "ข้าขอสาบานเลยล่ะว่า วันนึงข้าจะก้าวข้ามท่านพ่อให้ได้!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yourerightaboutthatjustneedafewmorebattleslikethisoneundermybelt",
       "text_en": "You're right about that! Just need a few more battles like this one under my belt!",
       "text": "นั่นสินะ! ข้าแค่ต้องการประสบการณ์ต่อสู้อีกสักสองสามศึกแบบนี้มาประดับบารมีฝีมือตัวเองเท่านั้นแหละ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "yourerightaboutthatillneedtoimproveifiwanttosurpasstheoldman",
       "text_en": "You're right about that... I'll need to improve if I want to surpass the old man.",
       "text": "นั่นสินะ... ข้ายังต้องฝึกซ้อมฝีมือขัดเกลาตัวเองอีกเยอะแยะหากหวังจะก้าวข้ามท่านพ่อให้ได้"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "theskyruinliesdeadandstillihaveyettoprovemyselfthemiracle",
       "text_en": "The Skyruin lies dead, and still I have yet to prove myself the miracle...",
       "text": "สกายรูอินสิ้นชีพลงแล้ว ทว่าตัวข้าก็ยังไม่อาจพิสูจน์ตนเองว่าปาฏิหาริย์นั้นเป็นเรื่องจริง..."
     },
     {
-      "character": "Krile",
+      "key": "wellisupposeweshouldheadbackandjoinerenville",
       "text_en": "Well, I suppose we should head back and join Erenville.",
       "text": "เอาล่ะค่ะ ฉันคิดว่าพวกเราควรจะย้อนเดินทางกลับไปรวมกลุ่มกับเอเรนวิลล์ได้แล้วล่ะค่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ayewedidleavehimwithonlysareeljaforcompany",
       "text_en": "Aye, we did leave him with only Sareel Ja for company...",
       "text": "อื้ม พวกเราปล่อยให้เขาอยู่เผชิญหน้ากับซารีล จา เพียงสองคนเลยนี่นา..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehhehimstillgiddyfromourvictory",
       "text_en": "Heh heh, I'm still giddy from our victory...",
       "text": "เฮะๆ หัวใจข้ายังเต้นรัวด้วยความยินดีดีใจจากชัยชนะเมื่อกี้อยู่เลยล่ะ..."
     },
     {
-      "character": "Koana",
+      "key": "thematterofoutdoingourfatherasidethiswasthebestoutcomewecouldhavehopedforneveragainwillourpeopleneedfeartheloomingshadowoftheskyruin",
       "text_en": "The matter of outdoing our father aside, this was the best outcome we could have hoped for. Never again will our people need fear the looming shadow of the Skyruin.",
       "text": "หากตัดเรื่องความมุ่งมั่นที่จะก้าวข้ามท่านพ่อออกไป ผลลัพธ์ครั้งนี้นับว่าเป็นทางออกที่ดีที่สุดที่พวกเราจะคาดหวังได้แล้วล่ะครับ นับจากนี้ไปประชาชนของเราจะไม่มีวันต้องหวาดกลัวต่อเงาร้ายของสกายรูอินอีกแล้ว"
     },
     {
-      "character": "Krile",
+      "key": "didntitellyouipullmyownweightinbattlenow",
       "text_en": "Didn't I tell you? I pull my own weight in battle now!",
       "text": "เห็นไหมล่ะคะ? ฉันเองก็ทำประโยชน์ช่วยสู้เคียงบ่าเคียงไหล่กับทุกคนในศึกครั้งนี้ได้เหมือนกันนะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "witnessingzoraaljainbattleiunderstandwhyheswidelyconsideredtobetuliyollalsgreatestwarrior",
       "text_en": "Witnessing Zoraal Ja in battle, I understand why he's widely considered to be Tuliyollal's greatest warrior.",
       "text": "พอได้เห็นฝีมือการต่อสู้รบจริงของโซราล จา ในสนามรบแล้ว ฉันก็เข้าใจเลยค่ะว่าทำไมคนถึงยกย่องว่าเขาเป็นนักรบที่เก่งที่สุดในทูลิโยลลัล"
     },
     {
-      "character": "Thancred",
+      "key": "koanadidwellourpromisehaspromisetoodontyouthink",
       "text_en": "Koana did well. Our Promise has promise too, don't you think?",
       "text": "โคอานาทำได้ยอดเยี่ยมมาก ว่าที่ดอว์นเซิร์ฟวันต์ของพวกเราก็มีแววความสามารถไม่เบาเหมือนกันใช่ไหมล่ะ?"
     },
     {
-      "character": "Urianger",
+      "key": "tisfortunatewevanquishedthatwingedcalamityereitcouldinflictgreatersufferingupontheselands",
       "text_en": "'Tis fortunate we vanquished that winged calamity ere it could inflict greater suffering upon these lands.",
       "text": "ช่างเป็นเรื่องน่ายินดียิ่งนักที่พวกเราสามารถกำจัดภัยพิบัติปีกสยายนี้ลงได้ ก่อนที่มันจะสร้างความทุกข์ทรมานโศกนาฏกรรมให้แก่แผ่นดินไปมากกว่านี้"
     },
     {
-      "character": "Erenville",
+      "key": "yourproudexpressionsbespeakasuccessfulhuntnotthatimsurprisedintheleast",
       "text_en": "Your proud expressions bespeak a successful hunt. Not that I'm surprised in the least.",
       "text": "สีหน้าเปี่ยมสุขของพวกนายบ่งบอกชัดเจนว่าการล่าสัตว์ครั้งนี้ประสบความสำเร็จงดงามนะ แต่ก็นั่นแหละ ฉันไม่ได้ประหลาดใจอะไรเลยสักนิด"
     },
     {
-      "character": "Erenville",
+      "key": "zoraaljacamebackearlierbutleftalmostimmediatelywithsareeljaintowheseemeddisinclinedtoshareinanyvictorycelebrations",
       "text_en": "Zoraal Ja came back earlier, but left almost immediately with Sareel Ja in tow. He seemed disinclined to share in any victory celebrations.",
       "text": "โซราล จา เดินทางกลับมาถึงก่อนหน้านี้แล้วล่ะ แต่เขาพากันรีบเดินด่วนกลับไปพร้อมกับซารีล จาทันที ดูท่าทางเขาจะไม่มีความสนใจอยากร่วมพิธีฉลองชัยชนะเท่าไหร่นะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsnothingunusualforzoraalja",
       "text_en": "That's nothing unusual for Zoraal Ja.",
       "text": "นั่นเป็นเรื่องปกติสำหรับโซราล จา อยู่แล้วล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "noitsbakooljajathatconcernsmehesprobablyfaraheadnowmakingthemostofthemayhemhecaused",
       "text_en": "No, it's Bakool Ja Ja that concerns me. He's probably far ahead now, making the most of the mayhem he caused.",
       "text": "ไม่หรอก บาคูล จา จา ต่างหากคือสิ่งที่ข้ากังวลใจ ป่านนี้มันคงวิ่งนำหน้าพวกเราไปไกลลิบแล้วมั้ง อาศัยจังหวะความโกลาหลวุ่นวายที่มันก่อขึ้นเนี่ยแหละ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "istillcantbelievehedidsomethingsoeviljusttoslowusdownifwehadntslainvaligarmandaitwasntonlyurqopachaatrisktherewouldhavebeendeathsacrosstheentirecontinent",
       "text_en": "I still can't believe he did something so evil just to slow us down... If we hadn't slain Valigarmanda, it wasn't only Urqopacha at risk─there would have been deaths across the entire continent!",
       "text": "ข้ายังแทบไม่เชื่อเลยว่ามันจะกล้าทำเรื่องชั่วร้ายเลวทรามขนาดนี้เพียงเพื่อขัดขวางพวกเรา... หากพวกเราไม่ช่วยกันกำจัดวาลิการ์มันดาลงล่ะก็ ไม่ใช่แค่อูร์โกปาชาเท่านั้นที่ต้องเผชิญกับอันตราย แต่คงจะมีคนล้มตายไปทั่วทั้งทวีปเลยล่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "immorecertainthaneverthatbakooljajacannotbeallowedtoruleihavetocatchhimandtakebackmykeystone",
       "text_en": "I'm more certain than ever that Bakool Ja Ja cannot be allowed to rule. I have to catch him and take back my keystone!",
       "text": "ข้าแน่ใจยิ่งกว่าครั้งไหนๆ เลยว่า จะปล่อยให้บาคูล จา จา ขึ้นปกครองแผ่นดินไม่ได้เด็ดขาด ข้าจะต้องตามจับมันและทวงคืนศิลาของข้ากลับมาให้ได้!"
     }

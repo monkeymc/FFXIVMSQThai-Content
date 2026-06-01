@@ -1,681 +1,673 @@
 {
-  "id": "trail-to-the-heavens",
-  "wiki_path": "/wiki/Trail_to_the_Heavens_(Quest)",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/7/71/Trail_to_the_heavens_%28quest%291.png",
-  "patch": "7.5",
-  "title_en": "Trail to the Heavens",
-  "title": "เส้นทางสู่สรวงสวรรค์",
-  "level": "100",
-  "location": "Mare Lamentorum(X:21.0,Y:11.7)",
-  "npc_start": "Alphinaud",
+  "quest_id": "trail-to-the-heavens",
   "dialogues": [
     {
-      "character": "G'raha Tia",
+      "key": "tothinkthatindividualsofcalyxsilkorworseexistonothershards",
       "text_en": "To think that individuals of Calyx's ilk or worse exist on other shards...",
       "text": "เมื่อคิดว่าบุคคลในตระกูล Calyx หรือแย่กว่านั้นมีอยู่บนชิ้นส่วนอื่น..."
     },
     {
-      "character": "Krile",
+      "key": "youllhavetoforgivemeimstillcomingtotermswithitall",
       "text_en": "You'll have to forgive me. I'm still coming to terms with it all...",
       "text": "คุณจะต้องยกโทษให้ฉัน ฉันยังคงตกลงกับมันทั้งหมด..."
     },
     {
-      "character": "Alisaie",
+      "key": "halmarutcantbespeakingthetruthcanshe",
       "text_en": "Halmarut can't be speaking the truth... Can she?",
       "text": "ฮัลมารุตไม่สามารถพูดความจริงได้... เธอได้ไหม?"
     },
     {
-      "character": "Urianger",
+      "key": "theasciansoncelaboredtoresurrectzodiarkandbringbackthosewhorendereduptheirlivestosummonhimforthesakeofthosewhonowlivewefoughttirelesslytoopposethem",
       "text_en": "The Ascians once labored to resurrect Zodiark and bring back those who rendered up their lives to summon Him. For the sake of those who now live, we fought tirelessly to oppose them.",
       "text": "ครั้งหนึ่งชาว Ascians ทำงานหนักเพื่อปลุก Zodiark และนำผู้ที่สละชีวิตของตนกลับมาเพื่อเรียกพระองค์กลับมา เพื่อประโยชน์ของผู้ที่ยังมีชีวิตอยู่ เราต่อสู้อย่างไม่เหน็ดเหนื่อยเพื่อต่อต้านพวกเขา"
     },
     {
-      "character": "Urianger",
+      "key": "ifhalmarutdothtrulyseekarejoiningtoavertthissolsticetoensuresomesurvivewhenotherwiseallwouldperishthenourinterestsarenotsodisparate",
       "text_en": "If Halmarut doth truly seek a rejoining to avert this Solstice─to ensure some survive when otherwise all would perish...then our interests are not so disparate.",
       "text": "หาก Halmarut แสวงหาการกลับมารวมกันอย่างแท้จริงเพื่อหลีกเลี่ยงครีษมายัน เพื่อให้แน่ใจว่าบางคนจะอยู่รอดได้หากไม่อย่างนั้นทุกอย่างจะพินาศ...ผลประโยชน์ของเราก็ไม่แตกต่างกันมากนัก"
     },
     {
-      "character": "Thancred",
+      "key": "trusttheascianstobeplottingsomethingutterlyreprehensible",
       "text_en": "Trust the Ascians to be plotting something utterly reprehensible...",
       "text": "เชื่อใจชาว Ascians ให้วางแผนสิ่งที่น่ารังเกียจอย่างยิ่ง..."
     },
     {
-      "character": "Y'shtola",
+      "key": "thoughiamtemptedtodismissapreemptiverejoiningasanutterlyabsurdsolutionherwordsarenottobetakenlightly",
       "text_en": "Though I am tempted to dismiss a “preemptive rejoining” as an utterly absurd solution, her words are not to be taken lightly...",
       "text": "แม้ว่าฉันจะถูกล่อลวงให้ละทิ้ง \"การเข้าร่วมอีกครั้งเสียก่อน\" ว่าเป็นวิธีแก้ปัญหาที่ไร้สาระอย่างยิ่ง แต่คำพูดของเธอก็ไม่ควรมองข้าม..."
     },
     {
-      "character": "Livingway",
+      "key": "irealizepresentcircumstancesarehardlyconducivetodoingsobutpleasetrytogetsomerestwhileyoucaniknowiwouldbeexhaustedafteryourtrialsinthevoid",
       "text_en": "I realize present circumstances are hardly conducive to doing so, but please try to get some rest while you can! I know I would be exhausted after your trials in the void...",
       "text": "ฉันตระหนักดีว่าสถานการณ์ปัจจุบันไม่เอื้ออำนวยในการดำเนินการดังกล่าว แต่โปรดพยายามพักผ่อนบ้างในขณะที่ยังทำได้! ฉันรู้ว่าฉันคงเหนื่อยมากหลังจากการทดลองของคุณในความว่างเปล่า..."
     },
     {
-      "character": "Alphinaud",
+      "key": "theimplicationsofthesolsticeandthewinterersschemesaswellasourapproachmovingforwardwilltaketimetoconsidertothatendibelieveweshouldgatherandspeakinperson",
       "text_en": "The implications of the Solstice and the Winterers' schemes, as well as our approach moving forward, will take time to consider. To that end, I believe we should gather and speak in person.",
       "text": "ผลกระทบของแผนการของครีษมายันและวินเทอร์เรอร์ส ตลอดจนแนวทางของเราในการก้าวไปข้างหน้า ต้องใช้เวลาในการพิจารณา ด้วยเหตุนี้ ฉันเชื่อว่าเราควรรวมตัวกันและพูดคุยกันต่อหน้า"
     },
     {
-      "character": "Alphinaud",
+      "key": "andbyweimeanallourfellowscions",
       "text_en": "And by “we,” I mean all our fellow Scions.",
       "text": "และคำว่า \"เรา\" ฉันหมายถึงเพื่อน Scions ของเราทุกคน"
     },
     {
-      "character": "Alisaie",
+      "key": "forachangeofpacewhydontweconveneattherisingstonesimsuretataruandtheotherswouldbehappytomeetusthere",
       "text_en": "For a change of pace, why don't we convene at the Rising Stones? I'm sure Tataru and the others would be happy to meet us there.",
       "text": "เพื่อการเปลี่ยนแปลง ทำไมเราไม่ไปรวมตัวกันที่ Rising Stones ล่ะ? ฉันแน่ใจว่าทาทารุและคนอื่นๆ คงจะยินดีที่ได้พบเราที่นั่น"
     },
     {
-      "character": "Alphinaud",
+      "key": "afineideainmanywaysourreturnislongoverdue",
       "text_en": "A fine idea. In many ways, our return is long overdue.",
       "text": "เป็นความคิดที่ดี ในหลาย ๆ ด้าน การกลับมาของเราเกินกำหนดชำระไปนานแล้ว"
     },
     {
-      "character": "Alphinaud",
+      "key": "nodoubtwecouldallusesomerespiteaftergarlemaldbutitrusttherearenoobjections",
       "text_en": "No doubt we could all use some respite after Garlemald, but I trust there are no objections?",
       "text": "ไม่ต้องสงสัยเลยว่าเราทุกคนสามารถผ่อนปรนหลังจาก Garlemald ได้ แต่ฉันเชื่อว่าจะไม่มีการคัดค้านใช่ไหม"
     },
     {
-      "character": "Alphinaud",
+      "key": "tissettledthentotherisingstones",
       "text_en": "'Tis settled, then. To the Rising Stones.",
       "text": "'ตกลงแล้ว' สู่หินที่กำลังขึ้น"
     },
     {
-      "character": "Livingway",
+      "key": "restassuredwewilldoallwecantosupportyourendeavors",
       "text_en": "Rest assured we will do all we can to support your endeavors!",
       "text": "มั่นใจได้ว่าเราจะทำทุกอย่างที่ทำได้เพื่อสนับสนุนความพยายามของคุณ!"
     },
     {
-      "character": "Krile",
+      "key": "therewasmuchandmoretotakecareofingarlemaldevenaftertendingtothewoundedishallbesuretoshareafullreportwithojika",
       "text_en": "There was much and more to take care of in Garlemald, even after tending to the wounded. I shall be sure to share a full report with Ojika.",
       "text": "มีอะไรอีกมากมายที่ต้องดูแลใน Garlemald แม้ว่าจะดูแลผู้บาดเจ็บแล้วก็ตาม ฉันจะต้องแบ่งปันรายงานฉบับเต็มกับโอจิกะอย่างแน่นอน"
     },
     {
-      "character": "Y'shtola",
+      "key": "tisapitymystayinturalcametosuchanabruptendishouldliketomakearrangementstoremainintouchwithshale",
       "text_en": "'Tis a pity my stay in Tural came to such an abrupt end. I should like to make arrangements to remain in touch with Shale.",
       "text": "น่าเสียดายที่การเข้าพักใน Tural ของฉันสิ้นสุดลงอย่างกะทันหันเช่นนี้ ฉันควรจะเตรียมการเพื่อติดต่อกับ Shale ต่อไป"
     },
     {
-      "character": "G'raha Tia",
+      "key": "itfeelslikealifetimeagoifirstsetfootwithinthesewallsthoughgivenweveallexperiencedalifetimesworthoftriumphsandtribulationsintheinterimperhapsthatisonlynatural",
       "text_en": "It feels like a lifetime ago I first set foot within these walls. Though given we've all experienced a lifetime's worth of triumphs and tribulations in the interim, perhaps that is only natural.",
       "text": "รู้สึกเหมือนตลอดชีวิตที่ผ่านมา ฉันได้ก้าวเท้าเข้าไปภายในกำแพงเหล่านี้เป็นครั้งแรก แม้ว่าเราทุกคนเคยประสบกับชัยชนะและความยากลำบากมาตลอดชีวิตในระหว่างนี้ บางทีนั่นอาจเป็นเพียงเรื่องธรรมดาเท่านั้น"
     },
     {
-      "character": "Thancred",
+      "key": "sinceleavingforturalwevebeenalmostconstantlyonthemoveitfeelsgoodtoputmyfeetupinfamiliarstampinggrounds",
       "text_en": "Since leaving for Tural, we've been almost constantly on the move. It feels good to put my feet up in familiar stamping grounds.",
       "text": "นับตั้งแต่ออกจาก Tural เราก็เคลื่อนไหวเกือบตลอดเวลา รู้สึกดีที่ได้ยกเท้าขึ้นบนพื้นที่กระทืบที่คุ้นเคย"
     },
     {
-      "character": "Urianger",
+      "key": "inspiteoftimesvicissitudessomethingsendurethissanctuaryissurelyamongthem",
       "text_en": "In spite of time's vicissitudes, some things endure. This sanctuary is surely among them.",
       "text": "แม้กาลเวลาจะผันผวน แต่บางสิ่งก็คงทน สถานที่ศักดิ์สิทธิ์นี้อยู่ในหมู่พวกเขาอย่างแน่นอน"
     },
     {
-      "character": "Alisaie",
+      "key": "attimeslikethisthecompanyoffriendsisallthemoreprecious",
       "text_en": "At times like this, the company of friends is all the more precious!",
       "text": "ในเวลาเช่นนี้การพบปะเพื่อนฝูงก็มีค่ายิ่งกว่า!"
     },
     {
-      "character": "Alphinaud",
+      "key": "naryathinghaschangedsincewelastgatheredherenodoubttataruischieflyresponsiblefortheprevailingstateoftidiness",
       "text_en": "Nary a thing has changed since we last gathered here... No doubt Tataru is chiefly responsible for the prevailing state of tidiness.",
       "text": "ไม่มีอะไรเปลี่ยนแปลงไปตั้งแต่ที่เรารวมตัวกันที่นี่ครั้งล่าสุด... ไม่ต้องสงสัยเลยว่า Tataru มีหน้าที่รับผิดชอบหลักในเรื่องความเป็นระเบียบเรียบร้อย"
     },
     {
-      "character": "Alphinaud",
+      "key": "speakingofwhomsheandagreatmanyofourcomradesareenrouteletuswaitforthemawhilelonger",
       "text_en": "Speaking of whom, she and a great many of our comrades are en route. Let us wait for them a while longer.",
       "text": "เมื่อพูดถึงใคร เธอและสหายของเราอีกหลายคนก็กำลังเดินทางไป ให้เรารอพวกเขาอีกสักระยะหนึ่ง"
     },
     {
-      "character": "Urianger",
+      "key": "longithathbeensincelastwegatheredhere",
       "text_en": "Long it hath been since last we gathered here...",
       "text": "นานมาแล้วนับตั้งแต่ครั้งสุดท้ายที่เรารวมตัวกันที่นี่..."
     },
     {
-      "character": "Urianger",
+      "key": "thoughourordersdissolutionwasindeedinnameonlythereafterwedidlargelyoperateindependentofoneanother",
       "text_en": "Though our order's dissolution was indeed in name only, thereafter we did largely operate independent of one another.",
       "text": "แม้ว่าการยุบคำสั่งของเราจะเป็นเพียงในนามเท่านั้น แต่หลังจากนั้น เราก็ดำเนินการเป็นอิสระจากกันเป็นส่วนใหญ่"
     },
     {
-      "character": "Urianger",
+      "key": "allofwhichistosayfullgladamitostandinsuchesteemedcompanyoncemore",
       "text_en": "All of which is to say, full glad am I to stand in such esteemed company once more.",
       "text": "ทั้งหมดนี้กล่าวได้ว่าดีใจอย่างยิ่งที่ได้ยืนอยู่ในบริษัทอันทรงเกียรติเช่นนี้อีกครั้ง"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "apologiesforourdelay",
       "text_en": "Apologies for our delay!",
       "text": "ขออภัยในความล่าช้าของเรา!"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "werereportingfordutyasbid",
       "text_en": "We're reporting for duty as bid!",
       "text": "เรากำลังรายงานการปฏิบัติหน้าที่ตามการประมูล!"
     },
     {
-      "character": "Tataru",
+      "key": "thisiseveryonethatwecouldrounduponshortnoticetheothersarestillenroute",
       "text_en": "This is everyone that we could round up on short notice. The others are still en route.",
       "text": "นี่คือทุกคนที่เราสามารถสรุปได้ในเวลาอันสั้น คนอื่นๆยังอยู่ระหว่างทาง"
     },
     {
-      "character": "Tataru",
+      "key": "estinienalonewewerentabletomakecontactwithbutwereworkingonit",
       "text_en": "Estinien alone, we weren't able to make contact with...but we're working on it!",
       "text": "Estinien เพียงอย่างเดียว เราไม่สามารถติดต่อกับ...แต่เรากำลังดำเนินการอยู่!"
     },
     {
-      "character": "Thancred",
+      "key": "nodoubthislinkpearlisburiedatthebottomofhisbag",
       "text_en": "No doubt his linkpearl is buried at the bottom of his bag.",
       "text": "ไม่ต้องสงสัยเลยว่าลิงค์เพิร์ลของเขาถูกฝังอยู่ใต้กระเป๋าของเขา"
     },
     {
-      "character": "Alphinaud",
+      "key": "knowinghimhellturnupwhenweleastexpectit",
       "text_en": "Knowing him, he'll turn up when we least expect it.",
       "text": "เมื่อรู้จักเขาแล้ว เขาจะปรากฏตัวเมื่อเราคาดหวังน้อยที่สุด"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "nowasmuchasiwouldliketosavorourreuniontatarutellsustherehavebeendevelopments",
       "text_en": "Now, as much as I would like to savor our reunion, Tataru tells us there have been developments .",
       "text": "ตอนนี้ แม้ว่าฉันจะอยากลิ้มรสชาติการกลับมาพบกันอีกครั้ง Tataru ก็บอกเราว่ามีพัฒนาการเกิดขึ้น"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "willyouappriseusofthedetails",
       "text_en": "Will you apprise us of the details?",
       "text": "คุณจะแจ้งให้เราทราบรายละเอียดหรือไม่?"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "thewinterersandthesolstice",
       "text_en": "The Winterers and the Solstice...",
       "text": "ฤดูหนาวและครีษมายัน..."
     },
     {
-      "character": "Y'shtola",
+      "key": "theveracityofhalmarutsclaimsremainsunclear",
       "text_en": "The veracity of Halmarut's claims remains unclear.",
       "text": "ความจริงในคำกล่าวอ้างของฮัลมารุตยังไม่ชัดเจน"
     },
     {
-      "character": "Y'shtola",
+      "key": "yetitcannotbedeniedthatinhisbidtoconvertthelivingintoendlesscalyxwasprivytoknowledgeofthereflectionsandmore",
       "text_en": "Yet it cannot be denied that, in his bid to convert the living into Endless, Calyx was privy to knowledge of the reflections and more.",
       "text": "แต่ก็ไม่อาจปฏิเสธได้ว่า ในความพยายามของเขาที่จะเปลี่ยนสิ่งมีชีวิตให้กลายเป็นไม่มีที่สิ้นสุด Calyx มีความรู้เกี่ยวกับการสะท้อนกลับและอื่นๆ อีกมากมาย"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "andthewinterersareformedofotherslikehim",
       "text_en": "And the Winterers are formed of others like him...",
       "text": "และพวกวินเทอร์เรอร์ก็ถูกสร้างขึ้นจากคนอื่นๆ ที่เหมือนกับเขา..."
     },
     {
-      "character": "Alphinaud",
+      "key": "inlightoftherecentvoidsentincursionsibelieveitwouldbewisetotreatthesolsticeasagenuinethreat",
       "text_en": "In light of the recent voidsent incursions, I believe it would be wise to treat the Solstice as a genuine threat.",
       "text": "เมื่อพิจารณาถึงการรุกรานที่เป็นโมฆะเมื่อเร็วๆ นี้ ฉันเชื่อว่าเป็นการฉลาดที่จะถือว่า Solstice เป็นภัยคุกคามอย่างแท้จริง"
     },
     {
-      "character": "Alphinaud",
+      "key": "theproblemishowtodealwithit",
       "text_en": "The problem is how to deal with it...",
       "text": "ปัญหาคือจะจัดการกับมันอย่างไร..."
     },
     {
-      "character": "Alisaie",
+      "key": "boththesourceandthereflectionsarehometoirreplaceablelifeiwouldprotectthemallificould",
       "text_en": "Both the Source and the reflections are home to irreplaceable life. I would protect them all if I could.",
       "text": "ทั้งแหล่งกำเนิดและการสะท้อนกลับเป็นที่อยู่อาศัยของชีวิตที่ไม่สามารถถูกแทนที่ได้ ฉันจะปกป้องพวกเขาทั้งหมดถ้าทำได้"
     },
     {
-      "character": "Alisaie",
+      "key": "butifdoingsomeansusheringincompleteannihilation",
       "text_en": "But if doing so means ushering in complete annihilation...",
       "text": "แต่ถ้าการทำเช่นนั้นหมายถึงการทำลายล้างอย่างสมบูรณ์..."
     },
     {
-      "character": "Alisaie",
+      "key": "thenwhatcanwepossiblydo",
       "text_en": "Then what can we possibly do?",
       "text": "แล้วเราจะทำอะไรได้บ้าง?"
     },
     {
-      "character": "Krile",
+      "key": "iwonderwashydaelynawareofthesolstice",
       "text_en": "I wonder, was Hydaelyn aware of the Solstice?",
       "text": "ฉันสงสัยว่า Hydaelyn รู้เรื่อง Solstice หรือไม่?"
     },
     {
-      "character": "G'raha Tia",
+      "key": "hmmm",
       "text_en": "Hmmm...",
       "text": "อืม..."
     },
     {
-      "character": "G'raha Tia",
+      "key": "giventhatwehadnoknowledgeofitwhenyoujourneyedtoelpisyoucouldnthavewarnedvenat",
       "text_en": "Given that we had no knowledge of it when you journeyed to Elpis, you couldn't have warned Venat.",
       "text": "เนื่องจากเราไม่มีความรู้เรื่องนี้มาก่อนเมื่อคุณเดินทางไปยัง Elpis คุณจึงไม่สามารถเตือน Venat ได้"
     },
     {
-      "character": "G'raha Tia",
+      "key": "soitisentirelypossibleshewasunawarebutinthecourseofsustainingthesunderedstarshemayhaveglimpsedthiseventuality",
       "text_en": "So it is entirely possible She was unaware. But in the course of sustaining the sundered star, She may have glimpsed this eventuality.",
       "text": "เป็นไปได้ทั้งหมดที่เธอไม่รู้ตัว แต่ในระหว่างการรักษาดวงดาวที่แตกสลาย เธออาจมองเห็นเหตุการณ์นี้"
     },
     {
-      "character": "G'raha Tia",
+      "key": "indeednotevenhydaelyncouldbeexpectedtoforeseeeverythingandwithhergonewehaveonlyspeculation",
       "text_en": "Indeed, not even Hydaelyn could be expected to foresee everything. And with Her gone, we have only speculation.",
       "text": "แท้จริงแล้ว แม้แต่ Hydaelyn ก็ไม่สามารถคาดหวังทุกสิ่งได้ และเมื่อเธอจากไปแล้ว เราก็ได้แต่เพียงการคาดเดาเท่านั้น"
     },
     {
-      "character": "G'raha Tia",
+      "key": "soshebelievedthatwecouldovercomethistrialaswellorratherthatthechoicewasourstomake",
       "text_en": "So She believed that we could overcome this trial as well? Or rather, that the choice was ours to make...",
       "text": "ดังนั้นเธอจึงเชื่อว่าเราสามารถเอาชนะการทดลองนี้ได้เช่นกัน หรือพูดง่ายๆ ก็คือ เราเป็นคนเลือกเอง..."
     },
     {
-      "character": "Y'shtola",
+      "key": "whicheveritmaybeitiswewhomustfindtheanswer",
       "text_en": "Whichever it may be, it is we who must find the answer.",
       "text": "ไม่ว่ามันจะเป็นอะไรเราเองที่ต้องหาคำตอบ"
     },
     {
-      "character": "Y'shtola",
+      "key": "wewholiveinthehereandnow",
       "text_en": "We who live in the here and now.",
       "text": "เราผู้อาศัยอยู่ที่นี่และเดี๋ยวนี้"
     },
     {
-      "character": "Tataru",
+      "key": "perhapswecouldtakearecessidaresayeveryonecouldusearest",
       "text_en": "Perhaps we could take a recess? I daresay everyone could use a rest.",
       "text": "บางทีเราอาจจะได้พักบ้าง? ฉันกล้าบอกว่าทุกคนสามารถพักผ่อนได้"
     },
     {
-      "character": "Alphinaud",
+      "key": "indeedwehaveamplefoodforthoughtanditwouldbegoodtocatcheachotherup",
       "text_en": "...Indeed. We have ample food for thought, and it would be good to catch each other up.",
       "text": "...อย่างแท้จริง. เรามีอาหารให้คิดมากมาย และคงจะดีถ้าได้ติดต่อกัน"
     },
     {
-      "character": "Y'shtola",
+      "key": "ereiforgethereonibelieveyoushouldkeepthekeyethosinyourpossession",
       "text_en": "Ere I forget... Hereon, I believe you should keep the key─Ethos─in your possession.",
       "text": "ก่อนที่ฉันจะลืม... ต่อไปนี้ ฉันเชื่อว่าคุณควรเก็บกุญแจ─หลักจริยธรรมไว้ในความครอบครองของคุณ"
     },
     {
-      "character": "Y'shtola",
+      "key": "afterallitseemsthatisonemysteryiamnotdestinedtounravel",
       "text_en": "After all, it seems that is one mystery I am not destined to unravel.",
       "text": "ท้ายที่สุดแล้ว ดูเหมือนว่านั่นจะเป็นความลับอย่างหนึ่งที่ฉันไม่ได้ถูกลิขิตให้เปิดเผย"
     },
     {
-      "character": "Coultenet",
+      "key": "thislatestdevelopmentisindeedashockbutiamheartenedtoseenotasinglefacecloudedwithdespair",
       "text_en": "This latest development is indeed a shock, but I am heartened to see not a single face clouded with despair!",
       "text": "การพัฒนาล่าสุดนี้เป็นเรื่องที่น่าตกใจจริงๆ แต่ฉันก็ดีใจมากที่ไม่เห็นใบหน้าเดียวที่ขุ่นมัวด้วยความสิ้นหวัง!"
     },
     {
-      "character": "Ephemie",
+      "key": "ihelpedrepelthevoidsentincursioninlapismanalisfightingofffiendcontrolledgalateaeissomethingiwontrushtorelivebutitwasnonethelessgoodtraining",
       "text_en": "I helped repel the voidsent incursion in Lapis Manalis. Fighting off fiend-controlled Galateae is something I won't rush to relive, but it was nonetheless good training.",
       "text": "ฉันช่วยขับไล่การรุกรานของความว่างเปล่าใน Lapis Manalis การต่อสู้กับ Galateae ที่ควบคุมโดยปีศาจเป็นสิ่งที่ฉันจะไม่รีบเร่งที่จะหวนคิดถึง แต่มันก็เป็นการฝึกฝนที่ดี"
     },
     {
-      "character": "Alisaie",
+      "key": "dontworryaboutmeimsureyouveplentytodiscusswithalltheseoldfaces",
       "text_en": "Don't worry about me. I'm sure you've plenty to discuss with all these old faces.",
       "text": "ไม่ต้องกังวลเกี่ยวกับฉัน. ฉันแน่ใจว่าคุณมีเรื่องมากมายที่จะพูดคุยกับคนแก่ๆ พวกนี้"
     },
     {
-      "character": "Tataru",
+      "key": "itseemsourcolleagueshavemuchtocatcheachotheruponishallhavetobrewsometea",
       "text_en": "It seems our colleagues have much to catch each other up on. I shall have to brew some tea!",
       "text": "ดูเหมือนว่าเพื่อนร่วมงานของเรายังมีอะไรให้ต้องติดตามกันอีกมาก ฉันคงต้องชงชาแล้วล่ะ!"
     },
     {
-      "character": "Urianger",
+      "key": "tataruisevertheconsideratefacilitatorgratefulamitorefrainfromweightydiscussionsandsimplyconversewitholdfriends",
       "text_en": "Tataru is ever the considerate facilitator. Grateful am I to refrain from weighty discussions and simply converse with old friends.",
       "text": "ทาทารุเป็นผู้อำนวยความสะดวกที่มีน้ำใจอยู่เสมอ ฉันรู้สึกขอบคุณที่ละเว้นจากการสนทนาที่หนักหน่วงและเพียงพูดคุยกับเพื่อนเก่า"
     },
     {
-      "character": "Clemence",
+      "key": "ohaenorihopedyoudcometoyoursensesbutiseeyourestillinthethroesofwithdrawal",
       "text_en": "Oh, Aenor... I hoped you'd come to your senses, but I see you're still in the throes of withdrawal.",
       "text": "โอ้ Aenor... ฉันหวังว่าคุณจะรู้สึกตัว แต่ฉันเห็นว่าคุณยังคงลำบากใจในการถอนตัว"
     },
     {
-      "character": "Aenor",
+      "key": "thebrothersarereunitedyetadistancebetweenthempersistshowcruelfateistoforcemetochoose",
       "text_en": "The brothers are reunited, yet a distance between them persists! How cruel fate is to force me to choose...",
       "text": "พี่น้องกลับมาพบกันอีกครั้ง แต่ระยะห่างระหว่างพวกเขายังคงอยู่! โชคชะตาช่างโหดร้ายแค่ไหนที่ต้องบังคับให้เลือก..."
     },
     {
-      "character": "Krile",
+      "key": "hearingourcomradestalesremindsmeofmyeffortstomasterpictomancyweveallcomesofarstrivensohard",
       "text_en": "Hearing our comrades' tales reminds me of my efforts to master pictomancy. We've all come so far─striven so hard.",
       "text": "การได้ฟังเรื่องราวของสหายของเราทำให้ฉันนึกถึงความพยายามของฉันที่จะเชี่ยวชาญจินตภาพ เราทุกคนมาไกลมากแล้ว - มีความพยายามอย่างหนัก"
     },
     {
-      "character": "G'raha Tia",
+      "key": "evenafterdiscussingtherevelationsconcerningcalyxthereisagreatdealtosharetisdifficulttoknowwheretobegin",
       "text_en": "Even after discussing the revelations concerning Calyx, there is a great deal to share. 'Tis difficult to know where to begin!",
       "text": "แม้ว่าหลังจากหารือเกี่ยวกับการเปิดเผยเกี่ยวกับ Calyx แล้ว ยังมีเรื่องมากมายที่จะแบ่งปัน 'มันยากที่จะรู้ว่าจะเริ่มต้นจากตรงไหน!"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "coultenetandihadremainedincorvostomonitorthesituationamongthegarleansandthecorvosi",
       "text_en": "Coultenet and I had remained in Corvos to monitor the situation among the Garleans and the Corvosi.",
       "text": "Coultenet และฉันยังคงอยู่ใน Corvos เพื่อติดตามสถานการณ์ในหมู่ Garleans และ Corvosi"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "thoughseldomsmoothsailingintimetheregionsettledandwewereabletoreturn",
       "text_en": "Though seldom smooth sailing, in time the region settled, and we were able to return.",
       "text": "แม้ว่าการเดินเรือจะไม่ค่อยราบรื่น แต่ในที่สุดภูมิภาคก็สงบลง และเราก็สามารถกลับมาได้"
     },
     {
-      "character": "Coultenet",
+      "key": "iunderstandthegarleancommunityhasmadegreatstridesinimprovingrelationswithotherpeoples",
       "text_en": "I understand the Garlean community has made great strides in improving relations with other peoples.",
       "text": "ฉันเข้าใจว่าชุมชน Garlean มีความก้าวหน้าอย่างมากในการปรับปรุงความสัมพันธ์กับผู้อื่น"
     },
     {
-      "character": "Coultenet",
+      "key": "hearingthatifeelrenewedzealforresolvingtheissuesincorvos",
       "text_en": "Hearing that, I feel renewed zeal for resolving the issues in Corvos.",
       "text": "เมื่อได้ยินเช่นนั้น ฉันรู้สึกกระตือรือร้นมากขึ้นในการแก้ไขปัญหาใน Corvos"
     },
     {
-      "character": "Ephemie",
+      "key": "thenperhapsyoudliketohearmoreaboutthegarleansaccomplishmentsfrommeandthetwinsitmightstokethatfireevenhotter",
       "text_en": "Then perhaps you'd like to hear more about the Garleans' accomplishments from me and the twins. It might stoke that fire even hotter!",
       "text": "ถ้าอย่างนั้นคุณคงอยากได้ยินเกี่ยวกับความสำเร็จของชาว Garleans จากฉันและฝาแฝดมากกว่านี้ มันอาจทำให้ไฟนั้นร้อนขึ้นอีก!"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "idontsupposeyouradventureshavetakenyoutocorvoswhileitstillbearsthescarsofwartisabeautifulregionandwellworthavisit",
       "text_en": "I don't suppose your adventures have taken you to Corvos? While it still bears the scars of war, 'tis a beautiful region, and well worth a visit!",
       "text": "ฉันไม่คิดว่าการผจญภัยของคุณจะพาคุณไปที่ Corvos เหรอ? แม้ว่ายังคงมีรอยแผลเป็นจากสงคราม แต่ก็เป็นภูมิภาคที่สวยงามและคุ้มค่าแก่การเยี่ยมชม!"
     },
     {
-      "character": "Alphinaud",
+      "key": "twasbynomeansaneasydecisionbutasthesolsticeisnowourparamountconcernalisaieandihaveoptedtoformallywithdrawfromoureffortsingarlemald",
       "text_en": "'Twas by no means an easy decision, but as the Solstice is now our paramount concern, Alisaie and I have opted to formally withdraw from our efforts in Garlemald.",
       "text": "'มันไม่ใช่การตัดสินใจที่ง่ายเลย แต่เนื่องจากครีษมายันกลายเป็นข้อกังวลสูงสุดของเรา Alisaie และฉันก็เลยเลือกที่จะถอนตัวอย่างเป็นทางการจากความพยายามของเราใน Garlemald"
     },
     {
-      "character": "Alphinaud",
+      "key": "afterallanythingwecandotoprotectourworldwillalsoservetokeepthegarleanssafe",
       "text_en": "After all, anything we can do to protect our world will also serve to keep the Garleans safe.",
       "text": "ท้ายที่สุดแล้ว อะไรก็ตามที่เราทำได้เพื่อปกป้องโลกของเราก็จะทำหน้าที่ปกป้องชาวการ์ลีนให้ปลอดภัยเช่นกัน"
     },
     {
-      "character": "Alisaie",
+      "key": "jullusandhiscomradesarealreadyworkingtowardsabrighterfutureoftheirownaccordhonestlyimmoreworriedaboutus",
       "text_en": "Jullus and his comrades are already working towards a brighter future of their own accord. Honestly, I'm more worried about us.",
       "text": "Jullus และสหายของเขากำลังทำงานเพื่ออนาคตที่สดใสตามข้อตกลงของพวกเขาเอง บอกตามตรงว่าฉันเป็นห่วงเรามากกว่า"
     },
     {
-      "character": "Alisaie",
+      "key": "itssodifficulttoseethepathaheadbuthopefullywecangetthroughthisandreturntogarlemaldwithourheadsheldhighoneday",
       "text_en": "It's so difficult to see the path ahead. But hopefully we can get through this and return to Garlemald with our heads held high one day...",
       "text": "มันยากมากที่จะเห็นเส้นทางข้างหน้า แต่หวังว่าเราจะผ่านเรื่องนี้ไปได้ และกลับมายัง Garlemald ด้วยเชิดชูเกียรติสักวันหนึ่ง..."
     },
     {
-      "character": "Alphinaud",
+      "key": "indeedinthemeantimeletuspreparealetterforjullusandthecommunitywemustntletdespairstayourhand",
       "text_en": "Indeed... In the meantime, let us prepare a letter for Jullus and the community. We mustn't let despair stay our hand.",
       "text": "แน่นอน... ในระหว่างนี้ เรามาเตรียมจดหมายถึง Jullus และชุมชนกันดีกว่า เราต้องไม่ปล่อยให้ความสิ้นหวังครอบงำเรา"
     },
     {
-      "character": "Alphinaud",
+      "key": "wehardlyhadtimetocatchupwithmotherandfatherbackinsharlayanihopetheydonttakeumbrageatsobriefavisit",
       "text_en": "We hardly had time to catch up with Mother and Father back in Sharlayan. I hope they don't take umbrage at so brief a visit...",
       "text": "เราแทบไม่มีเวลาตามพ่อกับแม่ที่ชาร์ลายันเลย ฉันหวังว่าพวกเขาจะไม่โกรธเคืองในการมาเยือนช่วงสั้นๆ เช่นนี้..."
     },
     {
-      "character": "Thancred",
+      "key": "afteruriangerandiwentoffonourownwedecidedtospendsometimeexploringxakturalweneverhadthechancetovisitduringtheriteofsuccessionyousee",
       "text_en": "After Urianger and I went off on our own, we decided to spend some time exploring Xak Tural. We never had the chance to visit during the rite of succession, you see.",
       "text": "หลังจากที่ฉันและ Urianger ออกเดินทางกันตามลำพัง เราก็ตัดสินใจใช้เวลาสำรวจ Xak Tural บ้าง เราไม่มีโอกาสได้ไปเยี่ยมเยียนในระหว่างพิธีสืบราชสันตติวงศ์เลย"
     },
     {
-      "character": "Thancred",
+      "key": "wejourneyedeastthroughloazenihetabeforeheadingupthecoasttothefrigidnorthernreacheswheretheyrevereastoriedbeastoftheseatheexcursiononlyservedtoreinforcejusthowdiverseturalreallyis",
       "text_en": "We journeyed east through Loazeniheta before heading up the coast to the frigid northern reaches, where they revere a storied beast of the sea. The excursion only served to reinforce just how diverse Tural really is.",
       "text": "เราเดินทางไปทางตะวันออกผ่านโลอาเซนิเฮตา ก่อนที่จะมุ่งหน้าขึ้นชายฝั่งไปยังต้นน้ำทางตอนเหนือที่หนาวเย็น ที่ซึ่งพวกมันเคารพบูชาสัตว์ในตำนานแห่งท้องทะเล การทัศนศึกษาครั้งนี้มีไว้เพื่อตอกย้ำว่า Tural มีความหลากหลายเพียงใด"
     },
     {
-      "character": "Urianger",
+      "key": "wealsometwiththewhalaqeethoughwehadnotthetimetostudytheirartsatlengthwewereprivytoseveralintriguingdemonstrations",
       "text_en": "We also met with the Whalaqee. Though we had not the time to study their arts at length, we were privy to several intriguing demonstrations.",
       "text": "เราก็ได้พบกับวาลาคีด้วย แม้ว่าเราจะไม่มีเวลาศึกษาศิลปะของพวกเขามากนัก แต่เราก็มีโอกาสได้ชมการสาธิตที่น่าสนใจหลายครั้ง"
     },
     {
-      "character": "Urianger",
+      "key": "wouldthatwecouldhaveindulgedourcuriosityfurtherandtraveledtoyetmoredistantlandsforbetterorforworsepragmatismtemperedourwanderlust",
       "text_en": "Would that we could have indulged our curiosity further and traveled to yet more distant lands. For better or for worse, pragmatism tempered our wanderlust.",
       "text": "เป็นไปได้ไหมที่เราจะได้ดื่มด่ำกับความอยากรู้อยากเห็นของเราต่อไปและเดินทางไปยังดินแดนที่ห่างไกลกว่านี้ ไม่ว่าจะดีขึ้นหรือแย่ลง ลัทธิปฏิบัตินิยมก็บรรเทาความอยากเดินทางของเรา"
     },
     {
-      "character": "Thancred",
+      "key": "sufficeittosaywestillhaveplentytoseeofthecontinentishouldverymuchliketoreturngiventhechance",
       "text_en": "Suffice it to say, we still have plenty to see of the continent. I should very much like to return, given the chance.",
       "text": "พอจะพูดได้ว่าเรายังมีอะไรให้ดูอีกมากเกี่ยวกับทวีปนี้ ฉันควรจะอยากกลับมามากเมื่อได้รับโอกาส"
     },
     {
-      "character": "Thancred",
+      "key": "apparentlythelandscapeinthefarsouthofyokturalisquiteuniqueaswellicanseewhyketenrammwassoenamoredwiththevastnessofitall",
       "text_en": "Apparently, the landscape in the far south of Yok Tural is quite unique as well. I can see why Ketenramm was so enamored with the vastness of it all.",
       "text": "เห็นได้ชัดว่าภูมิประเทศทางตอนใต้ของยกตูราลก็มีเอกลักษณ์เฉพาะตัวเช่นกัน ฉันเข้าใจได้ว่าทำไม Ketenramm ถึงหลงใหลในความกว้างขวางของมันทั้งหมด"
     },
     {
-      "character": "Y'shtola",
+      "key": "judgingbyyourguiseclemenceyourstudiesmusthavebeenproductive",
       "text_en": "Judging by your guise, Clemence, your studies must have been productive.",
       "text": "ดูจากหน้ากากของคุณ เคลเมนซ์ การศึกษาของคุณต้องมีประสิทธิผลแน่ๆ"
     },
     {
-      "character": "Clemence",
+      "key": "indeedihavemoreorlessmasteredthefundamentalprinciplesofsharlayanastrology",
       "text_en": "Indeed! I have more or less mastered the fundamental principles of Sharlayan astrology.",
       "text": "อย่างแท้จริง! ฉันเชี่ยวชาญหลักการพื้นฐานของโหราศาสตร์ชาร์ลายันไม่มากก็น้อย"
     },
     {
-      "character": "Clemence",
+      "key": "atonepointiconsideredexploringotherhealingartsbutdecidedtoperseverewithmorefocusedtrainingtobetterleveragemyskillsonthebattlefield",
       "text_en": "At one point I considered exploring other healing arts, but decided to persevere with more focused training to better leverage my skills on the battlefield.",
       "text": "มีอยู่ช่วงหนึ่งที่ฉันคิดว่าจะสำรวจศิลปะการรักษาอื่นๆ แต่ตัดสินใจที่จะฝึกฝนที่มุ่งเน้นมากขึ้นเพื่อยกระดับทักษะของฉันในสนามรบให้ดีขึ้น"
     },
     {
-      "character": "Aenor",
+      "key": "idontthinkidbemuchuseonabattlefieldthesedaysicanscarcelyholdmybowsteadyletalonehitatargetsosorelybereftofbrotherlyministrationsasiam",
       "text_en": "I don't think I'd be much use on a battlefield these days. I can scarcely hold my bow steady, let alone hit a target... So sorely bereft of brotherly ministrations as I am...",
       "text": "ฉันไม่คิดว่าฉันจะมีประโยชน์มากในสนามรบทุกวันนี้ ฉันแทบจะจับคันธนูให้นิ่งไม่ไหวติง นับประสาอะไรกับเป้าหมาย... ฉันจึงสูญเสียพันธกิจแบบพี่น้องอย่างสาหัสเหลือเกิน..."
     },
     {
-      "character": "Clemence",
+      "key": "iknewyoustillrequiredconstantsupervision",
       "text_en": "I knew you still required constant supervision!",
       "text": "ฉันรู้ว่าคุณยังต้องมีการดูแลอย่างต่อเนื่อง!"
     },
     {
-      "character": "Y'shtola",
+      "key": "youtwohaventchangedintheslightestitmakesmewonderhowourcolleaguesthatcouldntjoinustodayarefaring",
       "text_en": "You two haven't changed in the slightest. It makes me wonder how our colleagues that couldn't join us today are faring.",
       "text": "คุณสองคนไม่เปลี่ยนไปเลยแม้แต่น้อย มันทำให้ฉันสงสัยว่าเพื่อนร่วมงานของเราที่ไม่สามารถเข้าร่วมกับเราในวันนี้เป็นอย่างไร"
     },
     {
-      "character": "Y'shtola",
+      "key": "seeingthetwosiblingstogethermademethinkofmysistersandhalfsistersalltwelveofusactuallyhadtheopportunitytogathernotsolongago",
       "text_en": "Seeing the two siblings together made me think of my sisters and half-sisters... All twelve of us actually had the opportunity to gather not so long ago.",
       "text": "การได้เห็นพี่น้องสองคนอยู่ด้วยกันทำให้ฉันนึกถึงพี่สาวและน้องสาวต่างมารดา... พวกเราทั้งสิบสองคนมีโอกาสได้รวมตัวกันเมื่อไม่นานมานี้"
     },
     {
-      "character": "Ocher Boulder",
+      "key": "aenorandiweretrainingingridaniawhenvoidsentattackedthetwelveswoodthankfullywewereabletofendthemoffwiththehelpofthetwinadders",
       "text_en": "Aenor and I were training in Gridania when voidsent attacked the Twelveswood. Thankfully, we were able to fend them off with the help of the Twin Adders.",
       "text": "Aenor และฉันกำลังฝึกซ้อมอยู่ที่ Gridania เมื่อ voidsent โจมตี Twelveswood โชคดีที่เราสามารถป้องกันพวกมันได้ด้วยความช่วยเหลือจาก Twin Adders"
     },
     {
-      "character": "Ocher Boulder",
+      "key": "wheniheardtheinvasionhadalreadyspreadacrossthestarirealizedthegravityofthesituationandorderedaconfidentialreportsenttotheotherscions",
       "text_en": "When I heard the invasion had already spread across the star, I realized the gravity of the situation and ordered a confidential report sent to the other Scions.",
       "text": "เมื่อฉันได้ยินว่าการรุกรานได้แพร่กระจายไปทั่วดวงดาวแล้ว ฉันก็ตระหนักถึงความร้ายแรงของสถานการณ์ และสั่งให้ส่งรายงานที่เป็นความลับไปยัง Scions อื่นๆ"
     },
     {
-      "character": "Krile",
+      "key": "thatswhytataruwassoquicklyapprisedthankstoyouwewereabletomakehasteforgarlemald",
       "text_en": "That's why Tataru was so quickly apprised! Thanks to you, we were able to make haste for Garlemald.",
       "text": "นั่นเป็นเหตุผลว่าทำไมทาทารุถึงได้ปรากฏตัวอย่างรวดเร็ว! ขอบคุณคุณ เราจึงสามารถเร่งรีบเพื่อ Garlemald ได้"
     },
     {
-      "character": "G'raha Tia",
+      "key": "whilecircumstanceanddutymaykeepusapartweremainboundbycommonpurpose",
       "text_en": "While circumstance and duty may keep us apart, we remain bound by common purpose.",
       "text": "แม้ว่าสถานการณ์และหน้าที่อาจทำให้เราห่างกัน แต่เรายังคงผูกพันตามจุดประสงค์ร่วมกัน"
     },
     {
-      "character": "Ocher Boulder",
+      "key": "indeedmaythatpurposecontinuetoguideusnowthatwestandtogetheronceagain",
       "text_en": "Indeed. May that purpose continue to guide us now that we stand together once again!",
       "text": "อย่างแท้จริง. ขอให้จุดประสงค์นั้นนำทางเราต่อไปเมื่อเรายืนหยัดร่วมกันอีกครั้ง!"
     },
     {
-      "character": "Ocher Boulder",
+      "key": "ihadntseenhoaryforsometimeuntiltodayhopefullyhegetsasenseoftheprogressivemadesincelastwemet",
       "text_en": "I hadn't seen Hoary for some time until today. Hopefully he gets a sense of the progress I've made since last we met!",
       "text": "ฉันไม่ได้เห็น Hoary มาระยะหนึ่งแล้วจนกระทั่งวันนี้ หวังว่าเขาจะสัมผัสถึงความก้าวหน้าของฉันตั้งแต่ครั้งล่าสุดที่เราพบกัน!"
     },
     {
-      "character": "Tataru",
+      "key": "itseemseveryonehasmuchandmoretodiscusswithoneanother",
       "text_en": "It seems everyone has much and more to discuss with one another!",
       "text": "ดูเหมือนว่าทุกคนจะมีเรื่องพูดคุยกันมากขึ้นเรื่อยๆ!"
     },
     {
-      "character": "Tataru",
+      "key": "anywayyoureoverdueforaproperbreakthepeaceandquietwillhelpyouthink",
       "text_en": "Anyway, you're overdue for a proper break! The peace and quiet will help you think.",
       "text": "อย่างไรก็ตาม คุณเกินกำหนดสำหรับการพักที่เหมาะสม! ความสงบเงียบจะช่วยให้คุณคิดได้"
     },
     {
-      "character": "Tataru",
+      "key": "feelfreetomakeyourselfcomfortableindawnsrespite",
       "text_en": "Feel free to make yourself comfortable in Dawn's Respite!",
       "text": "ทำตัวให้สบายได้ตามสบายใน Dawn's Respite!"
     },
     {
-      "character": "Halmarut",
+      "key": "ofcourseshoulditservetosatisfyyourambitionyouarewelcometodealwiththereflectionsasyoudeemfit",
       "text_en": "Of course, should it serve to satisfy your ambition, you are welcome to deal with the reflections as you deem fit.",
       "text": "แน่นอนว่า หากสิ่งนี้ตอบสนองความทะเยอทะยานของคุณ คุณสามารถจัดการกับภาพสะท้อนได้ตามที่คุณต้องการ"
     },
     {
-      "character": "Halmarut",
+      "key": "likethepariahandwandererwhosatisfiedhisownwhenhebroughtthestartothebrinkofruintofaceyou",
       "text_en": "Like the pariah and wanderer who satisfied his own, when he brought the star to the brink of ruin to face you.",
       "text": "เหมือนคนนอกรีตและคนเร่ร่อนที่พอใจตัวเอง เมื่อเขานำดวงดาวจวนจะพินาศมาเผชิญหน้าคุณ"
     },
     {
-      "character": "???",
+      "key": "idetesteveningssuchasthistoobrighttoostimulatingtheminddistractedbytheinconsequential",
       "text_en": "I detest evenings such as this. Too bright, too stimulating. The mind distracted by the inconsequential.",
       "text": "ฉันเกลียดตอนเย็นแบบนี้ สว่างเกินไป เร้าใจเกินไป จิตฟุ้งซ่านเพราะสิ่งไร้สาระ"
     },
     {
-      "character": "Calyx",
+      "key": "youneedntbesowaryimerelycometoofferinformationbeforemydeparture",
       "text_en": "You needn't be so wary. I merely come to offer information before my departure.",
       "text": "คุณไม่จำเป็นต้องระวังมากนัก ฉันเพียงมาเสนอข้อมูลก่อนออกเดินทาง"
     },
     {
-      "character": "Calyx",
+      "key": "halmarutandiwillsooncrosstherifttoobservetheenactmentofanotherwinterersplan",
       "text_en": "Halmarut and I will soon cross the rift to observe the enactment of another Winterer's plan.",
       "text": "Halmarut และฉันจะข้ามรอยแยกในไม่ช้านี้เพื่อสังเกตการบังคับใช้แผนของ Winterer อีกคน"
     },
     {
-      "character": "Calyx",
+      "key": "ourdestinationisthefourth",
       "text_en": "Our destination is the Fourth...",
       "text": "จุดหมายของเราคือที่สี่..."
     },
     {
-      "character": "Calyx",
+      "key": "aworldlockedinicewhoselandsareblanketedinthickcloudsinordertosurvivemanhasfledtotheskiesusinggreatmagickstoestablishnewcivilizations",
       "text_en": "A world locked in ice, whose lands are blanketed in thick clouds. In order to survive, man has fled to the skies, using great magicks to establish new civilizations.",
       "text": "โลกที่ถูกขังอยู่ในน้ำแข็ง ซึ่งดินแดนถูกปกคลุมไปด้วยเมฆหนาทึบ เพื่อความอยู่รอด มนุษย์ได้หนีขึ้นไปบนท้องฟ้าโดยใช้เวทมนตร์อันยิ่งใหญ่เพื่อสร้างอารยธรรมใหม่"
     },
     {
-      "character": "Calyx",
+      "key": "itwasnotmyintenttoexciteihavemyowndesignsiwouldseerealizednothingmore",
       "text_en": "It was not my intent to excite. I have my own designs I would see realized, nothing more.",
       "text": "ฉันไม่ได้ตั้งใจจะตื่นเต้น ฉันมีการออกแบบของตัวเองที่จะได้เห็นเป็นจริง ไม่มีอะไรเพิ่มเติม"
     },
     {
-      "character": "Calyx",
+      "key": "ihavemyowndesignsiwouldseerealizednothingmore",
       "text_en": "I have my own designs I would see realized, nothing more.",
       "text": "ฉันมีการออกแบบของตัวเองที่จะได้เห็นเป็นจริง ไม่มีอะไรเพิ่มเติม"
     },
     {
-      "character": "Calyx",
+      "key": "believemeordontasyoulikeforalliknowyoulackthemeanstofollowusanyway",
       "text_en": "Believe me or don't, as you like. For all I know, you lack the means to follow us anyway.",
       "text": "เชื่อฉันหรือไม่ตามที่คุณต้องการ เท่าที่ฉันรู้ คุณยังขาดช่องทางที่จะติดตามเราอยู่ดี"
     },
     {
-      "character": "Calyx",
+      "key": "whathalmarutsaidtoyouearlier",
       "text_en": "What Halmarut said to you earlier...",
       "text": "สิ่งที่ฮัลมารุตพูดกับคุณก่อนหน้านี้..."
     },
     {
-      "character": "Calyx",
+      "key": "shesuggestedthatdealingwiththereflectionsmightsatisfyyourambitionbutisthattrulyso",
       "text_en": "She suggested that “dealing with” the reflections might satisfy your ambition. But is that truly so?",
       "text": "เธอแนะนำว่า \"การจัดการกับ\" ภาพสะท้อนอาจสนองความทะเยอทะยานของคุณได้ แต่นั่นเป็นอย่างนั้นจริงๆเหรอ?"
     },
     {
-      "character": "Calyx",
+      "key": "youhaveseenbattlesbeyondcountinghavedefeatedeventhefearofdeathistheresomeconclusionthatyouseeknomatterthecost",
       "text_en": "You have seen battles beyond counting. Have defeated even the fear of death. Is there some conclusion that you seek no matter the cost?",
       "text": "คุณได้เห็นการต่อสู้ที่เกินกว่าจะนับได้ ได้เอาชนะแม้กระทั่งความกลัวตาย มีข้อสรุปบางอย่างที่คุณต้องการไม่ว่าจะต้องเสียค่าใช้จ่ายหรือไม่?"
     },
     {
-      "character": "Calyx",
+      "key": "iwillsharewithyouatruth",
       "text_en": "I will share with you a truth.",
       "text": "ฉันจะแบ่งปันความจริงกับคุณ"
     },
     {
-      "character": "Calyx",
+      "key": "wewintererseachhaveanambitionthatwewishtofulfilltothatendwemayshareinformationwithoneanotherbutwedonotnecessarilysharethesamebeliefs",
       "text_en": "We Winterers each have an ambition that we wish to fulfill. To that end, we may share information with one another, but we do not necessarily share the same beliefs.",
       "text": "พวกเราชาวฤดูหนาวต่างมีความทะเยอทะยานที่เราปรารถนาจะทำให้สำเร็จ ด้วยเหตุนี้ เราอาจแบ่งปันข้อมูลให้กันและกัน แต่เราไม่จำเป็นต้องมีความเชื่อที่เหมือนกัน"
     },
     {
-      "character": "Calyx",
+      "key": "justasyouandyoursdecriedmyactionsifindthoseofmyfellowsobjectionable",
       "text_en": "Just as you and yours decried my actions, I find those of my fellows objectionable.",
       "text": "เช่นเดียวกับที่คุณและคุณประณามการกระทำของฉัน ฉันพบว่าการกระทำเหล่านั้นของเพื่อนน่ารังเกียจ"
     },
     {
-      "character": "Calyx",
+      "key": "bethatasitmay",
       "text_en": "Be that as it may...",
       "text": "ให้เป็นอย่างนั้นก็ได้..."
     },
     {
-      "character": "Calyx",
+      "key": "itistheculminationofourlivesworksthatwewouldbringtotheworldfruitsbornofundyingdevotiondaringaspirationandunwaveringideals",
       "text_en": "It is the culmination of our lives' works that we would bring to the world─fruits born of undying devotion, daring aspiration, and unwavering ideals.",
       "text": "มันคือจุดสูงสุดของผลงานในชีวิตของเราที่เราจะนำมาสู่โลก - ผลไม้ที่เกิดจากการอุทิศตนอันเป็นอมตะ ความทะเยอทะยานอันกล้าหาญ และอุดมคติอันไม่เปลี่ยนแปลง"
     },
     {
-      "character": "Calyx",
+      "key": "nomatterhowwearerevilednomatterwhatwemuststealouractionswillbevindicatedbythosewhoabideinthefuturewecreate",
       "text_en": "No matter how we are reviled, no matter what we must steal, our actions will be vindicated by those who abide in the future we create.",
       "text": "ไม่ว่าเราจะถูกด่าว่าอย่างไร ไม่ว่าเราต้องขโมยอะไรก็ตาม การกระทำของเราจะได้รับการพิสูจน์โดยผู้ที่ปฏิบัติตามในอนาคตที่เราสร้างขึ้น"
     },
     {
-      "character": "Calyx",
+      "key": "inyourbenevolenceyoumayseektosaveeverythingandeveryonebutonceallisconsequentlyconsignedtooblivion",
       "text_en": "In your benevolence, you may seek to save everything and everyone. But once all is consequently consigned to oblivion...",
       "text": "ด้วยความเมตตากรุณาของคุณ คุณอาจพยายามช่วยทุกสิ่งและทุกคน แต่เมื่อทุกสิ่งถูกส่งต่อไปสู่การลืมเลือน..."
     },
     {
-      "character": "Calyx",
+      "key": "yournobledeedswillamounttonothingmorethanfollyfornolivingsoulshallremaintojudgethem",
       "text_en": "Your noble deeds will amount to nothing more than folly. For no living soul shall remain to judge them.",
       "text": "การกระทำอันสูงส่งของเจ้าจะเป็นเพียงความโง่เขลาเท่านั้น เพราะไม่มีวิญญาณที่มีชีวิตเหลืออยู่เพื่อพิพากษาพวกเขา"
     },
     {
-      "character": "Banner Text",
+      "key": "ifshatteredstarsaredoomedtomendhowturnsthekeytowintersend",
       "text_en": "If shattered stars are doomed to mend, How turns the key to Winter's end?",
       "text": "หากดวงดาวที่แตกสลายถูกกำหนดให้ซ่อม กุญแจสู่จุดจบของฤดูหนาวจะเป็นอย่างไร"
     },
     {
-      "character": "Krile",
+      "key": "iwonderwhosevoiceitwasthatnamedthekeyethosthemorewelearnthemoremysteriesabound",
       "text_en": "I wonder whose voice it was that named the key “Ethos.” The more we learn, the more mysteries abound!",
       "text": "ฉันสงสัยว่าเสียงของใครที่ตั้งชื่อกุญแจว่า “จริยธรรม” ยิ่งเราเรียนรู้มากเท่าไร ความลึกลับก็ยิ่งมีมากขึ้นเท่านั้น!"
     },
     {
-      "character": "Y'shtola",
+      "key": "whenyouhaveamomentishouldliketohearmoreofyourtriptothethirteenth",
       "text_en": "When you have a moment, I should like to hear more of your trip to the Thirteenth.",
       "text": "เมื่อคุณมีเวลา ฉันอยากจะได้ยินเรื่องราวการเดินทางของคุณไปยังวันที่สิบสามมากกว่านี้"
     },
     {
-      "character": "Alisaie",
+      "key": "yououghttoletjullusknowyoumetwithzeroimsurehellwishtohearshesfaringwell",
       "text_en": "You ought to let Jullus know you met with Zero. I'm sure he'll wish to hear she's faring well.",
       "text": "คุณควรบอกให้จุลลัสรู้ว่าคุณได้พบกับซีโร่ ฉันแน่ใจว่าเขาจะอยากได้ยินว่าเธอสบายดี"
     },
     {
-      "character": "Tataru",
+      "key": "illletyouknowwhendiscussionsaresettoresumeuntilthenpleasedogetsomerest",
       "text_en": "I'll let you know when discussions are set to resume. Until then, please do get some rest!",
       "text": "ฉันจะแจ้งให้คุณทราบเมื่อมีการตั้งค่าให้การสนทนาดำเนินต่อไป ถึงตอนนั้นโปรดพักผ่อนเถอะ!"
     },
     {
-      "character": "Urianger",
+      "key": "wemustneedsascertaintheveracityofhalmarutsclaimsishallsendwordtomycolleaguesinsharlayantheymaybeabletoofferusvaluableinsights",
       "text_en": "We must needs ascertain the veracity of Halmarut's claims. I shall send word to my colleagues in Sharlayan─they may be able to offer us valuable insights.",
       "text": "เราต้องทำให้แน่ใจถึงความจริงในคำกล่าวอ้างของฮัลมารุต ฉันจะส่งข้อความถึงเพื่อนร่วมงานของฉันใน Sharlayan ─พวกเขาอาจจะสามารถให้ข้อมูลเชิงลึกอันมีค่าแก่เราได้"
     },
     {
-      "character": "Thancred",
+      "key": "asthewordofthemotherminfiliaconveyedthewillofthestarsurelyshewouldveknownifnatureitselfrancountertothatwill",
       "text_en": "As the Word of the Mother, Minfilia conveyed the will of the star. Surely she would've known if nature itself ran counter to that will...",
       "text": "ในฐานะพระวจนะของพระมารดา Minfilia ได้ถ่ายทอดเจตจำนงของดวงดาว เธอคงรู้แน่ว่าถ้าธรรมชาติสวนทางกับความประสงค์นั้น..."
     },
     {
-      "character": "Coultenet",
+      "key": "fewtalesofturalreachcorvoseventodayidliketohearofyouradventuresnexttimewemeet",
       "text_en": "Few tales of Tural reach Corvos, even today. I'd like to hear of your adventures next time we meet.",
       "text": "มีเรื่องเล่าของ Tural เพียงไม่กี่เรื่องที่ไปถึง Corvos แม้กระทั่งทุกวันนี้ ฉันอยากได้ยินเรื่องราวการผจญภัยของคุณครั้งต่อไปที่เราพบกัน"
     },
     {
-      "character": "Ephemie",
+      "key": "alphinaudandalisaiesawfittorelinquishtheirresponsibilitiesingarlemaldandconcentrateonthefightaheadishalllikewisebereprisingmydutiesasascionwherevertheymaytakeme",
       "text_en": "Alphinaud and Alisaie saw fit to relinquish their responsibilities in Garlemald and concentrate on the fight ahead. I shall likewise be reprising my duties as a Scion─wherever they may take me.",
       "text": "Alphinaud และ Alisaie เห็นสมควรที่จะสละความรับผิดชอบใน Garlemald และมุ่งความสนใจไปที่การต่อสู้ที่อยู่ข้างหน้า ฉันก็จะต้องทำหน้าที่ของฉันในฐานะไซออนเหมือนกัน ไม่ว่าพวกเขาจะพาฉันไปที่ไหนก็ตาม"
     },
     {
-      "character": "Ocher Boulder",
+      "key": "idbeenmakingheadwaywithmytrainingbutihavealongwaytogocomparedtopresentcompanyilookforwardtolearningfromtheverybestagainsomeday",
       "text_en": "I'd been making headway with my training, but I have a long way to go compared to present company... I look forward to learning from the very best again someday!",
       "text": "การฝึกอบรมของฉันก้าวหน้าไปมาก แต่ฉันยังมีหนทางอีกยาวไกลเมื่อเทียบกับบริษัทปัจจุบัน... ฉันหวังว่าจะได้เรียนรู้จากผู้ที่เก่งที่สุดอีกครั้งสักวันหนึ่ง!"
     },
     {
-      "character": "Clemence",
+      "key": "aenoratleastfeignalittleinterestinyoursisterthisobsessionhasgonetoofar",
       "text_en": "Aenor... At least feign a little interest in your sister. This obsession has gone too far!",
       "text": "เอนอร์... อย่างน้อยก็แกล้งทำเป็นสนใจน้องสาวคุณสักหน่อย ความหลงใหลนี้ไปไกลเกินไปแล้ว!"
     },
     {
-      "character": "Aenor",
+      "key": "looksliketheresalullintheconversationthisismychance",
       "text_en": "Looks like there's a lull in the conversation... This is my chance!",
       "text": "ดูเหมือนบทสนทนาจะสงบลง... นี่คือโอกาสของฉัน!"
     },
     {
-      "character": "Alphinaud",
+      "key": "iwillcontinuetokeepabreastofthesituationingarlemaldviareportsfromtheilsabardcontingentshouldanothercrisisarisewewillnothesitatetoprovideoursupport",
       "text_en": "I will continue to keep abreast of the situation in Garlemald via reports from the Ilsabard contingent.  Should another crisis arise, we will not hesitate to provide our support.",
       "text": "ฉันจะติดตามสถานการณ์ใน Garlemald ต่อไปผ่านรายงานจากกองกำลัง Ilsabard  หากมีวิกฤติเกิดขึ้นอีก เราจะไม่ลังเลที่จะให้การสนับสนุน"
     },
     {
-      "character": "G'raha Tia",
+      "key": "knowingthataconnectionpersistsbetweenthefirstandthethirteenthfillsmewithjoy",
       "text_en": "Knowing that a connection persists between the First and the Thirteenth fills me with joy.",
       "text": "การได้รู้ว่าความสัมพันธ์ยังคงมีอยู่ระหว่างคนแรกและคนที่สิบสามทำให้ฉันมีความสุขมาก"
     },
     {
-      "character": "Hoary Boulder",
+      "key": "soundslikeyoufacedatoughfightinthevoidiknowyourinstinctistochargeintothefraybutevenheroesneedrest",
       "text_en": "Sounds like you faced a tough fight in the void. I know your instinct is to charge into the fray, but even heroes need rest.",
       "text": "ดูเหมือนคุณต้องเผชิญกับการต่อสู้อันดุเดือดในความว่างเปล่า ฉันรู้ว่าสัญชาตญาณของคุณคือการพุ่งเข้าสู่การต่อสู้ แต่แม้แต่ฮีโร่ก็ยังต้องการการพักผ่อน"
     }

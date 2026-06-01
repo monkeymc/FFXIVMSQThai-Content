@@ -1,996 +1,988 @@
 {
-  "id": "the-high-luminary",
-  "wiki_path": "/wiki/The_High_Luminary",
-  "wiki_image_url": "https://ffxiv.consolegameswiki.com/mediawiki/images/3/3f/The_High_Luminary.png",
-  "patch": "7.0",
-  "title_en": "The High Luminary",
-  "title": "หัวหน้านักบวชแห่งยอคฮุย",
-  "level": "93",
-  "location": "Urqopacha(X:13.2,Y:32.4)",
-  "npc_start": "Wuk Lamat",
+  "quest_id": "the-high-luminary",
   "dialogues": [
     {
-      "character": "Krile",
+      "key": "thetruesizeofamountainisnevermoreapparentthanwhenyourestandingrightatitsfoot",
       "text_en": "The true size of a mountain is never more apparent than when you're standing right at its foot...",
       "text": "ขนาดที่แท้จริงของภูเขาเนี่ย จะชัดเจนที่สุดตอนที่เรามายืนอยู่ตรงจุดเริ่มต้นตีนเขาของมันเลยนะคะ..."
     },
     {
-      "character": "Erenville",
+      "key": "ifeariwontbeofmuchusetoyouasaguidepastthispointevenintuliyollalthereispreciouslittlewrittenaboutthesacredpeakofworqorzormorbeyondwhimsicalpoetrythatis",
       "text_en": "I fear I won't be of much use to you as a guide past this point. Even in Tuliyollal, there is precious little written about the sacred peak of Worqor Zormor. Beyond whimsical poetry, that is.",
       "text": "ฉันเกรงว่าพ้นจากจุดนี้ไป ฉันคงทำหน้าที่เป็นผู้นำทางช่วยเหลืออะไรนายได้ไม่ค่อยมากเท่าไหร่เหนะ เพราะขนาดในทูลิโยลลัลเอง เรื่องเล่าเกี่ยวกับยอดเขาศักดิ์สิทธิ์วอร์กอร์ ซอร์มอร์ ก็แทบไม่มีบันทึกไว้เลย นอกเหนือไปจากบทกวีเชิงจินตนาการน่ะ"
     },
     {
-      "character": "Alphinaud",
+      "key": "icastarejuvenatingspellonwuklamatevenourindomitablethirdpromiseisfeelingthestrainoftheseslopes",
       "text_en": "I cast a rejuvenating spell on Wuk Lamat. Even our indomitable Third Promise is feeling the strain of these slopes.",
       "text": "ผมเพิ่งร่ายคาถาฟื้นฟูกำลังให้วุค ลามัต ไปครับ ขนาดสัญญาที่สามผู้แข็งแกร่งของพวกเรายังต้องเผชิญกับความอ่อนล้าจากเนินชันพวกนี้เลย"
     },
     {
-      "character": "Alisaie",
+      "key": "ihopewecomeacrossbakooljajaonourwaytothesummitwestillowehimforthetroubleshecausedusinkozamauka",
       "text_en": "I hope we come across Bakool Ja Ja on our way to the summit─we still owe him for the troubles he caused us in Kozama'uka.",
       "text": "หวังว่าพวกเราจะได้เจอบาคูล จา จา ระหว่างทางขึ้นไปบนยอดเขานะ—พวกเรายังมีหนี้ต้องชำระกับหมอนั่นสำหรับปัญหาที่มันก่อไว้ในโคซามาอูกาอยู่ล่ะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "godsthatisonetallmountainandweresupposedtoclimbit",
       "text_en": "Gods, that is one tall mountain. And we're supposed to climb it?",
       "text": "คุณพระช่วย ภูเขาลูกนั้นสูงชะมัดยาดเลย แล้วพวกเราต้องปีนขึ้นไปจริงๆ เหรอเนี่ย?"
     },
     {
-      "character": "Vorporlor (Yok Huy tongue)",
+      "key": "donotexpecttowalkhereunchallengedtellmestuntedonesdidthoseshortlegsbringyouallthewayfromtuliyollal",
       "text_en": "[Do not expect to walk here unchallenged. Tell me, stunted ones, did those short legs bring you all the way from Tuliyollal?]",
       "text": "[อย่าได้หวังว่าจะผ่านทางนี้ไปได้โดยไม่มีใครขัดขวาง บอกข้าทีซิ เจ้าพวกขระจ้อยร่อย ขาสั้นๆ แค่นั้นพาพวกเจ้าเดินทางมาไกลจากทูลิโยลลัลเลยรึ?]"
     },
     {
-      "character": "Erenville",
+      "key": "hesspeakingtheoldyokhuytonguethewordsaredifficulttocatch",
       "text_en": "He's speaking the old Yok Huy tongue. The words are...difficult to catch.",
       "text": "เขาพูดภาษายอคฮุยโบราณน่ะ... สำเนียงฟังยากชะมัด"
     },
     {
-      "character": "Vorporlor",
+      "key": "thoughyourwordsarecrudeandcumbersomeiusethemforyourbenefit",
       "text_en": "Though your words are crude and cumbersome, I use them for your benefit.",
       "text": "แม้ว่าภาษาของพวกเจ้าจะหยาบโลนและใช้ยาก แต่ข้าจะยอมใช้มันเพื่อพวกเจ้าแล้วกัน"
     },
     {
-      "character": "Vorporlor",
+      "key": "youareaclaimantinthisriteofsuccession",
       "text_en": "You are a claimant in this “rite of succession”?",
       "text": "พวกเจ้าคือผู้ท้าชิงใน 'พิธีสืบทอดราชบัลลังก์' งั้นรึ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsright",
       "text_en": "That's right.",
       "text": "ใช่แล้วล่ะ"
     },
     {
-      "character": "Vorporlor",
+      "key": "thenifyoudietuliyollallosesapotentialruler",
       "text_en": "Then if you die, Tuliyollal loses a potential ruler.",
       "text": "งั้นถ้าเจ้าตาย ทูลิโยลลัลก็คงต้องสูญเสียว่าที่ผู้ปกครองไปคนนึงล่ะนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsadarkthingtosayfriendigetthefeelingyoudontsharetheopinionsoftheotheryokhuywevemet",
       "text_en": "That's a dark thing to say, friend. I get the feeling you don't share the opinions of the other Yok Huy we've met.",
       "text": "พูดจาใจดำจังนะสหาย ข้ารู้สึกว่าเจ้าไม่ได้คิดเหมือนกับชาวยอคฮุยคนอื่นๆ ที่เราเจอมาเลยแฮะ"
     },
     {
-      "character": "Vorporlor",
+      "key": "wedonotgrovelbeforegulooljajalikethoseshamelesslapdogs",
       "text_en": "We do not grovel before Gulool Ja Ja like those shameless lapdogs.",
       "text": "พวกเราไม่ยอมสยบก้มหัวกราบกรานต่อกูลูล จา จา เหมือนอย่างสุนัขรับใช้ที่ไร้ยางอายพวกนั้นหรอก"
     },
     {
-      "character": "Vorporlor",
+      "key": "mybrethrenandiareconquerorsandwewillrestoreourpeopletotheirrightfulplaceasturalsoverlords",
       "text_en": "My brethren and I are conquerors, and we will restore our people to their rightful place as Tural's overlords!",
       "text": "ตัวข้าและพี่น้องคือผู้พิชิต และพวกเราจะทวงคืนตำแหน่งผู้ปกครองทูรัลอันชอบธรรมกลับคืนมาให้แก่ผู้คนของพวกเรา!"
     },
     {
-      "character": "Alphinaud",
+      "key": "thegiantshavetheirownfactionstooitseems",
       "text_en": "The giants have their own factions, too, it seems...",
       "text": "ดูเหมือนฝั่งคนยักษ์เองก็มีฝักฝ่ายของตัวเองเหมือนกันสินะครับ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youthinkyourkinweakforshowingdeferencetomyfatherbuttheydonotfollowtheman",
       "text_en": "You think your kin weak for showing deference to my father, but they do not follow the man.",
       "text": "เจ้าคิดว่าพวกพ้องของเจ้าอ่อนแอที่ยอมอ่อนน้อมให้ท่านพ่อของข้า แต่ความจริงแล้วพวกเขาไม่ได้ทำเพื่อตัวท่านพ่อหรอกนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "itishispeacetheyrespectapeacetheyalwayswantedwhichtheyrealizedcouldbehadrighthere",
       "text_en": "It is his peace they respect. A peace they always wanted─which they realized could be had right here.",
       "text": "มันเป็นเพราะพวกเขาเคารพในความสงบสุขที่ท่านพ่อมอบให้ต่างหากล่ะ ความสงบสุขที่พวกเขาเฝ้าใฝ่ฝันหามาตลอด—และเพิ่งจะตระหนักได้ว่าสามารถมีมันได้ที่นี่เอง"
     },
     {
-      "character": "Vorporlor",
+      "key": "justificationsofthecraventheyturntheirgazefromourancestorsfromthedreamwekeptaliveforathousandyearsandmore",
       "text_en": "Justifications of the craven! They turn their gaze from our ancestors─from the dream we kept alive for a thousand years and more!",
       "text": "ข้อแก้ตัวของพวกขี้ขลาด! พวกมันละสายตาไปจากบรรพบุรุษ—ละทิ้งความฝันที่พวกเราเฝ้าประคับประคองมานานกว่าพันปี!"
     },
     {
-      "character": "Vorporlor",
+      "key": "theyareunworthyofbearingourlegacyiwillreclaimthegloryofourpeople",
       "text_en": "They are unworthy of bearing our legacy. I will reclaim the glory of our people.",
       "text": "พวกมันไม่คู่ควรจะสืบทอดมรดกของพวกเรา ข้าจะเป็นคนทวงคืนเกียรติยศชื่อเสียงของพวกเรากลับมาเอง"
     },
     {
-      "character": "Vorporlor",
+      "key": "andourascensionbeginswiththedeathofthethirdpromise",
       "text_en": "And our ascension begins with the death of the Third Promise!",
       "text": "และการผงาดขึ้นของพวกเราจะเริ่มต้นด้วยความตายของสัญญาที่สาม!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "stopidontwanttofightyou",
       "text_en": "Stop! I don't want to fight you!",
       "text": "หยุดนะ! ข้าไม่ได้อยากสู้กับเจ้านะ!"
     },
     {
-      "character": "Vorporlor",
+      "key": "thendieonyourknees",
       "text_en": "Then die on your knees.",
       "text": "งั้นก็จงคุกเข่าตายซะ"
     },
     {
-      "character": "Vorporlor",
+      "key": "opportunisticverminseektofeastonusdoyou",
       "text_en": "Opportunistic vermin! Seek to feast on us, do you!?",
       "text": "ไอ้พวกเดรัจฉานฉวยโอกาส! คิดจะจับพวกเรากินเป็นอาหารงั้นรึ!?"
     },
     {
-      "character": "Vorporlor",
+      "key": "getdownhereyourneckwillbethefirstisnapthisday",
       "text_en": "Get down here! Your neck will be the first I snap this day!",
       "text": "ลงมานี่ซะ! คอของแกจะเป็นคอแรกที่ข้าจะหักในวันนี้!"
     },
     {
-      "character": "Vorporlor",
+      "key": "surprisedalarmedreaction",
       "text_en": "[SURPRISED/ALARMED REACTION]",
       "text": "[แสดงสีหน้าประหลาดใจและตื่นตระหนก]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsright",
       "text_en": "That's right!",
       "text": "ใช่แล้วล่ะ!"
     },
     {
-      "character": "Vorporlor",
+      "key": "whydoyouhelpus",
       "text_en": "Why do you help us?",
       "text": "ทำไมเจ้าถึงช่วยพวกเรา?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ididntputmuchthoughtintoitmylegsweremovingbeforeiknewwhatwashappening",
       "text_en": "I didn't put much thought into it. My legs were moving before I knew what was happening.",
       "text": "ข้าไม่ได้คิดอะไรซับซ้อนหรอก ขามันขยับไปเองก่อนที่ข้าจะทันรู้ตัวซะอีก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isupposeifearedyouddiebeforewehadthechancetogettoknoweachotherbeforeicouldlearnmoreaboutyou",
       "text_en": "I suppose I feared you'd die before we had the chance to get to know each other. Before I could learn more about you.",
       "text": "ข้าคงกลัวว่าเจ้าจะตายไปซะก่อนที่พวกเราจะได้รู้จักกันล่ะมั้ง ก่อนที่ข้าจะได้เรียนรู้เรื่องของเจ้าให้มากกว่านี้ด้วย"
     },
     {
-      "character": "Vorporlor",
+      "key": "towhatend",
       "text_en": "To what end?",
       "text": "เพื่อประโยชน์อันใดกัน?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohthatssimple",
       "text_en": "Oh, that's simple...",
       "text": "อ้า ง่ายนิดเดียวเอง..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifweretosharethelanditsthebestwayforustobecomefriends",
       "text_en": "If we're to share the land, it's the best way for us to become friends.",
       "text": "ในเมื่อพวกเราต้องอาศัยอยู่บนแผ่นดินร่วมกัน นี่ก็เป็นวิธีที่ดีที่สุดที่พวกเราจะได้เป็นเพื่อนกันไม่ใช่เหรอ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "howishe",
       "text_en": "How is he?",
       "text": "เขาเป็นยังไงบ้าง?"
     },
     {
-      "character": "Alphinaud",
+      "key": "helllivenotquitereadytowalkunderhisownstrengthhowever",
       "text_en": "He'll live. Not quite ready to walk under his own strength, however.",
       "text": "เขาปลอดภัยครับ แต่ยังไม่พร้อมจะยืนเดินด้วยกำลังของตัวเองเท่าไหร่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ifyoucouldstayandtendtohimtherestofuswillcontinueontoworqorzormor",
       "text_en": "If you could stay and tend to him, the rest of us will continue on to Worqor Zormor.",
       "text": "อัลฟิโน รบกวนนายช่วยอยู่ดูแลเขาหน่อยนะ ส่วนพวกเราที่เหลือจะเดินทางมุ่งหน้าขึ้นเขาวอร์กอร์ ซอร์มอร์ ต่อไปเอง"
     },
     {
-      "character": "Alphinaud",
+      "key": "understoodbecarefulupthere",
       "text_en": "Understood. Be careful up there.",
       "text": "รับทราบครับ ด้านบนนั้นระมัดระวังตัวกันด้วยนะครับ"
     },
     {
-      "character": "Vorporlor",
+      "key": "thischangesnothingwewillnotforsakeourconquest",
       "text_en": "This changes nothing. We will not forsake our conquest.",
       "text": "เรื่องนี้ไม่ได้เปลี่ยนอะไรทั้งนั้น พวกเราจะไม่ล้มเลิกการทำศึกพิชิตเด็ดขาด"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "asyoulikeyouwanttokillmeyourewelcometotrybutrightnowyoumightwanttoworryaboutyourcomrade",
       "text_en": "As you like. You want to kill me, you're welcome to try. But right now, you might want to worry about your comrade.",
       "text": "ตามใจเจ้าเถอะ ถ้าอยากจะฆ่าข้าล่ะก็ เข้ามาลองได้เสมอ แต่ตอนนี้เจ้าควรห่วงอาการของเพื่อนเจ้าก่อนดีกว่านะ"
     },
     {
-      "character": "Erenville",
+      "key": "onamountainofthatsizethereareboundtobecreatureseveniveneverheardofilltrustyoutoleadtheway",
       "text_en": "On a mountain of that size, there are bound to be creatures even I've never heard of. I'll trust you to lead the way.",
       "text": "บนภูเขาสเกลใหญ่โตขนาดนี้ ย่อมต้องมีสิ่งมีชีวิตที่แม้แต่ฉันเองก็ไม่เคยได้ยินชื่อมาก่อนแน่ ฉันฝากนายเป็นคนนำทางนะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thenweclimbgurfurluriswaiting",
       "text_en": "Then we climb! Gurfurlur is waiting!",
       "text": "งั้นพวกเราก็ปีนกันต่อเถอะ! เกอร์เฟอร์เลอร์รอพวกเราอยู่!"
     },
     {
-      "character": "Vorporlor",
+      "key": "isetouttokilltuliyollalsfavoritedaughterthisdaytobeaidedbyherinsteadwasunexpected",
       "text_en": "I set out to kill Tuliyollal's favorite daughter this day. To be aided by her instead was...unexpected.",
       "text": "ข้าตั้งใจจะมาเด็ดหัวลูกสาวคนโปรดของทูลิโยลลัลในวันนี้แท้ๆ แต่กลับต้องมาได้รับการช่วยเหลือจากนางแทน... ช่างเหนือความคาดหมายจริงๆ"
     },
     {
-      "character": "Vorporlor",
+      "key": "iwillnotharmyouoryoursuntilthisdebtisrepaid",
       "text_en": "I will not harm you or yours until this debt is repaid.",
       "text": "ข้าจะไม่ทำอันตรายต่อเจ้าหรือพวกพ้องของเจ้า จนกว่าหนี้ชีวิตครั้งนี้จะได้รับการสะสางชดใช้"
     },
     {
-      "character": "Alphinaud",
+      "key": "iwilltendtothisoneswoundsgoonaheadwiththeothers",
       "text_en": "I will tend to this one's wounds. Go on ahead with the others.",
       "text": "ผมจะช่วยทำแผลให้เขาเองครับ พวกคุณล่วงหน้าไปกับคนอื่นก่อนเถอะ"
     },
     {
-      "character": "Erenville",
+      "key": "asivesaidbeforeiamnofighterillfollowfromadistanceandkeepwelloutofyourway",
       "text_en": "As I've said before, I am no fighter. I'll follow from a distance and keep well out of your way.",
       "text": "อย่างที่ฉันบอกไปก่อนหน้านั่นแหละ ฉันไม่ใช่นักสู้หรอกนะ ฉันจะคอยเดินตามอยู่ห่างๆ และไม่เกะกะขวางทางพวกนายแน่นอน"
     },
     {
-      "character": "Alisaie",
+      "key": "whileididntmindguardingerenvilleontheriverilookforwardtoswingingabladeonthefrontlinesthistime",
       "text_en": "While I didn't mind guarding Erenville on the river, I look forward to swinging a blade on the front lines this time!",
       "text": "ถึงตอนที่ข้ามแม่น้ำฉันจะไม่เกี่ยงเรื่องการเฝ้าคุ้มกันเอเรนวิลล์ก็เถอะ แต่คราวนี้ฉันตั้งตารอที่จะได้กวัดแกว่งดาบในแนวหน้าเต็มแก่แล้วล่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "thatbirdmustroostsomewhereonthemountainwellneedtobewaryoftheskiesaswell",
       "text_en": "That bird must roost somewhere on the mountain. We'll need to be wary of the skies, as well.",
       "text": "เจ้านกตัวนั้นต้องมีรังอยู่สักแห่งบนภูเขาลูกนี้แน่ค่ะ พวกเราจำเป็นต้องคอยระวังภัยทางอากาศไว้ด้วยนะคะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellbeseeingyousoongurfurlur",
       "text_en": "We'll be seeing you soon, Gurfurlur!",
       "text": "เดี๋ยวเราจะได้พบกันแล้วนะ เกอร์เฟอร์เลอร์!"
     },
     {
-      "character": "Ryoqor Terteh",
+      "key": "travelersonthemountainhowdelightfuldostayandplayawhile",
       "text_en": "Travelers on the mountain? How delightful! Do stay and play a while!",
       "text": "มีผู้เดินทางมาบนภูเขางั้นเหรอ? ช่างน่ายินดีเหลือเกิน! อยู่เล่นสนุกด้วยกันสักหน่อยสิ!"
     },
     {
-      "character": "Ryoqor Terteh",
+      "key": "cometomesnowkinjointhefun",
       "text_en": "Come to me, snowkin! Join the fun!",
       "text": "มาหาข้าสิ เหล่าพี่น้องหิมะ! มาร่วมสนุกกัน!"
     },
     {
-      "character": "Ryoqor Terteh",
+      "key": "waitforitnowfreeze",
       "text_en": "Wait for it...Now, freeze!",
       "text": "อดใจรออีกนิดนะ... เอาล่ะ แข็งตัวไปซะ!"
     },
     {
-      "character": "Qorrloh Teh",
+      "key": "brrsocold",
       "text_en": "Brr, so cold!",
       "text": "บรื๋อ หนาวจังเลย!"
     },
     {
-      "character": "Qorrloh Teh",
+      "key": "chilly",
       "text_en": "Chilly!",
       "text": "เยือกเย็นชะมัด!"
     },
     {
-      "character": "Rorrloh Teh",
+      "key": "kyahaha",
       "text_en": "Kyahaha!",
       "text": "คิกคิกฮ่าฮ่า!"
     },
     {
-      "character": "Rorrloh Teh",
+      "key": "icy",
       "text_en": "Icy!",
       "text": "เย็นยะเยือก!"
     },
     {
-      "character": "Ryoqor Terteh",
+      "key": "cometomesnowkinlargeandsmall",
       "text_en": "Come to me, snowkin, large and small!",
       "text": "มาหาข้าสิ เหล่าพี่น้องหิมะ ทั้งตัวใหญ่และตัวเล็ก!"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "youvecaughtupseemsivebeentoyingtoomuchwithmyprey",
       "text_en": "You've caught up. Seems I've been toying too much with my prey.",
       "text": "ตามมาทันจนได้นะ ดูเหมือนข้าจะมัวแต่เล่นสนุกกับเหยื่อมากเกินไปหน่อย"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "bahthatwasunintended",
       "text_en": "Bah... That was unintended.",
       "text": "ชิ... นั่นมันเรื่องเหนือความคาดหมายแฮะ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "youllhavetofindanotherpaththinkofitasanaddedtestofyourresourcefulness",
       "text_en": "You'll have to find another path. Think of it as an added test of your resourcefulness...",
       "text": "พวกเจ้าคงต้องหาเส้นทางอื่นไปต่อแล้วล่ะ ถือซะว่าเป็นบททดสอบไหวพริบปฏิภาณที่เพิ่มเข้ามาแล้วกันนะ..."
     },
     {
-      "character": "Gurfurlur",
+      "key": "iamgurfurlurelectorofthedawnservantpreparetobetested",
       "text_en": "I am Gurfurlur, elector of the Dawnservant! Prepare to be tested!",
       "text": "ข้าคือเกอร์เฟอร์เลอร์ ผู้เลือกสรรของท่านดอว์นเซิร์ฟวันต์! จงเตรียมรับการทดสอบ!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "proveyouareworthytorule",
       "text_en": "Prove you are worthy to rule!",
       "text": "จงพิสูจน์ความคู่ควรที่จะปกครองแผ่นดิน!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "feeltheweightofhistorycarvedinstone",
       "text_en": "Feel the weight of history carved in stone!",
       "text": "จงสัมผัสถึงน้ำหนักแห่งประวัติศาสตร์ที่จารึกไว้ในแผ่นศิลา!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "chroniclesofeldretellthehungerofroilingwaters",
       "text_en": "Chronicles of eld... Retell the hunger of roiling waters!",
       "text": "พงศาวดารแห่งกาลเก่า... จงเล่าขานถึงความหิวโหยของสายน้ำอันเกรี้ยวกราด!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "chroniclesofeldrecountthefuryoferuptingpeaks",
       "text_en": "Chronicles of eld... Recount the fury of erupting peaks!",
       "text": "พงศาวดารแห่งกาลเก่า... จงบอกเล่าถึงความพิโรธของขุนเขาที่ปะทุเดือด!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "iwilltakethemeasureofyourresolve",
       "text_en": "I will take the measure of your resolve!",
       "text": "ข้าจะขอวัดระดับความมุ่งมั่นตั้งใจของพวกเจ้าเอง!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "implacablestrengthofthemountainbemine",
       "text_en": "Implacable strength of the mountain be mine...",
       "text": "ขอพละกำลังอันไร้เทียมทานแห่งขุนเขาจงสถิตกับข้า..."
     },
     {
-      "character": "Gurfurlur",
+      "key": "spiritofmybrethrenyourthunderroars",
       "text_en": "Spirit of my brethren, your thunder roars!",
       "text": "จิตวิญญาณแห่งพี่น้องเอ๋ย เสียงอสนีบาตของพวกเจ้าจงกึกก้อง!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "thatyoushouldenduremyfury",
       "text_en": "That you should endure my fury...",
       "text": "การที่พวกเจ้ายืนหยัดทนทานความพิโรธของข้าได้นั้น..."
     },
     {
-      "character": "Gurfurlur",
+      "key": "chroniclesofeldrecallthecrueltyofmercilessstorms",
       "text_en": "Chronicles of eld... Recall the cruelty of merciless storms!",
       "text": "พงศาวดารแห่งกาลเก่า... จงระลึกถึงความโหดร้ายของพายุอันไร้ความปรานี!"
     },
     {
-      "character": "Krile",
+      "key": "ithinkididwellconsideringouropponent",
       "text_en": "I think I did well considering our opponent!",
       "text": "ฉันคิดว่าตัวเองทำได้ดีมากแล้วนะคะเมื่อพิจารณาว่าคู่ต่อสู้คือใคร!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatwassomefightpapaknowshowtopickhiselectors",
       "text_en": "That was some fight! Papa knows how to pick his electors.",
       "text": "เป็นการต่อสู้ที่ยอดเยี่ยมมาก! ท่านพ่อเนี่ยรู้จักเลือกผู้คุมสอบได้ดีจริงๆ"
     },
     {
-      "character": "Alisaie",
+      "key": "carvedhistoriesrecreatedthroughmagicitsaninterestingfightingstyle",
       "text_en": "Carved histories recreated through magic... It's an interesting fighting style.",
       "text": "การจำลองเรื่องราวประวัติศาสตร์ที่สลักไว้ผ่านเวทมนตร์... เป็นสไตล์การต่อสู้ที่น่าสนใจมากเลยค่ะ"
     },
     {
-      "character": "Gurfurlur",
+      "key": "wellfought",
       "text_en": "Well fought...",
       "text": "ฝีมือไม่เลว..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wevebeenclimbingforages",
       "text_en": "We've been climbing for ages...",
       "text": "พวกเราปีนขึ้นมาตั้งนานนมแล้วนะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "andwerebarelyhalfwaytherealclimbstartsfromhere",
       "text_en": "And we're barely halfway. The real climb starts from here!",
       "text": "และพวกเรายังมาได้ไม่ถึงครึ่งทางเลยด้วยซ้ำ การปีนเขาของจริงมันจะเริ่มต้นจากตรงนี้ต่างหากล่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "nowtheclimbgetsdifficult",
       "text_en": "Now the climb gets difficult...",
       "text": "คราวนี้การปีนป่ายจะเริ่มยากของจริงแล้วล่ะค่ะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "lookatallthesecrystals",
       "text_en": "Look at all these crystals...",
       "text": "ดูผลึกคริสตัลพวกนี้สิ..."
     },
     {
-      "character": "Krile",
+      "key": "evidenceofhowdensethisambientaethermustbe",
       "text_en": "Evidence of how dense this ambient aether must be.",
       "text": "นี่คือหลักฐานชิ้นดีเลยว่าพลังอีเธอร์โดยรอบแถวนี้ต้องมีความหนาแน่นมหาศาลขนาดไหน"
     },
     {
-      "character": "Krile",
+      "key": "theambientaetherisdenseenoughtoformcrystals",
       "text_en": "The ambient aether is dense enough to form crystals...",
       "text": "พลังอีเธอร์โดยรอบมีความหนาแน่นมากพอที่จะหล่อหลอมเป็นผลึกคริสตัลได้เลยล่ะค่ะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "whatisthat",
       "text_en": "What is that?",
       "text": "นั่นมันตัวอะไรน่ะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "mustbeasnowspiritnotthativeeverseenone",
       "text_en": "Must be a snow spirit! Not that I've ever seen one.",
       "text": "ต้องเป็นภูตหิมะแน่ๆ! ถึงข้าจะไม่เคยเห็นมาก่อนก็เถอะ"
     },
     {
-      "character": "Krile",
+      "key": "anarcaneentityofsomekind",
       "text_en": "An arcane entity of some kind?",
       "text": "เป็นสิ่งมีชีวิตเวทมนตร์ประเภทหนึ่งงั้นเหรอคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thisway",
       "text_en": "This way!",
       "text": "ทางนี้เลย!"
     },
     {
-      "character": "Krile",
+      "key": "itfrozeitsfriends",
       "text_en": "It froze its friends!?",
       "text": "มันแช่แข็งพวกเดียวกันเองงั้นเหรอคะ!?"
     },
     {
-      "character": "Alisaie",
+      "key": "theyvestoppedmoving",
       "text_en": "They've stopped moving...",
       "text": "พวกมันหยุดเคลื่อนไหวไปแล้ว..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "bigoneslittleonesthewholefamilyishere",
       "text_en": "Big ones, little ones. The whole family is here!",
       "text": "ทั้งตัวใหญ่ตัวเล็ก มากันพร้อมหน้าทั้งครอบครัวเลยแฮะ!"
     },
     {
-      "character": "Krile",
+      "key": "lookatthemall",
       "text_en": "Look at them all...",
       "text": "ลองดูพวกมันทั้งหมดสิคะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "wecanhandleit",
       "text_en": "We can handle it!",
       "text": "พวกเราจัดการได้อยู่แล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "therebetternotbeanymoreofthose",
       "text_en": "There better not be any more of those.",
       "text": "หวังว่าจะไม่มีไอ้พวกนี้โผล่มาอีกนะ"
     },
     {
-      "character": "Alisaie",
+      "key": "ifeelchilledtothebone",
       "text_en": "I feel chilled to the bone...",
       "text": "รู้สึกหนาวสะท้านเข้าไปถึงกระดูกเลยแฮะ..."
     },
     {
-      "character": "Krile",
+      "key": "phewitwastougherthanitlooked",
       "text_en": "Phew. It was tougher than it looked.",
       "text": "ฟู่... มันตึงมือกว่าที่คิดไว้เยอะเลยนะคะ"
     },
     {
-      "character": "Alisaie",
+      "key": "iknowthosescales",
       "text_en": "I know those scales...",
       "text": "ฉันจำเกล็ดพวกนั้นได้..."
     },
     {
-      "character": "Krile",
+      "key": "isntthat",
       "text_en": "Isn't that...?",
       "text": "นั่นไม่ใช่...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "zoraalja",
       "text_en": "Zoraal Ja!",
       "text": "โซราล จา!"
     },
     {
-      "character": "Alisaie",
+      "key": "gods",
       "text_en": "Gods!",
       "text": "คุณพระช่วย!"
     },
     {
-      "character": "Krile",
+      "key": "goodness",
       "text_en": "Goodness!",
       "text": "สวรรค์ช่วย!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "dammit",
       "text_en": "Dammit!",
       "text": "ให้ตายสิ!"
     },
     {
-      "character": "Alisaie",
+      "key": "heyyourebackhere",
       "text_en": "Hey! You're back here!",
       "text": "นี่! แอบกลับมาอยู่ตรงนี้เองงั้นเรอะ!"
     },
     {
-      "character": "Krile",
+      "key": "wellthatsinconvenient",
       "text_en": "Well, that's inconvenient...",
       "text": "อา แบบนี้ก็ลำบากสิคะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thiswontstopus",
       "text_en": "This won't stop us!",
       "text": "แค่นี้หยุดพวกเราไม่ได้หรอก!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "thatsthebirdthatattackedthegiants",
       "text_en": "That's the bird that attacked the giants!",
       "text": "นั่นมันเจ้านกที่ลอบทำร้ายพวกคนยักษ์นี่นา!"
     },
     {
-      "character": "Krile",
+      "key": "yesanditdoesntlookpleasedtoseeus",
       "text_en": "Yes, and it doesn't look pleased to see us...",
       "text": "ใช่ค่ะ และดูท่าทางมันจะไม่ยินดีต้อนรับพวกเราเท่าไหร่นะคะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "sorrytotrespassbutthisistheonlywaythrough",
       "text_en": "Sorry to trespass, but this is the only way through!",
       "text": "ขออภัยที่ต้องบุกรุกนะ แต่ตรงนี้เป็นทางผ่านทางเดียวของเรา!"
     },
     {
-      "character": "Krile",
+      "key": "itdoesntlookpleasedtoseeusuphere",
       "text_en": "It doesn't look pleased to see us up here...",
       "text": "ดูท่าทางมันไม่ยินดีต้อนรับที่เห็นพวกเราอยู่บนนี้เลยนะคะ..."
     },
     {
-      "character": "Alisaie",
+      "key": "didyouseethatthespellcamefromthecrystals",
       "text_en": "Did you see that? The spell came from the crystals!",
       "text": "เห็นนั่นไหม? คาถาเวทมนตร์นั่นยิงออกมาจากผลึกคริสตัลล่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "theshardsareresonatingwithitsmagic",
       "text_en": "The shards are resonating with its magic!",
       "text": "เศษผลึกกำลังสั่นพ้องสะท้อนกับพลังเวทมนตร์ของมันค่ะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatkindofbirdcandothat",
       "text_en": "What kind of bird can do that!?",
       "text": "นกประเภทไหนกันถึงทำเรื่องแบบนี้ได้เนี่ย!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ughgettinghardtomove",
       "text_en": "Ugh...getting hard to move...",
       "text": "อึก... ขยับตัวยากขึ้นเรื่อยๆ แล้ว..."
     },
     {
-      "character": "Alisaie",
+      "key": "werebeingcrystallized",
       "text_en": "We're being crystallized!",
       "text": "ร่างกายของพวกเรากำลังกลายเป็นผลึกคริสตัลค่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "isthishowithunts",
       "text_en": "Is this how it hunts?",
       "text": "นี่คือวิธีที่มันใช้ล่าเหยื่องั้นเหรอคะ?"
     },
     {
-      "character": "Krile",
+      "key": "wedidit",
       "text_en": "We did it!",
       "text": "พวกเราทำสำเร็จแล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "hehthatwasbarelyachallenge",
       "text_en": "Heh... That was barely a challenge!",
       "text": "เฮะ... แทบไม่เป็นอุปสรรคท้าทายเลยสักนิด!"
     },
     {
-      "character": "Alisaie",
+      "key": "rightbacktotheclimb",
       "text_en": "Right, back to the climb!",
       "text": "เอาล่ะ กลับไปปีนเขากันต่อเถอะ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "greatsunkengodsweresohighup",
       "text_en": "Great sunken gods! We're so high up!",
       "text": "โอ้เทพเจ้าแห่งท้องทะเลใต้! พวกเราอยู่สูงชะมัดยาดเลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "betterwatchyourstepthen",
       "text_en": "Better watch your step, then!",
       "text": "ถ้าอย่างนั้นก็คอยระวังย่างก้าวให้ดีล่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "betterwatchyourstepthatsalongdrop",
       "text_en": "Better watch your step─that's a long drop!",
       "text": "ระวังย่างก้าวให้ดีล่ะ—ถ้าตกลงไปนี่เรื่องใหญ่แน่!"
     },
     {
-      "character": "Krile",
+      "key": "wereabovethecloudsnow",
       "text_en": "We're above the clouds now...",
       "text": "ตอนนี้พวกเราอยู่สูงเหนือชั้นเมฆขึ้นมาแล้วนะคะ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sothatsthehighluminaryheheshuge",
       "text_en": "So that's the High Luminary... He... He's huge!",
       "text": "นั่นน่ะเหรอท่านหัวหน้านักบวช... ตัว... ตัวใหญ่ยักษ์ชะมัดเลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "ifitsafighthewantsthenletsgiveittohim",
       "text_en": "If it's a fight he wants, then let's give it to him!",
       "text": "ถ้าเขาต้องการจะสู้ล่ะก็ จัดให้เขาเลยสิ!"
     },
     {
-      "character": "Krile",
+      "key": "goodnesshemustbetwicethesizeoftheotheryokhuy",
       "text_en": "Goodness, he must be twice the size of the other Yok Huy!",
       "text": "สวรรค์ช่วย เขาตัวใหญ่กว่าชาวยอคฮุยคนอื่นๆ ตั้งสองเท่าแน่ะค่ะ!"
     },
     {
-      "character": "Alisaie",
+      "key": "somekindofarcanetablet",
       "text_en": "Some kind of arcane tablet?",
       "text": "ศิลาจารึกเวทมนตร์งั้นเหรอคะ?"
     },
     {
-      "character": "Krile",
+      "key": "carefulthisispowerfulmagic",
       "text_en": "Careful! This is powerful magic...",
       "text": "ระวังตัวด้วยนะ! นี่คือเวทมนตร์ที่ทรงพลังมาก..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "wellfacewhateverhethrowsatus",
       "text_en": "We'll face whatever he throws at us!",
       "text": "ไม่ว่าเขาจะส่งอะไรมา พวกเราก็จะเผชิญหน้ากับมัน!"
     },
     {
-      "character": "Krile",
+      "key": "hisstrengthisformidablebutsoisours",
       "text_en": "His strength is formidable... But so is ours?",
       "text": "พละกำลังของเขาช่างน่าเกรงขามยิ่งนัก... แต่พวกเราเองก็แข็งแกร่งไม่แพ้กันใช่ไหมคะ?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "standfast",
       "text_en": "Stand fast!",
       "text": "ยืนหยัดไว้!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "everyoneallright",
       "text_en": "Everyone all right!?",
       "text": "ทุกคนปลอดภัยดีไหม!?"
     },
     {
-      "character": "Krile",
+      "key": "wellenoughletsgetbacktoit",
       "text_en": "Well enough... Let's get back to it!",
       "text": "ปลอดภัยดีค่ะ... ลุยกันต่อเลย!"
     },
     {
-      "character": "Alisaie",
+      "key": "timetogoontheoffensive",
       "text_en": "Time to go on the offensive!",
       "text": "ได้เวลาเปิดฉากโจมตีกลับแล้ว!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "verygoodclaimantoncemoreinamemyselfgurfurlurhighluminarytomypeopleandchosenelectorofthedawnservant",
       "text_en": "Very good, claimant. Once more, I name myself Gurfurlur. High Luminary to my people and chosen elector of the Dawnservant.",
       "text": "ยอดเยี่ยมมาก ผู้ท้าชิง ข้าขอแนะนำตัวอย่างเป็นทางการอีกครั้ง ข้าคือเกอร์เฟอร์เลอร์ หัวหน้านักบวชแห่งผู้คนของข้า และผู้เลือกสรรที่ท่านดอว์นเซิร์ฟวันต์แต่งตั้ง"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "youremuchbiggerthantheothersinthevillage",
       "text_en": "You're much bigger than the others in the village!",
       "text": "ท่านตัวใหญ่กว่าคนอื่นๆ ในหมู่บ้านเยอะเลยนะ!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "allyokhuywereoncemyequalinsizebuteversinceweweredecimatedbydiseaseitisraretoseeachildreachourformerstature",
       "text_en": "All Yok Huy were once my equal in size. But ever since we were decimated by disease, it is rare to see a child reach our former stature.",
       "text": "ในอดีตชาวยอคฮุยทุกคนต่างก็มีขนาดร่างกายทัดเทียมกับข้าทั้งนั้นแหละ แต่ตั้งแต่ที่พวกเราโดนโรคระบาดคร่าชีวิตไป ก็แทบไม่มีเด็กคนไหนเติบโตจนได้ขนาดตัวเท่ากับคนรุ่นก่อนอีกเลย"
     },
     {
-      "character": "Erenville",
+      "key": "youspeakofthecontagionwhichafflictedthexakturalexpeditiontheonerecordedinyourmurals",
       "text_en": "You speak of the contagion which afflicted the Xak Tural expedition. The one recorded in your murals...",
       "text": "ท่านกำลังพูดถึงโรคติดต่อร้ายแรงที่เกิดกับกองทัพเดินทางสายเหนือในซัคทูรัล ตามที่มีบันทึกไว้บนภาพวาดฝาผนังสินะครับ..."
     },
     {
-      "character": "Gurfurlur",
+      "key": "itisachapterofourhistorythatisentangledwiththelegendofthegoldencity",
       "text_en": "It is a chapter of our history that is entangled with the legend of the golden city.",
       "text": "มันคือหน้าประวัติศาสตร์ของผู้คนของข้าที่เกี่ยวพันอย่างแนบแน่นกับตำนานเรื่องเมืองสีทองคำ"
     },
     {
-      "character": "Krile",
+      "key": "iveheardthatlegendoriginatedwiththeyokhuyisthistrue",
       "text_en": "I've heard that legend originated with the Yok Huy. Is this true...?",
       "text": "ฉันเคยได้ยินมาว่าตำนานนั้นมีต้นกำเนิดมาจากชาวยอคฮุย เรื่องนี้จริงหรือเปล่าคะ...?"
     },
     {
-      "character": "Gurfurlur",
+      "key": "withthevisionsourancestorshadtobeprecise",
       "text_en": "With the visions our ancestors had, to be precise.",
       "text": "ถ้าจะพูดให้ถูกคือ เกิดจากภาพนิมิตนิมิตที่บรรพบุรุษของพวกเรามองเห็นต่างหากล่ะ"
     },
     {
-      "character": "Gurfurlur",
+      "key": "precedingthecampaignintoxakturalmanywerevisitedbydreamsofglitteringsplendor",
       "text_en": "Preceding the campaign into Xak Tural, many were visited by dreams of glittering splendor.",
       "text": "ก่อนที่จะเริ่มสงครามบุกซัคทูรัล มีผู้คนจำนวนมากที่ฝันเห็นภาพทิวทัศน์สีทองคำอันประกายสุกสกาว"
     },
     {
-      "character": "Gurfurlur",
+      "key": "theydescribedaparadisethatknewneitherwarnorfaminewherepeoplelivedlivesofeternalhappiness",
       "text_en": "They described a paradise that knew neither war nor famine. Where people lived lives of eternal happiness...",
       "text": "พวกเขาพรรณนาถึงดินแดนสวรรค์ที่ไม่มีทั้งสงครามและความหิวโหย ดินแดนที่ผู้คนใช้ชีวิตอยู่อย่างมีความสุขชั่วนิรันดร์..."
     },
     {
-      "character": "Gurfurlur",
+      "key": "asingledreamermighthavebeendismissedbutwhendozensifnothundredsspokethesametheluminariesbecameconvinceditwasdivinerevelation",
       "text_en": "A single dreamer might have been dismissed. But when dozens, if not hundreds, spoke the same, the luminaries became convinced it was divine revelation.",
       "text": "หากมีคนฝันถึงเพียงคนเดียวก็อาจโดนปัดตกมองข้ามไปได้ แต่เมื่อผู้ฝันมีเป็นสิบเป็นร้อยคนพูดตรงกันหมด หัวหน้านักบวชรุ่นก่อนจึงเชื่อมั่นอย่างยิ่งว่าเป็นโองการประกาศิตจากทวยเทพ"
     },
     {
-      "character": "Krile",
+      "key": "thentheexpedition",
       "text_en": "Then the expedition...",
       "text": "ถ้าอย่างนั้น กองทัพบุกเบิกในตอนนั้น..."
     },
     {
-      "character": "Gurfurlur",
+      "key": "itspurposewastofindthecityofgoldyeshelpwasmarshaledfromalltheterritoriesunderourcontrollandswerescouredonamassivescale",
       "text_en": "Its purpose was to find the city of gold, yes. Help was marshaled from all the territories under our control. Lands were scoured on a massive scale.",
       "text": "มีเป้าหมายเพื่อออกเสาะหาค้นหาเมืองสีทองคำนั่นแหละใช่เลย การระดมพลความช่วยเหลือเกิดขึ้นจากทุกอาณาเขตใต้ปกครอง การค้นหาแผ่ขยายออกไปในสเกลที่ยิ่งใหญ่พ้นขอบเขต"
     },
     {
-      "character": "Erenville",
+      "key": "ahlittlewonderthelegendissosimilaracrossturalthoseinvolvedwiththesearchwouldvepassedthestoriesdowntotheirchildren",
       "text_en": "Ah...little wonder the legend is so similar across Tural. Those involved with the search would've passed the stories down to their children.",
       "text": "อา... มิน่าล่ะ ตำนานนี้ถึงได้มีความคล้ายคลึงกันไปทั่วทั้งทูรัล ผู้คนที่เข้าร่วมในการค้นหาครั้งนั้นคงได้ส่งต่อเรื่องเล่านี้ไปสู่ลูกหลานของพวกเขาต่อๆ กันมาสินะ"
     },
     {
-      "character": "Gurfurlur",
+      "key": "anotherclaimantiseeiwilltestyourworthasihavetestedthosewhocamebeforeyou",
       "text_en": "Another claimant, I see. I will test your worth, as I have tested those who came before you.",
       "text": "ผู้ท้าชิงอีกคนงั้นรึ ข้าจะขอทดสอบความคู่ควรของเจ้า เช่นเดียวกับที่ข้าทดสอบผู้ที่มาถึงก่อนหน้าเจ้านั่นแหละ"
     },
     {
-      "character": "Thancred",
+      "key": "hereandnowithinkhemeans",
       "text_en": "“Here and now,” I think he means.",
       "text": "“ที่นี่และเดี๋ยวนี้” ผมคิดว่าเขาหมายความแบบนั้นนะ"
     },
     {
-      "character": "Gurfurlur",
+      "key": "wellfoughtsecondpromiseforyouandyoursisterssuccessinperformingthefeatofproofyoubothshallberewarded",
       "text_en": "Well fought, Second Promise. For you and your sister's success in performing the Feat of Proof, you both shall be rewarded.",
       "text": "ฝีมือยอดเยี่ยมมาก ท่านสัญญาที่สอง สำหรับความสำเร็จของท่านและน้องสาวในการพิชิตบททดสอบแห่งการพิสูจน์ ท่านทั้งสองจะได้รับรางวัลอันคู่ควร"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "threetogo",
       "text_en": "Three to go!",
       "text": "เหลืออีกสามบททดสอบ!"
     },
     {
-      "character": "Urianger",
+      "key": "howgloriousitwouldhavebeentoracetheeandthinetothesummitthoughmayhapnotwhilstbeinghoundedbybakooljajaandhisminions",
       "text_en": "How glorious it would have been to race thee and thine to the summit...though mayhap not whilst being hounded by Bakool Ja Ja and his minions.",
       "text": "ช่างเป็นเรื่องน่าปีติยิ่งนักหากได้วิ่งแข่งขันกับท่านและผู้ติดตามขึ้นสู่ยอดเขา... ทว่าคงไม่ใช่ในยามที่โดนไล่ล่าปั่นป่วนโดยบาคูล จา จา และพรรคพวกของมันเช่นนี้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "againthatswineshowshisdisdainfortherite",
       "text_en": "Again that swine shows his disdain for the rite!",
       "text": "เจ้าบ้านั่นมันแสดงความดูถูกเหยียดหยามต่อพิธีกรรมอีกแล้วนะ!"
     },
     {
-      "character": "Koana",
+      "key": "strangelydespitehiseagernesstoantagonizeushewithdrewassoonaswefoughtbackinearnesticannotfathomwhathewastryingtoachieve",
       "text_en": "Strangely, despite his eagerness to antagonize us, he withdrew as soon as we fought back in earnest. I cannot fathom what he was trying to achieve...",
       "text": "น่าแปลกตรงที่ ทั้งๆ ที่มันกระตือรือร้นจะเข้ามาปั่นป่วนท้าทายพวกเราแท้ๆ แต่พอกองกำลังของเราเริ่มตอบโต้เอาจริงเข้าหน่อย มันกลับยอมล่าถอยกลับไปทันที ผมคิดไม่ตกจริงๆ ว่ามันต้องการจะบรรลุเป้าหมายอะไรกันแน่..."
     },
     {
-      "character": "Koana",
+      "key": "onasimilarnoteimalsocuriousastowhyyouchosethepeakofworqorzormorfortheconclusionofthisfeat",
       "text_en": "On a similar note, I'm also curious as to why you chose the peak of Worqor Zormor for the conclusion of this feat.",
       "text": "ในทำนองเดียวกัน ผมเองก็สงสัยเหมือนกันครับว่าทำไมท่านถึงเลือกยอดเขาวอร์กอร์ ซอร์มอร์ เป็นสถานที่สิ้นสุดสำหรับบททดสอบครั้งนี้"
     },
     {
-      "character": "Koana",
+      "key": "theearlierstagessawuslearnthehistoryoftheyokhuydoesthislocationalsoholdsomespecialmeaningforyourpeople",
       "text_en": "The earlier stages saw us learn the history of the Yok Huy. Does this location also hold some special meaning for your people?",
       "text": "ช่วงแรกของบททดสอบช่วยให้พวกเราได้เรียนรู้ประวัติศาสตร์ของชาวยอคฮุย ยอดเขาศักดิ์สิทธิ์แห่งนี้มีความหมายพิเศษอะไรต่อผู้คนของท่านด้วยงั้นเหรอครับ?"
     },
     {
-      "character": "Gurfurlur",
+      "key": "yesitisaplaceofgreatsignificance",
       "text_en": "Yes. It is a place of great significance.",
       "text": "ใช่แล้วล่ะ ที่นี่คือสถานที่ที่มีความสำคัญทางจิตวิญญาณอย่างยิ่งยวด"
     },
     {
-      "character": "Alisaie",
+      "key": "allthesemonumentsisthisaburialground",
       "text_en": "All these monuments... Is this a burial ground?",
       "text": "อนุสาวรีย์พวกนี้ทั้งหมด... คือสุสานงั้นเหรอคะ?"
     },
     {
-      "character": "Gurfurlur",
+      "key": "everyhighluminarybeforemeisenshrinedinthisearthalongsidethemaretheheroeswhobravelystoodtheirgroundwhenvaligarmandabroughtruintourqopachaeightdecadespast",
       "text_en": "Every High Luminary before me is enshrined in this earth. Alongside them are the heroes who bravely stood their ground when Valigarmanda brought ruin to Urqopacha eight decades past.",
       "text": "หัวหน้านักบวชทุกคนก่อนหน้าข้าต่างก็ได้รับการฝังประดิษฐานไว้ ณ แผ่นดินตรงนี้ และเคียงข้างพวกเขาคือเหล่าวีรบุรุษผู้ยืนหยัดต่อสู้สู้กับวาลิการ์มันดาอย่างกล้าหาญเมื่อยามที่มันนำความหายนะมาสู่อูร์โกปาชาเมื่อแปดทศวรรษก่อน"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "hmmthatexplainswhytherearesomany",
       "text_en": "Hmm... That explains why there are so many.",
       "text": "อืม... มิน่าล่ะถึงได้มีอนุสาวรีย์มากมายขนาดนี้"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "zoraaljaishouldveknownyoudarriveherefirst",
       "text_en": "Zoraal Ja. I should've known you'd arrive here first...",
       "text": "โซราล จา ข้าน่าจะเดาได้ว่าเจ้าต้องเดินทางมาถึงที่นี่เป็นคนแรกอยู่แล้ว..."
     },
     {
-      "character": "Sareel Ja",
+      "key": "laboredbreathingexert",
       "text_en": "[LABORED BREATHING EXERT]",
       "text": "[หอบหายใจเหน็ดเหนื่อยล้าจากการเดินทางปีนเขา]"
     },
     {
-      "character": "Sareel Ja",
+      "key": "ahthirdpromisehowrelievediamtofindyouingoodhealth",
       "text_en": "Ah, Third Promise. How relieved I am to find you in good health.",
       "text": "อา ท่านสัญญาที่สาม ข้ารู้สึกโล่งใจยิ่งนักที่เห็นท่านยังมีสุขภาพร่างกายแข็งแรงดีอยู่"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "sareeljayoubastardishouldendyouhereandnow",
       "text_en": "Sareel Ja, you bastard! I should end you here and now!",
       "text": "ซารีล จา ไอ้สารเลว! ข้าควรจะจัดการแกให้จบเรื่องตรงนี้ซะเลยดีไหม!"
     },
     {
-      "character": "Gurfurlur",
+      "key": "rememberwhereyouareyouwillmindyourconductoryouwillleave",
       "text_en": "Remember where you are. You will mind your conduct, or you will leave.",
       "text": "จงระลึกไว้ด้วยว่าเจ้ากำลังยืนอยู่ ณ สถานที่ใด จงสำรวมคำพูดและพฤติกรรมของเจ้าด้วย มิฉะนั้นก็จงไสหัวไปซะ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "rightuhsorry",
       "text_en": "Right, uh...sorry.",
       "text": "เข้าใจแล้วค่ะ... ขออภัยด้วยนะคะ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "iseenoreasontodelayfurthershowmemyfatherssepulchre",
       "text_en": "I see no reason to delay further. Show me my father's sepulchre.",
       "text": "ข้าไม่เห็นความจำเป็นต้องยืดเวลาให้ชักช้าไปมากกว่านี้เลย จงนำทางข้าไปดูสุสานของท่านพ่อเสียที"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "papahasagrave",
       "text_en": "Papa has a grave...?",
       "text": "ท่านพ่อมีสุสานอยู่ที่นี่ด้วยงั้นเหรอ...?"
     },
     {
-      "character": "Gurfurlur",
+      "key": "uponthismonumentareinscribedthenamesofthosewhosealedawaythemonstrousvaligarmandayourfathersincluded",
       "text_en": "Upon this monument are inscribed the names of those who sealed away the monstrous Valigarmanda. Your father's included.",
       "text": "บนอนุสรณ์สถานนี้มีรายนามสลักของผู้ที่ยอมอุทิศตัวสะกดกักขังวาลิการ์มันดาอสูรร้ายเอาไว้ รวมถึงนามของท่านพ่อของเจ้าด้วยเช่นกัน"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "gulooljajamasterofresolveandreasonchampionofpeace",
       "text_en": "“ Gulool Ja Ja - Master of Resolve and Reason. Champion of Peace.”",
       "text": "“กูลูล จา จา - ราชาผู้เปี่ยมด้วยปัญญาและความแน่วแน่ ผู้พิทักษ์ความสงบสุข”"
     },
     {
-      "character": "Erenville",
+      "key": "lookatthisoneketenrammnavigatorofunchartedoceans",
       "text_en": "Look at this one. “ Ketenramm - Navigator of Uncharted Oceans.”",
       "text": "ลองดูตรงนี้สิครับ “เคเทนแรมม์ - ผู้นำร่องแห่งมหาสมุทรที่ไม่มีใครเคยสำรวจ”"
     },
     {
-      "character": "Alisaie",
+      "key": "ketenrammthelominsanexplorerdoesthismeanhejoinedgulooljajaonhistravels",
       "text_en": "Ketenramm? The Lominsan explorer? Does this mean he joined Gulool Ja Ja on his travels!?",
       "text": "เคเทนแรมม์งั้นเหรอคะ? นักสำรวจชาวโลมินซันคนนั้นน่ะนะ? แปลว่าเขาเคยเดินทางร่วมผจญภัยกับท่านกูลูล จา จา ด้วยงั้นเหรอคะ!?"
     },
     {
-      "character": "Erenville",
+      "key": "cahciuaseekeroftheunknownhowstrangetoseeyournamehere",
       "text_en": "“ Cahciua - Seeker of the Unknown.” How strange to see your name here...",
       "text": "“คาชิวา - ผู้เสาะหาดินแดนที่ไม่รู้จัก” แปลกจริงที่ได้เห็นชื่อของคุณอยู่ที่นี่ด้วย..."
     },
     {
-      "character": "Gurfurlur",
+      "key": "itwasunheardoftobuildlivingsepulchresforthosewhowerenotyokhuybuttheirgreatdeeddemandedrecognition",
       "text_en": "It was unheard of to build living sepulchres for those who were not Yok Huy...but their great deed demanded recognition.",
       "text": "เดิมทีการสร้างสุสานมีชีวิตให้แก่ผู้ที่ไม่ใช่ชาวยอคฮุยเป็นเรื่องที่ไม่เคยเกิดขึ้นมาก่อน... ทว่าคุณงามความดีอันยิ่งใหญ่ของพวกเขาคู่ควรแก่การจารึกจดจำไว้ตลอดกาล"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "masterofresolveandreasonchampionofpeacepapareallydidsomeamazingthings",
       "text_en": "Master of Resolve and Reason. Champion of Peace... Papa really did some amazing things.",
       "text": "ราชาผู้เปี่ยมด้วยปัญญาและความแน่วแน่ ผู้พิทักษ์ความสงบสุข... ท่านพ่อเนี่ยทำสิ่งน่าทึ่งไว้เยอะแยะจริงๆ เลยนะ"
     },
     {
-      "character": "Zoraal Ja",
+      "key": "hecarvedhispathwithmartialskill",
       "text_en": "He carved his path with martial skill.",
       "text": "ท่านพ่อเบิกเส้นทางขึ้นมาด้วยฝีมือการต่อสู้อันทรงพลัง"
     },
     {
-      "character": "Koana",
+      "key": "yetitwascleverthinkingwhichallowedhimtotrapvaligarmandawithinitsownicemagicks",
       "text_en": "Yet it was clever thinking which allowed him to trap Valigarmanda within its own ice magicks.",
       "text": "ทว่าก็เป็นเพราะการวางแผนตรรกะเหตุผลอันชาญฉลาดต่างหากล่ะครับ ที่ช่วยให้เขาสามารถสะกดกักขังวาลิการ์มันดาไว้ใต้พลังเวทมนตร์น้ำแข็งของมันเองได้สำเร็จ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "martialskillandcleverthinkinghmm",
       "text_en": "Martial skill and clever thinking... Hmm.",
       "text": "ฝีมือการต่อสู้และการวางแผนอันชาญฉลาดงั้นเหรอ... อื้ม"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "icantcompetewithzoraaljasmasteryoftheheadofresolvestechniques",
       "text_en": "I can't compete with Zoraal Ja's mastery of the Head of Resolve's techniques.",
       "text": "ข้าคงไม่สามารถเทียบเคียงกับโซราล จา ในเรื่องทักษะฝีมืออันเป็นเลิศที่สืบทอดมาจากเศียรแห่งความแน่วแน่ได้หรอก"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andwhenitcomestoknowledgekoanastheonewhomosttakesaftertheheadofreason",
       "text_en": "And when it comes to knowledge, Koana's the one who most takes after the Head of Reason.",
       "text": "และถ้าพูดถึงเรื่องวิชาความรู้ โคอานาก็คือคนที่ถอดแบบมาจากเศียรแห่งปัญญาได้ดีที่สุดด้วย"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "isthereanythingthativegottenfrompapasomethingidobetterthantheothers",
       "text_en": "Is there anything that I've gotten from Papa? Something I do better than the others...",
       "text": "แล้วมีอะไรบ้างล่ะที่ข้าสืบทอดมาจากท่านพ่อ? สิ่งที่ข้าทำได้ดีกว่าคนอื่นๆ..."
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ofcourse",
       "text_en": "...Of course!",
       "text": "...แน่นอนอยู่แล้ว!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatelsedefineshim",
       "text_en": "What else defines him...?",
       "text": "มีสิ่งอื่นใดอีกไหมที่บ่งบอกความเป็นตัวท่านพ่อ...?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "ohofcourse",
       "text_en": "Oh, of course!",
       "text": "อ้อ แน่นอนสิ!"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "papasloveforpeaceforhispeoplethatiswhathesgivenme",
       "text_en": "Papa's love for peace─for his people! That is what he's given me.",
       "text": "ความรักในความสงบสุขของท่านพ่อ—ความรักที่มีต่อประชาชนของเขา! นั่นคือสิ่งที่ท่านพ่อได้มอบให้แก่ข้า"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "andimfightingtopreservethepeacefulturalhebuilt",
       "text_en": "And I'm fighting to preserve the peaceful Tural he built!",
       "text": "และข้ากำลังต่อสู้สู้เพื่อปกป้องแผ่นดินทูรัลอันสงบสุขที่ท่านพ่อสร้างขึ้นมายังไงล่ะ!"
     },
     {
-      "character": "???",
+      "key": "unholyscreechingroargraaaaaagh",
       "text_en": "[UNHOLY SCREECHING ROAR - “Graaaaaagh!”]",
       "text": "[เสียงคำรามแหลมกรีดร้องน่าสะพรึงกลัวอย่างบ้าคลั่ง — “เกร๊าาาา!”]"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "whatinthehellswasthat",
       "text_en": "What in the hells was that!?",
       "text": "นั่นมันเสียงบ้าอะไรกันน่ะ!?"
     },
     {
-      "character": "Alphinaud",
+      "key": "youmustreturntoworlarsechoimmediately",
       "text_en": "You must return to Worlar's Echo immediately!",
       "text": "พวกคุณต้องรีบเดินทางกลับไปยังเสียงสะท้อนแห่งวอร์ลาร์ (Worlar's Echo) เดี๋ยวนี้เลยครับ!"
     },
     {
-      "character": "Alphinaud",
+      "key": "valigarmandahasbrokenfree",
       "text_en": "Valigarmanda has broken free!",
       "text": "วาลิการ์มันดาหลุดพ้นจากพันธนาการสะกดแล้วครับ!"
     },
     {
-      "character": "Thancred",
+      "key": "ipresumethatwasabouttheunholysound",
       "text_en": "I presume that was about the unholy sound?",
       "text": "ฉันคิดว่าเสียงน่าสยองขวัญเมื่อกี้น่าจะเป็นคำตอบของเรื่องนี้นะ?"
     },
     {
-      "character": "Gurfurlur",
+      "key": "valigarmandaisfree",
       "text_en": "Valigarmanda is free!?",
       "text": "วาลิการ์มันดาหลุดพ้นจากการสะกดงั้นรึ!?"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "weneedtogetbacktherenow",
       "text_en": "We need to get back there. Now!",
       "text": "พวกเรารีบกลับไปที่นั่นกันเถอะ ด่วนเลย!"
     },
     {
-      "character": "Sareel Ja",
+      "key": "howfortuitouswehavebeengiftedanopportunitytooutpaceourrivals",
       "text_en": "How fortuitous. We have been gifted an opportunity to outpace our rivals.",
       "text": "ช่างโชคดีอะไรขนาดนี้ นี่คือโอกาสทองที่พวกเราจะได้ทิ้งห่างคู่แข่งให้พ้นทางแล้วล่ะครับ"
     },
     {
-      "character": "Wuk Lamat",
+      "key": "staywithmewellhaveahealerseetoyousoon",
       "text_en": "Stay with me! We'll have a healer see to you soon!",
       "text": "อดทนไว้นะคะ! เดี๋ยวพวกเราจะพานักเวทเยียวยามาช่วยรักษาให้ค่ะ!"
     },
     {
-      "character": "Krile",
+      "key": "therethatshouldhelprestawhileandyoullbebackonyourfeetinnotime",
       "text_en": "There, that should help. Rest awhile, and you'll be back on your feet in no time.",
       "text": "เรียบร้อยค่ะ น่าจะช่วยบรรเทาอาการเจ็บปวดได้บ้าง พักผ่อนสักระยะเดี๋ยวก็กลับมายืนได้เหมือนเดิมแล้วค่ะ"
     },
     {
-      "character": "Erenville",
+      "key": "thisisasharlayanrestorativepotiondrinkitslowly",
       "text_en": "This is a Sharlayan restorative potion. Drink it slowly.",
       "text": "นี่คือน้ำยารักษาฟื้นฟูกำลังสูตรพิเศษของชาร์ลายัน ค่อยๆ ดื่มมันเข้าไปช้าๆ นะครับ"
     },
     {
-      "character": "Alisaie",
+      "key": "youllbefinejusttrytoavoidsuddenmovementssoyoudontreopenyourwounds",
       "text_en": "You'll be fine. Just try to avoid sudden movements so you don't reopen your wounds.",
       "text": "ไม่เป็นไรแล้วล่ะ พยายามหลีกเลี่ยงการเคลื่อนไหวร่างกายกะทันหันนะ แผลจะได้ไม่ฉีกขาดเปิดออกมาอีก"
     },
     {
-      "character": "Koana",
+      "key": "uriangersaysfireaetherpervadestheentirevillagewhathappenedhere",
       "text_en": "Urianger says fire aether pervades the entire village. What happened here...?",
       "text": "อุเรียนเจร์แจ้งว่าไออีเธอร์ธาตุไฟแผ่กระจายไปทั่วหมู่บ้านเลย เกิดเรื่องอะไรขึ้นที่นี่กันแน่ครับ...?"
     },
     {
-      "character": "Thancred",
+      "key": "manyofthevillagerssustainedburnsbutthefirefoundnopurchaseinthesestonebuildingsasmallmercy",
       "text_en": "Many of the villagers sustained burns, but the fire found no purchase in these stone buildings. A small mercy.",
       "text": "ชาวบ้านส่วนใหญ่ได้รับบาดเจ็บจากเปลวไฟลวก แต่โชคยังดีที่ไฟไม่สามารถลุกลามไหม้พวกสิ่งก่อสร้างหินพวกนี้ได้ ถือเป็นความโชคดีในความโชคร้ายล่ะนะ"
     },
     {
-      "character": "Urianger",
+      "key": "thoughvaligarmandasescapeisofdireconcernwemustneedstendtothosecaughtintheconflagration",
       "text_en": "Though Valigarmanda's escape is of dire concern, we must needs tend to those caught in the conflagration.",
       "text": "ถึงแม้เรื่องที่วาลิการ์มันดาหลุดรอดไปได้จะสร้างความกังวลใจอย่างยิ่งยวด แต่ตอนนี้พวกเราจำเป็นต้องช่วยดูแลรักษาผู้ประสบเคราะห์ภัยจากกองเพลิงนี้ก่อนเถอะครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "goodyoureback",
       "text_en": "Good, you're back.",
       "text": "ดีจริงที่คุณกลับมาแล้ว"
     },
     {
-      "character": "Alphinaud",
+      "key": "thereismuchiwouldexplainbutbythetimeiarrivedtoinvestigateasuddensurgeinaethertherewerealreadyfallengiantseverywhere",
       "text_en": "There is much I would explain, but by the time I arrived to investigate a sudden surge in aether, there were already fallen giants everywhere.",
       "text": "มีหลายเรื่องที่ผมอยากจะอธิบายครับ แต่พอผมเดินทางมาถึงเพื่อตรวจสอบกระแสพลังอีเธอร์ที่จู่ๆ ก็ปะทุขึ้นมา ก็พบร่างคนยักษ์ล้มเจ็บระเนระนาดเกลื่อนกลาดไปหมดแล้วครับ"
     },
     {
-      "character": "Alphinaud",
+      "key": "rightnoweveryoneispreoccupiedwithtreatingthewoundedpraycatchyourbreathandthenlendahandwhereyoucan",
       "text_en": "Right now, everyone is preoccupied with treating the wounded. Pray catch your breath, and then lend a hand where you can.",
       "text": "ตอนนี้ทุกคนกำลังยุ่งอยู่กับการช่วยเยียวยาผู้ได้รับบาดเจ็บ พักสูดหายใจให้หายเหนื่อยก่อน แล้วค่อยเข้าไปช่วยคนอื่นเท่าที่พอจะทำได้เถอะครับ"
     }
