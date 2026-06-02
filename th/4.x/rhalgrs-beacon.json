@@ -1,0 +1,725 @@
+{
+  "quest_id": "rhalgrs-beacon",
+  "dialogues": [
+    {
+      "key": "youarereadyyestheniprayyouinformfather",
+      "text_en": "...You are ready, yes? Then I pray you inform Father.",
+      "text": "...ท่านพร้อมแล้วใช่ไหมครับ ถ้าอย่างนั้นก็รบกวนแจ้งท่านพ่อด้วยครับ"
+    },
+    {
+      "key": "thereyouareandthereiscommanderkempiseeiknowyouareeagertospeakofournextmovebutwewouldfirsthearmoreofyourlasttellusofyourdeedsindoma",
+      "text_en": "There you are—and there is Commander Kemp, I see. I know you are eager to speak of our next move, but we would first hear more of your last. Tell us of your deeds in Doma.",
+      "text": "มากันแล้วหรือ—นั่นผู้บัญชาการเคมป์ก็อยู่ด้วย ข้าพเจ้ารู้ว่าท่านคงอยากหารือเรื่องแผนการขั้นต่อไปใจจะขาด แต่ก่อนอื่นเราอยากฟังเรื่องราวหนหลังของท่านมากกว่า ช่วยเล่าเรื่องที่ท่านทำในโดม่าให้พวกเราฟังที"
+    },
+    {
+      "key": "prayjoinmeinwelcomingourscionalliesbutrecentlyreturnedfromtheirmissiontothefareastwehavebeenmosteagertohearafirsthandaccountofyourtimethereeventfulasweunderstanditwas",
+      "text_en": "Pray join me in welcoming our Scion allies, but recently returned from their mission to the Far East. We have been most eager to hear a firsthand account of your time there, eventful as we understand it was.",
+      "text": "ขอเชิญทุกท่านร่วมต้อนรับพันธมิตรไซออนผู้เป็นมิตรของเรา ซึ่งเพิ่งรีเทิร์นกลับมาจากภารกิจในตะวันออกไกล พวกเราตั้งตารอที่จะได้ฟังเรื่องราวที่นั่นจากปากของท่านเองอย่างยิ่ง ทราบมาว่ามีเหตุการณ์เกิดขึ้นมากมายทีเดียว"
+    },
+    {
+      "key": "verywellallowme",
+      "text_en": "Very well, allow me...",
+      "text": "ตกลง ฉันจะเล่าให้ฟังเอง..."
+    },
+    {
+      "key": "suchvictoriesarerarelywonwithoutsacrificebuttheprizeisworththepricedomafreeafteralltheseyears",
+      "text_en": "...Such victories are rarely won without sacrifice. But the prize is worth the price. Doma free, after all these years.",
+      "text": "...ชัยชนะเช่นนี้ยากจะได้มาโดยไม่มีการสูญเสีย แต่สิ่งตอบแทนก็คุ้มค่ากับที่ต้องจ่ายไป ในที่สุดโดม่าก็เป็นอิสระหลังจากผ่านพ้นมาหลายปี"
+    },
+    {
+      "key": "bloodyhellsfloodingtheirowncastleforabetterchanceatvictorywecouldlearnathingortwofromthatlad",
+      "text_en": "Bloody hells... Flooding their own castle for a better chance at victory... We could learn a thing or two from that lad.",
+      "text": "ให้ตายเถอะ... ยอมท่วมปราสาทตัวเองเพื่อเพิ่มโอกาสให้ได้ชัยชนะอย่างเรือวิกตอรี... พวกเราน่าจะเรียนรู้อะไรจากเจ้าหนุ่มคนนั้นได้บ้างนะ"
+    },
+    {
+      "key": "ouragentsreportaflurryofcommunicationsbetweengarlemaldandalamhigoinrecentdaystisplaintheyareinthemidstofdeliberatingtheirresponsetothedomanuprising",
+      "text_en": "Our agents report a flurry of communications between Garlemald and Ala Mhigo in recent days. 'Tis plain they are in the midst of deliberating their response to the Doman uprising.",
+      "text": "สายของเรารายงานว่าช่วงสองสามวันมานี้ มีการติดต่อสื่อสารกันอย่างวุ่นวายระหว่างการ์เลมัลด์กับอลา มิโก เห็นได้ชัดว่าพวกเขากำลังปรึกษาหารือเพื่อหาทางรับมือกับการก่อจลาจลของชาวโดม่าครับ"
+    },
+    {
+      "key": "goodeveryimperialunitinoccupiedterritorywillbeonthelookoutforcivilunrestthefearofleavingcriticallocationsundefendedwillmakecommandersthinktwiceaboutcommittingtheirforcesgivingusachancetoseizetheinitiative",
+      "text_en": "Good. Every imperial unit in occupied territory will be on the lookout for civil unrest. The fear of leaving critical locations undefended will make commanders think twice about committing their forces—giving us a chance to seize the initiative.",
+      "text": "ดีมาก ทุกหน่วยของทหารจักรวรรดิในดินแดนยึดครองคงต้องคอยเฝ้าระวังเหตุจลาจลกันตัวเป็นเกลียว ความพะวักพะวงกลัวว่าจะปล่อยให้จุดยุทธศาสตร์สำคัญไร้การป้องกันจะทำให้พวกผู้บัญชาการคิดหนักก่อนจะส่งกำลังพลออกมา—นี่เป็นโอกาสให้พวกเราชิงลงมือก่อนแล้ว!"
+    },
+    {
+      "key": "wehaveachanceayemayhapthelastonewereevergonnagetwhilewevedoneourbesttorebuildtheresistancetheimperialshaveonlyincreasedtheireffortstorootoutsympathizers",
+      "text_en": "We have a chance, aye—mayhap the last one we're ever gonna get. While we've done our best to rebuild the Resistance, the imperials have only increased their efforts to root out sympathizers.",
+      "text": "พวกเรามีโอกาสแน่—และอาจเป็นโอกาสสุดท้ายที่เราจะได้เสียด้วย ในขณะที่พวกเราพยายามสุดชีวิตเพื่อฟื้นฟูกองกำลังต่อต้านขึ้นมาใหม่ พวกทหารจักรวรรดิก็ยิ่งกวาดล้างกลุ่มผู้ฝักใฝ่พวกเราหนักข้อขึ้นเรื่อยๆ"
+    },
+    {
+      "key": "ifwekeeponplayingforsmallerprizesitsonlyamatteroftimebeforetheycrushusagainandthatwewontcomebackfrom",
+      "text_en": "If we keep on playing for smaller prizes, it's only a matter of time before they crush us again. And that we won't come back from.",
+      "text": "หากพวกเรายังมัวแต่หวังผลเล็กๆ น้อยๆ อีกไม่ช้าไม่นานพวกมันคงบดขยี้พวกเราได้อีกหน และคราวนี้เราคงไม่มีวันฟื้นตัวกลับมาได้อีกเลย"
+    },
+    {
+      "key": "aswiftadvanceseemsbestforallconcernednotleastpoormistresskrile",
+      "text_en": "A swift advance seems best for all concerned. Not least poor Mistress Krile.",
+      "text": "การรุกคืบอย่างรวดเร็วดูจะเป็นหนทางที่ดีที่สุดสำหรับทุกคนที่เกี่ยวข้อง โดยเฉพาะคุณไครล์ผู้น่าสงสาร"
+    },
+    {
+      "key": "thenletuswastenomoretimethecampaignforalamhiganliberationbeginsnow",
+      "text_en": "Then let us waste no more time. The campaign for Ala Mhigan liberation begins now!",
+      "text": "ถ้าอย่างนั้นก็อย่ามัวเสียเวลาอีกเลย ยุทธการปลดแอกชาวอลา มิกอ เริ่มต้นขึ้น ณ บัดนี้!"
+    },
+    {
+      "key": "ourfirstobjectivewillbetocapturecastellumvelodynatakethebridgeandthewholefringeswillbeoursfromtherewecanpusheasttowardsthepeaks",
+      "text_en": "Our first objective will be to capture Castellum Velodyna. Take the bridge, and the whole Fringes will be ours. From there, we can push east towards the Peaks.",
+      "text": "เป้าหมายพิภพที่หนึ่งของเราคือการยึดคาสเทลลัม เวโลดีนา ยึดเดอะบริดจ์ให้ได้ แล้วเดอะฟรินจิสทั้งหมดก็จะเป็นของพวกเรา จากตรงนั้น เราจะบุกไปทางตะวันออกมุ่งสู่เดอะพีกส์"
+    },
+    {
+      "key": "inamethisoperationrhalgrsbeaconforasrhalgroncesenthisstartoguideourancestorstotheselandssotooshallitseeushome",
+      "text_en": "I name this operation Rhalgr's Beacon. For as Rhalgr once sent His star to guide our ancestors to these lands, so too shall it see us home!",
+      "text": "ข้าขอตั้งชื่อยุทธการนี้ว่าประทีปแห่งราลเกอร์ ในเมื่อราลเกอร์เคยส่งดาวนำทางบรรพบุรุษมายังดินแดนแห่งนี้ ครั้งนี้ดวงดาวดวงเดิมก็ต้องนำทางกลับบ้านได้เช่นกัน!"
+    },
+    {
+      "key": "thesuccessofthisoperationisparamountsolongastheempireholdscastellumvelodynathemainhostcannotadvance",
+      "text_en": "The success of this operation is paramount. So long as the Empire holds Castellum Velodyna, the main host cannot advance.",
+      "text": "ยุทธการนี้จะล้มเหลวไม่ได้เด็ดขาด ตราบใดที่จักรวรรดิยังยึดครองคาสเทลลัม เวโลดีนา กองทัพหลักก็ไม่สามารถรุกคืบไปได้"
+    },
+    {
+      "key": "zenosknowsthiswhichiswhyhehasorderedfordolaandhermentoseetothebridgesdefense",
+      "text_en": "Zenos knows this, which is why he has ordered Fordola and her men to see to the bridge's defense.",
+      "text": "เซนอสรู้เรื่องนี้ดี ถึงได้สั่งให้ฟอร์ดราและคนของนางคอยคุมการป้องกันเดอะบริดจ์"
+    },
+    {
+      "key": "sowellgettofighttheskullsagain",
+      "text_en": "So we'll get to fight the Skulls again...",
+      "text": "แปลว่าต้องสู้กับเดอะสคัลส์อีกแล้วสินะ..."
+    },
+    {
+      "key": "thebutcherisnottobeunderestimatedsheisdecisiveruthlessandfearedbyfoesandfriendsalikebutwehaveaplantodefeather",
+      "text_en": "The Butcher is not to be underestimated. She is decisive, ruthless, and feared by foes and friends alike. But we have a plan to defeat her.",
+      "text": "อย่าประเมินยัยเพชฌฆาตนั่นต่ำไปเชียว ทั้งเด็ดขาด โหดเหี้ยม เป็นที่ครั่นคร้ามของทั้งศัตรูและมิตร ทว่าเราก็มีแผนเผด็จศึกแล้ว"
+    },
+    {
+      "key": "firstwesendanallianceforcedownthemainroadsignalingourintentiontomountanalloutassaultthegarrisonwillmustertheirforcesandprepareforaprotractedbattle",
+      "text_en": "First, we send an Alliance force down the main road, signaling our intention to mount an all-out assault. The garrison will muster their forces and prepare for a protracted battle...",
+      "text": "พิภพที่หนึ่ง เราจะส่งกองกำลังพันธมิตรลงไปตามถนนสายหลัก เพื่อส่งสัญญาณว่าเราตั้งใจจะเปิดฉากโจมตีเต็มกำลัง กองทหารรักษาการณ์จะระดมพลและเตรียมพร้อมรับมือศึกยืดเยื้อ..."
+    },
+    {
+      "key": "howevertheywillsoonfindthatweareillpreparedfortheircounterattackourmenwillbegintobreakranksandflee",
+      "text_en": "However, they will soon find that we are ill prepared for their counterattack. Our men will begin to break ranks and flee.",
+      "text": "ทว่า ไม่ช้าพวกมันจะพบว่าพวกเราไม่ได้เตรียมรับมือการโต้กลับเลย ทหารของพวกเราจะเริ่มแตกแถวและล่าถอยหนีไป"
+    },
+    {
+      "key": "iseeshowthemyourbacksandgivethematargettootemptingnottopursue",
+      "text_en": "I see...Show them your backs and give them a target too tempting not to pursue.",
+      "text": "อย่างนี้นี่เอง... แกล้งหันหลังวิ่งหนี ล่อใจให้พวกนั้นอดรนทนไม่ไหวจนต้องไล่ตาม"
+    },
+    {
+      "key": "ayefordolaistooaggressivenottopresstheadvantageshewillorderhermentogivechase",
+      "text_en": "Aye, Fordola is too aggressive not to press the advantage. She will order her men to give chase.",
+      "text": "ใช่ ฟอร์ดูลาน่ะบ้าบิ่นรุกหนักเกินกว่าจะยอมปล่อยโอกาสให้หลุดมือ นางต้องสั่งการทหารในภาคีให้ไล่กวดตามมาแน่"
+    },
+    {
+      "key": "welurethemasfaraseastendwherethecommanderswillrallytheirforcesandattempttoholdtheirgroundifallgoestoplanweshouldbeabletokeepthegreaterpartoftheirgarrisonoccupied",
+      "text_en": "We lure them as far as East End, where the commanders will rally their forces and attempt to hold their ground. If all goes to plan, we should be able to keep the greater part of their garrison occupied.",
+      "text": "เราจะล่อพวกมันไปให้ไกลถึงอีสต์เอนด์ ให้พวกผู้บัญชาการไปรวมพลปักหลักตรึงพื้นที่ไว้ที่นั่น หากทุกอย่างเป็นไปตามแผน เราก็น่าจะตรึงทหารรักษาการณ์ส่วนใหญ่ของพวกมันเอาไว้ได้"
+    },
+    {
+      "key": "leavingustotacklethebridgesremainingdefendersverycleverimsurebutwhatarewetodoiftheimperialssmellaratandreturnbeforewevetakentheplace",
+      "text_en": "...Leaving us to tackle the bridge's remaining defenders. Very clever, I'm sure. But what are we to do if the imperials smell a rat and return before we've taken the place?",
+      "text": "...เพื่อปล่อยให้พวกเราจัดการทหารรักษาการณ์ที่เหลืออยู่ของเดอะบริดจ์ ช่างเป็นแผนที่ฉลาดล้ำลึกทีเดียว แต่เราจะทำอย่างไรหากพวกทหารจักรวรรดิไหวตัวทันแล้วรีเทิร์นกลับมาก่อนที่เราจะยึดพื้นที่ได้สำเร็จ"
+    },
+    {
+      "key": "idontneedyoutotakevelodynacommanderkempallineedisforyoutoflyyourflagfromitstower",
+      "text_en": "I don't need you to take Velodyna, Commander Kemp. All I need is for you to fly your flag from its tower.",
+      "text": "ข้าไม่ได้ต้องการให้ท่านยึดเวโลดีนาหรอก ผู้บัญชาการเคมป์ ขอเพียงท่านชักธงของพวกท่านขึ้นไปโบกสะบัดบนยอดหอคอยก็พอแล้ว"
+    },
+    {
+      "key": "youmeantotrickthemintobelievingthatthebridgehasfallen",
+      "text_en": "You mean to trick them into believing that the bridge has fallen!",
+      "text": "ท่านคิดจะหลอกให้พวกนั้นเชื่อว่าเดอะบริดจ์แตกแล้วอย่างนั้นหรือครับ!"
+    },
+    {
+      "key": "ayeweconvincethemvelodynaislosthitthemhardwithourreinforcementsandwatchthemgorunningforthehills",
+      "text_en": "Aye. We convince them Velodyna is lost, hit them hard with our reinforcements, and watch them go running for the hills.",
+      "text": "ใช่! ทำให้พวกมันเชื่อว่าเวโลดีนาแตกพ่าย แล้วส่งกองกำลังเสริมเข้าบดขยี้อย่างหนัก จากนั้นก็คอยดูพวกมันวิ่งหนีเตลิดเปิดเปิงขึ้นเขาไป"
+    },
+    {
+      "key": "thenwhenthedusthassettledweregroupatthecastellumwhatsayyou",
+      "text_en": "Then, when the dust has settled, we regroup at the castellum. What say you?",
+      "text": "เมื่อฝุ่นควันแห่งการต่อสู้จางลง เราค่อยกลับมารวมพลกันที่แคสเทลลัม พวกท่านคิดเห็นอย่างไร"
+    },
+    {
+      "key": "itsaboldplanbutagoodonewelldoit",
+      "text_en": "It's a bold plan...but a good one. We'll do it.",
+      "text": "ช่างเป็นแผนที่อาจหาญ...แต่ก็นับว่าเข้าที พวกเราจะลงมือทำตามนี้"
+    },
+    {
+      "key": "inthatcaseweshallsupportboththeresistanceandtheallianceforces",
+      "text_en": "In that case, we shall support both the Resistance and the Alliance forces.",
+      "text": "ถ้าเช่นนั้น พวกเราจะคอยสนับสนุนทั้งกองกำลังต่อต้านและกองกำลังพันธมิตรครับ"
+    },
+    {
+      "key": "forenamelysearenvaldiaskthatyouaccompanycommanderkempalisaieandiwillremainwiththeflamegeneral",
+      "text_en": "Forename , Lyse, Arenvald—I ask that you accompany Commander Kemp. Alisaie and I will remain with the Flame General.",
+      "text": "Forename ลีส อาร็องวาลด์—ฉันขอให้พวกเธอเดินทางไปกับผู้บัญชาการเคมป์นะ ส่วนฉันกับอลิเซจะอยู่กับนายพลเฟลมที่นี่เอง"
+    },
+    {
+      "key": "wewillreturntorhalgrsreachandmakeourpreparationsassoonastheyarecompletewewilljoinyouinthefieldgodsspeed",
+      "text_en": "We will return to Rhalgr's Reach and make our preparations. As soon as they are complete, we will join you in the field. Godsspeed!",
+      "text": "พวกเราจะรีเทิร์นกลับไปยังรัลเกอร์สรีชและเตรียมการให้พร้อม ทันทีที่ทุกอย่างเรียบร้อย เราจะไปสมทบกับท่านในสนามรบ ขอให้ทวยเทพคุ้มครอง!"
+    },
+    {
+      "key": "conradwasntkiddingwhenhesaidtheydmadealotofprogresswhilewewereaway",
+      "text_en": "Conrad wasn't kidding when he said they'd made a lot of progress while we were away...",
+      "text": "คอนราดไม่ได้พูดเล่นเลยจริงๆ ที่ว่าพวกเขาก้าวหน้าไปมากตอนที่เราไม่อยู่..."
+    },
+    {
+      "key": "icanttellyouhowlongivebeenwaitingforthisitsgoingtobegrand",
+      "text_en": "I can't tell you how long I've been waiting for this! It's going to be grand!",
+      "text": "บอกไม่ถูกเลยว่าฉันรอคอยวันนี้มานานแค่ไหน! มันต้องยิ่งใหญ่มากแน่ๆ!"
+    },
+    {
+      "key": "ifittakesahundredbattleslikethistorecurkrilethenillfightineveryone",
+      "text_en": "If it takes a hundred battles like this to recur Krile, then I'll fight in every one!",
+      "text": "หากต้องทำศึกแบบนี้สักร้อยครั้งเพื่อช่วยครูลกลับมา ผมก็พร้อมจะต่อสู้ทุกครั้ง!"
+    },
+    {
+      "key": "incaseyouhaventnoticedtheflagflyingabovevelodynaisbloodymassiveitdtakeadozenmentochangeitandfartoolongbesidesbuttheresnoneedforallthatrightmnaago",
+      "text_en": "In case you haven't noticed, the flag flying above Velodyna is bloody massive. It'd take a dozen men to change it, and far too long besides. But there's no need for all that—right, M'naago?",
+      "text": "เผื่อพวกเธอจะยังไม่ทันสังเกต ธงที่โบกสะบัดอยู่เหนือเวโลดีนาน่ะผืนใหญ่โตมโหฬารเหลือเกิน ต้องใช้คนตั้งโหลถึงจะเปลี่ยนมันได้ แถมยังเสียเวลามากอีกด้วย แต่ก็ไม่จำเป็นต้องทำถึงขนาดนั้นหรอกจริงไหม เอ็มนาโก"
+    },
+    {
+      "key": "notsolongasihavemygriffinandasatchelofglamourprismsno",
+      "text_en": "Not so long as I have my griffin and a satchel of glamour prisms, no!",
+      "text": "ไม่มีปัญหาค่ะ ตราบใดที่ฉันมีกริฟฟินคู่ใจกับถุงใส่เกลมัวร์ปริซึมติดตัวไว้!"
+    },
+    {
+      "key": "arenvaldyoureinchargeoftherunnersbetweenusandthealliancenolinkpearlslyseiwantyoutolookinonthesquadronsmakesuretheyvegoteverythingtheyneedeverybodyclear",
+      "text_en": "Arenvald, you're in charge of the runners between us and the Alliance. No linkpearls. Lyse, I want you to look in on the squadrons—make sure they've got everything they need. Everybody clear?",
+      "text": "อาร็องวาลด์ นายคอยดูแลคนส่งสารระหว่างพวกเรากับกองกำลังพันธมิตรนะ ห้ามใช้ลิงก์เพิร์ลเด็ดขาด ลีส ฉันอยากให้เธอไปตรวจดูหน่วยรบต่างๆ—ดูให้แน่ใจว่าพวกเขามีของทุกอย่างที่จำเป็นครบถ้วน ทุกคนเข้าใจตรงกันนะ"
+    },
+    {
+      "key": "ayesir",
+      "text_en": "Aye, sir!",
+      "text": "รับทราบครับ!"
+    },
+    {
+      "key": "allforcesaretodepartforcastellumcorviwhenreadythatwillbeallforenamestaywithmeamomentifyouwould",
+      "text_en": "All forces are to depart for Castellum Corvi when ready. That will be all. Forename , stay with me a moment, if you would.",
+      "text": "ให้กองกำลังทุกหน่วยออกเดินทางไปยังคาสเทลลัม คอร์วี เมื่อพร้อม เท่านี้แหละ Forename อยู่กับฉันสักครู่ก่อนนะ ถ้าไม่รังเกียจ"
+    },
+    {
+      "key": "theresafewmenidlikeyoutolookinonpersonallyeachofthemhaslostpeopleandicantellthatitweighsontheirhearts",
+      "text_en": "There's a few men I'd like you to look in on personally. Each of them has lost people, and I can tell that it weighs on their hearts...",
+      "text": "ฉันอยากให้เธอไปเยี่ยมเยียนคนสองสามคนด้วยตัวเองหน่อย พวกเขาต่างสูญเสียคนใกล้ชิดไป และฉันดูออกว่าเรื่องนี้ยังหนักอึ้งอยู่ในใจ..."
+    },
+    {
+      "key": "therehavebeenalotofnewfacessincelastyouwereheresoitsbestifijusttellyouwheretolookonesanofficeryoullfindinthebarberanothersanolderfellowwholikestopassthetimeontheshoreofstarfallthelastisafieryyoungladfromlittlealamhigowhoimtoldtrainsbyhimselfbytherivertothefringesyoullknowthemwhenyouseethemcomeandfindmewhenyouvefinished",
+      "text_en": "There have been a lot of new faces since last you were here, so its best if I just tell you where to look. One's an officer you'll find in the Barber, another's an older fellow who likes to pass the time on the shore of Starfall. The last is a fiery young lad from Little Ala Mhigo, who I'm told trains by himself by the river to the Fringes. You'll know them when you see them. Come and find me when you've finished.",
+      "text": "หลังจากเธอมาคราวก่อน หน้าใหม่ๆ ก็เพิ่มขึ้นมาไม่น้อยเลย ฉันบอกทางให้เลยจะดีกว่า คนแรกเป็นนายทหารที่เดอะ บาร์เบอร์ อีกคนเป็นชายสูงวัยที่ชอบไปนั่งฆ่าเวลาแถวชายฝั่งสตาร์ฟอล ส่วนคนสุดท้ายคือพ่อหนุ่มไฟแรงจากลิตเติล อลา มีโก ได้ยินมาว่าชอบไปฝึกวิชาคนเดียวริมแม่น้ำทางไปเดอะฟรินจ์ส ถ้าเจอแล้วเธอก็คงรู้เองแหละ เสร็จเรื่องแล้วค่อยกลับมาหาฉันนะ"
+    },
+    {
+      "key": "ihaveafewthingstoseetoheresoishouldstillbearoundwhenyouvehadawordwiththosethreemenimentioned",
+      "text_en": "I have a few things to see to here, so I should still be around when you've had a word with those three men I mentioned.",
+      "text": "ฉันยังมีเรื่องต้องจัดการแถวนี้อีกนิดหน่อย เพราะงั้นคงยังอยู่แถวนี้แหละตอนที่เธอได้พูดคุยพระวจนะกับชายสามคนนั้นที่ฉันพูดถึง"
+    },
+    {
+      "key": "ithoughtlongandhardaboutwalkingawayafterwhathappenedtomyfatherbuttheotherstheyconvincedmeitwasbettertostaythecoursethatswhatmyfatherwouldvewantedafterall",
+      "text_en": "I thought long and hard about walking away after what happened to my father. But the others, they convinced me it was better to stay the course. That's what my father would've wanted, after all...",
+      "text": "ฉันคิดทบทวนอยู่นานมากเรื่องจะเดินจากไปหลังจากเกิดเรื่องกับท่านพ่อ แต่คนอื่นๆ ช่วยกันเกลี้ยกล่อมจนฉันคิดได้ว่าควรสู้ต่อไป ยังไงเสีย...นั่นก็คงเป็นสิ่งที่ท่านพ่อต้องการอยู่ดี..."
+    },
+    {
+      "key": "beenawhilesinceyoucamethroughayeasyoumayhavenoticedthingsarelookingupinthereach",
+      "text_en": "Been a while since you came through, aye? As you may have noticed, things are looking up in the Reach!",
+      "text": "ไม่ได้เจอกันตั้งนานแน่ะ ใช่ไหมล่ะ อย่างที่เธอเห็นนั่นแหละ อะไรๆ ในเดอะ รีชดูดีขึ้นตั้งเยอะ!"
+    },
+    {
+      "key": "forawhileaftertheattackfolksatetheirfoodinsilenceslowlybutsurelythoughthingshavegottenbacktonormaltheyrestartingtobelieveagain",
+      "text_en": "For a while after the attack, folks ate their food in silence. Slowly but surely, though, things have gotten back to normal. They're starting to believe again...",
+      "text": "หลังผ่านพ้นการโจมตีมาได้พักหนึ่ง ทุกคนต่างก้มหน้าก้มตากินข้าวกันเงียบกริบ แต่แล้วทุกอย่างก็ค่อยๆ กลับคืนสู่สภาพปกติอย่างช้าๆ ตอนนี้พวกเขาเริ่มกลับมามีความเชื่อมั่นกันอีกครั้งแล้วล่ะ..."
+    },
+    {
+      "key": "thesutlershavepulledoutallthestopsandmanagedtosecureussomenewsuppliesitmaynotbebymuchbutthingsaresteadilyimproving",
+      "text_en": "The sutlers have pulled out all the stops and managed to secure us some new supplies. It may not be by much, but things are steadily improving.",
+      "text": "พวกพ่อค้าเสบียงพยายามสุดความสามารถจนจัดหาเสบียงใหม่มาให้พวกเราได้สำเร็จ ถึงจะไม่ได้มากมายอะไร แต่อะไรๆ ก็เริ่มดีขึ้นเรื่อยๆ แล้ว"
+    },
+    {
+      "key": "imnotoneforpoliticsbutidohaveparticulartalentsthatithoughttheresistancecouldputtousetalentsihaveacquiredoveraverylongcareer",
+      "text_en": "I'm not one for politics, but I do have particular talents that I thought the Resistance could put to use─talents I have acquired over a very long career.",
+      "text": "ข้าไม่สนใจเรื่องการเมืองหรอก แต่ข้ามีฝีมือเฉพาะทางที่คิดว่าน่าจะเป็นประโยชน์กับกองกำลังต่อต้าน... ฝีมือที่สั่งสมมาตลอดการทำงานอันยาวนานของข้านี่แหละ"
+    },
+    {
+      "key": "theyllnotsurpriseusagainohnowellbereadynexttimemycannonstoo",
+      "text_en": "They'll not surprise us again, oh no. We'll be ready next time─my cannons too!",
+      "text": "พวกมันไม่มีทางลอบโจมตีพวกเราได้อีกแน่ ไม่มีทาง คราวหน้าเราจะเตรียมตัวให้พร้อม...รวมถึงปืนใหญ่ของฉันด้วย!"
+    },
+    {
+      "key": "thetidesturningicanfeelitivegottohealgottogetbettergottogetbacktothefrontwiththeothers",
+      "text_en": "The tide's turning, I can feel it! I've got to heal, got to get better...got to get back to the front with the others...",
+      "text": "กระแสศึกกำลังเปลี่ยนไป ข้ารู้สึกได้เลย! ข้าต้องรักษาแผล ต้องหายดีให้ได้...ต้องกลับไปแนวหน้ากับคนอื่นๆ..."
+    },
+    {
+      "key": "allthesenewrecruitsandalliesmeansthatwellneedevenmoreherbsivegottopickupthepace",
+      "text_en": "All these new recruits and allies means that we'll need even more herbs! I've got to pick up the pace!",
+      "text": "ทหารใหม่กับพวกพันธมิตรแห่มากันเพียบขนาดนี้ ก็แปลว่าเรายิ่งต้องใช้สมุนไพรมากขึ้นน่ะสิ! ฉันต้องเร่งมือหน่อยแล้ว!"
+    },
+    {
+      "key": "allofusareeagerforachancetostrikebackattheimperialsourdayiscoming",
+      "text_en": "All of us are eager for a chance to strike back at the imperials. Our day is coming!",
+      "text": "พวกเราทุกคนต่างเฝ้ารอโอกาสที่จะได้ล้างแค้นทหารจักรวรรดิ วันของเราใกล้จะมาถึงแล้ว!"
+    },
+    {
+      "key": "wishicouldsayitsgottenalotbetterinyourabsencebutwestillhavetroubleobtainingeventhemostbasicsuppliesstillwemakedowithwhatwevegot",
+      "text_en": "Wish I could say it's gotten a lot better in your absence, but we still have trouble obtaining even the most basic supplies. Still, we make do with what we've got.",
+      "text": "อยากจะบอกเหมือนกันนะเพื่อนว่าทุกอย่างดีขึ้นตั้งเยอะตอนที่นายไม่อยู่ แต่จนถึงตอนนี้แค่เสบียงพื้นฐานที่สุดก็ยังหามาลำบากยากเย็น แต่ก็นั่นแหละ มีเท่าไหร่ก็ต้องใช้ไปตามนั้น"
+    },
+    {
+      "key": "fasssterfasssterlookthemintheireyesandssstrikethemintheirheartsss",
+      "text_en": "Fassster! Fassster! Look them in their eyes and ssstrike them in their heartsss!",
+      "text": "เร็วววขึ้นอีก! เร็วววขึ้นอีก! จ้องเข้าไปในเนตรมังกรของพวกมัน แล้วเสียบแทงงงเข้าที่หัวใจของพวกมันซะ!"
+    },
+    {
+      "key": "isayifitisnttheladlasswhohelpedmefindthewardimisplaced",
+      "text_en": "I say, if it isn't the lad / lass who helped me find the Ward I misplaced!",
+      "text": "นึกว่าใครที่ไหน! สหายที่เคยช่วยฉันหาเครื่องรางที่ทำหายไปนั่นเอง!"
+    },
+    {
+      "key": "ahbutthereigoagaintreatingyouasanequalitwasnttillafteryoudgonethatoneofmycomradespulledmeasideandtoldmeitwasonlythebleedinheroofeorzeawhodtakentimeoutofhisherbusydaytohelpme",
+      "text_en": "Ah, but there I go again treating you as an equal! It wasn't till after you'd gone that one of my comrades pulled me aside and told me it was only the bleedin' hero of Eorzea who'd taken time out of his / her busy day to help me!",
+      "text": "ปัดโธ่เอ๋ย ฉันนี่ทึกทักเอาเองว่าพวกเราเสมอกันซะได้! พอนายเดินคล้อยหลังไป เพื่อนทหารก็ดึงตัวฉันไปบอกว่า คนที่อุตส่าห์เจียดเวลาอันมีค่ามาช่วยฉันน่ะ คือวีรบุรุษแห่งเอโอลเซียผู้เลื่องชื่อเชียว!"
+    },
+    {
+      "key": "wellwhatisdoneisdonebutknowthatiwillfightwitheveryonzeofmystrengthinthecomingbattleandthenextandthenextmayhapthatwillservetorepaythefavorfareyouwell",
+      "text_en": "Well, what is done is done. But know that I will fight with every onze of my strength in the coming battle, and the next and the next! Mayhap that will serve to repay the favor. Fare you well!",
+      "text": "เอาเถอะ เรื่องมันผ่านไปแล้ว แต่จำไว้เถอะว่าในการศึกครั้งหน้า รวมถึงครั้งต่อๆ ไป ฉันจะสู้อย่างสุดกำลังที่มี! หวังว่ามันจะพอทดแทนบุญคุณครั้งนี้ได้บ้าง ขอให้โชคดีนะ!"
+    },
+    {
+      "key": "waitiknowyoutwinaddersgcranksurnameofthetwinaddersmaelstromgcranksurnameofthemaelstromimmortalflamesgcranksurnameitisanhonortomeetyou",
+      "text_en": "Wait, I know you! [Twin Adders GC Rank] Surname of the Twin Adders / [Maelstrom GC Rank] Surname of the Maelstrom / [Immortal Flames GC Rank] Surname ! It is an honor to meet you!",
+      "text": "เดี๋ยวก่อน ฉันรู้จักคุณ! [ยศทวิน แอดเดอร์] นามสกุล แห่งทวิน แอดเดอร์ / [ยศกองกำลังเมลสตรอม] นามสกุล แห่งกองกำลังเมลสตรอม / [ยศอิมมอร์ทัล เฟลมส์] นามสกุล! เป็นเกียรติอย่างยิ่งที่ได้พบคุณ!"
+    },
+    {
+      "key": "iwaslivinghandtomouthinuldahbutdecidedtoenlistintheflamesafteriheardtalesofyourderringdoandnowasfatewouldhaveitivebeensentheretojoininthefightformyhomelandsliberation",
+      "text_en": "I was living hand-to-mouth in Ul'dah, but decided to enlist in the Flames after I heard tales of your derring-do. And now, as fate would have it, I've been sent here to join in the fight for my homeland's liberation.",
+      "text": "เมื่อก่อนฉันใช้ชีวิตปากกัดตีนถีบอยู่ในอุลดาห์ แต่พอได้ยินเรื่องราวความกล้าหาญของท่านก็เลยตัดสินใจสมัครเข้ากองกำลังเฟลมส์ แล้วตอนนี้ โชคชะตาก็ดลบันดาลให้ฉันถูกส่งตัวมาที่นี่เพื่อร่วมต่อสู้เพื่อปลดแอกบ้านเกิดเมืองนอน"
+    },
+    {
+      "key": "ahbutthisisnotimetotalkivegottopreparefortheoperationtakecaregcrankwellgivethoseimperialwhoresonswhatfor",
+      "text_en": "Ah, but this is no time to talk. I've got to prepare for the operation! Take care, GC Rank ! We'll give those imperial whoresons what for!",
+      "text": "แต่ตอนนี้ไม่มีเวลาคุยแล้ว ผมต้องไปเตรียมรับมือยุทธการแล้ว! ดูแลตัวเองด้วยนะครับ ท่าน[ยศทหาร]! พวกเราจะสั่งสอนไอ้ทหารจักรวรรดิสารเลวพวกนั้นให้สาสมเลย!"
+    },
+    {
+      "key": "forenameamirightidoubtyouremembermebutillneverforgetyousavedmylifeinlittlealamhigoyoudid",
+      "text_en": "... Forename , am I right? I doubt you remember me, but I'll never forget you—saved my life in Little Ala Mhigo, you did.",
+      "text": "...คุณ Forename ใช่ไหม คงจำกันไม่ได้แล้วล่ะสิ แต่ผมไม่มีวันลืมคุณหรอก ก็ช่วยชีวิตผมไว้ที่ลิตเติล อลา มีโก นี่นา"
+    },
+    {
+      "key": "wilredandtherestofushadgotitintoourheadsthatifwehadenoughcrystalswecouldsummonrhalgrliketheamaljaasummonedtheirgodthankfullyyouputastoptoit",
+      "text_en": "Wilred and the rest of us had got it into our heads that if we had enough crystals, we could summon Rhalgr like the Amalj'aa summoned their god. Thankfully, you put a stop to it.",
+      "text": "ตอนนั้นวิลเรดกับพวกเราทึกทักกันไปเองว่าถ้าเก็บรวบรวมคริสตัลได้มากพอ จะอัญเชิญราลเกอร์มาได้เหมือนที่พวกอะมาลจาอัญเชิญเทพเจ้า โชคดีที่คุณมาขวางไว้ทัน"
+    },
+    {
+      "key": "everhearaboutwhathappenedtowilredjoinedthebraveswhentheycamecallingonlytoturnupdeadonedayneverfoundouthoworwhybutireckonitdoesntmatterdeadsdeadafterall",
+      "text_en": "Ever hear about what happened to Wilred? Joined the Braves when they came calling, only to turn up dead one day. Never found out how or why, but I reckon it doesn't matter. Dead's dead, after all.",
+      "text": "เคยได้ยินเรื่องของวิลเรดบ้างไหม พอคริสตัลเบรฟส์มาชักชวนก็เข้าร่วมด้วย แต่จู่ๆ วันหนึ่งกลับกลายเป็นศพ ไม่มีใครรู้สาเหตุหรือวิธีตายเลย แต่คิดอีกทีก็คงไม่สำคัญแล้วละ ยังไงคนตายก็คือคนตายอยู่ดี"
+    },
+    {
+      "key": "butatleasthedieddoingwhathethoughtwasrightandmaybethatsthebestfolkslikeuscanhopeforehnotthatiminanyhurrymind",
+      "text_en": "But at least he died doing what he thought was right. And maybe that's the best folks like us can hope for, eh? Not that I'm in any hurry, mind!",
+      "text": "แต่อย่างน้อยก็ตายขณะทำสิ่งที่คิดว่าถูกต้องแล้ว และนั่นอาจเป็นสิ่งที่ดีที่สุดที่คนอย่างพวกเราพอจะหวังได้ ใช่ไหมล่ะ แต่ไม่ใช่ว่าผมกำลังรีบร้อนอยากตามไปหรอกนะ!"
+    },
+    {
+      "key": "youvehadawordwiththemenimentionedthen",
+      "text_en": "You've had a word with the men I mentioned, then?",
+      "text": "ถ้าอย่างนั้น ท่านก็ได้พูดคุยกับคนเหล่านั้นตามพระวจนะที่ผมเอ่ยถึงแล้วใช่ไหม"
+    },
+    {
+      "key": "asimsureyouvenoticedtheyveanotherthingincommonasidefromtragedyyouvetouchedeachoftheirlivesinonewayoranotherbutthatsnotthereasoniwantedyoutospeakwiththem",
+      "text_en": "As I'm sure you've noticed, they've another thing in common aside from tragedy: you've touched each of their lives in one way or another. But that's not the reason I wanted you to speak with them.",
+      "text": "อย่างที่ท่านน่าจะสังเกตเห็นแล้ว นอกเหนือจากเรื่องโศกนาฏกรรม พวกเขายังเชื่อมโยงกันด้วยอีกสิ่งหนึ่ง นั่นคือท่านได้เข้าไปเกี่ยวข้องกับชีวิตของแต่ละคนไม่ทางใดก็ทางหนึ่ง แต่นั่นไม่ใช่เหตุผลที่ผมอยากให้ท่านไปพูดคุยกับพวกเขาหรอก"
+    },
+    {
+      "key": "amanwhoslivedingyrabaniahisentirelifewhoborewitnesstotherealitiesoftheoccupationfortwentyunbrokenyears",
+      "text_en": "A man who's lived in Gyr Abania his entire life, who bore witness to the realities of the occupation for twenty unbroken years...",
+      "text": "ชายผู้ใช้ชีวิตอยู่ในกีร์ อะบาเนีย มาชั่วชีวิต และได้ประจักษ์ถึงความจริงของการยึดครองตลอดเวลายี่สิบปีเต็มโดยไม่ขาดสาย..."
+    },
+    {
+      "key": "amanwhofledalamhigoinsearchofanewlifewhosworetoserveanothernationonlyforfatetoconspiretosendhimbackhere",
+      "text_en": "A man who fled Ala Mhigo in search of a new life, who swore to serve another nation, only for fate to conspire to send him back here...",
+      "text": "ชายผู้หลบหนีออกจากอลา มิโก เพื่อไปแสวงหาชีวิตใหม่ ทั้งยังสาบานว่าจะรับใช้ประเทศอื่น ทว่าโชคชะตากลับชักนำให้ต้องหวนคืนมาที่นี่..."
+    },
+    {
+      "key": "ayouthbornonforeignsoilwhoneverknewhisparentshomelandyetneverthelessfeltkinshipwithourcause",
+      "text_en": "A youth born on foreign soil, who never knew his parents' homeland, yet nevertheless felt kinship with our cause...",
+      "text": "เด็กหนุ่มผู้ถือกำเนิดบนแผ่นดินอื่น ไม่เคยรู้จักบ้านเกิดเมืองนอนของบิดามารดา ทว่ากลับรู้สึกผูกพันกับอุดมการณ์ของพวกเรา..."
+    },
+    {
+      "key": "threementhreestoriesthreereasonsyetallbelongtotheresistanceingrowinglargerwevegrownmorediverseandwhilethereisgoodinthattheresalsothepotentialforstrifeanddiscord",
+      "text_en": "Three men, three stories, three reasons. Yet all belong to the Resistance. In growing larger, we've grown more diverse, and while there is good in that, there's also the potential for strife and discord.",
+      "text": "สามคน สามเรื่องราว สามเหตุผล ทว่าต่างก็เป็นสมาชิกของกองกำลังต่อต้าน เมื่อพวกเราเติบโตขึ้น ความหลากหลายก็ยิ่งทวีคูณ แม้ความหลากหลายจะนำพาเรื่องดีๆ มาให้ แต่ก็อาจก่อให้เกิดความขัดแย้งและการแตกแยกได้เช่นกัน"
+    },
+    {
+      "key": "itdtakeaspecialsorttoleadsuchmentoalamhigodontyouthink",
+      "text_en": "It'd take a special sort to lead such men to Ala Mhigo, don't you think?",
+      "text": "ต้องเป็นคนที่ไม่ธรรมดาเลยทีเดียวที่จะนำคนพวกนี้ไปยังอลา มิโกได้ เธอว่าไหม"
+    },
+    {
+      "key": "fornowayebutnotforeverandtobefrankidontalwaysknowwhattosaytotheoneswholeftnottomentiontheyouths",
+      "text_en": "For now, aye, but not forever. And, to be frank, I don't always know what to say to the ones who left, not to mention the youths.",
+      "text": "สำหรับตอนนี้ก็ใช่ แต่คงไม่ใช่ตลอดไปหรอก และพูดกันตามตรง บางครั้งฉันก็ไม่รู้จะพูดอะไรกับพวกที่จากไปดี ยิ่งพวกคนหนุ่มสาวด้วยแล้วยิ่งแล้วใหญ่"
+    },
+    {
+      "key": "naytheresistanceneedsaleaderwithawiderviewsomeonewhosnotlivedtheirwholelifeingyrabaniawhosknowndeathandhardshipbutnotbeengrounddownbythem",
+      "text_en": "Nay, the Resistance needs a leader with a wider view. Someone who's not lived their whole life in Gyr Abania; who's known death and hardship but not been ground down by them.",
+      "text": "ไม่หรอก กองกำลังต่อต้านต้องการผู้นำที่มีวิสัยทัศน์กว้างไกลกว่านั้น ใครสักคนที่ไม่ได้ใช้ชีวิตทั้งหมดอยู่ในกีร์ อะบาเนีย คนที่รู้จักความตายและความยากลำบากดี แต่ไม่ยอมปล่อยให้สิ่งเหล่านั้นบดขยี้จนหมดสภาพ"
+    },
+    {
+      "key": "ayeasyoumayhaveguessedivebeenthinkingofaskinglysebutitllbeherdecisionintheend",
+      "text_en": "Aye. As you may have guessed, I've been thinking of asking Lyse. But it'll be her decision in the end.",
+      "text": "ใช่แล้ว อย่างที่เธอคงเดาได้นั่นแหละ ฉันคิดจะทาบทามไลส์อยู่เหมือนกัน แต่สุดท้ายก็ต้องขึ้นอยู่กับการตัดสินใจของเธอเอง"
+    },
+    {
+      "key": "iseewereofonemindshellhavetomakethedecisionforherselfofcourse",
+      "text_en": "I see we're of one mind. She'll have to make the decision for herself, of course.",
+      "text": "ดูท่าเราจะคิดเห็นตรงกัน แน่นอนว่าเธอต้องเป็นคนตัดสินใจด้วยตัวเอง"
+    },
+    {
+      "key": "youvetraveledwithherbeenbyhersidewhensheshadtomakehardchoicesyouveseenheratherworstandherbestifyouthinkshesgotitinherthenshedoes",
+      "text_en": "You've traveled with her. Been by her side when she's had to make hard choices. You've seen her at her worst and her best. If you think she's got it in her, then she does.",
+      "text": "เธอร่วมเดินทางกับไลส์มาตลอด เคียงข้างในยามที่ต้องตัดสินใจเรื่องยากลำบาก ได้เห็นเธอทั้งในยามที่ย่ำแย่และรุ่งโรจน์ที่สุด หากเธอคิดว่าแม่หนูนั่นมีดีพอล่ะก็ เธอก็ทำได้แน่"
+    },
+    {
+      "key": "lookafterherforenameshesourfutureandmyhope",
+      "text_en": "Look after her, Forename . She's our future, and my hope.",
+      "text": "ฝากดูแลเธอด้วยนะ Forename เธอคืออนาคตของพวกเรา และเป็นความหวังของฉัน"
+    },
+    {
+      "key": "hahnowwouldntthatbeasighttheslayerofgodsandsaviorofishgardleadingtheresistanceintobattleyourenotshortofrelevantcombatexperienceillgiveyouthat",
+      "text_en": "Hah, now wouldn't that be a sight! The Slayer of Gods and Savior of Ishgard leading the Resistance into battle. You're not short of relevant combat experience, I'll give you that!",
+      "text": "ฮ่า! ถ้าเป็นอย่างนั้นคงเป็นภาพที่น่าดูพิลึก! ผู้ปราบทวยเทพและผู้กอบกู้อิชการ์ดนำกองกำลังต่อต้านเข้าสู่สนามรบ เรื่องประสบการณ์การต่อสู้ที่คู่ควรล่ะก็ ต้องยอมรับเลยว่าเธอมีเหลือเฟือทีเดียว!"
+    },
+    {
+      "key": "beingseriousthoughivebeenthinkingaboutaskinglysetobemysuccessorshesyoungandworldlystrongandkindabitdaftattimesbutnotsomuchthatitworriesmeespeciallygivenwhativeseenofhersinceshereturned",
+      "text_en": "Being serious, though...I've been thinking about asking Lyse to be my successor. She's young and worldly, strong and kind. A bit daft at times, but not so much that it worries me—especially given what I've seen of her since she returned.",
+      "text": "แต่พูดกันตามจริงนะ... ฉันกำลังคิดเรื่องขอให้ไลส์มาเป็นผู้สืบทอดของฉันอยู่ แม่หนูนั่นยังอายุน้อยแต่ผ่านโลกกว้าง ทั้งเข้มแข็งและใจดี บางทีอาจดูเปิ่นๆ ไปบ้าง แต่ก็ไม่ถึงกับน่ากังวลอะไร—โดยเฉพาะเมื่อดูจากสิ่งที่ฉันเห็นหลังจากเธอกลับมา"
+    },
+    {
+      "key": "lookafterherforenameshesourfutureandmyhope",
+      "text_en": "Look after her, Forename . She's our future, and my hope.",
+      "text": "ฝากดูแลเธอด้วยนะ Forename เธอคืออนาคตของพวกเรา และเป็นความหวังของฉัน"
+    },
+    {
+      "key": "itrustineedntsaythatthisconversationisjustbetweenyouandme",
+      "text_en": "I trust I needn't say that this conversation is just between you and me?",
+      "text": "หวังว่าคงไม่ต้องย้ำนะว่าเรื่องนี้รู้กันแค่เราสองคน"
+    },
+    {
+      "key": "goodboygirlrightthenwedbestheadtocastellumcorviorwhatremainsofitrather",
+      "text_en": "Good boy / girl . Right, then—we'd best head to Castellum Corvi. Or what remains of it, rather.",
+      "text": "ดีมาก เอาละ... พวกเราควรจะมุ่งหน้าไปคาสเทลลัม คอร์วี หรือพูดให้ถูกก็คือ ซากที่ยังเหลืออยู่ของมันน่ะนะ"
+    },
+    {
+      "key": "hernameisobdaweveknowneachothersinceweweresmallwellbegoingonthismissiontogether",
+      "text_en": "Her name is Obda. We've known each other since we were small. We'll be going on this mission together...",
+      "text": "เธอชื่ออ็อบดา เรารู้จักกันมาตั้งแต่ยังเล็ก งานนี้เราจะไปทำภารกิจด้วยกัน..."
+    },
+    {
+      "key": "illprovetothemthatitwasntamistakethatiwasntamistake",
+      "text_en": "I'll prove to them that it wasn't a mistake... ...That I wasn't a mistake.",
+      "text": "ผมจะพิสูจน์ให้ทุกคนเห็นว่านั่นไม่ใช่เรื่องผิดพลาด... ...และตัวผมเองก็ไม่ใช่สิ่งผิดพลาดด้วย"
+    },
+    {
+      "key": "youarethewarrioryesssitisanhonor",
+      "text_en": "You are the warrior, yesss? It is an honor.",
+      "text": "ท่านคือนักรบใช่ไหม... ถือเป็นเกียรติอย่างยิ่ง"
+    },
+    {
+      "key": "isaiditthenandillsayitagainiwontletitallbefornothing",
+      "text_en": "I said it then, and I'll say it again: I won't let it all be for nothing...",
+      "text": "ฉันเคยพูดไว้ยังไง ก็จะพูดแบบเดิมอีกครั้ง... ฉันจะไม่ยอมให้ทุกอย่างต้องสูญเปล่า..."
+    },
+    {
+      "key": "wellleadthewaywhiletheotherunitslaunchtheirownseparateattacksrememberthatweneedtoholdoutuntilmnaagoseestotheflag",
+      "text_en": "We'll lead the way while the other units launch their own separate attacks. Remember that we need to hold out until M'naago sees to the flag.",
+      "text": "พวกเราจะนำทางไปในขณะที่หน่วยอื่นเปิดฉากโจมตีแยกกัน จำไว้ว่าเราต้องยื้อเวลาไว้จนกว่าเอ็มนาโกจะจัดการเรื่องธงเรียบร้อย"
+    },
+    {
+      "key": "gotyourgearinorderanymomentnow",
+      "text_en": "Got your gear in order? Any moment now...",
+      "text": "เตรียมอุปกรณ์ในภาคีเรียบร้อยหรือยัง อีกประเดี๋ยวก็จะได้เวลาแล้ว..."
+    },
+    {
+      "key": "itsbegunthen",
+      "text_en": "It's begun, then.",
+      "text": "เริ่มแล้วสินะ"
+    },
+    {
+      "key": "gooditsthewaitingthatdrivesmemadstandingaroundknowingwhatstocomeillnevergetusedtoit",
+      "text_en": "Good. It's the waiting that drives me mad. Standing around, knowing what's to come. I'll never get used to it.",
+      "text": "ดีเลย การรอคอยนี่แหละที่ทำให้ฉันแทบคลั่ง ต้องยืนรอทั้งที่รู้ว่ากำลังจะเกิดอะไรขึ้น... ฉันไม่มีวันชินกับมันได้เลย"
+    },
+    {
+      "key": "calmdownnaagoyouremakinghimhernervous",
+      "text_en": "Calm down, Naago. You're making him / her nervous.",
+      "text": "ใจเย็นก่อนน่าโก้ เดี๋ยวจะทำให้อีกฝ่ายพลอยลนลานไปด้วยหรอก"
+    },
+    {
+      "key": "wevecomethisfarhaventwewejustneedtomakeittherestoftheway",
+      "text_en": "We've come this far, haven't we? We just need to make it the rest of the way!",
+      "text": "อุตส่าห์ฝ่าฟันมาได้ตั้งไกลถึงขนาดนี้แล้วไม่ใช่หรือ แค่ก้าวต่อไปให้สุดทางเท่านั้น!"
+    },
+    {
+      "key": "right",
+      "text_en": "Right!",
+      "text": "นั่นสินะคะ!"
+    },
+    {
+      "key": "lookslikethebastardswentforthebaitthebridgeisoursforthetaking",
+      "text_en": "Looks like the bastards went for the bait. The bridge is ours for the taking!",
+      "text": "ดูเหมือนพวกสารเลวนั่นจะฮุบเหยื่อล่อแล้ว เดอะบริดจ์ตกเป็นของเราแล้วล่ะ!"
+    },
+    {
+      "key": "nowremembermnaagoiwantyoutomakeforthetowerassoonasyouseeanopeningandgetthatflagflyingwellseetothefighting",
+      "text_en": "Now remember, M'naago: I want you to make for the tower as soon as you see an opening and get that flag flying. We'll see to the fighting.",
+      "text": "จำไว้ล่ะน่าโก้ พอเห็นสบโอกาสเมื่อไหร่ก็รีบมุ่งหน้าไปยังหอคอยแล้วชักธงขึ้นทันที เรื่องรบราทางนี้จะจัดการเอง"
+    },
+    {
+      "key": "iwontletyoudownsir",
+      "text_en": "I won't let you down, sir!",
+      "text": "ฉันจะไม่ทำให้ท่านผิดหวังค่ะ!"
+    },
+    {
+      "key": "comethenrhalgrsstarshallburnbrightthisday",
+      "text_en": "Come, then! Rhalgr's star shall burn bright this day!",
+      "text": "ถ้าอย่างนั้นก็ลุยเลย! วันนี้ดาราแห่งราลเกอร์จะส่องแสงลุกโชน!"
+    },
+    {
+      "key": "quicklynowwevegottoreachvelodynabeforegeneralaldynnandhismenareoverwhelmed",
+      "text_en": "Quickly now! We've got to reach Velodyna before General Aldynn and his men are overwhelmed!",
+      "text": "เร็วเข้า! พวกเราต้องฝ่าเดอะ รีชไปให้ถึงเวโลดีนาก่อนที่นายพลอัลดินน์และทหารของเขาจะต้านทานไม่ไหว!"
+    },
+    {
+      "key": "scoutsdeadaheadiftheyseeustheyllwarntheothers",
+      "text_en": "Scouts, dead ahead! If they see us, they'll warn the others!",
+      "text": "พวกสายสืบอยู่ตรงหน้าพอดี! ถ้าพวกมันเห็นเข้าล่ะก็ มีหวังโร่ไปเตือนคนอื่นแน่!"
+    },
+    {
+      "key": "notifwekillthemfirst",
+      "text_en": "Not if we kill them first!",
+      "text": "ไม่มีทางหรอก ถ้าพวกเราชิงกำจัดพวกมันก่อนเหมือนครั้งในพิภพที่หนึ่ง!"
+    },
+    {
+      "key": "hereitcomes",
+      "text_en": "Here it comes!",
+      "text": "มาแล้ว!"
+    },
+    {
+      "key": "thatsthelastofemletskeepmoving",
+      "text_en": "That's the last of 'em! Let's keep moving!",
+      "text": "หมดแค่นี้แหละ! ลุยต่อเลย!"
+    },
+    {
+      "key": "nosignofsentriesgeneralaldynnmusthavehishandsfull",
+      "text_en": "No sign of sentries. General Aldynn must have his hands full.",
+      "text": "ไร้เงายามตรวจการณ์ นายพลอัลดินน์คงกำลังมือเป็นระวิง"
+    },
+    {
+      "key": "thenletsseizethebridgeandbedonewithit",
+      "text_en": "Then let's seize the bridge and be done with it!",
+      "text": "งั้นก็รีบยึดเดอะบริดจ์ให้จบๆ ไปเลย!"
+    },
+    {
+      "key": "theyveleftatokenforcebehindnothingwecanthandle",
+      "text_en": "They've left a token force behind. Nothing we can't handle!",
+      "text": "พวกมันเหลือทหารไว้แค่หยิบมือเดียว รับมือได้สบายมาก!"
+    },
+    {
+      "key": "fireatwillkilleverylastoneofthesavages",
+      "text_en": "Fire at will! Kill every last one of the savages!",
+      "text": "ยิงตามใจชอบ! กวาดล้างพวกคนเถื่อนให้สิ้นซาก!"
+    },
+    {
+      "key": "cannonstheycouldusethosetofireonnaago",
+      "text_en": "Cannons! They could use those to fire on Naago!",
+      "text": "ปืนใหญ่! พวกมันต้องใช้ยิงถล่มเนาโกะแน่!"
+    },
+    {
+      "key": "takethis",
+      "text_en": "Take this!",
+      "text": "รับไปซะ!"
+    },
+    {
+      "key": "thatsthelastofthecannonsitshouldbesafefornaagonow",
+      "text_en": "That's the last of the cannons! It should be safe for Naago now!",
+      "text": "ปืนใหญ่กระบอกสุดท้ายพังแล้ว! ทีนี้เนาโกะก็ปลอดภัยแล้วล่ะ!"
+    },
+    {
+      "key": "noicantnotyet",
+      "text_en": "No, I can't! Not yet!",
+      "text": "ไม่นะ ผมยังล้มไม่ได้! ยังไม่ใช่ตอนนี้!"
+    },
+    {
+      "key": "damnitall",
+      "text_en": "Damn it all...",
+      "text": "โธ่เอ๊ย..."
+    },
+    {
+      "key": "ughthatsitforme",
+      "text_en": "Ugh... That's it for me...",
+      "text": "อึก... ข้าพเจ้าคงมาได้แค่นี้..."
+    },
+    {
+      "key": "thinkyourecleverwithallyourlittletricksthinkagainnoneofyouareleavingherealive",
+      "text_en": "Think you're clever with all your little tricks? Think again! None of you are leaving here alive!",
+      "text": "คิดว่าเล่ห์กลเล็กๆ น้อยๆ ของพวกเจ้ามันฉลาดนักหรือ ฝันไปเถอะ! พวกเจ้าไม่มีใครรอดชีวิตออกไปจากที่นี่ได้หรอก!"
+    },
+    {
+      "key": "youmayhavesurvivedthereachherobutthistimeyouwontbesolucky",
+      "text_en": "You may have survived the Reach, hero , but this time you won't be so lucky.",
+      "text": "เจ้าอาจรอดชีวิตจากเดอะ รีชมาได้ เจ้าผู้กล้า แต่คราวนี้ดวงของเจ้าคงหมดลงแล้ว"
+    },
+    {
+      "key": "thisbridgebelongstotheempireiamnotabouttogiveitup",
+      "text_en": "This bridge belongs to the Empire! I am not about to give it up!",
+      "text": "เดอะบริดจ์นี้เป็นของจักรวรรดิ! เราไม่มีวันยกมันให้ใครเด็ดขาด!"
+    },
+    {
+      "key": "die",
+      "text_en": "Die!",
+      "text": "ตายซะ!"
+    },
+    {
+      "key": "hrah",
+      "text_en": "Hrah!",
+      "text": "ย้าก!"
+    },
+    {
+      "key": "heroornotyoulldiejustlikealltherest",
+      "text_en": "Hero or not, you'll die just like all the rest!",
+      "text": "ต่อให้เป็นผู้กล้า เจ้าก็ต้องตายเหมือนคนอื่นๆ อยู่ดี!"
+    },
+    {
+      "key": "howsthat",
+      "text_en": "How's that!?",
+      "text": "เป็นอย่างไรล่ะ!"
+    },
+    {
+      "key": "thisismybridgeyouarenottakingthisfromme",
+      "text_en": "This is MY BRIDGE! You are NOT taking this from me!",
+      "text": "นี่คือเดอะบริดจ์ของเรา! เจ้าไม่มีวันแย่งมันไปจากเราได้!"
+    },
+    {
+      "key": "meetmynewfriend",
+      "text_en": "Meet my new friend!",
+      "text": "มาทำความรู้จักกับเพื่อนใหม่ของฉันหน่อย!"
+    },
+    {
+      "key": "naagomadeitweveonlygottoholdonalittlelonger",
+      "text_en": "Naago made it! We've only got to hold on a little longer...",
+      "text": "นาโกทำสำเร็จแล้ว! อดทนอีกนิดเดียวเท่านั้น..."
+    },
+    {
+      "key": "godsdamnyou",
+      "text_en": "Gods damn you!",
+      "text": "หนอย! ไอ้พวกแก!"
+    },
+    {
+      "key": "nomorerunningnomorehidingletsfinishthis",
+      "text_en": "No more running. No more hiding! Let's finish this!",
+      "text": "ไม่ต้องหนีอีกแล้ว ไม่ต้องซ่อนตัวอีกต่อไป! มาจบเรื่องนี้กันเสียที!"
+    },
+    {
+      "key": "looktheflag",
+      "text_en": "Look! The flag!",
+      "text": "ดูนั่นสิ! ธงนั่น!"
+    },
+    {
+      "key": "thebridgeisoursalamhigoalamhigoalamhigo",
+      "text_en": "The bridge is ours! Ala Mhigo, Ala Mhigo, Ala Mhigo!",
+      "text": "เดอะบริดจ์เป็นของเราแล้ว! อลา มิโก อลา มิโก อลา มิโก!"
+    },
+    {
+      "key": "standyourgrounditsnotoveryet",
+      "text_en": "Stand your ground! It's not over yet!",
+      "text": "ตรึงกำลังไว้! ยังไม่จบแค่นี้หรอก!"
+    },
+    {
+      "key": "damnit",
+      "text_en": "Damn it!",
+      "text": "เจ็บใจนัก!"
+    },
+    {
+      "key": "letthemgolysewevedonewhatwecameheretodothatsenoughfornow",
+      "text_en": "Let them go, Lyse! We've done what we came here to do. That's enough for now.",
+      "text": "ปล่อยไปเถอะ ลีส! งานของเราที่นี่ลุล่วงแล้ว เท่านี้ก็พอแล้วละ"
+    },
+    {
+      "key": "velodynaisfallenimpossible",
+      "text_en": "Velodyna is fallen!? Impossible!",
+      "text": "เวโลดีนาแตกพ่ายแล้วรึ!? เป็นไปไม่ได้!"
+    },
+    {
+      "key": "wehavethemontherunforwardnomercy",
+      "text_en": "We have them on the run! Forward! No mercy!",
+      "text": "พวกมันหนีเตลิดแล้ว! บุกเข้าไป! อย่าปรานี!"
+    },
+    {
+      "key": "regroupregroupwehavetoregroupallunitsfallback",
+      "text_en": "Regroup, regroup....We have to regroup! All units—Fall back!",
+      "text": "รวมพลก่อน รวมพลก่อน... ต้องรวมพลใหม่! ทุกหน่วย—ถอย!"
+    },
+    {
+      "key": "commanderthe4thcohorthasbeenroutedwellbeatthemercyoftheenemysreinforcementsifwedontfallbacknow",
+      "text_en": "Commander! the 4th Cohort has been routed! We'll be at the mercy of the enemy's reinforcements if we don't fall back now!",
+      "text": "ผู้บัญชาการครับ! กองพันที่ 4 แตกพ่ายไปแล้ว! ถ้าไม่ถอยตอนนี้ กำลังเสริมของศัตรูจะบดขยี้เราจนหมดสิ้น!"
+    },
+    {
+      "key": "idiotwehavethestrongerforcebyfardontbetakeninbytheirtricksorwouldyourathertellzenosyoulosttothisrabble",
+      "text_en": "Idiot! We have the stronger force by far! Don't be taken in by their tricks! Or would you rather tell Zenos you lost to this rabble!?",
+      "text": "ไอ้โง่เอ๊ย! กำลังของเราเหนือกว่าตั้งเยอะ! อย่าไปหลงกลพวกมัน! หรือแกอยากจะไปบอกเซนอสว่าแพ้พวกสวะพรรค์นี้!?"
+    },
+    {
+      "key": "nobutifthesnakesbetrayusintheconfusionwellhavenowayoutimbeggingyoucommandergivetheorderorwellalldiehere",
+      "text_en": "No, but if the snakes betray us in the confusion, we'll have no way out! I'm begging you, Commander—give the order, or we'll all die here!",
+      "text": "เปล่าครับ แต่ถ้าพวกงูทรยศเราท่ามกลางความสับสนนี้ เราจะไม่มีทางหนีเลย! ขอร้องละครับผู้บัญชาการ—ออกภาคีเถอะ ไม่งั้นได้ตายกันหมดที่นี่แน่!"
+    },
+    {
+      "key": "ascommontraitorswhodrankofmuddiedwatersforallthegooditdidus",
+      "text_en": "...As common traitors who drank of muddied waters. For all the good it did us.",
+      "text": "...ในฐานะคนทรยศธรรมดาๆ ที่ยอมดื่มน้ำโคลนตม ทั้งที่มันไม่ได้ช่วยให้อะไรดีขึ้นเลยสักนิด"
+    },
+    {
+      "key": "skullswithmethedayistheirsandsoisthisbastardbridgesomeonebringthesnake",
+      "text_en": "Skulls, with me! The day is theirs, and so is this bastard bridge. Someone bring the snake!",
+      "text": "หน่วยสกัลส์ ตามฉันมา! วันนี้เป็นของพวกมัน และเดอะบริดจ์เฮงซวยนี่ก็ด้วย ใครก็ได้ไปลากตัวนางงูนั่นมา!"
+    },
+    {
+      "key": "isupposeitsourfirstvictoryisntitandthathastobeworthsomething",
+      "text_en": "...I suppose. It's our first victory, isn't it? and that has to be worth something.",
+      "text": "...ก็คงอย่างนั้น นี่คือเรือวิกตอรีแห่งพิภพที่หนึ่งของเราไม่ใช่หรือ อย่างน้อยมันก็ต้องมีค่าบ้างละ"
+    },
+    {
+      "key": "foramomentthereididntthinkicoulddoitbutthenidid",
+      "text_en": "<pant> <pant> For a moment there, I didn't think I could do it...but then I did!",
+      "text": "*แฮ่ก... แฮ่ก...* เมื่อกี้ใจหายวาบ คิดว่าจะทำไม่ได้ซะแล้ว... แต่ในที่สุดก็ทำสำเร็จ!"
+    },
+    {
+      "key": "sssoyouareindeedeverythingtheysssaythessstuffoflegends",
+      "text_en": "Ssso, you are indeed everything they sssay. The ssstuff of legends...",
+      "text": "ซซซะ... ท่านเป็นอย่างที่เขาเล่าลือกันจริงๆ... สมเป็นตำนาน..."
+    },
+    {
+      "key": "didyouseethataabaauliewedidit",
+      "text_en": "Did you see that, A'aba, Aulie? We did it!",
+      "text": "เห็นหรือยัง อาบา เอาลี... พวกเราทำสำเร็จแล้ว!"
+    },
+    {
+      "key": "wellfoughtbrothersandsisterstodayisadaythatwillberememberedforgenerationstocome",
+      "text_en": "Well fought, brothers and sisters! Today is a day that will be remembered for generations to come!",
+      "text": "สู้ได้ดีมาก เหล่าพี่น้องและเดอะซิสเตอร์ส! วันนี้จะจารึกอยู่ในใจผู้คนไปอีกหลายชั่วอายุคน!"
+    },
+    {
+      "key": "itsashamefordolagotawaybutwedidwhatwecameheretodo",
+      "text_en": "It's a shame Fordola got away, but we did what we came here to do.",
+      "text": "น่าเสียดายที่ฟอร์ดอลาหนีรอดไปได้ แต่เป้าหมายที่พวกเราตั้งใจไว้ก็สำเร็จลุล่วงแล้วล่ะ"
+    },
+    {
+      "key": "ihavetoremindmyselfitsjustthefirststepbutitsabigoneweregoingtotakeitbackallofitoneilmatatimeifwehaveto",
+      "text_en": "I have to remind myself it's just the first step...but it's a big one. We're going to take it back...all of it—one ilm at a time if we have to!",
+      "text": "ต้องคอยเตือนตัวเองว่านี่เป็นเพียงเดอะ เฟิสต์... ก้าวแรกสู่พิภพที่หนึ่ง แต่มันก็เป็นก้าวที่ยิ่งใหญ่เหลือเกิน พวกเราจะชิงคืนมาให้หมดทุกอย่าง... ต่อให้ต้องยึดคืนทีละอิลม์ก็ตามที!"
+    }
+  ]
+}

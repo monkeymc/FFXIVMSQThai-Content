@@ -1,0 +1,780 @@
+{
+  "quest_id": "a-requiem-for-heroes",
+  "dialogues": [
+    {
+      "key": "commanderaldynniswaitingmylordladyitwouldbebestifweproceededtoallianceheadquartersatonce",
+      "text_en": "Commander Aldynn is waiting, my lord / lady . It would be best if we proceeded to Alliance Headquarters at once.",
+      "text": "ท่านผู้บัญชาการอัลดีนกำลังรอท่านอยู่ขอรับ เราควรรีบเดินทางไปยังกองบัญชาการภาคีพันธมิตรกันทันทีเลยจะดีกว่า"
+    },
+    {
+      "key": "areyouready",
+      "text_en": "Are you ready?",
+      "text": "ท่านพร้อมแล้วหรือยังขอรับ"
+    },
+    {
+      "key": "youreheregoodisummonedyoutodiscussstrategybutfirstiwouldappriseyouofthegarleansmovements",
+      "text_en": "You're here. Good. I summoned you to discuss strategy, but first I would apprise you of the Garleans' movements.",
+      "text": "มาถึงแล้วรึ ดีจริง ที่เรียกมาก็เพื่อหารือเรื่องกลยุทธ์ แต่ก่อนอื่นในพิภพที่หนึ่ง อยากแจ้งความเคลื่อนไหวของชาวการ์เลียนให้ทราบก่อน"
+    },
+    {
+      "key": "therehavebeenseveralskirmishesalongtheborderbutasyetneithersidehasdeliveredadecisiveblow",
+      "text_en": "There have been several skirmishes along the border, but as yet, neither side has delivered a decisive blow.",
+      "text": "เกิดการปะทะย่อยๆ ขึ้นหลายระลอกตามแนวชายแดน แต่จนถึงตอนนี้ก็ยังไม่มีฝ่ายใดลงดาบเผด็จศึกได้อย่างเด็ดขาด"
+    },
+    {
+      "key": "wehadlongassumedthatthegarleanswouldoverwhelmusinastraightfightbutweseemtobegaininggroundalbeitslowly",
+      "text_en": "We had long assumed that the Garleans would overwhelm us in a straight fight, but we seem to be gaining ground, albeit slowly.",
+      "text": "ข้าเคยคิดมาตลอดว่าหากต้องปะทะกันซึ่งหน้า พวกชาวการ์เลียนคงบดขยี้เราจนยับเยิน แต่ตอนนี้ดูเหมือนฝ่ายเราจะเริ่มรุกคืบยึดพื้นที่คืนได้ทีละน้อย แม้จะเป็นไปอย่างเชื่องช้าก็ตาม"
+    },
+    {
+      "key": "astowhythatmightbethemostlikelyexplanationisthattheyhaveyettocommitalltheirforcesstillwerewinningandourlatestintelligencesuggeststheemperorhasretreatedbacktogarlemald",
+      "text_en": "As to why that might be... The most likely explanation is that they have yet to commit all their forces. Still, we're winning, and our latest intelligence suggests the Emperor has retreated back to Garlemald.",
+      "text": "ส่วนสาเหตุที่เป็นเช่นนั้น... น่าจะเป็นเพราะพวกมันยังไม่ได้ทุ่มกำลังทั้งหมดลงมา แต่ถึงอย่างนั้นเราก็ยังเป็นฝ่ายกุมชัยชนะ และสายข่าวล่าสุดรายงานว่าองค์จักรพรรดิถอยทัพกลับไปยังการ์เลมัลด์แล้ว"
+    },
+    {
+      "key": "inlightofthiswereconsideringlaunchinganoffensivewiththeaimofpushingthefrontlineforwardandgivingourselvessomeroomtobreathe",
+      "text_en": "In light of this, we're considering launching an offensive, with the aim of pushing the front line forward, and giving ourselves some room to breathe.",
+      "text": "เมื่อสถานการณ์เป็นใจเช่นนี้ ข้าจึงคิดจะเปิดฉากบุกโจมตีเพื่อดันแนวรบให้รุกคืบไปข้างหน้า อย่างน้อยก็ช่วยให้พวกเราได้มีโอกาสหายใจหายคอบ้าง"
+    },
+    {
+      "key": "commandertheimperialstheyvebrokenthroughourdefensestotheeast",
+      "text_en": "Commander! The imperials─they've broken through our defenses to the east.",
+      "text": "ท่านผู้บัญชาการครับ! พวกทหารจักรวรรดิ—พวกมันตีฝ่าแนวป้องกันทางทิศตะวันออกเข้ามาได้แล้วครับ!"
+    },
+    {
+      "key": "what",
+      "text_en": "What!?",
+      "text": "ว่ายังไงนะ!?"
+    },
+    {
+      "key": "ourscoutssaytheirforcesarebeingledbylordzenos",
+      "text_en": "Our scouts say their forces are being led by Lord Zenos!",
+      "text": "หน่วยสอดแนมรายงานว่า กองทัพของพวกมันมีท่านเซนอสเป็นผู้นำทัพครับ!"
+    },
+    {
+      "key": "lordhienandcommanderhexthavetakentheirtroopstoprovidesupportbutwedontknowhowlongtheycanholdout",
+      "text_en": "Lord Hien and Commander Hext have taken their troops to provide support, but we don't know how long they can hold out.",
+      "text": "ท่านฮิเอนกับผู้บัญชาการเฮกส์รีบนำกองกำลังเข้าไปช่วยหนุนแล้ว แต่ไม่รู้ว่าจะยื้อไว้ได้นานแค่ไหนครับ!"
+    },
+    {
+      "key": "sotheyvebeenbidingtheirtimewaitingforhisarrivalhavethey",
+      "text_en": "So they've been biding their time, waiting for his arrival, have they?",
+      "text": "ที่แท้ก็กบดานรอการมาถึงของหมอนั่นอยู่สินะ"
+    },
+    {
+      "key": "verywellsendwordtoouralliesrequestingreinforcementsforthefrontline",
+      "text_en": "Very well. Send word to our allies, requesting reinforcements for the front line.",
+      "text": "ตกลง ส่งพระวจนะไปแจ้งพันธมิตรของเรา ขอแรงสนับสนุนมาช่วยที่แนวหน้าโดยด่วน"
+    },
+    {
+      "key": "shouldtheworstcometotheworstimayneedtoenterthefraymyselfbutwhatofyoudoyoustillhavethestrengthtofight",
+      "text_en": "Should the worst come to the worst, I may need to enter the fray myself. But what of you? Do you still have the strength to fight?",
+      "text": "หากเกิดเรื่องเลวร้ายที่สุด ข้าคงต้องลงสนามรบด้วยตัวเอง แล้วเจ้าล่ะ ยังมีแรงพอจะสู้อยู่ไหม"
+    },
+    {
+      "key": "muchobligedgiventhechoiceidtakeyouoverahundredsoldiers",
+      "text_en": "Much obliged. Given the choice, I'd take you over a hundred soldiers.",
+      "text": "ขอบใจเจ้ามาก หากเลือกได้ ข้าขอเลือกเจ้าเพียงคนเดียว ดีกว่าได้ทหารนับร้อยนายเสียอีก"
+    },
+    {
+      "key": "hemaynotdieassuchbuttoseelordzenosfallonthebattlefieldwoulddealaheavyblowtoimperialmoraleillseetoitthemenstayclear",
+      "text_en": "He may not die as such, but to see Lord Zenos fall on the battlefield would deal a heavy blow to imperial morale. I'll see to it the men stay clear.",
+      "text": "ถึงหมอนั่นจะไม่มีวันตายง่ายๆ แต่การได้เห็นเซนอสพ่ายแพ้คาสนามรบ ย่อมบั่นทอนขวัญกำลังใจของพวกทหารจักรวรรดิได้อย่างมหาศาล ข้าจะสั่งให้พวกทหารหลีกทางให้เอง"
+    },
+    {
+      "key": "whywonttheyopen",
+      "text_en": "Why won't they open?",
+      "text": "ทำไม...ทำไมถึงไม่เปิดออกเสียที..."
+    },
+    {
+      "key": "pleaseibidyouopen",
+      "text_en": "Please...I bid you, open...!",
+      "text": "ได้โปรด...ขอร้องละ เปิดออกทีเถอะ...!"
+    },
+    {
+      "key": "whatswrongisitthevoiceagain",
+      "text_en": "What's wrong? Is it the voice again?",
+      "text": "เป็นอะไรไป ได้ยินเสียงนั่นอีกแล้วรึ"
+    },
+    {
+      "key": "areyousureyoureinafitstatetodothis",
+      "text_en": "Are you sure you're in a fit state to do this?",
+      "text": "แน่ใจนะว่าร่างกายยังไหวอยู่น่ะ"
+    },
+    {
+      "key": "mayrhalgrgrantusstrength",
+      "text_en": "May Rhalgr grant us strength...",
+      "text": "ขอองค์ราลเกอร์ประทานกำลังให้พวกเราด้วยเถิด..."
+    },
+    {
+      "key": "givethemhellladlassiformypartwilldefendthisplacetomydyingbreath",
+      "text_en": "Give them hell, lad / lass . I, for my part, will defend this place to my dying breath.",
+      "text": "อัดพวกมันให้ยับเลยนะเจ้าหนู ส่วนฉันจะปกป้องที่นี่จนสิ้นลมหายใจสุดท้ายเอง"
+    },
+    {
+      "key": "sotherearestillthosewillingtostandagainstthecrownprinceinteresting",
+      "text_en": "So, there are still those willing to stand against the crown prince. Interesting...",
+      "text": "ยังมีพวกที่กล้าลุกขึ้นสู้กับองค์รัชทายาทอีกรึ น่าสนใจจริง..."
+    },
+    {
+      "key": "letsputanendtothishereandnow",
+      "text_en": "Let's put an end to this here and now!",
+      "text": "มาจบเรื่องนี้กันตรงนี้ เดี๋ยวนี้เลย!"
+    },
+    {
+      "key": "doyoutrulybelievethatpossiblethenletustestthelimitsofthisgarleanvessel",
+      "text_en": "Do you truly believe that possible? Then let us test the limits of this Garlean vessel.",
+      "text": "คิดว่าทำได้จริงรึ ถ้าอย่างนั้นก็มาทดสอบขีดจำกัดของร่างเนื้อการ์เลียนนี้กันหน่อยเป็นไง"
+    },
+    {
+      "key": "aformidablefoebutwehavecometoofartofailnow",
+      "text_en": "A formidable foe... But we have come too far to fail now.",
+      "text": "ช่างเป็นศัตรูที่ร้ายกาจ... แต่เรามาไกลเกินกว่าจะล้มเหลวเอาตอนนี้"
+    },
+    {
+      "key": "soonishallgivethelietomansindomitablespirit",
+      "text_en": "Soon I shall give the lie to man's indomitable spirit.",
+      "text": "อีกไม่ช้า เราจะพิสูจน์ให้เห็นเองว่าจิตวิญญาณอันไม่ยอมสยบของมนุษย์เป็นเพียงเรื่องลวงโลก"
+    },
+    {
+      "key": "strengthmyfriendsitwouldnotdotohaveforenamearrivetofindusbatteredandbroken",
+      "text_en": "Strength, my friends! It would not do to have Forename arrive to find us battered and broken!",
+      "text": "เข้มแข็งไว้ เพื่อนยาก! จะให้ Forename มาเห็นพวกเราในสภาพสะบักสะบอมไม่ได้เด็ดขาด!"
+    },
+    {
+      "key": "fightandstruggleifthatisyourwontbutyouwillnotescapeyourfate",
+      "text_en": "Fight and struggle if that is your wont, but you will not escape your fate.",
+      "text": "ดิ้นรนต่อสู้เข้าไปเถอะหากใจเจ้าปรารถนา แต่ไม่มีวันหนีพ้นชะตากรรมไปได้หรอก"
+    },
+    {
+      "key": "ourfateisnotforyoutodecide",
+      "text_en": "Our fate is not for you to decide!",
+      "text": "ชะตากรรมของพวกเรา ไม่ใช่เรื่องที่แกจะมาตัดสิน!"
+    },
+    {
+      "key": "enoughyouwilllearnyourplace",
+      "text_en": "Enough! You will learn your place.",
+      "text": "พอที! เจ้าจะได้รู้จักที่ต่ำที่สูงเสียที"
+    },
+    {
+      "key": "beholdatasteofmytruepower",
+      "text_en": "Behold─a taste of my true power!",
+      "text": "จงดู—แล้วลิ้มรสพลังที่แท้จริงของเราเสีย!"
+    },
+    {
+      "key": "grrrnghwhatisthissorcery",
+      "text_en": "Grrr... Ngh... What is this sorcery!?",
+      "text": "อึก... อือ... นี่มันเวทมนตร์คาถาอะไรกัน!?"
+    },
+    {
+      "key": "lookuponamenohabakiriandknowthedepthsofyourfolly",
+      "text_en": "Look upon Ame-no-Habakiri and know the depths of your folly!",
+      "text": "จงมองดูอาเมะโนะฮาบาคิริ แล้วสำนึกถึงความโง่เขลาเบาปัญญาของเจ้าเสีย!"
+    },
+    {
+      "key": "ohnoyoudont",
+      "text_en": "Oh no you don't!",
+      "text": "อย่าหวังเลย!"
+    },
+    {
+      "key": "lysenowhathaveyoudone",
+      "text_en": "Lyse, no... What have you done!?",
+      "text": "ไลส์ อย่า... ทำอะไรลงไปน่ะ!?"
+    },
+    {
+      "key": "ifhewouldbringalltobearthensomustwe",
+      "text_en": "If he would bring all to bear then so must we!",
+      "text": "หากมันจะทุ่มเททุกสิ่งที่มี พวกเราก็ต้องทำเช่นกัน!"
+    },
+    {
+      "key": "welldonedispellinghisphantomsnowhurrywemustprotectlyse",
+      "text_en": "Well done dispelling his phantoms. Now hurry, we must protect Lyse!",
+      "text": "ดีมากที่ทำลายร่างจำแลงของมันได้ รีบเข้า ต้องปกป้องไลส์!"
+    },
+    {
+      "key": "stillyouchoosetostruggleagainsttheinevitable",
+      "text_en": "Still you choose to struggle against the inevitable...",
+      "text": "ยังคิดจะดิ้นรนขัดขืนต่อชะตากรรมที่มิอาจเลี่ยงอยู่อีกหรือ..."
+    },
+    {
+      "key": "wemaybeonthebackfootbutitsnotoveryet",
+      "text_en": "We may be on the back foot, but it's not over yet!",
+      "text": "ถึงจะตกเป็นรอง แต่ก็ยังไม่จบแค่นี้หรอก!"
+    },
+    {
+      "key": "ifwecanatleastholdoutuntilforenamearrivesimsurewecanturnthisaround",
+      "text_en": "If we can at least hold out until Forename arrives, I'm sure we can turn this around.",
+      "text": "ขอแค่ยื้อเวลาไว้จนกว่า[ชื่อตัวละคร]จะมาถึง ต้องพลิกสถานการณ์กลับมาได้แน่!"
+    },
+    {
+      "key": "heshecomesdoesheshethenineednotwastemytimeonyou",
+      "text_en": "He / She comes, does he / she ? Then I need not waste my time on you.",
+      "text": "กำลังมางั้นรึ... ถ้าอย่างนั้น ข้าก็ไม่จำเป็นต้องเสียเวลากับพวกเจ้าอีกต่อไป"
+    },
+    {
+      "key": "fallfiend",
+      "text_en": "Fall, fiend!",
+      "text": "จงล้มลงไปซะ เจ้าอสูรร้าย!"
+    },
+    {
+      "key": "yugiri",
+      "text_en": "Yugiri!",
+      "text": "ยูกิริ!"
+    },
+    {
+      "key": "damnyou",
+      "text_en": "Damn you!",
+      "text": "หนอยแน่!"
+    },
+    {
+      "key": "magicwithagarleanbodythatshardlyfair",
+      "text_en": "Magic? With a Garlean body? That's hardly fair...",
+      "text": "เวทมนตร์งั้นรึ ทั้งที่เป็นร่างของชาวการ์เลียนเนี่ยนะ... แบบนี้มันไม่ยุติธรรมเลยสักนิด"
+    },
+    {
+      "key": "stillhemustbestoppednomatterthecost",
+      "text_en": "Still, he must be stopped...no matter the cost...",
+      "text": "แต่ถึงอย่างนั้น ก็ต้องหยุดมันให้ได้... ไม่ว่าจะต้องแลกด้วยอะไรก็ตาม..."
+    },
+    {
+      "key": "ahbringeroflightithasbeentoolong",
+      "text_en": "Ah, Bringer of Light. It has been too long.",
+      "text": "อา ผู้นำแสงสว่าง ไม่ได้เจอกันเสียนานเลยนะ"
+    },
+    {
+      "key": "nowordstomarkourreunionsobeit",
+      "text_en": "No words to mark our reunion? ...So be it.",
+      "text": "ไม่มีคำพูดใดเพื่อฉลองการเรอูเนียงของเราเลยรึ... ถ้าอย่างนั้นก็ตามใจ"
+    },
+    {
+      "key": "equilibriummustberestoredandonlyyourdeathwillredressthebalance",
+      "text_en": "Equilibrium must be restored... And only your death will redress the balance.",
+      "text": "ต้องฟื้นคืนความสมดุลกลับมา... และมีเพียงความตายของเจ้าเท่านั้นที่จะคืนดุลยภาพนั้นได้"
+    },
+    {
+      "key": "wewillsufferyourinterferencenolonger",
+      "text_en": "We will suffer your interference no longer.",
+      "text": "เราจะไม่ยอมให้เจ้าเข้ามาขัดขวางอีกต่อไปแล้ว"
+    },
+    {
+      "key": "thetimeforgameshaspassed",
+      "text_en": "The time for games has passed.",
+      "text": "หมดเวลาเล่นสนุกแล้ว"
+    },
+    {
+      "key": "youthinkyouknowofthedarkbutiwillshowyouthetruenatureofourpower",
+      "text_en": "You think you know of the dark, but I will show you the true nature of our power!",
+      "text": "เจ้าคิดว่ารู้จักความมืดดีแล้วงั้นรึ ข้าจะแสดงให้เห็นเองว่าพลังที่แท้จริงของเราเป็นอย่างไร!"
+    },
+    {
+      "key": "thepotentialofthisvesselistranscendentwithoutlimit",
+      "text_en": "The potential of this vessel is transcendent─without limit!",
+      "text": "ศักยภาพของร่างสถิตนี้ช่างเหนือล้ำ... ไร้ซึ่งขีดจำกัด!"
+    },
+    {
+      "key": "youarestrongbringeroflightbutherblessingwillavailyounot",
+      "text_en": "You are strong, Bringer of Light, but Her blessing will avail you not.",
+      "text": "เจ้าแข็งแกร่งมาก ผู้นำแสงสว่าง แต่พรของนางจะช่วยอะไรเจ้าไม่ได้หรอก"
+    },
+    {
+      "key": "thisendsnow",
+      "text_en": "This ends now!",
+      "text": "ทุกอย่างต้องจบลงเดี๋ยวนี้!"
+    },
+    {
+      "key": "toredressthebalancetoensurethesalvationofthisstaryoumustfall",
+      "text_en": "To redress the balance─to ensure the salvation of this star─you must fall!",
+      "text": "เพื่อคืนดุลยภาพ... เพื่อปกป้องดวงดาวดวงนี้... เจ้าต้องล่มสลายไป!"
+    },
+    {
+      "key": "impossiblehowisityouhavegrownsopowerfulinthegift",
+      "text_en": "Impossible... How is it you have grown so powerful in the gift!?",
+      "text": "เป็นไปไม่ได้... เหตุใดเจ้าถึงได้ทรงพลังในพรสวรรค์นี้ขึ้นมาได้ถึงเพียงนี้!?"
+    },
+    {
+      "key": "nomatteryoumayhavebestedlahabreabutiwillnotbecastasidesoeasily",
+      "text_en": "No matter... You may have bested Lahabrea, but I will not be cast aside so easily!",
+      "text": "ช่างมันเถอะ... เจ้าอาจจะเคยเอาชนะลาฮาเบรอามาได้ แต่ข้าจะไม่ยอมปราชัยง่ายๆ แบบนั้นแน่!"
+    },
+    {
+      "key": "swiftshallbeyourdestruction",
+      "text_en": "Swift shall be your destruction!",
+      "text": "ความพินาศของเจ้าจะมาถึงในพริบตา!"
+    },
+    {
+      "key": "yourmotherchoseherchampionwell",
+      "text_en": "Your Mother chose Her champion well.",
+      "text": "พระแม่ของเจ้าเลือกผู้พิทักษ์ได้ยอดเยี่ยมยิ่งนัก"
+    },
+    {
+      "key": "yetforallyourstrengthyouwillstillfail",
+      "text_en": "Yet for all your strength, you will still fail.",
+      "text": "แต่ต่อให้แข็งแกร่งเพียงใด เจ้าก็ไม่มีวันพ้นความพ่ายแพ้"
+    },
+    {
+      "key": "pleaseibeseechyou",
+      "text_en": "Please... I beseech you...",
+      "text": "ได้โปรด... ข้าขออ้อนวอนท่าน..."
+    },
+    {
+      "key": "hmsomeonecallstoyou",
+      "text_en": "Hm? Someone calls to you...",
+      "text": "หืม? ใครบางคนกำลังเรียกหาเจ้า..."
+    },
+    {
+      "key": "toolatealas",
+      "text_en": "Too late, alas.",
+      "text": "ช่างน่าเสียดาย สายเกินไปเสียแล้ว"
+    },
+    {
+      "key": "atlastivefoundyou",
+      "text_en": "At last, I've found you.",
+      "text": "ในที่สุด ข้าก็พบท่าน"
+    },
+    {
+      "key": "pleasethereisnocauseforalarm",
+      "text_en": "Please! There is no cause for alarm!",
+      "text": "ได้โปรด! อย่าได้ตื่นตระหนกไปเลย!"
+    },
+    {
+      "key": "thoughiconfessthisisnotwhereihadintendedtomeet",
+      "text_en": "...Though, I confess, this is not where I had intended to meet.",
+      "text": "...ทว่า ข้าต้องสารภาพตามตรงว่านี่ไม่ใช่สถานที่ที่ข้าตั้งใจจะพบท่าน"
+    },
+    {
+      "key": "buttheplaceofourmeetingisofnoconsequencelikethewaryouwagewinorlosethepathyouwalkleadsonlytooblivion",
+      "text_en": "But the place of our meeting is of no consequence─like the war you wage. Win or lose, the path you walk leads only to oblivion.",
+      "text": "แต่สถานที่พบกันนั้นหาใช่เรื่องสำคัญไม่—ไม่ต่างจากสงครามที่ท่านกำลังเผชิญอยู่ ไม่ว่าจะชนะหรือพ่ายแพ้ เส้นทางที่ท่านเดินก็มีแต่จะนำไปสู่ความสูญสิ้น"
+    },
+    {
+      "key": "thebetterpathleadsyouheretomeihaveneedofyourstrength",
+      "text_en": "The better path leads you here. To me. I have need of your strength.",
+      "text": "เส้นทางที่ดีกว่าจะนำท่านมาที่นี่ มาหาข้า ข้าต้องการพลังของท่าน"
+    },
+    {
+      "key": "iamafraidsuchquestionswillhavetowaitwehavepreciouslittletimeandyourworkisnotyetdone",
+      "text_en": "I am afraid such questions will have to wait. We have precious little time, and your work is not yet done.",
+      "text": "เกรงว่าคำถามเหล่านั้นคงต้องพักไว้ก่อน เวลาของเราเหลือน้อยเต็มที และงานของท่านยังไม่เสร็จสิ้น"
+    },
+    {
+      "key": "thebattleisoverthedangerpassedbutyourworkisnotyetdone",
+      "text_en": "The battle is over. The danger passed. But your work is not yet done.",
+      "text": "การต่อสู้สิ้นสุดลงแล้ว ภัยอันตรายผ่านพ้นไปแล้ว ทว่างานของท่านยังไม่เสร็จสิ้น"
+    },
+    {
+      "key": "gotothecrystaltowerihaveleftsomethingforyounearitsbase",
+      "text_en": "Go to the Crystal Tower. I have left something for you near its base.",
+      "text": "จงไปที่คริสตัลทาวเวอร์ ข้าได้ทิ้งบางสิ่งไว้ให้ท่านใกล้กับฐานของมัน"
+    },
+    {
+      "key": "itwillserveasabeaconofsortsonewhichipraywillhelpyouonyourjourney",
+      "text_en": "It will serve as a beacon of sorts. One which I pray will help you on your journey.",
+      "text": "สิ่งนั้นจะทำหน้าที่เสมือนสัญญาณนำทาง สัญญาณที่ข้าสวดอ้อนวอนขอให้ช่วยนำทางท่านในการเดินทางครั้งนี้"
+    },
+    {
+      "key": "allyouneeddoisfinditiwilltakecareoftherest",
+      "text_en": "All you need do is find it. I will take care of the rest.",
+      "text": "ท่านเพียงแค่ต้องหามันให้พบ ส่วนที่เหลือข้าจะจัดการเอง"
+    },
+    {
+      "key": "soonwewillthrowwidethegates",
+      "text_en": "Soon we will throw wide the gates...",
+      "text": "อีกไม่ช้า เราจะเปิดประตูบานใหญ่ให้กว้างออก..."
+    },
+    {
+      "key": "andthepathtothefirstwillbeyourstowalkatlast",
+      "text_en": "And the path to the First will be yours to walk at last.",
+      "text": "และในที่สุด เส้นทางสู่พิภพที่หนึ่งก็เปิดออกให้ท่านได้ก้าวเดิน"
+    },
+    {
+      "key": "youreawakethankheavens",
+      "text_en": "You're awake. Thank heavens!",
+      "text": "ท่านฟื้นแล้ว ขอบคุณสวรรค์!"
+    },
+    {
+      "key": "doyourecalltheconfrontationwithzenosyouwerethefirsttocometotheaidofmistresslyseandtheothersonthefrontline",
+      "text_en": "Do you recall the confrontation with Zenos? You were the first to come to the aid of Mistress Lyse and the others on the front line.",
+      "text": "ยังจำการปะทะกับเซนอสได้หรือไม่ครับ ตอนนั้นท่านเป็นคนแรกที่รุดเข้าไปช่วยท่านไลส์กับคนอื่นๆ ที่แนวหน้า"
+    },
+    {
+      "key": "iseeyourecallthatmuchatleast",
+      "text_en": "I see you recall that much, at least.",
+      "text": "ดูเหมือนท่านจะยังจำเรื่องนั้นได้เป็นอย่างน้อย"
+    },
+    {
+      "key": "inthemidstofyourduelitissaidyoufalteredandthatthecrownprinceseizedtheopportunitytodeliveramortalblow",
+      "text_en": "In the midst of your duel, it is said you faltered, and that the crown prince seized the opportunity to deliver a mortal blow.",
+      "text": "ว่ากันว่าในระหว่างการดวล ท่านเกิดเพลี่ยงพล้ำ และมกุฎราชกุมารก็ฉวยโอกาสนั้นลงดาบหมายปลิดชีวิต"
+    },
+    {
+      "key": "yetbeforehisbladecouldfinditsmarkhewasdistractedbythearrivalofasecondadversarywhoboreyouawayfromthebattlefieldandintothehandsofourchirurgeons",
+      "text_en": "Yet before his blade could find its mark, he was distracted by the arrival of a second adversary who bore you away from the battlefield and into the hands of our chirurgeons.",
+      "text": "ทว่าก่อนที่คมดาบจะทันได้ปลิดชีพ คู่ต่อสู้คนที่สองก็ปรากฏตัวขึ้นเบี่ยงเบนความสนใจของเขา แล้วพาท่านรุดหนีออกจากสนามรบมาส่งถึงมือหมอหลวงของเราได้ทันท่วงที"
+    },
+    {
+      "key": "lestyouwonderheleftbeforeyouawokeasishiswont",
+      "text_en": "Lest you wonder, he left before you awoke. As is his wont.",
+      "text": "หากท่านนึกสงสัย ชายผู้นั้นจากไปก่อนท่านจะฟื้นเสียอีก เป็นเช่นนี้เสมอตามวิสัยของเขา"
+    },
+    {
+      "key": "estinienneverwasoneforemotionalfarewells",
+      "text_en": "Estinien never was one for emotional farewells.",
+      "text": "เอสทิเนียนไม่ใช่คนประเภทที่ชอบร่ำลากกันอย่างอาลัยอาวรณ์อยู่แล้ว"
+    },
+    {
+      "key": "thoughzenosbestedallbeforehimthebattleclearlytookitstollforheretreatedshortlyafteryourrescueseeingthistheremainingimperialforcesdecideddiscretionwasthebetterpartofvalorandpulledbackallowingustoreestablishourposition",
+      "text_en": "Though Zenos bested all before him, the battle clearly took its toll, for he retreated shortly after your rescue. Seeing this, the remaining imperial forces decided discretion was the better part of valor and pulled back, allowing us to reestablish our position.",
+      "text": "แม้เซนอสจะเอาชนะทุกคนที่ขวางหน้าได้ ทว่าการศึกครั้งนี้ก็สร้างความเหนื่อยล้าแสนสาหัสประดุจจ่ายค่าผ่านทางเรเวแนนท์สทอลล์แก่เขาอย่างเห็นได้ชัด เพราะเขาถอยทัพกลับไปหลังจากท่านได้รับการช่วยเหลือไม่นาน เมื่อเห็นเช่นนั้น กองทัพจักรวรรดิที่เหลือจึงตัดสินใจล่าถอยเพื่อรักษาชีวิตรอด เปิดโอกาสให้พวกเรากลับมาตั้งหลักได้อีกครั้ง"
+    },
+    {
+      "key": "wehavesincereceivedwordofrenewedunrestintheprovincesdoubtlessinspiredbytheeffortsoftheeorzeanallianceandourfareasternallies",
+      "text_en": "We have since received word of renewed unrest in the provinces, doubtless inspired by the efforts of the Eorzean Alliance and our Far Eastern allies.",
+      "text": "หลังจากนั้น พวกเราได้รับพระวจนะแจ้งข่าวความไม่สงบที่ปะทุขึ้นอีกครั้งในมณฑลต่างๆ ซึ่งไม่ต้องสงสัยเลยว่าได้รับแรงบันดาลใจจากความพยายามของพันธมิตรเอออร์เซียนและพันธมิตรทางตะวันออกไกลของเรา"
+    },
+    {
+      "key": "nordoesthegoodnewsendtherewehavealsocomeintopossessionofintelligencesuggestingunrestwithintheimperialcourt",
+      "text_en": "Nor does the good news end there. We have also come into possession of intelligence suggesting unrest within the imperial court.",
+      "text": "ข่าวดีไม่ได้หมดลงเพียงเท่านี้ เพราะเรายังได้รับข้อมูลข่าวกรองที่บ่งชี้ถึงความระส่ำระสายภายในราชสำนักของจักรวรรดิอีกด้วย"
+    },
+    {
+      "key": "thiswouldcertainlyexplainwhyboththeemperorandlordzenosappeartohaveabandonedthefightalongawaitedrayofhopeinthesedarktimes",
+      "text_en": "This would certainly explain why both the Emperor and Lord Zenos appear to have abandoned the fight. A long-awaited ray of hope in these dark times.",
+      "text": "เรื่องนี้อธิบายได้อย่างชัดเจนว่าเหตุใดทั้งองค์จักรพรรดิและลอร์ดเซนอสจึงละทิ้งการศึกไป นับเป็นแสงแห่งความหวังที่รอคอยมาแสนนานในยุคมืดมนเช่นนี้"
+    },
+    {
+      "key": "yettoawakeimafraidbutpleaseconcentrateonyourownrecoveryfornow",
+      "text_en": "Yet to awake, I'm afraid. But, please...concentrate on your own recovery for now.",
+      "text": "เกรงว่ายังไม่มีใครฟื้นเลยครับ... แต่ตอนนี้ ได้โปรดพักผ่อนรักษาตัวให้หายดีก่อนเถอะครับ"
+    },
+    {
+      "key": "youhavecarriedthehopesofsomehalfdozennationsandwearealleternallygratefulforyoureffortsbutnooneiswithouttheirlimitsnotevenyou",
+      "text_en": "You have carried the hopes of some half-dozen nations─and we are all eternally grateful for your efforts─but no one is without their limits. Not even you.",
+      "text": "ท่านแบกรับความหวังของนานาประเทศเอาไว้ และพวกเราทุกคนต่างซาบซึ้งในความพยายามอย่างหาที่สุดไม่ได้ ทว่าไม่มีใครที่ไม่มีขีดจำกัด...แม้แต่ตัวท่านเองก็ตาม"
+    },
+    {
+      "key": "leavethisfighttousmyfriendyouhaveearnedyourrest",
+      "text_en": "Leave this fight to us, my friend. You have earned your rest.",
+      "text": "ปล่อยให้ศึกนี้เป็นหน้าที่ของพวกเราเถิด สหายข้า ท่านควรค่าแก่การพักผ่อนแล้ว"
+    },
+    {
+      "key": "ahbutbeforeiforget",
+      "text_en": "Ah, but before I forget...",
+      "text": "อ้อ แต่ก่อนที่ข้าจะลืม..."
+    },
+    {
+      "key": "iwasaskedtodeliveramessageassoonasyouawoke",
+      "text_en": "I was asked to deliver a message as soon as you awoke.",
+      "text": "ข้าได้รับการไหว้วานให้ส่งสารแก่ท่านทันทีที่ท่านฟื้น"
+    },
+    {
+      "key": "areminderthatyouarenotalonethoughmanyofyourallieshavefallen",
+      "text_en": "A reminder that you are not alone, though many of your allies have fallen.",
+      "text": "เพื่อเตือนใจว่าท่านไม่ได้อยู่ตัวคนเดียว แม้พันธมิตรหลายคนจะล้มลงไปแล้วก็ตาม"
+    },
+    {
+      "key": "whenyouarewellandrestedyouaretoreturnhomewherefriendswillbewaitingforyou",
+      "text_en": "When you are well and rested, you are to return home, where friends will be waiting for you.",
+      "text": "เมื่อท่านหายดีและพักผ่อนเต็มที่แล้ว ขอให้ท่านรีเทิร์นกลับบ้าน ที่ซึ่งมิตรสหายกำลังรอคอยอยู่"
+    },
+    {
+      "key": "nowifyouwillexcusemeimustreturntothefrontmaywemeetagainsoonunderhappiercircumstances",
+      "text_en": "Now, if you will excuse me, I must return to the front. May we meet again soon. Under happier circumstances.",
+      "text": "ตอนนี้ ข้าคงต้องขอตัวรีเทิร์นกลับสู่แนวหน้า ขอให้เราได้พบกันอีกครั้งในเร็ววัน ภายใต้สถานการณ์ที่น่ายินดียิ่งกว่านี้"
+    },
+    {
+      "key": "wellthisisamostunexpectedsurpriseithoughtyouconfinedtobed",
+      "text_en": "Well, this is a most unexpected surprise. I thought you confined to bed.",
+      "text": "แหม นี่เป็นเรื่องประหลาดใจที่คาดไม่ถึงจริงๆ ข้านึกว่าท่านยังต้องนอนซมอยู่บนเตียงเสียอีก"
+    },
+    {
+      "key": "wheniheardthatyouhadcollapsedonthefieldofbattleiconfessifearedtheworstbutwithyoustandingherebeforemeiseenowthatthereportsofyourdefeatweregreatlyexaggeratedthankthefury",
+      "text_en": "When I heard that you had collapsed on the field of battle, I confess I feared the worst. But with you standing here before me, I see now that the reports of your defeat were greatly exaggerated. Thank the Fury.",
+      "text": "ตอนที่ได้ยินว่าท่านล้มพับไปในสนามรบ ข้าสารภาพตามตรงว่ากลัวจะเกิดเรื่องร้ายแรงที่สุดขึ้น ทว่าเมื่อเห็นท่านมายืนอยู่ตรงหน้าเช่นนี้ ข้าก็ตระหนักได้ทันทีว่ารายงานเรื่องความพ่ายแพ้ของท่านนั้นเกินจริงไปมาก ต้องขอบคุณเทพีแห่งโทสะจริงๆ"
+    },
+    {
+      "key": "aslongaswehaveyoumastermistresssurnamehistorysuggestswehaveafightingchancespeakingoffightingyoumaybesurprisedtohearthatthewarseffectscanalreadybefeltevenhereinishgardinanticipationofaneedforreinforcementsartoirelwillsoonbedepartingforthefrontlineswithacontingentofourfinestknights",
+      "text_en": "As long as we have you, Master / Mistress Surname , history suggests we have a fighting chance. Speaking of fighting, you may be surprised to hear that the war's effects can already be felt even here in Ishgard. In anticipation of a need for reinforcements, Artoirel will soon be departing for the front lines with a contingent of our finest knights.",
+      "text": "ตราบใดที่เรายังมีท่านอยู่ ท่านเอ็ม [Surname] ประวัติศาสตร์ก็บ่งชี้ว่าพวกเรายังมีโอกาสสู้ได้ พูดถึงเรื่องการศึก ท่านอาจจะประหลาดใจที่ได้ยินว่าผลกระทบของสงครามนั้นสัมผัสได้แม้กระทั่งที่นี่ในอิชการ์ด เพื่อเตรียมพร้อมรับมือกับความต้องการกำลังพลหนุน อาร์ตัวแรลจะออกเดินทางไปยังแนวหน้าในไม่ช้าพร้อมกับกองอัศวินที่เก่งกาจที่สุดของเรา"
+    },
+    {
+      "key": "iwouldadviseyoutostayuntilyourstrengthhadreturnedbutiknowitwouldbeanexerciseinfutility",
+      "text_en": "I would advise you to stay until your strength had returned, but I know it would be an exercise in futility.",
+      "text": "ข้าอยากจะแนะนำให้พักผ่อนอยู่ที่นี่จนกว่าเรี่ยวแรงจะกลับมา ทว่าข้าก็รู้ดีว่าพูดไปก็คงเปล่าประโยชน์"
+    },
+    {
+      "key": "indeedisuspectyouhavealreadydecidedonyournextdestination",
+      "text_en": "Indeed, I suspect you have already decided on your next destination.",
+      "text": "จริงทีเดียว ข้าคิดว่าท่านคงตัดสินใจเรื่องจุดหมายปลายทางต่อไปไว้ในใจแล้วกระมัง"
+    },
+    {
+      "key": "darkdayslieaheadofthatihavenodoubtbutthelightofhopeshalleverguideourstepssolongaswehavethewilltopressonward",
+      "text_en": "Dark days lie ahead, of that I have no doubt, but the light of hope shall ever guide our steps so long as we have the will to press onward.",
+      "text": "วันเวลาอันมืดมนรออยู่เบื้องหน้าอย่างไม่ต้องสงสัย ทว่าแสงสว่างแห่งความหวังจะยังคงนำทางพวกเราเสมอ ตราบเท่าที่เรายังมุ่งมั่นจะก้าวต่อไป"
+    },
+    {
+      "key": "andpressonwardwemustfarewellmyfriendiprayournextmeetingwillbeunderhappiercircumstances",
+      "text_en": "And press onward we must. Farewell, my friend. I pray our next meeting will be under happier circumstances.",
+      "text": "และเราต้องก้าวต่อไป ลาก่อน สหายข้า ข้าขอภาวนาให้การพบกันครั้งหน้าของเราเป็นช่วงเวลาที่น่ายินดียิ่งกว่านี้"
+    },
+    {
+      "key": "youknowthatyouwilleverbewelcomeathousefortempsnowawaywithyouidarenotkeepyouanylonger",
+      "text_en": "You know that you will ever be welcome at House Fortemps. Now away with you! I dare not keep you any longer!",
+      "text": "ท่านรู้ดีว่าตระกูลฟอร์แตมป์พร้อมต้อนรับท่านเสมอ เอาละ รีบไปเถิด! ข้าไม่กล้ารั้งท่านไว้นานกว่านี้แล้ว"
+    },
+    {
+      "key": "forenamefinallyupandaboutiseeeveryonefearedtheworstwhentheybroughtyoutotheinfirmarybutiknewyouwouldpullthroughsomethingtellsmeyourpartinthiswarisfarfromover",
+      "text_en": "Forename ! Finally up and about, I see. Everyone feared the worst when they brought you to the infirmary─but I knew you would pull through. Something tells me your part in this war is far from over.",
+      "text": "[Forename]! ในที่สุดก็ลุกเดินเหินได้แล้วสินะ ตอนที่พาคุณส่งห้องพยาบาล ทุกคนต่างพากันใจหายใจคว่ำกลัวว่าจะเกิดเรื่องร้ายที่สุด—แต่ผมรู้ดีว่าคุณต้องรอดมาได้ ลางสังหรณ์บอกผมว่าบทบาทของคุณในสงครามครั้งนี้ยังอีกยาวไกลนัก"
+    },
+    {
+      "key": "mistressmastersurnamemyapologiessirmissimeanttogoandvisityouintheinfirmarybutwellimgladtoseeyouupandabout",
+      "text_en": "Mistress / Master Surname ! My apologies, sir / miss . I meant to go and visit you in the infirmary, but... Well, I'm glad to see you up and about!",
+      "text": "ท่าน[นามสกุล]! ต้องขออภัยด้วยครับ ผมตั้งใจจะไปเยี่ยมท่านที่ห้องพยาบาลอยู่พอดี แต่... เอาเป็นว่า ดีใจจริงๆ ครับที่เห็นท่านลุกขึ้นมาเดินเหินได้แล้ว!"
+    },
+    {
+      "key": "mastermistresssurnamewedidnotexpecttoseeyoubackonyourfeetsosoonconfinedtobedasyouwerelordedmontleftforyourquartersnotlongagothinkingtokeepyoucompanydidyouperchanceencounterhimontheway",
+      "text_en": "Master / Mistress Surname ! We did not expect to see you back on your feet so soon. Confined to bed as you were, Lord Edmont left for your quarters not long ago, thinking to keep you company. Did you perchance encounter him on the way?",
+      "text": "ท่าน[นามสกุล]! ไม่คิดเลยว่าท่านจะลุกขึ้นมาเดินเหินได้เร็วขนาดนี้ ทั้งที่ยังต้องนอนซมอยู่บนเตียงแท้ๆ ท่านเอ็ดมอนต์จึงเพิ่งไปที่ห้องพักของท่านเมื่อครู่นี้เอง หวังจะไปอยู่เป็นเพื่อนคุยและหารือเรื่องกองกำลังคอมพานี ระหว่างทางท่านบังเอิญสวนกับท่านเอ็ดมอนต์บ้างไหมครับ"
+    },
+    {
+      "key": "bythetwelveidontbelieveit",
+      "text_en": "By the Twelve, I don't believe it!",
+      "text": "สาบานต่อทวยเทพทั้งสิบสอง ฉันไม่อยากจะเชื่อเลย!"
+    },
+    {
+      "key": "irushedbackassoonasicould",
+      "text_en": "I rushed back as soon as I could.",
+      "text": "ฉันรีบบึ่งกลับมาเร็วที่สุดเท่าที่จะทำได้เลยค่ะ"
+    },
+    {
+      "key": "iswearmyheartnearlystoppedwheniheardyoudcollapsedliketheotherswhatinheavensnameisgoingon",
+      "text_en": "I swear, my heart nearly stopped when I heard you'd collapsed like the others. What in heavens' name is going on?",
+      "text": "สาบานได้เลย หัวใจฉันแทบหยุดเต้นตอนที่ได้ยินว่าคุณล้มพับไปเหมือนคนอื่นๆ เกิดเรื่องบ้าอะไรขึ้นกันแน่คะเนี่ย"
+    },
+    {
+      "key": "winorlosethepathyouwalkleadsonlytooblivionwellthatshelpful",
+      "text_en": "“Win or lose, the path you walk leads only to oblivion.” ...Well, that's helpful.",
+      "text": "“ไม่ว่าจะชนะหรือพ่ายแพ้ เส้นทางที่เจ้าก้าวเดินมีแต่จะนำไปสู่ความสูญสิ้น” ...เฮ้อ ช่างช่วยได้มากเลยนะคะนั่น"
+    },
+    {
+      "key": "andwhatelsedidhesaythebetterpathleadstohimhmm",
+      "text_en": "And what else did he say? The better path leads to him? Hmm...",
+      "text": "แล้วเขาพูดอะไรอีกนะ เส้นทางที่ดีกว่าจะนำไปสู่ตัวเขาอย่างนั้นเหรอ... อืม..."
+    },
+    {
+      "key": "ifhisisthevoiceyouveallbeenhearingperhapstheothersarewithhim",
+      "text_en": "If his is the voice you've all been hearing, perhaps the others are with him.",
+      "text": "ถ้าเสียงที่พวกคุณได้ยินเป็นเสียงของเขา บางทีคนอื่นๆ ก็อาจจะอยู่กับเขาด้วยก็ได้"
+    },
+    {
+      "key": "seraymericsaidthefightinghadreachedastalematedidnthe",
+      "text_en": "Ser Aymeric said the fighting had reached a stalemate, didn't he.",
+      "text": "ท่านเอเมอริกบอกว่าการสู้รบมาถึงทางตันแล้วใช่ไหมคะ"
+    },
+    {
+      "key": "butifthatmonstermasqueradingaszenoscomesback",
+      "text_en": "But if that monster masquerading as Zenos comes back...",
+      "text": "แต่ถ้าเจ้าอสุรกายในร่างเซนอสตัวปลอมนั่นย้อนกลับมาอีกละก็..."
+    },
+    {
+      "key": "thancredyshtolauriangeralphinaudalisaieyouregoingtoneedallofthemonyoursidetodefeathim",
+      "text_en": "Thancred, Y'shtola, Urianger, Alphinaud, Alisaie... You're going to need all of them on your side to defeat him.",
+      "text": "ทั้งธังเครด ยัชโตลา อูริอองเฌต์ อัลฟิโนด์ อลิเซ... คุณต้องมีพวกเขาทุกคนอยู่เคียงข้างถึงจะเอาชนะมันได้"
+    },
+    {
+      "key": "andiforbidyoufromgoingtofacehimonyourowndoyouhearme",
+      "text_en": "And I forbid you from going to face him on your own. Do you hear me?",
+      "text": "และฉันขอสั่งห้ามไม่ให้คุณไปเผชิญหน้ากับมันตามลำพังเด็ดขาด ได้ยินไหมคะ"
+    },
+    {
+      "key": "soifyoumustleavegoandfindtheothersbringthemhome",
+      "text_en": "So if you must leave... Go and find the others. Bring them home.",
+      "text": "เพราะฉะนั้น ถ้าคุณต้องไปจริงๆ... ก็จงไปตามหาคนอื่นๆ แล้วพาพวกเขากลับบ้านเถอะค่ะ"
+    },
+    {
+      "key": "asforwheretostartyousaidthestrangerhadleftabeaconforyouatthecrystaltowerright",
+      "text_en": "As for where to start, you said the stranger had left a beacon for you at the Crystal Tower, right?",
+      "text": "ส่วนเรื่องจะเริ่มจากตรงไหน คุณบอกว่าชายแปลกหน้าคนนั้นทิ้งสัญญาณนำทางไว้ให้ที่คริสตัลทาวเวอร์ใช่ไหมคะ"
+    },
+    {
+      "key": "buthowareyoutofinditnowthatthetowerhasbeensealedshut",
+      "text_en": "But how are you to find it now that the tower has been sealed shut?",
+      "text": "แต่คุณจะหาเจอได้อย่างไร ในเมื่อหอคอยปิดผนึกแน่นหนาไปแล้ว"
+    },
+    {
+      "key": "butimsureirememberhearingthatthetowerwasblockedoff",
+      "text_en": "But I'm sure I remember hearing that the tower was blocked off?",
+      "text": "แต่จำได้ว่าเคยได้ยินว่าหอคอยแห่งนั้นปิดตายไปแล้วไม่ใช่หรือครับ"
+    },
+    {
+      "key": "therehastobeawayifanyonewouldknowitscidandtheresearchersofsaintcoinachsfind",
+      "text_en": "There has to be a way... If anyone would know, it's Cid and the researchers of Saint Coinach's Find.",
+      "text": "ต้องมีหนทางสักทางสิคะ... ถ้าจะมีใครรู้เรื่องนี้ ก็คงไม่พ้นคุณซิดกับพวกนักวิจัยแห่งแหล่งขุดค้นเซนต์โคอินัคแน่ๆ"
+    },
+    {
+      "key": "dontyouworrywellfindthatbeaconforyou",
+      "text_en": "Don't you worry. We'll find that beacon for you.",
+      "text": "ไม่ต้องเป็นห่วงนะคะ พวกเราจะช่วยหาเครื่องส่งสัญญาณนำทางนั้นให้คุณเองค่ะ"
+    },
+    {
+      "key": "iprayyouhavegoodreasonforabandoningthefront",
+      "text_en": "...I pray you have good reason for abandoning the front.",
+      "text": "...ข้าหวังว่าท่านจะมีเหตุผลอันสมควรในการละทิ้งแนวรบมาเช่นนี้"
+    },
+    {
+      "key": "howcouldiremaintherewhiletherumorthatmysonispossessedbyademonspreadslikeasicknesshereathome",
+      "text_en": "How could I remain there while the rumor that my son is possessed by a demon spreads like a sickness here at home?",
+      "text": "เราจะทนอยู่ที่นั่นได้อย่างไร ในเมื่อข่าวลือเรื่องปีศาจสิงสู่ร่างบุตรชายของเราแพร่ระบาดไปทั่วบ้านเกิดเมืองนอนราวกับโรคร้ายเช่นนี้"
+    },
+    {
+      "key": "iwillnotbemadetofightforthethroneasecondtime",
+      "text_en": "I will not be made to fight for the throne a second time.",
+      "text": "เราจะไม่ยอมให้ใครมาบีบบังคับให้ต้องต่อสู้เพื่อแย่งชิงบัลลังก์เป็นหนที่สอง"
+    },
+    {
+      "key": "butwhatofyoudidyounottellmeyouwoulddestroyeorzeaschampionwiththeeasethatonemightswatafly",
+      "text_en": "But what of you? Did you not tell me you would destroy Eorzea's champion with the ease that one might swat a fly?",
+      "text": "แล้วตัวเจ้าล่ะ ไม่ใช่ว่าเคยบอกเราว่าจะกำจัดผู้พิทักษ์แห่งเอโอลเซียได้ง่ายดายเหมือนบี้แมลงวันหรอกหรือ"
+    },
+    {
+      "key": "aminorsetbackheshewillnotescapemeagain",
+      "text_en": "A minor setback. He / She will not escape me again.",
+      "text": "ก็แค่ความผิดพลาดเล็กน้อย หนนี้จะไม่มีวันหนีรอดมือข้าไปได้อีก"
+    },
+    {
+      "key": "whereisyourgrandsireiwouldhavewordswithhim",
+      "text_en": "Where is your grandsire? I would have words with him.",
+      "text": "ท่านปู่ของท่านอยู่ที่ไหน ข้ามีเรื่องต้องเจรจาด้วย"
+    },
+    {
+      "key": "howshouldiknowdoyouhidefromeachotherssightaswelliimagineheisdoingwhatallasciansdo",
+      "text_en": "How should I know? Do you hide from each other's sight as well? I imagine he is doing what all Ascians do.",
+      "text": "เราจะไปรู้ได้อย่างไร พวกเจ้าต่างฝ่ายต่างก็หลบซ่อนตัวจากกันด้วยอย่างนั้นหรือ คงกำลังทำเรื่องที่พวกแอสเซียนชอบทำกันนั่นแหละ"
+    },
+    {
+      "key": "hmmmhemusthavefoundawaytotakeadvantageofthisturmoil",
+      "text_en": "Hmmm... He must have found a way to take advantage of this turmoil.",
+      "text": "หืม... เขาคงหาทางฉกฉวยประโยชน์จากความวุ่นวายนี้อยู่เป็นแน่"
+    },
+    {
+      "key": "menarenotpawnstobeplayedwithascianyouunderestimateusatyourperil",
+      "text_en": "Men are not pawns to be played with, Ascian. You underestimate us at your peril.",
+      "text": "มนุษย์ไม่ใช่หมากให้พวกเจ้าปั่นหัวเล่นนะ แอสเซียน การดูแคลนพวกเราจะนำภัยมาสู่ตัวเจ้าเอง"
+    },
+    {
+      "key": "thiswarwillnotbedecidedbyyouandyoursmanmustchoosehisownfateandiformypartwilldoallwithinmypowertoseegarlemaldemergevictorious",
+      "text_en": "This war will not be decided by you and yours. Man must choose his own fate, and I, for my part, will do all within my power to see Garlemald emerge victorious.",
+      "text": "สงครามครั้งนี้ไม่มีวันจบลงด้วยเงื้อมมือของพวกเจ้า มนุษย์ต้องเลือกเส้นทางชีวิตของตนเอง และในส่วนของเรา เราจะทำทุกวิถีทางเพื่อนำชัยชนะมาสู่การ์เลมัลด์"
+    },
+    {
+      "key": "prayforgivetheintrusionyourradiancebuttherequestedpreparationsarenowcomplete",
+      "text_en": "Pray forgive the intrusion, Your Radiance, but the requested preparations are now complete.",
+      "text": "ขอพระราชทานอภัยโทษที่เข้ามารบกวนพะยะค่ะ ฝ่าบาท แต่การเตรียมการตามที่ทรงบัญชาเสร็จสิ้นเรียบร้อยแล้วพะยะค่ะ"
+    },
+    {
+      "key": "westandreadytobeginproductionofblackroseuponyourorder",
+      "text_en": "We stand ready to begin production of Black Rose, upon your order.",
+      "text": "พวกเราพร้อมเริ่มผลิตแบล็กโรสแล้ว ขอเพียงภาคีมีคำสั่งลงมา"
+    },
+    {
+      "key": "grandfatherdoubtshisabilitytocontributetothescionsandtryasimighticannotassuagehisdoubtswouldthathomeiwasherehewouldknowwhattosay",
+      "text_en": "Grandfather doubts his ability to contribute to the Scions, and try as I might, I cannot assuage his doubts. Would that Homei was here. He would know what to say.",
+      "text": "คุณตาเริ่มไม่มั่นใจว่าจะช่วยงานกลุ่มไซออนส์ได้ไหม ไม่ว่าฉันจะพยายามอย่างไรก็คลายความกังวลของคุณตาไม่ได้เลย หากโฮเม่อยู่ที่นี่ก็คงดี คงรู้ว่าควรพูดอย่างไร"
+    },
+    {
+      "key": "everyonelaborstirelesslytofulfillthescionsdutiesintheirabsenceandyetiisometimeswonderwhatworthyetremainsintheseoldbonesofmine",
+      "text_en": "Everyone labors tirelessly to fulfill the Scions' duties in their absence, and yet I... <sigh> I sometimes wonder what worth yet remains in these old bones of mine.",
+      "text": "ทุกคนต่างทำงานกันอย่างไม่รู้จักเหน็ดเหนื่อยเพื่อทำหน้าที่แทนกลุ่มไซออนส์ในยามที่พวกเขาไม่อยู่ แต่ตัวข้าล่ะ... <เฮ้อ> บางครั้งข้าก็อดสงสัยไม่ได้ว่าสังขารอันโรยรานี้ยังจะมีประโยชน์อะไรหลงเหลืออยู่อีก"
+    },
+    {
+      "key": "iamafraidthereisstillnochangeinthescionsconditionandthemeanstowakethemfromtheirslumberyeteludesusipraythisbeaconatthecrystaltowermightguideustoananswer",
+      "text_en": "I am afraid there is still no change in the Scions' condition, and the means to wake them from their slumber yet eludes us. I pray this beacon at the Crystal Tower might guide us to an answer.",
+      "text": "ผมเกรงว่าอาการของกลุ่มไซออนส์ยังคงไม่มีอะไรเปลี่ยนแปลง และเรายังคงไม่พบวิธีปลุกให้ตื่นจากการหลับใหลได้เลย ได้แต่ภาวนาว่าสัญญาณนำทางที่คริสตัลทาวเวอร์จะช่วยนำทางเราไปสู่คำตอบได้ครับ"
+    },
+    {
+      "key": "ithoughtthingscouldntgetanyworsewhenthegarleansweregearinupforwarthenwordreachedmethescionswereintroubleweneedtofindthatbeaconanfinditquick",
+      "text_en": "I thought things couldn't get any worse when the Garleans were gearin' up for war. Then word reached me the Scions were in trouble... We need to find that beacon, an' find it quick.",
+      "text": "ข้าคิดว่าสถานการณ์คงไม่แย่ไปกว่านี้แล้วตอนที่พวกชาวการ์เลียนเตรียมทำศึกสงคราม แต่แล้วดันมีพระวจนะมาถึงข้าว่ากลุ่มไซออนส์กำลังลำบาก... เราต้องหาเครื่องส่งสัญญาณนั่นให้เจอ และต้องหาให้เร็วที่สุดด้วย"
+    },
+    {
+      "key": "ourbrothersandsistersarefallentistruebutdutywillnotaffordustimetowallowinmiseryuntiltheyarereturnedtouswemustworktwiceashard",
+      "text_en": "Our brothers and sisters are fallen, 'tis true, but duty will not afford us time to wallow in misery. Until they are returned to us, we must work twice as hard.",
+      "text": "พี่น้องและเดอะซิสเตอร์สของเราล้มลงไปแล้วก็จริง แต่หน้าที่ก็ไม่เปิดโอกาสให้เราจมอยู่กับเรือมิเซอรี จนกว่าพวกเขาจะกลับคืนมา เราต้องทำงานให้หนักขึ้นเป็นสองเท่า"
+    },
+    {
+      "key": "inlightofthepresentconditionofthescionsevenriolhasreturnedfromafieldneverhastherebeenagreaterneedtomarshalourresources",
+      "text_en": "In light of the present condition of the Scions, even Riol has returned from afield. Never has there been a greater need to marshal our resources.",
+      "text": "เมื่อเห็นสภาพของกลุ่มไซออนส์ในยามนี้ แม้แต่ริโอลก็ยังยอมกลับมาจากแนวหน้า ไม่มีครั้งไหนที่เราจำเป็นต้องรวบรวมกำลังและทรัพยากรทั้งหมดที่มีมากเท่าครั้งนี้อีกแล้ว"
+    },
+    {
+      "key": "mybrothersayshewillworktwiceashardinthescionssteadwhichlikelymeansimustworkthriceashardifiamtomatchhispace",
+      "text_en": "My brother says he will work twice as hard in the Scions' stead, which likely means I must work thrice as hard if I am to match his pace.",
+      "text": "พี่ชายบอกว่าจะทำงานให้หนักขึ้นเป็นสองเท่าแทนพวกกลุ่มไซออนส์ ซึ่งนั่นคงหมายความว่าฉันต้องทำงานหนักขึ้นเป็นสามเท่าหากคิดจะตามให้ทัน"
+    },
+    {
+      "key": "ineverrealizedjusthowcriticalarolethearchonsplayedinallthatwedohereitwontbeeasytomakeupfortheirabsence",
+      "text_en": "I never realized just how critical a role the Archons played in all that we do here. It won't be easy to make up for their absence.",
+      "text": "ฉันไม่เคยตระหนักเลยว่าพวกอาร์คอนมีบทบาทสำคัญต่อทุกสิ่งที่เราทำที่นี่มากขนาดไหน คงไม่ใช่เรื่องง่ายเลยที่จะหาอะไรมาทดแทนการขาดหายไปของพวกเขา"
+    },
+    {
+      "key": "youneedntworryaboutthescionsochermysisterandihavebeenkeepingovertheminshiftseversincetheyarrivedattherisingstonesifonlytheywouldgivesomesignofstirring",
+      "text_en": "You needn't worry about the Scions. Ocher, my sister, and I have been keeping over them in shifts ever since they arrived at the Rising Stones. If only they would give some sign of stirring...",
+      "text": "ไม่ต้องเป็นห่วงพวกกลุ่มไซออนส์หรอก ทั้งโอเชอร์ พี่สาว และฉันต่างผลัดเวรกันดูแลพวกเขานับตั้งแต่มาถึงเดอะ ไรซิง สโตนส์ ขอเพียงส่งสัญญาณว่าจะฟื้นขึ้นมาบ้างสักนิดก็ยังดี..."
+    },
+    {
+      "key": "iknewyoudbeallrightandtocelebrateyourreturnimadeyouthisabrandnewtravelingoutfitohidohopeitfits",
+      "text_en": "I knew you'd be all right. And to celebrate your return, I made you this─a brand-new traveling outfit! Oh, I do hope it fits...",
+      "text": "ฉันรู้อยู่แล้วค่ะว่าคุณต้องปลอดภัย! และเพื่อเป็นการฉลองการรีเทิร์นของคุณ ฉันเลยตัดชุดนี้ให้ค่ะ—ชุดเดินทางชุดใหม่เอี่ยมเลย! อ๊ะ หวังว่าจะใส่ได้พอดีนะคะ..."
+    },
+    {
+      "key": "butnowisnotthetimetofussoveryourmeasurementsimustgoandspeakwiththeresearchersofsaintcoinachsfindyougoandrestwhilewetrackdownthatbeacon",
+      "text_en": "<ahem> But now is not the time to fuss over your measurements. I must go and speak with the researchers of Saint Coinach's Find. You go and rest while we track down that beacon.",
+      "text": "<อะแฮ่ม> แต่ตอนนี้ไม่ใช่เวลามาพะวงเรื่องสัดส่วนของคุณแล้วล่ะค่ะ ฉันต้องไปคุยกับพวกนักวิจัยที่แหล่งขุดค้นเซนต์โคอินัค คุณไปพักผ่อนเถอะนะคะ ระหว่างที่เราตามหาเครื่องส่งสัญญาณนั่น"
+    },
+    {
+      "key": "myenemymyfriendhadibeenbutastepfaster",
+      "text_en": "My enemy. My friend. Had I been but a step faster...",
+      "text": "ศัตรูของข้า... มิตรแท้ของข้า... หากข้าก้าวเร็วขึ้นอีกเพียงก้าวเดียว..."
+    },
+    {
+      "key": "bloodysavages",
+      "text_en": "Bloody savages!",
+      "text": "พวกคนเถื่อนสารเลว!"
+    },
+    {
+      "key": "apityyourhuntleadsyouelsewherenotthatiamsurprised",
+      "text_en": "A pity your hunt leads you elsewhere... Not that I am surprised.",
+      "text": "น่าเสียดายที่การล่าของเจ้าชักนำเจ้าไปที่อื่น... แต่ข้าก็ไม่ได้แปลกใจนักหรอก"
+    },
+    {
+      "key": "mayyoufindjoyinitgrowstrongermoresavageandsavoreverytriumph",
+      "text_en": "May you find joy in it. Grow stronger, more savage, and savor every triumph...",
+      "text": "ขอให้เจ้าจงสนุกกับมัน จงแข็งแกร่งขึ้น ป่าเถื่อนยิ่งขึ้น และลิ้มรสทุกไทรอัมพ์..."
+    },
+    {
+      "key": "inthemeantimeiwillreclaimthatwhichisrightfullymine",
+      "text_en": "In the meantime...I will reclaim that which is rightfully mine.",
+      "text": "ในระหว่างนี้...ข้าจะทวงคืนสิ่งที่เป็นของข้าโดยชอบธรรมกลับคืนมา"
+    },
+    {
+      "key": "inthemidstofarequiemforheroes",
+      "text_en": "IN THE MIDST OF A REQUIEM FOR HEROES,",
+      "text": "ท่ามกลางบทสวดส่งวิญญาณแด่เหล่าผู้กล้า,"
+    },
+    {
+      "key": "avoiceringsoutacrosstimeandspace",
+      "text_en": "A VOICE RINGS OUT ACROSS TIME AND SPACE...",
+      "text": "สุ้มเสียงหนึ่งก้องกังวานข้ามผ่านเวลาและห้วงอวกาศ..."
+    },
+    {
+      "key": "infieldsoftranquillight",
+      "text_en": "IN FIELDS OF TRANQUIL LIGHT,",
+      "text": "ณ ทุ่งหญ้าแห่งแสงสว่างอันเงียบสงบ,"
+    },
+    {
+      "key": "sowyouseedsofdarkness",
+      "text_en": "SOW YOU SEEDS OF DARKNESS",
+      "text": "จงหว่านเมล็ดพันธุ์แห่งความมืดมน"
+    }
+  ]
+}
