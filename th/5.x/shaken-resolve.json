@@ -1,0 +1,565 @@
+{
+  "quest_id": "shaken-resolve",
+  "dialogues": [
+    {
+      "key": "notthatiexpectedanylessbuttisgoodtoseeyouhomeandunharmediampleasedtoreportthatarenvaldandhisfellowprimalhuntershaveupheldthepeacewhileyouvebeenaway",
+      "text_en": "Not that I expected any less, but 'tis good to see you home and unharmed. I am pleased to report that Arenvald and his fellow primal hunters have upheld the peace while you've been away.",
+      "text": "ฉันไม่ได้หวังไว้คลาดเคลื่อนจากนี้เลย แต่ดีใจเหลือเกินที่เห็นคุณกลับมาถึงบ้านอย่างปลอดภัยไร้รอยขีดข่วน ยินดีที่จะแจ้งให้ทราบว่าอารันวัลด์กับเพื่อนพ้องนักล่าไพรมอล (เทพจุติ) ช่วยกันรักษาความสงบเรียบร้อยไว้ได้เป็นอย่างดีในช่วงที่คุณไม่อยู่"
+    },
+    {
+      "key": "apleasuretoseeyouforenameicannotwellimaginewhatsortofworldthefirstisoradventuresyouhadbutthatyouhavereturnedtoussafeandsoundisofgreatcomfort",
+      "text_en": "A pleasure to see you, Forename ! I cannot well imagine what sort of world the First is, or adventures you had, but that you have returned to us safe and sound is of great comfort...",
+      "text": "ยินดีเหลือเกินที่ได้พบคุณ Forename! ฉันจินตนาการไม่ออกเลยว่าเดอะ เฟิสต์จะเป็นโลกแบบไหน หรือคุณต้องพบเจอการผจญภัยอย่างไรบ้าง แต่การที่คุณกลับมาหาพวกเราอย่างปลอดภัยเช่นนี้ก็ช่วยให้เบาใจได้มากโข..."
+    },
+    {
+      "key": "ourwarosubterfugeismovinalongwellenoughbutweoftenfindourselveswantinforthancredandalphinaudsexpertise",
+      "text_en": "Our war o' subterfuge is movin' along well enough, but we often find ourselves wantin' for Thancred and Alphinaud's expertise.",
+      "text": "ศึกสายลับของพวกเราก็คืบหน้าไปด้วยดีอยู่หรอก แต่หลายหนก็รู้สึกขาดแคลนฝีมือความเชี่ยวชาญของธันเครดกับอัลฟิโนชะมัด"
+    },
+    {
+      "key": "wishtheydhurryupandgettheirarsesbackoverhere",
+      "text_en": "Wish they'd hurry up and get their arses back over here...",
+      "text": "อยากให้พวกนั้นรีบลากก้นกลับมาที่นี่ไว ๆ ชะมัด..."
+    },
+    {
+      "key": "welcomebackforenamehowdothearchonsfareoverinthefirstwhennextyouseethemyoumayinformthemthattheirbodiesareaswellascanbe",
+      "text_en": "Welcome back, Forename . How do the Archons fare over in the First? When next you see them, you may inform them that their bodies are as well as can be.",
+      "text": "ยินดีต้อนรับกลับค่ะ คุณ Forename เหล่าอาร์คอนทางเดอะ เฟิสต์เป็นอย่างไรบ้างคะ หากคุณพบพวกเขาคราวหน้า ช่วยบอกให้พวกเขาทราบทีนะคะว่าร่างกายของทุกคนยังแข็งแรงดีเท่าที่จะเป็นไปได้ค่ะ"
+    },
+    {
+      "key": "forenamegodsitsgoodtoseeyouihopeyourbeingheremeansyouvehadyourfillofrest",
+      "text_en": "Forename ! Gods, it's good to see you. I hope your being here means you've had your fill of rest?",
+      "text": "คุณ Forename! คุณพระช่วย ดีใจเหลือเกินที่ได้พบค่ะ หวังว่าการที่มาอยู่ที่นี่จะหมายความว่าได้พักผ่อนจนเต็มอิ่มแล้วนะคะ"
+    },
+    {
+      "key": "wellyouvecertainlyearnedit",
+      "text_en": "Well, you've certainly earned it.",
+      "text": "ก็แหม สมควรได้รับการพักผ่อนแบบนั้นที่สุดแล้วละค่ะ"
+    },
+    {
+      "key": "youretooselflessthatsyourproblembutyoullbenogoodtoanyoneifyoudonttakeabreakeveryonceinawhileanyway",
+      "text_en": "You're too selfless, that's your problem. But you'll be no good to anyone if you don't take a break every once in a while. Anyway ...",
+      "text": "คุณชอบนึกถึงคนอื่นมากกว่าตัวเองเกินไป นั่นแหละค่ะคือปัญหาใหญ่ แต่ถ้าไม่ยอมหยุดพักผ่อนเสียบ้าง ก็คงช่วยใครไม่ได้เลยนะคะ เอาละค่ะ..."
+    },
+    {
+      "key": "notmuchhashappenedsinceyourlastvisitihadplannedforyoutomeetthathelperitoldyouaboutbutherefusestoanswerhislinkpearlidohopehesallright",
+      "text_en": "Not much has happened since your last visit. I had planned for you to meet that helper I told you about, but he refuses to answer his linkpearl. I do hope he's all right.",
+      "text": "ตั้งแต่คุณมาเยือนคราวก่อนก็ไม่ค่อยเกิดเรื่องราวอะไรขึ้นมากนักหรอกค่ะ ฉันตั้งใจจะให้คุณได้พบกับผู้ช่วยคนนั้นที่เคยเล่าให้ฟัง แต่เขาไม่ยอมตอบรับผ่านลิงก์เพิร์ลเลย หวังว่าเขาจะปลอดภัยดีนะคะ"
+    },
+    {
+      "key": "wevebeenexchangingmessageswiththeeorzeanalliancethroughoutthoughtheysaythefightinghasfinallystoppedattheghimlytdarkandthattheempiresshownnosignofmovement",
+      "text_en": "We've been exchanging messages with the Eorzean Alliance throughout, though. They say the fighting has finally stopped at the Ghimlyt Dark, and that the Empire's shown no sign of movement.",
+      "text": "แต่ถึงอย่างนั้น พวกเราก็ส่งข่าวติดต่อกับพันธมิตรเอออร์เซียนอยู่ตลอดเลยค่ะ ทางนั้นบอกว่าการสู้รบที่กิมลิท ดาร์กยุติลงในที่สุดแล้ว และจักรวรรดิก็ยังไม่ขยับเคลื่อนไหวเลยค่ะ"
+    },
+    {
+      "key": "whichmeanswemightactuallyhaveamomenttoourselvesforachangeseeingasyourebackmaybeyoucouldtellmemoreaboutyourtimeinthefirst",
+      "text_en": "Which means we might actually have a moment to ourselves for a change. Seeing as you're back, maybe you could tell me more about your time in the First?",
+      "text": "แบบนี้แปลว่าเราจะได้อยู่คุยกันตามลำพังเพื่อเปลี่ยนบรรยากาศบ้างเสียทีนะคะ ในเมื่อคุณกลับมาแล้ว ช่วยเล่าเรื่องราวตอนที่คุณอยู่ในเดอะ เฟิสต์ให้ฟังหน่อยได้ไหมคะ"
+    },
+    {
+      "key": "greatohandifyoudontmindidliketoaskflhaminntojoinusshellwanttoknowwhathappenedtominfiliaandithinkitsbestshehearsitfromyou",
+      "text_en": "Great! Oh, and if you don't mind, I'd like to ask F'lhaminn to join us. She'll want to know what happened to Minfilia, and I think it's best she hears it from you.",
+      "text": "วิเศษเลยค่ะ! อ้อ แล้วถ้าไม่รังเกียจ ฉันอยากชวนคุณฟลามินน์มาร่วมวงด้วยนะคะ ทางนั้นคงอยากรู้ว่าเกิดอะไรขึ้นกับมินฟิเลีย และคิดว่าให้ฟังจากปากของคุณเองน่าจะดีที่สุดค่ะ"
+    },
+    {
+      "key": "wellmeetyouontheterraceatthehouseofsplendors",
+      "text_en": "We'll meet you on the terrace at the House of Splendors.",
+      "text": "ถ้าอย่างนั้นไปเจอกันที่ระเบียงของหอการค้าโรเวนานะคะ"
+    },
+    {
+      "key": "wellbewaitingforyouatthehouseofsplendorsandiexpectyoutotellusabsolutelyeverythingaboutyourtimeinthefirst",
+      "text_en": "We'll be waiting for you at the House of Splendors. And I expect you to tell us absolutely everything about your time in the First!",
+      "text": "พวกเราจะรออยู่ที่หอการค้าโรเวนานะคะ แล้วก็ต้องเล่าเรื่องราวทั้งหมดตอนอยู่ในเดอะ เฟิสต์ให้ฟังห้ามตกหล่นเลยนะคะ!"
+    },
+    {
+      "key": "forenamemyithasbeentoolongtatarudidmentionthatiwouldbejoiningyoudidshenot",
+      "text_en": "Forename . My, it has been too long. Tataru did mention that I would be joining you, did she not?",
+      "text": "Forename ไม่เจอกันเสียนานเลยนะคะ ทาทารูบอกแล้วใช่ไหมคะว่าฉันจะมาร่วมวงสนทนาด้วย"
+    },
+    {
+      "key": "thankyouwordscannotwellexpresshowihavelongedtoknowmoreofthefirstthisworldminfiliahassacrificedsomuchtosave",
+      "text_en": "Thank you... Words cannot well express how I have longed to know more of the First. This world Minfilia has sacrificed so much to save.",
+      "text": "ขอบคุณนะคะ... คำพูดใดก็ยากจะบอกว่าปรารถนาจะรู้เรื่องราวของเดอะ เฟิสต์มากเพียงใด โลกที่มินฟิเลียยอมสละทุกอย่างเพื่อปกป้องเอาไว้"
+    },
+    {
+      "key": "butcomerestyourfeettatarushouldbearrivingshortly",
+      "text_en": "But come, rest your feet. Tataru should be arriving shortly.",
+      "text": "เอาเถอะค่ะ นั่งพักผ่อนให้หายเหนื่อยก่อนสิคะ อีกประเดี๋ยวทาทารูก็คงจะมาถึงแล้ว"
+    },
+    {
+      "key": "andsominfiliachosetopassonhergiftstothenextoraclethisgirlwhothancrednamedryne",
+      "text_en": "And so Minfilia chose to pass on her gifts to the next Oracle? This girl who Thancred named Ryne?",
+      "text": "ถ้าอย่างนั้น มินฟิเลียก็เลือกส่งต่อพลังให้ธิดาพยากรณ์คนต่อไปหรือคะ เด็กผู้หญิงคนที่แธนคริดตั้งชื่อว่าไรน์คนนั้นน่ะหรือคะ"
+    },
+    {
+      "key": "tohavesuchaburdenthrustuponherasachildonlytoembraceitwhengiventhechoice",
+      "text_en": "To have such a burden thrust upon her as a child...only to embrace it when given the choice...",
+      "text": "ต้องแบกรับภาระหนักหนาถึงเพียงนั้นตั้งแต่ยังเป็นเด็ก... แต่พอได้เลือกด้วยตัวเอง กลับยอมรับมันไว้ด้วยความเต็มใจ..."
+    },
+    {
+      "key": "inthatrespecttheyarequitealikeitwouldseemherlegacyisindeedincapablehands",
+      "text_en": "In that respect, they are quite alike. It would seem her legacy is indeed in capable hands.",
+      "text": "ในแง่นั้น ทั้งสองคนช่างคล้ายกันเหลือเกินนะคะ ดูเหมือนว่าเจตนารมณ์นั้นจะตกอยู่ในการดูแลของคนที่พึ่งพาได้จริงๆ"
+    },
+    {
+      "key": "forenamemightiaskafavorofyouwhennextyoureturntothefirsttotellrynewhaticannot",
+      "text_en": "Forename ─might I ask a favor of you when next you return to the First? To tell Ryne what I cannot.",
+      "text": "คุณ Forename... ฉันขอไหว้วานอะไรคุณสักอย่างได้ไหมเมื่อคุณรีเทิร์นไปยังเดอะ เฟิสต์ครั้งหน้า ช่วยบอกไรน์ในสิ่งที่ฉันไม่อาจเอ่ยบอกได้ที"
+    },
+    {
+      "key": "totellherthankyou",
+      "text_en": "To tell her...thank you.",
+      "text": "ช่วยบอก...ว่าขอบคุณนะ"
+    },
+    {
+      "key": "andiwouldofferthankstoyouaswellforstayingwithhertotheend",
+      "text_en": "And I would offer thanks to you as well. For staying with her to the end.",
+      "text": "และฉันก็อยากจะขอบคุณคุณด้วยเหมือนกัน ที่อยู่เคียงข้างจนถึงวินาทีสุดท้าย"
+    },
+    {
+      "key": "begginyerpardonbutcouldihaveaword",
+      "text_en": "Beggin' yer pardon, but could I have a word?",
+      "text": "ขออภัยด้วยนะ แต่ฉันขอเอ่ยพระวจนะด้วยสักคำจะได้ไหม"
+    },
+    {
+      "key": "riolihopeyoureheretotellmeyouvereceivedwordfromourhelper",
+      "text_en": "Riol! I hope you're here to tell me you've received word from our helper.",
+      "text": "ริโอล! หวังว่าที่มานี่คือนำข่าวเรื่องที่ได้รับพระวจนะจากผู้ช่วยของเราแล้วนะคะ"
+    },
+    {
+      "key": "iwishnayivenothadapeepoutofhimanitsbeenagoodlongwhilenowtoobloodylong",
+      "text_en": "I wish. Nay, I've not had a peep out of him. An' it's been a good long while now. Too bloody long.",
+      "text": "ก็อยากให้เป็นงั้นแหละ แต่เปล่าเลย เงียบกริบไม่มีข่าวคราวจากหมอนั่นเลย แถมก็นานโขแล้วด้วย นานเกินไปแล้วพับผ่าสิ"
+    },
+    {
+      "key": "onaccountowhichimgointosneakovertheborderanseeificantgetasignaltohimfromcloserup",
+      "text_en": "On account o' which, I'm goin' to sneak over the border an' see if I can't get a signal to him from closer up.",
+      "text": "เพราะงั้น ฉันเลยว่าจะแอบข้ามพรมแดนไปดูสักหน่อย เผื่อจะส่งสัญญาณหาจากระยะที่ใกล้กว่านี้ได้"
+    },
+    {
+      "key": "butwhatiftheycatchyoutheremustbeanotherway",
+      "text_en": "But what if they catch you!? There must be another way.",
+      "text": "แต่ถ้าพวกนั้นจับคุณได้ขึ้นมาล่ะคะ!? เราต้องหาทางอื่นสิคะ"
+    },
+    {
+      "key": "wellitaintasifwecanaskthancredtodoitbesidesishouldnthavenotroublepickinmewaythroughghimlytnowthefightinsdieddowngodsknowtheresenoughshadowstohidein",
+      "text_en": "Well, it ain't as if we can ask Thancred to do it. Besides, I shouldn't have no trouble pickin' me way through Ghimlyt now the fightin's died down. Gods know there's enough shadows to hide in.",
+      "text": "ก็นะ จะขอให้แธนเครดช่วยทำแทนก็คงไม่ได้ อีกอย่าง ฉันคงลัดเลาะผ่านกิมลิตได้ไม่ยากหรอกตอนนี้ที่การสู้รบซาลงแล้ว เทพยดาเถอะ เงาสลัวพวกนั้นคงช่วยให้ซ่อนตัวได้ถมเถ"
+    },
+    {
+      "key": "anitbeatswaitinroundheretwiddlinmethumbsanyroadijustthoughtidletyeknownowidbestbe",
+      "text_en": "An' it beats waitin' 'round here twiddlin' me thumbs. Anyroad, I just thought I'd let ye know. Now, I'd best be─",
+      "text": "แถมยังดีกว่ามานั่งตบยุงรออยู่แถวนี้เฉยๆ ตั้งเยอะ ยังไงก็เถอะ แค่อยากมาบอกให้รู้ไว้ ตอนนี้คงต้องขอตัว—"
+    },
+    {
+      "key": "ackinearlyforgotkrilesatthestonesanshewantsaword",
+      "text_en": "Ack! I nearly forgot! Krile's at the Stones, an' she wants a word.",
+      "text": "ปัดโธ่! เกือบลืมสนิทเลย! ไครล์อยู่ที่เดอะสโตนส์แน่ะ และอยากกล่าวพระวจนะกับแกหน่อย"
+    },
+    {
+      "key": "somethintodowiththepatientsshewasgettinreadytoexamineemagainwhenileft",
+      "text_en": "Somethin' to do with the patients. She was gettin' ready to examine 'em again when I left.",
+      "text": "เห็นว่าเกี่ยวกับคนไข้น่ะ ตอนฉันเดินออกมา เธอก็กำลังเตรียมตรวจอาการอีกรอบอยู่พอดี"
+    },
+    {
+      "key": "wedbestheadbackthenimsureitsimportant",
+      "text_en": "We'd best head back, then. I'm sure it's important.",
+      "text": "ถ้าอย่างนั้นพวกเรารีบกลับกันเถอะค่ะ คงเป็นเรื่องสำคัญแน่ๆ"
+    },
+    {
+      "key": "youneedntworryaboutmegoandseewhatkrilehastosay",
+      "text_en": "You needn't worry about me. Go and see what Krile has to say.",
+      "text": "ไม่ต้องเป็นห่วงฉันหรอกค่ะ รีบไปฟังเถอะว่าไครล์มีเรื่องอะไรจะพูด"
+    },
+    {
+      "key": "itseemsshesstillexaminingthemohidohopeitsnothingbad",
+      "text_en": "It seems she's still examining them. Oh, I do hope it's nothing bad...",
+      "text": "ดูเหมือนจะยังตรวจอาการกันอยู่เลยนะคะ... โอย หวังว่าจะไม่มีเรื่องร้ายแรงอะไรนะ..."
+    },
+    {
+      "key": "youreheregood",
+      "text_en": "You're here. Good.",
+      "text": "มากันแล้วสินะ ดีล่ะ"
+    },
+    {
+      "key": "sohowarethey",
+      "text_en": "So...how are they?",
+      "text": "แล้ว...ทุกคนเป็นอย่างไรบ้างคะ"
+    },
+    {
+      "key": "stilllockedinslumberbutotherwiseingoodphysicalhealth",
+      "text_en": "Still locked in slumber. But otherwise in good physical health.",
+      "text": "ยังคงจมอยู่ในห้วงนิทรา แต่ร่างกายส่วนอื่นก็ยังแข็งแรงดีอยู่"
+    },
+    {
+      "key": "forthepresentatleast",
+      "text_en": "...For the present, at least.",
+      "text": "...อย่างน้อยก็ในตอนนี้ละนะ"
+    },
+    {
+      "key": "forthepresent",
+      "text_en": "For the present?",
+      "text": "ในตอนนี้หรือคะ"
+    },
+    {
+      "key": "ohnoissomethingwrongwiththem",
+      "text_en": "...Oh no, is something wrong with them!?",
+      "text": "ตายจริง... พวกเขาเป็นอะไรไปหรือคะ!?"
+    },
+    {
+      "key": "imafraidtheremaybe",
+      "text_en": "I'm afraid there may be.",
+      "text": "ฉันเกรงว่าจะเป็นอย่างนั้นละ"
+    },
+    {
+      "key": "isummonedyouafterdetectingfaintsignsofinstabilityinthancredscorporealaetherbutsubsequentexaminationssuggestedallfivemightbeaffectedandwheniexaminedthemjustnowmyfearswereconfirmed",
+      "text_en": "I summoned you after detecting faint signs of instability in Thancred's corporeal aether. But subsequent examinations suggested all five might be affected. And when I examined them just now, my fears were confirmed.",
+      "text": "ฉันเรียกเธอมาหลังจากตรวจพบสัญญาณความไม่เสถียรจางๆ ในเอเธอร์กายหยาบของแธนเครด แต่การตรวจวิเคราะห์หลังจากนั้นบ่งชี้ว่าทั้งห้าคนน่าจะได้รับผลกระทบไปด้วย และเมื่อกี้ที่ลองตรวจดูอีกที ความกลัวของฉันก็กลายเป็นจริง"
+    },
+    {
+      "key": "tellinglythedegreeofinstabilityvariesbetweenthem",
+      "text_en": "Tellingly, the degree of instability varies between them.",
+      "text": "ที่เห็นได้ชัดก็คือ ระดับความไม่เสถียรของแต่ละคนนั้นแตกต่างกันไป"
+    },
+    {
+      "key": "thancredexhibitsthemostnotablesignsfollowedbyyshtolaanduriangerthetwinsaethermeanwhileremainsrelativelystablebutthereisachangetheretooifoneknowstolookforit",
+      "text_en": "Thancred exhibits the most notable signs, followed by Y'shtola and Urianger. The twins' aether, meanwhile, remains relatively stable, but there is a change there too if one knows to look for it.",
+      "text": "แธนเครดแสดงอาการเด่นชัดที่สุด ตามด้วยอิชโทลาและยูเรียนเจอร์ ส่วนเอเธอร์ของคู่แฝดนั้นยังค่อนข้างเสถียร ทว่าก็เริ่มเปลี่ยนแปลงเช่นกันหากรู้จักสังเกต"
+    },
+    {
+      "key": "holdonisntthattheordertheywerecalledawayin",
+      "text_en": "Hold on─isn't that the order they were called away in?",
+      "text": "เดี๋ยวก่อนนะคะ─นั่นไม่ใช่ลำดับของคนในภาคีที่ล้มฟุบไปหรอกหรือคะ"
+    },
+    {
+      "key": "indeedwhichleadsmetobelievetheinstabilitywillonlyincreasewithtime",
+      "text_en": "Indeed. Which leads me to believe the instability will only increase with time.",
+      "text": "จริงอย่างนั้นละ นั่นทำให้ฉันคิดว่าความไม่เสถียรจะยิ่งรุนแรงขึ้นตามวันเวลาที่ผ่านไป"
+    },
+    {
+      "key": "thoughicanbutspeculateifearthismaybeasymptomofaweakeninglinkbetweenbodyandsoul",
+      "text_en": "Though I can but speculate, I fear this may be a symptom of a weakening link between body and soul.",
+      "text": "แม้จะเป็นเพียงข้อสันนิษฐาน แต่ฉันเกรงว่านี่อาจเป็นอาการบ่งชี้ว่าสายสัมพันธ์ระหว่างร่างกายและดวงวิญญาณกำลังอ่อนแอลง"
+    },
+    {
+      "key": "bythegodswhathappensifthelinkisbroken",
+      "text_en": "By the gods... What happens if the link is broken?",
+      "text": "คุณพระช่วย... แล้วจะเกิดอะไรขึ้นคะถ้าสายสัมพันธ์นั้นขาดสะบั้นลง?"
+    },
+    {
+      "key": "icannotsayforcertainthisisallunknownterritorytousyetwhateverhappensitcannotbegood",
+      "text_en": "I cannot say for certain─this is all unknown territory to us. Yet whatever happens, it cannot be good.",
+      "text": "ฉันตอบให้แน่ชัดไม่ได้หรอก─นี่เป็นเรื่องแปลกใหม่ที่ไม่คุ้นเคยเลย ทว่าไม่ว่าจะเกิดอะไรขึ้น ก็ไม่มีทางเป็นเรื่องดีแน่"
+    },
+    {
+      "key": "mercifullytheinstabilityisstillonlyslightandyoumayrestassuredmastermatoyaandiwilldoeverythinginourpowertokeepitfromworsening",
+      "text_en": "Mercifully, the instability is still only slight. And you may rest assured Master Matoya and I will do everything in our power to keep it from worsening.",
+      "text": "เดชะบุญที่ความปั่นป่วนยังเกิดขึ้นเพียงเล็กน้อย ขอให้วางใจเถอะว่าท่านอาจารย์มาโตยากับฉันจะทำทุกวิถีทางไม่ให้อาการทรุดลงไปกว่านี้"
+    },
+    {
+      "key": "bethatasitmayitisimperativethatyoufindawaytorestoreourfriendssoulstotheirbodies",
+      "text_en": "Be that as it may, it is imperative that you find a way to restore our friends' souls to their bodies.",
+      "text": "ถึงกระนั้น คุณก็ต้องหาทางพาจิตวิญญาณของเพื่อนเรากลับคืนสู่ร่างให้ได้โดยเร็วที่สุด"
+    },
+    {
+      "key": "thankyou",
+      "text_en": "Thank you.",
+      "text": "ขอบใจนะ"
+    },
+    {
+      "key": "irealizeyouveonlyjustreturnedfromsavingtwoworldsbuttimeisnotonourside",
+      "text_en": "I realize you've only just returned from saving two worlds, but time is not on our side.",
+      "text": "ฉันรู้ดีว่าคุณเพิ่งรีเทิร์นจากการกอบกู้โลกทั้งสองใบหยกๆ แต่เวลาไม่คอยท่าพวกเราแล้ว"
+    },
+    {
+      "key": "butwhereshesheevensupposedtostartwehadthegreatestmindsintherealmhuntinghighandlowforananswerandtheyranoutofplacestolook",
+      "text_en": "But where's he / she even supposed to start? We had the greatest minds in the realm hunting high and low for an answer, and they ran out of places to look.",
+      "text": "แต่จะให้เริ่มจากตรงไหนดีล่ะคะ ขนาดผู้ปราดเปรื่องที่สุดในแผ่นดินช่วยกันพลิกแผ่นดินหาคำตอบจนทั่วแล้วก็ยังหมดปัญญาจะไปตามหาที่ไหนต่อเลย"
+    },
+    {
+      "key": "youstatedinyourreportthattheexarchhadoriginallyintendedtoreversethesummoningprocessbymeansofhisowndeathcorrect",
+      "text_en": "You stated in your report that the Exarch had originally intended to reverse the summoning process by means of his own death, correct?",
+      "text": "ในรายงานของคุณบอกว่า เดิมทีเอ็กซาร์กตั้งใจจะย้อนกระบวนการอัญเชิญด้วยการสละชีวิตตัวเองใช่ไหม"
+    },
+    {
+      "key": "rahaalwayswasarecklessyoungfoolreadytodieforthefirstrighteouscausethatcamealong",
+      "text_en": "Raha always was a reckless young fool... Ready to die for the first righteous cause that came along.",
+      "text": "ราฮาเป็นคนหนุ่มโง่เง่าบ้าระห่ำเสมอ... พร้อมจะสละชีพเพื่ออุดมการณ์อันชอบธรรมแห่งพิภพที่หนึ่งที่ผ่านเข้ามา"
+    },
+    {
+      "key": "hisplanmightwellhaveworkedbutiforoneamgladheneverhadtheopportunitytoseeitthroughevenifitdoesmeanourfriendsmustremainstrandedawhilelonger",
+      "text_en": "His plan might well have worked, but I for one am glad he never had the opportunity to see it through. Even if it does mean our friends must remain stranded awhile longer.",
+      "text": "แผนการนั้นอาจจะได้ผลดี แต่ฉันคนหนึ่งล่ะที่ยินดีเหลือเกินที่ไม่มีโอกาสได้ทำจนสำเร็จ แม้จะหมายความว่าเพื่อนๆ ของเราต้องติดค้างอยู่ที่นั่นนานขึ้นอีกหน่อยก็ตาม"
+    },
+    {
+      "key": "thereisanotherwayiamsureofitandthekeylieswithhimwiththeexarch",
+      "text_en": "There is another way, I am sure of it. And the key lies with him. With the Exarch.",
+      "text": "ต้องมีหนทางอื่นอีกแน่ ฉันมั่นใจ และกุญแจสำคัญก็อยู่กับเอ็กซาร์กนั่นแหละ"
+    },
+    {
+      "key": "prayreturntothefirstandapprisehimandtheothersofthesituation",
+      "text_en": "Pray return to the First and apprise him and the others of the situation.",
+      "text": "ช่วยรีเทิร์นไปยังเดอะ เฟิสต์ (พิภพที่หนึ่ง) และแจ้งสถานการณ์ให้เอ็กซาร์ชกับคนอื่นๆ ทราบทีนะ"
+    },
+    {
+      "key": "wemeanwhilewilldowhatwecanfromhereandifthefatesarekindwewillhavegoodnewstoshareuponyourreturn",
+      "text_en": "We, meanwhile, will do what we can from here and, if the fates are kind, we will have good news to share upon your return.",
+      "text": "ระหว่างนี้ทางนี้จะทำเท่าที่ทำได้ และหากโชคชะตาเมตตา คงมีข่าวดีมาบอกยามที่นายรีเทิร์น"
+    },
+    {
+      "key": "takecareoverinthefirstforenamewerecountingonyouandthecrystalexarchtobringourfriendshome",
+      "text_en": "Take care over in the First, Forename . We're counting on you and the Crystal Exarch to bring our friends home.",
+      "text": "ดูแลตัวเองด้วยนะคะที่เดอะ เฟิสต์ คุณ Forename ฝากคุณกับคริสตัลเอ็กซาร์ชพาเพื่อนๆ กลับบ้านด้วยนะคะ"
+    },
+    {
+      "key": "dontyouworrymastermatoyaandiwillthinkofsomething",
+      "text_en": "Don't you worry. Master Matoya and I will think of something.",
+      "text": "ไม่ต้องกังวลไปนะ ฉันกับอาจารย์มาโตยาจะช่วยกันคิดหาทางเอง"
+    },
+    {
+      "key": "tataruhasapprisedusofthearchonsconditionrestassuredwewilldoourutmosttoassistmistresskrileinherministrations",
+      "text_en": "Tataru has apprised us of the Archons' condition. Rest assured, we will do our utmost to assist Mistress Krile in her ministrations.",
+      "text": "คุณทาทารุแจ้งเรื่องอาการของเหล่าอาร์คอนให้ทราบแล้วค่ะ วางใจได้นะคะ ทางนี้จะช่วยสนับสนุนการดูแลรักษาของคุณครูว์ลอย่างสุดกำลังค่ะ"
+    },
+    {
+      "key": "ahforenameyouarereturnedihopeyourtimeinthesourcewassuitablyrestful",
+      "text_en": "Ah, Forename , you are returned. I hope your time in the Source was suitably restful?",
+      "text": "อ๊ะ คุณ Forename รีเทิร์นกลับมาแล้วหรือครับ หวังว่าช่วงเวลาที่อยู่ในโลกเดิมจะทำให้ได้พักผ่อนอย่างเต็มที่นะครับ"
+    },
+    {
+      "key": "butofcourseitwasntgoon",
+      "text_en": "...But of course it wasn't. Go on...",
+      "text": "...แต่ก็แน่ล่ะ คงไม่ได้พักเลยสินะครับ เชิญพูดต่อเถอะครับ..."
+    },
+    {
+      "key": "theircorporealaethershowssignsofinstabilitybythegodsthepossibilityneverevenoccurredtome",
+      "text_en": "Their corporeal aether shows signs of instability ? By the gods... The possibility never even occurred to me...",
+      "text": "เอเธอร์ในร่างเนื้อส่อแววไม่เสถียรอย่างนั้นหรือครับ... คุณพระช่วย... ไม่เคยคิดถึงความเป็นไปได้นี้มาก่อนเลย..."
+    },
+    {
+      "key": "ifyouhavereturnedinthehopethatmyresearchhasyieldedasolutionifearyouwillbesorelydisappointed",
+      "text_en": "If you have returned in the hope that my research has yielded a solution, I fear you will be sorely disappointed.",
+      "text": "หากคุณรีเทิร์นกลับมาด้วยความหวังว่างานวิจัยของผมจะพบทางแก้แล้วละก็ เกรงว่าจะต้องผิดหวังอย่างยิ่งแล้วครับ"
+    },
+    {
+      "key": "tisbutamercywehavethelikesofmistresskrileandmastermatoyatokeepourfriendsbodiessafewhilewewrestlewiththeproblem",
+      "text_en": "'Tis but a mercy we have the likes of Mistress Krile and Master Matoya to keep our friends' bodies safe while we wrestle with the problem.",
+      "text": "ยังนับเป็นความเมตตาที่คุณครูว์ลและอาจารย์มาโตยาคอยประคับประคองร่างของเพื่อนๆ ให้ปลอดภัย ในระหว่างที่เราพยายามแก้ปัญหานี้อยู่"
+    },
+    {
+      "key": "buttheycannotforestalltheseparationofbodyandsoulindefinitelycometheothersmustbetold",
+      "text_en": "But they cannot forestall the separation of body and soul indefinitely. Come, the others must be told.",
+      "text": "แต่พวกท่านคงไม่อาจยื้อเวลาไม่ให้กายกับจิตแยกจากกันได้ตลอดไป มาเถอะครับ ต้องรีบไปบอกคนอื่นๆ แล้ว"
+    },
+    {
+      "key": "prayexcusemylatearrival",
+      "text_en": "Pray excuse my late arrival.",
+      "text": "โปรดอภัยด้วยที่มาร่วมประชุมล่าช้า"
+    },
+    {
+      "key": "willthancredandrynenotbejoiningus",
+      "text_en": "Will Thancred and Ryne not be joining us?",
+      "text": "แธนครีดกับไรน์จะไม่มาสมทบหรือ"
+    },
+    {
+      "key": "naymiladywithapologiestoalltheybegleavetopursuetheirinvestigationoftheemptytoitsconclusionshouldmattersheredemandtheirpresencehowevertheydidassuremethattheywouldmakethemselvesavailable",
+      "text_en": "Nay, milady. With apologies to all, they beg leave to pursue their investigation of the Empty to its conclusion. Should matters here demand their presence, however, they did assure me that they would make themselves available.",
+      "text": "มิใช่เช่นนั้น ท่านหญิง ต้องขออภัยทุกท่านด้วย ทั้งคู่ขออนุญาตสืบสวนเรื่องดิเอมป์ตีต่อจนเสร็จสิ้น ทว่าหากมีเรื่องเร่งด่วนที่ต้องการตัว ก็รับปากว่าจะรีบมาทันที"
+    },
+    {
+      "key": "yesofcoursethenletusproceed",
+      "text_en": "Yes, of course. Then let us proceed.",
+      "text": "เข้าใจแล้วครับ ถ้าอย่างนั้นก็เริ่มกันเลย"
+    },
+    {
+      "key": "iithinkitbestthatyoubeginbyprovidingasummaryofmistresskrilesfindings",
+      "text_en": "I...I think it best that you begin by providing a summary of Mistress Krile's findings.",
+      "text": "ผม...ผมคิดว่าเริ่มต้นด้วยการสรุปสิ่งที่ครีลค้นพบก่อนน่าจะดีที่สุดครับ"
+    },
+    {
+      "key": "isupposeitwasonlytobeexpectedthatsomechangewouldoccur",
+      "text_en": "I suppose it was only to be expected that some change would occur...",
+      "text": "คิดไว้แล้วเชียวว่าคงเลี่ยงความเปลี่ยนแปลงบางอย่างไม่ได้..."
+    },
+    {
+      "key": "yetoursoulsseemunaffectedtomyeyeatleast",
+      "text_en": "Yet our souls seem unaffected. To my eye, at least.",
+      "text": "ทว่าวิญญาณของพวกเราดูไม่ได้รับผลกระทบ อย่างน้อยก็ในดวงตามังกรของฉัน"
+    },
+    {
+      "key": "howlongtheywillremainsoisanotherquestionkrileisrightitisimperativewefindawaytoreturntothesource",
+      "text_en": "How long they will remain so is another question. Krile is right. It is imperative we find a way to return to the Source.",
+      "text": "จะคงสภาพเช่นนั้นได้อีกนานเท่าใดก็เป็นอีกเรื่อง ไครล์พูดถูก พวกเราจำเป็นต้องหาทางรีเทิร์นสู่โลกเดิมให้ได้"
+    },
+    {
+      "key": "perhapsanexplanationofthemethodbywhichibroughtyouherewillyieldsomeinspiration",
+      "text_en": "Perhaps an explanation of the method by which I brought you here will yield some inspiration.",
+      "text": "บางที หากผมอธิบายวิธีที่ใช้พาทุกท่านมาที่นี่ อาจช่วยให้คิดหาทางออกได้บ้างก็เป็นได้ครับ"
+    },
+    {
+      "key": "ereibeginitmustbenotedthatiambynomeansagiftedmageinordertoemploypowerfulmagicksimustrelyuponthecrystaltoweranditsboundlessreservoirsofenergy",
+      "text_en": "Ere I begin, it must be noted that I am by no means a gifted mage. In order to employ powerful magicks, I must rely upon the Crystal Tower and its boundless reservoirs of energy.",
+      "text": "ก่อนจะเริ่ม ต้องขอบอกว่าไม่ได้เป็นผู้วิเศษผู้เปี่ยมพรสวรรค์เลยสักนิด การจะใช้เวทมนตร์อันทรงพลังของภาคี จำต้องพึ่งพาคริสตัลทาวเวอร์และแหล่งกักเก็บพลังงานอันไร้ขอบเขต"
+    },
+    {
+      "key": "themagickthatsummonedyouwasnoexceptiontisasingularspelladaptedthroughpainstakingeffortfromthetechniquethattransportedmetothefirst",
+      "text_en": "The magick that summoned you was no exception. 'Tis a singular spell, adapted through painstaking effort from the technique that transported me to the First.",
+      "text": "เวทมนตร์ที่เรียกเธอมาก็ไม่ต่างกัน เป็นคาถาเฉพาะตัวที่ดัดแปลงด้วยความอุตสาหะยิ่งยวดจากวิชาที่ส่งฉันมายังเดอะ เฟิสต์"
+    },
+    {
+      "key": "touseananalogyitworksbycuttingaholeinthefabricofrealityaholetailoredtotheobjectofsummoningthroughwhichitanditalonemaypassunscathed",
+      "text_en": "To use an analogy, it works by cutting a hole in the fabric of reality. A hole tailored to the object of summoning, through which it─and it alone─may pass unscathed.",
+      "text": "หากจะเปรียบให้เห็นภาพ คาถานี้ทำงานโดยเจาะช่องบนผืนมิติแห่งความเป็นจริง ช่องที่ปรับแต่งมาเพื่อรองรับสิ่งที่จะอัญเชิญโดยเฉพาะ เพื่อให้สิ่งนั้น—และเพียงสิ่งนั้นสิ่งเดียว—ผ่านข้ามมาได้โดยไร้รอยขีดข่วน"
+    },
+    {
+      "key": "thoughisucceededincreatingsaidholeifailedtolatchontomyintendedtargetinsteadofyouthespellfoundthoseclosetoyouandendedupsummoningthemintheirincompletestate",
+      "text_en": "Though I succeeded in creating said hole, I failed to latch onto my intended target. Instead of you, the spell found those close to you, and ended up summoning them in their incomplete state...",
+      "text": "แม้ผมจะเปิดช่องดังกล่าวได้สำเร็จ แต่กลับล้มเหลวในการเหนี่ยวรั้งเป้าหมายที่ตั้งใจไว้ คาถากลับไปคว้าตัวคนใกล้ชิดของท่านแทน และอัญเชิญมาในสภาพที่ไม่สมบูรณ์..."
+    },
+    {
+      "key": "iwouldnotsoonthrowmylifeawaynotafterthelengthsyouandyourswenttosaveit",
+      "text_en": "I would not soon throw my life away─not after the lengths you and yours went to save it.",
+      "text": "ผมไม่คิดจะทิ้งขว้างชีวิตตัวเองง่ายๆ หรอก โดยเฉพาะหลังจากที่ท่านและมิตรสหายอุตส่าห์ฝ่าฟันตั้งมากมายเพื่อช่วยชีวิตนี้ไว้"
+    },
+    {
+      "key": "andsolongasibreatheiwillsparenoefforttoseeyousafelyhome",
+      "text_en": "And so long as I breathe, I will spare no effort to see you safely home.",
+      "text": "และตราบใดที่ยังมีลมหายใจ ผมจะทุ่มเททุกวิถีทางเพื่อส่งท่านกลับบ้านอย่างปลอดภัย"
+    },
+    {
+      "key": "butshouldallelsefailandyourlivesbeatstakethereremainsonesuremethod",
+      "text_en": "But should all else fail, and your lives be at stake, there remains one sure method...",
+      "text": "แต่หากหนทางอื่นล้มเหลว และชีวิตของพวกท่านตกอยู่ในอันตราย ก็ยังเหลืออีกวิธีหนึ่งที่ได้ผลแน่นอน..."
+    },
+    {
+      "key": "ow",
+      "text_en": "Ow!",
+      "text": "โอ๊ย!"
+    },
+    {
+      "key": "whatwasthatfor",
+      "text_en": "What was that for!?",
+      "text": "ตีผมทำไมกันครับ!?"
+    },
+    {
+      "key": "howcanyouevenentertainsuchthoughtsyouoweyourlifetothewarrioroflightandyoudontgettodieunlessheshesaysso",
+      "text_en": "How can you even entertain such thoughts!? You owe your life to the Warrior of Light, and you don't get to die unless he / she says so.",
+      "text": "คิดเรื่องพรรค์นั้นขึ้นมาได้ยังไงกัน! นายเป็นหนี้ชีวิตนักรบแห่งแสงนะ และไม่มีสิทธิ์ตายเด็ดขาดจนกว่านักรบแห่งแสงจะอนุญาต!"
+    },
+    {
+      "key": "yourfollowersawaityourdivinejudgment",
+      "text_en": "Your followers await your divine judgment.",
+      "text": "เหล่าผู้ติดตามของท่านต่างเฝ้ารอรับคำตัดสินอันศักดิ์สิทธิ์จากท่านแล้ว"
+    },
+    {
+      "key": "whatdidyoujust",
+      "text_en": "What did you just─",
+      "text": "เมื่อกี้พูดว่าอะไรนะ─"
+    },
+    {
+      "key": "what",
+      "text_en": "What?",
+      "text": "อะไรนะ"
+    },
+    {
+      "key": "ifthetwoofyouhavefinishedperhapswecouldreturntoourdiscussion",
+      "text_en": "If the two of you have finished, perhaps we could return to our discussion?",
+      "text": "หากพูดคุยกันเสร็จเรียบร้อยแล้ว บางทีเราควรรีเทิร์นเข้าสู่การสนทนาต่อกันดีหรือไม่"
+    },
+    {
+      "key": "ratherthandwellinguponthemultiplefailedattemptsattransferenceithinkitwouldbehooveustofocusonthesolitarysuccess",
+      "text_en": "Rather than dwelling upon the multiple failed attempts at transference, I think it would behoove us to focus on the solitary success.",
+      "text": "แทนที่จะเอาแต่กังวลกับความล้มเหลวในการย้ายร่างซ้ำแล้วซ้ำเล่า ฉันคิดว่าควรหันมาสนใจความสำเร็จเพียงหนึ่งเดียวจะดีกว่า"
+    },
+    {
+      "key": "iwoulddrawyourattentiontothefactthatourfriendcantravelbetweenworldspossessednotonlyofhisherbodyandsoulbuthisherpersonaleffectsbesides",
+      "text_en": "I would draw your attention to the fact that our friend can travel between worlds possessed not only of his / her body and soul, but his / her personal effects besides.",
+      "text": "ฉันอยากให้ทุกคนสังเกตความจริงข้อหนึ่ง สหายของเราสามารถเดินทางข้ามโลกได้โดยไม่ได้พกไปเพียงร่างกายและจิตวิญญาณเท่านั้น แต่ยังมีข้าวของเครื่องใช้ส่วนตัวติดตัวไปด้วย"
+    },
+    {
+      "key": "thisisnodifferentfromtheteleportationmagickstowhichweareallaccustomedmagicksthatallowforthetransportationofthoseinanimateobjectsoneconsiderstobeanextensionofoneself",
+      "text_en": "This is no different from the teleportation magicks to which we are all accustomed─magicks that allow for the transportation of those inanimate objects one considers to be an extension of oneself.",
+      "text": "นี่ไม่ต่างอะไรจากเวทมนตร์เคลื่อนย้ายพริบตาที่เราคุ้นเคยกันดี─เวทมนตร์ที่ช่วยส่งผ่านสิ่งของไร้ชีวิตอันนับเป็นเสมือนส่วนหนึ่งของตัวเราให้ติดตามไปด้วย"
+    },
+    {
+      "key": "areyousuggestingthatsimplybyconsideringushisherpossessionsheshecouldcarryoursoulsbacktothesourceuponhisherperson",
+      "text_en": "Are you suggesting that, simply by considering us his / her possessions, he / she could carry our souls back to the Source upon his / her person?",
+      "text": "ท่านกำลังเสนอว่า เพียงแค่สหายของเราคิดว่าพวกเราเป็นสิ่งของในครอบครอง ก็สามารถพาวิญญาณกลับไปยังโลกเดิมติดตัวไปด้วยได้เช่นนั้นหรือ"
+    },
+    {
+      "key": "wellitwouldbeniceifthingswerethatsimpleforachange",
+      "text_en": "Well, it would be nice if things were that simple for a change.",
+      "text": "ก็นะ ถ้าเรื่องมันจะง่ายดายแบบนั้นบ้างสักครั้งก็คงดีไม่น้อย"
+    },
+    {
+      "key": "butvaguenotionsofownershipseemarathertenuousthingtostakeourlivesonsomuchasamomentofdoubtonhisherpartandwedbeleftfloatingintherift",
+      "text_en": "But vague notions of ownership seem a rather tenuous thing to stake our lives on. So much as a moment of doubt on his / her part, and we'd be left floating in the rift.",
+      "text": "แต่ความคิดเลื่อนลอยเรื่องความเป็นเจ้าของดูจะเปราะบางเกินกว่าจะเอาชีวิตไปเสี่ยง หากเกิดลังเลใจขึ้นมาแม้เพียงแวบเดียว คงต้องลอยเคว้งอยู่ในรอยแยกมิติแน่"
+    },
+    {
+      "key": "miladyhaththerightofittherequisitefixityofbeliefwouldbetoomuchtoaskevenofourfriend",
+      "text_en": "Milady hath the right of it. The requisite fixity of belief would be too much to ask even of our friend.",
+      "text": "ท่านหญิงกล่าวถูกต้องแล้ว ความแน่วแน่แห่งจิตอันมั่นคงถึงเพียงนั้น ย่อมเป็นเรื่องเกินกำลังจะเรียกร้อง แม้กระทั่งจากสหายของเราก็ตาม"
+    },
+    {
+      "key": "yetwerewetoimmureoursoulswithinanobjectinhisherpossessionmayhapthenoursafepassagecouldbeassured",
+      "text_en": "Yet were we to immure our souls within an object in his / her possession, mayhap then our safe passage could be assured.",
+      "text": "ทว่าหากพวกเราฝากดวงวิญญาณไว้ในสิ่งของที่ท่านครอบครองไว้ บางทีคงพอรับประกันได้ว่าจะเดินทางผ่านพ้นไปอย่างปลอดภัย"
+    },
+    {
+      "key": "whiteauracitewouldibelieveserveasasuitablevesselforthispurposetwasconceivedtoimprisonthemassysoulofanascianandshouldhouseoneofourswithrelativeease",
+      "text_en": "White auracite would, I believe, serve as a suitable vessel for this purpose. 'Twas conceived to imprison the massy soul of an Ascian, and should house one of ours with relative ease.",
+      "text": "ข้าพเจ้าเชื่อว่าออราไซต์สีขาวน่าจะเป็นภาชนะที่เหมาะสมกับจุดประสงค์นี้ เดิมทีสิ่งนี้สร้างขึ้นเพื่อกักขังดวงวิญญาณอันหนาแน่นของแอสเซียน ย่อมรองรับดวงวิญญาณของพวกเราได้โดยง่าย"
+    },
+    {
+      "key": "wewouldneedonlytoensureoursoulssafepreservationinsidethestoneandidentifyameansbywhichtheymightbetransferredbackuntoourvacantbodies",
+      "text_en": "We would need only to ensure our souls' safe preservation inside the stone, and identify a means by which they might be transferred back unto our vacant bodies.",
+      "text": "พวกเราเพียงต้องดูแลให้ดวงวิญญาณคงอยู่อย่างปลอดภัยภายในหินนั้น แล้วจึงหาหนทางนำกลับคืนสู่ร่างอันว่างเปล่าของพวกเรา"
+    },
+    {
+      "key": "soulpreservationandtransferencehmibelieveiknowofsomeonewhomaybeabletoassistus",
+      "text_en": "Soul preservation and transference... Hm. I believe I know of someone who may be able to assist us.",
+      "text": "การคงสภาพและการส่งผ่านดวงวิญญาณ... อืม ผมคิดว่าพอจะรู้จักใครบางคนที่อาจช่วยเราได้ครับ"
+    },
+    {
+      "key": "onthefarshoreofthesourcetherestandsagreatpalacebuiltbytheelves",
+      "text_en": "On the far shore of the Source, there stands a great palace built by the elves.",
+      "text": "พระราชวังหลวงหลังใหญ่ที่พวกเอลฟ์สร้างไว้ตั้งตระหง่านอยู่ ณ อีกฟากฝั่งของโลกเดิม"
+    },
+    {
+      "key": "itwasforsakeninthewakeofthefloodbutacertainnumouchosetomaketheirhometheresoonafter",
+      "text_en": "It was forsaken in the wake of the Flood, but a certain Nu Mou chose to make their home there soon after.",
+      "text": "ผู้คนพากันทิ้งร้างพระราชวังแห่งนี้ไปหลังเกิดมหาอุทกภัย ทว่าไม่นานหลังจากนั้น นูโมวตนหนึ่งกลับเลือกมาตั้งถิ่นฐานอยู่ที่นี่"
+    },
+    {
+      "key": "thoughtheyhavelonglivedasareclusetheyonceoccupiedaplaceofhonorinvoeburtsroyalcourtanditissaidthatnoneinallofnorvrandtismoreknowledgeablethantheyonmattersofthesoul",
+      "text_en": "Though they have long lived as a recluse, they once occupied a place of honor in Voeburt's royal court, and it is said that none in all of Norvrandt is more knowledgeable than they on matters of the soul.",
+      "text": "แม้ปลีกตัวไปใช้ชีวิตอย่างโดดเดี่ยวมานาน ทว่าครั้งหนึ่งเคยได้รับเกียรติอย่างสูงในราชสำนักโวเบิร์ต และว่ากันว่าทั่วทั้งนอร์วรันด์ไม่มีใครรอบรู้เรื่องจิตวิญญาณมากไปกว่านี้อีกแล้ว"
+    },
+    {
+      "key": "wellivenoobjectiontoseekingahelpinghandbutiftheyvegonetosuchlengthstohidethemselvesawayfromtheworldwhatmakesyouthinktheydbewillingtolendusone",
+      "text_en": "Well, I've no objection to seeking a helping hand, but if they've gone to such lengths to hide themselves away from the world, what makes you think they'd be willing to lend us one?",
+      "text": "ฉันไม่คิดขัดข้องเรื่องหาคนช่วยหรอกนะ แต่ในเมื่ออุตส่าห์ซ่อนตัวจากโลกภายนอกถึงเพียงนั้น อะไรทำให้คิดว่าจะยอมยื่นมือเข้าช่วยล่ะ"
+    },
+    {
+      "key": "hehaworthyquestionyearsagoimyselftriedandfailedtosolicittheircooperationinthebattleagainstthesineaters",
+      "text_en": "Heh. A worthy question. Years ago, I myself tried─and failed─to solicit their cooperation in the battle against the sin eaters.",
+      "text": "หึๆ เป็นคำถามที่ดีทีเดียว หลายปีก่อน ผมเองก็เคยลองขอร้องให้มาร่วมมือกันต่อสู้กับซินอีตเตอร์ แต่ก็ล้มเหลวไม่เป็นท่า"
+    },
+    {
+      "key": "nosoonerhadibeguntomakemypleathantheyunleashedaswarmoftheirfamiliarsuponme",
+      "text_en": "No sooner had I begun to make my plea than they unleashed a swarm of their familiars upon me.",
+      "text": "ยังไม่ทันที่ผมจะได้เอ่ยปากขอร้องด้วยซ้ำ ฝูงสัตว์รับใช้ก็พุ่งเข้าใส่ผมทันที"
+    },
+    {
+      "key": "unlikemehoweveryouhavecurriedfavorwiththefaefolkbythatmeritaloneiamhopefulthattheywouldgrantyouanaudience",
+      "text_en": "Unlike me, however, you have curried favor with the fae folk. By that merit alone, I am hopeful that they would grant you an audience.",
+      "text": "แต่ต่างจากผม คุณได้รับความเอ็นดูจากชาวแฟรี่ ด้วยเหตุผลนี้เพียงข้อเดียว ผมจึงหวังว่าพวกเขาจะยอมให้เข้าพบ"
+    },
+    {
+      "key": "theymaystillbeinclinedtoturnyouawayofcoursebutiftheirknowledgemightfeasiblyfacilitateyourreturnhomewehavetotry",
+      "text_en": "They may still be inclined to turn you away, of course, but if their knowledge might feasibly facilitate your return home, we have to try.",
+      "text": "แน่นอนว่าพวกเขาอาจยังปฏิเสธไม่ยอมรับพบ แต่ถ้าความรู้ของพวกเขาพอจะช่วยให้การรีเทิร์นกลับบ้านมีความเป็นไปได้ เราก็ต้องลองดู"
+    }
+  ]
+}
