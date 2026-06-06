@@ -1,0 +1,885 @@
+{
+  "quest_id": "sage-council",
+  "dialogues": [
+    {
+      "key": "mmmmuffinsiwonderifthisishowpuddingwayfeltthefirsttimeuriangermadepudding",
+      "text_en": "Mmm, muffins... I wonder if this is how Puddingway felt the first time Urianger made pudding?",
+      "text": "อืม มัฟฟิน... ผมอยากรู้จังว่าพุดดิ้งเวย์รู้สึกแบบนี้หรือเปล่าตอนที่ยูเรียนเจย์ทำพุดดิ้งให้กินเป็นครั้งแรก... หมายถึงครั้งแรกสุดเลยน่ะครับ ไม่ใช่ครั้งแรกที่เดอะ เฟิสต์หรือพิภพที่หนึ่งหรอกนะ"
+    },
+    {
+      "key": "thoughimnotsurethatactuallywaspuddingcometothinkofitsomethingaboutitseemedabitoff",
+      "text_en": "Though I'm not sure that actually was pudding, come to think of it. Something about it seemed a bit...off...",
+      "text": "จะว่าไป ผมก็ไม่แน่ใจเหมือนกันว่านั่นคือพุดดิ้งจริงๆ หรือเปล่า รู้สึกเหมือนมัน... แปลกๆ ไปสักหน่อย..."
+    },
+    {
+      "key": "forenameitrustthytimeatmeryallagronomicsdidbearfruit",
+      "text_en": "Forename . I trust thy time at Meryall Agronomics did...<cough>...bear fruit?",
+      "text": "คุณ[Forename] ข้าพเจ้าหวังว่าช่วงเวลาของท่าน ณ เมอเรียล อะโกรโนมิกส์ จะ... <ไอ> ...สัมฤทธิผลกระมัง"
+    },
+    {
+      "key": "ourowneffortstoowererewardedwenowpossessanembarrassmentofeducationalriches",
+      "text_en": "Our own efforts, too, were rewarded ─ we now possess an embarrassment of educational riches.",
+      "text": "ความพยายามของพวกเราเองก็สัมฤทธิผลเช่นกัน ─ ยามนี้พวกเราครอบครองขุมทรัพย์ความรู้มากมายมหาศาลจนเลือกไม่ถูกเลยทีเดียว"
+    },
+    {
+      "key": "nodoubtourguestsrelentlesspursuitofknowledgecouldoccupythemandusforafortnightalastimeisoftheessence",
+      "text_en": "No doubt our guests' relentless pursuit of knowledge could occupy them ─ and us ─ for a fortnight. Alas, time is of the essence.",
+      "text": "การเสาะแสวงหาความรู้อย่างไม่ลดละของแขกผู้มาเยือนคงทำให้พวกเขา ─ และพวกเรา ─ ยุ่งอยู่ได้เป็นปักษ์เลยทีเดียว ทว่า ช่างน่าเสียดายที่ยามนี้เวลาเป็นสิ่งมีค่ายิ่งนัก"
+    },
+    {
+      "key": "letusreturntosharlayanhamletforthwithishallgladlyattendtoeachandeveryloporritthereshouldfurtherquestionswithinmypowertoanswerarise",
+      "text_en": "Let us return to Sharlayan Hamlet forthwith. I shall gladly attend to each and every Loporrit there, should further questions within my power to answer arise.",
+      "text": "พวกเราควรรีเทิร์นกลับไปยังชาลายันแฮมเล็ตโดยพลัน หากคำถามเพิ่มเติมที่อยู่ในวิสัยที่ข้าพเจ้าจะตอบได้ผุดขึ้นมา ข้าพเจ้ายินดีจะช่วยเหลือตอบข้อสงสัยให้แก่โลพอริตทุกตัวที่นั่นอย่างยิ่ง"
+    },
+    {
+      "key": "aw",
+      "text_en": "Aw...",
+      "text": "ว้า..."
+    },
+    {
+      "key": "theloporritswantforactivitiesandstimulationbutistruggletoconceiveofhowtobusythemwhilstwewait",
+      "text_en": "The Loporrits want for activities and stimulation, but I struggle to conceive of how to busy them whilst we wait...",
+      "text": "เหล่าโลพอร์ริตต้องการกิจกรรมและสิ่งเร้าใจ ทว่าข้าพเจ้ากลับคิดหาหนทางช่วยให้พวกเขายุ่งอยู่ตลอดเวลาระหว่างรอคอยไม่ออกเลย..."
+    },
+    {
+      "key": "ohnotherewasnowhereinparticulariwashopingtogo",
+      "text_en": "Oh, no, there was nowhere in particular I was hoping to go.",
+      "text": "เปล่าเลยจ้ะ ฉันไม่ได้ตั้งใจจะไปยังสถานที่แห่งใดเป็นพิเศษหรอกนะ"
+    },
+    {
+      "key": "isimplywishtoseehearfeelandthinkasmuchasipossiblycanwhilewereherehmmwhatisthatlookforwhatdidisay",
+      "text_en": "I simply wish to see, hear, feel, and think as much as I possibly can while we're here... Hmm? What is that look for? What did I say?",
+      "text": "ฉันเพียงแต่ปรารถนาจะสัมผัส มองเห็น ได้ยิน และขบคิดทุกสิ่งให้มากที่สุดเท่าที่จะทำได้ในระหว่างที่พวกเราอยู่ที่นี่เท่านั้นเอง... หืม? มองฉันด้วยสายตาแบบนั้นทำไมกันจ๊ะ? ฉันพูดอะไรผิดไปงั้นหรือ?"
+    },
+    {
+      "key": "thatwaseversodelightfulandwiththismuchinformationicanfinetunethemoonsenvironsforyourpeoplescomfortitssurprisinglytrickytoestimatetheappropriatetemperaturesettingsforbeingssolackinginfur",
+      "text_en": "That was ever so delightful! And with this much information, I can fine-tune the moon's environs for your people's comfort! It's surprisingly tricky to estimate the appropriate temperature settings for beings so lacking in fur...",
+      "text": "ช่างน่ายินดีเหลือเกินครับ! และเมื่อได้ข้อมูลมากมายขนาดนี้ ผมก็ปรับแต่งสภาพแวดล้อมบนดวงจันทร์เพื่อความสะดวกสบายของพวกคุณได้ดียิ่งขึ้นแล้ว! การกะอุณหภูมิที่เหมาะสมให้กับสิ่งมีชีวิตที่ไม่มีขนปกคลุมเลยนี่ ยากกว่าที่คิดเอาไว้มากทีเดียวครับ..."
+    },
+    {
+      "key": "whydidinotaskjebkehowtomakecarrotmuffinswecouldhavehadbakedgoodsburstingwithhappiness",
+      "text_en": "Why did I not ask Jebke how to make carrot muffins!? We could have had baked goods bursting with happiness...",
+      "text": "ทำไมผมถึงไม่ได้ถามเจ็บเคเรื่องวิธีทำมัฟฟินแครอทกันนะ! ไม่อย่างนั้นพวกเราคงได้ขนมอบแสนอร่อยที่อบอวลไปด้วยความสุขแท้ๆ..."
+    },
+    {
+      "key": "siiigh",
+      "text_en": "Siiigh...",
+      "text": "เฮ้อ..."
+    },
+    {
+      "key": "yesforenamethatwasindeedmeverbalizingasightoexpressmyemotionalstatedoyouwanttoknowwhy",
+      "text_en": "Yes, Forename , that was indeed me verbalizing a sigh to express my emotional state. Do you want to know why?",
+      "text": "ครับ คุณ Forename นั่นคือเสียงถอนหายใจที่ผมเปล่งออกมาเพื่อแสดงสภาพอารมณ์ของตัวเองจริงๆ ครับ อยากรู้เหตุผลไหมครับว่าทำไม"
+    },
+    {
+      "key": "becauseisawthereconstructedenvironmentaldataforetheirysatlogistikonalphathatswhy",
+      "text_en": "Because I saw the reconstructed environmental data for Etheirys at Logistikon Alpha, that's why!",
+      "text": "ก็เพราะผมได้เห็นข้อมูลจำลองสภาพแวดล้อมของเอเธียริสที่โลจิสติคอน อัลฟา มาน่ะสิครับ!"
+    },
+    {
+      "key": "aforestsolovelyandsosoleafyareallofyourforestslikethat",
+      "text_en": "A forest so lovely, and so...so... leafy . Are all of your forests like that?",
+      "text": "ผืนป่าช่างงดงามเหลือเกิน แถมยัง...ยัง... เขียวชอุ่มเต็มไปด้วยใบไม้ใบหญ้าขนาดนั้น ป่าไม้ทั้งหมดของพวกคุณเป็นแบบนั้นรึเปล่าครับ"
+    },
+    {
+      "key": "gaspgaspisay",
+      "text_en": "Gasp! Gasp, I say!",
+      "text": "คุณพระช่วย! คุณพระช่วยจริงๆ นะครับ!"
+    },
+    {
+      "key": "withastarsowonderfulitcomesasnosurprisethatyourereluctanttoleaveitbehindiwasafooltothinkotherwisetoassumethatthemoonwassomethingworthbeingproudof",
+      "text_en": "With a star so wonderful, it comes as no surprise that you're reluctant to leave it behind. I was a fool to think otherwise ─ to assume that the moon was something worth being proud of.",
+      "text": "ในเมื่อดวงดาวงดงามปานนี้ ก็ไม่แปลกใจเลยครับที่คุณจะตัดใจทิ้งมันไปไม่ลง ผมช่างโง่เขลาเหลือเกินที่คิดเป็นอื่น ─ ที่เหมาเอาเองว่าดวงจันทร์นี้เป็นสิ่งน่าภาคภูมิใจนักหนา"
+    },
+    {
+      "key": "howridiculouswemustseemtoyoutryingsohardyetachievingsolittle",
+      "text_en": "How ridiculous we must seem to you. Trying so hard, yet achieving so little...",
+      "text": "พวกเราคงดูน่าขำขันมากในสายตาของคุณสินะครับ อุตส่าห์พยายามกันแทบตาย แต่กลับทำผลงานออกมาได้เพียงเท่านี้เอง..."
+    },
+    {
+      "key": "notatallthyworksarenolessworthyfortheiruniqueness",
+      "text_en": "Not at all. Thy works are no less worthy for their uniqueness.",
+      "text": "หามิได้เลย ผลงานของพวกท่านมิได้ด้อยค่าลงเลยแม้แต่น้อย ด้วยความพิเศษเฉพาะตัวอันเป็นเอกลักษณ์นั้น"
+    },
+    {
+      "key": "ithoughtiheardtinyvoices",
+      "text_en": "I thought I heard tiny voices.",
+      "text": "นึกว่าแว่วได้ยินเสียงเล็กๆ เสียอีก"
+    },
+    {
+      "key": "thancred",
+      "text_en": "Thancred!",
+      "text": "แธนเครด!"
+    },
+    {
+      "key": "howdidstthoufare",
+      "text_en": "How didst thou fare?",
+      "text": "ทางนั้นได้ความว่าอย่างไรบ้าง"
+    },
+    {
+      "key": "ohiwasabletogleanafairbitfromtheresearcherswhilehelpingtomovetheircargo",
+      "text_en": "Oh, I was able to glean a fair bit from the researchers while helping to move their cargo.",
+      "text": "อ้อ ระหว่างช่วยขนของก็พอจะสืบข่าวคราวจากพวกนักวิจัยมาได้บ้างล่ะนะ"
+    },
+    {
+      "key": "preparationshaveproceededwithoutinterruptionheredespitenewsofthecomingendwehavetheforumsleadershiptothankforthat",
+      "text_en": "Preparations have proceeded without interruption here, despite news of the coming end. We have the Forum's leadership to thank for that.",
+      "text": "ที่นี่เตรียมการกันได้ราบรื่นไร้อุปสรรค แม้จะมีข่าวเรื่องวันสิ้นโลกโหมกระพือ ทั้งหมดนี้ต้องขอบคุณการนำของสภาฟอรัมล่ะนะ"
+    },
+    {
+      "key": "thatdoesntmeanpeoplearentworriedthoughquitetheopposite",
+      "text_en": "That doesn't mean people aren't worried, though. Quite the opposite.",
+      "text": "แต่ก็ใช่ว่าผู้คนจะไม่กังวลหรอกนะ ออกจะตรงกันข้ามเสียด้วยซ้ำ"
+    },
+    {
+      "key": "knowingdisastercouldstrikeatanymomenttheyhurrytocompletetheirworkequallyawarethatasingleerrorcouldbethedifferencebetweenlifeanddeathandwecanhardlytellthemtheresnocauseforconcern",
+      "text_en": "Knowing disaster could strike at any moment, they hurry to complete their work, equally aware that a single error could be the difference between life and death. And we can hardly tell them there's no cause for concern...",
+      "text": "เมื่อรู้ว่าภัยพิบัติอาจจู่โจมได้ทุกเมื่อ ต่างก็รีบเร่งสะสางงานให้เสร็จ ทว่าในขณะเดียวกันก็รู้ดีว่าความผิดพลาดเพียงนิดเดียวอาจชี้ชะตาความเป็นความตาย และเราเองก็ไม่อาจบอกให้วางใจได้เต็มปาก..."
+    },
+    {
+      "key": "perhapsnotthoughaidedbyourgoodlygrowingwaywemayyetfindotherwaystolightentheirburden",
+      "text_en": "Perhaps not... Though aided by our goodly Growingway, we may yet find other ways to lighten their burden.",
+      "text": "คงเป็นเช่นนั้น... แต่หากได้โกรวิงเวย์ผู้แสนดีคอยช่วยเหลือ บางทีเราอาจพบหนทางอื่นเพื่อช่วยแบ่งเบาภาระของคนเหล่านั้นลงบ้าง"
+    },
+    {
+      "key": "mmebeofusetotopeopleimhonoredthatyouwouldthinkmesocapablebutimnotsurethatimuptothechallenge",
+      "text_en": "M-Me!? Be of use to...to people ? I'm honored that you would think me so capable, but I'm not sure that I'm up to the challenge...",
+      "text": "ฉ-ฉันน่ะหรือครับ! จะทำประโยชน์ให้...ให้ผู้คนได้จริงหรือครับ! โกรวิงเวย์รู้สึกเป็นเกียรติอย่างยิ่งที่คุณเห็นว่ามีความสามารถถึงเพียงนั้น ทว่าฉันไม่แน่ใจเลยว่าจะรับมือไหว..."
+    },
+    {
+      "key": "neverthelessibelieveinthee",
+      "text_en": "Nevertheless, I believe in thee.",
+      "text": "ถึงกระนั้น ฉันก็เชื่อมั่นในตัวคุณ"
+    },
+    {
+      "key": "ifyousaysoiisupposeitcanthurttotry",
+      "text_en": "If you say so, I... I suppose it can't hurt to try.",
+      "text": "ถ้าคุณว่าอย่างนั้น...โกรวิ่งเวย์...โกรวิ่งเวย์คิดว่าลองดูก็คงไม่เสียหายอะไรครับ"
+    },
+    {
+      "key": "ipassedsomeonemopinginthewesternplazathatlookedtobeinneedofahelpingpawperhapsyoumightstartwithhim",
+      "text_en": "I passed someone moping in the western plaza that looked to be in need of a helping paw. Perhaps you might start with him?",
+      "text": "ตอนเดินผ่านลานกว้างฝั่งตะวันตก ผมเห็นใครคนหนึ่งนั่งเซื่องซึมอยู่ ท่าทางเหมือนต้องการอุ้งมือน้อยๆ เข้าไปช่วยเหลือ บางทีพวกคุณน่าจะเริ่มจากเขาก่อนดีไหม"
+    },
+    {
+      "key": "tisasgoodaplaceasanycome",
+      "text_en": "'Tis as good a place as any. Come.",
+      "text": "ที่นั่นก็เหมาะสมไม่ต่างจากที่ใด ไปกันเถอะ"
+    },
+    {
+      "key": "youdbestgowiththemidontthinkuriangermisjudgedhimbutgrowingwaydoeslooklikehecouldusesomeemotionalsupport",
+      "text_en": "You'd best go with them. I don't think Urianger misjudged him, but Growingway does look like he could use some emotional support.",
+      "text": "เธอควรตามพวกเขาไปนะ ผมไม่คิดว่ายูเรียนเจย์จะมองคนผิดหรอก แต่โกรวิ่งเวย์ดูท่าทางต้องการที่พึ่งทางใจอยู่ไม่น้อยเลย"
+    },
+    {
+      "key": "istillhaveworktocompleteelsewhereitrustthatiwontreturntofindanyloporritsintears",
+      "text_en": "I still have work to complete elsewhere. I trust that I won't return to find any Loporrits in tears...",
+      "text": "ผมยังมีงานต้องไปจัดการต่อที่อื่น หวังว่าตอนที่ผมรีเทิร์นกลับมาจะไม่เจอโลพอร์ริตตัวไหนนั่งร้องไห้นะ..."
+    },
+    {
+      "key": "ohcanihelpyou",
+      "text_en": "Oh... Can I help you?",
+      "text": "เอ่อ... มีอะไรให้ผมช่วยไหมครับ"
+    },
+    {
+      "key": "itisyouwhowouldhelpmeismyanxietytrulysoobvious",
+      "text_en": "...It is you who would help me? Is my anxiety truly so obvious?",
+      "text": "...พวกคุณต่างหากที่จะช่วยผมหรือครับ ความกังวลของผมมันแสดงออกชัดเจนขนาดนั้นเชียวหรือ"
+    },
+    {
+      "key": "aburdensharedisaburdeneasedpraytellusofthytroubles",
+      "text_en": "A burden shared is a burden eased. Pray, tell us of thy troubles.",
+      "text": "ความทุกข์ที่ได้แบ่งปันย่อมเบาบางลง โปรดบอกเล่าเรื่องราวที่กวนใจท่านให้พวกเราฟังเถิด"
+    },
+    {
+      "key": "thoselittlefellowsdolooklikegoodlisteners",
+      "text_en": "Those little fellows do look like good listeners...",
+      "text": "เจ้าตัวเล็กพวกนั้นดูท่าทางจะเป็นผู้ฟังที่ดีทีเดียว..."
+    },
+    {
+      "key": "imanengineeryouseeandwhattheysayoftheshipthatitsthesumofdecadesofsharlayaningenuitythatitsbuiltwithpeerlessallagantechnologyisalltruebut",
+      "text_en": "I'm an engineer, you see. And what they say of the ship ─ that it's the sum of decades of Sharlayan ingenuity, that it's built with peerless Allagan technology ─ is all true, but...",
+      "text": "คือผมเป็นวิศวกรน่ะครับ และเรื่องที่ใครต่อใครพูดถึงยานลำนี้... ว่าเป็นผลงานจากภูมิปัญญาอันล้ำเลิศนานหลายสิบปีของชาร์ลาแยน ทั้งยังสร้างขึ้นด้วยเทคโนโลยีอลาแกนอันหาที่เปรียบไม่ได้ ทั้งหมดนั้นเป็นความจริงทุกประการ แต่..."
+    },
+    {
+      "key": "iknowiknowthatnoneofthatsaguarantee",
+      "text_en": "I know ─ I know ─ that none of that's a guarantee.",
+      "text": "ผมรู้... รู้ดีครับ... ว่าเรื่องพวกนั้นไม่สามารถรับประกันอะไรได้เลยสักนิด"
+    },
+    {
+      "key": "weveneverbeforelaunchedastarfaringvesselletaloneflownitinthegreatexpanseallthetestsweverunhavebeenontheground",
+      "text_en": "We've never before launched a starfaring vessel ─ let alone flown it in the great expanse. All the tests we've run have been on the ground!",
+      "text": "พวกเราไม่เคยปล่อยยานท่องดาราสู่ห้วงเวหามาก่อนเลยด้วยซ้ำ อย่าว่าแต่บังคับให้มันบินไปในความเวิ้งว้างอันกว้างใหญ่พ้นโลกนั่นเลย การทดสอบที่ผ่านๆ มาก็ทำกันแต่บนพื้นดินแท้ๆ!"
+    },
+    {
+      "key": "onlyoperationalpersonnelandcargowillbeaboardforthefirstvoyagebutevensoifitfailsusthenwhatcanwedoandifitdoesntitcouldfallapartonthenextflightortheoneafterthat",
+      "text_en": "Only operational personnel and cargo will be aboard for the first voyage, but even so... If it fails us then, what can we do? And if it doesn't, it could fall apart on the next flight, or the one after that...",
+      "text": "การเดินทางเที่ยวแรกจะบรรทุกเพียงเจ้าหน้าที่ปฏิบัติการและสินค้าเท่านั้น แต่ถึงอย่างนั้น... หากยานขัดข้องขึ้นมาตอนนั้น พวกเราจะทำอย่างไรดี และต่อให้ผ่านไปได้ ยานก็อาจพังเป็นชิ้นๆ ในการบินเที่ยวถัดไป หรือไม่ก็เที่ยวหลังจากนั้น..."
+    },
+    {
+      "key": "wevedoneeverythingwecantopreventthatfromhappeningbutithardlymatterswethoughttheaetherburnersdesignwasflawlesstooandlookhowthatturnedout",
+      "text_en": "We've done everything we can to prevent that from happening, but it hardly matters. We thought the aetherburner's design was flawless, too, and look how that turned out...",
+      "text": "พวกเราทำทุกวิถีทางเพื่อไม่ให้เกิดเรื่องแบบนั้นขึ้นแล้วละครับ แต่มันก็แทบไม่ช่วยอะไรเลย ตอนนั้นพวกเราก็คิดว่าการออกแบบเตาเผาเอเธอร์นั้นสมบูรณ์แบบไร้ที่ติแล้วเหมือนกัน แต่ดูผลลัพธ์ที่ออกมาสิครับ..."
+    },
+    {
+      "key": "thouartfamiliarwiththesemostdauntingtechnologiesandthusdostthouholdthepowertoallayhisfears",
+      "text_en": "Thou art familiar with these most daunting technologies, and thus dost thou hold the power to allay his fears.",
+      "text": "ตัวท่านนั้นคุ้นเคยกับวิทยาการอันน่าครั่นคร้ามเหล่านี้เป็นอย่างดี ย่อมกุมอำนาจที่จะขจัดปัดเป่าความกังวลในใจของเขาให้มลายสิ้นได้"
+    },
+    {
+      "key": "ohierimnotsureaboutthatbutwell",
+      "text_en": "Oh! I, er...I'm not sure about that, but, well...",
+      "text": "โอ๊ะ! ผม... เออน่ะ... ผมก็ไม่ค่อยแน่ใจเรื่องนั้นเหมือนกันครับ แต่ว่า..."
+    },
+    {
+      "key": "maybeyoucouldtellmeifthereareanyaspectsoftheshipsdesignthatyoureespeciallyworriedabout",
+      "text_en": "Maybe you could tell me if there are any aspects of the ship's design that you're especially worried about?",
+      "text": "คุณกังวลใจเรื่องการออกแบบยานตรงจุดไหนเป็นพิเศษหรือเปล่าครับ ลองบอกผมหน่อยได้ไหม"
+    },
+    {
+      "key": "ourabilitytowalkaboutandperformourtasksforoneivedevisedameansbywhichtoemploygravityaspatiotemporalspelltoregulatetheenvironmentbutwhatifitsnotstrongenoughwhatifeveryonefloatsawayandbeginscrashingintothingsassoonasweveleftthestar",
+      "text_en": "Our ability to walk about and perform our tasks, for one. I've devised a means by which to employ Gravity ─ a spatiotemporal spell ─ to regulate the environment, but what if it's not strong enough? What if everyone floats away and begins crashing into things as soon as we've left the star?",
+      "text": "อย่างแรกเลยก็คือความสามารถในการเดินเหินและปฏิบัติงานของพวกเรานี่แหละครับ ผมคิดค้นวิธีใช้กราวิตี้ ─ ซึ่งเป็นเวทมนตร์กาลอวกาศ ─ มาควบคุมสภาพแวดล้อมเอาไว้ แต่จะเกิดอะไรขึ้นหากมันไม่แรงพอล่ะครับ ถ้าทุกคนตัวลอยละลิ่วแล้วเริ่มลอยไปชนโน่นชนนี่ทันทีที่เราเดินทางพ้นจากดวงดาวดวงนี้ไปล่ะ"
+    },
+    {
+      "key": "ahagravitationmaybeicanbeofhelpafterall",
+      "text_en": "Aha, gravitation! Maybe I can be of help after all!",
+      "text": "อ๋อ เรื่องแรงโน้มถ่วงนี่เอง! บางทีผมอาจจะพอช่วยอะไรได้บ้างแล้วละครับ!"
+    },
+    {
+      "key": "upthereisnotsodifferentfromdownhereyouseethesamerulesapplyandifyouconsiderthemaspartofonegreatbigcosmosratherthanseparateplaces",
+      "text_en": "Up there is not so different from down here, you see. The same rules apply, and if you consider them as part of one great big cosmos rather than separate places...",
+      "text": "ข้างบนนั้นไม่ได้แตกต่างจากข้างล่างนี้สักเท่าไหร่หรอกครับ กฎเกณฑ์ข้อเดียวกันนั่นแหละที่ใช้ควบคุมอยู่ และถ้าคุณมองว่าสิ่งเหล่านั้นเป็นส่วนหนึ่งของห้วงจักรวาลอันยิ่งใหญ่เดียวกัน แทนที่จะคิดว่าเป็นสถานที่ที่แยกขาดจากกัน..."
+    },
+    {
+      "key": "isuspectbothpartiesshallfindcomfortinthisconversation",
+      "text_en": "I suspect both parties shall find comfort in this conversation.",
+      "text": "ผมเชื่อว่าบทสนทนานี้จักช่วยปลอบประโลมใจให้แก่ทั้งสองฝ่ายได้ไม่น้อย"
+    },
+    {
+      "key": "yetifthancredstalebetruestillotherswouldbenefitfrominsightsbornofexperience",
+      "text_en": "Yet if Thancred's tale be true, still others would benefit from insights born of experience.",
+      "text": "ทว่าหากเรื่องที่แธงเครดเล่าเป็นความจริง ผู้คนอีกไม่น้อยคงจักได้รับประโยชน์จากบทเรียนอันกลั่นกรองมาจากประสบการณ์ตรงเช่นกัน"
+    },
+    {
+      "key": "mightiprevailupontheloporritstoattendthem",
+      "text_en": "Might I prevail upon the Loporrits to attend them?",
+      "text": "ผมจักขอรบกวนให้เหล่าโลพอร์ริตช่วยไปดูแลพวกเขาได้หรือไม่"
+    },
+    {
+      "key": "anexcellentideaifidosaysomyselfthereisnaughtwedlikemorethantoeasetheheartsofthefinepeopleofetheirysandlearnmoreaboutthemwhilewereatit",
+      "text_en": "An excellent idea, if I do say so myself! There is naught we'd like more than to ease the hearts of the fine people of Etheirys ─ and learn more about them while we're at it.",
+      "text": "ช่างเป็นความคิดที่วิเศษเหลือเกินนะจ๊ะ! พวกเราไม่มีสิ่งใดปรารถนาไปมากกว่าการเยียวยาหัวใจอันเหนื่อยล้าของชาวเอเธียริสผู้แสนดีอีกแล้วล่ะ — และถือโอกาสเรียนรู้เรื่องของพวกเขาไปในตัวด้วยเสียเลย"
+    },
+    {
+      "key": "fullgladamitohearitgatherthycompanionsandbringthemhither",
+      "text_en": "Full glad am I to hear it. Gather thy companions and bring them hither.",
+      "text": "ยินดียิ่งนักที่ได้ยินเช่นนั้น โปรดรวบรวมเหล่าสหายแล้วพามาพบกันที่นี่เถิด"
+    },
+    {
+      "key": "forenamethouhastagiftforfindingsoulsinneedofsuccor",
+      "text_en": "Forename , thou hast a gift for finding souls in need of succor.",
+      "text": "Forename ช่างมีพรสวรรค์ในการเสาะหาผู้ที่ต้องการความช่วยเหลือยิ่งนัก"
+    },
+    {
+      "key": "prayseektheeoutthedistressedandtheapprehensiveandinformthemthathelpisathand",
+      "text_en": "Pray seek thee out the distressed and the apprehensive, and inform them that help is at hand.",
+      "text": "โปรดช่วยออกตามหาผู้ที่กำลังเป็นทุกข์และวิตกกังวล แล้วแจ้งให้พวกเขาทราบว่าความช่วยเหลือมาถึงมือแล้ว"
+    },
+    {
+      "key": "ishallawaitthemherethatimightintroduceeachtoasuitableloporrit",
+      "text_en": "I shall await them here, that I might introduce each to a suitable Loporrit.",
+      "text": "ผมจักรอพบพวกเขาอยู่ที่นี่ เพื่อจะได้แนะนำแต่ละคนให้รู้จักกับโลพอริตที่เหมาะสมที่สุด"
+    },
+    {
+      "key": "ohidosolookforwardtothataplaceforeveryloporritandeveryloporritintheirplace",
+      "text_en": "Oh, I do so look forward to that. A place for every Loporrit, and every Loporrit in their place!",
+      "text": "โอ้ ฉันตั้งตารอคอยเหลือเกินจ้ะ โลพอริตทุกคนจะได้เข้าประจำที่ และทำหน้าที่ในส่วนของตนเองอย่างไรล่ะจ๊ะ!"
+    },
+    {
+      "key": "thefinaldaysdoubtlessweighheavyuponthemindsofmanyinsharlayanhamletpillarsoftheexodusastheyare",
+      "text_en": "The Final Days doubtless weigh heavy upon the minds of many in Sharlayan Hamlet, pillars of the exodus as they are.",
+      "text": "วันสุดท้ายแห่งดวงดาว ย่อมกดทับจิตใจของผู้คนจำนวนมากในชาลายันแฮมเล็ตให้หนักอึ้งอย่างไม่ต้องสงสัย ด้วยพวกเขานั้นเปรียบเสมือนเดอะพิลลาร์สของการอพยพครั้งใหญ่"
+    },
+    {
+      "key": "praybringthemhither",
+      "text_en": "Pray, bring them hither.",
+      "text": "โปรดนำพวกเขามาที่นี่เถิด"
+    },
+    {
+      "key": "yespreciselyhoweveritwouldalsobeprudenttohavearedundantsystemintheeventoffailure",
+      "text_en": "Yes, precisely! However, it would also be prudent to have a redundant system in the event of failure...",
+      "text": "ใช่แล้ว ถูกต้องที่สุดครับ! แต่ถึงอย่างนั้น การเตรียมระบบสำรองเผื่อกรณีที่เกิดความผิดพลาดไว้ก็น่าจะเป็นเรื่องรอบคอบไม่น้อย..."
+    },
+    {
+      "key": "thankheavensiaskedyou",
+      "text_en": "Thank heavens I asked you!",
+      "text": "ขอบคุณสวรรค์แท้ๆ ที่ผมตัดสินใจถามคุณ!"
+    },
+    {
+      "key": "concernsnaytheresnopointinworryingatthisstageitllonlymaketheworkgothatmuchtheslower",
+      "text_en": "Concerns? Nay, there's no point in worrying at this stage. It'll only make the work go that much the slower.",
+      "text": "กังวลหรือครับ เปล่าเลย จะกังวลไปในตอนนี้ก็ไร้ประโยชน์ มันจะยิ่งทำให้ทำงานช้าลงไปอีกเปล่าๆ"
+    },
+    {
+      "key": "isanythingbotheringmewellivebeenloadingcargoforbellsnowsomybackfeelslikeavoidsentsplayeditasapianomyfeetandkneesasdrumsandcymbalstoo",
+      "text_en": "Is anything bothering me? Well, I've been loading cargo for bells now, so my back feels like a voidsent's played it as a piano. My feet and knees as drums and cymbals, too.",
+      "text": "ถามว่ามีอะไรกวนใจไหมน่ะหรือ ก็ผมขนของมาตั้งหลายชั่วโมงแล้วน่ะสิ ตอนนี้หลังของผมปวดร้าวราวกับโวดเซนต์กำลังกระหน่ำเล่นเปียโนอยู่บนนั้น ส่วนเข่ากับเท้าก็รัวสนั่นไม่ต่างจากกลองกับฉาบเลยทีเดียว"
+    },
+    {
+      "key": "worriesworriesnoibelieveimfinethankyouivebeenconfidinginmycolleaguesanditshelpedalotcantrecommenditenough",
+      "text_en": "Worries, worries... No, I believe I'm fine, thank you! I've been confiding in my colleagues, and it's helped a lot. Can't recommend it enough.",
+      "text": "ความกังวลอย่างนั้นหรือ... ไม่หรอกครับ ผมคิดว่าตัวเองสบายดี ขอบคุณมากนะ! ช่วงนี้ผมได้ระบายความในใจกับเพื่อนร่วมงานบ้าง มันช่วยได้มากทีเดียว อยากแนะนำให้ทุกคนลองทำดูจริงๆ ครับ"
+    },
+    {
+      "key": "howmightihelpyou",
+      "text_en": "How might I help you?",
+      "text": "มีอะไรให้ดิฉันช่วยไหมคะ"
+    },
+    {
+      "key": "mywhatalovelyidea",
+      "text_en": "My, what a lovely idea!",
+      "text": "ตายจริง ช่างเป็นความคิดที่วิเศษเหลือเกินค่ะ!"
+    },
+    {
+      "key": "itoonoticedpeoplebecomingrathertensesoirushedouttoplucksomefreshandfragranttealeavesnowineedonlytrackdownahundredorsocups",
+      "text_en": "I too noticed people becoming...rather tense, so I rushed out to pluck some fresh and fragrant tea leaves! Now I need only track down a hundred or so cups...",
+      "text": "ดิฉันเองก็สังเกตเห็นว่าทุกคนเริ่มจะ...เคร่งเครียดกันขึ้นมา เลยรีบวิ่งไปเก็บใบชาสดกลิ่นหอมกรุ่นมาเตรียมไว้ค่ะ! ตอนนี้เหลือแค่ต้องหาถ้วยชาสักร้อยกว่าใบมาให้ได้..."
+    },
+    {
+      "key": "butdontyouworryicanmanageihopeyourplantocheereveryoneupgoeswell",
+      "text_en": "But don't you worry ─ I can manage. I hope your plan to cheer everyone up goes well!",
+      "text": "แต่คุณไม่ต้องกังวลไปหรอกนะคะ ─ ดิฉันจัดการได้ค่ะ ขอให้แผนการสร้างรอยยิ้มให้ทุกคนของคุณราบรื่นไปด้วยดีนะคะ!"
+    },
+    {
+      "key": "apologiesbutiamawaitingadeliverywhateveritiswillhavetowait",
+      "text_en": "Apologies, but I am awaiting a delivery. Whatever it is will have to wait.",
+      "text": "ต้องขออภัยด้วย แต่ฉันกำลังรอของมาส่ง เรื่องอื่นใดคงต้องรอไว้ก่อน"
+    },
+    {
+      "key": "youyesyouyouidiothaveyouseenanenvelopelyingabout",
+      "text_en": "You! Yes, you, you idiot! Have you seen an envelope lying about?",
+      "text": "แก! ใช่ แกนั่นแหละ ไอ้งี่เง่า! เห็นซองจดหมายตกหล่นอยู่บ้างไหม"
+    },
+    {
+      "key": "thisimbecilerefusestogivemethealchemiciorderedwithoutthatbloodyslipofparchment",
+      "text_en": "This imbecile refuses to give me the alchemic I ordered without that bloody slip of parchment!",
+      "text": "ไอ้ปัญญาอ่อนนี่ไม่ยอมส่งสารเคมีปรุงยาที่สั่งให้สักที หากไม่มีเศษกระดาษบ้าๆ แผ่นนั้น!"
+    },
+    {
+      "key": "unlessyourfriendshaveaspelltomakemerememberwhereidroppedmydamnedenvelopeidoubttheyllbemorehelpthanyouandyouvewastedenoughofmytimealready",
+      "text_en": "Unless your friends have a spell to make me remember where I dropped my damned envelope, I doubt they'll be more help than you... And you've wasted enough of my time already!",
+      "text": "นอกเสียจากว่าพวกเพื่อนของแกจะร่ายมนตร์ช่วยให้ฉันนึกออกว่าทำซองจดหมายเฮงซวยนั่นตกไว้ที่ไหน ไม่อย่างนั้นก็คงช่วยอะไรไม่ได้มากไปกว่าแกหรอก... แล้วแกก็ทำฉันเสียเวลามามากพอแล้ว!"
+    },
+    {
+      "key": "ahahahatheendoftheworldisnighyettheworkgoesnofasterschedulesaresuchtemperamentalthingsfeasibleonemomentutterbollocksthenext",
+      "text_en": "Aha...haha! The end of the world is nigh, yet the work goes no faster! Schedules are such temperamental things ─ feasible one moment, utter bollocks the next!",
+      "text": "อะฮ้า...ฮ่าๆ! วันสิ้นโลกใกล้เข้ามาทุกที แต่งานกลับไม่ยักกะเร็วขึ้นเลย! ตารางงานนี่ช่างแปรปรวนเหลือเกิน ─ เดี๋ยวก็ดูเป็นไปได้ เดี๋ยวก็กลับกลายเป็นเรื่องเหลวไหลไร้สาระสิ้นดี!"
+    },
+    {
+      "key": "andyetiveneverfeltsoalive",
+      "text_en": "And yet...I've never felt so alive!",
+      "text": "แต่ถึงอย่างนั้น...ฉันก็ไม่เคยรู้สึกกระชุ่มกระชวยมีชีวิตชีวาขนาดนี้มาก่อนเลย!"
+    },
+    {
+      "key": "whatamithinkingaboutthemedicalfacilitiesontheshipofcourse",
+      "text_en": "...What am I thinking about? The medical facilities on the ship, of course.",
+      "text": "...นี่ฉันกำลังคิดฟุ้งซ่านเรื่องอะไรอยู่กันล่ะเนี่ย ก็ห้องพยาบาลบนยานอย่างไรเล่า"
+    },
+    {
+      "key": "idesignedthemwiththeassistanceofoursagesandchirurgeonsbuttoimagineeveryillnessorinjurythatonemightfaceinthatgreatexpanseisbeyondanyofustosaynothingoftheeffectsthatlivingoutthereindefinitelymighthaveonthebody",
+      "text_en": "I designed them with the assistance of our sages and chirurgeons, but to imagine every illness or injury that one might face in that great expanse is beyond any of us. To say nothing of the effects that living out there indefinitely might have on the body...",
+      "text": "ฉันออกแบบห้องพวกนั้นโดยมีเหล่านักปราชญ์และศัลยแพทย์คอยช่วยเหลือ แต่การจะคิดเผื่อโรคภัยหรือการบาดเจ็บทุกอย่างที่อาจเกิดขึ้นในห้วงอวกาศอันกว้างใหญ่ไพศาลนั้นเกินกำลังของพวกเราทุกคนนัก ยังไม่รวมถึงผลกระทบต่อร่างกายหากต้องใช้ชีวิตอยู่ที่นั่นอย่างไม่มีกำหนดอีกนะ..."
+    },
+    {
+      "key": "thecrewfromthemoonwhydidinotthinkofthat",
+      "text_en": "...The crew from the moon! Why did I not think of that?",
+      "text": "...พวกลูกเรือจากดวงจันทร์! ทำไมก่อนหน้านี้ฉันถึงคิดไม่ถึงกันนะ"
+    },
+    {
+      "key": "haveyouheardanythingofwhatsonthemoon",
+      "text_en": "Have you heard anything of what's on the moon?",
+      "text": "คุณพอจะได้ยินข่าวคราวเกี่ยวกับสภาพความเป็นไปบนดวงจันทร์บ้างไหม"
+    },
+    {
+      "key": "ihavenodoubtthatwecanmakeituptherebutthesearchingforanewstarpartoftheplansoundsawfullyvaguetome",
+      "text_en": "I have no doubt that we can make it up there, but the “searching for a new star” part of the plan sounds awfully vague to me.",
+      "text": "ฉันไม่สงสัยเลยว่าพวกเราจะขึ้นไปถึงบนนั้นได้แน่ แต่แผนการส่วนที่ว่า “ออกตามหาดวงดาวดวงใหม่” นั่นน่ะ ฟังดูเลื่อนลอยพิกล"
+    },
+    {
+      "key": "iaskedtheforumbuttheywillonlytellusthatourcollaboratorshaveeverythingundercontrolforgivemebutidontfeelparticularlysafewanderingthroughtheseaofstarsongodsknowwhatmadebygodsknowwho",
+      "text_en": "I asked the Forum, but they will only tell us that our collaborators “have everything under control.” Forgive me, but I don't feel particularly safe wandering through the sea of stars on gods-know-what made by gods-know-who!",
+      "text": "พอไปถามสภาฟอรัม ก็บอกกลับมาแค่ว่าผู้ร่วมงานของเรา “ควบคุมทุกอย่างไว้ได้หมดแล้ว” ขออภัยเถอะ แต่ไม่รู้สึกปลอดภัยเลยสักนิดที่ต้องร่อนเร่ไปในทะเลดาราด้วยพาหนะอะไรก็ไม่รู้ซึ่งสร้างขึ้นโดยใครก็ไม่รู้!"
+    },
+    {
+      "key": "youmeantosaythaticanspeakwiththemdirectlyamazingihopetheylikequestions",
+      "text_en": "You mean to say that I can speak with them directly!? Amazing! I hope they like questions...",
+      "text": "นี่หมายความว่าฉันจะได้พูดคุยกับพวกเขาโดยตรงอย่างนั้นหรือ!? วิเศษจริง! หวังว่าพวกเขาจะชอบตอบคำถามนะ..."
+    },
+    {
+      "key": "justleavemetomymiserytheforumcanappointsomeoneelse",
+      "text_en": "Just leave me to my misery... The Forum can appoint someone else...",
+      "text": "ปล่อยให้ฉันอยู่กับเรือมิเซอรีนี่แหละ... ให้สภาฟอรัมไปแต่งตั้งคนอื่นแทนเถอะ..."
+    },
+    {
+      "key": "iapologizeisimplydontknowwhattodohowamisupposedtopilotthearkifimalreadyfallingapartunderthepressure",
+      "text_en": "<sigh> I apologize ─ I simply don't know what to do. How am I supposed to pilot the ark if I'm already falling apart under the pressure?",
+      "text": "<ถอนหายใจ> ต้องขออภัยด้วย... ผมไม่รู้จริงๆ ว่าควรทำอย่างไรดี ในเมื่อความกดดันรุมเร้าจนสติแทบกระเจิงขนาดนี้แล้ว ผมจะไปบังคับเรืออพยพได้อย่างไร"
+    },
+    {
+      "key": "youknowastarshippilotthatimightspeakwithtruly",
+      "text_en": "You know a starship pilot that I might speak with? Truly?",
+      "text": "คุณรู้จักคนขับยานอวกาศที่พอจะให้ผมไปพูดคุยด้วยอย่างนั้นหรือครับ จริงหรือ"
+    },
+    {
+      "key": "wellthentheresnotimetowastetheycanhelpmeprepareforthismonumentaltask",
+      "text_en": "Well, then, there's no time to waste! They can help me prepare for this monumental task...",
+      "text": "ถ้าอย่างนั้นก็เสียเวลาไม่ได้แล้ว! เขาจะได้ช่วยผมเตรียมตัวรับมือกับงานใหญ่หลวงนี้..."
+    },
+    {
+      "key": "blastedassistantswherehavetheygoneofftoatatimelikethis",
+      "text_en": "Blasted assistants! Where have they gone off to at a time like this?",
+      "text": "พวกผู้ช่วยเฮงซวย! เวลาหน้าสิ่วหน้าขวานแบบนี้หายหัวไปไหนกันหมด!"
+    },
+    {
+      "key": "begpardonbutihavenotthetimeforidlechitchatineedtoreconfirmthataetherlevelsareconsistentthroughoutthevesselsmachineryanditseemsishallhavetodososinglehandedlyiswearwhenifindthoseassistantsofmine",
+      "text_en": "Beg pardon, but I have not the time for idle chitchat. I need to reconfirm that aether levels are consistent throughout the vessel's machinery, and it seems I shall have to do so single-handedly! I swear, when I find those assistants of mine...",
+      "text": "ขออภัยด้วย แต่ไม่มีเวลามาพูดคุยไร้สาระหรอก ต้องตรวจสอบให้แน่ใจอีกครั้งว่าระดับเอเธอร์ในห้องเครื่องของยานสม่ำเสมอกันดี และดูท่าว่าคงต้องลงมือทำคนเดียวเสียด้วย! สาบานได้เลย ถ้าเจอตัวพวกผู้ช่วยเมื่อไหร่ล่ะก็..."
+    },
+    {
+      "key": "theloporritsarewillingtohelpwhydidntyousayso",
+      "text_en": "...The Loporrits are willing to help? Why didn't you say so?",
+      "text": "...พวกโลพอร์ริตยินดีจะช่วยอย่างนั้นรึ ทำไมไม่รีบบอกตั้งแต่แรกเล่า"
+    },
+    {
+      "key": "atleasttheywontmoanabouthowtheycheckedtwodozentimesalreadyandhaventsleptinweekslazysods",
+      "text_en": "At least they won't moan about how they “checked two dozen times already” and “haven't slept in weeks.” Lazy sods...",
+      "text": "อย่างน้อยพวกนั้นก็จะไม่เอาแต่โอดครวญว่า 'ตรวจดูตั้งสองโหลแล้ว' กับ 'ไม่ได้นอนมาหลายสัปดาห์แล้ว' หรอก พวกขี้เกียจสันหลังยาว..."
+    },
+    {
+      "key": "fiftysixbunchesofweedsinthegroundfiftysixbunchesofweedsriponeoutaddtothemoundfiftyfivebunchesofweedsinthe",
+      "text_en": "Fifty-six bunches of weeds in the ground, Fifty-six bunches of weeds.♪ Rip one out, add to the mound, Fifty-five bunches of weeds in the─",
+      "text": "วัชพืชห้าสิบหกกอบนพื้นดิน วัชพืชห้าสิบหกกอ ♪ ถอนออกไปกอนึง โยนใส่กอง วัชพืชห้าสิบห้ากอบน─"
+    },
+    {
+      "key": "eepiimnotneglectingmydutiesiswear",
+      "text_en": "Eep! I-I'm not neglecting my duties, I swear!",
+      "text": "อุ๊ย! ฉ-ฉันไม่ได้ละเลยหน้าที่นะคะ สาบานได้เลย!"
+    },
+    {
+      "key": "iwasinneedofalittlebreakyouseebutthenifoundmyselfunabletorelaxatallsoiwentonawalkandtheninoticedtheseweedsand",
+      "text_en": "I was in need of a little break, you see, but then I found myself unable to relax at all, so I went on a walk, and then I noticed these weeds, and...",
+      "text": "คือว่าอยากพักสักครู่หนึ่งน่ะค่ะ แต่กลับผ่อนคลายไม่ได้เลยสักนิด ก็เลยออกไปเดินเล่น แล้วก็ดันเหลือบไปเห็นวัชพืชพวกนี้เข้า แล้วก็..."
+    },
+    {
+      "key": "pleasantconversationpartnersandohsofuzzygoodnessmethatdoessoundlikeamuchbetterwaytorelax",
+      "text_en": "...Pleasant conversation partners and oh-so fuzzy? Goodness me, that does sound like a much better way to relax!",
+      "text": "...เพื่อนคุยที่คุยสนุกแถมยังตัวนุ่มฟูสุดๆ งั้นหรือคะ คุณพระช่วย ฟังดูเป็นวิธีพักผ่อนที่ดีกว่าตั้งเยอะเลย!"
+    },
+    {
+      "key": "myfacewhatswrongwithmyowperhapsiamabittense",
+      "text_en": "...My face? What's wrong with my─ Ow! Perhaps I am a bit tense.",
+      "text": "...หน้าของผมหรือครับ หน้าผมเป็นอะไรไป─ โอ๊ย! บางทีผมอาจจะเครียดเกร็งไปหน่อยจริงๆ"
+    },
+    {
+      "key": "iwastaskedwithensuringthattheproperfaunaandonlytheproperfaunaarebroughtwithustothemoonhoweverthesuitabilityofafewspeciesisstillunderdebateandicanhardlymakethedecisionmyselfwheniknowsolittleabouttheenvironmentupthere",
+      "text_en": "I was tasked with ensuring that the proper fauna ─ and only the proper fauna ─ are brought with us to the moon. However, the suitability of a few species is still under debate, and I can hardly make the decision myself when I know so little about the environment up there...",
+      "text": "หน้าที่ของผมคือต้องคัดเลือกสัตว์ป่าที่เหมาะสม ─ ย้ำว่าต้องเหมาะสมจริงๆ เท่านั้น ─ เพื่อพาขึ้นดวงจันทร์ไปกับเรา ทว่าความเหมาะสมของบางสายพันธุ์ก็ยังคงถกเถียงกันอยู่ และผมคงตัดสินใจเองไม่ได้แน่ในเมื่อรู้เรื่องสภาพแวดล้อมบนนั้นน้อยเหลือเกิน..."
+    },
+    {
+      "key": "includingtheloporritsinourdiscussionsisawonderfulideaiabsolutelywillthankyouperhapstheirbiologyitselfmightoffersomeclueaswell",
+      "text_en": "Including the Loporrits in our discussions is a wonderful idea! I absolutely will, thank you! Perhaps their biology itself might offer some clue, as well...",
+      "text": "การดึงพวกโลพอร์ริตเข้าร่วมการสนทนาด้วยเป็นความคิดที่วิเศษมากครับ! ผมจะทำตามนั้นแน่นอน ขอบคุณมากครับ! บางทีลักษณะทางชีววิทยาของพวกเขาอาจจะช่วยบอกใบ้อะไรเราได้บ้างเหมือนกัน..."
+    },
+    {
+      "key": "bythegodsmychestistightamidyingisthiswhatdyingfeelslike",
+      "text_en": "By the gods, my chest is tight... Am I dying? Is this what dying feels like?",
+      "text": "คุณพระช่วย แน่นหน้าอกเหลือเกิน... นี่ฉันกำลังจะตายหรือเปล่า ความรู้สึกตอนใกล้ตายมันเป็นแบบนี้เองเหรอ"
+    },
+    {
+      "key": "ohdopardonmeididntseeyoutherethereisnocauseforconcerniassureyou",
+      "text_en": "Oh! Do pardon me ─ I didn't see you there. There is no cause for concern, I assure you.",
+      "text": "โอ๊ะ! ขออภัยด้วยครับ ─ ผมไม่ทันสังเกตเห็นคุณยืนอยู่ตรงนั้น ไม่ต้องเป็นห่วงหรอกครับ ผมรับรองได้เลย"
+    },
+    {
+      "key": "nocauseforconcerneventhoughwemayneedtodepartatanymomentandifthehullidesignedbucklesunderthestraintheentirevesselmayexplodeonlaunchclaimingcountlesslivesanddoomingallmankindbutthatishighlyunlikelyyesyeshighlyunlikelyhighly",
+      "text_en": "No cause for concern...even though we may need to depart at any moment...and if the hull I designed buckles under the strain, the entire vessel may explode on launch, claiming countless lives and dooming all mankind...but that is highly unlikely! Yes, yes, highly unlikely... Highly...",
+      "text": "ไม่ต้องกังวลเลยครับ... แม้เราอาจต้องออกเดินทางกันทุกเมื่อ... แล้วหากโครงสร้างยานที่ผมออกแบบเกิดบิดเบี้ยวรับแรงเค้นไม่ไหว ยานทั้งลำก็อาจระเบิดตอนปล่อยตัว คร่าชีวิตผู้คนนับไม่ถ้วนและทำลายล้างมนุษยชาติทั้งหมด... แต่เรื่องนั้นไม่มีทางเกิดขึ้นหรอกครับ! ใช่ ใช่ ไม่มีทางแน่ๆ... ไม่มีทาง..."
+    },
+    {
+      "key": "ourvisitorscanhelpmetriplecheckforstructuralflawsyousaywhythatwouldbewonderfulimbreathingmoreeasilyalready",
+      "text_en": "...Our visitors can help me triple check for structural flaws, you say? Why, that would be wonderful! I'm breathing more easily already.",
+      "text": "...คุณบอกว่าผู้มาเยือนของเราจะช่วยตรวจทานจุดบกพร่องของโครงสร้างอย่างละเอียดได้งั้นหรือครับ โธ่ ถ้าอย่างนั้นก็วิเศษสุดไปเลยครับ! รู้สึกหายใจทั่วท้องขึ้นมาทันทีเลย"
+    },
+    {
+      "key": "",
+      "text_en": "......",
+      "text": "......"
+    },
+    {
+      "key": "hm",
+      "text_en": "...Hm?",
+      "text": "...หืม"
+    },
+    {
+      "key": "consultourcollaboratorsisupposethatwouldbemoreeffectivethansittingherebrooding",
+      "text_en": "Consult our collaborators? I suppose that would be more effective than sitting here brooding.",
+      "text": "ปรึกษาผู้ร่วมงานของเรางั้นหรือ... ผมคิดว่าคงเข้าท่ากว่านั่งกลัดกลุ้มอยู่ตรงนี้เป็นไหนๆ"
+    },
+    {
+      "key": "imattemptingtocalculatehowmuchcargowecanconsolidateintofewertripsshouldtheaetherburnermakeouroriginalestimatesunfeasiblebuttherearesimplytoomanyvariablesifeelasifmybrowwillturninsideout",
+      "text_en": "I'm attempting to calculate how much cargo we can consolidate into fewer trips, should the aetherburner make our original estimates unfeasible ─ but there are simply too many variables. I feel as if my brow will turn inside out...",
+      "text": "ผมกำลังพยายามคำนวณว่าจะรวมสัมภาระเพื่อลดจำนวนเที่ยวเดินทางลงได้อย่างไรบ้าง เผื่อเครื่องเผาไหม้เอเทอร์จะทำให้ตัวเลขที่ประเมินไว้แต่แรกใช้การไม่ได้ แต่ตัวแปรกลับมากมายเหลือเกิน จนคิ้วผมขมวดเกร็งแทบจะปลิ้นกลับด้านอยู่แล้ว..."
+    },
+    {
+      "key": "butperhapsourlunarassociateswillhavemoreinsightintohowmuchweightconstitutestoomuchweightforourpurposesthankyouforlettingmeknow",
+      "text_en": "But perhaps our lunar associates will have more insight into how much weight constitutes too much weight for our purposes. Thank you for letting me know.",
+      "text": "แต่บางทีสหายจากดวงจันทร์อาจรู้ซึ้งกว่า ว่าน้ำหนักเท่าใดจึงจะเกินขีดจำกัดสำหรับงานของเรา ขอบคุณที่ช่วยมาบอกนะครับ"
+    },
+    {
+      "key": "growingwayhasbeenagodssendicanlookuponwhatwevebuiltwithclaritynow",
+      "text_en": "Growingway has been a godssend. I can look upon what we've built with clarity now.",
+      "text": "โกรวิงเวย์มาโปรดแท้ๆ ตอนนี้ผมมองสิ่งที่เราร่วมสร้างกันมาได้อย่างกระจ่างแจ้งเสียที"
+    },
+    {
+      "key": "forenamehesaidhesaidhewasgladwespokeandhethankedme",
+      "text_en": "Forename ! He said... He said he was glad we spoke! And he thanked me...",
+      "text": "คุณ Forename ครับ! บอก... บอกว่าดีใจที่ได้คุยกันด้วยละครับ! แถมยังขอบคุณผมอีก..."
+    },
+    {
+      "key": "itwasallworthitafterallwasntiteeventhemistakeswemadebecausenowwecantellthemwhatnottodo",
+      "text_en": "<sniff> It was all worth it after all, wasn't it? E-Even the mistakes we made. Because now, we can tell them what not to do...",
+      "text": "*สูดน้ำมูก* ในที่สุดทุกอย่างก็คุ้มค่าจริงๆ ใช่ไหมครับ ท...แม้แต่ความผิดพลาดที่พวกเราเคยทำลงไป เพราะตอนนี้พวกเราสามารถบอกพวกเขาได้แล้วว่าสิ่งใดที่ไม่ควรทำ..."
+    },
+    {
+      "key": "beholdforename",
+      "text_en": "Behold, Forename ...",
+      "text": "จงดูเถิด ท่าน [Forename]..."
+    },
+    {
+      "key": "throughthineeffortswordhathspreadthroughoutlabyrinthos",
+      "text_en": "Through thine efforts, word hath spread throughout Labyrinthos.",
+      "text": "ความอุตสาหะของท่านทำให้พระวจนะแพร่สะพัดไปทั่วลาบิรินธอสแล้ว"
+    },
+    {
+      "key": "verilytoafargreaternumberthanweanticipatedlivingwaydothgathermoreloporritsaswespeak",
+      "text_en": "Verily, to a far greater number than we anticipated. Livingway doth gather more Loporrits as we speak.",
+      "text": "แท้จริงแล้ว ผู้คนจำนวนมากเกินกว่าที่เราคาดคิดไว้ได้รับรู้เรื่องนี้ และในยามนี้ ลิฟวิ่งเวย์ก็กำลังไปตามเหล่าโลพอร์ริตมาเพิ่มเติม"
+    },
+    {
+      "key": "ishallassigneachinaccordancewiththeirskillsthatnewbondsoffriendshipmightbeforged",
+      "text_en": "I shall assign each in accordance with their skills, that new bonds of friendship might be forged.",
+      "text": "ผมจักมอบหมายหน้าที่ให้แต่ละคนตามความเหมาะสมของความสามารถ เพื่อให้มิตรภาพครั้งใหม่ได้ผลิบาน"
+    },
+    {
+      "key": "shouldgreatermattersrequirenotthineattentionswatchoverthemiprithee",
+      "text_en": "Should greater matters require not thine attentions...watch over them, I prithee.",
+      "text": "หากท่านไม่มีเรื่องสำคัญอื่นใดให้ต้องสะสาง...ได้โปรดช่วยดูแลพวกเขาด้วยเถิด"
+    },
+    {
+      "key": "ipraythatlivingwayisjoyedtoseesomanyheartenedsoulswhenshedothreturn",
+      "text_en": "I pray that Livingway is joyed to see so many heartened souls when she doth return.",
+      "text": "ผมหวังว่าเมื่อลิฟวิ่งเวย์รีเทิร์นกลับมา เธอจะยินดีที่ได้เห็นผู้คนมากมายกลับมามีกำลังใจเช่นนี้"
+    },
+    {
+      "key": "phewfinallysomerestwhyihaventspokensomuchinwellinforever",
+      "text_en": "Phew! Finally, some rest. Why, I haven't spoken so much in...well, in forever!",
+      "text": "เฮ้อ! ในที่สุดก็ได้พักเสียที รู้ไหมว่าฉันไม่ได้พูดเยอะขนาดนี้มานานแสนนานแล้วล่ะนะ!"
+    },
+    {
+      "key": "livelyisntitthetownisabuzzeveryoneeagertomeetwithourfriendsfromthemoon",
+      "text_en": "Lively, isn't it? The town is abuzz ─ everyone eager to meet with our friends from the moon.",
+      "text": "ดูคึกคักดีใช่ไหมล่ะครับ ทั่วทั้งเมืองพากันตื่นเต้นกันใหญ่ ทุกคนต่างตั้งตารอที่จะได้พบเพื่อนๆ จากดวงจันทร์กันทั้งนั้น"
+    },
+    {
+      "key": "twouldbehooveyoutoconsultwithsleepingwayasourmoonspilothisadviceshouldbemostpertinent",
+      "text_en": "'Twould behoove you to consult with Sleepingway. As our moon's pilot, his advice should be most pertinent...",
+      "text": "หากท่านไปปรึกษากับสลีปปิ้งเวย์ก็น่าจะเป็นการดี ในฐานะผู้นำร่องดวงจันทร์ คำแนะนำของเขาย่อมตรงประเด็นและเป็นประโยชน์ที่สุด..."
+    },
+    {
+      "key": "imimpressedtruthbetoldistruggletotellonefromanothernooffenseintendedofcourse",
+      "text_en": "I'm impressed. Truth be told, I struggle to tell one from another. No offense intended, of course...",
+      "text": "ผมนี่ทึ่งจริงๆ ครับ พูดกันตามตรง ผมแยกแยะแต่ละคนแทบไม่ออกเลย แน่นอนว่าไม่ได้มีเจตนาล่วงเกินหรอกนะครับ"
+    },
+    {
+      "key": "nonetakenafteryouandyourfriendsleftmarelamentorumwespentnosmallamountoftimewithyoururianger",
+      "text_en": "None taken! After you and your friends left Mare Lamentorum, we spent no small amount of time with your Urianger.",
+      "text": "ไม่ถือสาหรอกจ้ะ! พอพวกเธอและเพื่อนพ้องออกจาก มาเร ลาเมนโทรูม ไป พวกเราก็คลุกคลีอยู่กับยูเรียนเจย์ของพวกเธอนานสองนานเลยทีเดียวล่ะ"
+    },
+    {
+      "key": "ohtheconversationswehadhetoldusallaboutetheirysansweredoureveryquestionnomatterhowtriflingortrivial",
+      "text_en": "Oh, the conversations we had! He told us all about Etheirys ─ answered our every question, no matter how trifling or trivial.",
+      "text": "โอ้ ได้พูดคุยกันเยอะแยะเลยล่ะ! ยูเรียนเจย์เล่าเรื่องเกี่ยวกับ เอเธียริส ให้พวกเราฟังเสียหมดเปลือก ─ ตอบคำถามของพวกเราทุกเรื่อง ไม่ว่าจะเป็นเรื่องเล็กน้อยหรือไร้สาระเพียงใดก็ตามจ้ะ"
+    },
+    {
+      "key": "lookeverypagefilledtothemarginswithknowledge",
+      "text_en": "Look! Every page, filled to the margins with knowledge!",
+      "text": "ดูนี่สิ! ทุกหน้าอัดแน่นไปด้วยความรู้จนแทบล้นขอบกระดาษเลยล่ะ!"
+    },
+    {
+      "key": "whenifirstarrivediwasstruckbyhowlittleiknewitwasdauntingbutthenirealizedthatwereitnotforuriangerandhisteachingswedstillbestuckonthemoongazingatyourworldandwonderingwhatwevebeenmissing",
+      "text_en": "When I first arrived, I was struck by how little I knew. It was daunting...but then I realized that were it not for Urianger and his teachings, we'd still be stuck on the moon. Gazing at your world and wondering what we've been missing...",
+      "text": "ตอนที่ฉันมาถึงที่นี่ครั้งแรก ฉันตระหนักเหลือเกินว่าตัวเองช่างรู้น้อยเหลือเกิน มันน่าท้อแท้ใจนัก... แต่แล้วก็คิดได้ว่าหากไม่ได้คำสอนของยูเรียนเจย์ พวกเราคงยังติดอยู่บนดวงจันทร์ ได้แต่เฝ้ามองโลกของพวกเธอและนึกสงสัยว่าพวกเราพลาดอะไรไปบ้าง..."
+    },
+    {
+      "key": "whatwouldtheythinkiftheycouldseeuriangernowidaresaytheydbemorethanabitsurprisedandimpressednodoubt",
+      "text_en": "What would they think if they could see Urianger now? I daresay they'd be more than a bit surprised...and impressed, no doubt.",
+      "text": "หากพวกเขารู้เห็นว่าข้าพเจ้าในยามนี้เป็นเช่นไร จะคิดอย่างไรกันหนอ... ข้าพเจ้ากล้ากล่าวว่าพวกเขาคงประหลาดใจมิใช่น้อย... และคงเลื่อมใสศรัทธาเป็นแน่แท้"
+    },
+    {
+      "key": "masterlouisoixminfiliapapalymoandnottoforget",
+      "text_en": "Master Louisoix, Minfilia, Papalymo. And not to forget...",
+      "text": "ท่านอาจารย์ลูอิซัวส์ มินฟิเลีย พาพาริโม และที่จะลืมเสียไม่ได้..."
+    },
+    {
+      "key": "hothereheardtherewasavisitingexpertwhowemightbotherwithafewquestionsitakeityoudbetheone",
+      "text_en": "Ho there! Heard there was a visiting expert who we might bother with a few questions. I take it you'd be the one?",
+      "text": "อ้าว สวัสดี! ได้ยินข่าวเรื่องผู้เชี่ยวชาญมาเยือนจนพวกเราอยากรบกวนถามไถ่สักสองสามคำถาม คิดว่าคงเป็นเธอสินะ"
+    },
+    {
+      "key": "yyesiam",
+      "text_en": "Y-Yes... I am...",
+      "text": "ค-ครับ... ข้าพเจ้าเอง..."
+    },
+    {
+      "key": "wilfsunnandbloewydasharlayansforemostresearchersinthefieldofteleportationmagickandmoenbrydasparents",
+      "text_en": "Wilfsunn and Bloewyda. Sharlayan's foremost researchers in the field of teleportation magick. ...And Moenbryda's parents.",
+      "text": "วิลฟ์ซันน์กับโบลวิดา นักวิจัยชั้นแนวหน้าของ ชาร์ลาแยน ในด้านเวทมนตร์เคลื่อนย้ายพริบตา ...และพ่อแม่ของโมนบรีดา"
+    },
+    {
+      "key": "ithathbeensometimetistisgoodtoseeyouingoodhealth",
+      "text_en": "It hath been some time. 'Tis... 'Tis good to see you in...good health.",
+      "text": "ไม่ได้พบกันเสียนานเหลือเกิน... ช่าง... ช่างน่ายินดียิ่งนักที่เห็นท่านยังมีสุขภาพ... แข็งแรงดี"
+    },
+    {
+      "key": "likewiseoldfriendbloewydaandiweremosthonoredtoanswerthecallneverexpectedthisreunionthoughdidwedear",
+      "text_en": "Likewise, old friend! Bloewyda and I were most honored to answer the call. Never expected this reunion, though, did we, dear?",
+      "text": "เช่นเดียวกัน เพื่อนเกลอ! โบลวิดากับฉันรู้สึกเป็นเกียรติอย่างยิ่งที่ได้ตอบรับคำเรียกหา แต่ก็ไม่นึกไม่ฝันเลยว่าจะได้มาเรอูเนียงกันเช่นนี้ จริงไหมจ๊ะยอดรัก"
+    },
+    {
+      "key": "illsaythenervesendingthatletterthenrunningofftothegodsknowwhere",
+      "text_en": "I'll say! The nerve...sending that letter, then running off to the gods know where!",
+      "text": "นั่นซี! ช่างน่าตีนัก...ส่งจดหมายนั่นมาแล้วก็เตลิดหนีหายไปที่ไหนต่อไหนก็สุดรู้!"
+    },
+    {
+      "key": "doyouhaveanyideahowworriedwewere",
+      "text_en": "Do you have...any idea...how worried we were?",
+      "text": "เคยรู้...บ้างไหม...ว่าพวกเราเป็นห่วงกันแค่ไหน"
+    },
+    {
+      "key": "iimsorrytwasremissofmenottodeliverthenewsinperson",
+      "text_en": "I...I'm sorry. 'Twas remiss of me...not to deliver the news in person.",
+      "text": "ผม...ผมขออภัยด้วยครับ เป็นความบกพร่องของผมเอง...ที่ไม่ยอมมาแจ้งข่าวนี้ด้วยตัวเอง"
+    },
+    {
+      "key": "nomorethanthattwasiwho",
+      "text_en": "No, more than that... 'Twas I who...",
+      "text": "ไม่ครับ ยิ่งกว่านั้นอีก... เป็นเพราะผมเองที่..."
+    },
+    {
+      "key": "ourdaughterwasdisillusionedaftermasterlouisoixleftherbehindthedaythescionscalleduponherwasthehappiestidseenherinyears",
+      "text_en": "Our daughter was disillusioned after Master Louisoix left her behind. The day the Scions called upon her was the happiest I'd seen her in years.",
+      "text": "ลูกสาวของเราสิ้นหวังไปเลยหลังจากท่านอาจารย์ลูอิซัวส์ทิ้งแกไว้ข้างหลัง วันที่กลุ่มไซออนส์มาเรียกตัวแกคือวันที่ลูกมีความสุขที่สุดเท่าที่ฉันเคยเห็นมาในรอบหลายปี"
+    },
+    {
+      "key": "shemadehereverychoiceofherownfreewillnoonecouldveeverforcedhertodootherwise",
+      "text_en": "She made her every choice of her own free will. No one could've ever forced her to do otherwise.",
+      "text": "ลูกเลือกทางเดินทุกอย่างด้วยความสมัครใจของตัวเอง ไม่มีใครหน้าไหนบังคับให้ทำเป็นอื่นได้หรอก"
+    },
+    {
+      "key": "dontblameyourselfforherdeathcelebrateherlifeyouknowthatswhatshedwant",
+      "text_en": "Don't blame yourself for her death. Celebrate her life. You know that's what she'd want.",
+      "text": "อย่าโทษตัวเองเพราะการตายของลูกเลย จงยินดีกับชีวิตที่แกได้ใช้เถอะ นายก็รู้ดีว่านั่นคือสิ่งที่ลูกต้องการ"
+    },
+    {
+      "key": "ifthereisonethingweresentyouforitwasthatwecouldnotbetheretomournherwithyou",
+      "text_en": "If there is one thing we resent you for, it was that we could not be there to mourn her with you...",
+      "text": "หากจะมีสิ่งใดที่พวกเรานึกเคืองนาย ก็เห็นจะเป็นเรื่องที่พวกเราไม่ได้ร่วมมอร์นลูกร่วมกับนาย..."
+    },
+    {
+      "key": "readingthewordsyoupennedinthatshakyhandwemusthavecriedasmuchforyouaswedidforher",
+      "text_en": "Reading the words you penned in that shaky hand... We must have cried as much for you as we did for her.",
+      "text": "เมื่อได้อ่านถ้อยคำที่นายเขียนด้วยลายมืออันสั่นเทานั่น... พวกเราคงร้องไห้ให้แกหนักหนาพอๆ กับที่ร้องให้ลูกรักเลยทีเดียว"
+    },
+    {
+      "key": "imsorryitrulytrulyam",
+      "text_en": "I'm sorry. I truly, truly am...",
+      "text": "ผมขอโทษครับ... ขอโทษจากใจจริง..."
+    },
+    {
+      "key": "iknewnotwhattosayknewnothowtoexpressmyfeelings",
+      "text_en": "I knew not what to say. Knew not how to express my feelings...",
+      "text": "ไม่รู้เลยว่าควรจะพูดอะไร... ไม่รู้ว่าจะอธิบายความรู้สึกอย่างไรดี..."
+    },
+    {
+      "key": "thepoemsandplatitudesofwisermenmusingsonsadnessandlossstudiedandmemorizedandmeaninglessinthemoment",
+      "text_en": "The poems and platitudes of wiser men. Musings on sadness and loss... Studied and memorized...and meaningless in the moment.",
+      "text": "ทั้งบทกวีและถ้อยคำจรรโลงใจของเหล่านักปราชญ์ ข้อคิดเตือนใจเรื่องความเศร้าโศกและการสูญเสีย... อุตส่าห์ศึกษาเล่าเรียนและท่องจำมาเสียดิบดี... ทว่าในยามนี้กลับไม่มีความหมายเลยแม้แต่น้อย"
+    },
+    {
+      "key": "sillyboyweareallpowerlessbeforesuchgriefevennowtryasimightthewordsescapeme",
+      "text_en": "Silly boy... We are all powerless before such grief. Even now, try as I might, the words escape me...",
+      "text": "เด็กโง่เอ๋ย... พวกเราต่างก็ไร้กำลังเมื่อเผชิญกับความโศกเศร้าเช่นนี้ แม้แต่ตอนนี้ ต่อให้พยายามเท่าไร ก็นึกคำพูดไม่ออกเหมือนกัน..."
+    },
+    {
+      "key": "butinourheartsweknowwealwaysknow",
+      "text_en": "But in our hearts, we know. We always know.",
+      "text": "ทว่าในใจของพวกเรานั้นรู้ดี... รู้มาโดยตลอด"
+    },
+    {
+      "key": "irememberwhenyouwereyounghowtheladsteasedyouforchoosingthecompanyofbooksoverothers",
+      "text_en": "I remember when you were young. How the lads teased you for choosing the company of books over others.",
+      "text": "ยังจำตอนที่ยังเป็นเด็กได้เลย ที่พวกเด็กผู้ชายพากันล้อเลียนเพราะเลือกจะคลุกคลีอยู่กับกองกำลังคอมพานีของหนังสือมากกว่าคนอื่น"
+    },
+    {
+      "key": "ourmoendidnttakekindlytothatbenicetouriangershedshoutandgivethemawallopingnomatterhowmanytimeswescoldedher",
+      "text_en": "Our Moen didn't take kindly to that. “Be nice to Urianger!” she'd shout, and give them a walloping. No matter how many times we scolded her...",
+      "text": "โมนของเรายอมที่ไหนกัน “ทำดีกับยูเรียนเจย์หน่อยสิ!” ยัยหนูจะตะโกนใส่ แล้วก็เหวี่ยงฟาดสั่งสอนพวกนั้นเสียยกใหญ่ ต่อให้ดุไปกี่หนก็ตาม..."
+    },
+    {
+      "key": "soweofferedasuggestionratherthanstartingfightswhydontyoubethebridgebetweenuriangerandtheothersshehadtomullitoverforawhilearmscrossedbrowfurrowedinintensethought",
+      "text_en": "So we offered a suggestion: rather than starting fights, why don't you be the bridge between Urianger and the others? She had to mull it over for a while. Arms crossed, brow furrowed in intense thought...",
+      "text": "ก็เลยแนะนำไปว่า แทนที่จะไปมีเรื่องชกต่อย ทำไมไม่ลองเป็นเดอะบริดจ์เชื่อมระหว่างยูเรียนเจย์กับคนอื่นดูล่ะ ยัยหนูต้องหยุดคิดทบทวนอยู่พักใหญ่ ยืนกอดอก คิ้วขมวดมุ่นคิดหนักเลยทีเดียว..."
+    },
+    {
+      "key": "butfromthatdayonsheneverletyoubealonesheddragyououtsidetoplaypepperyouwithendlessquestionsreadthesamebooksyoureadalltotryandunderstandyouthatmuchbetter",
+      "text_en": "But from that day on, she never let you be alone. She'd drag you outside to play, pepper you with endless questions, read the same books you read...all to try and understand you that much better.",
+      "text": "ทว่าตั้งแต่วันนั้นเป็นต้นมา ยัยหนูก็ไม่เคยปล่อยให้เธอต้องอยู่คนเดียวเลย คอยลากออกไปเล่นข้างนอก ถามโน่นถามนี่ไม่หยุดปาก อ่านหนังสือเล่มเดียวกับที่เธออ่าน... ทั้งหมดก็เพื่อพยายามเข้าใจเธอให้ดียิ่งขึ้นเท่านั้นเอง"
+    },
+    {
+      "key": "imsureitwasannoyingandexhaustingatthetimebutsheonlyeverhadthebestofintentions",
+      "text_en": "I'm sure it was annoying and exhausting at the time...but she only ever had the best of intentions.",
+      "text": "ตอนนั้นคงทั้งน่ารำคาญและน่าเหนื่อยใจพิลึก... แต่ทำไปเพราะหวังดีที่สุดจริงๆ"
+    },
+    {
+      "key": "andlookatyounowatthecenterofthecrowdthereasonthereevenisacrowdhavingbroughtthesepeopletogether",
+      "text_en": "And look at you now. At the center of the crowd ─ the reason there even is a crowd, having brought these people together.",
+      "text": "แล้วดูเธอในตอนนี้สิ ยืนอยู่ท่ามกลางผู้คนมากมาย... และเธอนั่นเองที่เป็นผู้รวบรวมพวกเขาให้มาอยู่ร่วมกันที่นี่"
+    },
+    {
+      "key": "youvenoideahowproudweare",
+      "text_en": "You've no idea how proud we are.",
+      "text": "เธอไม่มีวันรู้หรอกว่าพวกเราภาคภูมิใจในตัวเธอมากเพียงใด"
+    },
+    {
+      "key": "toseetheboyourdaughtertrustedandbelievedinmorethananyonegrowintothemanshealwaysknewhecouldbe",
+      "text_en": "To see the boy our daughter trusted and believed in more than anyone...grow into the man she always knew he could be.",
+      "text": "การได้เห็นเด็กน้อยที่ลูกสาวของเราไว้วางใจและเชื่อมั่นยิ่งกว่าใคร...เติบโตเป็นชายหนุ่มอย่างที่โมนรู้มาตลอดว่าเธอจะเป็นได้"
+    },
+    {
+      "key": "icanseeherinyoutoofeelhershewalkswithyouwheresoeveryougosothankyouuriangerforbeingwhoyouare",
+      "text_en": "I can see her in you, too. Feel her. She walks with you, wheresoever you go. So thank you, Urianger. For being who you are.",
+      "text": "แม่ก็มองเห็นโมนในตัวเธอเหมือนกัน สัมผัสได้ถึงลูก... โมนยังคงก้าวเดินไปกับเธอทุกหนทุกแห่ง เพราะฉะนั้น ขอบใจนะ ยูเรียนเจย์ ขอบใจที่เธอเป็นเธอเช่นนี้"
+    },
+    {
+      "key": "iithinkicanfeelhertoo",
+      "text_en": "I...I think...I can feel her, too...",
+      "text": "ผม...ผมคิดว่า...ผมก็สัมผัสได้ถึงเธอเช่นกัน..."
+    },
+    {
+      "key": "thetruthofherlifenotsorrowbuthopeandlove",
+      "text_en": "The truth...of her life. Not sorrow...but hope. And love...",
+      "text": "สัจธรรม...แห่งชีวิตของเธอ ไม่ใช่ความโศกเศร้า...หากแต่เป็นความหวัง และความรัก..."
+    },
+    {
+      "key": "thismoenbrydashewasimportanttohimwasntshe",
+      "text_en": "This Moenbryda...she was important to him, wasn't she?",
+      "text": "โมนบรีดาคนนี้...คงเป็นคนสำคัญของเขามากเลยสินะจ๊ะ"
+    },
+    {
+      "key": "youcouldaskthemanhimself",
+      "text_en": "...You could ask the man himself.",
+      "text": "...เรื่องนั้น ลองถามเจ้าตัวดูเองจะดีกว่านะ"
+    },
+    {
+      "key": "ohnonobutwatchingthisexchangeremindsmehowmuchiveyettolearnaboutyourworldanditspeople",
+      "text_en": "Oh no, no. But watching this exchange reminds me how much I've yet to learn about your world...and its people.",
+      "text": "โอ้ ไม่ละ ไม่ละจ้ะ แต่การได้ดูคนเขาคุยกันแบบนี้ มันทำให้ฉันนึกขึ้นได้ว่ายังมีเรื่องอีกมากที่ต้องเรียนรู้เกี่ยวกับโลกของพวกเธอ...รวมถึงผู้คนที่นี่ด้วย"
+    },
+    {
+      "key": "youcanlivehereyourentirelifeandhardlylearnathing",
+      "text_en": "You can live here your entire life and hardly learn a thing.",
+      "text": "ต่อให้ใช้ชีวิตอยู่ที่นี่ชั่วชีวิต ก็ใช่ว่าจะเรียนรู้อะไรได้จริงหรอก"
+    },
+    {
+      "key": "thatswhyitstoosoonforthistoend",
+      "text_en": "That's why...it's too soon for this to end.",
+      "text": "เพราะอย่างนั้น...ยังเร็วเกินไปที่จะให้เรื่องทั้งหมดจบลงเพียงเท่านี้"
+    },
+    {
+      "key": "remindmetoinviteuriangerforadrinkwhenwehaveamomenttobreathewerelongoverdueforone",
+      "text_en": "Remind me to invite Urianger for a drink, when we have a moment to breathe. We're long overdue for one.",
+      "text": "ไว้พอมีเวลาให้หยุดหายใจหายคอ ช่วยเตือนผมให้ชวนยูเรียนเจย์ไปดื่มสักหน่อยนะ พวกเราติดค้างเรื่องนี้กันมานานเกินไปแล้ว"
+    },
+    {
+      "key": "wecanraiseaglasstomoenbryda",
+      "text_en": "We can raise a glass to Moenbryda.",
+      "text": "จะได้ยกแก้วดื่มระลึกถึงโมนบรีดาด้วยกัน"
+    },
+    {
+      "key": "iwassobusyaskingquestionsaboutetheirysthatineverthoughttoaskmoreabouturianger",
+      "text_en": "I was so busy asking questions about Etheirys that I never thought to ask more about Urianger...",
+      "text": "เรามัวแต่วุ่นวายถามเรื่องราวของเอเธียริส จนลืมนึกถึงเรื่องของยูเรียนเจย์ไปเสียสนิทเลยล่ะนะ..."
+    },
+    {
+      "key": "idliketobutwherewouldibegin",
+      "text_en": "I'd like to, but where would I begin?",
+      "text": "ก็อยากถามอยู่หรอกนะ แต่จะเริ่มจากตรงไหนดีล่ะจ๊ะ"
+    },
+    {
+      "key": "iassureyouthatmyfellowloporritsareequallyexcitedtohavethisopportunitytheywerehummingthewholewayhere",
+      "text_en": "I assure you that my fellow Loporrits are equally excited to have this opportunity. They were humming the whole way here!",
+      "text": "ผมรับรองได้เลยครับว่าเพื่อนๆ โลพอร์ริตคนอื่นก็ตื่นเต้นกับโอกาสครั้งนี้ไม่แพ้กันเลย พวกเขาฮัมเพลงอย่างสุขใจมาตลอดทางเลยครับ!"
+    },
+    {
+      "key": "wespentsolonggazingatthisstarwonderingandhopingbuttobeherenowtowalkamongthepeopletobeapartoftheirlivesandknowthatwevemadeadifferenceitssomuchmorethanieverdreamed",
+      "text_en": "We spent so long gazing at this star. Wondering, and hoping... But to be here now, to walk among the people, to be a part of their lives and know that we've made a difference... It's so much more than I ever dreamed.",
+      "text": "พวกเราเฝ้ามองดวงดาวดวงนี้มาเนิ่นนาน ทั้งเฝ้าถามและเปี่ยมด้วยความหวัง... ทว่าการได้มาอยู่ตรงนี้ ได้เดินปะปนกับผู้คน ได้เป็นส่วนหนึ่งในชีวิตของพวกเขา และรับรู้ว่าพวกเราทำให้ชีวิตของพวกเขาดีขึ้นได้... สิ่งเหล่านี้ช่างเกินกว่าที่ผมเคยใฝ่ฝันไว้มากมายเหลือเกินครับ"
+    },
+    {
+      "key": "goodnessmeiveneverfeltliketherewastoolittletimebeforetherearesomanypeopletotalktosomanythingstolearn",
+      "text_en": "Goodness me, I've never felt like there was too little time before! There are so many people to talk to, so many things to learn...",
+      "text": "คุณพระช่วย กระผมไม่เคยรู้สึกว่าเวลาน้อยนิดขนาดนี้มาก่อนเลยครับ! ผู้คนอีกตั้งมากมายรอให้ไปพูดคุยด้วย และเรื่องราวที่ต้องเรียนรู้ก็ละลานตาเหลือเกิน..."
+    },
+    {
+      "key": "ohyoumustbeoneofthescionscorrect",
+      "text_en": "Oh... You must be one of the Scions, correct?",
+      "text": "โอ้... คุณคงจะเป็นหนึ่งในกลุ่มไซออนส์ใช่ไหมครับ"
+    },
+    {
+      "key": "thankyouforcaringformydaughterthetimeshespentwithyouwasalltooshortbutiknowshewasproudtohaveyouascomrades",
+      "text_en": "Thank you for caring for my daughter. The time she spent with you was all too short, but I know she was proud to have you as comrades.",
+      "text": "ขอบใจมากนะที่ช่วยดูแลลูกสาวของแม่ ช่วงเวลาที่แกได้อยู่กับพวกเธอช่างสั้นแสนสั้น แต่แม่รู้ดีว่าแกภาคภูมิใจเหลือเกินที่ได้มีพวกเธอเป็นเพื่อนพ้อง"
+    },
+    {
+      "key": "uriangeristooimsureandicertainlyfeelbetterforknowinghehasgoodfriendstolookafterhimseethathecomeshomefromtimetotimewillyou",
+      "text_en": "Urianger is too, I'm sure. And I certainly feel better for knowing he has good friends to look after him. See that he comes home from time to time, will you?",
+      "text": "ฉันแน่ใจว่ายูเรียนเจย์ก็เป็นอย่างนั้นเหมือนกัน และพอรู้ว่ามีเพื่อนดีๆ คอยดูแลแบบนี้ ฉันก็สบายใจขึ้นเยอะเลย ฝากเตือนให้กลับบ้านบ้างเป็นครั้งคราวนะ"
+    },
+    {
+      "key": "theclassicalroegadynlanguageisntsodifferentfromeorzeandidyoueverwonderwhywenamedourdaughtermoonsbride",
+      "text_en": "The classical Roegadyn language isn't so different from Eorzean. Did you ever wonder why we named our daughter “moon's bride”?",
+      "text": "ภาษาโรเอดินโบราณไม่ต่างจากภาษาของชาวเอออร์เซียนเท่าไรนักหรอก เคยสงสัยไหมว่าทำไมถึงตั้งชื่อลูกสาวว่า 'เจ้าสาวของดวงจันทร์'"
+    },
+    {
+      "key": "whenifirstheldherthemoonwasshiningsilverandfullthewholeworldseemedaglowiknewithadchosenherthatshewouldbeabeaconofthatselfsamelight",
+      "text_en": "When I first held her, the moon was shining silver and full ─ the whole world seemed aglow. I knew it had chosen her ─ that she would be a beacon of that selfsame light.",
+      "text": "ตอนที่แม่โอบอุ้มแกไว้เป็นครั้งแรก ดวงจันทร์วันเพ็ญส่องสว่างเรืองรองเป็นประกายเงิน ─ ราวกับโลกทั้งใบสว่างไสวไปด้วย แม่รู้ทันทีว่าดวงจันทร์เลือกแก ─ ว่าแกจะต้องเป็นดวงประทีปแห่งแสงสว่างดวงเดียวกันนั้น"
+    },
+    {
+      "key": "ofcoursewedlaterhearourfairshareofjokesabouthowweoughttohavegoneforsuninsteadwithhowbrightandstubbornshewasbutfieryasmymoenbrydawasshewasalwayskindkindandgentle",
+      "text_en": "Of course, we'd later hear our fair share of jokes about how we ought to have gone for “sun” instead, with how bright and stubborn she was. But fiery as my Moenbryda was, she was always kind. Kind and gentle.",
+      "text": "แน่นอนว่าหลังจากนั้นก็มีคนล้อเลียนบ่อยๆ ว่าน่าจะตั้งชื่อว่า 'สุริยะ' แทนเสียมากกว่า ด้วยความที่ทั้งร่าเริงสดใสแถมยังดื้อรั้นขนาดนั้น แต่ถึงโมนบรีดาจะอารมณ์ร้อนราวกับไฟ ก็เป็นเด็กใจดีเสมอ... ทั้งใจดีและอ่อนโยน"
+    },
+    {
+      "key": "ohforenamebeassuredthatiamfineiam",
+      "text_en": "Oh, Forename ... Be assured that I am fine. I am...",
+      "text": "โอ ท่าน [ชื่อผู้เล่น]... ขอจงวางใจเถิด ไม่เป็นไร... ผม..."
+    },
+    {
+      "key": "fullgladtoseethemtooaftersoverylonggladderstillthatitwasinyourcompanyasdifficultasitwastoaccepttheirkindnesstwouldhavebeenfarharderhadifacedthemalone",
+      "text_en": "Full glad to see them, too, after so very long. Gladder still that it was in your company. As difficult as it was to accept their kindness, 'twould have been far harder had I faced them alone...",
+      "text": "ยินดียิ่งนักที่ได้พบอีกครั้งหลังผ่านพ้นไปเนิ่นนาน และยิ่งยินดียิ่งกว่าที่ได้มาพร้อมกับกองกำลังคอมพานีของท่าน แม้การยอมรับความเมตตาจะเป็นเรื่องยาก แต่หากต้องเผชิญหน้าเพียงลำพังก็คงจะยากลำบากกว่านี้หลายเท่า..."
+    }
+  ]
+}

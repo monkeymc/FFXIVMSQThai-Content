@@ -1,0 +1,555 @@
+{
+  "quest_id": "a-sentimental-gift",
+  "dialogues": [
+    {
+      "key": "",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "key": "ifearthisdiscussionmaytakeawhileduringwhichtime",
+      "text_en": "I fear this discussion may take a while, during which time...",
+      "text": "ผมเกรงว่าการหารือครั้งนี้คงต้องใช้เวลาสักหน่อย ระหว่างนี้..."
+    },
+    {
+      "key": "meteionareyoufeelingunwell",
+      "text_en": "Meteion? Are you feeling unwell?",
+      "text": "เมเทออน เป็นอะไรหรือเปล่า รู้สึกไม่สบายตรงไหนไหม"
+    },
+    {
+      "key": "itsnotmehermesitsyou",
+      "text_en": "It's not me, Hermes. It's you...",
+      "text": "ไม่ใช่หนูหรอก เฮอร์เมส... ตัวเฮอร์เมสต่างหาก..."
+    },
+    {
+      "key": "iwontgotothemeetingillstaywithforename",
+      "text_en": "I won't go to the meeting. I'll stay with Forename .",
+      "text": "หนูจะไม่ไปประชุมหรอกค่ะ ขออยู่กับ Forename ดีกว่า"
+    },
+    {
+      "key": "loaththoughiamtoimposemayileavemeteioninyourcareagain",
+      "text_en": "Loath though I am to impose, may I leave Meteion in your care again?",
+      "text": "แม้จะรู้สึกเกรงใจเหลือเกิน แต่ผมขอฝากเมเทออนไว้ให้คุณช่วยดูแลอีกสักครั้งจะได้ไหมครับ"
+    },
+    {
+      "key": "iminyourdebtifyoullexcuseme",
+      "text_en": "I'm in your debt. If you'll excuse me...",
+      "text": "ต้องขอรบกวนคุณด้วยนะครับ ถ้าอย่างนั้น ผมขอตัวก่อน..."
+    },
+    {
+      "key": "canyouhelpmewithsomethingforename",
+      "text_en": "Can you help me with something, Forename ?",
+      "text": "ช่วยอะไรหนูหน่อยได้ไหมคะ Forename"
+    },
+    {
+      "key": "themeetingwillmakehermessadiwanttocheerhimupwithaflower",
+      "text_en": "The meeting will make Hermes sad. I want to cheer him up. With a flower.",
+      "text": "การประชุมนั้นคงทำให้เฮอร์เมสเศร้าใจ หนูอยากช่วยทำให้เขาอารมณ์ดีขึ้น... ด้วยดอกไม้สักดอก"
+    },
+    {
+      "key": "hermeslikesflowersthemostofallthecreationsinelpis",
+      "text_en": "Hermes likes flowers the most. Of all the creations in Elpis.",
+      "text": "ในบรรดาสิ่งสร้างทั้งหมดในเอลพิส เฮอร์เมสชอบดอกไม้มากที่สุดเลยละค่ะ"
+    },
+    {
+      "key": "mostcreationsareexpectedtobeinterestingorbeautifulorstrongbetterinsomeway",
+      "text_en": "Most creations are expected to be interesting. Or beautiful. Or strong. Better in some way.",
+      "text": "สิ่งสร้างส่วนใหญ่นั้น ใครๆ ก็อยากให้ดูน่าสนใจ ไม่ก็งดงาม หรือไม่ก็แข็งแกร่ง... ต้องเลิศเลอกว่าเดิมสักด้านหนึ่ง"
+    },
+    {
+      "key": "butflowersaredifferenttheyredesignedtosuitouremotionswhatwefeelandwanttoconveyhermeslikesthat",
+      "text_en": "But flowers are different. They're designed to suit our emotions. What we feel and want to convey. Hermes likes that.",
+      "text": "แต่ดอกไม้นั้นต่างออกไป เพราะรังสรรค์ขึ้นมาเพื่อสะท้อนอารมณ์ความรู้สึกของเรา สิ่งที่เราคิดและอยากส่งผ่านไป เฮอร์เมสชอบแบบนั้นล่ะ"
+    },
+    {
+      "key": "icantmakeflowerssoillsearchforoneandiwantyoutosearchwithme",
+      "text_en": "I can't make flowers. So I'll search for one. And I want you to search with me.",
+      "text": "ฉันเนรมิตดอกไม้เองไม่ได้ ก็เลยจะลองหาดูสักดอก และฉันก็อยากให้เธอช่วยหาไปด้วยกัน"
+    },
+    {
+      "key": "letsstarthereatthetwelvewonders",
+      "text_en": "Let's start here. At the Twelve Wonders.",
+      "text": "เริ่มจากที่นี่ก่อนแล้วกัน ที่ทเวลฟ์วันเดอร์ส"
+    },
+    {
+      "key": "letssearchthetwelvewondersfirst",
+      "text_en": "Let's search the Twelve Wonders first.",
+      "text": "ลองไปค้นที่ทเวลฟ์วันเดอร์สกันก่อนดีกว่า"
+    },
+    {
+      "key": "allrightillwaitatthebuilding",
+      "text_en": "All right! I'll wait at the building.",
+      "text": "ตกลงจ้ะ! เดี๋ยวจะไปรอที่ตึกนั้นนะ"
+    },
+    {
+      "key": "hermesisstilltalkingwestillhavetime",
+      "text_en": "Hermes is still talking. We still have time!",
+      "text": "เฮอร์เมสยังคุยไม่เสร็จเลย ยังมีเวลาเหลือเฟือ!"
+    },
+    {
+      "key": "ooohsobigandbrightilovethem",
+      "text_en": "Oooh, so big and bright! I love them!",
+      "text": "โอ้โห ทั้งดอกใหญ่ทั้งสีสดใสเชียว! ชอบจังเลย!"
+    },
+    {
+      "key": "buttheymightbetoobrightyouhavetothinkoftherecipientthatswhathermessaid",
+      "text_en": "...But they might be too bright. You have to think of the recipient. That's what Hermes said.",
+      "text": "...แต่สีอาจจะฉูดฉาดเกินไปหน่อย เวลาจะมอบให้ใครก็ต้องคำนึงถึงใจคนรับด้วย เฮอร์เมสเคยบอกไว้แบบนี้ล่ะ"
+    },
+    {
+      "key": "noflowersiftherewereappleswecouldvecoveredtheminsyrup",
+      "text_en": "No flowers... If there were apples, we could've covered them in syrup...",
+      "text": "ไม่มีดอกไม้เลย... ถ้าหากหาแอปเปิ้ลได้สักผล ก็คงเอามาเคลือบน้ำเชื่อมได้แล้วแท้ๆ..."
+    },
+    {
+      "key": "letsheadoutsidenextdontworrywewontwanderfar",
+      "text_en": "Let's head outside next. Don't worry ─ we won't wander far.",
+      "text": "ไปข้างนอกกันต่อเถอะ ไม่ต้องห่วงนะ ─ ไม่เดินไปไหนไกลหรอก"
+    },
+    {
+      "key": "lotsofflowersinthefieldsweshouldbeabletofindsomethingnice",
+      "text_en": "Lots of flowers in the fields. We should be able to find something nice!",
+      "text": "ดอกไม้บานสะพรั่งเต็มทุ่งเชียว ต้องหาดอกไม้สวยๆ เจอแน่เลย!"
+    },
+    {
+      "key": "thesewouldbebetterforhermesbuttheyrehedgedin",
+      "text_en": "These would be better for Hermes...but they're hedged in.",
+      "text": "ดอกไม้พวกนี้น่าจะเหมาะกับเฮอร์เมสมากกว่า...แต่ดันปลูกพุ่มไม้กั้นล้อมรอบไว้หมดเลย"
+    },
+    {
+      "key": "thatmeansweshouldnttouchthemtheyreeitherunderobservationorpoisonous",
+      "text_en": "That means we shouldn't touch them. They're either under observation or poisonous.",
+      "text": "แสดงว่าห้ามไปแตะต้องเชียวล่ะ ไม่กำลังเฝ้าสังเกตอยู่ ก็คงเป็นพิษแน่ๆ"
+    },
+    {
+      "key": "anyotherplaceshouldbefinethoughletskeeplooking",
+      "text_en": "Any other place should be fine, though. Let's keep looking!",
+      "text": "แต่ถ้าเป็นที่อื่นก็คงไม่เป็นไรหรอก หาต่อกันเถอะ!"
+    },
+    {
+      "key": "ohaconeionaflowerthatcanmove",
+      "text_en": "Oh, a coneion! A flower that can move!",
+      "text": "โอ๊ะ โคนีออน! ดอกไม้ที่ขยับได้ล่ะ!"
+    },
+    {
+      "key": "whenhermeswasntlookingitshotseedsathimnotagoodgiftmaybe",
+      "text_en": "When Hermes wasn't looking, it shot seeds at him. Not a good gift, maybe...",
+      "text": "พอเฮอร์เมสเผลอ เจ้าดอกนี่ก็ยิงเมล็ดใส่เฉยเลย คงไม่ใช่ของขวัญที่ดีเท่าไหร่หรอกนะ..."
+    },
+    {
+      "key": "butyouregoodforenameatspottingflowerswellfindsomethingsoon",
+      "text_en": "But you're good, Forename ─ at spotting flowers! We'll find something soon!",
+      "text": "แต่ Forename ตาไวเรื่องหาดอกไม้จังเลย! อีกเดี๋ยวต้องเจออะไรดีๆ แน่!"
+    },
+    {
+      "key": "youregoodatobservingforenamejustlikeanobserver",
+      "text_en": "You're good at observing, Forename . Just like an observer!",
+      "text": "Forename ช่างสังเกตจังเลยนะ เหมือนผู้สังเกตการณ์ไม่มีผิด!"
+    },
+    {
+      "key": "hmmmnothingaroundhereah",
+      "text_en": "Hmmm, nothing around here... Ah!",
+      "text": "อืมม แถวนี้ไม่ยักเจออะไรเลย... อ๊ะ!"
+    },
+    {
+      "key": "overthereforenamesomethingbighuge",
+      "text_en": "Over there, Forename ! Something big! Huge!",
+      "text": "ตรงนั้นไง Forename! ตัวใหญ่มาก! ใหญ่โตมโหฬารทีเดียว!"
+    },
+    {
+      "key": "itsanadonisthethingsarounditsmouthlooklikepetalsbuttheflowersaretheorbsonitshead",
+      "text_en": "It's an adonis! The things around its mouth look like petals. But the flowers are the orbs on its head!",
+      "text": "นั่นคืออะดอนิส! ของรอบปากดูเหมือนกลีบดอกไม้เลย แต่ดอกไม้จริงๆ คือลูกกลมๆ บนหัวต่างหาก!"
+    },
+    {
+      "key": "whenhermesinspectedititswallowedhimuphedidntleavehisroomfordayswhatdoyouthinkforenamewouldhelikeit",
+      "text_en": "When Hermes inspected it, it swallowed him up. He didn't leave his room for days. What do you think, Forename ? Would he like it?",
+      "text": "ตอนที่เฮอร์เมสเข้าไปตรวจดู เจ้าตัวนี้ก็เขมือบกลืนเข้าไปทั้งตัวเลย ทำเอาขลุกอยู่แต่ในห้องตั้งหลายวัน Forename คิดว่าอย่างไรบ้างล่ะ เขาจะชอบดอกไม้แบบนี้ไหมนะ"
+    },
+    {
+      "key": "sonotthisoneeither",
+      "text_en": "So not this one either...",
+      "text": "ถ้าอย่างนั้นดอกนี้ก็ไม่ได้อีกเหมือนกันสินะ..."
+    },
+    {
+      "key": "findingagoodfloweritsharderthanithought",
+      "text_en": "Finding a good flower... It's harder than I thought.",
+      "text": "การหาดอกไม้ดีๆ สักดอก... ยากกว่าที่ฉันคิดไว้เสียอีก"
+    },
+    {
+      "key": "imsorryforenamebutcouldwesearchalittlemoremaybeasfarasthefieldsoverthereillpicksomethingafterthatipromise",
+      "text_en": "I'm sorry, Forename , but could we search a little more? Maybe as far as the fields over there. I'll pick something after that, I promise.",
+      "text": "ขอโทษนะ Forename แต่เราลองหาต่ออีกนิดได้ไหมจ๊ะ บางทีอาจจะเดินไปถึงทุ่งตรงโน้นเลยล่ะ สัญญาเลยว่าเสร็จจากตรงนั้นแล้วฉันจะเลือกให้ได้สักดอก"
+    },
+    {
+      "key": "ivenevergivenagiftbeforewereyounervoustooforyourfirsttime",
+      "text_en": "I've never given a gift before... Were you nervous too? For your first time?",
+      "text": "ฉันไม่เคยให้ของขวัญใครมาก่อนเลย... ตอนที่เป็นพิภพที่หนึ่ง Forename เองก็ตื่นเต้นเหมือนกันหรือเปล่าจ๊ะ"
+    },
+    {
+      "key": "awwwtheresnothing",
+      "text_en": "Awww... There's nothing...",
+      "text": "โธ่... ไม่เจออะไรเลยสักอย่าง..."
+    },
+    {
+      "key": "hmtheshinythingovertherewhatcoulditbe",
+      "text_en": "...Hm? The shiny thing over there. What could it be?",
+      "text": "...เอ๊ะ? ของที่ส่องแสงวิบวับตรงโน้นน่ะ คืออะไรกันนะ"
+    },
+    {
+      "key": "ilearnedsomethingnewrecentlythemeaningofphilomythesnotos",
+      "text_en": "I learned something new recently─the meaning of Philomythes Notos!",
+      "text": "เมื่อเร็วๆ นี้ฉันเพิ่งเรียนรู้สิ่งใหม่มาล่ะ─ความหมายของฟิโลไมเธส โนทอส!"
+    },
+    {
+      "key": "notosisasouthwindpersonandphilomythesishisjoywhyishejoyfulbecausethisplaceissobeautiful",
+      "text_en": "“Notos” is a south wind person...and “Philomythes” is his joy! Why is he joyful? Because this place is so beautiful!",
+      "text": "“โนทอส” คือคนของลมใต้... และ “ฟิโลไมเธส” ก็คือความสุขใจของเขา! ทำไมถึงมีความสุขนักน่ะหรือ ก็เพราะที่นี่งดงามเหลือเกิน!"
+    },
+    {
+      "key": "oohelpisflowerstheyreheretoo",
+      "text_en": "Ooh, Elpis flowers! They're here too!",
+      "text": "โอ้ ดอกเอลพิส! ที่นี่ก็เบ่งบานอยู่เหมือนกัน!"
+    },
+    {
+      "key": "hermeslikesanddislikesthematthesametime",
+      "text_en": "Hermes likes and dislikes them. At the same time.",
+      "text": "เฮอร์เมสทั้งรักทั้งชังพวกมันในเวลาเดียวกันเลยล่ะ"
+    },
+    {
+      "key": "likemetheyreentelechieslikemetheyfeelhispainandturndark",
+      "text_en": "Like me, they're entelechies. Like me, they feel his pain and turn dark...",
+      "text": "พวกมันเป็นเอนเทเลคีเหมือนกับฉัน คอยรับรู้ความเจ็บปวดของเขาแล้วก็กลายเป็นสีดำ..."
+    },
+    {
+      "key": "thatsonlyforhermesthoughforotherstheyrealwayswhiteandbright",
+      "text_en": "That's only for Hermes, though. For others, they're always white and bright.",
+      "text": "แต่เรื่องนั้นเกิดกับเฮอร์เมสคนเดียวเท่านั้นแหละ สำหรับคนอื่น ดอกไม้พวกนี้จะส่องสว่างเป็นสีขาวบริสุทธิ์เสมอ"
+    },
+    {
+      "key": "trulytheflowerwasdarkinyourhome",
+      "text_en": "Truly!? The flower was dark in your home!?",
+      "text": "จริงหรือ ดอกไม้ที่บ้านของเธอกลายเป็นสีดำอย่างนั้นหรือ"
+    },
+    {
+      "key": "thendoyouhaveittooadarkemotion",
+      "text_en": "Then...do you have it too? A dark emotion?",
+      "text": "ถ้าอย่างนั้น...ในใจของเธอเองก็ซุกซ่อนความรู้สึกอันมืดมนไว้เหมือนกันอย่างนั้นหรือ"
+    },
+    {
+      "key": "isee",
+      "text_en": "I see...",
+      "text": "อย่างนั้นหรอกหรือ..."
+    },
+    {
+      "key": "hermeshasknownthesamethefeelingthatapartofyouisgoneagainandagainbutnoonenotices",
+      "text_en": "Hermes has known the same. The feeling that a part of you is gone. Again and again. But no one notices...",
+      "text": "เฮอร์เมสเองก็คุ้นเคยกับความรู้สึกแบบนี้ ความรู้สึกราวกับชิ้นส่วนในใจหลุดลอยหายไป ซ้ำแล้วซ้ำเล่า โดยไม่มีใครสังเกตเห็นเลย..."
+    },
+    {
+      "key": "pleaseforenamewontyoulendittomeyourpainandsorrow",
+      "text_en": "Please, Forename . Won't you lend it to me? Your pain and sorrow...",
+      "text": "ได้โปรดเถอะ Forename ช่วยแบ่งปันความเจ็บปวดและความโศกเศร้าของเธอให้ฉันทีจะได้ไหม..."
+    },
+    {
+      "key": "isee",
+      "text_en": "I see...",
+      "text": "เข้าใจแล้ว..."
+    },
+    {
+      "key": "hermeshasfeltthesameafireburninginyourbreastatremblinghandbutnooneunderstands",
+      "text_en": "Hermes has felt the same. A fire burning in your breast. A trembling hand. But no one understands...",
+      "text": "เฮอร์เมสก็รู้สึกแบบเดียวกัน ร้อนรุ่มในอกเหมือนไฟแผดเผา มือไม้สั่นระริก แต่ไม่มีใครเข้าใจเลยสักคน..."
+    },
+    {
+      "key": "isee",
+      "text_en": "I see...",
+      "text": "เข้าใจแล้ว..."
+    },
+    {
+      "key": "hermeshasfeltthesameashortnessofbreaththewallscloserandcloserbutonlyhimnooneelsefeelsit",
+      "text_en": "Hermes has felt the same. A shortness of breath. The walls closer and closer. But only him. No one else feels it...",
+      "text": "เฮอร์เมสก็รู้สึกแบบเดียวกัน อึดอัดหายใจไม่ออก กำแพงบีบแคบเข้ามาทุกทีๆ แต่กลับต้องเผชิญมันเพียงลำพัง ไม่มีใครอื่นรู้สึกแบบนี้เลยสักคน..."
+    },
+    {
+      "key": "youdonthavetosayiticanfeelitssomethingyouwanttohide",
+      "text_en": "You don't have to say it. I can feel it's something you want to hide.",
+      "text": "ไม่ต้องเอ่ยปากพูดหรอก ฉันรู้สึกได้ว่าเป็นสิ่งที่อยากซ่อนเอาไว้"
+    },
+    {
+      "key": "butwontyoulendittomethedarknessinsideyou",
+      "text_en": "But won't you lend it to me? The darkness inside you?",
+      "text": "แต่จะแบ่งปันมันให้ฉันได้ไหม... ความมืดมิดในใจน่ะ"
+    },
+    {
+      "key": "iwantyoutomaketheflowerdarkinfrontofhermes",
+      "text_en": "I want you to make the flower dark. In front of Hermes.",
+      "text": "ฉันอยากให้ช่วยเปลี่ยนดอกไม้ดอกนี้ให้กลายเป็นสีดำมืดมิด... ต่อหน้าต่อตาเฮอร์เมส"
+    },
+    {
+      "key": "hehasbeeninadarkplacesincebeforehecreatedmeheneedstoknowthatheisnttherealonethatothersaresadtoo",
+      "text_en": "He has been in a dark place. Since before he created me. He needs to know that he isn't there alone. That others are sad too.",
+      "text": "เขาทุกข์ทนอยู่ในโลกมืดมิดมาตลอด ตั้งแต่ก่อนจะสร้างฉันขึ้นมาเสียอีก เขาต้องได้รู้ว่าไม่ได้เผชิญมันเพียงลำพัง และคนอื่นก็โศกเศร้าเป็นเหมือนกัน"
+    },
+    {
+      "key": "trulyyoulldoit",
+      "text_en": "Truly? You'll do it?",
+      "text": "จริงนะ จะยอมช่วยจริงๆ ใช่ไหม"
+    },
+    {
+      "key": "thankyouforenamethankyouitmeansmoretomethanicansay",
+      "text_en": "Thank you, Forename ! Thank you! It means more to me than I can say!",
+      "text": "ขอบคุณนะ Forename! ขอบคุณจริงๆ! มันมีความหมายกับฉันมากเสียจนไม่รู้จะบอกอย่างไรดี!"
+    },
+    {
+      "key": "icantwaittoseehowhermesreactsletsgobackandfetchhim",
+      "text_en": "I can't wait to see how Hermes reacts! Let's go back and fetch him!",
+      "text": "ฉันอยากเห็นเหลือเกินว่าเฮอร์เมสจะทำหน้าอย่างไร! รีบกลับไปตามกันเถอะ!"
+    },
+    {
+      "key": "itseemstheyrestilltalkingletswaituntiltheyvefinished",
+      "text_en": "It seems they're still talking. Let's wait until they've finished.",
+      "text": "ดูเหมือนยังคุยกันอยู่เลย รอให้คุยกันเสร็จก่อนเถอะ"
+    },
+    {
+      "key": "hermes",
+      "text_en": "Hermes!",
+      "text": "เฮอร์เมส!"
+    },
+    {
+      "key": "ohyouwerewaitingforme",
+      "text_en": "Oh... You were waiting for me.",
+      "text": "อ้าว... มารออยู่หรือครับ"
+    },
+    {
+      "key": "youvefinishedtalking",
+      "text_en": "You've finished talking?",
+      "text": "คุยกันเสร็จแล้วหรือคะ"
+    },
+    {
+      "key": "yeswevecometoadecision",
+      "text_en": "Yes. We've come to a decision.",
+      "text": "ครับ ได้ข้อสรุปแล้ว"
+    },
+    {
+      "key": "mythanksforkeepingmeteioncompany",
+      "text_en": "My thanks for keeping Meteion company.",
+      "text": "ขอบคุณที่คอยอยู่เป็นเพื่อนเมเทออนและกองกำลังคอมพานีครับ"
+    },
+    {
+      "key": "emetselchandhythlodaeushavealreadyretiredtotheirrooms",
+      "text_en": "Emet-Selch and Hythlodaeus have already retired to their rooms.",
+      "text": "เอเมท-เซลช์และฮิธโลเดอุสกลับเข้าห้องพักไปเรียบร้อยแล้วครับ"
+    },
+    {
+      "key": "thereisaroomforyoutooifyouwouldfollowme",
+      "text_en": "There is a room for you too, if you would follow me.",
+      "text": "ผมจัดห้องพักไว้ให้แล้วเช่นกัน เชิญตามมาได้เลยครับ"
+    },
+    {
+      "key": "waitiwanttoshowyousomethingfirst",
+      "text_en": "Wait! I want to show you something first.",
+      "text": "เดี๋ยวค่ะ! ฉันอยากให้ดูอะไรบางอย่างบนพิภพที่หนึ่งก่อน"
+    },
+    {
+      "key": "elpisflowers",
+      "text_en": "Elpis flowers...?",
+      "text": "ดอกเอลพิสอย่างนั้นหรือ..."
+    },
+    {
+      "key": "goon",
+      "text_en": "Go on!",
+      "text": "ยื่นให้เลยสิ!"
+    },
+    {
+      "key": "yourenottheonlyonehermesothersfeelsadtooyourenotalone",
+      "text_en": "You're not the only one, Hermes. Others feel sad too. You're not alone.",
+      "text": "ไม่ใช่แค่เฮอร์เมสคนเดียวหรอกนะ คนอื่นเขาก็เศร้าใจเหมือนกัน... เฮอร์เมสไม่ได้ตัวคนเดียวหรอก"
+    },
+    {
+      "key": "iseemeteionhassharedmuchwithyou",
+      "text_en": "I see Meteion has shared much with you.",
+      "text": "ดูท่าเมเทออนคงเล่าอะไรให้คุณฟังเสียมากมายทีเดียว"
+    },
+    {
+      "key": "maywetalkamoment",
+      "text_en": "May we talk a moment?",
+      "text": "เราขอคุยกันสักครู่ได้ไหมครับ"
+    },
+    {
+      "key": "idonotthinkitwrongthatweliveforthestarthatwestrivetomakeitabetterplace",
+      "text_en": "I do not think it wrong that we live for the star. That we strive to make it a better place.",
+      "text": "ผมไม่คิดว่าการที่พวกเราใช้ชีวิตเพื่อดวงดาวดวงนี้ หรือความพยายามทำให้ดวงดาวดวงนี้น่าอยู่ยิ่งขึ้นจะเป็นเรื่องผิดแต่อย่างใด"
+    },
+    {
+      "key": "andyetincarryingoutmydutiesheretherearetimeswheniamplaguedbydoubt",
+      "text_en": "And yet, in carrying out my duties here, there are times when I am plagued by doubt.",
+      "text": "แต่ทว่า ยามปฏิบัติหน้าที่ ณ ที่แห่งนี้ บางครั้งความเคลือบแคลงสงสัยก็รุมเร้าผมเหลือเกิน"
+    },
+    {
+      "key": "doyourecallwhathythlodaeussaidwhenwefirstspokeofmynomination",
+      "text_en": "Do you recall what Hythlodaeus said, when we first spoke of my nomination?",
+      "text": "ยังจำได้ไหมว่าฮิธโลเดอุสพูดว่าอย่างไร ตอนที่คุยเรื่องการเสนอชื่อของฉันเป็นครั้งแรก"
+    },
+    {
+      "key": "deathistheprivilegeofthosewhohavefulfilledtheirpurposeachoicetheyembraceoftheirownfreewillandwhentheydepartitisalwaysbeautiful",
+      "text_en": "Death is the privilege of those who have fulfilled their purpose. A choice they embrace of their own free will. And when they depart, it is always beautiful.",
+      "text": "ความตายคืออภิสิทธิ์ของผู้ที่บรรลุเป้าหมายในชีวิตแล้ว เป็นทางเลือกที่พร้อมโอบรับด้วยความสมัครใจ และยามที่จากไป ก็งดงามเสมอ"
+    },
+    {
+      "key": "perhapsitisbutonlyforman",
+      "text_en": "Perhaps it is...but only for man.",
+      "text": "ก็อาจจะจริง...แต่นั่นเฉพาะกับมนุษย์เท่านั้น"
+    },
+    {
+      "key": "creationsthathedeemsuselessarediscardedwithnaryasecondthought",
+      "text_en": "Creations that he deems useless are discarded with nary a second thought.",
+      "text": "สิ่งสร้างที่เห็นว่าไร้ประโยชน์ก็โยนทิ้งไปอย่างไม่ใยดีโดยไม่เสียเวลาคิดทบทวนแม้แต่เสี้ยววินาที"
+    },
+    {
+      "key": "somescarcelybornintotheworldaffordedahandfulofbreathsbeforelifeandpotentialareabruptlyextinguished",
+      "text_en": "Some scarcely born into the world. Afforded a handful of breaths before life and potential are abruptly extinguished.",
+      "text": "บางตัวเพิ่งลืมตาดูโลกได้ไม่ทันไร ได้สูดลมหายใจเพียงไม่กี่เฮือก ชีวิตและอนาคตอันรุ่งโรจน์ก็ดับวูบลงฉับพลัน"
+    },
+    {
+      "key": "wemakeanefforttosparethemthepainbuttheysensewhatawaitsrageinanguishandcowerinfearanditisnotbeautiful",
+      "text_en": "We make an effort to spare them the pain. But they sense what awaits. Rage in anguish and cower in fear...and it is not beautiful.",
+      "text": "เราพยายามหลีกเลี่ยงไม่ให้เกิดความเจ็บปวด ทว่าพวกมันกลับรับรู้ชะตากรรมที่รออยู่ ต่างดิ้นรนคลุ้มคลั่งด้วยความทรมานและหมอบคู้ด้วยความกลัว... และมันไม่ได้งดงามเลยสักนิด"
+    },
+    {
+      "key": "yetnoonecaresnoone",
+      "text_en": "Yet no one cares. No one.",
+      "text": "แต่กลับไม่มีใครแยแส ไม่มีเลยสักคน"
+    },
+    {
+      "key": "sofixatedareweuponthedutythatwedonotpausetoquestionthemethod",
+      "text_en": "So fixated are we upon the duty that we do not pause to question the method.",
+      "text": "เรามัวแต่จดจ่ออยู่กับหน้าที่ จนไม่เคยหยุดตั้งคำถามถึงวิธีการเลยแม้แต่น้อย"
+    },
+    {
+      "key": "painandsufferingconfusionanddespairwritplainintheeyesofthosepoorcreatures",
+      "text_en": "Pain and suffering... Confusion and despair... Writ plain in the eyes of those poor creatures.",
+      "text": "ความเจ็บปวดและความทุกข์ทรมาน... ความสับสนและความสิ้นหวัง... ฉายชัดอยู่ในเนตรมังกรของสิ่งมีชีวิตที่น่าสงสารเหล่านั้น"
+    },
+    {
+      "key": "yetnooneseesweturnablindeyeandcarryoninblissfulignorancenaughtamissandalwaysalwaystheblossomsshinepureandwhite",
+      "text_en": "Yet no one sees. We turn a blind eye and carry on in blissful ignorance. Naught amiss, and always ─ always the blossoms shine pure and white.",
+      "text": "ทว่ากลับไม่มีใครเห็น เราแสร้งปิดดวงตามังกรและดำเนินชีวิตต่อไปในความเพิกเฉยอันแสนสุข ไม่มีสิ่งใดผิดแผก และดอกไม้ก็ยังคงเบ่งบานขาวสะอาดบริสุทธิ์อยู่เสมอ... อยู่เสมอมา"
+    },
+    {
+      "key": "acontradictionsoblatanticouldscreamwanttoscreamhowcanyouallacceptthisaberration",
+      "text_en": "A contradiction so blatant I could scream. Want to scream. How can you all accept this...aberration!?",
+      "text": "ความย้อนแย้งที่ชัดแจ้งถึงเพียงนี้ทำเอาผมแทบอยากจะกรีดร้อง... อยากร้องตะโกนออกมาดังๆ พวกคุณยอมรับความผิดปกติ... นี้ได้อย่างไรกัน!"
+    },
+    {
+      "key": "theniwonderamitheaberrationforthinkingthusandiamfilledwithdread",
+      "text_en": "Then I wonder...am I the aberration for thinking thus? And I am filled with dread...",
+      "text": "แล้วผมก็เริ่มสงสัย... หรือว่าตัวผมเองที่เป็นฝ่ายผิดปกติที่คิดเช่นนี้? แล้วผมก็รู้สึกหวาดกลัวจับใจ..."
+    },
+    {
+      "key": "butnowiknowimnotalonenottheonlyoneforwhomtheflowersweep",
+      "text_en": "But now I know I'm not alone. Not the only one for whom the flowers weep.",
+      "text": "ทว่าตอนนี้ผมรู้แล้วว่าไม่ได้อยู่อย่างโดดเดี่ยว ไม่ใช่เพียงคนเดียวที่ดอกไม้เหล่านั้นหลั่งน้ำตาให้"
+    },
+    {
+      "key": "iwontaskwhatyouthoughtasyoukneeledbesidetheelpisorifyouonlydiditatmeteionsinsistence",
+      "text_en": "I won't ask what you thought as you kneeled beside the Elpis. Or if you only did it at Meteion's insistence.",
+      "text": "ผมจะไม่ถามหรอกว่าคุณคิดอ่านอย่างไรยามคุกเข่าลงข้างดอกเอลพิส หรือเพียงทำไปเพราะเมเทออนคะยั้นคะยอ"
+    },
+    {
+      "key": "neverthelessithankyou",
+      "text_en": "Nevertheless...I thank you.",
+      "text": "แต่ถึงกระนั้น...ผมก็ต้องขอขอบคุณ"
+    },
+    {
+      "key": "toknowthatyoutoohaveexperiencedsufferingisacomfort",
+      "text_en": "To know that you too have experienced suffering...is a comfort.",
+      "text": "การได้รู้ว่าคุณเองก็เคยผ่านความทุกข์ยากมาเช่นกัน...ช่วยปลอบประโลมใจผมได้มาก"
+    },
+    {
+      "key": "tosowillinglylendaneartoeasemyburdenyouareastrangeone",
+      "text_en": "To so willingly lend an ear to ease my burden... You are a strange one.",
+      "text": "ยอมรับฟังเพื่อช่วยแบ่งเบาความทุกข์ของผมอย่างเต็มใจเช่นนี้... คุณนี่ช่างเป็นคนแปลกคนหนึ่งจริงๆ"
+    },
+    {
+      "key": "indeeddifficultthoughitmaybeimustendeavortobestronglikeyou",
+      "text_en": "...Indeed. Difficult though it may be, I must endeavor to be strong like you.",
+      "text": "...จริงด้วย ถึงจะยากเย็นเพียงใด ผมก็ต้องพยายามเข้มแข็งให้ได้เหมือนคุณ"
+    },
+    {
+      "key": "lestyoumisunderstandiderivenopleasurefromyourpain",
+      "text_en": "Lest you misunderstand, I derive no pleasure from your pain.",
+      "text": "เกรงคุณจะเข้าใจผิด ผมไม่ได้ยินดีกับความเจ็บปวดของคุณหรอกนะ"
+    },
+    {
+      "key": "itsjustthefactthatyouarestillhereinspiteofyoursufferinggivesmeheart",
+      "text_en": "It's just...the fact that you are still here, in spite of your suffering, gives me heart.",
+      "text": "เพียงแต่...การที่คุณยังยืนหยัดอยู่ตรงนี้ได้แม้จะผ่านความทุกข์ยากมามากมาย ช่วยเติมกำลังใจให้ผมเหลือเกิน"
+    },
+    {
+      "key": "thestarsintheheavensknowyouwhattheyare",
+      "text_en": "The stars in the heavens... Know you what they are?",
+      "text": "หมู่ดาวบนฟากฟ้าพวกนั้น... คุณพอจะรู้ไหมว่าคืออะไร"
+    },
+    {
+      "key": "thoughitistoofartotelleachglitteringlightcouldbeaworldnotunlikeetheirysaworldfilledwithlife",
+      "text_en": "Though it is too far to tell, each glittering light could be a world not unlike Etheirys. A world filled with life.",
+      "text": "แม้จะอยู่ห่างไกลเกินกว่าจะบอกได้ แต่แสงสว่างระยิบระยับแต่ละดวงนั้นอาจเป็นโลกที่คล้ายคลึงกับเอเธียริส โลกที่เต็มไปด้วยชีวิตชีวา"
+    },
+    {
+      "key": "somanystarssomanylivesforustheremaybenohigherpurposethantoliveforourworldbutwhatoftheotherlivingbeingsoutthere",
+      "text_en": "So many stars, so many lives... For us, there may be no higher purpose than to live for our world, but what of the other living beings out there?",
+      "text": "ดวงดาวมากมายเหลือเกิน ชีวิตมากมายเหลือเกิน... สำหรับพวกเราแล้ว คงไม่มีเป้าหมายใดจะสูงส่งไปกว่าการมีชีวิตอยู่เพื่อโลกของเรา แต่แล้วสิ่งมีชีวิตอื่นๆ ที่อยู่ข้างนอกนั่นล่ะ"
+    },
+    {
+      "key": "whatisitthatgivestheirlivesmeaningthatdrivesthemdayafterdayafterday",
+      "text_en": "What is it that gives their lives meaning? That drives them day after day after day?",
+      "text": "สิ่งใดหนอที่มอบความหมายให้แก่ชีวิต คอยขับเคลื่อนให้ก้าวเดินต่อไปวันแล้ววันเล่า"
+    },
+    {
+      "key": "toposethatquestiontoourundiscoveredcousinsicreatedbeingsofdynamiswhocantraversethevastemptinessbetweenthestarsmeteionandhersisters",
+      "text_en": "To pose that question to our undiscovered cousins, I created beings of dynamis, who can traverse the vast emptiness between the stars. Meteion and her sisters.",
+      "text": "เพื่อตั้งคำถามนั้นกับเพื่อนพ้องผู้ร่วมอาศัยในจักรวาลอันไกลโพ้นที่ยังไม่เคยพานพบ ผมจึงได้สร้างสิ่งสร้างแห่งไดนามิสผู้สามารถเดินทางข้ามผ่านห้วงความว่างเปล่าอันเวิ้งว้างระหว่างดวงดาว... เมเทออนกับเดอะซิสเตอร์สของเธอ"
+    },
+    {
+      "key": "ayesisters",
+      "text_en": "Aye, sisters.",
+      "text": "ใช่แล้ว เดอะซิสเตอร์สของเธอ"
+    },
+    {
+      "key": "shehasagreatmanyofthemandtheyhavealreadydepartedontheirjourneytravelingtoonestarandthenthenextinsearchoflife",
+      "text_en": "She has a great many of them, and they have already departed on their journey. Traveling to one star, and then the next, in search of life.",
+      "text": "เดอะซิสเตอร์สของเธอมีจำนวนมากมายเหลือเกิน และบัดนี้ต่างก็ออกเดินทางแล้ว... เดินทางจากดวงดาวดวงหนึ่งสู่อีกดวงหนึ่งเพื่อค้นหาสิ่งมีชีวิต"
+    },
+    {
+      "key": "asonemightexpectexplorationonsuchagrandscaleisrifewithdifficultiesandthusfarivenaughttoshowforit",
+      "text_en": "As one might expect, exploration on such a grand scale is rife with difficulties, and thus far I've naught to show for it.",
+      "text": "เป็นธรรมดาอยู่เองที่การบุกเบิกครั้งยิ่งใหญ่เช่นนี้ย่อมเต็มไปด้วยขวากหนามและความยากลำบาก จนถึงตอนนี้ผมจึงยังไม่มีเรื่องใดคืบหน้าพอจะอวดได้เลย"
+    },
+    {
+      "key": "butihavefaiththatwewillmakesomemannerofdiscoveryerelong",
+      "text_en": "But I have faith that we will make some manner of discovery ere long.",
+      "text": "แต่ผมยังเชื่อมั่นว่าเราจะค้นพบบางสิ่งบางอย่างในอีกไม่ช้า"
+    },
+    {
+      "key": "andwhenwedoishouldbegladtoshareourfindingswithyouingratitudeforyourkindness",
+      "text_en": "And when we do, I should be glad to share our findings with you, in gratitude for your kindness.",
+      "text": "เมื่อถึงวันนั้น ผมยินดีอย่างยิ่งที่จะแบ่งปันสิ่งที่พบให้คุณได้รับรู้ เพื่อตอบแทนความกรุณาของคุณ"
+    },
+    {
+      "key": "itsgettingratherlatewehadbestfindourbedstwouldnotdoforbothofustobesleepdeprivedonthemorrow",
+      "text_en": "...It's getting rather late. We had best find our beds. 'Twould not do for both of us to be sleep-deprived on the morrow.",
+      "text": "...ดึกมากแล้ว พวกเราควรแยกย้ายไปพักผ่อนเสียที คงไม่ดีแน่หากเราทั้งคู่ต้องสะลึมสะลือเพราะอดนอนในวันพรุ่งนี้"
+    },
+    {
+      "key": "comemeteionletusheadback",
+      "text_en": "Come, Meteion! Let us head back.",
+      "text": "มาเถอะเมเทออน กลับกันได้แล้ว"
+    },
+    {
+      "key": "allright",
+      "text_en": "All right!",
+      "text": "ได้เลยค่ะ!"
+    }
+  ]
+}

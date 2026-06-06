@@ -1,0 +1,595 @@
+{
+  "quest_id": "abyssal-dark",
+  "dialogues": [
+    {
+      "key": "aplacegolbezvisitswithoutfailifthereweresomedistortionintheambientaetheriwouldbeabletofinditwithease",
+      "text_en": "A place Golbez visits without fail... If there were some distortion in the ambient aether, I would be able to find it with ease...",
+      "text": "สถานที่ซึ่งโกลเบซต้องไปเยือนเป็นประจำ... หากกระแสเอเธอร์โดยรอบบิดเบี้ยวไปบ้าง ฉันคงตรวจพบได้โดยง่าย..."
+    },
+    {
+      "key": "tisacomforttoseethatazdajasspiritremainsunbrokenletsfindthismysterylocationgolbezsofavors",
+      "text_en": "'Tis a comfort to see that Azdaja's spirit remains unbroken. Let's find this mystery location Golbez so favors.",
+      "text": "ค่อยเบาใจหน่อยที่จิตวิญญาณของอัซดาจายังไม่ยอมจำนน ไปตามหาสถานที่ลึกลับที่โกลเบซโปรดปรานนักหนานั่นกันเถอะ"
+    },
+    {
+      "key": "wemustdonolessthandefeatgolbezinordertofreemysistermakesurethouartpreparedforanything",
+      "text_en": "We must do no less than defeat Golbez in order to free my sister. Make sure thou art prepared for anything.",
+      "text": "เพื่อปลดปล่อยพี่สาวของเรา ภาคีของเราต้องโค่นโกลเบซลงให้ได้เท่านั้น จงมั่นใจว่าเตรียมตัวพร้อมรับมือทุกสิ่งแล้ว"
+    },
+    {
+      "key": "theothershavealreadybegunsearchingforcluesletusdothesame",
+      "text_en": "The others have already begun searching for clues. Let us do the same.",
+      "text": "คนอื่นเริ่มออกหาเบาะแสกันแล้ว พวกเราก็ทำตามเถอะ"
+    },
+    {
+      "key": "illtakechargeofthisareaifyoucouldseetothesouth",
+      "text_en": "I'll take charge of this area. If you could see to the south.",
+      "text": "ฉันจะรับผิดชอบพื้นที่แถบนี้เอง นายช่วยไปดูทางทิศใต้ที"
+    },
+    {
+      "key": "leavethisareatomeandseetothesouth",
+      "text_en": "Leave this area to me and see to the south.",
+      "text": "ปล่อยพื้นที่ตรงนี้เป็นหน้าที่ของฉัน แล้วนายไปดูทางทิศใต้เถอะ"
+    },
+    {
+      "key": "ihaveonlyperformedacursorysearchbutidoubtthereisanythingofnotefurtherwestperhapsyoucouldtrylookingtothesoutheast",
+      "text_en": "I have only performed a cursory search, but I doubt there is anything of note further west. Perhaps you could try looking to the southeast.",
+      "text": "ฉันเพิ่งสำรวจดูคร่าวๆ เท่านั้น ทว่าลึกเข้าไปในดินแดนตะวันตกไม่น่าจะพบสิ่งใดน่าสนใจเป็นพิเศษ ลองไปค้นหาทางทิศตะวันออกเฉียงใต้ดูสิ"
+    },
+    {
+      "key": "nothingheremayhapfurthersouththen",
+      "text_en": "Nothing here... Mayhap further south, then?",
+      "text": "ไม่พบอะไรเลย... หรือต้องลึกลงไปทางทิศใต้อีกล่ะ"
+    },
+    {
+      "key": "icouldnotdiscernastructureofanykindfromabovewhateverthisplaceorobjectmightbegolbezhathhiddenitwell",
+      "text_en": "I could not discern a structure of any kind from above. Whatever this place or object might be, Golbez hath hidden it well.",
+      "text": "ข้ามองไม่เห็นสิ่งปลูกสร้างใดๆ จากเบื้องบนเลย ไม่ว่าสถานที่หรือวัตถุนั้นจะเป็นสิ่งใด โกลเบซก็ซ่อนไว้อย่างมิดชิดยิ่งนัก"
+    },
+    {
+      "key": "didyoufindsomething",
+      "text_en": "Did you find something?",
+      "text": "เจออะไรเข้าหรือเปล่า"
+    },
+    {
+      "key": "amemoriabutwhose",
+      "text_en": "A memoria. But whose...?",
+      "text": "เมโมเรีย... แต่ว่าเป็นของใครกัน..."
+    },
+    {
+      "key": "youhaveliedpillagedandmurderedhaveyouanythingtosayinyourdefense",
+      "text_en": "You have lied, pillaged, and murdered. Have you anything to say in your defense?",
+      "text": "ท่านทั้งพูดเท็จ ปล้นสะดม และเข่นฆ่าผู้คน มีอะไรจะกล่าวแก้ต่างให้ตนเองบ้างหรือไม่"
+    },
+    {
+      "key": "noeveryoneofthemgotwhattheydeservedtrustingfools",
+      "text_en": "No. Every one of them got what they deserved. Trusting fools.",
+      "text": "ไม่มีหรอก พวกมันทุกคนต่างได้รับสิ่งที่สมควรได้รับแล้ว พวกโง่ที่คอยแต่ไว้ใจคนอื่น"
+    },
+    {
+      "key": "likeyouwouldbeheroesayeyouddowelltokeepacloseeyeoneachother",
+      "text_en": "Like you would-be heroes. Aye, you'd do well to keep a close eye on each other.",
+      "text": "เหมือนพวกอยากเป็นฮีโร่อย่างพวกแกนั่นแหละ ใช่แล้ว ทางที่ดีควรใช้ดวงตามังกรคอยจับตาดูกันและกันไว้ให้ดีเถอะ"
+    },
+    {
+      "key": "italwaysendsthesamewayaknifeinthebackandbettertohavethehandletowardsyourhand",
+      "text_en": "It always ends the same way. A knife in the back. And better to have the handle towards your hand.",
+      "text": "สุดท้ายมันก็จบลงแบบเดิมเสมอ มีดที่แทงเข้ากลางหลัง และการกุมด้ามมีดไว้ในมือตนเองย่อมดีที่สุด"
+    },
+    {
+      "key": "youllseeohyesyouwill",
+      "text_en": "You'll see... Oh yes, you will...",
+      "text": "เดี๋ยวแกก็จะได้เห็น... ใช่ คอยดูเถอะ..."
+    },
+    {
+      "key": "indeathmayyoursoulfindsalvation",
+      "text_en": "...In death, may your soul find salvation.",
+      "text": "...ขอให้ดวงวิญญาณของท่านพบกับความหลุดพ้นในความตายด้วยเถิด"
+    },
+    {
+      "key": "icantbringmyselftoprayfortheunrepentantyoureanoblermanthani",
+      "text_en": "I can't bring myself to pray for the unrepentant. You're a nobler man than I.",
+      "text": "ข้าไม่อาจทำใจสวดภาวนาให้ผู้ที่ไม่สำนึกผิดได้ ท่านช่างเป็นคนสูงส่งกว่าข้านัก"
+    },
+    {
+      "key": "comenowweareallshapedbythesedarktimesmorethanwewouldcaretoadmit",
+      "text_en": "Come now. We are all shaped by these dark times more than we would care to admit.",
+      "text": "ไม่เอาน่า ยุคสมัยอันมืดมนนี้หล่อหลอมพวกเราทุกคนไปมากกว่าที่เราอยากจะยอมรับเสียอีก"
+    },
+    {
+      "key": "ichoosetobelievethathadthesemenknownpeaceandplentytheywouldnothavebeenconsumedbymistrustandavarice",
+      "text_en": "I choose to believe that, had these men known peace and plenty, they would not have been consumed by mistrust and avarice.",
+      "text": "ข้าเลือกที่จะเชื่อว่า หากคนเหล่านี้รู้จักความสงบและความอุดมสมบูรณ์ ความหวาดระแวงและความโลภคงไม่กัดกินจิตใจพวกเขาจนหมดสิ้น"
+    },
+    {
+      "key": "victimsofthecontramemoriathenlikesomanyothersbutwewillendit",
+      "text_en": "Victims of the Contramemoria then, like so many others. But we will end it.",
+      "text": "เหยื่อจากสงครามคอนทราเมโมเรียสินะ เหมือนกับคนอื่นๆ อีกมากมาย แต่พวกเราจะยุติเรื่องนี้เอง"
+    },
+    {
+      "key": "thankyouishuddertoimaginewhatmighthavehappenedifyouhadntdealtwiththedarkones",
+      "text_en": "Thank you. I shudder to imagine what might have happened if you hadn't dealt with the dark ones.",
+      "text": "ขอบคุณเหลือเกินครับ แค่คิดก็หวาดกลัวจนตัวสั่นแล้วว่าจะเป็นอย่างไร หากท่านไม่ได้กำจัดพวกความมืดเหล่านั้น"
+    },
+    {
+      "key": "whoisthat",
+      "text_en": "...Who is that?",
+      "text": "...นั่นใครกัน"
+    },
+    {
+      "key": "ohhersheslikeyouihearhuntsmemoriatestakenbydarkness",
+      "text_en": "Oh, her. She's like you, I hear. Hunts memoriates taken by Darkness.",
+      "text": "อ๋อ แม่คนนั้นน่ะหรือ ได้ยินว่าก็เหมือนพวกท่าน คอยล่าพวกเมโมเรียตที่ความมืดกลืนกินไป"
+    },
+    {
+      "key": "wellwellakindredspiritperhapswewillfinallyhaveanewcomrade",
+      "text_en": "Well, well, a kindred spirit. Perhaps we will finally have a new comrade.",
+      "text": "อย่างนั้นหรือ ช่างเป็นคนประเภทเดียวกันเสียนี่กระไร บางทีพวกเราอาจจะได้สหายคนใหม่เสียที"
+    },
+    {
+      "key": "noivenointerestinworkingwithothersmuchlesssomeonewholooksassuspiciousasyou",
+      "text_en": "No. I've no interest in working with others, much less someone who looks as suspicious as you.",
+      "text": "ไม่ ฉันไม่คิดจะร่วมมือกับใครทั้งนั้น ยิ่งกับคนท่าทางน่าสงสัยอย่างนายด้วยแล้ว"
+    },
+    {
+      "key": "isthatso",
+      "text_en": "Is that so...",
+      "text": "เป็นเช่นนั้นเองหรือ..."
+    },
+    {
+      "key": "iftheresnothingelseillbeonmyway",
+      "text_en": "...If there's nothing else, I'll be on my way.",
+      "text": "...หากหมดธุระแล้ว ฉันขอตัวก่อน"
+    },
+    {
+      "key": "evenwhenwesharethesamegoalwecantovercomethemistrustsuchisthewayofthingsthewisdomofourera",
+      "text_en": "Even when we share the same goal, we can't overcome the mistrust. Such is the way of things─the “wisdom” of our era...",
+      "text": "แม้จะร่วมเป้าหมายเดียวกัน แต่กลับมิอาจก้าวข้ามความระแวงไปได้ โลกก็เป็นเช่นนี้เอง—'สติปัญญา' แห่งยุคสมัยของเรา..."
+    },
+    {
+      "key": "onlyapreciousfewmemoriatesremainwhoclingtothelightwouldthatwecouldhavewonherover",
+      "text_en": "Only a precious few memoriates remain who cling to the Light. Would that we could have won her over...",
+      "text": "เหลือเมโมเรียตที่ยังยึดมั่นในแสงสว่างเพียงหยิบมือเดียวเท่านั้น หากเกลี้ยกล่อมมาร่วมมือได้ก็คงดี..."
+    },
+    {
+      "key": "wellmakedooldfriendwehaveaccomplishedmuchalreadyandanotherpersonmaywellhavebeenmoreofahindrancethanhelp",
+      "text_en": "We'll make do, old friend. We have accomplished much already, and another person may well have been more of a hindrance than help.",
+      "text": "เราคงพอจัดการกันเองได้ เพื่อนยาก ที่ผ่านมาทำสำเร็จมามากแล้ว หากพาใครมาร่วมทางอีกคนคงเกะกะเสียมากกว่าช่วย"
+    },
+    {
+      "key": "nowthenourworkhereisfinished",
+      "text_en": "Now then, our work here is finished.",
+      "text": "เอาละ งานที่นี่เสร็จสิ้นลงแล้ว"
+    },
+    {
+      "key": "hismajestyhassummonedussoletusnotdelaytobaron",
+      "text_en": "His Majesty has summoned us, so let us not delay. To Baron!",
+      "text": "ฝ่าบาททรงเรียกพบแล้ว อย่าชักช้าอยู่เลย มุ่งหน้าสู่บารอน!"
+    },
+    {
+      "key": "hadanothervisionofthepastdidyou",
+      "text_en": "Had another vision of the past, did you?",
+      "text": "เห็นภาพในอดีตอีกแล้วหรือ"
+    },
+    {
+      "key": "whatiwasinit",
+      "text_en": "...What? I was in it!?",
+      "text": "...อะไรนะ ฉันอยู่ในนั้นด้วยรึ!?"
+    },
+    {
+      "key": "itsthemthepairimetinthatvillagewhichmeanstheonesealedinthismemoriais",
+      "text_en": "It's them─the pair I met in that village. Which means the one sealed in this memoria is...",
+      "text": "พวกเขานั่นเอง... สองคนที่ฉันเจอในหมู่บ้านนั้น ถ้าอย่างนั้น คนที่ติดอยู่ในเมโมเรียนี้ก็คือ..."
+    },
+    {
+      "key": "soyouhavecomeyouwhowouldopposeourcrusade",
+      "text_en": "So, you have come. You who would oppose our crusade...",
+      "text": "ในที่สุดก็มากันแล้ว พวกเจ้าที่คิดจะต่อต้านสงครามศักดิ์สิทธิ์ของพวกเรา..."
+    },
+    {
+      "key": "sister",
+      "text_en": "Sister!",
+      "text": "ท่านพี่!"
+    },
+    {
+      "key": "youiknowyou",
+      "text_en": "You... I know you.",
+      "text": "เจ้า... ฉันรู้จักเจ้า"
+    },
+    {
+      "key": "isthatsofromtheworldbeforeidaresay",
+      "text_en": "Is that so? From the world before, I daresay.",
+      "text": "อย่างนั้นรึ ข้าว่าคงรู้จักกันตั้งแต่โลกใบก่อนกระมัง"
+    },
+    {
+      "key": "tisimpressiveenoughthatyouhavemanagedtoretainyourmortalformbuttorememberyourpastbesides",
+      "text_en": "'Tis impressive enough that you have managed to retain your mortal form, but to remember your past besides...",
+      "text": "รักษากายเนื้อเอาไว้ได้ก็น่าทึ่งพอแล้ว แต่นี่ยังอุตส่าห์จำอดีตได้อีกรึ..."
+    },
+    {
+      "key": "butthatisofnomomentyouarethememoriatewhovanquishedmyminionscorrect",
+      "text_en": "But that is of no moment. You are the memoriate who vanquished my minions, correct?",
+      "text": "แต่ช่างเรื่องนั้นเถอะ เจ้าคือเมโมเรียตที่กำจัดพวกสมุนของข้าใช่ไหม"
+    },
+    {
+      "key": "andwhatifiam",
+      "text_en": "And what if I am?",
+      "text": "แล้วถ้าใช่ล่ะ"
+    },
+    {
+      "key": "theniwouldbidyoujoinmeasachildofourworldandslavetothewheelfightwithmeforthesalvationofalloursouls",
+      "text_en": "Then I would bid you join me. As a child of our world and slave to the wheel, fight with me for the salvation of all our souls.",
+      "text": "ถ้าอย่างนั้น ข้าขอชวนเจ้ามาร่วมมือกับข้า ในฐานะบุตรแห่งโลกของเราและทาสผู้ติดอยู่ในกงล้อ จงสู้ร่วมกับข้าเพื่อความหลุดพ้นของดวงวิญญาณเราทุกคน"
+    },
+    {
+      "key": "fightwithyoumorelikefightasyourpawn",
+      "text_en": "Fight with you? More like fight as your pawn.",
+      "text": "สู้ร่วมกับแกงั้นหรือ เป็นเบี้ยล่างให้แกใช้งานเสียมากกว่า"
+    },
+    {
+      "key": "itisntmeyouwantbutmypowerandifidontobeyyoullbindmelikeyouboundthatdragon",
+      "text_en": "It isn't me you want, but my power. And if I don't obey, you'll bind me like you bound that dragon.",
+      "text": "แกไม่ได้ต้องการตัวฉันหรอก แกต้องการพลังของฉันต่างหาก และถ้าฉันไม่ยอมทำตาม แกก็จะพันธนาการฉันไว้เหมือนอย่างที่ทำกับมังกรตัวนั้น"
+    },
+    {
+      "key": "butnomoreirefusetobeboundeveragainifightonlyformyselfandforthoseinwhomitrustmyfriends",
+      "text_en": "But no more. I refuse to be bound ever again. I fight only for myself, and for those in whom I trust. My friends.",
+      "text": "แต่มันจะไม่มีวันนั้นอีกแล้ว ฉันจะไม่ยอมให้ใครมาพันธนาการอีกเด็ดขาด ฉันจะสู้เพื่อตัวเองและเพื่อคนที่ฉันไว้ใจเท่านั้น... เพื่อนของฉัน"
+    },
+    {
+      "key": "iseeapity",
+      "text_en": "I see. A pity.",
+      "text": "อย่างนั้นรึ น่าเสียดายจริง"
+    },
+    {
+      "key": "itisforthedragonthatyouhavecomeyes",
+      "text_en": "It is for the dragon that you have come, yes?",
+      "text": "เจ้ามาเพื่อมังกรตัวนั้นสินะ"
+    },
+    {
+      "key": "whenfirstyouappearedithoughtsimplytoremoveathreattoourplan",
+      "text_en": "When first you appeared, I thought simply to remove a threat to our plan.",
+      "text": "เมื่อแรกที่เจ้าซึ่งมาจากพิภพที่หนึ่งปรากฏตัวขึ้น เราคิดเพียงแต่จะกำจัดเสี้ยนหนามที่ขัดขวางแผนการของเราเท่านั้น"
+    },
+    {
+      "key": "neverdidiimaginethatyouwouldreachthisplaceandgiftmeagoldenopportunity",
+      "text_en": "Never did I imagine that you would reach this place, and gift me a golden opportunity!",
+      "text": "เราไม่เคยคิดฝันเลยว่าพวกเจ้าจะเดินทางมาถึงเดอะ รีชแห่งนี้ และมอบโอกาสทองเช่นนี้ให้แก่เรา!"
+    },
+    {
+      "key": "speakplainlygaoler",
+      "text_en": "Speak plainly, gaoler.",
+      "text": "จงเอ่ยวาจามาตามตรง ผู้คุมขัง"
+    },
+    {
+      "key": "longasithasbeenimprisonedthisdragonhasgrownfeebleandweakitsspiritextinguished",
+      "text_en": "Long as it has been imprisoned, this dragon has grown feeble and weak, its spirit extinguished.",
+      "text": "มังกรตัวนี้ทนทุกข์ในคุกขังมาเนิ่นนานจนสิ้นแรงและอ่อนแอ จิตวิญญาณมอดดับไปสิ้น"
+    },
+    {
+      "key": "yourcominghasservedtorekindleherforgottenhope",
+      "text_en": "Your coming has served to rekindle her forgotten hope.",
+      "text": "การมาของพวกเจ้าช่วยจุดประกายความหวังที่เลือนหายไปให้กลับคืนมา"
+    },
+    {
+      "key": "heryearningtobefreetoreturnhomethatisthekeytoourdeliverance",
+      "text_en": "Her yearning to be free─to return home! That is the key to our deliverance!",
+      "text": "ความโหยหาที่จะเป็นอิสระ—ที่จะรีเทิร์นกลับบ้าน! นั่นแหละคือกุญแจสู่การปลดปล่อยของเรา!"
+    },
+    {
+      "key": "azdajano",
+      "text_en": "Azdaja! No!",
+      "text": "อัซดาจา! ไม่นะ!"
+    },
+    {
+      "key": "thedarknessisravaginghershesbecomingavoidsent",
+      "text_en": "The Darkness is ravaging her! She's becoming a voidsent!",
+      "text": "ความมืดกำลังกัดกินนาง! กำลังจะกลายเป็นโวดเซนต์แล้ว!"
+    },
+    {
+      "key": "vrtrathoumustflee",
+      "text_en": "Vrtra... Thou must flee!",
+      "text": "วฤตระ... เจ้าต้องหนีไป!"
+    },
+    {
+      "key": "riseoshadowdragonandobey",
+      "text_en": "Rise, O Shadow Dragon, and obey!",
+      "text": "จงตื่นขึ้น มังกรเงา และปฏิบัติตามบัญชาของเรา!"
+    },
+    {
+      "key": "killhim",
+      "text_en": "Kill him.",
+      "text": "กำจัดมันเสีย"
+    },
+    {
+      "key": "sisterplease",
+      "text_en": "Sister, please!",
+      "text": "พี่หญิง ได้โปรด!"
+    },
+    {
+      "key": "damnyou",
+      "text_en": "Damn you!",
+      "text": "หน็อยแก!"
+    },
+    {
+      "key": "keepourguestsoccupied",
+      "text_en": "Keep our guests occupied.",
+      "text": "ถ่วงเวลาแขกของเราไว้"
+    },
+    {
+      "key": "saveheribegtheesavemysister",
+      "text_en": "Save her, I beg thee... Save my sister...",
+      "text": "ช่วยพี่หญิงด้วย ข้าขอร้อง... ช่วยพี่หญิงของข้า..."
+    },
+    {
+      "key": "beforedarknessswallowedtheworldifoughttirelesslyinawarwithoutend",
+      "text_en": "Before Darkness swallowed the world, I fought tirelessly in a war without end.",
+      "text": "ก่อนที่ความมืดจะกลืนกินโลกใบนี้ เราต่อสู้ในสงครามอันไร้จุดสิ้นสุดอย่างไม่รู้จักเหน็ดเหนื่อย"
+    },
+    {
+      "key": "theexperiencetaughtmetodiscernthestrongthatdragonandyou",
+      "text_en": "The experience taught me to discern the strong. That dragon...and you.",
+      "text": "ประสบการณ์นั้นสอนให้เราแยกแยะผู้แข็งแกร่ง มังกรตัวนั้น...และเจ้า"
+    },
+    {
+      "key": "comefaceme",
+      "text_en": "Come. Face me.",
+      "text": "เข้ามา เผชิญหน้ากับเรา"
+    },
+    {
+      "key": "accursedlight",
+      "text_en": "Accursed Light...",
+      "text": "แสงสว่างต้องสาป..."
+    },
+    {
+      "key": "youwhohaveeverbaskedinitswarmthcouldneverunderstandourenvyouragony",
+      "text_en": "You who have ever basked in its warmth could never understand our envy! Our agony!",
+      "text": "พวกเจ้าผู้เอาแต่ชุบตัวในความอบอุ่นของแสงสว่างไม่มีวันเข้าใจความริษยาของเรา! ความทุกข์ทรมานของเราหรอก!"
+    },
+    {
+      "key": "youwillnotdenyusourrelease",
+      "text_en": "You will not deny us our release!",
+      "text": "พวกเจ้าไม่มีวันขัดขวางการปลดปล่อยของเราได้!"
+    },
+    {
+      "key": "ifyouwouldopposeourcrusadethencome",
+      "text_en": "If you would oppose our crusade, then come!",
+      "text": "หากคิดจะขวางศึกศักดิ์สิทธิ์ของเรา ก็เข้ามา!"
+    },
+    {
+      "key": "butknowthatnoneshalldenyussalvation",
+      "text_en": "But know that none shall deny us salvation.",
+      "text": "แต่จงรู้ไว้ จะไม่มีใครขวางกั้นความรอดพ้นของเราได้"
+    },
+    {
+      "key": "thisplaceshallbeyourtomb",
+      "text_en": "This place shall be your tomb!",
+      "text": "ที่นี่จะเป็นสุสานของพวกเจ้า!"
+    },
+    {
+      "key": "iwillfreeusfromthewheel",
+      "text_en": "I will free us from the wheel!",
+      "text": "เราจะปลดปล่อยพวกเราให้พ้นจากกงล้อนี้เอง!"
+    },
+    {
+      "key": "waremyrimekissedblades",
+      "text_en": "Ware my rime-kissed blades!",
+      "text": "จงระวังหน่วยเบลดส์เคลือบน้ำค้างแข็งของเรา!"
+    },
+    {
+      "key": "iwillsuffernoobstacles",
+      "text_en": "I will suffer no obstacles!",
+      "text": "เราจะไม่ยอมให้สิ่งใดขวางทาง!"
+    },
+    {
+      "key": "nomatterthefoeiwillstaythecourse",
+      "text_en": "No matter the foe, I will stay the course...",
+      "text": "ไม่ว่าศัตรูจะเป็นใคร เราจะยังคงเดินหน้าตามเส้นทางนี้..."
+    },
+    {
+      "key": "letlightningsurge",
+      "text_en": "Let lightning surge!",
+      "text": "จงพุ่งวูบวาบ สายฟ้า!"
+    },
+    {
+      "key": "suchisyourpower",
+      "text_en": "Such is your power?",
+      "text": "พลังของพวกเจ้าเท่านี้เองหรือ"
+    },
+    {
+      "key": "comeforthmyservantofshadow",
+      "text_en": "Come forth, my servant of shadow!",
+      "text": "จงออกมา ข้ารับใช้แห่งเงามืดของเรา!"
+    },
+    {
+      "key": "withabyssaldarkandherosbladeibringmypeopleliberation",
+      "text_en": "With abyssal dark and hero's blade, I bring my people liberation!",
+      "text": "ด้วยความมืดมิดก้นบึ้งและคมดาบของวีรบุรุษ ข้าจะนำการปลดปล่อยมาสู่ผู้คนของข้า!"
+    },
+    {
+      "key": "youshallknowtrueterror",
+      "text_en": "You shall know true terror!",
+      "text": "พวกแกจะได้รู้จักความหวาดกลัวที่แท้จริง!"
+    },
+    {
+      "key": "dragonhearmeandobey",
+      "text_en": "Dragon! Hear me and obey!",
+      "text": "มังกร! จงฟังและสยบต่อข้า!"
+    },
+    {
+      "key": "crushthem",
+      "text_en": "Crush them!",
+      "text": "บดขยี้พวกมันเสีย!"
+    },
+    {
+      "key": "bathetheminblackflame",
+      "text_en": "Bathe them in black flame!",
+      "text": "ชโลมพวกมันด้วยเพลิงทมิฬ!"
+    },
+    {
+      "key": "mymeteorswillextinguishyourlight",
+      "text_en": "My meteors will extinguish your Light!",
+      "text": "อุกกาบาตของข้าจะดับแสงสว่างของพวกแก!"
+    },
+    {
+      "key": "araginggaletorendyouasunder",
+      "text_en": "A raging gale to rend you asunder!",
+      "text": "ลมพายุคลั่งจะฉีกกระชากพวกแกให้เป็นชิ้นๆ!"
+    },
+    {
+      "key": "looktotheheavensforyourdoom",
+      "text_en": "Look to the heavens for your doom!",
+      "text": "จงแหงนมองฟากฟ้าเพื่อรับจุดจบของพวกแกซะ!"
+    },
+    {
+      "key": "youwretch",
+      "text_en": "You wretch!",
+      "text": "เจ้าคนน่าสมเพช!"
+    },
+    {
+      "key": "begone",
+      "text_en": "Begone!",
+      "text": "ไสหัวไปเสีย!"
+    },
+    {
+      "key": "renderuntomeyourall",
+      "text_en": "Render unto me your all!",
+      "text": "จงมอบทุกสิ่งทุกอย่างของพวกแกมาให้ข้า!"
+    },
+    {
+      "key": "mypower",
+      "text_en": "My power...",
+      "text": "พลังของข้า..."
+    },
+    {
+      "key": "evenmybladesothisisthelimitofmydefiance",
+      "text_en": "Even my blade...So this is the limit of my defiance...",
+      "text": "กระทั่งดาบของข้าก็ยัง... สุดสิ้นการขัดขืนของข้าเพียงเท่านี้เองรึ..."
+    },
+    {
+      "key": "areyouallright",
+      "text_en": "Are you all right!?",
+      "text": "เป็นอะไรไหม"
+    },
+    {
+      "key": "whatshappening",
+      "text_en": "What's happening!?",
+      "text": "เกิดอะไรขึ้น!"
+    },
+    {
+      "key": "hahahaahahahahaha",
+      "text_en": "Hahaha... Ahahahahaha!",
+      "text": "ฮ่าๆๆ... ฮ่าๆๆๆๆ!"
+    },
+    {
+      "key": "atlastthemomentisathand",
+      "text_en": "At last, the moment is at hand...",
+      "text": "ในที่สุด ช่วงเวลานั้นก็มาถึง..."
+    },
+    {
+      "key": "youmayhavebestedmebutnotquicklyenoughtoolatewillyoulooktothechasm",
+      "text_en": "You may have bested me, but not quickly enough. Too late will you look to the chasm.",
+      "text": "พวกแกอาจชนะข้าได้ แต่ช้าเกินไป กว่าจะรู้ตัวและมองไปยังก้นบึ้งนั่น ก็สายเกินไปเสียแล้ว"
+    },
+    {
+      "key": "youvewonthebattlebutiwinthewar",
+      "text_en": "You've won the battle, but I win the war!",
+      "text": "พวกแกชนะแค่ศึกนี้ แต่ข้าต่างหากที่ชนะสงคราม!"
+    },
+    {
+      "key": "stopthisibegoftheelethergo",
+      "text_en": "Stop this, I beg of thee! Let her go!",
+      "text": "หยุดเถิด ข้าขออ้อนวอน! ปล่อยนางไปเสีย!"
+    },
+    {
+      "key": "darknessmademanifestonceabidedinthedepthsofthisabyssuntilonedayitdispersedinahazeofaether",
+      "text_en": "Darkness made manifest once abided in the depths of this abyss. Until, one day, it dispersed in a haze of aether.",
+      "text": "ความมืดอันเป็นรูปธรรมเคยหยั่งรากลึก ณ ก้นบึ้งเหวแห่งนี้ กระทั่งวันหนึ่ง สลายตัวกลายเป็นหมอกควันแห่งเอเธอร์"
+    },
+    {
+      "key": "intheabsenceofthegreatflowthataetherhasnowheretoreturn",
+      "text_en": "In the absence of the great flow, that aether has nowhere to return.",
+      "text": "เมื่อปราศจากกระแสโฟลว์อันยิ่งใหญ่ เอเธอร์นั้นก็ไม่มีที่ให้รีเทิร์นกลับไป"
+    },
+    {
+      "key": "andsoithascoalescedgivingrisetoamightyvoidsent",
+      "text_en": "And so it has coalesced, giving rise to a mighty voidsent!",
+      "text": "จึงหลอมรวมควบแน่น ก่อกำเนิดโวดเซนต์ผู้ทรงพลัง!"
+    },
+    {
+      "key": "nowfeastfeastuponthisdragonanditsardentlongingforhomewithit",
+      "text_en": "Now, feast! Feast upon this dragon, and its ardent longing for home with it!",
+      "text": "จงเขมือบ! จงกัดกินมังกรตัวนี้ไปพร้อมความถวิลหาบ้านเกิดอันแรงกล้า!"
+    },
+    {
+      "key": "nooooooooo",
+      "text_en": "Nooooooooo!",
+      "text": "ไม่นะะะะะ!"
+    },
+    {
+      "key": "fromtheconvergenceofancientandnewbornanentitywithoutequalshallemergeonewhoshallteardownthebarrierbetweenworlds",
+      "text_en": "From the convergence of ancient and newborn, an entity without equal shall emerge─one who shall tear down the barrier between worlds!",
+      "text": "จากการบรรจบกันของสิ่งโบราณและสิ่งเกิดใหม่ ตัวตนผู้ไร้เทียมทานจะผุดขึ้นมา—ผู้จะฉีกกระชากปราการกั้นระหว่างโลก!"
+    },
+    {
+      "key": "uponyouwhoshalldeliverusfrometernaldamnationibestowthenameofaheroofeld",
+      "text_en": "Upon you, who shall deliver us from eternal damnation, I bestow the name of a hero of eld!",
+      "text": "แด่เจ้า ผู้จะฉุดดึงพวกเราให้พ้นจากการจองจำอันเป็นนิรันดร์ ข้ามอบนามของวีรบุรุษแห่งกาลก่อนให้!"
+    },
+    {
+      "key": "zeromusawaken",
+      "text_en": "Zeromus! Awaken!",
+      "text": "เซโรมุส! จงตื่นขึ้น!"
+    },
+    {
+      "key": "nomatterhowpowerfulavoidsentcanbesealedinmemoria",
+      "text_en": "No matter how powerful, a voidsent can be sealed in memoria!",
+      "text": "ต่อให้แข็งแกร่งเพียงใด เมโมเรียก็สะกดโวดเซนต์ได้อยู่ดี!"
+    },
+    {
+      "key": "damnititstoostrong",
+      "text_en": "Damn it... It's too strong...",
+      "text": "บ้าจริง... แข็งแกร่งเกินไปแล้ว..."
+    },
+    {
+      "key": "ourwardingscalesmaynotholdnotagainstavoidsentbornofzodiarksaether",
+      "text_en": "Our warding scales may not hold! Not against a voidsent born of Zodiark's aether!",
+      "text": "เกล็ดลงอาคมป้องกันของพวกเราอาจต้านไว้ไม่อยู่! โดยเฉพาะอย่างยิ่งเมื่อต้องรับมือกับโวดเซนต์ที่ถือกำเนิดจากเอเธอร์ของโซดิอาร์ก!"
+    },
+    {
+      "key": "agh",
+      "text_en": "Agh!",
+      "text": "อัก!"
+    },
+    {
+      "key": "wemustretreateveryonetome",
+      "text_en": "We must retreat! Everyone, to me!",
+      "text": "พวกเราต้องล่าถอย! ทุกคน มารวมกันที่ข้า!"
+    },
+    {
+      "key": "iwillreturnsisterandiwillsavetheethisiswear",
+      "text_en": "I will return, Sister, and I will save thee. This I swear!",
+      "text": "ข้าจะรีเทิร์นกลับมา พี่หญิง และข้าจะช่วยท่านให้ได้ ข้าขอสาบาน!"
+    },
+    {
+      "key": "areweallunharmed",
+      "text_en": "Are we all unharmed?",
+      "text": "ทุกคนปลอดภัยดีใช่ไหม"
+    },
+    {
+      "key": "curseyougolbez",
+      "text_en": "Curse you, Golbez...",
+      "text": "เจ็บใจนัก... โกลเบซ..."
+    },
+    {
+      "key": "",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "key": "wemadeitbacksafelyatleast",
+      "text_en": "...We made it back safely, at least.",
+      "text": "...อย่างน้อยก็กลับมาได้อย่างปลอดภัย"
+    }
+  ]
+}
