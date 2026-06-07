@@ -41,11 +41,7 @@
           <span class="stat-divider"></span>
           <span class="stat-item"><strong id="total-sentences-count">0</strong> Sentences</span>
         </div>
-        <button id="download-btn" class="btn btn-primary btn-download" disabled>
-          <svg class="icon" viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-          Download glossary.md
-          <span id="unsaved-indicator" class="unsaved-indicator" title="Unsaved changes"></span>
-        </button>
+
       </div>
     </header>
 
@@ -164,8 +160,8 @@
               <div class="form-actions">
                 <button type="button" id="cancel-edit-btn" class="btn btn-text">Cancel</button>
                 <button type="button" id="save-term-btn" class="btn btn-success">
-                  <svg class="icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg>
-                  Save to Glossary
+                  <svg class="icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                  Export to Admin
                 </button>
               </div>
             </form>
@@ -211,10 +207,6 @@
                 <h3 id="sandbox-match-title">Sentences containing term (0 matches)</h3>
                 <span class="sandbox-tip">Case-insensitive EN key match. Thai sentence replacement is previewed below.</span>
               </div>
-              <button id="download-all-changed-btn" class="btn btn-secondary btn-sm" style="display: none; background: rgba(16, 185, 129, 0.1); border-color: rgba(16, 185, 129, 0.3); color: var(--color-approved);">
-                <svg class="icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
-                Download All (ZIP)
-              </button>
             </div>
 
             <div class="sentences-list" id="sentences-list-container">

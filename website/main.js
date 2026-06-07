@@ -100,7 +100,10 @@ async function initApp() {
     // Hide Loading Screen
     setTimeout(() => {
       document.getElementById('loading-screen').classList.add('fade-out');
-      document.getElementById('download-btn').removeAttribute('disabled');
+      const downloadBtn = document.getElementById('download-btn');
+      if (downloadBtn) {
+        downloadBtn.removeAttribute('disabled');
+      }
     }, 400);
     
     // Setup UI listeners & Render
@@ -387,6 +390,11 @@ function selectTerm(term) {
   document.getElementById('form-group-select').disabled = true; // Lock group on edit
   document.getElementById('form-rules').value = term.rules;
   
+  // Reset export button state
+  const saveBtn = document.getElementById('save-term-btn');
+  saveBtn.innerHTML = `<svg class="icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg> Export to Admin`;
+  saveBtn.style.opacity = '1';
+  
   // Fill sandbox inputs
   document.getElementById('sandbox-old-th').value = term.thai;
   document.getElementById('sandbox-new-th').value = term.thai; // Default to same, user will change
@@ -422,6 +430,11 @@ function showAddTermForm() {
   document.getElementById('form-group-select').disabled = false;
   document.getElementById('form-rules').value = '';
   
+  // Reset export button state
+  const saveBtn = document.getElementById('save-term-btn');
+  saveBtn.innerHTML = `<svg class="icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg> Export to Admin`;
+  saveBtn.style.opacity = '1';
+  
   // Setup Sandbox inputs
   document.getElementById('sandbox-old-th').value = '';
   document.getElementById('sandbox-new-th').value = '';
@@ -445,12 +458,10 @@ function updateSandboxPreview() {
   const newTh = document.getElementById('sandbox-new-th').value.trim();
   const listContainer = document.getElementById('sentences-list-container');
   const matchTitle = document.getElementById('sandbox-match-title');
-  const downloadAllBtn = document.getElementById('download-all-changed-btn');
   
   if (!enKey && !oldTh) {
     listContainer.innerHTML = '<div class="no-sentences-match">Type an English key or Thai translation to see matching sentences.</div>';
     matchTitle.textContent = 'Sentences containing term (0 matches)';
-    downloadAllBtn.style.display = 'none';
     return;
   }
   
@@ -475,7 +486,6 @@ function updateSandboxPreview() {
   if (matches.length === 0) {
     listContainer.innerHTML = '<div class="no-sentences-match">No sentences in the "th" folder match your search query.</div>';
     matchTitle.textContent = 'Sentences containing term (0 matches)';
-    downloadAllBtn.style.display = 'none';
     return;
   }
   
@@ -523,13 +533,6 @@ function updateSandboxPreview() {
     matchTitle.textContent = `Sentences containing "${enKey}" (${matches.length} match${matches.length === 1 ? '' : 'es'} in ${questGroups.size} quest${questGroups.size === 1 ? '' : 's'})`;
   } else {
     matchTitle.textContent = `Sentences containing Thai "${oldTh}" (${matches.length} match${matches.length === 1 ? '' : 'es'} in ${questGroups.size} quest${questGroups.size === 1 ? '' : 's'})`;
-  }
-  
-  // Update download all button visibility
-  if (hasReplacement && totalChangedQuests > 0) {
-    downloadAllBtn.style.display = 'inline-flex';
-  } else {
-    downloadAllBtn.style.display = 'none';
   }
   
   listContainer.innerHTML = '';
@@ -725,70 +728,7 @@ async function downloadQuestJson(path) {
   }
 }
 
-async function downloadAllChanged() {
-  const oldTh = document.getElementById('sandbox-old-th').value.trim();
-  const newTh = document.getElementById('sandbox-new-th').value.trim();
-  
-  if (!oldTh || !newTh || oldTh === newTh) {
-    alert('Please enter different Old and New translations to generate changes.');
-    return;
-  }
-  
-  const enKey = document.getElementById('form-en-key').value.trim();
-  const searchThaiDirectly = document.getElementById('sandbox-search-thai').checked;
-  const searchRegex = (enKey && !searchThaiDirectly) ? new RegExp(escapeRegex(enKey), 'i') : null;
-  const questGroups = new Map();
-  
-  state.sentencesData.sentences.forEach(s => {
-    const [pathIdx, textEn, textTh, idx] = s;
-    const matchesEn = !searchRegex || searchRegex.test(textEn);
-    if (matchesEn && textTh.includes(oldTh)) {
-      const path = state.sentencesData.paths[pathIdx];
-      questGroups.set(path, true);
-    }
-  });
-  
-  const changedPaths = Array.from(questGroups.keys());
-  if (changedPaths.length === 0) {
-    alert('No files have changes to download.');
-    return;
-  }
-  
-  const downloadAllBtn = document.getElementById('download-all-changed-btn');
-  const origText = downloadAllBtn.innerHTML;
-  
-  // Custom spin style
-  downloadAllBtn.innerHTML = `Zipping...`;
-  downloadAllBtn.disabled = true;
-  
-  try {
-    const zip = new JSZip();
-    
-    for (const path of changedPaths) {
-      const { questData } = await getModifiedQuestJson(path, oldTh, newTh);
-      const jsonString = JSON.stringify(questData, null, 2);
-      zip.file(path, jsonString);
-    }
-    
-    const content = await zip.generateAsync({ type: 'blob' });
-    const url = URL.createObjectURL(content);
-    
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = 'th_changes.zip';
-    link.style.visibility = 'hidden';
-    
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  } catch (error) {
-    console.error(error);
-    alert(`Error generating ZIP: ${error.message}`);
-  } finally {
-    downloadAllBtn.innerHTML = origText;
-    downloadAllBtn.disabled = false;
-  }
-}
+
 
 // ==========================================================================
 // Setup UI Listeners
@@ -874,20 +814,22 @@ function setupUI() {
     state.sandboxRenderLimit = 50;
     updateSandboxPreview();
   });
-  document.getElementById('download-all-changed-btn').addEventListener('click', downloadAllChanged);
-  
-  document.getElementById('save-term-btn').addEventListener('click', saveTerm);
-  document.getElementById('download-btn').addEventListener('click', downloadGlossary);
+  document.getElementById('save-term-btn').addEventListener('click', exportToAdmin);
+  const downloadBtn = document.getElementById('download-btn');
+  if (downloadBtn) {
+    downloadBtn.addEventListener('click', downloadGlossary);
+  }
   
   document.getElementById('quick-test-btn').addEventListener('click', () => {
     showAddTermForm();
     document.getElementById('workspace-title').textContent = 'Interactive Replacement Sandbox';
-    document.getElementById('save-term-btn').textContent = 'Test Only';
-    document.getElementById('save-term-btn').style.opacity = '0.5';
+    const saveBtn = document.getElementById('save-term-btn');
+    saveBtn.textContent = 'Test Only';
+    saveBtn.style.opacity = '0.5';
   });
 }
 
-function saveTerm() {
+async function exportToAdmin() {
   const enKey = document.getElementById('form-en-key').value.trim();
   const thTranslation = document.getElementById('form-th-translation').value.trim();
   const status = document.getElementById('form-status').value;
@@ -895,6 +837,10 @@ function saveTerm() {
   const rules = document.getElementById('form-rules').value.trim();
   const action = document.getElementById('form-action').value;
   const originalKey = document.getElementById('form-original-en').value;
+  
+  // Capture sandbox values BEFORE saving changes/re-selecting term resets them
+  const oldTh = document.getElementById('sandbox-old-th').value.trim();
+  const newTh = document.getElementById('sandbox-new-th').value.trim();
   
   if (!enKey || !thTranslation) {
     alert('Please fill out the EN Key and TH Translation fields.');
@@ -934,7 +880,10 @@ function saveTerm() {
   
   // Set unsaved changes
   state.unsavedChanges = true;
-  document.getElementById('unsaved-indicator').style.display = 'block';
+  const unsavedIndicator = document.getElementById('unsaved-indicator');
+  if (unsavedIndicator) {
+    unsavedIndicator.style.display = 'block';
+  }
   
   // Re-render
   renderTermsTable();
@@ -942,18 +891,96 @@ function saveTerm() {
   // Select the term
   selectTerm(state.selectedTerm);
   
-  // Flash Save Button success
+  // Export process
   const saveBtn = document.getElementById('save-term-btn');
+  const isTestOnly = saveBtn.textContent === 'Test Only';
   const origText = saveBtn.innerHTML;
-  saveBtn.innerHTML = '✓ Saved to Memory';
-  saveBtn.classList.remove('btn-success');
-  saveBtn.style.backgroundColor = '#059669';
   
-  setTimeout(() => {
+  if (isTestOnly) {
+    // Flash Save Button success (Skip zipping in Sandbox mode)
+    saveBtn.innerHTML = '✓ Saved to Memory';
+    saveBtn.classList.remove('btn-success');
+    saveBtn.style.backgroundColor = '#059669';
+    
+    setTimeout(() => {
+      saveBtn.innerHTML = origText;
+      saveBtn.classList.add('btn-success');
+      saveBtn.style.backgroundColor = '';
+    }, 1500);
+    return;
+  }
+  
+  saveBtn.innerHTML = `Exporting...`;
+  saveBtn.disabled = true;
+  
+  try {
+    const zip = new JSZip();
+    
+    // 1. Generate and add glossary.md
+    const updatedMarkdown = generateMarkdown(state.originalGlossaryText, state.glossaryTerms);
+    zip.file('glossary.md', updatedMarkdown);
+    
+    // 2. Find and add modified th JSON files (if any)
+    if (oldTh && newTh && oldTh !== newTh) {
+      const searchThaiDirectly = document.getElementById('sandbox-search-thai').checked;
+      const searchRegex = (enKey && !searchThaiDirectly) ? new RegExp(escapeRegex(enKey), 'i') : null;
+      const questGroups = new Map();
+      
+      state.sentencesData.sentences.forEach(s => {
+        const [pathIdx, textEn, textTh, idx] = s;
+        const matchesEn = !searchRegex || searchRegex.test(textEn);
+        if (matchesEn && textTh.includes(oldTh)) {
+          const path = state.sentencesData.paths[pathIdx];
+          questGroups.set(path, true);
+        }
+      });
+      
+      const changedPaths = Array.from(questGroups.keys());
+      for (const path of changedPaths) {
+        const { questData } = await getModifiedQuestJson(path, oldTh, newTh);
+        const jsonString = JSON.stringify(questData, null, 2);
+        zip.file('th/' + path, jsonString);
+      }
+    }
+    
+    const content = await zip.generateAsync({ type: 'blob' });
+    const url = URL.createObjectURL(content);
+    
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = 'export_admin.zip';
+    link.style.visibility = 'hidden';
+    
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    
+    // Re-sync State
+    state.originalGlossaryText = updatedMarkdown;
+    state.unsavedChanges = false;
+    const unsavedIndicator = document.getElementById('unsaved-indicator');
+    if (unsavedIndicator) {
+      unsavedIndicator.style.display = 'none';
+    }
+    
+    // Flash Export success
+    saveBtn.innerHTML = '✓ Exported!';
+    saveBtn.classList.remove('btn-success');
+    saveBtn.style.backgroundColor = '#059669';
+    
+    setTimeout(() => {
+      saveBtn.innerHTML = origText;
+      saveBtn.classList.add('btn-success');
+      saveBtn.style.backgroundColor = '';
+    }, 1500);
+    
+  } catch (error) {
+    console.error(error);
+    alert(`Error generating export ZIP: ${error.message}`);
     saveBtn.innerHTML = origText;
-    saveBtn.classList.add('btn-success');
-    saveBtn.style.backgroundColor = '';
-  }, 1500);
+  } finally {
+    saveBtn.disabled = false;
+  }
 }
 
 function downloadGlossary() {
@@ -974,7 +1001,10 @@ function downloadGlossary() {
   // Re-sync State
   state.originalGlossaryText = updatedMarkdown;
   state.unsavedChanges = false;
-  document.getElementById('unsaved-indicator').style.display = 'none';
+  const unsavedIndicator = document.getElementById('unsaved-indicator');
+  if (unsavedIndicator) {
+    unsavedIndicator.style.display = 'none';
+  }
 }
 
 // ==========================================================================
