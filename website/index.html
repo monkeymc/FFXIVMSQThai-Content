@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FFXIV MSQ Thai Glossary Tool</title>
+  <meta name="description" content="A premium translation helper and glossary linter tool for Final Fantasy XIV Main Scenario Quest (MSQ) Thai translation project.">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;700;800&family=Sarabun:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body class="dark-theme">
+  <!-- Loading Screen -->
+  <div id="loading-screen" class="loading-screen">
+    <div class="loader-content">
+      <div class="spinner"></div>
+      <h2 class="loader-title">Loading MSQ Sentences Database</h2>
+      <p class="loader-subtitle">Loading and indexing 79,996 translation sentences...</p>
+      <div class="progress-bar-container">
+        <div id="progress-bar" class="progress-bar" style="width: 0%"></div>
+      </div>
+      <p id="loading-status" class="loading-status">Connecting to repository...</p>
+    </div>
+  </div>
+
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="logo-area">
+        <span class="game-tag">FFXIV MSQ</span>
+        <h1 class="app-title">Thai Glossary Tool</h1>
+      </div>
+      <div class="header-actions">
+        <div id="stats-badge" class="stats-badge">
+          <span class="stat-item"><strong id="total-terms-count">0</strong> Terms</span>
+          <span class="stat-divider"></span>
+          <span class="stat-item"><strong id="total-sentences-count">0</strong> Sentences</span>
+        </div>
+        <button id="download-btn" class="btn btn-primary btn-download" disabled>
+          <svg class="icon" viewBox="0 0 24 24" width="20" height="20" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+          Download glossary.md
+          <span id="unsaved-indicator" class="unsaved-indicator" title="Unsaved changes"></span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Workspace -->
+    <main class="app-main">
+      <!-- Left Panel: Glossary Registry -->
+      <section class="panel panel-left" aria-label="Glossary Registry">
+        <div class="panel-header">
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input type="text" id="glossary-search" placeholder="Search glossary EN / TH..." autocomplete="off">
+            <button id="clear-search" class="clear-btn" style="display: none;">&times;</button>
+          </div>
+          <div class="filters-row">
+            <div class="filter-group">
+              <label>Status:</label>
+              <div class="pill-group" id="status-filters">
+                <button class="pill active" data-filter="all">All</button>
+                <button class="pill" data-filter="APPROVED">Approved</button>
+                <button class="pill" data-filter="AUTO_LEARNED">Auto Learned</button>
+              </div>
+            </div>
+            <div class="filter-group">
+              <label>Group:</label>
+              <div class="pill-group" id="group-filters">
+                <button class="pill active" data-filter="all">All</button>
+                <button class="pill" data-filter="global">Global</button>
+                <button class="pill" data-filter="locations">Locations</button>
+                <button class="pill" data-filter="skills">Skills</button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="terms-table-container">
+          <table class="terms-table">
+            <thead>
+              <tr>
+                <th style="width: 40%">EN Key</th>
+                <th style="width: 35%">TH Translation</th>
+                <th style="width: 25%">Status</th>
+              </tr>
+            </thead>
+            <tbody id="terms-list-body">
+              <!-- Rendered dynamically -->
+            </tbody>
+          </table>
+        </div>
+        
+        <div class="panel-footer">
+          <span id="terms-shown-count" class="footer-count">Showing 0 of 0 terms</span>
+          <button id="add-term-btn" class="btn btn-secondary btn-sm">
+            <svg class="icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+            Add New Term
+          </button>
+        </div>
+      </section>
+
+      <!-- Right Panel: Term Details & Sentence Diff Sandbox -->
+      <section class="panel panel-right" aria-label="Editor and Translation Review Sandbox">
+        <div id="no-term-selected" class="empty-state">
+          <div class="empty-state-icon">
+            <svg viewBox="0 0 24 24" width="48" height="48" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+          </div>
+          <h3>No Term Selected</h3>
+          <p>Select a glossary term from the list on the left, click <strong>Add New Term</strong>, or start typing a test key below to begin reviewing sentences.</p>
+          <button id="quick-test-btn" class="btn btn-secondary">Sandbox Mode</button>
+        </div>
+
+        <div id="term-workspace" class="workspace-layout" style="display: none;">
+          <!-- Section 1: Term Form -->
+          <div class="workspace-section card term-editor-card">
+            <div class="card-header">
+              <h2 id="workspace-title" class="card-title">Edit Glossary Term</h2>
+              <span id="workspace-group-badge" class="badge">global</span>
+            </div>
+            
+            <form id="term-form" class="term-form" onsubmit="return false;">
+              <input type="hidden" id="form-action" value="edit">
+              <input type="hidden" id="form-original-en" value="">
+              
+              <div class="form-grid">
+                <div class="form-group">
+                  <label for="form-en-key">EN Key <span class="required">*</span></label>
+                  <input type="text" id="form-en-key" placeholder="e.g. the source" required autocomplete="off">
+                </div>
+                
+                <div class="form-group">
+                  <label for="form-th-translation">TH Translation (THPE) <span class="required">*</span></label>
+                  <input type="text" id="form-th-translation" placeholder="คำแปลภาษาไทย" required autocomplete="off">
+                </div>
+                
+                <div class="form-group">
+                  <label for="form-status">Status</label>
+                  <select id="form-status">
+                    <option value="APPROVED">APPROVED</option>
+                    <option value="AUTO_LEARNED">AUTO_LEARNED</option>
+                  </select>
+                </div>
+
+                <div class="form-group">
+                  <label for="form-group-select">Registry Group</label>
+                  <select id="form-group-select">
+                    <option value="global">Global Terms</option>
+                    <option value="locations">Locations & Zones</option>
+                    <option value="skills">Skills & Magic</option>
+                  </select>
+                </div>
+                
+                <div class="form-group full-width">
+                  <label for="form-rules">Linter Rules / Description</label>
+                  <input type="text" id="form-rules" placeholder="ข้อบังคับหรือคำอธิบายเพิ่มเติมสำหรับการแปล" autocomplete="off">
+                </div>
+              </div>
+
+              <div class="form-actions">
+                <button type="button" id="cancel-edit-btn" class="btn btn-text">Cancel</button>
+                <button type="button" id="save-term-btn" class="btn btn-success">
+                  <svg class="icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z"></path><polyline points="17 21 17 13 7 13 7 21"></polyline><polyline points="7 3 7 8 15 8"></polyline></svg>
+                  Save to Glossary
+                </button>
+              </div>
+            </form>
+          </div>
+
+          <!-- Section 2: Sandbox & Replacer Preview -->
+          <div class="workspace-section card sentence-sandbox-card">
+            <div class="card-header">
+              <div>
+                <h2 class="card-title">Interactive Sentence Replacement Sandbox</h2>
+                <p class="card-subtitle">Test new word replacement and see diffs in FFXIV dialogue sentences</p>
+              </div>
+            </div>
+            
+            <div class="sandbox-controls">
+              <div class="sandbox-input-row">
+                <div class="sandbox-input-col">
+                  <label for="sandbox-old-th">Old Translation (to find)</label>
+                  <input type="text" id="sandbox-old-th" placeholder="Old translation inside Thai sentence" autocomplete="off">
+                </div>
+                <div class="sandbox-input-col arrow-col">
+                  <div class="arrow-indicator">&rarr;</div>
+                </div>
+                <div class="sandbox-input-col">
+                  <label for="sandbox-new-th">New Translation (to replace)</label>
+                  <input type="text" id="sandbox-new-th" placeholder="New translation to insert" autocomplete="off">
+                </div>
+              </div>
+              <div class="sandbox-option-row" style="margin-top: 0.75rem; display: flex; flex-wrap: wrap; align-items: center; gap: 1.5rem;">
+                <label class="checkbox-container" style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer; font-size: 0.8rem; color: var(--text-muted); user-select: none;">
+                  <input type="checkbox" id="sandbox-focus-changed" checked style="width: auto; cursor: pointer;">
+                  Focus only on files changed (show only quests with replaced words)
+                </label>
+                <label class="checkbox-container" style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer; font-size: 0.8rem; color: var(--text-muted); user-select: none;">
+                  <input type="checkbox" id="sandbox-search-thai" checked style="width: auto; cursor: pointer;">
+                  Search by Thai word directly (ignores English key filter)
+                </label>
+              </div>
+            </div>
+
+            <div class="sandbox-results-header">
+              <div>
+                <h3 id="sandbox-match-title">Sentences containing term (0 matches)</h3>
+                <span class="sandbox-tip">Case-insensitive EN key match. Thai sentence replacement is previewed below.</span>
+              </div>
+              <button id="download-all-changed-btn" class="btn btn-secondary btn-sm" style="display: none; background: rgba(16, 185, 129, 0.1); border-color: rgba(16, 185, 129, 0.3); color: var(--color-approved);">
+                <svg class="icon" viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                Download All (ZIP)
+              </button>
+            </div>
+
+            <div class="sentences-list" id="sentences-list-container">
+              <!-- Dialogue diff cards rendered here -->
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <!-- Scripts -->
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
