@@ -35,13 +35,16 @@
         <span class="game-tag">FFXIV MSQ</span>
         <h1 class="app-title">Thai Glossary Tool</h1>
       </div>
-      <div class="header-actions">
+      <div class="header-actions" style="display: flex; align-items: center; gap: 1rem;">
         <div id="stats-badge" class="stats-badge">
           <span class="stat-item"><strong id="total-terms-count">0</strong> Terms</span>
           <span class="stat-divider"></span>
           <span class="stat-item"><strong id="total-sentences-count">0</strong> Sentences</span>
         </div>
-
+        <a href="./sync.html" class="btn btn-secondary btn-sm nav-link-btn" style="display: flex; align-items: center; gap: 0.3rem; text-decoration: none; font-weight: 500;">
+          <svg viewBox="0 0 24 24" width="14" height="14" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M21.5 2v6h-6M21.34 15.57a10 10 0 1 1-.57-8.38l5.67-5.67"/></svg>
+          Google Sheets Sync
+        </a>
       </div>
     </header>
 
@@ -220,5 +223,27 @@
 
   <!-- Scripts -->
   <script type="module" src="./main.js"></script>
+
+  <script>
+    // Troubleshooting helper: if loading screen is still visible after 15 seconds, show help info
+    setTimeout(() => {
+      const loader = document.getElementById('loading-screen');
+      if (loader && !loader.classList.contains('fade-out')) {
+        const statusEl = document.getElementById('loading-status');
+        if (statusEl) {
+          statusEl.innerHTML = `
+            <div style="margin-top: 1rem; padding: 0.75rem; background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.2); border-radius: var(--radius-sm); text-align: left; font-size: 0.8rem; line-height: 1.4; color: var(--text-main);">
+              <strong style="color: #f87171; display: block; margin-bottom: 0.25rem;">Stuck at loading? Troubleshooting tips:</strong>
+              <ol style="margin-top: 0.25rem; padding-left: 1.2rem; color: var(--text-muted);">
+                <li style="margin-bottom: 0.25rem;">Are you running <code style="color: var(--text-main); background: rgba(255,255,255,0.05); padding: 0.1rem 0.3rem; border-radius: 3px;">npm run dev</code> inside the <code style="color: var(--text-main)">website/</code> folder? (Browsers need Vite's dev server to resolve bare imports like <code style="color: var(--text-main)">jszip</code>).</li>
+                <li style="margin-bottom: 0.25rem;">If you are opening from the <code style="color: var(--text-main)">dist/</code> folder, make sure you run a local HTTP server there (opening files over <code style="color: var(--text-main)">file://</code> is blocked by CORS).</li>
+                <li>Check your browser developer tools console (F12) for detailed error messages.</li>
+              </ol>
+            </div>
+          `;
+        }
+      }
+    }, 15000);
+  </script>
 </body>
 </html>

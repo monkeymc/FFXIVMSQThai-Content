@@ -19,12 +19,13 @@ let state = {
   sandboxRenderLimit: 50
 };
 
-// ==========================================================================
-// Initialization & Loading
-// ==========================================================================
-document.addEventListener('DOMContentLoaded', () => {
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', () => {
+    initApp();
+  });
+} else {
   initApp();
-});
+}
 
 async function initApp() {
   const progressBar = document.getElementById('progress-bar');
