@@ -22,14 +22,15 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
   return (
     <html
       lang="en"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
       <head>
-        <link rel="preload" href="/thank_you_sticker.png" as="image" />
-        <link rel="preload" href="/done.png" as="image" />
+        <link rel="preload" href={`${basePath}/thank_you_sticker.png`} as="image" />
+        <link rel="preload" href={`${basePath}/done.png`} as="image" />
       </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>

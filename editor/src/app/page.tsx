@@ -210,7 +210,7 @@ function MainApp() {
           {!quest ? (
             <div className="flex-1 flex flex-col items-center justify-center p-12 text-center h-full">
               <img 
-                src="/quests.png" 
+                src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/quests.png`} 
                 alt="Select Quest" 
                 className="w-48 h-48 mb-8 object-contain drop-shadow-[0_0_15px_rgba(255,255,255,0.1)] opacity-80"
               />
@@ -244,7 +244,7 @@ function MainApp() {
                   <div className="shrink-0 ffxiv-panel flex flex-col items-center justify-center gap-4 p-6 sm:p-10 relative overflow-hidden">
                     <div className="absolute inset-0 bg-gradient-to-r from-transparent via-[var(--color-ffxiv-gold-light)] to-transparent opacity-5"></div>
                       <img 
-                        src="/done.png" 
+                        src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/done.png`} 
                         alt="Quest Complete" 
                         className="w-24 h-24 sm:w-32 sm:h-32 object-contain drop-shadow-md z-10"
                       />

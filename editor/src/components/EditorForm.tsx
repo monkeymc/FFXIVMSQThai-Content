@@ -113,9 +113,11 @@ export default function EditorForm({
     document.body.removeChild(a);
   };
 
+  const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+
   return (
     <>
-      <form onSubmit={handleSubmit} className="h-full w-full relative">
+      <form onSubmit={handleSubmit} className="flex flex-col gap-6 h-full relative">
         {children}
       </form>
 
@@ -126,7 +128,7 @@ export default function EditorForm({
             <div className="text-center">
               <div className="flex justify-center mb-4">
                 <img 
-                  src="/thank_you_sticker.png" 
+                  src={`${basePath}/thank_you_sticker.png`} 
                   alt="Thank You" 
                   className="w-32 h-32 object-contain drop-shadow-[0_0_15px_rgba(255,255,255,0.2)] animate-bounce"
                 />
