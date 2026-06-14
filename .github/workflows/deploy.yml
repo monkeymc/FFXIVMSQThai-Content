@@ -9,7 +9,7 @@ on:
       - 'en/**'
       - 'glossary.md'
       - 'website/**'
-      - 'build_index.py'
+      - 'tools/build_index.py'
       - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
@@ -39,7 +39,7 @@ jobs:
 
       - name: Build sentence index and copy glossary
         run: |
-          python build_index.py
+          python tools/build_index.py
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
