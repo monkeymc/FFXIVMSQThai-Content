@@ -156,8 +156,8 @@ function MainApp() {
       {/* Header */}
       <header className="ffxiv-panel p-6 flex flex-col md:flex-row items-center justify-between gap-6">
         <div className="flex flex-col md:flex-row items-center md:items-start gap-6 text-center md:text-left">
-          <img src="/logo_dark.png" alt="FFXIV Header Dark" className="hide-in-light h-20 md:h-28 w-auto object-contain drop-shadow-lg shrink-0" />
-          <img src="/logo_light.png" alt="FFXIV Header Light" className="show-in-light h-20 md:h-28 w-auto object-contain drop-shadow-lg shrink-0" />
+          <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo_dark.png`} alt="FFXIV Header Dark" className="hide-in-light h-20 md:h-28 w-auto object-contain drop-shadow-lg shrink-0" />
+          <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo_light.png`} alt="FFXIV Header Light" className="show-in-light h-20 md:h-28 w-auto object-contain drop-shadow-lg shrink-0" />
           <div className="flex flex-col justify-center h-full pt-1">
             <h1 className="text-3xl md:text-4xl font-bold text-[var(--color-ffxiv-gold-light)] mb-2">
               FFXIV MSQ Translation Editor
