@@ -100,8 +100,8 @@ def collect_dialogues(base_dir, output_csv, output_json=None):
             print(f"Error writing JSON output: {e}")
 
 if __name__ == "__main__":
-    # Base directory is the cloned ffxiv-datamining directory
-    datamining_dir = "/home/chatja/fun/FFXIVMSQThai/ffxiv-datamining"
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    datamining_dir = os.path.join(current_dir, "ffxiv-datamining")
     
     out_csv = os.path.join(current_dir, "compiled_dialogues.csv")
     out_json = os.path.join(current_dir, "compiled_dialogues.json")

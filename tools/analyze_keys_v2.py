@@ -66,7 +66,7 @@ def extract_speaker(key):
 def run_analysis_v2(workspace_dir):
     repo_dir = Path(workspace_dir).parent
     content_dir = repo_dir / "th"
-    datamining_dir = Path("/home/chatja/fun/FFXIVMSQThai/ffxiv-datamining")
+    datamining_dir = Path(workspace_dir) / "ffxiv-datamining"
     web_dir = repo_dir / "website" / "public"
     web_dir.mkdir(exist_ok=True)
 

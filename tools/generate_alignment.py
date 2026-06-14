@@ -38,11 +38,12 @@ def get_words(text):
     return set(re.findall(r'\b\w{4,}\b', text.lower()))
 
 def generate_alignment():
-    content_dir = Path("/home/chatja/fun/FFXIVMSQThai-Content/th")
-    datamining_dir = Path("/home/chatja/fun/FFXIVMSQThai/ffxiv-datamining")
+    script_dir = Path(__file__).resolve().parent
+    content_dir = script_dir.parent / "th"
+    datamining_dir = script_dir / "ffxiv-datamining"
 
     if not content_dir.exists() or not datamining_dir.exists():
-        print("Required folders not found!")
+        print(f"Required folders not found! content_dir: {content_dir}, datamining_dir: {datamining_dir}")
         return
 
     # 1. Load translations
