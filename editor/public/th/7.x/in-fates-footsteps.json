@@ -1,0 +1,735 @@
+{
+  "quest_id": "in-fates-footsteps",
+  "dialogues": [
+    {
+      "key": "warmfaretheewellscaneasethestingofpartingsaswecometotermswithanabsencenotsoonforgotten",
+      "text_en": "Warm fare-thee-wells can ease the sting of partings, as we come to terms with an absence not soon forgotten.",
+      "text": "คำบอกลาอันแสนอบอุ่นช่วยบรรเทาความเจ็บปวดยามต้องแยกจากกันได้เสมอ ในยามที่เราต้องยอมรับความสูญเสีย... การสูญเสียที่เราคงไม่อาจลืมเลือนได้ในเร็ววัน"
+    },
+    {
+      "key": "totellthoseweholddearwhattheyvemeanttousandtowishthemthebestweshouldseizethatchancewhensoeverwecan",
+      "text_en": "To tell those we hold dear what they've meant to us, and to wish them the best... We should seize that chance whensoever we can.",
+      "text": "การได้บอกคนสำคัญว่ามีความหมายต่อเราเพียงใด และเอ่ยปากอวยพรให้โชคดี... เราควรไขว่คว้าโอกาสนั้นไว้ทุกครั้งที่ทำได้"
+    },
+    {
+      "key": "itrustyouwereabletogetplentyofrestgoodithoughtwemighttakeamomenttoponderournextstepsandperhapsreflectonourrecentjourney",
+      "text_en": "I trust you were able to get plenty of rest? Good. I thought we might take a moment to ponder our next steps─and perhaps reflect on our recent journey.",
+      "text": "หวังว่าคงได้พักผ่อนเต็มอิ่มนะ ดีแล้วล่ะ ฉันคิดว่าพวกเราน่าจะใช้เวลาสักครู่ตรึกตรองเรื่องที่จะทำต่อไป... และทบทวนถึงการเดินทางที่ผ่านมาเสียหน่อย"
+    },
+    {
+      "key": "imustadmitmythoughtsoftendrifttothemistcontinentandourstayintreno",
+      "text_en": "I must admit my thoughts often drift to the Mist Continent and our stay in Treno...",
+      "text": "ต้องยอมรับเลยว่าใจฉันมักลอยละล่องกลับไปยังทวีปมิสต์และช่วงเวลาที่เราพักอยู่ในเทรโนอยู่บ่อย ๆ..."
+    },
+    {
+      "key": "itwashearteningtoseethemilallaprosperdespitetheoddsandmyownfleshandbloodstriveinthatlevinwrackedlandscape",
+      "text_en": "It was heartening to see the Milalla prosper despite the odds, and my own flesh and blood strive in that levin-wracked landscape.",
+      "text": "ช่างน่ายินดีเหลือเกินที่ได้เห็นชาวมิลาลลาเติบโตงอกงามท่ามกลางอุปสรรคขวากหนามมากมาย และได้เห็นสายเลือดของฉันเองหยัดสู้ในดินแดนที่สายฟ้ากระหน่ำฟาดแห่งนั้น"
+    },
+    {
+      "key": "sphenewaseagertorestorediplomaticrelationsandihavenodoubtthatalexandriawillprovidemuchneededsupportfortheirneighbor",
+      "text_en": "Sphene was eager to restore diplomatic relations, and I have no doubt that Alexandria will provide much-needed support for their neighbor.",
+      "text": "สฟีนกระตือรือร้นที่จะฟื้นฟูความสัมพันธ์ทางการทูตเหลือเกิน และผมมั่นใจว่าอะเล็กซานเดรียจะคอยช่วยเหลือประเทศเพื่อนบ้านอย่างเต็มที่แน่นอน"
+    },
+    {
+      "key": "itooshalldoeverythingicantoaidmyhomeawayfromhomemywonderfulwelcomingfamilyincluded",
+      "text_en": "I too shall do everything I can to aid my home away from home─my wonderful, welcoming family included.",
+      "text": "ฉันเองก็จะทำทุกวิถีทางเพื่อช่วยเหลือบ้านอันแสนอบอุ่นอีกหลังของฉันเช่นกัน—ซึ่งรวมถึงครอบครัวที่น่ารักและคอยต้อนรับฉันเป็นอย่างดีด้วย"
+    },
+    {
+      "key": "forthetimebeingthoughidsayweveaccomplishedallwithinourpower",
+      "text_en": "For the time being, though, I'd say we've accomplished all within our power.",
+      "text": "แต่สำหรับตอนนี้ ฉันคิดว่าพวกเราทำทุกอย่างเท่าที่จะทำได้สำเร็จเรียบร้อยแล้วล่ะ"
+    },
+    {
+      "key": "isupposethatjustleavesthematterofpreservationsresearch",
+      "text_en": "I suppose that just leaves the matter of Preservation's research...",
+      "text": "ถ้าอย่างนั้น ก็คงเหลือแต่เรื่องงานวิจัยของพรีเซอเวชันแล้วสินะ..."
+    },
+    {
+      "key": "itisyetunclearhowcalyxlearnedthetechniquesheusedtosummonhisdarkprimal",
+      "text_en": "It is yet unclear how Calyx learned the techniques he used to summon his dark primal.",
+      "text": "ตอนนี้ก็ยังไม่ชัดเจนว่า คาลิกซ์ไปเรียนรู้วิธีการที่ใช้อัญเชิญไพรมอล (เทพจุติ) แห่งความมืดของเขามาจากที่ใด"
+    },
+    {
+      "key": "andthereislikewisemuchthatremainsunknownaboutthekeyletushopethatshaleseffortsbearmorefruit",
+      "text_en": "And there is likewise much that remains unknown about the key. Let us hope that Shale's efforts bear more fruit.",
+      "text": "เรื่องกุญแจนี่ก็เหมือนกัน เรายังไม่รู้อะไรอีกตั้งหลายอย่าง หวังว่าความพยายามของเชลจะช่วยให้พบเบาะแสเพิ่มขึ้นนะ"
+    },
+    {
+      "key": "canyouhearme",
+      "text_en": "Can you hear me?",
+      "text": "ได้ยินฉันไหม"
+    },
+    {
+      "key": "shaleandihavebeenreviewingthedecryptedfilesandhaveuncoveredsomeintriguingdetailswouldyoucaretojoinus",
+      "text_en": "Shale and I have been reviewing the decrypted files, and have uncovered some intriguing details. Would you care to join us?",
+      "text": "ฉันกับเชลช่วยกันตรวจสอบไฟล์ข้อมูลที่ถอดรหัสได้แล้ว และพบรายละเอียดบางอย่างที่น่าสนใจทีเดียว สนใจจะมาฟังด้วยกันไหม"
+    },
+    {
+      "key": "wellbewithyourightaway",
+      "text_en": "We'll be with you right away.",
+      "text": "เดี๋ยวพวกเราตามไปทันทีเลย"
+    },
+    {
+      "key": "excellentshaleseemsrathereagertospeakwithyouallcomeandfindusinthedeuterolabwhenyoureready",
+      "text_en": "Excellent. Shale seems rather eager to speak with you all. Come and find us in the deuterolab when you're ready.",
+      "text": "วิเศษเลย ดูเหมือนเชลจะกระตือรือร้นอยากคุยกับพวกเธอเหลือเกิน ถ้าพร้อมเมื่อไหร่ก็ไปพบพวกเราที่ดิวเทอโรแล็บนะ"
+    },
+    {
+      "key": "uncannytimingindeedletusmakeforthecontainmentcomplex",
+      "text_en": "Uncanny timing indeed! Let us make for the containment complex.",
+      "text": "จังหวะช่างประจวบเหมาะเหลือเกิน! พวกเรารีบไปที่เขตกักกันกันเถอะ"
+    },
+    {
+      "key": "headingforthecontainmentcomplexrightthisway",
+      "text_en": "Heading for the containment complex? Right this way!",
+      "text": "จะไปที่เขตกักกันหรือครับ เชิญทางนี้เลยครับ!"
+    },
+    {
+      "key": "forsecurityreasonscontainmentcomplex1029hasbeenregisteredasamaterialsdistributioncenterkeepthisinmindandconductyourselfaccordinglybothinsideandoutsidethefacility",
+      "text_en": "For security reasons, Containment Complex 10-29 has been registered as a materials distribution center. Keep this in mind and conduct yourself accordingly, both inside and outside the facility.",
+      "text": "ด้วยเหตุผลด้านความปลอดภัย เขตกักกัน 10-29 จึงขึ้นทะเบียนเป็นศูนย์กระจายวัตถุดิบ โปรดระลึกถึงข้อปฏิบัตินี้และวางตัวอย่างเหมาะสม ทั้งยามอยู่ภายในและภายนอกอาคาร"
+    },
+    {
+      "key": "eachemployeemustperformtheirtaskswithintheirdesignatedworkroomstheresearcherscommonstheprotolaborthedeuterolabentranceintoanotherworkroomwithoutofficialclearanceisstrictlyprohibited",
+      "text_en": "Each employee must perform their tasks within their designated workrooms: the researchers' commons, the protolab, or the deuterolab. Entrance into another workroom without official clearance is strictly prohibited.",
+      "text": "พนักงานแต่ละคนต้องปฏิบัติหน้าที่ภายในห้องทำงานที่ระบุไว้เท่านั้น ซึ่งได้แก่ ห้องพักนักวิจัย โปรโตแล็บ หรือดิวเทอโรแล็บ ห้ามผ่านเข้าสู่ห้องทำงานอื่นโดยไม่ได้รับอนุมัติอย่างเป็นทางการโดยเด็ดขาด"
+    },
+    {
+      "key": "carryyoursecuritycardatalltimesyourclearanceleveldictatestheareastowhichyouhaveaccess",
+      "text_en": "Carry your security card at all times. Your clearance level dictates the areas to which you have access.",
+      "text": "โปรดพกบัตรผ่านความปลอดภัยติดตัวตลอดเวลา ระดับการเข้าถึงจะเป็นตัวกำหนดสิทธิ์ในการผ่านเข้าออกพื้นที่ต่างๆ"
+    },
+    {
+      "key": "equipyourregulatoratalltimesduetothehighlyconfidentialnatureoftheresearchmaterialsandotherdatamanagedwithinthiscomplexpreservationretainstheownershipofandtherightstomodifythememoriesofallregisteredpersonnel",
+      "text_en": "Equip your regulator at all times. Due to the highly confidential nature of the research materials and other data managed within this complex, Preservation retains the ownership of─and the rights to modify─the memories of all registered personnel.",
+      "text": "โปรดสวมใส่เรกูเลเตอร์ตลอดเวลา เนื่องจากเอกสารวิจัยและข้อมูลที่ดูแลในส่วนนี้เป็นความลับสุดยอด พรีเซอเวชันขอสงวนกรรมสิทธิ์—และสิทธิ์ในการปรับแต่งแก้ไข—ความทรงจำของพนักงานทุกคนที่ขึ้นทะเบียนไว้"
+    },
+    {
+      "key": "theprimaryresearchobjectiveofcontainmentcomplex1029istheindefinitepreservationoftheendless",
+      "text_en": "The primary research objective of Containment Complex 10-29 is the indefinite preservation of the Endless.",
+      "text": "เป้าหมายหลักในการวิจัยของเขตกักกัน 10-29 คือการพรีเซอเวชันดิเอนด์เลสอย่างไม่มีกำหนด"
+    },
+    {
+      "key": "continuedimprovementstosoulcellandregulatorfunctionalityareintendedtofacilitatetheendlesssphenesmanagementoflivingmemoryitisviathisprocessofiterationthatweendeavortoidentifyandresolveanyandallissuesinherentinendlesscreation",
+      "text_en": "Continued improvements to soul cell and regulator functionality are intended to facilitate the Endless Sphene's management of Living Memory. It is via this process of iteration that we endeavor to identify and resolve any and all issues inherent in Endless creation.",
+      "text": "การพัฒนาประสิทธิภาพการทำงานของโซลเซลล์และเรกูเลเตอร์อย่างต่อเนื่องช่วยให้เอนด์เลสสฟีนจัดการลิฟวิ่งเมโมรีได้ง่ายขึ้น เราอาศัยกระบวนการทดลองซ้ำๆ นี้ในการค้นหาและปณิธานทุกปัญหาอันเกิดจากการสร้างเอนด์เลส"
+    },
+    {
+      "key": "chiefamongknownissuesisourpresentinabilitytocontrolthekeyforifwefailtosecurethereflectionsasadditionalsourcesofaetherourultimategoalwillremainforeveroutofreach",
+      "text_en": "Chief among known issues is our present inability to control the key. For if we fail to secure the reflections as additional sources of aether, our ultimate goal will remain forever out of reach.",
+      "text": "ปัญหาหลักที่พบคือยามนี้ยังไม่อาจควบคุมกุญแจได้ เพราะหากไม่สามารถครอบครองโลกสะท้อนเพื่อใช้เป็นแหล่งเอเธอร์เพิ่มเติม เป้าหมายสูงสุดก็จะยังคงอยู่ห่างไกลเกินกว่า เดอะ รีช ไปตลอดกาล"
+    },
+    {
+      "key": "complexdirectordemetriusprotolabchiefeosphordeuterolabchiefredacted",
+      "text_en": "Complex Director: Demetrius Protolab Chief: Eosphor Deuterolab Chief: Redacted",
+      "text": "ผู้อำนวยการเขต: เดเมเทรียส หัวหน้าโปรโตแล็บ: อีออสฟอร์ หัวหน้าดิวเทอโรแล็บ: ปกปิดข้อมูล"
+    },
+    {
+      "key": "giventhatallthedataisstoredwithinelectropedevicesshalesexpertisehasproveninvaluable",
+      "text_en": "Given that all the data is stored within electrope devices, Shale's expertise has proven invaluable.",
+      "text": "ในเมื่อข้อมูลทั้งหมดจัดเก็บอยู่ในอุปกรณ์อิเล็กโทรป ความเชี่ยวชาญของเชลจึงนับว่ามีค่าอย่างยิ่ง"
+    },
+    {
+      "key": "ahyourejustintimeforaprogressreport",
+      "text_en": "Ah, you're just in time for a progress report.",
+      "text": "อ๊ะ มาได้จังหวะรายงานความคืบหน้าพอดีเลย"
+    },
+    {
+      "key": "thedecryptionisfinallycompleteaswesuspectedthedatarepresentsapartialrecordofpreservationsresearchdocuments",
+      "text_en": "The decryption is finally complete. As we suspected, the data represents a partial record of Preservation's research documents.",
+      "text": "ในที่สุดก็ถอดรหัสเสร็จเรียบร้อย เป็นไปตามที่คาด ข้อมูลนี้คือบันทึกส่วนหนึ่งจากเอกสารวิจัยของพรีเซอเวชัน"
+    },
+    {
+      "key": "aquickscanofthefileshoweverfailedtoturnuptheinformationyshtolawasafter",
+      "text_en": "A quick scan of the files, however, failed to turn up the information Y'shtola was after.",
+      "text": "ทว่าพอกวาดตาดูข้อมูลผ่านๆ กลับไม่ยักพบสิ่งที่อิชโทลากำลังตามหาเลย"
+    },
+    {
+      "key": "indeednomentionoftheasciansorprimalsummoningtechniquesforthatmatter",
+      "text_en": "Indeed. No mention of the Ascians─or primal summoning techniques, for that matter.",
+      "text": "จริงด้วย ไม่มีพูดถึงแอสเซียน หรือแม้แต่วิธีการอัญเชิญไพรมอล (เทพจุติ) เลยสักนิด"
+    },
+    {
+      "key": "whilecalyxdoubtlessreceivedinstructionfromsomeonepossessedofsuchknowledgetherewasnaughttoidentifythisbenevolentmentor",
+      "text_en": "While Calyx doubtless received instruction from someone possessed of such knowledge, there was naught to identify this benevolent mentor.",
+      "text": "แม้คาลิกซ์จะได้รับคำแนะนำจากผู้ที่มีความรู้เช่นนั้นอย่างไม่ต้องสงสัย ทว่ากลับไม่มีสิ่งใดที่บ่งชี้ตัวตนของผู้มีพระคุณรายนี้ได้เลย"
+    },
+    {
+      "key": "iamhoweverpleasedtosaythatwefoundseveralreportsconcerningthekey",
+      "text_en": "I am however pleased to say that we found several reports concerning the key.",
+      "text": "อย่างไรก็ดี ยินดีที่จะบอกว่าพบรายงานหลายฉบับที่เกี่ยวข้องกับกุญแจนี้"
+    },
+    {
+      "key": "weknowthekeyisusedtoopenpathsbetweenworldsandwasatreasuredrelicofthemilalla",
+      "text_en": "We know the key is used to open paths between worlds, and was a treasured relic of the Milalla.",
+      "text": "เราทราบกันดีว่ากุญแจนี้ใช้เปิดเส้นทางเชื่อมโยงระหว่างโลกต่างๆ ทั้งยังเป็นโบราณวัตถุล้ำค่าของชาวมิลาลลาอีกด้วย"
+    },
+    {
+      "key": "andjustasthemilallawereunabletoreturnafterreachingthemistcontinentsotoowaspreservationunabletogainamasteryoftheprizewhichhadpassedintotheirpossession",
+      "text_en": "And just as the Milalla were unable to return after reaching the Mist Continent, so too was Preservation unable to gain a mastery of the prize which had passed into their possession.",
+      "text": "และเช่นเดียวกับที่ชาวมิลาลลาไม่อาจกลับได้หลังจากเดินทางถึงทวีปมิสต์ พรีเซอเวชันเองก็ไม่อาจควบคุมสิ่งล้ำค่าที่ตกอยู่ในความครอบครองได้เช่นกัน"
+    },
+    {
+      "key": "thedatasuggeststhataparticularformulaorprocedureisrequired",
+      "text_en": "The data suggests that a particular formula or procedure is required...",
+      "text": "ข้อมูลชี้ว่าจำเป็นต้องใช้สูตรหรือขั้นตอนเฉพาะเจาะจงบางอย่าง..."
+    },
+    {
+      "key": "aprocesswhichcalyxappearstohaveunderstoodtosomedegree",
+      "text_en": "A process which Calyx appears to have understood to some degree.",
+      "text": "กระบวนการซึ่งดูเหมือนคาลิกซ์จะเข้าใจอยู่บ้างในระดับหนึ่ง"
+    },
+    {
+      "key": "yetthekeyprovedfickle",
+      "text_en": "Yet the key proved fickle.",
+      "text": "ทว่ากุญแจนี้กลับเอาแน่เอานอนไม่ได้เลย"
+    },
+    {
+      "key": "perfectlyreplicatingconditionswasnoguaranteeofsuccessandevenwhentheydidmanagetogenerateamodestportalthedestinationwasnevertheonetheyexpected",
+      "text_en": "Perfectly replicating conditions was no guarantee of success. And even when they did manage to generate a modest portal, the destination was never the one they expected.",
+      "text": "การจำลองเงื่อนไขเดิมอย่างสมบูรณ์แบบไม่ได้รับประกันความสำเร็จ และต่อให้สร้างประตูมิติเล็กๆ ขึ้นมาได้ ปลายทางก็ไม่เคยเป็นไปตามที่คิดไว้เลยสักครั้ง"
+    },
+    {
+      "key": "thereportspracticallyscreamedtheirfrustrationdescribingtheexperienceasbeingdraggedaroundbyatravelerpickingroadswithoutrhymeorreasonservesthemrightisay",
+      "text_en": "The reports practically screamed their frustration, describing the experience as being dragged around by a traveler picking roads without rhyme or reason. Serves them right, I say.",
+      "text": "รายงานพวกนั้นแสดงความอัดอั้นตันใจอย่างที่สุด โดยเปรียบเทียบว่าเหมือนปล่อยให้นักเดินทางที่เลือกเส้นทางอย่างปราศจากปัญญาฉุดลากไปทั่ว... สมน้ำหน้าแล้วล่ะ"
+    },
+    {
+      "key": "aftermuchtrialanderrorpreservationbegantoexperimentwithexternalactuationdevicesforthekey",
+      "text_en": "After much trial and error, Preservation began to experiment with external actuation devices for the key.",
+      "text": "หลังจากลองผิดลองถูกอยู่หลายครั้ง พรีเซอเวชันก็เริ่มทดลองใช้อุปกรณ์กระตุ้นจากภายนอกกับกุญแจนี้"
+    },
+    {
+      "key": "strivingtomaintainastablepathwaytoachosenlocationtheyconceivedofthetechnologythatformsthegatetothegoldencity",
+      "text_en": "Striving to maintain a stable pathway to a chosen location, they conceived of the technology that forms the gate to the golden city.",
+      "text": "ความพยายามในการรักษาเส้นทางเชื่อมโยงอันมั่นคงไปยังจุดหมายปลายทางที่กำหนดไว้ ทำให้พวกเขาคิดค้นเทคโนโลยีที่กลายเป็นประตูสู่นครแห่งทองคำขึ้นมาได้"
+    },
+    {
+      "key": "sotheirtribulationsultimatelyaffordedthemcontrolofthekeyalbeitinalimitedcapacity",
+      "text_en": "So their tribulations ultimately afforded them control of the key─albeit in a limited capacity...",
+      "text": "ความยากลำบากแสนสาหัสทำให้พวกเขาควบคุมกุญแจได้ในที่สุด แม้จะทำได้เพียงจำกัดก็ตาม..."
+    },
+    {
+      "key": "whichofcourseexplainswhytheywereabletoinstructzoraaljainitsuse",
+      "text_en": "Which, of course, explains why they were able to instruct Zoraal Ja in its use.",
+      "text": "นั่นจึงอธิบายได้เป็นอย่างดีว่าทำไมพวกเขาถึงสอนวิธีใช้กุญแจให้โซราล จา ได้"
+    },
+    {
+      "key": "thusenablingtheunprecedentedfeatoftransferringeverkeepanditsenvironstothesource",
+      "text_en": "Thus enabling the unprecedented feat of transferring Everkeep and its environs to the Source.",
+      "text": "จนทำเรื่องที่ไม่เคยปรากฏมาก่อนอย่างการเคลื่อนย้ายเอเวอร์คีปและบริเวณโดยรอบมายังโลกต้นแบบได้สำเร็จ"
+    },
+    {
+      "key": "aftertheendlesssphenetookthekeyuntoherselfsheopenedpathwaystootherreflectionsinherhuntforaetherdidshenot",
+      "text_en": "After the Endless Sphene took the key unto herself, she opened pathways to other reflections in her hunt for aether, did she not?",
+      "text": "หลังจากเอนด์เลสสฟีนเอากุญแจไปครอบครอง ก็เปิดเส้นทางสู่พิภพสะท้อนอื่นๆ เพื่อล่าเอเธอร์ไม่ใช่หรือ"
+    },
+    {
+      "key": "themilallamerelyusedittofacilitatetheirexodustothinkwhatthekeyhasnowwroughtindifferenthands",
+      "text_en": "The Milalla merely used it to facilitate their exodus. To think what the key has now wrought in different hands...",
+      "text": "ชาวมิลาลลาใช้กุญแจนี้ช่วยในการอพยพครั้งใหญ่เท่านั้น คิดไม่ถึงเลยว่าพอเปลี่ยนมือไปแล้วจะก่อเรื่องได้ถึงเพียงนี้..."
+    },
+    {
+      "key": "forallweknowtheactuationdeviceaugmentedthekeyspowerbeyonditsintendedscope",
+      "text_en": "For all we know, the actuation device augmented the key's power beyond its intended scope.",
+      "text": "ดีไม่ดี อุปกรณ์ควบคุมนั่นอาจเพิ่มพลังให้กุญแจจนเกินขอบเขตตั้งต้นของมันไปแล้วก็เป็นได้"
+    },
+    {
+      "key": "wereyourgoaltoplunderwholeworldsoftheiraetheratooldesignedtosimplytransferpeoplewouldlikelybeinsufficient",
+      "text_en": "Were your goal to plunder whole worlds of their aether, a tool designed to simply transfer people would likely be insufficient.",
+      "text": "หากหวังจะปล้นชิงเอเธอร์จากโลกทั้งใบ เครื่องมือสำหรับเคลื่อนย้ายผู้คนเพียงอย่างเดียวย่อมไม่เพียงพอแน่"
+    },
+    {
+      "key": "shaleidontsupposeyouwouldbeabletoremovetheactuationdevice",
+      "text_en": "Shale, I don't suppose you would be able to remove the actuation device?",
+      "text": "เชล คิดว่าพอจะช่วยถอดอุปกรณ์ควบคุมนั่นออกได้ไหมจ๊ะ"
+    },
+    {
+      "key": "themachinemadeforthatverypurposeisstillfunctionalthankfullyitshouldntbeaproblem",
+      "text_en": "The machine made for that very purpose is still functional, thankfully. It shouldn't be a problem.",
+      "text": "โชคดีที่เครื่องจักรสำหรับทำเรื่องนี้โดยเฉพาะยังทำงานได้ปกติ คงไม่มีปัญหาอะไรหรอกค่ะ"
+    },
+    {
+      "key": "whatdoyouthinkwedontevenknowhowthekeyworksifthedeviceissomehowinterferingoramplifyingitscapabilitiesibelieveweoughttoremoveit",
+      "text_en": "What do you think? We don't even know how the key works─if the device is somehow interfering or amplifying its capabilities, I believe we ought to remove it.",
+      "text": "คิดเห็นอย่างไรกันบ้างล่ะ กุญแจนี้ทำงานอย่างไรก็ยังไม่รู้แน่ชัด หากอุปกรณ์ชิ้นนี้คอยรบกวนหรือขยายขีดความสามารถของมัน ฉันเห็นว่าเราควรถอดออกเสียดีกว่า"
+    },
+    {
+      "key": "givemeamoment",
+      "text_en": "Give me a moment.",
+      "text": "ขอเวลาฉันสักครู่"
+    },
+    {
+      "key": "myword",
+      "text_en": "My word!",
+      "text": "โอ้ พระวจนะ!"
+    },
+    {
+      "key": "yshtola",
+      "text_en": "Y'shtola?",
+      "text": "อิชโทลา?"
+    },
+    {
+      "key": "thisisthefirsttimeivebeheldthekeyinallitsunobscuredglory",
+      "text_en": "This is the first time I've beheld the key in all its unobscured glory.",
+      "text": "นี่เป็นครั้งโลกที่หนึ่งที่ฉันได้เห็นความงดงามไร้สิ่งบดบังของกุญแจนี้"
+    },
+    {
+      "key": "thesheerdensityisextraordinarytisakintothestructureswesawbeneaththetempest",
+      "text_en": "The sheer density is extraordinary... 'Tis akin to the structures we saw beneath the Tempest.",
+      "text": "ความหนาแน่นช่างน่าอัศจรรย์ใจเหลือเกิน... คล้ายกับสิ่งปลูกสร้างที่เคยเห็นใต้เดอะ เทมเพสต์ ไม่มีผิด"
+    },
+    {
+      "key": "nowthatyoumentionittheornamentationisreminiscentofamaurot",
+      "text_en": "Now that you mention it, the ornamentation is reminiscent of Amaurot.",
+      "text": "พอทักขึ้นมาอย่างนี้ ลวดลายประดับตกแต่งก็ชวนให้นึกถึงอมอรอตขึ้นมาทันที"
+    },
+    {
+      "key": "haveyounoticedanythingsincethekeyhasbeeninyourpossession",
+      "text_en": "Have you noticed anything since the key has been in your possession?",
+      "text": "ตั้งแต่ได้กุญแจนี้ไปครอบครอง สังเกตเห็นสิ่งใดผิดปกติบ้างไหม"
+    },
+    {
+      "key": "youresuggestingthekeyhassomeconnectionwithazem",
+      "text_en": "You're suggesting the key has some connection with Azem?",
+      "text": "เธอกำลังจะบอกว่ากุญแจนี้มีความเชื่อมโยงกับอาเซมอย่างนั้นหรือ"
+    },
+    {
+      "key": "aplausibletheoryalthoughoneweareyetunequippedtoprove",
+      "text_en": "A plausible theory. Although one we are yet unequipped to prove.",
+      "text": "เป็นทฤษฎีที่มีน้ำหนักทีเดียว ทว่าเวลานี้พวกเรายังไม่มีหนทางพิสูจน์ได้เลย"
+    },
+    {
+      "key": "ahmyapologies",
+      "text_en": "Ah, my apologies!",
+      "text": "อ๊ะ ต้องขอโทษด้วยนะจ๊ะ!"
+    },
+    {
+      "key": "helloyesthisiskrilespeaking",
+      "text_en": "Hello? Yes, this is Krile speaking.",
+      "text": "ฮัลโหล? จ้ะ ฉันคุรุรุพูดเองจ้ะ"
+    },
+    {
+      "key": "thatwasojikawithamessageforus",
+      "text_en": "That was Ojika with a message for us.",
+      "text": "เมื่อกี้โอจิกะส่งข่าวมาถึงพวกเราแน่ะ"
+    },
+    {
+      "key": "anurgentmatter",
+      "text_en": "An urgent matter?",
+      "text": "เรื่องด่วนหรือครับ"
+    },
+    {
+      "key": "imnotaltogethersure",
+      "text_en": "I'm not altogether sure...",
+      "text": "ฉันก็ยังไม่ค่อยแน่ใจเหมือนกัน..."
+    },
+    {
+      "key": "tatarurequiresourcounselandhopedtocalluponusinpersonatthebaldesionannex",
+      "text_en": "Tataru requires our counsel, and hoped to call upon us in person at the Baldesion Annex.",
+      "text": "ทาทารุอยากปรึกษาพวกเราน่ะ เธอบอกว่าหวังจะมาพบเราด้วยตัวเองที่อาคารสมทบบาลเดเซียน"
+    },
+    {
+      "key": "thoughdisappointedwewerenotpresentsheappearedcontenttowaituntilourtravelsbroughtusbacktosharlayaninsistingthatitdidnotmeritourimmediatesummons",
+      "text_en": "Though disappointed we were not present, she appeared content to wait until our travels brought us back to Sharlayan, insisting that it did not merit our immediate summons.",
+      "text": "แม้จะเสียดายที่พวกเราไม่อยู่ แต่เธอก็ยินดีที่จะรอจนกว่าพวกเราจะเดินทางกลับชาร์ลาแยน โดยยืนกรานว่าไม่ใช่เรื่องด่วนขนาดต้องเรียกตัวกลับมาในทันที"
+    },
+    {
+      "key": "hertonesuggestedotherwisehoweverandojikafeltcompelledtocontactusdirectly",
+      "text_en": "Her tone suggested otherwise, however, and Ojika felt compelled to contact us directly.",
+      "text": "แต่น้ำเสียงเธอกลับดูไม่เป็นอย่างนั้นเลย โอจิกะก็เลยต้องติดต่อพวกเรามาโดยตรงนี่แหละ"
+    },
+    {
+      "key": "mayhapthetimehascomeforanotherjourneyacrossthesalt",
+      "text_en": "Mayhap the time has come for another journey across the salt.",
+      "text": "เห็นทีคงได้เวลาเดินทางข้ามทะเลกันอีกรอบแล้วครับ"
+    },
+    {
+      "key": "youdbestgothoughillnotdenythatillbesadtoseeyouleave",
+      "text_en": "You'd best go. Though I'll not deny that I'll be sad to see you leave...",
+      "text": "พวกคุณรีบไปกันเถอะค่ะ ถึงฉันจะอดใจหายไม่ได้ที่จะต้องเห็นพวกคุณจากไปก็เถอะ..."
+    },
+    {
+      "key": "ohshaleicantevenbegintothankyouforallyouvedone",
+      "text_en": "Oh, Shale. I can't even begin to thank you for all you've done.",
+      "text": "โธ่ เชล ฉันไม่รู้จะขอบคุณเธออย่างไรดีกับทุกสิ่งทุกอย่างที่ช่วยจัดการให้"
+    },
+    {
+      "key": "wewillbeforeverindebtedtoyouandyouroblivioncolleagues",
+      "text_en": "We will be forever indebted to you and your Oblivion colleagues.",
+      "text": "พวกเราเป็นหนี้บุญคุณเธอและเพื่อนพ้องในอ็อบลิเวียนอย่างไม่มีวันลืมเลือน"
+    },
+    {
+      "key": "thedebtisourswellneverforgetthesacrificesyouvemadeforusforalexandria",
+      "text_en": "The debt is ours. We'll never forget the sacrifices you've made for us─for Alexandria.",
+      "text": "พวกเราต่างหากที่เป็นหนี้บุญคุณ ไม่มีวันลืมความเสียสละที่คุณมีให้พวกเรา... ให้แก่อะเล็กซานเดรียเลย"
+    },
+    {
+      "key": "inthemeantimeishallkeepsiftingthroughthedatayoullhearassoonasifindanythingofnote",
+      "text_en": "In the meantime, I shall keep sifting through the data. You'll hear as soon as I find anything of note.",
+      "text": "ระหว่างนี้ ฉันจะตรวจสอบข้อมูลต่อไป ถ้าเจออะไรน่าสนใจจะรีบแจ้งให้ทราบทันที"
+    },
+    {
+      "key": "actuallyishouldliketostayherealittlelongerifyoudontmind",
+      "text_en": "Actually, I should like to stay here a little longer, if you don't mind?",
+      "text": "อันที่จริง ฉันอยากจะขออยู่ต่อที่นี่อีกสักหน่อย หวังว่าคุณคงไม่ขัดข้องนะ"
+    },
+    {
+      "key": "youaremostwelcome",
+      "text_en": "You are most welcome!",
+      "text": "ด้วยความยินดีเป็นอย่างยิ่งเลย!"
+    },
+    {
+      "key": "andmightiborrowthekeyforawhileiwishtostudyitfurtherwiththeutmostcareiassureyou",
+      "text_en": "And might I borrow the key for a while? I wish to study it further─with the utmost care, I assure you.",
+      "text": "แล้วฉันจะขอยืมกุญแจสักประเดี๋ยวได้ไหม ฉันใคร่จะศึกษาเพิ่มเติมอีกสักนิด─รับรองว่าจะระมัดระวังอย่างที่สุด"
+    },
+    {
+      "key": "wellthenshallwebeoffojikawillbeexpectingus",
+      "text_en": "Well then, shall we be off? Ojika will be expecting us!",
+      "text": "เอาละ ถ้าอย่างนั้นพวกเราไปกันเลยดีไหม โอจิกะคงรอแย่แล้ว!"
+    },
+    {
+      "key": "trailtotheheavens",
+      "text_en": "TRAIL TO THE HEAVENS",
+      "text": "เส้นทางสู่สรวงสวรรค์"
+    },
+    {
+      "key": "giventhatpreservationcouldnotunlockthesecretsofthekeyitshouldcomeasnosurprisethatwetoostruggletounderstanditsnatureinanyeventdogivetatarumyregardswhenyouseeher",
+      "text_en": "Given that Preservation could not unlock the secrets of the key, it should come as no surprise that we too struggle to understand its nature... In any event, do give Tataru my regards when you see her.",
+      "text": "ในเมื่อแม้แต่พรีเซอเวชันยังไม่อาจไขความลับของกุญแจได้ ก็ไม่แปลกเลยที่พวกเราเองก็ยังจับต้นชนปลายไม่ถูกเช่นกัน... อย่างไรเสีย ฝากความคิดถึงถึงทาทารุด้วยเมื่อคุณได้พบเธอ"
+    },
+    {
+      "key": "ahioughttomentionthatwealsouncoveredinformationunrelatedtothekey",
+      "text_en": "Ah, I ought to mention that we also uncovered information unrelated to the key.",
+      "text": "อ้อ ฉันควรบอกด้วยว่าพวกเราได้ข้อมูลอื่นที่ไม่เกี่ยวข้องกับกุญแจมาด้วย"
+    },
+    {
+      "key": "accordingtoshalecertainconfidentialreportsarenowaccessibleviadevicesintheresearcherscommonsandthedirectorsofficeyoumightwishtoperusethefilesbeforeyoudepartforsharlayan",
+      "text_en": "According to Shale, certain confidential reports are now accessible via devices in the researchers' commons and the director's office. You might wish to peruse the files before you depart for Sharlayan.",
+      "text": "เชลบอกว่าตอนนี้อุปกรณ์ในห้องพักนักวิจัยและห้องผู้อำนวยการสามารถเปิดอ่านรายงานลับบางฉบับได้แล้ว คุณอาจจะอยากตรวจดูไฟล์พวกนี้ก่อนออกเดินทางไปชาร์ลาแยน"
+    },
+    {
+      "key": "mycolleagueswillbejustassaddenedbyyourdepartureuntilwemeetagainsafejourneys",
+      "text_en": "My colleagues will be just as saddened by your departure. Until we meet again, safe journeys!",
+      "text": "เพื่อนร่วมงานของฉันก็คงจะใจหายไม่แพ้กันที่คุณต้องไป ขอให้เดินทางโดยสวัสดิภาพจนกว่าจะพบกันใหม่นะ!"
+    },
+    {
+      "key": "ithoughtitbesttohearwhatojikahastosayerewemeetwithtataruidohopesheiswell",
+      "text_en": "I thought it best to hear what Ojika has to say ere we meet with Tataru. I do hope she is well...",
+      "text": "ฉันคิดว่าฟังสิ่งที่โอจิกะจะพูดก่อนไปพบทาทารุน่าจะดีที่สุด หวังว่าเธอจะสบายดีนะ..."
+    },
+    {
+      "key": "ohdearitoccurstomethatineglectedtobringgiftsfromturalconsideringtheextraworktheyvehadtohandleinmyabsenceidaresayiowethemaveritablemountainofsnacksattheveryleast",
+      "text_en": "Oh dear... It occurs to me that I neglected to bring gifts from Tural. Considering the extra work they've had to handle in my absence, I daresay I owe them a veritable mountain of snacks, at the very least...",
+      "text": "แย่ละสิ... เพิ่งนึกขึ้นได้ว่าลืมหยิบของฝากจากทูรัลมาด้วยเลย พอคิดถึงงานที่เพิ่มขึ้นมาให้พวกนั้นต้องคอยจัดการตอนผมไม่อยู่ อย่างน้อยที่สุดก็คงติดค้างขนมกองโตเท่าภูเขาแล้วล่ะ..."
+    },
+    {
+      "key": "welcomebackandwhatapleasureitistoseeyoutooforename",
+      "text_en": "Welcome back! And what a pleasure it is to see you too, Forename .",
+      "text": "ยินดีต้อนรับกลับครับ! ดีใจจริงๆ ที่ได้พบคุณเช่นกันครับ Forename"
+    },
+    {
+      "key": "thankyouforcontactingusojikawecameassoonaswecould",
+      "text_en": "Thank you for contacting us, Ojika. We came as soon as we could.",
+      "text": "ขอบใจที่ติดต่อมานะโอจิกะ พวกเรารีบมาเร็วที่สุดเท่าที่จะทำได้แล้ว"
+    },
+    {
+      "key": "ofcourseifeltitprudentgivenhowtroubledtataruwas",
+      "text_en": "Of course. I felt it prudent given how troubled Tataru was...",
+      "text": "ด้วยความยินดีครับ ผมเห็นทาทารุดูกลัดกลุ้มมากก็เลยคิดว่ารีบติดต่อพวกคุณไว้น่าจะดีกว่า..."
+    },
+    {
+      "key": "yourconcernismuchappreciatedasitsohappenswedreachedaconvenientjunctureinourinvestigationshaleandyshtolahavematterswellinhandleavingusfreetomakethistrip",
+      "text_en": "Your concern is much appreciated. As it so happens, we'd reached a convenient juncture in our investigation. Shale and Y'shtola have matters well in hand, leaving us free to make this trip.",
+      "text": "ขอบใจในความใส่ใจนะ โชคดีที่การสืบสวนของพวกเรามาถึงช่วงพักพอดี อีกอย่างเชลกับยาชโตล่าก็คุมสถานการณ์ได้อยู่หมัด พวกเราเลยปลีกตัวมาทริปนี้ได้ไม่มีปัญหา"
+    },
+    {
+      "key": "thatsarelieftohearnowletmefetchtataruforyou",
+      "text_en": "That's a relief to hear. Now, let me fetch Tataru for you.",
+      "text": "ได้ยินแบบนั้นก็เบาใจครับ เดี๋ยวผมไปตามทาทารุมาให้นะครับ"
+    },
+    {
+      "key": "whydontyoutakeamomenttorelaxinthemainhallimsureyoureallstillfatiguedfromyourjourney",
+      "text_en": "Why don't you take a moment to relax in the main hall? I'm sure you're all still fatigued from your journey!",
+      "text": "ไปพักผ่อนรอที่ห้องโถงใหญ่ก่อนดีกว่าครับ ทุกท่านคงเหน็ดเหนื่อยจากการเดินทางไม่น้อย"
+    },
+    {
+      "key": "ishantbelongbutyoucanunwindinthemainhallwhileimgone",
+      "text_en": "I shan't be long, but you can unwind in the main hall while I'm gone.",
+      "text": "ผมคงไปไม่นานหรอกครับ ระหว่างนี้ก็พักผ่อนตามสบายในห้องโถงใหญ่ได้เลยครับ"
+    },
+    {
+      "key": "givenhowfrequentlytataruisawayonbusinessthesedaystisasmallmiraclewereinthesameplaceatthesametime",
+      "text_en": "Given how frequently Tataru is away on business these days, 'tis a small miracle we're in the same place at the same time.",
+      "text": "ช่วงนี้ทาทารูเดินทางไปทำธุระบ่อยเหลือเกิน การที่เราได้มาเจอกันพร้อมหน้าพร้อมตาแบบนี้ก็นับว่าเป็นปาฏิหาริย์เล็กๆ เลยนะ"
+    },
+    {
+      "key": "onlynowisitbeginningtofeellikeweveactuallyreturnedsuchfondmemorieswithinthesefourwalls",
+      "text_en": "Only now is it beginning to feel like we've actually returned. Such fond memories within these four walls!",
+      "text": "เพิ่งจะรู้สึกว่ากลับมาแล้วจริงๆ ก็ตอนนี้เอง ห้องนี้อบอวลไปด้วยความทรงจำแสนอบอุ่นเหลือเกิน"
+    },
+    {
+      "key": "planningyournextjourney",
+      "text_en": "Planning your next journey?",
+      "text": "กำลังวางแผนเดินทางครั้งใหม่อยู่หรือ"
+    },
+    {
+      "key": "ohnojustreminiscing",
+      "text_en": "Oh, no. Just reminiscing...",
+      "text": "เปล่าหรอก แค่นึกถึงเรื่องเก่าๆ..."
+    },
+    {
+      "key": "thinkingbacktowhenyouboughtthismapandhowyouallencouragedmetomakethevoyagetotural",
+      "text_en": "Thinking back to when you bought this map─and how you all encouraged me to make the voyage to Tural...",
+      "text": "นึกย้อนไปตอนที่นายซื้อแผนที่แผ่นนี้... แล้วทุกคนก็ช่วยกันเชียร์ให้ฉันออกเดินทางไปทูรัล..."
+    },
+    {
+      "key": "areyougladyoudid",
+      "text_en": "Are you glad you did?",
+      "text": "แล้วดีใจไหมที่ตัดสินใจไป"
+    },
+    {
+      "key": "asifyouneedask",
+      "text_en": "As if you need ask!",
+      "text": "ยังต้องถามอีกหรือ"
+    },
+    {
+      "key": "welcomeback",
+      "text_en": "Welcome back!",
+      "text": "ยินดีต้อนรับกลับมาค่ะ!"
+    },
+    {
+      "key": "imsogladyourehere",
+      "text_en": "I'm so glad you're here!",
+      "text": "ดีใจเหลือเกินค่ะที่คุณมาถึงที่นี่!"
+    },
+    {
+      "key": "ojikacontactedusheintimatedthatyouwereratherconcerned",
+      "text_en": "Ojika contacted us. He intimated that you were rather concerned.",
+      "text": "โอจิกะติดต่อพวกเรามา บอกเป็นนัยว่าเธอกังวลใจอยู่ไม่น้อยเลย"
+    },
+    {
+      "key": "cometothinkofitalphinaudsaidheandalisaiewouldpayyouavisitupontheirreturnhaveyounotseenthem",
+      "text_en": "Come to think of it, Alphinaud said he and Alisaie would pay you a visit upon their return. Have you not seen them?",
+      "text": "จะว่าไป อัลฟิโนบอกว่าขากลับจะแวะมาหา ยังไม่เจอเลยหรือ"
+    },
+    {
+      "key": "ohnotheywerehereiwasregaledwithmanyataleofyourturaliadventures",
+      "text_en": "Oh, no, they were here! I was regaled with many a tale of your Turali adventures.",
+      "text": "โอ้ เปล่าค่ะ แวะมาหาแล้วค่ะ! ฉันได้ฟังเรื่องเล่าการผจญภัยในภาษาทูราลีเสียเต็มอิ่มเลยค่ะ"
+    },
+    {
+      "key": "itwasonlyoncetheyddepartedforgarlemaldthattherumorscametomyattention",
+      "text_en": "It was only once they'd departed for Garlemald that the rumors came to my attention.",
+      "text": "แต่พอออกเดินทางไปยังการ์เลมัลด์ ข่าวลือพวกนั้นก็เพิ่งแว่วเข้าหูฉันนี่ล่ะค่ะ"
+    },
+    {
+      "key": "ratheralarminglyvoidsentsightingsseemtobeontheriseacrossthestar",
+      "text_en": "Rather alarmingly, voidsent sightings seem to be on the rise across the star.",
+      "text": "ที่น่าตกใจคือ ผู้คนทั่วดวงดาวต่างพบเห็นวอยด์เซ้นต์กันบ่อยครั้งขึ้นเรื่อย ๆ ค่ะ"
+    },
+    {
+      "key": "iwasreluctanttobotheryouwithmerehearsayespeciallywhenyouhadmorepressingmatterstocontendwith",
+      "text_en": "I was reluctant to bother you with mere hearsay, especially when you had more pressing matters to contend with...",
+      "text": "ฉันไม่อยากกวนใจด้วยข่าวลือโคมลอยพวกนี้เลยค่ะ โดยเฉพาะในเวลาที่มีเรื่องด่วนกว่าต้องจัดการ..."
+    },
+    {
+      "key": "butearlierireceivedaconfidentialreportfromthegrandcompanyofeorzea",
+      "text_en": "But earlier I received a confidential report from the Grand Company of Eorzea.",
+      "text": "แต่เมื่อครู่นี้เอง เพิ่งได้รับรายงานลับสุดยอดจากแกรนด์คอมปานีแห่งเอออร์เซียค่ะ"
+    },
+    {
+      "key": "itsasifamightydamhasbeenbreachedfloodingthelandwithfoulcreatures",
+      "text_en": "It's as if a mighty dam has been breached, flooding the land with foul creatures!",
+      "text": "ราวกับทำนบยักษ์พังทลาย สัตว์ชั่วร้ายต่างไหลบ่าเข้าท่วมแผ่นดิน!"
+    },
+    {
+      "key": "forablessingmostnationshavemanagedtokeeptheinvadersincheckandcasualtiesappeartobeminimalthusfarthoughthesamecannotbesaidforthoseregionswithadeeperconnectiontothevoid",
+      "text_en": "For a blessing, most nations have managed to keep the invaders in check, and casualties appear to be minimal thus far. Though the same cannot be said for those regions with a deeper connection to the void...",
+      "text": "นับเป็นโชคดีที่แคว้นส่วนใหญ่ยังต้านทานผู้บุกรุกเอาไว้ได้ และดูเหมือนความสูญเสียจนถึงตอนนี้จะยังไม่มากนัก แต่คงไม่อาจพูดเช่นเดียวกันนี้ได้กับดินแดนที่เชื่อมโยงกับวอยด์อย่างลึกซึ้ง..."
+    },
+    {
+      "key": "therefissurescontinuetomanifestwithoutendputtingcountlessinnocentsindanger",
+      "text_en": "There, fissures continue to manifest without end, putting countless innocents in danger!",
+      "text": "รอยแยกที่นั่นยังคงผุดขึ้นมาไม่หยุดหย่อน ทำให้ผู้บริสุทธิ์นับไม่ถ้วนต้องตกอยู่ในอันตรายค่ะ!"
+    },
+    {
+      "key": "adeeperconnectiontothevoid",
+      "text_en": "A deeper connection to the void...",
+      "text": "เชื่อมโยงกับวอยด์อย่างลึกซึ้งงั้นหรือ..."
+    },
+    {
+      "key": "garlemaldisthehomeofthereapersisitnot",
+      "text_en": "Garlemald is the home of the reapers, is it not?",
+      "text": "การ์เลมัลด์เป็นถิ่นของพวกรีปเปอร์ไม่ใช่หรือ"
+    },
+    {
+      "key": "itisalphinaudandalisaieweretherewhenthetroublebeganandhavesincesentwordthatthesituationhastakenadreadfulturn",
+      "text_en": "It is! Alphinaud and Alisaie were there when the trouble began and have since sent word that the situation has taken a dreadful turn...",
+      "text": "ใช่แล้ว! อัลฟิโนกับอาลิเซอยู่ที่นั่นตอนเกิดเรื่องพอดิบพอดี และส่งข่าวมาว่าสถานการณ์เลวร้ายลงอย่างน่ากลัวทีเดียว..."
+    },
+    {
+      "key": "thusconcludestheabridgedaccountofourtimeinturalnowishallleaveyouwiththewordsofthelatedawnservantgulooljaja",
+      "text_en": "...Thus concludes the abridged account of our time in Tural. Now, I shall leave you with the words of the late Dawnservant, Gulool Ja Ja.",
+      "text": "...การสรุปเรื่องราวการเดินทางในทูรัลของพวกเราแต่เพียงสังเขปก็จบลงเท่านี้ ต่อไป ผมขอฝากทุกท่านไว้กับพระวจนะของอดีตดอว์นเซอร์แวนต์ กูลูล จา จา ผู้ล่วงลับ"
+    },
+    {
+      "key": "ignorancebegetsstrifeunderstandingbegetsfellowship",
+      "text_en": "“Ignorance begets strife. Understanding begets fellowship.”",
+      "text": "“ความไม่รู้นำมาซึ่งความขัดแย้ง ความเข้าใจนำมาซึ่งมิตรภาพ”"
+    },
+    {
+      "key": "anotionthatringstrueforeorzeansnolessthanitdoesforthediversepeoplesoftuliyollal",
+      "text_en": "A notion that rings true for Eorzeans no less than it does for the diverse peoples of Tuliyollal.",
+      "text": "แนวคิดนี้เป็นจริงสำหรับชาวเอออร์เซียน ไม่ต่างไปจากกลุ่มชนอันหลากหลายในทูลียอลลัล"
+    },
+    {
+      "key": "andforgarleansaswellevensharingsomethingassimpleasalocaldishcanpaveavenuesofunderstanding",
+      "text_en": "And for Garleans as well. Even sharing something as simple as a local dish can pave avenues of understanding.",
+      "text": "และสำหรับชาวการ์เลียนก็เช่นกัน แม้แต่การแบ่งปันสิ่งง่ายๆ อย่างอาหารท้องถิ่นก็ช่วยปูทางไปสู่ความเข้าใจได้"
+    },
+    {
+      "key": "itsuptoallofustoforgenewbondstogether",
+      "text_en": "It's up to all of us to forge new bonds─together.",
+      "text": "พวกเราทุกคนต้องร่วมมือกันสร้างสายสัมพันธ์ใหม่ขึ้นมา"
+    },
+    {
+      "key": "thankyouforsharingyourtale",
+      "text_en": "Thank you for sharing your tale.",
+      "text": "ขอบคุณที่แบ่งปันเรื่องราวให้ฟัง"
+    },
+    {
+      "key": "bettertheyhearitfirsthandthanenduremyclumsyretelling",
+      "text_en": "Better they hear it firsthand than endure my clumsy retelling.",
+      "text": "ให้พวกนั้นฟังจากปากพวกเธอเองโดยตรง ดีกว่าต้องทนฟังฉันเล่าอย่างเงอะงะ"
+    },
+    {
+      "key": "yourwordsgivemehopethatwemightachievesomethingsimilarhereingarlemald",
+      "text_en": "Your words give me hope that we might achieve something similar here in Garlemald.",
+      "text": "คำพูดของเธอช่วยจุดประกายความหวังว่าเราอาจทำเรื่องแบบนั้นสำเร็จที่การ์เลมัลด์"
+    },
+    {
+      "key": "weallhavethecapacitytoeffectchangeourtimeinturaltaughtusthatmuch",
+      "text_en": "We all have the capacity to effect change! Our time in Tural taught us that much.",
+      "text": "พวกเราทุกคนต่างสร้างความเปลี่ยนแปลงได้! ช่วงเวลาในทูรัลสอนให้เรารู้ซึ้งถึงข้อนั้นดี"
+    },
+    {
+      "key": "andnowthatwevereturneditstimewerolledupoursleevesandgotbacktowork",
+      "text_en": "And now that we've returned, it's time we rolled up our sleeves and got back to work!",
+      "text": "และในเมื่อกลับมาแล้ว ก็ถึงเวลาพับแขนเสื้อลุยงานกันต่อเสียที!"
+    },
+    {
+      "key": "ivealreadysentmissivestotheothernationsinformingthemofouralexandrianfriends",
+      "text_en": "I've already sent missives to the other nations informing them of our Alexandrian friends.",
+      "text": "ผมส่งจดหมายแจ้งข่าวเรื่องมิตรสหายแห่งอะเล็กซานเดรียให้ประเทศอื่นๆ ทราบเรียบร้อยแล้ว"
+    },
+    {
+      "key": "ialsointendtonotifythegarleancommunityofficiallyifbothsidesareamenabletothepropositionweshallgladlyassistinestablishingdiplomaticrelationswithalexandriaandtuliyollal",
+      "text_en": "I also intend to notify the Garlean community officially. If both sides are amenable to the proposition, we shall gladly assist in establishing diplomatic relations with Alexandria and Tuliyollal.",
+      "text": "ผมตั้งใจจะแจ้งให้ชุมชนชาวการ์เลียนทราบอย่างเป็นทางการด้วย หากทั้งสองฝ่ายเห็นพ้องกับข้อเสนอ พวกเราก็ยินดีจะช่วยประสานงานเพื่อสร้างความสัมพันธ์ทางการทูตระหว่างอะเล็กซานเดรียและทูลียอลลัล"
+    },
+    {
+      "key": "thankyou",
+      "text_en": "Thank you.",
+      "text": "ขอบคุณ"
+    },
+    {
+      "key": "butareyousureyouverecoveredfromyourjourneyitsoundedlikeyouvehardlyhadtimetocatchyourbreath",
+      "text_en": "But are you sure you've recovered from your journey? It sounded like you've hardly had time to catch your breath...",
+      "text": "แต่แน่ใจนะว่าหายเหนื่อยจากการเดินทางแล้ว ฟังดูเหมือนแทบไม่ได้หยุดพักหายใจหายคอเลย..."
+    },
+    {
+      "key": "sir",
+      "text_en": "Sir!",
+      "text": "เซอร์!!"
+    },
+    {
+      "key": "lapismanalisisoverrunwithvoidsentwevesustainedheavyciviliancasualties",
+      "text_en": "Lapis Manalis is overrun with voidsent! We've sustained heavy civilian casualties!",
+      "text": "พวกวอยด์เซ้นต์บุกทะลักเข้ายึดลาปิส มานาลิส!! พลเรือนล้มตายเป็นจำนวนมากครับ!!"
+    },
+    {
+      "key": "what",
+      "text_en": "What!?",
+      "text": "อะไรนะ!?"
+    },
+    {
+      "key": "clyteumsquadronreportinginwereunderattack",
+      "text_en": "Clyteum squadron reporting in. We're under attack!",
+      "text": "รายงานจากกองร้อยไคลเทียม! ศัตรูบุกโจมตีพวกเราแล้ว!"
+    },
+    {
+      "key": "voidsentappearedoutofnowhereandambushedusduringaroutineinspection",
+      "text_en": "Voidsent appeared out of nowhere and ambushed us during a routine inspection!",
+      "text": "พวกวอยด์เซ้นต์ผุดขึ้นมาซุ่มโจมตีพวกเราตอนตรวจตราตามปกติ!"
+    },
+    {
+      "key": "dammitisthatanotherfissurenononoaaargh",
+      "text_en": "Dammit, is that another fissure? ...No-no-no─aaargh!",
+      "text": "บัดซบ นั่นรอยแยกอีกแห่งรึ... ไม่นะ ไม่ ไม่─อ๊าก!"
+    },
+    {
+      "key": "mycomradesareunderattackwehavetodosomething",
+      "text_en": "My comrades are under attack. We have to do something.",
+      "text": "สหายของผมถูกโจมตีแล้ว พวกเราต้องทำอะไรสักอย่าง"
+    },
+    {
+      "key": "theresnotimetolosecomeon",
+      "text_en": "There's no time to lose. Come on!",
+      "text": "ชักช้าไม่ได้แล้ว ไปกันเถอะ!"
+    },
+    {
+      "key": "thegarleancommunityisillequippedtodefendthemselvesagainstsuchathreatevenwiththeaidofthetwinsandtheilsabardcontingenttheyfacedauntingodds",
+      "text_en": "The Garlean community is ill-equipped to defend themselves against such a threat. Even with the aid of the twins and the Ilsabard contingent, they face daunting odds...",
+      "text": "ชุมชนชาวการ์เลียนขาดแคลนอาวุธยุทโธปกรณ์ที่จะป้องกันตัวจากภัยคุกคามเช่นนี้ค่ะ ต่อให้ได้สองฝาแฝดกับกองกำลังพันธมิตรอิลซาบาร์ดคอยช่วยเหลือ ก็ยังตกเป็นรองอย่างหนัก..."
+    },
+    {
+      "key": "weshallleaveforgarlemaldimmediately",
+      "text_en": "We shall leave for Garlemald immediately.",
+      "text": "พวกเราจะออกเดินทางไปการ์เลมัลด์ทันที"
+    },
+    {
+      "key": "thankyou",
+      "text_en": "Thank you...",
+      "text": "ขอบคุณมากนะคะ..."
+    },
+    {
+      "key": "iwasabletocontactthancredanduriangertootheyrealreadyontheirwaywithanyluckyoullbeabletorendezvouswiththemonarrival",
+      "text_en": "I was able to contact Thancred and Urianger too─they're already on their way. With any luck, you'll be able to rendezvous with them on arrival!",
+      "text": "ฉันติดต่อแธนเครดกับยูเรียนเจอร์ได้แล้วด้วยค่ะ ตอนนี้กำลังเดินทางไปกันแล้ว ถ้าโชคดีก็น่าจะสมทบกันได้ทันทีที่เดินทางถึงค่ะ!"
+    },
+    {
+      "key": "idontbelieveweveseenthancredanduriangersinceourbattlewiththeendlesssphenehavewetheytoomusthavereturnedhereatsomepoint",
+      "text_en": "I don't believe we've seen Thancred and Urianger since our battle with the Endless Sphene, have we? They too must have returned here at some point.",
+      "text": "ไม่เห็นหน้าแธงเครดกับอูรียองเฌเลยตั้งแต่ศึกกับเอนด์เลสสฟีนใช่ไหมล่ะ ป่านนี้คงกลับมาที่นี่กันหมดแล้วล่ะมั้ง"
+    },
+    {
+      "key": "clearlywemadetherightdecisiontocometosharlayanthoughidearlywishthecircumstancesofourreturnwerenotsograve",
+      "text_en": "Clearly we made the right decision to come to Sharlayan. Though I dearly wish the circumstances of our return were not so grave...",
+      "text": "พวกเราคิดถูกแล้วจริงๆ ที่มายังชาร์ลาแยน ทว่าใจจริงฉันก็ปรารถนาเหลือเกินว่า ไม่อยากให้การกลับมาของพวกเราต้องเผชิญกับสถานการณ์เลวร้ายเช่นนี้..."
+    },
+    {
+      "key": "voidsentemergingacrossthestarhowfortunateicontactedyouwhenididpleasedotakecareofyourselves",
+      "text_en": "Voidsent emerging across the star!? How fortunate I contacted you when I did... Please do take care of yourselves!",
+      "text": "วอยด์เซ้นต์ผุดขึ้นมาทั่วดวงดาวเลยหรือครับ!? โชคดีเหลือเกินที่ผมติดต่อไปหาได้ทันเวลา... ได้โปรดดูแลตัวเองกันด้วยนะครับ!"
+    },
+    {
+      "key": "ivebeentoldalphinaudandalisaiehavewithdrawntotertiumtorequestaidonthefrontlines",
+      "text_en": "I've been told Alphinaud and Alisaie have withdrawn to Tertium to request aid on the front lines.",
+      "text": "ฉันทราบข่าวมาว่าคุณอัลฟิโนและคุณอาลิเซถอยไปตั้งหลักที่เทอร์เทียม เพื่อขอความช่วยเหลือไปส่งยังแนวหน้าแล้วค่ะ"
+    },
+    {
+      "key": "theyseemedintentonrejoiningthebattleoncereinforcementswerereadybutishalltellthemtowaituntilyouarrive",
+      "text_en": "They seemed intent on rejoining the battle once reinforcements were ready, but I shall tell them to wait until you arrive!",
+      "text": "ดูเหมือนพวกเขาตั้งใจจะกลับไปร่วมการหลอมรวมโลกศึกทันทีที่กองกำลังหนุนพร้อม แต่ฉันจะบอกให้พวกเขารอจนกว่าคุณจะเดินทางไปถึงค่ะ!"
+    },
+    {
+      "key": "sorrytosendyoupackingsosoonafteryourhomecomingbutgarlemalddesperatelyneedsyouraid",
+      "text_en": "Sorry to send you packing so soon after your homecoming, but Garlemald desperately needs your aid!",
+      "text": "ขอโทษด้วยนะคะที่ต้องส่งคุณออกเดินทางอีกครั้งทั้งที่เพิ่งกลับมาแท้ๆ แต่การ์เลมัลด์กำลังต้องการความช่วยเหลือจากคุณอย่างเร่งด่วนที่สุดค่ะ!"
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "quest_id": "when-the-dust-settles",
+  "dialogues": [
+    {
+      "key": "standingaroundhereworryingisnotgoingtohelpmatterscomewemustdiscussthedayseventswithpipinandhergrace",
+      "text_en": "<sigh> Standing around here worrying is not going to help matters. Come, we must discuss the day's events with Pipin and Her Grace.",
+      "text": "(ถอนหายใจ) ยืนวิตกกังวลอยู่ตรงนี้ก็ไม่ช่วยให้อะไรดีขึ้นมา ไปกันเถอะ พวกเราต้องไปหารือเรื่องราวของวันนี้กับพิพินและฝ่าบาท"
+    },
+    {
+      "key": "bravescions",
+      "text_en": "Brave Scions!",
+      "text": "ไซออนส์ผู้กล้าหาญ!"
+    },
+    {
+      "key": "wouldthaticouldtreatyoutoaheroswelcomebutibearurgentnewsfromthephrontistery",
+      "text_en": "Would that I could treat you to a hero's welcome ─ but I bear urgent news from the Phrontistery.",
+      "text": "เราอยากต้อนรับพวกท่านเยี่ยงวีรบุรุษเหลือเกิน แต่กลับต้องนำข่าวเร่งด่วนจากสถาบันวิจัยมาแจ้งแทน"
+    },
+    {
+      "key": "yourgracewhateveristhematter",
+      "text_en": "Your Grace! Whatever is the matter?",
+      "text": "ฝ่าบาท! เกิดเรื่องอันใดขึ้นหรือครับ"
+    },
+    {
+      "key": "asourtroopswithdrewfrompaglthantheycameuponthetwoscoutssenttothenearbytowerihaveyettohearafullaccountbutitseemsthatoneofthemyourfriendibelievehadbeenwoundedandwasbeingdraggedawaybytheother",
+      "text_en": "As our troops withdrew from Paglth'an, they came upon the two scouts sent to the nearby tower. I have yet to hear a full account, but it seems that one of them ─ your friend, I believe ─ had been wounded, and was being dragged away by the other.",
+      "text": "ระหว่างที่กองทหารของเราถอยทัพออกจากพักส์ฐาน พวกเขาพบทหารสอดแนมสองนายที่ส่งไปยังหอคอยใกล้ๆ เรายังไม่ได้รับรายงานอย่างละเอียด แต่ดูเหมือนหนึ่งในนั้น—น่าจะเป็นเพื่อนของพวกท่าน—ได้รับบาดเจ็บ และอีกคนกำลังลากตัวออกมา"
+    },
+    {
+      "key": "ohno",
+      "text_en": "Oh no...",
+      "text": "ไม่นะ..."
+    },
+    {
+      "key": "iimustgoforgivemeyourgrace",
+      "text_en": "I-I must go. Forgive me, Your Grace!",
+      "text": "ผ...ผมต้องขอตัวก่อน ขออภัยด้วยครับ ฝ่าบาท!"
+    },
+    {
+      "key": "canyoutellusaughtofarenvaldsconditionyourgracethewoundedscout",
+      "text_en": "Can you tell us aught of Arenvald's condition, Your Grace? The wounded scout.",
+      "text": "พอจะบอกอาการของอารันวาลด์ให้พวกเราทราบได้บ้างไหมครับ ฝ่าบาท?"
+    },
+    {
+      "key": "naughtsavethatitisgravethechirurgeonstendtohimevenaswespeak",
+      "text_en": "Naught save that it is grave. The chirurgeons tend to him even as we speak.",
+      "text": "รู้เพียงว่าอาการสาหัสยิ่งนัก เหล่าแพทย์ผู้รักษาเยียวยากำลังดูแลอยู่อย่างเร่งด่วนในเวลานี้"
+    },
+    {
+      "key": "theinfirmarymustbeinundatedwiththewoundedifallofusgowellonlygetunderfootforenameestinienwouldyoumindgoingafteralphinaudhemayneedsomesupportfromsomeoneotherthanme",
+      "text_en": "The infirmary must be inundated with the wounded. If all of us go, we'll only get underfoot. Forename , Estinien ─ would you mind going after Alphinaud? He may need some support ─ from someone other than me.",
+      "text": "ห้องพยาบาลคงเนืองแน่นไปด้วยคนเจ็บ หากพวกเราแห่กันไปหมดคงรังแต่จะเกะกะเปล่าๆ Forename เอสทิเนียน ช่วยตามอัลฟิโนด์ไปทีได้ไหม บางทีเขาอาจต้องการกำลังใจ... จากคนอื่นที่ไม่ใช่ฉัน"
+    },
+    {
+      "key": "verywell",
+      "text_en": "Very well.",
+      "text": "ก็ดี"
+    },
+    {
+      "key": "thankyoutherestofuswillseethattherelevantpeopleknowwhattookplaceinpaglthan",
+      "text_en": "Thank you. The rest of us will see that the relevant people know what took place in Paglth'an.",
+      "text": "ขอบใจนะ พวกเราที่เหลือจะจัดการแจ้งให้ผู้เกี่ยวข้องรับรู้เรื่องที่เกิดขึ้นในพักส์ฐานเอง"
+    },
+    {
+      "key": "comeonthen",
+      "text_en": "Come on, then.",
+      "text": "งั้นก็ไปกันเถอะ"
+    },
+    {
+      "key": "itakeitalphinaudisfondofarenvald",
+      "text_en": "...I take it Alphinaud is fond of Arenvald.",
+      "text": "...ดูท่าอัลฟิโนด์จะห่วงใยอารันวาลด์มากสินะ"
+    },
+    {
+      "key": "iknowhowhefeelsbuthandwringingisntgoingtohelpanyoneyouhadbetterhaveaword",
+      "text_en": "I know how he feels. But hand-wringing isn't going to help anyone. You had better have a word.",
+      "text": "ข้าเข้าใจความรู้สึกของเขาดี แต่การมัวแต่วิตกกังวลไม่ได้ช่วยอะไรใครหรอก เจ้าน่าจะไปเอ่ยพระวจนะกับเขาเสียหน่อย"
+    },
+    {
+      "key": "pleasetellmesomethinganything",
+      "text_en": "Please, tell me something! Anything !",
+      "text": "ได้โปรดบอกอะไรผมสักอย่างเถอะครับ! อะไรก็ได้!"
+    },
+    {
+      "key": "insteadofstandingtheregawpingwhydontyoutellyourfriendtostopwhininglikeanunderfeddogpeoplearefightingfortheirlivesinthere",
+      "text_en": "Instead of standing there gawping, why don't you tell your friend to stop whining like an underfed dog? People are fighting for their lives in there.",
+      "text": "แทนที่จะยืนเซ่ออยู่อย่างนั้น ทำไมไม่บอกเพื่อนของแกให้เลิกคร่ำครวญเหมือนหมาอดโซเสียที ข้างในนั้นเขากำลังสู้สุดชีวิตเพื่อเอาตัวรอดกันอยู่นะ"
+    },
+    {
+      "key": "anotheronecometoseetheladinsilverarmormasterdamielliotisattendingtohimaswespeakifyouwouldbesokindastowait",
+      "text_en": "Another one come to see the lad in silver armor? Master Damielliot is attending to him as we speak. If you would be so kind as to wait─",
+      "text": "มาขอพบพ่อหนุ่มในชุดเกราะเงินอีกคนหรือครับ ตอนนี้ท่านอาจารย์ดาเมียลอตกำลังรักษาเขาอยู่พอดี ได้โปรดกรุณารอสักครู่─"
+    },
+    {
+      "key": "whatdidmasterdamielliotsaytellmehisexactwords",
+      "text_en": "What did Master Damielliot say? Tell me his exact words!",
+      "text": "ท่านอาจารย์ดาเมียลอตพูดว่าอย่างไรบ้างครับ ได้โปรดบอกพระวจนะทุกคำของท่านให้ผมฟังที!"
+    },
+    {
+      "key": "butyourerightforgivemewhenwesaidourfarewellstoarenvaldiwasafraidthatsomethinglikethismighthappenbutnowthatithas",
+      "text_en": "But─ ...You're right. Forgive me. <sigh> ...When we said our farewells to Arenvald, I was afraid that something like this might happen, but now that it has...",
+      "text": "แต่─ ...คุณพูดถูกแล้วละครับ ยกโทษให้ผมด้วย <ถอนหายใจ> ...ตอนที่เราบอกลากับอารันวาลด์ ผมก็กลัวอยู่แล้วว่าจะเกิดเรื่องแบบนี้ขึ้น แต่พอเกิดขึ้นจริง..."
+    },
+    {
+      "key": "allwecandoiswait",
+      "text_en": "...All we can do is wait.",
+      "text": "...เราทำได้เพียงแค่รอเท่านั้น"
+    },
+    {
+      "key": "fordolahaveyoubeenwaitinghereallthistime",
+      "text_en": "Fordola... Have you been waiting here all this time?",
+      "text": "ฟอร์ดรา... เธอรออยู่ที่นี่มาตลอดเลยหรือ"
+    },
+    {
+      "key": "wehavedonewhatwecantherestisuptohim",
+      "text_en": "We have done what we can. The rest is up to him.",
+      "text": "พวกเราทำทุกอย่างเท่าที่จะทำได้แล้วครับ ที่เหลือคงต้องขึ้นอยู่กับตัวเขาเอง"
+    },
+    {
+      "key": "mayweseehim",
+      "text_en": "May we see him?",
+      "text": "พวกเราขอเข้าไปดูอาการหน่อยได้ไหมครับ"
+    },
+    {
+      "key": "idonotthinkthatwiseyoumustlethimsleep",
+      "text_en": "I...do not think that wise. You must let him sleep.",
+      "text": "ผม...คิดว่าไม่ควรครับ ควรปล่อยให้เขาได้นอนหลับพักผ่อนจะดีกว่า"
+    },
+    {
+      "key": "thankyouforbringinghimbackheowesyouhislife",
+      "text_en": "Thank you for bringing him back. He owes you his life.",
+      "text": "ขอบคุณที่ช่วยพาเขากลับมานะ ชีวิตของเขาเป็นหนี้ชีวิตเธอแล้วล่ะ"
+    },
+    {
+      "key": "ijustijustwishidbeenthereperhapsidontknowperhapsicouldhave",
+      "text_en": "I just... I just wish I'd been there. Perhaps─ I don't know. Perhaps I could have...",
+      "text": "ผมแค่... ผมแค่หวังว่าตัวเองจะได้อยู่ตรงนั้นด้วย บางที─ ไม่รู้สิ บางทีผมอาจจะ..."
+    },
+    {
+      "key": "couldvewhatgottempereddontflatteryourselfyoucantsaveeveryonenoonecannoteventhewarriorofbloodylight",
+      "text_en": "Could've what? Got tempered!? Don't flatter yourself. You can't save everyone. No one can. Not even the Warrior of bloody Light.",
+      "text": "ช่วยอะไรล่ะ จะได้กลายเป็นผู้ถูกครอบงำไปด้วยอีกคนงั้นเรอะ อย่าสำคัญตัวผิดไปหน่อยเลย แกช่วยทุกคนไม่ได้หรอก ไม่มีใครทำได้ทั้งนั้น ไม่เว้นแม้กระทั่งนักรบแห่งแสงสว่างนั่น"
+    },
+    {
+      "key": "peopledieallthetimefornogoodreasonandthosewhotakeupthesworddiequickerthanmost",
+      "text_en": "People die all the time. For no good reason. And those who take up the sword die quicker than most.",
+      "text": "ผู้คนล้มตายกันเป็นเรื่องปกติอยู่แล้ว โดยไม่มีเหตุผลอันควรด้วยซ้ำ และพวกที่จับดาบก้าวสู่สนามรบก็ต้องตายเร็วกว่าใครเพื่อนอยู่แล้ว"
+    },
+    {
+      "key": "ifyouregoingtoshedateareverytimeasoldierfallsonthebattlefieldyoudbeststayawayitsnoplacefortheweakofheart",
+      "text_en": "If you're going to shed a tear every time a soldier falls on the battlefield, you'd best stay away. It's no place for the weak of heart.",
+      "text": "ถ้าแกคิดจะหลั่งน้ำตาทุกครั้งที่มีทหารล้มลงในสนามรบละก็ ตัดใจอยู่ห่างๆ เสียดีกว่า ที่นี่ไม่ใช่ที่สำหรับคนใจเสาะ"
+    },
+    {
+      "key": "itmaybe",
+      "text_en": "It may be...",
+      "text": "บางที..."
+    },
+    {
+      "key": "thatvictorycannotbewonwithoutcost",
+      "text_en": "That victory cannot be won without cost.",
+      "text": "ที่ว่าเรือวิกตอรีนั้นไม่อาจได้มาโดยปราศจากความสูญเสีย"
+    },
+    {
+      "key": "butalllifeispreciousandirefusetoshrugatitsloss",
+      "text_en": "But all life is precious, and I refuse to shrug at its loss!",
+      "text": "ทว่าทุกชีวิตล้วนมีค่า และผมไม่มีวันยอมดูดายต่อความสูญเสียนั้นได้เด็ดขาด!"
+    },
+    {
+      "key": "alllifeisprecioushmphyouneedtogrowuplittlemanbeforeyoursparklingidealsgeteveryonekilled",
+      "text_en": "“All life is precious”? Hmph. You need to grow up, little man ─ before your sparkling ideals get everyone killed.",
+      "text": "“ทุกชีวิตล้วนมีค่า” งั้นรึ หึ โตขึ้นได้แล้ว เจ้าเปี๊ยก ─ ก่อนที่อุดมการณ์อันสวยหรูของนายจะพาคนอื่นไปตายกันหมด"
+    },
+    {
+      "key": "yourerightheisidealisticbuttheworldhasmorethanitsfairshareofrealistslikeyouandme",
+      "text_en": "You're right. He is idealistic. But the world has more than its fair share of realists like you and me.",
+      "text": "ก็จริงของเจ้า หมอนั่นเป็นพวกเพ้อฝัน ทว่าโลกนี้ก็เต็มไปด้วยคนมองโลกตามความเป็นจริงอย่างข้ากับเจ้ามากเกินพอแล้ว"
+    },
+    {
+      "key": "itspeoplelikehimwhodaretodreamthatthingscouldbebetterandmakeithappenagainstalltheoddstheyaretheoneswhosenamesliveonforevertheheroes",
+      "text_en": "It's people like him who dare to dream that things could be better ─ and make it happen, against all the odds. They are the ones whose names live on forever. The heroes.",
+      "text": "คนอย่างหมอนั่นต่างหากที่กล้าฝันถึงสิ่งที่ดีกว่า ─ และสู้จนทำให้มันเป็นจริงขึ้นมาได้ต่อให้แทบไม่มีหวังก็ตาม พวกเขานั่นแหละที่ชื่อเสียงจะคงอยู่ชั่วกาลนาน เหล่าวีรบุรุษ"
+    },
+    {
+      "key": "thebattlefieldslitteredwithwouldbeheroesatthisrateyoulotllbenext",
+      "text_en": "The battlefield's littered with would-be heroes. At this rate, you lot'll be next.",
+      "text": "สมรภูมิน่ะเกลื่อนกลาดไปด้วยพวกอยากเป็นวีรบุรุษ ขืนเป็นแบบนี้ต่อไป พวกแกนั่นแหละจะเป็นรายถัดไป"
+    },
+    {
+      "key": "andwhatllbecomeofyourpreciousdreamsthen",
+      "text_en": "And what'll become of your precious dreams then!?",
+      "text": "แล้วถึงตอนนั้น ความฝันอันมีค่าของพวกแกจะเหลืออะไร!?"
+    },
+    {
+      "key": "theyllbegonelikedustonthewind",
+      "text_en": "They'll be gone ─ like dust on the wind!",
+      "text": "จะสลายหายไป ─ เหมือนฝุ่นผงที่ปลิวไปกับสายลม!"
+    },
+    {
+      "key": "dreamsworthfightingfordontdiesoeasily",
+      "text_en": "Dreams worth fighting for don't die so easily.",
+      "text": "ความฝันที่คุ้มค่าจะสู้เพื่อมันน่ะ ไม่ดับสูญง่ายๆ หรอก"
+    },
+    {
+      "key": "thatwomansheplaysatscornbuthereyesarefilledwithsorrowsorrowdeepenoughtodrownin",
+      "text_en": "That woman... She plays at scorn, but her eyes are filled with sorrow. Sorrow deep enough to drown in.",
+      "text": "ผู้หญิงคนนั้น... แสร้งทำเป็นดูแคลน แต่ตากลับเปี่ยมด้วยความโศกเศร้า ความเศร้าลึกล้ำจนแทบจมดิ่งลงไป"
+    },
+    {
+      "key": "iknowiknowthereisnothingmoreicandoherecomeletusrejointheothers",
+      "text_en": "I know... I know. There is nothing more I can do here. Come, let us rejoin the others.",
+      "text": "ฉันรู้... รู้ดี คงทำอะไรที่นี่ไม่ได้มากกว่านี้แล้ว มาเถอะ ไปสมทบกับคนอื่นๆ กัน"
+    },
+    {
+      "key": "ahemhergraceinvitesthescionsoftheseventhdawntojoinherinthefragrantchamber",
+      "text_en": "Ahem. Her Grace invites the Scions of the Seventh Dawn to join her in the Fragrant Chamber.",
+      "text": "เอ่อ... ฝ่าบาททรงเชิญทายาทแห่งรุ่งอรุณที่เจ็ดให้ร่วมเข้าเฝ้าในเฟรแกรนต์ แชมเบอร์ ครับ"
+    },
+    {
+      "key": "yourcomradeshavealreadyarrivedwillthethreeofyoubejoiningthem",
+      "text_en": "Your comrades have already arrived. Will the three of you be joining them?",
+      "text": "สหายของพวกท่านเดินทางมาถึงแล้ว ทั้งสามท่านจะไปสมทบกับพวกเขาเลยหรือไม่ครับ"
+    },
+    {
+      "key": "wewill",
+      "text_en": "We will.",
+      "text": "พวกเราจะไป"
+    },
+    {
+      "key": "yourgraceprayforgiveusourlateness",
+      "text_en": "Your Grace. Pray forgive us our lateness.",
+      "text": "ฝ่าบาท ขอโปรดประทานอภัยที่พวกเรามาล่าช้า"
+    },
+    {
+      "key": "thinknotofthatiunderstandaclosecomradeofyourswaswoundedinthelineofdutyarenvald",
+      "text_en": "Think not of that. I understand a close comrade of yours was wounded in the line of duty. Arenvald.",
+      "text": "อย่าได้ใส่ใจเลย เราทราบว่าสหายสนิทของพวกท่านได้รับบาดเจ็บระหว่างปฏิบัติหน้าที่ อารันวาลด์ใช่ไหม"
+    },
+    {
+      "key": "itwasatthealliancesbehestthatheriskedallandwearegrievedtohearofhisconditionrestassuredhewillreceivethefinestcareourchirurgeonscanprovideonthatyouhavemyword",
+      "text_en": "It was at the Alliance's behest that he risked all, and we are grieved to hear of his condition. Rest assured, he will receive the finest care our chirurgeons can provide, on that you have my word.",
+      "text": "เพราะคำขอของกองกำลังพันธมิตรแท้ๆ ที่ทำให้เขาต้องเสี่ยงชีวิตทุกอย่าง และเราโศกเศร้ายิ่งนักเมื่อได้ยินเรื่องอาการของเขา จงวางใจเถิด เขาจะได้รับการดูแลรักษาอย่างดีที่สุดเท่าที่แพทย์หลวงของเราจะปรนนิบัติได้ เราให้พระวจนะไว้"
+    },
+    {
+      "key": "nowwewouldsharewithyouthefindingsofthemission",
+      "text_en": "Now...we would share with you the findings of the mission.",
+      "text": "เอาละ... ตอนนี้เราอยากแจ้งผลการสืบสวนจากภารกิจให้พวกท่านทราบ"
+    },
+    {
+      "key": "pipinprayrelatetoourgueststhedetailsoffordolasaccount",
+      "text_en": "Pipin ─ pray relate to our guests the details of Fordola's account.",
+      "text": "พิพิน — โปรดเล่ารายละเอียดคำให้การของฟอร์ดราให้แขกของเราฟังด้วย"
+    },
+    {
+      "key": "firstbahamutnowifritorlunarifritasfandanielwoulddoubtlesshaveit",
+      "text_en": "First Bahamut, now Ifrit. Or “Lunar Ifrit,” as Fandaniel would doubtless have it.",
+      "text": "ทีแรกก็บาฮามุท ตอนนี้ก็อิฟรีท หรือที่ฟานดาเนียลคงเรียกอย่างไม่ต้องสงสัยเลยว่า 'ลูน่า อิฟริท'"
+    },
+    {
+      "key": "tisnowallbutcertainthatthetowerswereconceivedtofacilitatethesummoningofprimalsbythoseimprisonedwithin",
+      "text_en": "'Tis now all but certain that the towers were conceived to facilitate the summoning of primals by those imprisoned within.",
+      "text": "บัดนี้เป็นที่แน่ชัดแล้วว่า หอคอยเหล่านี้สร้างขึ้นเพื่ออำนวยความสะดวกในการอัญเชิญไพรมัลโดยกลุ่มคนผู้ถูกคุมขังอยู่ภายใน"
+    },
+    {
+      "key": "lesscertainisthemeansbywhichthetelophoroiconstrainthewillsofsaidentitiestoenacttheirdesignsindefianceofthepleasoftheirvictims",
+      "text_en": "Less certain is the means by which the Telophoroi constrain the wills of said entities to enact their designs in defiance of the pleas of their victims.",
+      "text": "ทว่าสิ่งอันยากแท้จะหยั่งรู้ คือวิธีการที่พวกเทโลฟอรอยใช้สะกดจิตใจของเทพเหล่านั้นให้ดำเนินตามอุบายของพวกมัน โดยมิแยแสต่อเสียงอ้อนวอนของเหล่าเหยื่อผู้เคราะห์ร้ายเลย"
+    },
+    {
+      "key": "mayhaptheydonotifmereproximitytothetowersisenoughtomakeloyalservantsoftheempiresmortalenemiesitstandstoreasonthatthesameistrueforthoseheldcaptive",
+      "text_en": "Mayhap they do not. If mere proximity to the towers is enough to make loyal servants of the Empire's mortal enemies, it stands to reason that the same is true for those held captive.",
+      "text": "บางทีพวกมันอาจไม่ได้ลงมือบังคับด้วยซ้ำ หากการเข้าใกล้หอคอยเพียงอย่างเดียวก็สามารถเปลี่ยนศัตรูคู่อาฆาตของจักรวรรดิให้กลายเป็นข้ารับใช้ผู้ภักดีได้แล้ว ก็สมเหตุสมผลดีที่ผู้ถูกคุมขังเหล่านั้นจะเผชิญชะตากรรมเดียวกัน"
+    },
+    {
+      "key": "theyinvoketheirgodsforthegoodofgarlemaldandintheirdisturbedstateofmindsummonaprimalwhoseformreflectstheirownalteration",
+      "text_en": "They invoke their gods for the good of Garlemald, and in their disturbed state of mind summon a primal whose form reflects their own alteration.",
+      "text": "พวกเขาอัญเชิญทวยเทพเพื่อหวังให้เกื้อหนุนการ์เลมัลด์ และสภาพจิตใจอันสับสนปั่นป่วนในยามนั้นก็นำพาให้ไพรมอล (เทพจุติ) ปรากฏกายออกมาในรูปลักษณ์อันบิดเบี้ยวตามจิตใจของพวกเขาเอง"
+    },
+    {
+      "key": "itallbeginstomakesenseuponcloserinspectionirealizedthatthetowersbearastrikingresemblancetoamuchlargerstructurewhichuriangerandiobservedfromafarduringourvisittotheimperialcapital",
+      "text_en": "It all begins to make sense. Upon closer inspection, I realized that the towers bear a striking resemblance to a much larger structure which Urianger and I observed from afar during our visit to the imperial capital.",
+      "text": "เรื่องทั้งหมดเริ่มปะติดปะต่อเข้าด้วยกันได้แล้ว เมื่อพิจารณาดูอย่างละเอียด ผมก็พบว่าหอคอยเหล่านี้คล้ายคลึงอย่างน่าประหลาดกับสิ่งก่อสร้างขนาดใหญ่โตกว่ามาก ซึ่งผมกับยูเรียนเจอร์มองเห็นจากที่ไกลๆ ตอนที่เราไปเยือนเมืองหลวงของจักรวรรดิ"
+    },
+    {
+      "key": "assumingittooiscapableoftemperingthoseinitsimmediatevicinityitwouldgosomewaytoexplaintheswiftnesswithwhichthetelophoroimanagedtorallysomanyimperialstotheircause",
+      "text_en": "Assuming it too is capable of tempering those in its immediate vicinity, it would go some way to explain the swiftness with which the Telophoroi managed to rally so many imperials to their cause.",
+      "text": "หากตั้งสมมติฐานว่ามันสามารถสะกดจิตใจผู้คนที่อยู่ใกล้เคียงได้เช่นกัน นั่นคงพอจะอธิบายได้ว่าเหตุใดพวกเทโลฟอรอยจึงชักจูงทหารจักรวรรดิมากมายให้มาร่วมอุดมการณ์ได้อย่างรวดเร็วถึงเพียงนี้"
+    },
+    {
+      "key": "whilethesituationingarlemaldisindeedtroublingifearwehavemoreimmediateconcerns",
+      "text_en": "While the situation in Garlemald is indeed troubling, I fear we have more immediate concerns.",
+      "text": "แม้สถานการณ์ในการ์เลมัลด์จะน่ากังวลใจยิ่งนัก แต่เราเกรงว่าภัยพิบัติเฉพาะหน้าในยามนี้กำลังรอให้เราแก้ไขโดยพลัน"
+    },
+    {
+      "key": "ifritwasnottheonlyprimalsummonedatapproximatelythesametimeobserversatseveralothertowersborewitnesstotheemergenceoffurthersuchentities",
+      "text_en": "Ifrit was not the only primal summoned. At approximately the same time, observers at several other towers bore witness to the emergence of further such entities.",
+      "text": "อิฟรีทมิใช่ไพรมอล (เทพจุติ) เพียงตนเดียวที่เผยตัวออกมา ในเวลาไล่เลี่ยกันนั้น ผู้เฝ้าสังเกตการณ์ ณ หอคอยอีกหลายแห่งต่างก็เห็นไพรมอลตนอื่นๆ ผุดขึ้นมาเช่นเดียวกัน"
+    },
+    {
+      "key": "forablessingnoneappeartowieldaughtapproachingthedestructivepowerofbahamutandthegrandcompaniesaremovingtodealwiththethreatevenaswespeak",
+      "text_en": "For a blessing, none appear to wield aught approaching the destructive power of Bahamut, and the Grand Companies are moving to deal with the threat even as we speak.",
+      "text": "ยังเคราะห์ดีที่ไม่มีตนใดสำแดงอิทธิฤทธิ์ทำลายล้างได้เทียบเท่าบาฮามุท และในขณะที่เรากำลังหารือกันอยู่นี้ กองกำลังแกรนด์คอมปะนีก็กำลังเคลื่อนพลเข้าจัดการภัยคุกคามดังกล่าวแล้ว"
+    },
+    {
+      "key": "thoughweareawarethatthetaskwillnotbeeasywewouldcalluponthescionsonlyasalastresortprayconserveyourstrengthfornow",
+      "text_en": "Though we are aware that the task will not be easy, we would call upon the Scions only as a last resort. Pray conserve your strength for now.",
+      "text": "แม้เราจะตระหนักดีว่าภารกิจนี้หาใช่เรื่องง่าย แต่เราจะขอความช่วยเหลือจากกลุ่มไซออนส์เป็นหนทางสุดท้ายเท่านั้น ยามนี้โปรดออมกำลังของพวกท่านไว้ก่อนเถิด"
+    },
+    {
+      "key": "afterallitwasnotsoverylongagothatyouridusofbahamutonwhichnoteiampleasedtoreportthatourtalkswiththeamaljaahavereachedanagreeableconclusiontheyhavepledgedtheirfullsupporttoourcause",
+      "text_en": "After all, it was not so very long ago that you rid us of Bahamut. On which note, I am pleased to report that our talks with the Amalj'aa have reached an agreeable conclusion. They have pledged their full support to our cause.",
+      "text": "อย่างไรเสีย ก็เพิ่งผ่านไปไม่นานเลยที่ท่านช่วยกำจัดบาฮามุทให้พ้นไปจากเรา และเรื่องนี้ เรายินดีที่จะแจ้งว่าการเจรจากับพวกอะมาลจาได้ข้อสรุปอันน่าพึงใจยิ่ง พวกเขาให้คำมั่นว่าจะสนับสนุนพวกเราอย่างเต็มกำลัง"
+    },
+    {
+      "key": "itisourhopethatthishistoricagreementwillencourageothertribestojoinusatthenegotiatingtableandiknowthatispeakforallofthealliedleaderswhenisaythatwewillwelcomethemwithopenarmsatsuchtimeastheydo",
+      "text_en": "It is our hope that this historic agreement will encourage other tribes to join us at the negotiating table. And I know that I speak for all of the Allied leaders when I say that we will welcome them with open arms at such time as they do.",
+      "text": "เราหวังว่าข้อตกลงครั้งประวัติศาสตร์นี้จะกระตุ้นให้เผ่าอื่นๆ มาร่วมโต๊ะเจรจากับเรา และเราแน่ใจว่าตนเองเป็นตัวแทนของผู้นำพันธมิตรทุกคนในการกล่าวว่า เราจะเปิดประตูโอเพนอาร์มส์ต้อนรับพวกเขาเมื่อยามที่เวลานั้นมาถึง"
+    },
+    {
+      "key": "ofcoursethiswasonlymadepossiblebythefeatsofheroismperformedatpaglthanmoreoverweshallnotallowthesacrificesofthosefalleninbattletohavebeenmadeinvainashopeleadstovictoryshallvictoryleadtoanewdawnforeorzea",
+      "text_en": "Of course, this was only made possible by the feats of heroism performed at Paglth'an. Moreover, we shall not allow the sacrifices of those fallen in battle to have been made in vain. As hope leads to victory, shall victory lead to a new dawn for Eorzea.",
+      "text": "แน่นอนว่า เรื่องนี้ย่อมไม่มีวันสำเร็จได้หากปราศจากความกล้าหาญอันยิ่งใหญ่ที่พักส์ฐาน ยิ่งไปกว่านั้น เราจะไม่ยอมให้การเสียสละของเหล่าผู้ล่วงลับในสนามรบต้องสูญเปล่าไปอย่างเด็ดขาด เมื่อความหวังนำไปสู่เรือวิกตอรี เรือวิกตอรีก็จักนำพาเอโอลเซียไปสู่รุ่งอรุณวันใหม่"
+    },
+    {
+      "key": "maythesewordseverbeourguideyourgrace",
+      "text_en": "May these words ever be our guide, Your Grace.",
+      "text": "ขอให้ถ้อยคำเหล่านี้คอยนำทางพวกเราเสมอไป ฝ่าบาท"
+    },
+    {
+      "key": "nowifyouwillforgivemeimustconsultwiththesyndicateonthematterofournewalliesintegrationtillnextwemeetmyfriendsibidyousafetravelsandblessedrespite",
+      "text_en": "Now, if you will forgive me, I must consult with the Syndicate on the matter of our new allies' integration. Till next we meet, my friends, I bid you safe travels and blessed respite.",
+      "text": "เอาละ หากพวกท่านจะอนุญาต เราคงต้องขอตัวไปหารือกับซินดิเคตเรื่องการรับพันธมิตรรายใหม่เข้าร่วมกลุ่มเสียก่อน จนกว่าจะได้พบกันอีก มิตรสหายของเรา ขอให้เดินทางโดยปลอดภัยและได้พักผ่อนอย่างเปี่ยมสุข"
+    },
+    {
+      "key": "ifthereisnoreasontolingeriwilltakemyleave",
+      "text_en": "If there is no reason to linger, I will take my leave.",
+      "text": "หากไม่มีสิ่งใดให้ต้องรั้งอยู่ ข้าขอตัว"
+    },
+    {
+      "key": "amidstthisgreatpushforpeacewiththebeasttribeswewoulddowelltorememberthatoldprejudicesyetremainitisadelicatepoliticaldanceandidonotenvythesultanahertasknoranyallianceleader",
+      "text_en": "Amidst this great push for peace with the beast tribes, we would do well to remember that old prejudices yet remain. It is a delicate political dance, and I do not envy the sultana her task─nor any Alliance leader.",
+      "text": "ท่ามกลางกระแสผลักดันเพื่อสันติภาพกับเหล่าเผ่าอมนุษย์ในยามนี้ เราสมควรตระหนักไว้ว่าอคติเก่าก่อนยังคงหลงเหลืออยู่ เป็นการขับเคลื่อนทางการเมืองที่ละเอียดอ่อนยิ่งนัก และข้ามิได้นึกอิจฉาภารกิจขององค์สุลต่านเลย─รวมถึงผู้นำพันธมิตรคนอื่นๆ ด้วย"
+    },
+    {
+      "key": "alphinaudknowsonlytoowellthatsacrificesareanunavoidablepartofconflict",
+      "text_en": "Alphinaud knows only too well that sacrifices are an unavoidable part of conflict.",
+      "text": "อัลฟิโนด์รู้ดียิ่งกว่าใครว่าการเสียสละเป็นส่วนหนึ่งของความขัดแย้งที่มิอาจหลีกเลี่ยงได้"
+    },
+    {
+      "key": "butknowingsomethingdoesnotchangehowonefeelsaboutityouyourselfhavesharedadventureswitharenvaldhaveyounotthenishallsaynomore",
+      "text_en": "But knowing something does not change how one feels about it. You yourself have shared adventures with Arenvald, have you not? ...Then I shall say no more.",
+      "text": "แต่การรับรู้ความจริงหาได้เปลี่ยนความรู้สึกในใจได้ไม่ ตัวท่านเองก็เคยร่วมผจญภัยกับอารันวาลด์ใช่ไหม... ถ้าอย่างนั้น ฉันคงไม่มีอะไรต้องพูดอีกแล้ว"
+    },
+    {
+      "key": "withthesecretsofthetowersthuslaidbareourdutytopreventfurtherabductionstakethonnewimportfailinthisandourenemyshallpunishournegligencewithaplagueofprimals",
+      "text_en": "With the secrets of the towers thus laid bare, our duty to prevent further abductions taketh on new import. Fail in this and our enemy shall punish our negligence with a plague of primals.",
+      "text": "เมื่อความลับของหอคอยกระจ่างแจ้งแล้ว หน้าที่ป้องกันการลักพาตัวยิ่งทวีความสำคัญ หากพลาดพลั้ง ศัตรูย่อมลงทัณฑ์ความละเลยของพวกเราด้วยฝูงไพรมัล"
+    },
+    {
+      "key": "evenwithoutthethreatoftemperingtocontendwiththegrandcompanieshavequiteataskontheirhands",
+      "text_en": "Even without the threat of tempering to contend with, the Grand Companies have quite a task on their hands.",
+      "text": "ต่อให้ไม่ต้องรับมือกับการครอบงำจิตใจ เหล่าแกรนด์คอมปะนีก็เจองานหนักหนาเอาการ"
+    },
+    {
+      "key": "regardlessofhergracesprotestationstothecontraryitmaybebesttodispatchafewofourowntoassistintheendeavorremindmetomentionittotataruwouldyou",
+      "text_en": "Regardless of Her Grace's protestations to the contrary, it may be best to dispatch a few of our own to assist in the endeavor. Remind me to mention it to Tataru, would you?",
+      "text": "แม้ฝ่าบาทจะทรงทักท้วง แต่ส่งคนบางส่วนไปช่วยเหลือน่าจะดีที่สุด ช่วยเตือนผมให้คุยกับทาทารุทีนะ"
+    },
+    {
+      "key": "thoughwehavewonourfirstbattleagainstthetelophoroiandmadesignificantdiscoveriestobootthewarhasscarcelybegunwemuststeelourselvesforwhatliesahead",
+      "text_en": "Though we have won our first battle against the Telophoroi, and made significant discoveries to boot, the war has scarcely begun. We must steel ourselves for what lies ahead.",
+      "text": "แม้จะชนะศึกแรกกับเทโลฟอรอย และยังได้ค้นพบสิ่งสำคัญเพิ่มเติม แต่สงครามครั้งนี้เพิ่งจะเริ่มต้นขึ้นเท่านั้น ต้องเตรียมใจเผชิญหน้ากับสิ่งที่จะเกิดขึ้นข้างหน้า"
+    },
+    {
+      "key": "rightthenunlessanyonehasanyobjectionsithinkitsabouttimewereturnedtotherisingstones",
+      "text_en": "Right, then. Unless anyone has any objections, I think it's about time we returned to the Rising Stones.",
+      "text": "เอาละ ถ้าไม่มีใครคัดค้าน ฉันว่าได้เวลากลับเดอะ ไรซิง สโตนส์ กันแล้ว"
+    },
+    {
+      "key": "andthatincludesyoualphinaudarenvaldisingoodhandshere",
+      "text_en": "And that includes you, Alphinaud. Arenvald is in good hands here.",
+      "text": "ซึ่งรวมถึงพี่ด้วยนะ อัลฟิโนด์ หมอที่นี่ดูแลอารันวาลด์อย่างดีแล้ว"
+    },
+    {
+      "key": "ofcoursehewoulddoubtlessmockmeforpacingabouttheinfirmary",
+      "text_en": "...Of course. He would doubtless mock me for pacing about the infirmary.",
+      "text": "...นั่นสินะครับ ขืนเอาแต่เดินวนเวียนแถวห้องพยาบาล หมอนั่นคงหัวเราะเยาะแน่"
+    },
+    {
+      "key": "letusretirethenthatwemightregainourstrengthinreadinessforthecomingchallenges",
+      "text_en": "Let us retire, then, that we might regain our strength in readiness for the coming challenges.",
+      "text": "พวกเรากลับไปพักผ่อนกันเถอะครับ จะได้ฟื้นฟูกำลังวังชาเพื่อเตรียมพร้อมรับมือศึกหนักที่กำลังจะมาถึง"
+    },
+    {
+      "key": "ifallareinagreementthenishallletkrileknowtoexpectusahotbathandaheartymealshouldntbebeyondarrangingwiththetimeavailable",
+      "text_en": "If all are in agreement, then, I shall let Krile know to expect us. A hot bath and a hearty meal shouldn't be beyond arranging with the time available.",
+      "text": "ถ้าทุกคนเห็นพ้องต้องกัน ผมจะส่งข่าวบอกครีลให้เตรียมต้อนรับ เวลาที่เหลืออยู่นี้น่าจะพอเตรียมน้ำอุ่นกับอาหารมื้อใหญ่ไว้คอยท่า"
+    },
+    {
+      "key": "itwillbegoodtobehomeihavesomethinkingtodo",
+      "text_en": "It will be good to be home. I have some thinking to do...",
+      "text": "ได้กลับบ้านก็ดีเหมือนกัน ผมมีหลายเรื่องต้องครุ่นคิด..."
+    },
+    {
+      "key": "yesilltryaskinghimandthankyouishalllookforwardtoit",
+      "text_en": "Yes, I'll try asking him. ...And thank you, I shall look forward to it.",
+      "text": "ตกลง ผมจะลองถามเขาดู...และขอบคุณนะ ผมจะตั้งตารอเลย"
+    },
+    {
+      "key": "ourcomradeseagerlyawaitourreturnandkrileinparticularhasafewmatterssheiskeentodiscussoneofwhichconcernsyouestinienbelieveitornotyouwilljoinuswontyou",
+      "text_en": "Our comrades eagerly await our return. And Krile, in particular, has a few matters she is keen to discuss ─ one of which concerns you , Estinien, believe it or not. You will join us, won't you?",
+      "text": "พวกพ้องของพวกเราต่างเฝ้ารอการกลับของพวกเราอย่างใจจดใจจ่อ และโดยเฉพาะครีล เธอมีเรื่องสองสามเรื่องที่อยากจะคุยด้วย ─ และเชื่อหรือไม่ว่าเรื่องหนึ่งเกี่ยวข้องกับนาย เอสทิเนียน นายจะไปด้วยกันใช่ไหม"
+    },
+    {
+      "key": "fine",
+      "text_en": "...Fine.",
+      "text": "...ก็ได้"
+    },
+    {
+      "key": "reallyithoughtyousaidyouwereavoidingthatbaldesionwoman",
+      "text_en": "...Really? I thought you said you were avoiding “that Baldesion woman.”",
+      "text": "...จริงหรือครับ ผมนึกว่าคุณบอกว่าจะหลบหน้า 'ผู้หญิงบัลเดเชียนคนนั้น' เสียอีก"
+    },
+    {
+      "key": "ifirefusedshewouldonlypursueme",
+      "text_en": "If I refused, she would only pursue me.",
+      "text": "ถ้าปฏิเสธ ยายคนนั้นก็คงเอาแต่ตามตื๊อไม่เลิก"
+    },
+    {
+      "key": "letsgetthisoverwithshallwe",
+      "text_en": "Let's get this over with, shall we?",
+      "text": "รีบไปจัดการให้มันจบๆ ไปกันเถอะ"
+    },
+    {
+      "key": "welcomebackiexpectyoumustallbeexhaustedereyoutakeyourresthoweveriwouldbegamomentofyourtime",
+      "text_en": "Welcome back. I expect you must all be exhausted. Ere you take your rest, however, I would beg a moment of your time.",
+      "text": "ยินดีต้อนรับกลับมา ทุกคนคงจะเหนื่อยล้ากันมากแล้ว แต่ก่อนจะพักผ่อนกัน ฉันขอเวลาของทุกคนสักครู่เถอะนะ"
+    },
+    {
+      "key": "thankstoarenvaldsselflesseffortswemaynowbeconfidentthatweunderstandthefunctionofthetowersbutmanyquestionsremainregardingthereasonforthesummoningsandwhatlurksbehindtheloomingedificeingarlemald",
+      "text_en": "Thanks to Arenvald's selfless efforts, we may now be confident that we understand the function of the towers. But many questions remain regarding the reason for the summonings and what lurks behind the looming edifice in Garlemald.",
+      "text": "ด้วยความเสียสละของอารันวาลด์ ตอนนี้พวกเราจึงมั่นใจได้ว่าพวกเราเข้าใจการทำงานของหอคอยเหล่านั้นแล้ว แต่ยังมีคำถามอีกมากเกี่ยวกับเหตุผลในการอัญเชิญ และสิ่งชั่วร้ายที่ซ่อนอยู่เบื้องหลังสิ่งก่อสร้างมหึมาในการ์เลมัลด์"
+    },
+    {
+      "key": "untilsuchquestionsareansweredwewillstruggletodeviseaneffectivestrategyforthwartingthetelophoroisstatedaimnothinglessthanthedestructionofthisstarandsogiventhegravityofthesituationimovethatwepetitiontheaidofsharlayan",
+      "text_en": "Until such questions are answered, we will struggle to devise an effective strategy for thwarting the Telophoroi's stated aim: nothing less than the destruction of this star. And so, given the gravity of the situation...I move that we petition the aid of Sharlayan.",
+      "text": "ตราบใดที่ยังไม่ได้คำตอบเหล่านั้น พวกเราคงยากที่จะคิดค้นกลยุทธ์ที่มีประสิทธิภาพเพื่อขัดขวางเป้าหมายของพวกเทโลฟอรอย ซึ่งก็คือการทำลายล้างดวงดาวดวงนี้ และด้วยสถานการณ์ที่ตึงเครียดเช่นนี้...ฉันขอเสนอให้พวกเราขอความช่วยเหลือจากชาร์ลาแยน"
+    },
+    {
+      "key": "tispossibletheancientknowledgepreservedwithintheirarchivesmayhideacluetoourenemysmethodsbutgivensharlayansestablishedpolicyofnoninterventionourformercolleaguesarenotliketoaidusinitsdiscovery",
+      "text_en": "'Tis possible the ancient knowledge preserved within their archives may hide a clue to our enemy's methods. But given Sharlayan's established policy of nonintervention, our former colleagues are not like to aid us in its discovery.",
+      "text": "มีความเป็นไปได้ว่าความรู้โบราณซึ่งถูกเก็บรักษาไว้ในหอจดหมายเหตุของพวกเขาอาจซ่อนคำใบ้เกี่ยวกับวิถีของศัตรูเอาไว้ ทว่าด้วยนโยบายวางเฉยไม่เข้าแทรกแซงอันมั่นคงของชาร์ลาแยน อดีตสหายร่วมงาน of พวกเราคงมิยินยอมช่วยไขปริศนานี้โดยง่าย"
+    },
+    {
+      "key": "ohiwellrememberwhattheyreliketheforumsbarefacedrefusaltoassistyouinthedayspriortothecalamitymustrankassharlayansmostshamefulactsincetheexodus",
+      "text_en": "Oh, I well remember what they're like. The Forum's barefaced refusal to assist you in the days prior to the Calamity must rank as Sharlayan's most shameful act since the exodus.",
+      "text": "โอย ฉันจำได้ดีเชียวละว่าคนพวกนั้นเป็นอย่างไร การที่สภาฟอรัมปฏิเสธอย่างหน้าด้านๆ ว่าจะไม่ยอมช่วยเหลือในช่วงก่อนเกิดมหันตภัย ถือเป็นเรื่องน่าอับอายที่สุดของชาร์ลาแยนนับตั้งแต่การอพยพครั้งใหญ่เลยทีเดียว"
+    },
+    {
+      "key": "butwerethefinaldaystobereenacteditwouldspelldoomforusallsurelyeventheycannotturnablindeyetothat",
+      "text_en": "But were the Final Days to be reenacted, it would spell doom for us all. Surely even they cannot turn a blind eye to that.",
+      "text": "แต่หากวันสิ้นโลกอุบัติซ้ำรอยขึ้นมาอีกครั้ง ย่อมหมายถึงความพินาศของพวกเราทุกคน ถึงอย่างไรพวกเขาก็คงไม่อาจนิ่งดูดายกับเรื่องนี้ได้แน่"
+    },
+    {
+      "key": "itrustweareallofthesamemindonthismatterurgentasitseemeditookthelibertyofpetitioningtheallianceforleavetoactaseorzeasemissaryandhavesincereceivedtheirblessing",
+      "text_en": "I trust we are all of the same mind on this matter... Urgent as it seemed, I took the liberty of petitioning the Alliance for leave to act as Eorzea's emissary. And have since received their blessing.",
+      "text": "ฉันเชื่อว่าพวกเราทุกคนคงเห็นพ้องต้องกันในเรื่องนี้... ด้วยสถานการณ์เร่งด่วน ฉันจึงถือวิสาสะขออนุญาตจากกองกำลังพันธมิตรเพื่อทำหน้าที่เป็นผู้นำสารของเอโอลเซีย ซึ่งตอนนี้ได้รับความยินยอมจากพวกเขาแล้ว"
+    },
+    {
+      "key": "ipresumeyourroleasastudentofbaldesionwillcarrysomeweightwiththeforum",
+      "text_en": "I presume your role as a Student of Baldesion will carry some weight with the Forum?",
+      "text": "ฉันคิดว่าฐานะศิษย์แห่งบัลเดเชียนของเธอน่าจะพอมีน้ำหนักอยู่บ้างในสภาฟอรัมใช่ไหม"
+    },
+    {
+      "key": "onecanbuthopeiftruthbetoldourorganizationhasbeenashadowofitsformerselfeversincethedisappearanceoftheisleofvalbutthenamedoesstillretainsomedegreeofprestigeionlyprayitwillbeenough",
+      "text_en": "One can but hope. If truth be told, our organization has been a shadow of its former self ever since the disappearance of the Isle of Val ─ but the name does still retain some degree of prestige. I only pray it will be enough.",
+      "text": "ก็ได้แต่หวังอย่างนั้นแหละ พูดกันตามตรง นับตั้งแต่เกาะแห่งวาลสาบสูญไป คณะของพวกเราก็แทบไม่หลงเหลือความยิ่งใหญ่ในอดีตอีกเลย แต่ถึงอย่างนั้น ชื่อนี้ก็ยังพอมีเกียรติภูมิหลงเหลืออยู่บ้าง ฉันได้แต่สวดอ้อนวอนขอให้มันเพียงพอ"
+    },
+    {
+      "key": "iftherearenoobjectionsishalldepartforsharlayanatoncebutbeforeidoishouldalsomentiontheothermattertowhichiwoulddevotesometimeduringmystay",
+      "text_en": "If there are no objections, I shall depart for Sharlayan at once. But before I do, I should also mention the other matter to which I would devote some time during my stay.",
+      "text": "หากไม่มีใครคัดค้าน ฉันจะออกเดินทางไปชาร์ลาแยนทันที แต่ก่อนจะไป ฉันขอพูดถึงอีกเรื่องหนึ่งที่ตั้งใจจะใช้เวลาสืบดูในระหว่างที่พักอยู่ที่นั่นเสียหน่อย"
+    },
+    {
+      "key": "afterhearingwhattranspiredinthefirstibegantoquestionthetruenatureofhydaelynsblessingatopicihavediscussedatsomelengthwithyshtola",
+      "text_en": "After hearing what transpired in the First, I began to question the true nature of Hydaelyn's blessing. A topic I have discussed at some length with Y'shtola...",
+      "text": "หลังจากได้ฟังเรื่องราวที่เกิดขึ้นในโลกที่หนึ่ง ก็เริ่มสงสัยในแก่นแท้ของพรแห่งไฮเดลิน... ซึ่งเรื่องนี้ได้คุยกับยาชโตล่าเสียยืดยาวเชียวล่ะ"
+    },
+    {
+      "key": "wewerewonderingwhenwasthelasttimehydaelynspoketoyoudirectly",
+      "text_en": "We were wondering: when was the last time Hydaelyn spoke to you directly?",
+      "text": "พวกเราสงสัยว่า ครั้งสุดท้ายที่ไฮเดลินตรัสกับคุณโดยตรงคือเมื่อใดกัน"
+    },
+    {
+      "key": "whenyouregainedherblessingwasitnotbutneversincenotinallyourtimeinthefirstwhenyoufacedtheunsunderedtheveryheartofzodiark",
+      "text_en": "When you regained Her blessing, was it not? But never since ─ not in all your time in the First, when you faced the unsundered, the very heart of Zodiark.",
+      "text": "ตอนที่ได้รับพรจากพระนางกลับคืนมาใช่ไหมล่ะ แต่จากนั้นก็ไม่เคยเกิดขึ้นอีกเลย... ไม่ว่าจะตลอดเวลาที่อยู่ในโลกที่หนึ่ง หรือตอนเผชิญหน้ากับร่างอันไม่แตกสลายที่เป็นดั่งหัวใจของโซดิอาร์กก็ตาม"
+    },
+    {
+      "key": "whenelidibussoughttomakewarriorsoflightthatwasthevoicewhichcallsconstantlytoallwhomighthearitispokeofdirectcommunicationwhenhydaelyncommunedsolelywithyouafarrareroccurrence",
+      "text_en": "When Elidibus sought to make Warriors of Light? That was the voice which calls constantly to all who might hear it. I spoke of direct communication, when Hydaelyn communed solely with you. A far rarer occurrence.",
+      "text": "ตอนที่เอลิดิบุสพยายามสร้างนักรบแห่งแสงน่ะหรือ นั่นเป็นเพียงเสียงที่เพรียกหาทุกคนที่พอจะรับฟังได้อยู่ตลอดเวลาต่างหาก แต่ฉันหมายถึงการสื่อสารโดยตรงที่ไฮเดลินตรัสกับคุณเพียงลำพัง ซึ่งเป็นเรื่องที่เกิดขึ้นได้ยากยิ่งกว่านั้นมาก"
+    },
+    {
+      "key": "isthequestiontrulysovexingperhapsyoufeariwillchastiseyouforgivingthewronganswerorwasitsolongagothatyousimplycantremember",
+      "text_en": "Is the question truly so vexing? Perhaps you fear I will chastise you for giving the wrong answer? Or was it so long ago that you simply can't remember...",
+      "text": "คำถามนี้ชวนให้ลำบากใจนักหรือ หรือเกรงว่าฉันจะตำหนิหากตอบผิด หรือเรื่องราวล่วงเลยมานานเสียจนจำไม่ได้แล้ว..."
+    },
+    {
+      "key": "historyshowsusthathydaelynisabletoawakentheechoinherchosenconveyherwilldirectlyandgranttheblessingoflight",
+      "text_en": "History shows us that Hydaelyn is able to awaken the Echo in Her chosen, convey Her will directly, and grant the blessing of Light.",
+      "text": "ประวัติศาสตร์จารึกไว้ว่าไฮเดลินทรงปลุกเอคโค่ในตัวผู้ที่พระนางเลือก สื่อเจตจำนงของพระนางโดยตรง และมอบพรแห่งแสงสว่าง"
+    },
+    {
+      "key": "toourknowledgehowevershehasnotsoughttointerveneinmansaffairsforsomeconsiderabletime",
+      "text_en": "To our knowledge, however, She has not sought to intervene in man's affairs for some considerable time.",
+      "text": "ทว่าเท่าที่เรารู้ พระนางไม่ได้ก้าวเข้ามาแทรกแซงเรื่องราวของมนุษย์มานานทีเดียว"
+    },
+    {
+      "key": "mightnottheexplanationforthatliewithherchoiceofchampionmayhapsheiscontenttotrustinhisjudgment",
+      "text_en": "Might not the explanation for that lie with Her choice of champion? Mayhap She is content to trust in his judgment.",
+      "text": "หรือเหตุผลของเรื่องนี้จะอยู่ที่ผู้กล้าที่พระนางเลือกสรร บางทีอาจทรงพอพระทัยที่จะเชื่อมั่นในการตัดสินใจของเขาก็เป็นได้"
+    },
+    {
+      "key": "mayhapsheisbutfollowingmyinitialdiscussionwithkrileimadeinquiriesofmyownandasfarasiamabletotellhydaelynhasnotmadeherwillknowntoanyone",
+      "text_en": "Mayhap She is. But following my initial discussion with Krile, I made inquiries of my own, and as far as I am able to tell, Hydaelyn has not made Her will known to anyone.",
+      "text": "อาจจะจริงอย่างนั้น ทว่าหลังจากได้หารือกับครีลในตอนแรก ฉันก็สืบหาข้อมูลด้วยตัวเอง และเท่าที่บอกได้ ไฮเดลินไม่ได้แสดงเจตจำนงของพระนางให้ใครรับรู้อีกเลย"
+    },
+    {
+      "key": "duringmytimeinthefirsttheoracleoflightspoketomethroughrynebutthatwasnotthewillofhydaelynitwasminfiliaherself",
+      "text_en": "During my time in the First, the Oracle of Light spoke to me through Ryne. But that was not the will of Hydaelyn. It was Minfilia herself.",
+      "text": "ตอนที่ผมอยู่ในโลกที่หนึ่ง ผู้พยากรณ์แห่งแสงพูดกับผมผ่านริน แต่นั่นไม่ใช่เจตจำนงของไฮเดลิน เป็นมินฟิเลียเองต่างหาก"
+    },
+    {
+      "key": "indeedandwhilesheandhydaelynwereinextricablylinkedminfiliayetactedofherownvolitionamessengeryesbutonewhospokewithherownvoice",
+      "text_en": "Indeed. And while she and Hydaelyn were inextricably linked, Minfilia yet acted of her own volition. A messenger, yes, but one who spoke with her own voice.",
+      "text": "จริงแท้ และแม้เธอและไฮเดลินจะผูกพันกันจนไม่อาจแยกจาก แต่มินฟิเลียก็ยังทำตามเจตนารมณ์ของตนเอง เป็นผู้นำสารก็จริงอยู่ ทว่าพูดด้วยน้ำเสียงของเธอเอง"
+    },
+    {
+      "key": "iwondercouldhydaelynssilencesuggestthepresenceofsomedisruptiveforceperhapssomeobstacletocommunicationwhileishareuriangershighopinionofyourconductiseenoreasonwhyshewoulddenyyouherguidancealtogether",
+      "text_en": "I wonder, could Hydaelyn's silence suggest the presence of some disruptive force, perhaps? Some obstacle to communication? While I share Urianger's high opinion of your conduct, I see no reason why She would deny you Her guidance altogether.",
+      "text": "สงสัยว่าการที่ไฮเดลินเงียบเสียงไปเช่นนี้ จะเป็นเพราะมีพลังรบกวนบางอย่างหรือเปล่านะ หรืออาจมีอุปสรรคขัดขวางการสื่อสาร แม้จะเห็นพ้องกับยูริอองเจย์เรื่องความประพฤติอันยอดเยี่ยมของเธอ แต่ก็ไม่มีเหตุผลเลยที่พระนางจะตัดขาดการชี้นำไปเสียดื้อๆ เช่นนี้"
+    },
+    {
+      "key": "thenagainwhoamitosaythefactiswesimplydontknowbutiftheexplanationistobefoundanywhereicanthinkofworseplacestolookthanthearchivesofsharlayanandtheirresearchontheaetherialseainparticular",
+      "text_en": "Then again, who am I to say? The fact is, we simply don't know. But if the explanation is to be found anywhere, I can think of worse places to look than the archives of Sharlayan ─ and their research on the aetherial sea in particular.",
+      "text": "แต่ก็นั่นแหละ ฉันจะไปรู้อะไรดีไปกว่านี้เล่า ความจริงก็คือเราไม่รู้เลยสักนิด ทว่าหากจะหาคำอธิบายจากที่ใดสักแห่ง หอจดหมายเหตุแห่งชาร์ลาแยนก็นับว่าเป็นทางเลือกที่ไม่เลวเลยทีเดียว โดยเฉพาะรายงานวิจัยเรื่องทะเลเอเธอร์นั่นน่ะ"
+    },
+    {
+      "key": "resolvedthoughiamtogobelievemewhenisaythatitakenopleasureinthethoughtofleavingyouamembershortnowofalltimes",
+      "text_en": "Resolved though I am to go, believe me when I say that I take no pleasure in the thought of leaving you a member short. Now of all times.",
+      "text": "ถึงจะตั้งใจแน่วแน่ว่าจะไป แต่เชื่อเถอะว่าไม่ได้ยินดีเลยที่ต้องปล่อยให้ขาดคนไปคนหนึ่ง โดยเฉพาะอย่างยิ่งในยามนี้"
+    },
+    {
+      "key": "estinienwestandontheeveofastrugglethatwilldecidethefateofthisstaroneinwhichwescionsmayplayatellingpartyetwearebutfewinnumber",
+      "text_en": "Estinien ─ we stand on the eve of a struggle that will decide the fate of this star. One in which we Scions may play a telling part. Yet we are but few in number.",
+      "text": "เอสทินีล—เรากำลังอยู่ก่อนวันเปิดฉากศึกใหญ่ที่จะตัดสินชะตากรรมของดวงดาวดวงนี้ ศึกที่พวกเราไซออนส์มีบทบาทสำคัญ ทว่าพวกเรากลับมีกำลังคนเพียงหยิบมือเดียว"
+    },
+    {
+      "key": "andsoimustaskyouagainwillyoujoinus",
+      "text_en": "And so I must ask you again: will you join us?",
+      "text": "เพราะอย่างนั้น ฉันจึงต้องถามนายอีกครั้ง จะมาร่วมทางกับพวกเราไหม"
+    },
+    {
+      "key": "youseetheworldthewayyouwantittobeiseetheworldthewayitisyouareidealistictoafault",
+      "text_en": "You see the world the way you want it to be. I see the world the way it is. You are idealistic to a fault.",
+      "text": "นายมองโลกอย่างที่ใจอยากให้เป็น แต่ข้ามองโลกตามความจริง นายมันเพ้อฝันเกินเยียวยา"
+    },
+    {
+      "key": "butiknowyouwouldneverturnyourbackonthoseinneednevercloseyoureyestotheirsufferingandsomehowyourdeedslendtruthtoyourwordsgivingthelietomydoubtsinsodoing",
+      "text_en": "But I know you would never turn your back on those in need. Never close your eyes to their suffering. And somehow, your deeds lend truth to your words, giving the lie to my doubts in so doing.",
+      "text": "แต่ข้ารู้ว่านายไม่มีวันหันหลังให้ผู้ที่เดือดร้อน ไม่มีวันปิดตาต่อความทุกข์ยากของพวกเขา และการกระทำของนายก็ทำให้พระวจนะเป็นจริงขึ้นมา ช่วยลบล้างความคลางแคลงใจของข้าจนหมดสิ้น"
+    },
+    {
+      "key": "ihaveseenothersdrawstrengthfromyourbeliefinishgardinalamhigoyouinspiredthemtostandupandfighttowinnoless",
+      "text_en": "I have seen others draw strength from your belief. In Ishgard, in Ala Mhigo. You inspired them to stand up and fight. To win, no less.",
+      "text": "ข้าเคยเห็นคนอื่นได้รับพลังจากความเชื่อมั่นของนาย ทั้งในอิชการ์ดและอลา มิโก นายบันดาลใจให้พวกเขาลุกขึ้นสู้ และคว้าชัยชนะมาได้อีกต่างหาก"
+    },
+    {
+      "key": "andevenwhenyoulostthoseyouhelddearyoucarriedtheirspiritwithyouandmadetheirmemoryyourguidinglighttheburdenofsomanyhopesanddreamswouldbetooheavyformosttobear",
+      "text_en": "And even when you lost those you held dear, you carried their spirit with you, and made their memory your guiding light. The burden of so many hopes and dreams would be too heavy for most to bear.",
+      "text": "และต่อให้นายต้องสูญเสียคนที่รักไป นายก็ยังโอบอุ้มจิตวิญญาณของพวกเขาไว้ และทำให้ความทรงจำเหล่านั้นเป็นแสงสว่างนำทาง ภาระจากความหวังและความฝันอันมากมายเช่นนี้หนักหนาเกินกว่าที่คนส่วนใหญ่จะแบกรับไหว"
+    },
+    {
+      "key": "butyoubearitwillinglyasyouhaveshownmesomedreamsaretooimportanttoletgo",
+      "text_en": "But you bear it willingly. As you have shown me, some dreams are too important to let go.",
+      "text": "แต่นายก็ยินดีแบกมันไว้ เหมือนอย่างที่นายแสดงให้ข้าเห็นว่า ความฝันบางอย่างนั้นสำคัญเกินกว่าจะปล่อยมือ"
+    },
+    {
+      "key": "ifyouhaveneedofmystrengthitsyoursafterallyouvedonehowcouldirefuse",
+      "text_en": "If you have need of my strength, it's yours. After all you've done, how could I refuse?",
+      "text": "หากนายต้องการพลังของข้า มันก็เป็นของนาย หลังจากทุกอย่างที่นายทำลงไป ข้าจะปฏิเสธลงได้อย่างไร"
+    },
+    {
+      "key": "thankyouestinien",
+      "text_en": "Thank you, Estinien...",
+      "text": "ขอบคุณครับ เอสทินีล..."
+    },
+    {
+      "key": "whateverchallengesawaitusishallnotfalteryouhavemyword",
+      "text_en": "Whatever challenges await us, I shall not falter. You have my word.",
+      "text": "ไม่ว่าอุปสรรคใดจะรออยู่ข้างหน้า ผมจะไม่มีวันย่อท้อ ขอให้พระวจนะของผมเป็นประกัน"
+    },
+    {
+      "key": "andnowimaybidyoufarewellsafeintheknowledgethatallisasitshouldbeinthislittlecorneroftheworldatleast",
+      "text_en": "And now I may bid you farewell, safe in the knowledge that all is as it should be ─ in this little corner of the world at least.",
+      "text": "เอาละ ฉันคงต้องบอกลาพวกเธอเสียที อย่างน้อยก็เบาใจได้ว่าทุกอย่างเรียบร้อยดี—อย่างน้อยก็ในมุมเล็กๆ ของโลกนี้ละนะ"
+    },
+    {
+      "key": "youwillbesorelymissedtreadwarilyinsharlayananddotrynottolettheforumembroilyouintheirpoliticsaforlornhopeiknowgiventheindividualsinvolved",
+      "text_en": "You will be sorely missed. Tread warily in Sharlayan...and do try not to let the Forum embroil you in their politics. A forlorn hope, I know, given the individuals involved...",
+      "text": "พวกเราคงคิดถึงพี่แย่ เดินทางไปชาร์ลาแยนอย่างระมัดระวังนะครับ... แล้วก็พยายามอย่าปล่อยให้สภาฟอรัมลากเข้าไปพัวพันกับเรื่องการเมืองของพวกเขาเด็ดขาด ถึงผมจะรู้ว่าเป็นความหวังที่ริบหรี่เหลือเกินเมื่อนึกถึงคนพวกนั้นก็เถอะ..."
+    },
+    {
+      "key": "ishalldomyverybestfarewell",
+      "text_en": "I shall do my very best. Farewell.",
+      "text": "ฉันจะพยายามอย่างที่สุดจ้ะ ลาก่อนนะ"
+    },
+    {
+      "key": "welldoesthisonemeetwithyourapproval",
+      "text_en": "Well? Does this one meet with your approval?",
+      "text": "เป็นอย่างไรขอรับ ร่างนี้พอจะถูกใจท่านบ้างไหม"
+    },
+    {
+      "key": "apparentlynotorcoulditbethatyourestillupsetaboutthedragons",
+      "text_en": "Apparently not. Or...could it be that you're still upset about the dragons?",
+      "text": "ดูท่าจะไม่ใช่แฮะ... หรือว่าท่านยังขุ่นเคืองเรื่องพวกมังกรไม่หายขอรับ"
+    },
+    {
+      "key": "youareunwisetoremindmeofsocostlyafailure",
+      "text_en": "You are unwise to remind me of so costly a failure.",
+      "text": "เจ้าช่างไม่ฉลาดเลยที่เตือนใจเราถึงความล้มเหลวอันแสนแพงเช่นนั้น"
+    },
+    {
+      "key": "itwillnotaffectourplansitrust",
+      "text_en": "It will not affect our plans, I trust.",
+      "text": "เราหวังว่ามันจะไม่กระทบต่อแผนการของเรานะ"
+    },
+    {
+      "key": "ohhardlyatallthoughadmittedlythechancesofusbeingabletoprocureanymoremeracydiandragonsareratherslimmerfollowingtiamatsreappearance",
+      "text_en": "Oh, hardly at all. Though, admittedly, the chances of us being able to procure any more Meracydian dragons are rather slimmer following Tiamat's reappearance.",
+      "text": "โอ้ แทบไม่กระทบเลยขอรับ แม้ต้องยอมรับตามตรงว่าโอกาสที่เราจะจัดหามังกรเมราซิเดียเพิ่มได้อีกนั้นช่างริบหรี่ลงถนัดตาหลังจากเทียแมตปรากฏตัวขึ้นมาอีกครั้ง"
+    },
+    {
+      "key": "buttheseedshavebeensownmylordwehaveonlytowaitforthemtoquicken",
+      "text_en": "But the seeds have been sown, my lord! We have only to wait for them to quicken.",
+      "text": "แต่เราก็หว่านเมล็ดพันธุ์ลงไปแล้วนะขอรับนายท่าน! ที่เหลือก็เพียงแค่รอให้มันเติบโตงอกงามขึ้นมาเท่านั้น"
+    },
+    {
+      "key": "speakingofpreparationsisitsafetoassumethatyouwillbereadytocontrolyouknowwhat",
+      "text_en": "Speaking of preparations, is it safe to assume that you will be ready to control you-know-what?",
+      "text": "พูดถึงเรื่องการเตรียมการ คงวางใจได้ใช่ไหมขอรับว่าท่านพร้อมจะควบคุม 'สิ่งที่คุณก็รู้ว่าคืออะไร' แล้ว"
+    },
+    {
+      "key": "thehourdrawsnighthisnationforgedforascianendswillfinallyproveitsworth",
+      "text_en": "The hour draws nigh. This nation, forged for Ascian ends, will finally prove its worth.",
+      "text": "เวลาใกล้เข้ามาแล้ว ประเทศที่สร้างขึ้นเพื่อเป้าหมายของพวกแอสเซียนนี้ ในที่สุดก็จะได้พิสูจน์คุณค่าเสียที"
+    },
+    {
+      "key": "amightyempirenownomorethananinstrumentofthisstarsdestructionwhatapleasureitwillbetoputittouse",
+      "text_en": "A mighty Empire, now no more than an instrument of this star's destruction! What a pleasure it will be to put it to use!",
+      "text": "จักรวรรดิอันเกรียงไกร บัดนี้เป็นเพียงเครื่องมือทำลายล้างดวงดาวดวงนี้เท่านั้น! ช่างเป็นเรื่องน่ายินดียิ่งนักที่จะได้ใช้งานมัน!"
+    },
+    {
+      "key": "whichbringsmebacktoourearliertopicmylordwhileiappreciatethatitisnotaneasydecisionitreallyispasttimeyouchoseyourweapon",
+      "text_en": "Which brings me back to our earlier topic. My lord ─ while I appreciate that it is not an easy decision, it really is past time you chose your weapon.",
+      "text": "ซึ่งนำข้ากลับมาสู่หัวข้อพูดคุยก่อนหน้านี้ ฝ่าบาท ─ แม้ข้าจะเข้าใจดีว่าไม่ใช่เรื่องที่ตัดสินใจได้ง่ายๆ แต่ก็ล่วงเลยเวลาที่ท่านต้องเลือกอาวุธคู่กายมานานแล้วนะขอรับ"
+    },
+    {
+      "key": "thereisonethatihavebeenmeaningtotest",
+      "text_en": "There is one that I have been meaning to test...",
+      "text": "เราเล็งอาวุธชิ้นหนึ่งที่ตั้งใจจะทดสอบไว้แล้ว..."
+    },
+    {
+      "key": "wellwellnotquitewhatiwasexpectingthoughiwillsayitdoesseemratherapt",
+      "text_en": "Well, well... Not quite what I was expecting. Though I will say, it does seem rather apt.",
+      "text": "แหม แหม... ผิดคาดจากที่คิดไว้ไปหน่อย แต่ข้าก็ต้องบอกว่ามันดูเหมาะสมดีทีเดียว"
+    },
+    {
+      "key": "ifiamtopursuethiscourseimustbepreparedforthehardshipsthatlieahead",
+      "text_en": "If I am to pursue this course, I must be prepared for the hardships that lie ahead.",
+      "text": "หากผมคิดจะเดินตามเส้นทางนี้ ก็ต้องเตรียมใจรับความยากลำบากที่รออยู่เบื้องหน้าให้พร้อม"
+    },
+    {
+      "key": "ifyouveneedofmylanceillbereadyifnotillbereservingmystrengthinpreparationofthenextbattle",
+      "text_en": "If you've need of my lance, I'll be ready. If not, I'll be reserving my strength in preparation of the next battle.",
+      "text": "หากต้องการหอกของข้า ข้าก็พร้อมเสมอ แต่ถ้าไม่ ข้าจะเก็บออมพละกำลังไว้เตรียมพร้อมรับศึกครั้งต่อไป"
+    },
+    {
+      "key": "butsinceyourehereihaveaquestionthescionsareinclosecontactwiththeeastaldenardtradingcompanyofkuganeyesiwaswonderingiftheycouldplaceanorderforsomesundriedsquididontseemtobeabletofinditintheseparts",
+      "text_en": "But since you're here, I have a question. The Scions are in close contact with the East Aldenard Trading Company of Kugane, yes? I was wondering if they could place an order for some sun-dried squid. I don't seem to be able to find it in these parts.",
+      "text": "แต่ไหนๆ ก็มาแล้ว มีเรื่องอยากถามหน่อย กลุ่มไซออนส์ติดต่อใกล้ชิดกับบริษัทการค้าอัลเดนาร์ดตะวันออกแห่งคุกาเนะใช่ไหมล่ะ กำลังคิดอยู่พอดีว่าพวกเขาจะช่วยสั่งซื้อปลาหมึกตากแห้งด้วยแสงสุริยะให้สักหน่อยได้ไหม แถวนี้หาซื้อไม่ได้เลยจริงๆ"
+    },
+    {
+      "key": "thoughweknownotthefullextentofthetelophoroisschemespreventingfurtherabductionsmusttakeprecedenceaboveallelseforthereinlieththekeytodeprivingourenemyofitsmostpotentweapon",
+      "text_en": "Though we know not the full extent of the Telophoroi's schemes, preventing further abductions must take precedence above all else, for therein lieth the key to depriving our enemy of its most potent weapon.",
+      "text": "แม้พวกเราจักมิอาจล่วงรู้ถึงแผนการทั้งหมดของพวกเทโลฟอรอย ทว่าการป้องกันมิให้มีการลักพาตัวผู้คนไปมากกว่านี้ย่อมต้องเป็นสิ่งสำคัญเหนืออื่นใด เพราะกุญแจที่จะพรากอาวุธทรงอานุภาพที่สุดไปจากศัตรูของเรานั้นไซร้ ย่อมซ่อนอยู่ ณ ที่แห่งนั้นเอง"
+    },
+    {
+      "key": "thesuddenappearanceofthetowerswillsurelynothaveescapedtheforumsnoticeiwouldliketothinktheywouldbereceptivetokrilesrequestforcooperationininvestigatingthematterbutunfortunatelytheirreputationwouldsuggestotherwise",
+      "text_en": "The sudden appearance of the towers will surely not have escaped the Forum's notice. I would like to think they would be receptive to Krile's request for cooperation in investigating the matter, but unfortunately, their reputation would suggest otherwise.",
+      "text": "หอคอยที่ผุดขึ้นมาอย่างกะทันหันย่อมไม่อาจเล็ดลอดสายตาของสภาฟอรัมไปได้แน่ ผมอยากจะเชื่อว่าพวกเขาจะยอมรับคำขอความร่วมมือของครีลเพื่อสืบสวนเรื่องนี้ แต่โชคร้ายที่ชื่อเสียงของพวกเขากลับชวนให้คิดเป็นอื่น"
+    },
+    {
+      "key": "itstrikesmeasoddthatratherthanmarchingononeofthecitystatesthetelophoroihavesofarmadeonlysporadicattacksidoubttheydgotothetroubleofputtingupallofthosetowersifthatwasalltheyhadinstoreforus",
+      "text_en": "It strikes me as odd that rather than marching on one of the city-states, the Telophoroi have so far made only sporadic attacks. I doubt they'd go to the trouble of putting up all of those towers if that was all they had in store for us.",
+      "text": "ผมคิดว่ามันแปลกพิกล แทนที่พวกเทโลฟอรอยจะกรีธาทัพเข้าถล่มนครรัฐสักแห่ง กลับทำเพียงแค่ลอบโจมตีเป็นพักๆ เท่านั้น ผมไม่คิดว่าพวกนั้นจะยอมยุ่งยากสร้างหอคอยพวกนั้นขึ้นมาทั้งหมด หากเตรียมการไว้เล่นงานพวกเราเพียงเท่านี้"
+    },
+    {
+      "key": "nonecandenythathydaelynsblessinghasbeenagreatboontoourcausebutmuchremainsunknownwithregardtohertrueintentions",
+      "text_en": "None can deny that Hydaelyn's blessing has been a great boon to our cause, but much remains unknown with regard to Her true intentions.",
+      "text": "ไม่มีใครปฏิเสธได้ว่าพรอันประเสริฐของไฮเดลินเกื้อหนุนหนทางของพวกเราได้มากเหลือเกิน ทว่าเจตจำนงที่แท้จริงของพระองค์ยังคงมีปริศนาอีกมากมายที่เรามิอาจล่วงรู้"
+    },
+    {
+      "key": "giveneverythingwehavelearnedfromourencounterswiththeascianswemustkeepourmindsopentoanyandallpossibilities",
+      "text_en": "Given everything we have learned from our encounters with the Ascians, we must keep our minds open to any and all possibilities.",
+      "text": "เมื่อคำนึงถึงสิ่งที่เราได้เรียนรู้จากการเผชิญหน้ากับพวกแอสเซียนแล้ว พวกเราย่อมต้องเปิดใจรับฟังและเผชิญหน้ากับความเป็นไปได้ทุกประการ"
+    },
+    {
+      "key": "amidstallthefightingitseasytoforgetwhatweveachievedisntitimeanwecuredtiamattiamatforheavenssakeyouwilltellmeifibecomeinsufferablysmugwontyoubecausethewaythingsaregoingitfeelslikeadefinitepossibility",
+      "text_en": "Amidst all the fighting, it's easy to forget what we've achieved, isn't it? I mean...we cured Tiamat. Tiamat , for heavens' sake!...You will tell me if I become insufferably smug, won't you? Because the way things are going, it feels like a definite possibility.",
+      "text": "ในระหว่างการต่อสู้อันสับสนวุ่นวายนี้ มันง่ายมากที่จะลืมเลือนสิ่งที่เราทำสำเร็จไปใช่ไหมล่ะ ฉันหมายถึง...พวกเราเคียวเทียแมตสำเร็จเชียวนะ เทียแมตเชียวนะคุณพระช่วย!...เธอช่วยเตือนฉันหน่อยนะถ้าฉันเริ่มลำพองใจจนน่าเกลียดน่ะ เพราะดูท่าว่ามันจะเป็นเช่นนั้นแน่ๆ"
+    },
+    {
+      "key": "wevesentcoultenetandtheotherstobeoureyesandearsinthefieldwhereverthetelophoroiappearnextwellbeamongthefirsttoknow",
+      "text_en": "We've sent Coultenet and the others to be our eyes and ears in the field. Wherever the Telophoroi appear next, we'll be among the first to know.",
+      "text": "พวกเราส่งโคลเทอเนต์กับคนอื่นๆ ไปคอยเป็นตาและหูให้ในพื้นที่ ไม่ว่าพวกเทโลฟอรอยจะปรากฏตัวที่ไหนต่อไป พวกเราในโลกที่หนึ่งจะเป็นกลุ่มแรกของโลกที่หนึ่งที่ได้รู้ข่าว"
+    },
+    {
+      "key": "alisaiehasbeenteachingmehowtocuretemperingusingaporxieimustsaythethoughtofbeinginsuchcloseproximitytooneoftheafflictedisratherdaunting",
+      "text_en": "Alisaie has been teaching me how to cure tempering using a porxie. I must say, the thought of being in such close proximity to one of the afflicted is rather daunting...",
+      "text": "อลิเซคอยสอนฉันว่าต้องเคียวอาการครอบงำจิตใจอย่างไรโดยใช้พอร์กซี แต่จะว่าไป แค่คิดว่าจะต้องเข้าไปอยู่ใกล้ชิดกับผู้เคราะห์ร้ายที่ได้รับผลกระทบขนาดนั้นฉันก็รู้สึกขยาดอยู่ไม่น้อย..."
+    },
+    {
+      "key": "ivebeenkeepinmegoodeyeonthetowersandtellinotherstodothesamecourseidontmeanjustusscionsivegotawholenetworkofscoutstokeepmeinformed",
+      "text_en": "I've been keepin' me good eye on the towers and tellin' others to do the same. 'Course, I don't mean just us Scions. I've got a whole network of scouts to keep me informed.",
+      "text": "ข้าคอยใช้ดวงตามังกรเฝ้ามองพวกหอคอยนั่นและบอกให้คนอื่นทำเหมือนกัน แน่นอนว่าไม่ได้หมายถึงแค่พวกไซออนส์อย่างพวกเราหรอกนะ เพราะข้ามีเครือข่ายสายสืบอยู่ทั่วไปหมดคอยส่งข่าวให้อยู่แล้ว"
+    },
+    {
+      "key": "whenthetowerroseupinyanxiamyfirstthoughtwastostayindomatokeepmygrandfathersafebutwhenweheardthenewsofbahamutsreturnhebidmereturntotherisingstonestoaidmyfellowscionshesendshisregardsbytheway",
+      "text_en": "When the tower rose up in Yanxia, my first thought was to stay in Doma to keep my grandfather safe. But when we heard the news of Bahamut's return, he bid me return to the Rising Stones to aid my fellow Scions. He sends his regards, by the way.",
+      "text": "ตอนที่หอคอยผุดขึ้นในยันเซีย ความคิดอันดับแรกดั่งการกอบกู้โลกที่หนึ่งของฉันคืออยากอยู่ต่อในโดม่าเพื่อป้องภัยให้คุณตา แต่เมื่อได้ยินข่าวการกลับของบาฮามุท ท่านกลับไล่ให้ฉันกลับไปเดอะ ไรซิง สโตนส์เพื่อช่วยพวกไซออนส์ อ้อ ท่านฝากความคิดถึงมาด้วยนะ"
+    },
+    {
+      "key": "hoarybouldercertainlycutafinefigureashesetoffonhislatestmissioniwassadtoseehimleaveandmynightswillbelonelierwithjusttheonebrothertokeepmecompany",
+      "text_en": "Hoary Boulder certainly cut a fine figure as he set off on his latest mission. I was sad to see him leave, and my nights will be lonelier with just the one brother to keep me company...",
+      "text": "โฮรี โบลเดอร์ ดูผ่าเผยเหลือเกินตอนออกเดินทางไปทำภารกิจล่าสุด ฉันใจหายนักที่เห็นเขาจากไป และค่ำคืนของฉันคงเหงาจับใจยามที่เหลือพี่ชายเพียงคนเดียวคอยอยู่เป็นเพื่อนในกองกำลังคอมพานี..."
+    },
+    {
+      "key": "althougharenvaldandibothservedasscionsiamafraidthatihavehadfewopportunitiestospeakwiththeladidohopeheisfittoreturntoactivedutysoon",
+      "text_en": "Although Arenvald and I both served as Scions, I am afraid that I have had few opportunities to speak with the lad. I do hope he is fit to return to active duty soon.",
+      "text": "แม้ว่าอารันวาลด์กับข้าต่างทำหน้าที่ในฐานะไซออนส์ด้วยกันทั้งคู่ ทว่าข้ากลับแทบไม่มีโอกาสได้คุยกับพ่อหนุ่มคนนั้นเลย หวังว่าเขาจะแข็งแรงพอที่จะกลับมาปฏิบัติหน้าที่ได้ในเร็ววัน"
+    },
+    {
+      "key": "wellitlookslikeimgoingtohaveabusyfewmoonsnotthattheyeverseemtobeanythingbut",
+      "text_en": "Well, it looks like I'm going to have a busy few moons ─ not that they ever seem to be anything but.",
+      "text": "ดูท่าว่าฉันคงต้องยุ่งตัวเป็นเกลียวไปอีกหลายเดือนเลยละค่ะ — แต่จะว่าไป ก็ไม่เห็นมีช่วงไหนที่ว่างเลยสักครั้งเดียวนี่คะ"
+    },
+    {
+      "key": "thancredsgotmedispatchingtroopstoeverycorneroftherealmwhichisnottosayidonttrustthealliancebecauseidobutwhenitcomestoputtingdownprimalsnobodydoesitbetterthanus",
+      "text_en": "Thancred's got me dispatching troops to every corner of the realm. Which is not to say I don't trust the Alliance, because I do. But when it comes to putting down primals, nobody does it better than us.",
+      "text": "คุณแซงเครดไหว้วานให้ฉันคอยส่งกองกำลังไปทั่วทุกสารทิศในดินแดนเลยค่ะ ไม่ใช่ว่าฉันไม่เชื่อใจกองกำลังพันธมิตรหรอกนะคะ เพราะลึกๆ ก็เชื่อมั่นเต็มที่ แต่ถ้าถึงคราวกำราบพวกไพรมัลละก็ ไม่มีใครฝีมือฉกาจเท่าพวกเราอีกแล้วละค่ะ"
+    },
+    {
+      "key": "wellthanyoulotmoreaccuratelyyouwontcatchmetradingblowswithaprimalinthenearfuturebutforeveryfellfiendyouvanquishtherescountlessmealstoarrangebathstofillsheetstowashstorestoreplenishandthelistgoeson",
+      "text_en": "Well, than you lot , more accurately. You won't catch me trading blows with a primal in the near future. But for every fell fiend you vanquish, there's countless meals to arrange, baths to fill, sheets to wash, stores to replenish, and the list goes on.",
+      "text": "หรือถ้าพูดให้ถูกกว่านั้นก็คือฝีมือพวกคุณนั่นแหละค่ะ เพราะคงไม่มีวันได้เห็นฉันไปปะทะฝีมือกับไพรมอล (เทพจุติ) ในเร็วๆ นี้แน่ แต่ในขณะที่คุณโค่นพวกอสูรร้ายลงได้แต่ละตัว ทางนี้ก็มีงานสารพัดต้องทำ ทั้งตระเตรียมอาหารนับไม่ถ้วน เตรียมน้ำอาบ ซักผ้าปูที่นอน คอยเติมเสบียง และอีกสารพัดอย่างยาวเป็นหางว่าวเลยละค่ะ"
+    },
+    {
+      "key": "whichiswhereicomeinandgladlymindyouitstheleasticandotosupportthescionswhorisklifeandlimblikepoorarenvald",
+      "text_en": "Which is where I come in. And gladly, mind you. It's the least I can do to support the Scions who risk life and limb ─ like poor Arenvald...",
+      "text": "นั่นจึงเป็นหน้าที่ของฉันยังไงละคะ และยินดีทำอย่างยิ่งเลยด้วยค่ะ นี่เป็นสิ่งเล็กๆ น้อยๆ ที่ฉันพอจะช่วยสนับสนุนสมาชิกกลุ่มไซออนส์ที่ต้องออกไปเสี่ยงเป็นเสี่ยงตาย... อย่างคุณอารันวาลด์ผู้น่าสงสารคนนั้น..."
+    },
+    {
+      "key": "iwishtherewassomethingwecoulddoforhimbutwelljusthavetosettleforsayingtheoddprayerandkeepingaroofoverourheads",
+      "text_en": "<sigh> I wish there was something we could do for him. But we'll just have to settle for saying the odd prayer and keeping a roof over our heads.",
+      "text": "*(ถอนหายใจ)* ฉันอยากจะช่วยอะไรเขาได้มากกว่านี้จริงๆ ค่ะ แต่ตอนนี้พวกเราคงทำได้แค่สวดอ้อนวอนต่อทวยเทพเป็นครั้งคราว และคอยดูแลรักษาบ้านหลังนี้ให้อบอุ่นปลอดภัยรอกลับมาเท่านั้น"
+    },
+    {
+      "key": "itwouldntdotohavehimcomebacktoacompleteshamblesnowwouldit",
+      "text_en": "It wouldn't do to have him come back to a complete shambles, now would it?",
+      "text": "คงดูไม่จืดแน่ใช่ไหมคะ ถ้าหากเขากลับมาแล้วต้องมาเจอบ้านช่องที่ปล่อยทิ้งไว้จนเละเทะไม่มีชิ้นดี"
+    },
+    {
+      "key": "butthatsenoughofmyramblingoffyougoandgetsomerestifthereareanydevelopmentsipromiseyoullbethefirsttoknow",
+      "text_en": "...But that's enough of my rambling. Off you go and get some rest. If there are any developments, I promise you'll be the first to know!",
+      "text": "...เอาล่ะ พูดเรื่อยเปื่อยมามากพอแล้ว ไปพักผ่อนเสียเถอะ หากมีความคืบหน้าอะไรเกิดขึ้น สัญญาว่าจะบอกให้รู้เป็นคนแรกแน่นอน!"
+    },
+    {
+      "key": "asofthismomentyouareunderstrictorderstogetasmuchrestaspossibleafterallweneedourladyfightingfitwhenthetelophoroireartheiruglyheadsagain",
+      "text_en": "As of this moment, you are under strict orders to get as much rest as possible. After all, we need our lady fighting fit when the Telophoroi rear their ugly heads again!",
+      "text": "นับตั้งแต่ตอนนี้เป็นต้นไป ฉันขอสั่งเฉียบขาดให้คุณไปนอนพักผ่อนให้เต็มอิ่มที่สุดเท่าที่จะทำได้ค่ะ เพราะอย่างไรเสีย พวกเราก็ต้องการให้แม่ยอดหญิงของเราแข็งแรงกระปรี้กระเปร่าพร้อมรบ ยามที่พวกเทโลฟอรอยโผล่หัวน่าเกลียดน่ากลัวของพวกมันขึ้นมาอีกครั้ง!"
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "quest_id": "estate-visitor",
+  "dialogues": [
+    {
+      "key": "myfathermayberightthatiamstillgropinginthedarkforanswersbutineededhimtoknowthatiwouldneverstopsearchingiowedthatmuchtoarenvaldandmyself",
+      "text_en": "My father may be right─that I am still groping in the dark for answers. But I needed him to know that I would never stop searching. I owed that much to Arenvald...and myself.",
+      "text": "พ่ออาจจะพูดถูก—เรื่องที่ผมยังคงคลำหาคำตอบในความมืด แต่ผมอยากให้ท่านรู้ว่าผมจะไม่มีวันหยุดค้นหา อย่างน้อยผมก็ต้องทำเช่นนั้นเพื่ออาเรนวัลด์...และตัวผมเอง"
+    },
+    {
+      "key": "youmayencountersomeraisedeyebrowsbutdocontinuetoclaimthestudentsasyoursponsorwhensoevertheneedarises",
+      "text_en": "You may encounter some raised eyebrows, but do continue to claim the Students as your sponsor whensoever the need arises.",
+      "text": "อาจต้องเจอสายตากังขาของใครต่อใครบ้าง แต่หากจำเป็นเมื่อใด ก็อ้างชื่อคณะวิจัยแห่งบัลเดเซียนเป็นผู้สนับสนุนของพวกเธอต่อไปได้เลย"
+    },
+    {
+      "key": "ibelieveintheguidingprinciplesofthescionsandiknowmygrandfatherwouldhaveaswell",
+      "text_en": "I believe in the guiding principles of the Scions...and I know my grandfather would have as well.",
+      "text": "ฉันเชื่อมั่นในปณิธานของกลุ่มไซออนส์...และรู้ว่าคุณปู่เองก็คงคิดเช่นนั้นเหมือนกัน"
+    },
+    {
+      "key": "weshallhavetothinkverycarefullyabouthowwearetoproceedfromhere",
+      "text_en": "We shall have to think very carefully about how we are to proceed from here.",
+      "text": "พวกเราคงต้องคิดใคร่ครวญอย่างรอบคอบที่สุด ว่าจะทำอย่างไรต่อไปนับจากนี้"
+    },
+    {
+      "key": "iapologizeforthetroubleivecausedyouiwasponderingthesignificanceofwhatihadjustreadasilefttherestrictedsection",
+      "text_en": "I apologize for the trouble I've caused you. I was pondering the significance of what I had just read as I left the restricted section...",
+      "text": "ต้องขอโทษด้วยที่ทำให้เดือดร้อน มัวแต่คิดทบทวนถึงความหมายของสิ่งที่เพิ่งได้อ่านตอนเดินออกจากเขตหวงห้าม..."
+    },
+    {
+      "key": "andknockedoverthesecuritymammetonmywayoutipromisetobemorevigilantnexttime",
+      "text_en": "...And knocked over the security mammet on my way out. I promise to be more vigilant next time.",
+      "text": "...ก็เลยเดินชนแมมเม็ตเฝ้าระวังล้มลงตอนขาออก คราวหน้าสัญญาว่าจะระวังตัวให้มากกว่านี้"
+    },
+    {
+      "key": "theoverallpicturehasgrowncleareryesbutthatsinspiteoftheforumbeingsomaddeninglyvagueaboutthisdutyoftheirs",
+      "text_en": "The overall picture has grown clearer, yes, but that's in spite of the Forum being so maddeningly vague about this duty of theirs.",
+      "text": "ภาพรวมชัดเจนขึ้นก็จริง แต่ไม่ใช่เพราะสภาฟอรัมยอมช่วยหรอกนะ ในเมื่อพวกนั้นเอาแต่ทำตัวคลุมเครือชวนโมโหเกี่ยวกับหน้าที่ของตัวเองขนาดนี้"
+    },
+    {
+      "key": "whyaretheysoreluctanttoexplaintheiractionsinplainwords",
+      "text_en": "Why are they so reluctant to explain their actions in plain words?",
+      "text": "ทำไมถึงไม่ยอมอธิบายการกระทำของตัวเองด้วยถ้อยคำตรงไปตรงมากันเสียที"
+    },
+    {
+      "key": "survivalcomewhatmayisfathersworksovitalthatittakesprecedenceoverhisownfamily",
+      "text_en": "Survival, come what may... Is Father's work so vital that it takes precedence over his own family?",
+      "text": "เอาตัวรอดให้ได้ไม่ว่าจะเกิดอะไรขึ้นงั้นเหรอ... งานของพ่อสำคัญถึงขนาดต้องมาก่อนครอบครัวตัวเองเชียวหรือ"
+    },
+    {
+      "key": "alphinaudalisaieitisyou",
+      "text_en": "Alphinaud...? Alisaie...? It is you!",
+      "text": "อัลฟิโน...? อลิเซ...? ลูกจริงๆ ด้วย!"
+    },
+    {
+      "key": "wheniheardyoudbeendraggedbeforetheforumicameasswiftlyasicouldiamsoverygladtheyallowedyoutostay",
+      "text_en": "When I heard you'd been dragged before the Forum, I came as swiftly as I could. I am so very glad they allowed you to stay...",
+      "text": "พอแม่ได้ยินว่าพวกลูกถูกลากตัวไปพบสภาฟอรัม แม่ก็รีบมาทันทีเลยจ้ะ ดีใจเหลือเกินที่พวกเขาอนุญาตให้พวกลูกอยู่ต่อ..."
+    },
+    {
+      "key": "mmother",
+      "text_en": "M-Mother!?",
+      "text": "พ-พระแม่!?"
+    },
+    {
+      "key": "amelianceleveilleuratyourservice",
+      "text_en": "Ameliance Leveilleur, at your service.",
+      "text": "อะมีเลียนซ์ เลอเวิลเยอร์ ยินดีที่ได้รู้จักจ้ะ"
+    },
+    {
+      "key": "andyoufinepeoplemustbethescionsoftheseventhdawnhowlovelyitistofinallymeetyou",
+      "text_en": "And you fine people must be the Scions of the Seventh Dawn. How lovely it is to finally meet you!",
+      "text": "และพวกคุณคนเก่งก็คงจะเป็นทายาทแห่งรุ่งอรุณที่เจ็ดสินะจ๊ะ ยินดีเหลือเกินที่ได้พบกันเสียที!"
+    },
+    {
+      "key": "motherpleasewedontwishtomakethingsdifficultforyouifwordreachesfatherthatyouwerehere",
+      "text_en": "Mother, please. We don't wish to make things difficult for you. If word reaches Father that you were here─",
+      "text": "พระแม่ครับ ได้โปรดเถอะ พวกเราไม่อยากทำให้พระแม่ต้องลำบากใจ หากพระวจนะส่งถึงท่านพ่อว่าพระแม่มาที่นี่ละก็..."
+    },
+    {
+      "key": "ohbotherthatamitobechastisedforspeakingwithmyownchildreniamwellawarethatyouandmasterfourchenaultarenotonthebestoftermsatthemomentbutivebeenabsolutelydesperatetoseemydarlingsagain",
+      "text_en": "Oh, bother that. Am I to be chastised for speaking with my own children!? I am well aware that you and “Master Fourchenault” are not on the best of terms at the moment, but I've been absolutely desperate to see my darlings again!",
+      "text": "โอย ช่างเรื่องนั้นปะไร แม่จะโดนดุเพียงเพราะพูดคุยกับกลุ่มชิลเดรนของตัวเองเชียวหรือ!? แม่รู้ดีว่าตอนนี้ลูกๆ กับ 'ท่านฟูร์เชอโนลต์' กำลังตึงเครียดใส่กันอยู่ แต่แม่น่ะอยากเจอหน้าลูกรักของแม่ใจจะขาดแล้ว!"
+    },
+    {
+      "key": "youwillcomebythehousewontyouihavegiftswaiting",
+      "text_en": "You will come by the house, won't you? I have gifts waiting.",
+      "text": "แวะมาที่คฤหาสน์หน่อยนะจ๊ะ แม่เตรียมของขวัญรอไว้แล้ว"
+    },
+    {
+      "key": "thetimingcouldntbebetterasmattersstandweshantbegoinganywhereuntilwediscussmatterswiththancredsgroupandreconsiderouroptions",
+      "text_en": "The timing couldn't be better. As matters stand, we shan't be going anywhere until we discuss matters with Thancred's group and reconsider our options.",
+      "text": "ประจวบเหมาะพอดิบพอดีเลยค่ะ เพราะอย่างไรเสีย ตอนนี้พวกเราก็คงยังไปไหนไม่ได้ จนกว่าจะได้หารือกับกลุ่มของแธงเครดและทบทวนทางเลือกของเราใหม่อีกครั้ง"
+    },
+    {
+      "key": "govisityourhomewewillbebackattheannexwhenyouarereadytorejoinus",
+      "text_en": "Go, visit your home. We will be back at the annex when you are ready to rejoin us.",
+      "text": "กลับไปเยี่ยมบ้านเถอะค่ะ เมื่อไรที่พร้อมจะกลับมาสมทบกับเรา ค่อยมาพบกันที่อาคารที่พักนะคะ"
+    },
+    {
+      "key": "imnotsureweforenamewhatdoyouthink",
+      "text_en": "I'm not sure we─ Forename , what do you think?",
+      "text": "ฉันไม่ค่อยแน่ใจเท่าไรว่าเรา... Forename นายคิดว่ายังไงล่ะ"
+    },
+    {
+      "key": "forenametheforenamesurname",
+      "text_en": "Forename ? The Forename Surname !?",
+      "text": "Forename งั้นหรือ? คุณ Forename Surname คนนั้นน่ะหรือ!?"
+    },
+    {
+      "key": "whatasplendiddaythishasturnedouttobechampionofeorzeaiinsistthatyoujoinus",
+      "text_en": "What a splendid day this has turned out to be! Champion of Eorzea, I insist that you join us!",
+      "text": "ช่างเป็นวันที่แสนวิเศษเหลือเกิน! ท่านผู้กล้าแห่งเอโอลเซีย ฉันยืนยันว่าคุณต้องมาร่วมกับเรานะจ๊ะ!"
+    },
+    {
+      "key": "ahbutwemustbequickaboutitnotformyownbenefitbutshouldmyhusbandreturnandfindyouenjoyingourhospitalitytheservantswillbemadetosuffertheconsequences",
+      "text_en": "Ah, but we must be quick about it. Not for my own benefit, but should my husband return and find you enjoying our hospitality, the servants will be made to suffer the consequences.",
+      "text": "อ๊ะ แต่พวกเราต้องรีบกันหน่อยนะจ๊ะ ไม่ใช่เพื่อตัวฉันเองหรอก แต่หากสามีของฉันกลับมาและพบว่าคุณกำลังเพลิดเพลินกับการต้อนรับของเราล่ะก็ พวกคนรับใช้คงต้องรับเคราะห์กรรมแทนแน่ ๆ"
+    },
+    {
+      "key": "forenameifyouwouldbesokindastoescortmychildrentotheestate",
+      "text_en": "Forename ! If you would be so kind as to escort my children to the estate...?",
+      "text": "Forename! หากคุณจะกรุณาช่วยนำทางกลุ่มชิลเดรนของฉันไปยังคฤหาสน์สักหน่อยจะได้ไหมจ๊ะ...?"
+    },
+    {
+      "key": "andthenshewasgoneandwithheranyopportunitytoprotest",
+      "text_en": "And then she was gone ─ and with her any opportunity to protest...",
+      "text": "แล้วแม่ก็เดินจากไปเสียเฉย ๆ ─ พร้อมกับพาเอาโอกาสที่จะคัดค้านทั้งหมดหายวับไปด้วย..."
+    },
+    {
+      "key": "indeedthematterissettledenjoyyourselvesyouthree",
+      "text_en": "Indeed ─ the matter is settled. Enjoy yourselves, you three!",
+      "text": "จริงด้วย ─ เรื่องเป็นอันตกลงเรียบร้อย ขอให้สนุกกันนะทั้งสามคน!"
+    },
+    {
+      "key": "imsurealphinaudthinksnothingofitheinvitedclassmatesoverallthetimebutiwelliwasntthemostitwasadifferenttimeformeallright",
+      "text_en": "I'm sure Alphinaud thinks nothing of it ─ he invited classmates over all the time. But I, well... I wasn't the most... It was a different time for me, all right!?",
+      "text": "ฉันแน่ใจว่าอัฟฟิโนด์คงไม่คิดอะไรหรอก ─ ชวนเพื่อนร่วมชั้นมาบ้านได้ตลอดเวลานั่นแหละ แต่ฉัน... เอ่อ... ฉันไม่ได้เป็นคนประเภท... ตอนนั้นสำหรับฉันมันไม่เหมือนตอนนี้นี่นา เข้าใจไหมเล่า!?"
+    },
+    {
+      "key": "iapologizemymotherisnotonetotakenoforananswerstilliamgladrelievedeventoseeherinsuchhighspirits",
+      "text_en": "I apologize... My mother is not one to take no for an answer. Still, I am glad ─ relieved, even ─ to see her in such high spirits.",
+      "text": "ผมต้องขออภัยด้วยครับ... พระแม่ของผมไม่ใช่คนประเภทที่จะยอมรับคำปฏิเสธง่าย ๆ แต่ถึงอย่างนั้น ผมก็ยินดี ─ หรือกระทั่งโล่งใจด้วยซ้ำ ─ ที่ได้เห็นพระแม่ร่าเริงแจ่มใสถึงเพียงนี้"
+    },
+    {
+      "key": "whatsayyouforenamethoughitseemsweshallhavelittleenoughtimetoenjoyitwillyouaccompanyusonourvisithome",
+      "text_en": "What say you, Forename ? Though it seems we shall have little enough time to enjoy it, will you accompany us on our visit home?",
+      "text": "คุณคิดเห็นอย่างไรครับ Forename ? แม้ดูเหมือนว่าเราคงมีเวลารื่นรมย์เพียงน้อยนิด แต่จะกรุณาร่วมทางไปเยือนบ้านเกิดของเราด้วยกันไหมครับ?"
+    },
+    {
+      "key": "letusgivealisaieapushthenandbeonourway",
+      "text_en": "Let us give Alisaie a push, then, and be on our way.",
+      "text": "ถ้าอย่างนั้น พวกเราก็ช่วยกระตุ้นอลิเซสักนิด แล้วค่อยออกเดินทางกันเถอะครับ"
+    },
+    {
+      "key": "shallwehurryalongtotheestatemotherwillbewonderingwhereweare",
+      "text_en": "Shall we hurry along to the estate? Mother will be wondering where we are.",
+      "text": "รีบไปคฤหาสน์เลเวิลเลอร์กันดีกว่าครับ พระแม่คงสงสัยแล้วว่าหายไปไหนกัน"
+    },
+    {
+      "key": "ohnoimnotgoingtosufferthisbymyselfmakesurealphinaudiscomingalongfirst",
+      "text_en": "Oh no, I'm not going to suffer this by myself. Make sure Alphinaud is coming along first!",
+      "text": "ไม่มีทาง ฉันไม่ยอมเผชิญหน้าเรื่องนี้คนเดียวแน่ ต้องให้พี่อัลฟิโนด์มาด้วยในโลกที่หนึ่งก่อน!"
+    },
+    {
+      "key": "fineifweregoingthenletsgetitoverwithbutbesuretostayintheentrancehallnopeekingintoourprivatechambersthankyouverymuch",
+      "text_en": "Fine... If we're going, then let's get it over with! But be sure to stay in the entrance hall ─ no peeking into our private chambers, thank you very much!",
+      "text": "ก็ได้... ถ้าจะไปก็รีบไปให้มันจบๆ! แต่ต้องรออยู่แค่ตรงห้องโถงทางเข้านะ ห้ามแอบมองเข้าไปในห้องส่วนตัวเด็ดขาดเชียว!"
+    },
+    {
+      "key": "whyevernotyourroomwasalwaysperfectlyneatandtidy",
+      "text_en": "Whyever not? Your room was always perfectly neat and tidy...",
+      "text": "ทำไมล่ะครับ ห้องก็ออกจะสะอาดสะอ้านเรียบร้อยดีอยู่เสมอ..."
+    },
+    {
+      "key": "everyonehasthingstheydratherkeeptothemselvesdonttheycherishedmementosyoucouldntbringyourselftothrowawaychildhoodtoys",
+      "text_en": "Everyone has things they'd rather keep to themselves, don't they? Cherished mementos you couldn't bring yourself to throw away, childhood toys─",
+      "text": "ใครๆ ก็มีเรื่องที่อยากเก็บไว้เป็นส่วนตัวทั้งนั้นแหละ จริงไหม ของดูต่างหน้าชิ้นสำคัญที่ตัดใจทิ้งไม่ลง ของเล่นสมัยเด็ก─"
+    },
+    {
+      "key": "imeanuhgahnevermindtheleveilleurestateisthatwaystraightdownthestairscomeon",
+      "text_en": "I mean, uh... Gah, never mind! The Leveilleur estate is that way, straight down the stairs. Come on!",
+      "text": "คือว่า... โธ่ ช่างมันเถอะ! คฤหาสน์เลเวิลเลอร์ไปทางนั้น ตรงลงไปตามขั้้นบันได เลย รีบไปกันได้แล้ว!"
+    },
+    {
+      "key": "afterallwevebeenthroughtogethertisstrangetobeherewithyounowtocomefullcircleandseehowmuchhaschanged",
+      "text_en": "After all we've been through together, 'tis strange to be here with you now. To come full circle and see how much has changed...",
+      "text": "หลังจากผ่านอะไรมาด้วยกันตั้งมากมาย พอย้อนกลับมาอยู่ตรงนี้กับคุณในตอนนี้ก็รู้สึกแปลกดีเหมือนกันนะครับ เหมือนได้กลับมาสู่จุดเริ่มต้นและเห็นว่าสิ่งต่างๆ เปลี่ยนไปมากเพียงใด..."
+    },
+    {
+      "key": "theleveilleurestateisinthenorthernpartofjourneysendjustdownthestairsfromtherostra",
+      "text_en": "The Leveilleur estate is in the northern part of Journey's End, just down the stairs from the Rostra.",
+      "text": "คฤหาสน์เลเวิลเลอร์อยู่ทางตอนเหนือของจุดสิ้นสุดการเดินทาง ลงไปตามขั้้นบันได จากลานปราศรัยนี่เอง"
+    },
+    {
+      "key": "ohandpleasedontmakeafusswhenwegetthereitsonlyahouse",
+      "text_en": "Oh, and please don't make a fuss when we get there. It's only a house!",
+      "text": "อ้อ แล้วพอไปถึงก็อย่าทำเป็นเรื่องใหญ่โตนักเลย มันก็แค่บ้านหลังหนึ่งเท่านั้นแหละ!"
+    },
+    {
+      "key": "whatrightnownothingforitisupposebutmotherwasmostinsistentyoucomeaswellweshallbewaitingforyoubytherostra",
+      "text_en": "What? Right now? Nothing for it, I suppose, but Mother was most insistent you come as well. We shall be waiting for you by the Rostra.",
+      "text": "อะไรนะ ครับ ตอนนี้เลยหรือ คงช่วยไม่ได้สินะครับ แต่พระแม่กำชับหนักหนาว่าอยากให้มาด้วยกัน จะรออยู่ที่ลานปราศรัยนะครับ"
+    },
+    {
+      "key": "notgoingafterallthenneithershallithoughisupposeillneverheartheendofitfrommotherifwedonthmmwellwaitattherostraincaseyouchangeyourmind",
+      "text_en": "Not going after all? Then neither shall I! Though I suppose I'll never hear the end of it from Mother if we don't... Hmm. We'll wait at the Rostra in case you change your mind.",
+      "text": "ตกลงจะไม่ไปด้วยกันแล้วหรือ ถ้าอย่างนั้นฉันก็ไม่ไปเหมือนกัน! แต่ถ้าพวกเราไม่ไป พระแม่คงจะบ่นไม่รู้จบแน่... อืม พวกเราจะไปรอที่ลานปราศรัยเผื่อว่านายจะเปลี่ยนใจ"
+    },
+    {
+      "key": "decidedtocomewithusandyouresureaboutthisallrightifonlytoseethesmileonmothersface",
+      "text_en": "Decided to come with us? And you're sure about this? <sigh> All right...if only to see the smile on Mother's face.",
+      "text": "ตัดสินใจจะไปด้วยกันแล้วใช่ไหม แน่ใจแล้วนะ <ถอนหายใจ> ตกลง...ขอแค่ได้เห็นรอยยิ้มบนใบหน้าของพระแม่ก็พอ"
+    },
+    {
+      "key": "whenalisaieandiwerelittlethisbridgewasasfaraswewerepermittedtowanderalone",
+      "text_en": "When Alisaie and I were little, this bridge was as far as we were permitted to wander alone.",
+      "text": "ตอนที่อลิเซกับผมยังเด็ก เดอะบริดจ์แห่งนี้คือจุดที่ไกลที่สุดที่พวกเรามาเที่ยวเล่นกันตามลำพังได้"
+    },
+    {
+      "key": "isayalonebutmymotheroraservantwasalwayssomewherenearbykeepingawatchfuleye",
+      "text_en": "I say “alone,” but my mother or a servant was always somewhere nearby, keeping a watchful eye.",
+      "text": "ที่ผมบอกว่า 'ตามลำพัง' แต่ความจริงพระแม่หรือไม่ก็คนรับใช้มักจะอยู่ใกล้ๆ คอยเฝ้ามองด้วยดวงตามังกรระแวดระวังเสมอ"
+    },
+    {
+      "key": "andnowlookatustravelingtodifferentcontinentsdifferentworldseven",
+      "text_en": "And now look at us. Traveling to different continents...different worlds, even.",
+      "text": "แล้วดูพวกเราตอนนี้สิ เดินทางข้ามทวีป...หรือแม้กระทั่งข้ามพิภพเลยด้วยซ้ำ"
+    },
+    {
+      "key": "aschildrenalphinaudandiwouldoftenwaithereforourfathertocomehomefromwork",
+      "text_en": "As children, Alphinaud and I would often wait here for our father to come home from work.",
+      "text": "สมัยที่ยังเป็นกลุ่มชิลเดรน อัลฟิโนกับฉันมักจะมานั่งรอพ่อกลับจากทำงานตรงนี้เสมอ"
+    },
+    {
+      "key": "itmustvebeenadaywhenhismeetingsranlongbecauseiremembergrowingrestlessandleaningoutovertherailingtowatchthewaterrushby",
+      "text_en": "It must've been a day when his meetings ran long, because I remember growing restless, and leaning out over the railing to watch the water rush by.",
+      "text": "คงมีวันหนึ่งที่พ่อต้องประชุมยาวนาน เพราะฉันจำได้ว่าตัวเองเริ่มกระวนกระวายใจอยู่ไม่สุข จนต้องชะโงกหน้าพ้นราวสะพานเฝ้ามองสายน้ำไหลทะลักผ่านไป"
+    },
+    {
+      "key": "fatherofcoursearrivedatthatexactmomentcamepoundingdownthepathinapaniccryingoutmyname",
+      "text_en": "Father, of course, arrived at that exact moment. Came pounding down the path in a panic, crying out my name...",
+      "text": "แน่นอนว่าพ่อกลับมาถึงในจังหวะนั้นพอดี พ่อตื่นตระหนกวิ่งกระหืดกระหอบลงมาตามทาง พลางตะโกนเรียกชื่อฉันลั่น..."
+    },
+    {
+      "key": "ohyesthisiswhereifirstpracticedmagiconanactualperson",
+      "text_en": "Oh yes, this is where I first practiced magic on an actual person.",
+      "text": "โอ้ ใช่แล้ว ตรงนี้คือสถานที่ซึ่งผมได้ทดลองใช้เวทมนตร์กับคนจริงเป็นโลกที่หนึ่ง"
+    },
+    {
+      "key": "alisaiehadfallenyouseeandscrapedherkneequitebadlysoitriedcastingthesimplerestorativespellihadonlyjustlearned",
+      "text_en": "Alisaie had fallen, you see, and scraped her knee quite badly ─ so I tried casting the simple restorative spell I had only just learned.",
+      "text": "ก็ตอนนั้นอลิเซหกล้มจนเจ็บแสบเข่าถลอกปอกเปิกทีเดียว ผมเลยลองร่ายเวทมนตร์รักษาแบบง่ายๆ ที่เพิ่งเรียนรู้มาดู"
+    },
+    {
+      "key": "howshesmiledwhenthewoundclosedthejoyandreliefthatwasibelievetheverymomentichosethehealingartsasthemainsubjectofmystudies",
+      "text_en": "How she smiled when the wound closed. The joy and relief... That was, I believe, the very moment I chose the healing arts as the main subject of my studies.",
+      "text": "ยามที่บาดแผลสมานตัวแล้วแย้มยิ้มออกมา ทั้งความเอิบอิ่มยินดีและโล่งอก... ผมเชื่อว่านั่นคือวินาทีแรกที่ตัดสินใจเลือกศึกษาวิชาเยียวยาเป็นหลัก"
+    },
+    {
+      "key": "weusedtocomehereallthetimewithgrandfatherinsummeriwoulddipmyhandsandfeetinthefountainandsplashabout",
+      "text_en": "We used to come here all the time with Grandfather! In summer, I would dip my hands and feet in the fountain and splash about...",
+      "text": "เมื่อก่อนมาที่นี่กับคุณปู่บ่อยจะตาย! พอถึงหน้าร้อนทีไร ก็ชอบจุ่มมือจุ่มเท้าลงในน้ำพุแล้วกวักน้ำเล่นไปทั่ว..."
+    },
+    {
+      "key": "notalphinaudthoughevenbackthenhewasntveryfondofplayinginwaterhedmakeanyexcusetoavoidit",
+      "text_en": "Not Alphinaud, though ─ even back then, he wasn't very fond of playing in water. He'd make any excuse to avoid it.",
+      "text": "แต่ไม่ใช่อัลฟิโนหรอกนะ ─ ตั้งแต่ตอนนั้นก็ไม่ชอบเล่นน้ำเอาเสียเลย ชอบหาข้ออ้างสารพัดเพื่อเลี่ยงตลอด"
+    },
+    {
+      "key": "whichwouldexplainhowicametoswimlikeanaukandhesinklikeastone",
+      "text_en": "Which would explain how I came to swim like an auk, and he sink like a stone!",
+      "text": "นั่นเลยอธิบายได้ว่าทำไมฉันถึงว่ายน้ำปร๋อเหมือนนกอ็อก ส่วนพี่ชายกลับจมดิ่งราวกับก้อนหิน!"
+    },
+    {
+      "key": "andhereyouareatlastpleasedocomein",
+      "text_en": "And here you are at last! Please, do come in!",
+      "text": "ในที่สุดก็มาถึงกันเสียที! เข้ามาข้างในกันก่อนสิจ๊ะ!"
+    },
+    {
+      "key": "welcomehomemylady",
+      "text_en": "Welcome home, my lady.",
+      "text": "ยินดีต้อนรับกลับบ้านครับคุณผู้หญิง"
+    },
+    {
+      "key": "whatwhatareyougawpingat",
+      "text_en": "What? What are you gawping at?",
+      "text": "อะไรกัน? จ้องตาค้างแบบนั้นทำไม"
+    },
+    {
+      "key": "ohgodspleasedontitmakesmefeellikeaspoiledprincess",
+      "text_en": "Oh gods, please don't! It makes me feel like a spoiled princess.",
+      "text": "คุณพระช่วย อย่าเชียวนะ! ชวนให้รู้สึกเหมือนเป็นเจ้าหญิงเอาแต่ใจไม่มีผิด"
+    },
+    {
+      "key": "illhaveyouknowimquitefondoftherisingstones",
+      "text_en": "I'll have you know I'm quite fond of the Rising Stones!",
+      "text": "บอกให้รู้ไว้เลยนะว่าฉันชอบเดอะ ไรซิง สโตนส์ อยู่ไม่น้อยเลย!"
+    },
+    {
+      "key": "ohiisupposeinevergavethedcormuchthoughtimgladthatyouapproveithink",
+      "text_en": "Oh, I...I suppose I never gave the décor much thought. I'm glad that you approve. I think.",
+      "text": "อ้อ...ไม่เคยใส่ใจเรื่องการตกแต่งพวกนี้เลยแฮะ ดีใจนะที่ชอบ...มั้งนะ"
+    },
+    {
+      "key": "lordfourchenaultisnottohearofthisvisit",
+      "text_en": "Lord Fourchenault is not to hear of this visit.",
+      "text": "อย่าให้ท่านฟูเชอโนต์รู้เรื่องการมาเยือนครั้งนี้เป็นอันขาด"
+    },
+    {
+      "key": "andishouldalsolikethechildrentohavetheirgiftseremyhusbandmakeshisreturn",
+      "text_en": "And I should also like the children to have their gifts ere my husband makes his return.",
+      "text": "และแม่ก็อยากให้กลุ่มเดอะชิลเดรนได้รับของขวัญก่อนที่สามีจะกลับมาด้วย"
+    },
+    {
+      "key": "asyouwishmylady",
+      "text_en": "As you wish, my lady.",
+      "text": "ตามแต่ท่านจะประสงค์ครับ ท่านผู้หญิง"
+    },
+    {
+      "key": "masteralphinaudmistressalisaieifyouwouldaccompanymeupstairs",
+      "text_en": "Master Alphinaud, Mistress Alisaie, if you would accompany me upstairs...?",
+      "text": "นายน้อยอัลฟิโนด์ คุณหนูอลิเซ่ เชิญตามผมขึ้นไปข้างบนได้ไหมครับ"
+    },
+    {
+      "key": "weshantbelong",
+      "text_en": "We shan't be long.",
+      "text": "พวกเราคงใช้เวลาไม่นานครับ"
+    },
+    {
+      "key": "thetwinshavebeensendinglettershomefromtimetotimerecountingtheirlatestadventures",
+      "text_en": "The twins have been sending letters home from time to time, recounting their latest adventures.",
+      "text": "ฝาแฝดส่งจดหมายกลับมาที่บ้านเป็นพักๆ เพื่อเล่าถึงการผจญภัยครั้งล่าสุดให้ฟัง"
+    },
+    {
+      "key": "iamsuretheywithholdcertaindetailsofcourseifonlytokeepmefromworrying",
+      "text_en": "I am sure they withhold certain details, of course. If only to keep me from worrying...",
+      "text": "แน่นอนว่าคงปกปิดรายละเอียดบางเรื่องไว้ เพื่อไม่ให้แม่ต้องคอยกังวลใจ..."
+    },
+    {
+      "key": "yetamotherworriesallthesameintheearlydaysespeciallyitriedtosupportthemasbesticouldsendingthescionscoinandothersuchdonations",
+      "text_en": "Yet a mother worries all the same. In the early days especially, I tried to support them as best I could, sending the Scions coin and other such donations.",
+      "text": "ทว่าคนเป็นพระแม่ก็ยังคงห่วงอยู่ดี โดยเฉพาะในช่วงแรกๆ แม่พยายามช่วยเหลือสุดความสามารถ ทั้งส่งเงินและสิ่งของบริจาคต่างๆ ไปให้กลุ่มไซออนส์"
+    },
+    {
+      "key": "fortunatelytheyhavefoundthestrengthtoovercomeadversitytimeandtimeagaintheirwordsgrowmoreconfidentwitheverylettertheirdepictionsmorevivid",
+      "text_en": "Fortunately, they have found the strength to overcome adversity time and time again. Their words grow more confident with every letter, their depictions more vivid.",
+      "text": "โชคดีที่ลูกมีความเข้มแข็งพอจะฟันฝ่าอุปสรรคมาได้ครั้งแล้วครั้งเล่า ถ้อยคำในจดหมายดูมั่นใจขึ้นทุกฉบับ เรื่องเล่าก็เห็นภาพแจ่มชัดขึ้นเรื่อยๆ"
+    },
+    {
+      "key": "thetriumphsanddefeatsthejoysandsorrowstisclearthattheyhavecometofindvalueineveryexperience",
+      "text_en": "The triumphs and defeats. The joys and sorrows. 'Tis clear that they have come to find value in every experience.",
+      "text": "ทั้งชัยชนะและความพ่ายแพ้ ความยินดีและความโศกเศร้า เห็นได้ชัดว่าได้เรียนรู้ที่จะมองเห็นคุณค่าในทุกประสบการณ์ที่ผ่านมา"
+    },
+    {
+      "key": "butofthosetheytreasuremostitwouldseemthatmeetingyoumightbethemostimpactfulwhysincethatfatefuldayidobelievetherehasnotbeenasinglemissiveinwhichyouwerenotmentionedbyname",
+      "text_en": "But of those they treasure most, it would seem that meeting you might be the most impactful. Why, since that fateful day, I do believe there has not been a single missive in which you were not mentioned by name!",
+      "text": "แต่ในบรรดาผู้คนที่พวกเขารักใคร่หวงแหนที่สุด ดูเหมือนว่าการได้พบท่านจะส่งผลต่อพวกเขามากที่สุดเชียวล่ะ เพราะตั้งแต่วันสำคัญวันนั้น ฉันเชื่อเหลือเกินว่าจดหมายทุกฉบับที่ส่งมาล้วนเอ่ยชื่อท่านไม่เคยขาดเลยสักครั้ง!"
+    },
+    {
+      "key": "tisplaintheycareforyouandiamgladtheyhavesuchasteadfastcompanionwatchingoverthem",
+      "text_en": "'Tis plain they care for you. And I am glad they have such a steadfast companion watching over them.",
+      "text": "เห็นได้ชัดว่าพวกเขาใส่ใจท่านมาก และฉันก็ยินดีเหลือเกินที่เพื่อนร่วมทางที่พึ่งพาได้เช่นท่านคอยปกป้องดูแลพวกเขา"
+    },
+    {
+      "key": "undernormalcircumstancesiwouldofferyouteabutalastheseareanythingbutinanyeventwhydontyoukeepmecompanywhilstweawaitmychildrensreturnperhapsyoumightregalemewithataleortwoofyourexploits",
+      "text_en": "Under normal circumstances I would offer you tea, but alas, these are anything but. In any event, why don't you keep me company whilst we await my children's return? Perhaps you might regale me with a tale or two of your exploits?",
+      "text": "หากเป็นเวลาปกติ ฉันคงยกน้ำชามาต้อนรับท่านแล้ว แต่ก็น่าเสียดายที่สถานการณ์ตอนนี้ห่างไกลจากคำว่าปกติเหลือเกิน อย่างไรก็ดี ระหว่างรอการกลับของกลุ่มชิลเดรนของฉัน ทำไมท่านไม่มาอยู่เป็นกองกำลังคอมพานีคุยกันแก้เหงาสักหน่อยล่ะ ช่วยเล่าเรื่องราวการผจญภัยอันอาจหาญให้ฟังซักเรื่องสองเรื่องได้ไหมนะ"
+    },
+    {
+      "key": "whenyoumentionedgiftsiwasntsurewhattoexpect",
+      "text_en": "When you mentioned gifts, I wasn't sure what to expect.",
+      "text": "ตอนที่แม่พูดเรื่องของขวัญ ฉันก็นึกภาพไม่ออกเลยจริงๆ"
+    },
+    {
+      "key": "motheri",
+      "text_en": "Mother, I...",
+      "text": "พระแม่ ฉัน..."
+    },
+    {
+      "key": "ohlookhowwellitfitsyouandthestyleistoyourliking",
+      "text_en": "Oh, look how well it fits you! And the style is to your liking?",
+      "text": "โอ้ ดูสิ ใส่ได้พอดีตัวเชียว! แล้วชอบสไตล์แบบนี้ไหมจ๊ะ"
+    },
+    {
+      "key": "itsperfectexactlywhatiwouldhavechosenbutpleasetellmeyouhadsomethingdifferentmadeforalphinaud",
+      "text_en": "It's perfect ─ exactly what I would have chosen! But please, tell me you had something different made for Alphinaud...",
+      "text": "มันเหมาะเจาะที่สุด ─ ตรงใจเหมือนกับที่ฉันเลือกเองไม่มีผิด! แต่ขอร้องล่ะ บอกฉันทีนะว่าแม่สั่งตัดชุดแบบอื่นให้อัลฟิโน..."
+    },
+    {
+      "key": "naturallyyouarehardlylittlechildrenanymore",
+      "text_en": "Naturally! You are hardly little children anymore.",
+      "text": "แน่นอนอยู่แล้ว! พวกเราไม่ใช่กลุ่มชิลเดรนตัวเล็กๆ อีกต่อไปแล้วนี่"
+    },
+    {
+      "key": "andwhileishallmissdressingyouinthosepreciousmatchingoutfitsimustrespecttheindividualsyouhavegrowntobecome",
+      "text_en": "And while I shall miss dressing you in those precious matching outfits, I must respect the individuals you have grown to become.",
+      "text": "และถึงแม่จะคิดถึงการจับพวกลูกแต่งชุดคู่แสนน่ารักพวกนั้น แต่แม่ก็ต้องเคารพในตัวตนที่พวกลูกเติบโตขึ้นมาเช่นกัน"
+    },
+    {
+      "key": "seeforyourself",
+      "text_en": "See for yourself!",
+      "text": "ลองดูด้วยตัวเองสิจ๊ะ!"
+    },
+    {
+      "key": "thankyouforthesplendidclothesmotherstylishcomfortableandeminentlypractical",
+      "text_en": "Thank you for the splendid clothes, Mother. Stylish, comfortable, and eminently practical!",
+      "text": "ขอบพระคุณสำหรับเสื้อผ้าอันแสนงดงามครับพระแม่ ทั้งดูดี สวมสบาย และใช้งานได้จริงอย่างที่สุดครับ"
+    },
+    {
+      "key": "iamsogladyoulikethemtheyarehowevermissingonefinaltouch",
+      "text_en": "I am so glad you like them. They are, however, missing one final touch.",
+      "text": "แม่ดีใจเหลือเกินที่ลูกชอบ แต่ถึงอย่างนั้นก็ยังขาดขั้นตอนสุดท้ายไปอย่างหนึ่งนะ"
+    },
+    {
+      "key": "ifyouwouldallowmemasteralphinaud",
+      "text_en": "If you would allow me, Master Alphinaud...",
+      "text": "ขออนุญาตนะครับ นายน้อยอัลฟีโน..."
+    },
+    {
+      "key": "waitarethese",
+      "text_en": "Wait, are these...!?",
+      "text": "เดี๋ยวก่อนครับ หรือว่านี่คือ...!?"
+    },
+    {
+      "key": "asagestoolsofthetradetheybelongedtoyourfather",
+      "text_en": "...A sage's tools of the trade. They belonged to your father.",
+      "text": "...เครื่องมือประจำตัวของปราชญ์น่ะจ๊ะ ของพวกนี้เคยเป็นของพ่อลูกมาก่อน"
+    },
+    {
+      "key": "thoughhemayaswellbechainedtohisdeskthesedaysasastudenthewasoftencalledupontoventureintothefield",
+      "text_en": "Though he may as well be chained to his desk these days, as a student, he was often called upon to venture into the field.",
+      "text": "ถึงทุกวันนี้จะเอาแต่ขลุกอยู่กับโต๊ะทำงาน แต่สมัยที่ยังเป็นนักเรียนก็มักต้องออกเดินทางปฏิบัติงานภาคสนามอยู่บ่อยๆ"
+    },
+    {
+      "key": "hewieldedthosearmamentsbothtohealandtoharminnofewbattlesnonesofierceasthoseyoutwohavebravedperhapsbutbattlesnonetheless",
+      "text_en": "He wielded those armaments, both to heal and to harm, in no few battles. None so fierce as those you two have braved, perhaps, but battles nonetheless.",
+      "text": "เคยใช้อาวุธพวกนี้ทั้งรักษาและเข่นฆ่าในศึกสงครามหลายต่อหลายครั้ง แต่อาจไม่ดุเดือดเท่าศึกที่ลูกทั้งสองเคยฝ่าฟันมา แต่ก็ถือเป็นศึกสงครามอยู่ดี"
+    },
+    {
+      "key": "thusdidipullthemoutofstoragetoshowyouthathewasnotalwaysthemanwhostandsinvehementoppositiontoyounow",
+      "text_en": "Thus did I pull them out of storage ─ to show you that he was not always the man who stands in vehement opposition to you now.",
+      "text": "แม่ถึงได้ไปค้นพวกนี้ออกมาจากที่เก็บ เพื่อแสดงให้เห็นว่าพ่อไม่ได้เป็นคนที่คอยยืนกรานต่อต้านลูกอย่างรุนแรงแบบในตอนนี้มาตลอดหรอกนะ"
+    },
+    {
+      "key": "andalsobecauseitwouldbeaterriblewasteofridiculouslyexpensivehouseleveilleurcommissionedartistry",
+      "text_en": "And also because it would be a terrible waste of ridiculously expensive, House Leveilleur-commissioned artistry.",
+      "text": "และอีกอย่างหนึ่งก็คือ คงน่าเสียดายแย่หากต้องปล่อยให้งานศิลปะสั่งทำอันมีราคาแพงลิบลิ่วของตระกูลเลเวอเยอร์ต้องสูญเปล่า"
+    },
+    {
+      "key": "iamtoldthesedevicesarequitedifficulttomasterbutsomeoneofyourextensiveexperienceshouldsoonhavethemdartingaboutwithgraceandaplomb",
+      "text_en": "I am told these devices are quite difficult to master, but someone of your extensive experience should soon have them darting about with grace and aplomb.",
+      "text": "แม่ได้ยินมาว่าการควบคุมเครื่องมือพวกนี้ให้ชำนาญยากเอาการทีเดียว แต่คนที่มีประสบการณ์โชกโชนอย่างลูก คงจะทำให้พุ่งวูบวาบไปมาอย่างสง่างามและคล่องแคล่วได้ในไม่ช้า"
+    },
+    {
+      "key": "maythewisdominthatcrystalserveyouwellandpleasetrytofindcommongroundwithyourfatherthatyoumightcomeandgowithoutneedforthisawfulsubterfuge",
+      "text_en": "May the wisdom in that crystal serve you well. And please, try to find common ground with your father, that you might come and go without need for this awful subterfuge.",
+      "text": "ขอให้ปัญญาในคริสตัลชิ้นนั้นคอยเกื้อหนุนลูก และขอร้องล่ะ พยายามหาทางปรับความเข้าใจกับพ่อเสียนะ จะได้เข้าออกที่นี่โดยไม่ต้องใช้วิธีหลบๆ ซ่อนๆ แสนอึดอัดใจแบบนี้อีก"
+    },
+    {
+      "key": "wewillmotheripromise",
+      "text_en": "We will, Mother, I promise!",
+      "text": "พวกเราจะทำตามนั้นครับ พระแม่ ผมสัญญา!"
+    },
+    {
+      "key": "myfinalgiftstoyoubeforeyourunoffareanobservationandasuggestion",
+      "text_en": "My final gifts to you, before you run off, are an observation and a suggestion.",
+      "text": "ของขวัญชิ้นสุดท้ายที่แม่จะมอบให้ก่อนลูกๆ จะรีบไป คือข้อสังเกตประการหนึ่งและข้อแนะนำอีกประการหนึ่ง"
+    },
+    {
+      "key": "firstlyfourchenaulthaseverbeenaseriousmanbutitwasonlyafteryouwerebornthathetrulylosthimselfinhiswork",
+      "text_en": "Firstly, Fourchenault has ever been a serious man, but it was only after you were born that he truly lost himself in his work.",
+      "text": "ประการแรก ฟูร์เชอโนต์เป็นคนจริงจังมาแต่ไหนแต่ไร ทว่าเพิ่งหลังจากพวกลูกเกิดมานี่เอง ที่ปักใจทุ่มเทกับงานจนไม่เป็นอันทำอย่างอื่น"
+    },
+    {
+      "key": "imaynotknowtheforumsinnerworkingsbutiknowyourfathersthetimingofthatchangeinhimholdssomesignificance",
+      "text_en": "I may not know the Forum's inner workings, but I know your father's. The timing of that change in him holds some significance.",
+      "text": "แม้แม่จะไม่รู้เรื่องราวภายในของสภาฟอรัม แต่แม่รู้จักพ่อของลูกดี ช่วงเวลาที่พ่อเริ่มเปลี่ยนไปนั้นช่างแฝงนัยสำคัญอย่างยิ่ง"
+    },
+    {
+      "key": "secondlydonotseektobestyourfatherwithwords",
+      "text_en": "Secondly, do not seek to best your father with words.",
+      "text": "ประการที่สอง อย่าพยายามเอาชนะพ่อด้วยถ้อยคำเลย"
+    },
+    {
+      "key": "farbetterthatyousimplyshowhimlethimdiscoverthemeritofyouractionsaftertheycannotbeundone",
+      "text_en": "Far better that you simply show him ─ let him discover the merit of your actions after they cannot be undone!",
+      "text": "สู้แสดงให้เห็นจริงยังดีเสียกว่า ปล่อยให้พ่อประจักษ์ถึงคุณค่าจากการกระทำของลูกในยามที่แก้ไขอะไรไม่ได้แล้ว!"
+    },
+    {
+      "key": "ohmother",
+      "text_en": "Oh, Mother...",
+      "text": "โธ่ พระแม่..."
+    },
+    {
+      "key": "weshalltakeyourwisdomtoheartthankyouagainforthesegiftsandfarewellfornow",
+      "text_en": "We shall take your wisdom to heart. Thank you again for these gifts, and farewell for now!",
+      "text": "พวกเราจะจดจำคำสอนใส่ใจไว้ครับ ขอบคุณสำหรับของขวัญเหล่านี้อีกครั้ง และขอลาไปก่อนนะครับ!"
+    },
+    {
+      "key": "safetravelsmychildreneatwellstaywarmandkeepyourfriendsclose",
+      "text_en": "Safe travels, my children. Eat well, stay warm, and keep your friends close.",
+      "text": "เดินทางปลอดภัยนะ กลุ่มชิลเดรน กินให้อิ่ม รักษาร่างกายให้อบอุ่น และคอยดูแลมิตรสหายให้ดี"
+    },
+    {
+      "key": "seeinghowtheyounglordandtheladyofthehousehavegrownitnearlymovesmetotears",
+      "text_en": "Seeing how the young lord and the lady of the house have grown... It nearly moves me to tears!",
+      "text": "การได้เห็นนายน้อยกับท่านหญิงเติบโตขึ้น... กระผมก็ตื้นตันใจจนน้ำตาแทบไหลเลยขอรับ!"
+    },
+    {
+      "key": "thegarbwornbyladyalisaieandlordalphinaudwascommissionedespeciallyforthembyladyamelianceshesparesnoeffortinexpressingherprofoundloveforherdearchildren",
+      "text_en": "The garb worn by Lady Alisaie and Lord Alphinaud was commissioned especially for them by Lady Ameliance. She spares no effort in expressing her profound love for her dear children.",
+      "text": "ท่านหญิงอมิเลียนซ์สั่งตัดเสื้อผ้าที่ท่านหญิงอลิเซและนายน้อยอัลฟิโนสวมใส่ให้เป็นพิเศษเจ้าค่ะ ท่านทุ่มเททุกอย่างเพื่อแสดงความรักอันลึกซึ้งต่อกลุ่มชิลเดรนสุดที่รักของท่าน"
+    },
+    {
+      "key": "andthatwasthatonlythegodsknowwhenwellbebackagain",
+      "text_en": "And that was that. Only the gods know when we'll be back again...",
+      "text": "เรื่องก็เท่านี้แหละ ทวยเทพเท่านั้นที่รู้ว่าพวกเราจะได้กลับมาอีกเมื่อไร..."
+    },
+    {
+      "key": "thankyouforindulgingmothersrequesticanseeitmeantalottoherandiuhshallrefrainfrominquiringastothecontentofyourprivateconversation",
+      "text_en": "Thank you for indulging Mother's request ─ I can see it meant a lot to her. And I, uh, shall refrain from inquiring as to the content of your private conversation.",
+      "text": "ขอบคุณที่ยอมทำตามคำขอของพระแม่ ผมดูออกว่าเรื่องนี้มีความหมายต่อท่านมากเหลือเกิน และผม...เอ่อ...จะไม่ถามเซ้าซี้เรื่องที่คุยกันตามลำพังหรอกครับ"
+    },
+    {
+      "key": "ourvisitwasalltoobrieffornowhoweveritwillhavetosufficeaswillthesetokensofhomethatwecarrywithusthesegiftstohelpusrememberwhoweareandwhencewecame",
+      "text_en": "Our visit was all too brief... For now, however, it will have to suffice. As will these tokens of home that we carry with us ─ these gifts to help us remember who we are and whence we came...",
+      "text": "การมาเยือนของพวกเราช่างแสนสั้น... แต่เวลานี้คงต้องพอเพียงเท่านี้ก่อน เช่นเดียวกับของดูต่างหน้าจากบ้านที่เราพกติดตัว ของขวัญเหล่านี้จะช่วยเตือนใจว่าพวกเราเป็นใครและมาจากหนใด..."
+    },
+    {
+      "key": "butenoughsentimentalityletusreturntotheannexandrejoinourcompanions",
+      "text_en": "But enough sentimentality. Let us return to the annex and rejoin our companions!",
+      "text": "แต่พอเรื่องซาบซึ้งใจเท่านี้ก่อนเถอะ พวกเรา กลับ ไปยังเรือนพักเพื่อสมทบกับเพื่อนร่วมทางกันดีกว่า!"
+    },
+    {
+      "key": "dontthinkforamomentthatimjealousofalphinaudsnewweaponstheyrefarmoresuitedtohimthanme",
+      "text_en": "Don't think for a moment that I'm jealous of Alphinaud's new weapons. They're far more suited to him than me.",
+      "text": "อย่าคิดแม้แต่เสี้ยววินาทีเชียวว่าฉันอิจฉาอาวุธใหม่ของอัลฟิโน ของพวกนั้นเหมาะกับเขามากกว่าฉันตั้งเยอะ"
+    },
+    {
+      "key": "weleftforeorzeainmatchingoutfitsbutourstylesbothfashionandfightinghavelongsincedivergedifanythingimproudofthedifferencesbetweenus",
+      "text_en": "We left for Eorzea in matching outfits, but our styles─both fashion and fighting─have long since diverged. If anything, I'm proud of the differences between us.",
+      "text": "พวกเราเดินทางไป เอโอลเซีย ด้วยชุดที่เหมือนกันก็จริง แต่รูปแบบของเรา ทั้งเรื่องแฟชั่นและการต่อสู้ ต่างแยกย้ายทางกันไปนานแล้ว หากจะรู้สึกอะไร ฉันกลับภูมิใจในความแตกต่างระหว่างพวกเราด้วยซ้ำ"
+    },
+    {
+      "key": "ifiintendtomasterthesesagesarmamentsthatwillmeanlearningtoimbuethemwiththesameaetherthatipouredintomoonstoneandobsidian",
+      "text_en": "If I intend to master these sage's armaments, that will mean learning to imbue them with the same aether that I poured into Moonstone and Obsidian.",
+      "text": "หากผมคิดจะเชี่ยวชาญอาวุธของปราชญ์เหล่านี้ นั่นหมายความว่าผมต้องเรียนรู้ที่จะผสานพวกมันด้วย เอเธอร์ แบบเดียวกับที่เคยถ่ายเทลงไปใน มูนสโตน และ ออบซิเดียน"
+    },
+    {
+      "key": "tisdifficulttograsptheessenceofsuchanentityformeitwillhelptothinkofthenoulithsasalliesinbattlesimplyanewformoftheenergywhichwentintomanifestingmycarbunclecompanions",
+      "text_en": "'Tis difficult to grasp the essence of such an entity... For me, it will help to think of the nouliths as allies in battle─simply a new form of the energy which went into manifesting my Carbuncle companions.",
+      "text": "การทำความเข้าใจแก่นแท้ของสิ่งนี้ช่างยากเย็น... สำหรับผม การคิดว่าอาวุธนูลิธเป็นสหายร่วมรบคงช่วยได้มาก มันก็แค่พลังงานรูปแบบใหม่ซึ่งเคยใช้เนรมิตเพื่อนพ้อง คาร์บังเคิล ของผมขึ้นมา"
+    },
+    {
+      "key": "forustofeelresponsiblefortheschismofhouseleveilleurwouldbepurehubrisafterallwearemerelyontheoutskirtsofwhatisessentiallyafamilyaffair",
+      "text_en": "For us to feel responsible for the schism of House Leveilleur would be pure hubris. After all, we are merely on the outskirts of what is, essentially, a family affair.",
+      "text": "หากคิดว่าพวกเราต้องรับผิดชอบต่อความร้าวฉานในตระกูลเลเวอเยอร์ก็คงถือดีเกินไป อย่างไรเสีย เรื่องนี้ก็เป็นเรื่องภายในครอบครัว และพวกเราก็เป็นเพียงคนนอกเท่านั้น"
+    },
+    {
+      "key": "andyetneithercanweclaimtheindifferenceofstrangerstoheartheirmotherwelcomethemsowarmlywasajoyandarelief",
+      "text_en": "And yet neither can we claim the indifference of strangers. To hear their mother welcome them so warmly was a joy...and a relief.",
+      "text": "ทว่าพวกเราก็ไม่อาจทำเป็นทองไม่รู้ร้อนเหมือนคนแปลกหน้าได้เช่นกัน การได้ยินพระแม่ต้อนรับพวกเขาอย่างอบอุ่นช่างน่าปีติ...และเบาใจเหลือเกิน"
+    },
+    {
+      "key": "ascuriousasiamtolearnthetruthofthisdutyiwonderwhatelsetheforumishidingacalamitoussecretwhoseoriginliesintheaetherialsea",
+      "text_en": "As curious as I am to learn the truth of this “duty,” I wonder what else the Forum is hiding. A calamitous secret whose origin lies in the aetherial sea...",
+      "text": "แม้จะอยากรู้ความจริงเรื่อง 'หน้าที่' นี้เพียงใด แต่ฉันก็อดสงสัยไม่ได้ว่าสภาฟอรัมยังซุกซ่อนสิ่งใดไว้อีก ความลับอันนำมาซึ่งภัยพิบัติที่มีต้นตออยู่ในทะเลเอเธอร์..."
+    },
+    {
+      "key": "duplicityasidehoweveridonotbelievemasterfourchenaultmeansusilleventheharshwordshehadforhischildrenstemmednotfromangerithinkbutdesperation",
+      "text_en": "Duplicity aside, however, I do not believe Master Fourchenault means us ill. Even the harsh words he had for his children stemmed not from anger, I think, but desperation.",
+      "text": "แต่หากไม่นับเรื่องลับลมคมใน ฉันไม่เชื่อว่าท่านฟูร์เชอโนต์จะมีเจตนาร้ายต่อพวกเรา แม้แต่ถ้อยคำรุนแรงที่เขามีต่อกลุ่มชิลเดรนก็ไม่ได้มาจากความโกรธเกรี้ยว หากแต่เกิดจากความสิ้นหวัง"
+    },
+    {
+      "key": "enjoyedyourtimewiththeleveilleursihopeiwouldaskhowthetwinsfaredbuttheirnewoutfitstellthetale",
+      "text_en": "Enjoyed your time with the Leveilleurs, I hope? I would ask how the twins fared, but their new outfits tell the tale!",
+      "text": "หวังว่าเธอคงจะเพลิดเพลินกับตระกูลเลเวอเยอร์นะ ฉันเกือบจะถามแล้วเชียวว่าคู่แฝดเป็นอย่างไรบ้าง แต่ชุดใหม่ของพวกเขาก็บอกทุกอย่างแล้ว!"
+    },
+    {
+      "key": "ionlyhopewecanhelpthemtoreconcilewiththeirfatherthattheymightreturnhomeonedaywiththeirheadsheldhigh",
+      "text_en": "I only hope we can help them to reconcile with their father, that they might return home one day with their heads held high...",
+      "text": "ฉันเพียงแต่หวังว่าพวกเราจะช่วยให้พวกเขาปรับความเข้าใจกับบิดาได้ เพื่อที่วันหนึ่งพวกเขาจะได้กลับบ้านอย่างยืดอกภาคภูมิ..."
+    },
+    {
+      "key": "inthemeantimeweedgeeverclosertothesecrettheforumstrivestohideandtheflowerbequeathedtoyoubyhydaelynissuretoguideusgoingforward",
+      "text_en": "In the meantime, we edge ever closer to the secret the Forum strives to hide. And the flower bequeathed to you by Hydaelyn is sure to guide us going forward.",
+      "text": "ในระหว่างนี้ พวกเรากำลังเข้าใกล้ความลับที่สภาฟอรัมเพียรซุกซ่อนเข้าไปทุกขณะ และดอกไม้ที่ไฮเดลินประทานให้แก่เธอก็จะนำทางพวกเราก้าวต่อไปข้างหน้าได้อย่างแน่นอน"
+    },
+    {
+      "key": "imconfidentthatonceyouvescoutedoutthesituationinthavnairwellbewellequippedtoplotoutournextmove",
+      "text_en": "I'm confident that once you've scouted out the situation in Thavnair, we'll be well equipped to plot out our next move!",
+      "text": "มั่นใจเหลือเกินว่าเมื่อเธอไปสืบดูสถานการณ์ในทาฟเนียร์เสร็จเรียบร้อยแล้ว พวกเราจะพร้อมสำหรับวางแผนก้าวต่อไปได้อย่างแน่นอน!"
+    },
+    {
+      "key": "imconfidentthatonceweveheardyourreportfromthavnairwellbewellequippedtoplotoutournextmove",
+      "text_en": "I'm confident that once we've heard your report from Thavnair, we'll be well equipped to plot out our next move!",
+      "text": "มั่นใจเหลือเกินว่าเมื่อพวกเราได้รับฟังรายงานจากทาฟเนียร์ของเธอแล้ว พวกเราจะพร้อมสำหรับวางแผนก้าวต่อไปได้อย่างแน่นอน!"
+    },
+    {
+      "key": "itswonderfulhowagarmentgiveninlovecansoeasilychangeoneswholeoutlook",
+      "text_en": "It's wonderful how a garment given in love can so easily change one's whole outlook.",
+      "text": "ช่างน่าอัศจรรย์เหลือเกินที่เสื้อผ้าซึ่งมอบให้ด้วยความรักสามารถเปลี่ยนมุมมองของคนเราได้ง่ายดายถึงเพียงนี้"
+    },
+    {
+      "key": "irememberwheniwasstillcomingtotermswithmytalentintheechojustbeingwrappedintherobemygrandfathergavemesomehowmadeeverythinglessdaunting",
+      "text_en": "I remember when I was still coming to terms with my talent in the Echo. Just being wrapped in the robe my grandfather gave me somehow made everything less daunting.",
+      "text": "ฉันยังจำได้ตอนที่ยังพยายามปรับตัวให้คุ้นชินกับพรสวรรค์แห่งเอคโค่ แค่ได้ซุกตัวอยู่ในเสื้อคลุมที่คุณปู่ให้มา เรื่องน่าหวาดหวั่นทั้งหลายก็ดูเบาบางลงอย่างบอกไม่ถูก"
+    }
+  ]
+}

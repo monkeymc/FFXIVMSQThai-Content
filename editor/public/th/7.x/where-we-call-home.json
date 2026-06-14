@@ -1,0 +1,810 @@
+{
+  "quest_id": "where-we-call-home",
+  "dialogues": [
+    {
+      "key": "ireallycouldhavegonewithoutadoomtrainattacktoday",
+      "text_en": "I really could have gone without a Doomtrain attack today...",
+      "text": "วันนี้ถ้าไม่มีดูมเทรนบุกมาอาละวาดสักวันคงจะดีไม่น้อย..."
+    },
+    {
+      "key": "readythenourfearlessoperatorwillhelpyouaboard",
+      "text_en": "Ready? Then our fearless operator will help you aboard.",
+      "text": "พร้อมหรือยังล่ะ ถ้าพร้อมแล้ว พนักงานผู้ไม่เกรงกลัวสิ่งใดของเราจะช่วยพาขึ้นรถเอง"
+    },
+    {
+      "key": "wemakeforbentiniwithallhaste",
+      "text_en": "We make for Bentini with all haste!",
+      "text": "ต้องรีบมุ่งหน้าไปเบนตินีให้เร็วที่สุด!"
+    },
+    {
+      "key": "goonclimbaboard",
+      "text_en": "Go on, climb aboard!",
+      "text": "เอาละ ขึ้นรถกันได้แล้ว!"
+    },
+    {
+      "key": "illhaveusthereinaflashdokeepanylimbsyoureattachedtoandwouldliketoremainattachedtoinsidethevehicle",
+      "text_en": "I'll have us there in a flash! Do keep any limbs you're attached to and would like to remain attached to inside the vehicle.",
+      "text": "จะพาซิ่งไปถึงในพริบตาเดียวเลย! แต่ช่วยเก็บแข้งเก็บขาที่ยังติดอยู่กับตัวและอยากให้มันอยู่ติดกันต่อไปไว้ข้างในตัวรถด้วยล่ะ"
+    },
+    {
+      "key": "thisisit",
+      "text_en": "This is it.",
+      "text": "เอาละ นี่แหละ"
+    },
+    {
+      "key": "youllberidingthatflatcarattherearofthetrain",
+      "text_en": "You'll be riding that flatcar at the rear of the train.",
+      "text": "ต้องขึ้นไปอยู่บนโบกี้พื้นเรียบตรงท้ายขบวนนั่นนะ"
+    },
+    {
+      "key": "illbeallthewayatthefrontpushingherasfastasshecango",
+      "text_en": "I'll be all the way at the front, pushing her as fast as she can go.",
+      "text": "ส่วนฉันจะอยู่หน้าสุด คอยเร่งเครื่องมันให้วิ่งเร็วที่สุดเท่าที่จะทำได้"
+    },
+    {
+      "key": "thedoomtrainmovesatbreakneckspeedifweretooslowitllplowrightthroughus",
+      "text_en": "The Doomtrain moves at breakneck speed. If we're too slow, it'll plow right through us.",
+      "text": "ดูมเทรนแล่นเร็วปานพายุ ถ้าช้าเกินไป มันจะพุ่งชนจนแหลกยับแน่"
+    },
+    {
+      "key": "speakingofwhichwedbestgetunderwaybeforeitdoesjustthat",
+      "text_en": "Speaking of which, we'd best get underway before it does just that...",
+      "text": "พูดถึงเรื่องนี้ รีบออกเดินทางก่อนที่มันจะทำแบบนั้นดีกว่า..."
+    },
+    {
+      "key": "dontforgetyourefightingforeyaneyforalloftreno",
+      "text_en": "Don't forget you're fighting for Eyaney. For all of Treno.",
+      "text": "อย่าลืมว่าเธอสู้เพื่อเอยาเนย์ เพื่อชาวเทรโนทุกคน"
+    },
+    {
+      "key": "hitbyatrainintrenoorhitbyatrainouthereitsallthesametome",
+      "text_en": "Hit by a train in Treno or hit by a train out here, it's all the same to me.",
+      "text": "จะโดนรถไฟชนในเทรโนหรือโดนนอกเมือง ก็ไม่ต่างกันสำหรับฉันหรอก"
+    },
+    {
+      "key": "usingouronboardsystemsishouldbeabletomonitoryoufromthelocomotiveandyoullbeabletohearme",
+      "text_en": "Using our on-board systems, I should be able to monitor you from the locomotive. And you'll be able to hear me!",
+      "text": "ฉันจะจับตาดูจากหัวรถจักรด้วยระบบบนรถนี่แหละ แล้วจะได้ยินเสียงฉันส่งตรงไปด้วย!"
+    },
+    {
+      "key": "hereitcomesbraceforimpact",
+      "text_en": "Here it comes! Brace for impact!",
+      "text": "มาแล้ว! เตรียมรับแรงกระแทก!"
+    },
+    {
+      "key": "wereinitnowimcountingonyou",
+      "text_en": "We're in it now... I'm counting on you!",
+      "text": "ถอยไม่ได้แล้ว... ฝากด้วยนะ!"
+    },
+    {
+      "key": "waughtheflatcar",
+      "text_en": "Waugh, the flatcar!",
+      "text": "หวา! รถแคร่บรรทุก!"
+    },
+    {
+      "key": "turretsuhgoodluck",
+      "text_en": "Turrets!? Uh...good luck!",
+      "text": "ป้อมปืนงั้นรึ!? เอ่อ... ขอให้โชคดีนะ!"
+    },
+    {
+      "key": "notagainyouallrightbackthere",
+      "text_en": "Not again... You all right back there?",
+      "text": "อีกแล้วเหรอ... ข้างหลังเป็นยังไงบ้าง"
+    },
+    {
+      "key": "usethetransportpanelstogetupthere",
+      "text_en": "Use the transport panels to get up there!",
+      "text": "ใช้แท่นส่งตัวขึ้นไปข้างบนเร็ว!"
+    },
+    {
+      "key": "howmanytimesisitgoingtodothat",
+      "text_en": "How many times is it going to do that!?",
+      "text": "จะทำแบบนั้นอีกกี่รอบกัน!"
+    },
+    {
+      "key": "whatintheyourestillonboardright",
+      "text_en": "What in the─ You're still on board, right!?",
+      "text": "อะไรกันเนี่ย─ ยังอยู่บนรถใช่ไหม!?"
+    },
+    {
+      "key": "aetherialarms",
+      "text_en": "Aetherial...arms...?",
+      "text": "อาวุธ...เอเธอร์...?"
+    },
+    {
+      "key": "ihavetodisconnectthecarquickjumponthenextone",
+      "text_en": "I have to disconnect the car. Quick, jump on the next one!",
+      "text": "ต้องปลดตู้รถไฟแล้ว รีบกระโดดไปตู้นั้นเร็ว!"
+    },
+    {
+      "key": "thunderousheavens",
+      "text_en": "Thunderous heavens!",
+      "text": "สายฟ้าฟาด!"
+    },
+    {
+      "key": "hititharder",
+      "text_en": "Hit it harder!",
+      "text": "อัดให้แรงกว่านี้อีก!"
+    },
+    {
+      "key": "phew",
+      "text_en": "Phew...",
+      "text": "เฮ้อ..."
+    },
+    {
+      "key": "nomoreadventuresthankyouthatwasenoughbraveryforalifetime",
+      "text_en": "No more adventures, thank you. That was enough bravery for a lifetime.",
+      "text": "ไม่เอาเรื่องผจญภัยอีกแล้วละ ความกล้าหาญแค่นั้นน่ะมีหนเดียวในชีวิตก็เกินพอแล้ว"
+    },
+    {
+      "key": "butwediditwestoppedthedoomtrainwellmostlyyoudid",
+      "text_en": "But we did it! We stopped the Doomtrain! Well, mostly you did.",
+      "text": "แต่เราทำสำเร็จแล้ว! หยุดดูมเทรนได้แล้ว! เอ้อ...แต่เป็นฝีมือนายเกือบทั้งหมดละนะ"
+    },
+    {
+      "key": "beforewecancelebratethoughweneedtomakesuretrenossecure",
+      "text_en": "Before we can celebrate, though, we need to make sure Treno's secure.",
+      "text": "แต่ก่อนจะฉลองกันได้ ต้องแน่ใจก่อนว่าเทรโนปลอดภัยดีแล้ว"
+    },
+    {
+      "key": "asifearedstraybeaststothesouth",
+      "text_en": "As I feared. Stray beasts to the south.",
+      "text": "เป็นอย่างที่กลัวไม่มีผิด พวกสัตว์ร้ายหลงฝูงอยู่ทางทิศใต้"
+    },
+    {
+      "key": "ivelosttrackofhowmanytimesiveaskedyouforhelpbutineedyourhelpagain",
+      "text_en": "I've lost track of how many times I've asked you for help, but...I need your help again.",
+      "text": "ฉันจำไม่ได้แล้วว่าขอให้เธอช่วยกี่ครั้งกี่หน แต่...ครั้งนี้ยังต้องขอแรงเธออีกสักรอบนะ"
+    },
+    {
+      "key": "ihavetobelievethateyaneywillbesafewithyourcomradeswhileweattendtomatterselsewhere",
+      "text_en": "I have to believe that Eyaney will be safe with your comrades while we attend to matters elsewhere.",
+      "text": "ฉันเชื่อว่าเอียเนย์คงปลอดภัยดีเมื่ออยู่กับพวกพ้องของเธอ ระหว่างที่เราแยกย้ายไปจัดการธุระทางอื่น"
+    },
+    {
+      "key": "illseetothewoundedyoutrynottojointhemalright",
+      "text_en": "I'll see to the wounded. You try not to join them, alright?",
+      "text": "ฉันจะไปดูแลพวกคนเจ็บเอง เธอก็ระวังตัวอย่าให้เจ็บตัวไปอีกคนล่ะ ตกลงไหม"
+    },
+    {
+      "key": "no",
+      "text_en": "No!",
+      "text": "ไม่นะ!"
+    },
+    {
+      "key": "canyoustand",
+      "text_en": "Can you stand?",
+      "text": "ลุกไหวไหม"
+    },
+    {
+      "key": "yyesthankyousomuch",
+      "text_en": "Y-Yes! Thank you so much!",
+      "text": "ว-ไหวค่ะ! ขอบพระคุณมากนะคะ!"
+    },
+    {
+      "key": "therewereothersbeingattackedoverbythecanalcouldyoupossibly",
+      "text_en": "There were others being attacked over by the canal. Could you possibly...?",
+      "text": "พวกอสูรกายกำลังไล่ทำร้ายคนอื่นอยู่แถวคลองส่งน้ำค่ะ พอจะช่วยพวกเขาสักหน่อยได้ไหมคะ..."
+    },
+    {
+      "key": "ofcourseillgorightawaytherestofyoushouldgettothetownhall",
+      "text_en": "Of course, I'll go right away. The rest of you should get to the town hall.",
+      "text": "แน่นอนจ้ะ ฉันจะรีบไปเดี๋ยวนี้ ส่วนพวกเธอที่เหลือรีบไปที่ศาลากลางเมืองก่อนเถอะ"
+    },
+    {
+      "key": "icantleaveanyonebehindiwont",
+      "text_en": "I can't leave anyone behind. I won't!",
+      "text": "ฉันทิ้งใครไว้ข้างหลังไม่ได้หรอก ไม่มีวัน!"
+    },
+    {
+      "key": "bestmakesuretheevacuationrouteisclearfirst",
+      "text_en": "Best make sure the evacuation route is clear first...",
+      "text": "ควรตรวจดูให้แน่ใจก่อนว่าเส้นทางอพยพของโลกที่หนึ่งปลอดโปร่ง..."
+    },
+    {
+      "key": "donenowtoaidthosepeoplebythecanal",
+      "text_en": "Done! Now to aid those people by the canal...",
+      "text": "เรียบร้อย! ทีนี้ก็ต้องไปช่วยคนแถวคลองส่งน้ำแล้ว..."
+    },
+    {
+      "key": "hheeelp",
+      "text_en": "H-Heeelp!",
+      "text": "ช-ช่วยด้วย!"
+    },
+    {
+      "key": "waugh",
+      "text_en": "Waugh!",
+      "text": "แว้ก!"
+    },
+    {
+      "key": "weretrapped",
+      "text_en": "We're trapped!",
+      "text": "ติดอยู่ข้างใน หนีไม่ได้แล้ว!"
+    },
+    {
+      "key": "",
+      "text_en": "<shriek>",
+      "text": "<เสียงกรีดร้องแหลมสูง>"
+    },
+    {
+      "key": "helpisontheway",
+      "text_en": "Help is on the way!",
+      "text": "กำลังไปช่วยแล้ว!"
+    },
+    {
+      "key": "sscaredwhommme",
+      "text_en": "S-Scared? Who, m-m-me?",
+      "text": "ก-กลัวงั้นเหรอ ใคร ฉ-ฉันน่ะเหรอ"
+    },
+    {
+      "key": "mythanks",
+      "text_en": "My thanks!",
+      "text": "ขอบคุณจริงๆ!"
+    },
+    {
+      "key": "whatincrediblemagic",
+      "text_en": "What incredible magic!",
+      "text": "ช่างเป็นเวทมนตร์ที่วิเศษเหลือเกิน!"
+    },
+    {
+      "key": "gettosafety",
+      "text_en": "Get to safety!",
+      "text": "รีบหนีไปที่ปลอดภัยเร็วเข้า!"
+    },
+    {
+      "key": "theremaybeotherstragglers",
+      "text_en": "There may be other stragglers...",
+      "text": "คนอื่นอาจยังพลัดหลงตกค้างอยู่..."
+    },
+    {
+      "key": "iwassoscaredicouldntevenmovesillyisntithahahaha",
+      "text_en": "I was so scared I couldn't even move! Silly, isn't it? Haha...ha...ha...",
+      "text": "กลัวจนขยับตัวไม่ได้เลยสักนิด! น่าขันสิ้นดีใช่ไหมล่ะครับ ฮ่า...ฮ่า...ฮ่า..."
+    },
+    {
+      "key": "mywifeandiwillbemakingfortownhallstraightawayyouhavemywordonthat",
+      "text_en": "My wife and I will be making for town hall straightaway. You have my word on that!",
+      "text": "ผมกับภรรยาจะตรงไปยังศาลากลางทันที ขอให้เชื่อในพระวจนะของผมได้เลย!"
+    },
+    {
+      "key": "ifyouredeterminedtocheckoneveryoneiwontcomplainbutdobecareful",
+      "text_en": "If you're determined to check on everyone, I won't complain, but do be careful.",
+      "text": "หากคุณยืนกรานจะไปตรวจดูทุกคนให้ทั่ว ผมก็ไม่ว่าอะไรหรอกครับ แต่ต้องระวังตัวด้วยนะ"
+    },
+    {
+      "key": "comeon",
+      "text_en": "Come on!",
+      "text": "เร็วเข้า!"
+    },
+    {
+      "key": "becareful",
+      "text_en": "Be careful!",
+      "text": "ระวังตัวด้วยนะ!"
+    },
+    {
+      "key": "thatbreezeisawfullywarmohno",
+      "text_en": "That breeze is awfully warm... Oh no!",
+      "text": "สายลมพัดมาร้อนผ่าวพิกล... แย่แล้ว!"
+    },
+    {
+      "key": "ourhome",
+      "text_en": "Our home...",
+      "text": "บ้านของเรา..."
+    },
+    {
+      "key": "itsreallyonfire",
+      "text_en": "It's really on fire!",
+      "text": "ไฟไหม้จริงๆ ด้วย!"
+    },
+    {
+      "key": "aaaaaaah",
+      "text_en": "Aaaaaaah!",
+      "text": "อ๊ากกกกกก!"
+    },
+    {
+      "key": "wecanthaulenoughwaterforthis",
+      "text_en": "We can't haul enough water for this...",
+      "text": "หิ้วน้ำมาเท่าไรก็คงไม่พอแน่..."
+    },
+    {
+      "key": "inoticedbringwater",
+      "text_en": "I noticed! Bring water!",
+      "text": "รู้แล้วน่า! เอาน้ำมาเร็วเข้า!"
+    },
+    {
+      "key": "firstthingsfirstthefire",
+      "text_en": "First things first─the fire!",
+      "text": "เรื่องสำคัญที่สุดในโลกที่หนึ่ง─ไฟไหม้!"
+    },
+    {
+      "key": "totakealeafoutofyshtolasbook",
+      "text_en": "To take a leaf out of Y'shtola's book...",
+      "text": "ขอลอกตำราของยาชโตล่ามาใช้หน่อยแล้วกัน..."
+    },
+    {
+      "key": "thankyoumyfriend",
+      "text_en": "Thank you, my friend!",
+      "text": "ขอบใจนะจ๊ะเพื่อนยาก!"
+    },
+    {
+      "key": "whatsortofmagicwasthativeneverseenthelike",
+      "text_en": "What sort of magic was that? I've never seen the like!",
+      "text": "นั่นมันเวทมนตร์อะไรกัน ไม่เคยเห็นอะไรแบบนี้มาก่อนเลย!"
+    },
+    {
+      "key": "prioritiesyesimgoingtorunawayandwecantalkaboutitlater",
+      "text_en": "...Priorities. Yes. I'm going to run away, and we can talk about it later!",
+      "text": "...เอาตัวรอดก่อน ใช่แล้ว! ผมขอเผ่นก่อนล่ะ เรื่องอื่นค่อยคุยกันทีหลัง!"
+    },
+    {
+      "key": "letsgo",
+      "text_en": "Let's go!",
+      "text": "รีบไปกันเถอะ!"
+    },
+    {
+      "key": "itwasyouthatputthefireouthowwillieverthankyou",
+      "text_en": "It was you that put the fire out? How will I ever thank you...",
+      "text": "คุณเป็นคนช่วยดับไฟอย่างนั้นหรือครับ ไม่รู้จะตอบแทนพระคุณยังไงดี..."
+    },
+    {
+      "key": "nowthatweknowitwontbespreadinganyfurtherwecanalltakeshelteruntilthisisover",
+      "text_en": "Now that we know it won't be spreading any further, we can all take shelter until this is over.",
+      "text": "ในเมื่อไฟจะไม่ลามไปมากกว่านี้แล้ว พวกเราก็หลบภัยรอจนกว่าเรื่องวุ่นวายจะจบลงเถอะครับ"
+    },
+    {
+      "key": "icannotthankyouenough",
+      "text_en": "I cannot thank you enough!",
+      "text": "ผมไม่รู้จะขอบคุณท่านอย่างไรดี!"
+    },
+    {
+      "key": "notamomenttoosoonihopethatwastheworstofit",
+      "text_en": "Not a moment too soon... I hope that was the worst of it.",
+      "text": "ทันเวลาหวุดหวิดเลย... หวังว่าเรื่องร้ายแรงที่สุดจะผ่านพ้นไปแล้วนะ"
+    },
+    {
+      "key": "somebodyhelp",
+      "text_en": "Somebody, help!",
+      "text": "ใครก็ได้ ช่วยด้วย!"
+    },
+    {
+      "key": "avoicefurtherout",
+      "text_en": "A voice...further out!",
+      "text": "เสียงร้อง... แว่วมาจากข้างนอกโน่น!"
+    },
+    {
+      "key": "eek",
+      "text_en": "Eek!",
+      "text": "กรี๊ด!"
+    },
+    {
+      "key": "illtakecareofthismakeforshelter",
+      "text_en": "I'll take care of this─make for shelter!",
+      "text": "ทางนี้ฉันจัดการเอง—รีบไปหาที่หลบภัยเร็วเข้า!"
+    },
+    {
+      "key": "phew",
+      "text_en": "Phew...",
+      "text": "เฮ้อ..."
+    },
+    {
+      "key": "thatwasclose",
+      "text_en": "That was close...",
+      "text": "เกือบไปแล้ว..."
+    },
+    {
+      "key": "ack",
+      "text_en": "Ack!",
+      "text": "อ๊าก!"
+    },
+    {
+      "key": "howmanyarethere",
+      "text_en": "How many are there...?",
+      "text": "พวกมันแห่กันมาตั้งเท่าไหร่กันแน่..."
+    },
+    {
+      "key": "isthatallofthem",
+      "text_en": "Is that all of them...?",
+      "text": "หมดแค่นี้แล้วใช่ไหม..."
+    },
+    {
+      "key": "abehemoth",
+      "text_en": "A behemoth!?",
+      "text": "เบเฮมอทงั้นหรือ!?"
+    },
+    {
+      "key": "wecutthatratherclose",
+      "text_en": "We cut that rather close.",
+      "text": "เฉียดฉิวไปนิดเดียวจริง ๆ"
+    },
+    {
+      "key": "thankgoodnessyoureallright",
+      "text_en": "Thank goodness you're all right!",
+      "text": "โล่งอกไปทีที่ท่านปลอดภัยดี!"
+    },
+    {
+      "key": "eyaneyhasfinishedtherepairsweneedonlyholdthelineuntilthebarrierisinplace",
+      "text_en": "Eyaney has finished the repairs. We need only hold the line until the barrier is in place.",
+      "text": "เอยาเนย์ซ่อมเสร็จแล้ว เราแค่ต้องต้านไว้จนกว่าบาเรียจะกางออก"
+    },
+    {
+      "key": "andholdthelinewewilltogether",
+      "text_en": "And hold the line we will, together!",
+      "text": "และเราจะต้านไว้ด้วยกัน!"
+    },
+    {
+      "key": "icanstillfightican",
+      "text_en": "I can still fight! I can!",
+      "text": "ฉันยังสู้ไหว! ยังไหวอยู่!"
+    },
+    {
+      "key": "ihavenodoubt",
+      "text_en": "I have no doubt!",
+      "text": "เรื่องนั้นฉันไม่สงสัยเลยล่ะ!"
+    },
+    {
+      "key": "spreadout",
+      "text_en": "Spread out!",
+      "text": "กระจายกำลังออกไป!"
+    },
+    {
+      "key": "ohdear",
+      "text_en": "Oh dear...",
+      "text": "ตายจริง..."
+    },
+    {
+      "key": "getback",
+      "text_en": "Get back!",
+      "text": "ถอยไป!"
+    },
+    {
+      "key": "wemustmove",
+      "text_en": "We must move!",
+      "text": "ต้องรีบไปแล้ว!"
+    },
+    {
+      "key": "getclear",
+      "text_en": "Get clear!",
+      "text": "หลบออกไปให้พ้นค่ะ!"
+    },
+    {
+      "key": "preparetomove",
+      "text_en": "Prepare to move...",
+      "text": "เตรียมตัวขยับ..."
+    },
+    {
+      "key": "suchincrediblepower",
+      "text_en": "Such incredible power...",
+      "text": "พลังช่างมหาศาลเหลือเกิน..."
+    },
+    {
+      "key": "run",
+      "text_en": "Run!",
+      "text": "วิ่งเร็ว!"
+    },
+    {
+      "key": "thunderheads",
+      "text_en": "Thunderheads...",
+      "text": "เมฆฝนฟ้าคะนอง..."
+    },
+    {
+      "key": "keepawayfromtheclouds",
+      "text_en": "Keep away from the clouds!",
+      "text": "อยู่ให้ห่างจากเมฆพวกนั้นไว้ค่ะ!"
+    },
+    {
+      "key": "ifineverseeanotherstorm",
+      "text_en": "If I never see another storm...",
+      "text": "ถ้าชีวิตนี้ไม่ต้องเจอพายุอีกเลยก็คงดี..."
+    },
+    {
+      "key": "nowhereissafewithsomanyofthem",
+      "text_en": "Nowhere is safe with so many of them...",
+      "text": "พวกมันแห่กันมามากขนาดนี้ คงหาที่ปลอดภัยไม่ได้อีกแล้ว..."
+    },
+    {
+      "key": "weneedasolution",
+      "text_en": "We need a solution!",
+      "text": "เราต้องหาทางออกแล้ว!"
+    },
+    {
+      "key": "somefriendlywindsifyouplease",
+      "text_en": "Some friendly winds, if you please!",
+      "text": "ขอสายลมที่เป็นมิตรมาช่วยหน่อยนะ!"
+    },
+    {
+      "key": "letusseeifwecantgetsomehelp",
+      "text_en": "Let us see if we can't get some help...",
+      "text": "ลองดูซิว่าพอจะหาใครมาช่วยได้บ้าง..."
+    },
+    {
+      "key": "visionsofhaam",
+      "text_en": "Visions of Haam...",
+      "text": "นิมิตแห่งฮาม..."
+    },
+    {
+      "key": "welldonekrile",
+      "text_en": "Well done, Krile!",
+      "text": "ทำได้ดีมาก คริล!"
+    },
+    {
+      "key": "clever",
+      "text_en": "Clever...",
+      "text": "ฉลาดจริง..."
+    },
+    {
+      "key": "itworked",
+      "text_en": "It worked!",
+      "text": "ได้ผลด้วย!"
+    },
+    {
+      "key": "howfortunatethatbirdmadesuchanimpression",
+      "text_en": "How fortunate that bird made such an impression.",
+      "text": "โชคดีเหลือเกินที่เจ้านกตัวนั้นสร้างความประทับใจไว้ได้ขนาดนี้"
+    },
+    {
+      "key": "fromabove",
+      "text_en": "From above!",
+      "text": "มาจากข้างบน!"
+    },
+    {
+      "key": "havecare",
+      "text_en": "Have care!",
+      "text": "ระวังตัวด้วย!"
+    },
+    {
+      "key": "again",
+      "text_en": "Again!?",
+      "text": "อีกแล้วรึ!?"
+    },
+    {
+      "key": "lookforthegaps",
+      "text_en": "Look for the gaps!",
+      "text": "มองหาช่องหลบไว้!"
+    },
+    {
+      "key": "grrroooaaar",
+      "text_en": "Grrroooaaar!",
+      "text": "โฮกกก!"
+    },
+    {
+      "key": "aaah",
+      "text_en": "Aaah!",
+      "text": "ว้าย!"
+    },
+    {
+      "key": "",
+      "text_en": "<grunt>",
+      "text": "อั่ก..."
+    },
+    {
+      "key": "oof",
+      "text_en": "Oof!",
+      "text": "อึก!"
+    },
+    {
+      "key": "ah",
+      "text_en": "Ah...",
+      "text": "อา..."
+    },
+    {
+      "key": "thelevingrowsmorevolatilesomethingiscoming",
+      "text_en": "The levin grows more volatile... Something is coming.",
+      "text": "สายฟ้ายิ่งทวีความปั่นป่วน... บางอย่างกำลังมา"
+    },
+    {
+      "key": "balllightning",
+      "text_en": "Ball lightning!",
+      "text": "ลูกบอลสายฟ้า!"
+    },
+    {
+      "key": "yshtolasphenelendmeyourstrength",
+      "text_en": "Y'shtola, Sphene─lend me your strength!",
+      "text": "ยาชโทลา สฟีน─ขอแรงพวกเธอหน่อย!"
+    },
+    {
+      "key": "ofcourse",
+      "text_en": "Of course.",
+      "text": "แน่นอนอยู่แล้ว"
+    },
+    {
+      "key": "understood",
+      "text_en": "Understood!",
+      "text": "เข้าใจแล้ว!"
+    },
+    {
+      "key": "thetwoofuswilldispersetheseballsoflightning",
+      "text_en": "The two of us will disperse these balls of lightning!",
+      "text": "พวกเราสองคนจะช่วยกันสลายลูกบอลสายฟ้าพวกนี้เอง!"
+    },
+    {
+      "key": "justkeepthelightningatbayalittlelonger",
+      "text_en": "Just keep the lightning at bay a little longer!",
+      "text": "ต้านสายฟ้าไว้ก่อน อีกอึดใจเดียวเท่านั้น!"
+    },
+    {
+      "key": "takecoverbehindthespriggan",
+      "text_en": "Take cover behind the spriggan!",
+      "text": "หลบหลังสปริกแกนเร็วเข้า!"
+    },
+    {
+      "key": "ibelieve",
+      "text_en": "I believe!",
+      "text": "ฉันเชื่อมั่นในตัวพวกท่านนะ!"
+    },
+    {
+      "key": "butwillitbeenough",
+      "text_en": "But will it be enough...",
+      "text": "แต่จะเพียงพอแน่หรือ..."
+    },
+    {
+      "key": "weareinyourdebt",
+      "text_en": "We are in your debt!",
+      "text": "พวกเราเป็นหนี้บุญคุณท่านเหลือเกิน!"
+    },
+    {
+      "key": "fantastic",
+      "text_en": "Fantastic!",
+      "text": "วิเศษมาก!"
+    },
+    {
+      "key": "ngh",
+      "text_en": "<huff> ...Ngh...",
+      "text": "<หอบ> ...อึก..."
+    },
+    {
+      "key": "impressive",
+      "text_en": "Impressive.",
+      "text": "น่าประทับใจจริงๆ"
+    },
+    {
+      "key": "thetideisturningpresstheattack",
+      "text_en": "The tide is turning. Press the attack!",
+      "text": "กระแสศึกเริ่มเปลี่ยนทิศแล้ว บุกเข้าไปเลย!"
+    },
+    {
+      "key": "exhaustedsigh",
+      "text_en": "[EXHAUSTED SIGH]",
+      "text": "[ถอนหายใจอย่างเหนื่อยอ่อน]"
+    },
+    {
+      "key": "imustsaythatwasanincredibleperformance",
+      "text_en": "I must say, that was an incredible performance.",
+      "text": "ต้องยอมรับเลยว่าฝีมือเมื่อกี้ช่างยอดเยี่ยมเหลือเกิน"
+    },
+    {
+      "key": "flatterer",
+      "text_en": "Flatterer.",
+      "text": "ปากหวานจริงนะ"
+    },
+    {
+      "key": "whatisit",
+      "text_en": "What is it?",
+      "text": "เกิดอะไรขึ้นหรือคะ"
+    },
+    {
+      "key": "thebarrierisrestoredthepeopleoftrenomayresteasyoncemore",
+      "text_en": "The barrier is restored. The people of Treno may rest easy once more.",
+      "text": "บาเรียฟื้นกลับคืนมาแล้ว ชาวเทรโนจะได้พักผ่อนอย่างสบายใจเสียที"
+    },
+    {
+      "key": "theperimeteriscleareveryoneandthankstoourgueststhedoomtrainhasbeendestroyed",
+      "text_en": "The perimeter is clear, everyone! And thanks to our guests, the Doomtrain has been destroyed!",
+      "text": "พื้นที่รอบนอกปลอดภัยแล้วทุกคน! และต้องขอบคุณแขกของเราที่ช่วยกำจัดดูมเทรนจนราบคาบ!"
+    },
+    {
+      "key": "lastbutnotleasteyaneysfixedthebarrierwedontneedtoworryaboutbeastsanymore",
+      "text_en": "Last but not least, Eyaney's fixed the barrier. We don't need to worry about beasts anymore!",
+      "text": "และที่สำคัญไม่แพ้กัน เอยานีย์ซ่อมแซมบาเรียเสร็จแล้ว ต่อจากนี้ก็ไม่ต้องกังวลเรื่องสัตว์อสูรอีกต่อไป!"
+    },
+    {
+      "key": "thiscallsforacelebration",
+      "text_en": "This calls for a celebration!",
+      "text": "แบบนี้มันต้องฉลองกันหน่อย!"
+    },
+    {
+      "key": "thedoomtrainisgoneforgood",
+      "text_en": "The Doomtrain is gone for good!?",
+      "text": "เจ้าดูมเทรนสิ้นฤทธิ์ถาวรแล้วหรือนี่!?"
+    },
+    {
+      "key": "thatsoureyaney",
+      "text_en": "That's our Eyaney!",
+      "text": "สมเป็นเอยาเนย์ของพวกเราจริงๆ!"
+    },
+    {
+      "key": "theyresafeallofthem",
+      "text_en": "They're safe... All of them...",
+      "text": "ปลอดภัยดีแล้ว... ปลอดภัยกันทุกคน..."
+    },
+    {
+      "key": "alayla",
+      "text_en": "Alayla...?",
+      "text": "อาไลลา...?"
+    },
+    {
+      "key": "kriledoesthenamealaylameanaughttoyou",
+      "text_en": "Krile, does the name “Alayla” mean aught to you?",
+      "text": "ครูล ชื่อ 'อาไลลา' พอจะมีความหมายอะไรกับคุณบ้างไหมคะ"
+    },
+    {
+      "key": "mymotherdidyoudidyouknowher",
+      "text_en": "My mother? Did you... Did you know her?",
+      "text": "พระแม่ของฉันหรือคะ ท่าน... ท่านรู้จักพระแม่อย่างนั้นหรือคะ"
+    },
+    {
+      "key": "painednoiseoffallingtoknees",
+      "text_en": "[PAINED NOISE OF FALLING TO KNEES]",
+      "text": "[เสียงครางอย่างเจ็บปวดขณะทรุดตัวคุกเข่าลง]"
+    },
+    {
+      "key": "imsorrymydearweshouldgetyoupatchedupbeforeaughtelse",
+      "text_en": "I'm sorry, my dear. We should get you patched up before aught else.",
+      "text": "ขอโทษด้วยนะคะหนูน้อย ก่อนอื่นต้องรักษาตัวให้เรียบร้อยก่อนเรื่องอื่นทั้งหมด"
+    },
+    {
+      "key": "alaylasstoryandthatofthekeyareoneandthesameafteryouverestedandrecoveredilltellyouthetale",
+      "text_en": "Alayla's story and that of the key are one and the same. After you've rested and recovered, I'll tell you the tale.",
+      "text": "เรื่องราวของอาไลลากับกุญแจล้วนเป็นเรื่องเดียวกัน ไว้พักผ่อนจนร่างกายฟื้นตัวดีแล้ว ดิฉันจะเล่าให้ฟังนะคะ"
+    },
+    {
+      "key": "youhavenocausetofretipromiseyou",
+      "text_en": "You have no cause to fret, I promise you.",
+      "text": "ไม่มีอะไรต้องกังวลเลยค่ะ ดิฉันสัญญา"
+    },
+    {
+      "key": "whilelumullforgottogivetheorderblesshimtheresworktobedoneerewecancelebrate",
+      "text_en": "While Lumull forgot to give the order─bless him─there's work to be done ere we can celebrate.",
+      "text": "แม้ลูมัลจะลืมสั่งการภาคี─ขอพระคุ้มครองเขาเถอะนะ─แต่พวกเรายังมีงานต้องจัดการอีกมากก่อนจะเฉลิมฉลองกันได้ค่ะ"
+    },
+    {
+      "key": "firstandforemostwemustseetoanyinjured",
+      "text_en": "First and foremost, we must see to any injured.",
+      "text": "ก่อนอื่นใดในโลกที่หนึ่ง เราต้องรีบไปดูแลผู้บาดเจ็บก่อนค่ะ"
+    },
+    {
+      "key": "comeandfindmeattownhallwhenyoureready",
+      "text_en": "Come and find me at town hall when you're ready.",
+      "text": "หากพร้อมแล้ว ไปพบดิฉันที่ศาลากลางนะคะ"
+    },
+    {
+      "key": "withoutfurtherdelaythen",
+      "text_en": "Without further delay, then...",
+      "text": "ถ้าอย่างนั้น ก็อย่ามัวรอช้าอยู่เลย..."
+    },
+    {
+      "key": "youneedntmindmemyinjuriesarefarfromsevere",
+      "text_en": "You needn't mind me. My injuries are far from severe.",
+      "text": "ไม่ต้องห่วงฉันหรอก แผลแค่นี้ห่างไกลจากคำว่าสาหัสเยอะ"
+    },
+    {
+      "key": "butyourcuriosityisanothermatterisitnotyourfeetwilldeliveryoutomiaylialltheswifterifyoucanactuallywalkonthem",
+      "text_en": "But your curiosity is another matter, is it not? Your feet will deliver you to Miayli all the swifter if you can actually walk on them.",
+      "text": "แต่ความอยากรู้อยากเห็นของเธอคงเป็นอีกเรื่องกระมัง หากก้าวเดินด้วยสองเท้าของตัวเองได้สะดวกขึ้น ก็คงช่วยพาไปพบเมียลี่ได้เร็วขึ้นเยอะทีเดียว"
+    },
+    {
+      "key": "exhaustionasidekrilesustainednoinjuriesyouneedworryover",
+      "text_en": "Exhaustion aside, Krile sustained no injuries you need worry over.",
+      "text": "นอกจากความเหนื่อยล้าแล้ว ไครล์ก็ไม่ได้บาดเจ็บตรงไหนให้ต้องเป็นกังวลหรอก"
+    },
+    {
+      "key": "afterthatbattleithinkweallrequiredamomentyouhadbettergetsomeresttooimeanit",
+      "text_en": "After that battle, I think we all required a moment. You had better get some rest too─I mean it.",
+      "text": "ศึกหนักขนาดนั้นทำเอาพวกเราทุกคนต้องขอเวลาตั้งสติสักครู่ นายเองก็น่าจะไปพักผ่อนบ้างนะ─ฉันพูดจริงๆ"
+    },
+    {
+      "key": "tothinkmiayliknewkrilesmotheritooameagertohearthedetails",
+      "text_en": "To think Miayli knew Krile's mother... I too am eager to hear the details.",
+      "text": "ไม่นึกเลยว่าเมียลี่จะรู้จักพระแม่ของไครล์... ฉันเองก็อยากฟังรายละเอียดเรื่องนี้เหมือนกันค่ะ"
+    },
+    {
+      "key": "whileiwouldrathernothavetumbledtothepavementinfrontofhalfthecityiamnonetheworseforwearthankstoyshtola",
+      "text_en": "While I would rather not have tumbled to the pavement in front of half the city, I am none the worse for wear, thanks to Y'shtola.",
+      "text": "ถึงฉันจะไม่อยากล้มคะมำลงบนพื้นถนนต่อหน้าผู้คนครึ่งเมืองก็เถอะ แต่ต้องขอบคุณยาชโทล่าจริงๆ ตอนนี้ฉันเลยไม่เป็นอะไรแล้วละ"
+    },
+    {
+      "key": "butwhatofyourselfifyouhaveanyhurtswecantendtothemnowbeforeweseemiayli",
+      "text_en": "But what of yourself? If you have any hurts, we can tend to them now before we see Miayli.",
+      "text": "แล้วตัวเธอล่ะ บาดเจ็บตรงไหนหรือเปล่า ให้ฉันช่วยรักษาแผลให้ก่อนที่จะไปพบมีอายลีดีกว่า"
+    }
+  ]
+}

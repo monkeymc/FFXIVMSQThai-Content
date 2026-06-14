@@ -1,0 +1,625 @@
+{
+  "quest_id": "currying-flavor",
+  "dialogues": [
+    {
+      "key": "forenametisgoodtoseeyouhaveyouanynewsfromoldsharlayan",
+      "text_en": "Forename , 'tis good to see you. Have you any news from Old Sharlayan?",
+      "text": "ดีใจจริง ๆ ที่ได้พบคุณ ได้ข่าวคราวอะไรจากโอลด์ ชาร์ลายัน บ้างไหมครับ"
+    },
+    {
+      "key": "weveyettohearfromyshtolaregardinghersearchforameanstoreturntothevoidimustconfessthathersilencehasleftmefeelingrestless",
+      "text_en": "We've yet to hear from Y'shtola regarding her search for a means to return to the void. I must confess that her silence has left me feeling...restless.",
+      "text": "เรายังไม่ได้ข่าวคราวจากยาชโทลาเรื่องค้นหาวิธีกลับไปยังเดอะ วอยด์ เลยครับ สารภาพตามตรงว่าการเงียบหายไปอย่างนี้ทำให้รู้สึก... กระวนกระวายใจไม่น้อย"
+    },
+    {
+      "key": "noramialoneinthisestinienhassuchanexcessofenergythathehasbeenhelpingtotrainoursoldierswithnaryagrumble",
+      "text_en": "Nor am I alone in this—Estinien has such an excess of energy that he has been helping to train our soldiers with nary a grumble.",
+      "text": "ไม่ใช่แค่ผมคนเดียวหรอกครับที่รู้สึกแบบนี้ เอสทิเนียนเองก็พลังล้นเหลือเสียจนช่วยฝึกทหารให้เราโดยไม่บ่นอิดออดสักคำ"
+    },
+    {
+      "key": "asforzero",
+      "text_en": "As for Zero...",
+      "text": "ส่วนซีโร่นั้น..."
+    },
+    {
+      "key": "issomethingthematter",
+      "text_en": "Is something the matter?",
+      "text": "เกิดอะไรขึ้นหรือเปล่า"
+    },
+    {
+      "key": "nonoforenamepaidusavisitandsoiwasappraisinghimherofrecentdevelopmentsorthelackthereof",
+      "text_en": "No, no. Forename paid us a visit, and so I was appraising him / her of recent developments—or the lack thereof.",
+      "text": "เปล่าเลยครับ พอดีคุณแวะมาหา ผมก็เลยเล่าเรื่องล่าสุดให้ฟัง... หรือพูดให้ถูกคือ เรื่องที่ไม่คืบหน้าอะไรเลยนั่นแหละครับ"
+    },
+    {
+      "key": "areyouheadingsomewhere",
+      "text_en": "Are you heading somewhere?",
+      "text": "กำลังจะไปไหนหรือครับ"
+    },
+    {
+      "key": "ayetoreplenishmyaether",
+      "text_en": "Aye. To replenish my aether.",
+      "text": "ใช่ จะไปเติมเอเธอร์น่ะ"
+    },
+    {
+      "key": "wouldyouliketocome",
+      "text_en": "...Would you like to come?",
+      "text": "...อยากไปด้วยกันไหม"
+    },
+    {
+      "key": "ararebutmostwelcomeinvitationtimelytooimightadd",
+      "text_en": "A rare but most welcome invitation! Timely too, I might add.",
+      "text": "ช่างเป็นคำชวนที่หาได้ยากและน่ายินดียิ่งครับ! แถมยังประจวบเหมาะพอดิบพอดีเลยด้วย"
+    },
+    {
+      "key": "imyselfwasthinkingofventuringoutintothecityitwouldbemypleasuretojoinyou",
+      "text_en": "I myself was thinking of venturing out into the city. It would be my pleasure to join you.",
+      "text": "ผมเองก็กำลังคิดจะออกไปเดินเล่นในเมืองพอดี ยินดีเหลือเกินที่จะได้ร่วมเดินทางไปด้วยครับ"
+    },
+    {
+      "key": "youwillaccompanyusofcourse",
+      "text_en": "You will accompany us, of course?",
+      "text": "คุณจะร่วมเดินทางไปกับพวกเราด้วยใช่ไหมครับ"
+    },
+    {
+      "key": "cometheniveanerrandtorunatthebazaarfirst",
+      "text_en": "Come, then. I've an errand to run at the bazaar first.",
+      "text": "ไปกันเถอะ ต้องแวะไปทำธุระที่ตลาดก่อน"
+    },
+    {
+      "key": "yourewithmistresszerohowraretoseeherwithothers",
+      "text_en": "You're with Mistress Zero? How rare to see her with others!",
+      "text": "มากับคุณผู้หญิงซีโร่หรือครับ แปลกตาเหลือเกินที่เห็นคุณผู้หญิงมากับคนอื่นแบบนี้!"
+    },
+    {
+      "key": "ifyouwouldgaugethecitysprosperitythereisnosurerwaythantovisitthebazaarandobservethepeoplethisilearnedfromahewannandhispredecessors",
+      "text_en": "If you would gauge the city's prosperity, there is no surer way than to visit the bazaar and observe the people. This I learned from Ahewann and his predecessors.",
+      "text": "หากต้องการหยั่งวัดความรุ่งเรืองของบ้านเมือง การไปเยือนตลาดเพื่อสังเกตวิถีชีวิตผู้คนนับเป็นวิธีที่ดีที่สุด เรื่องนี้ผมเรียนรู้มาจากอาเฮวันและเหล่าผู้ปกครองคนก่อนๆ ครับ"
+    },
+    {
+      "key": "impickingupsomemorespicemehrydetoldmetodosobeforemynextvisit",
+      "text_en": "I'm picking up some more spice. Mehryde told me to do so before my next visit.",
+      "text": "ฉันมาซื้อเครื่องเทศเพิ่ม เมห์รีดบอกให้ซื้อติดมือก่อนไปพบกันคราวหน้า"
+    },
+    {
+      "key": "mistresszerohasquitethetoleranceyouseethesistersknowwehannisharefondofspicyfoodbutidoubtanyofuscouldkeepupwithher",
+      "text_en": "Mistress Zero has quite the tolerance, you see. The Sisters know we Hannish are fond of spicy food, but I doubt any of us could keep up with her.",
+      "text": "คุณผู้หญิงซีโร่นี่กินเผ็ดเก่งเหลือเกินนะครับ เหล่าภคินีก็ทรงทราบดีว่าพวกเราชาวฮันนิชชอบอาหารรสจัด แต่เห็นทีคงไม่มีใครในหมู่พวกเรากินสู้คุณผู้หญิงได้เลย"
+    },
+    {
+      "key": "withjustthespicestheynormallyhaveonhandthemeyhanecantquitesatisfyherwhichiswhyimhappytoprovidewhattheyneedtoachievemorerigorousflavors",
+      "text_en": "With just the spices they normally have on hand, the meyhane can't quite satisfy her. Which is why I'm happy to provide what they need to achieve more rigorous flavors!",
+      "text": "เครื่องเทศทั่วไปที่โรงเหล้ามีติดครัวน่ะปรุงอาหารให้ถูกปากคุณผู้หญิงไม่ได้หรอกครับ ผมจึงยินดีจัดหาวัตถุดิบพิเศษให้พวกเขาได้ปรุงรสชาติจัดจ้านสะใจยิ่งขึ้น!"
+    },
+    {
+      "key": "nowthenvarietybeingthespiceoflifeperhapsyoudliketochoosesomethingextratoblendwithmistresszerosusual",
+      "text_en": "Now then, variety being the spice of life, perhaps you'd like to choose something extra to blend with Mistress Zero's usual?",
+      "text": "เอาละครับ ในเมื่อชีวิตต้องมีสีสันแปลกใหม่บ้าง ลองเลือกเครื่องเทศอย่างอื่นเพิ่มเติมไปผสมกับสูตรประจำของคุณผู้หญิงซีโร่ดีไหมครับ"
+    },
+    {
+      "key": "itllhelptokeepthingsinterestingwhatdoyousay",
+      "text_en": "It'll help to keep things interesting! What do you say?",
+      "text": "รับรองว่าแปลกใหม่ไม่จำเจแน่นอนครับ! ว่าอย่างไรดีครับ"
+    },
+    {
+      "key": "finebymeyoucanappreciatethenuancesofthisworldssustenancefarbetterthanicaniexpect",
+      "text_en": "Fine by me. You can appreciate the nuances of this world's sustenance far better than I can, I expect.",
+      "text": "ตามใจเลย. นายคงเข้าใจรสชาติอันซับซ้อนของอาหารในโลกนี้ได้ดีกว่าฉันมากนัก"
+    },
+    {
+      "key": "whatimpressivesamplesyoullnotfindalargerorfinerselectioninalltheworld",
+      "text_en": "What impressive samples. You'll not find a larger or finer selection in all the world.",
+      "text": "ของตัวอย่างช่างน่าทึ่งยิ่งนัก. คุณไม่มีวันหาแหล่งรวมเครื่องเทศที่หลากหลายและยอดเยี่ยมเท่านี้ได้จากที่ใดในโลกอีกแล้ว"
+    },
+    {
+      "key": "solongasitsstimulatingicarenotwhatyouchoose",
+      "text_en": "So long as it's stimulating, I care not what you choose.",
+      "text": "ขอแค่กระตุ้นประสาทสัมผัสได้ดี ฉันก็ไม่สนใจหรอกว่านายจะเลือกอะไร"
+    },
+    {
+      "key": "yourewelcometosamplethespicesbutbearinmindthatwhatirecommendtomistresszeroispotent",
+      "text_en": "You're welcome to sample the spices, but bear in mind that what I recommend to Mistress Zero is potent !",
+      "text": "เชิญลองชิมเครื่องเทศได้ตามสบายเลยนะ แต่ขอเตือนไว้ก่อนว่าชนิดที่แนะนำให้คุณผู้หญิงซีโร่น่ะรสชาติเผ็ดร้อนจัดจ้านทีเดียว!"
+    },
+    {
+      "key": "ahthatsafinechoicebutdonttakemywordforitherehaveataste",
+      "text_en": "Ah, that's a fine choice. But don't take my word for it─here, have a taste!",
+      "text": "อา ช่างเลือกได้ยอดเยี่ยมจริงๆ. แต่กระนั้นก็อย่าเพิ่งเชื่อเพียงพระวจนะของฉันเลย─นี่ ลองชิมดูสิครับ!"
+    },
+    {
+      "key": "idoubtyouneedtobetoldthisbuthavecarenottotaketoomuchatonce",
+      "text_en": "I doubt you need to be told this, but have care not to take too much at once...",
+      "text": "ผมคิดว่าคงไม่ต้องเตือนคุณเรื่องนี้แล้วกระมัง แต่ระวังอย่าทานคำโตเกินไปในคราวเดียวเลยนะ"
+    },
+    {
+      "key": "well",
+      "text_en": "Well?",
+      "text": "เป็นอย่างไรบ้าง"
+    },
+    {
+      "key": "goonthenhaveatasteandseewhatyouthink",
+      "text_en": "Go on, then! Have a taste and see what you think.",
+      "text": "เอาเลยสิครับ! ลองชิมดูแล้วรู้สึกอย่างไรก็บอกกันนะ"
+    },
+    {
+      "key": "yourreactionspeaksvolumes",
+      "text_en": "Your reaction speaks volumes.",
+      "text": "ปฏิกิริยาของนายฟ้องทุกอย่างแล้ว"
+    },
+    {
+      "key": "thatwillsufficethen",
+      "text_en": "That will suffice, then.",
+      "text": "ถ้าอย่างนั้น เท่านี้ก็น่าจะพอแล้ว"
+    },
+    {
+      "key": "alwaysapleasuremistresszeroanddogivemehrydemyregards",
+      "text_en": "Always a pleasure, Mistress Zero! And do give Mehryde my regards.",
+      "text": "ด้วยความยินดีเสมอครับคุณผู้หญิงซีโร่! ฝากสวัสดีเมห์ไรด์ด้วยนะครับ"
+    },
+    {
+      "key": "iampleasedtoseethatzerohasbecomearegularhereandsomuchsoastobringherownspice",
+      "text_en": "I am pleased to see that Zero has become a regular here, and so much so as to bring her own spice.",
+      "text": "ยินดีเหลือเกินที่เห็นซีโร่กลายเป็นลูกค้าประจำของที่นี่ แถมยังพกเครื่องเทศมาเองเสียด้วย"
+    },
+    {
+      "key": "givemehrydemyregards",
+      "text_en": "Give Mehryde my regards!",
+      "text": "ฝากสวัสดีเมห์ไรด์ด้วยนะครับ!"
+    },
+    {
+      "key": "welcometomehrydesmeyhane",
+      "text_en": "Welcome to Mehryde's Meyhane!",
+      "text": "ยินดีต้อนรับสู่ร้านเหล้าเมห์ไรด์เมยฮาเน่ค่ะ!"
+    },
+    {
+      "key": "myusualpleasebutwiththisspice",
+      "text_en": "My usual, please. But with this spice.",
+      "text": "เอาแบบเดิม แต่ใส่เครื่องเทศนี้ด้วย"
+    },
+    {
+      "key": "ofcoursezeroitwouldbemypleasure",
+      "text_en": "Of course, Zero. It would be my pleasure.",
+      "text": "แน่นอนค่ะซีโร่ ยินดีบริการอย่างยิ่งค่ะ"
+    },
+    {
+      "key": "wellnowthisisenoughtomakeawholekettleofyourspecialcurry",
+      "text_en": "Well now, this is enough to make a whole kettle of your special curry!",
+      "text": "แหม ปริมาณเท่านี้ปรุงแกงกะหรี่สูตรพิเศษของคุณได้ตั้งหม้อใหญ่เชียวค่ะ!"
+    },
+    {
+      "key": "idontneedthatmuch",
+      "text_en": "I don't need that much...",
+      "text": "ฉันไม่ได้ต้องการมากขนาดนั้น..."
+    },
+    {
+      "key": "restassureditseasyenoughtomakeaservingjustforyouorwecouldmakethekettleandshareit",
+      "text_en": "Rest assured, it's easy enough to make a serving just for you. Or we could make the kettle and share it?",
+      "text": "ไม่ต้องห่วงนะคะ ทำเฉพาะส่วนของคุณน่ะง่ายนิดเดียว หรือจะปรุงทั้งหม้อแล้วแบ่งกันชิมดีคะ"
+    },
+    {
+      "key": "therewouldbeenoughnotonlyforyourcompanionsbutotherdinersaswellidaresayeveryonewillbedelighted",
+      "text_en": "There would be enough not only for your companions, but other diners as well. I daresay everyone will be delighted.",
+      "text": "แกงหม้อนี้แบ่งให้เพื่อนๆ ของคุณกับลูกค้าคนอื่นกินได้สบายเลยค่ะ รับรองว่าทุกคนต้องชอบใจแน่ๆ"
+    },
+    {
+      "key": "verywellafullkettlethen",
+      "text_en": "Very well. A full kettle, then.",
+      "text": "ตกลง งั้นขอเต็มกาแล้วกัน"
+    },
+    {
+      "key": "excellentwellprepareitatonce",
+      "text_en": "Excellent. We'll prepare it at once.",
+      "text": "วิเศษเลยค่ะ จะรีบเตรียมให้เดี๋ยวนี้เลยนะคะ"
+    },
+    {
+      "key": "andforyourexcellencyandouresteemedadventurerareyouhappytotryabowlofzeroscurrywecanmakeyoursmilderifyouprefer",
+      "text_en": "And for Your Excellency and our esteemed adventurer? Are you happy to try a bowl of Zero's curry? We can make yours milder, if you prefer...",
+      "text": "แล้วสำหรับใต้เท้ากับท่านนักผจญภัยล่ะคะ สนใจจะลองแกงกะหรี่แบบเดียวกับของเซโร่สักชามไหมคะ ถ้าต้องการ เราปรับให้เผ็ดน้อยลงได้นะคะ..."
+    },
+    {
+      "key": "gratefulthoughiamfortheoffericannotfullyappreciatetheflavorwiththisvesselanothertimeperhaps",
+      "text_en": "Grateful though I am for the offer, I cannot fully appreciate the flavor with this vessel. Another time, perhaps.",
+      "text": "แม้จะรู้สึกขอบคุณสำหรับดิ ออฟเฟอร์ แต่ด้วยร่างภาชนะนี้คงไม่อาจลิ้มรสชาติได้อย่างเต็มที่นัก เอาไว้โอกาสหน้าแล้วกันนะครับ"
+    },
+    {
+      "key": "donotholdbackonmyaccountmyfriendeatandenjoy",
+      "text_en": "Do not hold back on my account, my friend. Eat and enjoy.",
+      "text": "อย่าเกรงใจเพราะผมเลยครับเพื่อน ทานให้อร่อยเถอะ"
+    },
+    {
+      "key": "understoodpleasemakeyourselvescomfortable",
+      "text_en": "Understood. Please, make yourselves comfortable.",
+      "text": "รับทราบแล้วค่ะ เชิญตามสบายกันเลยนะคะ"
+    },
+    {
+      "key": "itgladdensmetoseeyoutakingtolifeinradzathanzerointheareaofourcuisinenotleastofall",
+      "text_en": "It gladdens me to see you taking to life in Radz-at-Han, Zero. In the area of our cuisine not least of all.",
+      "text": "ผมยินดีเหลือเกินที่เห็นคุณเริ่มคุ้นเคยกับชีวิตในรัดซ์อัตฮันแล้วนะเซโร่ โดยเฉพาะอย่างยิ่งกับเรื่องอาหารการกินของเรา"
+    },
+    {
+      "key": "spicydisheshavelongbeenfavoredinoursultryclimefortheirabilitytowhettheappetiteandcoolthebody",
+      "text_en": "Spicy dishes have long been favored in our sultry clime for their ability to whet the appetite and cool the body.",
+      "text": "ผู้คนในดินแดนอันร้อนชื้นของเรานิยมอาหารรสเผ็ดร้อนมานานแล้ว เพราะช่วยให้เจริญอาหารและช่วยดับร้อนให้ร่างกาย"
+    },
+    {
+      "key": "ofcoursespicesalsohavetheeffectofpreservingfoodswhichmakesthemhighlycovetedinforeignlands",
+      "text_en": "Of course, spices also have the effect of preserving foods, which makes them highly coveted in foreign lands.",
+      "text": "แน่นอนว่าเครื่องเทศยังมีสรรพคุณช่วยถนอมอาหาร ดินแดนต่างถิ่นจึงพากันเสาะหาเป็นที่ต้องการอย่างยิ่ง"
+    },
+    {
+      "key": "allofthishasgivenrisetoathrivingspiceindustryandthewealthitbringshasallowedournationtoprosperwhilemaintainingitsneutrality",
+      "text_en": "All of this has given rise to a thriving spice industry, and the wealth it brings has allowed our nation to prosper while maintaining its neutrality.",
+      "text": "สิ่งเหล่านี้ทำให้อุตสาหกรรมเครื่องเทศเฟื่องฟูอย่างมาก และความมั่งคั่งที่ได้รับก็ช่วยให้บ้านเมืองของเราเจริญรุ่งเรืองพร้อมกับรักษาความเป็นกลางเอาไว้ได้"
+    },
+    {
+      "key": "soyoutradeyourspicesseemsrathermorecomplicatedthantradinginaether",
+      "text_en": "So you trade your spices. Seems rather more complicated than trading in aether.",
+      "text": "แลกเปลี่ยนเครื่องเทศกันอย่างนี้เองรึ ดูยุ่งยากซับซ้อนกว่าการแลกเปลี่ยนเอเธอร์เสียอีก"
+    },
+    {
+      "key": "inthebeginningthislandwasnomorethanrefugeforme",
+      "text_en": "In the beginning, this land was no more than refuge for me.",
+      "text": "แรกเริ่มเดิมที ดินแดนแห่งนี้ก็เป็นเพียงที่หลบภัยสำหรับผมเท่านั้น"
+    },
+    {
+      "key": "butnowitismyhomeandthepeopleofradzathanmybelovedchildren",
+      "text_en": "But now it is my home, and the people of Radz-at-Han my beloved children.",
+      "text": "แต่ยามนี้ ที่นี่คือบ้าน และชาวรัดซ์อัตฮันก็คือกลุ่มชิลเดรนอันเป็นที่รัก"
+    },
+    {
+      "key": "togetherwebuiltthisvibrantnationandnaughtwouldpleasememorethantoshowittomysisteroneday",
+      "text_en": "Together we built this vibrant nation. And naught would please me more than to show it to my sister one day.",
+      "text": "พวกเราช่วยกันสร้างประเทศอันเปี่ยมชีวิตชีวาแห่งนี้ขึ้นมา ไม่มีสิ่งใดจะทำให้ผมยินดีไปกว่าการได้พาท่านพี่มาเยี่ยมชมในสักวัน"
+    },
+    {
+      "key": "vibrantrubicantesaidthesamewhenhedescribedthisworld",
+      "text_en": "Vibrant... Rubicante said the same when he described this world.",
+      "text": "เปี่ยมชีวิตชีวา... รูบิกันเตก็ใช้คำเดียวกันนี้ตอนอธิบายถึงโลกฝั่งนี้"
+    },
+    {
+      "key": "areminderofallthathasbeenstolenfromuswhatmanywhorememberdoubtlessyearntotakeback",
+      "text_en": "A reminder of all that has been stolen from us... What many who remember doubtless yearn to take back.",
+      "text": "เป็นสิ่งย้ำเตือนถึงทุกสิ่งที่พวกเราสูญเสียไป... สิ่งที่ใครหลายคนซึ่งยังจำได้คงปรารถนาจะทวงคืนอย่างไม่ต้องสงสัย"
+    },
+    {
+      "key": "ourhomeisalostcauseouronlychoicetobeginanew",
+      "text_en": "Our home is a lost cause, our only choice to begin anew.",
+      "text": "บ้านเกิดของพวกเราหมดหนทางเยียวยาแล้ว ทางเลือกเดียวที่เหลือคือเริ่มต้นใหม่"
+    },
+    {
+      "key": "inthisworldwherewemayreclaimourmortality",
+      "text_en": "In this world, where we may reclaim our mortality.",
+      "text": "ในโลกใบนี้ ที่ซึ่งพวกเราจะได้ทวงคืนชีวิตอันผุพังดับสูญกลับคืนมา"
+    },
+    {
+      "key": "nonethelessitswrongtodamnanothertosaveyourselfasitoldrubicanteasifoundmyselfmovedtospeak",
+      "text_en": "Nonetheless, it's wrong to damn another to save yourself─as I told Rubicante. As I found myself moved to speak...",
+      "text": "ถึงกระนั้น การทำลายผู้อื่นเพื่อเอาตัวรอดก็ไม่ใช่สิ่งที่ถูกต้อง—เหมือนที่เคยบอกรูบิกันเต เหมือนที่จู่ๆ ก็พูดออกไปเอง..."
+    },
+    {
+      "key": "istilldonotunderstandwhatmademefeelthiswaynorwhatcompelsyoumortalstohelponeanotherbutihopetosomeday",
+      "text_en": "I still do not understand what made me feel this way. Nor what compels you mortals to help one another. But I hope to someday.",
+      "text": "ยังไม่เข้าใจอยู่ดีว่าอะไรทำให้รู้สึกเช่นนี้ ทั้งยังไม่เข้าใจว่าเหตุใดพวกมนุษย์ต้องช่วยเหลือเกื้อกูลกัน แต่หวังว่าสักวันจะเข้าใจ"
+    },
+    {
+      "key": "wetoohopethatyouwillfindtheanswersyouseek",
+      "text_en": "We, too, hope that you will find the answers you seek.",
+      "text": "พวกเราเองก็หวังว่าท่านจะพบคำตอบที่ตามหาเช่นกัน"
+    },
+    {
+      "key": "whatisgoingon",
+      "text_en": "What is going on?",
+      "text": "เกิดอะไรขึ้นกันเนี่ย"
+    },
+    {
+      "key": "whatwhatshappening",
+      "text_en": "What? What's happening?",
+      "text": "อะไรกัน เกิดอะไรขึ้นน่ะ"
+    },
+    {
+      "key": "complimentsofmistresszerothesatrapshonoredguestweareservingaspecialcurryforanyonewhowishestopartakebutbewarneditisnotforthefaintofheart",
+      "text_en": "Compliments of Mistress Zero, the satrap's honored guest, we are serving a special curry for anyone who wishes to partake. But be warned: it is not for the faint of heart!",
+      "text": "แกงกะหรี่สูตรพิเศษนี้เป็นอภินันทนาการจากคุณซีโร่ แขกผู้มีเกียรติของท่านผู้สำเร็จราชการสำหรับมอบให้แก่ทุกคนที่อยากลิ้มลอง แต่ขอเตือนไว้ก่อนนะว่า ไม่เหมาะสำหรับคนขวัญอ่อน!"
+    },
+    {
+      "key": "ohbyallmeansidwelcomethechallenge",
+      "text_en": "Oh! By all means, I'd welcome the challenge!",
+      "text": "โอ้! ยินดีอย่างยิ่งเลย ฉันชอบความท้าทายอยู่แล้ว!"
+    },
+    {
+      "key": "sistershavemercythesmellaloneis",
+      "text_en": "Sisters have mercy...the smell alone is...",
+      "text": "เดอะซิสเตอร์สโปรดเมตตาด้วย... แค่กลิ่นก็..."
+    },
+    {
+      "key": "itburnsitburns",
+      "text_en": "It burns! It burns!",
+      "text": "เผ็ดแสบร้อนไปหมดแล้ว! เผ็ดแสบร้อนไปหมดแล้ว!"
+    },
+    {
+      "key": "tobettermaintainthefacadethealchemistsensuredthatmyvesselwascapableofconsumingfood",
+      "text_en": "To better maintain the facade, the alchemists ensured that my vessel was capable of consuming food...",
+      "text": "เพื่อตบตาให้แนบเนียนยิ่งขึ้น เหล่านักเล่นแร่แปรธาตุจึงออกแบบให้ร่างภาชนะของผมกินอาหารได้..."
+    },
+    {
+      "key": "howeverifearzeroscurrywouldtestthelimitsoftheirdesign",
+      "text_en": "However, I fear Zero's curry would test the limits of their design.",
+      "text": "ทว่า ผมเกรงว่าแกงกะหรี่ของคุณซีโร่คงจะท้าทายขีดจำกัดของระบบที่ออกแบบไว้เสียแล้ว"
+    },
+    {
+      "key": "apologiesforthedelaypleaserelaxandenjoyyourmeal",
+      "text_en": "Apologies for the delay. Please relax and enjoy your meal.",
+      "text": "ขออภัยที่ทำให้รอนาน เชิญพักผ่อนตามสบายและทานให้อร่อยนะคะ"
+    },
+    {
+      "key": "relaxidonthavetimeforthativebeenwaitingforthis",
+      "text_en": "“Relax”? I don't have time for that. I've been waiting for this...",
+      "text": "\"ผ่อนคลาย\" งั้นรึ? ฉันไม่มีเวลาสำหรับเรื่องพรรค์นั้นหรอก เฝ้ารอสิ่งนี้มานานแล้ว..."
+    },
+    {
+      "key": "comeletsreplenishouraether",
+      "text_en": "Come, let's replenish our aether.",
+      "text": "มาเถอะ ไปเติมเอเธอร์กัน"
+    },
+    {
+      "key": "itrustyouhaveeatenyourfill",
+      "text_en": "I trust you have eaten your fill.",
+      "text": "หวังว่าจะอิ่มท้องโย้กันแล้วนะครับ"
+    },
+    {
+      "key": "ishallhavemehrydeprepareamealforustotaketoestinienisuspecthetooisoverdueareplenishment",
+      "text_en": "I shall have Mehryde prepare a meal for us to take to Estinien. I suspect he too is overdue a “replenishment.”",
+      "text": "ผมจะให้เมอรีดเตรียมอาหารเพื่อนำไปส่งให้เอสทิเนียนด้วย ดูท่าทางคงถึงเวลาต้องได้รับการ \"เติมพลัง\" แล้วเช่นกัน"
+    },
+    {
+      "key": "bythishourhewillhaveretiredtohischambersatmeghadutacomeletuspayhimavisit",
+      "text_en": "By this hour, he will have retired to his chambers at Meghaduta. Come, let us pay him a visit.",
+      "text": "ป่านนี้คงกลับไปพักผ่อนที่ห้องพักในเมฆทูตแล้วล่ะครับ ไปเยี่ยมเยียนกันเถอะ"
+    },
+    {
+      "key": "ididnotexpectsomanytotakeupthechallengebutiamgladtoseeeveryoneenjoyingthemselves",
+      "text_en": "I did not expect so many to take up the challenge, but I am glad to see everyone enjoying themselves.",
+      "text": "ไม่คิดเลยว่าจะมาร่วมท้าทายกันมากขนาดนี้ แต่ก็ดีใจที่เห็นทุกคนสนุกสนานกันครับ"
+    },
+    {
+      "key": "imsatisfied",
+      "text_en": "I'm satisfied.",
+      "text": "ฉันพอใจแล้ว"
+    },
+    {
+      "key": "wellthatprovedtobeanexcitingeventidaresaywordofzerossingularcurrywilldrawmoredinerstoourestablishment",
+      "text_en": "Well, that proved to be an exciting event! I daresay word of Zero's singular curry will draw more diners to our establishment.",
+      "text": "แหม ช่างเป็นกิจกรรมที่น่าตื่นเต้นจริงๆ ค่ะ! เชื่อว่าพระวจนะเรื่องแกงกะหรี่สูตรพิเศษของซีโร่จะดึงดูดลูกค้าเข้าร้านได้มากขึ้นแน่นอน"
+    },
+    {
+      "key": "whataremarkablecurryimusttryabowlmyselfwhenicanmusterthecouragethatis",
+      "text_en": "What a remarkable curry! I must try a bowl myself─when I can muster the courage, that is!",
+      "text": "ช่างเป็นแกงกะหรี่ที่น่าทึ่งอะไรอย่างนี้... คงต้องหาโอกาสลองกินสักชามบ้างแล้ว... หมายถึง ถ้ามีความกล้าพอน่ะนะคะ!"
+    },
+    {
+      "key": "quiteanadventurouscrowdwehadtodayafewdrinkswilldothattoyouforbetterorworse",
+      "text_en": "Quite an adventurous crowd we had today. A few drinks will do that to you. For better or worse...",
+      "text": "วันนี้พวกชอบท้าทายมารวมตัวกันอุ่นหนาฝาคั่งเชียว พอได้เครื่องดื่มเข้าปากก็เป็นกันเสียแบบนี้ ไม่ว่าจะดีหรือร้ายก็ตาม..."
+    },
+    {
+      "key": "atravelerareyouwellimnolayaboutimsimplyrecoveringfromthatfierydevastationyouunderstand",
+      "text_en": "A traveler, are you? Well, I'm no layabout. I'm simply recovering from that fiery devastation, you understand.",
+      "text": "เป็นนักเดินทางรึ ข้าไม่ได้เกียจคร้านหรอกนะ ก็แค่กำลังฟื้นตัวจากภัยเพลิงครั้งนั้นแหละ เข้าใจใช่ไหม"
+    },
+    {
+      "key": "drinkdanceanddamnedgoodcurryitcouldntpossiblygetbetterthanthisinradzathan",
+      "text_en": "Drink, dance, and damned good curry! It couldn't possibly get better than this in Radz-at-Han!",
+      "text": "ได้ดื่ม ได้เต้นรำ กับแกงกะหรี่รสเลิศเหลือกำลัง! ในรัดซ์อัตฮันไม่มีทางมีอะไรดีไปกว่านี้อีกแล้ว!"
+    },
+    {
+      "key": "bythesistersithoughtthatcurrywouldbetheendofmeiimusteatitagain",
+      "text_en": "By the Sisters, I thought that curry would be the end of me. I...I must eat it again.",
+      "text": "สาบานต่อเหล่าภคินี ข้านึกว่าแกงกะหรี่นั่นจะเอาชีวิตข้าเสียแล้ว ข้า...ข้าต้องกินอีกให้ได้"
+    },
+    {
+      "key": "mypoornoseitstilltingles",
+      "text_en": "My poor nose... It still tingles...",
+      "text": "จมูกที่น่าสงสารของฉัน... ยังแสบยิบๆ ไม่หายเลย..."
+    },
+    {
+      "key": "welcomeback",
+      "text_en": "Welcome back.",
+      "text": "ยินดีต้อนรับกลับมาครับ"
+    },
+    {
+      "key": "masterestinienyeshehasreturnedtohischambersishallbehappytoescortyou",
+      "text_en": "Master Estinien? Yes, he has returned to his chambers. I shall be happy to escort you.",
+      "text": "ท่านเอสทิเนียนหรือครับ ใช่ครับ ท่านกลับไปยังห้องพักแล้ว ผมยินดีนำทางให้ครับ"
+    },
+    {
+      "key": "estinienareyoutherewevebroughtsomethingforyou",
+      "text_en": "Estinien, are you there? We've brought something for you.",
+      "text": "เอสทิเนียน อยู่หรือเปล่า พวกเราเอาของมาฝากน่ะ"
+    },
+    {
+      "key": "ayeenter",
+      "text_en": "Aye... Enter...",
+      "text": "อืม... เข้ามาสิ..."
+    },
+    {
+      "key": "squidmasalafromthemeyhaneithoughtyoumightenjoyit",
+      "text_en": "Squid masala from the meyhane. I thought you might enjoy it.",
+      "text": "ปลาหมึกมาซาล่าจากโรงเหล้าน่ะครับ คิดว่าคุณน่าจะชอบ"
+    },
+    {
+      "key": "masalaehiprefermysquiddriedbutimsureitwontdisappointmythanks",
+      "text_en": "Masala, eh? I prefer my squid dried, but I'm sure it won't disappoint. My thanks.",
+      "text": "มาซาล่ารึ ข้าชอบกินปลาหมึกแห้งมากกว่า แต่จานนี้ก็คงไม่ทำให้ผิดหวังหรอก ขอบใจนะ"
+    },
+    {
+      "key": "idleasiaminoursorceresssabsenceiseeicantoffermuchinthewayofentertainmentbutmakeyourselvescomfortable",
+      "text_en": "Idle as I am in our sorceress's absence, I see. I can't offer much in the way of entertainment, but make yourselves comfortable.",
+      "text": "ช่วงที่แม่มดของเราไม่อยู่ก็ว่างงานอย่างที่เห็น ไม่มีอะไรจะต้อนรับขับสู้นักหรอก แต่ทำตัวตามสบายเถอะ"
+    },
+    {
+      "key": "shallwedisrobeaswell",
+      "text_en": "Shall we disrobe as well?",
+      "text": "ต้องถอดเสื้อผ้าด้วยหรือเปล่า"
+    },
+    {
+      "key": "nonowesimplycaughtourfriendunpreparedhewillmakehimselfpresentableatonceiamsure",
+      "text_en": "No, no. We simply caught our friend unprepared. He will make himself presentable at once, I am sure.",
+      "text": "เปล่าครับ เปล่าเลย แค่มาจังหวะที่เพื่อนไม่ทันตั้งตัวเท่านั้นเอง เชื่อว่าอีกเดี๋ยวคงจัดการตัวเองเรียบร้อยครับ"
+    },
+    {
+      "key": "atlastwevebeenlookingforyou",
+      "text_en": "At last. We've been looking for you.",
+      "text": "ในที่สุดก็เจอตัว ตามหาอยู่ทีเดียว"
+    },
+    {
+      "key": "myfriendstellmewereyouabletodeviseawaytoreturntothethirteenth",
+      "text_en": "My friends! Tell me─were you able to devise a way to return to the Thirteenth?",
+      "text": "เพื่อนๆ ครับ! บอกที─คิดหาวิธีกลับไปยังโลกที่สิบสามได้แล้วหรือครับ"
+    },
+    {
+      "key": "ibelievesoitrequiredavisittothemoonwhereitooktheopportunitytoenlisturiangersassistance",
+      "text_en": "I believe so. It required a visit to the moon, where I took the opportunity to enlist Urianger's assistance.",
+      "text": "คิดว่าอย่างนั้นค่ะ เรื่องนี้ต้องเดินทางไปถึงดวงจันทร์ เลยถือโอกาสขอให้อูเรียนเจต์ช่วย"
+    },
+    {
+      "key": "yshtolahathtoldmeallishouldbegladtohelpyoufreeazdajaandputanendtogolbezsdarkplot",
+      "text_en": "Y'shtola hath told me all. I should be glad to help you free Azdaja and put an end to Golbez's dark plot.",
+      "text": "อิชโทลาแจ้งแก่ข้าพเจ้าหมดสิ้นแล้ว ยินดียิ่งที่จะช่วยพวกท่านปลดปล่อยอัซดาจาและทำลายแผนการอันมืดมิดของโกลเบซ"
+    },
+    {
+      "key": "ifrubicantespoketruebothgolbezandazdajaareonthemoonofthethirteenth",
+      "text_en": "If Rubicante spoke true, both Golbez and Azdaja are on the moon of the Thirteenth.",
+      "text": "หากรูบิคานเตพูดจริง ทั้งโกลเบซและอัซดาจาก็อยู่บนดวงจันทร์ของโลกที่สิบสาม"
+    },
+    {
+      "key": "unlikehereinthesourcehoweverwehavenomeansofmakingthejourneyfromthesurfaceofthestaritselfthetechnologysimplydoesnotexist",
+      "text_en": "Unlike here in the Source, however, we have no means of making the journey from the surface of the star itself. The technology simply does not exist.",
+      "text": "ทว่า ต่างจากโลกต้นแบบตรงที่ไม่มีหนทางเดินทางจากผิวโลกขึ้นไปได้เลย เทคโนโลยีเช่นนั้นไม่มีเลยด้วยซ้ำ"
+    },
+    {
+      "key": "thereforeiproposethatweemployagatetodeliverusdirectlytoourdestination",
+      "text_en": "Therefore, I propose that we employ a gate to deliver us directly to our destination.",
+      "text": "ดังนั้น จึงขอเสนอให้ใช้ประตูมิติส่งตัวไปยังจุดหมายปลายทางโดยตรง"
+    },
+    {
+      "key": "issuchafeatpossible",
+      "text_en": "Is such a feat possible?",
+      "text": "เรื่องเหลือเชื่อเช่นนั้นจะเป็นไปได้จริงหรือครับ"
+    },
+    {
+      "key": "intheoryhavingoncebeenasinglewholethesourceanditsreflectionssharestrikingsimilaritiesingeography",
+      "text_en": "In theory. Having once been a single whole, the Source and its reflections share striking similarities in geography.",
+      "text": "ตามทฤษฎีแล้วน่ะนะ ในเมื่อโลกต้นแบบกับบรรดาโลกสะท้อนเคยรวมกันเป็นหนึ่งเดียวมาก่อน ภูมิประเทศจึงละม้ายคล้ายคลึงกันอย่างน่าประหลาด"
+    },
+    {
+      "key": "andaccordingtoacertainsomeonewhounceremoniouslywhiskedusawaytothefirstthesamelocationsacrosstheworldsareintrinsicallybound",
+      "text_en": "And according to a certain someone who unceremoniously whisked us away to the First, the same locations across the worlds are intrinsically bound.",
+      "text": "และตามคำบอกเล่าของใครบางคนที่พาพวกเราข้ามไปยังโลกที่หนึ่ง โดยไม่ทันตั้งตัว สถานที่ตำแหน่งเดียวกันในแต่ละโลกต่างผูกพันเชื่อมโยงกันอย่างแยกไม่ออก"
+    },
+    {
+      "key": "allofwhichistosaywerewetopassthroughagateonthesourcesmoonitshouldleadustothemoonofthethirteenth",
+      "text_en": "All of which is to say, were we to pass through a gate on the Source's moon, it should lead us to the moon of the Thirteenth.",
+      "text": "สรุปก็คือ หากพวกเราผ่านประตูมิติบนดวงจันทร์ของโลกต้นแบบ ประตูนั้นก็น่าจะนำทางไปสู่ดวงจันทร์ของโลกที่สิบสาม"
+    },
+    {
+      "key": "ofcoursethereistheriskofvoidsentgainingentrytoourworldthusdididecidetoseekuriangerscounsel",
+      "text_en": "Of course, there is the risk of voidsent gaining entry to our world. Thus did I decide to seek Urianger's counsel.",
+      "text": "แน่นอนว่าย่อมแฝงภัยอันตรายที่พวกวอยด์เซ้นต์จะบุกรุกเข้ามาในโลกของเรา ฉันจึงตัดสินใจมาขอคำปรึกษาจากอูเรียนเจอร์"
+    },
+    {
+      "key": "boththewatcherandtheloporritsareawareofourproposedendeavorwhiletheyareyetdeliberatingprecautionarymeasurestheyhavepledgedtheirfullcooperation",
+      "text_en": "Both the watcher and the Loporrits are aware of our proposed endeavor. While they are yet deliberating precautionary measures, they have pledged their full cooperation.",
+      "text": "ทั้งผู้เฝ้ามองและพวกโลพอร์ริตต่างรับทราบถึงแผนการของเราแล้ว แม้เพลานี้จะยังอยู่ระหว่างพิจารณามาตรการป้องกันภัย ทว่าก็รับปากว่าจะให้ความร่วมมืออย่างเต็มที่"
+    },
+    {
+      "key": "youvebeenbusyipresumeyouvealsofoundawaytoopenthisgate",
+      "text_en": "You've been busy. I presume you've also found a way to open this gate?",
+      "text": "เตรียมการกันได้วุ่นดีแท้ แล้วหาวิธีเปิดประตูบานนี้ได้แล้วใช่ไหม"
+    },
+    {
+      "key": "beitinradzathanorsharlayanscholarshavelongcasttheirgazeuntotheendlessdarkofthevoid",
+      "text_en": "Be it in Radz-at-Han or Sharlayan, scholars have long cast their gaze unto the endless dark of the void.",
+      "text": "ไม่ว่าจะในรัดซ์อัตฮันหรือชาร์ลาแยน เหล่านักวิชาการต่างเฝ้ามองความมืดมิดอันไร้ขอบเขตของเดอะ วอยด์ มาช้านาน"
+    },
+    {
+      "key": "andsowithhannishinsightstoaugmentourknowledgewehaveindeedconceivedofapromisingplantopiercetheveil",
+      "text_en": "And so, with Hannish insights to augment our knowledge, we have indeed conceived of a promising plan to pierce the veil.",
+      "text": "เมื่อได้ภูมิปัญญาของชาวรัดซ์อัตฮันมาช่วยเสริมความรู้ จึงช่วยให้คิดค้นแผนการทลายม่านกั้นนี้ได้สำเร็จ"
+    },
+    {
+      "key": "aplaniamconfidentwillsucceedpreciselybecausethemoonisourstage",
+      "text_en": "A plan I am confident will succeed precisely because the moon is our stage.",
+      "text": "ซึ่งฉันมั่นใจว่าแผนการนี้จะสำเร็จอย่างแน่นอน ก็เพราะดวงจันทร์คือเวทีของพวกเราในครั้งนี้"
+    },
+    {
+      "key": "thepreparationswillbeextensiveandwewillrequirevastquantitiesofaether",
+      "text_en": "The preparations will be extensive, and we will require vast quantities of aether.",
+      "text": "เราต้องเตรียมการกันขนานใหญ่ และจำเป็นต้องใช้เอเธอร์จำนวนมหาศาล"
+    },
+    {
+      "key": "afterallourgatemustbelargeenoughtoaccommodateanothergreatwyrm",
+      "text_en": "After all, our gate must be large enough to accommodate another great wyrm.",
+      "text": "อย่างไรเสีย ประตูของเราก็ต้องกว้างพอให้มังกรยักษ์อีกตัวผ่านไปได้"
+    },
+    {
+      "key": "myproposalentailsdeliveringcopiousamountsofaethertothetowerofbabilingarlemald",
+      "text_en": "My proposal entails delivering copious amounts of aether to the Tower of Babil in Garlemald.",
+      "text": "ฉันเสนอให้ส่งเอเธอร์จำนวนมหาศาลไปยังหอคอยแห่งบาบิลในการ์เลมัลด์"
+    },
+    {
+      "key": "asyouwillrecallfandanielusedthestructuretodestroythebrandsimprisoningzodiark",
+      "text_en": "As you will recall, Fandaniel used the structure to destroy the brands imprisoning Zodiark.",
+      "text": "คงจำกันได้ว่าฟันดาเนียลเคยใช้หอคอยนี้ทำลายเครื่องพันธนาการที่กักขังโซดิอาร์ก"
+    },
+    {
+      "key": "andweinlikemannerwilluseittochannelaethertothemoonandtherebyopenourgate",
+      "text_en": "And we, in like manner, will use it to channel aether to the moon─and thereby open our gate.",
+      "text": "และพวกเราก็จะใช้มันส่งผ่านเอเธอร์ไปยังดวงจันทร์ในแบบเดียวกัน─เพื่อเปิดประตูมิติของเรา"
+    },
+    {
+      "key": "iseethenweshallneedsomeoneonthemoonforthenecessaryrituals",
+      "text_en": "I see... Then we shall need someone on the moon for the necessary rituals.",
+      "text": "เข้าใจแล้ว... ถ้าอย่างนั้นคงต้องส่งคนไปทำพิธีที่จำเป็นบนดวงจันทร์"
+    },
+    {
+      "key": "justsoyourexcellencyiintendtoheadbackanonforthatverypurposeaswellastohelpdeviseourstrategytodealwithinvadingvoidsent",
+      "text_en": "Just so, Your Excellency. I intend to head back anon for that very purpose, as well as to help devise our strategy to deal with invading voidsent.",
+      "text": "ถูกต้องแล้วค่ะท่าน ฉันตั้งใจจะกลับไปที่นั่นทันทีเพื่อการนั้น และเพื่อช่วยวางแผนรับมือพวกวอยด์เซ้นต์ที่รุกรานเข้ามาด้วย"
+    },
+    {
+      "key": "alongwithourlunarallieswewillonceagainrequiretheassistanceofyouralchemistsnidhananotleastofall",
+      "text_en": "Along with our lunar allies, we will once again require the assistance of your alchemists, Nidhana not least of all.",
+      "text": "นอกจากพันธมิตรบนดวงจันทร์แล้ว เราคงต้องขอแรงเหล่านักเล่นแร่แปรธาตุของท่านอีกครั้ง โดยเฉพาะอย่างยิ่งนิดฮานา"
+    },
+    {
+      "key": "mayitroubleyoutoserveastheirescort",
+      "text_en": "May I trouble you to serve as their escort?",
+      "text": "รบกวนช่วยนำทางพวกเขาหน่อยจะได้ไหม"
+    },
+    {
+      "key": "finebymetheroomwasbeginningtofeelconstraining",
+      "text_en": "Fine by me. The room was beginning to feel constraining.",
+      "text": "ก็ดีเหมือนกัน อยู่ในห้องนี้ชักจะอึดอัดขึ้นมาแล้ว"
+    },
+    {
+      "key": "formypartishalloverseetherequisitetasksonthestarmightiprevailuponyouforyourassistance",
+      "text_en": "For my part, I shall oversee the requisite tasks on the star. Might I prevail upon you for your assistance?",
+      "text": "สำหรับผมแล้ว จะขอรับหน้าที่ดูแลจัดการงานที่จำเป็นบนดวงดาวนี้เอง พอจะขอแรงช่วยหน่อยได้ไหม"
+    },
+    {
+      "key": "ifallareinagreementthenletussettowork",
+      "text_en": "If all are in agreement, then let us set to work.",
+      "text": "ในเมื่อทุกคนเห็นพ้องต้องกันแล้ว ก็เริ่มลงมือกันเถอะ"
+    },
+    {
+      "key": "wellopenourgateandwewillstopgolbez",
+      "text_en": "We'll open our gate. And we will stop Golbez.",
+      "text": "พวกเราจะเปิดประตูมิติ และต้องหยุดโกลเบซให้ได้"
+    },
+    {
+      "key": "thedarkthrone",
+      "text_en": "THE DARK THRONE",
+      "text": "บัลลังก์แห่งความมืด"
+    }
+  ]
+}

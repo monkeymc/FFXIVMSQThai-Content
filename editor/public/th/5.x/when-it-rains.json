@@ -1,0 +1,535 @@
+{
+  "quest_id": "when-it-rains",
+  "dialogues": [
+    {
+      "key": "ahisuspectedthatyoumightbeawakeicouldscarceimagineyousleepingthroughsuchacommotion",
+      "text_en": "Ah, I suspected that you might be awake. I could scarce imagine you sleeping through such a commotion.",
+      "text": "อ๊ะ คิดไว้แล้วเชียวว่าท่านน่าจะตื่นอยู่ เสียงโกลาหลปานนี้ คงยากที่จะข่มตาหลับลงได้กระมังครับ"
+    },
+    {
+      "key": "anentirehostofsineatersappearstobeadvancinguponthecrystariumemergencymeasuresarebeingtakenaswespeak",
+      "text_en": "An entire host of sin eaters appears to be advancing upon the Crystarium. Emergency measures are being taken as we speak.",
+      "text": "ดูเหมือนฝูงผู้กลืนกินบาปจำนวนมหาศาลกำลังดาหน้ามายังเดอะคริสทาเรียม ตอนนี้พวกเรากำลังดำเนินมาตรการรับมือฉุกเฉินกันอยู่ครับ"
+    },
+    {
+      "key": "restassuredhoweverthatwearesafesolongasweremainunderthecrystaltowersaegisyoumayreturntoyourquartersifyouwish",
+      "text_en": "Rest assured, however, that we are safe so long as we remain under the Crystal Tower's aegis. You may return to your quarters, if you wish.",
+      "text": "แต่ขอให้ท่านวางใจ ตราบใดที่ยังอยู่ภายใต้การคุ้มครองของคริสตัลทาวเวอร์ พวกเราก็ยังปลอดภัยดี หากท่านต้องการ จะกลับไปยังห้องพักของท่านก็ได้ครับ"
+    },
+    {
+      "key": "yesithoughtyoumightfeelthatwayandicannotsaythatyourassistancewouldbeanythinglessthanwelcome",
+      "text_en": "Yes, I thought you might feel that way. And I cannot say that your assistance would be anything less than welcome.",
+      "text": "ครับ คิดไว้แล้วว่าท่านต้องคิดเช่นนั้น และหากได้ท่านมาช่วยเหลือ พวกเราย่อมยินดีเป็นอย่างยิ่งครับ"
+    },
+    {
+      "key": "imustremainheretodisseminateinformationtotheotherresidentsbutyouareundernosuchobligationandthusfreetoaidanyofthetownsfolkwhomaybeindistress",
+      "text_en": "I must remain here to disseminate information to the other residents, but you are under no such obligation─and thus free to aid any of the townsfolk who may be in distress.",
+      "text": "กระผมต้องอยู่ที่นี่เพื่อคอยแจ้งข่าวสารให้ผู้พักอาศัยคนอื่นๆ ทราบ แต่ท่านไม่มีข้อผูกมัดเช่นนั้น จึงไปช่วยเหลือชาวเมืองที่กำลังเดือดร้อนได้ตามสะดวกเลยครับ"
+    },
+    {
+      "key": "theexedratendstobecomeapointofcongregationintimesofneedcrowdedwiththoseseekingsolaceincompanionshipyouwouldhavemypersonalgratitudeifyouwouldoffersuccortothosethere",
+      "text_en": "The Exedra tends to become a point of congregation in times of need, crowded with those seeking solace in companionship. You would have my personal gratitude if you would offer succor to those there.",
+      "text": "ยามเกิดเรื่องเดือดร้อน ดิ บริเวณเอ็กซีดรา มักจะกลายเป็นที่ทำการภาคีอัศวินวิหาร คลาคล่ำไปด้วยผู้คนที่มาหาเพื่อนปลอบประโลมใจ หากท่านจะช่วยไปดูแลพวกเขาที่นั่น กระผมจะขอบพระคุณเป็นอย่างยิ่งครับ"
+    },
+    {
+      "key": "forename",
+      "text_en": "Forename !",
+      "text": "[Forename]!"
+    },
+    {
+      "key": "iveonlyjustreturnedfromamharaengyetifindthecrystariummomentsfrombeingbesetbysineaters",
+      "text_en": "I've only just returned from Amh Araeng, yet I find the Crystarium moments from being beset by sin eaters!?",
+      "text": "ฉันเพิ่งกลับมาจากอัม อาแรง แท้ๆ แต่ทำไมเดอะคริสทาเรียมถึงกำลังจะถูกพวกผู้กลืนกินบาปโจมตีในอีกไม่กี่อึดใจนี้ได้ล่ะ!?"
+    },
+    {
+      "key": "wherearetheycomingfromthisshouldntbepossiblewerestoredthedarkness",
+      "text_en": "Where are they coming from? This shouldn't be possible─we restored the darkness!",
+      "text": "พวกมันแห่มาจากไหนกัน เรื่องแบบนี้ไม่น่าเป็นไปได้เลย ก็พวกเราคืนความมืดมิดกลับมาแล้วนี่!"
+    },
+    {
+      "key": "wellthisisafortunatecoincidence",
+      "text_en": "Well, this is a fortunate coincidence.",
+      "text": "หืม ช่างเป็นเรื่องบังเอิญที่ประจวบเหมาะดีแท้"
+    },
+    {
+      "key": "brothertellmeyouhavesomeideawhythisishappening",
+      "text_en": "Brother! Tell me you have some idea why this is happening.",
+      "text": "พี่! บอกฉันทีว่าพอจะรู้ไหมว่าทำไมเกิดเรื่องแบบนี้ขึ้น"
+    },
+    {
+      "key": "imaybutforthemomentwellneedtopostponesuchdiscussionsinfavorofaction",
+      "text_en": "I may─but for the moment we'll need to postpone such discussions in favor of action.",
+      "text": "ก็พอจะเดาได้—แต่ตอนนี้เราต้องพักเรื่องคุยไว้ก่อนแล้วรีบลงมือ"
+    },
+    {
+      "key": "thecrystalexarchispreparingtodeployabarrieraroundthecrystariumaswespeakensuringthatheisabletodososhouldbeourfirstconcern",
+      "text_en": "The Crystal Exarch is preparing to deploy a barrier around the Crystarium as we speak. Ensuring that he is able to do so should be our first concern.",
+      "text": "ขณะนี้คริสตัลเอ็กซาร์ชกำลังเตรียมกางม่านพลังคุ้มกันรอบเดอะคริสทาเรียม หน้าที่เร่งด่วนที่สุดในตอนนี้คือต้องทำให้มั่นใจว่าท่านจะลงมือสำเร็จ"
+    },
+    {
+      "key": "thereareanumberofinstrumentsplacedaboutthecrystariumthatfunctionasanchorsforthebarrierimonmywaytoactivatethemnow",
+      "text_en": "There are a number of instruments placed about the Crystarium that function as anchors for the barrier. I'm on my way to activate them now.",
+      "text": "อุปกรณ์หลายชิ้นที่ติดตั้งไว้รอบเดอะคริสทาเรียมทำหน้าที่เป็นจุดยึดบาเรีย ฉันกำลังจะไปเปิดใช้งานเดี๋ยวนี้"
+    },
+    {
+      "key": "inwhichcasethreepairsofhandswouldbebetterthanoneverywellilltaketheonestothesouth",
+      "text_en": "...In which case, three pairs of hands would be better than one? Very well. I'll take the ones to the south.",
+      "text": "...ถ้าอย่างนั้น สามแรงย่อมดีกว่าแรงเดียวใช่ไหมล่ะ ตกลง ฉันจะไปจัดการทางทิศใต้เอง"
+    },
+    {
+      "key": "ishalldealwiththenorthernapparatusthenwillyouhandlethewesterntwotheyreensconcedonplatformsextendingfromtheupperleveloftheaetheryteplaza",
+      "text_en": "I shall deal with the northern apparatus, then. Will you handle the western two? They're ensconced on platforms extending from the upper level of the aetheryte plaza.",
+      "text": "ถ้าอย่างนั้นฉันจะจัดการเครื่องมือทางทิศเหนือเอง ฝากเธอจัดการสองเครื่องทางทิศตะวันตกได้ไหม เครื่องพวกนั้นตั้งอยู่บนแท่นที่ยื่นออกมาจากชั้นบนของลานเอเธอไรต์"
+    },
+    {
+      "key": "sineaterssightedtheyrecoming",
+      "text_en": "Sin eaters sighted! They're coming!",
+      "text": "ผู้กลืนกินบาป! พวกมันบุกมาแล้ว!"
+    },
+    {
+      "key": "excellentthebarrierisholding",
+      "text_en": "Excellent. The barrier is holding.",
+      "text": "เยี่ยมมาก บาเรียยังต้านไว้ได้อยู่"
+    },
+    {
+      "key": "thatsgoodnewsforthecrystariumbutwhatoftherestoflakeland",
+      "text_en": "That's good news for the Crystarium, but what of the rest of Lakeland?",
+      "text": "นั่นเป็นข่าวดีสำหรับเดอะคริสทาเรียม แต่พื้นที่ส่วนที่เหลือของเลคแลนด์ล่ะจะเป็นอย่างไร"
+    },
+    {
+      "key": "lynaandthecityguardhavetakentothefield",
+      "text_en": "Lyna and the city guard have taken to the field.",
+      "text": "ลีน่ากับกองทหารยามประจำเมืองออกไปรับศึกแล้ว"
+    },
+    {
+      "key": "thancredandtheothershavealreadyjoinedthemletusdothesame",
+      "text_en": "Thancred and the others have already joined them. Let us do the same.",
+      "text": "คุณแซงเครดกับคนอื่นๆ ไปสมทบแล้ว พวกเราก็รีบตามไปกันเถอะครับ"
+    },
+    {
+      "key": "ifalphinaudisoptingtoactfirstandspeaklateridontdoubttheurgencyofthesituationletsgo",
+      "text_en": "If Alphinaud is opting to act first and speak later, I don't doubt the urgency of the situation. Let's go.",
+      "text": "หากอัลฟิโนด์เลือกที่จะลงมือก่อนค่อยอธิบายทีหลัง ฉันก็ไม่กังขาเลยว่าสถานการณ์จะคับขันเพียงใด ไปกันเถอะ"
+    },
+    {
+      "key": "weoughttojointhevanguardassoonaspossibleifthenumberofeaterswejustsawisanyindicationwellbefacingaformidablehost",
+      "text_en": "We ought to join the vanguard as soon as possible. If the number of eaters we just saw is any indication, we'll be facing a formidable host.",
+      "text": "พวกเราต้องรีบไปสมทบกับกองหน้าให้เร็วที่สุดครับ ดูจากจำนวนพวกอีตเตอร์ที่เพิ่งเห็นเมื่อครู่ เราคงต้องรับมือกับกองทัพใหญ่ที่น่ากลัวแน่"
+    },
+    {
+      "key": "whatlovelyweatherjustwhatweneeded",
+      "text_en": "What lovely weather. Just what we needed.",
+      "text": "อากาศดีเหลือเกิน ช่างเป็นใจดีแท้"
+    },
+    {
+      "key": "itseemsthebattlehasalreadybeguninearnestmakehaste",
+      "text_en": "It seems the battle has already begun in earnest. Make haste!",
+      "text": "ดูเหมือนการต่อสู้จะเริ่มขึ้นอย่างจริงจังแล้ว รีบไปกันเถอะครับ!"
+    },
+    {
+      "key": "ihearshoutingcomeon",
+      "text_en": "I hear shouting! Come on!",
+      "text": "ได้ยินเสียงตะโกนแล้ว! เร็วเข้า!"
+    },
+    {
+      "key": "letsgiveitourall",
+      "text_en": "Let's give it our all!",
+      "text": "ทุ่มสุดตัวกันเลย!"
+    },
+    {
+      "key": "thisway",
+      "text_en": "This way!",
+      "text": "ทางนี้!"
+    },
+    {
+      "key": "theyneedourhelp",
+      "text_en": "They need our help!",
+      "text": "พวกเขากำลังต้องการความช่วยเหลือ!"
+    },
+    {
+      "key": "helpisathand",
+      "text_en": "Help is at hand!",
+      "text": "กำลังไปช่วยแล้วครับ!"
+    },
+    {
+      "key": "moreeatersdontletyourguarddown",
+      "text_en": "More eaters. Don't let your guard down.",
+      "text": "พวกกินบาปมาเพิ่มอีกแล้ว อย่าเพิ่งวางใจเด็ดขาด"
+    },
+    {
+      "key": "thoseeaterstheyremovingtowardradiscasround",
+      "text_en": "Those eaters...they're moving toward Radisca's Round.",
+      "text": "พวกกินบาปพวกนั้น... กำลังมุ่งหน้าไปทางราดิสคาส์ราวนด์"
+    },
+    {
+      "key": "weshouldfollowbutwecannotneglectthoseinneedofaid",
+      "text_en": "We should follow─but we cannot neglect those in need of aid.",
+      "text": "เราต้องตามไป─แต่ก็ทิ้งคนที่ต้องการความช่วยเหลือไว้ไม่ได้เหมือนกัน"
+    },
+    {
+      "key": "",
+      "text_en": "<gasp>",
+      "text": "*(เฮือก)*"
+    },
+    {
+      "key": "ifitsthisbadhereishuddertothinkwhatitslikeelsewhere",
+      "text_en": "If it's this bad here, I shudder to think what it's like elsewhere...",
+      "text": "ขนาดที่นี่ยังแย่ถึงเพียงนี้ ฉันล่ะไม่อยากจะคิดเลยว่าที่อื่นจะเป็นอย่างไร..."
+    },
+    {
+      "key": "atimelyarrivalforenameihavemyhandsfullhere",
+      "text_en": "A timely arrival, Forename . I have my hands full here.",
+      "text": "มาได้จังหวะพอดีเชียว ทางนี้ฉันกำลังตึงมืออยู่ทีเดียว"
+    },
+    {
+      "key": "mineownmagicksshallsufficetoaidyshtolaibidtheeoffersuccortotheguard",
+      "text_en": "Mine own magicks shall suffice to aid Y'shtola. I bid thee offer succor to the guard.",
+      "text": "ลำพังเวทมนตร์ของข้าก็เพียงพอจะเกื้อหนุนอิชโทลาแล้ว ขอท่านโปรดไปช่วยเหลือทหารยามผู้นั้นเถิด"
+    },
+    {
+      "key": "theeatersaetherswellsiwouldhatetofindoutwhatitintendstodonext",
+      "text_en": "The eater's aether swells. I would hate to find out what it intends to do next.",
+      "text": "เอเธอร์ของพวกกินบาปกำลังเอ่อล้น... ฉันไม่อยากจะคิดเลยว่ามันตั้งใจจะทำอะไรต่อจากนี้"
+    },
+    {
+      "key": "defendmeletnoneinterruptmyincantation",
+      "text_en": "Defend me─let none interrupt my incantation.",
+      "text": "ช่วยคุ้มกันฉันด้วย─อย่าให้สิ่งใดมาขัดจังหวะการร่ายคาถาได้เด็ดขาด"
+    },
+    {
+      "key": "drawthelessereaterswithintheperimeter",
+      "text_en": "Draw the lesser eaters within the perimeter!",
+      "text": "จงล่อพวกกินบาปชั้นต่ำเข้ามาในแนวป้องกัน!"
+    },
+    {
+      "key": "istandatthyside",
+      "text_en": "I stand at thy side.",
+      "text": "ข้าจะยืนเคียงข้างท่าน"
+    },
+    {
+      "key": "mastermatoyahasafewtricksuphersleeveallowmetodemonstrate",
+      "text_en": "Master Matoya has a few tricks up her sleeve. Allow me to demonstrate.",
+      "text": "อาจารย์มาโตยายังมีกลเม็ดเด็ดพรายซ่อนไว้อีกหลายอย่าง ให้ฉันแสดงให้ดูสักหน่อยเป็นไร"
+    },
+    {
+      "key": "youwillruethedayyoucrossedmypath",
+      "text_en": "You will rue the day you crossed my path!",
+      "text": "แกจะต้องเสียใจที่มาขวางทางฉัน!"
+    },
+    {
+      "key": "itwasnothing",
+      "text_en": "It was nothing.",
+      "text": "เรื่องเล็กน้อยเท่านั้น"
+    },
+    {
+      "key": "thiswillhavetosuffice",
+      "text_en": "This will have to suffice...",
+      "text": "เท่านี้ก็น่าจะพอแล้ว..."
+    },
+    {
+      "key": "amostimpressivetrickindeed",
+      "text_en": "A most impressive trick indeed...",
+      "text": "ช่างเป็นกลเม็ดเด็ดพรายที่น่าอัศจรรย์ใจยิ่งนัก..."
+    },
+    {
+      "key": "asifyouvenoneofyourownletsmakefortheimperativeshallwe",
+      "text_en": "As if you've none of your own. Let's make for the Imperative, shall we?",
+      "text": "ทำอย่างกับคุณไม่มีกลเม็ดของตัวเองอย่างนั้นแหละ ไปที่อิมเพอราทีฟกันเถอะ ดีไหม"
+    },
+    {
+      "key": "someonehathmadeshortworkoftheseeaters",
+      "text_en": "Someone hath made short work of these eaters...",
+      "text": "ดูเหมือนจะมีใครบางคนจัดการพวกอีตเตอร์เหล่านี้ได้อย่างรวดเร็วยิ่ง..."
+    },
+    {
+      "key": "forenameyoullbegladtoknowthatthelocalshavealltakenshelter",
+      "text_en": "Forename ! You'll be glad to know that the locals have all taken shelter.",
+      "text": "[Forename]! โชคดีเหลือเกินค่ะ ชาวบ้านแถวนี้พากันไปหลบภัยหมดแล้ว"
+    },
+    {
+      "key": "neverthelesswecantallowtheeaterstogainanygroundwithme",
+      "text_en": "Nevertheless, we can't allow the eaters to gain any ground. With me!",
+      "text": "ถึงอย่างนั้น เราก็ปล่อยให้พวกอีตเตอร์รุกคืบเข้ามามากกว่านี้ไม่ได้ ตามผมมา!"
+    },
+    {
+      "key": "thatcantbegood",
+      "text_en": "That can't be good...",
+      "text": "ท่าจะไม่ดีแล้ว..."
+    },
+    {
+      "key": "godsdamnitallweretoolate",
+      "text_en": "Gods damn it all, we're too late...",
+      "text": "โธ่เอ๊ย... พวกเรามาไม่ทันการ..."
+    },
+    {
+      "key": "icouldntsavethem",
+      "text_en": "I couldn't...save them...",
+      "text": "ช่วย... ช่วยพวกเขาไว้ไม่ได้..."
+    },
+    {
+      "key": "illfollowtheeateryoupressontotheimperative",
+      "text_en": "I'll follow the eater. You press on to the Imperative.",
+      "text": "ผมจะตามซินอีตเตอร์ตัวนั้นไป พวกคุณรีบมุ่งหน้าไปยังอิมเพอราทีฟเถอะ"
+    },
+    {
+      "key": "imstayingwithyou",
+      "text_en": "I'm staying with you!",
+      "text": "ฉันจะอยู่ช่วยด้วย!"
+    },
+    {
+      "key": "wevelosttoomanyalreadywemusthurry",
+      "text_en": "We've lost too many already. We must hurry.",
+      "text": "เราสูญเสียคนไปมากพอแล้ว ต้องรีบกันหน่อย!"
+    },
+    {
+      "key": "theseeatersaretooorganizedtheycannotmerelybeactingoninstinct",
+      "text_en": "These eaters are too organized. They cannot merely be acting on instinct.",
+      "text": "พวกซินอีตเตอร์เคลื่อนไหวเป็นระบบเกินไป คงไม่ได้ทำไปตามสัญชาตญาณดิบแน่"
+    },
+    {
+      "key": "itisaswefeared",
+      "text_en": "It is as we feared.",
+      "text": "เป็นอย่างที่เรากลัวไว้ไม่มีผิด"
+    },
+    {
+      "key": "butourtaskisasiteverwasturnthetide",
+      "text_en": "But our task is as it ever was─turn the tide!",
+      "text": "แต่หน้าที่ของเรายังคงเดิม นั่นคือพลิกสถานการณ์กลับมาให้ได้!"
+    },
+    {
+      "key": "thelivesofthewoundedareinourhands",
+      "text_en": "The lives of the wounded are in our hands!",
+      "text": "ชีวิตของคนเจ็บขึ้นอยู่กับพวกเราแล้ว!"
+    },
+    {
+      "key": "wickedwhite",
+      "text_en": "Wicked white!",
+      "text": "แสงขาวกาลกิณี!"
+    },
+    {
+      "key": "icant",
+      "text_en": "I can't...",
+      "text": "ไม่ไหวแล้ว..."
+    },
+    {
+      "key": "havecarethatisnoordinaryeater",
+      "text_en": "Have care. That is no ordinary eater.",
+      "text": "ระวังตัวด้วย นั่นหาใช่ผู้กลืนกินธรรมดาไม่"
+    },
+    {
+      "key": "moreeaters",
+      "text_en": "More eaters...",
+      "text": "พวกผู้กลืนกินมาเพิ่มอีกแล้ว..."
+    },
+    {
+      "key": "theyreprotectingitsomehowweshallneedtodealwiththemfirst",
+      "text_en": "They're protecting it, somehow. We shall need to deal with them first.",
+      "text": "พวกมันกำลังหาทางปกป้องสิ่งนั้นอยู่ เราต้องจัดการพวกมันก่อนเป็นอันดับแรก"
+    },
+    {
+      "key": "ifeelaswellofaethergatheraroundmequickly",
+      "text_en": "I feel a swell of aether! Gather around me, quickly!",
+      "text": "ฉันรู้สึกถึงเอเธอร์ที่พลุ่งพล่านขึ้นมา! รีบมารวมกันใกล้ๆ ฉันเร็วเข้า!"
+    },
+    {
+      "key": "iwillnotbeoutdone",
+      "text_en": "I will not be outdone!",
+      "text": "ฉันจะไม่ยอมน้อยหน้าหรอก!"
+    },
+    {
+      "key": "mytrainingwasntfornaught",
+      "text_en": "My training wasn't for naught!",
+      "text": "ที่ฝึกฝนมาไม่ได้สูญเปล่า!"
+    },
+    {
+      "key": "theoryinpractice",
+      "text_en": "Theory in practice!",
+      "text": "ได้เวลาเปลี่ยนทฤษฎีเป็นปฏิบัติจริงแล้ว!"
+    },
+    {
+      "key": "perhapsnowisthetimetoputmyresearchtothetest",
+      "text_en": "Perhaps now is the time to put my research to the test.",
+      "text": "บางทีอาจถึงเวลาต้องทดสอบผลการค้นคว้าของฉันแล้ว"
+    },
+    {
+      "key": "andyetmorestillcome",
+      "text_en": "And yet more still come!",
+      "text": "พวกมันยังแห่กันมาอีกไม่หมดไม่สิ้น!"
+    },
+    {
+      "key": "forenamebuymesometimealphinaudillneedaether",
+      "text_en": "Forename , buy me some time. Alphinaud─I'll need aether.",
+      "text": "[Forename] ถ่วงเวลาให้ฉันหน่อย! อัลฟิโน่—ฉันต้องใช้เอเธอร์!"
+    },
+    {
+      "key": "ifnaughtelsewillsuffice",
+      "text_en": "If naught else will suffice!",
+      "text": "หากไม่มีหนทางอื่นแล้วละก็!"
+    },
+    {
+      "key": "mystrengthisyours",
+      "text_en": "My strength is yours!",
+      "text": "พลังทั้งหมดของผม... ขอมอบให้เธอ!"
+    },
+    {
+      "key": "maythetwelveguideyou",
+      "text_en": "May the Twelve guide you!",
+      "text": "ขอทวยเทพทั้งสิบสองจงนำทาง!"
+    },
+    {
+      "key": "thestarsshallgranttheesuccor",
+      "text_en": "The stars shall grant thee succor.",
+      "text": "ดวงดาราจักรมอบพลังเกื้อหนุนแด่ท่าน"
+    },
+    {
+      "key": "righteveryonechannelyouraetherintoalisaie",
+      "text_en": "Right. Everyone, channel your aether into Alisaie!",
+      "text": "เอาละ ทุกคน ส่งเอเธอร์ทั้งหมดไปให้อลิเซ่เร็วเข้า!"
+    },
+    {
+      "key": "letsgivethemashow",
+      "text_en": "Let's give them a show!",
+      "text": "มาแสดงฝีมือให้พวกมันดูหน่อยเป็นไง!"
+    },
+    {
+      "key": "forward",
+      "text_en": "Forward!",
+      "text": "บุกเข้าไป!"
+    },
+    {
+      "key": "withheartandsteel",
+      "text_en": "With heart and steel!",
+      "text": "ด้วยจิตวิญญาณและคมดาบ!"
+    },
+    {
+      "key": "wefightforthosewhocannot",
+      "text_en": "We fight for those who cannot!",
+      "text": "เราจะสู้เพื่อคนที่ไร้ทางสู้!"
+    },
+    {
+      "key": "therearesomany",
+      "text_en": "There are so many...",
+      "text": "พวกมันเยอะเหลือเกิน..."
+    },
+    {
+      "key": "godsdammit",
+      "text_en": "Godsdammit!",
+      "text": "บัดซบเอ๊ย!"
+    },
+    {
+      "key": "lyna",
+      "text_en": "Lyna!",
+      "text": "ไลน่า!"
+    },
+    {
+      "key": "lynaholdon",
+      "text_en": "Lyna, hold on!",
+      "text": "ไลน่า ทำใจดีๆ ไว้!"
+    },
+    {
+      "key": "theytheyturnedonme",
+      "text_en": "They...they turned on me...",
+      "text": "พวกนั้น... พวกนั้นหันมาเล่นงานฉัน..."
+    },
+    {
+      "key": "thancred",
+      "text_en": "Thancred!",
+      "text": "แธนเครด!"
+    },
+    {
+      "key": "thisoneismine",
+      "text_en": "This...one...is mine!",
+      "text": "ตัวนี้... ผมจัดการเอง!"
+    },
+    {
+      "key": "weneedonlyholdoutalittlewhilelonger",
+      "text_en": "We need only hold out a little while longer.",
+      "text": "เราแค่ต้องอดทนอีกนิดเดียวเท่านั้นนะ"
+    },
+    {
+      "key": "reinforcementsarecomingrememberthecaptainsaidsoweregoingtobeallright",
+      "text_en": "Reinforcements are coming, remember? The captain said so. We're going to be all right...",
+      "text": "กำลังเสริมกำลังมาแล้ว จำได้ไหม หัวหน้าบอกไว้แบบนั้น พวกเราจะไม่เป็นไรหรอก..."
+    },
+    {
+      "key": "runrundamnyou",
+      "text_en": "Run! Run, damn you!",
+      "text": "หนีไป! หนีไปสิ โธ่เอ๊ย!"
+    },
+    {
+      "key": "thewarriorofdarknesshasreturnedthebloodynighthasreturnedsostaywithmeehyoucantgodyingnow",
+      "text_en": "The Warrior of Darkness has returned. The bloody night has returned! So stay with me, eh? You can't go dying now!",
+      "text": "นักรบแห่งความมืดกลับมาแล้ว ค่ำคืนสีเลือดกลับคืนมาแล้ว! เพราะฉะนั้น แข็งใจไว้ก่อนนะ อย่าเพิ่งทิ้งกันไปสิ! จะมาตายตอนนี้ไม่ได้นะ!"
+    },
+    {
+      "key": "godsdammitpleaseletthisworkpleaseletthiswork",
+      "text_en": "Godsdammit! Please let this work, please let this work...",
+      "text": "บ้าที่สุด! ขอให้ได้ผลทีเถอะ ขอให้ได้ผลทีเถอะ..."
+    },
+    {
+      "key": "nonnostaybackstayback",
+      "text_en": "No! N-No, stay back! Stay back!",
+      "text": "ไม่! ม-ไม่นะ ถอยไป! ถอยไปนะ!"
+    },
+    {
+      "key": "helphelpsomeoneanyone",
+      "text_en": "Help, help! Someone, anyone!",
+      "text": "ช่วยด้วย ช่วยด้วย! ใครก็ได้ ช่วยที!"
+    },
+    {
+      "key": "whydidyousparemewhywhathaveidonetodeservethismercy",
+      "text_en": "Why did you spare me ? Why? What have I done to deserve this mercy !?",
+      "text": "ทำไมถึงละเว้นข้าไว้ ทำไมกัน ข้าทำอะไรลงไปถึงต้องมาได้รับความเมตตาพรรค์นี้!?"
+    },
+    {
+      "key": "forwardforwardifyoucanstillholdaswordfollowmewoundedtotherear",
+      "text_en": "Forward! Forward! If you can still hold a sword, follow me! Wounded, to the rear!",
+      "text": "บุกเข้าไป! บุกเข้าไป! ใครยังจับดาบไหวก็ตามฉันมา! ส่วนคนเจ็บ ถอยไปแนวหลัง!"
+    },
+    {
+      "key": "weaponsatthereadyletsmakethiscount",
+      "text_en": "Weapons at the ready! Let's make this count!",
+      "text": "เตรียมอาวุธให้พร้อม! สู้ให้คุ้มค่าที่สุด!"
+    },
+    {
+      "key": "fightandstruggleseeksalvationbyyourownhands",
+      "text_en": "Fight and struggle. Seek salvation by your own hands.",
+      "text": "จงต่อสู้และดิ้นรน ไขว่คว้าความรอดพ้นด้วยสองมือของตนเอง"
+    },
+    {
+      "key": "thoughthelossesbegraveendurethemthoughthevictoriesbehollowclaimthem",
+      "text_en": "Though the losses be grave, endure them. Though the victories be hollow, claim them.",
+      "text": "แม้ความสูญเสียจะสาหัสเพียงใด จงอดทนรับมันไว้ แม้ชัยชนะจะว่างเปล่าไร้ความหมาย จงคว้ามันมาให้ได้"
+    },
+    {
+      "key": "bearitjustamomentlonger",
+      "text_en": "Bear it just a moment longer...",
+      "text": "อดทนอีกนิดเดียวเท่านั้นนะ..."
+    },
+    {
+      "key": "thoumustneedsremainstill",
+      "text_en": "Thou must needs remain still.",
+      "text": "ท่านต้องอยู่นิ่งๆ ไว้ก่อน"
+    },
+    {
+      "key": "takeadeepbreathformethatsit",
+      "text_en": "Take a deep breath for me. That's it...",
+      "text": "สูดหายใจเข้าลึกๆ นะ... ดีมาก นั่นแหละ..."
+    },
+    {
+      "key": "itseemswevedriventhembackforthetimebeingatleast",
+      "text_en": "It seems we've driven them back─for the time being, at least.",
+      "text": "ดูเหมือนเราจะขับไล่พวกมันไปได้แล้ว... อย่างน้อยก็ชั่วคราวละนะ"
+    },
+    {
+      "key": "thewoundedhavebeencollectedandareundergoingtreatmentnowoncetheyrereadytobemovedwellhavethemcarriedbacktothecrystarium",
+      "text_en": "The wounded have been collected and are undergoing treatment now. Once they're ready to be moved, we'll have them carried back to the Crystarium.",
+      "text": "เราพาผู้บาดเจ็บมารวมกันหมดแล้วและกำลังรับการรักษาอยู่ พอพร้อมเคลื่อนย้ายเมื่อไหร่ เราจะพาตัวกลับเดอะคริสทาเรียมทันที"
+    },
+    {
+      "key": "thedeadaswellofcoursethosewhosebodiesremainanyway",
+      "text_en": "The dead as well, of course. Those whose bodies remain, anyway...",
+      "text": "รวมถึงร่างของผู้เสียชีวิตด้วย แน่นอน... อย่างน้อยก็เฉพาะคนที่มีร่างเหลืออยู่ละนะ..."
+    }
+  ]
+}

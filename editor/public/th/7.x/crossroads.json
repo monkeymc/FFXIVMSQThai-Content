@@ -1,0 +1,910 @@
+{
+  "quest_id": "crossroads",
+  "dialogues": [
+    {
+      "key": "itwontbeasionceenvisionedbutperhapssomedaywecantakethattrainjourneytoyyasulanitogether",
+      "text_en": "It won't be as I once envisioned...but perhaps someday we can take that train journey to Yyasulani together.",
+      "text": "คงไม่เหมือนอย่างที่ฉันเคยคิดฝันไว้... แต่บางที วันหนึ่งเราอาจจะได้นั่งรถไฟไปยาซูเอนีด้วยกัน"
+    },
+    {
+      "key": "wellitspossiblethatshalesmadesomeheadwaybynowandregardlessweshouldspreadwordthattherailroadsbeenrestoredtoservice",
+      "text_en": "Well, it's possible that Shale's made some headway by now. And regardless, we should spread word that the railroad's been restored to service.",
+      "text": "บางทีป่านนี้เชลคงก้าวหน้าไปบ้างแล้วล่ะ และไม่ว่ายังไง เราก็ควรเผยแผ่พระวจนะออกไปว่าทางรถไฟกลับมาใช้งานได้อีกครั้ง"
+    },
+    {
+      "key": "shalewhatdoyouhaveherworkingon",
+      "text_en": "Shale? What do you have her working on?",
+      "text": "เชลเหรอ นายให้ทำอะไรอยู่ล่ะ"
+    },
+    {
+      "key": "gulooljasmother",
+      "text_en": "Gulool Ja's mother...",
+      "text": "พระแม่ของกูลูล จา..."
+    },
+    {
+      "key": "idfeelthesameinhisshoeshavefeltthesamesomequestionsarepainfultoleaveunanswered",
+      "text_en": "I'd feel the same in his shoes. Have felt the same. Some questions are painful to leave unanswered...",
+      "text": "หากตกอยู่ในสถานการณ์เดียวกันฉันก็คงรู้สึกไม่ต่างกัน... เคยรู้สึกเช่นนั้นเหมือนกัน คำถามบางข้อก็ชวนให้เจ็บปวดหากปล่อยไว้โดยไม่มีคำตอบ..."
+    },
+    {
+      "key": "theresnocausetolookatmelikethatthecahciuawemetmayhaveonlybeenasimulacrumbuthermemorywasreal",
+      "text_en": "There's no cause to look at me like that. The Cahciua we met may have only been a simulacrum, but her memory was real.",
+      "text": "ไม่ต้องมองฉันด้วยสายตาแบบนั้นหรอก คาชิอัวที่เราพบอาจเป็นเพียงร่างจำลอง แต่ความทรงจำนั้นเป็นของจริง"
+    },
+    {
+      "key": "ineedntsearchforwhatsheleftbehindbecausesheleftitwithmeandiwillcarryitalways",
+      "text_en": "I needn't search for what she left behind, because she left it with me. And I will carry it always...",
+      "text": "ฉันไม่ต้องตามหาสิ่งที่พระแม่ทิ้งไว้เบื้องหลังหรอก เพราะพระแม่ฝากสิ่งนั้นไว้กับฉันแล้ว และฉันจะเก็บรักษาไว้ตลอดไป..."
+    },
+    {
+      "key": "speakingofthingsyourecarrying",
+      "text_en": "Speaking of things you're carrying...",
+      "text": "จะว่าไป เรื่องของที่พกติดตัวอยู่..."
+    },
+    {
+      "key": "isthatateenytinycahciua",
+      "text_en": "Is that a teeny-tiny Cahciua?",
+      "text": "นั่นคาชิอัวตัวจิ๋วหลิวใช่ไหมน่ะ"
+    },
+    {
+      "key": "whatno",
+      "text_en": "What!? No!",
+      "text": "อะไรนะ! ไม่ใช่!"
+    },
+    {
+      "key": "itismerelyatokenfromalexandriaourfriendsinoblivionwouldnottakenoforananswerandithoughtitasgoodasouvenirasany",
+      "text_en": "It is merely a token from Alexandria. Our friends in Oblivion would not take no for an answer, and I thought it as good a souvenir as any...",
+      "text": "ก็แค่ของดูต่างหน้าจากอะเล็กซานเดรีย เพื่อนๆ ในอ็อบลิเวียนรบเร้าให้รับไว้ให้ได้ ฉันก็เลยคิดว่าเก็บไว้เป็นของที่ระลึกก็ไม่เลวเหมือนกัน..."
+    },
+    {
+      "key": "whateveryousayforwhatitsworthithinkitsanicewaytobringherwithyouonyourtravels",
+      "text_en": "Whatever you say... For what it's worth, I think it's a nice way to bring her with you on your travels.",
+      "text": "แล้วแต่จะพูดเถอะ... แต่ข้าว่าการพานางร่วมเดินทางไปด้วยแบบนี้ก็ดีไม่น้อยเลยนะ"
+    },
+    {
+      "key": "yeswellyoureofftothedomenowarentyou",
+      "text_en": "...Yes. Well. You're off to the dome now, aren't you?",
+      "text": "...อืม เอาเถอะ พวกนายกำลังจะไปที่โดมกันแล้วใช่ไหม"
+    },
+    {
+      "key": "ithoughtimightjoinyouforatimeseeifthereisaughticandoforthepeopletheremuchchangedthoughitisistillconsideritmyhome",
+      "text_en": "I thought I might join you for a time. See if there is aught I can do for the people there. Much changed though it is, I still consider it my home.",
+      "text": "ฉันว่าจะขอร่วมทางไปด้วยสักพัก เผื่อพอจะช่วยเหลือผู้คนที่นั่นได้บ้าง ถึงที่นั่นจะเปลี่ยนไปมาก แต่ก็ยังเป็นบ้านเกิดของฉัน"
+    },
+    {
+      "key": "ofcoursewecangiveyouthefullstoryontheway",
+      "text_en": "Of course! We can give you the full story on the way.",
+      "text": "ได้เลย! เดี๋ยวระหว่างทางข้าจะเล่าเรื่องทั้งหมดให้ฟังเอง"
+    },
+    {
+      "key": "youmustbeexhaustedshallinipoutforanenergytonic",
+      "text_en": "You must be exhausted. Shall I nip out for an energy tonic?",
+      "text": "คงเหนื่อยล้ากันแย่เลย ให้ฉันไปหาเครื่องดื่มบำรุงกำลังมาให้ดีไหมคะ"
+    },
+    {
+      "key": "sozoraaljawasconductingsecretresearchinyuweyawataihavesomememoriesoftheplacefrommychildhood",
+      "text_en": "So Zoraal Ja was conducting secret research in Yuweyawata... I have some memories of the place from my childhood.",
+      "text": "แสดงว่าโซราล จาแอบทำการวิจัยลับที่ยูเวยาวาตาสินะ... ฉันยังพอจำที่นั่นได้บ้างเมื่อครั้งยังเด็ก"
+    },
+    {
+      "key": "gladyourebackwewouldntwanttokeepgulooljaherewaitinganylongerthannecessary",
+      "text_en": "Glad you're back. We wouldn't want to keep Gulool Ja here waiting any longer than necessary.",
+      "text": "ดีใจที่กลับมาค่ะ ไม่อยากปล่อยให้กูลูล จาต้องรอนานเกินความจำเป็นเลย"
+    },
+    {
+      "key": "erenvilleiswearinghiscahciuathatmakesmehappy",
+      "text_en": "Erenville is wearing his Cahciua! That makes me happy.",
+      "text": "พี่เอเรนวิลล์พกคุณคาชีอัวติดตัวไว้ด้วย! ดีใจจังเลยครับ"
+    },
+    {
+      "key": "lookslikewearrivedatagoodtime",
+      "text_en": "Looks like we arrived at a good time.",
+      "text": "ดูเหมือนพวกเราจะมาได้ถูกจังหวะพอดีเลยนะ"
+    },
+    {
+      "key": "seeingerenvilleneverfailstoremindmeofcahciuaandiwouldnthaveitanyotherway",
+      "text_en": "Seeing Erenville never fails to remind me of Cahciua...and I wouldn't have it any other way.",
+      "text": "เห็นเอเรนวิลล์ทีไรก็ทำให้ฉันนึกถึงคาชิอัวทุกที... และฉันก็ไม่อยากให้เป็นอย่างอื่นเลย"
+    },
+    {
+      "key": "thedeadshouldberememberedthisifirmlybelievegulooljasmotherdeservesthattoo",
+      "text_en": "The dead should be remembered, this I firmly believe. Gulool Ja's mother deserves that too.",
+      "text": "ผู้วายชนม์ควรได้รับการจดจำ ฉันเชื่อเช่นนั้นอย่างแน่วแน่ พระแม่ของกูลูล จา ก็ควรได้รับสิ่งนั้นเช่นกัน"
+    },
+    {
+      "key": "asimpleyetelegantsolutionandthusistherailroadbackinoperation",
+      "text_en": "...A simple yet elegant solution. And thus is the railroad back in operation.",
+      "text": "...ช่างเป็นวิธีแก้ปัญหาที่ง่ายดายแต่หมดจดยิ่งนัก รถไฟจึงกลับมาวิ่งได้อีกครั้งเสียที"
+    },
+    {
+      "key": "meanwhileshalehasnearlyfinishedprocessingthedatashewillbeabletoshareherfindingswithusimminently",
+      "text_en": "Meanwhile, Shale has nearly finished processing the data. She will be able to share her findings with us imminently.",
+      "text": "ในระหว่างนี้ เชลก็ใกล้จะประมวลผลข้อมูลเสร็จสิ้นแล้ว คงจะนำผลลัพธ์ที่ค้นพบมาเล่าให้พวกเราฟังได้ในไม่ช้า"
+    },
+    {
+      "key": "iminterruptingsomethingigather",
+      "text_en": "...I'm interrupting something, I gather.",
+      "text": "...ฉันคงเข้ามาขัดจังหวะอะไรเข้ากระมัง"
+    },
+    {
+      "key": "whyyshtolawhatbringsyouhere",
+      "text_en": "Why, Y'shtola! What brings you here?",
+      "text": "อ้าว ยิชโทลา! ลมอะไรหอบเธอมาที่นี่ล่ะ"
+    },
+    {
+      "key": "iveseenenoughofthegateintheskydeepcenotefornowsoimshiftingmyinvestigationtolivingmemory",
+      "text_en": "I've seen enough of the gate in the Skydeep Cenote for now, so I'm shifting my investigation to Living Memory.",
+      "text": "สำหรับตอนนี้ ฉันสืบค้นเรื่องประตูที่สกายดีพ ซีโนเต มาพอสมควรแล้ว จึงจะเบนเข็มการตรวจสอบไปยังลิฟวิ่งเมโมรีแทน"
+    },
+    {
+      "key": "whilethereithoughtiwoulddowelltohavethecompanyofanexpertonelectrope",
+      "text_en": "While there, I thought I would do well to have the company of an expert on electrope.",
+      "text": "ระหว่างอยู่ที่นั่น ฉันคิดว่าคงดีไม่น้อยหากได้กองกำลังคอมพานีของผู้เชี่ยวชาญด้านอิเล็กโทรปมาร่วมทางด้วย"
+    },
+    {
+      "key": "idliketotakeacloserlookattheplacemyselficanjoinyouoncewevefinishedhere",
+      "text_en": "I'd like to take a closer look at the place myself. I can join you once we've finished here.",
+      "text": "ฉันเองก็อยากจะไปสำรวจสถานที่นั้นให้ละเอียดขึ้นอยู่เหมือนกัน พองานตรงนี้เสร็จสิ้นแล้ว ฉันจะตามไปสมทบกับคุณนะ"
+    },
+    {
+      "key": "lestyoufeariveforgottenonceivemadeheadwaywithlivingmemorythekeyinyourkeepingshallbethenextsubjectofmyscrutiny",
+      "text_en": "Lest you fear I've forgotten, once I've made headway with Living Memory, the key in your keeping shall be the next subject of my scrutiny.",
+      "text": "เกรงว่าท่านจะคิดว่าฉันลืมไปแล้ว เมื่อใดที่การสืบค้นเรื่องลิฟวิ่งเมโมรีมีความคืบหน้า กุญแจข้ามมิติที่อยู่ในความดูแลของท่านจะเป็นเป้าหมายต่อไปที่ฉันจะตรวจสอบอย่างละเอียด"
+    },
+    {
+      "key": "therewasamountainofdatatosiftthroughmuchofittantalizingiadmit",
+      "text_en": "There was a mountain of data to sift through─much of it tantalizing, I admit.",
+      "text": "ข้อมูลกองโตเท่าภูเขารอให้ฉันคัดกรอง—ซึ่งฉันยอมรับเลยว่าส่วนใหญ่น่าดึงดูดใจทีเดียว"
+    },
+    {
+      "key": "butitwilltaketimetofullydecrypteverythingthatpiquesmyinterestsotoanswerourimmediatequestionivebeenconcentratingmyeffortsontheaudiosavedbyteeshaljaherself",
+      "text_en": "But it will take time to fully decrypt everything that piques my interest, so to answer our immediate question, I've been concentrating my efforts on the audio saved by Teeshal Ja herself.",
+      "text": "แต่คงต้องใช้เวลาสักหน่อยกว่าจะถอดรหัสทุกอย่างที่ฉันสนใจได้หมด ดังนั้นเพื่อตอบคำถามเร่งด่วนในตอนนี้ ฉันจึงมุ่งศึกษาไฟล์เสียงที่ทีชาล จา บันทึกไว้ด้วยตัวเอง"
+    },
+    {
+      "key": "whileivenotlistenedtoityetihaveaselectionreadyforplaybackwouldyouliketohearitnow",
+      "text_en": "While I've not listened to it yet, I have a selection ready for playback. Would you like to hear it now?",
+      "text": "ถึงฉันจะยังไม่ได้เปิดฟัง แต่ก็เลือกไฟล์เตรียมพร้อมสำหรับเปิดเล่นไว้เรียบร้อยแล้ว คุณอยากลองฟังตอนนี้เลยไหม"
+    },
+    {
+      "key": "yesplease",
+      "text_en": "Yes, please!",
+      "text": "ครับ รบกวนด้วยครับ!"
+    },
+    {
+      "key": "allrightseveralaudiofileswillnowplayinsequence",
+      "text_en": "All right. Several audio files will now play in sequence.",
+      "text": "ตกลงค่ะ เดี๋ยวไฟล์เสียงจะเล่นต่อเนื่องกันไปตามลำดับนะ"
+    },
+    {
+      "key": "ierahemmynameisteeshaljaandivedecidedtorecordthistotohelpmeputmythoughtsinorderisuppose",
+      "text_en": "...I, er... Ahem. My name is Teeshal Ja, and I've decided to record this to...to help me put my thoughts in order, I suppose.",
+      "text": "...ฉัน...เอ่อ... อะแฮ่ม ฉันชื่อทีชาล จา และตั้งใจจะบันทึกเรื่องนี้ไว้เพื่อ...ช่วยจัดระเบียบความคิดให้อยู่ในภาคีล่ะมั้ง"
+    },
+    {
+      "key": "mother",
+      "text_en": "Mother...?",
+      "text": "พระแม่...?"
+    },
+    {
+      "key": "officiallyiamwasachirurgeonwiththelandsguardiwaspartofacontingentdispatchedtoyyasulanitohuntaturalvidraalthatwaswreakinghavoc",
+      "text_en": "Officially, I am─was?─a chirurgeon with the Landsguard. I was part of a contingent dispatched to Yyasulani to hunt a tural vidraal that was wreaking havoc.",
+      "text": "อย่างเป็นทางการแล้ว ข้าพเจ้าเป็น—หรือเคยเป็นนะ?—แพทย์ทหารประจำแลนด์สการ์ด ข้าพเจ้าอยู่ในกองทหารที่ส่งไปยังยาซูเอนีเพื่อล่าทูรัลวิดราลที่กำลังอาละวาดสร้างความเดือดร้อน"
+    },
+    {
+      "key": "afterourmissionwascompleteielectedtoremainitwastheperfectopportunitytodocumentthegeographicdistributionofmedicinalherbsinthisregion",
+      "text_en": "After our mission was complete, I elected to remain. It was the perfect opportunity to document the geographic distribution of medicinal herbs in this region.",
+      "text": "เมื่อภารกิจเสร็จสิ้น ข้าพเจ้าเลือกที่จะอยู่ต่อ เพราะเป็นโอกาสอันดีที่จะได้จดบันทึกการกระจายตัวของสมุนไพรรักษาโรคในแถบนี้"
+    },
+    {
+      "key": "orsoisaidwhenrequestingspecialdispensationintruthicouldnotbeartoreturntotuliyollal",
+      "text_en": "...Or so I said when requesting special dispensation. In truth...I could not bear to return to Tuliyollal.",
+      "text": "...ข้าพเจ้าอ้างเหตุผลนั้นตอนขอยกเว้นเป็นกรณีพิเศษ แต่ความจริงก็คือ...ข้าพเจ้าทำใจกลับทูลียอลลัลไม่ได้จริงๆ"
+    },
+    {
+      "key": "ihadhopedtoaidcommanderzoraaljaintheriteofsuccessionbuthedidnotsomuchaslookmywayiwasneverincontentionofcourseoneofthenamelessmanyinhisarmy",
+      "text_en": "I had hoped to aid Commander Zoraal Ja in the rite of succession, but he did not so much as look my way. I was never in contention, of course─one of the nameless many in his army...",
+      "text": "ฉันเคยหวังว่าจะได้ช่วยเหลือผู้บัญชาการโซราล จาในศึกชิงบัลลังก์ แต่ท่านกลับไม่แม้แต่จะชายตามองมาทางฉันเลย แน่นอนว่าฉันมิอาจหวังเทียบเคียง...เป็นเพียงคนไร้ชื่อคนหนึ่งในกองทัพของท่านเท่านั้น..."
+    },
+    {
+      "key": "togobackandfacethatrealitywastoomuchformesoiranandinmycowardiceistumbleduponthispathapaththatchangedmylife",
+      "text_en": "To go back and face that reality was too much for me, so I ran. And in my cowardice, I stumbled upon this path. A path that changed my life.",
+      "text": "การย้อนกลับไปเผชิญหน้ากับความจริงข้อนั้นมันหนักหนาเกินรับไหว ฉันจึงเตลิดหนี และเพราะความขลาดเขลา จึงพลัดหลงมาพบเส้นทางนี้ เส้นทางที่เปลี่ยนชีวิตของฉันไปโดยสิ้นเชิง"
+    },
+    {
+      "key": "whenthedomeappearedifoundmyselftrappedwithinandreunitedwithmycommander",
+      "text_en": "When the dome appeared, I found myself trapped within...and reunited with my commander.",
+      "text": "ยามที่โดมผุดขึ้นมา ฉันก็ติดอยู่ข้างใน...และได้กลับมาพบกับผู้บัญชาการอีกครั้ง"
+    },
+    {
+      "key": "ihowamitospeakofcommanderzoraalja",
+      "text_en": "I... How am I to speak of Commander Zoraal Ja?",
+      "text": "ฉัน...จะเอ่ยถึงผู้บัญชาการโซราล จาอย่างไรดี"
+    },
+    {
+      "key": "iadmiredhimhisincontestablestrengthhisunwaveringfocushewasamanofgreatpassions",
+      "text_en": "I admired him. His incontestable strength. His unwavering focus. He was...a man of great passions.",
+      "text": "ฉันเลื่อมใสท่านเหลือเกิน ทั้งความแข็งแกร่งอันไร้ผู้ต้าน และความมุ่งมั่นเด็ดเดี่ยวไม่เคยสั่นคลอน ท่านคือ...บุรุษผู้เปี่ยมด้วยความปรารถนาอันแรงกล้า"
+    },
+    {
+      "key": "iwatchedhimcaptivatedbyhisintensityfromafariwouldnotdareapproachandinwatchingicametoknowhim",
+      "text_en": "I watched him, captivated by his intensity. From afar─I would not dare approach. And in watching, I came to know him.",
+      "text": "ฉันเฝ้ามองท่านด้วยความหลงใหลในความมุ่งมั่นอันแรงร้อน มองดูอยู่ห่างๆ โดยไม่บังอาจเข้าไปใกล้ และการเฝ้ามองนั้นเองที่ทำให้ฉันเริ่มเข้าใจตัวตนของท่าน"
+    },
+    {
+      "key": "hiseyestoosoughtthedistancebutnotasminedidheyearnednotforanotherbutsomethingelsebeyondthehorizon",
+      "text_en": "His eyes, too, sought the distance─but not as mine did. He yearned not for another, but something else, beyond the horizon.",
+      "text": "ตาของท่านเองก็ทอดมองไปยังที่แสนไกล...ทว่าไม่ได้มองแบบเดียวกับฉัน ท่านไม่ได้โหยหาใครอื่น หากแต่เป็นสิ่งอื่นที่อยู่เลยพ้นขอบฮอไรซันออกไป"
+    },
+    {
+      "key": "thatgazewouldneverfalluponmeiknewiknew",
+      "text_en": "That gaze would never fall upon me, I knew. I knew...",
+      "text": "สายตาคู่นั้นจะไม่มีวันทอดมองมาที่ฉัน ฉันรู้ดี...รู้แก่ใจดี..."
+    },
+    {
+      "key": "theexperimentwillsoonproceedtoitsnextphaseandwhenitdoesashepromised",
+      "text_en": "The experiment will soon proceed to its next phase. And when it does, as he promised...",
+      "text": "อีกไม่ช้าการทดลองจะคืบหน้าสู่ขั้นต่อไป และเมื่อถึงเวลานั้น ดังที่ท่านเคยสัญญาไว้..."
+    },
+    {
+      "key": "iwillhavemyheartsdesire",
+      "text_en": "I will have my heart's desire.",
+      "text": "ฉันก็จะได้ครอบครองสิ่งที่หัวใจเฝ้าถวิลหา"
+    },
+    {
+      "key": "todaytoday",
+      "text_en": "Today... Today...",
+      "text": "วันนี้... วันนี้..."
+    },
+    {
+      "key": "itshouldhavebeentodayanewbeginningwhatihavedreamedofforsolong",
+      "text_en": "It should have been today. A new beginning. What I have dreamed of for so long...",
+      "text": "มันควรจะเป็นวันนี้ วันเริ่มต้นใหม่ สิ่งที่ฉันเฝ้าฝันถึงมาแสนนาน..."
+    },
+    {
+      "key": "iholdafutureinmyarmsifhecouldseehimembracehimsurelysurelythatwouldbeenough",
+      "text_en": "I hold a future in my arms. If he could see him─embrace him... Surely, surely, that would be enough...",
+      "text": "ฉันโอบอุ้มอนาคตไว้ในอ้อมแขน หากท่านได้เห็น ได้โอบกอดเขา... เพียงเท่านี้ก็คงพอแล้ว... คงพอแล้วจริง ๆ..."
+    },
+    {
+      "key": "sofullofhopeiwasafoolishhope",
+      "text_en": "So full of hope I was. A foolish hope...",
+      "text": "ฉันเคยหวังไว้มากมายเหลือเกิน ความหวังอันแสนโง่เขลา..."
+    },
+    {
+      "key": "itsscalesareblue",
+      "text_en": "Its scales...are blue...",
+      "text": "เกล็ดของมัน... เป็นเผ่าบลู..."
+    },
+    {
+      "key": "hesyourson",
+      "text_en": "He's your son.",
+      "text": "เขาคือลูกชายของท่าน"
+    },
+    {
+      "key": "my",
+      "text_en": "My...",
+      "text": "ลูก...ของฉัน..."
+    },
+    {
+      "key": "noiicant",
+      "text_en": "No! I...I can't...",
+      "text": "ไม่! ฉัน...ฉันทำไม่ได้..."
+    },
+    {
+      "key": "iiidontknowhowhowcouldihow",
+      "text_en": "I...I-I don't know how─how could I...? How!?",
+      "text": "ฉัน...ฉันไม่รู้ว่าต้องทำยังไง... จะทำได้ยังไง... ได้ยังไงกัน!?"
+    },
+    {
+      "key": "toraiseachildbeafafather",
+      "text_en": "To raise a child─be a fa-father...",
+      "text": "เลี้ยงดูเด็กคนหนึ่ง... เป็นพ่...พ่อ..."
+    },
+    {
+      "key": "idontiicant",
+      "text_en": "I don't... I-I can't!",
+      "text": "เราไม่... เราทำไม่ได้!"
+    },
+    {
+      "key": "nonogetitawayfromme",
+      "text_en": "No... No! Get it away from me...",
+      "text": "ไม่... ไม่! เอาออกไปให้พ้นตัวเรา..."
+    },
+    {
+      "key": "getthatthingawayfromme",
+      "text_en": "Get that thing away from me!",
+      "text": "เอาไอ้สิ่งนั้นไปให้พ้นตัวเรา!"
+    },
+    {
+      "key": "shhhitsallrightlittleonepapawasjustsurprisedthatsall",
+      "text_en": "Shhh... It's all right, little one. Papa was just surprised, that's all.",
+      "text": "ชู่... ไม่เป็นไรนะเด็กดี พ่อเขาแค่ตกใจเท่านั้นเอง"
+    },
+    {
+      "key": "hellcomearoundwellbeahappyfamily",
+      "text_en": "He'll come around. We'll be a happy family.",
+      "text": "เดี๋ยวเขาก็ยอมรับเอง พวกเราจะอยู่กันเป็นครอบครัวที่มีความสุข"
+    },
+    {
+      "key": "kanilokkasshoutingformetheresearchhasntbeengoingwellbuticantlethimtakeitoutonmybaby",
+      "text_en": "...Kanilokka's shouting for me. The research hasn't been going well...but I can't let him take it out on my baby.",
+      "text": "...คานิล็อกกาตะโกนเรียกแม่แล้ว งานวิจัยช่วงนี้ไม่ค่อยราบรื่นเลย... แต่แม่ไม่มีวันยอมให้เขามาพาลลงกับลูกรักของแม่เด็ดขาด"
+    },
+    {
+      "key": "hushnowlittleoneiknowiknowjustwheretohideyou",
+      "text_en": "Hush now, little one. I know... I know just where to hide you...",
+      "text": "เงียบซะนะเด็กดี แม่รู้แล้ว... รู้แล้วว่าจะซ่อนลูกไว้ที่ไหน..."
+    },
+    {
+      "key": "thatsallofthem",
+      "text_en": "...That's all of them.",
+      "text": "...หมดเพียงเท่านี้แหละ"
+    },
+    {
+      "key": "hewasabandonedthepoordearwefoundhiminthedriftdownsafewyearsago",
+      "text_en": "He was abandoned, the poor dear. We found him in the driftdowns a few years ago.",
+      "text": "มีคนเอาแกมาทิ้งไว้ น่าสงสารเหลือเกิน พวกเราไปเจอแกที่ดริฟต์ดาวน์เมื่อไม่กี่ปีก่อน"
+    },
+    {
+      "key": "weknowsomemannerofaccidenthappenedatthefacilityafterthiswasrecordedperhapsyourmothercouldntcomebackforyou",
+      "text_en": "We know some manner of accident happened at the facility after this was recorded. Perhaps your mother couldn't come back for you.",
+      "text": "พวกเราพอรู้ว่าเกิดอุบัติเหตุบางอย่างขึ้นที่สถานวิจัยหลังจากบันทึกเสียงนี้ บางทีพระแม่ของคุณอาจกลับมารับไม่ได้"
+    },
+    {
+      "key": "heyguloolja",
+      "text_en": "Hey, Gulool Ja...",
+      "text": "นี่ กูลูล จา..."
+    },
+    {
+      "key": "imfinelamatyi",
+      "text_en": "I'm fine, Lamaty'i.",
+      "text": "ผมไม่เป็นไรครับ พี่ลามาตี"
+    },
+    {
+      "key": "fatherandmothertheywerebothsolonely",
+      "text_en": "Father and Mother, they were both so lonely...",
+      "text": "ทั้งท่านพ่อและพระแม่ ต่างก็ต้องอยู่อย่างอ้างว้างเหลือเกินครับ..."
+    },
+    {
+      "key": "ifwecouldvebeentogethermaybetheywouldnthavebeenbutsometimesthingsdontworkoutnomatterhowhardyoutry",
+      "text_en": "If we could've been together, maybe they wouldn't have been. But sometimes things don't work out, no matter how hard you try.",
+      "text": "หากได้อยู่ร่วมกัน บางทีก็คงไม่ต้องอ้างว้างเช่นนั้น... แต่บางทีเรื่องราวก็ไม่เป็นดังหวัง ไม่ว่าพยายามเท่าไรก็ตามครับ"
+    },
+    {
+      "key": "iicanttellifimhappiernow",
+      "text_en": "I...I can't tell if I'm happier now...",
+      "text": "ผม...ผมบอกไม่ถูกเหมือนกันครับว่าตอนนี้มีความสุขขึ้นหรือเปล่า..."
+    },
+    {
+      "key": "butitsbettertoknowithinkthankyoueveryone",
+      "text_en": "...But it's better to know, I think. Thank you, everyone.",
+      "text": "...แต่ได้รู้ไว้ก็ดีกว่าครับ ขอบคุณทุกๆ คนนะครับ"
+    },
+    {
+      "key": "whyleavesucharecordyouaskicannotbecertainbutibelieveteeshaljasimplywantedsomeonetoknowhowshefelttounderstand",
+      "text_en": "Why leave such a record, you ask? I cannot be certain, but I believe Teeshal Ja simply wanted someone to know how she felt. To understand.",
+      "text": "สงสัยใช่ไหมว่าทำไมถึงทิ้งบันทึกเช่นนี้ไว้ ฉันเองก็ไม่แน่ใจนัก แต่คิดว่าทีชัล จา แค่อยากให้ใครสักคนรับรู้และเข้าใจความรู้สึกของตัวเองเท่านั้นแหละ"
+    },
+    {
+      "key": "nomatterhowbraveafacegulooljaputsoniexpectitwilltakehimtimetocometotermswiththis",
+      "text_en": "No matter how brave a face Gulool Ja puts on, I expect it will take him time to come to terms with this.",
+      "text": "ต่อให้กูลูล จา จะทำเป็นเข้มแข็งเพียงใด คงต้องใช้เวลาอีกสักระยะกว่าจะทำใจยอมรับเรื่องนี้ได้"
+    },
+    {
+      "key": "heisastrongonethoughyouneedntworrytoomuch",
+      "text_en": "He is a strong one, though. You needn't worry too much.",
+      "text": "แต่เด็กนั่นก็เข้มแข็งพอดู ไม่ต้องเป็นห่วงเกินไปหรอก"
+    },
+    {
+      "key": "teeshaljaleftwrittenrecordsaswellillcompilethemforgulooljaperhapssomethinginthemwillbeofcomfort",
+      "text_en": "Teeshal Ja left written records as well. I'll compile them for Gulool Ja. Perhaps something in them will be of comfort.",
+      "text": "ทีชัล จา ยังทิ้งบันทึกที่เป็นลายลักษณ์อักษรไว้ด้วย ฉันจะรวบรวมส่งให้กูลูล จา เผื่อว่าข้อความในนั้นพอจะช่วยปลอบประโลมใจได้บ้าง"
+    },
+    {
+      "key": "itsokayiwantedtoknowmoreaboutmyparentsandnowidoandidontregretit",
+      "text_en": "It's okay. I wanted to know more about my parents, and now I do. And I don't regret it.",
+      "text": "ไม่เป็นไรครับ ผมอยากรู้จักพ่อกับแม่ให้มากกว่านี้ ตอนนี้ก็ได้รู้แล้ว และผมก็ไม่นึกเสียใจเลยสักนิดครับ"
+    },
+    {
+      "key": "ihavelamatyiandkoanaandyouforenameimnotlonelynow",
+      "text_en": "I have Lamaty'i, and Koana, and you, Forename . I'm not lonely now.",
+      "text": "ตอนนี้ผมมีพี่ลามาตี้ พี่โคอาน่า แล้วก็คุณ Forename คอยอยู่ข้างๆ ไม่เหงาแล้วครับ"
+    },
+    {
+      "key": "youmayfindithardtobelievebutuntiltheriteofsuccessionzoraaljawasagoodbrothertomealwaysandithoughtthatpapawasthebestfatheranyonecouldaskfor",
+      "text_en": "...You may find it hard to believe, but until the rite of succession, Zoraal Ja was a good brother to me. Always. And I thought that Papa was the best father anyone could ask for.",
+      "text": "...พวกเจ้าอาจจะเชื่อยากสักหน่อย แต่จนกระทั่งถึงศึกชิงบัลลังก์ โซราล จาเป็นพี่ชายที่ดีของข้ามาตลอด... เสมอมาเลยล่ะ และข้าก็เคยคิดว่าท่านพ่อคือพ่อที่ดีที่สุดเท่าที่ใครคนหนึ่งจะปรารถนาได้"
+    },
+    {
+      "key": "idontwanttothinkthetimewespenttogetherasafamilywasaliebutbythesametokenthebitternessmybrotherharboredwasalltooreal",
+      "text_en": "I don't want to think the time we spent together as a family was a lie. But by the same token, the bitterness my brother harbored was all too real...",
+      "text": "ข้าไม่อยากคิดว่าช่วงเวลาที่ใช้ร่วมกันในฐานะครอบครัวจะเป็นเพียงเรื่องหลอกลวง แต่ในขณะเดียวกัน ความคับแค้นใจที่พี่ชายเก็บงำไว้ก็แสนจะจริงแท้จนน่าใจหาย..."
+    },
+    {
+      "key": "ifthedomehadnotappearedteeshaljastalewouldhavebeenverydifferentyetwhetherornotshewouldhavebeenhappiericannotsay",
+      "text_en": "If the dome had not appeared, Teeshal Ja's tale would have been very different. Yet whether or not she would have been happier, I cannot say.",
+      "text": "หากโดมแก้วไม่ปรากฏขึ้น เรื่องราวของทีชาล จา คงแตกต่างออกไปจากนี้มากนัก ทว่าจะมีชีวิตที่มีความสุขกว่านี้หรือไม่นั้น ฉันก็ไม่อาจบอกได้"
+    },
+    {
+      "key": "whatamess",
+      "text_en": "What a mess...",
+      "text": "ยุ่งเหยิงสิ้นดี..."
+    },
+    {
+      "key": "itsbettertoknowaprofoundresponseforonesoyoung",
+      "text_en": "\"It's better to know“... A profound response, for one so young.",
+      "text": "\"การได้ล่วงรู้ย่อมดีกว่า\"... ช่างเป็นคำตอบที่ลึกซึ้งเกินวัยนัก"
+    },
+    {
+      "key": "thoughiwishhedidnthavetobegulooljaisindeedwisebeyondhisyears",
+      "text_en": "Though I wish he didn't have to be, Gulool Ja is indeed wise beyond his years.",
+      "text": "ถึงจะไม่อยากให้ต้องเป็นเช่นนั้น แต่กูลูล จา ก็มีความคิดความอ่านเกินตัวจริงๆ"
+    },
+    {
+      "key": "yetoneneveroutgrowstheneedfordependablecompanionstisfortunatethathehasyou",
+      "text_en": "Yet one never outgrows the need for dependable companions. 'Tis fortunate that he has you.",
+      "text": "ทว่าต่อให้เติบโตเพียงใด คนเราก็ไม่มีวันพ้นขีดความต้องการมิตรแท้ที่พึ่งพาได้ ช่างโชคดีนักที่เขามีพวกเธออยู่เคียงข้าง"
+    },
+    {
+      "key": "thankyoushalebecauseofyouigottohearmymotherswholestory",
+      "text_en": "Thank you, Shale. Because of you, I got to hear my mother's whole story.",
+      "text": "ขอบคุณครับคุณเชล เพราะคุณแท้ๆ ผมถึงได้ฟังเรื่องราวทั้งหมดของพระแม่ครับ"
+    },
+    {
+      "key": "youhearditbecauseyouwerebraveenoughtolistengulooljaifyourememberonethingrememberthat",
+      "text_en": "You heard it because you were brave enough to listen, Gulool Ja. If you remember one thing, remember that.",
+      "text": "ที่ได้ยินก็เพราะเธอกล้าหาญพอที่จะฟังต่างหากล่ะ กูลูล จา ถ้าจะจำอะไรไว้สักอย่าง ก็ขอให้จำเรื่องนี้ไว้เถอะนะ"
+    },
+    {
+      "key": "nowthenhavingsharedwhaticanatpresentiamreadytoheadtolivingmemorywhenyouare",
+      "text_en": "Now then─having shared what I can at present, I am ready to head to Living Memory when you are.",
+      "text": "เอาละ─ในเมื่อบอกเล่าเท่าที่รู้ในตอนนี้หมดแล้ว ฉันก็พร้อมจะเดินทางไปยังลิฟวิ่งเมโมรีเมื่อคุณพร้อม"
+    },
+    {
+      "key": "iamplanningtobethoroughsowewillneedtostopforsuppliesontheway",
+      "text_en": "I am planning to be thorough, so we will need to stop for supplies on the way.",
+      "text": "ฉันตั้งใจว่าจะสำรวจอย่างละเอียดถี่ถ้วน เพราะฉะนั้นเราคงต้องแวะเตรียมเสบียงระหว่างทางกันก่อน"
+    },
+    {
+      "key": "thatsaidipromisewewontremainoverlongiknowweallhavemuchandmoretoattendto",
+      "text_en": "That said, I promise we won't remain overlong. I know we all have much and more to attend to.",
+      "text": "ถึงอย่างนั้น ฉันสัญญาว่าจะไม่โอ้เอ้นานเกินไปนัก รู้ดีว่าทุกคนต่างก็มีธุระปะปังให้จัดการอีกตั้งมากมาย"
+    },
+    {
+      "key": "fornowfarewell",
+      "text_en": "For now, farewell.",
+      "text": "ตอนนี้คงต้องขอตัว ลาก่อนนะ"
+    },
+    {
+      "key": "onewouldntknowittolookatthembutshaleandyshtolaarebirdsofafeatheranincorrigiblyrestlessfeather",
+      "text_en": "One wouldn't know it to look at them, but Shale and Y'shtola are birds of a feather. An incorrigibly restless feather...",
+      "text": "ดูภายนอกอาจมองไม่ออก แต่เชลกับอิชโทลาน่ะเป็นคนประเภทเดียวกันไม่มีผิด... ประเภทที่ชีพจรลงเท้าจนกู่ไม่กลับเลยล่ะ"
+    },
+    {
+      "key": "illstickaroundforawhileletmeknowifyouneedme",
+      "text_en": "I'll stick around for a while. Let me know if you need me.",
+      "text": "ฉันจะรั้งอยู่แถวนี้อีกสักพัก มีอะไรให้ช่วยก็บอกแล้วกัน"
+    },
+    {
+      "key": "isshalegoingtobealrightouttherethewholetimeshewasworkingonthedataineversawhertakeabreak",
+      "text_en": "Is Shale going to be alright out there? The whole time she was working on the data, I never saw her take a break...",
+      "text": "คุณเชลจะเป็นอะไรไหมครับ... ตลอดเวลาที่เธอวิเคราะห์ข้อมูล ผมไม่เห็นเธอหยุดพักเลยสักครั้ง..."
+    },
+    {
+      "key": "withtherailroadreadyidliketogetsomeideaofhowmanyreturneeswecanexpectbeforeheadingbacktotuliyollal",
+      "text_en": "With the railroad ready, I'd like to get some idea of how many returnees we can expect before heading back to Tuliyollal.",
+      "text": "ในเมื่อทางรถไฟพร้อมใช้แล้ว ฉันก็อยากจะลองกะดูคร่าวๆ ว่าจะมีคนเดินทางกลับมาสักกี่คน ก่อนที่เราจะกลับทูลียอลลัล"
+    },
+    {
+      "key": "thetwinshaveyettoreturnihopeeverythingisallright",
+      "text_en": "The twins have yet to return. I hope everything is all right.",
+      "text": "พวกแฝดยังไม่กลับมาเลย หวังว่าคงไม่มีเรื่องร้ายๆ นะ"
+    },
+    {
+      "key": "awordbeforeyouleave",
+      "text_en": "A word, before you leave.",
+      "text": "ก่อนคุณจะไป ขอพระวจนะสักคำ"
+    },
+    {
+      "key": "ournetworksalreadyspreadingwordoftherailroadweexpectedpeoplewouldbeclamoringtogetonthefirsttrainback",
+      "text_en": "Our network's already spreading word of the railroad. We expected people would be clamoring to get on the first train back...",
+      "text": "เครือข่ายของเราเริ่มป่าวประกาศพระวจนะเรื่องรถไฟแล้ว พวกเราก็นึกว่าผู้คนจะแย่งชิงกันขึ้นรถไฟขบวนโลกที่หนึ่งเพื่อกลับไปเสียอีก..."
+    },
+    {
+      "key": "yetthereactionsbeenthepolaroppositescantfewseeminclinedtodepartalexandriaanytimesoon",
+      "text_en": "Yet the reaction's been the polar opposite. Scant few seem inclined to depart Alexandria any time soon.",
+      "text": "ทว่ากระแสตอบรับกลับตรงกันข้ามอย่างสิ้นเชิง ดูเหมือนแทบไม่มีใครคิดจะจากอะเล็กซานเดรียไปในเร็วๆ นี้เลย"
+    },
+    {
+      "key": "whatwhenwespokebeforeyousaidmanyfromtuliyollalwereeagertoreunitewithfriendsandfamily",
+      "text_en": "What? When we spoke before, you said many from Tuliyollal were eager to reunite with friends and family.",
+      "text": "อะไรนะ ตอนที่เราคุยกันคราวก่อน เจ้าบอกเองไม่ใช่หรือว่าคนจากทูลียอลลัลหลายคนอยากกลับไปพบหน้าครอบครัวและผองเพื่อนใจจะขาด"
+    },
+    {
+      "key": "maybetheyreconcernedaboutgettingthroughvanguardifsowecouldtaketurnsaccompanyingthem",
+      "text_en": "Maybe they're concerned about getting through Vanguard? If so, we could take turns accompanying them...",
+      "text": "หรือว่าพวกเขากังวลเรื่องการเดินทางผ่านแวนการ์ดกันนะ ถ้าอย่างนั้น พวกเราก็ผลัดกันไปคุ้มกันได้..."
+    },
+    {
+      "key": "inanycaseweneedtospeakwiththepeopleourselvesletsstartatleynodenine",
+      "text_en": "In any case, we need to speak with the people ourselves. Let's start at leynode nine.",
+      "text": "อย่างไรก็ตาม พวกเราต้องไปคุยกับชาวเมืองด้วยตัวเอง เริ่มต้นที่เลย์โนดเก้ากันเลย"
+    },
+    {
+      "key": "thepeopleweresonervousaboutremaininginalexandriaicannothelpbutwonderwhatpromptedthissuddenchangeofheart",
+      "text_en": "The people were so nervous about remaining in Alexandria... I cannot help but wonder what prompted this sudden change of heart.",
+      "text": "ผู้คนต่างกังวลเรื่องการอาศัยอยู่ในอะเล็กซานเดรียต่อแท้ๆ... ฉันอดสงสัยไม่ได้จริงๆ ว่าอะไรทำให้พวกเขาเปลี่ยนใจกะทันหันขนาดนี้"
+    },
+    {
+      "key": "iveaskedgeodetofillmeinonallthathashappenedinthedomeoflateifihearanythingofinterestillbesuretopassiton",
+      "text_en": "I've asked Geode to fill me in on all that has happened in the dome of late. If I hear anything of interest, I'll be sure to pass it on.",
+      "text": "ฉันขอให้จีโอดเล่าเรื่องราวทั้งหมดที่เกิดขึ้นในโดมช่วงนี้ให้ฟังแล้ว ถ้าได้ยินเรื่องอะไรน่าสนใจ จะรีบบอกทันที"
+    },
+    {
+      "key": "nowthattherailroadsworkingagainitllbemucheasiertovisittuliyollalitwouldbenicetoseekoanaagainaswell",
+      "text_en": "Now that the railroad's working again, it'll be much easier to visit Tuliyollal. It would be nice to see Koana again as well.",
+      "text": "พอรถไฟกลับมาแล่นได้อีกครั้ง การไปเยือนทูลียอลลัลก็คงง่ายขึ้นเยอะเลยครับ ถ้าได้เจอคุณโคอาน่าอีกครั้งก็คงดีเหมือนกันครับ"
+    },
+    {
+      "key": "perhapswewillventureoutforabitourselves",
+      "text_en": "Perhaps we will venture out for a bit ourselves.",
+      "text": "บางทีพวกเราก็น่าจะลองออกไปข้างนอกดูสักหน่อยเหมือนกัน"
+    },
+    {
+      "key": "imassurprisedasyouareeveryonewaskeentopacktheirbagsbeforebutnowthatthejourneyspossibletheycantbebothered",
+      "text_en": "I'm as surprised as you are. Everyone was keen to pack their bags before, but now that the journey's possible, they can't be bothered?",
+      "text": "ผมเองก็แปลกใจไม่แพ้กัน ก่อนหน้านี้ใครๆ ก็อยากเก็บข้าวของออกเดินทาง แต่พอไปได้จริงๆ กลับทำเฉยเมยกันเสียหมด"
+    },
+    {
+      "key": "theremaystillbepeoplegatheringinpraxisparkletstrytherefirst",
+      "text_en": "There may still be people gathering in Praxis Park. Let's try there first.",
+      "text": "ผู้คนอาจยังรวมตัวกันอยู่ที่สวนพรากซิส ลองไปดูที่นั่นเป็นโลกที่หนึ่งก่อนดีกว่า"
+    },
+    {
+      "key": "thepeoplelookuneasydidsomethinghappen",
+      "text_en": "The people look uneasy. Did something happen?",
+      "text": "ผู้คนดูท่าทางกระวนกระวายชอบกล เกิดเรื่องอะไรขึ้นหรือเปล่านะ"
+    },
+    {
+      "key": "haveyouheardsomeonewaskilledinthethunderyards",
+      "text_en": "Have you heard? Someone was killed in the Thunderyards.",
+      "text": "ได้ยินข่าวกันหรือยัง... เรื่องคนเสียชีวิตในธันเดอร์ยาร์ดส์น่ะ"
+    },
+    {
+      "key": "thethunderyardswasoneofthehuntersslainbyabeast",
+      "text_en": "The Thunderyards? Was one of the hunters slain by a beast?",
+      "text": "ที่ธันเดอร์ยาร์ดส์น่ะหรือ สัตว์ร้ายขย้ำนักล่าคนหนึ่งตายงั้นหรือ"
+    },
+    {
+      "key": "itwasahunterallrightandaveteranatthatbutitwasnofiendthatdidhiminonlyarandomboltoflightning",
+      "text_en": "It was a hunter all right, and a veteran at that. But it was no fiend that did him in─only a random bolt of lightning.",
+      "text": "เป็นนักล่าจริงๆ นั่นแหละ แถมยังเป็นระดับมือเก๋าด้วย... ทว่าไม่ใช่สัตว์ร้ายที่คร่าชีวิต หากเป็นแค่สายฟ้าที่ผ่าลงมาอย่างไร้ทิศทางแท้ๆ..."
+    },
+    {
+      "key": "suchasenselesswaytodietheysaythatheexpendedhislastsoulcellsduringzoraaljasattackonthecity",
+      "text_en": "Such a senseless way to die. They say that he expended his last soul cells during Zoraal Ja's attack on the city...",
+      "text": "เป็นการตายที่เปล่าประโยชน์แท้ๆ... ได้ยินว่าใช้เซลล์วิญญาณดวงสุดท้ายไปหมดแล้วตอนที่โซราล จา บุกโจมตีเมือง..."
+    },
+    {
+      "key": "foranuprighthardworkingmantomeetsuchanunceremoniousenditfeelswrong",
+      "text_en": "For an upright, hardworking man to meet such an unceremonious end... It feels wrong...",
+      "text": "คนดีผู้ซื่อสัตย์และขยันขันแข็งกลับต้องมาจบชีวิตลงอย่างกะทันหันไร้เกียรติปานนี้... รู้สึกไม่ยุติธรรมเอาเสียเลย..."
+    },
+    {
+      "key": "butwellbefinewontweevenifthesystemnolongererasesourmemoryofthedepartedtheregulatorscontinuetofunction",
+      "text_en": "But we'll be fine, won't we? Even if the system no longer erases our memory of the departed, the regulators continue to function!",
+      "text": "แต่พวกเราคงจะไม่เป็นไรใช่ไหม... ถึงระบบจะไม่ลบความทรงจำเรื่องผู้ล่วงลับแล้ว แต่เรกูเลเตอร์ก็ยังคงทำงานตามปกติ!"
+    },
+    {
+      "key": "ishantgobeforemytimegrowingoldandpassingpeacefullywiththehelpoftheushersisonlynatural",
+      "text_en": "I shan't go before my time. Growing old and passing peacefully with the help of the ushers is only natural!",
+      "text": "คงไม่ด่วนจากไปก่อนเวลาอันควรหรอก การแก่เฒ่าแล้วจากไปอย่างสงบโดยมีผู้นำทางคอยช่วยเหลือก็เป็นวิถีธรรมชาติอยู่แล้ว!"
+    },
+    {
+      "key": "youmaythinksobuthowarewetoknowwehavenomemoryofthosewhohavegonemoremayhavemetviolentdeathsthanpassedfromoldageandwewouldbeblissfullyunaware",
+      "text_en": "You may think so, but how are we to know? We have no memory of those who have gone. More may have met violent deaths than passed from old age, and we would be blissfully unaware!",
+      "text": "คิดอย่างนั้นก็ง่ายดี แต่จะรู้ได้อย่างไรกันเล่า ในเมื่อไร้ความทรงจำถึงผู้ที่ล่วงลับ บางทีผู้คนอาจจบชีวิตอย่างโหดเหี้ยมทารุณยิ่งกว่าแก่ตายด้วยซ้ำ แล้วพวกเราก็คงอยู่อย่างเป็นสุขโดยไม่รู้อะไรเลย!"
+    },
+    {
+      "key": "itcouldhappentoyouormetoanyofus",
+      "text_en": "It could happen to you or me─to any of us!",
+      "text": "เรื่องพรรค์นี้จะเกิดขึ้นกับคุณหรือฉัน หรือกับใครในพวกเราเมื่อไหร่ก็ได้ทั้งนั้น!"
+    },
+    {
+      "key": "thenwhatarewetodospendeverywakingmomentthinkingonlyofhowwemightdie",
+      "text_en": "Then what are we to do? Spend every waking moment thinking only of how we might die?",
+      "text": "ถ้าอย่างนั้นจะให้ทำอย่างไรล่ะ ต้องใช้ชีวิตทุกลมหายใจเข้าออกคอยพะวงแต่เรื่องความตายอย่างนั้นหรือ"
+    },
+    {
+      "key": "withtimeihadhopedthattheydbeabletoadjusttotheirnewsituationbutitsonlygottenworse",
+      "text_en": "With time, I had hoped that they'd be able to adjust to their new situation...but it's only gotten worse.",
+      "text": "ข้าเคยหวังว่าพอเวลาผ่านไป พวกเขาจะค่อยๆ ปรับตัวเข้ากับเรื่องใหม่ๆ ได้...แต่กลับกลายเป็นว่าทุกอย่างยิ่งแย่ลงไปใหญ่"
+    },
+    {
+      "key": "lookitsqueensphene",
+      "text_en": "Look, it's Queen Sphene!",
+      "text": "ดูนั่นสิครับ ราชินีสฟีน!"
+    },
+    {
+      "key": "what",
+      "text_en": "What?",
+      "text": "อะไรนะ"
+    },
+    {
+      "key": "helpqueensphenethegrownupsarereallyupsetandidontknowwhattodo",
+      "text_en": "Help, Queen Sphene! The grown-ups are really upset, and I don't know what to do!",
+      "text": "ช่วยด้วยครับ ราชินีสฟีน! พวกผู้ใหญ่กำลังเดือดร้อนใจกันใหญ่เลย ผม...ผมไม่รู้จะทำอย่างไรดีแล้วครับ"
+    },
+    {
+      "key": "iseethatyouareaskindheartedaseverniconeverfearimheretosetthingsaright",
+      "text_en": "I see that you are as kind-hearted as ever, Nico. Never fear─I'm here to set things aright!",
+      "text": "ฉันเห็นแล้วว่าเธอยังคงมีน้ำใจงดงามไม่เปลี่ยนเลยนะ นิโกะ ไม่ต้องกลัวไปหรอก—ฉันมาเพื่อทำให้ทุกอย่างกลับมาดีดังเดิมแล้ว!"
+    },
+    {
+      "key": "idontunderstandspheneisgoneforever",
+      "text_en": "I don't understand. Sphene is gone...forever...",
+      "text": "ข้าไม่เข้าใจเลย สฟีนจากไปแล้ว...ตลอดกาล..."
+    },
+    {
+      "key": "youtheregossanyouwerethequeensaidewerentyou",
+      "text_en": "You there, Gossan! You were the queen's aide, weren't you?",
+      "text": "เจ้าน่ะ กอสซัน! เจ้าเคยเป็นผู้ช่วยของราชินีไม่ใช่รึ"
+    },
+    {
+      "key": "whatsthemeaningofthis",
+      "text_en": "What's the meaning of this?",
+      "text": "นี่มันหมายความว่าอย่างไรกัน!"
+    },
+    {
+      "key": "beggingyourpardonvowofresolve",
+      "text_en": "Begging your pardon, Vow of Resolve...",
+      "text": "ต้องขอประทานอภัยด้วยขอรับ ท่านสัจจะแห่งความมุ่งมั่น..."
+    },
+    {
+      "key": "buthermajestyqueenspheneispayingvisittoherpeopleasisherwont",
+      "text_en": "But Her Majesty Queen Sphene is paying visit to her people, as is her wont.",
+      "text": "แต่ฝ่าบาทราชินีสฟีนเสด็จเยี่ยมเยียนราษฎรของพระองค์เป็นปกติวิสัยอยู่แล้วขอรับ"
+    },
+    {
+      "key": "whatareyoutalkingabout",
+      "text_en": "What are you talking about!?",
+      "text": "พูดเรื่องอะไรกันน่ะ!?"
+    },
+    {
+      "key": "spheneisdeadyouofficiatedthefuneralyourself",
+      "text_en": "Sphene is dead! You officiated the funeral yourself!",
+      "text": "สฟีนตายแล้ว! เจ้าเป็นคนประกอบพิธีศพด้วยตัวเองแท้ๆ!"
+    },
+    {
+      "key": "weallplacedflowerstomournherpassing",
+      "text_en": "We all placed flowers to mourn her passing!",
+      "text": "พวกเราทุกคนต่างก็ร่วมวางดอกไม้เพื่อไว้ทุกข์การจากไปแท้ๆ!"
+    },
+    {
+      "key": "afuneralforhermajesty",
+      "text_en": "A funeral...? For Her Majesty?",
+      "text": "พิธีศพ... ของฝ่าบาทหรือขอรับ?"
+    },
+    {
+      "key": "whatacuriousjestyouknowfullwellthatceremonywastocommemoratethoseliveslostduringtheattackofalexandria",
+      "text_en": "What a curious jest. You know full well that ceremony was to commemorate those lives lost during the attack of Alexandria.",
+      "text": "ช่างเป็นเรื่องล้อเล่นที่แปลกประหลาดเสียจริง ท่านก็ทราบดีอยู่แล้วนี่ขอรับว่าพิธีนั้นจัดขึ้นเพื่อรำลึกถึงผู้เสียชีวิตจากการโจมตีอะเล็กซานเดรีย"
+    },
+    {
+      "key": "hermajestywalksamongherpeoplethatshemightsupporttheminthismosttryingoftimessurelythatisnotcauseforconsternation",
+      "text_en": "Her Majesty walks among her people that she might support them in this most trying of times. Surely that is not cause for consternation?",
+      "text": "ฝ่าบาทเสด็จปะปนกับราษฎรเพื่อคอยช่วยเหลือในยามยากลำบากที่สุดเช่นนี้ เรื่องนี้ก็ไม่เห็นชวนให้ต้องตื่นตระหนกเลยนี่ขอรับ"
+    },
+    {
+      "key": "yourmajestywontyoufreeusfromtheseterriblememoriesofthedeparted",
+      "text_en": "Your Majesty, won't you free us from these terrible memories of the departed?",
+      "text": "ฝ่าบาท ได้โปรดช่วยปลดปล่อยพวกเราให้พ้นจากความทรงจำอันเลวร้ายเกี่ยวกับผู้ล่วงลับด้วยเถิดเพคะ"
+    },
+    {
+      "key": "thisisnowaytolivenotforusnorourchildren",
+      "text_en": "This is no way to live─not for us nor our children...",
+      "text": "จะทนใช้ชีวิตกันแบบนี้ต่อไปไม่ได้อีกแล้ว—ไม่ว่าจะเป็นพวกเราหรือกลุ่มชิลเดรนของเรา..."
+    },
+    {
+      "key": "iwishthaticouldtrulyidobutwithlivingmemoryshutdownevenicannotrestorethesystemthatonceaffordedusthatcomfort",
+      "text_en": "...I wish that I could. Truly, I do. But with Living Memory shut down, even I cannot restore the system that once afforded us that comfort.",
+      "text": "...ฉันอยากจะทำอย่างนั้นเหลือเกิน อยากทำจริงๆ แต่เมื่อลิฟวิ่งเมโมรีปิดการทำงานไปแล้ว แม้แต่ฉันก็ไม่อาจกู้ระบบที่เคยบันดาลความสะดวกสบายเช่นนั้นให้พวกเรากลับคืนมาได้"
+    },
+    {
+      "key": "youneedntfrethoweverihavepreparedanalternatesolution",
+      "text_en": "You needn't fret, however. I have prepared an alternate solution.",
+      "text": "แต่พวกท่านไม่จำเป็นต้องกังวลใจไปหรอก เพราะเราได้เตรียมทางออกอีกทางหนึ่งไว้แล้ว"
+    },
+    {
+      "key": "allofusshallbemadeendless",
+      "text_en": "All of us shall be made Endless!",
+      "text": "พวกเราทุกคนจะได้กลายเป็นเอนด์เลส!"
+    },
+    {
+      "key": "ihavecreatedanewsystemthatallowsyoutotransplantyourmemoriesdirectlyintoanaetherialvesselonenotreliantuponsoulcells",
+      "text_en": "I have created a new system that allows you to transplant your memories directly into an aetherial vessel─one not reliant upon soul cells.",
+      "text": "เราได้สร้างระบบใหม่ขึ้นมาเพื่อช่วยให้พวกท่านถ่ายโอนความทรงจำตรงเข้าสู่ภาชนะเอเธอร์ได้ทันที—ซึ่งเป็นภาชนะที่ไม่ต้องพึ่งพาเซลล์วิญญาณเลย"
+    },
+    {
+      "key": "thiswayyouneedneveragainfeardeathyoumayliveasyoupleaseandforaslongasyoulike",
+      "text_en": "This way, you need never again fear death. You may live as you please─and for as long as you like!",
+      "text": "เพียงเท่านี้ พวกท่านก็ไม่ต้องหวาดกลัวความตายอีกต่อไป จะใช้ชีวิตตามแต่ใจปรารถนา—และยืนยาวเท่าที่ต้องการ!"
+    },
+    {
+      "key": "ourstoresofaetherareatpresentnotsufficienttoprovidethisboontoeveryone",
+      "text_en": "Our stores of aether are, at present, not sufficient to provide this boon to everyone...",
+      "text": "ในเวลานี้ เอเธอร์ที่เราสะสมไว้ยังไม่มากพอจะมอบพรล้ำค่านี้ให้แก่ทุกคนได้..."
+    },
+    {
+      "key": "butsomeofyoureceivedneoregulatorsforthefuneralceremonydidyounot",
+      "text_en": "But some of you received neo regulators for the funeral ceremony, did you not?",
+      "text": "แต่พวกท่านบางคนก็ได้รับนีโอเรกูเลเตอร์สำหรับพิธีศพไปแล้วใช่ไหม"
+    },
+    {
+      "key": "andtherearestillmorewehaveyettodistributefivethousandinall",
+      "text_en": "And there are still more we have yet to distribute. Five thousand in all!",
+      "text": "และเรายังมีส่วนที่ต้องแจกจ่ายเพิ่มอีก รวมทั้งหมดห้าพันชิ้นทีเดียว!"
+    },
+    {
+      "key": "onedaysoonthosewithneoregulatorswillbecalledtojointheendlessandthencebefreeofsufferingforevermore",
+      "text_en": "One day soon, those with neo regulators will be called to join the Endless, and thence be free of suffering forevermore!",
+      "text": "อีกไม่นาน ผู้ที่มีนีโอเรกูเลเตอร์จะได้รับเรียกให้เข้าร่วมกับดิเอนด์เลส และหลุดพ้นจากความทุกข์ทรมานไปชั่วนิรันดร์!"
+    },
+    {
+      "key": "butonlyfivethousandofus",
+      "text_en": "But...only five thousand of us?",
+      "text": "แต่... พวกเราเหลือกันเพียงห้าพันคนเท่านั้นเองหรือ..."
+    },
+    {
+      "key": "youvidraal",
+      "text_en": "You vidraal!",
+      "text": "เจ้าวิดราล!"
+    },
+    {
+      "key": "therealsphenewouldneverbecontenttosaveonlysomeofherpeople",
+      "text_en": "The real Sphene would never be content to save only some of her people!",
+      "text": "สฟีนตัวจริงไม่มีวันยอมช่วยคนของตนเพียงแค่บางส่วนแน่!"
+    },
+    {
+      "key": "whoareyou",
+      "text_en": "Who are you!?",
+      "text": "เจ้าเป็นใครกันแน่!?"
+    },
+    {
+      "key": "iamsphenethequeenofreason",
+      "text_en": "I am Sphene, the Queen of Reason.",
+      "text": "เราคือสฟีน ราชินีแห่งปัญญา"
+    },
+    {
+      "key": "letsreturntothebackroomineedtocalmdownandthenwelltalk",
+      "text_en": "Let's return to the Backroom. I need to calm down...and then we'll talk.",
+      "text": "กลับไปที่แบ็กรูมกันเถอะ ข้าต้องตั้งสติก่อน... แล้วค่อยคุยกัน"
+    },
+    {
+      "key": "yousawsphenewithyourowneyesthensoitwasntsomeoneelse",
+      "text_en": "You saw Sphene with your own eyes, then? So it wasn't someone else...",
+      "text": "งั้นก็เห็นสฟีนด้วยตาของตัวเองเลยสินะ? แปลว่าไม่ใช่คนอื่นจริงๆ ด้วย..."
+    },
+    {
+      "key": "weveheardaboutthequeenofreasonsproclamationtherumorsspreadthroughthedistrictlikewildfire",
+      "text_en": "We've heard about the Queen of Reason's proclamation. The rumors spread through the district like wildfire.",
+      "text": "พวกเราได้ยินเรื่องคำประกาศของราชินีแห่งปัญญาแล้ว ข่าวลือแพร่สะพัดไปทั่วเขตอย่างรวดเร็วราวกับไฟลามทุ่ง"
+    },
+    {
+      "key": "withoutthemesoterminalhowdoessheproposetocreatenewendlesswemustcontactyshtolaassoonaspossible",
+      "text_en": "Without the Meso Terminal, how does she propose to create new Endless? We must contact Y'shtola as soon as possible.",
+      "text": "หากไม่มีเมโซเทอร์มินัล นางจะสร้างเอนด์เลสตนใหม่ขึ้นมาได้อย่างไรกัน พวกเราต้องรีบติดต่อยาชโตล่าโดยเร็วที่สุด"
+    },
+    {
+      "key": "queensphenehasreturnedhow",
+      "text_en": "Queen Sphene has returned? How?",
+      "text": "ราชินีสฟีน... กลับมาแล้วหรือครับ? ได้อย่างไรกัน..."
+    },
+    {
+      "key": "seriouslywhatwasthat",
+      "text_en": "Seriously, what was that!?",
+      "text": "ถามจริงเถอะ เมื่อกี้มันเรื่องอะไรกัน!?"
+    },
+    {
+      "key": "sphenewaserasedifshesbackthenaretheendless",
+      "text_en": "Sphene was erased. If she's back, then are the Endless...?",
+      "text": "สฟีนถูกลบล้างไปแล้ว หากกลับมาแล้ว แล้วดิเอนด์เลสล่ะ...?"
+    },
+    {
+      "key": "theresnaughttoreportyetbutwehavealleyesandearsoutineverkeepandheritagefound",
+      "text_en": "There's naught to report yet, but we have all eyes and ears out in Everkeep and Heritage Found.",
+      "text": "ตอนนี้พวกเรายังไม่พบข่าวคราวใหม่ให้รายงาน แต่ส่งตาและหูคอยสอดส่องไปทั่วเอเวอร์คีปและเฮอริเทจฟาวนด์แล้ว"
+    },
+    {
+      "key": "weonlycaughttheproclamationfromadistancebuticantellyouthatthemessageaboutneoregulatorswasreceivedwithutmostclarity",
+      "text_en": "We only caught the proclamation from a distance, but I can tell you that the message about neo regulators was received with utmost clarity.",
+      "text": "พวกเราแว่วเสียงประกาศจากระยะไกลเท่านั้น แต่บอกได้เลยว่าทุกคนรับสารเรื่องเรกูเลเตอร์รุ่นใหม่ได้อย่างชัดเจนที่สุดแล้ว"
+    },
+    {
+      "key": "itcouldnthavebeensphenesheshouldvebeendestroyedwhenthemesoterminalshutdown",
+      "text_en": "It couldn't have been Sphene. She should've been destroyed when the Meso Terminal shut down...",
+      "text": "ไม่มีทางเป็นสฟีนไปได้หรอก น่าจะสลายไปแล้วตอนที่เมโซเทอร์มินัลปิดตัวลง..."
+    },
+    {
+      "key": "withoutasinglealexandriantobearwitnesspresentedwithanidenticalfigureclaimingtobetheirbelovedqueentisnosurprisethattheywouldchoosetobelieveshesalive",
+      "text_en": "...Without a single Alexandrian to bear witness. Presented with an identical figure claiming to be their beloved queen, 'tis no surprise that they would choose to believe she's alive.",
+      "text": "...โดยปราศจากชาวอะเล็กซานเดรียร่วมเป็นพยานแม้สักคน เมื่อปรากฏร่างที่เหมือนกันทุกประการมาอ้างตัวว่าเป็นราชินีอันเป็นที่รัก ก็ไม่แปลกที่พวกเขาจะเลือกเชื่อว่าพระนางยังมีชีวิต"
+    },
+    {
+      "key": "whatistroublinghoweveristheirdenialthatthefuneralwasheldinherhonortisasiftheirmemorieshavebeenerased",
+      "text_en": "What is troubling, however, is their denial that the funeral was held in her honor. 'Tis as if their memories have been erased...",
+      "text": "ทว่าเรื่องที่น่ากังวลก็คือพวกเขากลับปฏิเสธเรื่องการจัดพิธีศพเพื่อเกียรติยศของพระนาง ราวกับความทรงจำเหล่านั้นอันตรธานหายไปสิ้น..."
+    },
+    {
+      "key": "giventhatthemembersofoblivionremainunaffectedthatwaslikelytheworkoftheregulatorsbutbywhosedesign",
+      "text_en": "Given that the members of Oblivion remain unaffected, that was likely the work of the regulators. But by whose design?",
+      "text": "ในเมื่อพวกพ้องในอ็อบลิเวียนไม่ได้รับผลกระทบใดๆ เรื่องนี้น่าจะเป็นฝีมือของพวกเรกูเลเตอร์ แต่ใครกันที่เป็นคนวางแผนการนี้?"
+    },
+    {
+      "key": "someonesmartenoughtoplayatbeingthequeenofreasoninthatguiseevenifsomesuspectdeceptionmostofalexandriawillbeonherside",
+      "text_en": "Someone smart enough to play at being the Queen of Reason. In that guise, even if some suspect deception, most of Alexandria will be on her side.",
+      "text": "คงเป็นใครบางคนที่ฉลาดพอจะสวมรอยเป็นราชินีแห่งปัญญา ในคราบนั้น ต่อให้บางคนจะระแวงว่าเป็นการหลอกลวง แต่ชาวอะเล็กซานเดรียส่วนใหญ่ก็คงเข้าข้างพระนางอยู่ดี"
+    },
+    {
+      "key": "weneedtofindoutwhoshereallyis",
+      "text_en": "We need to find out who she really is.",
+      "text": "พวกเราต้องสืบให้รู้ให้ได้ว่าตัวจริงของเธอคือใคร"
+    },
+    {
+      "key": "whileiagreewholeheartedlyweshouldavoiddrawingmoreattentionthanwealreadyhavewemustbepatientuntiloblivionsnetworkturnsupaleadoruntilourselfproclaimedqueenmakeshernextmove",
+      "text_en": "While I agree wholeheartedly, we should avoid drawing more attention than we already have. We must be patient until Oblivion's network turns up a lead...or until our self-proclaimed queen makes her next move.",
+      "text": "ฉันเห็นด้วยอย่างยิ่ง แต่เราควรเลี่ยงไม่ให้ตกเป็นเป้าสายตาไปมากกว่านี้ดีกว่า ต้องอดทนรอจนกว่าเครือข่ายของอ็อบลิเวียนจะพบเบาะแส... หรือจนกว่าราชินีที่สถาปนาตนเองขึ้นมาจะเคลื่อนไหวครั้งต่อไป"
+    },
+    {
+      "key": "whereami",
+      "text_en": "Where...am I...",
+      "text": "ที่นี่...ที่ไหนกัน..."
+    },
+    {
+      "key": "mypeoplearetheyaretheysafe",
+      "text_en": "My people! Are they...are they safe...?",
+      "text": "ประชาชนของฉัน! ปลอดภัยดี...ปลอดภัยดีใช่ไหม..."
+    },
+    {
+      "key": "whyami",
+      "text_en": "Why am I...",
+      "text": "ทำไมฉันถึง..."
+    },
+    {
+      "key": "infearofdeaththepeopleturn",
+      "text_en": "IN FEAR OF DEATH, THE PEOPLE TURN",
+      "text": "ยามปวงประชาขลาดกลัวต่อความตาย ต่างบ่ายหน้าพึ่งพิง"
+    },
+    {
+      "key": "toqueenreborntheirfatestolearn",
+      "text_en": "TO QUEEN REBORN, THEIR FATES TO LEARN",
+      "text": "สู่ราชินีผู้จุติใหม่ เพื่อสดับชะตากรรมของตน"
+    },
+    {
+      "key": "apityyshtolawasnotpresentforsphenesreturnacursoryglanceattheimpostorsaetherwouldhavedoubtlessbeenenoughtoconfirmoursuspicionsbeyondadoubt",
+      "text_en": "A pity Y'shtola was not present for “Sphene's” return. A cursory glance at the impostor's aether would have doubtless been enough to confirm our suspicions beyond a doubt....",
+      "text": "น่าเสียดายที่อิชโทลาไม่ได้อยู่ตอนที่ 'สฟีน' กลับมา แค่ชายตามองเอเธอร์ของตัวปลอมนั่นแวบเดียว ก็คงยืนยันข้อสงสัยของพวกเราได้โดยปราศจากข้อกังขาแล้ว..."
+    },
+    {
+      "key": "shalesaidsheleftthismachinerunningtoprocessmoreofthedatafromthefieldstationisitdoneyet",
+      "text_en": "Shale said she left this machine running to process more of the data from the field station. Is it done yet?",
+      "text": "คุณเชลบอกว่าเปิดเครื่องนี้ทิ้งไว้เพื่อประมวลผลข้อมูลจากสถานีภาคสนามต่อครับ เสร็จหรือยังครับ"
+    },
+    {
+      "key": "neoregulatorsiheardtheideacamefromthecitizenrybutsomethingdoesntsitrightwelllookintothis",
+      "text_en": "Neo regulators... I heard the idea came from the citizenry, but something doesn't sit right. We'll look into this.",
+      "text": "นีโอเรกูเลเตอร์... ได้ยินมาว่าแนวคิดนี้มาจากชาวเมือง แต่รู้สึกมีบางอย่างไม่ชอบมาพากลแฮะ เดี๋ยวพวกเราจะช่วยสืบเรื่องนี้เอง"
+    },
+    {
+      "key": "thoughwehavetoolittleinformationtodrawanyusefulconclusionsasyetidaresaythequeenofreasonsbehaviorhenceforthwillbeilluminating",
+      "text_en": "Though we have too little information to draw any useful conclusions as yet, I daresay the Queen of Reason's behavior henceforth will be illuminating.",
+      "text": "ถึงแม้ตอนนี้จะยังมีข้อมูลน้อยเกินกว่าจะหาข้อสรุปที่เป็นประโยชน์ได้ แต่ฉันเชื่อว่าพฤติกรรมหลังจากนี้ของราชินีแห่งปัญญาจะช่วยไขข้อข้องใจให้เรากระจ่างขึ้นแน่นอน"
+    },
+    {
+      "key": "ihavereachedouttoafewofmychildhoodacquaintancesbutaswesuspectedonlythosewithoutregulatorshaveanyrecollectionofmourningqueensphene",
+      "text_en": "I have reached out to a few of my childhood acquaintances, but as we suspected, only those without regulators have any recollection of mourning Queen Sphene...",
+      "text": "ฉันติดต่อไปหาคนรู้จักสมัยเด็กสองสามคนแล้ว แต่ก็เป็นอย่างที่เราคาดไว้ เฉพาะคนที่ไม่มีเรกูเลเตอร์เท่านั้นที่จำได้ว่าเคยไว้อาลัยราชินีสฟีน..."
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "quest_id": "in-crimson-it-began",
+  "dialogues": [
+    {
+      "key": "somarshaltarupinmeanstoleadthereconnaissancemissionhimselfdoeshe",
+      "text_en": "So Marshal Tarupin means to lead the reconnaissance mission himself, does he?",
+      "text": "จอมพลทารูปินจะนำหน่วยลาดตระเวนด้วยตัวเองเลยอย่างนั้นหรือ"
+    },
+    {
+      "key": "thankyouforvolunteeringtojoinmethisshouldbeafairlystraightforwardreconnaissancemissionsolongaswedonothavetheillfortunetorunafoulofanimperialpatrol",
+      "text_en": "Thank you for volunteering to join me. This should be a fairly straightforward reconnaissance mission, so long as we do not have the ill fortune to run afoul of an imperial patrol.",
+      "text": "ขอบคุณที่อาสามาด้วยกันครับ ภารกิจลาดตระเวนครั้งนี้น่าจะไม่มีอะไรซับซ้อน ขอเพียงเราไม่โชคร้ายไปปะทะกับหน่วยลาดตระเวนของจักรวรรดิเข้า"
+    },
+    {
+      "key": "comeourdestinationisbeyondeastendjustnorthofvelodyna",
+      "text_en": "Come—our destination is beyond East End, just north of Velodyna.",
+      "text": "ไปกันเถอะ จุดหมายของเราอยู่เลยอีสต์เอนด์ไป ทางเหนือของเวโลดีนาพอดี"
+    },
+    {
+      "key": "evenshouldtheybeunawareofourplansiwouldbesurprisediftheirwesterndefenseswerenotheavilyfortifiedgiventhepresenceofalliedforcesatthewall",
+      "text_en": "Even should they be unaware of our plans, I would be surprised if their western defenses were not heavily fortified, given the presence of Allied forces at the Wall.",
+      "text": "ต่อให้พวกนั้นไม่รู้แผนการของเรา แต่ในเมื่อกองทัพพันธมิตรปักหลักอยู่ที่กำแพงเบลซาร์ ผมคงแปลกใจมากหากแนวป้องกันทางตะวันตกของพวกเขาไม่ได้เสริมกำลังอย่างหนาแน่น"
+    },
+    {
+      "key": "naughtappearsoutoftheordinaryataglance",
+      "text_en": "Naught appears out of the ordinary at a glance...",
+      "text": "มองปราดเดียวก็ดูไม่มีอะไรผิดปกติเลย..."
+    },
+    {
+      "key": "thisoughttobecloseenoughnowwesettleinforalongwatch",
+      "text_en": "This ought to be close enough. Now we settle in for a long watch.",
+      "text": "แถวนี้น่าจะใกล้พอแล้ว จากนี้คงต้องเฝ้าจับตาดูกันยาวๆ ครับ"
+    },
+    {
+      "key": "thatsaiditwouldbeprudenttokeepyourweaponsatthereadyintheeventapassingpatrolstumblesuponusorworse",
+      "text_en": "That said...it would be prudent to keep your weapons at the ready, in the event a passing patrol stumbles upon us, or worse...",
+      "text": "ถึงอย่างนั้น...เตรียมอาวุธให้พร้อมไว้ดีกว่าครับ เผื่อหน่วยลาดตระเวนผ่านมาเจอเราเข้า หรือเกิดอะไรที่ร้ายแรงกว่านั้น..."
+    },
+    {
+      "key": "excellentthedispositionoftheimperialforcesisexactlyasexpectediwillnotifyfather",
+      "text_en": "Excellent...The disposition of the imperial forces is exactly as expected. I will notify Father.",
+      "text": "ยอดเยี่ยมมาก...การจัดวางกำลังของกองทัพจักรวรรดิเป็นไปตามที่คาดไว้ไม่มีผิด ผมจะรีบแจ้งท่านพ่อครับ"
+    },
+    {
+      "key": "cannonfirewherediditcomefrom",
+      "text_en": "Cannon fire! Where did it come from?",
+      "text": "เสียงปืนใหญ่! ดังมาจากไหนกัน!"
+    },
+    {
+      "key": "smokethereisthatohgodsitsrhalgrsreach",
+      "text_en": "Smoke! There! Is that—Oh gods, it's Rhalgr's Reach!",
+      "text": "ควันไฟ! ตรงนั้นไง! นั่นมัน—คุณพระช่วย รัลเกอร์สรีช!"
+    },
+    {
+      "key": "itsnouseithinksomeonesjammingourcommunications",
+      "text_en": "It's no use—I think someone's jamming our communications.",
+      "text": "เปล่าประโยชน์... ดูเหมือนใครบางคนกำลังรบกวนสัญญาณสื่อสารของพวกเรา"
+    },
+    {
+      "key": "youdontthinkcouldthisbepartofacoordinatedattack",
+      "text_en": "You don't think.... Could this be part of a coordinated attack?",
+      "text": "หรือว่า... หรือนี่จะเป็นส่วนหนึ่งของแผนการบุกโจมตีประสานงานกัน"
+    },
+    {
+      "key": "tooearlytodrawconclusionswemustaborttheassaultandreturntothereachatonce",
+      "text_en": "Too early to draw conclusions. We must abort the assault and return to the Reach at once.",
+      "text": "ยังด่วนสรุปตอนนี้ไม่ได้ครับ พวกเราต้องล้มเลิกการบุกแล้วกลับเดอะ รีชทันที"
+    },
+    {
+      "key": "forwardforwardgivethemnoquarter",
+      "text_en": "Forward! FORWARD! Give them no quarter!",
+      "text": "บุกเข้าไป! บุกเข้าไป! อย่าปล่อยให้พวกมันรอดไปได้!"
+    },
+    {
+      "key": "you",
+      "text_en": "You!",
+      "text": "แก!"
+    },
+    {
+      "key": "traitorkinslayer",
+      "text_en": "Traitor! Kinslayer!",
+      "text": "คนทรยศ! แกมันฆาตกรฆ่าพวกเดียวกัน!"
+    },
+    {
+      "key": "yourenokinofmine",
+      "text_en": "You're no kin of mine!",
+      "text": "ฉันไม่ได้ร่วมสายเลือดเดียวกับแก!"
+    },
+    {
+      "key": "meffrid",
+      "text_en": "Meffrid!",
+      "text": "เมฟริด!"
+    },
+    {
+      "key": "hellstakeyou",
+      "text_en": "Hells take you!",
+      "text": "ไปลงนรกซะ!"
+    },
+    {
+      "key": "hurgh",
+      "text_en": "Hurgh...",
+      "text": "อั้ก..."
+    },
+    {
+      "key": "wellwell",
+      "text_en": "Well, well...",
+      "text": "อืม..."
+    },
+    {
+      "key": "standasidepilusthisonehaspromise",
+      "text_en": "Stand aside, Pilus. This one has promise.",
+      "text": "ถอยไป ไพลัส คนนี้ดูมีแววดี"
+    },
+    {
+      "key": "haveacaremylordshesnotliketheothers",
+      "text_en": "Have a care, my lord. She's not like the others.",
+      "text": "ระวังด้วย นายท่าน ยัยนี่ไม่เหมือนคนอื่นที่ผ่านมา"
+    },
+    {
+      "key": "hmdonotdisappointmegirloriwillkillyou",
+      "text_en": "Hm. Do not disappoint me, girl. Or I will kill you.",
+      "text": "หึ อย่าทำให้เราผิดหวังล่ะ แม่หนู ไม่อย่างนั้นจะฆ่าเจ้าเสีย"
+    },
+    {
+      "key": "sevenhellsitshimitszenos",
+      "text_en": "Seven hells... It's him! It's Zenos!",
+      "text": "นรกทั้งเจ็ดขุม... ซีนอส! ซีนอสจริงๆ!"
+    },
+    {
+      "key": "theviceroyohyouareadeadman",
+      "text_en": "The viceroy? Oh...you are a dead man!",
+      "text": "ผู้สำเร็จราชการงั้นเรอะ... แกตายแน่!"
+    },
+    {
+      "key": "sospiritedandyetsoempty",
+      "text_en": "So spirited...and yet so empty.",
+      "text": "ช่างฮึกเหิมนัก... ทว่ากลับว่างเปล่าเหลือเกิน"
+    },
+    {
+      "key": "lyserun",
+      "text_en": "Lyse, run!",
+      "text": "ไลส์ หนีไป!"
+    },
+    {
+      "key": "ahamagicalbarrieralas",
+      "text_en": "Ah, a magical barrier. Alas...",
+      "text": "อ้อ บาเรียเวทมนตร์ ช่างน่าเสียดาย..."
+    },
+    {
+      "key": "itwillnotsaveyou",
+      "text_en": "It will not save you.",
+      "text": "ก็ช่วยเจ้าไม่ได้หรอก"
+    },
+    {
+      "key": "yshtola",
+      "text_en": "Y'shtola!",
+      "text": "ยาชโตล่า!"
+    },
+    {
+      "key": "holdthelinebyrhalgrholdtheline",
+      "text_en": "Hold the line, by Rhalgr! Hold the line!",
+      "text": "รักษาแนวรบไว้! สาบานต่อราลเกอร์! รักษาแนวรบไว้!"
+    },
+    {
+      "key": "krile",
+      "text_en": "Krile!",
+      "text": "ไครล์!"
+    },
+    {
+      "key": "alphinaud",
+      "text_en": "Alphinaud!",
+      "text": "อัลฟิโน่!"
+    },
+    {
+      "key": "wesawthesmokeandthoughtweheardexplosionsareweunderattack",
+      "text_en": "We saw the smoke and thought we heard explosions. Are we under attack?",
+      "text": "พวกเราเห็นกลุ่มควันลอยขึ้นมาและคล้ายจะได้ยินเสียงระเบิด มีคนบุกโจมตีเราหรือครับ"
+    },
+    {
+      "key": "theimperialswerealloverusbeforewerealizedwhatwashappeningnooneknewwheretorunorwhattodoitwaschaos",
+      "text_en": "The imperials were all over us before we realized what was happening. No one knew where to run or what to do—it was chaos.",
+      "text": "พวกทหารจักรวรรดิบุกเข้ามาล้อมเราไว้หมดก่อนที่จะทันตั้งตัวเสียอีก ไม่มีใครรู้ว่าต้องหนีไปทางไหนหรือต้องทำอย่างไร ทุกอย่างโกลาหลไปหมดเลย"
+    },
+    {
+      "key": "lyseandmasterkempralliedtheguardsandboughtusenoughtimetogetsomeofthewoundedtosafetybutihaventseeneitherofthemsince",
+      "text_en": "Lyse and Master Kemp rallied the guards and bought us enough time to get some of the wounded to safety, but I haven't seen either of them since...",
+      "text": "ไลส์กับหัวหน้าเคมป์ช่วยกันรวบรวมทหารยามเพื่อถ่วงเวลาให้พวกเราพาคนเจ็บส่วนหนึ่งไปถึงที่ปลอดภัยได้ แต่หลังจากนั้นฉันก็ไม่เห็นทั้งสองคนอีกเลย..."
+    },
+    {
+      "key": "confounditifwelosethereachthiswillallhavebeenfornaught",
+      "text_en": "Confound it! If we lose the Reach, this will all have been for naught!",
+      "text": "ปัดโธ่เอ๊ย! ถ้าพวกเราเสียเดอะ รีชไป ทุกอย่างที่ทำมาก็ต้องสูญเปล่า!"
+    },
+    {
+      "key": "arenvaldcanyouescortthesepeopletothewall",
+      "text_en": "Arenvald—can you escort these people to the wall?",
+      "text": "อาเรนวัลด์ ช่วยคุ้มกันคนกลุ่มนี้ไปที่กำแพงเบลซาร์ทีได้ไหม"
+    },
+    {
+      "key": "ayesir",
+      "text_en": "Aye, sir.",
+      "text": "ได้ครับ"
+    },
+    {
+      "key": "ourplaceisatthereachwemustoffersuchaidandsuccorasweareablesavinglivesisnowourparamountconcern",
+      "text_en": "Our place is at the Reach. We must offer such aid and succor as we are able. Saving lives is now our paramount concern.",
+      "text": "หน้าที่ของเราอยู่ที่เดอะ รีช ต้องช่วยเหลือเยียวยาสุดกำลัง การช่วยชีวิตคนคือเรื่องสำคัญที่สุดในตอนนี้"
+    },
+    {
+      "key": "ifwecanholdbacktheimperialsuntilfathersendsreinforcementswemayyetturnthetide",
+      "text_en": "If we can hold back the imperials until Father sends reinforcements, we may yet turn the tide...",
+      "text": "หากยื้อทหารจักรวรรดิไว้ได้จนกว่าท่านพ่อจะส่งกำลังเสริมมา บางทีอาจพลิกสถานการณ์ได้..."
+    },
+    {
+      "key": "illjoinyouivedoneallicanforthesepeopleandyoullbecryingoutforahealerinthere",
+      "text_en": "I'll join you. I've done all I can for these people, and you'll be crying out for a healer in there.",
+      "text": "ฉันไปด้วยคน ช่วยคนพวกนี้สุดความสามารถแล้ว เข้าไปข้างในพวกนายคงต้องร้องเรียกหาผู้รักษาแน่"
+    },
+    {
+      "key": "ifearyourerightcomethereisnotimetolose",
+      "text_en": "I fear you're right. Come, there is no time to lose!",
+      "text": "เกรงว่าจะเป็นจริงตามนั้น ไปกันเถอะ อย่ามัวรีรอ!"
+    },
+    {
+      "key": "godshelpustheyrekillingeveryone",
+      "text_en": "Gods help us, they're killing everyone!",
+      "text": "ทวยเทพโปรดช่วยด้วย! พวกมันไล่เข่นฆ่าทุกคน!"
+    },
+    {
+      "key": "wehavetostopthemwhiletheresstillsomeonelefttosave",
+      "text_en": "We have to stop them while there's still someone left to save!",
+      "text": "ต้องหยุดพวกมันตอนที่ยังช่วยชีวิตคนทัน!"
+    },
+    {
+      "key": "theimperialscamefromnowherestartedcuttingpeopledownleftandright",
+      "text_en": "The imperials came from nowhere...started cutting people down left and right...",
+      "text": "ทหารจักรวรรดิผุดมาจากไหนไม่รู้...ไล่ฟันผู้คนล้มตายระเนระนาด..."
+    },
+    {
+      "key": "reinforcementsareonthewayspreadthewordweshouldkeepmoving",
+      "text_en": "Reinforcements are on the way. Spread the word. We should keep moving...",
+      "text": "กำลังเสริมกำลังเดินทางมา ช่วยบอกต่อพระวจนะด้วย รีบเคลื่อนย้ายกันต่อเถอะ..."
+    },
+    {
+      "key": "confounditnothingforitbuttofight",
+      "text_en": "Confound it! Nothing for it but to fight.",
+      "text": "บ้าจริง! ไม่มีทางเลี่ยงนอกจากต้องสู้!"
+    },
+    {
+      "key": "twelveforfenditsabloodbathrememberthatwereheretosavelivesdefendthehostages",
+      "text_en": "Twelve forfend... It's a bloodbath ... Remember that we're here to save lives! Defend the hostages!",
+      "text": "ทวยเทพทั้งสิบสองโปรดคุ้มครอง... นองเลือดไปหมด... อย่าลืมนะว่ามาเพื่อช่วยชีวิตคน! ปกป้องตัวประกันไว้!"
+    },
+    {
+      "key": "thosemonstersthesepeoplehadsurrendered",
+      "text_en": "Those monsters─these people had surrendered!",
+      "text": "พวกสารเลวพวกนั้น—คนพวกนี้ยอมจำนนแล้วนะ!"
+    },
+    {
+      "key": "itsnottoolatefortheotherswemusthurry",
+      "text_en": "It's not too late for the others. We must hurry!",
+      "text": "ยังช่วยคนอื่นทัน พวกเราต้องรีบแล้ว!"
+    },
+    {
+      "key": "whatthearethosebeastmenfightingfortheimperialsiveneverseenthembefore",
+      "text_en": "What the─ Are those beastmen fighting for the imperials? I've never seen them before...",
+      "text": "นี่มัน— ชนเผ่าอมนุษย์พวกนั้นสู้รบให้ทหารจักรวรรดิอย่างนั้นหรือ ไม่เคยเห็นพวกมันมาก่อนเลย..."
+    },
+    {
+      "key": "theytheytooklyseandtheothersdeeperinsideyouveyouvegot",
+      "text_en": "They...they took Lyse and the others deeper inside...  You've...you've got...",
+      "text": "พวกมัน...พวกมันพาตัวไลส์กับคนอื่นๆ เข้าไปข้างในลึกกว่าเดิม... คุณต้อง...คุณต้อง..."
+    },
+    {
+      "key": "theretheyarewerenottoolate",
+      "text_en": "There they are! We're not too late!",
+      "text": "อยู่นั่นไง! พวกเรายังมาทัน!"
+    },
+    {
+      "key": "wellwellarescuepartyisitwellseeaboutthat",
+      "text_en": "Well, well. A rescue party, is it? We'll see about that.",
+      "text": "โผล่หัวมาแล้วรึ คิดจะมาช่วยพวกเดียวกันงั้นรึ ก็ลองดูสิว่าจะทำได้ไหม"
+    },
+    {
+      "key": "rebelscum",
+      "text_en": "Rebel scum!",
+      "text": "ไอ้พวกกบฏสวะ!"
+    },
+    {
+      "key": "gahwhointhesevenhellsareyou",
+      "text_en": "Gah! Who in the seven hells are you!?",
+      "text": "อัก! แกเป็นใครกันวะเนี่ย!? ไปผุดมาจากนรกทั้งเจ็ดขุมไหน!?"
+    },
+    {
+      "key": "nowetooktoolong",
+      "text_en": "No! We took too long...",
+      "text": "ไม่นะ! พวกเราชักช้าเกินไป..."
+    },
+    {
+      "key": "confoundit",
+      "text_en": "Confound it...",
+      "text": "ปัดโธ่เอ๊ย..."
+    },
+    {
+      "key": "thiscannotbe",
+      "text_en": "This...cannot be...",
+      "text": "ไม่จริง... เป็นไปไม่ได้..."
+    },
+    {
+      "key": "forgivemefather",
+      "text_en": "Forgive me, Father...",
+      "text": "ยกโทษให้ลูกด้วย... ท่านพ่อ..."
+    },
+    {
+      "key": "iicanstill",
+      "text_en": "I...I can still...",
+      "text": "ฉัน... ฉันยังไหว..."
+    },
+    {
+      "key": "whattookyousolong",
+      "text_en": "What took you so long?",
+      "text": "ทำไมถึงมาช้านักล่ะ"
+    },
+    {
+      "key": "alphinaudineedyourhelp",
+      "text_en": "Alphinaud, I need your help!",
+      "text": "อัลฟิโน ช่วยฉันหน่อย!"
+    },
+    {
+      "key": "mylordtheprisoners",
+      "text_en": "My lord, the prisoners!",
+      "text": "ฝ่าบาท พวกนักโทษล่ะเพคะ!"
+    },
+    {
+      "key": "seetoyourmenpilus",
+      "text_en": "See to your men, Pilus.",
+      "text": "ไปดูแลคนของเจ้าเสีย ปิลุส"
+    },
+    {
+      "key": "uhasyoucommandmylord",
+      "text_en": "Uh—As you command, my lord.",
+      "text": "เอ่อ—น้อมรับบัญชาเพคะ ฝ่าบาท"
+    },
+    {
+      "key": "yourfriendswereadisappointmentbutyouyouwillentertainmewillyounot",
+      "text_en": "Your friends were a disappointment. But you... You will entertain me, will you not?",
+      "text": "พวกเพื่อนของเจ้าช่างน่าผิดหวังเหลือเกิน แต่เจ้า... เจ้าจะทำให้เราสนุกได้ใช่ไหม"
+    },
+    {
+      "key": "ifwekillhimhereandnowwecanendthis",
+      "text_en": "If we kill him, here and now, we can end this!",
+      "text": "ถ้าเราฆ่ามันได้ตรงนี้ ตอนนี้ เรื่องทั้งหมดก็จะได้จบลงเสียที!"
+    },
+    {
+      "key": "ihavenoneedforthisrabble",
+      "text_en": "I have no need for this rabble.",
+      "text": "เราไม่ต้องการพวกสวะพวกนี้"
+    },
+    {
+      "key": "begone",
+      "text_en": "Begone!",
+      "text": "ไสหัวไป!"
+    },
+    {
+      "key": "sevenhellsnotevenfathercoulddothat",
+      "text_en": "Seven hells... Not even Father could do that...",
+      "text": "นรกทั้งเจ็ดขุม... แม้แต่ท่านพ่อก็ยังทำขนาดนั้นไม่ได้..."
+    },
+    {
+      "key": "hmyouyetstandmayhapyouhavepotential",
+      "text_en": "Hm. You yet stand. Mayhap you have potential.",
+      "text": "หึ ยังยืนอยู่ได้รึ บางทีเจ้าอาจจะพอมีแววอยู่บ้าง"
+    },
+    {
+      "key": "givemesomethingtoremember",
+      "text_en": "Give me something to remember!",
+      "text": "ทำให้เราจดจำเจ้าให้ได้เสียหน่อยซิ!"
+    },
+    {
+      "key": "betterbutlackingnevertheless",
+      "text_en": "Better...but lacking nevertheless...",
+      "text": "ดีขึ้น... แต่ถึงอย่างนั้นก็ยังขาดอะไรไปอยู่ดี..."
+    },
+    {
+      "key": "itwouldseemimisjudgedyouthisendsnow",
+      "text_en": "It would seem I misjudged you. This ends now.",
+      "text": "ดูเหมือนเราจะประเมินเจ้าผิดไป ทุกอย่างต้องจบลงแค่นี้"
+    },
+    {
+      "key": "pathetic",
+      "text_en": "Pathetic.",
+      "text": "น่าสมเพชสิ้นดี"
+    },
+    {
+      "key": "sevenhells",
+      "text_en": "Seven hells...",
+      "text": "นรกทั้งเจ็ดขุม..."
+    },
+    {
+      "key": "shallwegivechasegeneral",
+      "text_en": "Shall we give chase, General?",
+      "text": "พวกเราจะตามล่าพวกมันต่อไปไหมครับ ท่านนายพล?"
+    },
+    {
+      "key": "naytherehasbeenenoughdeaththisdayseetothewounded",
+      "text_en": "Nay. There has been enough death this day. See to the wounded.",
+      "text": "พอที วันนี้ล้มตายกันมามากพอแล้ว ไปดูแลคนเจ็บเสีย"
+    },
+    {
+      "key": "ayesir",
+      "text_en": "Aye, sir!",
+      "text": "รับทราบครับ!"
+    },
+    {
+      "key": "youallrightladlass",
+      "text_en": "You all right, lad / lass ?",
+      "text": "ไม่เป็นไรใช่ไหม เจ้าหนู"
+    },
+    {
+      "key": "tisnoordinaryfoecouldbestthelikesofyou",
+      "text_en": "'Tis no ordinary foe could best the likes of you.",
+      "text": "ศัตรูที่ล้มคนอย่างเจ้าได้ คงไม่ใช่พวกธรรมดาแน่"
+    },
+    {
+      "key": "ayeidonotdoubtit",
+      "text_en": "Aye. I do not doubt it.",
+      "text": "จริงอย่างนั้น ข้าไม่สงสัยเลยสักนิด"
+    },
+    {
+      "key": "tobestthelikesofyouzenosisnotwhatitookhimtobe",
+      "text_en": "To best the likes of you... Zenos is not what I took him to be.",
+      "text": "ถึงกับล้มคนอย่างเจ้าได้... เซนอสคงไม่ได้เป็นอย่างที่ข้าคิดไว้แต่แรกเสียแล้ว"
+    },
+    {
+      "key": "dontyoudieonmeyshtolaholdon",
+      "text_en": "Don't you die on me, Y'shtola! Hold on!",
+      "text": "อย่าเพิ่งตายนะ ยาชโตล่า! แข็งใจไว้ก่อน!"
+    },
+    {
+      "key": "dontworryitsgoingtobeallright",
+      "text_en": "Don't worry! It's going to be all right!",
+      "text": "ไม่ต้องห่วงนะ! ต้องไม่เป็นไรแน่!"
+    },
+    {
+      "key": "alphinaudmasterkempisallyours",
+      "text_en": "Alphinaud! Master Kemp is all yours!",
+      "text": "อัลฟิโน่! ฝากดูแลท่านเคมป์ด้วยนะ!"
+    },
+    {
+      "key": "understood",
+      "text_en": "Understood!",
+      "text": "เข้าใจแล้วครับ!"
+    },
+    {
+      "key": "dontjuststandtheregawpingyoureahealerarentyou",
+      "text_en": "Don't just stand there gawping! You're a healer, aren't you?",
+      "text": "มัวยืนอ้าปากค้างอยู่ได้! เธอเป็นผู้รักษาไม่ใช่หรือ"
+    },
+    {
+      "key": "dontjuststandtheregawpingholdherdownwhileiwork",
+      "text_en": "Don't just stand there gawping! Hold her down while I work!",
+      "text": "มัวยืนอ้าปากค้างอยู่ได้! ช่วยจับตัวเธอไว้ทีระหว่างที่ฉันลงมือ!"
+    },
+    {
+      "key": "theworstispassedbutwithoutproperfacilitiesicandonomore",
+      "text_en": "The worst is passed, but without proper facilities I can do no more.",
+      "text": "ช่วงที่เลวร้ายที่สุดผ่านพ้นไปแล้ว แต่หากขาดเครื่องไม้เครื่องมือที่เหมาะสม ฉันก็คงทำอะไรไม่ได้มากกว่านี้"
+    },
+    {
+      "key": "masterkemptoowouldbebetterservedintheinfirmaryletustakethemtherewithoutdelay",
+      "text_en": "Master Kemp too would be better served in the infirmary. Let us take them there without delay.",
+      "text": "ส่งตัวท่านเคมป์ไปห้องพยาบาลก็น่าจะดีกว่าเหมือนกัน รีบพาพวกเขาไปที่นั่นกันเถอะ อย่ามัวชักช้าเลย"
+    },
+    {
+      "key": "giveusahandwouldyoulyse",
+      "text_en": "Give us a hand, would you, Lyse?",
+      "text": "ลีส มาช่วยกันหน่อยสิ"
+    },
+    {
+      "key": "oofcourse",
+      "text_en": "O-Of course!",
+      "text": "ด...ได้เลย!"
+    },
+    {
+      "key": "iknowyoumustbeexhaustedbuttherewillbeotherswhoneedourhelpleavethesetwotousandlooktotheotherwounded",
+      "text_en": "I know you must be exhausted, but there will be others who need our help. Leave these two to us and look to the other wounded.",
+      "text": "ฉันรู้ว่าเธอคงเหนื่อยสายตัวแทบขาด แต่คนเจ็บคนอื่นๆ ยังต้องการความช่วยเหลือจากเรา ฝากสองคนนี้ไว้กับพวกเราเถอะ แล้วเธอไปช่วยดูคนเจ็บคนอื่นนะ"
+    },
+    {
+      "key": "",
+      "text_en": "...",
+      "text": "..."
+    },
+    {
+      "key": "ifitwasntforheritdbemelyingthereiwishitwas",
+      "text_en": "If it wasn't for her, it'd be me lying there... ...I wish it was.",
+      "text": "ถ้าเธอไม่ช่วยไว้ ป่านนี้คงเป็นฉันที่ลงไปนอนอยู่ตรงนั้น... ฉันอยากนอนเจ็บแทนเธอจริงๆ"
+    },
+    {
+      "key": "youreworriedaboutyshtolaarentyouitstooearlytomakeanykindofprognosisbutshesalivefornow",
+      "text_en": "You're worried about Y'shtola, aren't you? <sigh> It's too early to make any kind of prognosis, but...she's alive. For now.",
+      "text": "เป็นห่วงอิชโทล่าใช่ไหมล่ะ <ถอนหายใจ> ตอนนี้ยังเร็วเกินกว่าจะประเมินอาการของเธอได้ แต่...เธอยังรอดชีวิตอยู่ อย่างน้อยก็ในตอนนี้"
+    },
+    {
+      "key": "whataboutwhatabouttheotherswheresmnaagowheresmeffrid",
+      "text_en": "<pant> <pant> What about...what about the others? Where's M'naago? Where's Meffrid?",
+      "text": "แฮก... แฮก... แล้ว...แล้วคนอื่นล่ะ เอ็มนาโก้อยู่ไหน เมฟริดล่ะ อยู่ที่ไหน"
+    },
+    {
+      "key": "iimfinereallyneverbeenbetter",
+      "text_en": "I...I'm fine, really. Never been better...",
+      "text": "ฉัน...ฉันไม่เป็นไรจริงๆ สบายดีจะตาย..."
+    },
+    {
+      "key": "dontspeakortrytomovetakeslowsteadybreathsandremaincalm",
+      "text_en": "Don't speak or try to move! Take slow, steady breaths, and remain calm...",
+      "text": "อย่าเพิ่งพูดหรือขยับตัว! หายใจเข้าช้าๆ ลึกๆ ตั้งสติไว้ก่อน..."
+    },
+    {
+      "key": "ughthatisgoingtoleaveamark",
+      "text_en": "Ugh... That is going to leave a mark.",
+      "text": "อึก... เห็นทีจะได้รอยแผลเป็นฝากไว้เสียแล้ว"
+    },
+    {
+      "key": "youdidwellforenameyousavedlivesnomatterwhathappensrememberthat",
+      "text_en": "You did well, Forename . You saved lives. No matter what happens, remember that.",
+      "text": "เจ้าทำได้ดีมาก Forename เจ้าช่วยชีวิตคนไว้ได้ ไม่ว่าจะเกิดอะไรขึ้น จงจำไว้ให้ขึ้นใจ"
+    },
+    {
+      "key": "nowthenletsdowhatwecanforthewoundedeveryminutecounts",
+      "text_en": "Now then—let's do what we can for the wounded. Every minute counts!",
+      "text": "เอาละ—มาช่วยคนเจ็บเท่าที่จะทำได้เถอะ ทุกนาทีมีค่า!"
+    }
+  ]
+}

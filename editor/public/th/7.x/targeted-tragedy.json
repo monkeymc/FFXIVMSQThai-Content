@@ -1,0 +1,975 @@
+{
+  "quest_id": "targeted-tragedy",
+  "dialogues": [
+    {
+      "key": "ifyouhaveamomentforenamegeodewantstotakestockofthecurrentcrisis",
+      "text_en": "If you have a moment, Forename , Geode wants to take stock of the current crisis.",
+      "text": "ถ้าพอจะว่างสักครู่ละก็ คุณ Forename จีโอดอยากประเมินสถานการณ์วิกฤตตอนนี้สักหน่อย"
+    },
+    {
+      "key": "oblivionmaybelackingthefinerdetailsincertainareassowedlikeyoutolendyourperspectivetotheconversation",
+      "text_en": "Oblivion may be lacking the finer details in certain areas, so we'd like you to lend your perspective to the conversation.",
+      "text": "ข้อมูลในบางเรื่องของอ็อบลิเวียนอาจยังไม่ละเอียดถี่ถ้วนดีนัก พวกเราเลยอยากชวนคุณมาร่วมแสดงทัศนะด้วยกัน"
+    },
+    {
+      "key": "sorrytodragyouintoourmeetingbutweneedtogetabetterhandleonthethreatsalexandriaisfacingrightnow",
+      "text_en": "Sorry to drag you into our meeting, but we need to get a better handle on the threats Alexandria is facing right now.",
+      "text": "ขอโทษที่ต้องดึงตัวคุณมาร่วมประชุมด้วยนะ แต่พวกเราจำเป็นต้องทำความเข้าใจภัยคุกคามที่อะเล็กซานเดรียกำลังเผชิญในเวลานี้ให้ดีกว่าเดิม"
+    },
+    {
+      "key": "notatallmuchhashappenedsincethestatefuneralandaclearerideaofwherethingsstandwouldbebeneficialforusaswell",
+      "text_en": "Not at all. Much has happened since the state funeral, and a clearer idea of where things stand would be beneficial for us as well.",
+      "text": "ไม่เป็นไรเลยค่ะ ตั้งแต่เสร็จสิ้นรัฐพิธีศพก็เกิดเรื่องเกิดราวขึ้นมากมายเหลือเกิน ถ้าเราเข้าใจสถานการณ์ให้กระจ่างขึ้นก็น่าจะเป็นประโยชน์กับฝ่ายเราเหมือนกัน"
+    },
+    {
+      "key": "firstthingsfirstthenletsdiscussthestateofthemachinemalfunctions",
+      "text_en": "First things first, then─let's discuss the state of the machine malfunctions.",
+      "text": "เอาละ เรื่องสำคัญที่สุดก่อนอื่นเลย─เรามาหารือเรื่องเครื่องจักรขัดข้องกันดีกว่า"
+    },
+    {
+      "key": "everysinglesectorreportedinstancesofsentriesattackingcitizenswithoutprovocationandvehiclessuddenlybecomingunresponsivetocontrols",
+      "text_en": "Every single sector reported instances of sentries attacking citizens without provocation, and vehicles suddenly becoming unresponsive to controls.",
+      "text": "ทุกเขตพื้นที่ต่างรายงานตรงกันว่า ทหารยามพากันไล่ทำร้ายชาวเมืองโดยไม่มีใครไปยั่วยุ ส่วนยานพาหนะก็เกิดไม่ตอบสนองต่อการควบคุมขึ้นมาดื้อๆ"
+    },
+    {
+      "key": "andwhilethesemalfunctionswereresolvedfairlyquicklytheyneverthelessresultedinaconsiderablenumberofinjuriesanddeaths",
+      "text_en": "And while these malfunctions were resolved fairly quickly, they nevertheless resulted in a considerable number of injuries and deaths...",
+      "text": "และถึงแม้จะแก้ไขเหตุขัดข้องเหล่านี้ได้ค่อนข้างเร็ว ทว่าก็นำความบาดเจ็บล้มตายมาสู่ผู้คนจำนวนมากอยู่ดี..."
+    },
+    {
+      "key": "butyouhaventheardanythingaboutnewincidentssincethenright",
+      "text_en": "But you haven't heard anything about new incidents since then, right?",
+      "text": "แต่จากนั้นมาก็ไม่ได้ยินข่าวว่าเกิดเรื่องอะไรขึ้นอีกใช่ไหมล่ะ"
+    },
+    {
+      "key": "rightnoadditionalreportshavebeenloggedasfarasiknowthatsthegoodnews",
+      "text_en": "Right. No additional reports have been logged, as far as I know. That's the good news.",
+      "text": "ใช่ค่ะ เท่าที่ฉันรู้ ยังไม่พบรายงานเรื่องอื่นเพิ่มเติมเลย นั่นล่ะคือข่าวดี"
+    },
+    {
+      "key": "thebadnewsisitriedtotakecontrolofthesoldierswhentheystartedhurtingpeoplebuttheywouldntlistentomeeventhoughihavethekingsauthority",
+      "text_en": "The bad news is, I tried to take control of the soldiers when they started hurting people, but they wouldn't listen to me─even though I have the king's authority.",
+      "text": "แต่ข่าวร้ายก็คือ... ตอนที่พวกทหารเริ่มทำร้ายผู้คน ผมพยายามควบคุมพวกมันแล้วครับ แต่พวกมันกลับไม่ยอมฟังผมเลย ทั้งที่ผมถือสิทธิ์สั่งการขององค์ราชาแท้ๆ"
+    },
+    {
+      "key": "oncethingscalmeddowniwasfinallyabletomakethemgiveuptheirweaponsbutifithappensagainidontknowiftheyllignoremelikebefore",
+      "text_en": "Once things calmed down, I was finally able to make them give up their weapons. But...if it happens again, I don't know if they'll ignore me like before.",
+      "text": "พอเหตุการณ์สงบลงแล้ว ในที่สุดผมก็ทำให้พวกเขายอมวางอาวุธได้ครับ แต่...ถ้าเกิดเรื่องแบบนั้นขึ้นอีก ผมก็ไม่รู้เหมือนกันว่าจะยังหูทวนลมไม่ยอมฟังผมเหมือนก่อนหน้านี้ไหม"
+    },
+    {
+      "key": "thekingofresolvesauthorityisaboutthehighestthereiswhoisthismanthatcanoverrideitwithsuchimpunity",
+      "text_en": "The King of Resolve's authority is about the highest there is. Who is this man that can override it with such impunity?",
+      "text": "อำนาจของราชาแห่งปณิธานนั้นถือเป็นอำนาจสูงสุดแล้ว ชายผู้นี้เป็นใครกันถึงได้กล้าละเมิดคำสั่งนั้นอย่างลอยนวลโดยไม่เกรงกลัวสิ่งใด"
+    },
+    {
+      "key": "calyxhelivedintheageofthestormsurgeasidid",
+      "text_en": "Calyx... He lived in the age of the Storm Surge, as I did.",
+      "text": "คาลิกซ์... เคยมีชีวิตอยู่ในยุคสตอร์มเซิร์จเช่นเดียวกับเรา"
+    },
+    {
+      "key": "lestyouforgethewasknownforhisadvancementsinelectropetechnologyanditwashewhoestablishedpreservationforthepurposeoffurtheringhisresearch",
+      "text_en": "Lest you forget, he was known for his advancements in electrope technology, and it was he who established Preservation for the purpose of furthering his research.",
+      "text": "เผื่อท่านจะลืมไป ชายผู้นี้ขึ้นชื่อเรื่องการบุกเบิกเทคโนโลยีอิเล็กโทรป และเป็นผู้ก่อตั้งพรีเซอเวชันขึ้นมาเพื่อการวิจัยของตน"
+    },
+    {
+      "key": "thewastingdiseasewhichafflictedhimhoweverwassaidtoleavehimscantyearslefttolivehemusthavechosentoundergoconversionintoanendlessthathemightcontinuehiseffortsintothepresentday",
+      "text_en": "The wasting disease which afflicted him, however, was said to leave him scant years left to live... He must have chosen to undergo conversion into an Endless, that he might continue his efforts into the present day.",
+      "text": "ทว่า ว่ากันว่าโรคร้ายที่รุมเร้าทำให้อายุขัยสั้นลงจนเหลือเวลาอีกเพียงไม่กี่ปี... คงตัดสินใจแปลงสภาพเป็นเอนด์เลส เพื่อจะได้สานต่อความพยายามนี้มาจนถึงปัจจุบัน"
+    },
+    {
+      "key": "preservationsearlygoalsseemednobleenoughexploringtreatmentsforlevinsicknessdesigningeverkeepscoresystemthatsortofthing",
+      "text_en": "Preservation's early goals seemed noble enough─exploring treatments for levin sickness, designing Everkeep's core system, that sort of thing.",
+      "text": "เป้าหมายแรกเริ่มของพรีเซอเวชันดูงดงามพอตัว ทั้งการเสาะหาวิธีรักษาโรคไข้สายฟ้า ตลอดจนการออกแบบระบบแกนกลางของเอเวอร์คีป อะไรทำนองนั้น"
+    },
+    {
+      "key": "whyharmthepeoplehewasostensiblytryingtohelp",
+      "text_en": "Why harm the people he was ostensibly trying to help...?",
+      "text": "แล้วเหตุใดจึงต้องทำร้ายผู้คนที่ตนเองตั้งท่าว่าจะช่วยเหลือด้วยล่ะ..."
+    },
+    {
+      "key": "idonotpretendtofullyunderstandcalyxsmotivationsonlythatheappearedincensedbywhathesawasmankindsfailings",
+      "text_en": "I do not pretend to fully understand Calyx's motivations... Only that he appeared incensed by what he saw as mankind's failings.",
+      "text": "เราไม่อาจบอกว่าเข้าใจแรงจูงใจของคาลิกซ์อย่างทะลุปรุโปร่งหรอก... รู้เพียงแค่ว่าแสดงท่าทีโกรธเกรี้ยวกับความล้มเหลวของมนุษยชาติเหลือเกิน"
+    },
+    {
+      "key": "heassertedthatthestrategyofadaptingourspeciesthroughgenerationalsuccessionwasoutdatedthatevolutionnowrequiresustoforsakebodiesoffleshinfavorofeternalpreservation",
+      "text_en": "He asserted that the strategy of adapting our species through generational succession was outdated; that evolution now requires us to forsake bodies of flesh in favor of eternal preservation.",
+      "text": "เขาอ้างว่ายุทธศาสตร์การปรับตัวของเผ่าพันธุ์เราผ่านการส่งทอดรุ่นสู่รุ่นนั้นล้าสมัยไปแล้ว การวิวัฒนาการในตอนนี้บีบให้เราต้องละทิ้งร่างกายเนื้อหนังเพื่อมุ่งสู่พรีเซอเวชันชั่วนิรันดร์"
+    },
+    {
+      "key": "wevealreadyseenhowhesemployedthesimulanttoconvincealexandriansthatendlessconversionistheironlyhopeforsurvival",
+      "text_en": "We've already seen how he's employed the simulant to convince Alexandrians that Endless conversion is their only hope for survival.",
+      "text": "พวกเราก็เห็นกับตาแล้วนี่คะว่าใช้ร่างจำลองเกลี้ยกล่อมชาวอเล็กซานเดรียอย่างไร เพื่อให้หลงเชื่อว่าการแปลงสภาพเป็นเอนด์เลสคือหนทางรอดเพียงหนึ่งเดียว"
+    },
+    {
+      "key": "eternallifeisassuredforthefivethousandwhoregistertheirneoregulators",
+      "text_en": "Eternal life is “assured” for the five thousand who register their neo regulators...",
+      "text": "ชีวิตนิรันดร์ย่อมเป็นเรื่องที่ 'แน่แท้' สำหรับคนห้าพันคนที่ยอมลงทะเบียนนีโอเรกูเลเตอร์รุ่นใหม่..."
+    },
+    {
+      "key": "butthisismerelyonepartofcalyxsgreaterplan",
+      "text_en": "But this is merely one part of Calyx's greater plan.",
+      "text": "แต่นี่เป็นเพียงเศษเสี้ยวหนึ่งในแผนการใหญ่ของแคลิกซ์เท่านั้น"
+    },
+    {
+      "key": "hewantsthekeytointerdimensionalfusionwiththatrelicinhispossessionhewilldrawaetherfromthereflectionsandexpandhiseffortstocreateendlessathousandfold",
+      "text_en": "He wants the key to interdimensional fusion. With that relic in his possession, he will draw aether from the reflections, and expand his efforts to create Endless a thousandfold.",
+      "text": "เป้าหมายคือกุญแจสู่การผสานต่างมิติ หากได้ครอบครองวัตถุโบราณชิ้นนั้น ก็จะดึงเอเธอร์จากโลกสะท้อนเพื่อขยายการสร้างเอนด์เลสเพิ่มขึ้นอีกเป็นพันเท่า"
+    },
+    {
+      "key": "ifwemeantofoilcalyxsschemesthenouronlyoptionistodeterminewhereheshidingandputhimdown",
+      "text_en": "If we mean to foil Calyx's schemes, then our only option is to determine where he's hiding and put him down.",
+      "text": "หากคิดจะขัดขวางแผนการของแคลิกซ์ ทางเลือกเดียวที่มีคือต้องหาที่ซ่อนของเขาให้พบแล้วจัดการเสีย"
+    },
+    {
+      "key": "whichunfortunatelyiseasiersaidthandoneivebeenscouringtheterminalwefoundinthedepthsofeverkeepbutivefailedtouncovereventheslightesttraceofhisactivities",
+      "text_en": "Which, unfortunately, is easier said than done. I've been scouring the terminal we found in the depths of Everkeep, but I've failed to uncover even the slightest trace of his activities.",
+      "text": "แต่นั่นพูดง่ายกว่าทำเยอะ ฉันพยายามตรวจค้นเครื่องเทอร์มินัลที่พบใต้ส่วนลึกของเอเวอร์คีปอย่างละเอียดแล้ว ทว่ากลับไม่พบร่องรอยการเคลื่อนไหวของเขาเลยแม้แต่น้อย"
+    },
+    {
+      "key": "givemealittlemoretimethoughandimsureicansniffhimout",
+      "text_en": "Give me a little more time, though, and I'm sure I can sniff him out.",
+      "text": "แต่ขอเวลาฉันอีกสักนิดเถอะนะ รับรองว่าต้องแกะรอยจนเจอตัวแน่"
+    },
+    {
+      "key": "illhelpyou",
+      "text_en": "I'll help you!",
+      "text": "ผมจะช่วยด้วยครับ!"
+    },
+    {
+      "key": "whilegulooljaandshaleareworkingonthatithinkimgoingtotakealookaroundtown",
+      "text_en": "While Gulool Ja and Shale are working on that, I think I'm going to take a look around town.",
+      "text": "ระหว่างที่กูลูล จา กับเชลจัดการเรื่องนั้นอยู่ ผมคิดว่าจะลองไปเดินดูรอบเมืองสักหน่อย"
+    },
+    {
+      "key": "iwanttomakesurenonewproblemshavecroppedupaswellassearchforanyinformationthatmightleadustocalyx",
+      "text_en": "I want to make sure no new problems have cropped up, as well as search for any information that might lead us to Calyx.",
+      "text": "อยากตรวจสอบให้แน่ใจว่าไม่เกิดเรื่องเดือดร้อนอะไรขึ้นมาอีก แล้วก็อยากลองสืบหาเบาะแสที่อาจนำทางพวกเราไปหาแคลิกซ์ด้วย"
+    },
+    {
+      "key": "yourewelcometocomealonganothermalfunctioncouldhappenatanytimeandidbegladtohavesomebrawlersatmyback",
+      "text_en": "You're welcome to come along. Another “malfunction” could happen at any time, and I'd be glad to have some brawlers at my back.",
+      "text": "พวกคุณจะมาด้วยกันก็ได้นะ เพราะเหตุการณ์ 'ทำงานผิดปกติ' อาจเกิดขึ้นอีกเมื่อไหร่ก็ได้ และถ้าได้คนฝีมือดีมาช่วยคุ้มกันหลังก็คงอุ่นใจไม่น้อย"
+    },
+    {
+      "key": "countmein",
+      "text_en": "Count me in!",
+      "text": "ฉันไปด้วยคนนะ!"
+    },
+    {
+      "key": "rahaandtheothersarehelpingoblivionpatroltheotherlevelsofthekeepsoshallwesticktothestreetsofsolutionnine",
+      "text_en": "Raha and the others are helping Oblivion patrol the other levels of the keep, so shall we stick to the streets of Solution Nine?",
+      "text": "ราฮากับพวกช่วยอ็อบลิเวียนตรวจตราป้อมชั้นอื่นอยู่ งั้นพวกเราลาดตระเวนตามถนนในโซลูชันไนน์ดีไหม"
+    },
+    {
+      "key": "soundslikeaplanthanksyoutwoiappreciatethecompany",
+      "text_en": "Sounds like a plan. Thanks, you two, I appreciate the company!",
+      "text": "ตกลงตามนี้ ขอบใจทั้งสองคนนะ ดีใจที่มีกองกำลังคอมพานีมาร่วมทางด้วย"
+    },
+    {
+      "key": "ihavetospeakwiththecitysadministratorsaboutbringinginthelandsguardiwantoursoldiersaroundtoprotectthosewhoremovingtotuliyollal",
+      "text_en": "I have to speak with the city's administrators about bringing in the Landsguard. I want our soldiers around to protect those who're moving to Tuliyollal.",
+      "text": "ฉันต้องไปคุยกับผู้บริหารเมืองเรื่องขอกำลังแลนด์สการ์ด อยากให้ทหารคอยช่วยปกป้องคนที่ย้ายไปทูลียอลลัล"
+    },
+    {
+      "key": "alphinaudandalisaiewillbejoiningmeforthemeetingsothethreeofuscancoverthatsectorassoonasweredone",
+      "text_en": "Alphinaud and Alisaie will be joining me for the meeting, so the three of us can cover that sector as soon as we're done!",
+      "text": "อัลฟิโนกับอลิเซจะเข้าร่วมประชุมด้วย พอเสร็จธุระแล้วพวกเราสามคนจะไปช่วยดูแลเขตนั้นทันที"
+    },
+    {
+      "key": "ifimay",
+      "text_en": "If I may...",
+      "text": "หากไม่เป็นการรบกวน..."
+    },
+    {
+      "key": "idliketojoinforenamesgroupifyoullhaveme",
+      "text_en": "I'd like to join Forename 's group, if you'll have me?",
+      "text": "ฉันอยากขอร่วมกลุ่มของฟอร์เนมด้วย จะยินดีให้ฉันร่วมทางไปด้วยไหมคะ"
+    },
+    {
+      "key": "themoremouthstoaskquestionsthemerrieraslongasyoureawareofthedangers",
+      "text_en": "The more mouths to ask questions, the merrier. As long as you're aware of the dangers.",
+      "text": "คนช่วยถามเยอะๆ ก็ยิ่งดี ขอแค่รู้ตัวว่ากำลังเจอกับอันตรายแบบไหนอยู่ก็พอ"
+    },
+    {
+      "key": "thankyouilldomybestnottobeaburden",
+      "text_en": "Thank you! I'll do my best not to be a burden.",
+      "text": "ขอบคุณค่ะ! ฉันจะพยายามไม่ทำตัวเป็นภาระนะคะ"
+    },
+    {
+      "key": "immoreworriedaboutyougeodedontdoanythingstupid",
+      "text_en": "I'm more worried about you, Geode. Don't do anything stupid.",
+      "text": "ฉันห่วงคุณมากกว่านะ จีโอด อย่าทำอะไรโง่ๆ ล่ะ"
+    },
+    {
+      "key": "pfftyoullchangeyourtuneoncewegetbackwiththegoodsoncalyxthenthedrinksareonyou",
+      "text_en": "Pfft, you'll change your tune once we get back with the goods on Calyx. Then the drinks are on you!",
+      "text": "หึ เดี๋ยวได้เรื่องคาลิกซ์กลับมาเมื่อไหร่ เธอต้องเปลี่ยนคำพูดแน่ ถึงตอนนั้นเตรียมเลี้ยงเหล้าได้เลย!"
+    },
+    {
+      "key": "comeonletscontinuethisoutside",
+      "text_en": "Come on, let's continue this outside.",
+      "text": "ไปเถอะ ออกไปคุยกันข้างนอกดีกว่า"
+    },
+    {
+      "key": "iwishicouldgrowupfastertherellbesomuchmoreicandowhenimbiggerlikeyou",
+      "text_en": "I wish I could grow up faster... There'll be so much more I can do when I'm bigger like you.",
+      "text": "ผมอยากโตเร็วๆ จังครับ... ถ้าตัวโตเท่าคุณเมื่อไหร่ คงช่วยทำอะไรได้มากกว่านี้อีกเยอะ"
+    },
+    {
+      "key": "goodluckwithyourpatrolandtakeyourtimewecandowithoutgeodeuntilyouredonewiththeoldsot",
+      "text_en": "Good luck with your patrol, and take your time. We can do without Geode until you're done with the old sot.",
+      "text": "โชคดีกับการลาดตระเวนนะ ไม่ต้องรีบหรอก ระหว่างที่คุณยังคุยกับตาแก่ขี้เหล้านั่นไม่เสร็จ พวกเราขาดจีโอดไปก็ไม่เดือดร้อนอะไรหรอก"
+    },
+    {
+      "key": "ahsorryjustwhenithinkiveinternalizedbettermannerstalkingwithgeodebringsbackalltheoldbadhabits",
+      "text_en": "Ah, sorry. Just when I think I've internalized better manners, talking with Geode brings back all the old bad habits.",
+      "text": "อ๊ะ ขอโทษด้วยนะ พอคิดว่าซึมซับมารยาทที่ดีมาได้แล้วเชียว แต่พอคุยกับจีโอดทีไร นิสัยเสียเดิมๆ ก็กลับมาทุกที"
+    },
+    {
+      "key": "seemsthemachinesvegonequietagainsoicangetbacktomaintainintheweaponsaroundherehopeforthebestbutpreparefortheworstastheysay",
+      "text_en": "Seems the machines've gone quiet again, so I can get back to maintainin' the weapons around here. Hope for the best, but prepare for the worst, as they say!",
+      "text": "ดูเหมือนพวกเครื่องจักรจะเงียบลงอีกแล้ว ฉันจะได้กลับไปซ่อมบำรุงอาวุธแถวนี้ต่อเสียที อย่างที่เขาว่ากันนั่นแหละ หวังในสิ่งที่ดีที่สุด แต่เตรียมพร้อมรับมือสิ่งร้ายแรงที่สุดไว้ก่อน!"
+    },
+    {
+      "key": "iwilldomyutmosttoensurethehappinessofalexandriaanditspeople",
+      "text_en": "I will do my utmost to ensure the happiness of Alexandria and its people...",
+      "text": "เราจะทำอย่างสุดกำลังเพื่อให้อะเล็กซานเดรียและประชาชนมีความสุข..."
+    },
+    {
+      "key": "thecitylooksasthoughitsregainedasenseofnormalcyalasthepeoplewillnotsoonforgetrecentevents",
+      "text_en": "The city looks as though it's regained a sense of normalcy. Alas, the people will not soon forget recent events...",
+      "text": "ดูเหมือนเมืองนี้จะกลับคืนสู่ความสงบสุขตามปกติแล้ว แต่น่าเสียดายที่ผู้คนคงไม่ลืมเหตุการณ์ที่เพิ่งเกิดขึ้นง่ายๆ หรอก..."
+    },
+    {
+      "key": "ifinallygotmyhandsonaneoregulatorandthencamethisclosetocrashingintoahovercargo",
+      "text_en": "I finally got my hands on a neo regulator─and then came this close to crashing into a hover cargo!",
+      "text": "ในที่สุดฉันก็หานีโอเรกูเลเตอร์มาครอบครองได้เสียที—แล้วก็เกือบจะชนเข้ากับรถขนส่งลอยฟ้าอยู่รอมร่อ!"
+    },
+    {
+      "key": "thedayibecomeendlesscantcomesoonenoughionlyhopeilivethatlong",
+      "text_en": "The day I become Endless can't come soon enough... I only hope I live that long.",
+      "text": "อยากให้ถึงวันที่ฉันได้เป็นเอนด์เลสเร็วๆ เหลือเกิน... หวังแค่ว่าจะประคองชีวิตไปจนถึงวันนั้นได้"
+    },
+    {
+      "key": "sorryiwasoffinmyownlittleworldshallwegetstarted",
+      "text_en": "...Sorry, I was off in my own little world! Shall we get started?",
+      "text": "...ขอโทษที มัวแต่ใจลอยไปหน่อย! เริ่มกันเลยไหม"
+    },
+    {
+      "key": "theydoandcantsayasiblamethem",
+      "text_en": "They do, and can't say as I blame them.",
+      "text": "ก็จริงอย่างว่า จะไปโทษพวกเขาก็คงไม่ได้หรอก"
+    },
+    {
+      "key": "meimwellenoughgiventhecircumstances",
+      "text_en": "Me...? I'm well enough, given the circumstances.",
+      "text": "ฉันน่ะหรือ... ก็ยังไหวอยู่หรอกเมื่อดูจากสภาพการณ์น่ะนะ"
+    },
+    {
+      "key": "rightyouareitstimewetooksomeaction",
+      "text_en": "Right you are. It's time we took some action.",
+      "text": "พูดถูกแล้ว ถึงเวลาที่ต้องลงมือทำอะไรสักอย่างเสียที"
+    },
+    {
+      "key": "itwasthequeensfondestwishthathersubjectsremainshieldedfromthehorrorsofdeathandsotheywereforthelongesttime",
+      "text_en": "It was the queen's fondest wish that her subjects remain shielded from the horrors of death. And so they were for the longest time.",
+      "text": "ความปรารถนาสูงสุดขององค์ราชินีคือต้องการให้ราษฎรปลอดภัยจากความน่าสะพรึงกลัวของความตาย ซึ่งก็ปลอดภัยดีมาเนิ่นนานทีเดียว"
+    },
+    {
+      "key": "thenthemomentmortalityonceagainbecomesanunavoidablefactoflifetheyregreetedwithanoutbreakofbloodyviolence",
+      "text_en": "Then, the moment mortality once again becomes an unavoidable fact of life, they're greeted with an outbreak of bloody violence.",
+      "text": "แต่แล้ว พอความตายกลายเป็นความจริงของชีวิตที่หลีกเลี่ยงไม่ได้อีกครั้ง สิ่งที่รอต้อนรับพวกเขากลับเป็นการปะทุของความรุนแรงอันนองเลือด"
+    },
+    {
+      "key": "manyareboundtogivetheendlessalternativeseriousconsideration",
+      "text_en": "Many are bound to give the Endless alternative serious consideration.",
+      "text": "หลายคนคงต้องพิจารณาทางเลือกเอนด์เลสอย่างจริงจังเป็นแน่"
+    },
+    {
+      "key": "indeedandidonotblamethemforthatitisonlynaturalthatsuchthoughtsshouldcometomind",
+      "text_en": "Indeed, and I do not blame them for that. It is only natural that such thoughts should come to mind.",
+      "text": "จริงทีเดียว และฉันก็ไม่โทษพวกเขาเลย มันเป็นธรรมดาเหลือเกินที่ความคิดเช่นนั้นจะผุดขึ้นมาในใจ"
+    },
+    {
+      "key": "whaticannotforgiveisthewaycalyxwieldsfearandmiserytomanipulatepeopleintomakingthatchoice",
+      "text_en": "What I cannot forgive is the way Calyx wields fear and misery to manipulate people into making that choice.",
+      "text": "แต่สิ่งที่ฉันไม่อาจอภัยให้ได้คือการที่คาลิกซ์ใช้ความกลัวและความทุกข์เป็นเครื่องมือปั่นหัวผู้คนให้เลือกทางนั้น"
+    },
+    {
+      "key": "noonenotcalyxnoranyoneelseshoulddictatehowwecopewiththespecterofdeath",
+      "text_en": "No one─not Calyx, nor anyone else─should dictate how we cope with the specter of death.",
+      "text": "ไม่มีใครเลย—ไม่ว่าจะเป็นคาลิกซ์หรือใครอื่น—ที่จะมาบงการวิธีรับมือกับเงาเงื้อมแห่งความตายของเราได้"
+    },
+    {
+      "key": "asonewholivedasanalexandrianiwishtoputthechoicesforthiscountrysfuturebackintothehandsofitscitizens",
+      "text_en": "As one who lived as an Alexandrian, I wish to put the choices for this country's future back into the hands of its citizens.",
+      "text": "ในฐานะคนที่เคยใช้ชีวิตเป็นชาวอะเล็กซานเดรีย ฉันอยากคืนสิทธิ์เลือกหนทางสู่อนาคตของบ้านเมืองนี้กลับสู่มือของประชาชนอีกครั้งค่ะ"
+    },
+    {
+      "key": "andyouthinkwecanhandlethatresponsibilityaftereverythingyouveseenofus",
+      "text_en": "And you think we can handle that responsibility? After everything you've seen of us?",
+      "text": "แล้วคุณคิดว่าพวกเราจะรับภาระหน้าที่นั้นไหวหรือครับ ทั้งที่เห็นพวกเรามาตั้งขนาดนี้แล้ว"
+    },
+    {
+      "key": "itiswhativeseenthathasconvincedmeyoucan",
+      "text_en": "It is what I've seen that has convinced me you can.",
+      "text": "สิ่งที่ได้เห็นนั่นแหละค่ะ ที่ทำให้มั่นใจว่าพวกท่านทำได้"
+    },
+    {
+      "key": "iawokefourcenturieslatertofindourpeoplelivingandlaughingbeneathalexandriasbannerthoughsurprisedandbewilderediwasoverjoyedtoseeitsoyoualldeservetobehappy",
+      "text_en": "I awoke four centuries later to find our people living and laughing beneath Alexandria's banner. Though surprised and bewildered, I was overjoyed to see it so. You all deserve to be happy...",
+      "text": "ฉันตื่นขึ้นมาอีกครั้งในอีกสี่ร้อยปีต่อมา แล้วพบว่าผู้คนของเรายังคงใช้ชีวิตและหัวเราะได้อย่างมีความสุขภายใต้ร่มธงของอะเล็กซานเดรีย แม้จะตกใจและสับสนอยู่บ้าง แต่ฉันก็ตื้นตันใจเหลือเกินที่ได้เห็นเช่นนั้น พวกท่านทุกคนสมควรได้รับความสุข..."
+    },
+    {
+      "key": "wellthen",
+      "text_en": "...Well, then.",
+      "text": "...ถ้าอย่างนั้น..."
+    },
+    {
+      "key": "wedbestnotletyoudown",
+      "text_en": "We'd best not let you down!",
+      "text": "พวกเราคงต้องพยายามอย่างที่สุด ไม่ทำให้คุณต้องผิดหวังแล้วละครับ!"
+    },
+    {
+      "key": "nowisuggestwemoveasagroupwedontknowiforwhenabattlemightfindus",
+      "text_en": "Now, I suggest we move as a group─we don't know if or when a battle might find us.",
+      "text": "เอาละ ผมเสนอให้พวกเราเกาะกลุ่มกันไว้ดีกว่า เพราะไม่มีทางรู้เลยว่าจะต้องเจอศึกเมื่อไร"
+    },
+    {
+      "key": "ohibelievesomeonecamepreparedforjustsuchaneventuality",
+      "text_en": "Oh. I believe someone came prepared for just such an eventuality.",
+      "text": "แหม ดูเหมือนจะมีคนเตรียมตัวพร้อมรับมือกับเรื่องแบบนี้อยู่แล้วนะเนี่ย"
+    },
+    {
+      "key": "isthatthegrimoireyouretrievedfromtheoldcastle",
+      "text_en": "Is that the grimoire you retrieved from the old castle?",
+      "text": "นั่นใช่ตำราเวทที่ท่านได้มาจากปราสาทหลังเก่าหรือเปล่าคะ"
+    },
+    {
+      "key": "yesmyparentsgiftedittomewheniwasachildtheywereadamantthatishouldlearntoprotectthethingsimportanttome",
+      "text_en": "Yes, my parents gifted it to me when I was a child. They were adamant that I should learn to protect the things important to me.",
+      "text": "ใช่ค่ะ ท่านพ่อกับท่านแม่ให้ตำราเล่มนี้เป็นของขวัญตอนฉันยังเด็ก พวกท่านยืนกรานหนักแน่นว่าฉันต้องเรียนรู้วิธีปกป้องสิ่งสำคัญของตัวเองให้ได้"
+    },
+    {
+      "key": "iwasfortunateenoughtohaveatutorinthearcaneartssoilayclaimtosomesmallmeasureofskill",
+      "text_en": "I was fortunate enough to have a tutor in the arcane arts, so I lay claim to some small measure of skill.",
+      "text": "ฉันโชคดีที่มีอาจารย์คอยสอนสั่งศาสตร์เวทมนตร์ จึงพอมีฝีมือติดตัวอยู่บ้างเล็กน้อย"
+    },
+    {
+      "key": "ifthatsthecaseitmightbebetterifwesplitintotwogroupsafteralltwouldcertainlybemoreefficientforinformationgathering",
+      "text_en": "If that's the case, it might be better if we split into two groups after all. 'Twould certainly be more efficient for information gathering!",
+      "text": "ถ้าอย่างนั้น แยกกันเป็นสองกลุ่มน่าจะดีกว่า จะได้รวบรวมข้อมูลได้รวดเร็วขึ้นเยอะทีเดียว!"
+    },
+    {
+      "key": "iuhiguessthatmakessense",
+      "text_en": "I, uh... I guess that makes sense?",
+      "text": "ผม... เอ้อ ฟังดูสมเหตุสมผลดีเหมือนกัน"
+    },
+    {
+      "key": "thetwoofyoucantakethewestsideoftherecreationzonethen",
+      "text_en": "The two of you can take the west side of the recreation zone, then.",
+      "text": "ถ้าเช่นนั้น พวกคุณสองคนไปสำรวจทางฝั่งดินแดนตะวันตกของเขตสันทนาการก็แล้วกัน"
+    },
+    {
+      "key": "forenameandiwilltaketheeast",
+      "text_en": "Forename and I will take the east.",
+      "text": "ส่วนผมกับ Forename จะไปทางทิศตะวันออกเอง"
+    },
+    {
+      "key": "verywellweshallendourpatrolintheplazajustpasttruevueandawaityouthere",
+      "text_en": "Very well. We shall end our patrol in the plaza just past True Vue and await you there.",
+      "text": "ตกลงตามนี้ พวกเราจะไปตรวจตราสิ้นสุดตรงลานกว้างที่เลยทรู วิวไป แล้วจะรอพวกคุณอยู่ที่นั่นนะ"
+    },
+    {
+      "key": "mygrimoireisinlaidwithelectropeinamannerwhichaugmentsarcanepoweritshouldproveausefultool",
+      "text_en": "My grimoire is inlaid with electrope in a manner which augments arcane power. It should prove a useful tool.",
+      "text": "ตำราเวทมนตร์ของฉันฝังด้วยอิเล็กโทรปในแบบที่ช่วยเสริมพลังเวทมนตร์ น่าจะเป็นประโยชน์กับพวกท่านไม่น้อย"
+    },
+    {
+      "key": "illkeepmyeyesandearsopenanyinformationcouldbehelpfulnomatterhowseeminglyinsignificant",
+      "text_en": "I'll keep my eyes and ears open. Any information could be helpful, no matter how seemingly insignificant.",
+      "text": "ฉันจะคอยใช้ตาสอดส่องและเงี่ยหูฟังให้ดี ข้อมูลทุกอย่างล้วนมีประโยชน์ทั้งนั้น ไม่ว่าจะดูเล็กน้อยเพียงใดก็ตาม"
+    },
+    {
+      "key": "letsdotheroundsthenwellseewhatswhatandchattothepeoplewemeetalongtheway",
+      "text_en": "Let's do the rounds, then. We'll see what's what, and chat to the people we meet along the way.",
+      "text": "ถ้าอย่างนั้น พวกเราไปเดินตรวจตรากันเถอะ จะได้ดูว่าสถานการณ์เป็นอย่างไรบ้าง แล้วลองพูดคุยกับผู้คนระหว่างทางดู"
+    },
+    {
+      "key": "payspecialattentiontoanyonewholooksoverwhelmedoroverlyexcitedhopefullythatwillearnusatidbitortwowedidntknowbefore",
+      "text_en": "Pay special attention to anyone who looks overwhelmed or overly excited. Hopefully that will earn us a tidbit or two we didn't know before.",
+      "text": "คอยสังเกตคนที่มีท่าทีสับสนหรือตื่นเต้นจนเกินเหตุเป็นพิเศษนะ หวังว่าพวกเราจะได้เบาะแสใหม่ๆ ที่ไม่เคยรู้มาก่อนสักเรื่องสองเรื่อง"
+    },
+    {
+      "key": "imguessingyouwouldvepreferredtogowithspheneandkrilebutimafraidyourestuckwithmeigrowonpeoplethoughipromise",
+      "text_en": "I'm guessing you would've preferred to go with Sphene and Krile, but I'm afraid you're stuck with me. I grow on people, though, I promise.",
+      "text": "เดาว่าเธอคงอยากไปกับสฟีนและไครล์มากกว่า แต่เสียใจด้วยนะที่ต้องมาติดแหง็กอยู่กับฉันแทน แต่รับรองเลยว่าอยู่ๆ ไปแล้วจะชอบฉันขึ้นมาเอง เชื่อสิ"
+    },
+    {
+      "key": "needtostepawayfairenoughillwaitforyououtsidetheneonstein",
+      "text_en": "Need to step away? Fair enough. I'll wait for you outside the Neon Stein.",
+      "text": "ต้องขอตัวไปทำธุระก่อนงั้นหรือ ได้เลย ฉันจะรออยู่ข้างนอก นีออน สไตน์ ก็แล้วกัน"
+    },
+    {
+      "key": "readytoheadoutagain",
+      "text_en": "Ready to head out again?",
+      "text": "พร้อมจะออกเดินทางต่อหรือยัง"
+    },
+    {
+      "key": "ahthememoriesiusedtodrinkaroundhereallthetime",
+      "text_en": "Ah, the memories... I used to drink around here all the time.",
+      "text": "อา ความหลังครั้งเก่า... เมื่อก่อนฉันมานั่งดื่มแถวนี้เป็นประจำเลยเชียวล่ะ"
+    },
+    {
+      "key": "imadesurenottooverdoitwhenihadworkthenextdaybutoncewewerepastthebusyseasonorwhentheladieswerentamenabletomycompanywellyoudhavetoscrapemeoffthestreetoutsideinthemorningorafternoon",
+      "text_en": "I made sure not to overdo it when I had work the next day, but once we were past the busy season─or when the ladies weren't amenable to my company─well... You'd have to scrape me off the street outside in the morning. Or afternoon.",
+      "text": "ฉันระวังตัวไม่ดื่มหนักเกินไปเสมอหากวันรุ่งขึ้นต้องทำงาน แต่พอผ่านพ้นช่วงงานล้นมือไปได้—หรือเวลาที่พวกสาวๆ ไม่ยินดีต้อนรับกองกำลังคอมพานีของฉัน—ก็...คงต้องมาช่วยแซะร่างฉันขึ้นจากพื้นถนนข้างนอกนั่นในตอนเช้า ไม่ก็ตอนบ่ายนู่นแหละ"
+    },
+    {
+      "key": "theworstievergotwasonwhatshouldhavebeentheworstdayofmylifeifonlyicouldrememberitiwasstillwearingaregulatorbackthen",
+      "text_en": "The worst I ever got was on what should have been the worst day of my life...if only I could remember it. I was still wearing a regulator back then.",
+      "text": "ตอนที่เมาหนักที่สุดนั่นน่ะ ตรงกับวันที่ควรจะเป็นวันที่แย่ที่สุดในชีวิตของฉันเลยเชียวล่ะ...ถ้าเพียงแต่จะจำมันได้น่ะนะ ตอนนั้นยังสวมเรกูเลเตอร์อยู่เลย"
+    },
+    {
+      "key": "itwasalsothedayifirstmetshalealthoughiguaranteeshesforgottenitcompletely",
+      "text_en": "It was also the day I first met Shale, although I guarantee she's forgotten it completely.",
+      "text": "นั่นยังเป็นวันที่ได้พบกับเชลในโลกที่หนึ่งด้วย ทว่ารับประกันได้เลยว่าเธอลืมมันไปเกลี้ยงแล้ว"
+    },
+    {
+      "key": "thereitsdone",
+      "text_en": "There, it's done!",
+      "text": "นั่นละ เสร็จเรียบร้อยแล้ว!"
+    },
+    {
+      "key": "whathasmeinsuchafinemoodyouask",
+      "text_en": "What has me in such a fine mood, you ask?",
+      "text": "อยากรู้ละสิว่าทำไมถึงได้อารมณ์ดีขนาดนี้"
+    },
+    {
+      "key": "wellivejustregisteredmynewregulatoriwasleeryofbecomingnothingbutmemoriesatfirstbutnowthativegonethroughwiththeregistrationiveneverfeltmoreatease",
+      "text_en": "Well, I've just registered my new regulator. I was leery of becoming nothing but memories at first, but now that I've gone through with the registration, I've never felt more at ease!",
+      "text": "ก็เพิ่งลงทะเบียนเรกูเลเตอร์อันใหม่มาน่ะสิ แรกเริ่มตอนอยู่โลกที่หนึ่งก็หวั่นใจอยู่เหมือนกันว่าจะไม่เหลืออะไรนอกจากความทรงจำ แต่พอลงทะเบียนเรียบร้อยแล้วก็รู้สึกสบายใจขึ้นเป็นกองเลย!"
+    },
+    {
+      "key": "alsoonceitwasdonetheregulatordisplayedthecurrentnumbersofthefivethousandslotsavailableoverthirtyeighthundredhavealreadybeenfilled",
+      "text_en": "Also, once it was done, the regulator displayed the current numbers. Of the five thousand slots available, over thirty-eight hundred have already been filled.",
+      "text": "พอเสร็จเรียบร้อยแล้ว ตัวเลขล่าสุดก็แสดงขึ้นบนเรกูเลเตอร์ จากสิทธิ์ทั้งหมดห้าพันสิทธิ์ ตอนนี้คนจับจองกันไปแล้วกว่าสามพันแปดร้อยสิทธิ์"
+    },
+    {
+      "key": "soifyourestillhesitantyouvenotmuchtimetomakeyourmindupmarkmywordsfriendwhentheresonlyafewslotsleftitsgoingtogetveryugly",
+      "text_en": "So if you're still hesitant, you've not much time to make your mind up. Mark my words, friend: when there's only a few slots left, it's going to get very ugly.",
+      "text": "เพราะฉะนั้นถ้ายังมัวลังเล ก็คงเหลือเวลาให้ตัดสินใจไม่มากแล้ว จำคำฉันไว้เถอะเพื่อนเอ๋ย พอเหลือสิทธิ์แค่ไม่กี่ที่เมื่อไหร่ล่ะก็ ได้เปิดศึกแย่งกันจนดูไม่จืดแน่"
+    },
+    {
+      "key": "wellbeseeingfightsoverneoregulatorsintheverynearfutureshouldyougetoneisuggestyouregisterrightaway",
+      "text_en": "We'll be seeing fights over neo regulators in the very near future. Should you get one, I suggest you register right away.",
+      "text": "อีกไม่ช้าคงได้เห็นคนตบตีแย่งชิงนีโอเรกูเลเตอร์กันพัลวัน ถ้าได้มาสักอัน แนะนำให้รีบลงทะเบียนเสียแต่เนิ่นๆ"
+    },
+    {
+      "key": "",
+      "text_en": "<sigh>",
+      "text": "<เฮ้อ>"
+    },
+    {
+      "key": "arethesentriesandairwheelerssafetobearoundnow",
+      "text_en": "Are the sentries and air-wheelers safe to be around now?",
+      "text": "พวกทหารยามกลไกกับรถเหินเวหาพวกนั้น ปลอดภัยพอให้เข้าใกล้ได้แล้วหรือยัง"
+    },
+    {
+      "key": "ijustknowitsgoingtohappenagainandmaybenexttimeillbetheonewhodiesinahorribleaccident",
+      "text_en": "I just know it's going to happen again...and maybe next time I'll be the one who dies in a horrible accident.",
+      "text": "ฉันสังหรณ์ใจว่ามันต้องเกิดขึ้นอีกแน่... แล้วบางทีคราวหน้า คนที่ต้องตายในอุบัติเหตุสยดสยองนั่นอาจจะเป็นฉันก็ได้"
+    },
+    {
+      "key": "ineedaneoregulatorbecomingendlessistheonlywayevenqueensphenesaidso",
+      "text_en": "I need a neo regulator. Becoming Endless is the only way─even Queen Sphene said so!",
+      "text": "ฉันต้องได้นีโอเรกูเลเตอร์มาให้ได้ การกลายเป็นเอนด์เลสคือทางรอดเดียว... ขนาดองค์ราชินีสฟีนยังตรัสเช่นนั้นเลย!"
+    },
+    {
+      "key": "buthowtogetonemaybeicanconvincesomeonewhosunsuretogivemetheirs",
+      "text_en": "But how to get one...? Maybe I can convince someone who's unsure to give me theirs.",
+      "text": "แต่จะไปหามาจากไหนล่ะ... บางทีอาจจะลองหว่านล้อมคนที่ยังลังเลให้ยกสิทธิ์ของตัวเองให้ฉันดูดีไหมนะ"
+    },
+    {
+      "key": "youlookfamiliar",
+      "text_en": "You look familiar...",
+      "text": "หน้าตาคุณดูคุ้นๆ ชอบกล..."
+    },
+    {
+      "key": "youwanttohearmystorywhileiappreciateyouofferingasympatheticeartheresnotmuchtotell",
+      "text_en": "You want to hear my story? While I appreciate you offering a sympathetic ear, there's not much to tell...",
+      "text": "อยากฟังเรื่องของฉันงั้นรึ ขอบใจนะที่อุตส่าห์มานั่งรับฟังด้วยความเห็นอกเห็นใจ แต่เอาเข้าจริงก็ไม่มีเรื่องอะไรให้เล่ามากมายหรอก..."
+    },
+    {
+      "key": "ifyoumustknowagoodfriendofminediedwhenthosemachineswentcrazyhisairwheelerdroppedrightoutoftheskyandhedidntsurvivethecrash",
+      "text_en": "If you must know, a good friend of mine died when those machines went crazy. His air-wheeler dropped right out of the sky, and he didn't survive the crash.",
+      "text": "ถ้าคุณอยากรู้นักละก็ เพื่อนสนิทของฉันคนหนึ่งตายตอนที่เครื่องจักรพวกนั้นเกิดคลั่ง แอร์วีเลอร์ร่วงลิ่วจากฟ้ากระแทกพื้นดับคาที่"
+    },
+    {
+      "key": "damnfoolwasntwearingaregulatoriknowthatsnotsostrangethesedaysbuthedneverbotheredwithone",
+      "text_en": "Damn fool wasn't wearing a regulator... I know that's not so strange these days, but he'd never bothered with one.",
+      "text": "เจ้าโง่นั่นไม่ได้สวมเรกูเลเตอร์... ฉันรู้ว่าช่วงนี้ไม่ใช่เรื่องแปลกอะไร แต่เขาไม่เคยแยแสจะใส่เลยสักครั้ง"
+    },
+    {
+      "key": "hewasatpeacewiththeideaofdyingsomedayandithoughtiunderstoodwhatthatmeantuntilithappened",
+      "text_en": "He was at peace with the idea of dying someday, and I thought I understood what that meant. Until it happened...",
+      "text": "เขายอมรับได้ว่าสักวันต้องตาย และฉันคิดว่าตัวเองเข้าใจความหมายของเรื่องนั้นดี จนกระทั่งมันเกิดขึ้นจริง..."
+    },
+    {
+      "key": "weusedtoforgetpeopleaftertheydiednomemoriesnogriefimnotsureifwedbebetteroffifthatwasstillthecase",
+      "text_en": "We used to forget people after they died. No memories. No grief. I'm not sure if we'd be better off if that was still the case.",
+      "text": "เมื่อก่อนเราเคยลืมคนที่ตายไปเสียสิ้น ไร้ความทรงจำ ไร้ความโศกเศร้า ฉันไม่แน่ใจเลยว่าหากยังคงเป็นเช่นนั้นอยู่ พวกเราจะมีความสุขมากกว่านี้ไหม"
+    },
+    {
+      "key": "forenameaword",
+      "text_en": "Forename , a word?",
+      "text": "Forename ขอพระวจนะสักคำสิ"
+    },
+    {
+      "key": "ifeelliketherewasanewfactorinthesestoriesweveheardonewehadntconsideredduringourdiscussionwitheveryoneinthebackroom",
+      "text_en": "I feel like there was a new factor in these stories we've heard. One we hadn't considered during our discussion with everyone in the Backroom...",
+      "text": "ฉันรู้สึกว่าเรื่องราวที่พวกเราได้ยินมานั้นแฝงปัจจัยใหม่บางอย่าง ปัจจัยที่พวกเราไม่ได้คำนึงถึงตอนปรึกษาหารือกับทุกคนในแบ็กรูม..."
+    },
+    {
+      "key": "thatsapointofconcerndontgetmewrongbutithinkwewereacutelyawareofitalready",
+      "text_en": "That's a point of concern, don't get me wrong, but I think we were acutely aware of it already...",
+      "text": "นั่นเป็นเรื่องน่ากังวลจริง ๆ อย่าเข้าใจฉันผิดล่ะ แต่ฉันคิดว่าพวกเรารู้ซึ้งถึงเรื่องนั้นดีอยู่แล้ว..."
+    },
+    {
+      "key": "thefactthatnearlyfourthousandpeoplehaveregisteredisworthyofitsownreportbutareyousuretherewasntanythingelse",
+      "text_en": "The fact that nearly four thousand people have registered is worthy of its own report. But are you sure there wasn't anything else...?",
+      "text": "การที่คนเกือบสี่พันคนลงทะเบียนนั้นควรค่าแก่การรายงานต่างหาก แต่คุณแน่ใจหรือว่าไม่มีเบาะแสอย่างอื่นอีก...?"
+    },
+    {
+      "key": "yesthatsit",
+      "text_en": "Yes, that's it!",
+      "text": "ใช่แล้ว เรื่องนั้นแหละ!"
+    },
+    {
+      "key": "thevastmajorityofresidentshavealwayswornregulatorssoitsnotadetailwednormallythinkaboutwiththesupplyofsoulscutoffthoughmoreandmorepeoplehavebeengoingwithoutthem",
+      "text_en": "The vast majority of residents have always worn regulators, so it's not a detail we'd normally think about. With the supply of souls cut off, though, more and more people have been going without them...",
+      "text": "ผู้คนส่วนใหญ่สวมเรกูเลเตอร์ติดตัวตลอดเวลา มันจึงไม่ใช่รายละเอียดที่เราจะใส่ใจในยามปกติ ทว่าเมื่อแหล่งจ่ายวิญญาณถูกตัดขาด ผู้คนจำนวนมากขึ้นเรื่อย ๆ จึงเริ่มใช้ชีวิตโดยปราศจากมัน..."
+    },
+    {
+      "key": "weneedtolookintothecasualtiesfromtherecentattacksandcheckwhetherornottheywereequippedwithregulators",
+      "text_en": "We need to look into the casualties from the recent attacks, and check whether or not they were equipped with regulators.",
+      "text": "พวกเราต้องสืบเรื่องผู้เสียชีวิตจากการโจมตีเมื่อเร็วๆ นี้ และตรวจดูว่าได้สวมเรกูเลเตอร์ไว้หรือไม่"
+    },
+    {
+      "key": "letsaskaroundonthestreetovertotheeastitwasprettychaoticatthetimebutmaybewellfindeyewitnesseswhocanhelpusconfirmifthiswasapatternornot",
+      "text_en": "Let's ask around on the street over to the east. It was pretty chaotic at the time, but maybe we'll find eyewitnesses who can help us confirm if this was a pattern or not.",
+      "text": "ไปถามคนแถวถนนฝั่งตะวันออกกันเถอะ ตอนนั้นชุลมุนวุ่นวายทีทีเดียว แต่บางทีเราอาจพบพยานที่ช่วยยืนยันได้ว่าเรื่องนี้เป็นไปตามรูปแบบเดิมหรือไม่"
+    },
+    {
+      "key": "asidefromoblivionmembersonlyahandfulofpeopleusedtogooutandaboutwithoutregulatorshowtimeshavechanged",
+      "text_en": "Aside from Oblivion members, only a handful of people used to go out and about without regulators. How times have changed.",
+      "text": "นอกจากพวกอ็อบลิเวียนแล้ว คนทั่วไปน้อยคนนักจะออกไปไหนมาไหนโดยไม่สวมเรกูเลเตอร์ ยุคสมัยเปลี่ยนไปเสียจริง"
+    },
+    {
+      "key": "itwasoncemyjobtodelivergoodsbyhovercargothatswhyiknowafairnumberofnamesandfacesthroughoutthecity",
+      "text_en": "It was once my job to deliver goods by hover cargo. That's why I know a fair number of names and faces throughout the city.",
+      "text": "งานเก่าของผมคือการส่งสินค้าด้วยโฮเวอร์คาร์โก นั่นทำให้ผมคุ้นหน้าคุ้นตาและรู้จักชื่อคนทั่วทั้งเมืองอยู่ไม่น้อย"
+    },
+    {
+      "key": "thelittleoneswhodjumpforjoywhenibroughtthempackagestheoldladywhodalwaysgreetmewithasmileidhateforanythingbadtohappentothem",
+      "text_en": "The little ones who'd jump for joy when I brought them packages... The old lady who'd always greet me with a smile... I'd hate for anything bad to happen to them.",
+      "text": "พวกเด็กๆ ที่พากันกระโดดโลดเต้นยามผมเอาพัสดุไปส่ง... หญิงชราที่ส่งยิ้มทักทายผมเสมอ... ผมไม่อยากให้เรื่องร้ายใดๆ เกิดขึ้นกับพวกเขาเลย"
+    },
+    {
+      "key": "hellohowareyoutodaypleaseletmeknowifimaybeofservice",
+      "text_en": "Hello, how are you today? Please let me know if I may be of service.",
+      "text": "สวัสดี วันนี้ท่านเป็นอย่างไรบ้าง โปรดแจ้งให้ทราบหากข้าพเจ้าสามารถช่วยเหลือสิ่งใดได้"
+    },
+    {
+      "key": "citywidecasualtydataunavailablegovernmentofficialsarecurrentlyprocessingreportsfromallaffectedzones",
+      "text_en": "...City-wide casualty data unavailable. Government officials are currently processing reports from all affected zones.",
+      "text": "...ไม่สามารถเข้าถึงข้อมูลผู้เสียชีวิตทั่วทั้งเมืองได้ ขณะนี้เจ้าหน้าที่รัฐกำลังประมวลผลรายงานจากเขตพื้นที่ที่ได้รับผลกระทบทั้งหมด"
+    },
+    {
+      "key": "canyounarrowitdowntotherecreationzonethenyoumusthavesomeestimatesonhand",
+      "text_en": "Can you narrow it down to the recreation zone, then? You must have some estimates on hand?",
+      "text": "งั้นช่วยบีบข้อมูลให้แคบลงเฉพาะเขตสันทนาการได้ไหม อย่างน้อยก็น่าจะพอประเมินตัวเลขไว้บ้างแล้วใช่ไหม"
+    },
+    {
+      "key": "recalibratingparametersinjuredeightysevenindividualscasualtiesnineteenindividuals",
+      "text_en": "Recalibrating parameters. Injured: Eighty-seven individuals. Casualties: Nineteen individuals.",
+      "text": "กำลังปรับเปลี่ยนค่าตัวแปร ผู้บาดเจ็บ: แปดสิบเจ็ดราย ผู้เสียชีวิต: สิบเก้าราย"
+    },
+    {
+      "key": "casualtiesequippedwithregulatorszero",
+      "text_en": "Casualties equipped with regulators: Zero.",
+      "text": "จำนวนผู้เสียชีวิตที่สวมเรกูเลเตอร์: ศูนย์"
+    },
+    {
+      "key": "pleaseremaincalmiamunderorderstoensurethesafetyofourcitizensintheunlikelyeventofanothermassmalfunctioniwillacttosubdueanyaffectedmachines",
+      "text_en": "Please remain calm: I am under orders to ensure the safety of our citizens. In the unlikely event of another mass malfunction, I will act to subdue any affected machines.",
+      "text": "โปรดอยู่ในความสงบ ระบบได้รับคำสั่งให้ดูแลความปลอดภัยของพลเมืองทุกคน หากเกิดเหตุเครื่องจักรขัดข้องขนานใหญ่ซึ่งไม่น่าจะเกิดขึ้นอีก ระบบจะเข้าควบคุมเครื่องจักรที่มีปัญหาทันที"
+    },
+    {
+      "key": "imtooscaredofthesentriestocleananywherenearthem",
+      "text_en": "I'm too scared of the sentries to clean anywhere near them...",
+      "text": "ฉันกลัวพวกยามตรวจการเหลือเกิน...ไม่กล้าเฉียดเข้าไปทำความสะอาดใกล้ๆ เลย..."
+    },
+    {
+      "key": "youwishtoknowifthepeoplewhodiedinthemachinerampagewerewearingregulators",
+      "text_en": "You wish to know if the people who died in the machine rampage were wearing regulators?",
+      "text": "คุณอยากทราบหรือครับว่าผู้เสียชีวิตจากเหตุเครื่องจักรคลั่งได้สวมเรกูเลเตอร์ไว้หรือเปล่า"
+    },
+    {
+      "key": "imsorrybutiwasassignedtoclearingawaydebrisididntseeanyofthedeceased",
+      "text_en": "I'm sorry, but I was assigned to clearing away debris. I didn't see any of the deceased.",
+      "text": "ขอโทษด้วยครับ พอดีหน้าที่ของผมคือเก็บกวาดเศษซากความเสียหาย เลยไม่ทันเห็นร่างผู้เสียชีวิตเลยครับ"
+    },
+    {
+      "key": "nobodieswerepresentbythetimeiarrivedsoiassumetheushershadalreadydonetheirwork",
+      "text_en": "No bodies were present by the time I arrived, so I assume the ushers had already done their work...",
+      "text": "ตอนผมไปถึงก็ไม่มีร่างคนตายเหลืออยู่แล้วล่ะครับ คิดว่าพวกอัชเชอร์คงจัดการเรียบร้อยไปก่อนแล้ว..."
+    },
+    {
+      "key": "idoremembertherebeingpatchesofwhitedustscatteredaboutthatwerequiteachoretocleanupbutnothingelseworthyofmention",
+      "text_en": "I do remember there being patches of white dust scattered about that were quite a chore to clean up, but nothing else worthy of mention.",
+      "text": "แต่จำได้ว่าเห็นฝุ่นสีขาวร่วงเกลื่อนกลาดอยู่ กวาดล้างทำความสะอาดยากเย็นเอาการ นอกเหนือจากนั้นก็ไม่มีอะไรแปลกตาแล้วละครับ"
+    },
+    {
+      "key": "itsterrifyingtothinkthatdeathmightbewaitingforusaroundeverycornerbutwhatcanyoudobutkeepworkingandhopeforthebest",
+      "text_en": "It's terrifying to think that death might be waiting for us around every corner. But what can you do but keep working and hope for the best...?",
+      "text": "คิดแล้วก็หวาดกลัวเหลือเกิน ความตายอาจดักรอเราอยู่ทุกหัวมุมถนน แต่คนเราจะทำอะไรได้ล่ะครับ นอกจากก้มหน้าทำงานต่อไปและหวังว่าจะแคล้วคลาด..."
+    },
+    {
+      "key": "forenameithinkitstimewerejoinedkrileandsphene",
+      "text_en": "... Forename . I think it's time we rejoined Krile and Sphene.",
+      "text": "... Forename ฉันว่าได้เวลาไปสมทบกับไครล์และสฟีนกันแล้วละ"
+    },
+    {
+      "key": "iwashalfjokingwithmyboasttoshalebutwemayhavestumbleduponsomethingmajorhereweshouldshareourfindingsandkeeppursuingthisavenueofinquiry",
+      "text_en": "I was half-joking with my boast to Shale, but we may have stumbled upon something major here. We should share our findings and keep pursuing this avenue of inquiry.",
+      "text": "ตอนที่คุยโวกับเชลน่ะฉันพูดเล่นไปงั้นเอง แต่ดูท่าเราจะเจอเรื่องใหญ่เข้าให้แล้วสิ เอาเรื่องนี้ไปเล่าให้คนอื่นฟัง แล้วค่อยสืบหาเบาะแสจากทางนี้กันต่อเถอะ"
+    },
+    {
+      "key": "didntkrilesaytomeetthemintheplazajustoutsideoftruevueletsgetgoing",
+      "text_en": "Didn't Krile say to meet them in the plaza just outside of True Vue? Let's get going.",
+      "text": "ไครล์บอกให้ไปเจอกันที่ลานกว้างด้านนอก ทรู วิว ไม่ใช่หรือ รีบไปกันได้แล้ว"
+    },
+    {
+      "key": "comeonweshouldmeetkrileandspheneattheplazacantsayimthrilledtohaveshaleowemeadrinkoversomethinglikethis",
+      "text_en": "Come on, we should meet Krile and Sphene at the plaza. Can't say I'm thrilled to have Shale owe me a drink over something like this...",
+      "text": "ไปกันเถอะ ไปพบครูลและสฟีนที่ลานกว้างกันดีกว่า จะบอกว่ายินดีที่เชลติดเหล้าฉันสักแก้วเพราะเรื่องพรรค์นี้ก็พูดได้ไม่เต็มปากล่ะนะ..."
+    },
+    {
+      "key": "shallwegofindkrileandsphenethen",
+      "text_en": "Shall we go find Krile and Sphene, then?",
+      "text": "ถ้าอย่างนั้น ไปหาครูลกับสฟีนกันเลยไหม"
+    },
+    {
+      "key": "isgeodenotwithyou",
+      "text_en": "...Is Geode not with you?",
+      "text": "...ท่านจีโอดไม่ได้มาด้วยหรือคะ"
+    },
+    {
+      "key": "ohdidgeodehavesomethingelsetoattendto",
+      "text_en": "Oh? Did Geode have something else to attend to?",
+      "text": "อ้าว ท่านจีโอดมีธุระอื่นต้องไปจัดการงั้นหรือคะ"
+    },
+    {
+      "key": "wevefinishedourpatrolaswelldiditnotseemthatmorepeoplewantedneoregulatorsthanbefore",
+      "text_en": "We've finished our patrol as well. Did it not seem that more people wanted neo regulators than before...?",
+      "text": "ตรวจตราเสร็จแล้วเหมือนกันค่ะ รู้สึกเหมือนว่ามีคนต้องการเรกูเลเตอร์รุ่นใหม่มากกว่าแต่ก่อนหรือเปล่านะ..."
+    },
+    {
+      "key": "soessentiallyyouresayingthatthepeoplewhowerekilledbymalfunctioningmachineswerentwearingregulators",
+      "text_en": "So, essentially, you're saying that the people who were killed by malfunctioning machines weren't wearing regulators!?",
+      "text": "ถ้าอย่างนั้น สรุปก็คือคนที่เสียชีวิตเพราะเครื่องจักรคลั่งพวกนั้นไม่ได้สวมเรกูเลเตอร์งั้นหรือคะ!?"
+    },
+    {
+      "key": "wellthenumbersarestilltentativeandonlyapplytothatonezonewedontknowhowtheyllstackupagainsttheoveralldatabutthisisdefinitelymorethanacoincidence",
+      "text_en": "Well, the numbers are still tentative, and only apply to that one zone. We don't know how they'll stack up against the overall data, but...this is definitely more than a coincidence.",
+      "text": "นั่นเป็นเพียงตัวเลขคร่าวๆ เฉพาะในเขตนั้นเขตเดียวเท่านั้น ยังไม่รู้ว่าถ้าเทียบกับข้อมูลทั้งหมดแล้วจะเป็นอย่างไร แต่...นี่ไม่ใช่เรื่องบังเอิญแน่"
+    },
+    {
+      "key": "ithinkitssafetosaythatanyonewhohadremovedtheirregulatorwasaprioritytarget",
+      "text_en": "I think it's safe to say that anyone who had removed their regulator was a priority target.",
+      "text": "ฉันคิดว่าพูดได้เต็มปากเลยละว่า ใครก็ตามที่ถอดเรกูเลเตอร์ออกจะกลายเป็นเป้าหมายแรกทันที"
+    },
+    {
+      "key": "nowthatyoumentionitthepersoniwastreatingforinjurieswasntwearingoneeither",
+      "text_en": "Now that you mention it, the person I was treating for injuries wasn't wearing one either...",
+      "text": "พอท่านพูดขึ้นมาแบบนี้ คนเจ็บที่ฉันเพิ่งรักษาให้ก็ไม่ได้สวมเรกูเลเตอร์อยู่เหมือนกันค่ะ..."
+    },
+    {
+      "key": "butwhywhyaretheybeingtargetedovereveryoneelse",
+      "text_en": "But, why? Why are they being targeted over everyone else?",
+      "text": "แต่ทำไมล่ะคะ ทำไมถึงตกเป็นเป้าโจมตีก่อนคนอื่นกัน"
+    },
+    {
+      "key": "basedsolelyonthelackofaneoregulatorwecannotjudgeifapersonhasnodesiretobecomeendlessoriftheysimplyfailedtoacquireoneofthelimiteddevices",
+      "text_en": "Based solely on the lack of a neo regulator, we cannot judge if a person has no desire to become Endless, or if they simply failed to acquire one of the limited devices.",
+      "text": "เพียงเพราะใครสักคนไม่ได้สวมนีโอเรกูเลเตอร์ เราคงด่วนตัดสินไม่ได้หรอกว่าคนคนนั้นไม่อยากเป็นเอนด์เลส หรือแค่หาซื้ออุปกรณ์อันแสนจำกัดนี้มาใส่ไม่ได้กันแน่"
+    },
+    {
+      "key": "butthosewhowearnoregulatoratall",
+      "text_en": "But those who wear no regulator at all...",
+      "text": "แต่สำหรับคนที่ไม่ยอมสวมเรกูเลเตอร์เลยแม้แต่ชิ้นเดียว..."
+    },
+    {
+      "key": "theyhaveclearlyrejectedtheoldsystemofusingsoulstorevivethemselves",
+      "text_en": "They have clearly rejected the old system of using souls to revive themselves.",
+      "text": "เห็นได้ชัดว่าคนเหล่านั้นปฏิเสธระบบเก่าที่นำจิตวิญญาณมาใช้ชุบชีวิต"
+    },
+    {
+      "key": "putanotherwaytheyhavechosentolivetheirlivesintheknowledgethatdeathisaninevitability",
+      "text_en": "Put another way, they have chosen to live their lives in the knowledge that death is an inevitability.",
+      "text": "พูดอีกนัยหนึ่งก็คือ เลือกที่จะใช้ชีวิตโดยยอมรับความจริงว่าความตายคือสิ่งหลีกเลี่ยงไม่ได้"
+    },
+    {
+      "key": "thechancesthatsuchresolutepeoplewouldwishtobecomeendlessarefarloweriwouldimagine",
+      "text_en": "The chances that such resolute people would wish to become Endless are far lower, I would imagine.",
+      "text": "โอกาสที่คนผู้เปี่ยมด้วยปณิธานเด็ดเดี่ยวเช่นนั้นจะปรารถนาเป็นเอนด์เลสคงน้อยแสนน้อย ฉันคิดอย่างนั้นนะ"
+    },
+    {
+      "key": "andsocalyxhaschosenthoseleastlikelytoaccepthisvisionasvictimstostokefearandpanic",
+      "text_en": "And so Calyx has chosen those least likely to accept his vision as victims to stoke fear and panic...",
+      "text": "ด้วยเหตุนี้ คาลิกซ์จึงเลือกเล่นงานกลุ่มคนที่ดูจะยอมรับแนวคิดของเขาได้ยากที่สุด เพื่อใช้เป็นเหยื่อสังเวยในการกระพือความกลัวและตื่นตระหนก..."
+    },
+    {
+      "key": "buttherewasnoneedtokillanyone",
+      "text_en": "But there was no need to kill anyone!",
+      "text": "แต่ถึงอย่างนั้นก็ไม่เห็นจำเป็นต้องคร่าชีวิตใครเลยนี่!"
+    },
+    {
+      "key": "withthewaythingswerethepeoplewerealreadyfearfulenoughhecouldhavefoundfivethousandwillingcitizenswithoutallthismadness",
+      "text_en": "With the way things were, the people were already fearful enough─he could have found five thousand willing citizens without all this madness!",
+      "text": "ที่เป็นอยู่ตอนนี้ ผู้คนก็ขวัญเสียกันพอแรงอยู่แล้ว—หาคนที่สมัครใจสักห้าพันคนได้สบายๆ โดยไม่ต้องทำเรื่องบ้าๆ พวกนี้เลย!"
+    },
+    {
+      "key": "youmakeagoodpointperhapsthissowingofterrorisinservicetoanotherschemeorhehadsomeotherneedfortheliveshestaken",
+      "text_en": "You make a good point. Perhaps this sowing of terror is in service to another scheme, or he had some other need for the lives he's taken...",
+      "text": "นั่นก็น่าคิดทีเดียว บางทีการหว่านเพาะความหวาดกลัวนี้อาจทำเพื่อปูทางให้แผนการอื่น หรือไม่ก็อาจจำเป็นต้องใช้ประโยชน์จากชีวิตที่คร่าไป..."
+    },
+    {
+      "key": "rightthesanitationworkersstoryshesawnobodiesbutmentionedpilesofwhitedust",
+      "text_en": "Right, the sanitation worker's story. She saw no bodies, but mentioned piles of white dust...",
+      "text": "จริงด้วยสิ เรื่องที่พนักงานทำความสะอาดเล่ามานั่นไงล่ะ ไม่ยักเห็นศพเลยสักร่าง แต่กลับพูดถึงกองผงธุลีสีขาว..."
+    },
+    {
+      "key": "iwonderwhataboutthatsanitationworkersstoryshesawnobodiesbutmentionedpilesofwhitedust",
+      "text_en": "I wonder... What about that sanitation worker's story? She saw no bodies, but mentioned piles of white dust...",
+      "text": "น่าสงสัยจริง... แล้วเรื่องที่คนงานทำความสะอาดเล่าล่ะ ไม่เห็นศพเลยสักร่าง แต่พูดถึงกองฝุ่นสีขาว..."
+    },
+    {
+      "key": "dustbutnobodiesnowwherehaveiheardthatbefore",
+      "text_en": "Dust, but no bodies? Now where have I heard that before...",
+      "text": "ฝุ่น แต่ไม่พบศพงั้นหรือ... เคยได้ยินเรื่องแบบนี้จากที่ไหนมาก่อนกันนะ..."
+    },
+    {
+      "key": "doyourecallwhenwewenttosaveerenvillefromthesentriesintheoutskirtsthatushermalachitetoldusmuchthesamething",
+      "text_en": "Do you recall when we went to save Erenville from the sentries in the outskirts? That usher Malachite told us much the same thing.",
+      "text": "ท่านจำตอนที่เราไปช่วยเอเรนวิลล์จากทหารยามแถวชานเมืองได้ไหม มะลาไคต์ผู้ดูแลคนนั้นก็เล่าเรื่องคล้าย ๆ กันนี้ให้ฟัง"
+    },
+    {
+      "key": "wheniarrivedifoundnobodyonlyapileofdustwhichthewindquicklyscattered",
+      "text_en": "When I arrived, I found no body. Only a pile of dust, which the wind quickly scattered.",
+      "text": "ตอนที่ผมไปถึง ไม่พบร่างใดเลยครับ เห็นเพียงกองฝุ่นซึ่งสายลมพัดปลิวหายไปอย่างรวดเร็วเท่านั้น"
+    },
+    {
+      "key": "confusediquestionedtheresidentsbutnoneknewwhathadbecomeofit",
+      "text_en": "Confused, I questioned the residents, but none knew what had become of it.",
+      "text": "ด้วยความสับสน ผมจึงลองถามผู้อยู่อาศัยแถวนั้น แต่ก็ไม่มีใครรู้เลยว่าเกิดอะไรขึ้นกับร่างนั้น"
+    },
+    {
+      "key": "thatbothstoriesspeakofmissingremainsissuspiciousenoughbutthesharedmentionofthisdustistoomuchtoignore",
+      "text_en": "That both stories speak of missing remains is suspicious enough, but the shared mention of this dust is too much to ignore.",
+      "text": "แค่เรื่องเล่าทั้งสองพูดถึงร่างที่สูญหายก็น่าสงสัยพอแล้ว แต่การเอ่ยถึงฝุ่นเหมือนกันเช่นนี้ ยิ่งทำให้มองข้ามไม่ได้เด็ดขาด"
+    },
+    {
+      "key": "inthatcaseweshouldconfirmifthissubstancewaspresentatothersitesandattempttoascertainitsnature",
+      "text_en": "In that case, we should confirm if this substance was present at other sites, and attempt to ascertain its nature.",
+      "text": "ถ้าอย่างนั้น เราควรไปตรวจดูว่าพบสารชนิดนี้ในจุดเกิดเหตุอื่นด้วยหรือไม่ และหาคำตอบให้ได้ว่ามันคืออะไรกันแน่"
+    },
+    {
+      "key": "followingthisthreadmayleadusnotonlytoanexplanationforthemissingbodiesbutalsotheintentbehindcalyxsmurderousactions",
+      "text_en": "Following this thread may lead us not only to an explanation for the missing bodies, but also the intent behind Calyx's murderous actions.",
+      "text": "การสืบตามเบาะแสนี้นอกจากจะนำเราไปสู่คำตอบเรื่องร่างที่หายไปแล้ว ยังอาจช่วยให้เผยจุดประสงค์เบื้องหลังการลงมือฆ่าคนอย่างโหดเหี้ยมของแคลิกซ์อีกด้วย"
+    },
+    {
+      "key": "forenameweneedyourhelpivelostcontroloverthesoldiersintheresidentialareatheymightbetryingtohurtpeopleagain",
+      "text_en": "Forename , we need your help! I've lost control over the soldiers in the residential area. They might be trying to hurt people again.",
+      "text": "คุณ Forename ครับ ช่วยพวกเราด้วยครับ! ผมควบคุมพวกทหารในย่านที่พักอาศัยไม่ได้แล้ว พวกนั้นอาจจะพยายามทำร้ายคนอื่นอีกครั้ง"
+    },
+    {
+      "key": "oblivionmembersareontheirwaynowbutareyoucloseenoughtojointhem",
+      "text_en": "Oblivion members are on their way now, but are you close enough to join them?",
+      "text": "สมาชิกกลุ่มอ็อบลิเวียนกำลังเดินทางไปที่นั่นแล้ว แต่คุณอยู่ใกล้พอจะไปสมทบกับพวกเขาไหมครับ"
+    },
+    {
+      "key": "dammitournewinvestigationwillhavetowaitletsgo",
+      "text_en": "Dammit! Our new investigation will have to wait... Let's go!",
+      "text": "ให้ตายสิ! การสืบสวนครั้งใหม่คงต้องพักไว้ก่อน... ไปกันเถอะ!"
+    },
+    {
+      "key": "sstaybackstayawayfromme",
+      "text_en": "S-Stay back! Stay away from me!",
+      "text": "ยะ...อย่าเข้ามานะ! ถอยไปให้ห่างจากฉัน!"
+    },
+    {
+      "key": "leavehimalone",
+      "text_en": "Leave him alone!",
+      "text": "ปล่อยเขานะ!"
+    },
+    {
+      "key": "areyoualright",
+      "text_en": "Are you alright?",
+      "text": "คุณเป็นอะไรไหม"
+    },
+    {
+      "key": "whathappenedhere",
+      "text_en": "What happened here?",
+      "text": "เกิดอะไรขึ้นที่นี่"
+    },
+    {
+      "key": "asentrywalkedintomyapartmenteventhoughidlockedthedoorandeverything",
+      "text_en": "A sentry walked into my apartment...even though I'd locked the door and everything!",
+      "text": "หุ่นยนต์ทหารเดินเข้ามาในห้องของฉัน...ทั้งที่ล็อกประตูอย่างแน่นหนาแล้วแท้ๆ!"
+    },
+    {
+      "key": "imanagedtorunbutthemanwhotriedtosaveme",
+      "text_en": "I managed to run, but the man who tried to save me...",
+      "text": "ฉันหนีรอดมาได้ แต่ผู้ชายคนที่พยายามช่วยฉัน..."
+    },
+    {
+      "key": "noweaponswhichistobeexpectedconsideringallthesentriesweremeanttobedisarmed",
+      "text_en": "No weapons. Which is to be expected, considering all the sentries were meant to be disarmed.",
+      "text": "ไม่มีอาวุธเลย ซึ่งก็เป็นไปตามคาด ในเมื่อพวกทหารยามกลไกทั้งหมดควรต้องปราศจากอาวุธอยู่แล้ว"
+    },
+    {
+      "key": "yetitwasorderedtoattackallthesameevenifthatmeantusingitsbarehands",
+      "text_en": "Yet it was ordered to attack all the same...even if that meant using its bare hands...",
+      "text": "ทว่ามันกลับได้รับคำสั่งให้เข้าโจมตีอยู่ดี... แม้กระทั่งต้องใช้เพียงมือเปล่าก็ตาม..."
+    },
+    {
+      "key": "illleavemattersheretoyouimgoingtodoasweepofthesurroundingarea",
+      "text_en": "I'll leave matters here to you. I'm going to do a sweep of the surrounding area.",
+      "text": "ฉันขอฝากเรื่องทางนี้ไว้กับเธอนะ เดี๋ยวฉันจะไปตรวจตราบริเวณรอบๆ นี้สักหน่อย"
+    },
+    {
+      "key": "doyouknowanyoneelseinthissectorwhonolongerwearsaregulator",
+      "text_en": "Do you know anyone else in this sector who no longer wears a regulator?",
+      "text": "ท่านพอจะรู้จักใครในเขตนี้อีกไหมที่ไม่ได้สวมเรกูเลเตอร์แล้ว"
+    },
+    {
+      "key": "uhohidontthinkiveseenisadoraandherboywiththeirsrecently",
+      "text_en": "Uh... Oh, I don't think I've seen Isadora and her boy with theirs recently...",
+      "text": "เอ่อ... โอ๊ะ พักหลังมานี้ไม่เห็นอิซาโดรากับลูกชายสวม...สวมเรกูเลเตอร์เลย..."
+    },
+    {
+      "key": "gotothemquickly",
+      "text_en": "Go to them─quickly!",
+      "text": "รีบไปหาพวกเขากัน─เร็วเข้า!"
+    },
+    {
+      "key": "wayakkwe",
+      "text_en": "Wayakkwe!",
+      "text": "วายัคเว!"
+    },
+    {
+      "key": "illbefinebutisadorasinbadshape",
+      "text_en": "I'll be fine. But Isadora's in bad shape...",
+      "text": "ฉันไม่เป็นไรหรอก... แต่อิซาโดราอาการแย่มาก..."
+    },
+    {
+      "key": "mothermotherplease",
+      "text_en": "Mother! Mother, please...",
+      "text": "พระแม่! พระแม่ ได้โปรด..."
+    },
+    {
+      "key": "isadora",
+      "text_en": "Isadora!",
+      "text": "อิซาโดรา!"
+    },
+    {
+      "key": "thankgoodnessshewasntstruckanywherevital",
+      "text_en": "Thank goodness, she wasn't struck anywhere vital...",
+      "text": "เดชะบุญ บาดแผลไม่โดนจุดสำคัญ..."
+    },
+    {
+      "key": "imsorryifonlyidgottenheresooner",
+      "text_en": "I'm sorry... If only I'd gotten here sooner...",
+      "text": "ฉันขอโทษ... ถ้าเพียงแต่ฉันมาเร็วกว่านี้..."
+    },
+    {
+      "key": "everythingwillbeallrightipromisetomakeyourmotherbetter",
+      "text_en": "Everything will be all right. I promise to make your mother better.",
+      "text": "ทุกอย่างจะไม่เป็นไร ฉันสัญญาว่าจะช่วยรักษาพระแม่ให้หายดี"
+    },
+    {
+      "key": "thankyoumiss",
+      "text_en": "Thank you, miss...",
+      "text": "ขอบคุณครับ... พี่สาว"
+    },
+    {
+      "key": "willshesleeplikethatforever",
+      "text_en": "Will she sleep like that forever...?",
+      "text": "จะหลับไปแบบนั้นตลอดกาลเลยหรือครับ..."
+    },
+    {
+      "key": "nonotforevershellwakesoonimsureofit",
+      "text_en": "No, not forever. She'll wake soon, I'm sure of it.",
+      "text": "ไม่หรอกจ้ะ ไม่ตลอดกาลหรอก อีกประเดี๋ยวก็คงฟื้น ฉันแน่ใจ"
+    },
+    {
+      "key": "thatsgoodtohear",
+      "text_en": "That's good to hear...",
+      "text": "ได้ยินแบบนั้นก็เบาใจครับ..."
+    },
+    {
+      "key": "thankyouforsavingher",
+      "text_en": "Thank you for saving her.",
+      "text": "ขอบคุณที่ช่วยชีวิตไว้ครับ"
+    },
+    {
+      "key": "thepromiseoftomorrow",
+      "text_en": "THE PROMISE OF TOMORROW",
+      "text": "สัญญาแห่งวันพรุ่งนี้"
+    },
+    {
+      "key": "sheshouldrecoverinduecourseimgladwearrivedwhenwedid",
+      "text_en": "She should recover in due course. I'm glad we arrived when we did...",
+      "text": "อีกไม่นานก็คงจะดีขึ้น ดีเหลือเกินที่เรามาทันเวลา..."
+    },
+    {
+      "key": "wheniwassickandcouldntmovemymotherwasalwaysatmysidealwayskeepingmecompanyandimgoingtodothesameforher",
+      "text_en": "When I was sick and couldn't move, my mother was always at my side, always keeping me company. And I'm going to do the same for her!",
+      "text": "ตอนที่ผมป่วยจนขยับตัวไม่ได้ พระแม่คอยอยู่เคียงข้างและเป็นกองกำลังคอมพานีให้ผมเสมอ ตอนนี้ผมก็จะทำแบบเดียวกันให้พระแม่เหมือนกันครับ!"
+    },
+    {
+      "key": "whywhyisthishappening",
+      "text_en": "Why...? Why is this happening...?",
+      "text": "ท... ทำไม... ทำไมถึงเกิดเรื่องแบบนี้ขึ้นได้..."
+    },
+    {
+      "key": "illtakecareofthisgentlemangoandcheckonisadoraandmilos",
+      "text_en": "I'll take care of this gentleman. Go and check on Isadora and Milos!",
+      "text": "ฉันจะดูแลสุภาพบุรุษท่านนี้เอง รีบไปดูอาการของอิซาโดรากับไมลอสเถอะ!"
+    },
+    {
+      "key": "forgivemeiwasrecklessyoushouldnthavehadtowastetimetendingmywoundsaswell",
+      "text_en": "Forgive me, I was reckless... You shouldn't have had to waste time tending my wounds as well.",
+      "text": "ยกโทษให้ฉันด้วยนะคะ... ฉันบุ่มบ่ามไปเอง... ไม่น่าต้องมาเสียเวลารักษาแผลให้ฉันอีกคนเลย..."
+    },
+    {
+      "key": "didyouseeourothercomradebacktherehestayedbehindinthelobbybutiheardthesoundsoffighting",
+      "text_en": "Did you see our other comrade back there? He stayed behind in the lobby, but I heard the sounds of fighting...",
+      "text": "เห็นเพื่อนร่วมทางอีกคนของเราด้านหลังนั่นไหมคะ... ปักหลักรอตรงโถงทางเข้า แต่ฉันได้ยินเสียงต่อสู้..."
+    },
+    {
+      "key": "heiamsorryhemusthavefallenprotectingtheresidents",
+      "text_en": "He... I am sorry. He must have fallen protecting the residents...",
+      "text": "เขา... ฉันเสียใจด้วยนะคะ... คงสละชีวิตเพื่อปกป้องชาวเมืองแล้ว..."
+    },
+    {
+      "key": "fortheirsakesihavetoremaincalm",
+      "text_en": "For their sakes, I have to remain calm...",
+      "text": "เพื่อเห็นแก่พวกเขาทุกคน ฉันต้องตั้งสติไว้..."
+    }
+  ]
+}

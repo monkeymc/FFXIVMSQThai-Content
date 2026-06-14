@@ -1,0 +1,950 @@
+{
+  "quest_id": "youre-not-alone",
+  "dialogues": [
+    {
+      "key": "onewayoranotherwemustfindthewayforwardletusmakeathoroughsearchofthecity",
+      "text_en": "One way or another, we must find the way forward. Let us make a thorough search of the city.",
+      "text": "ไม่ว่าอย่างไรเราต้องหาทางไปต่อให้ได้ ลองตรวจค้นเมืองนี้ให้ทั่วกันเถอะ"
+    },
+    {
+      "key": "whatevermeteionmayhavesaidweshouldconfirmitwithourowneyesweneedtohavealookaround",
+      "text_en": "Whatever Meteion may have said, we should confirm it with our own eyes. We need to have a look around.",
+      "text": "ไม่ว่าเมทีออนจะพูดอย่างไร เราก็ควรพิสูจน์ด้วยตาของตัวเอง ไปเดินดูรอบๆ กันเถอะ"
+    },
+    {
+      "key": "indeedattheveryleastitdoesntappeartobeasprawlingplacelikethosebeforeifwesplitupitshouldnttaketoolongtocoverthearea",
+      "text_en": "Indeed. At the very least, it doesn't appear to be a sprawling place like those before. If we split up, it shouldn't take too long to cover the area.",
+      "text": "จริงด้วย อย่างน้อยที่นี่ก็ไม่ดูใหญ่โตมโหฬารเหมือนดินแดนก่อนๆ ถ้าแยกย้ายกันเดินสำรวจคงใช้เวลาไม่นานนัก"
+    },
+    {
+      "key": "imtryingtoseeiftherearewaystoreachthenearbyislesjustincasemeteionwasbluffing",
+      "text_en": "I'm trying to see if there are ways to reach the nearby isles. Just in case Meteion was bluffing...",
+      "text": "กำลังลองหาทางเดอะ รีชเกาะใกล้ๆ ดู เผื่อว่าเมทีออนจะแค่ขู่ให้เรากลัว..."
+    },
+    {
+      "key": "theislesedgealreadyandthereonlyappearstobethisparkherehowitmusthavebustledwithlifeonceuponatime",
+      "text_en": "The isle's edge already, and there only appears to be this park here. How it must have bustled with life once upon a time...",
+      "text": "เดินมาถึงขอบเกาะเสียแล้ว และเห็นจะเป็นเพียงสวนสาธารณะแห่งนี้เท่านั้น ครั้งหนึ่งคงเคยคึกคักและเปี่ยมไปด้วยชีวิตชีวาน่าดู..."
+    },
+    {
+      "key": "forenametakealookatthisiftheroadwasalittlelongerwecouldtakeittojustbeneaththedeadsun",
+      "text_en": "Forename , take a look at this. If the road was a little longer, we could take it to just beneath the dead sun.",
+      "text": "ฟอร์เนม ลองดูนี่สิ ถ้าเส้นทางยาวกว่านี้อีกสักนิด เราคงเดินไปถึงใต้สุริยะที่ดับสิ้นแล้ว"
+    },
+    {
+      "key": "butisupposethisiswherethereconstructionends",
+      "text_en": "But I suppose this is where the reconstruction ends...",
+      "text": "แต่คิดว่าการจำลองคงจะสิ้นสุดลงตรงนี้แหละ..."
+    },
+    {
+      "key": "howaboutyoudidyoufindanythingofinterest",
+      "text_en": "How about you? Did you find anything of interest?",
+      "text": "ทางนั้นล่ะ เจออะไรน่าสนใจบ้างไหม"
+    },
+    {
+      "key": "iseeinoticedthesamethingscupsleftupontableschairsoutofplaceidontknowwhathappenedherebutidoknowidontwanttobealoneanymore",
+      "text_en": "I see. I noticed the same things ─ cups left upon tables, chairs out of place... I don't know what happened here, but I do know I don't want to be alone anymore...",
+      "text": "อย่างนั้นรึ ฉันก็สังเกตเห็นเหมือนกัน ทั้งถ้วยชาที่ทิ้งไว้บนโต๊ะ ทั้งเก้าอี้ระเกะระกะ... ไม่รู้หรอกว่าเกิดอะไรขึ้นที่นี่ แต่ไม่อยากอยู่คนเดียวอีกแล้ว..."
+    },
+    {
+      "key": "wevesearchedenoughfornowletsfindalphinaudandcomparewhatwevelearned",
+      "text_en": "We've searched enough for now. Let's find Alphinaud and compare what we've learned.",
+      "text": "ตอนนี้สำรวจพอแล้วล่ะ ไปหาอัลฟิโนต์แล้วมาแลกเปลี่ยนข้อมูลกันเถอะ"
+    },
+    {
+      "key": "didyoufindanything",
+      "text_en": "Did you find anything?",
+      "text": "คุณเจอเบาะแสอะไรบ้างไหม"
+    },
+    {
+      "key": "nothisplaceiscompletelydesertedandicantseehowweresupposedtomoveonfromhere",
+      "text_en": "No. This place is completely deserted, and I can't see how we're supposed to move on from here.",
+      "text": "ไม่เลย ที่นี่ร้างผู้คนหมดสิ้น และฉันก็มองไม่เห็นทางที่จะไปต่อจากตรงนี้เลย"
+    },
+    {
+      "key": "neithercaniitsquitethequandary",
+      "text_en": "Neither can I. It's quite the quandary...",
+      "text": "ผมก็เหมือนกัน ช่างน่าลำบากใจเหลือเกิน..."
+    },
+    {
+      "key": "therearenodenizenstobarourpathyetthereisnowayforward",
+      "text_en": "There are no denizens to bar our path, yet there is no way forward.",
+      "text": "ไร้ผู้คนคอยขัดขวางเส้นทาง ทว่ากลับไม่เห็นหนทางให้เดินหน้าต่อ"
+    },
+    {
+      "key": "foranothermysterywedidfindsignsofveryrecentlifeyoudsweareveryonejustvanishedintothinair",
+      "text_en": "For another mystery, we did find signs of very recent life. You'd swear everyone just vanished into thin air.",
+      "text": "ที่น่าแปลกกว่านั้นคือพวกเรายังพบร่องรอยการอยู่อาศัยเมื่อไม่นานมานี้เอง ราวกับว่าจู่ๆ ทุกคนก็อันตรธานหายวับไปในอากาศอย่างนั้นแหละ"
+    },
+    {
+      "key": "iwonderhowmanyruinedworldslikethishasmeteionseen",
+      "text_en": "I wonder, how many ruined worlds like this has Meteion seen?",
+      "text": "ฉันอยากรู้นักว่าเมทีออนเคยพบเห็นโลกที่พังพินาศเช่นนี้มามากเท่าไรแล้ว"
+    },
+    {
+      "key": "coulditbeyesyesibelieveimayhavepuzzledthisout",
+      "text_en": "Could it be...? Yes... Yes, I believe I may have puzzled this out.",
+      "text": "หรือว่า...? ใช่แล้ว... ใช่จริงด้วย ผมคิดว่าไขปริศนานี้ออกแล้ว"
+    },
+    {
+      "key": "despitehowitappearsitsnodifferentthistimethereissomeoneherewhohaswishedforthisruin",
+      "text_en": "Despite how it appears, it's no different this time. There is someone here who has wished for this ruin.",
+      "text": "ต่อให้สภาพภายนอกจะดูแปลกตาออกไป แต่ครั้งนี้คงไม่ต่างกัน ใครบางคน ณ ที่แห่งนี้ปรารถนาให้เกิดความพินาศย่อยยับขึ้น"
+    },
+    {
+      "key": "andibelievethattogetheralisaieandicanovercometheirwill",
+      "text_en": "And I believe that, together, Alisaie and I can overcome their will.",
+      "text": "และผมเชื่อว่าหากผมกับอลิเซร่วมมือกัน พวกเราจะเอาชนะเจตจำนงของคนผู้นั้นได้"
+    },
+    {
+      "key": "imafraidithastobedoneforourcomradesforeveryoneonetheirysandformyself",
+      "text_en": "I'm afraid it has to be done. For our comrades, for everyone on Etheirys...and for myself.",
+      "text": "อย่างไรเสียเรื่องนี้ก็ต้องทำ เพื่อพวกพ้อง เพื่อทุกคนบนเอเธียริส... และเพื่อตัวผมเอง"
+    },
+    {
+      "key": "iknowiknow",
+      "text_en": "I know. I know...",
+      "text": "ผมรู้... รู้ดีครับ..."
+    },
+    {
+      "key": "butifthereisachancethiswillworktheniwouldtakeitforeveryoneandformyself",
+      "text_en": "But if there is a chance this will work, then I would take it. For everyone...and for myself.",
+      "text": "แต่หากยังมีหนทางสำเร็จ ผมก็จะขอลองเสี่ยงดู เพื่อทุกคน... และเพื่อตัวผมเองด้วย"
+    },
+    {
+      "key": "imsorrybutthereisachanceandimustseizeitforeveryoneandformyself",
+      "text_en": "I'm sorry, but there is a chance, and I must seize it. For everyone... and for myself.",
+      "text": "ผมขอโทษนะ แต่ในเมื่อยังมีโอกาส ผมก็ต้องคว้ามันไว้ เพื่อทุกคน... และเพื่อตัวผมเอง"
+    },
+    {
+      "key": "iwillnotpretendotherwiseihavemyfears",
+      "text_en": "I will not pretend otherwise. I have my fears.",
+      "text": "ผมจะไม่เสแสร้งแกล้งทำเป็นไม่กลัว ยอมรับว่าหวาดกลัวอยู่เหมือนกัน"
+    },
+    {
+      "key": "notformyselfbutforyouthelasttoremain",
+      "text_en": "Not for myself, but for you. The last to remain.",
+      "text": "ไม่ได้กลัวเพื่อตัวเอง แต่กลัวเพื่อเธอ... คนสุดท้ายที่จะหลงเหลืออยู่"
+    },
+    {
+      "key": "youarenostrangertocarryingtheburdenofothers",
+      "text_en": "You are no stranger to carrying the burden of others.",
+      "text": "เธอคุ้นชินกับการแบกรับภาระของคนอื่นอยู่แล้ว"
+    },
+    {
+      "key": "buticanonlyimaginehowheavytheweightwouldbethistime",
+      "text_en": "But I can only imagine how heavy the weight would be this time.",
+      "text": "แต่ครั้งนี้ คงได้แต่จินตนาการว่ามันจะหนักหนาสาหัสเพียงใด"
+    },
+    {
+      "key": "asyourfriendicannotbearthethoughtofmakingyousufferso",
+      "text_en": "As your friend, I cannot bear the thought of making you suffer so.",
+      "text": "ในฐานะเพื่อน ทนคิดไม่ได้จริงๆ ว่าต้องปล่อยให้เธอต้องทนทุกข์ถึงเพียงนี้"
+    },
+    {
+      "key": "thenwhysuggestsuchathing",
+      "text_en": "Then why suggest such a thing!?",
+      "text": "ถ้าอย่างนั้นจะเสนอเรื่องพรรค์นี้ขึ้นมาทำไมกัน!"
+    },
+    {
+      "key": "itstoomuchtoaskofanyoneevenhimher",
+      "text_en": "It's too much to ask of anyone ─ even him / her !",
+      "text": "เรื่องแบบนี้มันเกินกว่าจะเอ่ยปากขอจากใคร... แม้แต่กับเธอก็ตาม!"
+    },
+    {
+      "key": "whymustheshebetheonewhymustheshefightalone",
+      "text_en": "Why must he / she be the one? Why must he / she fight alone?",
+      "text": "ทำไมต้องรับหน้าที่นี้ด้วย ทำไมต้องต่อสู้เพียงลำพัง"
+    },
+    {
+      "key": "morethanaheroheshesadearfriend",
+      "text_en": "More than a hero, he / she 's a dear friend.",
+      "text": "เป็นยิ่งกว่าวีรบุรุษ เป็นเพื่อนรักคนสำคัญที่สุด"
+    },
+    {
+      "key": "notonlytousbuttosomanyotherstherearesomanypeopleintheworldwhocareforyouandyet",
+      "text_en": "Not only to us, but to so many others. There are so many people in the world who care for you, and yet...",
+      "text": "ไม่ใช่แค่กับพวกเรา แต่สำหรับคนอื่นอีกตั้งมากมาย ผู้คนล้นหลามบนโลกต่างคอยห่วงใยเธอ แต่ถึงอย่างนั้น..."
+    },
+    {
+      "key": "andyet",
+      "text_en": "And yet...",
+      "text": "แต่ถึงอย่างนั้น..."
+    },
+    {
+      "key": "alisaieihaveanidea",
+      "text_en": "Alisaie. I have an idea.",
+      "text": "อลิเซ่ ผมคิดบางอย่างออกแล้ว"
+    },
+    {
+      "key": "giventhenatureofthisrealmitmaybepossibletodomorethanunbarourfriendspathwemightalsopavehimheranewone",
+      "text_en": "Given the nature of this realm, it may be possible to do more than unbar our friend's path. We might also pave him / her a new one.",
+      "text": "เมื่อดูจากกฎเกณฑ์ของดินแดนแห่งนี้ บางทีพวกเราอาจทำได้มากกว่าแค่เบิกทางให้เพื่อนของเรา แต่เราอาจแผ้วถางเส้นทางสายใหม่ให้ได้ด้วย"
+    },
+    {
+      "key": "forinstance",
+      "text_en": "For instance...",
+      "text": "อย่างเช่น..."
+    },
+    {
+      "key": "apathwhereheshefindshappinessatjourneysend",
+      "text_en": "A path where he / she finds happiness at journey's end.",
+      "text": "เส้นทางที่จะได้พบความสุข ณ จุดสิ้นสุดการเดินทาง"
+    },
+    {
+      "key": "thismuchithinkwecanbelievewiththeutmostconvictionnomatterhowdeepourdespair",
+      "text_en": "This much, I think we can believe with the utmost conviction. No matter how deep our despair.",
+      "text": "เรื่องนี้แหละที่ผมคิดว่าพวกเราเชื่อมั่นได้อย่างหมดหัวใจ ไม่ว่าความสิ้นหวังจะหยั่งลึกเพียงใดก็ตาม"
+    },
+    {
+      "key": "sopleasebelieveinustooandpresson",
+      "text_en": "So please, believe in us too. And press on.",
+      "text": "เพราะฉะนั้น ได้โปรดเชื่อใจพวกเราด้วย แล้วก้าวต่อไปเถอะ"
+    },
+    {
+      "key": "thankyou",
+      "text_en": "Thank you...",
+      "text": "ขอบคุณนะ..."
+    },
+    {
+      "key": "whatareyou",
+      "text_en": "What are you─!?",
+      "text": "นี่เธอจะ─!?"
+    },
+    {
+      "key": "iftheplansdecidedthenletsnotdally",
+      "text_en": "If the plan's decided, then let's not dally.",
+      "text": "ถ้าตกลงแผนการกันได้แล้ว ก็อย่ามัวรีรอเลย"
+    },
+    {
+      "key": "ahthereyouareitwasasisaidwasitnot",
+      "text_en": "Ah, there you are. It was as I said, was it not?",
+      "text": "อ๊ะ เจอกันเสียที เป็นอย่างที่ฉันบอกไว้ใช่ไหมล่ะ"
+    },
+    {
+      "key": "itwaswecouldntfindanyone",
+      "text_en": "It was. We couldn't find anyone.",
+      "text": "จริงของเธอ พวกเราไม่พบใครเลย"
+    },
+    {
+      "key": "butthisplaceisntentirelydesertedisityouarehere",
+      "text_en": "But this place isn't entirely deserted, is it? You are here.",
+      "text": "แต่ที่นี่ก็ไม่ได้รกร้างว่างเปล่าไปเสียทั้งหมดหรอก ใช่ไหม ก็เธอยังอยู่ตรงนี้ไงล่ะ"
+    },
+    {
+      "key": "yousoughtoutastarofpromiseandfoundaruinedhusk",
+      "text_en": "You sought out a star of promise and found a ruined husk.",
+      "text": "ออกค้นหาดวงดาวแห่งความหวัง แต่กลับพบเพียงซากร้างที่พังทลาย"
+    },
+    {
+      "key": "likeusyouexploredthedevastationlikeusyouwerestricken",
+      "text_en": "Like us, you explored the devastation. Like us, you were stricken.",
+      "text": "สำรวจความพินาศย่อยยับนั้นเหมือนพวกเรา และต้องตรอมตรมเจ็บปวดไม่ต่างกัน"
+    },
+    {
+      "key": "horrifiedbythethoughtthatsomanylivescouldbesnuffedoutasiftheywereworthnothing",
+      "text_en": "Horrified by the thought that so many lives could be snuffed out as if they were worth nothing.",
+      "text": "หวาดกลัวเมื่อคิดว่าชีวิตมากมายต้องดับวูบลงราวกับไร้ค่า"
+    },
+    {
+      "key": "andthethoughtthatyouwouldhavetobeartheterribletidingstohermes",
+      "text_en": "And the thought that you would have to bear the terrible tidings to Hermes.",
+      "text": "และคิดว่าต้องนำข่าวร้ายแสนทารุณนี้กลับไปบอกเฮอร์เมส"
+    },
+    {
+      "key": "thatwhichyousawandfeltyousharedwithyoursistersasdidtheysharetheirowngrimfindingswithyou",
+      "text_en": "That which you saw and felt, you shared with your sisters. As did they share their own grim findings with you.",
+      "text": "สิ่งที่เธอรู้สึกและพบเห็นล้วนส่งผ่านถึงเดอะซิสเตอร์ส เช่นเดียวกับที่พวกนางแบ่งปันการค้นพบอันแสนหดหู่กลับคืนมา"
+    },
+    {
+      "key": "overcomebythepervasivedespairofthesestarssomeofyouinadvertentlyusheredtheirpeoplestotheirends",
+      "text_en": "Overcome by the pervasive despair of these stars, some of you inadvertently ushered their peoples to their ends.",
+      "text": "ความสิ้นหวังที่แผ่ซ่านตามดวงดาวเหล่านี้ครอบงำพวกเธอ จนบางคนเผลอนำพาผู้คนไปสู่จุดจบโดยไม่รู้ตัว"
+    },
+    {
+      "key": "knowingthehorrorsyouknowanyonewouldfeelthesametheywouldfearwhatliesaheadandstruggletomoveforward",
+      "text_en": "Knowing the horrors you know, anyone would feel the same. They would fear what lies ahead, and struggle to move forward.",
+      "text": "เมื่อต้องเผชิญความน่าสะพรึงกลัวถึงเพียงนั้น ใครเล่าจะไม่รู้สึกเช่นเดียวกัน ทุกคนย่อมหวาดหวั่นต่อสิ่งเบื้องหน้าและยากจะตัดใจก้าวเดินต่อไป"
+    },
+    {
+      "key": "fearihadforgottenthatsuchathingexistedsofocusedhaveibeenonshepherdingdespair",
+      "text_en": "Fear... I had forgotten that such a thing existed, so focused have I been on shepherding despair.",
+      "text": "ความกลัว... ฉันลืมเลือนความรู้สึกเช่นนั้นไปเสียสนิท มัวแต่จดจ่อกับการชี้นำความสิ้นหวัง"
+    },
+    {
+      "key": "ifyoucanrememberthenyoucanstillfaceandovercomeyourownfear",
+      "text_en": "If you can remember, then you can still face and overcome your own fear.",
+      "text": "หากยังจดจำได้ เธอย่อมเผชิญหน้าและเอาชนะความกลัวในใจตัวเองได้เช่นกัน"
+    },
+    {
+      "key": "whywouldibotherwithsuchaninsignificantemotionifthedespairicommandisasaragingriverthenfearisbutatricklingstream",
+      "text_en": "Why would I bother with such an insignificant emotion? If the despair I command is as a raging river, then fear is but a trickling stream.",
+      "text": "เหตุใดฉันต้องใส่ใจอารมณ์อันไร้ค่าเช่นนั้น หากความสิ้นหวังที่ฉันบัญชาเปรียบดั่งแม่น้ำสายใหญ่ที่ไหลเชี่ยวกราก ความกลัวก็เป็นเพียงธารน้ำสายเล็กที่รินไหล"
+    },
+    {
+      "key": "itcandonothingtoaltermyflow",
+      "text_en": "It can do nothing to alter my flow.",
+      "text": "ไม่มีสิ่งใดเปลี่ยนแปรไหลของฉันได้"
+    },
+    {
+      "key": "youspokewiththeeayesheardtheirtaleofwhatawaitstheuniverse",
+      "text_en": "You spoke with the Ea, yes? Heard their tale of what awaits the universe?",
+      "text": "พวกเธอคุยกับพวกอีอามาแล้วใช่ไหม ได้ฟังเรื่องราวของสิ่งที่จะเกิดขึ้นกับจักรวาลมาแล้วสินะ"
+    },
+    {
+      "key": "itstruethestarsgrowcolderandmoredistanteventuallyallwillenjoyfrozensolitude",
+      "text_en": "It's true. The stars grow colder and more distant. Eventually all will enjoy frozen solitude.",
+      "text": "นั่นเป็นความจริง ดวงดาวทั้งหลายเริ่มเหน็บหนาวและห่างไกลออกไปเรื่อยๆ สุดท้ายทุกสรรพสิ่งย่อมเผชิญความโดดเดี่ยวอันหนาวเหน็บ"
+    },
+    {
+      "key": "usingthepowerofdynamisiamhasteningthatprocess",
+      "text_en": "Using the power of dynamis, I am hastening that process.",
+      "text": "ฉันใช้พลังแห่งไดนามิสเร่งวันเวลานั้นให้มาถึงเร็วขึ้น"
+    },
+    {
+      "key": "insodoingnothingwillbeborneveragaineveryonewillremaindead",
+      "text_en": "In so doing, nothing will be born ever again. Everyone will remain dead.",
+      "text": "เมื่อเป็นเช่นนั้น สรรพชีวิตจักไม่ถือกำเนิดขึ้นอีกตลอดกาล ทุกชีวิตจะยังคงดับสูญต่อไป"
+    },
+    {
+      "key": "alasitwilltaketimeforthattohappensoinmercyisentyoumygifttospareyouneedlesssuffering",
+      "text_en": "Alas, it will take time for that to happen. So in mercy I sent you my gift, to spare you needless suffering.",
+      "text": "อนิจจา กว่าจะถึงวันนั้นคงต้องใช้เวลาอีกนาน เราจึงมอบของขวัญนี้ให้ด้วยความเมตตา เพื่อช่วยพวกเจ้าให้พ้นจากความทุกข์ทรมานอันแสนเปล่าประโยชน์"
+    },
+    {
+      "key": "dontworryevenifnolivingwitnessesremaintomarktheeventillmakecertainthatetheiryshasaproperend",
+      "text_en": "Don't worry. Even if no living witnesses remain to mark the event, I'll make certain that Etheirys has a proper end.",
+      "text": "ไม่ต้องห่วงหรอก ต่อให้ไร้ผู้มีชีวิตรอดหลงเหลือเพื่อเป็นประจักษ์พยานในเหตุการณ์นี้ เราก็จักทำให้แน่ใจว่าเอเธียริสจะได้รับจุดจบอันควรคู่"
+    },
+    {
+      "key": "forallthepoweryouwieldyouremorefearfulthanthefamiliaryouusedtobe",
+      "text_en": "For all the power you wield, you're more fearful than the familiar you used to be.",
+      "text": "ทั้งที่มีพลังล้นพ้นถึงเพียงนี้ แต่เธอกลับขลาดกลัวยิ่งกว่าตอนที่ยังเป็นแค่สัตว์เวทตัวเดิมเสียอีก"
+    },
+    {
+      "key": "thatmeteionfearedsimplytomoveforwardbutyourfearissuchthatyouvegivenuponeverything",
+      "text_en": "That Meteion feared simply to move forward, but your fear is such that you've given up on everything.",
+      "text": "เมเทออนคนก่อนขลาดกลัวเพียงเพราะต้องก้าวไปข้างหน้า แต่ความกลัวของเธอกลับรุนแรงจนยอมละทิ้งทุกสิ่งทุกอย่างไปเสียแล้ว"
+    },
+    {
+      "key": "iknowitwellthatsenseofdefeativetastedmyfairshareofit",
+      "text_en": "I know it well. That sense of defeat. I've tasted my fair share of it.",
+      "text": "ฉันรู้ซึ้งถึงความรู้สึกพ่ายแพ้นั้นดี ฉันเองก็ลิ้มรสชาตินั้นมานักต่อนักแล้ว"
+    },
+    {
+      "key": "butasmanytimesaswevefallendownwevelearnedhowtopickourselvesupandcarryon",
+      "text_en": "But as many times as we've fallen down, we've learned how to pick ourselves up and carry on.",
+      "text": "แต่ไม่ว่าจะล้มลงไปสักกี่หน พวกเราก็เรียนรู้ที่จะหยัดยืนขึ้นใหม่และก้าวเดินต่อไปเสมอ"
+    },
+    {
+      "key": "wetakeeachothershandshareineachotherscouragefollowineachothersfootstepsandturnsorrowintostrength",
+      "text_en": "We take each other's hand. Share in each other's courage. Follow in each other's footsteps. And turn sorrow into strength!",
+      "text": "พวกเรากุมมือกัน ร่วมแบ่งปันความกล้า ก้าวตามรอยเท้าของกันและกัน และเปลี่ยนความโศกเศร้าเป็นพลัง!"
+    },
+    {
+      "key": "therearetimeswhenwefailwebearwoundsthatdonotheal",
+      "text_en": "There are times when we fail. We bear wounds that do not heal.",
+      "text": "บางคราพวกเราก็เผชิญความล้มเหลว และต้องแบกรับบาดแผลอันยากจะสมาน"
+    },
+    {
+      "key": "buttheseexperiencesarepartoflifeandtheymakeusstronger",
+      "text_en": "But these experiences are part of life, and they make us stronger!",
+      "text": "ทว่าประสบการณ์เหล่านั้นคือส่วนหนึ่งของชีวิต ซึ่งจะหล่อหลอมให้พวกเราแข็งแกร่งยิ่งขึ้น!"
+    },
+    {
+      "key": "werisefallandriseagain",
+      "text_en": "We rise, fall, and rise again!",
+      "text": "พวกเราลุกขึ้น ล้มลง และจะลุกขึ้นสู้ใหม่อีกครั้ง!"
+    },
+    {
+      "key": "dontworryaboutusyoumusttakethenextstepandalltherestafterthat",
+      "text_en": "Don't worry about us. You must take the next step, and all the rest after that.",
+      "text": "ไม่ต้องห่วงพวกเราหรอก เธอต้องก้าวต่อไปข้างหน้า แล้วก้าวต่อไปหลังจากนั้นให้สำเร็จ"
+    },
+    {
+      "key": "pleasepleaseohpleaseletthemallbesafe",
+      "text_en": "Please... Please... Oh, please let them all be safe...",
+      "text": "ได้โปรด... ได้โปรดเถอะนะคะ... ขอให้ทุกคนปลอดภัยทีเถอะ..."
+    },
+    {
+      "key": "krileareyouallright",
+      "text_en": "Krile? Are you all right?",
+      "text": "พี่ไครล์คะ? เป็นอะไรหรือเปล่าคะ"
+    },
+    {
+      "key": "itsnothingjustaheadache",
+      "text_en": "It's nothing... Just a headache.",
+      "text": "ไม่มีอะไรหรอก... แค่ปวดหัวนิดหน่อยน่ะ"
+    },
+    {
+      "key": "theyllbefineiknowtheywill",
+      "text_en": "They'll be fine... I know they will...",
+      "text": "พวกเขาต้องไม่เป็นไรแน่... ฉันรู้ดี..."
+    },
+    {
+      "key": "apologiesfortheinterruptionamanarrivedonthelastferryanassociateofthescions",
+      "text_en": "Apologies for the interruption! A man arrived on the last ferry. An associate of the Scions!",
+      "text": "ต้องขออภัยที่เข้ามาขัดจังหวะ! ชายผู้หนึ่งเดินทางมาถึงด้วยเรือเที่ยวสุดท้าย เป็นคนรู้จักของกลุ่มไซออนส์!"
+    },
+    {
+      "key": "hewishestospeakwithyouatonce",
+      "text_en": "He wishes to speak with you at once!",
+      "text": "ต้องการพูดคุยกับพวกคุณในทันทีครับ!"
+    },
+    {
+      "key": "ifyouneedapushillberighttherebehindyou",
+      "text_en": "If you need a push, I'll be right there behind you.",
+      "text": "หากต้องการแรงผลักดัน ฉันจะคอยหนุนหลังอยู่ตรงนี้เอง"
+    },
+    {
+      "key": "donotdespairyouarenotwithoutallies",
+      "text_en": "Do not despair! You are not without allies.",
+      "text": "อย่าเพิ่งสิ้นหวัง! เธอไม่ได้ไร้พวกพ้องหรอก"
+    },
+    {
+      "key": "whatwehavesowninbloodwehavereapedinsufferinganditcannotgoon",
+      "text_en": "What we have sown in blood, we have reaped in suffering, and it cannot go on.",
+      "text": "สิ่งที่เราหว่านลงไปด้วยเลือด ก็ต้องเก็บเกี่ยวกลับคืนมาด้วยความทุกข์ระทม และเรื่องเช่นนี้จะดำเนินต่อไปไม่ได้อีกแล้ว"
+    },
+    {
+      "key": "uponthesoulsoftheywhohavesacrificedthemselvestopavethewayforpeacewewillneverabandonourcause",
+      "text_en": "Upon the souls of they who have sacrificed themselves to pave the way for peace, we will never abandon our cause.",
+      "text": "ด้วยดวงวิญญาณของผู้ยอมสละชีพเพื่อกรุยทางสู่สันติภาพ พวกเราจะไม่มีวันละทิ้งปณิธานเป็นอันขาด"
+    },
+    {
+      "key": "whileitistruethatmansuccumbsalltoooftentoangerandavaricehemayyetovercomehisbaserinstinctsthroughtheformingofbondswithothers",
+      "text_en": "While it is true that man succumbs all too often to anger and avarice, he may yet overcome his baser instincts through the forming of bonds with others.",
+      "text": "แม้ความจริงคือมนุษย์มักพ่ายแพ้แก่โทสะและความโลภอยู่บ่อยครั้ง แต่ก็อาจเอาชนะสัญชาตญาณฝ่ายต่ำได้ด้วยการสร้างสายสัมพันธ์ร่วมกับผู้อื่น"
+    },
+    {
+      "key": "suchvictoriesarerarelywonwithoutsacrificebuttheprizeisworththeprice",
+      "text_en": "Such victories are rarely won without sacrifice. But the prize is worth the price.",
+      "text": "ชัยชนะเช่นนั้นย่อมยากจะได้มาหากปราศจากการสูญเสีย แต่รางวัลที่ได้มาก็คุ้มค่ากับสิ่งที่เสียไป"
+    },
+    {
+      "key": "andweforourpartaregladindeedtobeabletowelcomefriendsbotholdandnew",
+      "text_en": "And we for our part are glad indeed to be able to welcome friends both old and new...",
+      "text": "ส่วนพวกเราเองก็ยินดีเหลือเกินที่จะได้ต้อนรับมิตรสหาย ทั้งหน้าเก่าและหน้าใหม่..."
+    },
+    {
+      "key": "saveyourtearsforthemorrowyoumaybesurewewillhaveamplecausetoshedthembetheyforjoyordespair",
+      "text_en": "Save your tears for the morrow. You may be sure we will have ample cause to shed them, be they for joy or despair.",
+      "text": "จงเก็บน้ำตาไว้สำหรับวันพรุ่งนี้ มั่นใจได้เลยว่าเรายังมีเรื่องให้ต้องหลั่งน้ำตาอีกมาก ไม่ว่าจะด้วยความปิติยินดีหรือความสิ้นหวังก็ตาม"
+    },
+    {
+      "key": "fromtragedyandsacrificewerisetogreetanewdawn",
+      "text_en": "From tragedy and sacrifice we rise to greet a new dawn.",
+      "text": "เราจะหยัดยืนขึ้นจากโศกนาฏกรรมและการสูญเสีย เพื่อต้อนรับรุ่งอรุณวันใหม่"
+    },
+    {
+      "key": "afutureshapedbythechoiceswemadeinwayswecouldneverhaveforeseen",
+      "text_en": "A future shaped by the choices we made, in ways we could never have foreseen.",
+      "text": "อนาคตที่ถือกำเนิดจากทางเลือกที่พวกเราตัดสินใจ ในรูปแบบที่พวกเราไม่มีวันคาดคิดมาก่อน"
+    },
+    {
+      "key": "yetmiraclesdohappensoletusprayandwillourfriendshome",
+      "text_en": "Yet miracles do happen. So let us pray, and will our friends home.",
+      "text": "ทว่าปาฏิหาริย์ย่อมเกิดขึ้นได้เสมอ มาร่วมกันอธิษฐานและส่งใจนำทางให้เพื่อนๆ ของพวกเรากลับบ้านกันเถิด"
+    },
+    {
+      "key": "iwontstopprayinguntiliknowtheyresafe",
+      "text_en": "I won't stop praying until I know they're safe.",
+      "text": "ฉันจะไม่หยุดอธิษฐานจนกว่าจะแน่ใจว่าพวกเขาปลอดภัยแล้ว"
+    },
+    {
+      "key": "strongartthoumortal",
+      "text_en": "Strong art thou, mortal.",
+      "text": "เจ้าช่างแข็งแกร่งนัก มนุษย์เดินดิน"
+    },
+    {
+      "key": "looktothelightwithinthatyoumaycontinuetoserveasabeacontoothers",
+      "text_en": "Look to the light within, that you may continue to serve as a beacon to others.",
+      "text": "จงมองหาแสงสว่างในใจเจ้า เพื่อจักได้เป็นประทีปนำทางให้แก่ผู้อื่นสืบไป"
+    },
+    {
+      "key": "letsfinishthis",
+      "text_en": "Let's finish this.",
+      "text": "มาจบเรื่องนี้กันเถอะ"
+    },
+    {
+      "key": "herethepathendsthereisnowaytoreachournest",
+      "text_en": "Here the path ends. There is no way to reach our nest.",
+      "text": "เส้นทางสิ้นสุดลงตรงนี้ ไม่มีหนทางใดจะไปถึง (เดอะ รีช) รังของพวกเราได้"
+    },
+    {
+      "key": "itoldyouresignationandacceptancereigninthisplace",
+      "text_en": "I told you. Resignation and acceptance reign in this place.",
+      "text": "ฉันบอกเธอแล้วไง การยอมจำนนและการยอมรับชะตากรรมเข้าปกครองสถานที่แห่งนี้"
+    },
+    {
+      "key": "therejectionoflifebythosewhocametocurseit",
+      "text_en": "The rejection of life by those who came to curse it.",
+      "text": "การปฏิเสธชีวิตของเหล่าผู้คนที่มาเพื่อสาปแช่งชีวิตตนเอง"
+    },
+    {
+      "key": "thosewhosedreamswereunfulfilledwhoseprayerswereunheardwhoselaborswereunrewarded",
+      "text_en": "Those whose dreams were unfulfilled. Whose prayers were unheard. Whose labors were unrewarded.",
+      "text": "ผู้ที่ความฝันล่มสลาย คำอธิษฐานไร้ผู้สดับ และความตรากตรำเหนื่อยยากไร้ผลตอบแทน"
+    },
+    {
+      "key": "hopecannotdeliveryouuntohopelessnessourrefugeisbeyondyou",
+      "text_en": "Hope cannot deliver you unto hopelessness. Our refuge is beyond you.",
+      "text": "ความหวังไม่อาจนำทางเธอเข้าสู่ความสิ้นหวังได้ รังของพวกเราอยู่ไกลเกินกว่าเธอจะเอื้อมถึง"
+    },
+    {
+      "key": "alwayshasitbeensuchisthenatureofthisplace",
+      "text_en": "Always has it been. Such is the nature of this place.",
+      "text": "ทุกอย่างเป็นเช่นนี้เสมอมา นั่นคือธรรมชาติของสถานที่แห่งนี้"
+    },
+    {
+      "key": "youshouldhaveremainedonetheirys",
+      "text_en": "You should have remained on Etheirys.",
+      "text": "เธอควรจะอยู่บนเอเธียริสต่อไป"
+    },
+    {
+      "key": "strugglewillavailyounaughtnorwillitgrantyourcomradespeace",
+      "text_en": "Struggle will avail you naught, nor will it grant your comrades peace.",
+      "text": "ดิ้นรนไปก็ไม่มีประโยชน์อันใด ทั้งไม่ได้ช่วยให้พวกพ้องของเจ้าพบความสงบเลย"
+    },
+    {
+      "key": "comeletmerelieveyouofyourburdenyouhavesufferedenough",
+      "text_en": "Come, let me relieve you of your burden. You have suffered enough.",
+      "text": "มาเถอะ ให้เราช่วยปลดเปลื้องภาระหนักนี้เสีย เจ้าทรมานมามากพอแล้ว"
+    },
+    {
+      "key": "azemsmagicksolongasoursoulsremainyoucanuseittosummonusbackbutyoumustnt",
+      "text_en": "Azem's magick. So long as our souls remain, you can use it to summon us back. But you mustn't.",
+      "text": "มนตราแห่งอาเซม ตราบใดที่ดวงวิญญาณยังเหลืออยู่ ก็ใช้อัญเชิญกลับมาได้ แต่ห้ามทำเด็ดขาด"
+    },
+    {
+      "key": "thatswhyitstoosoonforthistoend",
+      "text_en": "That's why...it's too soon for this to end.",
+      "text": "เพราะอย่างนั้น...ยังเร็วเกินไปที่จะให้จบลงตรงนี้"
+    },
+    {
+      "key": "youmusttriumph",
+      "text_en": "You must triumph.",
+      "text": "ต้องชัยชนะให้ได้"
+    },
+    {
+      "key": "besafeallofyouandcomeback",
+      "text_en": "Be safe, all of you. And come back.",
+      "text": "ขอให้ทุกคนปลอดภัย แล้วกลับมานะ"
+    },
+    {
+      "key": "afteralltheseyearsisthistheansweriwashopingfor",
+      "text_en": "After all these years...is this the answer I was hoping for?",
+      "text": "หลายปีผ่านไป...นี่คือคำตอบที่เฝ้าหวังไว้จริงๆ หรือ"
+    },
+    {
+      "key": "solongaswerememberourfatesremainourstoshape",
+      "text_en": "So long as we remember, our fates remain ours to shape.",
+      "text": "ตราบเท่าที่ยังจำได้ โชคชะตาก็ยังเป็นของเราที่จะลิขิตเอง"
+    },
+    {
+      "key": "perhapswhenourtimecomestoreturntothestarweshallrememberthesefewdayswehavelost",
+      "text_en": "Perhaps when our time comes to return to the star, we shall remember these few days we have lost.",
+      "text": "บางทีเมื่อถึงเวลาต้องกลับสู่ดวงดาว คงจะจำช่วงเวลาไม่กี่วันที่หายไปนี้ได้"
+    },
+    {
+      "key": "donotsquanderitthelegacyileaveyou",
+      "text_en": "Do not squander it. The legacy I leave you.",
+      "text": "อย่าทำให้สูญเปล่าล่ะ มรดกที่ทิ้งไว้ให้เจ้า"
+    },
+    {
+      "key": "ibidthemrememberbutallthistimeimtheonewhohadforgottenarightfoolyouvemadeofmehermes",
+      "text_en": "I bid them remember, but all this time, I'm the one who had forgotten... A right fool you've made of me, Hermes.",
+      "text": "ข้าสั่งให้พวกเขาจดจำ แต่ตลอดเวลาที่ผ่านมา ตัวข้าเองกลับเป็นฝ่ายลืมเลือน... เจ้าทำให้ข้ากลายเป็นคนเขลาไปเสียสนิทเลยนะ เฮอร์เมส"
+    },
+    {
+      "key": "andtoaddinsulttoinjuryivebeendeniedasoundrestforcedtowatchthisclamorousshow",
+      "text_en": "And to add insult to injury, I've been denied a sound rest, forced to watch this clamorous show.",
+      "text": "มิหนำซ้ำ ยังไม่ได้นอนหลับพักผ่อนอย่างสงบ ต้องทนตื่นมาดูการแสดงอันแสนหนวกหูนี้อีก"
+    },
+    {
+      "key": "ohcomenowitsbeenagrippingtaleunbreakablebondsandnoblesacrificesprinkledwithmomentsoflevitytocounterbalancethepathositsgotitall",
+      "text_en": "Oh come now, it's been a gripping tale. Unbreakable bonds and noble sacrifice, sprinkled with moments of levity to counterbalance the pathos. It's got it all.",
+      "text": "โธ่ เอาน่า เรื่องราวออกจะน่าประทับใจ มีทั้งสายสัมพันธ์อันเหนียวแน่นและการเสียสละอันสูงส่ง แถมยังหยอดมุกตลกเล็กๆ น้อยๆ มาคอยตัดสลับความโศกเศร้า มีครบรสเชียวล่ะ"
+    },
+    {
+      "key": "iforonewouldhavebeenperfectlycontenttowatchenrapturedfromthestalls",
+      "text_en": "I for one would have been perfectly content to watch enraptured from the stalls...",
+      "text": "ตัวข้าเองน่ะ แค่ได้นั่งดูอย่างเคลิบเคลิ้มจากที่นั่งคนดูก็พอใจที่สุดแล้ว..."
+    },
+    {
+      "key": "butiwontsaynotoabitpart",
+      "text_en": "But I won't say no to a bit part!",
+      "text": "แต่ถ้าจะให้สวมบทตัวประกอบสักนิด ข้าก็ไม่ขัดข้องหรอกนะ!"
+    },
+    {
+      "key": "whatareyou",
+      "text_en": "What are you?",
+      "text": "พวกท่านคือตัวอะไรกันแน่..."
+    },
+    {
+      "key": "halffadedsoulsofthedeadisntitpainfullyobvious",
+      "text_en": "Half-faded souls of the dead. Isn't it painfully obvious?",
+      "text": "วิญญาณคนตายที่จางหายไปครึ่งหนึ่ง เรื่องแค่นี้ยังดูไม่ออกอีกหรือไง"
+    },
+    {
+      "key": "worrynotwehaventthepowertodefeatyounorisitourdutytodosonotanymore",
+      "text_en": "Worry not ─ we haven't the power to defeat you. Nor is it our duty to do so. Not anymore.",
+      "text": "ไม่ต้องกังวลไป... พวกเราไม่มีพลังพอจะปราบเจ้าได้หรอก และนั่นก็ไม่ใช่หน้าที่ของเราแล้วด้วย... ไม่ใช่ตอนนี้อีกต่อไป"
+    },
+    {
+      "key": "thatbeingsaidwedohaveascoretosettle",
+      "text_en": "That being said, we do have a score to settle.",
+      "text": "แต่ถึงอย่างนั้น เราก็มีบัญชีแค้นต้องสะสางเหมือนกัน"
+    },
+    {
+      "key": "sohereiamvenatisupposeyouneededmetotieitalltogetherthesefrayedthreadsofourhistorybutknowingyouisuspecttheresajokeinittooohyesicanimagineyougloatingovermyforgetfulness",
+      "text_en": "So, here I am, Venat. I suppose you needed me to tie it all together, these frayed threads of our history ─ but knowing you, I suspect there's a joke in it too. Oh yes, I can imagine you gloating over my forgetfulness.",
+      "text": "เพราะอย่างนั้น ข้าถึงมายืนอยู่ตรงนี้ไงล่ะ วีนัต เจ้าคงอยากให้ข้ามาผูกด้ายประวัติศาสตร์ที่รุ่ยขาดพวกนี้เข้าด้วยกันล่ะสิ... แต่คนอย่างเจ้า คงนึกขันกับเรื่องนี้อยู่แน่ๆ ข้านึกภาพเจ้ากำลังยิ้มเยาะความหลงลืมของข้าออกเลยทีเดียว"
+    },
+    {
+      "key": "wereifeelingcharitableimightassumeyouhadleftroomforthepossibilityofthisoutcome",
+      "text_en": "Were I feeling charitable, I might assume you had left room for the possibility of this outcome.",
+      "text": "หากเรานึกอยากจะเมตตาขึ้นมาบ้าง ก็คงคิดว่าเจ้าเผื่อใจไว้สำหรับผลลัพธ์เช่นนี้อยู่แล้ว"
+    },
+    {
+      "key": "evensoyoullgetnoapplausefrommeasinglegesturewillnotlightentheburdenivehadtobear",
+      "text_en": "Even so, you'll get no applause from me. A single gesture will not lighten the burden I've had to bear.",
+      "text": "ถึงอย่างนั้น ก็อย่าหวังเสียงปรบมือจากเราเลย การกระทำเพียงเท่านี้ไม่อาจแบ่งเบาภาระอันหนักอึ้งที่เราต้องแบกรับมาตลอดได้หรอก"
+    },
+    {
+      "key": "stillyoumustbecommendedourmethodswouldnothavebroughtmankindthisfar",
+      "text_en": "Still, you must be commended. Our methods would not have brought mankind this far.",
+      "text": "แต่ถึงอย่างนั้น เจ้าก็สมควรได้รับการยกย่อง วิธีการของพวกเราไม่มีวันนำพามนุษยชาติมาได้ไกลถึงเพียงนี้"
+    },
+    {
+      "key": "andsoasashowofrespecttothelastofusimakethisdeclaration",
+      "text_en": "And so, as a show of respect to the last of us, I make this declaration.",
+      "text": "ดังนั้น เพื่อแสดงความเคารพต่อผู้หลงเหลือคนสุดท้ายของพวกเรา เราขอประกาศไว้ตรงนี้"
+    },
+    {
+      "key": "youwillnotendourjourney",
+      "text_en": "You will not end our journey!",
+      "text": "เจ้าไม่มีวันหยุดยั้งการเดินทางของพวกเราได้!"
+    },
+    {
+      "key": "thatisouranswertheanswerofalllivesofetheiryspastandpresent",
+      "text_en": "That is our answer! The answer of all lives of Etheirys, past and present!",
+      "text": "นั่นคือคำตอบของพวกเรา! คำตอบของทุกชีวิตบนเอเธียริส ทั้งในอดีตและปัจจุบัน!"
+    },
+    {
+      "key": "asyouvecalledustothestagesoshallweperformandcreationmagicksneverfailtoplease",
+      "text_en": "As you've called us to the stage, so shall we perform. And creation magicks never fail to please.",
+      "text": "ในเมื่อเธออุตส่าห์เชิญพวกเราขึ้นมาบนเวทีแล้ว พวกเราก็จะแสดงให้เต็มที่ และเวทมนตร์สรรค์สร้างก็ไม่เคยทำให้ผิดหวังเสียด้วย"
+    },
+    {
+      "key": "drawinguponthehopesofyourcomradeswewillmakeforyouanewpath",
+      "text_en": "Drawing upon the hopes of your comrades, we will make for you a new path.",
+      "text": "พวกเราจะอาศัยความหวังของพวกพ้องของเธอ เพื่อเบิกเส้นทางสายใหม่ให้เอง"
+    },
+    {
+      "key": "whatformsaidpathtakesdependsonyousofocusfocusandenvisionthatwhichrejectstheclaimthatyoucannotattainyourgoal",
+      "text_en": "What form said path takes depends on you. So focus ─ focus and envision that which rejects the claim that you cannot attain your goal!",
+      "text": "เส้นทางดังกล่าวจะออกมาในรูปแบบใดก็ขึ้นอยู่กับเจ้าแล้ว เพราะฉะนั้นจงตั้งสมาธิ ─ เพ่งจิตและจินตนาการถึงสิ่งที่จะปฏิเสธคำสบประมาทว่าเจ้าไม่มีวันบรรลุเป้าหมาย!"
+    },
+    {
+      "key": "oursisthewisdomtoweavethefabricofreality",
+      "text_en": "Ours is the wisdom to weave the fabric of reality...",
+      "text": "พวกเราคือผู้ครอบครองภูมิปัญญาในการถักทอผืนผ้าแห่งความจริง..."
+    },
+    {
+      "key": "oursisthepowertocreate",
+      "text_en": "Ours is the power to create!",
+      "text": "พลังแห่งการสรรสร้างเป็นของพวกเรา!"
+    },
+    {
+      "key": "meteion",
+      "text_en": "Meteion.",
+      "text": "เมทีออน"
+    },
+    {
+      "key": "thoughigaveyouthesewingstosoartheheavensididnotteachyouhowtowalktheearthsoloathwasitobindanotherlivingbeing",
+      "text_en": "Though I gave you these wings to soar the heavens, I did not teach you how to walk the earth. So loath was I to bind another living being.",
+      "text": "แม้ฉันจะมอบปีกคู่นี้ให้เธอพุ่งทะยานสู่ท้องนภา แต่กลับไม่ได้สอนวิธีหัดก้าวเดินบนพื้นดิน เพราะฉันตัดใจพันธนาการสิ่งมีชีวิตอื่นไว้ไม่ลงจริงๆ"
+    },
+    {
+      "key": "inthecourseofyourlongjourneyyouwilllearnfromthoseyoumeetlearntowalkandrunandsomuchmore",
+      "text_en": "In the course of your long journey, you will learn from those you meet. Learn to walk and run and so much more.",
+      "text": "ระหว่างการเดินทางอันแสนยาวไกล เธอจะได้เรียนรู้จากผู้คนที่พบพาน เรียนรู้ที่จะก้าวเดิน วิ่ง และอะไรต่อมิอะไรอีกมากมาย"
+    },
+    {
+      "key": "aflower",
+      "text_en": "A flower.",
+      "text": "ดอกไม้..."
+    },
+    {
+      "key": "yesuponyourreturniwillgiftyouabeautifulflower",
+      "text_en": "Yes. Upon your return, I will gift you a beautiful flower.",
+      "text": "ใช่แล้ว เมื่อเธอกลับมา ฉันจะมอบดอกไม้อันแสนงดงามให้เป็นของขวัญ"
+    },
+    {
+      "key": "theseelpisbloomsserveasproofthatthisrealmisnotutterlydevoidofhopenomorecanyoudenyitspowernomoreisyoursthedominionofdespair",
+      "text_en": "These Elpis blooms serve as proof that this realm is not utterly devoid of hope. No more can you deny its power. No more is yours the dominion of despair.",
+      "text": "ดอกไม้เอลพิสเหล่านี้คือหลักฐานยืนยันว่าดินแดนนี้ไม่ได้ไร้สิ้นซึ่งความหวังไปเสียทีเดียว เจ้าไม่อาจปฏิเสธพลังของมันได้อีกต่อไป และจะไม่มีวันครอบครองแดนดินแห่งความสิ้นหวังนี้อีก"
+    },
+    {
+      "key": "incasethepracticalimplicationswerelostonyouyourcomradesnolongerneedfighttheirfight",
+      "text_en": "In case the practical implications were lost on you, your comrades no longer need fight their fight.",
+      "text": "เผื่อว่าเธอจะยังไม่เข้าใจความหมายที่แท้จริงละก็ พวกพ้องของเธอไม่จำเป็นต้องเหนื่อยยากต่อสู้ในศึกของพวกเขาอีกต่อไปแล้ว"
+    },
+    {
+      "key": "sogooncallthembacktoyourside",
+      "text_en": "So, go on. Call them back to your side.",
+      "text": "เอาละ ไปสิ เรียกพวกเขากลับมาอยู่เคียงข้างเธอได้แล้ว"
+    },
+    {
+      "key": "mayyoueverwalkinthelight",
+      "text_en": "May you ever walk in the light...",
+      "text": "ขอให้เธอได้ก้าวเดินในแสงสว่างเสมอไป..."
+    },
+    {
+      "key": "howdisappointingnotevenasinglescarinthemakingtobragabout",
+      "text_en": "How disappointing. Not even a single scar in the making to brag about.",
+      "text": "น่าผิดหวังจริงเชียว แผลเป็นสักรอยเอาไว้คุยอวดก็ไม่มีเลย"
+    },
+    {
+      "key": "youllfindawayregardless",
+      "text_en": "You'll find a way regardless.",
+      "text": "ถึงอย่างไรนายก็หาเรื่องคุยอวดจนได้นั่นละ"
+    },
+    {
+      "key": "honestlythisisfarmorethananyofuscouldhavehopedforletusbethankful",
+      "text_en": "Honestly... This is far more than any of us could have hoped for. Let us be thankful.",
+      "text": "พูดกันตามตรง... นี่มันเกินกว่าที่ใครในพวกเราจะกล้าฝันเสียอีก นึกขอบคุณเถอะ"
+    },
+    {
+      "key": "indeedthatwethusstandreunitedisagiftletusnotsquanderitandseethatweallreturntoetheirys",
+      "text_en": "Indeed. That we thus stand reunited is a gift. Let us not squander it, and see that we all return to Etheirys.",
+      "text": "จริงแท้ การได้กลับมายืนพร้อมหน้ากันเช่นนี้คือของขวัญ อย่าปล่อยให้สูญเปล่า และดูแลให้พวกเราทุกคนกลับสู่เอเธียริสด้วยเถิด"
+    },
+    {
+      "key": "ayeassoonasweveavertedthefinaldays",
+      "text_en": "Aye, as soon as we've averted the Final Days!",
+      "text": "ใช่แล้ว ทันทีที่ขัดขวางวันสิ้นโลกได้สำเร็จ!"
+    },
+    {
+      "key": "goodtoseeyouagainourheroicsacrificepaidoffitakeit",
+      "text_en": "Good to see you again. Our heroic sacrifice paid off, I take it?",
+      "text": "ดีใจที่ได้เจอกันอีกครั้ง ดูท่าว่าการเสียสละอันอาจหาญของพวกเราจะคุ้มค่าสินะ"
+    },
+    {
+      "key": "comemyfriendsletuscarryonandfinishittogether",
+      "text_en": "Come, my friends. Let us carry on and finish it ─ together.",
+      "text": "มาเถอะสหายของผม เดินหน้าต่อและสะสางให้จบลงไปด้วยกัน"
+    },
+    {
+      "key": "canyouhearme",
+      "text_en": "Can you...hear me...?",
+      "text": "ได้ยิน...ฉันไหม..."
+    },
+    {
+      "key": "thevoiceswithincryinginpainwailinginsorrowhurtinghurting",
+      "text_en": "The voices within... Crying in pain, wailing in sorrow... Hurting... Hurting...",
+      "text": "เสียงข้างใน... ร้องโอดครวญด้วยความเจ็บปวด ร่ำไห้ด้วยความโศกเศร้า... ทรมาน... ทรมานเหลือเกิน..."
+    },
+    {
+      "key": "enditsilenceitsilenceoursongofoblivion",
+      "text_en": "End it...silence it... Silence our song of oblivion!",
+      "text": "จบมันที... ทำให้เงียบเสียง... ทำให้บทเพลงแห่งการดับสูญของพวกเราเงียบเสียงลงที!"
+    },
+    {
+      "key": "thewayisopentheycanproceed",
+      "text_en": "The way is open. They can proceed.",
+      "text": "หนทางเปิดออกแล้ว เดินทางต่อได้แล้วล่ะ"
+    },
+    {
+      "key": "soitseems",
+      "text_en": "So it seems.",
+      "text": "ก็คงจะเป็นอย่างนั้น"
+    },
+    {
+      "key": "youreleaving",
+      "text_en": "You're leaving!?",
+      "text": "จะไปแล้วอย่างนั้นเหรอ!?"
+    },
+    {
+      "key": "ofcoursetheencoreisfinishedandiwillnotsuffermyselftoliveagainbyhydaelynsmagick",
+      "text_en": "Of course. The encore is finished, and I will not suffer myself to live again by Hydaelyn's magick.",
+      "text": "แน่ล่ะ ฉากส่งท้ายจบลงแล้ว และเราจะไม่ยอมฟื้นคืนชีพขึ้นมาอีกด้วยเวทมนตร์ของไฮเดลินเด็ดขาด"
+    },
+    {
+      "key": "butmorethanthatthefutureyouseekisnotthepastwelovedthatiswhywefoughtandwhyilost",
+      "text_en": "But more than that, the future you seek is not the past we loved. That is why we fought. And why I lost.",
+      "text": "ทว่าเหนือสิ่งอื่นใด อนาคตที่พวกเจ้าไขว่คว้าไม่ใช่อดีตที่เรารัก นั่นคือเหตุผลที่เราต่อสู้ และคือเหตุผลที่เราพ่ายแพ้"
+    },
+    {
+      "key": "butthoughyoudefeatedmemyidealsareinviolateinvincible",
+      "text_en": "But though you defeated me, my ideals are inviolate. Invincible.",
+      "text": "แต่ถึงพวกเจ้าจะเอาชนะเราได้ อุดมการณ์ของเรายังคงศักดิ์สิทธิ์และไร้พ่าย"
+    },
+    {
+      "key": "sparemeyourpityihavenouseforitifyouwoulddosomethingformesaveourstar",
+      "text_en": "Spare me your pity. I have no use for it. If you would do something for me ─ save our star.",
+      "text": "ไม่ต้องมาเวทนาเราหรอก เราไม่มีความจำเป็นต้องใช้มัน หากคิดจะทำอะไรเพื่อเราจริงๆ... ก็จงปกป้องดวงดาวของเราไว้"
+    },
+    {
+      "key": "seethistaletoatriumphantconclusionandwithelationinyourheartsbidthefinalcurtainfall",
+      "text_en": "See this tale to a triumphant conclusion, and with elation in your hearts, bid the final curtain fall.",
+      "text": "จงนำพาเรื่องราวนี้ไปสู่บทสรุปแห่งชัยชนะ และปิดม่านฉากสุดท้ายลงด้วยหัวใจอันเปี่ยมปิติ"
+    },
+    {
+      "key": "onlythenmayitriseagainandanewtalebeginwithnewpartsforalltoplay",
+      "text_en": "Only then may it rise again and a new tale begin ─ with new parts for all to play.",
+      "text": "เมื่อนั้น ม่านจึงจะเปิดขึ้นอีกครั้งเพื่อให้เรื่องราวบทใหม่เริ่มต้น... พร้อมบทบาทใหม่ให้ทุกคนได้ร่วมแสดง"
+    },
+    {
+      "key": "tellmehaveyoubeentotheruinsbeneaththewatersofthebounty",
+      "text_en": "Tell me, have you been to the ruins beneath the waters of the Bounty?",
+      "text": "ถามหน่อยสิ เคยไปเยือนซากโบราณสถานใต้ผืนน้ำแห่งสิ่งของมีค่า หรือยัง?"
+    },
+    {
+      "key": "orthetreasureislandsbeyondthefrozenwatersofblindfrostinothardsnorth",
+      "text_en": "Or the treasure islands beyond the frozen waters of Blindfrost, in Othard's north?",
+      "text": "หรือจะเป็นเกาะมหาสมบัติที่อยู่เลยผืนน้ำอันจับตัวเป็นน้ำแข็งของไบลนด์ฟรอสต์ ทางตอนเหนือของโอธาร์ด"
+    },
+    {
+      "key": "thefabledgoldencitiesofthenewworldthesacredsitesoftheforgottenpeopleofthesouthseaisles",
+      "text_en": "The fabled golden cities of the New World? The sacred sites of the forgotten people of the south sea isles?",
+      "text": "เมืองทองคำในตำนานแห่งโลกใหม่ล่ะ หรือจะเป็นสถานที่ศักดิ์สิทธิ์ของชนเผ่าที่ผู้คนหลงลืมแห่งหมู่เกาะทะเลใต้"
+    },
+    {
+      "key": "whataboutmeracydiathesoutherncontinentdoyouknowaughtofitspresentstateofaffairs",
+      "text_en": "What about Meracydia, the southern continent? Do you know aught of its present state of affairs?",
+      "text": "แล้วเมราซิเดีย ทวีปทางตอนใต้ล่ะ เจ้ารู้เรื่องราวความเป็นไปในปัจจุบันของที่นั่นบ้างไหม"
+    },
+    {
+      "key": "ithoughtnotevenofyourlittleeorzeayouknowpreciouslittlethetrueidentitiesofthetwelveforinstance",
+      "text_en": "...I thought not. Even of your little Eorzea, you know precious little. The true identities of the Twelve, for instance.",
+      "text": "...ข้าคิดไว้แล้วเชียวว่าไม่รู้ แม้แต่เรื่องของเอโอลเซียอันแสนกระจ้อยร่อยของเจ้า เจ้าก็รู้เพียงน้อยนิดเหลือเกิน อย่างเช่นตัวตนที่แท้จริงของเทพทั้งสิบสองนั่นปะไร"
+    },
+    {
+      "key": "allofwhichistosayexpandyourhorizonsgoforthandseekdiscoverysomeofthecivilizationsinthereflectionswillsurpriseyou",
+      "text_en": "All of which is to say: expand your horizons. Go forth and seek discovery. Some of the civilizations in the reflections will surprise you.",
+      "text": "ที่ข้าพูดมาทั้งหมดนี้ก็เพื่อจะบอกว่า จงออกไปเปิดหูเปิดตาเสียบ้าง จงก้าวไปค้นหาสิ่งใหม่ๆ อารยธรรมในภพเงาสะท้อนบางแห่งจะทำให้เจ้าประหลาดใจอย่างที่สุด"
+    },
+    {
+      "key": "asthebearerofazemscrystalyoumayconsideryourdutytoseeatleastthatmuch",
+      "text_en": "As the bearer of Azem's crystal, you may consider your duty to see at least that much.",
+      "text": "ในฐานะผู้ถือครองคริสตัลอาเซม เจ้าน่าจะถือว่าเป็นหน้าที่ของตนที่ต้องไปเห็นสิ่งเหล่านั้นด้วยตาตัวเองเสียหน่อยนะ"
+    },
+    {
+      "key": "icertainlydid",
+      "text_en": "I certainly did.",
+      "text": "อย่างน้อยข้าก็เคยทำเช่นนั้นแน่ๆ"
+    },
+    {
+      "key": "ipraywemeetagainifnotinthislifethenperhapsanother",
+      "text_en": "I pray we meet again. If not in this life, then perhaps another.",
+      "text": "ผมหวังเหลือเกินว่าเราจะได้พบกันอีก หากมิใช่ในชีวิตนี้ ก็คงเป็นในชาติหน้า"
+    },
+    {
+      "key": "whensoeveritshouldbeitrustitwillbeamostjoyousreunion",
+      "text_en": "Whensoever it should be, I trust it will be a most joyous reunion.",
+      "text": "ไม่ว่าจะเป็นเมื่อใด ผมเชื่อมั่นว่าการพบกันอีกครั้งครั้งนั้นจะเปี่ยมล้นไปด้วยความสุขที่สุด"
+    },
+    {
+      "key": "foryoumaybeiwantnothingtodowithit",
+      "text_en": "For you, maybe. I want nothing to do with it.",
+      "text": "สำหรับเจ้าก็อาจจะใช่ แต่ข้าไม่อยากจะยุ่งเกี่ยวด้วยหรอก"
+    },
+    {
+      "key": "ohdontbethatway",
+      "text_en": "Oh, don't be that way.",
+      "text": "โธ่ อย่าเย็นชากันนักเลยน่า"
+    },
+    {
+      "key": "togoandseeallthoseplacesandmoreemetselchhasgivenyouquiteatask",
+      "text_en": "To go and see all those places and more... Emet-Selch has given you quite a task.",
+      "text": "การได้ไปเยือนสถานที่เหล่านั้นรวมถึงดินแดนอื่น ๆ อีกมากมาย... เอเมท-เซลช์ ช่างมอบหมายงานที่ใหญ่หลวงให้เธอจริง ๆ"
+    },
+    {
+      "key": "sufficeittosayishouldbegladtoassistyouoncewevereturnedtogethertriumphantofcourse",
+      "text_en": "Suffice it to say, I should be glad to assist you. Once we've returned together triumphant, of course.",
+      "text": "เอาเป็นว่า ฉันยินดีที่จะช่วยเหลือเธอ... แน่นอนว่าต้องหลังจากพวกเราเดินทางกลับมาพร้อมชัยชนะด้วยกันแล้วน่ะนะ"
+    },
+    {
+      "key": "forallthelivesonthosestarswhoselighthathbeenextinguishedfortheancientswhowentbeforeusiofferasolemnprayer",
+      "text_en": "For all the lives on those stars whose light hath been extinguished ─ for the ancients who went before us ─ I offer a solemn prayer...",
+      "text": "แด่สรรพชีวิตบนดวงดาวทั้งหลายอัน แสงสว่าง ดับสูญสิ้น ─ แด่ ชนเผ่าโบราณ ผู้ล่วงลับไปก่อนหน้าพวกเรา ─ ข้าพเจ้าขอตั้งจิตอธิษฐานด้วยความเคารพอย่างสุดซึ้ง..."
+    },
+    {
+      "key": "noneedtoexplainihavearoughideawhathappenedwhileiwasgone",
+      "text_en": "No need to explain ─ I have a rough idea what happened while I was...gone.",
+      "text": "ไม่จำเป็นต้องอธิบายหรอก ─ ฉันพอจะเดาออกคร่าว ๆ ว่าเกิดอะไรขึ้นบ้างตอนที่ฉัน...จากไป"
+    },
+    {
+      "key": "itwasastrangefeelingasthoughiwasstrugglinginapitchblackseaapowerfultidewastryingtowashmeawayonethatchurnedwithhatredandenvyforlifeanditwasallicoulddotoswimagainstitthensuddenlyiwashere",
+      "text_en": "It was a strange feeling. As though I was struggling in a pitch-black sea. A powerful tide was trying to wash me away ─ one that churned with hatred and envy for life ─ and it was all I could do to swim against it. Then suddenly I was here.",
+      "text": "มันเป็นความรู้สึกที่ประหลาดเหลือเกิน ร่างกายสัมผัสได้ถึงแรงต้านขณะดิ้นรนในน้ำลึกอันมืดมิดสนิท กระแสน้ำอันเชี่ยวกรากพัดโหมพยายามจะกลืนกินฉันไป ─ มันพลุ่งพล่านไปด้วยความเคียดแค้นและริษยาต่อชีวิต ─ สิ่งเดียวที่ทำได้คือการฝืนแหวกว่ายต้านมันไว้ แล้วอยู่ ๆ ก็มาโผล่ที่นี่"
+    },
+    {
+      "key": "itfeltlongandshortatthesametimehazyasinadreambutthroughitallonethingwascrystalclearyoufoughtwithallyourbeingtokeepourhopesalive",
+      "text_en": "It felt long and short at the same time. Hazy as in a dream. But through it all, one thing was crystal clear: you fought with all your being to keep our hopes alive.",
+      "text": "มันช่างเนิ่นนานแต่ก็สั้นประหลาด เลือนรางราวกับความฝัน แต่ท่ามกลางความคลุมเครือทั้งหมดนั้น มีสิ่งหนึ่งที่เด่นชัดดั่ง คริสตัล ─ นั่นคือเธอต่อสู้อย่างสุดกำลังเพื่อรักษาความหวังของพวกเราเอาไว้"
+    },
+    {
+      "key": "icantclaimifullyunderstoodtheworkingsofthisplacebutinthatmomentifeltiknewwhatineededtodo",
+      "text_en": "I can't claim I fully understood the workings of this place. But in that moment, I felt I knew what I needed to do.",
+      "text": "คงพูดไม่ได้ว่าเข้าใจกลไกของดินแดนแห่งนี้อย่างทะลุปรุโปร่ง แต่ในวินาทีนั้น รู้สึกว่ารู้สิ่งที่ต้องทำแล้ว"
+    },
+    {
+      "key": "ifeltthatitwastherighttimetoofferupthislifeiowethaticouldriskitallonthewagerthattherestofyouwouldmanagewithoutme",
+      "text_en": "I felt that it was the right time to offer up this life I owe. That I could risk it all on the wager that the rest of you would manage without me.",
+      "text": "รู้สึกว่าถึงเวลาอันควรที่จะสละชีวิตที่ติดค้างอยู่นี้ และนำทุกอย่างไปเดิมพันว่าพวกนายที่เหลือจะจัดการต่อกันเองได้โดยไม่มีข้า"
+    },
+    {
+      "key": "fullgladamitoseethatiwasright",
+      "text_en": "Full glad am I to see that I was right.",
+      "text": "ยินดียิ่งนักที่เห็นว่าข้าคิดถูก"
+    },
+    {
+      "key": "asdifferentandmysteriousastheancientsmaybetheywerepeoplenotunlikeus",
+      "text_en": "As different and mysterious as the ancients may be, they were people not unlike us.",
+      "text": "แม้ชนเผ่าโบราณจะดูลึกลับและแตกต่างเพียงใด ทว่าเนื้อแท้แล้วก็เป็นผู้คนที่ไม่ต่างจากพวกเราเลย"
+    },
+    {
+      "key": "thefirstpeopletofallandfeelpainandthefirstforcedtofindawaytoriseagain",
+      "text_en": "The first people to fall and feel pain. And the first forced to find a way to rise again.",
+      "text": "ผู้คนกลุ่มแรกที่ร่วงหล่นและลิ้มรสความเจ็บปวด และเป็นกลุ่มแรกที่ต้องดิ้นรนหาทางหยัดยืนขึ้นมาอีกครั้ง"
+    },
+    {
+      "key": "fromthemwehavecomeandinourpainandsufferingweareconnected",
+      "text_en": "From them we have come, and in our pain and suffering, we are connected.",
+      "text": "พวกเราถือกำเนิดมาจากพวกเขา และในยามที่เผชิญความทุกข์ทรมานและเจ็บปวด พวกเราต่างเชื่อมโยงถึงกัน"
+    },
+    {
+      "key": "tismyferventhopethatourancientfriendswillfindanewbeginningtheyandalloftheirbrethrenwhohavereturnedtotheaetherialsea",
+      "text_en": "'Tis my fervent hope that our ancient friends will find a new beginning ─ they and all of their brethren who have returned to the aetherial sea.",
+      "text": "ผมหวังเหลือเกินว่ามิตรสหายชาวโบราณของเราจะได้พบกับการเริ่มต้นครั้งใหม่ ─ ทั้งพวกเขาและเหล่าพี่น้องทั้งหมดที่หวนคืนสู่ทะเลเอเธอร์แล้ว"
+    },
+    {
+      "key": "forthattocometopasswemustsucceedwemustavertthefinaldaysandsaveetheirys",
+      "text_en": "For that to come to pass, we must succeed. We must avert the Final Days and save Etheirys.",
+      "text": "การจะทำให้เรื่องนั้นเป็นจริงได้ พวกเราต้องทำสำเร็จ ต้องยับยั้งวันสิ้นโลกและปกป้องเอเธียริสไว้ให้ได้"
+    },
+    {
+      "key": "idontthinkieverknewwhattosaytothemaninretrospectitalwaysfeltlikethewrongthing",
+      "text_en": "I don't think I ever knew what to say to the man. In retrospect, it always felt like the wrong thing...",
+      "text": "ฉันไม่เคยรู้เลยว่าควรพูดอะไรกับผู้ชายคนนั้น พอนึกย้อนดูทีไร ก็รู้สึกเหมือนพูดผิดไปเสียทุกเรื่อง..."
+    },
+    {
+      "key": "butthepastnotwithstandinghecametoyouraidinyourmomentofneed",
+      "text_en": "But the past notwithstanding, he came to your aid in your moment of need.",
+      "text": "แต่ไม่ว่าอดีตจะเป็นอย่างไร เขาก็มาช่วยเธอในยามคับขันอยู่ดี"
+    },
+    {
+      "key": "wearehereandwewillnotsquanderthischancehehasgivenus",
+      "text_en": "We are here, and we will not squander this chance he has given us!",
+      "text": "พวกเรามาถึงจุดนี้แล้ว และจะไม่ยอมปล่อยให้โอกาสที่เขาหยิบยื่นให้หลุดลอยไปเด็ดขาด!"
+    },
+    {
+      "key": "wewillseethistaletoatriumphantconclusionandbidthefinalcurtainfall",
+      "text_en": "We will see this tale to a triumphant conclusion, and bid the final curtain fall!",
+      "text": "พวกเราจะนำพาเรื่องราวนี้ไปสู่บทสรุปอันมีชัย และรูดม่านปิดฉากสุดท้ายลงเสียที!"
+    }
+  ]
+}

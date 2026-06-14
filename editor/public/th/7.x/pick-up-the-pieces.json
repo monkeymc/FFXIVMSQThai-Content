@@ -1,0 +1,675 @@
+{
+  "quest_id": "pick-up-the-pieces",
+  "dialogues": [
+    {
+      "key": "itsclearlynotapersonbutitdoesntlooklikeanyautomatonormagitekweaponiveeverseen",
+      "text_en": "It's clearly not a person, but it doesn't look like any automaton or magitek weapon I've ever seen.",
+      "text": "ดูยังไงก็ไม่ใช่คน แต่ก็ไม่เหมือนออโตมาตอนหรืออาวุธมาจิเทคชิ้นไหนที่ฉันเคยเห็นมาก่อนเลย"
+    },
+    {
+      "key": "asfarandwideasyouvetraveledthoughperhapsyouveencounteredsomethingsimilarbefore",
+      "text_en": "As far and wide as you've traveled, though, perhaps you've encountered something similar before.",
+      "text": "แต่คนเดินทางไปทั่วสารทิศอย่างนาย บางทีอาจเคยเจออะไรคล้ายๆ กันมาบ้างก็ได้นะ"
+    },
+    {
+      "key": "wouldyoumindtakingacloserlookitmayyieldsomecluesastozoraaljasnewpowers",
+      "text_en": "Would you mind taking a closer look? It may yield some clues as to Zoraal Ja's new powers.",
+      "text": "ช่วยลองเข้าไปดูใกล้ๆ หน่อยได้ไหม บางทีอาจได้เบาะแสเกี่ยวกับพลังใหม่ของโซราล จา บ้าง"
+    },
+    {
+      "key": "atfirstiassumedtheyweresoldiersinarmorbutwhenicutthemdownitbecameclearthatwasntthecase",
+      "text_en": "At first, I assumed they were soldiers in armor. But when I cut them down, it became clear that wasn't the case.",
+      "text": "ทีแรกนึกว่าเป็นทหารสวมเกราะ แต่พอฟันจนล้มลงก็เห็นชัดว่าไม่ใช่อย่างที่คิด"
+    },
+    {
+      "key": "youresupposedtobeinspectingthesoldierremember",
+      "text_en": "You're supposed to be inspecting the soldier, remember?",
+      "text": "ไหนบอกว่าจะตรวจดูทหารนั่นไง จำไม่ได้หรือไง"
+    },
+    {
+      "key": "sowhatdoyouthink",
+      "text_en": "So, what do you think?",
+      "text": "แล้ว...นายคิดว่ายังไงบ้างล่ะ"
+    },
+    {
+      "key": "indeedwhileitresemblesapersonithasfeaturesthatmakeituncannythelackofafacenotleastofalldidyouseeanysignofapowersource",
+      "text_en": "Indeed... While it resembles a person, it has features that make it uncanny, the lack of a face not least of all. Did you see any sign of a power source?",
+      "text": "จริงอย่างที่ว่า... แม้จะดูคล้ายมนุษย์ แต่กลับมีลักษณะพิลึกกึกกือชวนขนลุก โดยเฉพาะการไม่มีใบหน้านั่น เห็นเบาะแสของแหล่งพลังงานบ้างหรือเปล่า"
+    },
+    {
+      "key": "soitprobablydoesntrunonceruleumoranyotherconventionalfuels",
+      "text_en": "So it probably doesn't run on ceruleum or any other conventional fuels.",
+      "text": "แสดงว่าคงไม่ได้ขับเคลื่อนด้วยซีรูเลียมหรือเชื้อเพลิงทั่วไปสินะ"
+    },
+    {
+      "key": "itriedchannelingaetherintoitearlierbuttherewasnoresponsethatwouldseemtoruleitoutasanarcaneentity",
+      "text_en": "I tried channeling aether into it earlier, but there was no response. That would seem to rule it out as an arcane entity.",
+      "text": "เมื่อครู่ฉันลองถ่ายเทเอเธอร์เข้าไปแล้ว แต่ไม่มีปฏิกิริยาตอบสนองเลย น่าจะตัดประเด็นเรื่องเป็นสิ่งสร้างทางเวทมนตร์ไปได้"
+    },
+    {
+      "key": "itscompletelylifelessnowafarcryfromtheunstoppableenemyitwasinbattle",
+      "text_en": "It's completely lifeless now─a far cry from the unstoppable enemy it was in battle...",
+      "text": "ตอนนี้แน่นิ่งไร้ชีวิตโดยสิ้นเชิง... ต่างจากศัตรูที่ไม่มีใครหยุดได้ในสนามรบลิบลับเลย..."
+    },
+    {
+      "key": "eventhematerialitsmadeofisamysteryratherthanametalitsmoreakintostonewaithaventweseenthissomewhererecently",
+      "text_en": "Even the material it's made of is a mystery. Rather than a metal, it's more akin to stone... Wait. Haven't we seen this somewhere recently?",
+      "text": "กระทั่งวัสดุที่ใช้ทำเจ้านี่ก็ยังเป็นปริศนา แทนที่จะเป็นโลหะ กลับดูคล้ายหินมากกว่า... เดี๋ยวสิ ช่วงนี้พวกเราเคยเห็นของแบบนี้ที่ไหนมาก่อนหรือเปล่านะ"
+    },
+    {
+      "key": "thatsrighttheglowingstoneusedinthechamberwiththegatetothegoldencity",
+      "text_en": "That's right! The glowing stone used in the chamber with the gate to the golden city!",
+      "text": "ใช่แล้ว! หินเรืองแสงในห้องประตูสู่นครแห่งทองคำไงล่ะ!"
+    },
+    {
+      "key": "uhyesitcertainlyisbutitsnothinglikewhatwasusedtocraftthismachine",
+      "text_en": "Uh, yes, it certainly is. But it's nothing like what was used to craft this machine.",
+      "text": "เอ้อ ใช่ จริงด้วย แต่ไม่เห็นจะเหมือนวัสดุที่ใช้สร้างเครื่องจักรนี่เลยสักนิด"
+    },
+    {
+      "key": "itsstoneissmoothandhasaglowlikethatwhichwesawinthechamberwiththegatetothegoldencity",
+      "text_en": "Its stone is smooth and has a glow─like that which we saw in the chamber with the gate to the golden city.",
+      "text": "ผิวหินของมันเรียบเนียนและส่องประกายเรืองแสง เหมือนอย่างที่พวกเราเห็นในห้องประตูสู่นครแห่งทองคำไม่มีผิด"
+    },
+    {
+      "key": "andwhilethesoldiersareadifferentcolorthewarshipsarethesameblackasthestoneofthegateitself",
+      "text_en": "And while the soldiers are a different color, the warships are the same black as the stone of the gate itself.",
+      "text": "และถึงสีของพวกทหารจะต่างออกไป แต่เรือรบกลับดำสนิทเหมือนหินตรงบานประตูไม่มีผิด"
+    },
+    {
+      "key": "therehastobeaconnectionletsshareourobservationswiththeotherswhenwegatheratsunperch",
+      "text_en": "There has to be a connection. Let's share our observations with the others when we gather at Sunperch.",
+      "text": "เรื่องนี้ต้องเกี่ยวข้องกันแน่ๆ พอไปรวมตัวกันที่ซันเพิร์ชแล้ว ค่อยเอาเรื่องที่สังเกตเห็นไปเล่าให้คนอื่นฟังเถอะ"
+    },
+    {
+      "key": "thesoonerwegettothebottomofthismysterythebetter",
+      "text_en": "The sooner we get to the bottom of this mystery, the better.",
+      "text": "ยิ่งไขปริศนานี้ได้เร็วเท่าไหร่ก็ยิ่งดีเท่านั้น"
+    },
+    {
+      "key": "lookslikeeveryoneisherealready",
+      "text_en": "Looks like everyone is here already.",
+      "text": "ดูเหมือนทุกคนจะมากันพร้อมหน้าแล้วนะ"
+    },
+    {
+      "key": "thankyouforcomingeveryone",
+      "text_en": "Thank you for coming, everyone.",
+      "text": "ขอบใจทุกคนมากที่มา"
+    },
+    {
+      "key": "andthankyoufortakingchargeinthereliefeffortwewouldvefaredfarworsewithoutyou",
+      "text_en": "And thank you for taking charge in the relief effort. We would've fared far worse without you.",
+      "text": "แล้วก็ขอบใจที่ช่วยเป็นธุระจัดการเรื่องบรรเทาทุกข์ด้วย หากขาดพวกเจ้าไป พวกเราคงย่ำแย่กว่านี้มากนัก"
+    },
+    {
+      "key": "someonehadtodoitthatsallcomeletstakestock",
+      "text_en": "Someone had to do it, that's all. Come, let's take stock.",
+      "text": "ยังไงก็ต้องมีคนลงมือทำนั่นแหละ มาเถอะ มาตรวจดูความเสียหายกันดีกว่า"
+    },
+    {
+      "key": "intermsofcasualtiesatleastfiftydiedintheattackandmanytimesthatnumberarewoundedallavailablehealersareseeingtotheircare",
+      "text_en": "In terms of casualties, at least fifty died in the attack, and many times that number are wounded. All available healers are seeing to their care.",
+      "text": "เรื่องยอดคนเจ็บคนตาย พลเมืองล้มตายจากการโจมตีอย่างน้อยห้าสิบชีวิต และบาดเจ็บล้นหลามกว่านั้นหลายเท่าตัว ตอนนี้ผู้รักษาทุกคนเท่าที่หาตัวได้กำลังเร่งดูแลเยียวยาอย่างสุดกำลัง"
+    },
+    {
+      "key": "structuraldamageatleastislimitedsoessentialbusinesscanbeconductedwithoutissue",
+      "text_en": "Structural damage, at least, is limited, so essential business can be conducted without issue.",
+      "text": "อย่างน้อยบ้านเรือนก็พังเสียหายไม่มากนัก กิจธุระสำคัญทั้งหลายจึงยังดำเนินต่อไปได้ไม่มีปัญหา"
+    },
+    {
+      "key": "thatsaidthepeopleareunderstandablyshakenwemustassuagetheirfearsandbeginworkingtorestorethingstonormalasquicklyaspossible",
+      "text_en": "That said, the people are understandably shaken. We must assuage their fears and begin working to restore things to normal as quickly as possible.",
+      "text": "ถึงอย่างนั้น ผู้คนย่อมขวัญเสียเป็นธรรมดา พวกเราต้องช่วยปลอบขวัญให้คลายความหวาดกลัว และเร่งฟื้นฟูทุกอย่างให้กลับสู่สภาพปกติโดยเร็วที่สุด"
+    },
+    {
+      "key": "nowthemostconfoundingmysteryremainsourenemy",
+      "text_en": "Now, the most confounding mystery remains our enemy...",
+      "text": "ทีนี้ ปริศนาที่ชวนสับสนที่สุดก็ยังคงเป็นเรื่องพวกศัตรู..."
+    },
+    {
+      "key": "andtheirmechanicalsoldierscreatedwithtechnologythatsurpassesanythingiveeverseen",
+      "text_en": "And their mechanical soldiers created with technology that surpasses anything I've ever seen...",
+      "text": "กับเหล่าทหารกลจักรที่อาศัยวิทยาการอันล้ำสมัยยิ่งกว่าสิ่งใดที่ผมเคยพบเห็นมา..."
+    },
+    {
+      "key": "whatistheirnatureandhowdidzoraaljamanagetobringthemunderhiscommandsuchthingsremainunknown",
+      "text_en": "What is their nature? And how did Zoraal Ja manage to bring them under his command? Such things remain unknown.",
+      "text": "พวกมันเป็นตัวอะไรกันแน่ แล้วโซราล จา สั่งการพวกมันให้อยู่ใต้บัญชาได้อย่างไร เรื่องพวกนี้ยังไม่มีใครล่วงรู้เลย"
+    },
+    {
+      "key": "theyemergedfromthedomeencasingyyasulaniwerequitecertainofthatmuch",
+      "text_en": "They emerged from the dome encasing Yyasulani, we're quite certain of that much.",
+      "text": "พวกมันผุดออกมาจากโดมที่ครอบยาซูเอนีไว้ เรื่องนี้เราแน่ใจทีเดียว"
+    },
+    {
+      "key": "ahspeakingofthedomewehavesometheoriesimtold",
+      "text_en": "Ah, speaking of the dome, we have some theories, I'm told.",
+      "text": "อ้อ พูดถึงเรื่องโดม ได้ยินว่าพวกเราพอจะมีข้อสันนิษฐานบางอย่างแล้วใช่ไหม"
+    },
+    {
+      "key": "indeediwouldliketocalluponsomehelperstojointhediscussionmayiinvitethemhere",
+      "text_en": "Indeed. I would like to call upon some helpers to join the discussion. May I invite them here?",
+      "text": "ใช่แล้วล่ะ ฉันอยากชวนผู้ช่วยบางคนมาร่วมวงหารือด้วย ขอฉันเชิญพวกเขาเข้ามาเลยได้ไหม"
+    },
+    {
+      "key": "byallmeans",
+      "text_en": "By all means!",
+      "text": "เชิญเลย!"
+    },
+    {
+      "key": "itsmepermissionhasbeengrantedyoucancomein",
+      "text_en": "It's me. Permission has been granted. You can come in.",
+      "text": "ฉันเอง ได้รับอนุญาตแล้ว เข้ามาข้างในได้เลย"
+    },
+    {
+      "key": "greetingseveryone",
+      "text_en": "Greetings, everyone!",
+      "text": "สวัสดีทุกคน!"
+    },
+    {
+      "key": "rahayshtola",
+      "text_en": "Raha! Y'shtola!",
+      "text": "ราฮา! ยัชโตล่า!"
+    },
+    {
+      "key": "afterthatlongvoyageihadhopedthatwemightbeaffordedamomentsrestbutigathercircumstancesarequitedire",
+      "text_en": "After that long voyage, I had hoped that we might be afforded a moment's rest, but I gather circumstances are quite dire.",
+      "text": "หลังรอนแรมเดินทางมาแสนไกล ก็หวังใจว่าจะได้หยุดพักผ่อนสักชั่วประเดี๋ยว แต่ดูเหมือนสถานการณ์จะคับขันไม่น้อย"
+    },
+    {
+      "key": "alliswellattheannexneverfearivealreadydealtwiththemostpressingmattersandothersholdthefortinmyabsence",
+      "text_en": "All is well at the annex, never fear. I've already dealt with the most pressing matters, and others hold the fort in my absence.",
+      "text": "ทุกอย่างที่อาคารส่วนแยกบาลเดซิออนเรียบร้อยดี ไม่ต้องกังวลไป ผมจัดการเรื่องเร่งด่วนที่สุดไปแล้ว และคนอื่นๆ ก็ยังคอยดูแลความเรียบร้อยตอนผมไม่อยู่"
+    },
+    {
+      "key": "followingthechangingofdawnservantsgulooljajaspokeaboutthegoldencitytohistwosuccessors",
+      "text_en": "Following the changing of Dawnservants, Gulool Ja Ja spoke about the golden city to his two successors.",
+      "text": "หลังการผลัดเปลี่ยนผู้ปกครองรุ่งอรุณ กูลูล จา จา ก็เล่าเรื่องนครแห่งทองคำให้ผู้สืบทอดทั้งสองฟัง"
+    },
+    {
+      "key": "thankstowuklamatiwasallowedtoattendthatmeeting",
+      "text_en": "Thanks to Wuk Lamat, I was allowed to attend that meeting.",
+      "text": "เพราะอุค ลามัต ฉันถึงได้เข้าร่วมการประชุมครั้งนั้น"
+    },
+    {
+      "key": "whatiheardledmetoconcludethatthiswasamatterforthestudentsthusdidicalluponourcomradeswhopossesstherequisiteexpertise",
+      "text_en": "What I heard led me to conclude that this was a matter for the Students. Thus did I call upon our comrades, who possess the requisite expertise.",
+      "text": "สิ่งที่ได้ฟังทำให้สรุปได้ว่านี่เป็นเรื่องของคณะวิจัยแห่งบัลเดเซียน ด้วยเหตุนี้จึงตามตัวพรรคพวกผู้มีความเชี่ยวชาญมาร่วมด้วย"
+    },
+    {
+      "key": "itwasactuallyafterthatthatthedomemanifestedbutbasedonwhatweknowihavereasontobelievethatitisconnectedtothegoldencity",
+      "text_en": "It was actually after that that the dome manifested. But based on what we know, I have reason to believe that it is connected to the golden city.",
+      "text": "อันที่จริง โดมนั้นผุดขึ้นมาหลังจากนั้น แต่จากข้อมูลที่มี ก็มีปัญญาพอจะเชื่อได้ว่าเชื่อมโยงกับนครแห่งทองคำ"
+    },
+    {
+      "key": "whilewereeagertohelpwehavelimitedfamiliaritywiththesituationmightwetroubleyoutoexplainfromthebeginning",
+      "text_en": "While we're eager to help, we have limited familiarity with the situation. Might we trouble you to explain from the beginning?",
+      "text": "แม้พวกเรายินดีจะช่วยเหลืออย่างยิ่ง แต่ทว่ารู้เรื่องราวน้อยเหลือเกิน จะเป็นการรบกวนคุณหรือไม่หากจะขอให้ช่วยเล่าตั้งแต่ต้น"
+    },
+    {
+      "key": "asyouknowitwasaletterifoundtuckedawayinthebaldesionannexthatbroughtmetotural",
+      "text_en": "As you know, it was a letter I found tucked away in the Baldesion Annex that brought me to Tural.",
+      "text": "อย่างที่รู้กันดี จดหมายที่พบซุกซ่อนอยู่ในอาคารสมทบบาลเดเซียนนั่นเองที่ชักนำให้มายังทูรัล"
+    },
+    {
+      "key": "aletterfromthedawnservantaddressedtomygrandfathersentsometwentyyearsago",
+      "text_en": "A letter from the Dawnservant addressed to my grandfather, sent some twenty years ago.",
+      "text": "จดหมายจากดอว์นเซอร์แวนต์ถึงคุณปู่ ซึ่งส่งมาเมื่อราวยี่สิบปีก่อน"
+    },
+    {
+      "key": "therequesttoinvestigatethecityofgold",
+      "text_en": "The request to investigate the city of gold.",
+      "text": "คำขอให้ช่วยสำรวจนครแห่งทองคำสินะครับ"
+    },
+    {
+      "key": "indeedthestrangethingistherewasmentionofneitherturalnorthecityinourrecords",
+      "text_en": "Indeed. The strange thing is, there was mention of neither Tural nor the city in our records.",
+      "text": "ใช่แล้วล่ะ แต่ที่แปลกก็คือ บันทึกของเราไม่ได้กล่าวถึงทั้งทูรัลและนครแห่งนั้นเลยสักนิด"
+    },
+    {
+      "key": "hopingtolearnthetruthofmygrandfathersmissionwhathedidandsawivolunteeredtohelpintheriteofsuccession",
+      "text_en": "Hoping to learn the truth of my grandfather's mission─what he did and saw─I volunteered to help in the rite of succession.",
+      "text": "ด้วยความหวังจะรู้ความจริงเรื่องภารกิจของคุณปู่—ว่าไปทำอะไรและพบเห็นสิ่งใดมาบ้าง—ฉันจึงเสนอตัวช่วยในศึกชิงบัลลังก์"
+    },
+    {
+      "key": "attheendofwhichiwasabletohearthetalefromgulooljaja",
+      "text_en": "At the end of which, I was able to hear the tale from Gulool Ja Ja.",
+      "text": "และเมื่อพิธีสิ้นสุดลง ฉันก็ได้ฟังเรื่องราวนั้นจากปากกูลูล จา จา"
+    },
+    {
+      "key": "likeusmygrandfatherwenttothedeepestchamberoftheskydeepcenoteandlikeushesawthegatetothegoldencity",
+      "text_en": "Like us, my grandfather went to the deepest chamber of the Skydeep Cenote. And like us, he saw the gate to the golden city.",
+      "text": "คุณปู่เดินทางไปถึงห้องส่วนลึกที่สุดของสกายดีพ ซีโนเต เช่นเดียวกับพวกเรา และได้เห็นประตูสู่นครแห่งทองคำเช่นเดียวกัน"
+    },
+    {
+      "key": "isthatwhatyourequiredourhelpwiththisgate",
+      "text_en": "Is that what you required our help with? This gate?",
+      "text": "นั่นคือเรื่องที่อยากให้พวกเราช่วยอย่างนั้นหรือ ประตูบานนั้นน่ะหรือ"
+    },
+    {
+      "key": "itwasyouseethegatewasopenedonceinthepastand",
+      "text_en": "It was. You see, the gate was opened once in the past, and...",
+      "text": "ใช่แล้วล่ะ ประตูบานนั้นเคยเปิดออกครั้งหนึ่งในอดีต และ..."
+    },
+    {
+      "key": "itledtoanotherreflection",
+      "text_en": "...It led to another reflection.",
+      "text": "...นำไปสู่พิภพกระจกเงาอีกแห่งหนึ่ง"
+    },
+    {
+      "key": "icantakethestoryfromhereconsiderinmypartintheseaffairsireckonmaybeimbestequippedtospeakonthematter",
+      "text_en": "I can take the story from here. Considerin' my part in these affairs, I reckon maybe I'm best equipped to speak on the matter.",
+      "text": "เรื่องหลังจากนี้ให้ลุงเล่าต่อเองดีกว่า ในเมื่อตัวลุงเองก็มีส่วนเกี่ยวข้องกับเรื่องพวกนี้ ก็น่าจะอธิบายได้ดีที่สุด"
+    },
+    {
+      "key": "iwastheretooyouseeinthoseruinstogetherwithgalufandgulooljajaandwhatisawthatdayillneverforget",
+      "text_en": "I was there too, you see. In those ruins, together with Galuf and Gulool Ja Ja. And what I saw that day, I'll never forget...",
+      "text": "ลุงก็อยู่ที่นั่นด้วยเหมือนกันนะ ในซากโบราณสถานแห่งนั้น ร่วมกับกาลุฟแล้วก็กูลูล จา จา... และไม่มีวันลืมสิ่งที่เห็นในวันนั้นได้เลย..."
+    },
+    {
+      "key": "thisblackstoneisremarkable",
+      "text_en": "This black stone is remarkable...",
+      "text": "หินสีดำก้อนนี้ช่างน่าทึ่งเหลือเกิน..."
+    },
+    {
+      "key": "icannothelpbutwonderifthestructuresinthispartoftheruinswerebuiltbyacompletelydifferentcivilization",
+      "text_en": "I cannot help but wonder if the structures in this part of the ruins were built by a completely different civilization.",
+      "text": "อดสงสัยไม่ได้จริงๆ ว่าสิ่งก่อสร้างในซากโบราณสถานบริเวณนี้จะเป็นฝีมือของอารยธรรมอื่นที่ต่างไปโดยสิ้นเชิง"
+    },
+    {
+      "key": "itwasoverathousandyearsagothatthegiantsminedhere",
+      "text_en": "It was over a thousand years ago that the giants mined here.",
+      "text": "พวกยักษ์เคยมาทำเหมืองที่นี่เมื่อกว่าพันปีก่อนนู่น"
+    },
+    {
+      "key": "theirrecordsmakenomentionofglowingstones",
+      "text_en": "Their records make no mention of glowing stones.",
+      "text": "แต่บันทึกของพวกนั้นไม่ได้เอ่ยถึงหินเรืองแสงเลยแม้แต่น้อย"
+    },
+    {
+      "key": "hmmm",
+      "text_en": "Hmmm...",
+      "text": "อืม..."
+    },
+    {
+      "key": "itharborshighconcentrationsofaetherandonthesurfacearewhatappeartobearcanepatterns",
+      "text_en": "It harbors high concentrations of aether. And on the surface are what appear to be arcane patterns.",
+      "text": "อัดแน่นไปด้วยเอเธอร์เข้มข้นสูง แถมบนพื้นผิวก็ปรากฏลวดลายที่ดูคล้ายอักขระเวทมนตร์โบราณ"
+    },
+    {
+      "key": "theyarentallaganormhachiornymianifanythingtheyputmeinmindofthecalculationsofthesouthseaislandersbuteventhen",
+      "text_en": "They aren't Allagan or Mhachi or Nymian. If anything, they put me in mind of the calculations of the south sea islanders. But even then...",
+      "text": "ไม่ใช่ทั้งของอลาแกน มาชิ หรือนิเมียนหรอก หากจะใกล้เคียงที่สุด ก็ชวนให้นึกถึงวิธีคำนวณของพวกชาวเกาะทะเลใต้ แต่ถึงอย่างนั้นก็ยัง..."
+    },
+    {
+      "key": "sevenhells",
+      "text_en": "Seven hells!",
+      "text": "นรกทั้งเจ็ดขุม!"
+    },
+    {
+      "key": "whatdidyoudo",
+      "text_en": "What did you do?",
+      "text": "ทำอะไรลงไปน่ะ"
+    },
+    {
+      "key": "nnothing",
+      "text_en": "N-Nothing...",
+      "text": "ป-เปล่าครับ..."
+    },
+    {
+      "key": "anearthquake",
+      "text_en": "An earthquake!?",
+      "text": "แผ่นดินไหวรึ!?"
+    },
+    {
+      "key": "noneofthishaseverhappenedbefore",
+      "text_en": "None of this has ever happened before...",
+      "text": "ไม่เคยเกิดเรื่องแบบนี้ขึ้นมาก่อนเลย..."
+    },
+    {
+      "key": "avoidgatenaythisisdifferent",
+      "text_en": "A voidgate? Nay... This is...different.",
+      "text": "รอยแยกมิติมืดงั้นรึ ไม่ใช่... นี่มัน...ต่างออกไป"
+    },
+    {
+      "key": "ababy",
+      "text_en": "A baby...?",
+      "text": "เด็กทารก...?"
+    },
+    {
+      "key": "nowholdonwhywouldyou",
+      "text_en": "Now hold on... Why would you...",
+      "text": "เดี๋ยวก่อนครับ... ทำไมถึง..."
+    },
+    {
+      "key": "nowwhatsthis",
+      "text_en": "Now what's this?",
+      "text": "แล้วนี่อะไรกัน"
+    },
+    {
+      "key": "whatisthiswhoareyou",
+      "text_en": "What is this? Who are you?",
+      "text": "นี่มันอะไรกัน เจ้าเป็นใครกัน"
+    },
+    {
+      "key": "thoughitneveropenedagaingalufcontinuedtostudythegateforyearsafterthathopintolearnsomethinofvalue",
+      "text_en": "Though it never opened again, Galuf continued to study the gate for years after that, hopin' to learn somethin' of value.",
+      "text": "แม้ประตูบานนั้นจะไม่เคยเปิดออกอีกเลย แต่กาลัฟยังคงศึกษาต่ออีกหลายปีหลังจากนั้น ด้วยหวังว่าจะได้เบาะแสที่มีค่าบ้าง"
+    },
+    {
+      "key": "allhecouldconcludewasthatitwasbuiltwithunknowntechnologyandthatitledtoanotherworldoneapartfromthevoid",
+      "text_en": "All he could conclude was that it was built with unknown technology, and that it led to another world. One apart from the void.",
+      "text": "สรุปได้เพียงว่าสร้างขึ้นด้วยวิทยาการลึกลับที่ไม่มีใครรู้จัก และนำไปสู่โลกอีกใบ... โลกที่อยู่นอกเหนือจากวอยด์"
+    },
+    {
+      "key": "wedassumedtheruinsthemselveswerethegoldencityonlytodiscoverthattherealprizeactuallylaybeyondthegateandbeyondourreach",
+      "text_en": "We'd assumed the ruins themselves were the golden city, only to discover that the real prize actually lay beyond the gate─and beyond our reach.",
+      "text": "พวกเราทึกทักเอาเองว่าซากโบราณสถานแห่งนี้คือนครแห่งทองคำ ทว่าสุดท้ายกลับพบว่ารางวัลที่แท้จริงนั้นตั้งอยู่เลยประตูบานนั้นออกไป... และอยู่ไกลเกินกว่าเดอะ รีช ของพวกเรา"
+    },
+    {
+      "key": "couldntmakeheadnortailoftheartifacteither",
+      "text_en": "Couldn't make head nor tail of the artifact either.",
+      "text": "ส่วนโบราณวัตถุชิ้นนั้นก็จับต้นชนปลายไม่ถูกเหมือนกัน"
+    },
+    {
+      "key": "asithadsimilarpropertiestotheblackstoneintheruinswewereconvinceditwasimportantsogulooljajatookittothepalaceforsafekeepin",
+      "text_en": "As it had similar properties to the black stone in the ruins, we were convinced it was important, so Gulool Ja Ja took it to the palace for safekeepin'.",
+      "text": "เนื่องจากมีลักษณะคล้ายคลึงกับศิลาสีดำในซากโบราณสถาน พวกเราจึงมั่นใจว่าสิ่งนี้ต้องสำคัญมาก กูลูล จา จา เลยนำไปเก็บรักษาไว้ในพระราชวัง"
+    },
+    {
+      "key": "galufmeanwhiletookthebabywithhimbacktosharlayanandraisedherashisown",
+      "text_en": "Galuf, meanwhile, took the baby with him back to Sharlayan and raised her as his own.",
+      "text": "ส่วนกาลัฟก็พาทารกคนนั้นกลับไปยังชาร์ลาแยนด้วยกัน และเลี้ยงดูฟูมฟักเสมือนเป็นลูกแท้ๆ ของตนเอง"
+    },
+    {
+      "key": "thenthechildwas",
+      "text_en": "Then the child was...",
+      "text": "ถ้าอย่างนั้น เด็กคนนั้นก็คือ..."
+    },
+    {
+      "key": "theearringinsidethelettertomygrandfatheritwasapparentlyfoundamongstmyswaddlingclothes",
+      "text_en": "The earring inside the letter to my grandfather... It was apparently found amongst my swaddling clothes.",
+      "text": "ต่างหูที่ส่งมาพร้อมจดหมายถึงคุณปู่... เห็นว่าพบอยู่ในผ้าอ้อมที่ห่อหุ้มตัวฉันตอนแบเบาะ"
+    },
+    {
+      "key": "ifthisistruethenitmeansthatyouhailfromanotherreflection",
+      "text_en": "If this is true, then it means that you hail from another reflection...",
+      "text": "หากเรื่องนี้เป็นจริง ก็หมายความว่าคุณมาจากโลกต่างมิติอีกใบ..."
+    },
+    {
+      "key": "soitwouldseemistillstruggletotakeitallinmyself",
+      "text_en": "So it would seem. I still struggle to take it all in myself.",
+      "text": "คงจะเป็นเช่นนั้นล่ะนะ ขนาดฉันเองก็ยังทำใจเชื่อยากอยู่เลย"
+    },
+    {
+      "key": "lookingbackgrandfatherwasalwaysquicktoseekdistractionswheneveribroachedthesubjectbutneverwouldihaveguessedanythinglikethis",
+      "text_en": "Looking back, Grandfather was always quick to seek distractions whenever I broached the subject. But never would I have guessed anything like this...",
+      "text": "พอคิดย้อนไป คุณปู่ก็มักจะเฉไฉเปลี่ยนเรื่องคุยทุกทีเวลาฉันเริ่มเปิดประเด็น แต่ไม่นึกฝันเลยว่าเรื่องราวจะเป็นแบบนี้..."
+    },
+    {
+      "key": "butenoughaboutmewehavemorepressingmatters",
+      "text_en": "But enough about me. We have more pressing matters.",
+      "text": "แต่เอาเรื่องของฉันไว้แค่นี้ก่อนเถอะ ตอนนี้เราต้องจัดการเรื่องอื่นที่เร่งด่วนกว่า"
+    },
+    {
+      "key": "theforcesthatassailedtuliyollalyoususpecttheyaresomehowconnectedtothegoldencity",
+      "text_en": "The forces that assailed Tuliyollal─you suspect they are somehow connected to the golden city?",
+      "text": "กองกำลังที่เข้าจู่โจมทูลียอลลัล... ท่านสงสัยว่ามีความเกี่ยวพันกับนครแห่งทองคำอย่างนั้นหรือ"
+    },
+    {
+      "key": "thinkingbackonitthesoldierslookedliketheycouldvebeenmadefromthesameblackstone",
+      "text_en": "Thinking back on it, the soldiers looked like they could've been made from the same black stone.",
+      "text": "พอนึกดูแล้ว ทหารพวกนั้นดูเหมือนจะสร้างมาจากหินสีดำแบบเดียวกันเลยนะ"
+    },
+    {
+      "key": "andleadinthemwaszoraaljahisinvolvementalsolendsweighttothetheory",
+      "text_en": "And leadin' them was Zoraal Ja... His involvement also lends weight to the theory.",
+      "text": "แถมคนนำทัพยังเป็นโซราล จา... การที่เจ้านั่นเข้ามาพัวพันยิ่งช่วยสนับสนุนข้อสันนิษฐานนี้"
+    },
+    {
+      "key": "onthedayofthesuccessionceremonyabandittookmeunawaresandknockedmeout",
+      "text_en": "On the day of the succession ceremony, a bandit took me unawares and knocked me out.",
+      "text": "ในวันพิธีสืบทอดราชบัลลังก์ โจรคนหนึ่งลอบเล่นงานตอนฉันไม่ทันตั้งตัวจนสลบไป"
+    },
+    {
+      "key": "whenicametoifoundmyhometurnedupsidedownwithafewparticularitemsmissin",
+      "text_en": "When I came to, I found my home turned upside down, with a few particular items missin'.",
+      "text": "พอฟื้นขึ้นมา ก็พบว่าข้าวของในบ้านกระจุยกระจายรุงรังไปหมด แถมของสำคัญบางอย่างยังหายไปอีก"
+    },
+    {
+      "key": "namelythekeystonesiwasentrustedwithformyroleaswatcherofthegate",
+      "text_en": "Namely, the keystones I was entrusted with for my role as watcher of the gate.",
+      "text": "นั่นคือศิลาไขกุญแจที่ฉันได้รับฝากไว้ในฐานะผู้ดูแลประตู"
+    },
+    {
+      "key": "thebandityoubelievethatitwas",
+      "text_en": "The bandit─you believe that it was...?",
+      "text": "โจรคนนั้น... ท่านคิดว่าเป็น... อย่างนั้นหรือครับ"
+    },
+    {
+      "key": "ionlygotaglimpseofembutayeitwasabluescaledhoobigoiknowofnoother",
+      "text_en": "I only got a glimpse of 'em, but aye. It was a blue-scaled Hoobigo. I know of no other.",
+      "text": "ฉันเห็นแค่แวบเดียว แต่ก็ใช่เลย เป็นชาวฮูบิโกเกล็ดเผ่าบลูแน่ๆ และฉันก็นึกถึงใครอื่นไม่ออกอีกแล้ว"
+    },
+    {
+      "key": "theartifactstoredatthepalacewasalsostolenthethiefstruckduringtheceremonywhentheguardwasspreadthin",
+      "text_en": "The artifact stored at the palace was also stolen. The thief struck during the ceremony, when the guard was spread thin.",
+      "text": "วัตถุโบราณที่เก็บรักษาไว้ในพระราชวังก็สูญหายไปเช่นกัน โจรอาศัยช่วงระหว่างพิธีการลงมือ ตอนที่เวรยามกำลังเบาบาง"
+    },
+    {
+      "key": "soourassumptioniszoraaljasomehowopenedthatgatetoanotherreflectionwhereheacquiredadvancedtechnologyandhismechanicalarmy",
+      "text_en": "So our assumption is Zoraal Ja somehow opened that gate to another reflection, where he acquired advanced technology and his mechanical army?",
+      "text": "ถ้าอย่างนั้น พวกเราก็สันนิษฐานได้ว่าโซราล จา หาทางเปิดประตูสู่โลกสะท้อนอื่น จนได้เทคโนโลยีล้ำยุคกับกองทัพจักรกลกลับมาสินะครับ"
+    },
+    {
+      "key": "itfitsandifhedidthenitsalsolikelythatthedomeisaproductofthisunknownreflection",
+      "text_en": "It fits. And if he did, then it's also likely that the dome is a product of this unknown reflection.",
+      "text": "ฟังดูมีเหตุผลทีเดียวครับ และหากเป็นเช่นนั้นจริง โดมลึกลับนี่ก็น่าจะเป็นผลผลิตจากโลกสะท้อนที่เราไม่รู้จักเช่นกัน"
+    },
+    {
+      "key": "holdonwevebeengoingonandonaboutreflectionsbutwhatofmyhomewhatsbecomeofit",
+      "text_en": "Hold on. We've been going on and on about reflections, but what of my home? What's become of it?",
+      "text": "เดี๋ยวก่อน พวกคุณเอาแต่พูดเรื่องโลกสะท้อนไม่หยุด แล้วบ้านของฉันล่ะ ป่านนี้จะเป็นอย่างไรบ้าง"
+    },
+    {
+      "key": "indeedwhereitconcernsotherrealitiesidaresaythescionsarebestsuitedtotacklethetask",
+      "text_en": "Indeed. Where it concerns other realities, I daresay the Scions are best suited to tackle the task.",
+      "text": "นั่นสินะครับ หากเป็นเรื่องเกี่ยวกับต่างมิติ ผมกล้าพูดเลยว่ากลุ่มไซออนส์เหมาะสมที่สุดที่จะจัดการเรื่องนี้"
+    },
+    {
+      "key": "youcansaythatagainwevebeentotheliteraledgeofexistencesomemysteriousgiantdomeshouldntscareus",
+      "text_en": "You can say that again! We've been to the literal edge of existence. Some mysterious giant dome shouldn't scare us!",
+      "text": "จริงที่สุด! พวกเราเคยเดินทางไปถึงสุดขอบของความจริงมาแล้ว โดมยักษ์ลึกลับพรรค์นี้ไม่มีทางทำให้กลัวได้หรอก!"
+    },
+    {
+      "key": "asyouknowourorderhasostensiblydisbandedwedthankyoutobediscreetaboutourunofficialreunion",
+      "text_en": "As you know, our order has ostensibly disbanded. We'd thank you to be discreet about our unofficial reunion.",
+      "text": "อย่างที่ทราบกันดีว่าภาคีของเรายุบตัวลงตามฉากหน้าไปแล้ว จึงอยากขอให้เก็บเรื่องการพบกันอีกครั้งอย่างไม่เป็นทางการครั้งนี้ไว้เป็นความลับด้วย"
+    },
+    {
+      "key": "worrynotwellsparenoefforttogettothebottomofthisandwithourheroeagertohelpyoucanbeconfidentoftheresults",
+      "text_en": "Worry not, we'll spare no effort to get to the bottom of this. And with our hero eager to help, you can be confident of the results!",
+      "text": "ไม่ต้องกังวลไปนะครับ พวกเราจะพยายามสืบหาความจริงเรื่องนี้ให้ถึงที่สุด และยิ่งได้วีรบุรุษของเรามาช่วยงานอย่างกระตือรือร้นแบบนี้ มั่นใจในผลลัพธ์ได้เลยครับ!"
+    },
+    {
+      "key": "imcomingwithyouifthatswheremybrotheristhenthatswhereimustgo",
+      "text_en": "I'm coming with you. If that's where my brother is, then that's where I must go.",
+      "text": "ฉันจะไปด้วย ถ้าพี่ชายฉันอยู่ที่นั่น ฉันก็ต้องไปที่นั่นเหมือนกัน"
+    },
+    {
+      "key": "icantsayiunderstandeverythingyourediscussingbutiknowwhatihavetodo",
+      "text_en": "I can't say I understand everything you're discussing, but I know what I have to do.",
+      "text": "ถึงจะพูดไม่ได้เต็มปากว่าเข้าใจเรื่องที่พวกนายคุยกันทั้งหมด แต่ฉันรู้ดีว่าตัวเองต้องทำอะไร"
+    },
+    {
+      "key": "ihavetoputastoptozoraaljaandrestorethepeopleshappiness",
+      "text_en": "I have to put a stop to Zoraal Ja, and restore the people's happiness!",
+      "text": "ฉันต้องหยุดยั้งโซราล จา และกอบกู้ความสุขของทุกคนกลับคืนมาให้ได้!"
+    },
+    {
+      "key": "sufficeittosayisharelamatyisdesiretojoinyouhoweverunderthesecircumstancesitwouldbeunwiseforbothvowstobeabsentfromthecity",
+      "text_en": "Suffice it to say I share Lamaty'i's desire to join you. However, under these circumstances, it would be unwise for both Vows to be absent from the city.",
+      "text": "ผมเองก็อยากร่วมเดินทางไปกับพวกคุณไม่ต่างจากลามาตีย์ แต่ในสถานการณ์เช่นนี้ การที่ผู้นำร่วมทั้งสองฝ่ายจะละทิ้งเมืองไปพร้อมกันคงไม่ใช่เรื่องที่ฉลาดนัก"
+    },
+    {
+      "key": "assuchishallremainintuliyollal",
+      "text_en": "As such, I shall remain in Tuliyollal.",
+      "text": "เพราะเหตุนั้น ผมจะอยู่ดูแลทูลียอลลัลเอง"
+    },
+    {
+      "key": "comewhatmayiwillprotectournationsogoforthsisteranddowhatyoumust",
+      "text_en": "Come what may, I will protect our nation. So go forth, Sister, and do what you must.",
+      "text": "ไม่ว่าจะเกิดอะไรขึ้น ผมจะปกป้องบ้านเมืองของเราไว้ให้ได้ เพราะฉะนั้นไปเถอะน้องพี่ ไปทำในสิ่งที่ต้องทำเถอะ"
+    },
+    {
+      "key": "thankyou",
+      "text_en": "Thank you.",
+      "text": "ขอบใจนะ"
+    },
+    {
+      "key": "itmaybeprudentforustolikewisedivideourforceswhileonegroupventuresintothedometheotherkeepsguardwithout",
+      "text_en": "It may be prudent for us to likewise divide our forces. While one group ventures into the dome, the other keeps guard without.",
+      "text": "พวกเราก็น่าจะแบ่งกลุ่มกันเช่นเดียวกัน ขณะที่กลุ่มหนึ่งเข้าไปในโดม อีกกลุ่มจะได้คอยเฝ้าระวังอยู่ด้านนอก"
+    },
+    {
+      "key": "agreedtheressomethingiwishtoinvestigateoutheresoiwillremain",
+      "text_en": "Agreed. There's something I wish to investigate out here, so I will remain.",
+      "text": "เห็นด้วยค่ะ ฉันต้องสำรวจบางอย่างข้างนอกนี่สักหน่อย เพราะฉะนั้นจะขออยู่ต่อที่นี่"
+    },
+    {
+      "key": "iaswelltheenemyswarshipsstillloomoverheadandiwouldseethatwerepreparedfortheworst",
+      "text_en": "I as well. The enemy's warships still loom overhead, and I would see that we're prepared for the worst.",
+      "text": "ผมก็ด้วย เรือรบของศัตรูยังลอยตระหง่านอยู่เหนือหัวเรา และผมอยากมั่นใจว่าพวกเราเตรียมรับมือกับสถานการณ์ที่เลวร้ายที่สุดไว้แล้ว"
+    },
+    {
+      "key": "iwishtogotothedome",
+      "text_en": "I wish to go to the dome.",
+      "text": "ฉันอยากเข้าไปในโดมด้วยค่ะ"
+    },
+    {
+      "key": "asastudentihaveanobligationtoinvestigatethispotentialthreattotheworld",
+      "text_en": "As a Student, I have an obligation to investigate this potential threat to the world.",
+      "text": "ในฐานะศิษย์แห่งบาลเดเชียน ฉันต้องเข้าสืบค้นภัยคุกคามที่อาจเกิดขึ้นต่อโลกใบนี้"
+    },
+    {
+      "key": "butidbelyingifisaidimnotdeathlycuriousaboutmyoriginsiftheresaughttobelearnedtheniwanttolearnit",
+      "text_en": "But I'd be lying if I said I'm not deathly curious about my origins. If there's aught to be learned, then I want to learn it.",
+      "text": "แต่ถ้าจะบอกว่าฉันไม่นึกอยากรู้เรื่องชาติกำเนิดของตัวเองเลยสักนิด ก็คงโกหกคำโต หากสืบเสาะหาเบาะแสใดได้ ฉันก็อยากรู้ให้กระจ่าง"
+    },
+    {
+      "key": "inthatcasepleaseletmecometoo",
+      "text_en": "In that case, please let me come too.",
+      "text": "ถ้าอย่างนั้น ให้ฉันไปด้วยคนเถอะ"
+    },
+    {
+      "key": "ihavetoseewhatsbecomeofmyhomeimaynotbeafighterbutiknowthoselandslikethebackofmyhandicanguideyou",
+      "text_en": "I have to see what's become of my home. I may not be a fighter, but I know those lands like the back of my hand. I can guide you.",
+      "text": "ฉันต้องไปดูให้เห็นกับตาว่าเกิดอะไรขึ้นกับบ้านเกิด ถึงจะสู้รบปรบมือกับใครไม่ได้ แต่ฉันรู้จักผืนดินแถบนั้นดีเหมือนฝ่ามือตัวเอง ฉันนำทางให้ได้"
+    },
+    {
+      "key": "ifyouhadntofferediwouldveaskedwerecountingonyou",
+      "text_en": "If you hadn't offered, I would've asked. We're counting on you!",
+      "text": "ถ้าเจ้าไม่เสนอตัว ข้าก็คงเอ่ยปากขออยู่ดี ฝากด้วยนะ!"
+    },
+    {
+      "key": "imnotoneforwaitingaroundsoifitsallthesametoyouilljointhedomecrew",
+      "text_en": "I'm not one for waiting around, so if it's all the same to you, I'll join the dome crew.",
+      "text": "ฉันไม่ใช่พวกชอบนั่งอุดอู้รอเฉยๆ หรอกนะ ถ้าทุกคนไม่ขัดข้อง ฉันขอร่วมกลุ่มที่จะไปสำรวจโดมด้วยคน"
+    },
+    {
+      "key": "youshouldaccompanythemgrahaiexpectyourknowledgeandexperiencewillbeuseful",
+      "text_en": "You should accompany them, G'raha. I expect your knowledge and experience will be useful.",
+      "text": "เธอควรไปกับพวกเขาด้วยนะ กราฮา ฉันคิดว่าความรู้และประสบการณ์ของเธอน่าจะสร้างประโยชน์ได้ไม่น้อย"
+    },
+    {
+      "key": "inthemeantimeiintendtolearnwhaticanaboutthegateandwillkeepyouapprisedofmyfindingspraydothesame",
+      "text_en": "In the meantime, I intend to learn what I can about the gate, and will keep you apprised of my findings. Pray do the same.",
+      "text": "ระหว่างนี้ ฉันจะสืบหาเรื่องราวเกี่ยวกับประตูมิตินี้เท่าที่จะทำได้ แล้วจะคอยส่งข่าวเรื่องที่พบให้ทราบ พวกเธอเองก็เช่นกันนะ"
+    },
+    {
+      "key": "assumingcommunicationispossiblefrominsidethedomewellmaintaincontactandshareanydevelopments",
+      "text_en": "Assuming communication is possible from inside the dome, we'll maintain contact and share any developments.",
+      "text": "หากยังติดต่อสื่อสารจากในโดมได้ พวกเราจะคอยติดต่อและรายงานความคืบหน้าให้ทราบอย่างต่อเนื่องครับ"
+    },
+    {
+      "key": "itseemsourteamsareassembledafinerosterithink",
+      "text_en": "It seems our teams are assembled. A fine roster, I think.",
+      "text": "ดูเหมือนว่าพวกเราจะแบ่งกำลังพลเรียบร้อยแล้ว เป็นการจัดทีมที่ยอดเยี่ยมทีเดียว"
+    },
+    {
+      "key": "looksgoodtomewellfindawaytodealwiththethreatforthesakeoftural",
+      "text_en": "Looks good to me. We'll find a way to deal with the threat─for the sake of Tural!",
+      "text": "ฉันเห็นด้วยเลย พวกเราต้องหาทางรับมือภัยคุกคามนี้ให้ได้—เพื่อทูรัล!"
+    },
+    {
+      "key": "itstrulyhearteningtohaveyouatoursideforthisthankyoueveryone",
+      "text_en": "It's truly heartening to have you at our side for this. Thank you, everyone.",
+      "text": "ดีใจเหลือเกินที่ได้พวกเธอมาเคียงข้างในยามนี้ ขอบใจทุกคนมากนะ"
+    },
+    {
+      "key": "nowbeforewesetofftheresonethingineedtodothepeoplearestillshakenbytheattackandidliketoreassurethemasbestican",
+      "text_en": "Now, before we set off, there's one thing I need to do. The people are still shaken by the attack, and I'd like to reassure them as best I can.",
+      "text": "เอาละ ก่อนจะออกเดินทาง ยังมีอีกเรื่องหนึ่งที่ต้องทำ ชาวเมืองยังขวัญเสียกับการโจมตีครั้งนี้ ฉันจึงอยากปลอบขวัญพวกเขาให้ดีที่สุดเท่าที่จะทำได้"
+    },
+    {
+      "key": "thistalkofreflectionisperplexingtosaytheleastishouldbegladforyourhelpinunderstandingandovercomingthiscrisis",
+      "text_en": "This talk of reflection is perplexing, to say the least. I should be glad for your help in understanding and overcoming this crisis.",
+      "text": "เรื่องโลกต่างมิตินี้ชวนสับสนเหลือเกิน ทว่ายินดีอย่างยิ่งหากได้รับความช่วยเหลือจากพวกคุณเพื่อทำความเข้าใจและฝ่าฟันวิกฤตนี้ไปด้วยกัน"
+    },
+    {
+      "key": "istruggletobelieveiamfromanotherreflectioniwonderdoesthismeanmysoulisthinnerthananativeofthesource",
+      "text_en": "I struggle to believe I am from another reflection. I wonder, does this mean my soul is thinner than a native of the Source?",
+      "text": "ยังแทบไม่อยากเชื่อเลยว่าตัวเองมาจากโลกต่างมิติอื่น แบบนี้จะหมายความว่าวิญญาณของฉันเบาบางกว่าผู้คนที่เกิดในโลกต้นแบบหรือเปล่านะ"
+    },
+    {
+      "key": "surelynotyshtolawouldhavenoticedgodstheressomuchidontunderstandmyheadisripetoburst",
+      "text_en": "Surely not. Y'shtola would have noticed. Gods, there's so much I don't understand, my head is ripe to burst...",
+      "text": "คงไม่ใช่หรอก ไม่อย่างนั้นยาชโทลาก็คงสังเกตเห็นแล้ว ให้ตายสิ เรื่องที่ไม่เข้าใจเยอะแยะเหลือเกินจนหัวแทบระเบิดแล้ว..."
+    },
+    {
+      "key": "ifearweneedtoknowmoreifweretodefendagainstanotherassault",
+      "text_en": "I fear we need to know more if we're to defend against another assault.",
+      "text": "เกรงว่าต้องสืบหาข้อมูลให้มากกว่านี้ หากคิดจะป้องกันการโจมตีระลอกใหม่"
+    },
+    {
+      "key": "imindebtedtoojikaforoverseeingouroperationsinmyabsenceiwillendeavortomakemyselfasusefulasicanhere",
+      "text_en": "I'm indebted to Ojika for overseeing our operations in my absence. I will endeavor to make myself as useful as I can here.",
+      "text": "ต้องขอบคุณโอจิกะจริงๆ ที่ช่วยดูแลงานทางนี้แทนในช่วงที่ผมไม่อยู่ จากนี้ผมจะพยายามช่วยงานที่นี่ให้เกิดประโยชน์สูงสุดครับ"
+    },
+    {
+      "key": "anotherreflectionencroachesuponourownbuthowandwhynow",
+      "text_en": "Another reflection encroaches upon our own, but how, and why now?",
+      "text": "โลกต่างมิติอื่นกำลังรุกล้ำเข้ามาในโลกของเรา ทว่าเกิดขึ้นได้อย่างไร และทำไมต้องเป็นตอนนี้"
+    },
+    {
+      "key": "pleasebesafe",
+      "text_en": "Please be safe...",
+      "text": "ขอให้ปลอดภัยนะ..."
+    },
+    {
+      "key": "wellfindawaytobreachthedomeandwellmakesureeveryoneinsideissafe",
+      "text_en": "We'll find a way to breach the dome, and we'll make sure everyone inside is safe.",
+      "text": "พวกเราต้องหาทางฝ่าโดมนั้นเข้าไปให้ได้ และจะช่วยให้ทุกคนข้างในปลอดภัยอย่างแน่นอน"
+    },
+    {
+      "key": "itsembarrassintothinkhowzoraaljacaughtmeunawaresbutivenodoubtthebastardcametokillmeireckonhewouldvesucceededwereitanyoneelse",
+      "text_en": "It's embarrassin' to think how Zoraal Ja caught me unawares, but I've no doubt the bastard came to kill me. I reckon he would've succeeded were it anyone else.",
+      "text": "นึกแล้วก็น่าขายหน้าชะมัดที่ปล่อยให้โซราล จา ลอบเล่นงานตอนเผลอ แต่ไม่สงสัยเลยสักนิดว่าเจ้าสารเลวนั่นจงใจมาเอาชีวิตแน่ ถ้าเป็นคนอื่นคงไม่รอดกลับมาแล้ว"
+    },
+    {
+      "key": "whowouldvethoughthimtakinthatkeywouldleadtoallthis",
+      "text_en": "Who would've thought him takin' that key would lead to all this?",
+      "text": "ใครจะไปคิดว่าแค่ชิงกุญแจดอกนั้นไปจะทำให้เกิดเรื่องราวใหญ่โตถึงเพียงนี้"
+    },
+    {
+      "key": "vowwuklamatandtheothersarewaitingforyourightthisway",
+      "text_en": "Vow Wuk Lamat and the others are waiting for you. Right this way.",
+      "text": "ท่านวุค ลามัตกับคนอื่นๆ กำลังรอท่านอยู่ เชิญทางนี้ครับ"
+    },
+    {
+      "key": "iknowwhatihavetodonow",
+      "text_en": "I know what I have to do now.",
+      "text": "ตอนนี้ข้ารู้แล้วว่าต้องทำอย่างไรต่อไป"
+    }
+  ]
+}

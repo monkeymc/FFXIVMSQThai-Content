@@ -1,0 +1,690 @@
+{
+  "quest_id": "taking-a-stand",
+  "dialogues": [
+    {
+      "key": "recallingthepasthasrenderedmeemotional",
+      "text_en": "Recalling the past has rendered me...emotional.",
+      "text": "พอหวนนึกถึงเรื่องในอดีต ข้าพเจ้าก็อดสะเทือนใจไม่ได้..."
+    },
+    {
+      "key": "irequireamomenttocomposemyselfbutpleasedonotkeepthethirdpromisewaiting",
+      "text_en": "I require a moment to compose myself. But please, do not keep the Third Promise waiting.",
+      "text": "ข้าพเจ้าขอเวลาสงบจิตใจสักครู่ แต่ท่านช่วยไปหาผู้ให้สัญญาที่สามเถิด อย่าปล่อยให้ต้องรอเลย"
+    },
+    {
+      "key": "ifeelbetterhavingspokenwithyoumythanks",
+      "text_en": "I feel better having spoken with you. My thanks.",
+      "text": "พอได้พูดคุยกับท่านแล้ว ข้าพเจ้าก็รู้สึกดีขึ้นมาก ขอบใจจริงๆ"
+    },
+    {
+      "key": "finishedspeakingwithhunmurrukhaveyou",
+      "text_en": "Finished speaking with Hunmu Rruk, have you?",
+      "text": "คุยกับฮุนมู รรุก เสร็จเรียบร้อยแล้วล่ะสิ"
+    },
+    {
+      "key": "yourebacksowhatdidhunmurrukwant",
+      "text_en": "You're back! So what did Hunmu Rruk want?",
+      "text": "กลับมาแล้วเรอะ! แล้วฮุนมู รรุก อยากคุยอะไรด้วยล่ะ"
+    },
+    {
+      "key": "hehitsallrightyoudonthavetosaymoreimportantlythetyiinbektraversestillisntclearyetsomethingaboutevenmorerocks",
+      "text_en": "Heh, it's all right, you don't have to say. More importantly, the Ty'iinbek Traverse still isn't clear yet. Something about even more rocks.",
+      "text": "ฮะๆ ไม่เป็นไรหรอก ไม่ต้องเล่าก็ได้ ที่สำคัญกว่าคือทางผ่านช่องเขาทายอินเบกยังไม่เปิดเลย เห็นว่าหินก้อนใหญ่ถล่มลงมาขวางทางเพิ่มอีก"
+    },
+    {
+      "key": "thenithinkilltaketheopportunitytorestallthatcookingandpreparingforithaswornmeout",
+      "text_en": "Then I think I'll take the opportunity to rest. All that cooking and preparing for it has worn me out...",
+      "text": "ถ้าอย่างนั้นฉันคงต้องขอถือโอกาสนี้พักผ่อนสักหน่อย ทั้งทำอาหารทั้งเตรียมการตั้งหลายอย่าง เล่นเอาหมดเรี่ยวหมดแรงไปเลย..."
+    },
+    {
+      "key": "anapdoessoundtempting",
+      "text_en": "A nap does sound tempting...",
+      "text": "ได้นอนงีบสักตื่นก็ฟังดูน่าสนใจทีเดียว..."
+    },
+    {
+      "key": "amomentpromise",
+      "text_en": "A moment, Promise.",
+      "text": "เดี๋ยวก่อน ผู้ให้สัญญาที่สาม"
+    },
+    {
+      "key": "youreoneofbakooljajaswhatdoyouwant",
+      "text_en": "You're one of Bakool Ja Ja's... What do you want?",
+      "text": "แกเป็นคนของบาคูล จา จา... ต้องการอะไร"
+    },
+    {
+      "key": "ivecometofetchyouyourewelcometorefusebutknowthatitwouldbemostunwise",
+      "text_en": "I've come to fetch you. You're welcome to refuse, but know that it would be most unwise.",
+      "text": "ข้าพเจ้ามารับท่าน จะปฏิเสธก็ได้ ทว่าคงไม่เป็นผลดีต่อตัวท่านนัก"
+    },
+    {
+      "key": "andwhysthat",
+      "text_en": "And why's that?",
+      "text": "แล้วเพราะอะไรกันล่ะ"
+    },
+    {
+      "key": "imsureyoursaltedfriendhasanideawhatdoyouthink",
+      "text_en": "I'm sure your salted friend has an idea. What do you think?",
+      "text": "ข้าพเจ้าเชื่อว่าสหายผู้เจนโลกของท่านคงเดาออก คิดเห็นเช่นไรเล่า"
+    },
+    {
+      "key": "andtheysayhousecatsdontcomewhencalledfollowmepromise",
+      "text_en": "And they say house cats don't come when called! Follow me, Promise.",
+      "text": "ไหนใครบอกว่าแมวบ้านเรียกแล้วไม่เคยยอมมาอย่างไรล่ะ ตามข้าพเจ้ามาเถิด ท่านผู้ท้าชิง"
+    },
+    {
+      "key": "whatisthemeaningofthisandjusthowfardoyouplanontakingus",
+      "text_en": "What is the meaning of this? And just how far do you plan on taking us?",
+      "text": "นี่มันเรื่องอะไรกัน แล้วคิดจะพาไปถึงไหนกัน"
+    },
+    {
+      "key": "hunmurruk",
+      "text_en": "Hunmu Rruk!?",
+      "text": "ฮุนมู รรุก!?"
+    },
+    {
+      "key": "bakooljajayousnakeifyouwantmykeystonessobadlyyoudealwithmeandmealoneleavetheelectoroutofthis",
+      "text_en": "Bakool Ja Ja, you snake! If you want my keystones so badly, you deal with me and me alone! Leave the elector out of this!",
+      "text": "บาคูล จา จา เจ้าอสรพิษ! ถ้าอยากได้คีย์สโตนของฉันนัก ก็มาเจอกับฉันคนเดียวสิ! ปล่อยตัวผู้คัดเลือกไป!"
+    },
+    {
+      "key": "ghahahahahaha",
+      "text_en": "Ghahahahahaha!",
+      "text": "ก๊าฮะฮะฮะฮะ!"
+    },
+    {
+      "key": "isthatallyouthinkheisfoolishkittythismanisthereasonwearehere",
+      "text_en": "Is that all you think he is? Foolish kitty, this man is the reason we are here.",
+      "text": "คิดว่าเขาเป็นแค่นั้นรึ เจ้าแมวน้อยโง่เง่า ชายคนนี้ต่างหากคือเหตุผลที่เรามาอยู่ที่นี่"
+    },
+    {
+      "key": "takeagoodlookathimgoonlooksurelyyourecognizeyourrealfather",
+      "text_en": "Take a good look at him. Go on, look . Surely you recognize your real father!",
+      "text": "เบิ่งตาดูสิ ดูเข้าไป... เจ้าต้องจำพ่อแท้ๆ ของตัวเองได้แน่!"
+    },
+    {
+      "key": "dontbelieveusthenaskyourtrustedsellswordshehehearditstraightfromtheoldmansmouth",
+      "text_en": "Don't believe us? Then ask your trusted sellsword─ she / he heard it straight from the old man's mouth!",
+      "text": "ไม่เชื่อเราอย่างนั้นหรือ ถ้าอย่างนั้นก็ลองถามทหารรับจ้างคู่ใจของเจ้าดูสิ ได้ยินเรื่องนี้มาจากปากตาแก่นั่นเองกับหู!"
+    },
+    {
+      "key": "isittrueishunmurrukmy",
+      "text_en": "Is it true? Is Hunmu Rruk my...",
+      "text": "เรื่องจริงอย่างนั้นหรือ... ฮุนมู รรุก คือ..."
+    },
+    {
+      "key": "yoursilencesaysitall",
+      "text_en": "...Your silence says it all.",
+      "text": "...ความเงียบของเธอแทนคำตอบทุกอย่างแล้ว"
+    },
+    {
+      "key": "nowthatyouunderstandthesituationletsseethosekeystonesillevenletyoufightforthemjustyouandme",
+      "text_en": "Now that you understand the situation, let's see those keystones. I'll even let you fight for them─just you and me.",
+      "text": "ในเมื่อเข้าใจสถานการณ์แล้ว ก็เอาศิลาคีย์สโตนพวกนั้นออกมาเสียที เราจะยอมให้เจ้าสู้เพื่อแย่งพวกมันคืนไปด้วยซ้ำ—แค่เจ้ากับเราตัวต่อตัว"
+    },
+    {
+      "key": "ifthatadventurerattemptstointerfere",
+      "text_en": "If that adventurer attempts to interfere...",
+      "text": "แต่ถ้าเจ้านักผจญภัยนั่นริอ่านเข้ามาสอดมือล่ะก็..."
+    },
+    {
+      "key": "illkilltheoldmanmyself",
+      "text_en": "I'll kill the old man myself!",
+      "text": "เราจะฆ่าตาแก่นี่ด้วยมือของเราเอง!"
+    },
+    {
+      "key": "youdespicableheartlessfiend",
+      "text_en": "You despicable, heartless fiend...",
+      "text": "แกมันคนชั่วช้าสารเลว ไร้หัวใจสิ้นดี..."
+    },
+    {
+      "key": "kinsmanornoiwontstandforyoutakinghostages",
+      "text_en": "Kinsman or no, I won't stand for you taking hostages!",
+      "text": "ต่อให้เป็นสายเลือดเดียวกันหรือไม่ ฉันก็ไม่มีวันยอมให้แกจับตัวประกันข่มขู่เด็ดขาด!"
+    },
+    {
+      "key": "comeonthenyouwantafightillgiveyouafight",
+      "text_en": "Come on, then! You want a fight? I'll give you a fight!",
+      "text": "เข้ามาเลย! ในเมื่ออยากสู้นัก ฉันก็จัดให้!"
+    },
+    {
+      "key": "ooohsuchheroiccaterwaulingpromiseimshaking",
+      "text_en": "Oooh, such heroic caterwauling, Promise. I'm shaking.",
+      "text": "โอ้โฮ เสียงร้องโหยหวนเยี่ยงวีรชนช่างน่ากลัวเสียจริงนะ ท่านผู้ท้าชิง ทำเอาเรากลัวจนตัวสั่นเทาไปหมดแล้ว"
+    },
+    {
+      "key": "guardourhostagewellwewouldntwanttotemptanythoughtsofrescue",
+      "text_en": "Guard our hostage well. We wouldn't want to tempt any thoughts of rescue.",
+      "text": "เฝ้าตัวประกันของเราไว้ให้ดี อย่าปล่อยให้คิดริอ่านมาช่วยไปได้เด็ดขาด"
+    },
+    {
+      "key": "bythebyhousecattheyvebeeninstructedtoputdownpapadearestwhenyoulosehopefullyhessettledhisaffairs",
+      "text_en": "By the by, house cat. They've been instructed to put down Papa dearest when you lose. Hopefully he's settled his affairs.",
+      "text": "อีกอย่างนะ ยัยแมวบ้าน เราสั่งพวกนั้นไว้แล้วว่าถ้าแกแพ้ ก็ให้เด็ดหัวพ่อยอดรักของแกได้เลย หวังว่าจะสั่งเสียสั่งลาไว้เรียบร้อยแล้วล่ะนะ"
+    },
+    {
+      "key": "dontworryimnotlosingtothelikesofhim",
+      "text_en": "Don't worry. I'm not losing to the likes of him.",
+      "text": "ไม่ต้องห่วง ไม่มีวันแพ้คนพรรค์นั้นหรอก"
+    },
+    {
+      "key": "wellwhatareyouwaitingforyoublessedbastardsitstwoagainstonedonttellmeyourescared",
+      "text_en": "Well, what are you waiting for, you blessed bastards!? It's two against one! Don't tell me you're scared!",
+      "text": "แล้วมัวรออะไรอยู่ล่ะ ไอ้พวกเวรตะไล! สองรุมหนึ่งนะ! อย่าบอกนะว่ากลัวจนหัวหด!"
+    },
+    {
+      "key": "iknowididnthearyouright",
+      "text_en": "I know I didn't hear you right...",
+      "text": "เมื่อกี้คงหูฝาดไปใช่ไหม..."
+    },
+    {
+      "key": "youdarecalluscowards",
+      "text_en": "You dare call us cowards!?",
+      "text": "บังอาจนัก! กล้าหาว่าเราขี้ขลาดอย่างนั้นรึ!"
+    },
+    {
+      "key": "youthinkthisweaklingcouldhurtme",
+      "text_en": "You think this weakling could hurt me !?",
+      "text": "แกคิดว่าคนอ่อนแอพรรค์นี้จะทำอันตรายเราได้งั้นรึ!"
+    },
+    {
+      "key": "foreignscumwhoareyoutomockme",
+      "text_en": "Foreign scum! Who are you to mock me!?",
+      "text": "ไอ้เศษสวะต่างถิ่น! แกเป็นใครถึงบังอาจมาหัวเราะเยาะเรา!"
+    },
+    {
+      "key": "illkillyoukillyoukillyouall",
+      "text_en": "I'll kill you─kill you─kill you all !",
+      "text": "เราจะฆ่าแก—ฆ่าแก—ฆ่าพวกแกให้หมด!"
+    },
+    {
+      "key": "dontlookawaysaltiwantyoutowatchasitearyourbelovedpromisetoshreds",
+      "text_en": "Don't look away, salt! I want you to watch as I tear your beloved Promise to shreds!",
+      "text": "อย่าละสายตาเชียวล่ะ ไอ้หน้าจืด! เราอยากให้แกดูตอนเราฉีกร่างนังเจ้าหญิงยอดรักของแกเป็นชิ้นๆ!"
+    },
+    {
+      "key": "heyeyesonmethehousecatremember",
+      "text_en": "Hey, eyes on me. The house cat, remember?",
+      "text": "นี่ จ้องตามาที่ฉันสิ ยัยแมวบ้านไง จำได้ไหม"
+    },
+    {
+      "key": "illsayitagainimnotlosingtothelikesofyou",
+      "text_en": "I'll say it again: I'm not losing to the likes of you!",
+      "text": "จะบอกให้อีกครั้งนะ ฉันไม่มีวันพ่ายแพ้คนอย่างแกหรอก!"
+    },
+    {
+      "key": "imgoingtobecomedawnservantandiwillprotectmypeople",
+      "text_en": "I'm going to become Dawnservant─and I will protect my people!",
+      "text": "ฉันจะเป็นดอว์นเซอร์แวนต์ และจะปกป้องประชาชนของฉันให้ได้!"
+    },
+    {
+      "key": "comeyoumangyhousecatsoicanripyoutopieces",
+      "text_en": "Come, you mangy house cat, so I can rip you to pieces!",
+      "text": "เข้ามาเลย ยัยแมวบ้านขี้เรื้อน เราจะได้ฉีกเจ้าเป็นชิ้นๆ!"
+    },
+    {
+      "key": "illcutyoutoshreds",
+      "text_en": "I'll cut you to shreds!",
+      "text": "เราจะสับเจ้าให้แหลกเป็นชิ้นๆ!"
+    },
+    {
+      "key": "mymagicshouldbemorethanenoughformissmittens",
+      "text_en": "My magic should be more than enough for Miss Mittens!",
+      "text": "เวทมนตร์ของเราก็น่าจะเกินพอสำหรับแม่หนูอุ้งเท้าปุยแล้ว!"
+    },
+    {
+      "key": "illmakeyoueatdirt",
+      "text_en": "I'll make you eat dirt!",
+      "text": "เราจะทำให้เจ้าลงไปกินดิน!"
+    },
+    {
+      "key": "nomoretricksbakooljajaweresettlingthishereandnow",
+      "text_en": "No more tricks, Bakool Ja Ja! We're settling this here and now!",
+      "text": "เลิกเล่นตุกติกได้แล้ว บาคูล จา จา! มาตัดสินกันให้จบตรงนี้เดี๋ยวนี้เลย!"
+    },
+    {
+      "key": "stillplayingthepartofthebravewarrior",
+      "text_en": "Still playing the part of the brave warrior.",
+      "text": "ยังสวมบทเป็นนักรบผู้กล้าหาญอยู่อีกรึ"
+    },
+    {
+      "key": "missmittensisnolongeramusingmebrother",
+      "text_en": "Miss Mittens...is no longer amusing me, Brother!",
+      "text": "แม่หนูอุ้งเท้าปุย...ไม่ทำให้เราสนุกอีกต่อไปแล้ว ท่านพี่!"
+    },
+    {
+      "key": "thisritehastaughtmesomuch",
+      "text_en": "This rite has taught me so much...",
+      "text": "การทดสอบนี้สอนอะไรฉันมากมายเหลือเกิน..."
+    },
+    {
+      "key": "aboutmynationmypeopleandmyself",
+      "text_en": "About my nation, my people, and myself!",
+      "text": "ทั้งเรื่องบ้านเกิดเมืองนอน เรื่องผู้คนของฉัน...แล้วก็เรื่องตัวฉันเอง!"
+    },
+    {
+      "key": "whatcantkeepup",
+      "text_en": "What, can't keep up?",
+      "text": "อะไรกัน ตามพวกเราไม่ทันแล้วรึไง"
+    },
+    {
+      "key": "howdoyoulikethis",
+      "text_en": "How do you like this?",
+      "text": "เจอแบบนี้เข้าไปเป็นยังไงล่ะ"
+    },
+    {
+      "key": "heeerekittykittykittykittykitty",
+      "text_en": "Heeere kitty, kitty, kitty, kitty, kitty!",
+      "text": "มามะ ยัยลูกแมวน้อย มานี่เร็วเข้า มาหาพวกเราสิ"
+    },
+    {
+      "key": "ifinallyunderstandwhatitmeanstoliveinpeace",
+      "text_en": "I finally understand what it means to live in peace.",
+      "text": "ในที่สุดฉันก็เข้าใจเสียทีว่าการได้อยู่อย่างสงบสุขน่ะเป็นอย่างไร"
+    },
+    {
+      "key": "togreeteachdayinsafetyandhappiness",
+      "text_en": "To greet each day in safety and happiness.",
+      "text": "การได้ตื่นมาต้อนรับวันใหม่ด้วยความปลอดภัยและมีความสุข"
+    },
+    {
+      "key": "irritatingpest",
+      "text_en": "Irritating pest!",
+      "text": "เจ้าตัวน่ารำคาญเอ๊ย!"
+    },
+    {
+      "key": "itstimewefinishedherbrother",
+      "text_en": "It's time we finished her, Brother.",
+      "text": "ได้เวลาจัดการนังนี่ให้สิ้นซากแล้ว พี่ชาย"
+    },
+    {
+      "key": "thisistheendforyoukitten",
+      "text_en": "This is the end for you, kitten!",
+      "text": "นี่คือจุดจบของแกแล้ว ยัยลูกแมว!"
+    },
+    {
+      "key": "knowyourplace",
+      "text_en": "Know your place!",
+      "text": "เจียมตัวเสียบ้าง!"
+    },
+    {
+      "key": "itsnotenoughtoclaimthetitleofdawnservant",
+      "text_en": "It's not enough to claim the title of Dawnservant.",
+      "text": "แค่ได้ตำแหน่งดอว์นเซอร์แวนต์มาครองน่ะยังไม่พอหรอก"
+    },
+    {
+      "key": "imustcarryonpapaslegacyhisloveforourpeople",
+      "text_en": "I must carry on Papa's legacy─his love for our people!",
+      "text": "ฉันต้องสืบทอดเจตนารมณ์ของพ่อ─ความรักที่มีต่อประชาชนของเรา!"
+    },
+    {
+      "key": "illgrindyoubeneathmyheel",
+      "text_en": "I'll grind you beneath my heel!",
+      "text": "เราจะบดขยี้เจ้าใต้ฝ่าเท้า!"
+    },
+    {
+      "key": "whatcantkeepup",
+      "text_en": "What, can't keep up?",
+      "text": "อะไรกัน ตามไม่ทันแล้วหรือไง"
+    },
+    {
+      "key": "fleariddenupstartwhywontyoudie",
+      "text_en": "Flea-ridden upstart! Why won't you die!?",
+      "text": "เจ้าเศษเดนซุกเห็บ! ทำไมถึงไม่ตายๆ ไปเสียที!?"
+    },
+    {
+      "key": "fineillshowyouthetruepoweroftheblessed",
+      "text_en": "Fine! I'll show you the true power of the blessed!",
+      "text": "ก็ได้! เราจะแสดงพลังที่แท้จริงของเดอะเบลสให้เจ้าเห็นเอง!"
+    },
+    {
+      "key": "iwillbethenextdawnservantandillprotectmypeopleshappinesstothelast",
+      "text_en": "I will be the next Dawnservant! And I'll protect my people's happiness to the last!",
+      "text": "ฉันจะเป็นดอว์นเซอร์แวนต์คนต่อไป! และจะปกป้องความสุขของประชาชนจนถึงที่สุด!"
+    },
+    {
+      "key": "thatswhytheresnowayilleverlosetothelikesofyou",
+      "text_en": "That's why there's no way...I'll ever lose...to the likes...of you!",
+      "text": "เพราะฉะนั้น...ฉันไม่มีวัน...พ่ายแพ้...ให้คนอย่างแกหรอก!"
+    },
+    {
+      "key": "whatbutthatwaseverythingihad",
+      "text_en": "What!? But that was everything I had!",
+      "text": "อะไรกัน!? แต่นั่นมันพลังทั้งหมดที่เรามีแล้วนะ!"
+    },
+    {
+      "key": "arghicantstanditanymoreattack",
+      "text_en": "Argh, I can't stand it anymore! Attack!",
+      "text": "อ๊าก ทนไม่ไหวแล้ว บุกเข้าไป"
+    },
+    {
+      "key": "thisisourfightstayoutofit",
+      "text_en": "This is our fight! Stay out of it!",
+      "text": "นี่การต่อสู้ของเรา อย่ามาแส่"
+    },
+    {
+      "key": "youbringshameuponus",
+      "text_en": "You bring shame upon us!",
+      "text": "พวกแกทำให้เราขายหน้า"
+    },
+    {
+      "key": "youthinkwecareaboutyourstupidpride",
+      "text_en": "You think we care about your stupid pride!?",
+      "text": "คิดว่าพวกเราจะสนศักดิ์ศรีโง่ๆ ของแกอย่างนั้นรึ"
+    },
+    {
+      "key": "thisisformamookwecannotlose",
+      "text_en": "This is for Mamook! We cannot lose!",
+      "text": "เพื่อมามูค พวกเราแพ้ไม่ได้เด็ดขาด"
+    },
+    {
+      "key": "ohothegreatbakooljajaneedshelpisee",
+      "text_en": "Oho! The great Bakool Ja Ja needs help, I see!",
+      "text": "โอโฮ บาคูล จา จา ผู้ยิ่งใหญ่ต้องให้คนช่วยเสียแล้วสิ"
+    },
+    {
+      "key": "sendyourwholearmyyoustillwontwin",
+      "text_en": "Send your whole army! You still won't win!",
+      "text": "ขนมาทั้งกองทัพเลยก็แล้วกัน ยังไงก็ไม่มีวันชนะหรอก"
+    },
+    {
+      "key": "iwillprovethatmyalliesarerighttobelieveinme",
+      "text_en": "I will prove that my allies are right to believe in me.",
+      "text": "ฉันจะพิสูจน์ให้เห็นว่าพวกพ้องคิดถูกแล้วที่เชื่อใจฉัน"
+    },
+    {
+      "key": "suchconfidencewhatchangedshewasntlikethisbefore",
+      "text_en": "Such confidence... What changed? She wasn't like this before!",
+      "text": "มั่นใจเหลือเกิน... เกิดอะไรขึ้นล่ะนี่ แต่ก่อนไม่ได้เป็นแบบนี้เลย"
+    },
+    {
+      "key": "ttoostrong",
+      "text_en": "T-Too strong...",
+      "text": "ข-แข็งแกร่งเกินไปแล้ว"
+    },
+    {
+      "key": "",
+      "text_en": "<pant> <pant>",
+      "text": "*แฮก... แฮก...*"
+    },
+    {
+      "key": "ireclaimwhatyoustole",
+      "text_en": "I reclaim what you stole.",
+      "text": "ของที่ขโมยไป ฉันขอทวงคืน!"
+    },
+    {
+      "key": "nnohowcanthisbe",
+      "text_en": "N-No... How can this be...?",
+      "text": "ม...ไม่มีทาง... เป็นไปได้อย่างไร..."
+    },
+    {
+      "key": "howcouldthatpunyhousecatbeatallofus",
+      "text_en": "How could that puny house cat beat all of us...?",
+      "text": "ยัยแมวบ้านตัวกะเปี๊ยกนั่นเอาชนะเราทั้งหมดได้อย่างไร..."
+    },
+    {
+      "key": "youvecausednothingbuttroublewithyourdirtytricks",
+      "text_en": "You've caused nothing but trouble with your dirty tricks.",
+      "text": "ดีแต่สร้างความเดือดร้อนด้วยแผนการสกปรก"
+    },
+    {
+      "key": "threateningthehanuhanureleasingvaligarmandaharassingmeisonethingbutyouveendangeredtoomanyinnocents",
+      "text_en": "Threatening the Hanuhanu, releasing Valigarmanda─harassing me is one thing, but you've endangered too many innocents!",
+      "text": "ข่มขู่ชาวฮานูฮานู ปล่อยวาลิการ์มันดา─หาเรื่องฉันยังพอทน แต่ทำให้ผู้บริสุทธิ์จำนวนมากต้องตกอยู่ในอันตราย!"
+    },
+    {
+      "key": "nomorebakooljajaiwillnotstandforitifyoueventhinkoftormentingmypeopleagainyouwillanswertome",
+      "text_en": "No more, Bakool Ja Ja! I will not stand for it! If you even think of tormenting my people again, you will answer to me!",
+      "text": "พอที บาคูล จา จา! ฉันไม่ยอมอีกแล้ว! ถ้าคิดจะรังแกผู้คนของฉันอีก ต้องผ่านฉันไปก่อน!"
+    },
+    {
+      "key": "nono",
+      "text_en": "No... No...",
+      "text": "ไม่... ไม่นะ..."
+    },
+    {
+      "key": "nono",
+      "text_en": "No... No...",
+      "text": "ไม่... ไม่นะ..."
+    },
+    {
+      "key": "noiseofirritation",
+      "text_en": "[NOISE OF IRRITATION]",
+      "text": "[เสียงจิปากอย่างขัดใจ]"
+    },
+    {
+      "key": "andhegoesandforgetshehadthewayblocked",
+      "text_en": "And he goes and forgets he had the way blocked...",
+      "text": "แถมเขายังลืมไปเสียสนิทว่าตัวเองเป็นคนสั่งปิดทางเอาไว้..."
+    },
+    {
+      "key": "whatthatwashisdoing",
+      "text_en": "What? That was his doing?",
+      "text": "อะไรนะ! ฝีมือหมอนั่นงั้นเหรอ"
+    },
+    {
+      "key": "theonlypartleftinthesagaisthelayofthebrotherhoodinmamook",
+      "text_en": "The only part left in the saga is the Lay of the Brotherhood─in Mamook.",
+      "text": "ตำนานบทสุดท้ายที่เหลืออยู่ก็คือบทเพลงแห่งภราดรภาพ─ที่มามูค"
+    },
+    {
+      "key": "theplanwastoforceyouheresowecouldtaketherestofyourkeystones",
+      "text_en": "The plan was to force you here so we could take the rest of your keystones.",
+      "text": "แผนการเดิมคือล่อพวกท่านมาที่นี่เพื่อแย่งชิงศิลาคีย์สโตนที่เหลือไปให้หมด"
+    },
+    {
+      "key": "sothatswhathewasuptobutuhshouldyoubetellingusthis",
+      "text_en": "So that's what he was up to... But, uh, should you be telling us this?",
+      "text": "ที่แท้ก็วางแผนแบบนี้เอง... แต่ว่านะ มาบอกพวกฉันแบบนี้จะดีเหรอ"
+    },
+    {
+      "key": "sigh",
+      "text_en": "[SIGH]",
+      "text": "(ถอนหายใจ)"
+    },
+    {
+      "key": "whatdoesitmatteryouvebeatenusitsover",
+      "text_en": "What does it matter? You've beaten us. It's over.",
+      "text": "จะสำคัญอะไรล่ะ ในเมื่อพวกท่านเป็นฝ่ายชนะแล้ว เรื่องมันก็จบแล้ว"
+    },
+    {
+      "key": "wellreleasethehostage",
+      "text_en": "We'll release the hostage.",
+      "text": "พวกเราจะปล่อยตัวประกันให้"
+    },
+    {
+      "key": "imsorryiwascareless",
+      "text_en": "I'm sorry. I was careless.",
+      "text": "ผมต้องขอโทษด้วย เป็นเพราะผมประมาทเลินเล่อเอง"
+    },
+    {
+      "key": "areyouallright",
+      "text_en": "Are you all right?",
+      "text": "ท่านไม่เป็นไรใช่ไหม"
+    },
+    {
+      "key": "sowhatbakooljajasaidaboutyouandme",
+      "text_en": "So what Bakool Ja Ja said... About you and me...",
+      "text": "แล้วที่บาคูล จา จา พูด... เรื่องระหว่างท่านกับข้า..."
+    },
+    {
+      "key": "iahbuttosinglehandedlydefeatbakooljajayoutrulyarethedawnservantsdaughter",
+      "text_en": "I─ Ah, but to single-handedly defeat Bakool Ja Ja! You truly are the Dawnservant's daughter.",
+      "text": "ข้า... อา แต่โค่นบาคูล จา จา ลงได้ด้วยตัวคนเดียวนี่นะ! สมเป็นลูกสาวของดอว์นเซอร์แวนต์อย่างแท้จริง"
+    },
+    {
+      "key": "ithasbeenmyhonortobearwitnesstoyourjourneypromise",
+      "text_en": "It has been my honor to bear witness to your journey, Promise.",
+      "text": "นับเป็นเกียรติของข้าพเจ้ายิ่งนักที่ได้ร่วมเป็นพยานการเดินทางของท่าน ท่านผู้ท้าชิง"
+    },
+    {
+      "key": "promiseyesthatswhatiam",
+      "text_en": "Promise... Yes, that's what I am.",
+      "text": "ท่านผู้ท้าชิง... ใช่ นั่นคือสิ่งที่ข้าเป็น"
+    },
+    {
+      "key": "imgulooljajasdaughterandtuliyollalsnextdawnservant",
+      "text_en": "I'm Gulool Ja Ja's daughter, and Tuliyollal's next Dawnservant!",
+      "text": "ข้าคือลูกสาวของกูลูล จา จา และจะเป็นดอว์นเซอร์แวนต์คนต่อไปแห่งทูลียอลลัล!"
+    },
+    {
+      "key": "comeonletsrejointheothers",
+      "text_en": "Come on. Let's rejoin the others.",
+      "text": "ไปกันเถอะ กลับไปรวมกลุ่มกับคนอื่นกัน"
+    },
+    {
+      "key": "forasweatheredasourpromiselooksshespositivelyglowingwithconfidencewhatintheworldhappened",
+      "text_en": "For as weathered as our Promise looks, she's positively glowing with confidence. What in the world happened?",
+      "text": "ถึงท่านผู้ท้าชิงของเราจะดูสะบักสะบอมไปบ้าง แต่กลับเปล่งประกายความมั่นใจออกมาอย่างเปี่ยมล้น เกิดอะไรขึ้นกันแน่นะ"
+    },
+    {
+      "key": "thetwinsranmefromoneendoftheutohmuhorizontotheotheraskingabouteverythingofremoteinterestalongtheway",
+      "text_en": "The twins ran me from one end of the Ut'ohmu Horizon to the other, asking about everything of remote interest along the way...",
+      "text": "พวกคู่แฝดลากฉันวิ่งพล่านจากสุดขอบอุทโอมู ฮอไรซันฝั่งหนึ่งไปยังอีกฝั่ง คอยถามถึงทุกเรื่องที่พอจะน่าสนใจสักนิดตลอดทาง..."
+    },
+    {
+      "key": "erenvillestourwasbotheducationalandexcitingihopewecanpersuadehimtoconductanotherinthelowerforests",
+      "text_en": "Erenville's tour was both educational and exciting! I hope we can persuade him to conduct another in the lower forests.",
+      "text": "การนำทางของเอเรนวิลล์ให้ทั้งความรู้และน่าตื่นเต้นยิ่ง! หวังว่าเราจะโน้มน้าวให้เขานำทางในผืนป่าด้านล่างอีกสักครั้งนะ"
+    },
+    {
+      "key": "didsomethinghappenwhilewewereawaytheresacertainsatisfiedairaboutyou",
+      "text_en": "Did something happen while we were away? There's a certain satisfied air about you...",
+      "text": "เกิดอะไรขึ้นตอนพวกเราไม่อยู่หรือเปล่า ดูท่าทางอิ่มอกอิ่มใจกันชอบกลนะ..."
+    },
+    {
+      "key": "seemswewerelasttoreturnimgladeveryonemadeitbacksafely",
+      "text_en": "Seems we were last to return. I'm glad everyone made it back safely.",
+      "text": "ดูเหมือนพวกเราจะกลับมาเป็นกลุ่มสุดท้าย ดีใจจริงๆ ที่ทุกคนกลับมาอย่างปลอดภัย"
+    },
+    {
+      "key": "thankyouforhavingfaithinmekeepingoutofthefightevenwhenitgotdirtycouldnthavebeeneasyforyou",
+      "text_en": "Thank you for having faith in me. Keeping out of the fight even when it got dirty couldn't have been easy for you.",
+      "text": "ขอบใจที่เชื่อใจฉันนะ การต้องทนยืนดูอยู่เฉยๆ ทั้งที่อีกฝ่ายเริ่มเล่นสกปรกคงไม่ใช่เรื่องง่ายสำหรับนายเลย"
+    },
+    {
+      "key": "butbakooljajawontbethelastpersontothreatenthoseicareabout",
+      "text_en": "But Bakool Ja Ja won't be the last person to threaten those I care about.",
+      "text": "แต่บาคูล จา จา คงไม่ใช่คนสุดท้ายที่จะมาคุกคามคนที่ฉันรักหรอก"
+    },
+    {
+      "key": "iwantedtoprovetomyselfthaticanstanduptosuchvillainsevenwhenistandalone",
+      "text_en": "I wanted to prove to myself that I can stand up to such villains, even when I stand alone.",
+      "text": "ฉันแค่อยากพิสูจน์ให้ตัวเองเห็นว่าสามารถยืนหยัดต่อสู้กับคนชั่วพวกนั้นได้ แม้จะต้องสู้เพียงลำพังก็ตาม"
+    },
+    {
+      "key": "whichisnttosayiwontaskforyourhelpwhenineeditofcourseiknowbetterthanthatnow",
+      "text_en": "Which isn't to say I won't ask for your help when I need it, of course! I know better than that now!",
+      "text": "แต่ก็ไม่ได้หมายความว่าฉันจะไม่ขอความช่วยเหลือจากนายยามจำเป็นหรอกนะ! ตอนนี้รู้ซึ้งดีขึ้นกว่าแต่ก่อนแล้วล่ะ!"
+    },
+    {
+      "key": "thepassagetomamookremainsblockedfornowallwecandoistrytorestandrecover",
+      "text_en": "The passage to Mamook remains blocked. For now, all we can do is try to rest and recover.",
+      "text": "เส้นทางไปมามูคยังคงปิดสนิท ตอนนี้พวกเราทำได้เพียงพักผ่อนเพื่อฟื้นฟูร่างกายเท่านั้น"
+    },
+    {
+      "key": "perhapswithamealasmysisterwouldnodoubtsuggestshallweborrowthekitchensandpreparesomexibruqpibil",
+      "text_en": "...Perhaps with a meal, as my sister would no doubt suggest. Shall we borrow the kitchens and prepare some xibruq pibil?",
+      "text": "...บางทีการทานอาหารสักมื้ออาจจะช่วยได้ เช่นเดียวกับที่น้องสาวของผมคงจะแนะนำอย่างแน่นอน พวกเราไปขอยืมใช้ห้องครัวเพื่อปรุงชิบรักต์ พิบิล กันดีไหมครับ"
+    },
+    {
+      "key": "fondchuckle",
+      "text_en": "[FOND CHUCKLE]",
+      "text": "[หัวเราะอย่างเอ็นดู]"
+    },
+    {
+      "key": "sothouhasttakenalikingtothedish",
+      "text_en": "So thou hast taken a liking to the dish.",
+      "text": "ดูท่าว่าท่านจะเริ่มพึงใจในอาหารจานนี้เข้าเสียแล้วสินะ"
+    },
+    {
+      "key": "aswelearntoappreciatetheunfamiliartisonlynaturalthatwedevelopnewaffinitiesthereisnoshameinthis",
+      "text_en": "As we learn to appreciate the unfamiliar, 'tis only natural that we develop new affinities. There is no shame in this.",
+      "text": "ยามที่พวกเราเรียนรู้ที่จะชื่นชมสิ่งแปลกใหม่ การที่จิตใจจะเอนเอียงชมชอบสิ่งนั้นย่อมเป็นเรื่องธรรมชาตินัก เรื่องนี้หาใช่สิ่งน่าละอายแต่อย่างใดไม่"
+    },
+    {
+      "key": "butthereisinignoranceihadbarelyconsideredwhatthepeopleoftuliyollalholddearwhathopestheyharborforthefuture",
+      "text_en": "But there is in ignorance. I had barely considered what the people of Tuliyollal hold dear. What hopes they harbor for the future.",
+      "text": "ทว่าความไม่รู้นั้นช่างน่ากลัวนัก ผมแทบไม่เคยใส่ใจเลยว่าชาวเมืองทูลียอลลัลรักและหวงแหนสิ่งใด หรือวาดหวังสิ่งใดไว้ในอนาคต"
+    },
+    {
+      "key": "ournationisbuiltuponthebondsthatfatherforgedduringhisjourneyacrosstural",
+      "text_en": "Our nation is built upon the bonds that Father forged during his journey across Tural.",
+      "text": "ประเทศของเราหยั่งรากบนสายสัมพันธ์ที่ท่านพ่อถักทอไว้ระหว่างเดินทางไปทั่วทูรัล"
+    },
+    {
+      "key": "butsosinglemindedhaveibeeninmyadvocacyofforeigninnovationsthatifailedtounderstandmyownpeople",
+      "text_en": "But so single-minded have I been in my advocacy of foreign innovations...that I failed to understand my own people.",
+      "text": "แต่เพราะผมเอาแต่มุ่งมั่นผลักดันนวัตกรรมจากต่างแดน... จนละเลยที่จะทำความเข้าใจคนในชาติของตัวเอง"
+    },
+    {
+      "key": "couldsomeonewhostrugglestoconnectwiththepopulaceevermakeaworthydawnservant",
+      "text_en": "Could someone who struggles to connect with the populace ever make a worthy Dawnservant?",
+      "text": "คนที่แม้แต่จะเข้าถึงใจประชาชนยังทำไม่ได้ จะคู่ควรเป็นดอว์นเซอร์แวนต์ที่ดีได้จริงหรือ"
+    },
+    {
+      "key": "tounderstandandconnectwithpeopleisbynomeanseasy",
+      "text_en": "To understand and connect with people is by no means easy.",
+      "text": "การจะเข้าใจและเข้าถึงใจผู้คนไม่ใช่เรื่องง่ายเลยสักนิด"
+    },
+    {
+      "key": "butthereissomethingyoucandotopavetheway",
+      "text_en": "But there is something you can do to pave the way.",
+      "text": "แต่คุณยังพอจะทำบางอย่างเพื่อเปิดทางได้"
+    },
+    {
+      "key": "letthemseeyouforwhoyoureallyarewhatmakesyoulaughandcryandragethatsortofhonestyisthefirststeptowardsmutualunderstandingandconnection",
+      "text_en": "Let them see you for who you really are. What makes you laugh and cry and rage. That sort of honesty is the first step towards mutual understanding─and connection.",
+      "text": "เผยตัวตนที่แท้จริงให้เห็น ทั้งยามหัวเราะ ร้องไห้ และโกรธเกรี้ยว ความซื่อตรงเช่นนั้นคือก้าวแรกสู่ความเข้าใจและสายสัมพันธ์ระหว่างกัน"
+    },
+    {
+      "key": "understandingbegetsfellowshipasmyfathersaid",
+      "text_en": "“Understanding begets fellowship.” As my father said...",
+      "text": "\"ความเข้าใจนำมาซึ่งมิตรภาพ\" อย่างที่ท่านพ่อเคยว่าไว้..."
+    },
+    {
+      "key": "andyetwhatyousuggestdoesnotcomenaturallytome",
+      "text_en": "And yet, what you suggest does not come naturally to me...",
+      "text": "แต่ถึงอย่างนั้น สิ่งที่คุณแนะนำก็ไม่ใช่สิ่งที่ผมถนัดเลย..."
+    },
+    {
+      "key": "itoohavefounditdifficulttospeakfromtheheartinthystrugglesiseemineownpainfulintheirfamiliarity",
+      "text_en": "I, too, have found it difficult to speak from the heart. In thy struggles, I see mine own─painful in their familiarity.",
+      "text": "ข้าพเจ้าเองก็ยากจะเอ่ยคำจากใจจริงเช่นกัน เมื่อเห็นความยากลำบากของท่าน ข้าพเจ้าย่อมมองเห็นตนเองในวันวาน...ช่างคุ้นตาจนชวนปวดร้าว"
+    },
+    {
+      "key": "yetfrighteningthoughitmayfeelifwearetomoveforwardwemustindeedtakethatfirststepdispensewithpretenseandsimplybe",
+      "text_en": "Yet frightening though it may feel, if we are to move forward, we must indeed take that first step. Dispense with pretense and simply be .",
+      "text": "แม้จะน่าหวั่นใจเพียงใด แต่หากคิดจะก้าวไปข้างหน้า ก็ต้องเหยียบย่างก้าวแรกนั้น ละทิ้งการเสแสร้งแล้วเป็นตัวของตัวเองเสีย"
+    },
+    {
+      "key": "doyourememberwhenyoufirstapproachedusandweaskedyouwhyyouwantedtobecomedawnservant",
+      "text_en": "Do you remember when you first approached us, and we asked you why you wanted to become Dawnservant?",
+      "text": "ยังจำได้ไหมตอนที่เข้ามาหาพวกเราครั้งแรก แล้วพวกเราถามว่าเหตุใดจึงอยากเป็นดอว์นเซอร์แวนต์"
+    },
+    {
+      "key": "yousaidyouwishedtousetheknowledgeyouacquiredinsharlayanforyourcountryandindoingsorepayyourfatherfortheopportunitiesheaffordedyou",
+      "text_en": "You said you wished to use the knowledge you acquired in Sharlayan for your country─and in doing so repay your father for the opportunities he afforded you.",
+      "text": "คุณบอกว่าอยากนำความรู้ที่เล่าเรียนมาจากชาร์ลาแยนมาใช้ประโยชน์เพื่อบ้านเมือง─และเพื่อตอบแทนพระคุณของพ่อที่คอยมอบโอกาสให้"
+    },
+    {
+      "key": "whatwonmeoverwasnotyourambitionbutyourmotivation",
+      "text_en": "What won me over was not your ambition, but your motivation.",
+      "text": "สิ่งที่เอาชนะใจผมได้ไม่ใช่ความทะเยอทะยาน แต่เป็นแรงผลักดันต่างหาก"
+    },
+    {
+      "key": "soletyourpeopleknowthisandintimetheyllcometosupportyouaswedo",
+      "text_en": "So let your people know this. And in time, they'll come to support you as we do.",
+      "text": "เพราะฉะนั้นจงบอกให้ผู้คนได้รับรู้เรื่องนี้เถอะ แล้วในไม่ช้า พวกเขาก็จะหันมาสนับสนุนคุณเหมือนอย่างพวกเรา"
+    },
+    {
+      "key": "youcanthidebehindthatstoicismforever",
+      "text_en": "You can't hide behind that stoicism forever.",
+      "text": "คุณจะมัวซ่อนตัวอยู่หลังความเย็นชาหน้านิ่งแบบนั้นไปตลอดไม่ได้หรอก"
+    },
+    {
+      "key": "verywelltheniwillmakeagreaterefforttobemyselfbynotbeingmyusualselfsomuch",
+      "text_en": "Very well, then. I will make a greater effort to be myself...by not being my usual self so much.",
+      "text": "ตกลงครับ ถ้าอย่างนั้นผมจะพยายามเป็นตัวของตัวเองให้มากขึ้น...ด้วยการไม่ทำตัวเคร่งขรึมเหมือนปกติมากนัก"
+    }
+  ]
+}

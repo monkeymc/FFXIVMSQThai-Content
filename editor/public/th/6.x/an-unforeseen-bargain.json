@@ -1,0 +1,635 @@
+{
+  "quest_id": "an-unforeseen-bargain",
+  "dialogues": [
+    {
+      "key": "thisseemsurgent",
+      "text_en": "This seems urgent...",
+      "text": "ดูท่าจะเป็นเรื่องด่วน..."
+    },
+    {
+      "key": "ivegotabadfeelingaboutthis",
+      "text_en": "I've got a bad feeling about this.",
+      "text": "สังหรณ์ใจไม่ดีเลย"
+    },
+    {
+      "key": "wellshouldntyouseewhatswrong",
+      "text_en": "Well? Shouldn't you see what's wrong?",
+      "text": "มัวรออะไรอยู่ล่ะ ไม่ไปดูหน่อยหรือว่าเกิดเรื่องอะไรขึ้น"
+    },
+    {
+      "key": "hewasoutonpatrolsoifhescomebackearlythen",
+      "text_en": "He was out on patrol, so if he's come back early, then...",
+      "text": "หมอนั่นออกไปลาดตระเวน ถ้ากลับมาก่อนเวลาแบบนี้ล่ะก็..."
+    },
+    {
+      "key": "forgivemetheinterruptionbuticomewithgravenews",
+      "text_en": "Forgive me the interruption, but I come with grave news!",
+      "text": "ขออภัยที่เข้ามาขัดจังหวะครับ แต่ผมนำข่าวร้ายมารายงาน!"
+    },
+    {
+      "key": "ahordeofvoidsentareapproachingfromthemountainstotheeasttheirnumbersarebeyondanythingweveeverseen",
+      "text_en": "A horde of voidsent are approaching from the mountains to the east. Their numbers are beyond anything we've ever seen!",
+      "text": "ทัพมังกรวอยด์เซ้นต์กำลังมุ่งหน้ามาจากทิวเขาทางทิศตะวันออก จำนวนของพวกมันมากมายอย่างที่ไม่เคยพบเคยเจอมาก่อนเลยครับ!"
+    },
+    {
+      "key": "whatbutyshtolaandtheothers",
+      "text_en": "What!? But Y'shtola and the others...",
+      "text": "อะไรนะ! แต่พวกอิชโทลากับคนอื่นๆ..."
+    },
+    {
+      "key": "anyoneoutsideoftertiumisindangerwemustfindandbringthemallhereatonce",
+      "text_en": "Anyone outside of Tertium is in danger. We must find and bring them all here at once!",
+      "text": "ทุกคนที่อยู่นอกเทอร์เทียมตกอยู่ในอันตรายแล้ว พวกเราต้องรีบตามตัวพวกเขากลับมาที่นี่ทันที!"
+    },
+    {
+      "key": "canwecountonyouraidzero",
+      "text_en": "Can we count on your aid, Zero?",
+      "text": "พอจะช่วยพวกเราหน่อยได้ไหม ซีโร่"
+    },
+    {
+      "key": "ivealreadysettledthedebtformyquestionimnotobligatedtohelp",
+      "text_en": "I've already settled the debt for my question. I'm not obligated to help.",
+      "text": "ฉันจ่ายหนี้เรื่องคำถามนั่นไปแล้ว ไม่มีข้อผูกมัดอะไรที่ต้องช่วยอีก"
+    },
+    {
+      "key": "whatsmoredeathinthisworldisabsoluteyouaskmetoputmylifeontheline",
+      "text_en": "What's more, death in this world is absolute. You ask me to put my life on the line.",
+      "text": "ยิ่งกว่านั้น ความตายในโลกนี้ไม่อาจย้อนคืน พวกนายกำลังขอให้ฉันเอาชีวิตไปเสี่ยง"
+    },
+    {
+      "key": "withoutsuitablepaymentiwilldonosuchthing",
+      "text_en": "Without suitable payment, I will do no such thing.",
+      "text": "หากไร้สิ่งตอบแทนที่คู่ควร ฉันจะไม่ยอมทำเรื่องแบบนั้นเด็ดขาด"
+    },
+    {
+      "key": "thatsfairwhatdowehavetoofferthatmightbeenough",
+      "text_en": "That's fair... What do we have to offer that might be enough?",
+      "text": "ก็สมเหตุสมผลดี... แล้วพวกเราจะเสนออะไรเป็นการแลกเปลี่ยนที่คู่ควรได้บ้างล่ะ"
+    },
+    {
+      "key": "yourerightzeroyourenotobligatedtohelpandiwouldntpresumeotherwise",
+      "text_en": "You're right, Zero. You're not obligated to help, and I wouldn't presume otherwise.",
+      "text": "เธอพูดถูก ซีโร่ เธอไม่จำเป็นต้องช่วย และฉันก็ไม่ได้คาดหวังให้เธอทำอย่างนั้นอยู่แล้ว"
+    },
+    {
+      "key": "neverthelessweareinneedassumingthebuuzigaveyouisworthanythingwouldyouatleastbewillingtostandwatchatthisencampment",
+      "text_en": "Nevertheless, we are in need. Assuming the buuz I gave you is worth anything, would you at least be willing to stand watch at this encampment?",
+      "text": "แต่ถึงอย่างนั้น พวกเราก็กำลังเดือดร้อน หากบูซที่ฉันให้ไปพอจะมีค่าขึ้นมาบ้าง อย่างน้อยช่วยอยู่เฝ้ายามที่ค่ายนี้จะได้ไหม"
+    },
+    {
+      "key": "thatwaymoreofuswillbeabletogooutandseethepeopletosafety",
+      "text_en": "That way, more of us will be able to go out and see the people to safety.",
+      "text": "ถ้าทำอย่างนั้น พวกเราก็จะได้ออกไปพาผู้คนไปยังที่ปลอดภัยได้มากขึ้น"
+    },
+    {
+      "key": "verywellunlesswecomeunderattackilldonomorethanstandwatch",
+      "text_en": "...Very well. Unless we come under attack, I'll do no more than stand watch.",
+      "text": "...ตกลง ตราบใดที่ศัตรูไม่บุกโจมตี ฉันจะทำเพียงแค่ยืนเฝ้ายามเท่านั้น"
+    },
+    {
+      "key": "idaresaytertiumwillbesafeenoughwithzerohere",
+      "text_en": "I daresay Tertium will be safe enough with Zero here.",
+      "text": "ผมกล้าพูดเลยว่าค่ายเทอร์เทียมจะปลอดภัยแน่นอนเมื่อซีโร่อยู่ดูแลที่นี่"
+    },
+    {
+      "key": "letusgoandfindyshtolaandtheothersandassistwiththeevacuation",
+      "text_en": "Let us go and find Y'shtola and the others, and assist with the evacuation.",
+      "text": "พวกเราไปสมทบกับยาชโทล่าและคนอื่นๆ เพื่อช่วยอพยพผู้คนกันเถอะครับ"
+    },
+    {
+      "key": "dowhatyoumustiwillremainhere",
+      "text_en": "Do what you must. I will remain here.",
+      "text": "ไปจัดการธุระของพวกนายเถอะ ฉันจะอยู่ที่นี่แหละ"
+    },
+    {
+      "key": "pleasehurrytimeisoftheessence",
+      "text_en": "Please hurry. Time is of the essence.",
+      "text": "รีบหน่อยเถอะ เวลาเป็นสิ่งสำคัญยิ่ง"
+    },
+    {
+      "key": "neverhaveiseensomanyvoidsentwevegottoroundupasmanyhandsaswecantoassistwiththeevacuationeffort",
+      "text_en": "Never have I seen so many voidsent... We've got to round up as many hands as we can to assist with the evacuation effort.",
+      "text": "ไม่เคยพบเคยเห็นพวกวอยด์เซ้นต์มากมายขนาดนี้มาก่อนเลย... พวกเราต้องรวบรวมกำลังคนมาช่วยอพยพให้ได้มากที่สุด"
+    },
+    {
+      "key": "comeweneedtofindourcomrades",
+      "text_en": "Come, we need to find our comrades.",
+      "text": "ไปกันเถอะ เราต้องตามหาพวกพ้องของเราให้พบ"
+    },
+    {
+      "key": "tertiumwillbefinejullusandhispeoplehaveweatheredfarworse",
+      "text_en": "Tertium will be fine. Jullus and his people have weathered far worse.",
+      "text": "เทอร์เทียมน่ะไม่น่าห่วงหรอก ยูลลัสกับพวกพ้องเคยเผชิญเรื่องที่เลวร้ายกว่านี้มามากนัก"
+    },
+    {
+      "key": "wemustmakehastetothesnowcraftwhereourfriendsandtheengineershouldbe",
+      "text_en": "We must make haste to the snowcraft, where our friends and the engineer should be.",
+      "text": "เราต้องรีบตรงไปยังรถลุยหิมะ เพื่อนๆ กับวิศวกรน่าจะอยู่ที่นั่น"
+    },
+    {
+      "key": "giventheirpositiontheymaysoonfindthemselvesatthemercyofthevoidsentifitcomestoitwemustbepreparedforbattle",
+      "text_en": "Given their position, they may soon find themselves at the mercy of the voidsent. If it comes to it, we must be prepared for battle.",
+      "text": "เมื่อพิจารณาจากตำแหน่งแล้ว อีกไม่นานพวกวอยด์เซ้นต์คงจะเข้าจู่โจมพวกเขาเป็นแน่ หากถึงคราวจำเป็น พวกเราก็ต้องพร้อมสู้"
+    },
+    {
+      "key": "imreadydontyouworry",
+      "text_en": "I'm ready, don't you worry.",
+      "text": "ฉันพร้อมแล้ว ไม่ต้องห่วงหรอก"
+    },
+    {
+      "key": "howaboutyouforename",
+      "text_en": "How about you, Forename ?",
+      "text": "แล้วเธอล่ะ Forename"
+    },
+    {
+      "key": "report",
+      "text_en": "Report!",
+      "text": "รายงานมา!"
+    },
+    {
+      "key": "lostcontactwhen",
+      "text_en": "Lost contact? When?",
+      "text": "ขาดการติดต่อรึ ตั้งแต่เมื่อไหร่กัน"
+    },
+    {
+      "key": "voidsentidbetmylifeonitunderstoodillinvestigateatonce",
+      "text_en": "Voidsent─I'd bet my life on it. Understood. I'll investigate at once.",
+      "text": "วอยด์เซ้นต์... เอาชีวิตเป็นประกันได้เลย รับทราบแล้ว ผมจะรีบไปตรวจสอบเดี๋ยวนี้"
+    },
+    {
+      "key": "aunittransportingsupplieshasgonesilentenroutetobrokenglassiwillgoandsearchforitstayhereandkeepwatchbutbereadytoanswermycall",
+      "text_en": "A unit transporting supplies has gone silent en route to Broken Glass. I will go and search for it. Stay here and keep watch, but be ready to answer my call.",
+      "text": "หน่วยขนส่งเสบียงขาดการติดต่อไประหว่างทางไปโบรเคนกลาส ผมจะออกไปตามหาเอง เฝ้าดูต้นทางอยู่ที่นี่ไว้ แล้วเตรียมตัวให้พร้อม ถ้าเรียกเมื่อไหร่ต้องรีบมาทันที"
+    },
+    {
+      "key": "ifitwasvoidsentyoudbeafooltogoalone",
+      "text_en": "If it was voidsent, you'd be a fool to go alone.",
+      "text": "ถ้าเป็นพวกวอยด์เซ้นต์จริง ไปคนเดียวก็รนหาที่ตายชัดๆ"
+    },
+    {
+      "key": "theyllfindyoubeforeyoufindyourmenandthentheylldevouryouaswell",
+      "text_en": "They'll find you before you find your men. And then they'll devour you as well.",
+      "text": "พวกมันคงเจอตัวนายก่อนจะทันหาคนของตัวเองพบเสียอีก แล้วพวกมันก็คงจับนายเขมือบตามไปด้วย"
+    },
+    {
+      "key": "perhapsyourerightperhapsidontstandachancebuticantjustabandonthem",
+      "text_en": "Perhaps you're right. Perhaps I don't stand a chance. But I can't just abandon them!",
+      "text": "เธออาจจะพูดถูก บางทีผมอาจไม่มีทางสู้พวกมันได้เลย แต่จะให้ทิ้งพวกพ้องไปเฉยๆ ได้ยังไงกัน!"
+    },
+    {
+      "key": "icantrepayyouforthebreadifyouredeadillgo",
+      "text_en": "I can't repay you for the bread if you're dead. I'll go.",
+      "text": "ถ้านายตาย ฉันก็ตอบแทนหนี้ค่าขนมปังไม่ได้น่ะสิ ฉันจะไปเอง"
+    },
+    {
+      "key": "whatnoicouldntpossiblyaskyoutodothat",
+      "text_en": "What!? No! I couldn't possibly ask you to do that!",
+      "text": "ว่าไงนะ!? ไม่ได้นะ! จะให้ผมขอร้องให้เธอทำเรื่องแบบนั้นได้ยังไงกัน!"
+    },
+    {
+      "key": "imfarbettersuitedtodealingwithvoidsentitmakessense",
+      "text_en": "I'm far better suited to dealing with voidsent. It makes sense.",
+      "text": "ฉันรับมือกับพวกวอยด์เซ้นต์ได้ดีกว่านายตั้งเยอะ ทำแบบนี้แหละสมเหตุสมผลที่สุดแล้ว"
+    },
+    {
+      "key": "ordoyoumeantosayyoudratheristayherebecauseyoucantprotectthisplaceonyourown",
+      "text_en": "Or do you mean to say you'd rather I stay here because you can't protect this place on your own?",
+      "text": "หรือจะบอกว่าอยากให้ฉันอยู่ที่นี่ต่อ เพราะลำพังตัวนายเองไม่มีปัญญาปกป้องที่นี่กันแน่"
+    },
+    {
+      "key": "finejustdontdoanythingstupidpromiseme",
+      "text_en": "Fine. Just...don't do anything stupid. Promise me!",
+      "text": "ก็ได้... แต่ห้ามทำอะไรบุ่มบ่ามเด็ดขาดนะ สัญญากับผมสิ!"
+    },
+    {
+      "key": "grrrdamnthesedemons",
+      "text_en": "Grrr... Damn these demons!",
+      "text": "หนอย... ไอ้พวกปีศาจเอ๊ย!"
+    },
+    {
+      "key": "returntothecampnow",
+      "text_en": "Return to the camp. Now.",
+      "text": "กลับค่ายซะ เดี๋ยวนี้"
+    },
+    {
+      "key": "yyesmaamthankyou",
+      "text_en": "Y-Yes, ma'am! Thank you!",
+      "text": "ค...ครับคุณผู้หญิง! ขอบคุณครับ!"
+    },
+    {
+      "key": "kindredwhydoyouinterfere",
+      "text_en": "Kindred... Why do you interfere?",
+      "text": "พวกเดียวกัน... ไยเจ้าจึงสอดมือเข้ามาขัดขวาง"
+    },
+    {
+      "key": "ahofcourseyousoldyoursoultofeed",
+      "text_en": "Ah, of course. You sold your soul to feed.",
+      "text": "อ้อ อย่างนี้นี่เอง เจ้าขายวิญญาณเพื่อประทังชีวิตสินะ"
+    },
+    {
+      "key": "ihavetakenbreadbutmysoulisforevermine",
+      "text_en": "I have taken bread. But my soul is forever mine.",
+      "text": "ฉันรับขนมปังมาแล้ว แต่จิตวิญญาณยังเป็นของฉันตลอดกาล"
+    },
+    {
+      "key": "adealisadeal",
+      "text_en": "A deal is a deal...",
+      "text": "ข้อตกลงต้องเป็นข้อตกลง..."
+    },
+    {
+      "key": "icannotletyoupass",
+      "text_en": "I cannot let you pass.",
+      "text": "ฉันยอมให้เจ้าผ่านไปไม่ได้"
+    },
+    {
+      "key": "moreofthem",
+      "text_en": "More of them...",
+      "text": "มากันอีกแล้ว..."
+    },
+    {
+      "key": "stillmore",
+      "text_en": "Still more...",
+      "text": "ยังมาไม่หยุด..."
+    },
+    {
+      "key": "ahthislandbrimswithliferipefortheharvest",
+      "text_en": "Ah, this land brims with life... Ripe for the harvest!",
+      "text": "อ้า ดินแดนนี้เปี่ยมล้นด้วยพลังชีวิต... ช่างเหมาะแก่การเก็บเกี่ยวยิ่งนัก!"
+    },
+    {
+      "key": "suchinsolenceiwillnotbedenied",
+      "text_en": "Such insolence! I will not be denied!",
+      "text": "สามหาวนัก! ข้าไม่มีวันยอมพลาด!"
+    },
+    {
+      "key": "notgood",
+      "text_en": "Not good...",
+      "text": "ท่าไม่ดีแล้ว..."
+    },
+    {
+      "key": "andnowyouremine",
+      "text_en": "And now you're mine!",
+      "text": "ทีนี้ แกก็เป็นของข้าแล้ว!"
+    },
+    {
+      "key": "icant",
+      "text_en": "I can't...",
+      "text": "ไม่ไหว..."
+    },
+    {
+      "key": "howbigmustthegatebefortheirliketocomethrough",
+      "text_en": "How big must the gate be for their like to come through...",
+      "text": "ประตูต้องใหญ่โตเพียงใดกัน พวกอย่างมันจึงข้ามผ่านเข้ามาได้..."
+    },
+    {
+      "key": "isthisitthen",
+      "text_en": "Is this it, then...?",
+      "text": "จะจบลงแค่นี้แล้วอย่างนั้นหรือ...?"
+    },
+    {
+      "key": "justlikethattime",
+      "text_en": "Just like that time...",
+      "text": "เหมือนยามนั้นไม่มีผิด..."
+    },
+    {
+      "key": "whenlightstillshoneupontheworldwhenthecontramemoriastillraged",
+      "text_en": "When Light still shone upon the world... When the Contramemoria still raged...",
+      "text": "ยามที่แสงสว่างยังส่องประกายทั่วโลก... ยามที่สงครามคอนทราเมโมเรียยังโหมกระหน่ำ..."
+    },
+    {
+      "key": "standasideifyouvalueyourlife",
+      "text_en": "Stand aside if you value your life.",
+      "text": "หลีกไปเสีย หากยังรักชีวิต"
+    },
+    {
+      "key": "wereonlyafterwomenandwinedarknesscantaketherest",
+      "text_en": "We're only after women and wine. Darkness can take the rest.",
+      "text": "พวกเราต้องการแค่ผู้หญิงกับเหล้าเท่านั้น ส่วนที่เหลือปล่อยให้ความมืดเอาไปเถอะ"
+    },
+    {
+      "key": "yourenottakinganothersteptowardsthatvillage",
+      "text_en": "You're not taking another step towards that village.",
+      "text": "พวกแกอย่าหวังว่าจะได้ก้าวเท้าเข้าใกล้หมู่บ้านนั้นอีกแม้แต่ก้าวเดียว"
+    },
+    {
+      "key": "stupidgirlyouwerewarned",
+      "text_en": "Stupid girl. You were warned.",
+      "text": "ยัยเด็กโง่ ข้าเตือนเจ้าแล้ว"
+    },
+    {
+      "key": "gotcha",
+      "text_en": "Gotcha!",
+      "text": "จับตัวได้แล้ว!"
+    },
+    {
+      "key": "andnowwecangetbacktoourbusiness",
+      "text_en": "And now we can get back to our business.",
+      "text": "ทีนี้พวกเราจะได้กลับไปทำธุระของเราเสียที"
+    },
+    {
+      "key": "getupgetupdamnyou",
+      "text_en": "Get up... Get up, damn you!",
+      "text": "ลุกขึ้น... ลุกขึ้นมาสิ โธ่เอ๊ย!"
+    },
+    {
+      "key": "tooweakineedhelp",
+      "text_en": "Too weak. I need...help...",
+      "text": "อ่อนแอเกินไป... ต้องการ...ความช่วยเหลือ..."
+    },
+    {
+      "key": "someoneplease",
+      "text_en": "Someone...please...",
+      "text": "ใครก็ได้... ได้โปรด..."
+    },
+    {
+      "key": "thesamemistakesthesameendsagainandagainwhatshouldiwhatcouldihavedone",
+      "text_en": "The same mistakes, the same ends. Again and again. What should I...what could I have done?",
+      "text": "ความผิดพลาดแบบเดิม จุดจบแบบเดิม ซ้ำแล้วซ้ำเล่า... ควรจะทำอย่างไร... จะทำอะไรได้บ้าง"
+    },
+    {
+      "key": "what",
+      "text_en": "What...?",
+      "text": "อะไรกัน..."
+    },
+    {
+      "key": "who",
+      "text_en": "Who?",
+      "text": "ใครกัน"
+    },
+    {
+      "key": "youwhatareyoudoinghere",
+      "text_en": "You... What are you doing here...?",
+      "text": "พวกนาย... มาทำอะไรที่นี่..."
+    },
+    {
+      "key": "yshtolaandestinienhadmatterswellinhandsowewentwherewewereneeded",
+      "text_en": "Y'shtola and Estinien had matters well in hand. So we went where we were needed.",
+      "text": "พวกยาชโทลากับเอสทิเนียนรับมือทางนั้นได้สบายมาก พวกเราเลยมาช่วยตรงที่ที่จำเป็น"
+    },
+    {
+      "key": "canyoustand",
+      "text_en": "Can you stand?",
+      "text": "ยืนไหวไหม"
+    },
+    {
+      "key": "allright",
+      "text_en": "...All right.",
+      "text": "...ไหว"
+    },
+    {
+      "key": "iwillletitburnthisfireinmybreastletitburnandrageandguide",
+      "text_en": "I will let it burn, this fire in my breast. Let it burn and rage and guide.",
+      "text": "ฉันจะยอมให้มันแผดเผา เปลวไฟในอกนี้... ปล่อยมันลุกโชน บ้าคลั่ง และนำทาง"
+    },
+    {
+      "key": "thankgoodnesswerenottoolatecanyoustillfight",
+      "text_en": "Thank goodness we're not too late. Can you still fight?",
+      "text": "โชคดีจริงๆ ที่พวกเรามาไม่สายเกินไป ยังสู้ไหวอยู่ไหม"
+    },
+    {
+      "key": "aye",
+      "text_en": "Aye...",
+      "text": "อืม..."
+    },
+    {
+      "key": "presstheattack",
+      "text_en": "Press the attack!",
+      "text": "บุกโจมตีต่อเลย!"
+    },
+    {
+      "key": "hahhahhahyesmoremortalscometoslaughter",
+      "text_en": "Hah hah hah! Yes, more mortals come to slaughter!",
+      "text": "ฮ่า ฮ่า ฮ่า! ดีจริง! มีพวกมนุษย์โร่มาให้ข้าเชือดเพิ่มอีกแล้ว!"
+    },
+    {
+      "key": "itistimetofeast",
+      "text_en": "It is time to feast!",
+      "text": "ได้เวลากลืนกินพวกแกแล้ว!"
+    },
+    {
+      "key": "justwarmingup",
+      "text_en": "Just warming up!",
+      "text": "แค่เพิ่งอุ่นเครื่องเท่านั้นแหละ!"
+    },
+    {
+      "key": "mystrengthisspent",
+      "text_en": "My strength is spent...",
+      "text": "ไม่มีแรงเหลือแล้ว..."
+    },
+    {
+      "key": "illonlygetinyourway",
+      "text_en": "I'll only get in your way.",
+      "text": "อยู่ไปก็รังแต่จะเกะกะพวกนาย"
+    },
+    {
+      "key": "chinupwellgetthroughthistogether",
+      "text_en": "Chin up! We'll get through this together!",
+      "text": "อย่าเพิ่งถอดใจ! เราต้องผ่านมันไปด้วยกันให้ได้!"
+    },
+    {
+      "key": "splitup",
+      "text_en": "Split up!",
+      "text": "แยกกันออกไป!"
+    },
+    {
+      "key": "staysharp",
+      "text_en": "Stay sharp!",
+      "text": "ระวังตัวไว้!"
+    },
+    {
+      "key": "watchout",
+      "text_en": "Watch out!",
+      "text": "ระวัง!"
+    },
+    {
+      "key": "everyoneallright",
+      "text_en": "Everyone all right?",
+      "text": "ทุกคนปลอดภัยดีใช่ไหมครับ"
+    },
+    {
+      "key": "notfinishedyet",
+      "text_en": "Not finished yet!",
+      "text": "ยังไม่จบหรอก!"
+    },
+    {
+      "key": "iwillenjoydrainingyouraetherwatchingasthelifedimsinyoureyes",
+      "text_en": "I will enjoy draining your aether, watching as the life dims in your eyes.",
+      "text": "เราจะสำราญกับการสูบเอเธอร์ของเจ้า คอยเฝ้ามองชีวิตค่อยๆ ดับแสงลงในตาของเจ้า"
+    },
+    {
+      "key": "wemustweatherthistogether",
+      "text_en": "We must weather this together!",
+      "text": "ต้องฝ่าวิกฤตนี้ไปด้วยกันให้ได้!"
+    },
+    {
+      "key": "",
+      "text_en": "<pant> <pant>",
+      "text": "<หอบ> <หอบ>"
+    },
+    {
+      "key": "iwillrepaythisdebt",
+      "text_en": "I will repay this debt.",
+      "text": "จะชดใช้หนี้นี้เอง"
+    },
+    {
+      "key": "resistanceisfutile",
+      "text_en": "Resistance is futile!",
+      "text": "กองกำลังต่อต้านช่างไร้ประโยชน์!"
+    },
+    {
+      "key": "thereisnoescape",
+      "text_en": "There is no escape!",
+      "text": "พวกแกไม่มีทางหนีรอด!"
+    },
+    {
+      "key": "ifyouwoulddenymemyfeastthenbegonetoasheswithyou",
+      "text_en": "If you would deny me my feast, then begone! To ashes with you!",
+      "text": "หากบังอาจขัดขวางงานเลี้ยงของเรา ก็จงไสหัวไปซะ! จงมอดไหม้เป็นเถ้าถ่านไปเสีย!"
+    },
+    {
+      "key": "donotletthemgetaway",
+      "text_en": "Do not let them get away!",
+      "text": "อย่าปล่อยให้หนีรอดไปได้!"
+    },
+    {
+      "key": "thishasgoneonlongenough",
+      "text_en": "This has gone on long enough!",
+      "text": "เรื่องนี้ยืดเยื้อมานานพอแล้ว!"
+    },
+    {
+      "key": "iwillfinishitnow",
+      "text_en": "I will finish it. Now!",
+      "text": "จะสะสางให้จบ เดี๋ยวนี้แหละ!"
+    },
+    {
+      "key": "letsbuyhersometime",
+      "text_en": "Let's buy her some time!",
+      "text": "ช่วยถ่วงเวลาให้ยัยนั่นที!"
+    },
+    {
+      "key": "coverme",
+      "text_en": "Cover me.",
+      "text": "ช่วยคุ้มกันที!"
+    },
+    {
+      "key": "coverme",
+      "text_en": "Cover me.",
+      "text": "ช่วยคุ้มกันที!"
+    },
+    {
+      "key": "coverme",
+      "text_en": "Cover me.",
+      "text": "ช่วยคุ้มกันที!"
+    },
+    {
+      "key": "iamyourend",
+      "text_en": "I am your end!",
+      "text": "ข้าคือจุดจบของเจ้า!"
+    },
+    {
+      "key": "welldone",
+      "text_en": "Well done!",
+      "text": "ทำได้ดีมาก!"
+    },
+    {
+      "key": "nonowhywontyoudie",
+      "text_en": "No! NO! Why won't you die!?",
+      "text": "ไม่! ไม่มีทาง! ทำไมเจ้าถึงไม่ยอมตายสักที!"
+    },
+    {
+      "key": "youdidwelltofindmeouthere",
+      "text_en": "You did well to find me out here.",
+      "text": "เก่งเหมือนกันนะที่หาฉันเจอข้างนอกนี่"
+    },
+    {
+      "key": "wehavejullustothankforthathewasquiteworriedwhenhecalled",
+      "text_en": "We have Jullus to thank for that. He was quite worried when he called.",
+      "text": "เรื่องนั้นต้องยกความดีความชอบให้จูลลัสเลยล่ะ ตอนที่เขาติดต่อมาดูเป็นกังวลมากทีเดียว"
+    },
+    {
+      "key": "noifitwasnotforyouandtheothersi",
+      "text_en": "No, if it was not for you and the others, I...",
+      "text": "ไม่หรอก... ถ้าไม่ได้พวกนายกับคนอื่นช่วยไว้ ฉันคง..."
+    },
+    {
+      "key": "wellletsnotfussoverdetailsweshouldreturntotertiumcanyoumakeitthatfar",
+      "text_en": "Well, let's not fuss over details. We should return to Tertium─can you make it that far?",
+      "text": "เอาละ อย่ามัวใส่ใจกับเรื่องจุกจิกเลย พวกเราควรกลับเทอร์เทียม─เดินไหวไหม"
+    },
+    {
+      "key": "ithinkso",
+      "text_en": "I think so.",
+      "text": "คิดว่าไหว"
+    },
+    {
+      "key": "zeroareyouallright",
+      "text_en": "Zero! Are you all right?",
+      "text": "ซีโร่! ไม่เป็นไรใช่ไหม"
+    },
+    {
+      "key": "wellenoughnovoidsentstruckheredidthey",
+      "text_en": "Well enough. No voidsent struck here, did they?",
+      "text": "ก็ดี วอยด์เซ้นต์ไม่ได้บุกโจมตีที่นี่ใช่ไหม"
+    },
+    {
+      "key": "noandtherewerentanymorecasualtiesthankstoyou",
+      "text_en": "No, and there weren't any more casualties thanks to you.",
+      "text": "ไม่เลย และพวกเราไม่สูญเสียใครเพิ่มอีกก็เพราะเจ้า"
+    },
+    {
+      "key": "whatareyoudoing",
+      "text_en": "What are you doing?",
+      "text": "กำลังทำอะไรน่ะ"
+    },
+    {
+      "key": "youllhavenodebtstorepayifthatswhatyoureworriedabout",
+      "text_en": "You'll have no debts to repay, if that's what you're worried about.",
+      "text": "ถ้ากำลังกังวลเรื่องนั้นละก็ เจ้าไม่จำเป็นต้องชดใช้หนี้อะไรทั้งนั้น"
+    },
+    {
+      "key": "ifanythingioweyouaweeksworthofbuuz",
+      "text_en": "If anything, I owe you a week's worth of buuz.",
+      "text": "ฉันต่างหากที่ติดหนี้บูซเจ้าตั้งหนึ่งสัปดาห์"
+    },
+    {
+      "key": "hmph",
+      "text_en": "Hmph.",
+      "text": "หึ"
+    },
+    {
+      "key": "foramercythereappearstohavebeennocasualtiesintertiumorelsewhere",
+      "text_en": "For a mercy, there appears to have been no casualties in Tertium or elsewhere.",
+      "text": "เดชะบุญ ดูเหมือนทุกคนในเทอร์เทียมและที่อื่นๆ จะปลอดภัยดี"
+    },
+    {
+      "key": "ivealsoreceivedwordthatthetransportarrivedsafelyatcampbrokenglasstheysendtheirthankstothewomaninblack",
+      "text_en": "I've also received word that the transport arrived safely at Camp Broken Glass. They send their thanks to the “woman in black.”",
+      "text": "ฉันยังได้รับพระวจนะอีกว่าขบวนขนส่งเดินทางถึงค่ายโบรเคนแกลสอย่างปลอดภัย พวกเขาฝากคำขอบคุณมาถึง 'หญิงชุดดำ' ด้วย"
+    },
+    {
+      "key": "imfineijustneedrest",
+      "text_en": "...I'm fine. I just need rest.",
+      "text": "...ฉันไม่เป็นไร แค่ต้องการพักผ่อน"
+    },
+    {
+      "key": "zerosconvalescingaboardthetrainjullushasalreadygivenhersomethingtoeatsoisupposeallwecandoiswait",
+      "text_en": "Zero's convalescing aboard the train. Jullus has already given her something to eat, so I suppose all we can do is wait.",
+      "text": "ซีโร่กำลังพักฟื้นอยู่บนรถไฟ ยูลุสหาอะไรให้กินแล้วล่ะ ดังนั้นพวกเราก็คงทำได้แค่รอเท่านั้น"
+    },
+    {
+      "key": "icanthelpbutwonderthoughwhatpossessedhertogoandfightallthosevoidsentonherownnotthatiknowthegoingrateforsuchthingsbutidoubtonebuuzwouldsufficeithinksomeonehasbeenabadinfluenceonher",
+      "text_en": "I can't help but wonder, though... What possessed her to go and fight all those voidsent on her own? Not that I know the going rate for such things, but I doubt one buuz would suffice. I think someone has been a bad influence on her.",
+      "text": "ฉันอดสงสัยไม่ได้จริงๆ... อะไรดลใจให้ซีโร่ออกไปต่อสู้กับพวกวอยด์เซ้นต์ตั้งมากมายขนาดนั้นคนเดียวนะ ไม่ใช่ว่าฉันรู้ราคาค่างวดของงานประเภทนี้หรอก แต่บูซชิ้นเดียวคงไม่พอหรอก ฉันว่าใครบางคนคงเป็นตัวอย่างที่ไม่ดีให้แล้วละ"
+    },
+    {
+      "key": "ohimjustjokingorami",
+      "text_en": "Oh, I'm just joking. Or am I?",
+      "text": "โธ่ ฉันแค่พูดเล่นน่า... หรือว่าไม่ใช่กันนะ"
+    },
+    {
+      "key": "inanycasemanypeopleowehertheirlivesillbesuretothankherwhenshesbackonherfeet",
+      "text_en": "In any case, many people owe her their lives. I'll be sure to thank her when she's back on her feet.",
+      "text": "อย่างไรเสีย คนตั้งมากมายก็รอดชีวิตมาได้เพราะเธอ ไว้เธอลุกขึ้นเดินเหินได้ปกติเมื่อไหร่ ฉันจะไปขอบคุณอย่างแน่นอน"
+    }
+  ]
+}

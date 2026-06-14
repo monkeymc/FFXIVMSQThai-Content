@@ -1,0 +1,540 @@
+{
+  "quest_id": "not-without-incident",
+  "dialogues": [
+    {
+      "key": "rightnopointwaitingaroundhereisthere",
+      "text_en": "Right. No point waiting around here, is there?",
+      "text": "เอาละ จะยืนรอกันต่อไปก็คงไร้ประโยชน์ใช่ไหมล่ะ"
+    },
+    {
+      "key": "weshouldheadbacktolimsalominsaalphinaudsaidtomeetattheferrydocksithink",
+      "text_en": "We should head back to Limsa Lominsa. Alphinaud said to meet at the ferry docks, I think?",
+      "text": "กลับไปที่ลิมซ่า โลมินซากันดีกว่า รู้สึกว่าอัลฟิโนจะบอกให้ไปเจอกันที่ท่าเรือข้ามฟากนะ"
+    },
+    {
+      "key": "asurfeitofsumptuousfoodswondroussundriesplentyofcleanundergarmentsyesidobelievewehaveeverythingweneedforalengthyvoyage",
+      "text_en": "A surfeit of sumptuous foods, wondrous sundries, plenty of clean undergarments... Yes, I do believe we have everything we need for a lengthy voyage!",
+      "text": "อาหารเลิศรสละลานตา ของสารพัดสิ่งน่ามหัศจรรย์ เสื้อชั้นในสะอาดๆ อีกเพียบ... ใช่ค่ะ ฉันเชื่อว่าพวกเราตระเตรียมทุกสิ่งที่จำเป็นสำหรับการเดินทางไกลไว้พร้อมสรรพแล้วค่ะ!"
+    },
+    {
+      "key": "itstimeslikethisimgladwevegottatarutakingcareofbusiness",
+      "text_en": "It's times like this I'm glad we've got Tataru taking care of business.",
+      "text": "ช่วงเวลาแบบนี้แหละที่ฉันรู้สึกอุ่นใจเหลือเกินที่ได้ทาทารุมาช่วยดูแลจัดการเรื่องต่างๆ"
+    },
+    {
+      "key": "anarmymarchesonitsstomachtatarutookthatlessontoheart",
+      "text_en": "\"An army marches on its stomach.\" Tataru took that lesson to heart.",
+      "text": "'กองทัพต้องเดินด้วยท้อง' ทาทารุคงจำบทเรียนนี้ได้ขึ้นใจทีเดียว"
+    },
+    {
+      "key": "themiseryisthefinestshipevertosailtherhotanoandillnothearanymansayotherwise",
+      "text_en": "The Misery is the finest ship ever to sail the Rhotano, and I'll not hear any man say otherwise!",
+      "text": "เดอะ มิเซอรี เป็นเรือที่ยอดเยี่ยมที่สุดเท่าที่เคยแล่นในทะเลโรตาโน และฉันไม่ยอมให้ใครหน้าไหนมาพูดเป็นอื่นเด็ดขาด!"
+    },
+    {
+      "key": "youarereturnedforenameitrustyoulearnedmuchfromourdomanfriendsinrevenantstoll",
+      "text_en": "You are returned, Forename . I trust you learned much from our Doman friends in Revenant's Toll.",
+      "text": "กลับมาแล้วสินะ Forename ผมหวังว่าคุณคงได้เรื่องได้ราวมากมายจากมิตรสหายชาวโดมะในเรฟแนนท์สทอล"
+    },
+    {
+      "key": "iameagertohearallthoughthatcanwaituntilwehaveleftportwewillhavetimeenoughtotalkonourjourneytokugane",
+      "text_en": "I am eager to hear all—though that can wait until we have left port. We will have time enough to talk on our journey to Kugane.",
+      "text": "ผมอยากฟังรายละเอียดทั้งหมดใจจะขาด—แต่รอให้เรือออกจากท่าก่อนก็ยังไม่สาย พวกเราย่อมได้พูดคุยกันอย่างเต็มอิ่มระหว่างเดินทางมุ่งหน้าสู่คุกาเนะ"
+    },
+    {
+      "key": "ourspicetradingfriendshavecompletedtheirpreparationsassumingyouhavecompletedyoursyoumayinformthedeckhandthatwearereadytodepart",
+      "text_en": "Our spice-trading friends have completed their preparations. Assuming you have completed yours, you may inform the deckhand that we are ready to depart.",
+      "text": "มิตรสหายพ่อค้าเครื่องเทศของเราตระเตรียมการทุกอย่างเสร็จสิ้นแล้ว หากคุณเตรียมพร้อมแล้ว ก็ไปแจ้งกะลาสีได้เลยว่าพวกเราพร้อมออกเดินทาง"
+    },
+    {
+      "key": "somethingleftundonemyfriendifnotletusbeoff",
+      "text_en": "Something left undone, my friend? If not, let us be off.",
+      "text": "คุณยังติดค้างธุระอะไรอีกหรือไม่ หากเรียบร้อยดีแล้ว พวกเราก็ออกเดินทางกันเถอะ"
+    },
+    {
+      "key": "allsetladlassillseeyoutotheshipifso",
+      "text_en": "All set, lad / lass ? I'll see you to the ship if so.",
+      "text": "เรียบร้อยดีไหม ถ้าพร้อมแล้วก็ตามมาเลย จะพาไปส่งที่เรือ"
+    },
+    {
+      "key": "twelvebepraisedfullsurewasithatihadcometoolate",
+      "text_en": "Twelve be praised! Full sure was I that I had come too late.",
+      "text": "ขอบคุณทวยเทพทั้งสิบสอง! นึกว่าจะมาไม่ทันเสียแล้ว"
+    },
+    {
+      "key": "uriangertellmeyouhaventcomeallthiswayjusttoseeusoff",
+      "text_en": "Urianger? Tell me you haven't come all this way just to see us off.",
+      "text": "ยูเรียนเจอร์? อย่าบอกนะว่าอุตส่าห์เดินทางมาไกลขนาดนี้เพียงเพื่อส่งพวกเรา"
+    },
+    {
+      "key": "naymyladyereyouquittheseshoresforeasternclimesiwishedtosharesomewordsofseemingimport",
+      "text_en": "Nay, my lady. Ere you quit these shores for eastern climes, I wished to share some words of seeming import.",
+      "text": "หามิได้ คุณหนู ก่อนที่ท่านจะละจากชายฝั่งนี้สู่ดินแดนตะวันออก ข้าพเจ้าประสงค์จะมอบคำเตือนที่ดูจะมีนัยสำคัญยิ่ง"
+    },
+    {
+      "key": "lookyewherethesundothriseseecrimsonembersdarkningskieslookyewherethesundothfallseeazurelostamidstthesquall",
+      "text_en": "\"Look ye where the sun doth rise, see crimson embers, dark'ning skies... Look ye where the sun doth fall, see azure lost amidst the squall.\"",
+      "text": "\"จงมองไปยังทิศที่สุริยาอุทัย จักเห็นถ่านแดงเพลิงและนภาที่มืดหม่น... จงมองไปยังทิศที่สุริยาอัสดง จักเห็นสีครามสูญสิ้นท่ามกลางพายุร้าย\""
+    },
+    {
+      "key": "wellthatsoundssuitablyforebodinganotheroneofyourpropheciesipresume",
+      "text_en": "Well that sounds suitably foreboding. Another one of your prophecies, I presume?",
+      "text": "ฟังดูเป็นลางร้ายพิลึก คงเป็นคำทำนายอีกบทของนายสิเนี่ย"
+    },
+    {
+      "key": "offareasternoriginayeitismineearnesthopethatthisancientwisdommayservetoguideyouonyourjourneyforwhatdangerslieinwaitforyouuponthesedistantshoresareyetbeyondmyknowing",
+      "text_en": "Of Far Eastern origin, aye. It is mine earnest hope that this ancient wisdom may serve to guide you on your journey, for what dangers lie in wait for you upon these distant shores are yet beyond my knowing.",
+      "text": "เป็นภูมิปัญญาจากตะวันออกไกลขอรับ หวังเป็นอย่างยิ่งว่าคำสอนโบราณนี้จักช่วยนำทาง เพราะอันตรายที่เฝ้ารออยู่บนชายฝั่งอันห่างไกลนั้น เกินกว่าข้าพเจ้าจะหยั่งรู้ได้"
+    },
+    {
+      "key": "apartinggiftbefittingyourroundaboutwaysthankyou",
+      "text_en": "<sigh> A parting gift befitting your roundabout ways. Thank you.",
+      "text": "<ถอนหายใจ> ของขวัญอำลาที่อ้อมค้อมสมเป็นนายจริงๆ ขอบใจนะ"
+    },
+    {
+      "key": "ihavemorethanwordsforyoumylady",
+      "text_en": "I have more than words for you, my lady.",
+      "text": "ข้าพเจ้าไม่ได้มีเพียงแค่ถ้อยคำมามอบให้เท่านั้น คุณหนู"
+    },
+    {
+      "key": "itsbeautifulisitforme",
+      "text_en": "It's beautiful...Is it for me?",
+      "text": "สวยเหลือเกิน... ให้ฉันหรือ"
+    },
+    {
+      "key": "thoughundeniablypowerfulyouraetherialbladetaxethyougreatlyinthewieldingnotsothisrapierwhichshallserveyoujustaswellgainstallbutthemostformidablefoe",
+      "text_en": "Though undeniably powerful, your aetherial blade taxeth you greatly in the wielding. Not so this rapier, which shall serve you just as well 'gainst all but the most formidable foe.",
+      "text": "แม้ดาบเอเธอร์จะทรงพลังมหาศาลอย่างไม่มีข้อกังขา ทว่ายามกวัดแกว่งกลับกลืนกินพลังกายยิ่งนัก ต่างจากกระบี่เล่มนี้ที่จะช่วยเกื้อหนุนได้ดีไม่แพ้กัน ยามต้องรับมือกับศัตรูหน้าไหนก็ตาม เว้นแต่พวกที่แข็งแกร่งจนเกินต้านทานเท่านั้น"
+    },
+    {
+      "key": "impressiveitfeelsasthoughitsattunedtomyaetherishalltreasureit",
+      "text_en": "Impressive...it feels as though it's attuned to my aether. I shall treasure it.",
+      "text": "ยอดเยี่ยมจริง... รู้สึกเหมือนกระบี่ประสานเข้ากับเอเธอร์ของฉันเลย จะเก็บรักษาไว้อย่างดีที่สุด"
+    },
+    {
+      "key": "honoredguestssayyourfarewellsforthemomentofourpartingdrawsnighafairwindblowsandimeantofollowit",
+      "text_en": "Honored guests! Say your farewells, for the moment of our parting draws nigh! A fair wind blows, and I mean to follow it!",
+      "text": "แขกผู้มีเกียรติทุกท่าน! เอ่ยคำอำลาเสียเถิด เวลาแห่งการจากลากระชั้นเข้ามาแล้ว! สายลมดีพัดมาแล้ว และผมตั้งใจจะแล่นใบไปตามลม!"
+    },
+    {
+      "key": "itwouldseemourshipissettosailpraygivemyregardstothancredandtheothersandtakecare",
+      "text_en": "It would seem our ship is set to sail. Pray give my regards to Thancred and the others. And...take care.",
+      "text": "ดูเหมือนเรือกำลังจะออกแล้ว ฝากความคิดถึงถึงแธนเครดกับคนอื่นๆ ด้วยนะ แล้วก็...ดูแลตัวเองด้วย"
+    },
+    {
+      "key": "afinedayisitnotfairwindsandfollowingseasthemiseryisenjoyingherself",
+      "text_en": "A fine day, is it not? Fair winds and following seas. The Misery is enjoying herself.",
+      "text": "ช่างเป็นวันที่ยอดเยี่ยมจริงไหม สายลมและกระแสน้ำเป็นใจ เดอะ มิเซอรี กำลังเริงร่าทีเดียว"
+    },
+    {
+      "key": "neverthelessitwouldnotdoforyoutospendtheentiretyofourvoyageabovedeckletmeshowyoutoyourquarters",
+      "text_en": "Nevertheless, it would not do for you to spend the entirety of our voyage above deck. Let me show you to your quarters.",
+      "text": "ถึงอย่างนั้น จะปล่อยให้ยืนบนดาดฟ้าเรือตลอดการเดินทางก็คงไม่ดีนัก เดี๋ยวผมจะนำทางไปยังห้องพักเอง"
+    },
+    {
+      "key": "ahhhhwasitsupposedtodothat",
+      "text_en": "Ahhhh! Was it supposed to do that?",
+      "text": "ว้าย! ควรจะเป็นแบบนั้นเหรอคะ!"
+    },
+    {
+      "key": "notundernormalcircumstances",
+      "text_en": "Not under normal circumstances...",
+      "text": "ในสถานการณ์ปกติย่อมไม่เป็นเช่นนี้..."
+    },
+    {
+      "key": "captainyoureneededondecksomethinqueersafootthewindsdieddownthewaterswentstillandallofasuddenweweredraggedoffcourse",
+      "text_en": "Captain! You're needed on deck. Somethin' queer's afoot. The winds died down, the waters went still, and all of a sudden we were dragged off course...",
+      "text": "กัปตันครับ! เชิญที่ดาดฟ้าด่วนเลยครับ เกิดเรื่องพิลึกขึ้นแล้ว จู่ๆ ลมก็สงบกะทันหัน ผิวน้ำนิ่งสนิท แล้วบางอย่างก็ฉุดเรือออกนอกเส้นทาง..."
+    },
+    {
+      "key": "draggedbywhat",
+      "text_en": "\"Dragged\"? By what?",
+      "text": "“ฉุด” อย่างนั้นหรือ ด้วยสิ่งใดกัน"
+    },
+    {
+      "key": "cantrightlysaysirbutsomeoftheladsaremutterinaboutseeinthingsinthewaterthingsasshouldntbethere",
+      "text_en": "Can't rightly say, sir, but some of the lads are mutterin' about seein' things in the water. Things as shouldn't be there...",
+      "text": "บอกไม่ได้แน่ชัดครับกัปตัน แต่พวกเด็กๆ ซุบซิบกันว่าเห็นอะไรบางอย่างในน้ำ สิ่งที่ไม่ควรมาลอยคว้างแถวนี้..."
+    },
+    {
+      "key": "ohfortheloveofifyouwillexcusemeamoment",
+      "text_en": "Oh, for the love of—if you will excuse me a moment.",
+      "text": "ให้ตายเถอะ... ขอตัวสักครู่นะครับ"
+    },
+    {
+      "key": "actuallymightipersuadeyoutojoinmeloaththoughiamtoadmititihaveabadfeelingaboutthis",
+      "text_en": "...Actually, might I persuade you to join me? Loath though I am to admit it, I have a bad feeling about this.",
+      "text": "...อันที่จริง จะรังเกียจไหมหากจะขอให้ไปด้วยกัน แม้จะไม่ค่อยอยากยอมรับ แต่สังหรณ์ใจไม่ดีเลยครับ"
+    },
+    {
+      "key": "thisaintrightthisaintrightatall",
+      "text_en": "This ain't right. This ain't right at all.",
+      "text": "ชักไม่ชอบมาพากลแล้ว ไม่ชอบมาพากลเอาเสียเลย"
+    },
+    {
+      "key": "hmmoddmostodd",
+      "text_en": "Hmm...Odd. Most odd.",
+      "text": "อืม... แปลกพิลึก แปลกพิลึกเหลือเกิน"
+    },
+    {
+      "key": "welldoyouhaveanyideawhatsgoingon",
+      "text_en": "Well? Do you have any idea what's going on?",
+      "text": "เป็นอย่างไรบ้างครับ พอจะเดาได้ไหมว่าเกิดอะไรขึ้น"
+    },
+    {
+      "key": "noasthemansaiddespiteabsenceofwindandcurrentthemiseryissomehowbeingpulledoffcourse",
+      "text_en": "...No. As the man said, despite absence of wind and current, the Misery is somehow being pulled off course.",
+      "text": "...ไม่เลย เป็นอย่างที่หมอนั่นว่า ทั้งที่ไร้สายลมและปราศจากกระแสน้ำ แต่บางสิ่งกลับฉุดเดอะ มิเซอรี ให้เบี่ยงเบนออกนอกเส้นทาง"
+    },
+    {
+      "key": "wellwhynotfireuptheceruleumenginesyouhavehiddenbelow",
+      "text_en": "Well, why not fire up the ceruleum engines you have hidden below?",
+      "text": "ถ้าอย่างนั้น ทำไมไม่ลองเดินเครื่องยนต์ซีรูเลียมที่ซ่อนไว้ข้างใต้ล่ะครับ"
+    },
+    {
+      "key": "anexcellentsuggestionbasedonknowledgeyoushouldnothavealasourenginesappeartobemalfunctioningforreasonsthatescapemyengineersatpresent",
+      "text_en": "An excellent suggestion based on knowledge you should not have. Alas, our engines appear to be malfunctioning for reasons that escape my engineers at present...",
+      "text": "เป็นคำแนะนำที่ยอดเยี่ยมยิ่งนัก ยิ่งเป็นเรื่องที่ไม่ควรจะรู้ด้วยแล้ว แต่น่าเสียดาย เครื่องยนต์เกิดขัดข้องด้วยสาเหตุที่พวกช่างเครื่องก็ยังมืดแปดด้านในเวลานี้..."
+    },
+    {
+      "key": "imtellingyoucaptainitsthemthingstheladssaw",
+      "text_en": "I'm telling you, Captain, it's them... things the lads saw...",
+      "text": "ผมบอกกัปตันแล้วไงครับ ต้องเป็นเพราะไอ้... สิ่งที่พวกนั้นเห็นแน่ๆ..."
+    },
+    {
+      "key": "thingsidontsupposeicouldconvinceyoutoattemptsomethingmoredescriptiveanadjectiveforexample",
+      "text_en": "\"Things\"? I don't suppose I could convince you to attempt something more descriptive? An adjective, for example.",
+      "text": "\"เจ้า 'ตัวพวกนั้น' งั้นหรือ คงไม่มีหวังจะขอให้ช่วยอธิบายให้เห็นภาพชัดกว่านี้อีกสักนิดหรอกใช่ไหม อย่างเช่นลองใช้คำคุณศัพท์สักคำดูน่ะ\""
+    },
+    {
+      "key": "seawolfsuperstitionsandfaerietalesnaughtmorebutifyoumustknowthethingswhichheissoreticenttonamearethesoulsofdeceasedwomensaidtoluresailorstotheirdeaths",
+      "text_en": "Sea Wolf superstitions and faerie tales, naught more... But if you must know, the \"things\" which he is so reticent to name are the souls of deceased women said to lure sailors to their deaths.",
+      "text": "\"ก็แค่เรื่องงมงายและนิทานหลอกเด็กของพวกซีวูล์ฟ ไม่มีอะไรมากกว่านั้น... แต่ถ้าอยากรู้ล่ะก็ เจ้า 'ตัวพวกนั้น' ที่เขาอึกอักไม่ยอมเอ่ยชื่อก็คือวิญญาณของหญิงสาวผู้ล่วงลับที่ล่อลวงชาวเรือไปสู่ความตาย\""
+    },
+    {
+      "key": "pppreposterous",
+      "text_en": "P-P-Preposterous!",
+      "text": "\"เห...เหลวไหลสิ้นดี!\""
+    },
+    {
+      "key": "yeeesindeedifitisneitherseanortheweatherwhichisresponsiblethenitisprobablyapredatoryentityofsomesortperhapsasirenorsomesuch",
+      "text_en": "Yeees, indeed...If it is neither sea nor the weather which is responsible, then it is probably a predatory entity of some sort—perhaps a siren or some such.",
+      "text": "\"นั่นสินะ...ถ้าต้นเหตุไม่ใช่ท้องทะเลหรือดินฟ้าอากาศ ก็คงเป็นสัตว์นักล่าชนิดใดชนิดหนึ่ง อาจจะเป็นไซเรนหรืออะไรเทือกนั้น\""
+    },
+    {
+      "key": "forallweknowitcouldbeafellowspicetraderemployingmagickstoseizeandplunderpassingvessels",
+      "text_en": "For all we know, it could be a fellow \"spice trader\" employing magicks to seize and plunder passing vessels.",
+      "text": "\"ดีไม่ดีอาจเป็นเพื่อน 'พ่อค้าเครื่องเทศ' ด้วยกันที่ใช้เวทมนตร์เข้ายึดและปล้นสะดมเรือที่แล่นผ่านไปมาก็ได้\""
+    },
+    {
+      "key": "regardlesswehavebutonerecoursetoletthecurrenttakeuswhereitwillanddealwithwhateverwefindthere",
+      "text_en": "Regardless, we have but one recourse: to let the current take us where it will, and deal with whatever we find there.",
+      "text": "\"แต่ไม่ว่าจะอย่างไร เราก็มีหนทางเดียวเท่านั้น คือปล่อยให้กระแสน้ำพัดไปตามใจ แล้วค่อยจัดการกับอะไรก็ตามที่ต้องเจอที่นั่น\""
+    },
+    {
+      "key": "whatathoroughlypragmaticsuggestionohiambeginningtolikeyougirl",
+      "text_en": "What a thoroughly pragmatic suggestion. Oh, I am beginning to like you, girl.",
+      "text": "\"ช่างเป็นข้อเสนอที่มองความจริงและเน้นผลลัพธ์ดีเหลือเกิน ชักจะเริ่มถูกชะตากับเธอแล้วสิ แม่หนู\""
+    },
+    {
+      "key": "oncewearriveatourdestinationmycrewshallremainwiththeshiptodefenditwhileweventureforthtodealwiththecauseofourtroubles",
+      "text_en": "Once we arrive at our destination, my crew shall remain with the ship to defend it while we venture forth to deal with the cause of our troubles.",
+      "text": "\"เมื่อถึงจุดหมาย ลูกเรือของข้าพเจ้าจะปักหลักรักษาเรือไว้ ส่วนพวกเราจะออกไปจัดการกับต้นเหตุของเรื่องเดือดร้อนนี้เอง\""
+    },
+    {
+      "key": "thenitissettlediknownotwhatawaitsusbutitwillruethedayitreeledusin",
+      "text_en": "Then it is settled! I know not what awaits us, but it will rue the day it reeled us in!",
+      "text": "\"ตกลงตามนี้! ถึงไม่รู้ว่าอะไรเฝ้ารออยู่ข้างหน้า แต่มันจะต้องเสียใจแน่ที่ดึงดันลากพวกเราเข้ามา!\""
+    },
+    {
+      "key": "imnotsayingthatibelievebeyondashadowofadoubtthatvengefulspiritsareplottingourdemiseatthisverymomentimjustsayingwecannotdiscountthepossibility",
+      "text_en": "I'm not saying that I believe beyond a shadow of a doubt that vengeful spirits are plotting our demise at this very moment! I'm just saying we cannot discount the possibility!",
+      "text": "\"ใช่ว่าฉันจะปักใจเชื่อเต็มร้อยว่าพวกวิญญาณพยาบาทกำลังจ้องเอาชีวิตเราอยู่ในวินาทีนี้เสียเมื่อไหร่! แค่เตือนว่าพวกเรามองข้ามความเป็นไปได้นี้ไม่ได้ต่างหาก!\""
+    },
+    {
+      "key": "thefieryonealisaiewasittisapitysheholdsourprofessioninsuchdisdainshewouldmakeanexcellentpirate",
+      "text_en": "(The fiery one—Alisaie, was it? 'Tis a pity she holds our profession in such disdain. She would make an excellent pirate.)",
+      "text": "(แม่สาวอารมณ์ร้อนคนนั้น—อลิเซใช่ไหมนะ น่าเสียดายที่เธอรังเกียจอาชีพของเราเหลือเกิน ไม่อย่างนั้นคงเป็นโจรสลัดฝีมือฉกาจได้แน่ๆ)"
+    },
+    {
+      "key": "whwhatwhyareyoulookingatmelikethatiamcalmandcollectedasevercarryon",
+      "text_en": "Wh–What? Why are you looking at me like that? I am calm and collected as ever! Carry on!",
+      "text": "อ...อะไรนะ มองผมด้วยสายตาแบบนั้นทำไมกัน ผมยังสุขุมเยือกเย็นดีเหมือนเดิมทุกประการ! เดินหน้าต่อเถอะ!"
+    },
+    {
+      "key": "illmakesuretatarustaysbelowdeckuntilweknowitssafe",
+      "text_en": "I'll make sure Tataru stays below deck until we know it's safe.",
+      "text": "ฉันจะเฝ้าให้ทาทารุอยู่ใต้ท้องเรือจนกว่าจะแน่ใจว่าปลอดภัยนะ"
+    },
+    {
+      "key": "alphinaudwasterrifiedofghoststoriesasachildimgladtoseethatsomethingsneverchange",
+      "text_en": "Alphinaud was terrified of ghost stories as a child. I'm glad to see that some things never change.",
+      "text": "ตอนเด็กๆ อัลฟิโนกลัวเรื่องผีขึ้นสมองเชียวล่ะ ดีใจจังที่บางเรื่องไม่เคยเปลี่ยนไปเลยแบบนี้"
+    },
+    {
+      "key": "theyreonthedecktoarmstoarms",
+      "text_en": "They're on the deck! To arms, to arms!",
+      "text": "พวกมันอยู่บนดาดฟ้าเรือ! เตรียมอาวุธ! เตรียมอาวุธ!"
+    },
+    {
+      "key": "illnotsuffertroublemakersaboardmyship",
+      "text_en": "I'll not suffer troublemakers aboard my ship.",
+      "text": "ฉันไม่ยอมให้พวกตัวปัญหามาเพ่นพ่านบนเรือของฉันเด็ดขาด"
+    },
+    {
+      "key": "nothingsgoingtostopusfromgettingtothefareast",
+      "text_en": "Nothing's going to stop us from getting to the Far East!",
+      "text": "ไม่มีอะไรหยุดยั้งพวกเราจากการเดินทางไปตะวันออกไกลได้ทั้งนั้น!"
+    },
+    {
+      "key": "watchouttheresmoreofthem",
+      "text_en": "Watch out, there's more of them!",
+      "text": "ระวัง! พวกมันแห่กันมาอีกแล้ว!"
+    },
+    {
+      "key": "islanddeadaheadallhandsbraceforimpact",
+      "text_en": "Island, dead ahead! All hands, brace for impact!",
+      "text": "เกาะอยู่ตรงหน้าเลย! ทุกคน เตรียมรับแรงกระแทก!"
+    },
+    {
+      "key": "seemswevearrivedgoonandgreetourhoststherestofuswillpatchuptheship",
+      "text_en": "Seems we've arrived... Go on and greet our hosts─the rest of us will patch up the ship!",
+      "text": "ดูเหมือนจะมาถึงแล้ว... ไปทักทายเจ้าบ้านเสียหน่อยสิ ที่เหลือพวกเราจะซ่อมแซมเรือเอง!"
+    },
+    {
+      "key": "notthemostwelcomingplace",
+      "text_en": "Not the most welcoming place...",
+      "text": "ดูไม่ค่อยต้อนรับแขกเอาเสียเลย..."
+    },
+    {
+      "key": "ishuddertoimaginewhatawaitshere",
+      "text_en": "I shudder to imagine what awaits here...",
+      "text": "แค่คิดว่าจะมีสิ่งใดรออยู่ข้างหน้า ขนก็ลุกซู่แล้ว..."
+    },
+    {
+      "key": "ifwecanpunchthemwecandealwiththem",
+      "text_en": "If we can punch them, we can deal with them!",
+      "text": "ถ้าสาวหมัดใส่ได้ ก็ไม่มีอะไรต้องกลัว!"
+    },
+    {
+      "key": "wellwellaghost",
+      "text_en": "Well, well, a ghost...",
+      "text": "แหม... ที่แท้ก็ผีรึ..."
+    },
+    {
+      "key": "letsnotwasteanytime",
+      "text_en": "Let's not waste any time!",
+      "text": "อย่ามัวเสียเวลาอยู่เลย!"
+    },
+    {
+      "key": "isitover",
+      "text_en": "Is it over?",
+      "text": "จบเรื่องแล้วใช่ไหม"
+    },
+    {
+      "key": "allfrightandnofight",
+      "text_en": "All fright and no fight.",
+      "text": "ดีแต่ทำท่าขู่ขวัญ ฝีมือกลับไม่ได้เรื่อง"
+    },
+    {
+      "key": "isitover",
+      "text_en": "Is it over?",
+      "text": "จบเรื่องแล้วใช่ไหม"
+    },
+    {
+      "key": "farfromitwhateverbroughtusherewouldntfallsoeasily",
+      "text_en": "Far from it. Whatever brought us here wouldn't fall so easily.",
+      "text": "ยังห่างไกลนัก สิ่งที่ฉุดรั้งพวกเรามายังที่นี่คงไม่ยอมจำนนง่ายๆ เป็นแน่"
+    },
+    {
+      "key": "aghghostship",
+      "text_en": "A gh-ghost ship!?",
+      "text": "ร... เรือผีสิงรึ!?"
+    },
+    {
+      "key": "quiteliterally",
+      "text_en": "Quite literally.",
+      "text": "เป็นเช่นนั้นจริงแท้ครับ"
+    },
+    {
+      "key": "thatsquiteaspectacle",
+      "text_en": "That's quite a spectacle!",
+      "text": "ช่างเป็นภาพที่น่าตื่นตาตื่นใจทีเดียว!"
+    },
+    {
+      "key": "itappearstohavebeenadriftforawhile",
+      "text_en": "It appears to have been adrift for a while.",
+      "text": "ดูเหมือนจะลอยเท้งเต้งมาระยะหนึ่งแล้วครับ"
+    },
+    {
+      "key": "isthatthecrew",
+      "text_en": "Is that the crew?",
+      "text": "นั่นพวกลูกเรือหรือเปล่านะ"
+    },
+    {
+      "key": "yetanotherghost",
+      "text_en": "Yet another ghost.",
+      "text": "วิญญาณอีกดวงสินะครับ"
+    },
+    {
+      "key": "ssolongasmyspellswork",
+      "text_en": "S-So long as my spells work...",
+      "text": "ต-ตราบใดที่เวทมนตร์ของผมยังใช้การได้อยู่..."
+    },
+    {
+      "key": "ththatdoesntscareme",
+      "text_en": "Th-That doesn't scare me!",
+      "text": "ร-เรื่องแค่นั้นไม่ได้ทำให้ผมกลัวหรอกนะ!"
+    },
+    {
+      "key": "andsoitshouldntghostsarebutmentrappedinpurgatory",
+      "text_en": "And so it shouldn't. Ghosts are but men trapped in purgatory.",
+      "text": "ก็ควรเป็นเช่นนั้นครับ วิญญาณก็เป็นเพียงมนุษย์ผู้ติดค้างอยู่ในดินแดนชำระบาปเท่านั้น"
+    },
+    {
+      "key": "wewedidit",
+      "text_en": "We...we did it!",
+      "text": "พ-พวกเราทำสำเร็จแล้ว!"
+    },
+    {
+      "key": "maythedeadknowpeace",
+      "text_en": "May the dead know peace.",
+      "text": "ขอให้ผู้ล่วงลับได้พักผ่อนอย่างสงบเสียทีครับ"
+    },
+    {
+      "key": "adungeon",
+      "text_en": "A dungeon!",
+      "text": "คุกใต้ดินนี่!"
+    },
+    {
+      "key": "itappearsthiswasaprisonisle",
+      "text_en": "It appears this was a prison isle.",
+      "text": "ดูท่าที่นี่จะเคยเป็นเกาะสำหรับคุมขังนักโทษ"
+    },
+    {
+      "key": "iimnotafraidmmerelyexcited",
+      "text_en": "I-I'm not afraid! M-Merely excited!",
+      "text": "ผ...ผมไม่ได้กลัวนะ! แ...แค่ตื่นเต้นต่างหาก!"
+    },
+    {
+      "key": "idaresaywewillsoonmeetourhost",
+      "text_en": "I daresay we will soon meet our host.",
+      "text": "ผมเชื่อว่าอีกไม่ช้าเราคงได้พบเจ้าบ้านเป็นแน่"
+    },
+    {
+      "key": "iitremblefortheanticipation",
+      "text_en": "I-I tremble for the anticipation!",
+      "text": "ผ...ผมตัวสั่นด้วยความตื่นเต้นต่างหากเล่า!"
+    },
+    {
+      "key": "isthattheghostofasiren",
+      "text_en": "Is that the ghost of a siren!?",
+      "text": "นั่นวิญญาณของไซเรนงั้นหรือ!?"
+    },
+    {
+      "key": "andthesourceofthelegendtwouldseem",
+      "text_en": "And the source of the legend, 'twould seem.",
+      "text": "และดูท่าจะเป็นโลกต้นแบบของตำนานเสียด้วย"
+    },
+    {
+      "key": "sothisisthesourceofthelegend",
+      "text_en": "So this is the source of the legend.",
+      "text": "ที่แท้ที่นี่ก็คือโลกต้นแบบของตำนานนี่เอง"
+    },
+    {
+      "key": "hehhehhehivebeenwaitingforyou",
+      "text_en": "Heh heh heh... I've been waiting for you...",
+      "text": "หึๆๆ... เราเฝ้ารอพวกเจ้ามานาน..."
+    },
+    {
+      "key": "ramblerambleramblewithmeallthroughthenight",
+      "text_en": "Ramble... Ramble... Ramble with me all through the night...",
+      "text": "พเนจร... พเนจร... มาพเนจรกับเราตลอดทั้งคืนนี้สิ..."
+    },
+    {
+      "key": "downdowndownintothedepthsandtoyourdeath",
+      "text_en": "Down... Down... Down into the depths and to your death...",
+      "text": "ดิ่งลงไป... ดิ่งลงไป... ดิ่งลงสู่ก้นบึ้งและความตายของเจ้า..."
+    },
+    {
+      "key": "sospiritedbutifyouwillnotservethenyouwillsuffer",
+      "text_en": "So spirited... But if you will not serve, then you will suffer...",
+      "text": "ช่างพยศเหลือเกิน... แต่หากไม่ยอมสยบรับใช้ ก็จงทนทุกข์ทรมานไปเสีย..."
+    },
+    {
+      "key": "thatappearstobethelastofthem",
+      "text_en": "That appears to be the last of them.",
+      "text": "ดูเหมือนจะหมดแค่นี้แล้วละ"
+    },
+    {
+      "key": "wordfromthemiseryrepairsarecompleteandwemayresumeourjourneywithoutfurtherdelay",
+      "text_en": "Word from the Misery . Repairs are complete, and we may resume our journey without further delay.",
+      "text": "พระวจนะส่งมาจากเดอะ มิเซอรี การซ่อมแซมเสร็จสิ้นแล้ว และเดินทางต่อไปได้โดยไม่ชักช้า"
+    },
+    {
+      "key": "iswearifineverhearanotherghoststoryitwillbetoosoon",
+      "text_en": "I swear, if I never hear another ghost story, it will be too soon...",
+      "text": "ขอสาบานเลย ถ้าชั่วชีวิตนี้ไม่ต้องฟังเรื่องผีอีกก็นับว่าดีที่สุด..."
+    },
+    {
+      "key": "iremembertheseathesmellofthesaltandthecrashofthewavesaswedrewclosertokugane",
+      "text_en": "I remember the sea. The smell of the salt and the crash of the waves as we drew closer to Kugane...",
+      "text": "ยังจำท้องทะเลได้ดี กลิ่นเค็มของไอเกลือเตะจมูกยามขยับเข้าใกล้คุกาเนะ พร้อมเสียงคลื่นกระทบฝั่งซัดสาด..."
+    },
+    {
+      "key": "theonlyportopentooutsidersinhingashiacrosstherubyseafromothardfromdoma",
+      "text_en": "The only port open to outsiders in Hingashi, across the Ruby Sea from Othard. From Doma.",
+      "text": "ท่าเรือแห่งเดียวในฮิงาชิที่เปิดต้อนรับคนนอก โดยข้ามทะเลทับทิมมาจากโอธาร์ด... จากโดม่า"
+    },
+    {
+      "key": "allthecolorsoftherainbowallthepeoplesoftheworldallinoneplaceiwishyoucouldhaveseenit",
+      "text_en": "All the colors of the rainbow, all the peoples of the world, all in one place. I wish you could have seen it...",
+      "text": "สารพัดสีสันงดงามปานสายรุ้ง ผู้คนจากทุกหนแห่งทั่วโลกรวมกันอยู่ในสถานที่เดียว... อยากให้ได้มาเห็นด้วยตาตัวเองเหลือเกิน..."
+    },
+    {
+      "key": "iidontknowwhatiwasexpectingbutitwasntthis",
+      "text_en": "I...I don't know what I was expecting, but it wasn't this.",
+      "text": "ฉัน...ฉันก็ไม่รู้ว่าคาดหวังอะไรไว้ แต่ไม่ใช่แบบนี้แน่ๆ"
+    },
+    {
+      "key": "bythetwelveihaveneverbeenhappiertobebackonterrafirmaourvoyagehasinstilledinmeanewappreciationforsurfaceswhichdonotmoveoftheirownaccord",
+      "text_en": "By the Twelve, I have never been happier to be back on terra firma... Our voyage has instilled in me a new appreciation for surfaces which do not move of their own accord.",
+      "text": "เดชะคุณเทพทั้งสิบสอง ไม่เคยดีใจเท่านี้มาก่อนเลยที่ได้กลับมาเหยียบบนแผ่นดินแข็งๆ... การเดินทางครั้งนี้ทำให้ซาบซึ้งในคุณค่าของพื้นผิวที่ไม่ขยับเขยื้อนเองได้ขึ้นมาอีกโข"
+    },
+    {
+      "key": "itsverycolorfulisitnot",
+      "text_en": "It's very...colorful, is it not?",
+      "text": "ดู...มีสีสันละลานตาดีเหลือเกินนะ ว่าไหม"
+    },
+    {
+      "key": "strangeisitjustmeoristhegroundswaying",
+      "text_en": "Strange... Is it just me, or is the ground swaying?",
+      "text": "แปลกจริง... คิดไปเองหรือเปล่าคะว่าพื้นมันโคลงเคลง"
+    },
+    {
+      "key": "thanksagainforuhsavingusfromcertaindeathatthehandsofloreleiandwhatnotwellnotsoonforgetit",
+      "text_en": "Thanks again for, uh, saving us from certain death at the hands of Lorelei and whatnot. We'll not soon forget it.",
+      "text": "ขอบคุณอีกครั้งนะครับที่...เอ่อ ช่วยพวกเราให้รอดพ้นจากความตายด้วยเงื้อมมือของลอเรไลอะไรนั่น พวกเราจะไม่มีวันลืมเลยครับ"
+    },
+    {
+      "key": "congratulationsyounowstandinkuganethewesternportofhingashiregrettablytheonlyportinthisnationopentoforeigntrade",
+      "text_en": "Congratulations. You now stand in Kugane, the western port of Hingashi. Regrettably, the only port in this nation open to foreign trade.",
+      "text": "ขอแสดงความยินดีด้วย บัดนี้ท่านยืนอยู่ ณ คุกาเนะ ท่าเรือฝั่งตะวันตกของฮิงาชิ แต่น่าเสียดายที่เป็นท่าเรือเพียงแห่งเดียวในประเทศนี้ที่เปิดรับการค้าจากต่างแดน"
+    },
+    {
+      "key": "ohandidoapologizeforunforeseendifficultieswhichbefellusduringourjourneyneedlesstosayyourassistanceinovercomingthemwasmuchappreciated",
+      "text_en": "Oh, and I do apologize for unforeseen difficulties which befell us during our journey. Needless to say, your assistance in overcoming them was much appreciated.",
+      "text": "อ้อ แล้วก็ต้องขออภัยสำหรับอุปสรรคเหนือความคาดหมายระหว่างการเดินทางของเราด้วย แน่นอนว่าข้าพเจ้าซาบซึ้งใจในความช่วยเหลือของท่านที่ช่วยให้ฝ่าฟันมันมาได้เป็นอย่างยิ่ง"
+    },
+    {
+      "key": "thankthetwelve",
+      "text_en": "Thank the Twelve!",
+      "text": "ขอบคุณเทพทั้งสิบสอง!"
+    },
+    {
+      "key": "everythingherewouldappeartobeinordergoodrepairsshouldbecompletedbythetimewereturntothemiserywhereuponweshallresumeourjourneywithoutfurtherdelay",
+      "text_en": "Everything here would appear to be in order. Good. Repairs should be completed by the time we return to the Misery , whereupon we shall resume our journey without further delay.",
+      "text": "ดูเหมือนทุกอย่างที่นี่จะเรียบร้อยดีตามระเบียบภาคี ดีล่ะ พวกช่างน่าจะซ่อมเรือเสร็จพอดีตอนที่เรา กลับ ไปยัง เดอะ มิเซอรี ซึ่งเมื่อถึงเวลานั้นเราจะเดินทางกันต่อทันทีโดยไม่ชักช้า"
+    }
+  ]
+}

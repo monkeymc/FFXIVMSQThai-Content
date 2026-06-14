@@ -1,0 +1,112 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ffxiv-dark: #121212;
+  --color-ffxiv-darker: #0d0d0d;
+  --color-ffxiv-gold: #c3a260;
+  --color-ffxiv-gold-light: #e6c875;
+  --color-ffxiv-accent: #6b8cce;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  :root {
+    /* Default Dark Mode */
+    --background: #121212;
+    --foreground: #e0e0e0;
+    --color-ffxiv-bg: #1e1e24;
+    --color-ffxiv-panel: rgba(30, 30, 36, 0.95);
+    --color-panel-border: rgba(195, 162, 96, 0.3);
+    --color-input-bg: #121212;
+    --color-input-border: #374151;
+    --color-bg-dot: rgba(195, 162, 96, 0.15);
+    --color-ffxiv-text: #e0e0e0;
+    --color-ffxiv-muted: #8b8b8b;
+    --color-progress-bg: #000000;
+    
+    /* Button Colors */
+    --color-btn-from: #d4af37;
+    --color-btn-to: #f0c265;
+    --color-btn-text: #451a03;
+    --color-btn-shadow: rgba(212, 175, 55, 0.4);
+    --color-btn-shadow-hover: rgba(240, 194, 101, 0.6);
+  }
+
+  :root.theme-light {
+    /* Light Mode (Deep Sepia / Aged Paper) */
+    --background: #c8bba6;
+    --foreground: #2b221a;
+    --color-ffxiv-bg: #ccbeaa;
+    --color-ffxiv-panel: rgba(224, 211, 193, 0.95);
+    --color-panel-border: rgba(138, 114, 76, 0.5);
+    --color-input-bg: #e6dac3;
+    --color-input-border: #a89980;
+    --color-bg-dot: rgba(138, 114, 76, 0.25);
+    --color-ffxiv-text: #2b221a;
+    --color-ffxiv-muted: #69594b;
+    --color-ffxiv-gold: #8f7448;
+    --color-ffxiv-gold-light: #705731;
+    --color-progress-bg: rgba(138, 114, 76, 0.35);
+    
+    /* Button Colors - Dark Leather/Mahogany for contrast */
+    --color-btn-from: #3d2a1d;
+    --color-btn-to: #5c4033;
+    --color-btn-text: #e6dac3;
+    --color-btn-shadow: rgba(61, 42, 29, 0.4);
+    --color-btn-shadow-hover: rgba(92, 64, 51, 0.6);
+  }
+  
+  body {
+    background-color: var(--color-ffxiv-bg);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-image: radial-gradient(var(--color-bg-dot) 1px, transparent 1px);
+    background-size: 40px 40px;
+    background-position: 0 0;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-ffxiv-gold);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-ffxiv-gold-light);
+}
+
+/* Glassmorphism Panel */
+.ffxiv-panel {
+  background: var(--color-ffxiv-panel);
+  border: 1px solid var(--color-panel-border);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* FFXIV Submit Button */
+.ffxiv-submit-btn {
+  background-image: linear-gradient(to right, var(--color-btn-from), var(--color-btn-to));
+  color: var(--color-btn-text);
+  box-shadow: 0 0 20px var(--color-btn-shadow);
+  transition: all 0.3s ease;
+}
+.ffxiv-submit-btn:hover {
+  box-shadow: 0 0 30px var(--color-btn-shadow-hover);
+  transform: translateY(-2px);
+}
+
+/* Theme visibility helpers */
+.show-in-light { display: none !important; }
+.theme-light .show-in-light { display: block !important; }
+.theme-light .hide-in-light { display: none !important; }
