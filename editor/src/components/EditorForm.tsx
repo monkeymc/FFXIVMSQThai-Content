@@ -25,8 +25,8 @@ export default function EditorForm({
     const formData = new FormData(e.currentTarget);
     
     // อัปเดตข้อมูล JSON จากสิ่งที่กรอก
-    const updatedDialogues = quest.dialogues.map((item: any) => {
-      const newText = formData.get(`dialogue_${item.key}`);
+    const updatedDialogues = quest.dialogues.map((item: any, index: number) => {
+      const newText = formData.get(`dialogue_${index}`);
       return {
         ...item,
         text: newText !== null ? newText.toString() : item.text

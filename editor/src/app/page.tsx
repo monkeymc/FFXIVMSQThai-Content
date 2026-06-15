@@ -1,8 +1,7 @@
 "use client";
 
 import { useEffect, useState, Suspense } from "react";
-import { useSearchParams } from "next/navigation";
-import Link from "next/link";
+import { useSearchParams, useRouter } from "next/navigation";
 import TranslationRow from "@/components/TranslationRow";
 import SearchBox from "@/components/SearchBox";
 import StickyHeader from "@/components/StickyHeader";
@@ -25,6 +24,7 @@ interface Quest {
 }
 
 function MainApp() {
+  const router = useRouter();
   const searchParams = useSearchParams();
   const selectedFile = searchParams.get("file") || "";
   const searchQuery = searchParams.get("search") || "";
@@ -34,6 +34,20 @@ function MainApp() {
   const [quest, setQuest] = useState<Quest | null>(null);
   const [glossary, setGlossary] = useState<GlossaryEntry[]>([]);
   const [isLoading, setIsLoading] = useState(true);
+  // ไฟล์ที่กำลังโหลดอยู่ (ใช้โชว์ spinner และกันการคลิกรัว ๆ)
+  const [navigatingFile, setNavigatingFile] = useState<string | null>(null);
+
+  // เลือกเควสต์จากรายการด้านซ้าย
+  const handleSelectFile = (file: string) => {
+    if (navigatingFile) return;        // กำลังโหลดอยู่ ห้ามคลิกซ้ำ
+    if (file === selectedFile) return; // ไฟล์นี้เปิดอยู่แล้ว
+    setNavigatingFile(file);
+
+    const params = new URLSearchParams();
+    params.set("file", file);
+    if (searchQuery) params.set("search", searchQuery);
+    router.push(`/?${params.toString()}`);
+  };
 
   // Load Glossary and File List
   useEffect(() => {
@@ -95,9 +109,10 @@ function MainApp() {
     async function loadQuest() {
       if (!selectedFile) {
         setQuest(null);
+        setNavigatingFile(null);
         return;
       }
-      
+
       try {
         const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
         const res = await fetch(`${basePath}/th/${selectedFile}`);
@@ -146,10 +161,20 @@ function MainApp() {
       } catch (err) {
         console.error("Failed to load quest", err);
         setQuest(null);
+      } finally {
+        // โหลดเสร็จแล้ว (สำเร็จหรือล้มเหลว) ปลดล็อกให้คลิกเลือกไฟล์อื่นได้
+        setNavigatingFile(null);
       }
     }
     loadQuest();
   }, [selectedFile]);
+
+  // เมื่อเลือกเควสต์ใหม่ ให้เลื่อนเนื้อหากลับขึ้นบนสุด
+  useEffect(() => {
+    if (quest) {
+      document.getElementById("scroll-container")?.scrollTo({ top: 0 });
+    }
+  }, [quest]);
 
   return (
     <div className="min-h-screen p-4 sm:p-8 font-sans flex flex-col gap-6">
@@ -190,16 +215,40 @@ function MainApp() {
               <p className="text-[var(--color-ffxiv-muted)] text-sm italic">No quests found matching your search.</p>
             ) : (
               <ul className="space-y-1">
-                {filteredFiles.map((file) => (
-                  <li key={file}>
-                    <Link 
-                      href={`/?file=${encodeURIComponent(file)}${searchQuery ? `&search=${encodeURIComponent(searchQuery)}` : ''}`}
-                      className={`block px-3 py-2 text-sm rounded transition-colors ${selectedFile === file ? 'bg-[var(--color-ffxiv-gold)] text-[var(--background)] font-semibold shadow-sm' : 'text-[var(--color-ffxiv-text)] hover:bg-[var(--color-input-bg)]'}`}
-                    >
-                      {file}
-                    </Link>
-                  </li>
-                ))}
+                {filteredFiles.map((file) => {
+                  const isActive = selectedFile === file;
+                  const isItemLoading = navigatingFile === file;
+                  const isBusy = navigatingFile !== null;
+                  return (
+                    <li key={file}>
+                      <button
+                        type="button"
+                        onClick={() => handleSelectFile(file)}
+                        disabled={isBusy}
+                        aria-busy={isItemLoading}
+                        className={`w-full text-left flex items-center justify-between gap-2 px-3 py-2 text-sm rounded transition-colors ${
+                          isActive
+                            ? 'bg-[var(--color-ffxiv-gold)] text-[var(--background)] font-semibold shadow-sm'
+                            : 'text-[var(--color-ffxiv-text)] hover:bg-[var(--color-input-bg)]'
+                        } ${isBusy && !isItemLoading ? 'opacity-50 cursor-not-allowed' : ''} ${isItemLoading ? 'cursor-wait' : ''}`}
+                      >
+                        <span className="truncate">{file}</span>
+                        {isItemLoading && (
+                          <svg
+                            className="animate-spin h-4 w-4 shrink-0"
+                            xmlns="http://www.w3.org/2000/svg"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            aria-hidden="true"
+                          >
+                            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+                          </svg>
+                        )}
+                      </button>
+                    </li>
+                  );
+                })}
               </ul>
             )}
           </div>
@@ -229,12 +278,12 @@ function MainApp() {
               <div className="flex-1 relative min-h-0">
                 <EditorForm quest={quest}>
                   <div id="scroll-container" className="absolute inset-0 overflow-y-auto custom-scrollbar flex flex-col gap-6 p-6 pr-8">
-                  {quest.dialogues.map((dialogue) => {
+                  {quest.dialogues.map((dialogue, index) => {
                     const parsedChunks = parseEnglishText(dialogue.text_en, glossary);
                     return (
-                      <TranslationRow 
-                        key={dialogue.key}
-                        name={`dialogue_${dialogue.key}`}
+                      <TranslationRow
+                        key={`${dialogue.key}_${index}`}
+                        name={`dialogue_${index}`}
                         chunks={parsedChunks}
                         defaultTextTh={dialogue.text}
                       />
