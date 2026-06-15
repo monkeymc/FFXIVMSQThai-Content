@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState, useRef, Suspense } from "react";
-import { useSearchParams, useRouter } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import TranslationRow from "@/components/TranslationRow";
 import SearchBox from "@/components/SearchBox";
 import StickyHeader from "@/components/StickyHeader";
@@ -24,7 +24,6 @@ interface Quest {
 }
 
 function MainApp() {
-  const router = useRouter();
   const searchParams = useSearchParams();
   const selectedFile = searchParams.get("file") || "";
   const searchQuery = searchParams.get("search") || "";
@@ -49,9 +48,11 @@ function MainApp() {
     const params = new URLSearchParams();
     params.set("file", file);
     if (searchQuery) params.set("search", searchQuery);
-    // ไม่ให้ Next เลื่อนทั้งหน้าขึ้นบนสุด (จะทำให้รายการ "Select Quest" เด้งขึ้น)
-    // ปล่อยให้ useEffect ด้านล่างเลื่อนเฉพาะเนื้อหา (scroll-container) แทน
-    router.push(`/?${params.toString()}`, { scroll: false });
+    // ใช้ History API (shallow routing) อัปเดต ?file= โดยไม่ผ่าน router ของ Next
+    // เพื่อไม่ให้เกิดการนำทาง/รีโหลดหน้า ซึ่งบน GitHub Pages (static export + basePath)
+    // การ router.push จะ fallback เป็น hard reload ทำให้ทั้งหน้าเด้งขึ้นบนสุด
+    // useSearchParams จะ sync ค่าใหม่ให้เอง แล้ว useEffect ด้านล่างจะเลื่อนเฉพาะเนื้อหา
+    window.history.pushState(null, "", `?${params.toString()}`);
   };
 
   // Load Glossary and File List

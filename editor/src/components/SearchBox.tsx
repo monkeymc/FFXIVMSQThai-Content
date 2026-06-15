@@ -1,9 +1,8 @@
 "use client";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { useState, useEffect } from "react";
 
 export default function SearchBox({ defaultValue }: { defaultValue?: string }) {
-  const router = useRouter();
   const searchParams = useSearchParams();
   const initialSearch = defaultValue || searchParams.get("search") || "";
   
@@ -24,12 +23,15 @@ export default function SearchBox({ defaultValue }: { defaultValue?: string }) {
           currentParams.delete("search");
         }
         
-        router.push(`/?${currentParams.toString()}`);
+        // ใช้ History API (shallow routing) แทน router.push เพื่อเลี่ยงการนำทาง/รีโหลด
+        // บน GitHub Pages (static export + basePath) ที่จะ fallback เป็น hard reload
+        const qs = currentParams.toString();
+        window.history.pushState(null, "", qs ? `?${qs}` : window.location.pathname);
       }
     }, 400);
 
     return () => clearTimeout(timer);
-  }, [searchTerm, searchParams, router]);
+  }, [searchTerm, searchParams]);
 
   return (
     <input 
