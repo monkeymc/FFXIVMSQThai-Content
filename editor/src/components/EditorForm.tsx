@@ -1,7 +1,13 @@
 "use client";
 import { FormEvent, useState, useEffect } from "react";
 
-export default function EditorForm({ 
+// ===================================================================
+// ลิงก์ Google Form สำหรับส่งงาน (อัปโหลดไฟล์ .json)
+// 👉 แก้ตรงนี้ที่เดียว: วางลิงก์ฟอร์มของคุณแทนข้อความข้างล่าง
+// ===================================================================
+const SUBMIT_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSdMsHrv6xxR-h6heRmninctuFMSZ4vRCTwEljo2am5aFvgvgA/viewform";
+
+export default function EditorForm({
   quest, 
   children 
 }: { 
@@ -147,8 +153,8 @@ export default function EditorForm({
               </h3>
               <ul className="text-[var(--color-ffxiv-text)] text-sm leading-relaxed list-decimal list-inside space-y-2">
                 <li>กดปุ่ม <strong>เลือกที่บันทึกไฟล์</strong> เพื่อบันทึกไฟล์ <span className="font-mono text-[var(--color-ffxiv-gold-light)] font-bold">{downloadedFileName}</span> ลงเครื่อง</li>
-                <li>กดปุ่ม <strong>เปิดโพสต์ Facebook</strong> เพื่อไปยังโพสต์รับส่งงาน</li>
-                <li><strong>แนบไฟล์ที่คุณโหลดไว้</strong> ลงในช่องคอมเมนต์เพื่อส่งผลงานได้เลยครับ!</li>
+                <li>กดปุ่ม <strong>เปิดฟอร์มส่งงาน</strong> เพื่อไปยังแบบฟอร์ม Google Form</li>
+                <li><strong>แนบไฟล์ที่คุณโหลดไว้</strong> ลงในฟอร์ม แล้วกดส่ง เพื่อส่งผลงานได้เลยครับ!</li>
               </ul>
             </div>
             
@@ -162,13 +168,13 @@ export default function EditorForm({
                 เลือกที่บันทึกไฟล์ .json
               </button>
               <div className="flex flex-col sm:flex-row gap-3">
-                <a 
-                  href="https://www.facebook.com/groups/341335123402321/posts/2040960610106422" 
-                  target="_blank" 
+                <a
+                  href={SUBMIT_FORM_URL}
+                  target="_blank"
                   rel="noopener noreferrer"
-                  className="flex-1 text-center py-3 px-4 bg-[#1877F2] hover:bg-[#166fe5] text-white font-bold rounded-lg shadow-lg transition-colors"
+                  className="flex-1 text-center py-3 px-4 bg-[#673AB7] hover:bg-[#5e35b1] text-white font-bold rounded-lg shadow-lg transition-colors"
                 >
-                  เปิดโพสต์ Facebook
+                  เปิดฟอร์มส่งงาน
                 </a>
                 <button 
                   type="button"
