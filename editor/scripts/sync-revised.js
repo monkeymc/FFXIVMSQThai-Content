@@ -122,7 +122,8 @@ function findColumn(header, predicate, fallbackIndex) {
   rows.forEach((cols, i) => {
     const aka = (cols[akaCol] || '').trim();
     const questRaw = (cols[questCol] || '').trim();
-    if (!aka && !questRaw) return; // แถวว่าง
+    // ข้ามแถวที่คอลัมน์ D (Quest) ว่าง โดยไม่นับเป็น error
+    if (!questRaw) return;
 
     const r = resolveQuest(questRaw);
     if (r.error) {

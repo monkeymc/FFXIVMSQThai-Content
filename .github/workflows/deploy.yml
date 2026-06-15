@@ -33,6 +33,13 @@ jobs:
         uses: actions/configure-pages@v5
       - name: Install dependencies
         run: npm ci
+      - name: Sync revised quests from form responses
+        # ดึงผลตอบรับล่าสุดมาสร้าง public/revised.json
+        # ข้ามไปถ้ายังไม่ได้ตั้งค่า REVISED_TSV_URL (จะใช้ revised.json ที่ commit ไว้แทน)
+        if: ${{ vars.REVISED_TSV_URL != '' }}
+        env:
+          REVISED_TSV_URL: ${{ vars.REVISED_TSV_URL }}
+        run: npm run sync-revised
       - name: Build with Next.js
         run: NEXT_PUBLIC_BASE_PATH=/FFXIVMSQThai-Content npm run build
       - name: Upload artifact
