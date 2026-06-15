@@ -1,12 +1,14 @@
 "use client";
 import { useEffect, useState } from "react";
 
-export default function StickyHeader({ 
-  filePath, 
-  dialogueCount 
-}: { 
-  filePath: string; 
+export default function StickyHeader({
+  filePath,
+  dialogueCount,
+  reviser = [],
+}: {
+  filePath: string;
   dialogueCount: number;
+  reviser?: string[];
 }) {
   const [scrollProgress, setScrollProgress] = useState(0);
 
@@ -71,13 +73,20 @@ export default function StickyHeader({
 
   return (
     <div className="flex-none px-6 py-4 flex justify-between items-center border-b border-[var(--color-panel-border)] z-20">
-      <div>
+      <div className="min-w-0">
         <h2 className="text-xl font-semibold text-[var(--color-ffxiv-text)]">
           <span className="text-[var(--color-ffxiv-gold-light)]">{filePath}</span>
         </h2>
+        {reviser.length > 0 && (
+          <p className="text-xs text-[var(--color-ffxiv-gold)] mt-0.5 flex items-center gap-1">
+            <span>✦</span>
+            <span>เกลาภาษาไทยโดย {reviser.join(" · ")}</span>
+          </p>
+        )}
       </div>
       
-      {/* โซนให้กำลังใจ (Gamified Progress) */}
+      {/* โซนให้กำลังใจ (Gamified Progress) — ซ่อนถ้าเควสต์นี้เกลาภาษาแล้ว */}
+      {reviser.length === 0 && (
       <div className="hidden sm:flex flex-col justify-end w-64 relative pt-12 pb-1">
         {/* GIF ตัวละครที่วิ่งไปตามหลอด */}
         <div 
@@ -112,6 +121,16 @@ export default function StickyHeader({
           </div>
         </div>
       </div>
+      )}
+
+      {/* ไอคอน done โชว์ทางขวาเมื่อเกลาภาษาแล้ว (สไตล์ในเกม) */}
+      {reviser.length > 0 && (
+        <img
+          src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/done.png`}
+          alt="เกลาภาษาแล้ว"
+          className="h-12 sm:h-16 w-auto object-contain drop-shadow-md shrink-0"
+        />
+      )}
     </div>
   );
 }

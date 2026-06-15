@@ -5,6 +5,7 @@
   "scripts": {
     "predev": "node prebuild.js",
     "prebuild": "node prebuild.js",
+    "sync-revised": "node scripts/sync-revised.js",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",

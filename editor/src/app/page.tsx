@@ -7,6 +7,7 @@ import SearchBox from "@/components/SearchBox";
 import StickyHeader from "@/components/StickyHeader";
 import EditorForm from "@/components/EditorForm";
 import ThemeToggle from "@/components/ThemeToggle";
+import RevisedCelebration from "@/components/RevisedCelebration";
 import { parseEnglishText, GlossaryEntry } from "@/lib/parser";
 
 interface Dialogue {
@@ -30,6 +31,8 @@ function MainApp() {
 
   const [fileList, setFileList] = useState<string[]>([]);
   const [filteredFiles, setFilteredFiles] = useState<string[]>([]);
+  // แผนที่เควสต์ที่เกลาภาษาไทยแล้ว: filePath -> รายชื่อผู้เกลา (โหลดจาก revised.json)
+  const [revisedMap, setRevisedMap] = useState<Record<string, string[]>>({});
   // ดัชนีค้นหาเนื้อหาภาษาอังกฤษ (โหลดแบบ lazy ตอนเริ่มค้นหา)
   const [searchIndex, setSearchIndex] = useState<{ files: string[]; inv: Record<string, number[]> } | null>(null);
   const indexLoadRef = useRef<"idle" | "loading" | "done">("idle");
@@ -66,6 +69,12 @@ function MainApp() {
         if (filesRes.ok) {
           const files = await filesRes.json();
           setFileList(files);
+        }
+
+        // Load รายการเควสต์ที่เกลาภาษาไทยแล้ว (สำหรับ badge ใน Select Quest)
+        const revisedRes = await fetch(`${basePath}/revised.json`);
+        if (revisedRes.ok) {
+          setRevisedMap(await revisedRes.json());
         }
 
         // Load glossary
@@ -301,18 +310,28 @@ function MainApp() {
                         } ${isBusy && !isItemLoading ? 'opacity-50 cursor-not-allowed' : ''} ${isItemLoading ? 'cursor-wait' : ''}`}
                       >
                         <span className="truncate">{file}</span>
-                        {isItemLoading && (
-                          <svg
-                            className="animate-spin h-4 w-4 shrink-0"
-                            xmlns="http://www.w3.org/2000/svg"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            aria-hidden="true"
-                          >
-                            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-                            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
-                          </svg>
-                        )}
+                        <span className="flex items-center gap-1.5 shrink-0">
+                          {(revisedMap[file]?.length ?? 0) > 0 && !isItemLoading && (
+                            <img
+                              src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/done_small.png`}
+                              alt="เกลาภาษาแล้ว"
+                              title={`เกลาภาษาไทยแล้ว · ${revisedMap[file].join(" · ")}`}
+                              className="h-5 w-5 object-contain shrink-0"
+                            />
+                          )}
+                          {isItemLoading && (
+                            <svg
+                              className="animate-spin h-4 w-4"
+                              xmlns="http://www.w3.org/2000/svg"
+                              fill="none"
+                              viewBox="0 0 24 24"
+                              aria-hidden="true"
+                            >
+                              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
+                              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4z" />
+                            </svg>
+                          )}
+                        </span>
                       </button>
                     </li>
                   );
@@ -341,7 +360,10 @@ function MainApp() {
             </div>
           ) : (
             <div className="flex flex-col relative h-auto md:h-full overflow-visible md:overflow-hidden min-h-0">
-              <StickyHeader filePath={quest.filePath} dialogueCount={quest.dialogues.length} />
+              {(revisedMap[quest.filePath]?.length ?? 0) > 0 && (
+                <RevisedCelebration key={quest.filePath} />
+              )}
+              <StickyHeader filePath={quest.filePath} dialogueCount={quest.dialogues.length} reviser={revisedMap[quest.filePath] || []} />
 
               <div className="relative md:flex-1 min-h-0">
                 <EditorForm quest={quest}>
@@ -360,9 +382,9 @@ function MainApp() {
                   {/* Submit Section (Appended to Content) */}
                   <div className="shrink-0 ffxiv-panel flex flex-col items-center justify-center gap-4 p-6 sm:p-10 relative overflow-hidden">
                     <div className="absolute inset-0 bg-gradient-to-r from-transparent via-[var(--color-ffxiv-gold-light)] to-transparent opacity-5"></div>
-                      <img 
-                        src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/done.png`} 
-                        alt="Quest Complete" 
+                      <img
+                        src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/bow.png`}
+                        alt="ขอบคุณ"
                         className="w-24 h-24 sm:w-32 sm:h-32 object-contain drop-shadow-md z-10"
                       />
                       <h3 className="text-xl font-bold text-[var(--color-ffxiv-gold-light)] mb-2 relative z-10">

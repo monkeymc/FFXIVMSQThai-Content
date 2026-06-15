@@ -106,6 +106,21 @@
   transform: translateY(-2px);
 }
 
+/* Confetti ฉลองเควสต์ที่เกลาภาษาแล้ว */
+@keyframes confetti-fall {
+  0% { transform: translateY(-30px) rotate(0deg); opacity: 1; }
+  100% { transform: translateY(105vh) rotate(720deg); opacity: 0; }
+}
+.confetti-piece {
+  position: absolute;
+  top: -30px;
+  border-radius: 2px;
+  animation-name: confetti-fall;
+  animation-timing-function: ease-in;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
 /* Theme visibility helpers */
 .show-in-light { display: none !important; }
 .theme-light .show-in-light { display: block !important; }

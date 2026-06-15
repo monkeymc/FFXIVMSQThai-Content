@@ -35,7 +35,7 @@ export default function RootLayout({
     >
       <head>
         <link rel="preload" href={`${basePath}/thank_you_sticker.png`} as="image" />
-        <link rel="preload" href={`${basePath}/done.png`} as="image" />
+        <link rel="preload" href={`${basePath}/bow.png`} as="image" />
       </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>
