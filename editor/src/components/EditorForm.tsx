@@ -153,7 +153,7 @@ export default function EditorForm({
               </h3>
               <ul className="text-[var(--color-ffxiv-text)] text-sm leading-relaxed list-decimal list-inside space-y-2">
                 <li>กดปุ่ม <strong>เลือกที่บันทึกไฟล์</strong> เพื่อบันทึกไฟล์ <span className="font-mono text-[var(--color-ffxiv-gold-light)] font-bold">{downloadedFileName}</span> ลงเครื่อง</li>
-                <li>กดปุ่ม <strong>เปิดฟอร์มส่งงาน</strong> เพื่อไปยังแบบฟอร์ม Google Form</li>
+                <li>กดปุ่ม <strong>เปิดฟอร์มส่งคำแปล</strong> เพื่อไปยังแบบฟอร์ม Google Form</li>
                 <li><strong>แนบไฟล์ที่คุณโหลดไว้</strong> ลงในฟอร์ม แล้วกดส่ง เพื่อส่งผลงานได้เลยครับ!</li>
               </ul>
             </div>
@@ -174,7 +174,7 @@ export default function EditorForm({
                   rel="noopener noreferrer"
                   className="flex-1 text-center py-3 px-4 bg-[#673AB7] hover:bg-[#5e35b1] text-white font-bold rounded-lg shadow-lg transition-colors"
                 >
-                  เปิดฟอร์มส่งงาน
+                  เปิดฟอร์มส่งคำแปล
                 </a>
                 <button 
                   type="button"
