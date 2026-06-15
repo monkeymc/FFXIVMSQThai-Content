@@ -117,7 +117,7 @@ export default function EditorForm({
 
   return (
     <>
-      <form onSubmit={handleSubmit} className="flex flex-col gap-6 h-full relative">
+      <form onSubmit={handleSubmit} className="flex flex-col gap-6 h-auto md:h-full relative">
         {children}
       </form>
 

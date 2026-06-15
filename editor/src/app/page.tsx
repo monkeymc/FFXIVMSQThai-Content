@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, Suspense } from "react";
+import { useEffect, useState, useRef, Suspense } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import TranslationRow from "@/components/TranslationRow";
 import SearchBox from "@/components/SearchBox";
@@ -31,6 +31,9 @@ function MainApp() {
 
   const [fileList, setFileList] = useState<string[]>([]);
   const [filteredFiles, setFilteredFiles] = useState<string[]>([]);
+  // ดัชนีค้นหาเนื้อหาภาษาอังกฤษ (โหลดแบบ lazy ตอนเริ่มค้นหา)
+  const [searchIndex, setSearchIndex] = useState<{ files: string[]; inv: Record<string, number[]> } | null>(null);
+  const indexLoadRef = useRef<"idle" | "loading" | "done">("idle");
   const [quest, setQuest] = useState<Quest | null>(null);
   const [glossary, setGlossary] = useState<GlossaryEntry[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -94,15 +97,66 @@ function MainApp() {
     loadInitialData();
   }, []);
 
-  // Filter files based on search
+  // โหลด search index แบบ lazy ครั้งแรกที่ผู้ใช้เริ่มค้นหา (ไม่กระทบเวลาโหลดหน้าแรก)
+  useEffect(() => {
+    if (!searchQuery || indexLoadRef.current !== "idle") return;
+    indexLoadRef.current = "loading";
+    (async () => {
+      try {
+        const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
+        const res = await fetch(`${basePath}/search-index.json`);
+        if (res.ok) {
+          setSearchIndex(await res.json());
+          indexLoadRef.current = "done";
+        } else {
+          indexLoadRef.current = "idle";
+        }
+      } catch (err) {
+        console.error("Failed to load search index", err);
+        indexLoadRef.current = "idle";
+      }
+    })();
+  }, [searchQuery]);
+
+  // Filter files based on search (ชื่อไฟล์ + เนื้อหาประโยคภาษาอังกฤษ)
   useEffect(() => {
     if (!searchQuery) {
       setFilteredFiles(fileList);
-    } else {
-      const q = searchQuery.toLowerCase();
-      setFilteredFiles(fileList.filter(f => f.toLowerCase().includes(q)));
+      return;
     }
-  }, [fileList, searchQuery]);
+    const q = searchQuery.toLowerCase();
+    const nameMatches = (f: string) => f.toLowerCase().includes(q);
+
+    // ดัชนียังโหลดไม่เสร็จ → ค้นด้วยชื่อไฟล์ไปก่อน
+    if (!searchIndex) {
+      setFilteredFiles(fileList.filter(nameMatches));
+      return;
+    }
+
+    // ค้นในเนื้อหา: แตกคำค้นเป็น token แล้วหาไฟล์ที่มี "ครบทุก token" (AND)
+    // แต่ละ token จับแบบ substring กับคำในดัชนี เช่น "aeth" จะเจอ "aether"
+    const tokens = q.split(/[^a-z0-9]+/).filter((t) => t.length >= 2);
+    const words = Object.keys(searchIndex.inv);
+    let matched: Set<number> | null = null;
+    for (const tok of tokens) {
+      const hits = new Set<number>();
+      for (const w of words) {
+        if (w.includes(tok)) {
+          for (const fi of searchIndex.inv[w]) hits.add(fi);
+        }
+      }
+      if (matched === null) {
+        matched = hits;
+      } else {
+        const prev: Set<number> = matched;
+        matched = new Set<number>(Array.from(hits).filter((x) => prev.has(x)));
+      }
+      if (matched.size === 0) break;
+    }
+    const contentSet = new Set<string>(matched ? Array.from(matched).map((i) => searchIndex.files[i]) : []);
+
+    setFilteredFiles(fileList.filter((f) => nameMatches(f) || contentSet.has(f)));
+  }, [fileList, searchQuery, searchIndex]);
 
   // Load Quest data
   useEffect(() => {
@@ -179,16 +233,16 @@ function MainApp() {
   return (
     <div className="min-h-screen p-4 sm:p-8 font-sans flex flex-col gap-6">
       {/* Header */}
-      <header className="ffxiv-panel p-6 flex flex-col md:flex-row items-center justify-between gap-6">
-        <div className="flex flex-col md:flex-row items-center md:items-start gap-6 text-center md:text-left">
-          <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo_dark.png`} alt="FFXIV Header Dark" className="hide-in-light h-20 md:h-28 w-auto object-contain drop-shadow-lg shrink-0" />
-          <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo_light.png`} alt="FFXIV Header Light" className="show-in-light h-20 md:h-28 w-auto object-contain drop-shadow-lg shrink-0" />
-          <div className="flex flex-col justify-center h-full pt-1">
-            <h1 className="text-3xl md:text-4xl font-bold text-[var(--color-ffxiv-gold-light)] mb-2">
+      <header className="ffxiv-panel p-4 md:p-6 flex flex-row items-center justify-between gap-3 md:gap-6">
+        <div className="flex flex-row items-center md:items-start gap-3 md:gap-6 text-left min-w-0">
+          <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo_dark.png`} alt="FFXIV Header Dark" className="hide-in-light h-12 sm:h-20 md:h-28 w-auto object-contain drop-shadow-lg shrink-0" />
+          <img src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/logo_light.png`} alt="FFXIV Header Light" className="show-in-light h-12 sm:h-20 md:h-28 w-auto object-contain drop-shadow-lg shrink-0" />
+          <div className="flex flex-col justify-center h-full md:pt-1 min-w-0">
+            <h1 className="text-lg sm:text-3xl md:text-4xl font-bold text-[var(--color-ffxiv-gold-light)] mb-0 md:mb-2 leading-tight">
               FFXIV MSQ Translation Editor
             </h1>
-            <p className="text-[var(--color-ffxiv-muted)] text-sm md:text-base">
-              เลือกไฟล์ JSON ทางซ้ายมือ เพื่อเริ่มต้นแปลบทสนทนา<br className="hidden md:block" /> 
+            <p className="hidden sm:block text-[var(--color-ffxiv-muted)] text-sm md:text-base">
+              เลือกไฟล์ JSON ทางซ้ายมือ เพื่อเริ่มต้นแปลบทสนทนา<br className="hidden md:block" />
               แก้ไขคำแปลในช่องขวามือ แล้วกดบันทึกเพื่อดาวน์โหลดไฟล์ที่แปลเสร็จแล้ว
             </p>
           </div>
@@ -196,10 +250,10 @@ function MainApp() {
         <ThemeToggle />
       </header>
 
-      <div className="flex flex-col md:flex-row gap-6 items-start relative h-[80vh]">
-        
+      <div className="flex flex-col md:flex-row gap-6 items-start relative h-auto md:h-[80vh]">
+
         {/* Sidebar for File Selection */}
-        <aside className="w-full md:w-80 ffxiv-panel flex flex-col max-h-[80vh]">
+        <aside className="w-full md:w-80 ffxiv-panel flex flex-col max-h-none md:max-h-[80vh]">
           {/* Pinned Header */}
           <div className="p-4 flex flex-col gap-4 border-b border-[var(--color-panel-border)]">
             <h2 className="text-lg font-bold text-[var(--color-ffxiv-gold)]">
@@ -207,8 +261,8 @@ function MainApp() {
             </h2>
             <SearchBox defaultValue={searchQuery} />
           </div>
-          
-          <div className="p-4 flex-1 overflow-y-auto custom-scrollbar">
+
+          <div className="p-4 flex-1 overflow-y-auto custom-scrollbar max-h-[150px] md:max-h-none">
             {isLoading ? (
               <p className="text-[var(--color-ffxiv-muted)] text-sm italic">Loading quests...</p>
             ) : filteredFiles.length === 0 ? (
@@ -255,9 +309,9 @@ function MainApp() {
         </aside>
 
         {/* Main Editor Area */}
-        <main className="flex-1 w-full flex flex-col h-full ffxiv-panel relative overflow-hidden min-h-0">
+        <main className="w-full md:flex-1 flex flex-col h-auto md:h-full ffxiv-panel relative overflow-visible md:overflow-hidden min-h-0">
           {!quest ? (
-            <div className="flex-1 flex flex-col items-center justify-center p-12 text-center h-full">
+            <div className="flex-1 flex flex-col items-center justify-center p-12 text-center min-h-[60vh] md:min-h-0 md:h-full">
               <img 
                 src={`${process.env.NEXT_PUBLIC_BASE_PATH || ""}/quests.png`} 
                 alt="Select Quest" 
@@ -272,14 +326,14 @@ function MainApp() {
               </p>
             </div>
           ) : (
-            <div className="flex flex-col relative h-full overflow-hidden min-h-0">
+            <div className="flex flex-col relative h-auto md:h-full overflow-visible md:overflow-hidden min-h-0">
               <StickyHeader filePath={quest.filePath} dialogueCount={quest.dialogues.length} />
-              
-              <div className="flex-1 relative min-h-0">
+
+              <div className="relative md:flex-1 min-h-0">
                 <EditorForm quest={quest}>
-                  <div id="scroll-container" className="absolute inset-0 overflow-y-auto custom-scrollbar flex flex-col gap-6 p-6 pr-8">
+                  <div id="scroll-container" className="relative md:absolute md:inset-0 overflow-visible md:overflow-y-auto custom-scrollbar flex flex-col gap-6 p-4 md:p-6 md:pr-8">
                   {quest.dialogues.map((dialogue, index) => {
-                    const parsedChunks = parseEnglishText(dialogue.text_en, glossary);
+                    const parsedChunks = parseEnglishText(dialogue.text_en, glossary, searchQuery);
                     return (
                       <TranslationRow
                         key={`${dialogue.key}_${index}`}

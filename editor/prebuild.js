@@ -38,4 +38,41 @@ if (fs.existsSync(thDir)) {
     
   fs.writeFileSync(path.join(publicDir, 'file-list.json'), JSON.stringify(jsonFiles));
   console.log('Copied th/ and generated file-list.json with ' + jsonFiles.length + ' files.');
+
+  // สร้าง inverted index สำหรับค้นหาคำในประโยคภาษาอังกฤษ (text_en)
+  // โครงสร้าง: { files: [...], inv: { word: [fileIndex, ...] } }
+  // โหลดฝั่ง client แบบ lazy (ตอนผู้ใช้เริ่มพิมพ์ค้นหา) จึงไม่กระทบเวลาโหลดหน้าแรก
+  function extractEnglish(data) {
+    const out = [];
+    if (data.dialogues && Array.isArray(data.dialogues)) {
+      for (const d of data.dialogues) if (d && d.text_en) out.push(d.text_en);
+    } else if (data.Scene) {
+      for (const v of Object.values(data.Scene)) {
+        if (v && typeof v === 'object' && 'text_en' in v) out.push(v.text_en);
+      }
+    } else {
+      for (const v of Object.values(data)) {
+        if (v && typeof v === 'object' && 'text_en' in v) out.push(v.text_en);
+      }
+    }
+    return out.join(' ');
+  }
+
+  const inv = {};
+  jsonFiles.forEach((f, i) => {
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(publicThDir, f), 'utf8'));
+      const text = extractEnglish(data).toLowerCase();
+      const words = new Set(text.split(/[^a-z0-9]+/).filter((w) => w.length >= 3));
+      for (const w of words) (inv[w] = inv[w] || []).push(i);
+    } catch (e) {
+      console.warn('Skip indexing ' + f + ': ' + e.message);
+    }
+  });
+
+  fs.writeFileSync(
+    path.join(publicDir, 'search-index.json'),
+    JSON.stringify({ files: jsonFiles, inv })
+  );
+  console.log('Generated search-index.json with ' + Object.keys(inv).length + ' unique words.');
 }

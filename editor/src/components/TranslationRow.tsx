@@ -4,6 +4,29 @@ import AutoResizeTextarea, { AutoResizeTextareaHandle } from "./AutoResizeTextar
 
 import { TextChunk } from "@/lib/parser";
 
+// คำศัพท์เฉพาะ (glossary): บนเดสก์ท็อปโชว์ทูลทิปตอน hover
+// บนมือถือไม่มี hover จึงให้ "แตะ" เพื่อสลับเปิด/ปิดทูลทิป
+function GlossaryTerm({ chunk }: { chunk: TextChunk }) {
+  const [open, setOpen] = useState(false);
+  return (
+    <span
+      role="button"
+      tabIndex={0}
+      onClick={() => setOpen((v) => !v)}
+      onBlur={() => setOpen(false)}
+      className="group/tooltip relative inline-block border-b-2 border-dotted border-[var(--color-ffxiv-gold)] text-[var(--color-ffxiv-gold)] font-semibold cursor-help transition-colors hover:bg-[var(--color-btn-from)] hover:text-[var(--color-btn-text)]"
+    >
+      {chunk.content}
+      {chunk.tooltip && (
+        <span className={`absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-xs px-3 py-1.5 bg-black text-white text-sm rounded shadow-lg transition-opacity pointer-events-none z-50 ${open ? 'opacity-100' : 'opacity-0'} group-hover/tooltip:opacity-100`}>
+          {chunk.tooltip}
+          <svg className="absolute text-black w-3 h-3 left-1/2 -translate-x-1/2 top-full" x="0px" y="0px" viewBox="0 0 255 255" xmlSpace="preserve"><polygon className="fill-current" points="0,0 127.5,127.5 255,0"/></svg>
+        </span>
+      )}
+    </span>
+  );
+}
+
 export default function TranslationRow({ 
   chunks, 
   defaultTextTh,
@@ -50,20 +73,7 @@ export default function TranslationRow({
               </span>
             );
           } else if (chunk.type === "glossary") {
-            return (
-              <span 
-                key={i} 
-                className="group/tooltip relative inline-block border-b-2 border-dotted border-[var(--color-ffxiv-gold)] text-[var(--color-ffxiv-gold)] font-semibold cursor-help transition-colors hover:bg-[var(--color-btn-from)] hover:text-[var(--color-btn-text)]"
-              >
-                {chunk.content}
-                {chunk.tooltip && (
-                  <span className="absolute bottom-full left-1/2 -translate-x-1/2 mb-2 w-max max-w-xs px-3 py-1.5 bg-black text-white text-sm rounded shadow-lg opacity-0 group-hover/tooltip:opacity-100 transition-opacity pointer-events-none z-50">
-                    {chunk.tooltip}
-                    <svg className="absolute text-black w-3 h-3 left-1/2 -translate-x-1/2 top-full" x="0px" y="0px" viewBox="0 0 255 255" xmlSpace="preserve"><polygon className="fill-current" points="0,0 127.5,127.5 255,0"/></svg>
-                  </span>
-                )}
-              </span>
-            );
+            return <GlossaryTerm key={i} chunk={chunk} />;
           }
           return <span key={i}>{chunk.content}</span>;
         })}

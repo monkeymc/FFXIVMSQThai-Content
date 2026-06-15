@@ -48,9 +48,17 @@ export function parseEnglishText(
   }
 
   // 2. ไฮไลต์คำค้นหา (Search Query) ซ้อนทับไปอีกชั้น (ถ้ามีคำค้นหา)
+  // แตกคำค้นเป็น token แล้วไฮไลต์ทีละคำให้ตรงกับตรรกะการค้นหา (substring ต่อ token)
   if (searchQuery && searchQuery.trim() !== "") {
-    const regex = new RegExp(`(${escapeRegExp(searchQuery.trim())})`, "gi");
-    
+    const tokens = searchQuery
+      .trim()
+      .split(/\s+/)
+      .filter((t) => t.length >= 2)
+      .map(escapeRegExp);
+
+    if (tokens.length > 0) {
+    const regex = new RegExp(`(${tokens.join("|")})`, "gi");
+
     const newChunks: TextChunk[] = [];
     for (const chunk of chunks) {
       if (chunk.type !== "text") {
@@ -72,6 +80,7 @@ export function parseEnglishText(
       }
     }
     chunks = newChunks;
+    }
   }
 
   return chunks;
