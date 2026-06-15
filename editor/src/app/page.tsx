@@ -49,7 +49,9 @@ function MainApp() {
     const params = new URLSearchParams();
     params.set("file", file);
     if (searchQuery) params.set("search", searchQuery);
-    router.push(`/?${params.toString()}`);
+    // ไม่ให้ Next เลื่อนทั้งหน้าขึ้นบนสุด (จะทำให้รายการ "Select Quest" เด้งขึ้น)
+    // ปล่อยให้ useEffect ด้านล่างเลื่อนเฉพาะเนื้อหา (scroll-container) แทน
+    router.push(`/?${params.toString()}`, { scroll: false });
   };
 
   // Load Glossary and File List
