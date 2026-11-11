@@ -9,16 +9,16 @@ Per quest: the calls of the runs that produced the current output (translate + r
 | quest | backend | calls | input tok | cache-write tok | cache-read tok | output tok | of which thinking | cost USD | est. API-path USD |
 |---|---|---|---|---|---|---|---|---|---|
 | HeaVnb108_02163 (164 lines) | cli | 6 | 12 | 55227 | 3771 | 92143 | 77030 | 0.057156 | 0.051606 |
-| KinGml101_05475 (96 lines) | cli | 6 | 12 | 34418 | 1254 | 41990 | 31882 | 0.027892 | 0.024197 |
-| KinGml104_05478 (69 lines) | cli | 4 | 8 | 22994 | 1254 | 35328 | 28528 | 0.022276 | 0.019846 |
+| KinGml101_05475 (96 lines) | cli | 4 | 8 | 30465 | 2514 | 46452 | 38968 | 0.029345 | 0.026281 |
+| KinGml104_05478 (69 lines) | cli | 4 | 8 | 21572 | 2514 | 31623 | 26500 | 0.020152 | 0.017977 |
 | VoiceMan_03008 attribution (33 rows, 3 votes) | cli | 3 | 6 | 26668 | 53336 | 29588 | 29464 | 0.020662 | 0.022612 |
 | VoiceMan_03100 attribution (203 rows, 3 votes) | cli | 3 | 6 | 43833 | 89373 | 48487 | 48038 | 0.033904 | 0.037382 |
 | VoiceMan_03300 attribution (202 rows, 3 votes) | cli | 3 | 6 | 42624 | 86955 | 33441 | 32954 | 0.026115 | 0.029496 |
 | VoiceMan_07400 attribution (508 rows, 3 votes) | cli | 3 | 8 | 61228 | 185960 | 115310 | 114595 | 0.071761 | 0.082192 |
 | VoiceMan_07505 attribution (351 rows, 3 votes) | cli | 3 | 6 | 31626 | 17164 | 25792 | 25473 | 0.019393 | 0.017593 |
-| **total, current outputs** | cli | 31 | 64 | 318618 | 439067 | 422079 | 387964 | 0.279160 | 0.284923 |
+| **total, current outputs** | cli | 29 | 60 | 313243 | 441587 | 422836 | 393022 | 0.278488 | 0.285138 |
 
-All logged calls, including probes, rejected attempts and superseded runs: 69 calls, $1.196456.
+All logged calls, including probes, rejected attempts and superseded runs: 77 calls, $1.245953.
 
 ### Every logged run
 
@@ -27,14 +27,14 @@ Same quest, same prompt: the spread between rows is run-to-run variance, mostly 
 | quest | run | stages | effort | output tok | of which thinking | cost USD | current output |
 |---|---|---|---|---|---|---|---|
 | a-winters-dream | 20261110T191650 | translate+review | medium | 15891 | 12229 | 0.010262 |  |
-| a-winters-dream | 20261110T191925 | translate+review | medium | 13733 | 10146 | 0.009180 | yes |
+| a-winters-dream | 20261110T191925 | translate+review | medium | 13733 | 10146 | 0.009180 |  |
 | a-rush-of-cold-wind | 20261110T192023 | translate+review | medium | 9458 | 7388 | 0.006259 |  |
 | the-world-locked-in-ice | 20261110T192106 | translate+review | medium | 23448 | 18902 | 0.014713 |  |
 | a-rush-of-cold-wind | seeded-review-check | review+review | medium | 6059 | 5480 | 0.005319 |  |
 | a-rush-of-cold-wind | 20261110T192549-d39180 | translate+review | medium | 6881 | 4754 | 0.004991 |  |
 | a-rush-of-cold-wind | 20261110T192635-6da495 | translate+review | low | 9070 | 6981 | 0.006082 |  |
 | VoiceMan_07505 | 20261111T020413-d43b08 | attribute | high | 7790 | 7679 | 0.007015 | yes |
-| KinGml101_05475 | 20261111T020448-48626d | translate+review+translate+review | medium | 28257 | 21736 | 0.018712 | yes |
+| KinGml101_05475 | 20261111T020448-48626d | translate+review+translate+review | medium | 28257 | 21736 | 0.018712 |  |
 | VoiceMan_03008 | 20261111T020703-7171b2 | attribute | high | 6603 | 6557 | 0.008347 |  |
 | VoiceMan_03100 | 20261111T020734-357204 | attribute | high | 9979 | 9802 | 0.013709 |  |
 | HeaVnb108_02163 | 20261111T020820-647317 | translate+review+translate+review+translate+review | medium | 95321 | 78915 | 0.058001 |  |
@@ -56,7 +56,7 @@ Same quest, same prompt: the spread between rows is run-to-run variance, mostly 
 | VoiceMan_03300 | 20261111T024109-4e08e7 | attribute+attribute | high | 23742 | 23408 | 0.012735 | yes |
 | VoiceMan_07400 | 20261111T024250-516591 | attribute+attribute | high | 64161 | 63676 | 0.033935 | yes |
 | VoiceMan_07505 | 20261111T024834-0904a5 | attribute+attribute | high | 18002 | 17794 | 0.012378 | yes |
-| KinGml104_05478 | 20261111T123252-d0889d | translate+review+translate+review | medium | 35328 | 28528 | 0.022276 | yes |
+| KinGml104_05478 | 20261111T123252-d0889d | translate+review+translate+review | medium | 35328 | 28528 | 0.022276 |  |
 | probe-terms | 20261111T184453-0ea82f | translate | medium | 784 | 688 | 0.000763 |  |
 | probe-terms | 20261111T184518-c60ef9 | translate | medium | 1132 | 1030 | 0.000948 |  |
 | probe-terms | 20261111T184526-c48fa0 | translate | medium | 816 | 716 | 0.000427 |  |
@@ -65,6 +65,8 @@ Same quest, same prompt: the spread between rows is run-to-run variance, mostly 
 | probe-terms | 20261111T184556-1f4fb3 | translate | medium | 824 | 723 | 0.000431 |  |
 | probe-terms | 20261111T184601-23a8f0 | translate | medium | 880 | 776 | 0.000460 |  |
 | HeaVnb108_02163 | 20261111T185104-153130 | translate+review+translate+review+translate+review | medium | 92143 | 77030 | 0.057156 | yes |
+| KinGml101_05475 | 20261111T190826-e2cae7 | translate+review+translate+review | medium | 46452 | 38968 | 0.029345 | yes |
+| KinGml104_05478 | 20261111T191136-c2a659 | translate+review+translate+review | medium | 31623 | 26500 | 0.020152 | yes |
 
 CLI overhead: a probe with a 3-word prompt was billed 610 input tokens, so about that many tokens per call are the CLI harness, and the CLI writes the whole prompt to the 1-hour cache (2x the input price). The API-path estimate removes the harness tokens and prices all input at $0.10/MTok and the same output tokens at $0.50/MTok, without caching. It is an estimate; the API path was not run.
 
@@ -75,8 +77,8 @@ Lines with at least one flag per check. `human` runs the same deterministic lint
 | quest | lines | any flag | empty | forename | name | pronoun | script | length | review | human: any lint |
 |---|---|---|---|---|---|---|---|---|---|---|
 | HeaVnb108_02163 | 164 | 35 | 0 | 3 | 2 | 0 | 18 | 10 | 5 | 4 |
-| KinGml101_05475 | 96 | 38 | 0 | 0 | 34 | 0 | 10 | 1 | 1 | 0 |
-| KinGml104_05478 | 69 | 16 | 0 | 0 | 15 | 0 | 0 | 0 | 1 | 0 |
+| KinGml101_05475 | 96 | 10 | 0 | 0 | 0 | 0 | 8 | 2 | 2 | 0 |
+| KinGml104_05478 | 69 | 5 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 |
 
 ## Coverage
 
@@ -148,52 +150,52 @@ Three lines per quest: most flags first, then longest.
 
 ### KinGml101_05475
 
-**Estinien** (`TEXT_VOICEMAN_07505_000392_ESTINIEN`)
+**Alphinaud** (`TEXT_VOICEMAN_07505_000310_ALPHINAUD`)
 
-- JA: 大方、何かにつられて俺たちのことを考えたんだろうさ。 ここの空気は少し、クルザスやアバラシアに似ているからな。
-- EN: Something made our friend think of us, I suspect. Perhaps thoughts of a frozen world called to mind our journey through Coerthas.
-- Human: ข้าว่าต้องมีบางอย่างทำให้สหายของเรานึกถึงพวกเรา บางทีความคิดถึงโลกน้ำแข็งอาจทำให้นางนึกถึงการเดินทางผ่านเคอร์ธัสของเรา
-- Haiku: คงเพราะบางอย่างทำให้เจ้านึกถึงพวกเรานั่นแหละ อากาศที่นี่ก็คล้ายคอร์เธสกับอาบาลาเธียอยู่บ้าง
-- Flags: name: クルザス is Coerthas in terms.json; name: アバラシア is Abalathia's Spine in terms.json
+- JA: もしや、君の…… エートスによる転移に、私たちも？
+- EN: Were we...were we caught up in the incantation?
+- Human: เรา...เราโดนคาถานั่นดูดมาด้วยหรือเปล่า
+- Haiku: หรือว่า... การเคลื่อนย้ายด้วย Ethos ของคุณ ทำให้ผมกับ Estinien ถูกดึงไปด้วยหรือครับ?
+- Flags: script: untranslated: Ethos Estinien; length: th/en 1.79, th/ja 3.36
 
-**Tataru** (`TEXT_KINGML101_05475_TATARU_000_205`)
+**Alphinaud** (`TEXT_VOICEMAN_07505_000380_ALPHINAUD`)
 
-- JA: さてさて……。 エスティニアンさんに経緯をお伝えし次第、 「明日の果て」についての話し合いが再開されるそうでっす。
-- EN: Now then, I shall take a moment to catch Estinien up on events, after which we will reconvene to discuss the Solstice.
-- Human: เอาละ ฉันขอเวลาสักครู่เล่าเหตุการณ์ทั้งหมดให้เอสทิเนียนฟังก่อน จากนั้นค่อยมารวมตัวกันหารือเรื่องโซลสทิซอีกครั้ง
-- Haiku: งั้นละค่ะ เมื่อฉันเล่าเหตุการณ์ให้คุณเอสตินเนียนฟังเสร็จ จะกลับมาคุยเรื่อง「ปลายแห่งวันพรุ่งนี้」กันต่อค่ะ
-- Flags: name: エスティニアン is Estinien in terms.json; script: untranslated: 「 」
+- JA: 転移の最中に、イゼルと似た人物を……？
+- EN: A woman who looked like Ysayle...
+- Human: หญิงสาวที่หน้าตาเหมือนอีเซลรึ...
+- Haiku: ระหว่างการเคลื่อนย้าย... ผมเห็นผู้หญิงที่หน้าตาคล้าย Ysayle หรือครับ?
+- Flags: length: th/en 2.09, th/ja 3.63; review: Wrong agent: ja "転移の最中に、イゼルと似た人物を……？" asks whether the listener saw a lookalike, but th has Alphinaud say "ผมเห็น" (I saw).
 
-**Estinien** (`TEXT_KINGML101_05475_ESTINIEN_000_104`)
+**Alphinaud** (`TEXT_VOICEMAN_07505_000020_ALPHINAUD`)
 
-- JA: トライヨラとアレクサンドリアの間に起きたことを思えば、 敬遠しあい、憎しみあう事態になってもおかしくなかった。
-- EN: Given all that had come to pass, it would only be natural for Tuliyollal and Alexandria to remain at odds.
-- Human: เมื่อดูจากเรื่องราวทั้งหมดที่ผ่านมา ต่อให้ทูลียอลลัลกับอเล็กซานเดรียยังบาดหมางกันอยู่ก็ไม่ใช่เรื่องแปลก
-- Haiku: เรื่องที่เกิดขึ้นระหว่างตูลิโยลัลกับอเล็กซานเดรีย คิดดูแล้ว การที่สองฝ่ายจะไม่ถูกกัน ระแวงและเกลียดชังกันนั้น ก็ไม่แปลกเลย
-- Flags: name: トライヨラ is Tuliyollal in terms.json; name: アレクサンドリア is Alexandria in terms.json
+- JA: アシエン・ハルマルトによれば、 それは星の理に則った、さながら自然治癒のような世界統合。
+- EN: According to Halmarut, it is the fate that awaits should the reflections be allowed to merge of their own accord─an act of healing dictated by the laws of nature.
+- Human: ตามที่ฮาลมารุตบอก มันคือชะตากรรมที่รออยู่หากปล่อยให้เหล่าโลกเงาสะท้อนหลอมรวมกันเองตามครรลอง—การเยียวยาที่กฎแห่งธรรมชาติกำหนดไว้
+- Haiku: ตามคำของ Halmarut ผู้เป็น Ascian นั่นคือการรวมโลกเข้าด้วยกันตามกฎแห่งดาว คล้ายการรักษาตัวเองตามธรรมชาติครับ
+- Flags: script: untranslated: Ascian
 
 ### KinGml104_05478
 
-**Alphinaud** (`TEXT_KINGML104_05478_ALPHINAUD_000_022`)
+**Salvagecrewc** (`TEXT_KINGML104_05478_SALVAGECREWC_000_010`)
 
-- JA: 私とエスティニアンも含めて無事でいることと、 ヴィスナから聞いた話を、 一旦「石の家」に戻って伝えてはもらえないだろうか？
-- EN: Would you return to the Rising Stones, and inform everyone that Estinien and I are hale? And of course, share all that we have learned from Visna.
-- Human: ช่วยกลับไปที่เดอะ ไรซิง สโตนส์ แล้วบอกทุกคนว่าผมกับเอสทิเนียนสบายดีได้ไหมครับ แล้วก็เล่าทุกอย่างที่เราได้รู้จากวิสนาให้ฟังด้วย
-- Haiku: ช่วยกลับไปที่ศิลาผงาด แล้วแจ้งให้ทุกคนทราบว่าผมกับเอสตินเนียนยังปลอดภัยดี รวมถึงเรื่องที่ได้ฟังจากวิสนาด้วย จะได้ไหมครับ
-- Flags: name: エスティニアン is Estinien in terms.json; name: ヴィスナ is Visna in terms.json; name: 石の家 is Rising Stones in terms.json
+- JA: 見てのとおり、牽引している間は、 グラズ號とはそう簡単には行き来できないからね。 母船への到着まで、この浮島で過ごしてもらうことになるよ。
+- EN: While the ship is towing the isle, we can't readily move between them. Which is to say, you'll have to remain here until we get to the mother ship.
+- Human: ระหว่างที่เรือลากเกาะไปด้วย เราจะข้ามไปมาระหว่างสองที่ไม่ได้ง่ายๆ พูดง่ายๆ คือเธอต้องอยู่ตรงนี้จนกว่าจะถึงเรือแม่
+- Haiku: อย่างที่เห็นนั่นแหละ ตอนที่กำลังลากเกาะอยู่ ฉันกับ Glaðr ก็ไปมาหาสู่กันไม่ได้ง่ายๆ หรอก เธอต้องอยู่บนเกาะนี้จนกว่าจะถึงเรือแม่นั่นแหละ
+- Flags: script: untranslated: Glaðr
 
 **Halmarut** (`TEXT_VOICEMAN_07505_001630_HALMARUT`)
 
 - JA: ラハブレア様たちの思惑とは違っているでしょうが…… 世界統合を企む以上、私はアシエン・ハルマルトです。
 - EN: Though my motives may differ from that of Lahabrea and the other unsundered, my objective remains the same─the Rejoining. Halmarut will suffice.
 - Human: แม้แรงจูงใจของข้าจะต่างจากลาฮาเบรอาและเหล่าผู้มิได้ถูกแบ่งแยกคนอื่น แต่เป้าหมายของข้ายังคงเดิม—การหลอมรวมโลก เรียกฮาลมารุตก็พอแล้ว
-- Haiku: แม้เจตนาของฉันจะต่างจากท่านลาฮาเบรียและคนอื่นๆ ไปบ้างก็ตาม แต่ในเมื่อฉันวางแผนการรวมโลกเข้าด้วยกันอยู่ ฉันก็คืออาเชียน ฮัลมารุตค่ะ
-- Flags: name: ラハブレア is Lahabrea in terms.json; name: ハルマルト is Halmarut in terms.json
+- Haiku: แม้เจตนาของผมอาจต่างจากท่าน Lahabrea และพวกที่ไม่ถูกแยก แต่ตราบใดที่เป้าหมายของผมยังคงเป็นการรวมโลกกลับเป็นหนึ่งเดียว ผมก็คือ Ascian Halmarut ครับ Halmarut ก็พอครับ
+- Flags: script: untranslated: Ascian
 
-**Krile** (`TEXT_VOICEMAN_07505_001740_KRILE`)
+**Grahatia** (`TEXT_VOICEMAN_07505_001700_GRAHATIA`)
 
-- JA: アルフィノくんと、エスティニアンさんでさえ、 どうやったら戻ってこられるのか定かでない状態だもの…… 無理に試すのは危険だわ。
-- EN: We haven't even determined how Alphinaud and Estinien can return. This is not a power to be invoked lightly.
-- Human: เรายังหาทางไม่ได้เลยว่าอัลฟิโนด์กับเอสทิเนียนจะกลับมาได้อย่างไร พลังแบบนี้ไม่ใช่สิ่งที่จะปลุกใช้กันเล่นๆ
-- Haiku: ไม่รู้เลยว่าอัลฟิโนกับคุณเอสตินเนียนจะกลับมาได้ยังไง...... ฝืนลองตอนนี้มันอันตรายนะคะ
-- Flags: name: アルフィノ is Alphinaud in terms.json; name: エスティニアン is Estinien in terms.json
+- JA: そんなことがあったのか……！ ヴォイドに行ったときと同じ消え方をしたから、 成功したんだろうとは思ってたが……。
+- EN: That is quite a tale... As you disappeared in the same manner as before, we suspected the incantation was successful.
+- Human: เรื่องราวชวนทึ่งจริงๆ... เพราะคุณหายตัวไปแบบเดียวกับคราวก่อน พวกเราเลยเดาว่าคาถานั้นคงสำเร็จ
+- Haiku: อย่างนั้นเองหรือ...! เห็นว่าหายตัวไปด้วยวิธีเดียวกับตอนไปที่ Void ข้าก็เดาอยู่แล้วว่าคาถาคงสำเร็จ
+- Flags: script: untranslated: Void
