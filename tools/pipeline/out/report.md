@@ -8,17 +8,17 @@ Per quest: the calls of the runs that produced the current output (translate + r
 
 | quest | backend | calls | input tok | cache-write tok | cache-read tok | output tok | of which thinking | cost USD | est. API-path USD |
 |---|---|---|---|---|---|---|---|---|---|
-| HeaVnb108_02163 (164 lines) | cli | 8 | 16 | 61205 | 5016 | 112145 | 93354 | 0.068365 | 0.062208 |
-| KinGml101_05475 (96 lines) | cli | 6 | 12 | 34418 | 1254 | 41990 | 31882 | 0.027892 | 0.024197 |
-| KinGml104_05478 (69 lines) | cli | 4 | 8 | 22994 | 1254 | 35328 | 28528 | 0.022276 | 0.019846 |
+| HeaVnb108_02163 (164 lines) | cli | 6 | 12 | 55227 | 3771 | 92143 | 77030 | 0.057156 | 0.051606 |
+| KinGml101_05475 (96 lines) | cli | 6 | 12 | 34048 | 2514 | 39678 | 32015 | 0.026675 | 0.023130 |
+| KinGml104_05478 (69 lines) | cli | 4 | 8 | 21572 | 2514 | 31623 | 26500 | 0.020152 | 0.017977 |
 | VoiceMan_03008 attribution (33 rows, 3 votes) | cli | 3 | 6 | 26668 | 53336 | 29588 | 29464 | 0.020662 | 0.022612 |
 | VoiceMan_03100 attribution (203 rows, 3 votes) | cli | 3 | 6 | 43833 | 89373 | 48487 | 48038 | 0.033904 | 0.037382 |
 | VoiceMan_03300 attribution (202 rows, 3 votes) | cli | 3 | 6 | 42624 | 86955 | 33441 | 32954 | 0.026115 | 0.029496 |
 | VoiceMan_07400 attribution (508 rows, 3 votes) | cli | 3 | 8 | 61228 | 185960 | 115310 | 114595 | 0.071761 | 0.082192 |
 | VoiceMan_07505 attribution (351 rows, 3 votes) | cli | 3 | 6 | 31626 | 17164 | 25792 | 25473 | 0.019393 | 0.017593 |
-| **total, current outputs** | cli | 33 | 68 | 324596 | 440312 | 442081 | 404288 | 0.290370 | 0.295525 |
+| **total, current outputs** | cli | 31 | 64 | 316826 | 441587 | 416062 | 386069 | 0.275818 | 0.281988 |
 
-All logged calls, including probes, rejected attempts and superseded runs: 56 calls, $1.135046.
+All logged calls, including probes, rejected attempts and superseded runs: 83 calls, $1.272628.
 
 ### Every logged run
 
@@ -27,20 +27,20 @@ Same quest, same prompt: the spread between rows is run-to-run variance, mostly 
 | quest | run | stages | effort | output tok | of which thinking | cost USD | current output |
 |---|---|---|---|---|---|---|---|
 | a-winters-dream | 20261110T191650 | translate+review | medium | 15891 | 12229 | 0.010262 |  |
-| a-winters-dream | 20261110T191925 | translate+review | medium | 13733 | 10146 | 0.009180 | yes |
+| a-winters-dream | 20261110T191925 | translate+review | medium | 13733 | 10146 | 0.009180 |  |
 | a-rush-of-cold-wind | 20261110T192023 | translate+review | medium | 9458 | 7388 | 0.006259 |  |
 | the-world-locked-in-ice | 20261110T192106 | translate+review | medium | 23448 | 18902 | 0.014713 |  |
 | a-rush-of-cold-wind | seeded-review-check | review+review | medium | 6059 | 5480 | 0.005319 |  |
 | a-rush-of-cold-wind | 20261110T192549-d39180 | translate+review | medium | 6881 | 4754 | 0.004991 |  |
 | a-rush-of-cold-wind | 20261110T192635-6da495 | translate+review | low | 9070 | 6981 | 0.006082 |  |
 | VoiceMan_07505 | 20261111T020413-d43b08 | attribute | high | 7790 | 7679 | 0.007015 | yes |
-| KinGml101_05475 | 20261111T020448-48626d | translate+review+translate+review | medium | 28257 | 21736 | 0.018712 | yes |
+| KinGml101_05475 | 20261111T020448-48626d | translate+review+translate+review | medium | 28257 | 21736 | 0.018712 |  |
 | VoiceMan_03008 | 20261111T020703-7171b2 | attribute | high | 6603 | 6557 | 0.008347 |  |
 | VoiceMan_03100 | 20261111T020734-357204 | attribute | high | 9979 | 9802 | 0.013709 |  |
-| HeaVnb108_02163 | 20261111T020820-647317 | translate+review+translate+review+translate+review | medium | 95321 | 78915 | 0.058001 | yes |
+| HeaVnb108_02163 | 20261111T020820-647317 | translate+review+translate+review+translate+review | medium | 95321 | 78915 | 0.058001 |  |
 | VoiceMan_03008 | 20261111T021545-544bbd | attribute | high | 12025 | 11969 | 0.010377 |  |
 | VoiceMan_03100 | 20261111T021637-c9caf9 | attribute | high | 14325 | 14196 | 0.014604 |  |
-| HeaVnb108_02163 | 20261111T021742-5bc75b | translate+review | medium | 16824 | 14439 | 0.010365 | yes |
+| HeaVnb108_02163 | 20261111T021742-5bc75b | translate+review | medium | 16824 | 14439 | 0.010365 |  |
 | VoiceMan_03008 | 20261111T022022-472cf7 | attribute | high | 1742 | 1696 | 0.104620 |  |
 | VoiceMan_03300 | 20261111T022022-f62299 | attribute | high | 7654 | 7487 | 0.011185 |  |
 | VoiceMan_03100 | 20261111T022038-082c1c | attribute | high | 3778 | 3649 | 0.186520 |  |
@@ -56,19 +56,31 @@ Same quest, same prompt: the spread between rows is run-to-run variance, mostly 
 | VoiceMan_03300 | 20261111T024109-4e08e7 | attribute+attribute | high | 23742 | 23408 | 0.012735 | yes |
 | VoiceMan_07400 | 20261111T024250-516591 | attribute+attribute | high | 64161 | 63676 | 0.033935 | yes |
 | VoiceMan_07505 | 20261111T024834-0904a5 | attribute+attribute | high | 18002 | 17794 | 0.012378 | yes |
-| KinGml104_05478 | 20261111T123252-d0889d | translate+review+translate+review | medium | 35328 | 28528 | 0.022276 | yes |
+| KinGml104_05478 | 20261111T123252-d0889d | translate+review+translate+review | medium | 35328 | 28528 | 0.022276 |  |
+| probe-terms | 20261111T184453-0ea82f | translate | medium | 784 | 688 | 0.000763 |  |
+| probe-terms | 20261111T184518-c60ef9 | translate | medium | 1132 | 1030 | 0.000948 |  |
+| probe-terms | 20261111T184526-c48fa0 | translate | medium | 816 | 716 | 0.000427 |  |
+| probe-terms | 20261111T184532-5692db | translate | medium | 1078 | 977 | 0.000558 |  |
+| probe-terms | 20261111T184549-ac55a0 | translate | medium | 563 | 472 | 0.000668 |  |
+| probe-terms | 20261111T184556-1f4fb3 | translate | medium | 824 | 723 | 0.000431 |  |
+| probe-terms | 20261111T184601-23a8f0 | translate | medium | 880 | 776 | 0.000460 |  |
+| HeaVnb108_02163 | 20261111T185104-153130 | translate+review+translate+review+translate+review | medium | 92143 | 77030 | 0.057156 | yes |
+| KinGml101_05475 | 20261111T190826-e2cae7 | translate+review+translate+review | medium | 46452 | 38968 | 0.029345 |  |
+| KinGml104_05478 | 20261111T191136-c2a659 | translate+review+translate+review | medium | 31623 | 26500 | 0.020152 | yes |
+| KinGml101_05475 | 20261112T000628-8c82ca | translate+review+translate+review | medium | 38530 | 30977 | 0.025732 | yes |
+| KinGml101_05475 | 20261112T001008-563173 | translate+review | medium | 1148 | 1038 | 0.000943 | yes |
 
 CLI overhead: a probe with a 3-word prompt was billed 610 input tokens, so about that many tokens per call are the CLI harness, and the CLI writes the whole prompt to the 1-hour cache (2x the input price). The API-path estimate removes the harness tokens and prices all input at $0.10/MTok and the same output tokens at $0.50/MTok, without caching. It is an estimate; the API path was not run.
 
 ## Flags
 
-Lines with at least one flag per check. `human` runs the same deterministic lints on the human reference as a noise baseline (the `name` lint is skipped there because terms.json holds Haiku's own spellings).
+Lines with at least one flag per check. `human` runs the same deterministic lints on the human reference as a noise baseline (the `name` lint is skipped there because the team writes names in Thai, not the English of terms.json).
 
 | quest | lines | any flag | empty | forename | name | pronoun | script | length | review | human: any lint |
 |---|---|---|---|---|---|---|---|---|---|---|
-| HeaVnb108_02163 | 164 | 30 | 0 | 4 | 20 | 0 | 0 | 6 | 2 | 4 |
-| KinGml101_05475 | 96 | 15 | 0 | 0 | 4 | 0 | 10 | 1 | 1 | 0 |
-| KinGml104_05478 | 69 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
+| HeaVnb108_02163 | 164 | 30 | 0 | 3 | 9 | 0 | 10 | 10 | 5 | 4 |
+| KinGml101_05475 | 96 | 5 | 0 | 0 | 0 | 1 | 4 | 1 | 0 | 0 |
+| KinGml104_05478 | 69 | 10 | 0 | 0 | 7 | 0 | 3 | 0 | 0 | 0 |
 
 ## Coverage
 
@@ -101,11 +113,7 @@ Which rows of a voiced-cutscene file belong to which quest, from `out/attributio
 
 ## Names
 
-`terms.json` holds 100 renderings.
-
-- HeaVnb108_02163: received 23 known names; conflicts with terms.json (not overwritten): [{'en': 'Holy See', 'recorded': 'ศาลศักดิ์สิทธิ์', 'this_run': 'สำนักสันตะปาปา'}].
-- KinGml101_05475: received 16 known names; conflicts with terms.json (not overwritten): [{'en': 'Estinien', 'recorded': 'เอสตินเนียน', 'this_run': 'อิสตินเนียน'}].
-- KinGml104_05478: received 23 known names; conflicts with terms.json (not overwritten): none.
+`terms.json` holds 2461 Japanese names with their official English, which translations keep (`name` flags above).
 
 ## Japanese keys
 
@@ -117,78 +125,78 @@ Three lines per quest: most flags first, then longest.
 
 ### HeaVnb108_02163
 
-**Alphinaud** (`TEXT_HEAVNB108_02163_ALPHINAUD_000_005`)
+**Lucia** (`TEXT_HEAVNB108_02163_LUCIA_000_045`)
 
-- JA: オルシュファン卿……。
-- EN: It was not so long ago, was it...
-- Human: เพิ่งผ่านไปไม่นานนี้เองสินะ...
-- Haiku: ท่านโอร์ชฟอง... เมื่อไม่นานมานี้เองนะครับ...
-- Flags: name: Haurchefant is ออร์ชูฟัน in terms.json; name: Orshufan is ออร์ชูฟัน in terms.json; name: Ser is เซอร์ in terms.json
+- JA: 教皇庁の封鎖は完了した。 奴らの注意を正面に惹き付けておくゆえ、頼むぞ！
+- EN: We will hold here, Forename. The Fury guide and keep you!
+- Human: (no team translation)
+- Haiku: ปิดล้อม Vault เรียบร้อยแล้ว ข้าจะดึงความสนใจของพวกมันไว้ทางด้านหน้าเอง ฝากด้วยนะ!
+- Flags: forename: source has Forename, translation does not; name: 教皇庁 is Holy See in terms.json; script: untranslated: Vault
 
-**Edmont** (`TEXT_VOICEMAN_03100_001740_EDMONT`)
+**Aymeric** (`TEXT_HEAVNB108_02163_AYMERIC_000_060`)
 
-- JA: アイメリク卿…… 水を差すような事を言うようで心苦しくはありますが、 今後は、より慎重になるよう進言させてもらいますぞ。
-- EN: Yet how will they choose to remember it, Ser Aymeric? And will these events serve to bring man and dragon closer together, or drive a deeper wedge between brothers?
-- Human: ทว่าผู้คนจะเลือกจดจำวันนี้อย่างไรเล่า ท่านเซอร์เอเมอริก และเหตุการณ์นี้จะช่วยดึงมนุษย์กับมังกรให้ใกล้ชิดกันยิ่งขึ้น หรือจะยิ่งตอกลิ่มความร้าวฉานระหว่างพี่น้องให้ลึกกว่าเดิมกันแน่
-- Haiku: ข้าเสียใจที่ต้องพูดสิ่งที่ขัดหูท่าน แต่ต่อไปขอให้ท่านรอบคอบกว่านี้ ข้าจะขอเสนอแนะไว้
-- Flags: name: Aymeric is เอเมอริก in terms.json; name: Ser is เซอร์ in terms.json
+- JA: この先にある資材搬入口を利用し、教皇庁内に突入する。 報告によれば、人質は全部で7名。 「豪胆将の精兵」を名乗る反抗グループの正確な規模は不明だ。
+- EN: Listen well. We will enter the basilica silently via this gate. According to our latest reports, there are at least six hostages being held within. The numbers and readiness of the True Brothers of the Faith are unknown.
+- Human: ฟังให้ดี เราจะลอบเข้าไปในมหาวิหารอย่างเงียบเชียบทางประตูนี้ รายงานล่าสุดระบุว่าตัวประกันอย่างน้อยหกคนถูกคุมขังอยู่ข้างใน ส่วนจำนวนและกำลังพลของกลุ่มภราดรภาพแห่งศรัทธาที่แท้จริงนั้นยังไม่มีใครรู้
+- Haiku: เราจะบุกเข้า Vault ผ่านประตูลำเลียงวัสดุที่อยู่ข้างหน้านี้ ตามรายงาน มีตัวประกันทั้งหมด 7 คน ส่วนจำนวนและความพร้อมของกลุ่มที่อ้างตัวว่า True Brothers of the Faith ยังไม่ทราบแน่ชัด
+- Flags: name: 教皇庁 is Holy See in terms.json; script: untranslated: Vault
 
-**Artoirel** (`TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_005`)
+**Templerknight10810** (`TEXT_VOICEMAN_03100_001340_TEMPLERKNIGHT10810`)
 
-- JA: どこまで卑劣な奴らなのだ……。 早く人質を解放し、アイメリク卿に加勢せねば！
-- EN: Ser Aymeric is still wounded, Forename! If we do not move quickly, he will surely fall!
-- Human: ท่านเอเมอริกยังบาดเจ็บ Forename! หากไม่รีบลงมือ ท่านไม่รอดแน่!
-- Haiku: พวกนี้มันเลวทรามได้ถึงขนาดนี้เชียวหรือ... ต้องปลดปล่อยตัวประกันให้เร็วที่สุด แล้วไปช่วยท่านเอเมอริกให้ได้!
-- Flags: forename: source has Forename, translation does not; name: Ser is เซอร์ in terms.json
+- JA: ハッ……！ 焼け出された貧民の避難先として開放されていた、 教皇庁「聖トールダン大聖堂」に、突如、武装集団が乱入……。
+- EN: We were directing refugees into the basilica, as you ordered, when all of a sudden, men brandishing weapons were all around us. It happened so fast, my lord. We had no time to respond.
+- Human: พวกเรากำลังนำทางผู้ลี้ภัยเข้าไปในวิหารหลวงตามคำสั่งของท่าน แต่แล้วจู่ๆ คนกวัดแกว่งอาวุธก็ผุดขึ้นมารอบตัวพวกเรา มันรวดเร็วเหลือเกินครับใต้เท้า พวกเราไม่มีเวลาตั้งตัวเลย
+- Haiku: ฮ่า...! ที่ Saint Thordan's Basilica แห่ง Vault ซึ่งเปิดให้เป็นที่พักพิงของชาวยากจนที่ถูกไฟไล่ออกมา จู่ๆ กลุ่มติดอาวุธก็บุกเข้ามา...
+- Flags: name: 教皇庁 is Holy See in terms.json; script: untranslated: Vault
 
 ### KinGml101_05475
 
-**Thancred** (`TEXT_VOICEMAN_07505_000170_THANCRED`)
+**Alphinaud** (`TEXT_VOICEMAN_07505_000310_ALPHINAUD`)
 
-- JA: 罠という可能性もあるが…… ウィンタラーが現存する鏡像世界から選ばれているなら、 第四世界の様子も知るに越したことはないな。
-- EN: While I wouldn't be surprised if it was a trap, if the Fourth was specifically chosen from among all worlds, it may nevertheless be worth paying it a visit.
-- Human: ต่อให้เป็นกับดักผมก็ไม่แปลกใจหรอก แต่ถ้าเขาเจาะจงเลือกเดอะโฟร์ทขึ้นมาจากบรรดาโลกทั้งหมด มันก็อาจคุ้มค่าที่จะไปเยือนสักครั้ง
-- Haiku: ก็อาจเป็นกับดักได้ แต่ถ้าโลกที่สี่ถูกเลือกมาจากบรรดาโลกเงาสะท้อนที่ยังมีอยู่ ก็คงไม่เสียหายที่จะไปดูสักหน่อย
-- Flags: name: Winterer is วินเทอเรอร์ in terms.json; review: ja "ウィンタラーが現存する鏡像世界から選ばれているなら" has the Winterers as the one chosen, but th makes the Fourth World the chosen one ("ถ้าโลกที่สี่ถูกเลือก"), swapping the subject.
+- JA: もしや、君の…… エートスによる転移に、私たちも？
+- EN: Were we...were we caught up in the incantation?
+- Human: เรา...เราโดนคาถานั่นดูดมาด้วยหรือเปล่า
+- Haiku: หรือว่า... พวกเราก็ถูกดึงเข้ามาพร้อมกับการย้ายที่ด้วย Ethos ของคุณด้วยหรือเปล่า?
+- Flags: script: untranslated: Ethos; length: th/en 1.70, th/ja 3.20
 
-**Alphinaud** (`TEXT_VOICEMAN_07505_000020_ALPHINAUD`)
+**Urianger** (`TEXT_VOICEMAN_07505_000174_URIANGER`)
 
-- JA: アシエン・ハルマルトによれば、 それは星の理に則った、さながら自然治癒のような世界統合。
-- EN: According to Halmarut, it is the fate that awaits should the reflections be allowed to merge of their own accord─an act of healing dictated by the laws of nature.
-- Human: ตามที่ฮาลมารุตบอก มันคือชะตากรรมที่รออยู่หากปล่อยให้เหล่าโลกเงาสะท้อนหลอมรวมกันเองตามครรลอง—การเยียวยาที่กฎแห่งธรรมชาติกำหนดไว้
-- Haiku: ตามคำของอาเชียน ฮัลมารุต หากปล่อยให้เงาสะท้อนรวมตัวกันเองตามธรรมชาติ นั่นคือจุดจบที่รออยู่ เป็นการรักษาตัวเองตามกฎแห่งธรรมชาติ
-- Flags: name: Rejoining is การรวมโลกเข้าด้วยกัน in terms.json
+- JA: 月に開いた、第十三世界へと渡るゲートは、 長年にわたるヴォイド研究の賜物です。 見ず知らずの世界に対して、同じことはできません……。
+- EN: While the portal unto the Thirteenth was the fruit of long years of research. The same method is not like to avail us with a reflection unknown.
+- Human: ส่วนประตูมิติสู่โลกที่สิบสามนั้นเป็นผลจากการค้นคว้าอันยาวนานหลายปี วิธีเดียวกันนี้ย่อมใช้กับโลกเงาสะท้อนที่เราไม่รู้จักไม่ได้
+- Haiku: ส่วนประตูสู่ Thirteenth ที่เปิดขึ้นบนดวงจันทร์นั้น เป็นผลจากงานวิจัยเรื่อง Void มาเนิ่นนาน วิธีเดิมคงใช้กับเงาสะท้อนที่เราไม่รู้จักไม่ได้
+- Flags: script: untranslated: Void
 
-**Tataru** (`TEXT_KINGML101_05475_TATARU_000_204`)
+**Alphinaud** (`TEXT_VOICEMAN_07505_000126_ALPHINAUD`)
 
-- JA: もちろん無事だとは信じていましたが、 安否もわからないと不安だけは募るもの……。 今後は気をつけてほしいのでっす！
-- EN: While we had faith that you were safe and well, without *any* response, we couldn't help but worry. In future, please make an effort to stay in contact!
-- Human: ถึงพวกเราจะเชื่อมั่นว่าคุณปลอดภัยดี แต่การไม่มีคำตอบกลับมาสักนิดเดียว มันก็อดเป็นห่วงไม่ได้นี่นา! ต่อไปนี้ช่วยพยายามติดต่อกันบ้างนะคะ!
-- Haiku: ฉันเชื่อมั่นว่าคุณต้องปลอดภัยค่ะ แต่พอไม่มีข่าวคราวเลย ก็อดกังวลไม่ได้เลยนะคะ ต่อจากนี้ช่วยพยายามติดต่อกลับมาด้วยนะคะ！
-- Flags: script: untranslated: ！
+- JA: ……確かに。 最後に何を選び採るとしても、まずはそこから始めてみようか。
+- EN: Indeed, you have the right of it. We ought to learn all we can, the better to decide our own course.
+- Human: จริงอย่างที่ว่า เราควรเรียนรู้ให้มากที่สุดเท่าที่จะทำได้ เพื่อจะได้เลือกเส้นทางของตัวเองอย่างถูกต้อง
+- Haiku: จริงของเจ้า ไม่ว่าสุดท้ายจะเลือกอะไร ก็ควรเริ่มจากการเรียนรู้ให้มากที่สุดก่อนครับ จะได้ตัดสินใจเลือกเส้นทางของเราเองได้ดียิ่งขึ้น
+- Flags: pronoun: Alphinaud uses เจ้า
 
 ### KinGml104_05478
 
-**Salvagecrewc** (`TEXT_KINGML104_05478_SALVAGECREWC_000_050`)
+**Halmarut** (`TEXT_VOICEMAN_07505_001612_HALMARUT`)
 
-- JA: まずは天幕を張りたいところだけど…… さすがにもうちょっと氷が溶けてくれないと、 ペグが刺さらないかなあ？
-- EN: I'd like to pitch a tent, but the stakes won't pierce the ground until the ice has thawed some more...
-- Human: อยากกางเต็นท์อยู่เหมือนกัน แต่ตอกหมุดไม่ลงเลยจนกว่าน้ำแข็งจะละลายมากกว่านี้...
-- Haiku: อยากจะกางเต็นท์ก่อนอยู่หรอก แต่คงต้องรอให้น้ำแข็งละลายไปอีกหน่อย ไม่งั้นหมุดเต็นท์คงปักลงพื้นไม่ได้แน่ๆ
-- Flags: review: The ja ends in a hedged question, 'ペグが刺さらないかなあ？' ('I wonder if the pegs won't go in?'), but the th states it as a certainty with 'แน่ๆ' ('surely can't'), changing the meaning.
+- JA: それに、光の戦士様たちが「明日の果て」に対処しない以上、 カリュクスさんが、意味もなく手助けすることはありません。
+- EN: Besides, while the warrior and her comrades do not act to forestall the Solstice, you would not knowingly aid them─unless you had a compelling reason.
+- Human: อีกอย่าง แม้นักรบผู้นั้นกับสหายจะไม่ได้ลงมือยับยั้งโซลสทิซ ท่านก็คงไม่ช่วยเหลือพวกเขาทั้งที่รู้ตัว—เว้นเสียแต่ว่าท่านมีเหตุผลอันหนักแน่น
+- Haiku: อีกอย่าง ในเมื่อท่านผู้กล้าแห่งแสงกับเพื่อนยังไม่ลงมือรับมือกับ Solstice คุณ Calyx ก็คงไม่ช่วยพวกเขาโดยไม่มีเหตุผลอะไรครับ เว้นแต่จะมีเหตุผลที่หนักแน่นพอ
+- Flags: name: 光の戦士 is Warrior of Light in terms.json
 
-**Krile** (`TEXT_VOICEMAN_07505_001810_KRILE`)
+**Tataru** (`TEXT_KINGML104_05478_TATARU_000_205`)
 
-- JA: 第九世界側から今回の件を探ってみたいのだけれど…… トレノをはじめ、あっちにはまだ、 雷属性による麻痺症状で苦しんでいる人がいるの。
-- EN: I intend to visit the Ninth to see if there have been any developments following recent events. While there, I also hope to treat those in Treno and elsewhere who suffer from levin sickness.
-- Human: ฉันตั้งใจจะไปเยือนโลกเงาสะท้อนที่เก้า เพื่อดูว่ามีความคืบหน้าอะไรหลังเหตุการณ์ที่ผ่านมาบ้าง แล้วก็หวังจะได้รักษาผู้คนในเทรโนและที่อื่นๆ ที่ป่วยด้วยโรคไข้สายฟ้าไปด้วย
-- Haiku: ฉันอยากลองสืบเรื่องครั้งนี้จากทางโลกที่เก้าดูน่ะ... ที่เทรโนและที่อื่นทางนั้น ยังมีคนที่ทรมานจากอาการเป็นอัมพาตจากธาตุสายฟ้าอยู่เลย
-- Flags: none
+- JA: 本格的に第四世界での冒険へ出立する際には、 お見送りしたいので、声をかけてもらえると嬉しいでっす！
+- EN: But when it comes time for you to go forth in earnest, do remember to say a word! If you simply disappeared, I'd be most cross!
+- Human: แต่พอถึงเวลาที่คุณต้องออกเดินทางจริงจังแล้ว อย่าลืมบอกกันสักคำนะคะ! ถ้าหายตัวไปเฉยๆ ฉันจะโกรธเอาจริงๆ นะ!
+- Haiku: แต่ตอนที่จะออกเดินทางผจญภัยในโลกที่สี่จริงๆ ช่วยบอกฉันสักคำนะคะ อยากไปส่งค่ะ! ถ้าหายไปเฉยๆ ฉันจะโกรธมากเลยนะคะ!
+- Flags: name: 第四世界 is Fourth in terms.json
 
-**Halmarut** (`TEXT_VOICEMAN_07505_001614_HALMARUT`)
+**Grahatia** (`TEXT_VOICEMAN_07505_001700_GRAHATIA`)
 
-- JA: ですが、考えがあるなら事前に共有していただけた方が、 私もびっくりせずに済みますし、協力できて効率的かと……！
-- EN: Nevertheless, had you shared your intentions beforehand, I might have offered my cooperation. It would have been more efficient─and spared me the shock.
-- Human: กระนั้นก็เถอะ หากท่านบอกเจตนาไว้ล่วงหน้า ข้าคงยื่นมือให้ความร่วมมือได้ มันย่อมมีประสิทธิภาพกว่านี้—แล้วข้าก็คงไม่ต้องตกใจด้วย
-- Haiku: แต่ถ้ามีแผนอยู่ละก็ ช่วยบอกกันล่วงหน้าไว้น่าจะดีกว่านะคะ ฉันจะได้ไม่ตกใจ แล้วร่วมมือกันก็มีประสิทธิภาพกว่าด้วยค่ะ...!
-- Flags: none
+- JA: そんなことがあったのか……！ ヴォイドに行ったときと同じ消え方をしたから、 成功したんだろうとは思ってたが……。
+- EN: That is quite a tale... As you disappeared in the same manner as before, we suspected the incantation was successful.
+- Human: เรื่องราวชวนทึ่งจริงๆ... เพราะคุณหายตัวไปแบบเดียวกับคราวก่อน พวกเราเลยเดาว่าคาถานั้นคงสำเร็จ
+- Haiku: อย่างนั้นเองหรือ...! เห็นว่าหายตัวไปด้วยวิธีเดียวกับตอนไปที่ Void ข้าก็เดาอยู่แล้วว่าคาถาคงสำเร็จ
+- Flags: script: untranslated: Void

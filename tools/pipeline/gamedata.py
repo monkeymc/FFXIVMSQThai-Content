@@ -100,6 +100,11 @@ def quest_path(stem):
     return f"quest/{stem.split('_')[1][:3]}/{stem}"
 
 
+def msq_paths(source):
+    """The main-scenario corpus: the quest file of every MSQ quest, then every voiced-cutscene file."""
+    return [quest_path(stem) for stem, quest in quests(source).items() if quest["msq"]] + source.files("cut_scene")
+
+
 def play_order(quest):
     """HeaVna101 < HeaVna102 < HeaVnb101: the stem's letters are the patch group, its digits the order in it."""
     return quest["stem"][:6].lower(), quest["stem"][6:9]

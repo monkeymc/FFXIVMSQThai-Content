@@ -8,10 +8,45 @@
 
 1. **เลือก** เควสต์และไฟล์ข้อความจาก [xivapi/ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining) คือไฟล์เควสต์ (`quest/NNN/<Stem>.csv`) และไฟล์ cutscene ที่มีเสียง (`cut_scene/NNN/VoiceMan_NNNNN.csv`)
 2. **ระบุเควสต์ของบรรทัด cutscene** ไฟล์ VoiceMan หนึ่งไฟล์มีบทพูดของหลายเควสต์ต่อกัน Haiku โหวต 3 รอบว่าแต่ละเควสต์เริ่มที่แถวไหน แล้วใช้เสียงข้างมาก ผลเก็บใน `out/attribution/` และจะไม่ถามซ้ำ
-3. **แปล** แถวที่เป็นบทพูดของเควสต์ จากภาษาญี่ปุ่นเป็นหลัก โดยใช้ภาษาอังกฤษช่วยตีความ
+3. **แปล** แถวที่เป็นบทพูดของเควสต์ จากภาษาญี่ปุ่นเป็นหลัก โดยใช้ภาษาอังกฤษช่วยตีความ ชื่อเฉพาะใช้ภาษาอังกฤษทางการตาม `terms.json` ดู [TERMS.md](TERMS.md)
 4. **ตรวจ** ด้วย lint (สรรพนามของตัวละคร ชื่อเฉพาะตาม `terms.json` ตัวอักษรที่ไม่ได้แปล ความยาว) และให้ Haiku อีกรอบหาจุดที่แปลผิดความหมาย
 5. **พิสูจน์ความครบ** ทุกแถวของไฟล์ต้นทางต้องถูกแปลหรือถูกข้ามพร้อมเหตุผล และทุก key ในไฟล์ของทีมต้องอยู่ในผลลัพธ์หรือมีเหตุผลกำกับ ถ้าไม่ครบ pipeline จะหยุดและไม่เขียนไฟล์
 6. **ลบบรรทัดของทีมที่ key ชนกัน** ด้วย `strip_team_overlap.py` เพราะ plugin ใช้คำแปลจากไฟล์แรกที่โหลดสำหรับแต่ละ key
+
+## ลำดับการทำงาน
+
+ทุกคำสั่งอยู่ใน `tools/pipeline/` และรันด้วย `tools/pipeline/.venv/bin/python` กล่องสีเหลืองเรียก Haiku และเสียเงิน
+
+```mermaid
+flowchart TD
+    A["อัปเดต submodule datamining<br/>(ถ้ามี patch ใหม่)"] --> B["check_msq_list.py<br/>ต้อง exit 0"]
+    B --> C["build_terms.py<br/>สร้าง terms.json ใหม่"]
+    C --> D{"ต้องเพิ่มชื่อเฉพาะ?"}
+    D -- ใช่ --> E["suggest_terms.py<br/>เขียน out/terms_suggestions.json"]
+    E --> F["ผู้ใช้เลือกชื่อ แล้วใส่ใน terms_manual.json<br/>และเพิ่มเหตุผลในตาราง TERMS.md"]
+    F --> C
+    D -- ไม่ --> G["pipeline.py ... --list<br/>ดูเควสต์และไฟล์ cutscene ที่จะเลือก"]
+    G --> H["pipeline.py --commit REV --quest NAME<br/>แปล ตรวจ พิสูจน์ความครบ"]
+    H --> I{"ดู flag ใน out/report.md<br/>มี flag name เหลือ?"}
+    I -- "ใช่ ทั้งเควสต์" --> J["pipeline.py ... --force<br/>แปลใหม่ทั้งเควสต์"]
+    I -- "ใช่ บางบรรทัด" --> K["ลบแถวนั้นจาก out/review/&lt;quest_id&gt;.json<br/>แล้วรันคำสั่งเดิมโดยไม่ใส่ --force"]
+    J --> I
+    K --> I
+    I -- ไม่ --> L["strip_team_overlap.py --apply<br/>แล้วรันอีกครั้งโดยไม่ใส่ --apply<br/>ต้องได้ colliding rows in target files: 0"]
+    L --> M["test_pipeline.py"]
+    M --> N["commit แล้วทดสอบในเกม"]
+
+    O["แก้ lint หรือ terms.json<br/>โดยไม่แปลใหม่"] --> P["pipeline.py ไม่ใส่ argument<br/>สร้าง haiku/ out/review/ และ report ใหม่"]
+    P --> I
+
+    classDef paid fill:#fbf0d4,stroke:#9a6a00,color:#1a2130
+    class H,J,K paid
+```
+
+- หลังแก้ `terms_manual.json` ต้องรัน `build_terms.py` เสมอ `pipeline.py` อ่านแค่ `terms.json` และไม่สร้างไฟล์นี้เอง
+- `build_terms.py` หยุดถ้า `terms_manual.json` มีชื่อที่ sheet ให้อยู่แล้ว ให้ลบชื่อนั้นออกจาก `terms_manual.json` แล้วรันใหม่
+- คำแปลที่เก็บไว้สร้างก่อนมี term ใหม่ จึงมี flag `name` เพิ่มหลังเพิ่ม term ต้องแปลใหม่ถึงจะหาย
+- ถ้าภาษาอังกฤษของบรรทัดไม่มีชื่อนั้น Haiku อาจละชื่อไว้ เช่น アシエン・ハルマルト ที่ภาษาอังกฤษเขียนแค่ "Halmarut" ให้แปลบรรทัดนั้นใหม่บรรทัดเดียว
 
 ## ตั้งค่าเครื่อง
 
@@ -67,7 +102,7 @@ tools/pipeline/.venv/bin/python tools/pipeline/strip_team_overlap.py
 | `tools/pipeline/out/attribution/VoiceMan_NNNNN.json` | ผลโหวตว่าแถวไหนของไฟล์ cutscene เป็นของเควสต์ไหน |
 | `tools/pipeline/out/cost_log.jsonl` | ค่าใช้จ่ายของทุกครั้งที่เรียก model |
 | `tools/pipeline/out/report.md` | สรุปค่าใช้จ่าย flag coverage และตัวอย่างคำแปล |
-| `tools/pipeline/terms.json` | ชื่อเฉพาะที่ Haiku ใช้ไปแล้ว ส่งให้เควสต์ถัดไปใช้คำเดียวกัน |
+| `tools/pipeline/terms.json` | ชื่อเฉพาะภาษาญี่ปุ่นคู่กับชื่อภาษาอังกฤษทางการ สร้างด้วย `build_terms.py` ดู [TERMS.md](TERMS.md) |
 
 ไฟล์ใน `out/review/` คือข้อมูลหลัก ไฟล์ใน `haiku/` และ `out/coverage/` สร้างใหม่จากไฟล์นี้และจากต้นทางทุกครั้งที่รัน
 
@@ -122,6 +157,11 @@ tools/pipeline/.venv/bin/python tools/pipeline/strip_team_overlap.py
 - ค่าแปลราว $0.03–0.07 ต่อเควสต์
 - ค่าโหวต attribution ราว $0.02–0.03 ต่อไฟล์ cutscene จ่ายครั้งเดียวต่อไฟล์
 - `out/report.md` แสดงค่าใช้จ่ายจริงจาก `out/cost_log.jsonl`
+
+## สคริปต์อื่นที่ไม่เรียก model
+
+- `suggest_terms.py` หาชื่อเฉพาะภาษาญี่ปุ่นที่ MSQ ใช้แต่ไม่มีใน `terms.json` พร้อมชื่อภาษาอังกฤษที่เสนอจากประโยคภาษาอังกฤษที่คู่กัน เขียนลง `out/terms_suggestions.json` ให้ผู้ใช้เลือกใส่ `terms_manual.json`
+- `check_msq_list.py` เทียบรายชื่อเควสต์ MSQ ในวิกิ (revision ที่ตรึงไว้) กับเควสต์ MSQ ใน `Quest.csv` และอ่านทุกไฟล์ที่ `gamedata.msq_paths` เลือก ออกด้วย exit code ไม่ใช่ 0 ถ้ามีเควสต์ที่ขาดหรือไฟล์ที่อ่านไม่ได้ ใส่ `--wikitext FILE` เพื่ออ่านสำเนาที่บันทึกไว้แทน
 
 ## การตรวจที่เสียเงิน
 

@@ -9,34 +9,8 @@
   ]
  },
  "run_ids": [
-  "20261111T123252-d0889d"
+  "20261111T191136-c2a659"
  ],
- "names_sent": [
-  "Alphinaud",
-  "Ascian",
-  "Calyx",
-  "Crystal",
-  "Dawn's Respite",
-  "Estinien",
-  "Fourth World",
-  "Glaðr",
-  "Halmarut",
-  "Haurchefant",
-  "Krile",
-  "Lahabrea",
-  "Naglfar",
-  "Orshufan",
-  "Rising Stones",
-  "Ser",
-  "Solstice",
-  "Tataru",
-  "Visna",
-  "Void",
-  "Voidsent",
-  "Warrior of Light",
-  "Winterer"
- ],
- "term_conflicts": [],
  "cutscene_files": [
   "cut_scene/075/VoiceMan_07505"
  ],
@@ -45,362 +19,387 @@
    "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_001",
    "key": "iknownotwhattheserealmshipsarelikebutsolongasimnotconfinedtoacrampedcabinthejourneyshouldbepleasantenough",
    "text_human": "ข้าไม่รู้หรอกว่าเรือพิภพพวกนี้เป็นยังไง แต่ตราบใดที่ไม่ต้องขังตัวอยู่ในห้องคับแคบ การเดินทางก็คงรื่นรมย์ดีอยู่",
-   "text_haiku": "ไม่รู้หรอกว่าเรือทวีปพวกนั้นเป็นยังไง แต่ถ้าการเดินทางไปถึงตรงนั้นจะสบายพอตัว ก็ดีไป ข้าไม่เรื่องมากเรื่องที่นอนหรอก แต่ห้องโดยสารคับแคบนี่ข้าเบื่อจะแย่อยู่แล้ว",
+   "text_haiku": "ข้าไม่รู้หรอกว่า realmships นั่นมันเป็นยังไง แต่ถ้าไม่ต้องขังตัวอยู่ในห้องโดยสารแคบๆ ทางไปคงจะสบายพอตัวอยู่ ข้าน่ะนอนที่ไหนก็ได้ แต่ห้องแคบๆ นี่ทนไม่ไหวจริงๆ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_VISNA_000_005",
    "key": "thefirecrystalsyousetwillhastentheislesthawingnotbymuchmindbutitsbetterthandoingnothing",
    "text_human": "คริสตัลไฟที่พวกเธอวางไว้จะช่วยเร่งให้น้ำแข็งบนเกาะละลายเร็วขึ้น ไม่มากหรอกนะ แต่ก็ยังดีกว่าอยู่เฉยๆ",
-   "text_haiku": "คริสทัลไฟที่พวกเธอวางไว้น่ะ มันช่วยให้เกาะลอยนี่ละลายเร็วขึ้นได้ละนะ...... ถึงจะไม่ได้ช่วยมากนักก็เถอะ ดีกว่าไม่ทำอะไรเลยก็แล้วกัน",
+   "text_haiku": "คริสตัลไฟที่เธอช่วยวางไว้น่ะ ที่จริงก็เพื่อให้เกาะลอยที่แข็งตัวละลายเร็วขึ้นนั่นแหละ... แค่นิดหน่อยเอง แต่ก็ยังดีกว่าไม่ทำอะไรเลยนะ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_SALVAGECREWC_000_010",
    "key": "whiletheshipistowingtheislewecantreadilymovebetweenthemwhichistosayyoullhavetoremainhereuntilwegettothemothership",
    "text_human": "ระหว่างที่เรือลากเกาะไปด้วย เราจะข้ามไปมาระหว่างสองที่ไม่ได้ง่ายๆ พูดง่ายๆ คือเธอต้องอยู่ตรงนี้จนกว่าจะถึงเรือแม่",
-   "text_haiku": "เห็นอยู่แล้วว่า ตอนลากเกาะอยู่ก็ข้ามไปมาระหว่างกับกลาดรไม่ได้ง่ายๆ หรอกนะ ต้องรอจนถึงเรือแม่ก่อน เธอก็ต้องอยู่บนเกาะลอยนี้ไปก่อนแหละ",
+   "text_haiku": "อย่างที่เห็นนั่นแหละ ตอนที่กำลังลากเกาะอยู่ ฉันกับ Glaðr ก็ไปมาหาสู่กันไม่ได้ง่ายๆ หรอก เธอต้องอยู่บนเกาะนี้จนกว่าจะถึงเรือแม่นั่นแหละ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_020",
    "key": "nowthenihavebeentoldthatthevoyagetonaglfarwilltakeanotinconsiderableamountoftime",
    "text_human": "เอาละ... ผมได้ยินมาว่าการเดินทางไปนาเกลฟาร์จะกินเวลาไม่น้อยเลยทีเดียว",
-   "text_haiku": "อืม...... จากที่ตรวจสอบดูแล้ว การจะไปถึงนาเกลฟาร์ต้องใช้เวลาพอสมควรเลยทีเดียวครับ",
+   "text_haiku": "เอ่อ... ผมได้รับแจ้งมาว่า การเดินทางไปยัง Naglfar คงใช้เวลาไม่น้อยทีเดียวครับ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_021",
    "key": "sincewecandonaughttochangethatthereissomethingiwishtoaskofyouforename",
    "text_human": "ในเมื่อเราเปลี่ยนแปลงอะไรไม่ได้ ผมเลยมีเรื่องอยากขอร้องคุณสักหน่อย Forename",
-   "text_haiku": "ดังนั้น คุณ Forename ผมมีเรื่องหนึ่งที่อยากจะฝากไว้จริงๆ ครับ",
+   "text_haiku": "ดังนั้นนะ Forename ผมมีเรื่องหนึ่งที่อยากฝากไว้จริงๆ ครับ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_022",
    "key": "wouldyoureturntotherisingstonesandinformeveryonethatestinienandiarehaleandofcourseshareallthatwehavelearnedfromvisna",
    "text_human": "ช่วยกลับไปที่เดอะ ไรซิง สโตนส์ แล้วบอกทุกคนว่าผมกับเอสทิเนียนสบายดีได้ไหมครับ แล้วก็เล่าทุกอย่างที่เราได้รู้จากวิสนาให้ฟังด้วย",
-   "text_haiku": "ช่วยกลับไปที่ศิลาผงาด แล้วแจ้งให้ทุกคนทราบว่าผมกับเอสตินเนียนยังปลอดภัยดี รวมถึงเรื่องที่ได้ฟังจากวิสนาด้วย จะได้ไหมครับ",
+   "text_haiku": "ช่วยกลับไปที่ Rising Stones แล้วบอกทุกคนหน่อยได้ไหมครับ ว่าผมกับ Estinien ยังปลอดภัยดี แล้วก็เล่าเรื่องที่ได้ยินจาก Visna ให้ฟังด้วย",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_025",
    "key": "asoundplantwouldnotdotoleavetataruanxiousafterall",
    "text_human": "เป็นแผนที่เข้าท่า ปล่อยให้ทาทารุกระวนกระวายใจไว้คงไม่ดีแน่",
-   "text_haiku": "......สมเหตุสมผลดี เมื่อกี้เพิ่งถูกตาตารุกำชับมาเลย ว่าถึงจะเชื่อว่าปลอดภัย ความกังวลก็ยังค่อยๆ สะสมอยู่ดี",
+   "text_haiku": "...ก็สมเหตุสมผลดี ข้าเพิ่งถูก Tataru เตือนมาเมื่อกี้ว่า ต่อให้เชื่อว่าปลอดภัยแล้ว ความกังวลก็ยังอยู่ดี ปล่อยให้เธอกังวลไม่ได้หรอก",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_027",
    "key": "noindeedmyfriendnoindeed",
    "text_human": "ไม่ดีแน่นอน สหายเอ๋ย ไม่ดีเอาเสียเลย",
-   "text_haiku": "ฮึๆ งั้นก็ต้องติดต่อกลับไปให้ได้ไม่ว่าจะยังไงเลยนะครับ!",
+   "text_haiku": "ฮึๆ ถ้าอย่างนั้นก็ต้องติดต่อให้ได้ไม่ว่าจะยังไงก็ตาม!",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_028",
    "key": "lastlytellourfriendsthis",
    "text_human": "สุดท้ายนี้ ฝากบอกเพื่อนๆ ของเราด้วยว่า...",
-   "text_haiku": "และผมอยากให้ทุกคนให้คำมั่นไว้ด้วยครับ",
+   "text_haiku": "แล้วอีกอย่างครับ ผมอยากให้ทุกคนสัญญาไว้กับผมด้วย",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_029",
    "key": "weshalldoandlearnallthatwecanhereandoncewehaveaccomplishedourtaskweshallreturnthisweswear",
    "text_human": "พวกเราจะทำและเรียนรู้ทุกอย่างเท่าที่ทำได้ที่นี่ และเมื่อภารกิจลุล่วง พวกเราจะกลับไป ขอสาบาน",
-   "text_haiku": "พวกเราจะทำสิ่งที่ควรทำ และเรียนรู้สิ่งที่ควรรู้ที่นี่ให้เสร็จ แล้วจะกลับไป ว่าอย่างนั้นครับ",
+   "text_haiku": "พวกเราจะทำในสิ่งที่ต้องทำ และเรียนรู้ในสิ่งที่ต้องรู้ที่นี่ ก่อนจะกลับไปครับ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_031",
    "key": "thankyouwithyoutoconnectusandourcomradesneverwillwebefarapart",
    "text_human": "ขอบคุณครับ มีคุณคอยเชื่อมพวกเราไว้กับสหายทุกคน ต่อให้อยู่ไกลแค่ไหน เราก็ไม่มีวันห่างกันเลย",
-   "text_haiku": "ขอบคุณครับ ต่อให้อยู่ห่างกันแค่ไหน ถ้ามีคุณเป็นคนเชื่อมโยงพวกเรากับเพื่อนๆ ไว้ เราก็จะไม่มีวันห่างกันจริงๆ",
+   "text_haiku": "ขอบคุณนะ ถึงจะอยู่ห่างกันแค่ไหน ถ้ามีเธอคอยเชื่อมโยงพวกเราไว้ พวกเราก็จะไม่มีวันแยกจากกันหรอกครับ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_032",
    "key": "godsspeedforename",
    "text_human": "ขอทวยเทพคุ้มครอง Forename",
-   "text_haiku": "......ฝากด้วยนะ คุณ Forename",
+   "text_haiku": "...ฝากไว้ด้วยนะ Forename",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_035",
    "key": "therearenothrallstobeseensoworrynotforusbeateaseonyourway",
    "text_human": "แถวนี้ไม่มีวี่แววธรอลล์สักตัว ไม่ต้องห่วงพวกผมหรอก เดินทางให้สบายใจเถอะ",
-   "text_haiku": "ตอนนี้ยังไม่เห็นแม้แต่เงาของผู้รับใช้พวกนั้นเลย ไม่ต้องเป็นห่วงพวกเราหรอกครับ ออกเดินทางไปเถอะ",
+   "text_haiku": "ตอนนี้ยังไม่เห็นวี่แววของ thralls เลยครับ ไม่ต้องเป็นห่วงพวกเราหรอก ไปได้เลย ระวังตัวด้วยนะ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_040",
    "key": "howeverlongthisvoyagemaytakeicanalwayswhileawaythetimeintraining",
    "text_human": "ต่อให้การเดินทางนี้ยาวนานสักเพียงไหน ข้าก็ฆ่าเวลาด้วยการฝึกฝนได้เสมอ",
-   "text_haiku": "ข้าไม่รู้หรอกว่าจะต้องใช้เวลาอีกนานแค่ไหนกว่าจะถึง แต่ถ้าเป็นอย่างนั้น ข้าก็จะเอาเวลานั้นไปฝึกฝนตนเองก็แล้วกัน",
+   "text_haiku": "ถึงจะไม่รู้ว่าอีกนานแค่ไหนถึงจะถึง แต่ก็ถือว่าเอาเวลานั้นไปฝึกซ้อมได้นี่",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_VISNA_000_045",
    "key": "soyouretheonlywhocanreturnhomeunconventionalteleportationmagickindeed",
    "text_human": "งั้นเธอเป็นคนเดียวที่กลับบ้านได้สินะ เวทย์เคลื่อนย้ายที่ไม่เหมือนใครจริงๆ...",
-   "text_haiku": "อ้อ จริงสิ เธอนี่แหละที่กลับบ้านได้คนเดียวนี่นา? อัลฟิโนบอกว่ามันเป็นผลจากการใช้เวทย้ายที่ที่ไม่มีใครรู้จัก แต่ก็นะ เธอนี่ใช้เวทประหลาดไปซะแล้วจริงๆ เลยนะเนี่ย",
+   "text_haiku": "อ๊ะ จริงสิ เธอคนเดียวนี่นาที่กลับบ้านได้? Alphinaud บอกว่าเป็นผลจากการใช้เวทย้ายที่ที่ยังไม่มีใครรู้จัก... แต่ดูเหมือนจะใช้เวทแปลกๆ ไปจริงๆ สินะ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_SALVAGECREWC_000_050",
    "key": "idliketopitchatentbutthestakeswontpiercethegrounduntiltheicehasthawedsomemore",
    "text_human": "อยากกางเต็นท์อยู่เหมือนกัน แต่ตอกหมุดไม่ลงเลยจนกว่าน้ำแข็งจะละลายมากกว่านี้...",
-   "text_haiku": "อยากจะกางเต็นท์ก่อนอยู่หรอก แต่คงต้องรอให้น้ำแข็งละลายไปอีกหน่อย ไม่งั้นหมุดเต็นท์คงปักลงพื้นไม่ได้แน่ๆ",
-   "flags": [
-    {
-     "check": "review",
-     "detail": "The ja ends in a hedged question, 'ペグが刺さらないかなあ？' ('I wonder if the pegs won't go in?'), but the th states it as a certainty with 'แน่ๆ' ('surely can't'), changing the meaning."
-    }
-   ]
+   "text_haiku": "อยากกางเต็นท์ก่อนอยู่หรอก แต่ถ้าน้ำแข็งยังไม่ละลายเพิ่มอีกหน่อย หมุดก็คงปักลงไปไม่ได้หรอกนะ...",
+   "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_100",
    "key": "forenameyoureback",
    "text_human": "Forename กลับมาแล้ว!",
-   "text_haiku": "คุณ Forename! กลับมาแล้วค่า......!",
+   "text_haiku": "Forename ค่า! กลับมาแล้วนะคะ...!",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_101",
    "key": "alphinaudandestinienaresafeihope",
    "text_human": "อัลฟิโนด์กับเอสทิเนียนปลอดภัยดีใช่ไหมคะ",
-   "text_haiku": "เอ่อ เอ่อ คุณอัลฟิโนกับคุณเอสตินเนียนคะ......! ปลอดภัยดีใช่ไหมคะ......!?",
+   "text_haiku": "คุณ Alphinaud กับคุณ Estinien ปลอดภัยดีใช่ไหมคะ...!?",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_102",
    "key": "theyareohthankthetwelve",
    "text_human": "ปลอดภัยจริงเหรอ โอ๊ย ขอบคุณทวยเทพทั้งสิบสองจริงๆ... แล้วก็ขอบคุณที่อุตส่าห์มาบอกกันด้วยนะคะ!",
-   "text_haiku": "ปลอดภัยดีหรือคะ...... ดีจังเลยค่ะ......! ขอบคุณที่มาบอกนะคะ ขอบคุณมากค่า!",
+   "text_haiku": "ปลอดภัยดีหรือคะ... ดีจังเลย...! ขอบคุณที่มาบอกนะคะ!",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_100_102",
    "key": "justnowwedecidedtohaveashortrecessbutillcalleveryonebackatonce",
    "text_human": "เมื่อกี้พวกเราเพิ่งตกลงกันว่าจะพักสักครู่ แต่เดี๋ยวฉันจะเรียกทุกคนกลับมาทันทีเลยค่ะ!",
-   "text_haiku": "คนอื่นๆ ก็รอด้วยความเป็นห่วงอยู่เหมือนกันค่ะ แต่ตอนนี้ฉันขอรับหน้าที่ดูแลที่นี่ไว้ก่อน เลยให้ทุกคนแยกย้ายกันไปพักชั่วคราวแล้วค่า",
+   "text_haiku": "ทุกคนก็เป็นห่วงและรออยู่เหมือนกันค่ะ แต่ตอนนี้ให้ฉันรับผิดชอบดูแลเรื่องนี้ก่อน เลยแยกย้ายกันไปพักชั่วคราวแล้วค่ะ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_200_102",
    "key": "theyllallbesorelieved",
    "text_human": "ทุกคนต้องโล่งอกกันยกใหญ่แน่!",
-   "text_haiku": "เพิ่งเกิดขึ้นเมื่อกี้เองค่ะ ฉันจะรีบตามทุกคนกลับมาเดี๋ยวนี้เลยค่ะ!",
+   "text_haiku": "เพิ่งแยกย้ายกันไปเมื่อกี้เองค่ะ เดี๋ยวฉันไปตามทุกคนกลับมาเดี๋ยวนี้เลย!",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_200",
    "key": "theteahaswarmedyouupihopeitsoundsterriblycoldinthefourth",
    "text_human": "ชาร้อนช่วยให้อุ่นขึ้นบ้างไหมคะ ฟังดูแล้วเดอะโฟร์ทหนาวเหน็บน่าดูเลย...",
-   "text_haiku": "ดื่มชาแล้วอุ่นขึ้นบ้างหรือยังคะ...... ได้ยินมาว่าโลกที่สี่หนาวมากเลยนะคะ......",
-   "flags": []
+   "text_haiku": "ชาช่วยให้อุ่นขึ้นบ้างหรือเปล่าคะ...? ได้ยินมาว่าโลกที่สี่หนาวมากเลยนี่คะ...",
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_201",
    "key": "whenlordhaurchefantwelcomedusatthefallingsnowshedservedushotbeveragestoo",
    "text_human": "ตอนที่ท่านลอร์ดฮอร์ชฟองต์ต้อนรับพวกเราที่ “ฟอลลิงสโนวส์” ท่านก็ยกเครื่องดื่มร้อนๆ มาเสิร์ฟให้เหมือนกัน",
-   "text_haiku": "......ตอนที่พวกเราหลบซ่อนอยู่ที่หิมะร่วงก่อนหน้านี้ เซอร์ออร์ชูฟันก็เคยเอาเครื่องดื่มร้อนๆ มาให้พวกเราด้วยนะคะ",
+   "text_haiku": "...ตอนที่พวกเราหลบซ่อนอยู่ที่ Falling Snows ก่อนหน้านี้ ท่าน Haurchefant ก็เคยเอาเครื่องดื่มร้อนๆ มาให้พวกเราด้วยนะคะ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_100_201",
    "key": "hewasakindandcaringmanwhowarmedtheheartsofthosearoundhiminmyownwayistrivetobesuchapresencetoyouall",
    "text_human": "ท่านเป็นคนใจดีและใส่ใจคนรอบข้าง คอยทำให้หัวใจของทุกคนอบอุ่นขึ้นเสมอ ฉันคงทำได้ไม่ถึงอย่างท่านหรอกค่ะ แต่ก็อยากเป็นแบบนั้นให้พวกคุณบ้างในแบบของฉัน",
-   "text_haiku": "อ่อนโยน น่าพึ่งพา อบอุ่นถึงใจจริงๆ ค่ะ...... ฉันคงไม่มีวันทำได้เหมือนท่านหรอกค่ะ แต่จะพยายามให้เต็มที่ เพื่อคอยเป็นกำลังใจให้ทุกคนค่ะ",
+   "text_haiku": "อ่อนโยนและน่าพึ่งพา ทำให้ใจอบอุ่นจริงๆ... ฉันคงทำแบบนั้นไม่ได้เลยหรอกค่ะ แต่ฉันจะพยายามสุดกำลังเพื่อคอยสนับสนุนทุกคนค่ะ",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_202",
    "key": "andsointhatspiritivepreparedasetofwarmclothesforyoutowearinthefourth",
    "text_human": "เพราะอย่างนั้น ฉันเลยเตรียมชุดกันหนาวไว้ให้คุณใส่ตอนไปเดอะโฟร์ทด้วยค่ะ!",
-   "text_haiku": "ก็เลยค่ะ! ฉันเตรียมชุดที่ทั้งอุ่นและคล่องตัวสำหรับการผจญภัยในโลกที่สี่ให้แล้วค่ะ รีบทำให้เสร็จเลยเชียว!",
-   "flags": []
+   "text_haiku": "ก็เลยค่ะ! ฉันเตรียมชุดที่ทั้งอบอุ่นและคล่องตัวสำหรับการผจญภัยในโลกที่สี่มาให้ด้วยนะคะ รีบทำเสร็จเมื่อกี้เลยค่ะ!",
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_203",
    "key": "illalsomakesuredawnsrespiteisalwaysaccessiblesoyoucanmakethejourneyatanytime",
    "text_human": "แล้วฉันจะดูแลให้ห้องโถงดอว์นสเรสพิทเปิดให้เข้าได้ตลอด คุณจะได้ออกเดินทางเมื่อไรก็ได้",
-   "text_haiku": "อีกอย่างนะคะ ทางที่เชื่อมไปยังที่นั่นอยู่ที่ห้องรอรุ่งสาง ฉันจะเปิดห้องไว้ให้ต่อไปค่ะ",
+   "text_haiku": "อีกเรื่องค่ะ เห็นว่าทางไปโลกนั้นอยู่ที่ Dawn's Respite ฉันจะเปิดห้องนั้นไว้ให้ตลอดค่ะ จะได้ไปได้ตลอดเวลา",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_204",
    "key": "nowtheresofcoursenoknowingwhenglarwillarrivewithoutcheckingbeyond",
    "text_human": "ทีนี้ก็แน่ละว่าเราไม่มีทางรู้ว่ากลาเดอร์จะไปถึงเมื่อไร ถ้าไม่ข้ามไปดูด้วยตัวเอง...",
-   "text_haiku": "แต่ว่านะคะ ไม่มีทางรู้หรอกค่ะว่ากลาดรจะมาถึงเมื่อไหร่ ต้องไปถามที่นั่นโดยตรงเท่านั้นค่ะ......",
+   "text_haiku": "ส่วนว่า Glaðr จะมาถึงเมื่อไหร่ ก็คงต้องไปถามที่นั่นโดยตรงเท่านั้นค่ะ...",
    "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_205",
    "key": "butwhenitcomestimeforyoutogoforthinearnestdoremembertosayawordifyousimplydisappearedidbemostcross",
    "text_human": "แต่พอถึงเวลาที่คุณต้องออกเดินทางจริงจังแล้ว อย่าลืมบอกกันสักคำนะคะ! ถ้าหายตัวไปเฉยๆ ฉันจะโกรธเอาจริงๆ นะ!",
-   "text_haiku": "แต่ตอนที่จะออกเดินทางผจญภัยในโลกที่สี่กันจริงๆ อย่าลืมบอกฉันด้วยนะคะ อยากไปส่งค่า! ถ้าหายไปเฉยๆ ฉันจะโกรธมากเลยนะคะ!",
-   "flags": []
+   "text_haiku": "แต่ตอนที่จะออกเดินทางผจญภัยในโลกที่สี่จริงๆ ช่วยบอกฉันสักคำนะคะ อยากไปส่งค่ะ! ถ้าหายไปเฉยๆ ฉันจะโกรธมากเลยนะคะ!",
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001700_GRAHATIA",
    "key": "thatisquiteataleasyoudisappearedinthesamemannerasbeforewesuspectedtheincantationwassuccessful",
    "text_human": "เรื่องราวชวนทึ่งจริงๆ... เพราะคุณหายตัวไปแบบเดียวกับคราวก่อน พวกเราเลยเดาว่าคาถานั้นคงสำเร็จ",
-   "text_haiku": "เรื่องราวแบบนั้นนี่เอง......! ที่หายไปแบบเดียวกับตอนไปโวยด์ ผมก็คิดอยู่ว่าคงสำเร็จแล้วล่ะ......",
-   "flags": []
+   "text_haiku": "อย่างนั้นเองหรือ...! เห็นว่าหายตัวไปด้วยวิธีเดียวกับตอนไปที่ Void ข้าก็เดาอยู่แล้วว่าคาถาคงสำเร็จ",
+   "flags": [
+    {
+     "check": "script",
+     "detail": "untranslated: Void"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001710_ALISAIE",
    "key": "wedidntexpectalphinaudandestinientobetakenwithyouhowever",
    "text_human": "แต่ไม่คิดเลยว่ามันจะพาอัลฟิโนด์กับเอสทิเนียนไปด้วย",
-   "text_haiku": "อัลฟิโนกับเอสตินเนียนก็หายไปด้วยเลยนี่ ฉันก็ตกใจอยู่เหมือนกันนะ",
+   "text_haiku": "แต่ที่ Alphinaud กับ Estinien หายไปด้วยนี่ ฉันก็ตกใจอยู่เหมือนกันนะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001720_ALISAIE",
    "key": "sothismeansicangotooyes",
    "text_human": "งั้น... แปลว่าฉันก็ไปได้เหมือนกันใช่ไหม",
-   "text_haiku": "......แล้วฉันก็ไปที่นั่นได้ด้วยใช่ไหมล่ะ?",
+   "text_haiku": "...แล้วนี่หมายความว่า ฉันก็ไปที่นั่นได้ด้วยใช่ไหมล่ะ?",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001730_KRILE",
    "key": "nomorepleasenomore",
    "text_human": "ไม่เอาอีกแล้ว! ขอร้องล่ะ อย่าอีกเลย!",
-   "text_haiku": "หยุดก่อนค่ะ! พอแค่นี้เถอะนะคะ ใช่ไหมคะ?",
+   "text_haiku": "เดี๋ยวก่อนนะ! ถึงตรงนั้นก็พอแล้วนะ? ใช่ไหม?",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001740_KRILE",
    "key": "wehaventevendeterminedhowalphinaudandestiniencanreturnthisisnotapowertobeinvokedlightly",
    "text_human": "เรายังหาทางไม่ได้เลยว่าอัลฟิโนด์กับเอสทิเนียนจะกลับมาได้อย่างไร พลังแบบนี้ไม่ใช่สิ่งที่จะปลุกใช้กันเล่นๆ",
-   "text_haiku": "ไม่รู้เลยว่าอัลฟิโนกับคุณเอสตินเนียนจะกลับมาได้ยังไง...... ฝืนลองตอนนี้มันอันตรายนะคะ",
+   "text_haiku": "ตอนนี้แม้แต่ Alphinaud กับ Estinien ก็ยังไม่แน่ใจเลยว่าจะกลับมายังไง... ฝืนลองตอนนี้มันอันตรายนะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001750_YSHTOLA",
    "key": "krilehastherightofitasinglemisstepandwemayallendupstrandedinthefourth",
    "text_human": "ไครล์พูดถูก พลาดก้าวเดียว เราอาจติดค้างอยู่ที่เดอะโฟร์ทกันหมดก็ได้",
-   "text_haiku": "ก็จริงอย่างที่คริลว่า...... พลาดนิดเดียว ทุกคนอาจติดอยู่ที่โลกที่สี่ไปเลยก็ได้",
+   "text_haiku": "ก็จริงของ Krile นั่นแหละ... ถ้าพลาดขึ้นมา พวกเราทั้งหมดอาจติดอยู่ในโลกที่สี่ไปเลยก็ได้",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001760_GRAHATIA",
    "key": "andgiventheentirelydifferentcircumstancesspiritvesselswouldavailusnaught",
    "text_human": "แถมด้วยสถานการณ์ที่ต่างกันโดยสิ้นเชิง ภาชนะกักเก็บวิญญาณก็ช่วยอะไรเราไม่ได้",
-   "text_haiku": "สถานการณ์มันต่างกันออกไป เลยเอาโซลไซฟอนมาดึงตัวกลับก็ไม่ได้ผลเหมือนกัน",
-   "flags": []
+   "text_haiku": "เมื่อสถานการณ์ต่างกันโดยสิ้นเชิง จะดึงพวกเขากลับมาด้วย Soul Siphon ก็ไม่ได้เช่นกัน",
+   "flags": [
+    {
+     "check": "script",
+     "detail": "untranslated: Soul Siphon"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001770_GRAHATIA",
    "key": "soletusbepatientalisaieandthinkofotherwaystohelp",
    "text_human": "เพราะฉะนั้นอดใจไว้ก่อนเถอะ อลิเซ แล้วมาคิดหาทางอื่นที่ช่วยได้ดีกว่า",
-   "text_haiku": "ใจเย็นๆ นะ อาลิเซ ตรงนี้... อดทนไว้!",
+   "text_haiku": "เอาน่า Alisaie ตรงนี้ต้องอดทนไว้! แล้วหาทางช่วยด้วยวิธีอื่นกันเถอะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001780_ALISAIE",
    "key": "alrightalrightilldowhaticanhere",
    "text_human": "ได้ๆ ก็ได้ ฉันจะทำเท่าที่ทำได้อยู่ทางนี้แล้วกัน",
-   "text_haiku": "รู้แล้วน่า ก็ได้!",
+   "text_haiku": "รู้แล้วน่า รู้แล้ว! ฉันจะทำสิ่งที่ทำได้ทางนี้เอง",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001790_ALISAIE",
    "key": "alphinaudandestiniencanlookafterthemselvesiknowbutkeepaneyeonthemwillyou",
    "text_human": "ฉันรู้ว่าอัลฟิโนด์กับเอสทิเนียนดูแลตัวเองได้ แต่ช่วยสอดส่องให้หน่อยนะ",
-   "text_haiku": "ฉันจะทำสิ่งที่ทำได้ทางนี้ไว้ก่อนละกัน ส่วนอัลฟิโนกับพวกนั้นน่ะ ไม่ได้เป็นห่วงหรอก แต่ฝากดูแลด้วยนะ",
+   "text_haiku": "ฉันจะทำสิ่งที่ทำได้ทางนี้ไว้ก่อน ไม่ได้เป็นห่วงหรอก Alphinaud กับ Estinien น่ะ แต่ฝากดูแลพวกเขาด้วยนะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001800_KRILE",
    "key": "ifyouwishtokeepbusyperhapsyoumightjoinme",
    "text_human": "ถ้าอยากหาอะไรทำ มาร่วมทางกับฉันไหมล่ะ",
-   "text_haiku": "ถ้าเป็นอย่างนั้น ช่วยไปกับฉันสักพักได้ไหมคะ?",
+   "text_haiku": "ถ้าอย่างนั้น ช่วยไปกับฉันสักพักได้ไหมคะ?",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001810_KRILE",
    "key": "iintendtovisittheninthtoseeiftherehavebeenanydevelopmentsfollowingrecenteventswhilethereialsohopetotreatthoseintrenoandelsewherewhosufferfromlevinsickness",
    "text_human": "ฉันตั้งใจจะไปเยือนโลกเงาสะท้อนที่เก้า เพื่อดูว่ามีความคืบหน้าอะไรหลังเหตุการณ์ที่ผ่านมาบ้าง แล้วก็หวังจะได้รักษาผู้คนในเทรโนและที่อื่นๆ ที่ป่วยด้วยโรคไข้สายฟ้าไปด้วย",
-   "text_haiku": "ฉันอยากลองสืบเรื่องครั้งนี้จากทางโลกที่เก้าดูน่ะ... ที่เทรโนและที่อื่นทางนั้น ยังมีคนที่ทรมานจากอาการเป็นอัมพาตจากธาตุสายฟ้าอยู่เลย",
+   "text_haiku": "ฉันอยากไปที่ Ninth เพื่อตรวจสอบว่ามีอะไรคืบหน้าหลังเหตุการณ์ล่าสุดไหม ที่นั่นยังมีคนที่ทรมานจากอาการชาจากพลังสายฟ้า ทั้งที่ Treno และที่อื่น ๆ ด้วยค่ะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001820_ALISAIE",
    "key": "idbegladtocomealongillteachyoueverythingyouneedtoknowaboutporxies",
    "text_human": "ฉันยินดีไปด้วยเลย! เดี๋ยวจะสอนทุกอย่างที่ควรรู้เรื่องพอร์กซีให้",
-   "text_haiku": "รับทราบ! เดี๋ยวฉันสอนวิธีจัดการพอร์กซีให้คริลด้วยนะ",
+   "text_haiku": "ได้เลย ฉันไปด้วยก็ได้ แล้วฉันจะสอนวิธีจัดการ porxies ให้ Krile ทุกอย่างที่ต้องรู้เองนะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001830_YSHTOLA",
    "key": "ishallreturntothemoonastheonewhoopenedthevoidgateishouldrightlykeepaweathereyeonit",
    "text_human": "ฉันจะกลับไปยังดวงจันทร์ ในฐานะคนที่เปิดรอยแยกมิติมืด ก็ควรเป็นฉันเองที่คอยเฝ้าจับตาดูมัน",
-   "text_haiku": "ฉันจะกลับไปยังดวงจันทร์อีกครั้ง ในเมื่อประตูโวยด์นั้นเป็นฉันที่เปิดเอง ก็ต้องเฝ้าดูความเคลื่อนไหวสักพักสิ",
-   "flags": []
+   "text_haiku": "ฉันจะกลับไปยังดวงจันทร์อีกครั้ง ในฐานะคนที่เปิดประตู Voidgate เองนี่นา ต้องคอยเฝ้าดูให้ดี",
+   "flags": [
+    {
+     "check": "script",
+     "detail": "untranslated: Voidgate"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001840_THANCRED",
    "key": "theniwilltakemyselfaroundtoassessvoidsentactivityandseeifaughtunusualisafoot",
    "text_human": "เช่นนั้นผมจะออกตระเวนประเมินความเคลื่อนไหวของเหล่าวอยด์เซ้นต์ และดูว่ามีสิ่งผิดปกติใดก่อตัวอยู่หรือไม่",
-   "text_haiku": "งั้นเรื่องการปรากฏตัวของโวยด์เซนต์ตามที่ต่างๆ ฉันจะไปดูเอง ถือโอกาสสืบดูด้วยว่ามีปัญหาอะไรที่น่าจะเกี่ยวข้องเกิดขึ้นไหม",
+   "text_haiku": "งั้นฉันจะไปตรวจดูการปรากฏตัวของ voidsent ตามที่ต่าง ๆ เอง พร้อมดูว่ามีอะไรผิดปกติเกิดขึ้นหรือเปล่า",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001850_HOARYBOULDER",
    "key": "shouldyourequireextrafeetonthegroundthenoursareatyourdisposal",
    "text_human": "หากต้องการกำลังคนช่วยลงพื้นที่เพิ่มเมื่อใด พวกเราก็พร้อมรับใช้เสมอ",
-   "text_haiku": "ต้องการคนช่วยงานไหมครับ? ขอให้พวกเราได้ช่วยด้วยเถอะ",
+   "text_haiku": "คงต้องการกำลังคนเดินเท้าเพิ่มสินะ ขอให้พวกเราได้ช่วยด้วยเถอะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001860_THANCRED",
    "key": "theydbemostwelcomewelldiscussthedetailsanon",
    "text_human": "เป็นพระคุณอย่างยิ่งเลย ไว้ค่อยหารือรายละเอียดกันทีหลัง",
-   "text_haiku": "ช่วยได้มากเลย งั้นเดี๋ยวค่อยประชุมวางแผนกันทีหลังนะ",
+   "text_haiku": "ช่วยได้มากเลย เดี๋ยวค่อยให้เราได้คุยวางแผนกันทีหลังนะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001870_URIANGER",
    "key": "twouldbehooveustodelveintothenatureofthestarinunravelingnewmysteriesmightwefindtheknowledgetoforestallthesolstice",
    "text_human": "สมควรที่พวกเราจะขุดค้นธรรมชาติของดวงดาวให้ลึกซึ้ง เมื่อไขปริศนาใหม่ได้ เราย่อมอาจพบความรู้ที่จะยับยั้งโซลสทิซไว้",
-   "text_haiku": "เช่นนั้น พวกเราจะลองคลี่คลายโครงสร้างของโลกอีกครั้ง แล้วพิจารณามาตรการรับมือกับ “ปลายแห่งวันพรุ่งนี้” กันเถิด",
+   "text_haiku": "ถ้าอย่างนั้น พวกเราควรค้นหาถึงโครงสร้างของโลกอีกครั้ง แล้วพิจารณาหาทางรับมือกับ Solstice ต่อไป เมื่อคลายปริศนาใหม่ ๆ ได้ อาจพบความรู้ที่จะยับยั้ง Solstice ได้",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001880_GRAHATIA",
    "key": "agreed",
    "text_human": "เห็นด้วย",
-   "text_haiku": "อืม ดูเหมือนจะเป็นทางที่ดีนะ",
+   "text_haiku": "ใช่ น่าจะดีที่สุดนะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001890_GRAHATIA",
    "key": "weshallendeavornottodisappoint",
    "text_human": "พวกเราจะพยายามไม่ให้ผิดหวัง",
-   "text_haiku": "...ปล่อยเรื่องนี้ให้ฉันเถอะ!",
+   "text_haiku": "......ฝากไว้ที่เราเลย! เราจะไม่ทำให้ผิดหวัง",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001900_GRAHATIA",
    "key": "youaswellmyfriend",
    "text_human": "คุณก็เหมือนกันนะ สหายเอ๋ย",
-   "text_haiku": "นายก็เหมือนกัน!",
+   "text_haiku": "นายก็เหมือนกันนะ เพื่อน!",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001910_TATARU",
    "key": "glarwasit",
    "text_human": "กลาเดอร์ ใช่ไหมนะ",
-   "text_haiku": "กลาดร ใช่ไหมนะคะ?",
+   "text_haiku": "Glaðr ใช่ไหมคะ?",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001920_TATARU",
    "key": "ihopeitgetstothemothershipswiftly",
    "text_human": "ขอให้ไปถึงเรือแม่ไวๆ เถอะ!",
-   "text_haiku": "ถึงเรือแม่ได้เร็วๆ เลยนะคะะ!",
+   "text_haiku": "ขอให้ถึงเรือแม่เร็ว ๆ นะคะะ!",
    "flags": []
   },
   {
@@ -421,112 +420,132 @@
    "text_id": "TEXT_VOICEMAN_07505_001575_CALYX",
    "key": "youaredoingthisonpurpose",
    "text_human": "ท่านจงใจทำแบบนี้แน่ๆ...",
-   "text_haiku": "นาย...ตั้งใจแน่ๆ ใช่ไหม...",
+   "text_haiku": "เจ้า... นี่มันตั้งใจแน่ ๆ ล่ะ...",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001580_HALMARUT",
    "key": "itappearsthewarrioroflighthasarrivedwithtwoofhercomrades",
    "text_human": "ดูเหมือนนักรบแห่งแสงจะมาถึงพร้อมกับสหายอีกสองคนของนาง",
-   "text_haiku": "ท่านนักรบแห่งแสงกับเพื่อนร่วมทางอีกสองคน ดูเหมือนจะข้ามมาถึงที่นี่แล้วค่ะ...",
-   "flags": []
+   "text_haiku": "ท่านผู้กล้าแห่งแสงกับเพื่อนอีกสองคน ดูเหมือนจะมาถึงที่นี่แล้วครับ",
+   "flags": [
+    {
+     "check": "name",
+     "detail": "光の戦士 is Warrior of Light in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001585_HALMARUT",
    "key": "whatpossessedyoutogosofarastoinvitehertothefourth",
    "text_human": "อะไรทำให้ท่านถึงขั้นชักชวนนางมายังเดอะโฟร์ทกัน",
-   "text_haiku": "ทำไมถึงขนาดไปเอ่ยปากชวนมายังโลกที่สี่กันเลยล่ะคะ?",
-   "flags": []
+   "text_haiku": "ทำไมต้องเอ่ยเชิญเธอมาถึงโลกที่สี่ถึงขนาดนั้นด้วยล่ะครับ...?",
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001590_CALYX",
    "key": "thereissomethingiwouldascertain",
    "text_human": "มีบางอย่างที่ข้าอยากพิสูจน์ให้แน่ชัด",
-   "text_haiku": "มีบางอย่างที่อยากรู้น่ะ",
+   "text_haiku": "มีบางอย่างที่ข้าอยากยืนยันน่ะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001600_CALYX",
    "key": "manythings",
    "text_human": "...หลายอย่างทีเดียว",
-   "text_haiku": "...หลายเรื่องน่ะ",
+   "text_haiku": "...หลายเรื่องเลยล่ะ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001605_CALYX",
    "key": "haveiviolatedthewintererscovenant",
    "text_human": "ข้าละเมิดพันธสัญญาของวินเทอเรอร์หรือไม่",
-   "text_haiku": "ฉันผิดข้อตกลงของวินเทอเรอร์หรือเปล่า?",
+   "text_haiku": "ข้าละเมิดข้อตกลงของ Winterers ไปแล้วหรือเปล่า?",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001610_HALMARUT",
    "key": "noyouhavenotthiswasdoubtlessbutapartoffatesgranddesign",
    "text_human": "หามิได้ ท่านมิได้ละเมิด... เรื่องนี้ย่อมเป็นส่วนหนึ่งในแบบแผนอันยิ่งใหญ่ของโชคชะตาอย่างไม่ต้องสงสัย",
-   "text_haiku": "ไม่ค่ะ... สุดท้ายแล้วก็เป็นโชคชะตาที่ต้องเกิดขึ้นอยู่แล้วนี่คะ",
+   "text_haiku": "ไม่ครับ... เรื่องแบบนี้คงเป็นชะตาที่ต้องเป็นอย่างนี้อยู่แล้วครับ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001612_HALMARUT",
    "key": "besideswhilethewarriorandhercomradesdonotacttoforestallthesolsticeyouwouldnotknowinglyaidthemunlessyouhadacompellingreason",
    "text_human": "อีกอย่าง แม้นักรบผู้นั้นกับสหายจะไม่ได้ลงมือยับยั้งโซลสทิซ ท่านก็คงไม่ช่วยเหลือพวกเขาทั้งที่รู้ตัว—เว้นเสียแต่ว่าท่านมีเหตุผลอันหนักแน่น",
-   "text_haiku": "อีกอย่าง ในเมื่อพวกท่านนักรบแห่งแสงยังไม่จัดการกับ “ปลายแห่งวันพรุ่งนี้” คุณคาลิกซ์ก็คงไม่ช่วยอะไรโดยไร้เหตุผลหรอกค่ะ",
-   "flags": []
+   "text_haiku": "อีกอย่าง ในเมื่อท่านผู้กล้าแห่งแสงกับเพื่อนยังไม่ลงมือรับมือกับ Solstice คุณ Calyx ก็คงไม่ช่วยพวกเขาโดยไม่มีเหตุผลอะไรครับ เว้นแต่จะมีเหตุผลที่หนักแน่นพอ",
+   "flags": [
+    {
+     "check": "name",
+     "detail": "光の戦士 is Warrior of Light in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001614_HALMARUT",
    "key": "neverthelesshadyousharedyourintentionsbeforehandimighthaveofferedmycooperationitwouldhavebeenmoreefficientandsparedmetheshock",
    "text_human": "กระนั้นก็เถอะ หากท่านบอกเจตนาไว้ล่วงหน้า ข้าคงยื่นมือให้ความร่วมมือได้ มันย่อมมีประสิทธิภาพกว่านี้—แล้วข้าก็คงไม่ต้องตกใจด้วย",
-   "text_haiku": "แต่ถ้ามีแผนอยู่ละก็ ช่วยบอกกันล่วงหน้าไว้น่าจะดีกว่านะคะ ฉันจะได้ไม่ตกใจ แล้วร่วมมือกันก็มีประสิทธิภาพกว่าด้วยค่ะ...!",
+   "text_haiku": "แต่ถ้ามีความคิดอะไร ช่วยบอกกันไว้ล่วงหน้าก็ดีนะครับ ผมจะได้ไม่ตกใจ แล้วยังช่วยกันได้อย่างมีประสิทธิภาพกว่าด้วยครับ!",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001620_CALYX",
    "key": "cooperation",
    "text_human": "ความร่วมมือ...",
-   "text_haiku": "ร่วมมือ......",
+   "text_haiku": "ร่วมมือเหรอ......",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001622_CALYX",
    "key": "iwonderifyouwouldsaythesamewereitnotthefourthforyouareboundtothisworldareyounothalmarut",
    "text_human": "ข้าสงสัยว่าท่านจะพูดเช่นเดียวกันนี้หรือไม่ หากที่นี่ไม่ใช่เดอะโฟร์ท เพราะท่านผูกพันกับโลกใบนี้ มิใช่หรือ ฮาลมารุต",
-   "text_haiku": "ถ้าเป็นโลกภาพสะท้อนอื่นก็ว่าไปอย่าง แต่นี่คือโลกที่สี่ นายมีพันธนาการผูกมัดอยู่หลายอย่างนะ ฮัลมารุต",
-   "flags": []
+   "text_haiku": "ถ้าเป็นกระจกโลกอื่นก็ว่าไปอย่าง แต่นี่มันโลกที่สี่นะ เจ้ามีพันธนาการหลายอย่างอยู่กับโลกนี้ไม่ใช่หรือ Halmarut",
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001624_CALYX",
    "key": "orwouldyoupreferbeingcalledbyyourtruenamehere",
    "text_human": "หรือว่าที่นี่ท่านอยากให้เรียกด้วยนามอันแท้จริงมากกว่า",
-   "text_haiku": "หรือว่า...ที่นี่ควรเรียกด้วย 'ชื่อเดิม' ของนายดี?",
+   "text_haiku": "หรือว่า... ที่นี่ควรเรียกเจ้าด้วย 'ชื่อเดิม' ดีกว่า?",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001630_HALMARUT",
    "key": "thoughmymotivesmaydifferfromthatoflahabreaandtheotherunsunderedmyobjectiveremainsthesametherejoininghalmarutwillsuffice",
    "text_human": "แม้แรงจูงใจของข้าจะต่างจากลาฮาเบรอาและเหล่าผู้มิได้ถูกแบ่งแยกคนอื่น แต่เป้าหมายของข้ายังคงเดิม—การหลอมรวมโลก เรียกฮาลมารุตก็พอแล้ว",
-   "text_haiku": "แม้เจตนาของฉันจะต่างจากท่านลาฮาเบรียและคนอื่นๆ ไปบ้างก็ตาม แต่ในเมื่อฉันวางแผนการรวมโลกเข้าด้วยกันอยู่ ฉันก็คืออาเชียน ฮัลมารุตค่ะ",
+   "text_haiku": "แม้เจตนาของผมอาจต่างจากท่าน Lahabrea และพวกที่ไม่ถูกแยก แต่ตราบใดที่เป้าหมายของผมยังคงเป็นการรวมโลกกลับเป็นหนึ่งเดียว ผมก็คือ Ascian Halmarut ครับ Halmarut ก็พอครับ",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001632_HALMARUT",
    "key": "wistfulexhalation",
    "text_human": "[ถอนหายใจอย่างอาลัยอาวรณ์]",
-   "text_haiku": "ฮ้า...",
+   "text_haiku": "ฮู้...",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001634_HALMARUT",
    "key": "alwayssocoldhere",
    "text_human": "ที่นี่หนาวเหน็บอยู่เสมอ...",
-   "text_haiku": "วันนี้ที่นี่ก็หนาวเหมือนเคยนะคะ...",
+   "text_haiku": "ที่นี่ก็หนาวอยู่เหมือนทุกวันเลยนะครับ...",
    "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001636_HALMARUT",
    "key": "italmostbringsonetotears",
    "text_human": "จนแทบเรียกน้ำตาให้ไหลริน...",
-   "text_haiku": "จริงๆ นะ... หนาวจนน่าเศร้าเลยค่ะ...",
+   "text_haiku": "จริงๆ นะ... หนาวจนเศร้าใจเลยครับ...",
    "flags": []
   }
  ]

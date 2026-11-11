@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Offline checks: lints catch seeded defects, terms.json never duplicates or overwrites, every source row
-and team key is accounted for (and a row that disappears stops the run), both selection modes pick the
-right files, the strip tool removes only colliding target rows, and the API backend parses a Messages response from a local stub (run with .venv/bin/python)."""
+"""Offline checks: lints catch seeded defects, a line gets only the longest terms.json names it uses,
+terms_manual.json cannot repeat a sheet name, the wiki's MSQ list matches Quest.csv by name, suggest_terms.py
+picks the English name and counts rows like Terms, every source row and team key is accounted for (and a row
+that disappears stops the run), both selection modes pick the right files, the strip tool removes only colliding
+target rows, and the API backend parses a Messages response from a local stub (run with .venv/bin/python)."""
 import argparse
 import contextlib
 import copy
@@ -16,15 +18,18 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 
 import attribution
+import build_terms
+import check_msq_list
 import gamedata
 import pipeline
 import strip_team_overlap
+import suggest_terms
 from key_ja import EDGE_CASES, key_ja
 
 
 def checks(speaker, text, en="I will go to the ship with you at once.", ja="今すぐにでも、お前と一緒にあの船へ向かうとしよう。", terms=()):
     row = {"speaker": speaker, "text_en": en, "text_ja": ja}
-    return {flag["check"] for flag in pipeline.lint(row, text, list(terms))}
+    return {flag["check"] for flag in pipeline.lint(row, text, pipeline.Terms(dict(terms)))}
 
 
 clean = "ข้าจะเข้าไปที่เรือกับเจ้าเดี๋ยวนี้ ข้างในมีข้าวอยู่"
@@ -45,10 +50,11 @@ assert checks("Visna", "ไปเรือ") == {"length"}
 assert checks("Visna", clean, en="Come with me, now.") == set(), "fits ja, so the terse en does not flag"
 assert checks("Visna", "ข้าจะไปที่เรือกับเจ้าเดี๋ยวนี้เลย！？") == {"script"}
 assert checks("Visna", "  ") == {"empty"}
-naglfar = {"en": "Naglfar", "ja": "ナグルファル", "th": "นากล์ฟาร์"}
-assert checks("Visna", "ข้าจะไปที่นาเกลฟาร์กับเจ้าเดี๋ยวนี้", ja="今すぐ一緒にナグルファルへ向かうとしよう。", terms=[naglfar]) == {"name"}
-assert checks("Visna", "ข้าจะไปที่นากล์ฟาร์กับเจ้าเดี๋ยวนี้", ja="今すぐ一緒にナグルファルへ向かうとしよう。", terms=[naglfar]) == set()
-assert checks("Visna", clean, terms=[naglfar]) == set()
+naglfar = {"ナグルファル": "Naglfar"}
+assert checks("Visna", "ข้าจะไปที่นากล์ฟาร์กับเจ้าเดี๋ยวนี้", ja="今すぐ一緒にナグルファルへ向かうとしよう。", terms=naglfar) == {"name"}
+assert checks("Visna", "ข้าจะไปที่ Naglfar กับเจ้าเดี๋ยวนี้", ja="今すぐ一緒にナグルファルへ向かうとしよう。", terms=naglfar) == set()
+assert checks("Visna", clean, terms=naglfar) == set()
+assert checks("Visna", "ข้าจะไปที่ Naglfar กับเจ้าเดี๋ยวนี้", en="I will go to Naglfar with you at once.") == set(), "a name from en is not untranslated"
 print("lints: ok")
 
 KEY_JA_CASES = {
@@ -63,19 +69,18 @@ for text, expected in KEY_JA_CASES.items():
     assert key_ja(text) == expected, (text, key_ja(text), expected)
 print("key_ja: ok")
 
-with tempfile.TemporaryDirectory() as tmp:
-    pipeline.TERMS = Path(tmp) / "terms.json"
-    rows = [{"text_en": "We sail for *Naglfar*.", "text_ja": "ナグルファルへ向かう。", "text_haiku": "เราจะมุ่งหน้าไปนากล์ฟาร์"}]
-    unused = {"en": "Glaðr", "ja": "グラズ號", "th": "กลาเดอร์"}
-    assert pipeline.record_terms([naglfar, unused, {"en": "Forename", "ja": "", "th": "x"}], rows, "q1") == []
-    first = pipeline.TERMS.read_text(encoding="utf-8")
-    assert list(json.loads(first)) == ["naglfar"], first
-    assert pipeline.record_terms([naglfar], rows, "q1") == []
-    assert pipeline.TERMS.read_text(encoding="utf-8") == first, "rerun changed terms.json"
-    rows[0]["text_haiku"] = "เราจะมุ่งหน้าไปนาเกลฟาร์"
-    conflicts = pipeline.record_terms([{**naglfar, "th": "นาเกลฟาร์"}], rows, "q2")
-    assert conflicts == [{"en": "Naglfar", "recorded": "นากล์ฟาร์", "this_run": "นาเกลฟาร์"}], conflicts
-    assert pipeline.TERMS.read_text(encoding="utf-8") == first, "conflict overwrote terms.json"
+terms = pipeline.Terms({"エーテル": "Aether", "エーテライト": "Aetheryte", "エーテライト・プラザ": "Aetheryte Plaza", "暁": "Scions"})
+assert terms.used_by({"text_ja": "エーテライト・プラザで「暁」と会う。"}) == {"エーテライト・プラザ": "Aetheryte Plaza", "暁": "Scions"}
+assert terms.used_by({"text_ja": "エーテルが満ちている。"}) == {"エーテル": "Aether"}
+assert terms.used_by({"text_ja": "今すぐ一緒にあの船へ向かおう。"}) == {}
+nahn = pipeline.Terms({"ナン": "Nahn", "ガイウス": "Gaius"})
+assert nahn.used_by({"text_ja": "ナンパばかりしている。"}) == {}, "a katakana name inside a katakana word"
+assert nahn.used_by({"text_ja": "カナンへ向かう。"}) == {}, "a katakana name at the end of a katakana word"
+assert nahn.used_by({"text_ja": "ナンが来た。ガイウス・ヴァン・バエサル"}) == {"ナン": "Nahn", "ガイウス": "Gaius"}
+assert pipeline.Terms({}).used_by({"text_ja": "エーテル"}) == {}
+block = pipeline.lines_block([{"speaker": "Aymeric", "shown_as": None, "file": "cut_scene/031/VoiceMan_03100", "text_ja": "「暁」の方々も", "text_en": "the Scions"},
+                              {"speaker": "Aymeric", "shown_as": None, "file": "quest/021/x", "text_ja": "ありがとう", "text_en": "Thanks"}], terms=terms)
+assert [json.loads(line).get("terms") for line in block.split(",\n")] == [{"暁": "Scions"}, None], block
 print("terms: ok")
 
 ROW_CASES = [
@@ -156,7 +161,7 @@ def fake_backend(system, user, effort, model):
     elif len(replies) == 1:
         reply = json.dumps({"lines": {i: "ทดสอบ" for i in ids[1:]}})
     else:
-        reply = "```json\n" + json.dumps({"lines": {i: "ข้าจะไปที่นากล์ฟาร์！" for i in ids}, "names": [naglfar]}) + "\n```"
+        reply = "```json\n" + json.dumps({"lines": {i: "ข้าจะไปที่นากล์ฟาร์！" for i in ids}}) + "\n```"
     if system != attribution.BOUNDARY_SYSTEM:
         replies.append(reply)
     usage = dict.fromkeys(["input_tokens", "output_tokens", "cache_write_tokens", "cache_read_tokens", "thinking_tokens"], 1)
@@ -174,6 +179,69 @@ def stops(action, message):
         assert message in str(stop), stop
         return
     raise AssertionError(f"did not stop with {message!r}")
+
+
+sheets = [("ENpcResident", {"ゼノス": "Zenos"}), ("PlaceName", {"ゼノス": "Zenos Place", "暁": "Dawn"})]
+merged, counts = build_terms.merge(sheets, {"暁の血盟": "Scions of the Seventh Dawn"})
+assert merged == {"ゼノス": "Zenos", "暁": "Dawn", "暁の血盟": "Scions of the Seventh Dawn"}, merged
+assert counts == [("ENpcResident", 1), ("PlaceName", 1), ("terms_manual.json", 1)], counts
+stops(lambda: build_terms.merge(sheets, {"暁": "Scions"}), 'terms_manual.json: 暁 is already in PlaceName as "Dawn"; remove it')
+stops(lambda: build_terms.merge(sheets, {"暁": "Dawn"}), "暁 is already in PlaceName")
+print("build terms: ok")
+
+wikitext = """| [[Seventh Umbral Era]] || questline page, not a quest
+==Seventh Umbral Era Quests==
+| [[Close to Home (Gridania)|Close to Home]] || 1 ||
+| [[The Company You Keep (Maelstrom)]] || 20 ||
+| [[Solution Nine (Quest)]] || 97 ||
+| [[A Test of Will]] || 50 ||
+"""
+game = {stem: {"stem": stem, "name": name, "msq": msq} for stem, name, msq in [
+    ("ManFst002", "Close to Home", True), ("ManFst003", "Close to Home", True), ("ManSea302", "The Company You Keep (Maelstrom)", True),
+    ("KinGza001", "Solution Nine", True), ("GaiUsa001", "Α Test of Wιll", True), ("SubSea001", "Seventh Umbral Era", False),
+]}
+report = check_msq_list.compare(check_msq_list.wiki_titles(wikitext), game)
+assert (report["wiki_rows"], report["matched"], report["kept_parentheses"]) == (4, 4, 1), report
+assert report["wiki_without_stem"] == [] and report["stems_without_wiki"] == [], report
+assert report["count_differences"] == [{"name": "Close to Home", "wiki": 1, "stems": ["ManFst002", "ManFst003"], "outside_msq": 0}], report
+game["ManSea103"] = {"stem": "ManSea103", "name": "Not on the Wiki", "msq": True}
+report = check_msq_list.compare(check_msq_list.wiki_titles(wikitext + "| [[Not in the Game]] || 1 ||\n"), game)
+assert (report["wiki_without_stem"], report["stems_without_wiki"]) == (["Not in the Game"], ["ManSea103"]), report
+print("msq list: ok")
+
+lines = [
+    *[("フォルタン家の者だ。", "I serve House Fortemps.")] * 4, *[("フォルタン伯爵に会う。", "Count Fortemps awaits.")] * 2,
+    *[("クリスタルブレイブが来た。", "The Crystal Braves are here.")] * 3, *[("クリスタルブレイブだ！", "The Braves!")] * 2,
+    *[("アシエンめ！", "Ascians!")] * 3, *[("アシエンの仕業だ。", "An Ascian did this.")] * 2,
+    *[("アタシが行く。", "I will go.")] * 4,
+    *[("ナナモ様が来た。", "Nanamo is here.")] * 2, ("ナナモ・ウル・ナモ陛下。", "Her Majesty."), ("ナナモパンプキンだ。", "A pumpkin."),
+    *[("クリスタルを見た。", "I saw the Crystal.")] * 3, *[("家に帰る。", "I am going home.")] * 20,
+]
+corpus = [{"file": f"quest/000/Test_{n:02d}", "text_ja": ja, "text_en": en} for n, (ja, en) in enumerate(lines)]
+names = ["フォルタン", "クリスタルブレイブ", "アシエン", "アタシ", "ナナモ"]
+found = {ja: {"source": "katakana", "npc_short": None} for ja in names}
+suggested, filtered = suggest_terms.suggest(corpus, found, {"ナナモ・ウル・ナモ": "Nanamo Ul Namo"})
+picked = {c["ja"]: c for c in suggested}
+assert picked["フォルタン"]["en"] == "Fortemps", "a title before a name is not part of it"
+assert picked["クリスタルブレイブ"]["en"] == "Crystal Braves", "widened to the full name"
+assert picked["アシエン"]["en"] == "Ascian" and picked["アシエン"]["share"] == 1.0, "singular, and its share counts Ascians"
+assert "アタシ" not in picked and filtered == {"in_terms": 0, "no_rows": 0, "no_phrase": 0, "outside": 1}, "I is in the other rows too"
+assert picked["ナナモ"]["rows"] == 2, "ナナモ is not counted inside ナナモ・ウル・ナモ or ナナモパンプキン"
+assert [e["file"] for e in picked["フォルタン"]["examples"]] == ["quest/000/Test_00", "quest/000/Test_01", "quest/000/Test_02"]
+
+
+class FakeSource:
+    def table(self, name):
+        names = {
+            "ja/ENpcResident": ["ナナモ・ウル・ナモ", "エドモン・ド・フォルタン", "ゼノス・イェー・ガルヴァス", "ゼノス・ヤエ"],
+            "en/ENpcResident": ["Nanamo Ul Namo", "Count Edmont de Fortemps", "Zenos yae Galvus", "Xenos Yae"],
+        }[name]
+        return [["#", "Singular"], *[[str(n), value] for n, value in enumerate(names)]]
+
+
+short = suggest_terms.npc_short_names(FakeSource(), [{"text_ja": "ナナモとエドモンとゼノスが来た。"}])
+assert short == {"ナナモ": "Nanamo"}, "one spelling, as many parts in ja and en"
+print("suggest terms: ok")
 
 
 with tempfile.TemporaryDirectory() as tmp:
