@@ -399,6 +399,7 @@ def ask(call, run, stage, system, user, parse, effort=None, model=None):
 
 # Katakana letters and the long-vowel mark; ・ (U+30FB) separates names and is not one.
 KATAKANA = "\u30A1-\u30FA\u30FC"
+KATAKANA_CHAR = re.compile(f"[{KATAKANA}]")
 
 
 class Terms:
@@ -408,19 +409,35 @@ class Terms:
 
     def __init__(self, english):
         self.english = english
-        self.pattern = re.compile("|".join(map(self.bounded, sorted(english, key=len, reverse=True))) or "(?!)")
+        lengths = {}
+        for name in english:
+            lengths.setdefault(name[0], set()).add(len(name))
+        # Name lengths by first character, longest first. A scan tries them at each position; one regex
+        # alternation of every name took 67 s over the 72,800 main-scenario rows that suggest_terms.py reads.
+        self.lengths = {first: sorted(found, reverse=True) for first, found in lengths.items()}
 
     @staticmethod
-    def bounded(name):
-        before = f"(?<![{KATAKANA}])" if re.match(f"[{KATAKANA}]", name) else ""
-        after = f"(?![{KATAKANA}])" if re.search(f"[{KATAKANA}]$", name) else ""
-        return before + re.escape(name) + after
+    def bounded(text, start, name):
+        """False when a katakana end of name continues a katakana word in text."""
+        before = start > 0 and KATAKANA_CHAR.match(name) and KATAKANA_CHAR.match(text, start - 1)
+        after = KATAKANA_CHAR.match(name, len(name) - 1) and KATAKANA_CHAR.match(text, start + len(name))
+        return not (before or after)
 
     def __len__(self):
         return len(self.english)
 
     def used_by(self, row):
-        return {match.group(): self.english[match.group()] for match in self.pattern.finditer(row["text_ja"])}
+        text, found, at = row["text_ja"], {}, 0
+        while at < len(text):
+            for length in self.lengths.get(text[at], ()):
+                name = text[at:at + length]
+                if name in self.english and self.bounded(text, at, name):
+                    found[name] = self.english[name]
+                    at += length
+                    break
+            else:
+                at += 1
+        return found
 
 
 def load_terms():

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Offline checks: lints catch seeded defects, a line gets only the longest terms.json names it uses,
-terms_manual.json cannot repeat a sheet name, the wiki's MSQ list matches Quest.csv by name, every source row
-and team key is accounted for (and a row that disappears stops the run), both selection modes pick the right
-files, the strip tool removes only colliding target rows, and the API backend parses a Messages response from a
-local stub (run with .venv/bin/python)."""
+terms_manual.json cannot repeat a sheet name, the wiki's MSQ list matches Quest.csv by name, suggest_terms.py
+picks the English name and counts rows like Terms, every source row and team key is accounted for (and a row
+that disappears stops the run), both selection modes pick the right files, the strip tool removes only colliding
+target rows, and the API backend parses a Messages response from a local stub (run with .venv/bin/python)."""
 import argparse
 import contextlib
 import copy
@@ -23,6 +23,7 @@ import check_msq_list
 import gamedata
 import pipeline
 import strip_team_overlap
+import suggest_terms
 from key_ja import EDGE_CASES, key_ja
 
 
@@ -74,6 +75,7 @@ assert terms.used_by({"text_ja": "エーテルが満ちている。"}) == {"エ�
 assert terms.used_by({"text_ja": "今すぐ一緒にあの船へ向かおう。"}) == {}
 nahn = pipeline.Terms({"ナン": "Nahn", "ガイウス": "Gaius"})
 assert nahn.used_by({"text_ja": "ナンパばかりしている。"}) == {}, "a katakana name inside a katakana word"
+assert nahn.used_by({"text_ja": "カナンへ向かう。"}) == {}, "a katakana name at the end of a katakana word"
 assert nahn.used_by({"text_ja": "ナンが来た。ガイウス・ヴァン・バエサル"}) == {"ナン": "Nahn", "ガイウス": "Gaius"}
 assert pipeline.Terms({}).used_by({"text_ja": "エーテル"}) == {}
 block = pipeline.lines_block([{"speaker": "Aymeric", "shown_as": None, "file": "cut_scene/031/VoiceMan_03100", "text_ja": "「暁」の方々も", "text_en": "the Scions"},
@@ -206,6 +208,40 @@ game["ManSea103"] = {"stem": "ManSea103", "name": "Not on the Wiki", "msq": True
 report = check_msq_list.compare(check_msq_list.wiki_titles(wikitext + "| [[Not in the Game]] || 1 ||\n"), game)
 assert (report["wiki_without_stem"], report["stems_without_wiki"]) == (["Not in the Game"], ["ManSea103"]), report
 print("msq list: ok")
+
+lines = [
+    *[("フォルタン家の者だ。", "I serve House Fortemps.")] * 4, *[("フォルタン伯爵に会う。", "Count Fortemps awaits.")] * 2,
+    *[("クリスタルブレイブが来た。", "The Crystal Braves are here.")] * 3, *[("クリスタルブレイブだ！", "The Braves!")] * 2,
+    *[("アシエンめ！", "Ascians!")] * 3, *[("アシエンの仕業だ。", "An Ascian did this.")] * 2,
+    *[("アタシが行く。", "I will go.")] * 4,
+    *[("ナナモ様が来た。", "Nanamo is here.")] * 2, ("ナナモ・ウル・ナモ陛下。", "Her Majesty."), ("ナナモパンプキンだ。", "A pumpkin."),
+    *[("クリスタルを見た。", "I saw the Crystal.")] * 3, *[("家に帰る。", "I am going home.")] * 20,
+]
+corpus = [{"file": f"quest/000/Test_{n:02d}", "text_ja": ja, "text_en": en} for n, (ja, en) in enumerate(lines)]
+names = ["フォルタン", "クリスタルブレイブ", "アシエン", "アタシ", "ナナモ"]
+found = {ja: {"source": "katakana", "npc_short": None} for ja in names}
+suggested, filtered = suggest_terms.suggest(corpus, found, {"ナナモ・ウル・ナモ": "Nanamo Ul Namo"})
+picked = {c["ja"]: c for c in suggested}
+assert picked["フォルタン"]["en"] == "Fortemps", "a title before a name is not part of it"
+assert picked["クリスタルブレイブ"]["en"] == "Crystal Braves", "widened to the full name"
+assert picked["アシエン"]["en"] == "Ascian" and picked["アシエン"]["share"] == 1.0, "singular, and its share counts Ascians"
+assert "アタシ" not in picked and filtered == {"in_terms": 0, "no_rows": 0, "no_phrase": 0, "outside": 1}, "I is in the other rows too"
+assert picked["ナナモ"]["rows"] == 2, "ナナモ is not counted inside ナナモ・ウル・ナモ or ナナモパンプキン"
+assert [e["file"] for e in picked["フォルタン"]["examples"]] == ["quest/000/Test_00", "quest/000/Test_01", "quest/000/Test_02"]
+
+
+class FakeSource:
+    def table(self, name):
+        names = {
+            "ja/ENpcResident": ["ナナモ・ウル・ナモ", "エドモン・ド・フォルタン", "ゼノス・イェー・ガルヴァス", "ゼノス・ヤエ"],
+            "en/ENpcResident": ["Nanamo Ul Namo", "Count Edmont de Fortemps", "Zenos yae Galvus", "Xenos Yae"],
+        }[name]
+        return [["#", "Singular"], *[[str(n), value] for n, value in enumerate(names)]]
+
+
+short = suggest_terms.npc_short_names(FakeSource(), [{"text_ja": "ナナモとエドモンとゼノスが来た。"}])
+assert short == {"ナナモ": "Nanamo"}, "one spelling, as many parts in ja and en"
+print("suggest terms: ok")
 
 
 with tempfile.TemporaryDirectory() as tmp:

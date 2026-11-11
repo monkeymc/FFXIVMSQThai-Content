@@ -123,8 +123,9 @@ tools/pipeline/.venv/bin/python tools/pipeline/strip_team_overlap.py
 - ค่าโหวต attribution ราว $0.02–0.03 ต่อไฟล์ cutscene จ่ายครั้งเดียวต่อไฟล์
 - `out/report.md` แสดงค่าใช้จ่ายจริงจาก `out/cost_log.jsonl`
 
-## การตรวจที่ไม่เสียเงิน
+## สคริปต์อื่นที่ไม่เรียก model
 
+- `suggest_terms.py` หาชื่อเฉพาะภาษาญี่ปุ่นที่ MSQ ใช้แต่ไม่มีใน `terms.json` พร้อมชื่อภาษาอังกฤษที่เสนอจากประโยคภาษาอังกฤษที่คู่กัน เขียนลง `out/terms_suggestions.json` ให้ผู้ใช้เลือกใส่ `terms_manual.json`
 - `check_msq_list.py` เทียบรายชื่อเควสต์ MSQ ในวิกิ (revision ที่ตรึงไว้) กับเควสต์ MSQ ใน `Quest.csv` และอ่านทุกไฟล์ที่ `gamedata.msq_paths` เลือก ออกด้วย exit code ไม่ใช่ 0 ถ้ามีเควสต์ที่ขาดหรือไฟล์ที่อ่านไม่ได้ ใส่ `--wikitext FILE` เพื่ออ่านสำเนาที่บันทึกไว้แทน
 
 ## การตรวจที่เสียเงิน
