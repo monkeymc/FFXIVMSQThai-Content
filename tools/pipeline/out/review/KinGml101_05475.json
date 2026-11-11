@@ -12,31 +12,6 @@
   "20261110T191925",
   "20261111T020448-48626d"
  ],
- "names_sent": [
-  "Abalathia",
-  "Alexandria",
-  "Calyx",
-  "Crystal",
-  "Crystal Exarch",
-  "Dawnservants",
-  "Estinien",
-  "Ethos",
-  "Halmarut",
-  "Solstice",
-  "Sphene",
-  "The First",
-  "Tuliyollal",
-  "Tural",
-  "Void",
-  "Winterer"
- ],
- "term_conflicts": [
-  {
-   "en": "Estinien",
-   "recorded": "เอสตินเนียน",
-   "this_run": "อิสตินเนียน"
-  }
- ],
  "cutscene_files": [
   "cut_scene/075/VoiceMan_07505"
  ],
@@ -55,6 +30,10 @@
    "text_haiku": "แต่ก่อนอื่น ขอรบกวนเรื่องหนึ่งหน่อยนะคะ เป็นเรื่องของคุณเอสตินเนียนน่ะค่า！",
    "flags": [
     {
+     "check": "name",
+     "detail": "エスティニアン is Estinien in terms.json"
+    },
+    {
      "check": "script",
      "detail": "untranslated: ！"
     }
@@ -65,7 +44,12 @@
    "key": "accordingtoacertainlordcommanderourmissingfriendwasbutrecentlysightedinishgard",
    "text_human": "ท่านผู้บัญชาการอัศวินท่านหนึ่งแจ้งมาว่า มีคนเห็นสหายผู้หายหน้าไปของเราที่อิชการ์ดเมื่อไม่นานมานี้",
    "text_haiku": "ได้ยินจากท่านแม่ทัพท่านหนึ่งที่แอบช่วยตามหาอยู่นะคะ ว่าเมื่อครู่มีคนเห็นเขาในเมืองอิชการ์ดค่ะ......",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "イシュガルド is Ishgard in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML101_05475_TATARU_100_003",
@@ -85,6 +69,10 @@
    "text_human": "ขอบคุณมากค่ะ! ถ้าไปดักรออยู่ที่ลานเอเธอไรต์ ฉันเชื่อว่าคงเจอตัวเขาในไม่ช้า",
    "text_haiku": "ขอบคุณค่า！ ถ้าคอยเฝ้าอยู่ที่ลานอีเธอร์ไลต์ ฉันคิดว่าจะเจอเขาได้ไม่นานหรอกค่ะ ฝากด้วยนะคะ！",
    "flags": [
+    {
+     "check": "name",
+     "detail": "エーテライト is Aetheryte in terms.json"
+    },
     {
      "check": "script",
      "detail": "untranslated: ！ ！"
@@ -110,21 +98,44 @@
    "key": "sotherealspheneawakenedafterwhichthiscalyxrearedhisheadyouvebeenbusy",
    "text_human": "สฟีนตัวจริงตื่นขึ้น แล้วเจ้าคาลิกซ์นั่นก็โผล่หน้ามาอีก... ยุ่งไม่เว้นว่างเลยสินะ เจ้าน่ะ",
    "text_haiku": "การปลุกสฟีนตัวจริงให้ตื่น แล้วคาลิกซ์ที่โผล่มาหลังจากนั้น... เจ้าก็ยุ่งอยู่ไม่น้อยเลยสินะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "スフェーン is Sphene in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "カリュクス is Calyx in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML101_05475_ESTINIEN_000_103",
    "key": "ashavethenewdawnservantstheycontinuetodotheiroldmanprouditseems",
    "text_human": "ดอว์นเซอร์แวนต์คนใหม่ก็เช่นกัน ดูท่าทั้งคู่ยังทำให้ผู้เฒ่าภูมิใจได้ไม่ขาดสาย",
    "text_haiku": "ส่วนบรรดาผู้รับใช้แห่งรุ่งอรุณรุ่นใหม่ที่สืบทอดต่อจากกูรูจาจา ก็ดูจะพยายามกันไม่น้อยทีเดียวนะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "グルージャジャ is Gulool Ja Ja in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML101_05475_ESTINIEN_000_104",
    "key": "givenallthathadcometopassitwouldonlybenaturalfortuliyollalandalexandriatoremainatodds",
    "text_human": "เมื่อดูจากเรื่องราวทั้งหมดที่ผ่านมา ต่อให้ทูลียอลลัลกับอเล็กซานเดรียยังบาดหมางกันอยู่ก็ไม่ใช่เรื่องแปลก",
    "text_haiku": "เรื่องที่เกิดขึ้นระหว่างตูลิโยลัลกับอเล็กซานเดรีย คิดดูแล้ว การที่สองฝ่ายจะไม่ถูกกัน ระแวงและเกลียดชังกันนั้น ก็ไม่แปลกเลย",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "トライヨラ is Tuliyollal in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "アレクサンドリア is Alexandria in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML101_05475_ESTINIEN_000_105",
@@ -159,7 +170,12 @@
    "key": "formeandmyfamilyforaymericandthearchbishopandforysayletoo",
    "text_human": "ทั้งของข้าและครอบครัวข้า ของเอเมอริกกับธอร์แดนที่ 7... และของอีเซล หญิงน้ำแข็งคนนั้นด้วย...",
    "text_haiku": "ทั้งข้า ทั้งครอบครัวข้า... เอเมอริก ท่านอาร์ชบิชอปธอร์ดานที่ 7... แม้แต่อิซาเยลด้วย......",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アイメリク is Aymeric in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML101_05475_ESTINIEN_000_110",
@@ -173,7 +189,16 @@
    "key": "ivejustbeentovisithraesvelgrtosharenewsofazdajamayhapaboutofnostalgiacameoverme",
    "text_human": "ข้าเพิ่งไปหาฮราสเวลเกอร์มา ไปบอกข่าวเรื่องอัซดาจาให้เขาฟัง สงสัยความหลังมันเลยหวนกลับมาเยือน",
    "text_haiku": "เพิ่งไปเยี่ยมเฟรสเวลก์เมื่อวานนี้เอง เพื่อรายงานเรื่องอาซดาจา บางทีความคิดถึงก็พาให้นึกถึงใบหน้าคุ้นเคยขึ้นมา",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アジュダヤ is Azdaja in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "フレースヴェルグ is Hraesvelgr in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML101_05475_ESTINIEN_000_112",
@@ -194,6 +219,10 @@
    "text_haiku": "ลิงก์เพิร์ลของอรุโณทัย？ น่าจะอยู่ในกระเป๋าข้าสักที่ล่ะมั้ง ตั้งแต่เก็บเข้าไปข้าก็ไม่ได้แตะมันเลย",
    "flags": [
     {
+     "check": "name",
+     "detail": "暁 is Scions in terms.json"
+    },
+    {
      "check": "script",
      "detail": "untranslated: ？"
     }
@@ -204,7 +233,12 @@
    "key": "atanyrateillmakefortherisingstonesyoucantellmeallaboutournewdilemmathere",
    "text_human": "เอาเถอะ ข้าจะไปที่เดอะ ไรซิง สโตนส์ แล้วค่อยเล่าเรื่องปัญหาใหม่ให้ข้าฟังที่นั่นก็แล้วกัน",
    "text_haiku": "เอาเป็นว่า ข้าจะมุ่งหน้าไปศิลาผงาด เรื่องปัญหาใหม่ไว้ไปฟังรายละเอียดที่นั่นแล้วกัน",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "石の家 is Rising Stones in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML101_05475_ESTINIEN_000_115",
@@ -212,6 +246,10 @@
    "text_human": "ทาทารุท่าทางหงุดหงิดไม่น้อย นางไม่พอใจอะไรกันนะ",
    "text_haiku": "ออกมารับก็ดี แต่ตาตารุท่าทางหงุดหงิดแปลกๆ นางโกรธเรื่องอะไรกันแน่？",
    "flags": [
+    {
+     "check": "name",
+     "detail": "タタル is Tataru in terms.json"
+    },
     {
      "check": "script",
      "detail": "untranslated: ？"
@@ -224,6 +262,10 @@
    "text_human": "อยู่นี่เอง! ขอบคุณมากเลยนะคะที่ช่วยตามหาเอสทิเนียนให้!",
    "text_haiku": "กลับมาแล้วนะคะ！ ขอบคุณมากเลยค่ะที่พาคุณเอสตินเนียนกลับมาได้ ขอบคุณจริงๆ ค่าาา！！",
    "flags": [
+    {
+     "check": "name",
+     "detail": "エスティニアン is Estinien in terms.json"
+    },
     {
      "check": "script",
      "detail": "untranslated: ！ ！！"
@@ -256,6 +298,10 @@
    "text_haiku": "งั้นละค่ะ เมื่อฉันเล่าเหตุการณ์ให้คุณเอสตินเนียนฟังเสร็จ จะกลับมาคุยเรื่อง「ปลายแห่งวันพรุ่งนี้」กันต่อค่ะ",
    "flags": [
     {
+     "check": "name",
+     "detail": "エスティニアン is Estinien in terms.json"
+    },
+    {
      "check": "script",
      "detail": "untranslated: 「 」"
     }
@@ -267,6 +313,10 @@
    "text_human": "ระหว่างนี้เชิญรอที่ห้องโถงดอว์นสเรสพิทก่อนนะคะ!",
    "text_haiku": "รอที่ห้องรอรุ่งสางได้เลยนะคะ！",
    "flags": [
+    {
+     "check": "name",
+     "detail": "未明の間 is Dawn's Respite in terms.json"
+    },
     {
      "check": "script",
      "detail": "untranslated: ！"
@@ -285,7 +335,16 @@
    "key": "hmmiseenosignsofcalyxorhalmarut",
    "text_human": "อืม... ไม่เห็นวี่แววของคาลิกซ์หรือฮาลมารุตเลย",
    "text_haiku": "อืม... ดูเหมือนยังไม่เห็นวี่แววของคาลิกซ์หรือฮัลมารุตในบริเวณที่มองเห็นได้เลยนะครับ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "カリュクス is Calyx in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "ハルマルト is Halmarut in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML101_05475_ALPHINAUD_000_301",
@@ -309,7 +368,7 @@
    "flags": [
     {
      "check": "name",
-     "detail": "Estinien is เอสตินเนียน in terms.json"
+     "detail": "エスティニアン is Estinien in terms.json"
     }
    ]
   },
@@ -321,7 +380,7 @@
    "flags": [
     {
      "check": "name",
-     "detail": "Rejoining is การรวมโลกเข้าด้วยกัน in terms.json"
+     "detail": "ハルマルト is Halmarut in terms.json"
     }
    ]
   },
@@ -344,7 +403,16 @@
    "key": "topreventthisthewinterersintendtoinitiaterejoinings",
    "text_human": "เพื่อยับยั้งสิ่งนี้ เหล่าวินเทอเรอร์จึงตั้งใจจุดชนวนการหลอมรวมมิติขึ้นเสียเอง...",
    "text_haiku": "เพื่อป้องกันไม่ให้เกิดเรื่องแบบนั้น พวกวินเทอเรอร์ตั้งใจจะเริ่มการรวมโลกด้วยมือของพวกเอง นั่นแหละคือเป้าหมายของคาลิกซ์กับฮัลมารุตและพวกวินเทอเรอร์...",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "カリュクス is Calyx in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "ハルマルト is Halmarut in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000060_ALPHINAUD",
@@ -386,7 +454,12 @@
    "key": "itoccurredtomethatrightnowperhapswedonotfeelsodifferentlytohowthealexandriansoncedid",
    "text_human": "แล้วก็นึกขึ้นได้ว่า ตอนนี้ความรู้สึกของพวกเราอาจไม่ต่างจากชาวอเล็กซานเดรียในวันนั้นเลยสักนิด",
    "text_haiku": "แล้วจู่ๆ ฉันก็คิดขึ้นมาว่า ตอนนี้พวกเราอาจจะไม่ได้รู้สึกต่างจากชาวอเล็กซานเดรียเมื่อไม่นานมานี้เท่าไรเลยก็ได้",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アレクサンドリア is Alexandria in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000095_KRILE",
@@ -414,14 +487,24 @@
    "key": "thoughittooktimethepeopleofalexandrialearnedtoovercometheirfear",
    "text_human": "ถึงจะใช้เวลานาน แต่ชาวอเล็กซานเดรียก็เรียนรู้ที่จะก้าวข้ามความกลัวจนได้ค่ะ",
    "text_haiku": "ถึงจะใช้เวลาอยู่นาน แต่ชาวอเล็กซานเดรียก็เรียนรู้ที่จะก้าวข้ามความกลัวได้ในที่สุด",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アレクサンドリア is Alexandria in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000102_KRILE",
    "key": "throughtheirmemoriesandtheirqueentheylearnedthatthoughdeathcomesforusallinmanywaysweliveon",
    "text_human": "ผ่านความทรงจำของพวกเขาและองค์ราชินี พวกเขาได้เรียนรู้ว่าถึงความตายจะมาเยือนทุกคน แต่เราก็ยังมีชีวิตอยู่ต่อไปในอีกหลายรูปแบบ",
    "text_haiku": "พวกเขาได้รู้จากความทรงจำและจากคำพูดของราชินีสฟีนว่า แม้ความตายจะมาเยือนทุกคนในที่สุด แต่เราก็ยังดำรงอยู่ต่อไปได้ด้วยหลายวิธี",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "スフェーン is Sphene in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000104_KRILE",
@@ -452,7 +535,7 @@
    "flags": [
     {
      "check": "name",
-     "detail": "Dawnservants is ผู้รับใช้แห่งรุ่งอรุณ in terms.json"
+     "detail": "トライヨラ is Tuliyollal in terms.json"
     }
    ]
   },
@@ -496,7 +579,12 @@
    "key": "halmarutandiwillsooncrosstherifttoobservetheenactmentofanotherwinterersplan",
    "text_human": "อีกไม่นาน ฮาลมารุตกับข้าจะข้ามรอยแยกไปเฝ้าดูการลงมือตามแผนของวินเทอเรอร์อีกผู้หนึ่ง",
    "text_haiku": "ฉันกับฮัลมารุตจะข้ามรอยแยกไปดูแผนการของวินเทอเรอร์อีกคนที่กำลังจะลงมือ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "ハルマルト is Halmarut in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000164_CALYX",
@@ -519,10 +607,6 @@
    "text_haiku": "ก็อาจเป็นกับดักได้ แต่ถ้าโลกที่สี่ถูกเลือกมาจากบรรดาโลกเงาสะท้อนที่ยังมีอยู่ ก็คงไม่เสียหายที่จะไปดูสักหน่อย",
    "flags": [
     {
-     "check": "name",
-     "detail": "Winterer is วินเทอเรอร์ in terms.json"
-    },
-    {
      "check": "review",
      "detail": "ja \"ウィンタラーが現存する鏡像世界から選ばれているなら\" has the Winterers as the one chosen, but th makes the Fourth World the chosen one (\"ถ้าโลกที่สี่ถูกเลือก\"), swapping the subject."
     }
@@ -540,7 +624,16 @@
    "key": "twasonlybyvirtueofthecrystalexarchsmagicksthatwedidarriveinthefirst",
    "text_human": "ครั้งกระโน้น พวกเราไปถึงโลกที่หนึ่งได้ก็ด้วยเวทมนตร์ของคริสตัลเอ็กซาร์ชแต่เพียงอย่างเดียว",
    "text_haiku": "ตอนที่เราไปถึงโลกแรกได้ ก็เพราะคริสตัลเอ็กซาร์กเรียกเราจากอีกฝั่งเท่านั้น",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第一世界 is First in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "水晶公 is Crystal Exarch in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000174_URIANGER",
@@ -568,7 +661,12 @@
    "key": "twasemetselchwhocreatedazemscrystal",
    "text_human": "ผู้ที่สร้างคริสตัลอาเซมขึ้นมาคือเอเมท-เซลช์",
    "text_haiku": "……คริสทัลของอาเซมน่ะ เป็นของที่เอเมตเซลค์สร้างขึ้นนี่นา",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "エメトセルク is Emet-Selch in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000182_GRAHATIA",
@@ -589,7 +687,12 @@
    "key": "intheinstantbeforeyouvanishedbothcrystalandkeyshonebrightlyasifresonatingwitheachother",
    "text_human": "ในเสี้ยววินาทีก่อนคุณจะหายไป ทั้งคริสตัลและกุญแจต่างเปล่งประกายเจิดจ้า ราวกับกำลังสั่นพ้องต่อกัน",
    "text_haiku": "ตอนที่เจ้าหายไปสู่เซโรน่ะ ทั้งคริสทัลและกุญแจต่างเปล่งแสงสว่างจ้า ราวกับกำลังสั่นพ้องกัน",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "ゼロ is Zero in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000188_GRAHATIA",
@@ -638,7 +741,16 @@
    "key": "youneednttrytopicturethefourthonlyhalmarutandcalyx",
    "text_human": "ไม่ต้องพยายามนึกภาพเดอะโฟร์ทหรอก—นึกถึงแค่ฮาลมารุตกับคาลิกซ์ก็พอ",
    "text_haiku": "ถึงจะนึกถึงโลกที่สี่ตรงๆ ไม่ได้ก็เถอะ แค่นึกถึงคาลิกซ์หรือฮัลมารุตก็พอ!",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "カリュクス is Calyx in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "ハルマルト is Halmarut in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000270_VISNA",
@@ -694,7 +806,12 @@
    "key": "thenextthingiknewiwasherewithyouandalphinaud",
    "text_human": "พอรู้ตัวอีกที ข้าก็มาอยู่ที่นี่แล้ว พร้อมกับเจ้าและอัลฟิโนด์",
    "text_haiku": "พริบตาต่อมา ข้ากับอัลฟิโนก็ถูกโยนมาอยู่ที่นี่พร้อมเจ้าแล้ว",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アルフィノ is Alphinaud in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000340_ALPHINAUD",
@@ -715,14 +832,24 @@
    "key": "iseeyetthatdoesntexplainwhyonlyestinienandiarehere",
    "text_human": "อ้อ... กระนั้นก็ยังอธิบายไม่ได้อยู่ดีว่าทำไมถึงมีแค่เอสทิเนียนกับผมที่มาที่นี่",
    "text_haiku": "เข้าใจแล้ว... ระหว่างการเคลื่อนย้ายคุณเห็นทุ่งหิมะรางๆ แต่ถ้าอย่างนั้น ทำไมถึงมีแค่ผมกับเอสตินเนียนที่ถูกพามาด้วยล่ะ?",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "エスティニアン is Estinien in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000372_ESTINIEN",
    "key": "perhapsthoughtsofafrozenworldcalledtomindourjourneythroughcoerthas",
    "text_human": "บางทีความคิดถึงโลกน้ำแข็งอาจทำให้คุณนึกถึงการเดินทางผ่านเคอร์ธัสของเรา",
    "text_haiku": "……บางทีในส่วนลึกของความคิดเจ้า มันอาจถูกชักนำให้นึกถึงการเดินทางข้ามทุ่งหิมะคอร์เธสขึ้นมาก็ได้",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "クルザス is Coerthas in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000380_ALPHINAUD",
@@ -730,6 +857,10 @@
    "text_human": "หญิงสาวที่หน้าตาเหมือนอีเซลรึ...",
    "text_haiku": "ระหว่างการเคลื่อนย้าย... มีคนที่หน้าตาเหมือนอิเซลด้วยหรือ...",
    "flags": [
+    {
+     "check": "name",
+     "detail": "イゼル is Ysayle in terms.json"
+    },
     {
      "check": "length",
      "detail": "th/en 1.82, th/ja 3.16"
@@ -741,7 +872,12 @@
    "key": "whoeverthatmayhavebeenitwouldexplainwhyalphinaudandiweredraggedalong",
    "text_human": "ไม่ว่านางจะเป็นใคร นั่นก็อธิบายได้ว่าทำไมอัลฟิโนด์กับข้าถึงพลอยติดร่างแหมาด้วย",
    "text_haiku": "ไม่รู้ว่าเป็นใคร แต่ถ้าอย่างนั้นก็อธิบายได้ว่าทำไมข้ากับอัลฟิโนถึงถูกลากมาด้วย",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アルフィノ is Alphinaud in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000390_ALPHINAUD",
@@ -755,7 +891,16 @@
    "key": "somethingmadeourfriendthinkofusisuspectperhapsthoughtsofafrozenworldcalledtomindourjourneythroughcoerthas",
    "text_human": "ข้าว่าต้องมีบางอย่างทำให้สหายของเรานึกถึงพวกเรา บางทีความคิดถึงโลกน้ำแข็งอาจทำให้นางนึกถึงการเดินทางผ่านเคอร์ธัสของเรา",
    "text_haiku": "คงเพราะบางอย่างทำให้เจ้านึกถึงพวกเรานั่นแหละ อากาศที่นี่ก็คล้ายคอร์เธสกับอาบาลาเธียอยู่บ้าง",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "クルザス is Coerthas in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "アバラシア is Abalathia's Spine in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000400_ESTINIEN",
@@ -783,7 +928,12 @@
    "key": "calyxsaidthefourthisaworldlockedinice",
    "text_human": "คาลิกซ์บอกว่าเดอะโฟร์ทคือโลกที่น้ำแข็งกักขังเอาไว้",
    "text_haiku": "เกาะนี่เอง คาลิกซ์เคยบอกว่าโลกที่สี่เป็นโลกที่สถานที่ทั้งหมดแข็งเป็นน้ำแข็งไปจนสุดขอบ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "カリュクス is Calyx in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000417_ALPHINAUD",

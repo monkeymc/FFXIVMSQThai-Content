@@ -11,32 +11,6 @@
  "run_ids": [
   "20261111T123252-d0889d"
  ],
- "names_sent": [
-  "Alphinaud",
-  "Ascian",
-  "Calyx",
-  "Crystal",
-  "Dawn's Respite",
-  "Estinien",
-  "Fourth World",
-  "Glaðr",
-  "Halmarut",
-  "Haurchefant",
-  "Krile",
-  "Lahabrea",
-  "Naglfar",
-  "Orshufan",
-  "Rising Stones",
-  "Ser",
-  "Solstice",
-  "Tataru",
-  "Visna",
-  "Void",
-  "Voidsent",
-  "Warrior of Light",
-  "Winterer"
- ],
- "term_conflicts": [],
  "cutscene_files": [
   "cut_scene/075/VoiceMan_07505"
  ],
@@ -81,14 +55,32 @@
    "key": "wouldyoureturntotherisingstonesandinformeveryonethatestinienandiarehaleandofcourseshareallthatwehavelearnedfromvisna",
    "text_human": "ช่วยกลับไปที่เดอะ ไรซิง สโตนส์ แล้วบอกทุกคนว่าผมกับเอสทิเนียนสบายดีได้ไหมครับ แล้วก็เล่าทุกอย่างที่เราได้รู้จากวิสนาให้ฟังด้วย",
    "text_haiku": "ช่วยกลับไปที่ศิลาผงาด แล้วแจ้งให้ทุกคนทราบว่าผมกับเอสตินเนียนยังปลอดภัยดี รวมถึงเรื่องที่ได้ฟังจากวิสนาด้วย จะได้ไหมครับ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "エスティニアン is Estinien in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "ヴィスナ is Visna in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "石の家 is Rising Stones in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_025",
    "key": "asoundplantwouldnotdotoleavetataruanxiousafterall",
    "text_human": "เป็นแผนที่เข้าท่า ปล่อยให้ทาทารุกระวนกระวายใจไว้คงไม่ดีแน่",
    "text_haiku": "......สมเหตุสมผลดี เมื่อกี้เพิ่งถูกตาตารุกำชับมาเลย ว่าถึงจะเชื่อว่าปลอดภัย ความกังวลก็ยังค่อยๆ สะสมอยู่ดี",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "タタル is Tataru in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_027",
@@ -144,7 +136,12 @@
    "key": "soyouretheonlywhocanreturnhomeunconventionalteleportationmagickindeed",
    "text_human": "งั้นเธอเป็นคนเดียวที่กลับบ้านได้สินะ เวทย์เคลื่อนย้ายที่ไม่เหมือนใครจริงๆ...",
    "text_haiku": "อ้อ จริงสิ เธอนี่แหละที่กลับบ้านได้คนเดียวนี่นา? อัลฟิโนบอกว่ามันเป็นผลจากการใช้เวทย้ายที่ที่ไม่มีใครรู้จัก แต่ก็นะ เธอนี่ใช้เวทประหลาดไปซะแล้วจริงๆ เลยนะเนี่ย",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アルフィノ is Alphinaud in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_SALVAGECREWC_000_050",
@@ -170,7 +167,16 @@
    "key": "alphinaudandestinienaresafeihope",
    "text_human": "อัลฟิโนด์กับเอสทิเนียนปลอดภัยดีใช่ไหมคะ",
    "text_haiku": "เอ่อ เอ่อ คุณอัลฟิโนกับคุณเอสตินเนียนคะ......! ปลอดภัยดีใช่ไหมคะ......!?",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アルフィノ is Alphinaud in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "エスティニアン is Estinien in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_102",
@@ -205,7 +211,12 @@
    "key": "whenlordhaurchefantwelcomedusatthefallingsnowshedservedushotbeveragestoo",
    "text_human": "ตอนที่ท่านลอร์ดฮอร์ชฟองต์ต้อนรับพวกเราที่ “ฟอลลิงสโนวส์” ท่านก็ยกเครื่องดื่มร้อนๆ มาเสิร์ฟให้เหมือนกัน",
    "text_haiku": "......ตอนที่พวกเราหลบซ่อนอยู่ที่หิมะร่วงก่อนหน้านี้ เซอร์ออร์ชูฟันก็เคยเอาเครื่องดื่มร้อนๆ มาให้พวกเราด้วยนะคะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "オルシュファン is Haurchefant in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_100_201",
@@ -226,7 +237,12 @@
    "key": "illalsomakesuredawnsrespiteisalwaysaccessiblesoyoucanmakethejourneyatanytime",
    "text_human": "แล้วฉันจะดูแลให้ห้องโถงดอว์นสเรสพิทเปิดให้เข้าได้ตลอด คุณจะได้ออกเดินทางเมื่อไรก็ได้",
    "text_haiku": "อีกอย่างนะคะ ทางที่เชื่อมไปยังที่นั่นอยู่ที่ห้องรอรุ่งสาง ฉันจะเปิดห้องไว้ให้ต่อไปค่ะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "未明の間 is Dawn's Respite in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_204",
@@ -254,7 +270,16 @@
    "key": "wedidntexpectalphinaudandestinientobetakenwithyouhowever",
    "text_human": "แต่ไม่คิดเลยว่ามันจะพาอัลฟิโนด์กับเอสทิเนียนไปด้วย",
    "text_haiku": "อัลฟิโนกับเอสตินเนียนก็หายไปด้วยเลยนี่ ฉันก็ตกใจอยู่เหมือนกันนะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アルフィノ is Alphinaud in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "エスティニアン is Estinien in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001720_ALISAIE",
@@ -275,7 +300,16 @@
    "key": "wehaventevendeterminedhowalphinaudandestiniencanreturnthisisnotapowertobeinvokedlightly",
    "text_human": "เรายังหาทางไม่ได้เลยว่าอัลฟิโนด์กับเอสทิเนียนจะกลับมาได้อย่างไร พลังแบบนี้ไม่ใช่สิ่งที่จะปลุกใช้กันเล่นๆ",
    "text_haiku": "ไม่รู้เลยว่าอัลฟิโนกับคุณเอสตินเนียนจะกลับมาได้ยังไง...... ฝืนลองตอนนี้มันอันตรายนะคะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アルフィノ is Alphinaud in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "エスティニアン is Estinien in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001750_YSHTOLA",
@@ -296,7 +330,12 @@
    "key": "soletusbepatientalisaieandthinkofotherwaystohelp",
    "text_human": "เพราะฉะนั้นอดใจไว้ก่อนเถอะ อลิเซ แล้วมาคิดหาทางอื่นที่ช่วยได้ดีกว่า",
    "text_haiku": "ใจเย็นๆ นะ อาลิเซ ตรงนี้... อดทนไว้!",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アリゼー is Alisaie in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001780_ALISAIE",
@@ -310,7 +349,12 @@
    "key": "alphinaudandestiniencanlookafterthemselvesiknowbutkeepaneyeonthemwillyou",
    "text_human": "ฉันรู้ว่าอัลฟิโนด์กับเอสทิเนียนดูแลตัวเองได้ แต่ช่วยสอดส่องให้หน่อยนะ",
    "text_haiku": "ฉันจะทำสิ่งที่ทำได้ทางนี้ไว้ก่อนละกัน ส่วนอัลฟิโนกับพวกนั้นน่ะ ไม่ได้เป็นห่วงหรอก แต่ฝากดูแลด้วยนะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "アルフィノ is Alphinaud in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001800_KRILE",
@@ -324,14 +368,24 @@
    "key": "iintendtovisittheninthtoseeiftherehavebeenanydevelopmentsfollowingrecenteventswhilethereialsohopetotreatthoseintrenoandelsewherewhosufferfromlevinsickness",
    "text_human": "ฉันตั้งใจจะไปเยือนโลกเงาสะท้อนที่เก้า เพื่อดูว่ามีความคืบหน้าอะไรหลังเหตุการณ์ที่ผ่านมาบ้าง แล้วก็หวังจะได้รักษาผู้คนในเทรโนและที่อื่นๆ ที่ป่วยด้วยโรคไข้สายฟ้าไปด้วย",
    "text_haiku": "ฉันอยากลองสืบเรื่องครั้งนี้จากทางโลกที่เก้าดูน่ะ... ที่เทรโนและที่อื่นทางนั้น ยังมีคนที่ทรมานจากอาการเป็นอัมพาตจากธาตุสายฟ้าอยู่เลย",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "トレノ is Treno in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001820_ALISAIE",
    "key": "idbegladtocomealongillteachyoueverythingyouneedtoknowaboutporxies",
    "text_human": "ฉันยินดีไปด้วยเลย! เดี๋ยวจะสอนทุกอย่างที่ควรรู้เรื่องพอร์กซีให้",
    "text_haiku": "รับทราบ! เดี๋ยวฉันสอนวิธีจัดการพอร์กซีให้คริลด้วยนะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "クルル is Krile in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001830_YSHTOLA",
@@ -471,7 +525,12 @@
    "key": "besideswhilethewarriorandhercomradesdonotacttoforestallthesolsticeyouwouldnotknowinglyaidthemunlessyouhadacompellingreason",
    "text_human": "อีกอย่าง แม้นักรบผู้นั้นกับสหายจะไม่ได้ลงมือยับยั้งโซลสทิซ ท่านก็คงไม่ช่วยเหลือพวกเขาทั้งที่รู้ตัว—เว้นเสียแต่ว่าท่านมีเหตุผลอันหนักแน่น",
    "text_haiku": "อีกอย่าง ในเมื่อพวกท่านนักรบแห่งแสงยังไม่จัดการกับ “ปลายแห่งวันพรุ่งนี้” คุณคาลิกซ์ก็คงไม่ช่วยอะไรโดยไร้เหตุผลหรอกค่ะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "カリュクス is Calyx in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001614_HALMARUT",
@@ -492,7 +551,12 @@
    "key": "iwonderifyouwouldsaythesamewereitnotthefourthforyouareboundtothisworldareyounothalmarut",
    "text_human": "ข้าสงสัยว่าท่านจะพูดเช่นเดียวกันนี้หรือไม่ หากที่นี่ไม่ใช่เดอะโฟร์ท เพราะท่านผูกพันกับโลกใบนี้ มิใช่หรือ ฮาลมารุต",
    "text_haiku": "ถ้าเป็นโลกภาพสะท้อนอื่นก็ว่าไปอย่าง แต่นี่คือโลกที่สี่ นายมีพันธนาการผูกมัดอยู่หลายอย่างนะ ฮัลมารุต",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "ハルマルト is Halmarut in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001624_CALYX",
@@ -506,7 +570,16 @@
    "key": "thoughmymotivesmaydifferfromthatoflahabreaandtheotherunsunderedmyobjectiveremainsthesametherejoininghalmarutwillsuffice",
    "text_human": "แม้แรงจูงใจของข้าจะต่างจากลาฮาเบรอาและเหล่าผู้มิได้ถูกแบ่งแยกคนอื่น แต่เป้าหมายของข้ายังคงเดิม—การหลอมรวมโลก เรียกฮาลมารุตก็พอแล้ว",
    "text_haiku": "แม้เจตนาของฉันจะต่างจากท่านลาฮาเบรียและคนอื่นๆ ไปบ้างก็ตาม แต่ในเมื่อฉันวางแผนการรวมโลกเข้าด้วยกันอยู่ ฉันก็คืออาเชียน ฮัลมารุตค่ะ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "ラハブレア is Lahabrea in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "ハルマルト is Halmarut in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001632_HALMARUT",
