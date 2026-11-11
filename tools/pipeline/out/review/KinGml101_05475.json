@@ -123,12 +123,7 @@
    "key": "formeandmyfamilyforaymericandthearchbishopandforysayletoo",
    "text_human": "ทั้งของข้าและครอบครัวข้า ของเอเมอริกกับธอร์แดนที่ 7... และของอีเซล หญิงน้ำแข็งคนนั้นด้วย...",
    "text_haiku": "ทั้งข้า ทั้งครอบครัวของข้า... Aymeric กับ Thordan VII... แม้แต่ Ysayle ผู้นั้นด้วย...",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Thordan VII"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_KINGML101_05475_ESTINIEN_000_110",
@@ -247,12 +242,7 @@
    "key": "accordingtohalmarutitisthefatethatawaitsshouldthereflectionsbeallowedtomergeoftheirownaccordanactofhealingdictatedbythelawsofnature",
    "text_human": "ตามที่ฮาลมารุตบอก มันคือชะตากรรมที่รออยู่หากปล่อยให้เหล่าโลกเงาสะท้อนหลอมรวมกันเองตามครรลอง—การเยียวยาที่กฎแห่งธรรมชาติกำหนดไว้",
    "text_haiku": "ตามคำของ Halmarut ผู้เป็น Ascian นั่นคือการรวมโลกเข้าด้วยกันตามกฎแห่งดาว คล้ายการรักษาตัวเองตามธรรมชาติครับ",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Ascian"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000030_ALPHINAUD",
@@ -387,8 +377,12 @@
    "text_haiku": "เมื่อพวกเขาค้นหาความจริงด้วยจิตใจที่ใฝ่รู้ว่าเหตุใดและด้วยวิธีใดจึงกลายเป็นเช่นนี้ มุมมองของพวกเขาก็กว้างขึ้น และ Vow ผู้คู่ควรทั้งสองคนจึงได้ถือกำเนิดขึ้น",
    "flags": [
     {
-     "check": "script",
-     "detail": "untranslated: Vow"
+     "check": "name",
+     "detail": "武王 is Vow of Resolve in terms.json"
+    },
+    {
+     "check": "name",
+     "detail": "理王 is Queen of Reason in terms.json"
     }
    ]
   },
@@ -446,7 +440,12 @@
    "key": "whileiwouldntbesurprisedifitwasatrapifthefourthwasspecificallychosenfromamongallworldsitmayneverthelessbeworthpayingitavisit",
    "text_human": "ต่อให้เป็นกับดักผมก็ไม่แปลกใจหรอก แต่ถ้าเขาเจาะจงเลือกเดอะโฟร์ทขึ้นมาจากบรรดาโลกทั้งหมด มันก็อาจคุ้มค่าที่จะไปเยือนสักครั้ง",
    "text_haiku": "ถึงจะไม่แปลกใจถ้านี่จะเป็นกับดัก แต่ถ้า Fourth ถูกเลือกมาจากบรรดาโลกที่ยังหลงเหลือ การลองไปดูสักครั้งก็คงไม่เสียหาย",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "ウィンタラー is Winterer in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000171_URIANGER",
@@ -738,12 +737,7 @@
    "key": "fromwhaticanseeidaresaywehavearrived",
    "text_human": "เท่าที่เห็น กล้าพูดได้เลยว่าเรามาถึงแล้ว",
    "text_haiku": "จากสภาพแวดล้อมตรงนี้ ผมคิดว่าพวกเราคงมาถึง Fourth แล้วนะครับ...",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Fourth"
-    }
-   ]
+   "flags": []
   }
  ]
 }

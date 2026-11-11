@@ -76,9 +76,9 @@ Lines with at least one flag per check. `human` runs the same deterministic lint
 
 | quest | lines | any flag | empty | forename | name | pronoun | script | length | review | human: any lint |
 |---|---|---|---|---|---|---|---|---|---|---|
-| HeaVnb108_02163 | 164 | 35 | 0 | 3 | 2 | 0 | 18 | 10 | 5 | 4 |
-| KinGml101_05475 | 96 | 10 | 0 | 0 | 0 | 0 | 8 | 2 | 2 | 0 |
-| KinGml104_05478 | 69 | 5 | 0 | 0 | 0 | 0 | 5 | 0 | 0 | 0 |
+| HeaVnb108_02163 | 164 | 30 | 0 | 3 | 9 | 0 | 10 | 10 | 5 | 4 |
+| KinGml101_05475 | 96 | 8 | 0 | 0 | 2 | 0 | 4 | 2 | 2 | 0 |
+| KinGml104_05478 | 69 | 10 | 0 | 0 | 7 | 0 | 3 | 0 | 0 | 0 |
 
 ## Coverage
 
@@ -111,7 +111,7 @@ Which rows of a voiced-cutscene file belong to which quest, from `out/attributio
 
 ## Names
 
-`terms.json` holds 2318 Japanese names with their official English, which translations keep (`name` flags above).
+`terms.json` holds 2460 Japanese names with their official English, which translations keep (`name` flags above).
 
 ## Japanese keys
 
@@ -123,32 +123,39 @@ Three lines per quest: most flags first, then longest.
 
 ### HeaVnb108_02163
 
-**Alphinaud** (`TEXT_HEAVNB108_02163_ALPHINAUD_000_083`)
-
-- JA: ドラゴン族に対する恐怖と憎悪が薄れることを祈ろう。 多くの犠牲の上に、この変革があるのだから……。
-- EN: Let us pray that the Ishgardians who yet harbored doubts will take these events to heart and accept the truth of Ser Aymeric's words.
-- Human: ขอให้ชาวอิชการ์ดที่ยังเคลือบแคลงสงสัยเก็บเหตุการณ์ในวันนี้ไปไตร่ตรอง และยอมรับความจริงในคำพูดของเซอร์เอเมอริกเสียที
-- Haiku: ขอให้ความหวาดกลัวและความเกลียดชังที่ชาว Ishgardian ยังมีต่อมังกรจางลงเถอะครับ การเปลี่ยนแปลงครั้งนี้เกิดขึ้นได้ก็เพราะต้องแลกมากับการสูญเสียมากมาย ขอให้ชาว Ishgardian ที่ยังลังเลได้รับบทเรียนจากเหตุการณ์นี้ และยอมรับความจริงในคำพูดของท่าน Aymeric ด้วย...
-- Flags: script: untranslated: Ishgardian Ishgardian; length: th/en 1.91, th/ja 5.18
-
-**Narration** (`TEXT_VOICEMAN_03100_002000_NARRATION`)
-
-- JA: フォルタン伯爵の回顧録『蒼天のイシュガルド』 第二章「光と闇の境界」より抜粋
-- EN: From the memoirs of Count Edmont de Fortemps
-*Heavensward: As Goes Light, So Goes Darkness*
-- Human: (no team translation)
-- Haiku: จากบันทึกความทรงจำของเคานต์ Edmont de Fortemps "Heavensward: As Goes Light, So Goes Darkness"
-- Flags: name: イシュガルド is Ishgard in terms.json; review: Dropped the chapter marker 第二章 from 『蒼天のイシュガルド』第二章「光と闇の境界」; the Thai gives only a merged book/chapter title with no chapter number.
-
 **Lucia** (`TEXT_HEAVNB108_02163_LUCIA_000_045`)
 
 - JA: 教皇庁の封鎖は完了した。 奴らの注意を正面に惹き付けておくゆえ、頼むぞ！
 - EN: We will hold here, Forename. The Fury guide and keep you!
 - Human: (no team translation)
 - Haiku: ปิดล้อม Vault เรียบร้อยแล้ว ข้าจะดึงความสนใจของพวกมันไว้ทางด้านหน้าเอง ฝากด้วยนะ!
-- Flags: forename: source has Forename, translation does not; script: untranslated: Vault
+- Flags: forename: source has Forename, translation does not; name: 教皇庁 is Holy See in terms.json; script: untranslated: Vault
+
+**Aymeric** (`TEXT_HEAVNB108_02163_AYMERIC_000_060`)
+
+- JA: この先にある資材搬入口を利用し、教皇庁内に突入する。 報告によれば、人質は全部で7名。 「豪胆将の精兵」を名乗る反抗グループの正確な規模は不明だ。
+- EN: Listen well. We will enter the basilica silently via this gate. According to our latest reports, there are at least six hostages being held within. The numbers and readiness of the True Brothers of the Faith are unknown.
+- Human: ฟังให้ดี เราจะลอบเข้าไปในมหาวิหารอย่างเงียบเชียบทางประตูนี้ รายงานล่าสุดระบุว่าตัวประกันอย่างน้อยหกคนถูกคุมขังอยู่ข้างใน ส่วนจำนวนและกำลังพลของกลุ่มภราดรภาพแห่งศรัทธาที่แท้จริงนั้นยังไม่มีใครรู้
+- Haiku: เราจะบุกเข้า Vault ผ่านประตูลำเลียงวัสดุที่อยู่ข้างหน้านี้ ตามรายงาน มีตัวประกันทั้งหมด 7 คน ส่วนจำนวนและความพร้อมของกลุ่มที่อ้างตัวว่า True Brothers of the Faith ยังไม่ทราบแน่ชัด
+- Flags: name: 教皇庁 is Holy See in terms.json; script: untranslated: Vault
+
+**Templerknight10810** (`TEXT_VOICEMAN_03100_001340_TEMPLERKNIGHT10810`)
+
+- JA: ハッ……！ 焼け出された貧民の避難先として開放されていた、 教皇庁「聖トールダン大聖堂」に、突如、武装集団が乱入……。
+- EN: We were directing refugees into the basilica, as you ordered, when all of a sudden, men brandishing weapons were all around us. It happened so fast, my lord. We had no time to respond.
+- Human: พวกเรากำลังนำทางผู้ลี้ภัยเข้าไปในวิหารหลวงตามคำสั่งของท่าน แต่แล้วจู่ๆ คนกวัดแกว่งอาวุธก็ผุดขึ้นมารอบตัวพวกเรา มันรวดเร็วเหลือเกินครับใต้เท้า พวกเราไม่มีเวลาตั้งตัวเลย
+- Haiku: ฮ่า...! ที่ Saint Thordan's Basilica แห่ง Vault ซึ่งเปิดให้เป็นที่พักพิงของชาวยากจนที่ถูกไฟไล่ออกมา จู่ๆ กลุ่มติดอาวุธก็บุกเข้ามา...
+- Flags: name: 教皇庁 is Holy See in terms.json; script: untranslated: Vault
 
 ### KinGml101_05475
+
+**Urianger** (`TEXT_VOICEMAN_07505_000116_URIANGER`)
+
+- JA: なぜ、どのようにして、その形に至ったのか…… そういった真実を知ることで正しき展望が描かれ、 新たな武王と理王が生まれたのです。
+- EN: With inquisitive minds did they acquire knowledge that broadened their perspectives. Thus were they shaped into the worthy Vows they did become.
+- Human: ด้วยจิตใจใฝ่รู้ พวกเขาจึงได้มาซึ่งความรู้ที่เปิดโลกทัศน์ให้กว้างไกล และหล่อหลอมพวกเขาให้กลายเป็นท่านปณิธานผู้คู่ควรดังที่เป็นอยู่
+- Haiku: เมื่อพวกเขาค้นหาความจริงด้วยจิตใจที่ใฝ่รู้ว่าเหตุใดและด้วยวิธีใดจึงกลายเป็นเช่นนี้ มุมมองของพวกเขาก็กว้างขึ้น และ Vow ผู้คู่ควรทั้งสองคนจึงได้ถือกำเนิดขึ้น
+- Flags: name: 武王 is Vow of Resolve in terms.json; name: 理王 is Queen of Reason in terms.json
 
 **Alphinaud** (`TEXT_VOICEMAN_07505_000310_ALPHINAUD`)
 
@@ -166,31 +173,23 @@ Three lines per quest: most flags first, then longest.
 - Haiku: ระหว่างการเคลื่อนย้าย... ผมเห็นผู้หญิงที่หน้าตาคล้าย Ysayle หรือครับ?
 - Flags: length: th/en 2.09, th/ja 3.63; review: Wrong agent: ja "転移の最中に、イゼルと似た人物を……？" asks whether the listener saw a lookalike, but th has Alphinaud say "ผมเห็น" (I saw).
 
-**Alphinaud** (`TEXT_VOICEMAN_07505_000020_ALPHINAUD`)
-
-- JA: アシエン・ハルマルトによれば、 それは星の理に則った、さながら自然治癒のような世界統合。
-- EN: According to Halmarut, it is the fate that awaits should the reflections be allowed to merge of their own accord─an act of healing dictated by the laws of nature.
-- Human: ตามที่ฮาลมารุตบอก มันคือชะตากรรมที่รออยู่หากปล่อยให้เหล่าโลกเงาสะท้อนหลอมรวมกันเองตามครรลอง—การเยียวยาที่กฎแห่งธรรมชาติกำหนดไว้
-- Haiku: ตามคำของ Halmarut ผู้เป็น Ascian นั่นคือการรวมโลกเข้าด้วยกันตามกฎแห่งดาว คล้ายการรักษาตัวเองตามธรรมชาติครับ
-- Flags: script: untranslated: Ascian
-
 ### KinGml104_05478
 
-**Salvagecrewc** (`TEXT_KINGML104_05478_SALVAGECREWC_000_010`)
+**Halmarut** (`TEXT_VOICEMAN_07505_001612_HALMARUT`)
 
-- JA: 見てのとおり、牽引している間は、 グラズ號とはそう簡単には行き来できないからね。 母船への到着まで、この浮島で過ごしてもらうことになるよ。
-- EN: While the ship is towing the isle, we can't readily move between them. Which is to say, you'll have to remain here until we get to the mother ship.
-- Human: ระหว่างที่เรือลากเกาะไปด้วย เราจะข้ามไปมาระหว่างสองที่ไม่ได้ง่ายๆ พูดง่ายๆ คือเธอต้องอยู่ตรงนี้จนกว่าจะถึงเรือแม่
-- Haiku: อย่างที่เห็นนั่นแหละ ตอนที่กำลังลากเกาะอยู่ ฉันกับ Glaðr ก็ไปมาหาสู่กันไม่ได้ง่ายๆ หรอก เธอต้องอยู่บนเกาะนี้จนกว่าจะถึงเรือแม่นั่นแหละ
-- Flags: script: untranslated: Glaðr
+- JA: それに、光の戦士様たちが「明日の果て」に対処しない以上、 カリュクスさんが、意味もなく手助けすることはありません。
+- EN: Besides, while the warrior and her comrades do not act to forestall the Solstice, you would not knowingly aid them─unless you had a compelling reason.
+- Human: อีกอย่าง แม้นักรบผู้นั้นกับสหายจะไม่ได้ลงมือยับยั้งโซลสทิซ ท่านก็คงไม่ช่วยเหลือพวกเขาทั้งที่รู้ตัว—เว้นเสียแต่ว่าท่านมีเหตุผลอันหนักแน่น
+- Haiku: อีกอย่าง ในเมื่อท่านผู้กล้าแห่งแสงกับเพื่อนยังไม่ลงมือรับมือกับ Solstice คุณ Calyx ก็คงไม่ช่วยพวกเขาโดยไม่มีเหตุผลอะไรครับ เว้นแต่จะมีเหตุผลที่หนักแน่นพอ
+- Flags: name: 光の戦士 is Warrior of Light in terms.json
 
-**Halmarut** (`TEXT_VOICEMAN_07505_001630_HALMARUT`)
+**Tataru** (`TEXT_KINGML104_05478_TATARU_000_205`)
 
-- JA: ラハブレア様たちの思惑とは違っているでしょうが…… 世界統合を企む以上、私はアシエン・ハルマルトです。
-- EN: Though my motives may differ from that of Lahabrea and the other unsundered, my objective remains the same─the Rejoining. Halmarut will suffice.
-- Human: แม้แรงจูงใจของข้าจะต่างจากลาฮาเบรอาและเหล่าผู้มิได้ถูกแบ่งแยกคนอื่น แต่เป้าหมายของข้ายังคงเดิม—การหลอมรวมโลก เรียกฮาลมารุตก็พอแล้ว
-- Haiku: แม้เจตนาของผมอาจต่างจากท่าน Lahabrea และพวกที่ไม่ถูกแยก แต่ตราบใดที่เป้าหมายของผมยังคงเป็นการรวมโลกกลับเป็นหนึ่งเดียว ผมก็คือ Ascian Halmarut ครับ Halmarut ก็พอครับ
-- Flags: script: untranslated: Ascian
+- JA: 本格的に第四世界での冒険へ出立する際には、 お見送りしたいので、声をかけてもらえると嬉しいでっす！
+- EN: But when it comes time for you to go forth in earnest, do remember to say a word! If you simply disappeared, I'd be most cross!
+- Human: แต่พอถึงเวลาที่คุณต้องออกเดินทางจริงจังแล้ว อย่าลืมบอกกันสักคำนะคะ! ถ้าหายตัวไปเฉยๆ ฉันจะโกรธเอาจริงๆ นะ!
+- Haiku: แต่ตอนที่จะออกเดินทางผจญภัยในโลกที่สี่จริงๆ ช่วยบอกฉันสักคำนะคะ อยากไปส่งค่ะ! ถ้าหายไปเฉยๆ ฉันจะโกรธมากเลยนะคะ!
+- Flags: name: 第四世界 is Fourth in terms.json
 
 **Grahatia** (`TEXT_VOICEMAN_07505_001700_GRAHATIA`)
 

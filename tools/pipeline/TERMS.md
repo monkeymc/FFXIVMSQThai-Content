@@ -35,6 +35,160 @@ tools/pipeline/.venv/bin/python tools/pipeline/build_terms.py
 | `ContentFinderCondition` | 17 | ชื่อ duty |
 | `Race`, `Tribe` | 8, 12 | |
 | `Town` | 0 | ทุกชื่ออยู่ใน `PlaceName` แล้ว |
-| `terms_manual.json` | 2 | ชื่อที่ไม่มีใน sheet ใดเลย เช่น 暁 → Scions เขียนด้วยมือ และใช้แทนชื่อจาก sheet |
 
 ถ้าชื่อภาษาญี่ปุ่นเดียวกันอยู่หลาย sheet ใช้ sheet ที่อยู่บนกว่าในตาราง
+
+## terms_manual.json
+
+`terms_manual.json` เก็บ term ที่หาไม่ได้จาก submodule เขียนด้วยมือในรูป `{ja: en}` เดียวกับ `terms.json` แล้ว `build_terms.py` รวมเข้าไปใน `terms.json` ห้ามใส่ชื่อที่ sheet ให้อยู่แล้ว ไม่ว่าภาษาอังกฤษจะตรงกันหรือไม่ `build_terms.py` จะหยุดและบอกว่าชื่อนั้นอยู่ใน sheet ใด ถ้า datamining รุ่นใหม่เพิ่มชื่อที่อยู่ใน `terms_manual.json` เข้า sheet ให้ลบออกจาก `terms_manual.json`
+
+ตัวเลือกสำหรับไฟล์นี้สร้างด้วย `suggest_terms.py` ซึ่งเขียน `out/terms_suggestions.json` (ดู `README.md`)
+
+ตอนนี้มี 144 ชื่อ 2 ชื่อแรกเขียนด้วยมือ อีก 142 ชื่อผู้ใช้เลือกจาก `out/terms_suggestions.json` (datamining `52a72b38aa2f`) เมื่อ 2026-11-11
+
+| ja | en | ทำไมหาจาก submodule ไม่ได้ |
+|---|---|---|
+| 暁 | Scions | ไม่มีใน sheet ใดเลย |
+| 暁の血盟 | Scions of the Seventh Dawn | มีแค่เป็นชื่อเควสต์ใน `Quest.csv` ซึ่ง `build_terms.py` ไม่อ่าน เพราะชื่อเควสต์ส่วนใหญ่ไม่ใช่ชื่อเฉพาะ |
+| アインハルト | Haillenarte | ไม่มีใน sheet ใดเลย |
+| アウルス | Aulus | มีแค่ในชื่อเต็ม (アウルス・マル・アシナ) |
+| アグリウス | Agrius | ไม่มีใน sheet ใดเลย |
+| アシエン | Ascian | มีแค่ในชื่อเต็ม (アシエン・プライム) |
+| アジム | Azim | มีแค่ในชื่อเต็ม (アジム・カート) |
+| アゼム | Azem | ไม่มีใน sheet ใดเลย |
+| アナンタ | Ananta | มีแค่ในชื่อเต็ม (マメット・アナンタ) |
+| アニドラス | Anyder | มีแค่ในชื่อเต็ม (アニドラス・リーチ) |
+| アマルジャ | Amalj'aa | มีแค่ในชื่อเต็ม (アマルジャ・シーア) |
+| アラグ | Allagan | ไม่มีใน sheet ใดเลย |
+| アルカソーダラ | Arkasodara | มีแค่ในชื่อเต็ม (マメット・アルカソーダラ) |
+| アルザダール | Alzadaal | มีแค่ในชื่อเต็ม (アルザダール・ミミック) |
+| アルデナード | Aldenard | ไม่มีใน sheet ใดเลย |
+| アルフィノ・ルヴェユール | Alphinaud Leveilleur | ไม่มีใน sheet ใดเลย |
+| アーテリス | Etheirys | ไม่มีใน sheet ใดเลย |
+| イエロージャケット | Yellowjackets | ไม่มีใน sheet ใดเลย |
+| イクサル | Ixal | มีแค่ในชื่อเต็ม (マメット・イクサル) |
+| イヒーハナ | Ihih'hana | ไม่มีใน sheet ใดเลย |
+| イーア | Ea | มีแค่ในชื่อเต็ม (メランコリック・イーア) |
+| ウィルラ | Vira | มีแค่ในชื่อเต็ม (ウィルラ・ニリヤ) |
+| ウィンタラー | Winterer | ไม่มีใน sheet ใดเลย |
+| エインザル | Eynzahr | ENpcResident สะกดภาษาอังกฤษไม่ตรงกัน (Eynzahr, Storm Marshal Slafyrsyn) จึงถูกตัด |
+| エジカ | Ejika | มีแค่ในชื่อเต็ม (エジカ・ツンジカ) |
+| エレクトロープ | Electrope | ไม่มีใน sheet ใดเลย |
+| エレネッシパ | Elene'shpya | ไม่มีใน sheet ใดเลย |
+| エンタープライズ | Enterprise | มีแค่ในชื่อเต็ม (マメット・エンタープライズ) |
+| オジカ | Ojika | มีแค่ในชื่อเต็ม (オジカ・ツンジカ) |
+| オフォカリー | Ohokaliy | ไม่มีใน sheet ใดเลย |
+| オブリビオン | Oblivion | ไม่มีใน sheet ใดเลย |
+| オミクロン | Omicron | มีแค่ในชื่อเต็ม (ブロークン・オミクロン) |
+| オロニル | Oronir | ไม่มีใน sheet ใดเลย |
+| オンド | Ondo | ไม่มีใน sheet ใดเลย |
+| オ・ゴモロ | O'Ghomoro | ไม่มีใน sheet ใดเลย |
+| オーカー | Ocher | มีแค่ในชื่อเต็ม (オーカー・ボルダー) |
+| カイエン | Kaien | ไม่มีใน sheet ใดเลย |
+| カイロス | Kairos | ไม่มีใน sheet ใดเลย |
+| カヌ・エ | Kan-E-Senna | มีแค่ในชื่อเต็ม (カヌ・エ・センナ) |
+| カリヤナ | Qalyana | มีแค่ในชื่อเต็ม (カリヤナ・ニリヤ) |
+| カルテノー | Carteneau | ไม่มีใน sheet ใดเลย |
+| ガラフ | Galuf | มีแค่ในชื่อเต็ม (ガラフ・バルデシオン) |
+| ガレアン | Garlean | มีแค่ในชื่อเต็ม (ガレアン・ドモルム区) |
+| ガレマール帝国 | Garlean Empire | ไม่มีใน sheet ใดเลย |
+| ガーロンド | Garlond | ไม่มีใน sheet ใดเลย |
+| ガーロンド・アイアンワークス | Garlond Ironworks | ไม่มีใน sheet ใดเลย |
+| ギムリト | Ghimlyt | ไม่มีใน sheet ใดเลย |
+| ククロ | Kokkol | มีแค่ในชื่อเต็ม (ククロ・ダンクロ) |
+| クポロ | Kuplo | มีแค่ในชื่อเต็ม (クポロ・コップ) |
+| クリスタルブレイブ | Crystal Braves | ไม่มีใน sheet ใดเลย |
+| グナース | Gnath | มีแค่ในชื่อเต็ม (マメット・グナース) |
+| グラズ號 | Glaðr | ไม่มีใน sheet ใดเลย |
+| グランドカンパニー | Grand Company | ไม่มีใน sheet ใดเลย |
+| グランドカンパニー・エオルゼア | Grand Company of Eorzea | ไม่มีใน sheet ใดเลย |
+| グ・ラハ | G'raha | มีแค่ในชื่อเต็ม (グ・ラハ・ティア) |
+| コウジン | Kojin | มีแค่ในชื่อเต็ม (マメット・コウジン) |
+| コグー | Goggs | มีแค่ในชื่อเต็ม (コグー・オートマトン) |
+| コルヴォ | Corvos | ไม่มีใน sheet ใดเลย |
+| サハギン | Sahagin | มีแค่ในชื่อเต็ม (サハギン・サパー) |
+| シャトナ | Shetona | ไม่มีใน sheet ใดเลย |
+| シャーレアン | Sharlayan | มีแค่ในชื่อเต็ม (オールド・シャーレアン) |
+| シュバラール | Xbr'aal | ไม่มีใน sheet ใดเลย |
+| シルヴトレル | Sylvetrel | มีแค่ในชื่อเต็ม (シルヴトレル・ド・ゼーメル) |
+| スペキュラ | Specula Imperatoris | มีแค่ในชื่อเต็ม (スペキュラ・インペラトリス) |
+| ズンド | Zundu | มีแค่ในชื่อเต็ม (オク・ズンド) |
+| ゼノス | Zenos | มีแค่ในชื่อเต็ม (ゼノス・アヴァター) |
+| ゼーメル | Dzemael | มีแค่ในชื่อเต็ม (シルヴトレル・ド・ゼーメル) |
+| ソル | Solus | มีแค่ในชื่อเต็ม (コスタ・デル・ソル) |
+| タイニーブロンコ | Tiny Bronco | ไม่มีใน sheet ใดเลย |
+| タロース | Talos | มีแค่ในชื่อเต็ม (トラバース・タロース) |
+| ダラガブ | Dalamud | มีแค่ในชื่อเต็ม (マメット・ダラガブ) |
+| ダルマスカ | Dalmasca | ไม่มีใน sheet ใดเลย |
+| チャイ | Chai | มีแค่ในชื่อเต็ม (チャイ・ヌズ) |
+| テオドリック | Theodoric | ไม่มีใน sheet ใดเลย |
+| テレポ | Teleport | ไม่มีใน sheet ใดเลย |
+| テロフォロイ | Telophoroi | มีแค่ในชื่อเต็ม (テロフォロイ・ビット) |
+| デミール | Daemir | ไม่มีใน sheet ใดเลย |
+| デュランデル | Durendaire | ไม่มีใน sheet ใดเลย |
+| トゥプシマティ | Tupsimati | ไม่มีใน sheet ใดเลย |
+| トッディア | Toddia | ไม่มีใน sheet ใดเลย |
+| トナワータ | Tonawawta | ไม่มีใน sheet ใดเลย |
+| トラル | Tural | มีแค่ในชื่อเต็ม (ヨカ・トラル) |
+| トルー | Tholl | มีแค่ในชื่อเต็ม (トルー・オートマトン) |
+| トールダン | Thordan | ไม่มีใน sheet ใดเลย |
+| トールダン7世 | Thordan VII | ENpcResident มี (Archbishop Thordan VII) แต่ `build_terms.py` ตัดชื่อที่มีตัวอักษร ASCII |
+| ドタール | Dotharl | มีแค่ในชื่อเต็ม (ドタール・カー) |
+| ドン・ヴァウスリー | Vauthry | ไม่มีใน sheet ใดเลย |
+| ナグルファル | Naglfar | ไม่มีใน sheet ใดเลย |
+| ナナモ | Nanamo | มีแค่ในชื่อเต็ม (マメット・ナナモ) |
+| ナバスアレン | Nabaath Areng | ไม่มีใน sheet ใดเลย |
+| ナーゴ | Naago | มีแค่ในชื่อเต็ม (メ・ナーゴ) |
+| ナーマ | Nhaama | มีแค่ในชื่อเต็ม (ナーマ・アナラ) |
+| ニッダーナ | Nidhana | ENpcResident สะกดภาษาอังกฤษไม่ตรงกัน (Nidhana, Arkasodara alchemist) จึงถูกตัด |
+| ニュンクレフ | Nyunkrepf | ไม่มีใน sheet ใดเลย |
+| ネルウァ | Nerva | มีแค่ในชื่อเต็ม (ネルウァ・イェー・ガルヴァス) |
+| ネール | Nael | มีแค่ในชื่อเต็ม (ミク・ネール) |
+| ハヌハヌ | Hanuhanu | ไม่มีใน sheet ใดเลย |
+| バイルブランド | Vylbrand | ไม่มีใน sheet ใดเลย |
+| バヌバヌ | Vanu | มีแค่ในชื่อเต็ม (ランガイ・バヌバヌ) |
+| バブイル | Babil | มีแค่ในชื่อเต็ม (バブイル・ビット) |
+| バルダム | Bardam | มีแค่ในชื่อเต็ม (バルダム・フン・チョロー) |
+| バルデシオン | Baldesion | มีแค่ในชื่อเต็ม (ガラフ・バルデシオン) |
+| ファルファレルロ | Farfarello | ไม่มีใน sheet ใดเลย |
+| フェオ | Feo Ul | ไม่มีใน sheet ใดเลย |
+| フォルタン | Fortemps | มีแค่ในชื่อเต็ม (エドモン・ド・フォルタン) |
+| フッブート | Voeburt | ไม่มีใน sheet ใดเลย |
+| フビゴ | Hoobigo | ไม่มีใน sheet ใดเลย |
+| フーア | Fuath | มีแค่ในชื่อเต็ม (ドォーヌ・フーア) |
+| ブドゥガ | Buduga | ไม่มีใน sheet ใดเลย |
+| ブネワ | Boonewa | ไม่มีใน sheet ใดเลย |
+| ブンド | Vundu | มีแค่ในชื่อเต็ม (オク・ブンド) |
+| プリザベーション | Preservation | ไม่มีใน sheet ใดเลย |
+| ヘイザ・アロ | Hhetsarro | ไม่มีใน sheet ใดเลย |
+| ベロジナ | Velodyna | มีแค่ในชื่อเต็ม (ベロジナ・プギル) |
+| ペルペル | Pelupelu | มีแค่ในชื่อเต็ม (マメット・ペルペル) |
+| マガタマ | Magatama | ไม่มีใน sheet ใดเลย |
+| マヌシャ | Manusya | ไม่มีใน sheet ใดเลย |
+| マムージャ | Mamool Ja | มีแค่ในชื่อเต็ม (マメット・マムージャ) |
+| ミステル | Mystel | มีแค่ในชื่อเต็ม (マメット・ミステル) |
+| ミゼリー | Misery | ไม่มีใน sheet ใดเลย |
+| ミララ | Milalla | ไม่มีใน sheet ใดเลย |
+| ムリガ | Mrga | ไม่มีใน sheet ใดเลย |
+| メラシディア | Meracydia | ไม่มีใน sheet ใดเลย |
+| モグル・モグ | Moggle Mog | ไม่มีใน sheet ใดเลย |
+| モブリン | Moblin | ไม่มีใน sheet ใดเลย |
+| ヤースラニ | Yyasulani | ไม่มีใน sheet ใดเลย |
+| ヨカフイ | Yok Huy | มีแค่ในชื่อเต็ม (マメット・ヨカフイ) |
+| ラタトスク | Ratatoskr | ไม่มีใน sheet ใดเลย |
+| ラマチ | Lamaty'i | ไม่มีใน sheet ใดเลย |
+| ルヴェユール | Leveilleur | ไม่มีใน sheet ใดเลย |
+| レイア | Leia | ไม่มีใน sheet ใดเลย |
+| ロアユ | Roaille | มีแค่ในชื่อเต็ม (エリヌ・ロアユ) |
+| ロルフ | Rolfe | มีแค่ในชื่อเต็ม (ロルフ・ホウソーン) |
+| ロンカ | Ronka | มีแค่ในชื่อเต็ม (ロンカ・ドリーマー) |
+| ヴィクトリー | Victory | ไม่มีใน sheet ใดเลย |
+| ヴィース | Viis | ไม่มีใน sheet ใดเลย |
+| 光の戦士 | Warrior of Light | ไม่มีใน sheet ใดเลย |
+| 教皇庁 | Holy See | ไม่มีใน sheet ใดเลย |
+| 武王 | Vow of Resolve | ไม่มีใน sheet ใดเลย |
+| 理王 | Queen of Reason | ไม่มีใน sheet ใดเลย |
+| 神殿騎士 | Temple Knight | ไม่มีใน sheet ใดเลย |
+| 竜詩戦争 | Dragonsong War | ไม่มีใน sheet ใดเลย |
+| 第四世界 | Fourth | ไม่มีใน sheet ใดเลย |
+| 豪胆将の精兵 | True Brothers of the Faith | ไม่มีใน sheet ใดเลย |

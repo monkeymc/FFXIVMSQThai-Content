@@ -95,6 +95,10 @@
      "detail": "source has Forename, translation does not"
     },
     {
+     "check": "name",
+     "detail": "教皇庁 is Holy See in terms.json"
+    },
+    {
      "check": "script",
      "detail": "untranslated: Vault"
     }
@@ -128,6 +132,10 @@
    "text_haiku": "เราจะบุกเข้า Vault ผ่านประตูลำเลียงวัสดุที่อยู่ข้างหน้านี้ ตามรายงาน มีตัวประกันทั้งหมด 7 คน ส่วนจำนวนและความพร้อมของกลุ่มที่อ้างตัวว่า True Brothers of the Faith ยังไม่ทราบแน่ชัด",
    "flags": [
     {
+     "check": "name",
+     "detail": "教皇庁 is Holy See in terms.json"
+    },
+    {
      "check": "script",
      "detail": "untranslated: Vault"
     }
@@ -138,12 +146,7 @@
    "key": "iamtoldoneclaimedtohaveservedunderthordanviimightthesamebetrueoftherest",
    "text_human": "ได้ยินมาว่าคนหนึ่งในนั้นอ้างว่าเคยรับใช้ภายใต้ธอร์แดนที่เจ็ด คนอื่นๆ ก็อาจจะเป็นเช่นนั้นเหมือนกันใช่ไหมครับ",
    "text_haiku": "'True Brothers of the Faith' นั่นน่ะ... ในเมื่อพวกมันใช้ชื่อของ Thordan ผู้ก่อตั้งชาติ ก็แปลว่าพวกมันคือกลุ่มสายอนุรักษ์ที่เข้าข้างอดีตสันตะปาปา Thordan VII ใช่ไหมครับ?",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: True Brothers Faith"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_062",
@@ -169,12 +172,7 @@
    "key": "iamnostrangertothebattlefieldseraymericmyarmwillnotfaltermyshieldwillnotbreakhaloneasmywitnesswewillbringthesefanaticstojustice",
    "text_human": "สนามรบไม่ใช่เรื่องแปลกใหม่สำหรับเราเลย เซอร์เอเมอริก! แขนของเราจะไม่สั่นคลอน โล่ของเราจะไม่แตกสลาย! ขอฮาโลนทรงเป็นพยาน เราจะลากคอพวกคนคลั่งเหล่านี้มาลงทัณฑ์ให้ได้!",
    "text_haiku": "ฮึบ... ข้าพเจ้าก็เป็นอัศวินคนหนึ่ง โล่ยูนิคอร์นนี้มีไว้เพื่อปกป้องประชาชน... ข้าจะไม่ลืมเรื่องนี้เด็ดขาด! ขอสาบานในนามตระกูล Fortemps!",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Fortemps"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_065",
@@ -207,7 +205,12 @@
    "key": "unlikeyouseraymericiamamanofhonorbymyhandyoushallreceiveofthefurysjudgment",
    "text_human": "ข้าไม่เหมือนเจ้าหรอก เซอร์เอเมอริก ข้าคือผู้รักษาเกียรติยศ ข้าจะส่งเจ้าไปรับการพิพากษาของเทพีแห่งโทสะด้วยน้ำมือคู่นี้เอง!",
    "text_haiku": "Aymeric! ทั้งที่เป็นถึงผู้บัญชาการสูงสุดแห่งกองอัศวินวิหาร เจ้ากลับก่อกบฏ ข้าจะตัดสินเจ้าด้วยการดวลตัวต่อตัวด้วยมือของข้าเอง!",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "神殿騎士 is Temple Knight in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_069",
@@ -235,7 +238,12 @@
    "key": "sincehaurchefantsdeathlordedmonthasgrownevermorecautioustospeakplainthemanisafraidtohopebutiamnotvidofnirsactofheroismwillservetoshiftpublicopinioninourfavorofthatihavenodoubt",
    "text_human": "นับตั้งแต่การจากไปของฮอร์ชฟองต์ ท่านเอ็ดมอนต์ก็ยิ่งระแวดระวังตัวมากขึ้น พูดกันตรง ๆ คือกำลังกลัวที่จะมีความหวัง แต่ฉันไม่กลัว และไม่สงสัยเลยว่าวีรกรรมอันกล้าหาญของวิโดฟเนียร์จะช่วยเปลี่ยนกระแสสังคมให้หันมาเป็นประโยชน์แก่พวกเรา",
    "text_haiku": "ข้าเข้าใจความกังวลของท่านเอิร์ล Edmont แต่การที่มังกรช่วยเด็กสาวไว้ จะกลายเป็นเรื่องเล่าที่นำไปสู่การคืนดี และจะช่วยให้อุดมคติของท่าน Aymeric เป็นจริงได้มาก ตั้งแต่ Haurchefant จากไป ท่าน Edmont ก็ระแวดระวังมากขึ้นเรื่อย ๆ พูดตรง ๆ ก็คือท่านกลัวที่จะหวัง แต่ข้าไม่กลัว การกระทำอันกล้าหาญของ Vidofnir จะเปลี่ยนความคิดของประชาชนไปในทางที่เราต้องการแน่นอน",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "フォルタン is Fortemps in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_HEAVNB108_02163_HILDA_000_077",
@@ -397,7 +405,7 @@
    "flags": [
     {
      "check": "script",
-     "detail": "untranslated: Teleport Ancient Teleport Primal"
+     "detail": "untranslated: Ancient Primal"
     }
    ]
   },
@@ -421,6 +429,10 @@
    "text_human": "ท่านเอ็ดมอนต์เล่าเรื่องที่วิโดฟเนียร์ทำให้ฟังหมดเลยค่ะ! คุณพระช่วย อยากไปเห็นกับตาตัวเองเหลือเกินค่ะ",
    "text_haiku": "ท่านเอิร์ล Edmont เล่าให้ฟังหมดเลยค่า! มังกรขาวที่บินลงมาที่ Ishgard... ฉันอยากไปเห็นกับตาเหลือเกินค่าาา!",
    "flags": [
+    {
+     "check": "name",
+     "detail": "フォルタン is Fortemps in terms.json"
+    },
     {
      "check": "script",
      "detail": "untranslated: Ishgard"
@@ -837,6 +849,10 @@
    "text_haiku": "ฮ่า...! ที่ Saint Thordan's Basilica แห่ง Vault ซึ่งเปิดให้เป็นที่พักพิงของชาวยากจนที่ถูกไฟไล่ออกมา จู่ๆ กลุ่มติดอาวุธก็บุกเข้ามา...",
    "flags": [
     {
+     "check": "name",
+     "detail": "教皇庁 is Holy See in terms.json"
+    },
+    {
      "check": "script",
      "detail": "untranslated: Vault"
     }
@@ -847,12 +863,7 @@
    "key": "theyvetakentherefugeeshostageandbarricadedthemselvesinsidethevault",
    "text_human": "พวกมันจับผู้ลี้ภัยเป็นตัวประกันแล้วปิดประตูลงกลอนขังตัวเองอยู่ในเดอะโวลต์ครับ",
    "text_haiku": "พวกมันสังหาร Temple Knight ที่เฝ้าอยู่ แล้วจับผู้ลี้ภัยเป็นตัวประกันและปิดล้อมตัวเองอยู่ข้างใน!",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Temple Knight"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_03100_001360_AYMERIC",
@@ -866,7 +877,12 @@
    "key": "theythetruebrothersofthefaithdemandthataconclavetoselectthenextarchbishopbeheldforthwithfurthermoreththeydeclarethatyoulordcommanderareguiltyofpatricideandhightreasonandthatyoumustsurrenderyourselfatoncetoreceiveofthefurysjudgment",
    "text_human": null,
    "text_haiku": "กลุ่มที่อ้างตัวว่า 'ทหารชั้นยอดของแม่ทัพผู้กล้าหาญ' เรียกร้องให้ประหารท่าน Aymeric ทันทีในข้อหาความผิดนอกรีต ให้เลือกประมุขศาสนจักรใหม่โดยเร็ว และให้ก่อตั้งระบบการปกครองใหม่",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "豪胆将の精兵 is True Brothers of the Faith in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_03100_001380_LUCIA",
@@ -894,12 +910,7 @@
    "key": "agreedluciatakeacontingentofknightsandestablishaperimeteroutsidetheentrance",
    "text_human": "เห็นด้วย ลูเซีย นำกองอัศวินไปตั้งแนวโอบล้อมรอบทางเข้าไว้ทันที",
    "text_haiku": "...ท่านพูดถูก ดี ตั้งแต่บัดนี้ เริ่มปฏิบัติการช่วยตัวประกัน! Lucia จงนำ Temple Knight ไปปิดล้อมรอบพื้นที่เกิดเหตุ!",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Temple Knight"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_03100_001420_LUCIA",
@@ -1147,12 +1158,7 @@
    "key": "ishareyourdesireforalastingpeacewiththedravaniansidobutiwouldnotseeitbuiltonthebonesofourcountrymennoronourown",
    "text_human": "ข้าเองก็ปรารถนาในสันติภาพอันยั่งยืนกับชาวเดรเวเนียนเช่นเดียวกับท่าน ทว่าข้าไม่อยากเห็นสันติภาพนั้นสร้างขึ้นบนซากกระดูกของเพื่อนร่วมชาติ—หรือแม้แต่บนกระดูกของเราเอง",
    "text_haiku": "แน่นอนว่าข้าเองก็อยากให้ Dragonsong War ยุติลงเช่นกัน... แต่หากรีบร้อนสร้างความปรองดองกับมังกรจนยิ่งทำให้มนุษย์รบกันเอง ก็ถือว่ากลับหัวกลับหางเสียแล้ว",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Dragonsong War"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_03100_001770_EDMONT",
@@ -1194,12 +1200,7 @@
    "key": "fitforatrueknightanexpressionofourgratitudetoyouandyourslongoverdue",
    "text_human": "คู่ควรแก่อัศวินที่แท้จริง นี่คือคำขอบคุณจากใจจริงของพวกเราต่อท่านและเหล่าสหาย ซึ่งค้างคามานานแสนนาน",
    "text_haiku": "ตราม้ายูนิคอร์น... เป็นโล่อัศวินที่สลักตราของตระกูล Fortemps ข้าอยากให้เจ้ารับไว้ ในฐานะสัญลักษณ์แห่งมิตรภาพและความไว้วางใจจากตระกูลของข้า",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Fortemps"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_03100_001830_ARTOIREL",
@@ -1218,12 +1219,7 @@
    "key": "seraymericwasnottheonlyonetofallundersuspicionfollowingthedeathofthearchbishoptherearesomewhobelievemyfathercomplicitinacoupdtat",
    "text_human": null,
    "text_haiku": "เรื่องก่อนหน้านี้... การกำจัดอาร์ชบิชอป มีคนวิจารณ์ว่านี่คือการรัฐประหารของท่าน Aymeric กับตระกูล Fortemps ของพวกเรา",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Fortemps"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_03100_001850_ARTOIREL",
@@ -1251,12 +1247,7 @@
    "key": "eversinceiwasachildiknewthatiwouldonedaysucceedmyfatherandthethoughtofitfilledmewithprideyetonceilearnedthedaywasathandmyheartwasfilledwithnaughtbutdread",
    "text_human": "ตั้งแต่เด็ก เรารู้ดีว่าวันหนึ่งต้องสืบทอดตำแหน่งต่อจากท่านพ่อ ความคิดนั้นเคยทำให้ภาคภูมิใจเหลือแสน ทว่าพอรู้ว่าวันนั้นมาถึงตัวเข้าจริง ๆ ในอกกลับมีแต่ความหวาดกลัวจับใจ",
    "text_haiku": "ตั้งแต่ยังเด็ก ข้าเชื่อมาตลอดว่าสักวันหนึ่งข้าจะได้สืบทอดนามตระกูล Fortemps ความคิดนั้นเคยทำให้ข้าภูมิใจ แต่พอวันนั้นมาถึงจริง ข้ากลับพบว่าตัวเองหวาดหวั่นจนแทบถอย",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Fortemps"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_03100_001890_ARTOIREL",

@@ -34,12 +34,7 @@
    "key": "whiletheshipistowingtheislewecantreadilymovebetweenthemwhichistosayyoullhavetoremainhereuntilwegettothemothership",
    "text_human": "ระหว่างที่เรือลากเกาะไปด้วย เราจะข้ามไปมาระหว่างสองที่ไม่ได้ง่ายๆ พูดง่ายๆ คือเธอต้องอยู่ตรงนี้จนกว่าจะถึงเรือแม่",
    "text_haiku": "อย่างที่เห็นนั่นแหละ ตอนที่กำลังลากเกาะอยู่ ฉันกับ Glaðr ก็ไปมาหาสู่กันไม่ได้ง่ายๆ หรอก เธอต้องอยู่บนเกาะนี้จนกว่าจะถึงเรือแม่นั่นแหละ",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Glaðr"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_020",
@@ -172,7 +167,12 @@
    "key": "theteahaswarmedyouupihopeitsoundsterriblycoldinthefourth",
    "text_human": "ชาร้อนช่วยให้อุ่นขึ้นบ้างไหมคะ ฟังดูแล้วเดอะโฟร์ทหนาวเหน็บน่าดูเลย...",
    "text_haiku": "ชาช่วยให้อุ่นขึ้นบ้างหรือเปล่าคะ...? ได้ยินมาว่าโลกที่สี่หนาวมากเลยนี่คะ...",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_201",
@@ -193,7 +193,12 @@
    "key": "andsointhatspiritivepreparedasetofwarmclothesforyoutowearinthefourth",
    "text_human": "เพราะอย่างนั้น ฉันเลยเตรียมชุดกันหนาวไว้ให้คุณใส่ตอนไปเดอะโฟร์ทด้วยค่ะ!",
    "text_haiku": "ก็เลยค่ะ! ฉันเตรียมชุดที่ทั้งอบอุ่นและคล่องตัวสำหรับการผจญภัยในโลกที่สี่มาให้ด้วยนะคะ รีบทำเสร็จเมื่อกี้เลยค่ะ!",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_KINGML104_05478_TATARU_000_203",
@@ -214,7 +219,12 @@
    "key": "butwhenitcomestimeforyoutogoforthinearnestdoremembertosayawordifyousimplydisappearedidbemostcross",
    "text_human": "แต่พอถึงเวลาที่คุณต้องออกเดินทางจริงจังแล้ว อย่าลืมบอกกันสักคำนะคะ! ถ้าหายตัวไปเฉยๆ ฉันจะโกรธเอาจริงๆ นะ!",
    "text_haiku": "แต่ตอนที่จะออกเดินทางผจญภัยในโลกที่สี่จริงๆ ช่วยบอกฉันสักคำนะคะ อยากไปส่งค่ะ! ถ้าหายไปเฉยๆ ฉันจะโกรธมากเลยนะคะ!",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001700_GRAHATIA",
@@ -418,14 +428,24 @@
    "key": "itappearsthewarrioroflighthasarrivedwithtwoofhercomrades",
    "text_human": "ดูเหมือนนักรบแห่งแสงจะมาถึงพร้อมกับสหายอีกสองคนของนาง",
    "text_haiku": "ท่านผู้กล้าแห่งแสงกับเพื่อนอีกสองคน ดูเหมือนจะมาถึงที่นี่แล้วครับ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "光の戦士 is Warrior of Light in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001585_HALMARUT",
    "key": "whatpossessedyoutogosofarastoinvitehertothefourth",
    "text_human": "อะไรทำให้ท่านถึงขั้นชักชวนนางมายังเดอะโฟร์ทกัน",
    "text_haiku": "ทำไมต้องเอ่ยเชิญเธอมาถึงโลกที่สี่ถึงขนาดนั้นด้วยล่ะครับ...?",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001590_CALYX",
@@ -460,7 +480,12 @@
    "key": "besideswhilethewarriorandhercomradesdonotacttoforestallthesolsticeyouwouldnotknowinglyaidthemunlessyouhadacompellingreason",
    "text_human": "อีกอย่าง แม้นักรบผู้นั้นกับสหายจะไม่ได้ลงมือยับยั้งโซลสทิซ ท่านก็คงไม่ช่วยเหลือพวกเขาทั้งที่รู้ตัว—เว้นเสียแต่ว่าท่านมีเหตุผลอันหนักแน่น",
    "text_haiku": "อีกอย่าง ในเมื่อท่านผู้กล้าแห่งแสงกับเพื่อนยังไม่ลงมือรับมือกับ Solstice คุณ Calyx ก็คงไม่ช่วยพวกเขาโดยไม่มีเหตุผลอะไรครับ เว้นแต่จะมีเหตุผลที่หนักแน่นพอ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "光の戦士 is Warrior of Light in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001614_HALMARUT",
@@ -481,7 +506,12 @@
    "key": "iwonderifyouwouldsaythesamewereitnotthefourthforyouareboundtothisworldareyounothalmarut",
    "text_human": "ข้าสงสัยว่าท่านจะพูดเช่นเดียวกันนี้หรือไม่ หากที่นี่ไม่ใช่เดอะโฟร์ท เพราะท่านผูกพันกับโลกใบนี้ มิใช่หรือ ฮาลมารุต",
    "text_haiku": "ถ้าเป็นกระจกโลกอื่นก็ว่าไปอย่าง แต่นี่มันโลกที่สี่นะ เจ้ามีพันธนาการหลายอย่างอยู่กับโลกนี้ไม่ใช่หรือ Halmarut",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "第四世界 is Fourth in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001624_CALYX",
@@ -495,12 +525,7 @@
    "key": "thoughmymotivesmaydifferfromthatoflahabreaandtheotherunsunderedmyobjectiveremainsthesametherejoininghalmarutwillsuffice",
    "text_human": "แม้แรงจูงใจของข้าจะต่างจากลาฮาเบรอาและเหล่าผู้มิได้ถูกแบ่งแยกคนอื่น แต่เป้าหมายของข้ายังคงเดิม—การหลอมรวมโลก เรียกฮาลมารุตก็พอแล้ว",
    "text_haiku": "แม้เจตนาของผมอาจต่างจากท่าน Lahabrea และพวกที่ไม่ถูกแยก แต่ตราบใดที่เป้าหมายของผมยังคงเป็นการรวมโลกกลับเป็นหนึ่งเดียว ผมก็คือ Ascian Halmarut ครับ Halmarut ก็พอครับ",
-   "flags": [
-    {
-     "check": "script",
-     "detail": "untranslated: Ascian"
-    }
-   ]
+   "flags": []
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_001632_HALMARUT",
