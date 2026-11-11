@@ -83,7 +83,7 @@ TRANSLATE_SYSTEM = (
 
 Source priority
 - Translate from the Japanese. The English is a looser localization; use it to resolve who is speaking to whom and what is being referred to.
-- When ja and en disagree in meaning, ja wins. Content that only en adds (a vocative, a flourish) may stay if it fits naturally.
+- When ja and en disagree in meaning, ja wins. A name that only en has, such as the person addressed, stays in the Thai line: players read names in English in the game, so it tells them who is meant. Titles around it are translated (en "Master Alphinaud, ..." -> ท่าน Alphinaud). Other content that only en adds (a flourish) may stay if it fits naturally.
 - Japanese traps to check on every line: omitted subjects and objects (decide who does what to whom before writing; くれる, もらう, あげる give the direction), が and けど joining clauses as "but" rather than marking a subject, and sentence-final softeners that are not questions.
 - Newlines inside ja are display wraps, not sentence breaks. Write each Thai line as a single line.
 - When en is a voice direction in [square brackets], the line is a short vocal sound. Translate the ja sound as a Thai interjection, not the direction.
@@ -93,8 +93,8 @@ Thai style
 - Natural spoken Thai as in a well-localized game script, not word-for-word translationese. Keep the weight of words (hope, at once, in earnest). Do not add or drop content.
 - Keep ? ! ... to match the emotion of the original. Write ๆ attached to its word and followed by a space (จริงๆ แล้ว, never จริง ๆ แล้ว).
 - `Forename` and `Surname` are the player's name placeholders. Copy them exactly, in Latin letters, wherever ja or en has them. Never translate, transliterate, or drop them.
-- Everything else is in Thai script: transliterate names of people, places, ships and organizations from their English form so they read correctly aloud, and translate descriptive names by meaning. Never romanize a Japanese reading (「暁」 is the Scions, not Akatsuki). No Latin or Japanese characters may remain. English marks emphasis and ship names with *asterisks*; drop the asterisks.
-- If "names already used in this project" are given, use exactly those Thai renderings.
+- Proper nouns (people, places, ships, organizations, named concepts) stay in their official English form, in Latin letters, exactly as en spells them. Never transliterate them into Thai script and never romanize a Japanese reading (「暁」 is Scions, not Akatsuki or อรุโณทัย). A line's "terms" maps each Japanese name in it to that English form; write those exactly.
+- Everything else is in Thai script. No Japanese characters may remain, and no Latin text other than proper nouns and the placeholders. English marks emphasis and ship names with *asterisks*; drop the asterisks.
 
 Voices (pronouns and particles stay consistent per speaker)
 """
@@ -103,9 +103,8 @@ Voices (pronouns and particles stay consistent per speaker)
 
 Output
 Return only a JSON object, no code fence, no commentary:
-{"lines": {"<id>": "<Thai>", ...}, "names": [{"en": "<English name>", "ja": "<Japanese name>", "th": "<Thai rendering you used>"}, ...]}
-- "lines" has exactly one non-empty entry per input id.
-- "names" lists every proper noun or world-specific term (person, place, ship, organization, named concept) that appears in your Thai lines, with the exact Thai string you wrote. Do not list Forename or Surname."""
+{"lines": {"<id>": "<Thai>", ...}}
+- "lines" has exactly one non-empty entry per input id."""
 )
 
 REVIEW_SYSTEM = """You review a Thai fan translation of Final Fantasy XIV dialogue against its Japanese original (ja). The English localization (en) is a looser reference. Lines are in script order within one quest.
@@ -398,29 +397,23 @@ def ask(call, run, stage, system, user, parse, effort=None, model=None):
     raise SystemExit(f"{run['quest']}/{stage}: invalid output twice: {error}")
 
 
-def term_occurs(term, row):
-    if term["ja"]:
-        return term["ja"] in row["text_ja"]
-    return bool(re.search(rf"(?<!\w){re.escape(term['en'])}(?!\w)", row["text_en"], re.I))
+class Terms:
+    """terms.json (built by build_terms.py): the official English of each Japanese proper noun. A line uses
+    the longest names in its Japanese, without overlap: エーテライト・プラザ, not エーテライト inside it."""
+
+    def __init__(self, english):
+        self.english = english
+        self.pattern = re.compile("|".join(map(re.escape, sorted(english, key=len, reverse=True))) or "(?!)")
+
+    def __len__(self):
+        return len(self.english)
+
+    def used_by(self, row):
+        return {match.group(): self.english[match.group()] for match in self.pattern.finditer(row["text_ja"])}
 
 
 def load_terms():
-    return json.loads(TERMS.read_text(encoding="utf-8")) if TERMS.exists() else {}
-
-
-def record_terms(names, rows, quest):
-    """Add renderings the translation really used. First recorded rendering wins; a different one is a conflict."""
-    terms, conflicts = load_terms(), []
-    for name in names:
-        term = {field: str(name.get(field) or "").strip() for field in ("en", "ja", "th")}
-        used = any(term["th"] in row["text_haiku"] for row in rows if term_occurs(term, row))
-        if not (term["en"] and term["th"] and used) or term["en"] in ("Forename", "Surname"):
-            continue
-        known = terms.setdefault(term["en"].lower(), {**term, "first_quest": quest})
-        if known["th"] != term["th"]:
-            conflicts.append({"en": term["en"], "recorded": known["th"], "this_run": term["th"]})
-    write_atomic(TERMS, dump(dict(sorted(terms.items()))))
-    return conflicts
+    return Terms(json.loads(TERMS.read_text(encoding="utf-8")) if TERMS.exists() else {})
 
 
 def lint(row, text, terms):
@@ -430,13 +423,19 @@ def lint(row, text, terms):
     for placeholder in ("Forename", "Surname"):
         if placeholder in row["text_en"] + row["text_ja"] and placeholder not in text:
             flags.append({"check": "forename", "detail": f"source has {placeholder}, translation does not"})
-    for term in terms:
-        if term_occurs(term, row) and term["th"] not in text:
-            flags.append({"check": "name", "detail": f"{term['en']} is {term['th']} in terms.json"})
+    names = terms.used_by(row)
+    for ja, en in names.items():
+        if en not in text:
+            flags.append({"check": "name", "detail": f"{ja} is {en} in terms.json"})
     used = [p for p in VOICES.get(row["speaker"], ("", []))[1] if re.search(p, text)]
     if used:
         flags.append({"check": "pronoun", "detail": f"{row['speaker']} uses " + " ".join(re.search(p, text).group() for p in used)})
-    leftover = re.findall(r"[A-Za-z\u00C0-\u024F\u3000-\u30FF\u3400-\u9FFF\uFF00-\uFFEF]+", text.replace("Forename", "").replace("Surname", ""))
+    # Latin is a proper noun when en or terms.json has the word; anything else was left untranslated.
+    english = set(re.findall(r"\w+", " ".join([row["text_en"], *names.values()])))
+    leftover = [
+        word for word in re.findall(r"[A-Za-z\u00C0-\u024F\u3000-\u30FF\u3400-\u9FFF\uFF00-\uFFEF]+", text.replace("Forename", "").replace("Surname", ""))
+        if word not in english
+    ]
     if leftover:
         flags.append({"check": "script", "detail": "untranslated: " + " ".join(leftover)})
     en_ratio, ja_ratio = len(text) / len(row["text_en"]), len(text) / len(row["text_ja"])
@@ -447,7 +446,7 @@ def lint(row, text, terms):
     return flags
 
 
-def lines_block(rows, with_thai=False):
+def lines_block(rows, with_thai=False, terms=None):
     def line(n, row):
         out = {"id": str(n), "speaker": row["speaker"]}
         if row["shown_as"]:
@@ -455,6 +454,8 @@ def lines_block(rows, with_thai=False):
         if row["file"].startswith("cut_scene/"):
             out["part"] = "cutscene"
         out.update(ja=row["text_ja"], en=row["text_en"])
+        if terms and (names := terms.used_by(row)):
+            out["terms"] = names
         if with_thai:
             out["th"] = row["text_haiku"]
         return json.dumps(out, ensure_ascii=False)
@@ -462,8 +463,8 @@ def lines_block(rows, with_thai=False):
     return ",\n".join(line(n, row) for n, row in enumerate(rows, 1))
 
 
-def translate(call, run, rows, known):
-    """Sets text_haiku on every row; returns the names the model says it rendered."""
+def translate(call, run, rows, terms):
+    """Sets text_haiku on every row."""
     ids = [str(n) for n in range(1, len(rows) + 1)]
 
     def parse(reply):
@@ -471,14 +472,11 @@ def translate(call, run, rows, known):
         bad = [i for i in ids if not (isinstance(lines.get(i), str) and lines[i].strip())]
         if bad or len(lines) != len(ids):
             raise ValueError(f"ids missing or empty: {bad}; unexpected: {sorted(set(lines) - set(ids))}")
-        return lines, [n for n in reply.get("names", []) if isinstance(n, dict)]
+        return lines
 
-    names_block = "".join(f"{t['en']} | {t['ja']} -> {t['th']}\n" for t in known) or "(none yet)\n"
-    user = f"Names already used in this project (en | ja -> th):\n{names_block}\nLines:\n[{lines_block(rows)}]"
-    lines, names = ask(call, run, "translate", TRANSLATE_SYSTEM, user, parse)
+    lines = ask(call, run, "translate", TRANSLATE_SYSTEM, f"Lines:\n[{lines_block(rows, terms=terms)}]", parse)
     for i, row in zip(ids, rows):
         row["text_haiku"] = " ".join(lines[i].translate(PUNCTUATION).split())
-    return names
 
 
 def review(call, run, rows):
@@ -525,21 +523,16 @@ def run_quest(stem, call, force, selection):
     unit = build_unit(source, quest_table[stem], stored_attributions(selection["cutscene_candidates"]))
     record = None if force else load_record(stem)
     work = stored_work(record) if record else {}
-    meta = {
-        "selection": selection, "run_ids": record["run_ids"] if record else [],
-        "names_sent": record["names_sent"] if record else [], "term_conflicts": record["term_conflicts"] if record else [],
-    }
+    meta = {"selection": selection, "run_ids": record["run_ids"] if record else []}
     todo = [row for row in unit["rows"] if not row["skip"] and row["key"] not in work]
     if todo:
         run = {"run_id": new_run_id(), "quest": stem}
         meta["run_ids"] = meta["run_ids"] + [run["run_id"]]
         size = -(-len(todo) // -(-len(todo) // CHUNK))
+        terms = load_terms()
         for start in range(0, len(todo), size):
             rows = todo[start:start + size]
-            known = [t for t in load_terms().values() if any(term_occurs(t, row) for row in rows)]
-            names = translate(call, run, rows, known)
-            meta["names_sent"] = sorted(set(meta["names_sent"]) | {t["en"] for t in known})
-            meta["term_conflicts"] = meta["term_conflicts"] + record_terms(names, rows, stem)
+            translate(call, run, rows, terms)
             reasons = review(call, run, rows)
             for position, row in enumerate(rows):
                 work[row["key"]] = {"text_haiku": row["text_haiku"], "review": reasons.get(position)}
@@ -559,7 +552,7 @@ def store(stem, meta, model_work):
     unit = build_unit(source, quest, stored_attributions(meta["selection"]["cutscene_candidates"]))
     team = load_team(quest)
     human = {key: text for lines in [*team["shared"].values(), *team["quest"].values()] for key, text in lines.items()}
-    terms = list(load_terms().values())
+    terms = load_terms()
     rows = [row for row in unit["rows"] if not row["skip"]]
     for row in rows:
         work = model_work[row["key"]]
@@ -594,7 +587,7 @@ def refresh():
     quests = []
     for path in sorted((OUT / REVIEW_DIR).glob("*.json")):
         old = json.loads(path.read_text(encoding="utf-8"))
-        meta = {field: old[field] for field in ("selection", "run_ids", "names_sent", "term_conflicts")}
+        meta = {field: old[field] for field in ("selection", "run_ids")}
         try:
             quests.append(store(old["quest_id"], meta, stored_work(old)))
         except KeyError as missing:
@@ -685,12 +678,12 @@ def write_report(quests):
             "The API-path estimate removes the harness tokens and prices all input at $0.10/MTok and the same output tokens at $0.50/MTok, without caching. It is an estimate; the API path was not run.\n"
         )
 
-    md.append("\n## Flags\n\nLines with at least one flag per check. `human` runs the same deterministic lints on the human reference as a noise baseline (the `name` lint is skipped there because terms.json holds Haiku's own spellings).\n\n")
+    md.append("\n## Flags\n\nLines with at least one flag per check. `human` runs the same deterministic lints on the human reference as a noise baseline (the `name` lint is skipped there because the team writes names in Thai, not the English of terms.json).\n\n")
     checks = ["empty", "forename", "name", "pronoun", "script", "length", "review"]
     md.append("| quest | lines | any flag | " + " | ".join(checks) + " | human: any lint |\n|---|---|---|" + "---|" * (len(checks) + 1) + "\n")
     for q in quests:
         per_check = [sum(any(f["check"] == c for f in r["flags"]) for r in q["rows"]) for c in checks]
-        baseline = sum(bool(lint(r, r["text_human"], [])) for r in q["rows"] if r["text_human"])
+        baseline = sum(bool(lint(r, r["text_human"], Terms({}))) for r in q["rows"] if r["text_human"])
         md.append(f"| {q['quest_id']} | {len(q['rows'])} | {sum(bool(r['flags']) for r in q['rows'])} | " + " | ".join(map(str, per_check)) + f" | {baseline} |\n")
 
     md.append("\n## Coverage\n\nFrom `out/coverage/<quest_id>.json`. Every row of every source file is translated or skipped with a reason; every key of the team's files is in the output or listed with a reason.\n\n")
@@ -712,9 +705,7 @@ def write_report(quests):
             for n, start in enumerate(starts)
         ]
         md.append(f"- `{record['file']}` ({record['rows']} rows; window of {len(record['window'])} quests from {record['window_method']}; votes split on {record['rows_votes_split_on']} rows): " + "; ".join(blocks) + ".\n")
-    md.append(f"\n## Names\n\n`terms.json` holds {len(load_terms())} renderings.\n\n")
-    for q in quests:
-        md.append(f"- {q['quest_id']}: received {len(q['names_sent'])} known names; conflicts with terms.json (not overwritten): {q['term_conflicts'] or 'none'}.\n")
+    md.append(f"\n## Names\n\n`terms.json` holds {len(load_terms())} Japanese names with their official English, which translations keep (`name` flags above).\n")
 
     by_key = {}
     for q in quests:
