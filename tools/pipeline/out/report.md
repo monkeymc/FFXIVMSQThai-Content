@@ -9,16 +9,16 @@ Per quest: the calls of the runs that produced the current output (translate + r
 | quest | backend | calls | input tok | cache-write tok | cache-read tok | output tok | of which thinking | cost USD | est. API-path USD |
 |---|---|---|---|---|---|---|---|---|---|
 | HeaVnb108_02163 (164 lines) | cli | 6 | 12 | 55227 | 3771 | 92143 | 77030 | 0.057156 | 0.051606 |
-| KinGml101_05475 (96 lines) | cli | 4 | 8 | 30465 | 2514 | 46452 | 38968 | 0.029345 | 0.026281 |
+| KinGml101_05475 (96 lines) | cli | 6 | 12 | 34048 | 2514 | 39678 | 32015 | 0.026675 | 0.023130 |
 | KinGml104_05478 (69 lines) | cli | 4 | 8 | 21572 | 2514 | 31623 | 26500 | 0.020152 | 0.017977 |
 | VoiceMan_03008 attribution (33 rows, 3 votes) | cli | 3 | 6 | 26668 | 53336 | 29588 | 29464 | 0.020662 | 0.022612 |
 | VoiceMan_03100 attribution (203 rows, 3 votes) | cli | 3 | 6 | 43833 | 89373 | 48487 | 48038 | 0.033904 | 0.037382 |
 | VoiceMan_03300 attribution (202 rows, 3 votes) | cli | 3 | 6 | 42624 | 86955 | 33441 | 32954 | 0.026115 | 0.029496 |
 | VoiceMan_07400 attribution (508 rows, 3 votes) | cli | 3 | 8 | 61228 | 185960 | 115310 | 114595 | 0.071761 | 0.082192 |
 | VoiceMan_07505 attribution (351 rows, 3 votes) | cli | 3 | 6 | 31626 | 17164 | 25792 | 25473 | 0.019393 | 0.017593 |
-| **total, current outputs** | cli | 29 | 60 | 313243 | 441587 | 422836 | 393022 | 0.278488 | 0.285138 |
+| **total, current outputs** | cli | 31 | 64 | 316826 | 441587 | 416062 | 386069 | 0.275818 | 0.281988 |
 
-All logged calls, including probes, rejected attempts and superseded runs: 77 calls, $1.245953.
+All logged calls, including probes, rejected attempts and superseded runs: 83 calls, $1.272628.
 
 ### Every logged run
 
@@ -65,8 +65,10 @@ Same quest, same prompt: the spread between rows is run-to-run variance, mostly 
 | probe-terms | 20261111T184556-1f4fb3 | translate | medium | 824 | 723 | 0.000431 |  |
 | probe-terms | 20261111T184601-23a8f0 | translate | medium | 880 | 776 | 0.000460 |  |
 | HeaVnb108_02163 | 20261111T185104-153130 | translate+review+translate+review+translate+review | medium | 92143 | 77030 | 0.057156 | yes |
-| KinGml101_05475 | 20261111T190826-e2cae7 | translate+review+translate+review | medium | 46452 | 38968 | 0.029345 | yes |
+| KinGml101_05475 | 20261111T190826-e2cae7 | translate+review+translate+review | medium | 46452 | 38968 | 0.029345 |  |
 | KinGml104_05478 | 20261111T191136-c2a659 | translate+review+translate+review | medium | 31623 | 26500 | 0.020152 | yes |
+| KinGml101_05475 | 20261112T000628-8c82ca | translate+review+translate+review | medium | 38530 | 30977 | 0.025732 | yes |
+| KinGml101_05475 | 20261112T001008-563173 | translate+review | medium | 1148 | 1038 | 0.000943 | yes |
 
 CLI overhead: a probe with a 3-word prompt was billed 610 input tokens, so about that many tokens per call are the CLI harness, and the CLI writes the whole prompt to the 1-hour cache (2x the input price). The API-path estimate removes the harness tokens and prices all input at $0.10/MTok and the same output tokens at $0.50/MTok, without caching. It is an estimate; the API path was not run.
 
@@ -77,7 +79,7 @@ Lines with at least one flag per check. `human` runs the same deterministic lint
 | quest | lines | any flag | empty | forename | name | pronoun | script | length | review | human: any lint |
 |---|---|---|---|---|---|---|---|---|---|---|
 | HeaVnb108_02163 | 164 | 30 | 0 | 3 | 9 | 0 | 10 | 10 | 5 | 4 |
-| KinGml101_05475 | 96 | 8 | 0 | 0 | 2 | 0 | 4 | 2 | 2 | 0 |
+| KinGml101_05475 | 96 | 5 | 0 | 0 | 0 | 1 | 4 | 1 | 0 | 0 |
 | KinGml104_05478 | 69 | 10 | 0 | 0 | 7 | 0 | 3 | 0 | 0 | 0 |
 
 ## Coverage
@@ -149,29 +151,29 @@ Three lines per quest: most flags first, then longest.
 
 ### KinGml101_05475
 
-**Urianger** (`TEXT_VOICEMAN_07505_000116_URIANGER`)
-
-- JA: なぜ、どのようにして、その形に至ったのか…… そういった真実を知ることで正しき展望が描かれ、 新たな武王と理王が生まれたのです。
-- EN: With inquisitive minds did they acquire knowledge that broadened their perspectives. Thus were they shaped into the worthy Vows they did become.
-- Human: ด้วยจิตใจใฝ่รู้ พวกเขาจึงได้มาซึ่งความรู้ที่เปิดโลกทัศน์ให้กว้างไกล และหล่อหลอมพวกเขาให้กลายเป็นท่านปณิธานผู้คู่ควรดังที่เป็นอยู่
-- Haiku: เมื่อพวกเขาค้นหาความจริงด้วยจิตใจที่ใฝ่รู้ว่าเหตุใดและด้วยวิธีใดจึงกลายเป็นเช่นนี้ มุมมองของพวกเขาก็กว้างขึ้น และ Vow ผู้คู่ควรทั้งสองคนจึงได้ถือกำเนิดขึ้น
-- Flags: name: 武王 is Vow of Resolve in terms.json; name: 理王 is Queen of Reason in terms.json
-
 **Alphinaud** (`TEXT_VOICEMAN_07505_000310_ALPHINAUD`)
 
 - JA: もしや、君の…… エートスによる転移に、私たちも？
 - EN: Were we...were we caught up in the incantation?
 - Human: เรา...เราโดนคาถานั่นดูดมาด้วยหรือเปล่า
-- Haiku: หรือว่า... การเคลื่อนย้ายด้วย Ethos ของคุณ ทำให้ผมกับ Estinien ถูกดึงไปด้วยหรือครับ?
-- Flags: script: untranslated: Ethos Estinien; length: th/en 1.79, th/ja 3.36
+- Haiku: หรือว่า... พวกเราก็ถูกดึงเข้ามาพร้อมกับการย้ายที่ด้วย Ethos ของคุณด้วยหรือเปล่า?
+- Flags: script: untranslated: Ethos; length: th/en 1.70, th/ja 3.20
 
-**Alphinaud** (`TEXT_VOICEMAN_07505_000380_ALPHINAUD`)
+**Urianger** (`TEXT_VOICEMAN_07505_000174_URIANGER`)
 
-- JA: 転移の最中に、イゼルと似た人物を……？
-- EN: A woman who looked like Ysayle...
-- Human: หญิงสาวที่หน้าตาเหมือนอีเซลรึ...
-- Haiku: ระหว่างการเคลื่อนย้าย... ผมเห็นผู้หญิงที่หน้าตาคล้าย Ysayle หรือครับ?
-- Flags: length: th/en 2.09, th/ja 3.63; review: Wrong agent: ja "転移の最中に、イゼルと似た人物を……？" asks whether the listener saw a lookalike, but th has Alphinaud say "ผมเห็น" (I saw).
+- JA: 月に開いた、第十三世界へと渡るゲートは、 長年にわたるヴォイド研究の賜物です。 見ず知らずの世界に対して、同じことはできません……。
+- EN: While the portal unto the Thirteenth was the fruit of long years of research. The same method is not like to avail us with a reflection unknown.
+- Human: ส่วนประตูมิติสู่โลกที่สิบสามนั้นเป็นผลจากการค้นคว้าอันยาวนานหลายปี วิธีเดียวกันนี้ย่อมใช้กับโลกเงาสะท้อนที่เราไม่รู้จักไม่ได้
+- Haiku: ส่วนประตูสู่ Thirteenth ที่เปิดขึ้นบนดวงจันทร์นั้น เป็นผลจากงานวิจัยเรื่อง Void มาเนิ่นนาน วิธีเดิมคงใช้กับเงาสะท้อนที่เราไม่รู้จักไม่ได้
+- Flags: script: untranslated: Void
+
+**Alphinaud** (`TEXT_VOICEMAN_07505_000126_ALPHINAUD`)
+
+- JA: ……確かに。 最後に何を選び採るとしても、まずはそこから始めてみようか。
+- EN: Indeed, you have the right of it. We ought to learn all we can, the better to decide our own course.
+- Human: จริงอย่างที่ว่า เราควรเรียนรู้ให้มากที่สุดเท่าที่จะทำได้ เพื่อจะได้เลือกเส้นทางของตัวเองอย่างถูกต้อง
+- Haiku: จริงของเจ้า ไม่ว่าสุดท้ายจะเลือกอะไร ก็ควรเริ่มจากการเรียนรู้ให้มากที่สุดก่อนครับ จะได้ตัดสินใจเลือกเส้นทางของเราเองได้ดียิ่งขึ้น
+- Flags: pronoun: Alphinaud uses เจ้า
 
 ### KinGml104_05478
 
