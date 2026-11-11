@@ -1,0 +1,66 @@
+{
+ "file": "cut_scene/030/VoiceMan_03008",
+ "blob": "a1076444863c547d80490774c850a5846cf94e41",
+ "datamining_commit": "52a72b38aa2f967cab36867f34cd9bee9debb88b",
+ "rows": 33,
+ "window_method": "lexical alignment of the expansion",
+ "window": [
+  "HeaVna701_01663",
+  "HeaVna702_01664",
+  "HeaVna703_01665",
+  "HeaVna704_01666",
+  "HeaVna705_01667",
+  "HeaVna706_01668",
+  "HeaVna707_01669",
+  "HeaVnb101_02156",
+  "HeaVnb103_02158",
+  "HeaVnb104_02159",
+  "HeaVnb105_02160",
+  "HeaVnb106_02161",
+  "HeaVnb108_02163"
+ ],
+ "model": "claude-haiku-5-5",
+ "run_ids": [
+  "20261111T022837-a22330",
+  "20261111T023700-49cfa4"
+ ],
+ "votes": [
+  [
+   {
+    "quest": "HeaVna707_01669",
+    "row": 0
+   }
+  ],
+  [
+   {
+    "quest": "HeaVna707_01669",
+    "row": 0
+   },
+   {
+    "quest": null,
+    "row": 22
+   }
+  ],
+  [
+   {
+    "quest": "HeaVna707_01669",
+    "row": 0
+   },
+   {
+    "quest": null,
+    "row": 22
+   }
+  ]
+ ],
+ "starts": [
+  {
+   "quest": "HeaVna707_01669",
+   "row": 0
+  },
+  {
+   "quest": null,
+   "row": 22
+  }
+ ],
+ "rows_votes_split_on": 11
+}

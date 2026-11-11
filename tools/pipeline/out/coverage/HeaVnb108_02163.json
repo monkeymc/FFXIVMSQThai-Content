@@ -1,0 +1,3504 @@
+{
+ "quest_id": "HeaVnb108_02163",
+ "name": "As Goes Light, So Goes Darkness",
+ "datamining_commit": "52a72b38aa2f967cab36867f34cd9bee9debb88b",
+ "cutscenes_linked_in_quest_csv": [
+  {
+   "id": 1054,
+   "path": "ex1/heavnb/heavnb10810/heavnb10810"
+  },
+  {
+   "id": 1055,
+   "path": "ex1/heavnb/heavnb10820/heavnb10820"
+  },
+  {
+   "id": 1056,
+   "path": "ex1/heavnb/heavnb10830/heavnb10830"
+  },
+  {
+   "id": 1057,
+   "path": "ex1/heavnb/heavnb10840/heavnb10840"
+  },
+  {
+   "id": 1058,
+   "path": "ex1/heavnb/heavnb10850/heavnb10850"
+  },
+  {
+   "id": 1059,
+   "path": "ex1/heavnb/heavnb10860/heavnb10860"
+  },
+  {
+   "id": 1060,
+   "path": "ex1/heavnb/heavnb10870/heavnb10870"
+  }
+ ],
+ "cutscene_files_examined": [
+  "cut_scene/030/VoiceMan_03008",
+  "cut_scene/031/VoiceMan_03100"
+ ],
+ "totals": {
+  "rows": 368,
+  "translated": 164,
+  "skipped": {
+   "other_quest": 124,
+   "empty": 38,
+   "unused": 20,
+   "choice": 7,
+   "journal": 6,
+   "todo": 4,
+   "duty_text": 4,
+   "not_displayed": 1
+  }
+ },
+ "sources": [
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "rows": 165,
+   "translated": 89,
+   "skipped": {
+    "empty": 38,
+    "unused": 20,
+    "journal": 6,
+    "todo": 4,
+    "choice": 4,
+    "duty_text": 4
+   }
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "rows": 203,
+   "translated": 75,
+   "skipped": {
+    "other_quest": 124,
+    "choice": 3,
+    "not_displayed": 1
+   }
+  }
+ ],
+ "team": {
+  "files": [
+   "3.x/as-goes-light-so-goes-darkness.json"
+  ],
+  "keys": 157,
+  "in_output": 141,
+  "not_in_output": {
+   "text_differs": 10,
+   "not_in_searched_files": 3,
+   "merged_rows": 2,
+   "found_elsewhere": 1
+  },
+  "not_in_output_keys": [
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "thelordcommanderofthetempleknightsassaultedinthestreetswhatmadnesshasgrippedourfaircity",
+    "reason": "not_in_searched_files",
+    "detail": "no row of this expansion's main-scenario quest files or cutscene files has this key or a similar one at this commit; the line may come from another sheet (NPC idle talk, duty yells)"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "itsagoodthingwefoundthancredrightnowweneedallthehelpwecanget",
+    "reason": "not_in_searched_files",
+    "detail": "no row of this expansion's main-scenario quest files or cutscene files has this key or a similar one at this commit; the line may come from another sheet (NPC idle talk, duty yells)"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "arehealingwellthankyoutimeisoftheessencelestweforgetthesemenwouldsoonerputtheirowncitytothetorchthanseeitchange",
+    "reason": "merged_rows",
+    "detail": "the team joined consecutive rows: cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001290_AYMERIC (translated); cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001300_AYMERIC (translated)"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "theythetruebrothersofthefaithdemandaconclavetoselectthenextarchbishopbeheldforthwithfurthermoreththeydeclarethatyoulordcommanderareguiltyofpatricideandhighreasonandthatyoumustsurrenderyourselfatoncetoreceivethefurysjudgment",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.98: cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001370_TEMPLERKNIGHT10810 (translated); source text: They...the True Brothers of the Faith demand that a conclave to select the next archbishop be held forthwith. Furthermore, th-they declare that you, Lord Commander, are guilty of patricide and high treason, and that you must surrender yourself at once to receive of the Fury's judgment."
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "there",
+    "reason": "found_elsewhere",
+    "detail": "cut_scene/030/VoiceMan_03003 TEXT_VOICEMAN_03003_M00030_ESTINIEN"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "youmusthurrytheothersweretakenelsewherebysersimoneard",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.98: quest/021/HeaVnb108_02163 TEXT_HEAVNB108_02163_HOSTAGE01_BATTLETALK_002_003 (translated); source text: You must hurry! The others were taken elsewhere by Ser Simeonard."
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "thisknightdoesnotyield",
+    "reason": "not_in_searched_files",
+    "detail": "no row of this expansion's main-scenario quest files or cutscene files has this key or a similar one at this commit; the line may come from another sheet (NPC idle talk, duty yells)"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "surrendertowhomtheblasphemerwhothrowswidethegatestoourenemywhobreaksbreadwithhimandcallshimbrotherundoglyswineiwouldsoonerdiethansurrendertoyou",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.99: cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001520_ISHGARDIANPRIEST (translated); source text: Surrender to whom!? The blasphemer who throws wide the gates to our enemy, who breaks bread with him and calls him brother!? Ungodly swine! I would sooner *die* than surrender to you!"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "fromhrasevelgr",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.93: cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001660_AYMERIC (translated); source text: From Hraesvelgr?"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "welltisonlymeetthatiinformtataruofwhathashappenedhereifyouhaveneedofmeishallbeatfortempsmanor",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.94: quest/021/HeaVnb108_02163 TEXT_HEAVNB108_02163_ALPHINAUD_000_084 (translated); source text: Well, 'tis only meet that I inform Tataru of what has occurred here. If you have need of me, I shall be at Fortemps Manor."
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "soyousenseittooasubtlechangeimperceptibletomostimyselfdidnotnoticeitatfirstbutuponcloserexaminationisawthathisaethericflowhadbeenirreparablydisrupted",
+    "reason": "merged_rows",
+    "detail": "the team joined consecutive rows: quest/021/HeaVnb108_02163 TEXT_HEAVNB108_02163_YSHTOLA_000_091 (translated); quest/021/HeaVnb108_02163 TEXT_HEAVNB108_02163_YSHTOLA_000_092 (translated)"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "itisarelieftoseethatyouareunharmedmastermistresssurnameprayremainhereamomentlordartoirelshouldbereturningshortly",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.94: quest/021/HeaVnb108_02163 TEXT_HEAVNB108_02163_STEWARD_000_107 (translated); source text: It is a relief to see that you are unharmed, Mistress . Pray remain here a moment─Lord Artoirel should be returning shortly."
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "seraymericwasnottheonlyonetofallundersuspicionfollowingthedeathofthearchbishoptherearesomewhobelievemyfathercomplicitinacoupdetat",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 1.00: cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001840_ARTOIREL (translated); source text: Ser Aymeric was not the only one to fall under suspicion following the death of the archbishop. There are some who believe my father complicit in a coup d'état."
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "youwereabrothersistertohaurchefantwillyoubeabrothersistertomeaswell",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.88: cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001930_ARTOIREL (translated); source text: You were a sister to Haurchefant. Will you be a sister to me as well?"
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "tothinkwesharethesamebloodprayexcuseus",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.95: cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001950_ARTOIREL (translated); source text: <sigh> To think we share the same blood... Pray excuse us."
+   },
+   {
+    "team_file": "3.x/as-goes-light-so-goes-darkness.json",
+    "key": "afutureshapedbythechoiceswemadeinwayswecouldneverhaveforseen",
+    "reason": "text_differs",
+    "detail": "closest row, key similarity 0.99: cut_scene/031/VoiceMan_03100 TEXT_VOICEMAN_03100_001970_EDMONT (translated); source text: A future shaped by the choices we made, in ways we could never have foreseen."
+   }
+  ],
+  "shared_file_keys_matching_no_selected_row": []
+ },
+ "rows_detail": [
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 0,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_00",
+   "key": "luciaisnotonetorestonherlaurels",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 1,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_01",
+   "key": "asyouandtheothersdebatehowbesttoproceedseraymericenterstheroominthecompanyoflordsedmontandartoireltothedelightandreliefofallpresentalastheresultingmoodofoptimismissoonsouredbythearrivalofapanickedknightbearinggravetidingsarebelfactioncallingthemselvesthetruebrothersofthefaithhaveseizedcontrolofthevaultandtakentherefugeesshelteringwithinhostageneedlesstosaythelordcommandercannotbowtothedemandsofsuchzealotsleavinghimwithbutoneoptionanarmedassaultwithouthesitationyouandyourfellowscionsvolunteertohelppromptinglordartoireltopledgehissupportaswell",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 2,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_02",
+   "key": "thoughyousucceedinsneakingintothebasilicaundetectedtherebelssooncatchwindofyourpresenceandattempttoexecutethehostagesfortunatelytheyarenomatchforyouandyouralliesandtogetheryouareabletorescueallbutoneoftheircaptivesayounggirlnamedmaeliewhomyoulearnwasborneofftotheupperlevelsbyapriestyouseraymericandlordartoirelhavenochoicebuttogivechase",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 3,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_03",
+   "key": "youfinallycornerthepriestontheuppermostlevelofthevaultandseraymericdemandshisimmediatesurrenderalasthemanwillnothearreasonbeingconvincedbeyondalldoubtthatseraymericisatraitortobothkinandcountryinafinalactofdefiancehethrowsmaeliefromtheledgesendingthechildtumblingtowardstheplazafarbelowluciaandyshtolacanonlywatchinhorrorasthescreamingfigureplummetstowardsthembutjustwhenallhopeseemslostagreatwhitedragonswoopsdowntopluckherfromtheveryjawsofdeathvidofnirsoonafteryouseraymericandlordartoireljointheothersoutsidewherevidofniriswaitingtodeliverawarningfromhraesvelgritwouldseemnidhoggandhisbroodhaveflownforskiesunknownwhenalphinaudsubsequentlypressesthedragonforanswersregardingestinienshedeclaresthatshecanprovidenoneandbidsyoufarewellthoughhervisitwasalltoobriefseraymerichopesthatitwilldomuchtochangetheopinionsofthecommonmanyetlordedmontwhodoesnotshareinhisoptimismimplorestheyoungknighttomovewithgreatercautionlestmoreperishinhisheadlongrushforchangenotleastseraymerichimselfwhomthecountplainlycherishesasason",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 4,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_04",
+   "key": "inthewakeofvidofnirsdepartureyshtolaspeakstoyouprivatelyregardingthancredinwhomshesensesatroublingchangeaccordingtoherhisaethericflowhasbeendisruptedinamannerwhichwouldtheoreticallypreventhimfromwieldingallmagicksteleportationincludedthoughshestressesthatthisisasyetmerespeculationitwoulddomuchtoexplainwhyhedidnotriskseekingoutthescionsuponlearningthataprimalhadbeensummonedintheabsenceofproofhoweveryouhavenochoicebuttoremainsilentandattendalphinaudinfortempsmanor",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 5,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_05",
+   "key": "asyoudiscussrecenteventswithalphinaudandtatarulordsartoirelandemmanellainenterhavingcometopresentyouallatokenoftheirgratitudeahousefortempsshieldfitforatrueknightitsoonbecomesclearhoweverthatthiswasnotartoirelsonlyreasonforseekinganaudiencewhenherevealsthatcountedmontmeanstostepasideleavinghimtotakehisfathersplaceastheheadofhousefortempsinthiswaycountedmontintendstoridthehouseofthelingeringsuspicionthatitwascomplicitinacoupdtatorchestratedbyseraymericyetwhilelordartoirelhadlongdreamedofthisdayitwouldseemthattherecentrevelationsregardingthefoundingfathersofishgardhadpromptedhimtoquestionthevalueofhisbirthrightuntilthatisherecalledhislatebrotherswordsaknightlivestoservetoaidthoseinneedandsohevowstofollowhaurchefantsproudexampleandlaborforthegreatergoodofishgardandshouldhisresolvewaverhehopesthatyouwillshowhimthewayasasister",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 6,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_06",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 7,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_07",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 8,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_08",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 9,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_09",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 10,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_10",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 11,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_11",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 12,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_12",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 13,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_13",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 14,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_14",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 15,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_15",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 16,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_16",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 17,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_17",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 18,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_18",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 19,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_19",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 20,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_20",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 21,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_21",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 22,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_22",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 23,
+   "text_id": "TEXT_HEAVNB108_02163_SEQ_23",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 24,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_00",
+   "key": "rendezvouswithaymericinthepillars",
+   "disposition": "skipped",
+   "reason": "todo",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 25,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_01",
+   "key": "speakwithaymeric",
+   "disposition": "skipped",
+   "reason": "todo",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 26,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_02",
+   "key": "speakwithalphinaud",
+   "disposition": "skipped",
+   "reason": "todo",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 27,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_03",
+   "key": "speakwithalphinaudatfortempsmanor",
+   "disposition": "skipped",
+   "reason": "todo",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 28,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_04",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 29,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_05",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 30,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_06",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 31,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_07",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 32,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_08",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 33,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_09",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 34,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_10",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 35,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_11",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 36,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_12",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 37,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_13",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 38,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_14",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 39,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_15",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 40,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_16",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 41,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_17",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 42,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_18",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 43,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_19",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 44,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_20",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 45,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_21",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 46,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_22",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 47,
+   "text_id": "TEXT_HEAVNB108_02163_TODO_23",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 48,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_001",
+   "key": "howdesperatelyweclingtothatwhichweholddearknowingallthewhilethatadaywillcomewhenwemustletgo",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 49,
+   "text_id": "TEXT_HEAVNB108_02163_ALPHINAUD_000_005",
+   "key": "itwasnotsolongagowasit",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 50,
+   "text_id": "TEXT_HEAVNB108_02163_HILDA_000_010",
+   "key": "thepastbelongstothedeadthefuturesourstodowithwhatwewill",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 51,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_000_015",
+   "key": "nomorefarewellsnotforagoodwhileyetatleast",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 52,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_020",
+   "key": "concentrateonfreeingthehostagesiwilltendtotheirwounds",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 53,
+   "text_id": "TEXT_HEAVNB108_02163_ALPHINAUD_000_025",
+   "key": "readywhenyouareforename",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 54,
+   "text_id": "TEXT_HEAVNB108_02163_HILDA_000_030",
+   "key": "bastardsifihaditmywayidbeleadinthechargemyself",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 55,
+   "text_id": "TEXT_HEAVNB108_02163_SYMME_000_035",
+   "key": "giveemwhatforforename",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 56,
+   "text_id": "TEXT_HEAVNB108_02163_EUDESTAND_000_040",
+   "key": "dontyoudareletusdownbringourpeoplehomesafe",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 57,
+   "text_id": "TEXT_HEAVNB108_02163_LUCIA_000_045",
+   "key": "wewillholdhereforenamethefuryguideandkeepyou",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 58,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_000_050",
+   "key": "justlikeoldtimeseh",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 59,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_000_055",
+   "key": "donotconcernyourselfwithmysafetylestyouforgetitooamaknight",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 60,
+   "text_id": "TEXT_HEAVNB108_02163_HANDELOUP_000_057",
+   "key": "praykeepinmindthatthelordcommanderhasnotfullyrecoveredfromhiswoundsthoughthesafetyofthehostagesisofparamountconcerniwouldaskthatyoudoyourutmosttodissuadehimfromengaginginanyheroics",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 61,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_060",
+   "key": "listenwellwewillenterthebasilicasilentlyviathisgateaccordingtoourlatestreportsthereareatleastsixhostagesbeingheldwithinthenumbersandreadinessofthetruebrothersofthefaithareunknown",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 62,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_000_061",
+   "key": "iamtoldoneclaimedtohaveservedunderthordanviimightthesamebetrueoftherest",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 63,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_062",
+   "key": "giventheswiftnesswithwhichtheyseizedcontrolofthevaultithinkithighlylikelyyeswhichmeansthattheymaywellpossesstheknowledgerequiredtoturnthebuildingsdefensesagainstus",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 64,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_063",
+   "key": "bethatasitmaywehavenochoicebuttopressonlordartoirelyouareabravemanandtrueandnonewoulddarequestionyourhonorifyouchosenottoriskyourlifeinthisendeavorareyoucertainyouwishtojoinus",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 65,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_000_064",
+   "key": "iamnostrangertothebattlefieldseraymericmyarmwillnotfaltermyshieldwillnotbreakhaloneasmywitnesswewillbringthesefanaticstojustice",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 66,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_065",
+   "key": "wellsaidmylordfriendsfollowme",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 67,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_066",
+   "key": "sersimeonardlaydownyourarmsandreleasethehostagesandyouwillbeshownmercyigiveyoumyword",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 68,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_000_067",
+   "key": "hahthewordofahereticandkinslayeriwouldsoonertrustadragonactivatetheknightsweshallshowthehostagesthesamemercyheshowedthearchbishop",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 69,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_000_068",
+   "key": "unlikeyouseraymericiamamanofhonorbymyhandyoushallreceiveofthefurysjudgment",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 70,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_000_069",
+   "key": "soitistobeatrialthenlordartoirelforenameleaveusandsavethehostagesiwilldealwithsersimeonard",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 71,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_000_070",
+   "key": "wellthatwastimelyvidofnirmusthavebeencirclingforhours",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 72,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_075",
+   "key": "inthemomentsbeforevidofnirappearedicontemplatedteleportingthegirlthankthetwelvethatididnot",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 73,
+   "text_id": "TEXT_HEAVNB108_02163_LUCIA_000_076",
+   "key": "sincehaurchefantsdeathlordedmonthasgrownevermorecautioustospeakplainthemanisafraidtohopebutiamnotvidofnirsactofheroismwillservetoshiftpublicopinioninourfavorofthatihavenodoubt",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 74,
+   "text_id": "TEXT_HEAVNB108_02163_HILDA_000_077",
+   "key": "afterthisireckontherellbeafewlessfolkcursindragonsroundhereandafewmorecursintheclergywhichisfinebyme",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 75,
+   "text_id": "TEXT_HEAVNB108_02163_SYMME_000_078",
+   "key": "wellillbedamnednotonlyismaeliesafebutshegottorideadragon",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 76,
+   "text_id": "TEXT_HEAVNB108_02163_EUDESTAND_000_079",
+   "key": "weretheonlyfamilymaeliesgotherandalotofotherchildrenallthemorereasontostrengthenthewatchisay",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 77,
+   "text_id": "TEXT_HEAVNB108_02163_HANDELOUP_100_079",
+   "key": "wordscannotwellexpressourgratitudeforenamethankyouforrescuingthehostagesandforkeepingthelordcommandersafe",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 78,
+   "text_id": "TEXT_HEAVNB108_02163_ALPHINAUD_000_080",
+   "key": "thishasbeenadayofsurpriseshasitnottisbutapityvidofnircouldnotstaylonger",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 79,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_000_081",
+   "key": "yesithinkitsfairtosaythatshetimedherdepartureratherlesswellthanherarrival",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 80,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_082",
+   "key": "welltimedscarcelydoesitjusticebutonemomentlaterwouldhavebeenamomenttoolate",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 81,
+   "text_id": "TEXT_HEAVNB108_02163_ALPHINAUD_000_083",
+   "key": "letuspraythattheishgardianswhoyetharboreddoubtswilltaketheseeventstoheartandacceptthetruthofseraymericswords",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 82,
+   "text_id": "TEXT_HEAVNB108_02163_ALPHINAUD_000_084",
+   "key": "welltisonlymeetthatiinformtataruofwhathasoccurredhereifyouhaveneedofmeishallbeatfortempsmanor",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 83,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_000_085",
+   "key": "allowmetoaccompanyyoutataruwouldneverforgivemeifileftfortherisingstoneswithoutsayinggoodbye",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 84,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_086",
+   "key": "amomentforenameiwishaword",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 85,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_100_086",
+   "key": "tellmedoesthancredseemquitewelltoyou",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 86,
+   "text_id": "TEXT_HEAVNB108_02163_Q1_000_000",
+   "key": "whatwillyousay",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 87,
+   "text_id": "TEXT_HEAVNB108_02163_A1_000_000",
+   "key": "heheldhisowninthevault",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 88,
+   "text_id": "TEXT_HEAVNB108_02163_A1_000_001",
+   "key": "hegotonwellenoughwithhilda",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 89,
+   "text_id": "TEXT_HEAVNB108_02163_A1_000_002",
+   "key": "imnotsurehowtoputitintowordsbut",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 90,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_087",
+   "key": "thathedidwhichisespeciallyremarkablegiventheinjurytohiseyeicanonlyassumethathistimeinthewildernessaffordedhimampleopportunitytocompensateforhisimpairment",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 91,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_088",
+   "key": "howeverispeaknotofhisphysicalstatebutratherhisaethericflowwhichifearhasbeenirreparablydisrupted",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 92,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_089",
+   "key": "ofthatihavenodoubthistimeinthewildernessdidnotdeprivehimofhischarm",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 93,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_090",
+   "key": "butthatisneitherherenortherewhatconcernsmeishisaethericflowwhichifearhasbeenirreparablydisrupted",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 94,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_091",
+   "key": "soyousenseittooasubtlechangeimperceptibletomost",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 95,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_092",
+   "key": "imyselfdidnotnoticeitatfirstbutuponcloserexaminationisawthathisaethericflowhadbeenirreparablydisrupted",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 96,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_093",
+   "key": "asaresultistronglysuspectthathisabilitytomanipulateaetherhasbeencompromisedsimplyputthancredmaynolongerbeabletowieldmagicks",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 97,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_094",
+   "key": "itwoulddomuchtoexplainwhyhechosetoremainwithinthewildernessinsteadofseekingusouthewouldhavebeencompelledtorelysolelyontraditionalmethodsoftravelsignificantlyprolonginghisjourneyandwhenhelearnedthatanearbybeasttribewasmakingpreparationstosummonaprimalitmaywellhaveseemedmoresensibletowait",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 98,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_095",
+   "key": "butthisisstilllittlemorethanspeculationuntilihaveproofprayspeaknowordofit",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 99,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_000_096",
+   "key": "rightthenishouldbeonmywaykrilemayhavecharmedmastermatoyafornowbutwhocansayhowlongitwilllast",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 100,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_000_100",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 101,
+   "text_id": "TEXT_HEAVNB108_02163_TATARU_000_105",
+   "key": "lordedmonttoldmeallaboutwhatvidofnirdidgodshowiwishihadbeentheretoseeit",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 102,
+   "text_id": "TEXT_HEAVNB108_02163_BUTLER01580_000_106",
+   "key": "wheniheardthecommotioniwentoutsidetolookbutallisawwasthedragonssilhouetteonthehorizon",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 103,
+   "text_id": "TEXT_HEAVNB108_02163_STEWARD_000_107",
+   "key": "itisarelieftoseethatyouareunharmedmistressprayremainhereamomentlordartoirelshouldbereturningshortly",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 104,
+   "text_id": "TEXT_HEAVNB108_02163_QIB_TODO_001",
+   "key": "rescuethehostages",
+   "disposition": "skipped",
+   "reason": "duty_text",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 105,
+   "text_id": "TEXT_HEAVNB108_02163_QIB_TODO_AYMERIC_HP_GAUGE_NAME",
+   "key": "aymericsvitality",
+   "disposition": "skipped",
+   "reason": "duty_text",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 106,
+   "text_id": "TEXT_HEAVNB108_02163_QIB_TODO_HOSTILE_NUMBER",
+   "key": "hostagesrescued",
+   "disposition": "skipped",
+   "reason": "duty_text",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 107,
+   "text_id": "TEXT_HEAVNB108_02163_QIB_TODO_ATTACKED_HOSTILE_NUMBER",
+   "key": "bondsuntied",
+   "disposition": "skipped",
+   "reason": "duty_text",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 108,
+   "text_id": "TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_001_001",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 109,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_002",
+   "key": "twouldseemourpresenceyetgoesunnoticedcomewemustsecuretheentrance",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 110,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_003",
+   "key": "remembersavingthehostagestakesprecedenceoverallelsemindyourattacksandsubduetheenemyquickly",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 111,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_001_004",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 112,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_001_005",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 113,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_001_006",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 114,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_002_001",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 115,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_002",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 116,
+   "text_id": "TEXT_HEAVNB108_02163_HOSTAGE01_BATTLETALK_002_003",
+   "key": "youmusthurrytheothersweretakenelsewherebysersimeonard",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 117,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_004",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 118,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_002_005",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 119,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_002_006",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 120,
+   "text_id": "TEXT_HEAVNB108_02163_YSHTOLA_BATTLETALK_003_001",
+   "key": "iwillholdtheentranceandlookafterthisonenowgo",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 121,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_002",
+   "key": "sersimeonardsothisisindeedtheworkofthearchbishopsformerservants",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 122,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_003_003",
+   "key": "securethehostageforenameleavetheotherstous",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 123,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_004",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 124,
+   "text_id": "TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_003_005",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 125,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_006",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 126,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_003_007",
+   "key": "onyourguardtheyvesoundedthealarum",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 127,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_007",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 128,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_003_008",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 129,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_ZAKO_SWORD01_BATTLETALK_003_009",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 130,
+   "text_id": "TEXT_HEAVNB108_02163_HOSTAGE02_BATTLETALK_004_001",
+   "key": "ththeytooktheotherssomewhereiitallhappenedsoquickly",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 131,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_004_002",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 132,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_ZAKO_ANY_BATTLETALK_005_001",
+   "key": "theretheyareletnoneescape",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 133,
+   "text_id": "TEXT_HEAVNB108_02163_ALPHINAUD_BATTLETALK_005_002",
+   "key": "keepgoingiwillholdthemhere",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 134,
+   "text_id": "TEXT_HEAVNB108_02163_THANCRED_BATTLETALK_005_003",
+   "key": "notaloneyouwontforenamestaywithseraymericandlordartoirel",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 135,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_005_004",
+   "key": "thiswayforenametothequire",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 136,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_001",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 137,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_002",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 138,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_003",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 139,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_006_004",
+   "key": "comethenletusseewhomthefuryfavors",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 140,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_005",
+   "key": "seraymericisstillwoundedforenameifwedonotmovequicklyhewillsurelyfall",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 141,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_006",
+   "key": "ohalonerenderuntousyourjudgmentraiseuptherighteousandcastdownthewicked",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 142,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_007",
+   "key": "traitorkinslayerbywhatsorcerydoyouyetstandenoughallofyouattack",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 143,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_008",
+   "key": "iseenoothersnearbycomeforenameseraymericneedsourhelp",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 144,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_006_009",
+   "key": "welldonenowletusfinishthisserbeforetheeyesofgodsandmen",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 145,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_010",
+   "key": "standfastmybrothersthefuryiswithus",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 146,
+   "text_id": "TEXT_HEAVNB108_02163_TERRORIST_LEADER_BATTLETALK_006_011",
+   "key": "onedayiswearyouwill",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 147,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_012",
+   "key": "theremustbeothersnearbybutwhere",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 148,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_006_013",
+   "key": "seraymericsstrengthisalmostspentforenamewemustgotohisaidatonce",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 149,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_007_001",
+   "key": "havenofearchildwewillsaveyourfriend",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 150,
+   "text_id": "TEXT_HEAVNB108_02163_HOSTAGE03_BATTLETALK_007_002",
+   "key": "youmusthurrythepriesttookmaelieupstairswhenhesawyoukillhismen",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 151,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_DEAD",
+   "key": "damnitall",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 152,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_DEAD",
+   "key": "aknightlivestoserve",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 153,
+   "text_id": "TEXT_HEAVNB108_02163_AYMERIC_BATTLETALK_HOSTAGE_DEAD",
+   "key": "nonothehostagestheyohaloneprayforgiveme",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 154,
+   "text_id": "TEXT_HEAVNB108_02163_ARTOIREL_BATTLETALK_HOSTAGE_DEAD",
+   "key": "furytakemetheymurderedthemandweallowedittohappen",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 155,
+   "text_id": "TEXT_HEAVNB108_02163_URIANGER_000_110",
+   "key": "thisisthyproofthegerunoraclesapocrypha",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 156,
+   "text_id": "TEXT_HEAVNB108_02163_ELIDIBUSEORZEA_000_111",
+   "key": "itisatruthlongforgottenataleofthebeginningandofthepathwehavebeensetupon",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 157,
+   "text_id": "TEXT_HEAVNB108_02163_ELIDIBUSEORZEA_000_112",
+   "key": "ourfateswereordainedlongagoarchonthegarleansarenoexceptionnorthetriadyouknowwhatmustbedone",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 158,
+   "text_id": "TEXT_HEAVNB108_02163_PAPALYMO_000_120",
+   "key": "well",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 159,
+   "text_id": "TEXT_HEAVNB108_02163_YDA_000_121",
+   "key": "everyonehastheirorders",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 160,
+   "text_id": "TEXT_HEAVNB108_02163_YDA_000_122",
+   "key": "themaskswillattackassoonasallunitsareinpositiontheimperialswontknowwhathitthem",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 161,
+   "text_id": "TEXT_HEAVNB108_02163_PAPALYMO_000_123",
+   "key": "ifearitwillbebloody",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 162,
+   "text_id": "TEXT_HEAVNB108_02163_YDA_000_124",
+   "key": "byrhalgrithadbetterbe",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 163,
+   "text_id": "TEXT_HEAVNB108_02163_PAPALYMO_000_125",
+   "key": "wecannotstayhereforeverydawehaveotherresponsibilities",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/021/HeaVnb108_02163",
+   "row": 164,
+   "text_id": "TEXT_HEAVNB108_02163_YDA_000_126",
+   "key": "iknowfullwellwhatmyresponsibilitiesareandimeantofulfillthemeveryone",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 0,
+   "text_id": "TEXT_VOICEMAN_03100_000010_AYMERIC",
+   "key": "thankyouforcomingiwishedtospeakwithyoubothinaplacewhereprivacywasassured",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 1,
+   "text_id": "TEXT_VOICEMAN_03100_000020_ALPHINAUD",
+   "key": "wequiteunderstandwhatwasitthatyouwishedtodiscuss",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 2,
+   "text_id": "TEXT_VOICEMAN_03100_000030_AYMERIC",
+   "key": "withmyfatherspassingtheseatofthearchbishopliesvacantandsoinaccordancewithcanonlawihaveassumedhisresponsibilities",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 3,
+   "text_id": "TEXT_VOICEMAN_03100_000040_AYMERIC",
+   "key": "ishouldstressthatthisisatemporarymeasureitwasneverintendedthatthelordcommanderofthetempleknightsserveinthiscapacityindefinitely",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 4,
+   "text_id": "TEXT_VOICEMAN_03100_000050_AYMERIC",
+   "key": "quitetheoppositethestatutesspecifythatishouldsurrendermypowersassoonasaconclaveoftheseniorclergyandthehighhouseshavenamedanewarchbishop",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 5,
+   "text_id": "TEXT_VOICEMAN_03100_000060_AYMERIC",
+   "key": "butinlightofrecenteventsthatwouldnotseemappropriate",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 6,
+   "text_id": "TEXT_VOICEMAN_03100_000070_ALPHINAUD",
+   "key": "iconfessididnotexpectyoutodivulgequitesomuchquitesosoonthedetailsofthearchbishopsplansperhapsbutthetrueoriginofthewarandallitentails",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 7,
+   "text_id": "TEXT_VOICEMAN_03100_000080_AYMERIC",
+   "key": "itoohadconcernsbutwhenthewarrioroflightiswitnessedreturningtothecapitaluponthebackofadragononesoptionsareratherlimited",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 8,
+   "text_id": "TEXT_VOICEMAN_03100_000090_AYMERIC",
+   "key": "mayhapicouldhaveconcealedcertaindetailsbutforhowlongandatwhatriskshouldthetruthhavecometolightinthemeantimehowwouldthepeoplehaveviewedmysilence",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 9,
+   "text_id": "TEXT_VOICEMAN_03100_000100_AYMERIC",
+   "key": "afterathousandyearsofliesandsecrecyicouldnotwellabusetheirtrustandhopetobebelievedthetimefordeceptionhaspassed",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 10,
+   "text_id": "TEXT_VOICEMAN_03100_000110_AYMERIC",
+   "key": "ionlywishthepeopleagreedthatsomewoulddenythetruthihadanticipatedbutnotthismanyandamongthefewwhoacknowledgethatmyfatherhadtobestoppednosmallnumberquestionourmethods",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 11,
+   "text_id": "TEXT_VOICEMAN_03100_000120_ALPHINAUD",
+   "key": "iftheysuspectacoupitwillnotbelongbeforesometurntoviolence",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 12,
+   "text_id": "TEXT_VOICEMAN_03100_000130_LUCIA",
+   "key": "ithasalreadybegunandthatonbothsidesmenandwomenoftheclotharebeingharassedinthestreetssomehaveevenbeenassaultedinthebrume",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 13,
+   "text_id": "TEXT_VOICEMAN_03100_000140_LUCIA",
+   "key": "hildaandherpeoplehaveformedawatchtohelpusmaintainorderbutsuchmeasureswillnotpreventtheunrestfromspreading",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 14,
+   "text_id": "TEXT_VOICEMAN_03100_000150_AYMERIC",
+   "key": "forallourtalkofpeacethepeopleremainfrightenedandconfusedfortheirsakewemustbringthedragonsongwartoadefinitiveend",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 15,
+   "text_id": "TEXT_VOICEMAN_03100_000160_ALPHINAUD",
+   "key": "andweshouldbegladtohelpyouseraymericbutwhatpreciselywouldyouhaveusdo",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 16,
+   "text_id": "TEXT_VOICEMAN_03100_000170_LUCIA",
+   "key": "wewishtotreatwiththedragonsofanyxtrinetothatendiwouldtroubleyouforanescortandanintroduction",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 17,
+   "text_id": "TEXT_VOICEMAN_03100_000180_ALPHINAUD",
+   "key": "anyxtrineyouwouldspeakwithvidofnirthen",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 18,
+   "text_id": "TEXT_VOICEMAN_03100_000190_AYMERIC",
+   "key": "wemustneedsopenadialoguebetweenourpeoplesactingasmyrepresentativeluciawillextendaninvitationtotheirleaderthatshemightvisitushereinishgard",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 19,
+   "text_id": "TEXT_VOICEMAN_03100_000200_AYMERIC",
+   "key": "wereshestillwithusiwouldofcoursehavebeseechedysaylesassistanceinthismatterbutassheisnotimustaskthatyouaidusinhersteadwillyoudousthisfavor",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 20,
+   "text_id": "TEXT_VOICEMAN_03100_000210_AYMERIC",
+   "key": "thankyoumyfriends",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 21,
+   "text_id": "TEXT_VOICEMAN_03100_000220_AYMERIC",
+   "key": "luciaileavetheresttoyou",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 22,
+   "text_id": "TEXT_VOICEMAN_03100_000230_EDMONT",
+   "key": "inthewakeofthearchbishopsfallthenationofishgardtrembledthefaithofherpeopleshakentoitsverycore",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 23,
+   "text_id": "TEXT_VOICEMAN_03100_000240_EDMONT",
+   "key": "forathousandyearshadtheyfoughtanddiedcertainofthejusticeoftheircauseonlytobetoldthattheirholywarwasbornofthesinsoftheirforefathers",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 24,
+   "text_id": "TEXT_VOICEMAN_03100_000250_EDMONT",
+   "key": "whatthenforthosebravemenandwomenthusstrippedoftheirrighteousnessbuttodespairtodenythetruthanddecryitsspeakers",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 25,
+   "text_id": "TEXT_VOICEMAN_03100_000260_EDMONT",
+   "key": "andwhatthenforthosewhomtheydefamedbuttohopeontohavefaithinabrightertomorrow",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 26,
+   "text_id": "TEXT_VOICEMAN_03100_000270_EDMONT",
+   "key": "atomorrowinwhichmananddragonmightlivetogetherinharmonythenasdistantastheverystarsintheheavens",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 27,
+   "text_id": "TEXT_VOICEMAN_03100_000280_EDMONT",
+   "key": "yetwhilewedaredtohopedeepwithinhislairtheenemylaygatheringhisstrength",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 28,
+   "text_id": "TEXT_VOICEMAN_03100_000290_EDMONT",
+   "key": "nidhoggnowpossessedofhistwoeyesandthebodyoftheazuredragoonprizestowhichhehadlaidclaimattheveryhouroftheheroestriumph",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 29,
+   "text_id": "TEXT_VOICEMAN_03100_000300_EDMONT",
+   "key": "asdesperatelyaswesoughtthesolaceofpeacethegreatwyrmcravedthemiseryofwarnorwashealoneinthismisbegottendesire",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb101_02156"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 30,
+   "text_id": "TEXT_VOICEMAN_03100_000310_KRILE",
+   "key": "iamterriblyterriblysorrytohavekeptyouallwaiting",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 31,
+   "text_id": "TEXT_VOICEMAN_03100_000320_YSHTOLA",
+   "key": "youneednotapologizewearrivedbutamomentagoourselves",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 32,
+   "text_id": "TEXT_VOICEMAN_03100_000330_YSHTOLA",
+   "key": "prayallowmetointroducekrilewhoisrecentlycomefromthesharlayanmotherlandshehasgenerouslyofferedtoassistus",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 33,
+   "text_id": "TEXT_VOICEMAN_03100_000340_KRILE",
+   "key": "ohpleasethinknothingofitatriptoeorzeawaslongoverdue",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 34,
+   "text_id": "TEXT_VOICEMAN_03100_000350_KRILE",
+   "key": "youmustbethewarrioroflightyesyoucertainlydolookthepartapleasuretomeetyouatlastmiss",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 35,
+   "text_id": "TEXT_VOICEMAN_03100_000360_KRILE",
+   "key": "andwhoisthatispybutyoungalphinaudleveilleurhimselfidaresaysomeonesgrownanilmortwoinmyabsenceorarethoseliftsinyourboots",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 36,
+   "text_id": "TEXT_VOICEMAN_03100_000370_ALPHINAUD",
+   "key": "weuhahemmisskrileandimetatthestudiumyearsagoishallforeverbeindebtedtoherforhersageguidance",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 37,
+   "text_id": "TEXT_VOICEMAN_03100_000380_KRILE",
+   "key": "itwasnosmalltaskkeepinghimoutoftroublebelieveyoumetheyoungestevertoenterthestudiumhimandhissisterelevenyearoldprodigies",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 38,
+   "text_id": "TEXT_VOICEMAN_03100_000390_KRILE",
+   "key": "sufficeittosaysocialgraceswerenotamonghislistoftalentsstridinguptohisseniorsonhisfirstdayheadheldhighwhatwasithesaidagain",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 39,
+   "text_id": "TEXT_VOICEMAN_03100_000400_ALPHINAUD",
+   "key": "thankyoukrile",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 40,
+   "text_id": "TEXT_VOICEMAN_03100_000410_KRILE",
+   "key": "forwhatihaventfinishedyetwouldyoucaretoattemptamoredextrousdeflection",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 41,
+   "text_id": "TEXT_VOICEMAN_03100_000420_ALPHINAUD",
+   "key": "ahemmayhapweshouldsavethisdelightfulconversationforamorefittingoccasionwhenpressingmattersdonotdemandourundividedattention",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 42,
+   "text_id": "TEXT_VOICEMAN_03100_000430_KRILE",
+   "key": "abitmuchbutbettericantellyouhavebeenputtingyourskillstousehereineorzeahenceforthitrustyouwilldazzlemewithyoureloquenceatthefirsttimeofasking",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 43,
+   "text_id": "TEXT_VOICEMAN_03100_000440_KRILE",
+   "key": "rightontomorepressingmattersfindingminfiliaandtheothermissingscions",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 44,
+   "text_id": "TEXT_VOICEMAN_03100_000450_YSHTOLA",
+   "key": "igatheryouhavenewinformationtosharewithus",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 45,
+   "text_id": "TEXT_VOICEMAN_03100_000460_KRILE",
+   "key": "anewapproachactuallytatarurecountedthetaleofyourescapeanditgavemeanidea",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 46,
+   "text_id": "TEXT_VOICEMAN_03100_000470_KRILE",
+   "key": "simplyputassumingthancredleftsomemanneroftrailwhenyouwhiskedhimawayasisalmostalwaysthecasewithteleportationmagicksiamconfidenticanfindandfollowit",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 47,
+   "text_id": "TEXT_VOICEMAN_03100_000480_ALPHINAUD",
+   "key": "thenwhatareyouwaitingfor",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 48,
+   "text_id": "TEXT_VOICEMAN_03100_000490_KRILE",
+   "key": "thewherewithaltodoitthefactismyabilitiesarentquiteuptothetasknotinthemselvesanywayifihadmastermatoyascrystaleyeontheotherhand",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 49,
+   "text_id": "TEXT_VOICEMAN_03100_000500_YSHTOLA",
+   "key": "thenletusallcallonherforthwithithinkitbestthatyouexplainyourplantoherinperson",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb103_02158"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 50,
+   "text_id": "TEXT_VOICEMAN_03100_000510_MATOYA",
+   "key": "sighisthattroubleismellordidyouforgettowipeyourbootsonthewayin",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 51,
+   "text_id": "TEXT_VOICEMAN_03100_000520_YSHTOLA",
+   "key": "forgiveusmastermatoyawewillbesuretowipethemonthewayoutandmayisayhowgladiamthatagehasnotyetdeprivedyouofyoursenses",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 52,
+   "text_id": "TEXT_VOICEMAN_03100_000530_MATOYA",
+   "key": "eversoquickwittedarentwetothedetrimentofyourmannerswelloutwithitthenwhatdoyouwant",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 53,
+   "text_id": "TEXT_VOICEMAN_03100_000540_KRILE",
+   "key": "prayallowmetointroducemyselfmastermatoyaiamkrileofthestudentsofbaldesionihopeyouwillexcuseourunannouncedvisit",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 54,
+   "text_id": "TEXT_VOICEMAN_03100_000550_MATOYA",
+   "key": "baldesionyousayahyestheoldcootsetupshopontheisleofvaldidnthe",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 55,
+   "text_id": "TEXT_VOICEMAN_03100_000560_KRILE",
+   "key": "regrettablyourordersheadquartersandtheisleitselfwereobliteratedbyamagickofimmensepowerihavetheblessingoflighttothankformyownpreservation",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 56,
+   "text_id": "TEXT_VOICEMAN_03100_000570_ALPHINAUD",
+   "key": "krileyoutoopossesstheecho",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 57,
+   "text_id": "TEXT_VOICEMAN_03100_000580_KRILE",
+   "key": "wellyesofcourseido",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 58,
+   "text_id": "TEXT_VOICEMAN_03100_000590_KRILE",
+   "key": "ourorderisdevotedtouncoveringthemysteriesofhydaelynandinterpretingherwillparticularlythroughthestudyofhergifttous",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 59,
+   "text_id": "TEXT_VOICEMAN_03100_000600_KRILE",
+   "key": "itwasinthecourseofthesestudiesthatimetandsubsequentlybefriendedminfiliasheandihaveratheralotincommon",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 60,
+   "text_id": "TEXT_VOICEMAN_03100_000610_ALPHINAUD",
+   "key": "ihadnoidea",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 61,
+   "text_id": "TEXT_VOICEMAN_03100_000620_KRILE",
+   "key": "youwerentsupposedtonotthatiwantedtodeceiveyouyouunderstandbutprecautionshadtobetaken",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 62,
+   "text_id": "TEXT_VOICEMAN_03100_000630_MATOYA",
+   "key": "yesyesthatsallwellandgoodbutyoustillhaventtoldmewhyyourehere",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 63,
+   "text_id": "TEXT_VOICEMAN_03100_000640_KRILE",
+   "key": "thestudentsofbaldesionaregoneandthereisnaughticandotochangethatbutthescionsoftheseventhdawncanyetberestoredandmydearfriendfound",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 64,
+   "text_id": "TEXT_VOICEMAN_03100_000650_KRILE",
+   "key": "youhaveinyourpossessionanancientcrystaloflightoneyoucallyourcrystaleyeibelieveicanuseittofocusmyabilitiesandlocateoneofthemissingscions",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 65,
+   "text_id": "TEXT_VOICEMAN_03100_000660_MATOYA",
+   "key": "andthereiwasthinkingyoumightwanttomakeuseofmyyearsofexperiencesighwaithere",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 66,
+   "text_id": "TEXT_VOICEMAN_03100_000670_YSHTOLA",
+   "key": "longdidiponderthenatureofthiscrystalanditsfamiliarradiancebutneverdidisuspectitwasacrystaloflight",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 67,
+   "text_id": "TEXT_VOICEMAN_03100_000680_KRILE",
+   "key": "onthecuspofanumbralcalamitysoulsblessedwiththepoweroftheechoinvariablyappear",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 68,
+   "text_id": "TEXT_VOICEMAN_03100_000690_KRILE",
+   "key": "toaidtheseherchosenwarriorshydaelynbequeathstoeachasliverofherstrengthintheformofacrystaloflight",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 69,
+   "text_id": "TEXT_VOICEMAN_03100_000700_KRILE",
+   "key": "butasherstrengthwanessotoodoesthepotencyofhergiftsthiscrystalbornofanearliereraisinfusedwithapowerfargreaterthanthoseofthisage",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 70,
+   "text_id": "TEXT_VOICEMAN_03100_000710_MATOYA",
+   "key": "youcouldtravelthelengthandbreadthofthelandandnotfindacrystalevenafractionaspureitsvalueisbeyondmeasureasaretherisksinherentinitsuse",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 71,
+   "text_id": "TEXT_VOICEMAN_03100_000720_KRILE",
+   "key": "notwomanifestationsoftheechoarealikeiforexamplecanconversewithbeingsofeveryshapeandsizeexceptingbeastscontrarytowhatotherswouldhaveyoubelievelanguagehasnothingtodowithitofcourseratheriamsensitivetothewhispersofthesoultheirintenttheirveryessenceeventhetracesofwhichservedtoguidetheelementalstoyshtola",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 72,
+   "text_id": "TEXT_VOICEMAN_03100_000730_KRILE",
+   "key": "farfetchedthoughitmaysoundibelievethatwithyourcrystaleyeimaybeabletopickupwheretheyleftoffandfollowtheremainingtrailtothancredthatisifihaveyourpermission",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 73,
+   "text_id": "TEXT_VOICEMAN_03100_000740_MATOYA",
+   "key": "wellthepoorsodsnotgoingtofindhimselfsoaslongasyoudontdropitortakeitoutofmysightyoumaydowithitwhatyouwill",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 74,
+   "text_id": "TEXT_VOICEMAN_03100_000750_KRILE",
+   "key": "thankyoumastermatoya",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 75,
+   "text_id": "TEXT_VOICEMAN_03100_000760_KRILE",
+   "key": "thenletusbegin",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 76,
+   "text_id": "TEXT_VOICEMAN_03100_000770_KRILE",
+   "key": "fromtheblackshroudthetrailcontinuestothenorthandwesttowardsamountainthefootofsohmal",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 77,
+   "text_id": "TEXT_VOICEMAN_03100_000780_KRILE",
+   "key": "itwasanearthingbuthewasnotdepositedwithintherockithink",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 78,
+   "text_id": "TEXT_VOICEMAN_03100_000790_ALPHINAUD",
+   "key": "thehuntersoftailfeatherknowthoselandswellisaywebeginoursearchthere",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 79,
+   "text_id": "TEXT_VOICEMAN_03100_000800_ALPHINAUD",
+   "key": "whoelsecouldbethancreditcouldbethancredwemusthurry",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb104_02159"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 80,
+   "text_id": "TEXT_VOICEMAN_03100_000810_WARRIOROFDARKNESS",
+   "key": "shortattackgruntshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 81,
+   "text_id": "TEXT_VOICEMAN_03100_000820_WARRIOROFDARKNESS",
+   "key": "shortattackgruntshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 82,
+   "text_id": "TEXT_VOICEMAN_03100_000830_WARRIOROFDARKNESS",
+   "key": "shortattackgruntshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 83,
+   "text_id": "TEXT_VOICEMAN_03100_000840_WARRIOROFDARKNESS",
+   "key": "chargingattackroarshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 84,
+   "text_id": "TEXT_VOICEMAN_03100_000850_WARRIOROFDARKNESS",
+   "key": "thisdaywereclaimthereinsofhistorythisdayweridourselvesoftheasciansforever",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 85,
+   "text_id": "TEXT_VOICEMAN_03100_000860_ASCIAN",
+   "key": "foolsplayingatheroesallofyouisthishowyoubelieveyoucansaveyourworld",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 86,
+   "text_id": "TEXT_VOICEMAN_03100_000870_WARRIOROFDARKNESS",
+   "key": "wecanandwillascianyoushallseeorperhapsyouwillnot",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 87,
+   "text_id": "TEXT_VOICEMAN_03100_000880_WARRIOROFDARKNESS",
+   "key": "soyouarethewarrioroflightthesaviorofeorzea",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 88,
+   "text_id": "TEXT_VOICEMAN_03100_000890_WARRIOROFDARKNESS",
+   "key": "itsawonderyoudidntcomesoonerwhatwiththeprimalandalllostastephavewe",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 89,
+   "text_id": "TEXT_VOICEMAN_03100_000900_YSHTOLA",
+   "key": "havecaretheaethermovesstrangelyaroundhim",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 90,
+   "text_id": "TEXT_VOICEMAN_03100_000910_ALPHINAUD",
+   "key": "itwouldseemweshareacommonenemymayhapyouwouldtelluswhoyouare",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 91,
+   "text_id": "TEXT_VOICEMAN_03100_000920_WARRIOROFDARKNESS",
+   "key": "shallweshowthem",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 92,
+   "text_id": "TEXT_VOICEMAN_03100_000930_ALPHINAUD",
+   "key": "shortdefendingexhalationshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 93,
+   "text_id": "TEXT_VOICEMAN_03100_000940_ALPHINAUD",
+   "key": "shortdefendingexhalationshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 94,
+   "text_id": "TEXT_VOICEMAN_03100_000950_YSHTOLA",
+   "key": "shortdefendingexhalationshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 95,
+   "text_id": "TEXT_VOICEMAN_03100_000960_YSHTOLA",
+   "key": "shortdefendingexhalationshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 96,
+   "text_id": "TEXT_VOICEMAN_03100_000970_THANCRED",
+   "key": "shortattackgruntshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 97,
+   "text_id": "TEXT_VOICEMAN_03100_000980_THANCRED",
+   "key": "shortattackgruntshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 98,
+   "text_id": "TEXT_VOICEMAN_03100_000990_THANCRED",
+   "key": "shortattackgruntshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 99,
+   "text_id": "TEXT_VOICEMAN_03100_001000_WARRIOROFDARKNESS",
+   "key": "notverysportingofyoutointerruptbutsobeit",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 100,
+   "text_id": "TEXT_VOICEMAN_03100_001010_WARRIOROFDARKNESS",
+   "key": "markwellourfaceswarrioroflightforwearethewarriorsofdarknesswalkersofadifferentpathandweshallmeetagain",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 101,
+   "text_id": "TEXT_VOICEMAN_03100_001020_KRILE",
+   "key": "warriorsofdarknessreally",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 102,
+   "text_id": "TEXT_VOICEMAN_03100_001030_ALPHINAUD",
+   "key": "thancredareyouallright",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 103,
+   "text_id": "TEXT_VOICEMAN_03100_001040_THANCRED",
+   "key": "pleasantriescanwaitidrathernotbeherewhenthegnatharriveagreed",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 104,
+   "text_id": "TEXT_VOICEMAN_03100_001050_YSHTOLA",
+   "key": "sufficeittosayourreunionwasnotatallasipictureditwaitinguntilthelastinstanttojointhefraytisplainyouhavenotlostyourappetiteforthedramatic",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 105,
+   "text_id": "TEXT_VOICEMAN_03100_001060_THANCRED",
+   "key": "myappetiteforthedramatichaveyouforgottenthecircumstancesofourpartingtheheroiclaststandthetunnelfillingwithlightandthensigh",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 106,
+   "text_id": "TEXT_VOICEMAN_03100_001070_THANCRED",
+   "key": "hadiknownyouintendedtouseforbiddenmagickstodelivermetosomegodsforsakenwilderness",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 107,
+   "text_id": "TEXT_VOICEMAN_03100_001080_THANCRED",
+   "key": "iwouldhavethankedyouinadvance",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 108,
+   "text_id": "TEXT_VOICEMAN_03100_001090_YSHTOLA",
+   "key": "thancred",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 109,
+   "text_id": "TEXT_VOICEMAN_03100_001100_THANCRED",
+   "key": "ifnothingelseyoumighthavewarnedmethatiwouldemergefromthelifestreaminthealtogether",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 110,
+   "text_id": "TEXT_VOICEMAN_03100_001110_THANCRED",
+   "key": "eventuallyimanagedtofashionknivesfromsomeobsidianifoundandsetabouthuntingformeatandhides",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 111,
+   "text_id": "TEXT_VOICEMAN_03100_001120_THANCRED",
+   "key": "giventhatimnotallthatskilledinleatherworkingitsprobablyforthebestthatimetthevathbeforeiwasreunitedwithyou",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 112,
+   "text_id": "TEXT_VOICEMAN_03100_001130_ALPHINAUD",
+   "key": "soyouwerethefleshlingclothedinskinsofwhomthestorytellerspoke",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 113,
+   "text_id": "TEXT_VOICEMAN_03100_001140_THANCRED",
+   "key": "adescriptionwhichfitmeasillastheskinsthemselveshappilyiwasabletotradewiththevathforgarmentsbetterbecomingamanofrefinement",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 114,
+   "text_id": "TEXT_VOICEMAN_03100_001150_THANCRED",
+   "key": "fromthemilearnedofravanaandofthegreatwarriorwhohadoncelaidhimlow",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 115,
+   "text_id": "TEXT_VOICEMAN_03100_001160_YSHTOLA",
+   "key": "andthencedidyouconcludethatwereyoutotracktheprimalsmovementsitwouldsurelybringyouintocontactwiththescionsoncemore",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 116,
+   "text_id": "TEXT_VOICEMAN_03100_001170_THANCRED",
+   "key": "itseemedareasonableassumptionicouldthinkofnooneelsewithyourenthusiasmforslayingbeastmangodsuntilnowthatis",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 117,
+   "text_id": "TEXT_VOICEMAN_03100_001180_ALPHINAUD",
+   "key": "ahyestheselfproclaimedwarriorsofdarknesstisonlyfittingthattheystandinoppositiontothewarrioroflightisuppose",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 118,
+   "text_id": "TEXT_VOICEMAN_03100_001190_KRILE",
+   "key": "iglimpsedtheleaderspastifonlyforamomenttheywereconfrontingamaninblackanascianithink",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 119,
+   "text_id": "TEXT_VOICEMAN_03100_001200_ALPHINAUD",
+   "key": "ifthesewarriorsarecapableofdoingbattlewithasciansandprimalsboththeymustbepossessedofpowerfulprotectionprotectionnotunliketheecho",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb105_02160"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 120,
+   "text_id": "TEXT_VOICEMAN_03100_001210_EDMONT",
+   "key": "evenasthescionscelebratedthereturnofalonglostfriendhonorablemenplottedtodeprivethemofanother",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb106_02161"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 121,
+   "text_id": "TEXT_VOICEMAN_03100_001220_EDMONT",
+   "key": "honorablementowhomseraymericwasnoherobutaschemingpatricide",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb106_02161"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 122,
+   "text_id": "TEXT_VOICEMAN_03100_001230_EDMONT",
+   "key": "honorablemenwhowouldfainwashthepavingstonesoffoundationwiththetyrantsblood",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb106_02161"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 123,
+   "text_id": "TEXT_VOICEMAN_03100_001240_EDMONT",
+   "key": "honorablemenwhoseknifeinthedarkwasthesparkwhichsetthecityaflameandwhosangasitburned",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "HeaVnb106_02161"
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 124,
+   "text_id": "TEXT_VOICEMAN_03100_001250_LUCIA",
+   "key": "idonotmeantodiminishouraccomplishmentsbutuntilweidentifytheoneswhoorderedthefiressetourworkisfarfromfinished",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 125,
+   "text_id": "TEXT_VOICEMAN_03100_001260_THANCRED",
+   "key": "betweenthevariousconservativeandreligiousfactionsinishgardidaresaythereisnoshortageofpartieswhowouldliketoseethestatusquopreserveddoanylikelysuspectsspringtomind",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 126,
+   "text_id": "TEXT_VOICEMAN_03100_001270_AYMERIC",
+   "key": "fartoomanytocount",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 127,
+   "text_id": "TEXT_VOICEMAN_03100_001280_LUCIA",
+   "key": "lordcommanderyourwounds",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 128,
+   "text_id": "TEXT_VOICEMAN_03100_001290_AYMERIC",
+   "key": "arehealingwellthankyou",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 129,
+   "text_id": "TEXT_VOICEMAN_03100_001300_AYMERIC",
+   "key": "timeisoftheessencelestweforgetthesemenwouldsoonerputtheirowncitytothetorchthanseeitchange",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 130,
+   "text_id": "TEXT_VOICEMAN_03100_001310_AYMERIC",
+   "key": "whenourenemieslearnthatwehaveapprehendedtheirarsonistthereisnotellinghowtheywillreact",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 131,
+   "text_id": "TEXT_VOICEMAN_03100_001320_TEMPLERKNIGHT10810",
+   "key": "lordcommanderanarmedmobhasseizedcontrolofthevault",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 132,
+   "text_id": "TEXT_VOICEMAN_03100_001330_AYMERIC",
+   "key": "andnowweknowtelluswhathappenedsersparenodetail",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 133,
+   "text_id": "TEXT_VOICEMAN_03100_001340_TEMPLERKNIGHT10810",
+   "key": "weweredirectingrefugeesintothebasilicaasyouorderedwhenallofasuddenmenbrandishingweaponswereallaroundusithappenedsofastmylordwehadnotimetorespond",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 134,
+   "text_id": "TEXT_VOICEMAN_03100_001350_TEMPLERKNIGHT10810",
+   "key": "theyvetakentherefugeeshostageandbarricadedthemselvesinsidethevault",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 135,
+   "text_id": "TEXT_VOICEMAN_03100_001360_AYMERIC",
+   "key": "andtheysentyoutodelivertheirdemands",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 136,
+   "text_id": "TEXT_VOICEMAN_03100_001370_TEMPLERKNIGHT10810",
+   "key": "theythetruebrothersofthefaithdemandthataconclavetoselectthenextarchbishopbeheldforthwithfurthermoreththeydeclarethatyoulordcommanderareguiltyofpatricideandhightreasonandthatyoumustsurrenderyourselfatoncetoreceiveofthefurysjudgment",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 137,
+   "text_id": "TEXT_VOICEMAN_03100_001380_LUCIA",
+   "key": "ridiculousdotheyhonestlythinkthatexecutingseraymericwillchangeanythingthatthetruthwillsomehowdiewithhim",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 138,
+   "text_id": "TEXT_VOICEMAN_03100_001390_ARTOIREL",
+   "key": "thesefundamentalistsrageagainstthepassingoftheoldwaysunabletoaccepttherecanbenogoingback",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 139,
+   "text_id": "TEXT_VOICEMAN_03100_001400_EDMONT",
+   "key": "giventhefancifulnatureoftheirdemandsapeacefulresolutiondoesnotseemlikelyifthehostagesaretoberescueditwillbebyforceifear",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 140,
+   "text_id": "TEXT_VOICEMAN_03100_001410_AYMERIC",
+   "key": "agreedluciatakeacontingentofknightsandestablishaperimeteroutsidetheentrance",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 141,
+   "text_id": "TEXT_VOICEMAN_03100_001420_LUCIA",
+   "key": "atoncelordcommander",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 142,
+   "text_id": "TEXT_VOICEMAN_03100_001430_AYMERIC",
+   "key": "hildaineedyourpeopleoutinforcethroughoutthebrumewhenwordspreadsofthesituationthefriendsandfamilyofthehostagesmaytrytotakemattersintotheirownhandsiwillnotgivethesemilitantsmoretargets",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 143,
+   "text_id": "TEXT_VOICEMAN_03100_001440_AYMERIC",
+   "key": "ishallleadtheassaultonthevaultmasteralphinaudcanicountonthesupportofthescions",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 144,
+   "text_id": "TEXT_VOICEMAN_03100_001450_ALPHINAUD",
+   "key": "ofcourse",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 145,
+   "text_id": "TEXT_VOICEMAN_03100_001460_AYMERIC",
+   "key": "weareinyourdebt",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 146,
+   "text_id": "TEXT_VOICEMAN_03100_001470_ARTOIREL",
+   "key": "ishalljoinyouaswelllordcommander",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 147,
+   "text_id": "TEXT_VOICEMAN_03100_001480_AYMERIC",
+   "key": "yourassistanceismostwelcomelordartoireltoarmsthenfriendstimeisagainstus",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 148,
+   "text_id": "TEXT_VOICEMAN_03100_001490_AYMERIC",
+   "key": "whereishewhereishe",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 149,
+   "text_id": "TEXT_VOICEMAN_03100_001500_ISHGARDIANPRIEST",
+   "key": "comenocloser",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 150,
+   "text_id": "TEXT_VOICEMAN_03100_001510_AYMERIC",
+   "key": "youhavenowheretorunreleasethegirlandsurrender",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 151,
+   "text_id": "TEXT_VOICEMAN_03100_001520_ISHGARDIANPRIEST",
+   "key": "surrendertowhomtheblasphemerwhothrowswidethegatestoourenemywhobreaksbreadwithhimandcallshimbrotherungodlyswineiwouldsoonerdiethansurrendertoyou",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 152,
+   "text_id": "TEXT_VOICEMAN_03100_001530_AYMERIC",
+   "key": "isitgodlytospillthebloodofaninnocentchildtoburnthehomesofyourbrotherstellmepriestisthatgodly",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 153,
+   "text_id": "TEXT_VOICEMAN_03100_001540_ISHGARDIANPRIEST",
+   "key": "donotspeaktomeofgodlinessheathenyourfathersbloodisonyourhandsasishers",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 154,
+   "text_id": "TEXT_VOICEMAN_03100_001550_MAELIE",
+   "key": "terrifiedscreamshouldnotdisplay",
+   "disposition": "skipped",
+   "reason": "not_displayed",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 155,
+   "text_id": "TEXT_VOICEMAN_03100_001560_MAELIE",
+   "key": "whatbuti",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 156,
+   "text_id": "TEXT_VOICEMAN_03100_001570_LUCIA",
+   "key": "vidofnir",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 157,
+   "text_id": "TEXT_VOICEMAN_03100_001580_VIDOFNIR",
+   "key": "wellmetknightmayhapichoseaninopportunemoment",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 158,
+   "text_id": "TEXT_VOICEMAN_03100_001590_LUCIA",
+   "key": "notatallprayforgiveusthismostunworthyreceptionwearehonoredtohaveyouwithusandrightgladofyouraid",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 159,
+   "text_id": "TEXT_VOICEMAN_03100_001600_VIDOFNIR",
+   "key": "fortunedeliveredthechilduntomeihadbuttoreceiveher",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 160,
+   "text_id": "TEXT_VOICEMAN_03100_001610_MAELIE",
+   "key": "thankyouforsavinme",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 161,
+   "text_id": "TEXT_VOICEMAN_03100_001620_VIDOFNIR",
+   "key": "thouartwelcomechild",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 162,
+   "text_id": "TEXT_VOICEMAN_03100_001630_AYMERIC",
+   "key": "neverdidithinktobeindebtedtosounexpectedasaviorbutfullgladamitobeso",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 163,
+   "text_id": "TEXT_VOICEMAN_03100_001640_VIDOFNIR",
+   "key": "friendofysaylewarriorofwarriorsihadhopedtomeetwiththee",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 164,
+   "text_id": "TEXT_VOICEMAN_03100_001650_VIDOFNIR",
+   "key": "ibearamessagefrommysire",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 165,
+   "text_id": "TEXT_VOICEMAN_03100_001660_AYMERIC",
+   "key": "fromhraesvelgr",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 166,
+   "text_id": "TEXT_VOICEMAN_03100_001670_VIDOFNIR",
+   "key": "uponreturningtoourlandsnidhoggsshadedidsinguntohisbroodandtheyforskiesunknowndidthentakewing",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 167,
+   "text_id": "TEXT_VOICEMAN_03100_001680_VIDOFNIR",
+   "key": "thisthoumustknowforyourfatesareinextricablybound",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 168,
+   "text_id": "TEXT_VOICEMAN_03100_001690_ALPHINAUD",
+   "key": "whatofestinienishetrulylosttous",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 169,
+   "text_id": "TEXT_VOICEMAN_03100_001700_VIDOFNIR",
+   "key": "suchmattersarebeyondmykenibutbearmyfatherswordstakefromthemwhatthouwilt",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 170,
+   "text_id": "TEXT_VOICEMAN_03100_001710_VIDOFNIR",
+   "key": "fareyouwellmortals",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 171,
+   "text_id": "TEXT_VOICEMAN_03100_001720_EDMONT",
+   "key": "soitisastheysaythenagreatwhitedragonswoopeddownfromtheheavenstorescueaninnocentchild",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 172,
+   "text_id": "TEXT_VOICEMAN_03100_001730_AYMERIC",
+   "key": "amostunexpectedturnofeventsbutnotanunwelcomeonethepeoplewillnotsoonforgetthisday",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 173,
+   "text_id": "TEXT_VOICEMAN_03100_001740_EDMONT",
+   "key": "yethowwilltheychoosetorememberitseraymericandwilltheseeventsservetobringmananddragonclosertogetherordriveadeeperwedgebetweenbrothers",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 174,
+   "text_id": "TEXT_VOICEMAN_03100_001750_EDMONT",
+   "key": "afterathousandyearstheworldthesemenonceknewischangingandwithungentleswiftnesstobootthoughtheiractionsaremisguidedtheirsentimentsareonlytobeexpectedyoumaybesurethatotherswillrallytotheircause",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 175,
+   "text_id": "TEXT_VOICEMAN_03100_001760_EDMONT",
+   "key": "ishareyourdesireforalastingpeacewiththedravaniansidobutiwouldnotseeitbuiltonthebonesofourcountrymennoronourown",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 176,
+   "text_id": "TEXT_VOICEMAN_03100_001770_EDMONT",
+   "key": "iseemuchofhaurchefantinyouandicouldnotbeartomournthepassingofanotherson",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 177,
+   "text_id": "TEXT_VOICEMAN_03100_001780_AYMERIC",
+   "key": "lordedmont",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 178,
+   "text_id": "TEXT_VOICEMAN_03100_001790_ALPHINAUD",
+   "key": "thatvidofnirshouldchancetoarriveevenasthegirlfelltrulyicouldnothaveplanneditbettermyself",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 179,
+   "text_id": "TEXT_VOICEMAN_03100_001800_ARTOIREL",
+   "key": "ahgoodwewereafraidyoumighthaveleft",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 180,
+   "text_id": "TEXT_VOICEMAN_03100_001810_ALPHINAUD",
+   "key": "ashieldmylord",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 181,
+   "text_id": "TEXT_VOICEMAN_03100_001820_ARTOIREL",
+   "key": "fitforatrueknightanexpressionofourgratitudetoyouandyourslongoverdue",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 182,
+   "text_id": "TEXT_VOICEMAN_03100_001830_ARTOIREL",
+   "key": "butthereissomethingelseiwoulddiscussereyoupartsomethingwhichcannotleavethisroommyfatherwillsoonstepdownasheadofourhouse",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 183,
+   "text_id": "TEXT_VOICEMAN_03100_001840_ARTOIREL",
+   "key": "seraymericwasnottheonlyonetofallundersuspicionfollowingthedeathofthearchbishoptherearesomewhobelievemyfathercomplicitinacoupdtat",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 184,
+   "text_id": "TEXT_VOICEMAN_03100_001850_ARTOIREL",
+   "key": "thusheintendstorenouncehistitletoabsolveourhouseofsuspicionandsecurethesupportofourpeers",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 185,
+   "text_id": "TEXT_VOICEMAN_03100_001860_ALPHINAUD",
+   "key": "surelytheremustbeanotherwaytoconvincehousesdurendaireanddzemael",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 186,
+   "text_id": "TEXT_VOICEMAN_03100_001870_ARTOIREL",
+   "key": "soisaidtohimalashewillnotbudge",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 187,
+   "text_id": "TEXT_VOICEMAN_03100_001880_ARTOIREL",
+   "key": "eversinceiwasachildiknewthatiwouldonedaysucceedmyfatherandthethoughtofitfilledmewithprideyetonceilearnedthedaywasathandmyheartwasfilledwithnaughtbutdread",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 188,
+   "text_id": "TEXT_VOICEMAN_03100_001890_ARTOIREL",
+   "key": "ourlegacyisbuiltupontheliesofourforefathersinacceptingthistitleaminotperpetuatingthisinjusticewhyshouldibecomethenextcount",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 189,
+   "text_id": "TEXT_VOICEMAN_03100_Q1_000_001",
+   "key": "whatwillyousay",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 190,
+   "text_id": "TEXT_VOICEMAN_03100_A1_000_001",
+   "key": "aknightlivestoserve",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 191,
+   "text_id": "TEXT_VOICEMAN_03100_A1_000_002",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 192,
+   "text_id": "TEXT_VOICEMAN_03100_001900_ARTOIREL",
+   "key": "yousoundjustlikehimayeisuspectthatiswhathaurchefantwouldhavesaidtoaidthoseinneed",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 193,
+   "text_id": "TEXT_VOICEMAN_03100_001910_ARTOIREL",
+   "key": "butthenithoughtofmybrotheraknightlivestoservetoaidthoseinneed",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 194,
+   "text_id": "TEXT_VOICEMAN_03100_001920_ARTOIREL",
+   "key": "whenyoulookonthatshielditrustyouwillrememberhiswordsandshouldioncemorefindmyresolvewaveringiaskthatyoushowmetheway",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 195,
+   "text_id": "TEXT_VOICEMAN_03100_001930_ARTOIREL",
+   "key": "youwereasistertohaurchefantwillyoubeasistertomeaswell",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 196,
+   "text_id": "TEXT_VOICEMAN_03100_001940_ARTOIREL",
+   "key": "comeemmanellainthereismuchtobedoneforfatherandforseraymericandforishgard",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 197,
+   "text_id": "TEXT_VOICEMAN_03100_001950_ARTOIREL",
+   "key": "sightothinkwesharethesamebloodprayexcuseus",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 198,
+   "text_id": "TEXT_VOICEMAN_03100_001960_EDMONT",
+   "key": "thosewerethedaysofpromisesandvowsoftentativefirststepsintoanuncertainfuture",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 199,
+   "text_id": "TEXT_VOICEMAN_03100_001970_EDMONT",
+   "key": "afutureshapedbythechoiceswemadeinwayswecouldneverhaveforeseen",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 200,
+   "text_id": "TEXT_VOICEMAN_03100_001980_EDMONT",
+   "key": "bornofgoodandeviloflightanddarknessandshepherdedbyourhand",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 201,
+   "text_id": "TEXT_VOICEMAN_03100_001990_EDMONT",
+   "key": "beitforwealorbeitforwoe",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/031/VoiceMan_03100",
+   "row": 202,
+   "text_id": "TEXT_VOICEMAN_03100_002000_NARRATION",
+   "key": "fromthememoirsofcountedmontdefortempsheavenswardasgoeslightsogoesdarkness",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "file": "cut_scene/031/VoiceMan_03100",
+ "blob": "f27f80f03a2f8e02eeab131bc1c0506abbc1df34",
+ "datamining_commit": "52a72b38aa2f967cab36867f34cd9bee9debb88b",
+ "rows": 203,
+ "window_method": "lexical alignment of the expansion",
+ "window": [
+  "HeaVnb101_02156",
+  "HeaVnb103_02158",
+  "HeaVnb104_02159",
+  "HeaVnb105_02160",
+  "HeaVnb106_02161",
+  "HeaVnb108_02163",
+  "HeaVnc101_02231",
+  "HeaVnc102_02232",
+  "HeaVnc103_02233",
+  "HeaVnc106_02236",
+  "HeaVnc107_02237",
+  "HeaVnc108_02238",
+  "HeaVnc109_02239",
+  "HeaVnc110_02240",
+  "HeaVnc111_02241"
+ ],
+ "model": "claude-haiku-5-5",
+ "run_ids": [
+  "20261111T022912-0a1658",
+  "20261111T023842-0b373c"
+ ],
+ "votes": [
+  [
+   {
+    "quest": "HeaVnb101_02156",
+    "row": 0
+   },
+   {
+    "quest": "HeaVnb103_02158",
+    "row": 30
+   },
+   {
+    "quest": "HeaVnb104_02159",
+    "row": 50
+   },
+   {
+    "quest": "HeaVnb105_02160",
+    "row": 80
+   },
+   {
+    "quest": "HeaVnb108_02163",
+    "row": 120
+   }
+  ],
+  [
+   {
+    "quest": "HeaVnb101_02156",
+    "row": 0
+   },
+   {
+    "quest": "HeaVnb103_02158",
+    "row": 30
+   },
+   {
+    "quest": "HeaVnb104_02159",
+    "row": 50
+   },
+   {
+    "quest": "HeaVnb105_02160",
+    "row": 80
+   },
+   {
+    "quest": "HeaVnb106_02161",
+    "row": 120
+   },
+   {
+    "quest": "HeaVnb108_02163",
+    "row": 124
+   }
+  ],
+  [
+   {
+    "quest": "HeaVnb101_02156",
+    "row": 0
+   },
+   {
+    "quest": "HeaVnb103_02158",
+    "row": 30
+   },
+   {
+    "quest": "HeaVnb104_02159",
+    "row": 50
+   },
+   {
+    "quest": "HeaVnb105_02160",
+    "row": 80
+   },
+   {
+    "quest": "HeaVnb106_02161",
+    "row": 120
+   },
+   {
+    "quest": "HeaVnb108_02163",
+    "row": 124
+   },
+   {
+    "quest": null,
+    "row": 202
+   }
+  ]
+ ],
+ "starts": [
+  {
+   "quest": "HeaVnb101_02156",
+   "row": 0
+  },
+  {
+   "quest": "HeaVnb103_02158",
+   "row": 30
+  },
+  {
+   "quest": "HeaVnb104_02159",
+   "row": 50
+  },
+  {
+   "quest": "HeaVnb105_02160",
+   "row": 80
+  },
+  {
+   "quest": "HeaVnb106_02161",
+   "row": 120
+  },
+  {
+   "quest": "HeaVnb108_02163",
+   "row": 124
+  }
+ ],
+ "rows_votes_split_on": 5
+}

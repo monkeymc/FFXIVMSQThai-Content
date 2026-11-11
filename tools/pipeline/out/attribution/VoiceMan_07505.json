@@ -1,0 +1,105 @@
+{
+ "file": "cut_scene/075/VoiceMan_07505",
+ "blob": "afc939bbd4d1c05d3e7a6a14fc2ca214223e02bf",
+ "datamining_commit": "a67c23b00fe8cb254855d06b59845958b55d28f3",
+ "rows": 351,
+ "window_method": "main-scenario quests changed in the same commit",
+ "window": [
+  "KinGml101_05475",
+  "KinGml102_05476",
+  "KinGml103_05477",
+  "KinGml104_05478"
+ ],
+ "model": "claude-haiku-5-5",
+ "run_ids": [
+  "20261111T020413-d43b08",
+  "20261111T024834-0904a5"
+ ],
+ "votes": [
+  [
+   {
+    "quest": "KinGml101_05475",
+    "row": 0
+   },
+   {
+    "quest": "KinGml102_05476",
+    "row": 74
+   },
+   {
+    "quest": "KinGml103_05477",
+    "row": 175
+   },
+   {
+    "quest": "KinGml104_05478",
+    "row": 217
+   },
+   {
+    "quest": null,
+    "row": 277
+   }
+  ],
+  [
+   {
+    "quest": "KinGml101_05475",
+    "row": 0
+   },
+   {
+    "quest": "KinGml102_05476",
+    "row": 74
+   },
+   {
+    "quest": "KinGml103_05477",
+    "row": 217
+   },
+   {
+    "quest": "KinGml104_05478",
+    "row": 233
+   }
+  ],
+  [
+   {
+    "quest": "KinGml101_05475",
+    "row": 0
+   },
+   {
+    "quest": "KinGml102_05476",
+    "row": 74
+   },
+   {
+    "quest": "KinGml103_05477",
+    "row": 176
+   },
+   {
+    "quest": "KinGml104_05478",
+    "row": 233
+   },
+   {
+    "quest": null,
+    "row": 277
+   }
+  ]
+ ],
+ "starts": [
+  {
+   "quest": "KinGml101_05475",
+   "row": 0
+  },
+  {
+   "quest": "KinGml102_05476",
+   "row": 74
+  },
+  {
+   "quest": "KinGml103_05477",
+   "row": 176
+  },
+  {
+   "quest": "KinGml104_05478",
+   "row": 233
+  },
+  {
+   "quest": null,
+   "row": 277
+  }
+ ],
+ "rows_votes_split_on": 132
+}
