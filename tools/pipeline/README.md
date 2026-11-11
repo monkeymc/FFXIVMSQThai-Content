@@ -18,10 +18,11 @@
 ```
 python3 -m venv tools/pipeline/.venv
 tools/pipeline/.venv/bin/pip install anthropic
-git clone --filter=blob:none https://github.com/xivapi/ffxiv-datamining tools/pipeline/dl/ffxiv-datamining
+git submodule update --init --filter=blob:none tools/pipeline/dl/ffxiv-datamining
 tools/pipeline/.venv/bin/python tools/pipeline/test_pipeline.py
 ```
 
+- datamining เป็น submodule ที่ pin ไว้ที่ commit หนึ่ง ถ้าจะอัปเดตเป็นเวอร์ชันล่าสุด ใช้ `git submodule update --remote tools/pipeline/dl/ffxiv-datamining` แล้ว commit ตัว submodule
 - `anthropic` ใช้เฉพาะตอนเรียกผ่าน API และใน test ส่วน API stub ถ้าไม่ติดตั้ง test ส่วนนั้นจะถูกข้าม
 - ค่าเริ่มต้นเรียก Haiku ผ่าน `claude -p` จึงต้อง login Claude Code ไว้ก่อน ถ้าตั้ง `ANTHROPIC_API_KEY` ไว้ จะเรียกผ่าน API แทน
 - test ไม่เรียก model และไม่เสียเงิน ใช้เวลาราว 10 วินาที
