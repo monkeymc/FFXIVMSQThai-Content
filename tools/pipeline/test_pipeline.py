@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Offline checks: lints catch seeded defects, a line gets only the longest terms.json names it uses,
-terms_manual.json cannot repeat a sheet name, every source row and team key is accounted for (and a row that
-disappears stops the run), both selection modes pick the right files, the strip tool removes only colliding
-target rows, and the API backend parses a Messages response from a local stub (run with .venv/bin/python)."""
+terms_manual.json cannot repeat a sheet name, the wiki's MSQ list matches Quest.csv by name, every source row
+and team key is accounted for (and a row that disappears stops the run), both selection modes pick the right
+files, the strip tool removes only colliding target rows, and the API backend parses a Messages response from a
+local stub (run with .venv/bin/python)."""
 import argparse
 import contextlib
 import copy
@@ -18,6 +19,7 @@ from pathlib import Path
 
 import attribution
 import build_terms
+import check_msq_list
 import gamedata
 import pipeline
 import strip_team_overlap
@@ -184,6 +186,26 @@ assert counts == [("ENpcResident", 1), ("PlaceName", 1), ("terms_manual.json", 1
 stops(lambda: build_terms.merge(sheets, {"暁": "Scions"}), 'terms_manual.json: 暁 is already in PlaceName as "Dawn"; remove it')
 stops(lambda: build_terms.merge(sheets, {"暁": "Dawn"}), "暁 is already in PlaceName")
 print("build terms: ok")
+
+wikitext = """| [[Seventh Umbral Era]] || questline page, not a quest
+==Seventh Umbral Era Quests==
+| [[Close to Home (Gridania)|Close to Home]] || 1 ||
+| [[The Company You Keep (Maelstrom)]] || 20 ||
+| [[Solution Nine (Quest)]] || 97 ||
+| [[A Test of Will]] || 50 ||
+"""
+game = {stem: {"stem": stem, "name": name, "msq": msq} for stem, name, msq in [
+    ("ManFst002", "Close to Home", True), ("ManFst003", "Close to Home", True), ("ManSea302", "The Company You Keep (Maelstrom)", True),
+    ("KinGza001", "Solution Nine", True), ("GaiUsa001", "Α Test of Wιll", True), ("SubSea001", "Seventh Umbral Era", False),
+]}
+report = check_msq_list.compare(check_msq_list.wiki_titles(wikitext), game)
+assert (report["wiki_rows"], report["matched"], report["kept_parentheses"]) == (4, 4, 1), report
+assert report["wiki_without_stem"] == [] and report["stems_without_wiki"] == [], report
+assert report["count_differences"] == [{"name": "Close to Home", "wiki": 1, "stems": ["ManFst002", "ManFst003"], "outside_msq": 0}], report
+game["ManSea103"] = {"stem": "ManSea103", "name": "Not on the Wiki", "msq": True}
+report = check_msq_list.compare(check_msq_list.wiki_titles(wikitext + "| [[Not in the Game]] || 1 ||\n"), game)
+assert (report["wiki_without_stem"], report["stems_without_wiki"]) == (["Not in the Game"], ["ManSea103"]), report
+print("msq list: ok")
 
 
 with tempfile.TemporaryDirectory() as tmp:

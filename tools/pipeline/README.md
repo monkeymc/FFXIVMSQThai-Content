@@ -123,6 +123,10 @@ tools/pipeline/.venv/bin/python tools/pipeline/strip_team_overlap.py
 - ค่าโหวต attribution ราว $0.02–0.03 ต่อไฟล์ cutscene จ่ายครั้งเดียวต่อไฟล์
 - `out/report.md` แสดงค่าใช้จ่ายจริงจาก `out/cost_log.jsonl`
 
+## การตรวจที่ไม่เสียเงิน
+
+- `check_msq_list.py` เทียบรายชื่อเควสต์ MSQ ในวิกิ (revision ที่ตรึงไว้) กับเควสต์ MSQ ใน `Quest.csv` และอ่านทุกไฟล์ที่ `gamedata.msq_paths` เลือก ออกด้วย exit code ไม่ใช่ 0 ถ้ามีเควสต์ที่ขาดหรือไฟล์ที่อ่านไม่ได้ ใส่ `--wikitext FILE` เพื่ออ่านสำเนาที่บันทึกไว้แทน
+
 ## การตรวจที่เสียเงิน
 
 สองสคริปต์นี้เรียก Haiku จริง ใช้วัดคุณภาพ ไม่ต้องรันทุกครั้ง
