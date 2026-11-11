@@ -68,6 +68,9 @@ terms = pipeline.Terms({"エーテル": "Aether", "エーテライト": "Aethery
 assert terms.used_by({"text_ja": "エーテライト・プラザで「暁」と会う。"}) == {"エーテライト・プラザ": "Aetheryte Plaza", "暁": "Scions"}
 assert terms.used_by({"text_ja": "エーテルが満ちている。"}) == {"エーテル": "Aether"}
 assert terms.used_by({"text_ja": "今すぐ一緒にあの船へ向かおう。"}) == {}
+nahn = pipeline.Terms({"ナン": "Nahn", "ガイウス": "Gaius"})
+assert nahn.used_by({"text_ja": "ナンパばかりしている。"}) == {}, "a katakana name inside a katakana word"
+assert nahn.used_by({"text_ja": "ナンが来た。ガイウス・ヴァン・バエサル"}) == {"ナン": "Nahn", "ガイウス": "Gaius"}
 assert pipeline.Terms({}).used_by({"text_ja": "エーテル"}) == {}
 block = pipeline.lines_block([{"speaker": "Aymeric", "shown_as": None, "file": "cut_scene/031/VoiceMan_03100", "text_ja": "「暁」の方々も", "text_en": "the Scions"},
                               {"speaker": "Aymeric", "shown_as": None, "file": "quest/021/x", "text_ja": "ありがとう", "text_en": "Thanks"}], terms=terms)

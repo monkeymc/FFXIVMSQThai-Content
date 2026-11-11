@@ -397,13 +397,24 @@ def ask(call, run, stage, system, user, parse, effort=None, model=None):
     raise SystemExit(f"{run['quest']}/{stage}: invalid output twice: {error}")
 
 
+# Katakana letters and the long-vowel mark; ・ (U+30FB) separates names and is not one.
+KATAKANA = "\u30A1-\u30FA\u30FC"
+
+
 class Terms:
     """terms.json (built by build_terms.py): the official English of each Japanese proper noun. A line uses
-    the longest names in its Japanese, without overlap: エーテライト・プラザ, not エーテライト inside it."""
+    the longest names in its Japanese, without overlap: エーテライト・プラザ, not エーテライト inside it. A katakana
+    name does not match inside a longer katakana word: ナン (Nahn) is not in ナンパ."""
 
     def __init__(self, english):
         self.english = english
-        self.pattern = re.compile("|".join(map(re.escape, sorted(english, key=len, reverse=True))) or "(?!)")
+        self.pattern = re.compile("|".join(map(self.bounded, sorted(english, key=len, reverse=True))) or "(?!)")
+
+    @staticmethod
+    def bounded(name):
+        before = f"(?<![{KATAKANA}])" if re.match(f"[{KATAKANA}]", name) else ""
+        after = f"(?![{KATAKANA}])" if re.search(f"[{KATAKANA}]$", name) else ""
+        return before + re.escape(name) + after
 
     def __len__(self):
         return len(self.english)
