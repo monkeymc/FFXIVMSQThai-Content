@@ -1,0 +1,634 @@
+{
+ "quest_id": "KinGml104_05478",
+ "source": {
+  "quest": "KinGml104_05478",
+  "cutscene_files": [
+   "cut_scene/075/VoiceMan_07505"
+  ],
+  "datamining_commit": "a67c23b00fe8cb254855d06b59845958b55d28f3"
+ },
+ "repo_file": "7.56/windborne.json",
+ "dialogues": [
+  {
+   "key": "iknownotwhattheserealmshipsarelikebutsolongasimnotconfinedtoacrampedcabinthejourneyshouldbepleasantenough",
+   "key_ja": "大陸船とやらがどんな場所だかはわからんがそこまでの旅路は快適なものになりそうじゃないか寝床を選ばない俺でも窮屈な船室にはウンザリするからな",
+   "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_001",
+   "speaker": "Estinien",
+   "text_en": "I know not what these realmships are like, but so long as I'm not confined to a cramped cabin, the journey should be pleasant enough.",
+   "text_ja": "大陸船とやらがどんな場所だかはわからんが、\nそこまでの旅路は、快適なものになりそうじゃないか。\n寝床を選ばない俺でも、窮屈な船室にはウンザリするからな。",
+   "text": "ไม่รู้หรอกว่าเรือทวีปพวกนั้นเป็นยังไง แต่ถ้าการเดินทางไปถึงตรงนั้นจะสบายพอตัว ก็ดีไป ข้าไม่เรื่องมากเรื่องที่นอนหรอก แต่ห้องโดยสารคับแคบนี่ข้าเบื่อจะแย่อยู่แล้ว"
+  },
+  {
+   "key": "thefirecrystalsyousetwillhastentheislesthawingnotbymuchmindbutitsbetterthandoingnothing",
+   "key_ja": "設置してもらったファイアクリスタルは浮島が溶けるのを早めるためのものだったんだないよりはマシって程度の効力だけどね",
+   "text_id": "TEXT_KINGML104_05478_VISNA_000_005",
+   "speaker": "Visna",
+   "text_en": "The fire crystals you set will hasten the isle's thawing. Not by much, mind, but it's better than doing nothing.",
+   "text_ja": "設置してもらったファイアクリスタルは、\n浮島が溶けるのを早めるためのものだったんだ。\n……ないよりはマシって程度の効力だけどね。",
+   "text": "คริสทัลไฟที่พวกเธอวางไว้น่ะ มันช่วยให้เกาะลอยนี่ละลายเร็วขึ้นได้ละนะ...... ถึงจะไม่ได้ช่วยมากนักก็เถอะ ดีกว่าไม่ทำอะไรเลยก็แล้วกัน"
+  },
+  {
+   "key": "whiletheshipistowingtheislewecantreadilymovebetweenthemwhichistosayyoullhavetoremainhereuntilwegettothemothership",
+   "key_ja": "見てのとおり牽引している間はグラズ號とはそう簡単には行き来できないからね母船への到着までこの浮島で過ごしてもらうことになるよ",
+   "text_id": "TEXT_KINGML104_05478_SALVAGECREWC_000_010",
+   "speaker": "Salvagecrewc",
+   "text_en": "While the ship is towing the isle, we can't readily move between them. Which is to say, you'll have to remain here until we get to the mother ship.",
+   "text_ja": "見てのとおり、牽引している間は、\nグラズ號とはそう簡単には行き来できないからね。\n母船への到着まで、この浮島で過ごしてもらうことになるよ。",
+   "text": "เห็นอยู่แล้วว่า ตอนลากเกาะอยู่ก็ข้ามไปมาระหว่างกับกลาดรไม่ได้ง่ายๆ หรอกนะ ต้องรอจนถึงเรือแม่ก่อน เธอก็ต้องอยู่บนเกาะลอยนี้ไปก่อนแหละ"
+  },
+  {
+   "key": "nowthenihavebeentoldthatthevoyagetonaglfarwilltakeanotinconsiderableamountoftime",
+   "key_ja": "さて確認したところによるとナグルファルに到着するには相当な時間を要するらしい",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_020",
+   "speaker": "Alphinaud",
+   "text_en": "Now then... I have been told that the voyage to *Naglfar* will take a not-inconsiderable amount of time.",
+   "text_ja": "さて……。\n確認したところによると、ナグルファルに到着するには、\n相当な時間を要するらしい。",
+   "text": "อืม...... จากที่ตรวจสอบดูแล้ว การจะไปถึงนาเกลฟาร์ต้องใช้เวลาพอสมควรเลยทีเดียวครับ"
+  },
+  {
+   "key": "sincewecandonaughttochangethatthereissomethingiwishtoaskofyouforename",
+   "key_ja": "そこでにどうしても頼んでおきたいことがあるんだ",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_021",
+   "speaker": "Alphinaud",
+   "text_en": "Since we can do naught to change that, there is something I wish to ask of you, Forename.",
+   "text_ja": "そこで、Forenameに、\nどうしても頼んでおきたいことがあるんだ。",
+   "text": "ดังนั้น คุณ Forename ผมมีเรื่องหนึ่งที่อยากจะฝากไว้จริงๆ ครับ"
+  },
+  {
+   "key": "wouldyoureturntotherisingstonesandinformeveryonethatestinienandiarehaleandofcourseshareallthatwehavelearnedfromvisna",
+   "key_ja": "私とエスティニアンも含めて無事でいることとヴィスナから聞いた話を一旦石の家に戻って伝えてはもらえないだろうか",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_022",
+   "speaker": "Alphinaud",
+   "text_en": "Would you return to the Rising Stones, and inform everyone that Estinien and I are hale? And of course, share all that we have learned from Visna.",
+   "text_ja": "私とエスティニアンも含めて無事でいることと、\nヴィスナから聞いた話を、\n一旦「石の家」に戻って伝えてはもらえないだろうか？",
+   "text": "ช่วยกลับไปที่ศิลาผงาด แล้วแจ้งให้ทุกคนทราบว่าผมกับเอสตินเนียนยังปลอดภัยดี รวมถึงเรื่องที่ได้ฟังจากวิสนาด้วย จะได้ไหมครับ"
+  },
+  {
+   "key": "asoundplantwouldnotdotoleavetataruanxiousafterall",
+   "key_ja": "妥当だな無事だとは信じていても不安は募るものだとついさっきタタルから釘を刺されたばかりだ",
+   "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_025",
+   "speaker": "Estinien",
+   "text_en": "A sound plan. 'Twould not do to leave Tataru anxious, after all.",
+   "text_ja": "……妥当だな。\n無事だとは信じていても不安は募るものだと、\nついさっき、タタルから釘を刺されたばかりだ。",
+   "text": "......สมเหตุสมผลดี เมื่อกี้เพิ่งถูกตาตารุกำชับมาเลย ว่าถึงจะเชื่อว่าปลอดภัย ความกังวลก็ยังค่อยๆ สะสมอยู่ดี"
+  },
+  {
+   "key": "noindeedmyfriendnoindeed",
+   "key_ja": "フフそれは是が非でも連絡しなければね",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_027",
+   "speaker": "Alphinaud",
+   "text_en": "No indeed, my friend. No indeed.",
+   "text_ja": "フフ、それは是が非でも連絡しなければね！",
+   "text": "ฮึๆ งั้นก็ต้องติดต่อกลับไปให้ได้ไม่ว่าจะยังไงเลยนะครับ!"
+  },
+  {
+   "key": "lastlytellourfriendsthis",
+   "key_ja": "そして皆に約束してほしいんだ",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_028",
+   "speaker": "Alphinaud",
+   "text_en": "Lastly, tell our friends this...",
+   "text_ja": "そして、皆に約束してほしいんだ。",
+   "text": "และผมอยากให้ทุกคนให้คำมั่นไว้ด้วยครับ"
+  },
+  {
+   "key": "weshalldoandlearnallthatwecanhereandoncewehaveaccomplishedourtaskweshallreturnthisweswear",
+   "key_ja": "私たちは今こちらで為すべきことを為し知るべきことを知って帰ると",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_029",
+   "speaker": "Alphinaud",
+   "text_en": "We shall do and learn all that we can here. And once we have accomplished our task, we shall return. This we swear.",
+   "text_ja": "私たちは、今こちらで為すべきことを為し、\n知るべきことを知って帰る……と。",
+   "text": "พวกเราจะทำสิ่งที่ควรทำ และเรียนรู้สิ่งที่ควรรู้ที่นี่ให้เสร็จ แล้วจะกลับไป ว่าอย่างนั้นครับ"
+  },
+  {
+   "key": "thankyouwithyoutoconnectusandourcomradesneverwillwebefarapart",
+   "key_ja": "ありがとうたとえ遠く離れていても君が繋いでくれるなら私たちが分かたれることはないだろう",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_031",
+   "speaker": "Alphinaud",
+   "text_en": "Thank you. With you to connect us and our comrades, never will we be far apart.",
+   "text_ja": "ありがとう。\nたとえ遠く離れていても、君が繋いでくれるなら、\n私たちが分かたれることはないだろう。",
+   "text": "ขอบคุณครับ ต่อให้อยู่ห่างกันแค่ไหน ถ้ามีคุณเป็นคนเชื่อมโยงพวกเรากับเพื่อนๆ ไว้ เราก็จะไม่มีวันห่างกันจริงๆ"
+  },
+  {
+   "key": "godsspeedforename",
+   "key_ja": "よろしく頼んだよ",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_032",
+   "speaker": "Alphinaud",
+   "text_en": "Godsspeed, Forename.",
+   "text_ja": "……よろしく頼んだよ。",
+   "text": "......ฝากด้วยนะ คุณ Forename"
+  },
+  {
+   "key": "therearenothrallstobeseensoworrynotforusbeateaseonyourway",
+   "key_ja": "今のところは例の眷属の影もないこちらのことは心配せずに行ってきてくれ",
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_035",
+   "speaker": "Alphinaud",
+   "text_en": "There are no thralls to be seen, so worry not for us. Be at ease on your way.",
+   "text_ja": "今のところは、例の「眷属」の影もない。\nこちらのことは心配せずに行ってきてくれ。",
+   "text": "ตอนนี้ยังไม่เห็นแม้แต่เงาของผู้รับใช้พวกนั้นเลย ไม่ต้องเป็นห่วงพวกเราหรอกครับ ออกเดินทางไปเถอะ"
+  },
+  {
+   "key": "howeverlongthisvoyagemaytakeicanalwayswhileawaythetimeintraining",
+   "key_ja": "到着までどれほどかかるか知らんがそれならそれで鍛錬の時間にでも充てるとするさ",
+   "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_040",
+   "speaker": "Estinien",
+   "text_en": "However long this voyage may take, I can always while away the time in training.",
+   "text_ja": "到着までどれほどかかるか知らんが、\nそれならそれで、鍛錬の時間にでも充てるとするさ。",
+   "text": "ข้าไม่รู้หรอกว่าจะต้องใช้เวลาอีกนานแค่ไหนกว่าจะถึง แต่ถ้าเป็นอย่างนั้น ข้าก็จะเอาเวลานั้นไปฝึกฝนตนเองก็แล้วกัน"
+  },
+  {
+   "key": "soyouretheonlywhocanreturnhomeunconventionalteleportationmagickindeed",
+   "key_ja": "あっそっかキミだけはもとの世界に帰れるんだっけ未知の転移魔法を使った結果ってアルフィノは言ってたけど本当に変な術を使っちゃったんだねぇ",
+   "text_id": "TEXT_KINGML104_05478_VISNA_000_045",
+   "speaker": "Visna",
+   "text_en": "So you're the only who can return home? Unconventional teleportation magick indeed...",
+   "text_ja": "あっ、そっか、キミだけはもとの世界に帰れるんだっけ？\n未知の転移魔法を使った結果～ってアルフィノは言ってたけど、\n本当に変な術を使っちゃったんだねぇ。",
+   "text": "อ้อ จริงสิ เธอนี่แหละที่กลับบ้านได้คนเดียวนี่นา? อัลฟิโนบอกว่ามันเป็นผลจากการใช้เวทย้ายที่ที่ไม่มีใครรู้จัก แต่ก็นะ เธอนี่ใช้เวทประหลาดไปซะแล้วจริงๆ เลยนะเนี่ย"
+  },
+  {
+   "key": "idliketopitchatentbutthestakeswontpiercethegrounduntiltheicehasthawedsomemore",
+   "key_ja": "まずは天幕を張りたいところだけどさすがにもうちょっと氷が溶けてくれないとペグが刺さらないかなあ",
+   "text_id": "TEXT_KINGML104_05478_SALVAGECREWC_000_050",
+   "speaker": "Salvagecrewc",
+   "text_en": "I'd like to pitch a tent, but the stakes won't pierce the ground until the ice has thawed some more...",
+   "text_ja": "まずは天幕を張りたいところだけど……\nさすがにもうちょっと氷が溶けてくれないと、\nペグが刺さらないかなあ？",
+   "text": "อยากจะกางเต็นท์ก่อนอยู่หรอก แต่คงต้องรอให้น้ำแข็งละลายไปอีกหน่อย ไม่งั้นหมุดเต็นท์คงปักลงพื้นไม่ได้แน่ๆ"
+  },
+  {
+   "key": "forenameyoureback",
+   "key_ja": "さんお戻りになったんでっすね",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_100",
+   "speaker": "Tataru",
+   "text_en": "Forename, you're back!",
+   "text_ja": "Forenameさん！\nお戻りになったんでっすね……！",
+   "text": "คุณ Forename! กลับมาแล้วค่า......!"
+  },
+  {
+   "key": "alphinaudandestinienaresafeihope",
+   "key_ja": "あのあのっアルフィノさんとエスティニアンさんは",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_101",
+   "speaker": "Tataru",
+   "text_en": "Alphinaud and Estinien are safe, I hope?",
+   "text_ja": "あの、あのっ、アルフィノさんとエスティニアンさんは……！？",
+   "text": "เอ่อ เอ่อ คุณอัลฟิโนกับคุณเอสตินเนียนคะ......! ปลอดภัยดีใช่ไหมคะ......!?"
+  },
+  {
+   "key": "theyareohthankthetwelve",
+   "key_ja": "ご無事でしたか本当によかったです伝えにきていただいてありがとうございまっす",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_102",
+   "speaker": "Tataru",
+   "text_en": "They are? Oh, thank the Twelve...",
+   "text_ja": "ご無事でしたか……本当によかったです……！\n伝えにきていただいて、ありがとうございまっす！",
+   "text": "ปลอดภัยดีหรือคะ...... ดีจังเลยค่ะ......! ขอบคุณที่มาบอกนะคะ ขอบคุณมากค่า!"
+  },
+  {
+   "key": "justnowwedecidedtohaveashortrecessbutillcalleveryonebackatonce",
+   "key_ja": "ほかのみなさんも心配しながら待機していたのでっすがひとまずこの場は私にお任せいただく形で一時解散となりました",
+   "text_id": "TEXT_KINGML104_05478_TATARU_100_102",
+   "speaker": "Tataru",
+   "text_en": "Just now, we decided to have a short recess, but I'll call everyone back at once!",
+   "text_ja": "ほかのみなさんも心配しながら待機していたのでっすが、\nひとまずこの場は私にお任せいただく形で、\n一時解散となりました。",
+   "text": "คนอื่นๆ ก็รอด้วยความเป็นห่วงอยู่เหมือนกันค่ะ แต่ตอนนี้ฉันขอรับหน้าที่ดูแลที่นี่ไว้ก่อน เลยให้ทุกคนแยกย้ายกันไปพักชั่วคราวแล้วค่า"
+  },
+  {
+   "key": "theyllallbesorelieved",
+   "key_ja": "つい先ほどのことなのですぐに呼び戻してきまっす",
+   "text_id": "TEXT_KINGML104_05478_TATARU_200_102",
+   "speaker": "Tataru",
+   "text_en": "They'll all be so relieved!",
+   "text_ja": "つい先ほどのことなので、すぐに呼び戻してきまっす！",
+   "text": "เพิ่งเกิดขึ้นเมื่อกี้เองค่ะ ฉันจะรีบตามทุกคนกลับมาเดี๋ยวนี้เลยค่ะ!"
+  },
+  {
+   "key": "theteahaswarmedyouupihopeitsoundsterriblycoldinthefourth",
+   "key_ja": "お茶で少しは温まりまっしたか第四世界はとても寒い場所だったと伺いましたので",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_200",
+   "speaker": "Tataru",
+   "text_en": "The tea has warmed you up, I hope? It sounds terribly cold in the Fourth...",
+   "text_ja": "お茶で少しは温まりまっしたか……？\n第四世界は、とても寒い場所だったと伺いましたので……。",
+   "text": "ดื่มชาแล้วอุ่นขึ้นบ้างหรือยังคะ...... ได้ยินมาว่าโลกที่สี่หนาวมากเลยนะคะ......"
+  },
+  {
+   "key": "whenlordhaurchefantwelcomedusatthefallingsnowshedservedushotbeveragestoo",
+   "key_ja": "以前私たちが雪の家に匿われていたときオルシュファン卿が温かい飲み物を差し入れてくださいまっしたよね",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_201",
+   "speaker": "Tataru",
+   "text_en": "When Lord Haurchefant welcomed us at the “Falling Snows,” he'd served us hot beverages too.",
+   "text_ja": "……以前、私たちが「雪の家」に匿われていたとき、\nオルシュファン卿が、\n温かい飲み物を差し入れてくださいまっしたよね。",
+   "text": "......ตอนที่พวกเราหลบซ่อนอยู่ที่หิมะร่วงก่อนหน้านี้ เซอร์ออร์ชูฟันก็เคยเอาเครื่องดื่มร้อนๆ มาให้พวกเราด้วยนะคะ"
+  },
+  {
+   "key": "hewasakindandcaringmanwhowarmedtheheartsofthosearoundhiminmyownwayistrivetobesuchapresencetoyouall",
+   "key_ja": "優しくて頼もしくて心から温まって私では到底あんな風にはできませんが精一杯みなさんを応援したいと思いまっす",
+   "text_id": "TEXT_KINGML104_05478_TATARU_100_201",
+   "speaker": "Tataru",
+   "text_en": "He was a kind and caring man who warmed the hearts of those around him. In my own way, I strive to be such a presence to you all.   ",
+   "text_ja": "優しくて、頼もしくて、心から温まって……。\n私では到底あんな風にはできませんが、\n精一杯、みなさんを応援したいと思いまっす。",
+   "text": "อ่อนโยน น่าพึ่งพา อบอุ่นถึงใจจริงๆ ค่ะ...... ฉันคงไม่มีวันทำได้เหมือนท่านหรอกค่ะ แต่จะพยายามให้เต็มที่ เพื่อคอยเป็นกำลังใจให้ทุกคนค่ะ"
+  },
+  {
+   "key": "andsointhatspiritivepreparedasetofwarmclothesforyoutowearinthefourth",
+   "key_ja": "そんなわけで第四世界での冒険向けの暖かくも動きやすい装束を大急ぎでご用意させていただきまっした",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_202",
+   "speaker": "Tataru",
+   "text_en": "And so, in that spirit, I've prepared a set of warm clothes for you to wear in the Fourth!",
+   "text_ja": "そんなわけで！\n第四世界での冒険向けの、暖かくも動きやすい装束を、\n大急ぎでご用意させていただきまっした！",
+   "text": "ก็เลยค่ะ! ฉันเตรียมชุดที่ทั้งอุ่นและคล่องตัวสำหรับการผจญภัยในโลกที่สี่ให้แล้วค่ะ รีบทำให้เสร็จเลยเชียว!"
+  },
+  {
+   "key": "illalsomakesuredawnsrespiteisalwaysaccessiblesoyoucanmakethejourneyatanytime",
+   "key_ja": "それからあちらに繋がる路が未明の間にあるとのことですのでお部屋は引き続き開けておきまっす",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_203",
+   "speaker": "Tataru",
+   "text_en": "I'll also make sure Dawn's Respite is always accessible, so you can make the journey at any time.",
+   "text_ja": "それから、あちらに繋がる路が、\n「未明の間」にあるとのことですので、\nお部屋は引き続き開けておきまっす。",
+   "text": "อีกอย่างนะคะ ทางที่เชื่อมไปยังที่นั่นอยู่ที่ห้องรอรุ่งสาง ฉันจะเปิดห้องไว้ให้ต่อไปค่ะ"
+  },
+  {
+   "key": "nowtheresofcoursenoknowingwhenglarwillarrivewithoutcheckingbeyond",
+   "key_ja": "グラズ號がいつ到着するかは直接あちらで尋ねていただくしかありませんが",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_204",
+   "speaker": "Tataru",
+   "text_en": "Now, there's of course no knowing when *Glaðr* will arrive without checking beyond...",
+   "text_ja": "グラズ號がいつ到着するかは、\n直接あちらで尋ねていただくしかありませんが……",
+   "text": "แต่ว่านะคะ ไม่มีทางรู้หรอกค่ะว่ากลาดรจะมาถึงเมื่อไหร่ ต้องไปถามที่นั่นโดยตรงเท่านั้นค่ะ......"
+  },
+  {
+   "key": "butwhenitcomestimeforyoutogoforthinearnestdoremembertosayawordifyousimplydisappearedidbemostcross",
+   "key_ja": "本格的に第四世界での冒険へ出立する際にはお見送りしたいので声をかけてもらえると嬉しいでっす",
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_205",
+   "speaker": "Tataru",
+   "text_en": "But when it comes time for you to go forth in earnest, do remember to say a word! If you simply disappeared, I'd be most cross!",
+   "text_ja": "本格的に第四世界での冒険へ出立する際には、\nお見送りしたいので、声をかけてもらえると嬉しいでっす！",
+   "text": "แต่ตอนที่จะออกเดินทางผจญภัยในโลกที่สี่กันจริงๆ อย่าลืมบอกฉันด้วยนะคะ อยากไปส่งค่า! ถ้าหายไปเฉยๆ ฉันจะโกรธมากเลยนะคะ!"
+  },
+  {
+   "key": "thatisquiteataleasyoudisappearedinthesamemannerasbeforewesuspectedtheincantationwassuccessful",
+   "key_ja": "そんなことがあったのかヴォイドに行ったときと同じ消え方をしたから成功したんだろうとは思ってたが",
+   "text_id": "TEXT_VOICEMAN_07505_001700_GRAHATIA",
+   "speaker": "Grahatia",
+   "text_en": "That is quite a tale... As you disappeared in the same manner as before, we suspected the incantation was successful.",
+   "text_ja": "そんなことがあったのか……！\nヴォイドに行ったときと同じ消え方をしたから、\n成功したんだろうとは思ってたが……。",
+   "text": "เรื่องราวแบบนั้นนี่เอง......! ที่หายไปแบบเดียวกับตอนไปโวยด์ ผมก็คิดอยู่ว่าคงสำเร็จแล้วล่ะ......"
+  },
+  {
+   "key": "wedidntexpectalphinaudandestinientobetakenwithyouhowever",
+   "key_ja": "アルフィノとエスティニアンまで消えたのはさすがにちょっとびっくりしたわよ",
+   "text_id": "TEXT_VOICEMAN_07505_001710_ALISAIE",
+   "speaker": "Alisaie",
+   "text_en": "We didn't expect Alphinaud and Estinien to be taken with you, however.",
+   "text_ja": "アルフィノとエスティニアンまで消えたのは、\nさすがにちょっとびっくりしたわよ。",
+   "text": "อัลฟิโนกับเอสตินเนียนก็หายไปด้วยเลยนี่ ฉันก็ตกใจอยู่เหมือนกันนะ"
+  },
+  {
+   "key": "sothismeansicangotooyes",
+   "key_ja": "で私もあっちに行けるんでしょうね",
+   "text_id": "TEXT_VOICEMAN_07505_001720_ALISAIE",
+   "speaker": "Alisaie",
+   "text_en": "So... This means I can go too, yes?",
+   "text_ja": "…………で、私もあっちに行けるんでしょうね？",
+   "text": "......แล้วฉันก็ไปที่นั่นได้ด้วยใช่ไหมล่ะ?"
+  },
+  {
+   "key": "nomorepleasenomore",
+   "key_ja": "スストップそこまでにしておきましょうねっ",
+   "text_id": "TEXT_VOICEMAN_07505_001730_KRILE",
+   "speaker": "Krile",
+   "text_en": "No more! Please, no more!",
+   "text_ja": "ス、ストップ！\nそこまでにしておきましょう？　ねっ？",
+   "text": "หยุดก่อนค่ะ! พอแค่นี้เถอะนะคะ ใช่ไหมคะ?"
+  },
+  {
+   "key": "wehaventevendeterminedhowalphinaudandestiniencanreturnthisisnotapowertobeinvokedlightly",
+   "key_ja": "アルフィノくんとエスティニアンさんでさえどうやったら戻ってこられるのか定かでない状態だもの無理に試すのは危険だわ",
+   "text_id": "TEXT_VOICEMAN_07505_001740_KRILE",
+   "speaker": "Krile",
+   "text_en": "We haven't even determined how Alphinaud and Estinien can return. This is not a power to be invoked lightly.",
+   "text_ja": "アルフィノくんと、エスティニアンさんでさえ、\nどうやったら戻ってこられるのか定かでない状態だもの……\n無理に試すのは危険だわ。",
+   "text": "ไม่รู้เลยว่าอัลฟิโนกับคุณเอสตินเนียนจะกลับมาได้ยังไง...... ฝืนลองตอนนี้มันอันตรายนะคะ"
+  },
+  {
+   "key": "krilehastherightofitasinglemisstepandwemayallendupstrandedinthefourth",
+   "key_ja": "そうね下手をしたら全員向こうへ行ったきりになるわ",
+   "text_id": "TEXT_VOICEMAN_07505_001750_YSHTOLA",
+   "speaker": "Yshtola",
+   "text_en": "Krile has the right of it. A single misstep, and we may all end up stranded in the Fourth.",
+   "text_ja": "そうね……。\n下手をしたら、全員向こうへ行ったきりになるわ。",
+   "text": "ก็จริงอย่างที่คริลว่า...... พลาดนิดเดียว ทุกคนอาจติดอยู่ที่โลกที่สี่ไปเลยก็ได้"
+  },
+  {
+   "key": "andgiventheentirelydifferentcircumstancesspiritvesselswouldavailusnaught",
+   "key_ja": "状況が違うからソウルサイフォンで連れ戻すこともできない",
+   "text_id": "TEXT_VOICEMAN_07505_001760_GRAHATIA",
+   "speaker": "Grahatia",
+   "text_en": "And given the entirely different circumstances, spirit vessels would avail us naught.",
+   "text_ja": "状況が違うから、\nソウル・サイフォンで連れ戻すこともできない。",
+   "text": "สถานการณ์มันต่างกันออกไป เลยเอาโซลไซฟอนมาดึงตัวกลับก็ไม่ได้ผลเหมือนกัน"
+  },
+  {
+   "key": "soletusbepatientalisaieandthinkofotherwaystohelp",
+   "key_ja": "だからアリゼーここはグッと",
+   "text_id": "TEXT_VOICEMAN_07505_001770_GRAHATIA",
+   "speaker": "Grahatia",
+   "text_en": "So let us be patient, Alisaie, and think of other ways to help.",
+   "text_ja": "だからアリゼー、ここは……グッと！",
+   "text": "ใจเย็นๆ นะ อาลิเซ ตรงนี้... อดทนไว้!"
+  },
+  {
+   "key": "alrightalrightilldowhaticanhere",
+   "key_ja": "わかったわよもう",
+   "text_id": "TEXT_VOICEMAN_07505_001780_ALISAIE",
+   "speaker": "Alisaie",
+   "text_en": "Alright, alright. I'll do what I can here.",
+   "text_ja": "……わかったわよ、もう！",
+   "text": "รู้แล้วน่า ก็ได้!"
+  },
+  {
+   "key": "alphinaudandestiniencanlookafterthemselvesiknowbutkeepaneyeonthemwillyou",
+   "key_ja": "こっちでできることをしておくわアルフィノたちのこと心配はしてないけどよろしくね",
+   "text_id": "TEXT_VOICEMAN_07505_001790_ALISAIE",
+   "speaker": "Alisaie",
+   "text_en": "Alphinaud and Estinien can look after themselves, I know, but keep an eye on them, will you? ",
+   "text_ja": "こっちでできることをしておくわ。\nアルフィノたちのこと、心配はしてないけど、よろしくね。",
+   "text": "ฉันจะทำสิ่งที่ทำได้ทางนี้ไว้ก่อนละกัน ส่วนอัลฟิโนกับพวกนั้นน่ะ ไม่ได้เป็นห่วงหรอก แต่ฝากดูแลด้วยนะ"
+  },
+  {
+   "key": "ifyouwishtokeepbusyperhapsyoumightjoinme",
+   "key_ja": "そういうことならしばらく私に付き合ってもらえないかしら",
+   "text_id": "TEXT_VOICEMAN_07505_001800_KRILE",
+   "speaker": "Krile",
+   "text_en": "If you wish to keep busy, perhaps you might join me?",
+   "text_ja": "そういうことなら、\nしばらく私に付き合ってもらえないかしら？",
+   "text": "ถ้าเป็นอย่างนั้น ช่วยไปกับฉันสักพักได้ไหมคะ?"
+  },
+  {
+   "key": "iintendtovisittheninthtoseeiftherehavebeenanydevelopmentsfollowingrecenteventswhilethereialsohopetotreatthoseintrenoandelsewherewhosufferfromlevinsickness",
+   "key_ja": "第九世界側から今回の件を探ってみたいのだけれどトレノをはじめあっちにはまだ雷属性による麻痺症状で苦しんでいる人がいるの",
+   "text_id": "TEXT_VOICEMAN_07505_001810_KRILE",
+   "speaker": "Krile",
+   "text_en": "I intend to visit the Ninth to see if there have been any developments following recent events. While there, I also hope to treat those in Treno and elsewhere who suffer from levin sickness.",
+   "text_ja": "第九世界側から今回の件を探ってみたいのだけれど……\nトレノをはじめ、あっちにはまだ、\n雷属性による麻痺症状で苦しんでいる人がいるの。",
+   "text": "ฉันอยากลองสืบเรื่องครั้งนี้จากทางโลกที่เก้าดูน่ะ... ที่เทรโนและที่อื่นทางนั้น ยังมีคนที่ทรมานจากอาการเป็นอัมพาตจากธาตุสายฟ้าอยู่เลย"
+  },
+  {
+   "key": "idbegladtocomealongillteachyoueverythingyouneedtoknowaboutporxies",
+   "key_ja": "了解クルルにもポークシーの扱い方を教えるわね",
+   "text_id": "TEXT_VOICEMAN_07505_001820_ALISAIE",
+   "speaker": "Alisaie",
+   "text_en": "I'd be glad to come along. I'll teach you everything you need to know about porxies.",
+   "text_ja": "了解！\nクルルにもポークシーの扱い方を教えるわね。",
+   "text": "รับทราบ! เดี๋ยวฉันสอนวิธีจัดการพอร์กซีให้คริลด้วยนะ"
+  },
+  {
+   "key": "ishallreturntothemoonastheonewhoopenedthevoidgateishouldrightlykeepaweathereyeonit",
+   "key_ja": "私はもう一度月へ向かうわ自分で開いたヴォイドゲートだものしばらく動向を見ておかないと",
+   "text_id": "TEXT_VOICEMAN_07505_001830_YSHTOLA",
+   "speaker": "Yshtola",
+   "text_en": "I shall return to the moon. As the one who opened the voidgate, I should rightly keep a weather eye on it.",
+   "text_ja": "私はもう一度、月へ向かうわ。\n自分で開いたヴォイドゲートだもの、\nしばらく動向を見ておかないと。",
+   "text": "ฉันจะกลับไปยังดวงจันทร์อีกครั้ง ในเมื่อประตูโวยด์นั้นเป็นฉันที่เปิดเอง ก็ต้องเฝ้าดูความเคลื่อนไหวสักพักสิ"
+  },
+  {
+   "key": "theniwilltakemyselfaroundtoassessvoidsentactivityandseeifaughtunusualisafoot",
+   "key_ja": "なら各地の妖異の出現状況はこっちで見て回ろうついでに関係のありそうな問題が起きていないか探りを入れてみる",
+   "text_id": "TEXT_VOICEMAN_07505_001840_THANCRED",
+   "speaker": "Thancred",
+   "text_en": "Then I will take myself around to assess voidsent activity and see if aught unusual is afoot.",
+   "text_ja": "なら、各地の妖異の出現状況は、こっちで見て回ろう。\nついでに、関係のありそうな問題が起きていないか、\n探りを入れてみる。",
+   "text": "งั้นเรื่องการปรากฏตัวของโวยด์เซนต์ตามที่ต่างๆ ฉันจะไปดูเอง ถือโอกาสสืบดูด้วยว่ามีปัญหาอะไรที่น่าจะเกี่ยวข้องเกิดขึ้นไหม"
+  },
+  {
+   "key": "shouldyourequireextrafeetonthegroundthenoursareatyourdisposal",
+   "key_ja": "人手がいるでしょう私たちにも協力させてください",
+   "text_id": "TEXT_VOICEMAN_07505_001850_HOARYBOULDER",
+   "speaker": "Hoaryboulder",
+   "text_en": "Should you require extra feet on the ground, then ours are at your disposal.",
+   "text_ja": "人手がいるでしょう？\n私たちにも協力させてください。",
+   "text": "ต้องการคนช่วยงานไหมครับ? ขอให้พวกเราได้ช่วยด้วยเถอะ"
+  },
+  {
+   "key": "theydbemostwelcomewelldiscussthedetailsanon",
+   "key_ja": "助かるあとで作戦会議をさせてくれ",
+   "text_id": "TEXT_VOICEMAN_07505_001860_THANCRED",
+   "speaker": "Thancred",
+   "text_en": "They'd be most welcome. We'll discuss the details anon.",
+   "text_ja": "助かる、あとで作戦会議をさせてくれ。",
+   "text": "ช่วยได้มากเลย งั้นเดี๋ยวค่อยประชุมวางแผนกันทีหลังนะ"
+  },
+  {
+   "key": "twouldbehooveustodelveintothenatureofthestarinunravelingnewmysteriesmightwefindtheknowledgetoforestallthesolstice",
+   "key_ja": "であれば私たちは世界の構造を今いちど紐解き明日の果てへの対策を検討いたしましょう",
+   "text_id": "TEXT_VOICEMAN_07505_001870_URIANGER",
+   "speaker": "Urianger",
+   "text_en": "'Twould behoove us to delve into the nature of the star. In unraveling new mysteries might we find the knowledge to forestall the Solstice.",
+   "text_ja": "であれば私たちは、世界の構造を今いちど紐解き、\n「明日の果て」への対策を検討いたしましょう。",
+   "text": "เช่นนั้น พวกเราจะลองคลี่คลายโครงสร้างของโลกอีกครั้ง แล้วพิจารณามาตรการรับมือกับ “ปลายแห่งวันพรุ่งนี้” กันเถิด"
+  },
+  {
+   "key": "agreed",
+   "key_ja": "ああそれがよさそうだな",
+   "text_id": "TEXT_VOICEMAN_07505_001880_GRAHATIA",
+   "speaker": "Grahatia",
+   "text_en": "Agreed.",
+   "text_ja": "ああ、それがよさそうだな。",
+   "text": "อืม ดูเหมือนจะเป็นทางที่ดีนะ"
+  },
+  {
+   "key": "weshallendeavornottodisappoint",
+   "key_ja": "任された",
+   "text_id": "TEXT_VOICEMAN_07505_001890_GRAHATIA",
+   "speaker": "Grahatia",
+   "text_en": "We shall endeavor not to disappoint.",
+   "text_ja": "……任された！",
+   "text": "...ปล่อยเรื่องนี้ให้ฉันเถอะ!"
+  },
+  {
+   "key": "youaswellmyfriend",
+   "key_ja": "そっちこそ",
+   "text_id": "TEXT_VOICEMAN_07505_001900_GRAHATIA",
+   "speaker": "Grahatia",
+   "text_en": "You as well, my friend.",
+   "text_ja": "そっちこそ！",
+   "text": "นายก็เหมือนกัน!"
+  },
+  {
+   "key": "glarwasit",
+   "key_ja": "グラズ號でしたっけ",
+   "text_id": "TEXT_VOICEMAN_07505_001910_TATARU",
+   "speaker": "Tataru",
+   "text_en": "*Glaðr*, was it?",
+   "text_ja": "グラズ號、でしたっけ。",
+   "text": "กลาดร ใช่ไหมนะคะ?"
+  },
+  {
+   "key": "ihopeitgetstothemothershipswiftly",
+   "key_ja": "早く母船に到着するといいでっすね",
+   "text_id": "TEXT_VOICEMAN_07505_001920_TATARU",
+   "speaker": "Tataru",
+   "text_en": "I hope it gets to the mother ship swiftly!",
+   "text_ja": "早く母船に到着するといいでっすね！",
+   "text": "ถึงเรือแม่ได้เร็วๆ เลยนะคะะ!"
+  },
+  {
+   "key": "surprisedgaspfalling",
+   "key_ja": "なっ",
+   "text_id": "TEXT_VOICEMAN_07505_001560_CALYX",
+   "speaker": "Calyx",
+   "text_en": "[SURPRISED GASP, FALLING]",
+   "text_ja": "なっ",
+   "text": "เฮ้ย!"
+  },
+  {
+   "key": "hittinggroundgruntofpain",
+   "key_ja": "うっ",
+   "text_id": "TEXT_VOICEMAN_07505_001570_CALYX",
+   "speaker": "Calyx",
+   "text_en": "[HITTING GROUND, GRUNT OF PAIN]",
+   "text_ja": "うっ",
+   "text": "อึก!"
+  },
+  {
+   "key": "youaredoingthisonpurpose",
+   "key_ja": "お前さすがにわざとだろ",
+   "text_id": "TEXT_VOICEMAN_07505_001575_CALYX",
+   "speaker": "Calyx",
+   "text_en": "You are doing this on purpose...",
+   "text_ja": "お前……さすがにわざとだろ……。",
+   "text": "นาย...ตั้งใจแน่ๆ ใช่ไหม..."
+  },
+  {
+   "key": "itappearsthewarrioroflighthasarrivedwithtwoofhercomrades",
+   "key_ja": "光の戦士様とお仲間がふたりこちらに渡ってきたみたいです",
+   "text_id": "TEXT_VOICEMAN_07505_001580_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "It appears the Warrior of Light has arrived with two of her comrades.",
+   "text_ja": "光の戦士様と、お仲間がふたり……\nこちらに渡ってきたみたいです。",
+   "text": "ท่านนักรบแห่งแสงกับเพื่อนร่วมทางอีกสองคน ดูเหมือนจะข้ามมาถึงที่นี่แล้วค่ะ..."
+  },
+  {
+   "key": "whatpossessedyoutogosofarastoinvitehertothefourth",
+   "key_ja": "どうして第四世界に招くようなことをわざわざ言ってしまったんですか",
+   "text_id": "TEXT_VOICEMAN_07505_001585_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "What possessed you to go so far as to invite her to the Fourth?",
+   "text_ja": "どうして第四世界に招くようなことを、\nわざわざ言ってしまったんですか……？",
+   "text": "ทำไมถึงขนาดไปเอ่ยปากชวนมายังโลกที่สี่กันเลยล่ะคะ?"
+  },
+  {
+   "key": "thereissomethingiwouldascertain",
+   "key_ja": "確かめたいことがあるんだよ",
+   "text_id": "TEXT_VOICEMAN_07505_001590_CALYX",
+   "speaker": "Calyx",
+   "text_en": "There is something I would ascertain.",
+   "text_ja": "確かめたいことがあるんだよ。",
+   "text": "มีบางอย่างที่อยากรู้น่ะ"
+  },
+  {
+   "key": "manythings",
+   "key_ja": "いろいろとね",
+   "text_id": "TEXT_VOICEMAN_07505_001600_CALYX",
+   "speaker": "Calyx",
+   "text_en": "...Many things.",
+   "text_ja": "……いろいろと、ね。",
+   "text": "...หลายเรื่องน่ะ"
+  },
+  {
+   "key": "haveiviolatedthewintererscovenant",
+   "key_ja": "ウィンタラーとしてルール違反か",
+   "text_id": "TEXT_VOICEMAN_07505_001605_CALYX",
+   "speaker": "Calyx",
+   "text_en": "Have I violated the Winterers' covenant?",
+   "text_ja": "ウィンタラーとしてルール違反か？",
+   "text": "ฉันผิดข้อตกลงของวินเทอเรอร์หรือเปล่า?"
+  },
+  {
+   "key": "noyouhavenotthiswasdoubtlessbutapartoffatesgranddesign",
+   "key_ja": "いいえいずれはこうなる運命だったでしょうから",
+   "text_id": "TEXT_VOICEMAN_07505_001610_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "No, you have not... This was doubtless but a part of fate's grand design.",
+   "text_ja": "いいえ……。\nいずれはこうなる運命だったでしょうから。",
+   "text": "ไม่ค่ะ... สุดท้ายแล้วก็เป็นโชคชะตาที่ต้องเกิดขึ้นอยู่แล้วนี่คะ"
+  },
+  {
+   "key": "besideswhilethewarriorandhercomradesdonotacttoforestallthesolsticeyouwouldnotknowinglyaidthemunlessyouhadacompellingreason",
+   "key_ja": "それに光の戦士様たちが明日の果てに対処しない以上カリュクスさんが意味もなく手助けすることはありません",
+   "text_id": "TEXT_VOICEMAN_07505_001612_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "Besides, while the warrior and her comrades do not act to forestall the Solstice, you would not knowingly aid them─unless you had a compelling reason.",
+   "text_ja": "それに、光の戦士様たちが「明日の果て」に対処しない以上、\nカリュクスさんが、意味もなく手助けすることはありません。",
+   "text": "อีกอย่าง ในเมื่อพวกท่านนักรบแห่งแสงยังไม่จัดการกับ “ปลายแห่งวันพรุ่งนี้” คุณคาลิกซ์ก็คงไม่ช่วยอะไรโดยไร้เหตุผลหรอกค่ะ"
+  },
+  {
+   "key": "neverthelesshadyousharedyourintentionsbeforehandimighthaveofferedmycooperationitwouldhavebeenmoreefficientandsparedmetheshock",
+   "key_ja": "ですが考えがあるなら事前に共有していただけた方が私もびっくりせずに済みますし協力できて効率的かと",
+   "text_id": "TEXT_VOICEMAN_07505_001614_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "Nevertheless, had you shared your intentions beforehand, I might have offered my cooperation. It would have been more efficient─and spared me the shock.",
+   "text_ja": "ですが、考えがあるなら事前に共有していただけた方が、\n私もびっくりせずに済みますし、協力できて効率的かと……！",
+   "text": "แต่ถ้ามีแผนอยู่ละก็ ช่วยบอกกันล่วงหน้าไว้น่าจะดีกว่านะคะ ฉันจะได้ไม่ตกใจ แล้วร่วมมือกันก็มีประสิทธิภาพกว่าด้วยค่ะ...!"
+  },
+  {
+   "key": "cooperation",
+   "key_ja": "協力",
+   "text_id": "TEXT_VOICEMAN_07505_001620_CALYX",
+   "speaker": "Calyx",
+   "text_en": "Cooperation...",
+   "text_ja": "協力…………。",
+   "text": "ร่วมมือ......"
+  },
+  {
+   "key": "iwonderifyouwouldsaythesamewereitnotthefourthforyouareboundtothisworldareyounothalmarut",
+   "key_ja": "ほかの鏡像世界だったならともかくここは第四世界だお前には何かとしがらみがあるだろうハルマルト",
+   "text_id": "TEXT_VOICEMAN_07505_001622_CALYX",
+   "speaker": "Calyx",
+   "text_en": "I wonder if you would say the same were it not the Fourth. For you are bound to this world, are you not, Halmarut?",
+   "text_ja": "ほかの鏡像世界だったならともかく、ここは第四世界だ。\nお前には何かとしがらみがあるだろう、ハルマルト。",
+   "text": "ถ้าเป็นโลกภาพสะท้อนอื่นก็ว่าไปอย่าง แต่นี่คือโลกที่สี่ นายมีพันธนาการผูกมัดอยู่หลายอย่างนะ ฮัลมารุต"
+  },
+  {
+   "key": "orwouldyoupreferbeingcalledbyyourtruenamehere",
+   "key_ja": "いやここでは元の名前で呼ぶべきか",
+   "text_id": "TEXT_VOICEMAN_07505_001624_CALYX",
+   "speaker": "Calyx",
+   "text_en": "Or would you prefer being called by your true name here?",
+   "text_ja": "いや……ここでは「元の名前」で呼ぶべきか？",
+   "text": "หรือว่า...ที่นี่ควรเรียกด้วย 'ชื่อเดิม' ของนายดี?"
+  },
+  {
+   "key": "thoughmymotivesmaydifferfromthatoflahabreaandtheotherunsunderedmyobjectiveremainsthesametherejoininghalmarutwillsuffice",
+   "key_ja": "ラハブレア様たちの思惑とは違っているでしょうが世界統合を企む以上私はアシエンハルマルトです",
+   "text_id": "TEXT_VOICEMAN_07505_001630_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "Though my motives may differ from that of Lahabrea and the other unsundered, my objective remains the same─the Rejoining. Halmarut will suffice.",
+   "text_ja": "ラハブレア様たちの思惑とは違っているでしょうが……\n世界統合を企む以上、私はアシエン・ハルマルトです。",
+   "text": "แม้เจตนาของฉันจะต่างจากท่านลาฮาเบรียและคนอื่นๆ ไปบ้างก็ตาม แต่ในเมื่อฉันวางแผนการรวมโลกเข้าด้วยกันอยู่ ฉันก็คืออาเชียน ฮัลมารุตค่ะ"
+  },
+  {
+   "key": "wistfulexhalation",
+   "key_ja": "はぁ",
+   "text_id": "TEXT_VOICEMAN_07505_001632_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "[WISTFUL EXHALATION]",
+   "text_ja": "はぁ",
+   "text": "ฮ้า..."
+  },
+  {
+   "key": "alwayssocoldhere",
+   "key_ja": "ここは今日も寒いですね",
+   "text_id": "TEXT_VOICEMAN_07505_001634_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "Always so cold here...",
+   "text_ja": "ここは今日も寒いですね……。",
+   "text": "วันนี้ที่นี่ก็หนาวเหมือนเคยนะคะ..."
+  },
+  {
+   "key": "italmostbringsonetotears",
+   "key_ja": "本当哀しいくらいに",
+   "text_id": "TEXT_VOICEMAN_07505_001636_HALMARUT",
+   "speaker": "Halmarut",
+   "text_en": "It almost brings one to tears...",
+   "text_ja": "本当……哀しいくらいに……。",
+   "text": "จริงๆ นะ... หนาวจนน่าเศร้าเลยค่ะ..."
+  }
+ ]
+}

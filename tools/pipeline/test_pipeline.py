@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """Offline checks: lints catch seeded defects, terms.json never duplicates or overwrites, every source row
 and team key is accounted for (and a row that disappears stops the run), both selection modes pick the
-right files, and the API backend parses a Messages response from a local stub (run with .venv/bin/python)."""
+right files, the strip tool removes only colliding target rows, and the API backend parses a Messages response from a local stub (run with .venv/bin/python)."""
 import argparse
+import contextlib
 import copy
+import io
 import json
 import os
 import re
+import sys
 import tempfile
 import threading
 from http.server import BaseHTTPRequestHandler, HTTPServer
@@ -15,6 +18,7 @@ from pathlib import Path
 import attribution
 import gamedata
 import pipeline
+import strip_team_overlap
 from key_ja import EDGE_CASES, key_ja
 
 
@@ -209,9 +213,9 @@ with tempfile.TemporaryDirectory() as tmp:
     cutscene_lines = [d for d in plugin["dialogues"] if d["text_id"].startswith("TEXT_VOICEMAN_07505_")]
     assert len(quest_lines) == 19 and len(quest_lines) + len(cutscene_lines) == len(plugin["dialogues"]) and cutscene_lines
     assert len({d["key"] for d in plugin["dialogues"]}) == len(plugin["dialogues"]), "keys must be unique in one file"
-    repo = json.loads((pipeline.TEAM / plugin["repo_file"]).read_text(encoding="utf-8"))["dialogues"]
+    repo = pipeline.read_team(plugin["repo_file"])
     assert {d["key"]: d["text_en"] for d in quest_lines} == {d["key"]: d["text_en"] for d in repo}, "key and text_en must equal the repo's"
-    shared = {d["key"]: d["text_en"] for d in json.loads((pipeline.TEAM / "7.56" / pipeline.SHARED_TEAM_FILE).read_text(encoding="utf-8"))["dialogues"]}
+    shared = {d["key"]: d["text_en"] for d in pipeline.read_team(f"7.56/{pipeline.SHARED_TEAM_FILE}")}
     assert all(shared.get(d["key"]) == d["text_en"] for d in cutscene_lines), "cutscene key and text_en must equal the team's cutscenes.json"
     assert [r["key"] for r in record["rows"]] == [d["key"] for d in plugin["dialogues"]]
     assert all(r["text_haiku"] == d["text"] and r["text_human"] for r, d in zip(record["rows"], plugin["dialogues"]))
@@ -291,6 +295,42 @@ with tempfile.TemporaryDirectory() as tmp:
     assert f"VoiceMan_07505 attribution (351 rows, 3 votes) | fake | {attribution.ATTRIBUTION_VOTES} |" in report and "| other_quest" not in report.split("## Coverage")[0]
     assert f"| {stem} | 7.56/a-rush-of-cold-wind.json, 7.56/cutscenes.json | {team['keys']} | {team['in_output']} |" in report, report
 print("pipeline with fake backend: ok")
+
+with tempfile.TemporaryDirectory() as tmp:
+    pipeline.ROOT, pipeline.PLUGIN_OUT = Path(tmp), Path(tmp) / "haiku"
+    line = lambda en, text="ข้อความ": {"key": gamedata.make_key(en), "text_en": en, "text": text}
+    team = {
+        "7.56/windborne.json": [line("Raise output to the wind engine!"), line("Only the team has this line.")],
+        "7.56/cutscenes.json": [line("(-???-)Of course!"), line("Choose ship/isle."), line("Not in haiku.")],
+        "7.56/other-quest.json": [line("Of course!")],
+        "7.56/untranslated.json": [line("Raise output to the wind engine!", text="")],
+    }
+    for mirror in strip_team_overlap.MIRRORS:
+        for name, dialogues in team.items():
+            (Path(tmp) / mirror / name).parent.mkdir(parents=True, exist_ok=True)
+            (Path(tmp) / mirror / name).write_text(json.dumps({"quest_id": None, "dialogues": dialogues}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    pipeline.PLUGIN_OUT.mkdir()
+    plugin = {"quest_id": "KinGml104_05478", "repo_file": "7.56/windborne.json", "dialogues": [line(en, "ไทย") for en in ("Raise output to the wind engine!", "Of course!", "Choose isle.")]}
+    (pipeline.PLUGIN_OUT / "KinGml104_05478.json").write_text(json.dumps(plugin), encoding="utf-8")
+    sys.argv = ["strip_team_overlap.py"]
+    with contextlib.redirect_stdout(io.StringIO()):
+        strip_team_overlap.main()
+    assert all(json.loads((Path(tmp) / "th" / name).read_text(encoding="utf-8"))["dialogues"] == rows for name, rows in team.items()), "without --apply nothing changes"
+    sys.argv = ["strip_team_overlap.py", "--apply"]
+    with contextlib.redirect_stdout(io.StringIO()):
+        strip_team_overlap.main()
+    after = {name: [d["text_en"] for d in json.loads((Path(tmp) / "th" / name).read_text(encoding="utf-8"))["dialogues"]] for name in team}
+    assert after == {
+        "7.56/windborne.json": ["Only the team has this line."], "7.56/cutscenes.json": ["Not in haiku."],
+        "7.56/other-quest.json": ["Of course!"], "7.56/untranslated.json": ["Raise output to the wind engine!"],
+    }, after
+    snapshot = {f: f.read_bytes() for f in Path(tmp).rglob("*.json")}
+    with contextlib.redirect_stdout(io.StringIO()) as printed:
+        strip_team_overlap.main()
+    assert {f: f.read_bytes() for f in Path(tmp).rglob("*.json")} == snapshot, "a second --apply must change nothing"
+    assert "colliding rows in target files: 0 (removed)" in printed.getvalue(), printed.getvalue()
+    assert all((Path(tmp) / "th" / name).read_bytes() == (Path(tmp) / "editor/public/th" / name).read_bytes() for name in team)
+print("strip team overlap: ok")
 
 try:
     import anthropic  # noqa: F401

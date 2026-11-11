@@ -6,7 +6,7 @@ usage: check_attribution.py [--model MODEL] VoiceMan_03100 [VoiceMan_03300 ...]
 Without --model it scores the attributions the pipeline uses (out/attribution/). With --model it attributes
 the files again with that model into out/attribution/eval/<model>/, to compare models on the same files.
 
-The team's per-quest files (th/<patch>/<quest-slug>.json) say which quest a line was seen in. A cutscene row
+The team's per-quest files (th/<patch>/<quest-slug>.json at pipeline.TEAM_REV) say which quest a line was seen in. A cutscene row
 counts as evidence when its key is 13 letters or longer and sits in the file of exactly one main-scenario
 quest of the expansion. Agreement is the share of those rows the attribution gives to the same quest.
 Shared files (cutscenes.json) carry no quest, so they are not evidence. Writes agreement.json next to the attributions.
@@ -27,8 +27,8 @@ def team_owner(quest_table, expansion):
     """{key: stem} for keys found in exactly one main-scenario quest's team file."""
     owners = {}
     for quest in attribution.main_scenario(quest_table, expansion):
-        for path in pipeline.TEAM.glob(f"*/{pipeline.slug(quest['name'])}.json"):
-            for dialogue in json.loads(path.read_text(encoding="utf-8"))["dialogues"]:
+        for path in pipeline.quest_team_files(quest):
+            for dialogue in pipeline.read_team(path):
                 owners.setdefault(dialogue["key"], set()).add(quest["stem"])
     return {key: next(iter(stems)) for key, stems in owners.items() if len(stems) == 1 and len(key) >= MIN_KEY}
 

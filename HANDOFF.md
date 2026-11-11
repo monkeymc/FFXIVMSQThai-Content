@@ -6,7 +6,7 @@
 
 - branch `haiku` แยกจาก main ที่ `a6d9887` commit `0e25b72` push แล้ว และผ่านการทดสอบในเกมแล้ว (A Winter's Dream และ As Goes Light, So Goes Darkness ผู้ใช้ยืนยันว่าแปลถูกต้องครบ)
 - commit ถัดจากนั้นเพิ่มไฟล์นี้กับ `tools/pipeline/strip_team_overlap.py`
-- งาน "clean up + README + Windborne" ถูกหยุดกลางทางก่อนแก้ไฟล์ใดๆ ใน repo จึงยังไม่มีอะไรค้าง ให้เริ่มงานนั้นใหม่ได้เลย
+- งาน "clean up + README + Windborne" เสร็จแล้ว (commit ถัดมา) ยังไม่ push และยังไม่ได้ทดสอบ Windborne ในเกม วิธีใช้ tool ดูที่ `tools/pipeline/README.md`
 
 ## ใน branch มีอะไร
 
@@ -24,12 +24,14 @@
   - `attribution/` ผลการระบุเควสต์ของบรรทัด cutscene จะไม่ถาม Haiku ซ้ำ
   - `cost_log.jsonl` บันทึกค่าใช้จ่าย
   - `report.md` สรุปผล
-- **`tools/pipeline/strip_team_overlap.py`** ลบบรรทัดของทีมที่ key ชนกับไฟล์ใน `haiku/` ต้องลบเพราะ plugin ใช้คำแปลจากไฟล์ที่โหลดก่อน ตอนนี้ระบุรายชื่อไฟล์ของทีมไว้ตายตัวใน `TEAM_FILES`
-- **`haiku/`** มีไฟล์ของ plugin 2 ไฟล์ คือ `KinGml101_05475.json` และ `HeaVnb108_02163.json`
+- **`tools/pipeline/strip_team_overlap.py`** ลบบรรทัดของทีมที่ key ชนกับไฟล์ใน `haiku/` ต้องลบเพราะ plugin ใช้คำแปลจากไฟล์ที่โหลดก่อน หาไฟล์เป้าหมายจาก `repo_file` ของไฟล์ใน `haiku/` เอง
+- **`haiku/`** มีไฟล์ของ plugin 3 ไฟล์ คือ `KinGml101_05475.json`, `HeaVnb108_02163.json` และ `KinGml104_05478.json` (Windborne)
 - **บรรทัดของทีมที่ลบออกใน branch นี้** มีดังนี้ ลบทั้งใน `th/` และ `editor/public/th/`
   - `7.56/a-winters-dream.json` 30 บรรทัด
   - `7.56/cutscenes.json` 66 บรรทัด
   - `3.x/as-goes-light-so-goes-darkness.json` 144 บรรทัด
+  - `7.56/windborne.json` 28 บรรทัด (ทั้งไฟล์) และ `7.56/cutscenes.json` อีก 41 บรรทัด
+- **ไฟล์ของทีม** pipeline อ่านจาก `th/` ที่ branch `main` (`FFXIV_TEAM_REV`) เพราะ branch นี้ลบบรรทัดออก ถ้าอ่านจาก working tree ไฟล์ coverage จะเสีย
 
 ## ตั้งค่าเครื่องใหม่
 
@@ -79,7 +81,7 @@ Commit on `haiku`, then stop. No push, no change to main. Report back to the use
 ## สิ่งที่ต้องรู้
 
 - **plugin** ใช้คำแปลจากไฟล์แรกที่โหลดสำหรับแต่ละ key (TryAdd) และสร้าง key จาก `text_en` ด้วย
-- **ประโยคทั่วไปที่ซ้ำข้ามเควสต์** มี 61 บรรทัดที่ไม่ได้ลบ เช่น "I...see?" และ "Of course!" บรรทัดเหล่านี้ขึ้นคำแปลของใครขึ้นกับลำดับที่ plugin โหลดไฟล์
+- **ประโยคทั่วไปที่ซ้ำข้ามเควสต์** มี 68 บรรทัดที่ไม่ได้ลบ เช่น "I...see?" และ "Of course!" บรรทัดเหล่านี้ขึ้นคำแปลของใครขึ้นกับลำดับที่ plugin โหลดไฟล์
 - **การเลือกไฟล์ด้วย commit** ใช้ได้ตั้งแต่ patch 7.41 เท่านั้น เพราะ repo datamining จัดโครงสร้างใหม่ใน `d3eb86d` เนื้อหาเก่ากว่านั้นให้ใช้ `--quest` หรือ `--patch`
 - **การระบุว่าบรรทัด cutscene เป็นของเควสต์ไหน** ตรงกับไฟล์ของทีม 88.7% (วัดจาก 4 ไฟล์) ข้อผิดพลาดที่เจอคือยกบทพูดทั้งช่วงไปให้เควสต์ที่อยู่ติดกัน
 - **ตัวเลือกของผู้เล่นใน cutscene** pipeline ข้าม แต่ทีมแปลไว้ ยังรอผู้ใช้ตัดสินใจ

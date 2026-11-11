@@ -1,0 +1,3997 @@
+{
+ "quest_id": "KinGml104_05478",
+ "name": "Windborne",
+ "datamining_commit": "a67c23b00fe8cb254855d06b59845958b55d28f3",
+ "cutscenes_linked_in_quest_csv": [
+  {
+   "id": 3933,
+   "path": "ex5/kingml/kingml10410/kingml10410"
+  },
+  {
+   "id": 3934,
+   "path": "ex5/kingml/kingml10420/kingml10420"
+  }
+ ],
+ "cutscene_files_examined": [
+  "cut_scene/075/VoiceMan_07505"
+ ],
+ "totals": {
+  "rows": 434,
+  "translated": 69,
+  "skipped": {
+   "other_quest": 232,
+   "unused": 80,
+   "empty": 42,
+   "journal": 4,
+   "choice": 3,
+   "todo": 2,
+   "system": 1,
+   "not_for_translation": 1
+  }
+ },
+ "sources": [
+  {
+   "file": "quest/054/KinGml104_05478",
+   "rows": 83,
+   "translated": 28,
+   "skipped": {
+    "empty": 42,
+    "unused": 6,
+    "journal": 4,
+    "todo": 2,
+    "system": 1
+   }
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "rows": 351,
+   "translated": 41,
+   "skipped": {
+    "other_quest": 232,
+    "unused": 74,
+    "choice": 3,
+    "not_for_translation": 1
+   }
+  }
+ ],
+ "team": {
+  "files": [
+   "7.56/cutscenes.json",
+   "7.56/windborne.json"
+  ],
+  "keys": 72,
+  "in_output": 69,
+  "not_in_output": {
+   "source_row_skipped:choice": 3
+  },
+  "not_in_output_keys": [
+   {
+    "team_file": "7.56/cutscenes.json",
+    "key": "whatwillyousay",
+    "reason": "source_row_skipped:choice",
+    "detail": "cut_scene/075/VoiceMan_07505 TEXT_VOICEMAN_07505_Q6_000_001_NONE_VOICE"
+   },
+   {
+    "team_file": "7.56/cutscenes.json",
+    "key": "ileaveitinyourcapablehands",
+    "reason": "source_row_skipped:choice",
+    "detail": "cut_scene/075/VoiceMan_07505 TEXT_VOICEMAN_07505_A6_000_001_NONE_VOICE"
+   },
+   {
+    "team_file": "7.56/cutscenes.json",
+    "key": "dontoverdoityouhear",
+    "reason": "source_row_skipped:choice",
+    "detail": "cut_scene/075/VoiceMan_07505 TEXT_VOICEMAN_07505_A6_000_002_NONE_VOICE"
+   }
+  ],
+  "shared_file_keys_matching_no_selected_row": []
+ },
+ "rows_detail": [
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 0,
+   "text_id": "TEXT_KINGML104_05478_SEQ_00",
+   "key": "alphinaudwishestohaveawordwithyou",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 1,
+   "text_id": "TEXT_KINGML104_05478_SEQ_01",
+   "key": "wantingtosetyourcomradesateaseandinformthemofthepresentsituationalphinaudasksyoutoreturntothesourcereadilyobligingyousetofffortherisingstones",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 2,
+   "text_id": "TEXT_KINGML104_05478_SEQ_02",
+   "key": "settingfootoncemoreindawnsrespiteyouaregreetedbyarelievedtataruasyourecountyourtimeinthefourthtoyourfellowscionsatleastoneiseagertojoinyoutherebutduetotheunpredictablenatureoftheteleportationmagickitisdecidedthatthoseinthesourceshouldremainfornowwithyourcomradesholdingdownthefortitfallstoyoutoseekoutnewavenuesofinquiryinthefourthwhenthetimecomes",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 3,
+   "text_id": "TEXT_KINGML104_05478_SEQ_03",
+   "key": "yourvisittothefourthhasgivenyouaglimpseoftheadventuretocomeandyourheartracesasyouimaginewhatmayawaitwhereinthaticyworldarecalyxandhalmarutandwhatdotheynowplotwhatmannerofindividualisthewinterertheretheanswerstothesequestionsandmoreyouhopetodiscoverwhenglarfinallyreachesitsdestinationtherealmshipnaglfar",
+   "disposition": "skipped",
+   "reason": "journal",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 4,
+   "text_id": "TEXT_KINGML104_05478_SEQ_04",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 5,
+   "text_id": "TEXT_KINGML104_05478_SEQ_05",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 6,
+   "text_id": "TEXT_KINGML104_05478_SEQ_06",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 7,
+   "text_id": "TEXT_KINGML104_05478_SEQ_07",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 8,
+   "text_id": "TEXT_KINGML104_05478_SEQ_08",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 9,
+   "text_id": "TEXT_KINGML104_05478_SEQ_09",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 10,
+   "text_id": "TEXT_KINGML104_05478_SEQ_10",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 11,
+   "text_id": "TEXT_KINGML104_05478_SEQ_11",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 12,
+   "text_id": "TEXT_KINGML104_05478_SEQ_12",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 13,
+   "text_id": "TEXT_KINGML104_05478_SEQ_13",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 14,
+   "text_id": "TEXT_KINGML104_05478_SEQ_14",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 15,
+   "text_id": "TEXT_KINGML104_05478_SEQ_15",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 16,
+   "text_id": "TEXT_KINGML104_05478_SEQ_16",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 17,
+   "text_id": "TEXT_KINGML104_05478_SEQ_17",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 18,
+   "text_id": "TEXT_KINGML104_05478_SEQ_18",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 19,
+   "text_id": "TEXT_KINGML104_05478_SEQ_19",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 20,
+   "text_id": "TEXT_KINGML104_05478_SEQ_20",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 21,
+   "text_id": "TEXT_KINGML104_05478_SEQ_21",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 22,
+   "text_id": "TEXT_KINGML104_05478_SEQ_22",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 23,
+   "text_id": "TEXT_KINGML104_05478_SEQ_23",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 24,
+   "text_id": "TEXT_KINGML104_05478_TODO_00",
+   "key": "speakwithtataruindawnsrespite",
+   "disposition": "skipped",
+   "reason": "todo",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 25,
+   "text_id": "TEXT_KINGML104_05478_TODO_01",
+   "key": "speakwithtataruagain",
+   "disposition": "skipped",
+   "reason": "todo",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 26,
+   "text_id": "TEXT_KINGML104_05478_TODO_02",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 27,
+   "text_id": "TEXT_KINGML104_05478_TODO_03",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 28,
+   "text_id": "TEXT_KINGML104_05478_TODO_04",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 29,
+   "text_id": "TEXT_KINGML104_05478_TODO_05",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 30,
+   "text_id": "TEXT_KINGML104_05478_TODO_06",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 31,
+   "text_id": "TEXT_KINGML104_05478_TODO_07",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 32,
+   "text_id": "TEXT_KINGML104_05478_TODO_08",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 33,
+   "text_id": "TEXT_KINGML104_05478_TODO_09",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 34,
+   "text_id": "TEXT_KINGML104_05478_TODO_10",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 35,
+   "text_id": "TEXT_KINGML104_05478_TODO_11",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 36,
+   "text_id": "TEXT_KINGML104_05478_TODO_12",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 37,
+   "text_id": "TEXT_KINGML104_05478_TODO_13",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 38,
+   "text_id": "TEXT_KINGML104_05478_TODO_14",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 39,
+   "text_id": "TEXT_KINGML104_05478_TODO_15",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 40,
+   "text_id": "TEXT_KINGML104_05478_TODO_16",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 41,
+   "text_id": "TEXT_KINGML104_05478_TODO_17",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 42,
+   "text_id": "TEXT_KINGML104_05478_TODO_18",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 43,
+   "text_id": "TEXT_KINGML104_05478_TODO_19",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 44,
+   "text_id": "TEXT_KINGML104_05478_TODO_20",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 45,
+   "text_id": "TEXT_KINGML104_05478_TODO_21",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 46,
+   "text_id": "TEXT_KINGML104_05478_TODO_22",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 47,
+   "text_id": "TEXT_KINGML104_05478_TODO_23",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "empty",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 48,
+   "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_001",
+   "key": "iknownotwhattheserealmshipsarelikebutsolongasimnotconfinedtoacrampedcabinthejourneyshouldbepleasantenough",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 49,
+   "text_id": "TEXT_KINGML104_05478_VISNA_000_005",
+   "key": "thefirecrystalsyousetwillhastentheislesthawingnotbymuchmindbutitsbetterthandoingnothing",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 50,
+   "text_id": "TEXT_KINGML104_05478_SALVAGECREWC_000_010",
+   "key": "whiletheshipistowingtheislewecantreadilymovebetweenthemwhichistosayyoullhavetoremainhereuntilwegettothemothership",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 51,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_020",
+   "key": "nowthenihavebeentoldthatthevoyagetonaglfarwilltakeanotinconsiderableamountoftime",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 52,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_021",
+   "key": "sincewecandonaughttochangethatthereissomethingiwishtoaskofyouforename",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 53,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_022",
+   "key": "wouldyoureturntotherisingstonesandinformeveryonethatestinienandiarehaleandofcourseshareallthatwehavelearnedfromvisna",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 54,
+   "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_025",
+   "key": "asoundplantwouldnotdotoleavetataruanxiousafterall",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 55,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_027",
+   "key": "noindeedmyfriendnoindeed",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 56,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_028",
+   "key": "lastlytellourfriendsthis",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 57,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_029",
+   "key": "weshalldoandlearnallthatwecanhereandoncewehaveaccomplishedourtaskweshallreturnthisweswear",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 58,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_031",
+   "key": "thankyouwithyoutoconnectusandourcomradesneverwillwebefarapart",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 59,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_032",
+   "key": "godsspeedforename",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 60,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_023",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 61,
+   "text_id": "TEXT_KINGML104_05478_Q1_000_000",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 62,
+   "text_id": "TEXT_KINGML104_05478_A1_000_001",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 63,
+   "text_id": "TEXT_KINGML104_05478_A1_000_002",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 64,
+   "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_026",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 65,
+   "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_030",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 66,
+   "text_id": "TEXT_KINGML104_05478_ALPHINAUD_000_035",
+   "key": "therearenothrallstobeseensoworrynotforusbeateaseonyourway",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 67,
+   "text_id": "TEXT_KINGML104_05478_ESTINIEN_000_040",
+   "key": "howeverlongthisvoyagemaytakeicanalwayswhileawaythetimeintraining",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 68,
+   "text_id": "TEXT_KINGML104_05478_VISNA_000_045",
+   "key": "soyouretheonlywhocanreturnhomeunconventionalteleportationmagickindeed",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 69,
+   "text_id": "TEXT_KINGML104_05478_SALVAGECREWC_000_050",
+   "key": "idliketopitchatentbutthestakeswontpiercethegrounduntiltheicehasthawedsomemore",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 70,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_100",
+   "key": "forenameyoureback",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 71,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_101",
+   "key": "alphinaudandestinienaresafeihope",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 72,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_102",
+   "key": "theyareohthankthetwelve",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 73,
+   "text_id": "TEXT_KINGML104_05478_TATARU_100_102",
+   "key": "justnowwedecidedtohaveashortrecessbutillcalleveryonebackatonce",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 74,
+   "text_id": "TEXT_KINGML104_05478_TATARU_200_102",
+   "key": "theyllallbesorelieved",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 75,
+   "text_id": "TEXT_KINGML104_05478_SYSTEM_000_103",
+   "key": "waitforyourcomradestoreconvene",
+   "disposition": "skipped",
+   "reason": "system",
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 76,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_200",
+   "key": "theteahaswarmedyouupihopeitsoundsterriblycoldinthefourth",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 77,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_201",
+   "key": "whenlordhaurchefantwelcomedusatthefallingsnowshedservedushotbeveragestoo",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 78,
+   "text_id": "TEXT_KINGML104_05478_TATARU_100_201",
+   "key": "hewasakindandcaringmanwhowarmedtheheartsofthosearoundhiminmyownwayistrivetobesuchapresencetoyouall",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 79,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_202",
+   "key": "andsointhatspiritivepreparedasetofwarmclothesforyoutowearinthefourth",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 80,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_203",
+   "key": "illalsomakesuredawnsrespiteisalwaysaccessiblesoyoucanmakethejourneyatanytime",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 81,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_204",
+   "key": "nowtheresofcoursenoknowingwhenglarwillarrivewithoutcheckingbeyond",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "quest/054/KinGml104_05478",
+   "row": 82,
+   "text_id": "TEXT_KINGML104_05478_TATARU_000_205",
+   "key": "butwhenitcomestimeforyoutogoforthinearnestdoremembertosayawordifyousimplydisappearedidbemostcross",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 0,
+   "text_id": "TEXT_VOICEMAN_07505_000010_ALPHINAUD",
+   "key": "nowthatestinienhasjoinedusletusagaindiscusshowweshouldproceedinthefaceofthesolstice",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 1,
+   "text_id": "TEXT_VOICEMAN_07505_000020_ALPHINAUD",
+   "key": "accordingtohalmarutitisthefatethatawaitsshouldthereflectionsbeallowedtomergeoftheirownaccordanactofhealingdictatedbythelawsofnature",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 2,
+   "text_id": "TEXT_VOICEMAN_07505_000030_ALPHINAUD",
+   "key": "shouldthatcometopassallcreationwillbemergedintoasinglewholeandthestarrestoredtoastatelongbeforethebirthofmankind",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 3,
+   "text_id": "TEXT_VOICEMAN_07505_000040_ALPHINAUD",
+   "key": "tisacalamitouseventthatnoonecouldsurvivenotevenavestigeofcivilizationwouldremain",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 4,
+   "text_id": "TEXT_VOICEMAN_07505_000050_ALISAIE",
+   "key": "topreventthisthewinterersintendtoinitiaterejoinings",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 5,
+   "text_id": "TEXT_VOICEMAN_07505_000060_ALPHINAUD",
+   "key": "therebypreemptingthesolsticeandsparingoneworldatleastfromannihilation",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 6,
+   "text_id": "TEXT_VOICEMAN_07505_000062_ALISAIE",
+   "key": "consideringthealternativethereisanargumenttobemadeforthewinterersapproach",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 7,
+   "text_id": "TEXT_VOICEMAN_07505_000064_ALISAIE",
+   "key": "butmyentirebeingreelsatthethoughtofit",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 8,
+   "text_id": "TEXT_VOICEMAN_07505_000090_KRILE",
+   "key": "iifimay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 9,
+   "text_id": "TEXT_VOICEMAN_07505_000091_KRILE",
+   "key": "ihavebeenconsideringwhatishoulddowhatiwanttodointhecourseofwhichithoughtbacktoourexperiencesintural",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 10,
+   "text_id": "TEXT_VOICEMAN_07505_000093_KRILE",
+   "key": "itoccurredtomethatrightnowperhapswedonotfeelsodifferentlytohowthealexandriansoncedid",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 11,
+   "text_id": "TEXT_VOICEMAN_07505_000095_KRILE",
+   "key": "forgenerationstheyhadnoconceptionofanendofdeath",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 12,
+   "text_id": "TEXT_VOICEMAN_07505_000097_KRILE",
+   "key": "whenthatblissfulignorancewasshatteredtheystruggledtoconfronttheirmortalityanddrownedindespair",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 13,
+   "text_id": "TEXT_VOICEMAN_07505_000099_THANCRED",
+   "key": "youbelieveourpresentsituationissimilar",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 14,
+   "text_id": "TEXT_VOICEMAN_07505_000100_KRILE",
+   "key": "thoughittooktimethepeopleofalexandrialearnedtoovercometheirfear",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 15,
+   "text_id": "TEXT_VOICEMAN_07505_000102_KRILE",
+   "key": "throughtheirmemoriesandtheirqueentheylearnedthatthoughdeathcomesforusallinmanywaysweliveon",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 16,
+   "text_id": "TEXT_VOICEMAN_07505_000104_KRILE",
+   "key": "withthisknowledgecameacceptanceandtheywereabletoembraceanewwayoflife",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 17,
+   "text_id": "TEXT_VOICEMAN_07505_000106_KRILE",
+   "key": "beforeaughtelsemightwenotseektolearnaswell",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 18,
+   "text_id": "TEXT_VOICEMAN_07505_000112_URIANGER",
+   "key": "wetoohaveexperiencesfromwhichwemaytakesimilarlessons",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 19,
+   "text_id": "TEXT_VOICEMAN_07505_000114_URIANGER",
+   "key": "forthepromisestheriteofsuccessionwasasmuchaneducationaljourneyasitwasphysical",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 20,
+   "text_id": "TEXT_VOICEMAN_07505_000116_URIANGER",
+   "key": "withinquisitivemindsdidtheyacquireknowledgethatbroadenedtheirperspectivesthusweretheyshapedintotheworthyvowstheydidbecome",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 21,
+   "text_id": "TEXT_VOICEMAN_07505_000122_THANCRED",
+   "key": "havingwatchedoverthemfromstarttofinishweknowwelltheimportanceofgettingonesbearingsbeforechoosingadirection",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 22,
+   "text_id": "TEXT_VOICEMAN_07505_000124_THANCRED",
+   "key": "andasitstandsweknowpreciouslittleaboutthesolsticeandthewinterersboth",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 23,
+   "text_id": "TEXT_VOICEMAN_07505_000126_ALPHINAUD",
+   "key": "indeedyouhavetherightofitweoughttolearnallwecanthebettertodecideourowncourse",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 24,
+   "text_id": "TEXT_VOICEMAN_07505_000160_ESTINIEN",
+   "key": "butwheretobegindoweevenknowwherethewinterersare",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 25,
+   "text_id": "TEXT_VOICEMAN_07505_000162_CALYX",
+   "key": "halmarutandiwillsooncrosstherifttoobservetheenactmentofanotherwinterersplan",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 26,
+   "text_id": "TEXT_VOICEMAN_07505_000164_CALYX",
+   "key": "ourdestinationisthefourth",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 27,
+   "text_id": "TEXT_VOICEMAN_07505_000166_ALISAIE",
+   "key": "hetoldyoujustlikethatwhatsheplayingat",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 28,
+   "text_id": "TEXT_VOICEMAN_07505_000170_THANCRED",
+   "key": "whileiwouldntbesurprisedifitwasatrapifthefourthwasspecificallychosenfromamongallworldsitmayneverthelessbeworthpayingitavisit",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 29,
+   "text_id": "TEXT_VOICEMAN_07505_000171_URIANGER",
+   "key": "howtoreachitisthequestionforasidefromthegateuntotheninthwehavenoreadymeanstotraverseworlds",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 30,
+   "text_id": "TEXT_VOICEMAN_07505_000172_URIANGER",
+   "key": "twasonlybyvirtueofthecrystalexarchsmagicksthatwedidarriveinthefirst",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 31,
+   "text_id": "TEXT_VOICEMAN_07505_000174_URIANGER",
+   "key": "whiletheportaluntothethirteenthwasthefruitoflongyearsofresearchthesamemethodisnotliketoavailuswithareflectionunknown",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 32,
+   "text_id": "TEXT_VOICEMAN_07505_000175_YSHTOLA",
+   "key": "itisasyousayimafraid",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 33,
+   "text_id": "TEXT_VOICEMAN_07505_000176_YSHTOLA",
+   "key": "yourrecentcrossingtothevoiddoyouhaveanyideahowithappened",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 34,
+   "text_id": "TEXT_VOICEMAN_07505_Q1_000_001_NONE_VOICE",
+   "key": "whatwillyousay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 35,
+   "text_id": "TEXT_VOICEMAN_07505_A1_000_001_NONE_VOICE",
+   "key": "iwasworryingaboutzeroandthenextthingiknew",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 36,
+   "text_id": "TEXT_VOICEMAN_07505_A1_000_002_NONE_VOICE",
+   "key": "thereweretheseshimmeringlights",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 37,
+   "text_id": "TEXT_VOICEMAN_07505_000180_GRAHATIA",
+   "key": "twasemetselchwhocreatedazemscrystal",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 38,
+   "text_id": "TEXT_VOICEMAN_07505_000182_GRAHATIA",
+   "key": "itisimbuedwithanincantationofazemsinventionamagicktosummonforthallies",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 39,
+   "text_id": "TEXT_VOICEMAN_07505_000184_GRAHATIA",
+   "key": "andthoughtheoriginsofethosremainunclearweknowforafactthatithasthepowertoopenpathstootherplaces",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 40,
+   "text_id": "TEXT_VOICEMAN_07505_000186_GRAHATIA",
+   "key": "intheinstantbeforeyouvanishedbothcrystalandkeyshonebrightlyasifresonatingwitheachother",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 41,
+   "text_id": "TEXT_VOICEMAN_07505_000188_GRAHATIA",
+   "key": "thisinteractionstronglysuggeststhatwheninvokedtogethertherelicsallowthebearertotraveltothepersonintheirmindseye",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 42,
+   "text_id": "TEXT_VOICEMAN_07505_000192_KRILE",
+   "key": "soshemanagedwhatpreservationsoughttoachievewiththeactuatorpurelybychancethatsamazing",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 43,
+   "text_id": "TEXT_VOICEMAN_07505_000200_YSHTOLA",
+   "key": "bychanceorperhaps",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 44,
+   "text_id": "TEXT_VOICEMAN_07505_000202_MYSTERIOUSVOICE",
+   "key": "holdfasttowhatyoumustandfaceyourfatewithoutfear",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 45,
+   "text_id": "TEXT_VOICEMAN_07505_000204_EMETSELCH",
+   "key": "thoughtheworldbesunderedandoursoulssetadriftwhereyouwalkmydearestfriendfateshallsurelyfollow",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 46,
+   "text_id": "TEXT_VOICEMAN_07505_000260_GRAHATIA",
+   "key": "whatsayyoumyfriendshallwegiveitatry",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 47,
+   "text_id": "TEXT_VOICEMAN_07505_000262_GRAHATIA",
+   "key": "youneednttrytopicturethefourthonlyhalmarutandcalyx",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 48,
+   "text_id": "TEXT_VOICEMAN_07505_010000_ALL",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "not_for_translation",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 49,
+   "text_id": "TEXT_VOICEMAN_07505_000270_VISNA",
+   "key": "whywhy",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 50,
+   "text_id": "TEXT_VOICEMAN_07505_000280_ALPHINAUD",
+   "key": "surprisedyelphittingthegroundfromfall",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 51,
+   "text_id": "TEXT_VOICEMAN_07505_000290_ESTINIEN",
+   "key": "landingexert",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 52,
+   "text_id": "TEXT_VOICEMAN_07505_000292_ALPHINAUD",
+   "key": "whathappened",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 53,
+   "text_id": "TEXT_VOICEMAN_07505_000300_ALPHINAUD",
+   "key": "whatisthisplace",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 54,
+   "text_id": "TEXT_VOICEMAN_07505_000310_ALPHINAUD",
+   "key": "werewewerewecaughtupintheincantation",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 55,
+   "text_id": "TEXT_VOICEMAN_07505_000330_ESTINIEN",
+   "key": "nosoonerdidlightencaseyouthanifeltsomeforcepullingme",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 56,
+   "text_id": "TEXT_VOICEMAN_07505_000332_ESTINIEN",
+   "key": "thenextthingiknewiwasherewithyouandalphinaud",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 57,
+   "text_id": "TEXT_VOICEMAN_07505_000340_ALPHINAUD",
+   "key": "iseenoothersisitonlythethreeofus",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 58,
+   "text_id": "TEXT_VOICEMAN_07505_000360_ALPHINAUD",
+   "key": "howcuriouswewereallbesideyouwhywasnooneelsetransported",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 59,
+   "text_id": "TEXT_VOICEMAN_07505_Q3_000_001_NONE_VOICE",
+   "key": "whatwillyousay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 60,
+   "text_id": "TEXT_VOICEMAN_07505_A3_000_001_NONE_VOICE",
+   "key": "ihadavisionofsnowsweptfields",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 61,
+   "text_id": "TEXT_VOICEMAN_07505_A3_000_002_NONE_VOICE",
+   "key": "ihadavisionofawomanwholookedlikeysayle",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 62,
+   "text_id": "TEXT_VOICEMAN_07505_A3_000_003_NONE_VOICE",
+   "key": "perhapsiwasjustinthatsortofmood",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 63,
+   "text_id": "TEXT_VOICEMAN_07505_000370_ALPHINAUD",
+   "key": "iseeyetthatdoesntexplainwhyonlyestinienandiarehere",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 64,
+   "text_id": "TEXT_VOICEMAN_07505_000372_ESTINIEN",
+   "key": "perhapsthoughtsofafrozenworldcalledtomindourjourneythroughcoerthas",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 65,
+   "text_id": "TEXT_VOICEMAN_07505_000380_ALPHINAUD",
+   "key": "awomanwholookedlikeysayle",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 66,
+   "text_id": "TEXT_VOICEMAN_07505_000382_ESTINIEN",
+   "key": "whoeverthatmayhavebeenitwouldexplainwhyalphinaudandiweredraggedalong",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 67,
+   "text_id": "TEXT_VOICEMAN_07505_000390_ALPHINAUD",
+   "key": "isee",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 68,
+   "text_id": "TEXT_VOICEMAN_07505_000392_ESTINIEN",
+   "key": "somethingmadeourfriendthinkofusisuspectperhapsthoughtsofafrozenworldcalledtomindourjourneythroughcoerthas",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 69,
+   "text_id": "TEXT_VOICEMAN_07505_000400_ESTINIEN",
+   "key": "sowhatnowweappeartobemaroonedhere",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 70,
+   "text_id": "TEXT_VOICEMAN_07505_000410_ALPHINAUD",
+   "key": "strangenormallywindaspectedcrystalswouldberequiredtolevitatesuchanisle",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 71,
+   "text_id": "TEXT_VOICEMAN_07505_000412_ALPHINAUD",
+   "key": "yettheyarebleachedwhiteoverexposedtoicetwouldseem",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 72,
+   "text_id": "TEXT_VOICEMAN_07505_000415_ALPHINAUD",
+   "key": "calyxsaidthefourthisaworldlockedinice",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 73,
+   "text_id": "TEXT_VOICEMAN_07505_000417_ALPHINAUD",
+   "key": "fromwhaticanseeidaresaywehavearrived",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml101_05475"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 74,
+   "text_id": "TEXT_VOICEMAN_07505_000440_ESTINIEN",
+   "key": "watchoutsomethingcomes",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 75,
+   "text_id": "TEXT_VOICEMAN_07505_000450_ESTINIEN",
+   "key": "gruntofexertionfromdodging",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 76,
+   "text_id": "TEXT_VOICEMAN_07505_000460_ALPHINAUD",
+   "key": "iveneverseentheirliketheresnotellingwhattheycandosohavecare",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 77,
+   "text_id": "TEXT_VOICEMAN_07505_000470_ESTINIEN",
+   "key": "onethingisclearenough",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 78,
+   "text_id": "TEXT_VOICEMAN_07505_000475_ESTINIEN",
+   "key": "weneedntstayourhand",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 79,
+   "text_id": "TEXT_VOICEMAN_07505_000480_ESTINIEN",
+   "key": "withme",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 80,
+   "text_id": "TEXT_VOICEMAN_07505_000490_ALPHINAUD",
+   "key": "wasthatthelastofthem",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 81,
+   "text_id": "TEXT_VOICEMAN_07505_000500_ESTINIEN",
+   "key": "nayjustthebeginning",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 82,
+   "text_id": "TEXT_VOICEMAN_07505_000510_ALPHINAUD",
+   "key": "cryofpainugh",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 83,
+   "text_id": "TEXT_VOICEMAN_07505_000520_ESTINIEN",
+   "key": "gruntofpain",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 84,
+   "text_id": "TEXT_VOICEMAN_07505_000530_ESTINIEN",
+   "key": "thisonestheirleaderitakeit",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 85,
+   "text_id": "TEXT_VOICEMAN_07505_000540_ALPHINAUD",
+   "key": "surprisedreaxhm",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 86,
+   "text_id": "TEXT_VOICEMAN_07505_000550_ALPHINAUD",
+   "key": "thissound",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 87,
+   "text_id": "TEXT_VOICEMAN_07505_000560_ALPHINAUD",
+   "key": "anairship",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 88,
+   "text_id": "TEXT_VOICEMAN_07505_000570_VISNA",
+   "key": "confirmedthreesurvivorsontheislecaptainalargethrallisattackingthem",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 89,
+   "text_id": "TEXT_VOICEMAN_07505_000580_VISNA",
+   "key": "perarticlesixofthepactoffourwemustrenderaidinopenskiesengagingthethrall",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 90,
+   "text_id": "TEXT_VOICEMAN_07505_000590_VISNA",
+   "key": "wereheretohelpkeepyourwitsaboutyou",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 91,
+   "text_id": "TEXT_VOICEMAN_07505_000600_ALPHINAUD",
+   "key": "whoevertheyaretheycouldnthavecomeatabettertimeletsfinishthis",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 92,
+   "text_id": "TEXT_VOICEMAN_07505_000610_ALPHINAUD",
+   "key": "haaa",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 93,
+   "text_id": "TEXT_VOICEMAN_07505_000620_ESTINIEN",
+   "key": "alphinaud",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 94,
+   "text_id": "TEXT_VOICEMAN_07505_000630_VISNA",
+   "key": "gosigrnef",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 95,
+   "text_id": "TEXT_VOICEMAN_07505_000640_VISNA",
+   "key": "selfsatisfiedgrunt",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 96,
+   "text_id": "TEXT_VOICEMAN_07505_000650_ESTINIEN",
+   "key": "notbad",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 97,
+   "text_id": "TEXT_VOICEMAN_07505_000652_VISNA",
+   "key": "nosignofmorethralls",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 98,
+   "text_id": "TEXT_VOICEMAN_07505_000654_VISNA",
+   "key": "youcanresteasynow",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 99,
+   "text_id": "TEXT_VOICEMAN_07505_000660_ALPHINAUD",
+   "key": "weregratefulforyourassistanceisthereanywaywemightrepaythisdebt",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 100,
+   "text_id": "TEXT_VOICEMAN_07505_000662_VISNA",
+   "key": "dontberidiculousitsonlynaturaltohelpeachotherinopenskies",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 101,
+   "text_id": "TEXT_VOICEMAN_07505_000663_VISNA",
+   "key": "thoughidolikethesoundofrepay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 102,
+   "text_id": "TEXT_VOICEMAN_07505_000664_VISNA",
+   "key": "shockedreaxah",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 103,
+   "text_id": "TEXT_VOICEMAN_07505_000670_VISNA",
+   "key": "stopdontcomeanycloser",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 104,
+   "text_id": "TEXT_VOICEMAN_07505_000680_VISNA",
+   "key": "yourbrandshowyourbrandfirst",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 105,
+   "text_id": "TEXT_VOICEMAN_07505_000690_ALPHINAUD",
+   "key": "myapologiesbutwhatdoyoumeanbybrand",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 106,
+   "text_id": "TEXT_VOICEMAN_07505_000700_VISNA",
+   "key": "whatnextyoullbetellingmeyoudontknowwhatareadingrodis",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 107,
+   "text_id": "TEXT_VOICEMAN_07505_000701_ALPHINAUD",
+   "key": "forgiveusifwehavecausedoffensewearetravelersfromfarawayandtrulydonotunderstandyourmeaning",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 108,
+   "text_id": "TEXT_VOICEMAN_07505_000702_VISNA",
+   "key": "quittheactshowmeyourbrandsnow",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 109,
+   "text_id": "TEXT_VOICEMAN_07505_000703_ALPHINAUD",
+   "key": "thisisquitethepredicament",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 110,
+   "text_id": "TEXT_VOICEMAN_07505_000704_ALPHINAUD",
+   "key": "ihadhopedtorefrainfromdisclosingouroriginsuntilwehadabettergraspofthesituationbutitseemswehavenochoice",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 111,
+   "text_id": "TEXT_VOICEMAN_07505_000715_KETILL",
+   "key": "whatsgoingonthereaproblem",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 112,
+   "text_id": "TEXT_VOICEMAN_07505_000720_VISNA",
+   "key": "wevedealtwiththethrallsbutthesepeopletheyclaimtheydontknowwhatabrandisanditdoesntsoundliketheyrelying",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 113,
+   "text_id": "TEXT_VOICEMAN_07505_000735_KETILL",
+   "key": "youcantbeserious",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 114,
+   "text_id": "TEXT_VOICEMAN_07505_000740_VISNA",
+   "key": "imgoingtoexamineyoustaystill",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 115,
+   "text_id": "TEXT_VOICEMAN_07505_000750_VISNA",
+   "key": "thatsoddwhyisntitresponding",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 116,
+   "text_id": "TEXT_VOICEMAN_07505_000752_SALVAGECREWA",
+   "key": "lookslikesomeonesbeenneglectingmaintenance",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 117,
+   "text_id": "TEXT_VOICEMAN_07505_000754_VISNA",
+   "key": "thatsrichcomingfromtheneglecterinchiefialwayscheckanddoublecheckallmyruneworksbeforedeparture",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 118,
+   "text_id": "TEXT_VOICEMAN_07505_000760_VISNA",
+   "key": "captaincouldyoufaceme",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 119,
+   "text_id": "TEXT_VOICEMAN_07505_000775_KETILL",
+   "key": "affirmativegrunt",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 120,
+   "text_id": "TEXT_VOICEMAN_07505_000780_VISNA",
+   "key": "seeitsworkingjustfine",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 121,
+   "text_id": "TEXT_VOICEMAN_07505_000782_VISNA",
+   "key": "butthatwouldmeanthesepeoplereallydonthavebrands",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 122,
+   "text_id": "TEXT_VOICEMAN_07505_000784_VISNA",
+   "key": "welltheresonlyonewaytoknowforsurewellhavetogetupclose",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 123,
+   "text_id": "TEXT_VOICEMAN_07505_000786_SALVAGECREWA",
+   "key": "areyoumaditsalloverifyourewrongaboutthiswhodwanttotakethatrisk",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 124,
+   "text_id": "TEXT_VOICEMAN_07505_000788_VISNA",
+   "key": "iftheyregenuinelystrandedandweleavethemheretodiewellbepunishedforbreachingthepact",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 125,
+   "text_id": "TEXT_VOICEMAN_07505_000789_VISNA",
+   "key": "noneofuswantthatbutifyouarentgametogooverthere",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 126,
+   "text_id": "TEXT_VOICEMAN_07505_000791_VISNA",
+   "key": "thenilldothehonorsandtakeanextracutformytroublesthirtypercentontopsay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 127,
+   "text_id": "TEXT_VOICEMAN_07505_000792_VISNA",
+   "key": "thenitssettled",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 128,
+   "text_id": "TEXT_VOICEMAN_07505_000793_VISNA",
+   "key": "itrustyouheardthatcaptainnofeigningignorancelater",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 129,
+   "text_id": "TEXT_VOICEMAN_07505_000795_KETILL",
+   "key": "hhey",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 130,
+   "text_id": "TEXT_VOICEMAN_07505_000794_VISNA",
+   "key": "jumpingexert",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 131,
+   "text_id": "TEXT_VOICEMAN_07505_000796_SALVAGECREWB",
+   "key": "shesreallydoingitdoesshehaveadeathwishorsomething",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 132,
+   "text_id": "TEXT_VOICEMAN_07505_000798_VISNA",
+   "key": "steadyingexhale",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 133,
+   "text_id": "TEXT_VOICEMAN_07505_000800_VISNA",
+   "key": "rottenrime",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 134,
+   "text_id": "TEXT_VOICEMAN_07505_000810_VISNA",
+   "key": "howisthispossiblewhoareyoupeoplewhyareyouhere",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 135,
+   "text_id": "TEXT_VOICEMAN_07505_000820_ALPHINAUD",
+   "key": "wheretobegin",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 136,
+   "text_id": "TEXT_VOICEMAN_07505_000822_ESTINIEN",
+   "key": "takethelead",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 137,
+   "text_id": "TEXT_VOICEMAN_07505_Q7_000_001_NONE_VOICE",
+   "key": "whatwillyousay",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 138,
+   "text_id": "TEXT_VOICEMAN_07505_A7_000_001_NONE_VOICE",
+   "key": "forenamesurnameatyourservice",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 139,
+   "text_id": "TEXT_VOICEMAN_07505_A7_000_002_NONE_VOICE",
+   "key": "bestifyouhandledthisalphinaud",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 140,
+   "text_id": "TEXT_VOICEMAN_07505_000840_ALPHINAUD",
+   "key": "andiamalphinaudleveilleur",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 141,
+   "text_id": "TEXT_VOICEMAN_07505_000842_ESTINIEN",
+   "key": "estinien",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 142,
+   "text_id": "TEXT_VOICEMAN_07505_000844_ALPHINAUD",
+   "key": "whwhat",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 143,
+   "text_id": "TEXT_VOICEMAN_07505_000850_ALPHINAUD",
+   "key": "letsbeginwithintroductionsshallweiamalphinaudleveilleurandthesearemycomrades",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 144,
+   "text_id": "TEXT_VOICEMAN_07505_000860_VISNA",
+   "key": "whatunusualnames",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 145,
+   "text_id": "TEXT_VOICEMAN_07505_000862_VISNA",
+   "key": "imvisnaarunesmithofnaglfar",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 146,
+   "text_id": "TEXT_VOICEMAN_07505_000864_VISNA",
+   "key": "huhdontknowwhatarunesmithis",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 147,
+   "text_id": "TEXT_VOICEMAN_07505_000866_VISNA",
+   "key": "putsimplyicrafttoolsimbuedwithmagicthisrequiresbothknowledgeofsorceryaswellastheskilltofashiontheinstruments",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 148,
+   "text_id": "TEXT_VOICEMAN_07505_000870_ALPHINAUD",
+   "key": "soyouareversedinarcaneartslittlewonderyoudisplayedsuchmasteryoverafamiliar",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 149,
+   "text_id": "TEXT_VOICEMAN_07505_000880_ALPHINAUD",
+   "key": "thereareofcoursemanyschoolsofmagicinthecourseofyourstudiesdidyoueverlearnabouttheexistenceofotherworlds",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 150,
+   "text_id": "TEXT_VOICEMAN_07505_000890_VISNA",
+   "key": "otherworlds",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 151,
+   "text_id": "TEXT_VOICEMAN_07505_000900_VISNA",
+   "key": "nocantsayidid",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 152,
+   "text_id": "TEXT_VOICEMAN_07505_000910_VISNA",
+   "key": "jjusttobesurewhenyousayotherworldsyoumeanitliterallynotfigurativelyright",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 153,
+   "text_id": "TEXT_VOICEMAN_07505_000920_ALPHINAUD",
+   "key": "idodifficultthoughitmaybetobelievetheyindeedexistandwehailfromone",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 154,
+   "text_id": "TEXT_VOICEMAN_07505_000922_ALPHINAUD",
+   "key": "weweredepositedherebyanunconventionalteleportationmagickhencewhatisnaturaltoyoumaybewhollyforeigntous",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 155,
+   "text_id": "TEXT_VOICEMAN_07505_000924_ALPHINAUD",
+   "key": "wecannotthankyouenoughforcomingtoouraid",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 156,
+   "text_id": "TEXT_VOICEMAN_07505_000926_VISNA",
+   "key": "huhstrangethingsdohappen",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 157,
+   "text_id": "TEXT_VOICEMAN_07505_000932_ALPHINAUD",
+   "key": "farbeitfromustoaskmoreofyoubutwouldyoutellusaboutyourselves",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 158,
+   "text_id": "TEXT_VOICEMAN_07505_000934_ALPHINAUD",
+   "key": "wewouldalsoappreciatebeingdirectedtoaplacewherewemightlodgeiexpectestinienandiwillnotbeabletoreturnhomeforsomewhile",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 159,
+   "text_id": "TEXT_VOICEMAN_07505_000940_VISNA",
+   "key": "certainly",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 160,
+   "text_id": "TEXT_VOICEMAN_07505_000942_ESTINIEN",
+   "key": "howdecisive",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 161,
+   "text_id": "TEXT_VOICEMAN_07505_000944_VISNA",
+   "key": "prosperousaretheywhoacceptburdensothersavoid",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 162,
+   "text_id": "TEXT_VOICEMAN_07505_000946_VISNA",
+   "key": "apersonalmantraandthekeytomakingmyfortune",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 163,
+   "text_id": "TEXT_VOICEMAN_07505_000948_VISNA",
+   "key": "besidesyoudontbearabrandorlooklikeunsavorysortstobeginwithilltakeyoutomeetmymaster",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 164,
+   "text_id": "TEXT_VOICEMAN_07505_000949_ALPHINAUD",
+   "key": "yourmaster",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 165,
+   "text_id": "TEXT_VOICEMAN_07505_000950_VISNA",
+   "key": "thatsrighthesanincrediblemanwhoknowsthingsthatarentevenwritteninthehavamalandteachesmethisandthatwheneverhehastime",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 166,
+   "text_id": "TEXT_VOICEMAN_07505_000952_VISNA",
+   "key": "hesevenfamiliarwithallmannerofforgottenmagickssoifanyonehasknowledgeaboutotherworldsitdbehim",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 167,
+   "text_id": "TEXT_VOICEMAN_07505_000954_ALPHINAUD",
+   "key": "thankyouvisnawithoutyouwewouldhavenomeansofdescendingtothesurface",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 168,
+   "text_id": "TEXT_VOICEMAN_07505_000956_VISNA",
+   "key": "descending",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 169,
+   "text_id": "TEXT_VOICEMAN_07505_000958_VISNA",
+   "key": "youreallyarentfromaroundhereareyou",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 170,
+   "text_id": "TEXT_VOICEMAN_07505_000960_VISNA",
+   "key": "wewontbedescendingwecant",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 171,
+   "text_id": "TEXT_VOICEMAN_07505_000962_VISNA",
+   "key": "thesurfaceallofithasbeenfrozenforfivehundredyearsweliveupherenowintheskies",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 172,
+   "text_id": "TEXT_VOICEMAN_07505_000964_ALPHINAUD",
+   "key": "whatbuthowdoyou",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 173,
+   "text_id": "TEXT_VOICEMAN_07505_000966_VISNA",
+   "key": "airshipsenormousonestheyrecalledthefimmhimnarthefivefirmamentslefttomankind",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 174,
+   "text_id": "TEXT_VOICEMAN_07505_000968_VISNA",
+   "key": "mymasterandiresideononeofthemtherealmshipofwaternaglfar",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 175,
+   "text_id": "TEXT_VOICEMAN_07505_000970_VISNA",
+   "key": "imhappytotellyouallaboutmyselfandthecrewbutimnotsurewheretostart",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml102_05476"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 176,
+   "text_id": "TEXT_VOICEMAN_07505_000972_ALPHINAUD",
+   "key": "inthatcasepermitmetotaketheinitiative",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 177,
+   "text_id": "TEXT_VOICEMAN_07505_000974_ALPHINAUD",
+   "key": "earlieryoustatedthatallofthesurfaceisfrozentoconfirmyoumeantthattheentireworldislockedinice",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 178,
+   "text_id": "TEXT_VOICEMAN_07505_000980_VISNA",
+   "key": "thatsrightonedaytheworldbegantogrowcoldcoldandstill",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 179,
+   "text_id": "TEXT_VOICEMAN_07505_000990_VISNA",
+   "key": "doyouseetheexpanseofcloudsbelowthatsthefrostglaeradangerousstratumthatsheavilyinfusedwithiceenergies",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 180,
+   "text_id": "TEXT_VOICEMAN_07505_001000_VISNA",
+   "key": "longagoitcametocoverthewholeworldeverythingbeneathwasfrozensolid",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 181,
+   "text_id": "TEXT_VOICEMAN_07505_001002_ALPHINAUD",
+   "key": "andsoinordertoseekrefugeintheskiesmankindconstructedcolossalflyingvesselstherealmships",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 182,
+   "text_id": "TEXT_VOICEMAN_07505_001004_VISNA",
+   "key": "youreafastlearnernowitsstillcoldassinuphighbutthankstothevesselswardswecanliveinrelativecomfort",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 183,
+   "text_id": "TEXT_VOICEMAN_07505_001006_ALPHINAUD",
+   "key": "thatiswell",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 184,
+   "text_id": "TEXT_VOICEMAN_07505_001010_ESTINIEN",
+   "key": "thesebrandsthathadyouinalatherearlierwhatistheirsignificance",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 185,
+   "text_id": "TEXT_VOICEMAN_07505_001011_VISNA",
+   "key": "sofromthemomentwerebornweremagicallyboundtoourrealmship",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 186,
+   "text_id": "TEXT_VOICEMAN_07505_001012_VISNA",
+   "key": "takeglarscrewforexampleeveryonecallsnaglfarhome",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 187,
+   "text_id": "TEXT_VOICEMAN_07505_001013_VISNA",
+   "key": "pointareadingrodatanyoneofusandtheproofofourbondbecomesvisiblethewaterbrand",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 188,
+   "text_id": "TEXT_VOICEMAN_07505_001015_ESTINIEN",
+   "key": "sotheysignifyaffiliationgivenyourreactionithoughtthesituationwasrathermoredire",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 189,
+   "text_id": "TEXT_VOICEMAN_07505_001020_VISNA",
+   "key": "ohyoudbetterbelieveitwas",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 190,
+   "text_id": "TEXT_VOICEMAN_07505_001030_VISNA",
+   "key": "wedontnormallythinkaboutourbrandsbutifyougettooclosetosomeonewhobearsadifferentonethatisthosefromanotherrealmship",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 191,
+   "text_id": "TEXT_VOICEMAN_07505_001040_VISNA",
+   "key": "yourheartseizesupandninetimesoutoftenyouredead",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 192,
+   "text_id": "TEXT_VOICEMAN_07505_001042_ALPHINAUD",
+   "key": "everyoneisbornwiththisterrifyingenchantment",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 193,
+   "text_id": "TEXT_VOICEMAN_07505_001050_VISNA",
+   "key": "itiswhatitis",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 194,
+   "text_id": "TEXT_VOICEMAN_07505_001060_VISNA",
+   "key": "everyvesselhasstrictprotocolsinplaceforthemanagementofresourcesoutsidersarentallowedtocomeandgoastheypleaseotherwisewewouldntbeabletosustainourwayoflife",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 195,
+   "text_id": "TEXT_VOICEMAN_07505_001070_VISNA",
+   "key": "thissystemofbindingmakesiteasiertoregulatepopulationsandtheirmovementitwasintroducedsoonafterwebeganlivingintheskiesanditcontinuestothisday",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 196,
+   "text_id": "TEXT_VOICEMAN_07505_001072_ALPHINAUD",
+   "key": "thankyouforenlighteningusisthereaughtelseyoubelieveweshouldbeawareof",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 197,
+   "text_id": "TEXT_VOICEMAN_07505_001080_VISNA",
+   "key": "hmmmletmethink",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 198,
+   "text_id": "TEXT_VOICEMAN_07505_001085_VISNA",
+   "key": "ah",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 199,
+   "text_id": "TEXT_VOICEMAN_07505_001090_VISNA",
+   "key": "thecreaturesthatattackedyoutheyrethrallsofthejtnar",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 200,
+   "text_id": "TEXT_VOICEMAN_07505_001100_VISNA",
+   "key": "theyharrynaglfarfromtimetotimeandwhentheydosafetyshouldbeyourfirstpriority",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 201,
+   "text_id": "TEXT_VOICEMAN_07505_001101_ALPHINAUD",
+   "key": "iseebutwhatarethejtnar",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 202,
+   "text_id": "TEXT_VOICEMAN_07505_001102_VISNA",
+   "key": "youllseeoneforyourselfsoonenough",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 203,
+   "text_id": "TEXT_VOICEMAN_07505_001110_VISNA",
+   "key": "giantseclipsingthecloudsdrivenbyaninsatiablehungerthethrallshuntmensotheirmastersmayfeast",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 204,
+   "text_id": "TEXT_VOICEMAN_07505_001112_VISNA",
+   "key": "thejtnarthemselveschaseaftertherealmshipslikeashadowsowehavetoconstantlybeonthemove",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 205,
+   "text_id": "TEXT_VOICEMAN_07505_001114_ALPHINAUD",
+   "key": "weveencounteredanumberofgiantspeciesinourtravelsbutnonequitelikewhatyoudescribe",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 206,
+   "text_id": "TEXT_VOICEMAN_07505_001116_ALPHINAUD",
+   "key": "igrowmorecuriouswhydidthisworldcometobeasitis",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 207,
+   "text_id": "TEXT_VOICEMAN_07505_001140_VISNA",
+   "key": "whyindeed",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 208,
+   "text_id": "TEXT_VOICEMAN_07505_001150_VISNA",
+   "key": "ohuhwhatimeanttosayis",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 209,
+   "text_id": "TEXT_VOICEMAN_07505_001152_VISNA",
+   "key": "whenwegettonaglfaryoushouldprobablyavoidaskingpeopleaboutthepast",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 210,
+   "text_id": "TEXT_VOICEMAN_07505_001160_VISNA",
+   "key": "youcanaskmewhateveryoulikebutothersmightfindyourcuriosityalittleuhodd",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 211,
+   "text_id": "TEXT_VOICEMAN_07505_001170_VISNA",
+   "key": "somethingswejustdonttalkabout",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 212,
+   "text_id": "TEXT_VOICEMAN_07505_001172_ALPHINAUD",
+   "key": "weshallbearthatinmind",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 213,
+   "text_id": "TEXT_VOICEMAN_07505_001180_VISNA",
+   "key": "withthatsettledletsmakefornaglfarviaglar",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 214,
+   "text_id": "TEXT_VOICEMAN_07505_001190_VISNA",
+   "key": "afterigetpermissionfromketillthatishesthecaptainandall",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 215,
+   "text_id": "TEXT_VOICEMAN_07505_001200_VISNA",
+   "key": "imprettysurehellsayyesthoughilltellhimiwanttotakeyoutomymaster",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 216,
+   "text_id": "TEXT_VOICEMAN_07505_001220_ALPHINAUD",
+   "key": "weshouldpersonallymakeanappealaswell",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 217,
+   "text_id": "TEXT_VOICEMAN_07505_001245_KETILL",
+   "key": "lookslikeyouvefinishedsettingthecrystalsgoodwork",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 218,
+   "text_id": "TEXT_VOICEMAN_07505_001255_KETILL",
+   "key": "allssetonourendtoosoweregonnacastoffnow",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 219,
+   "text_id": "TEXT_VOICEMAN_07505_001260_ALPHINAUD",
+   "key": "alreadywereyounotextractingresourcesfromtheisle",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 220,
+   "text_id": "TEXT_VOICEMAN_07505_001262_VISNA",
+   "key": "ohbutweareinduecourse",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 221,
+   "text_id": "TEXT_VOICEMAN_07505_001270_VISNA",
+   "key": "itsaneedlesslydifficultprocesswhentheislesstillfrozensowenormallyhaulitbacktothemothershipwhilethawingitout",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 222,
+   "text_id": "TEXT_VOICEMAN_07505_001281_KETILL",
+   "key": "strikezonessetthenfiretheanchors",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 223,
+   "text_id": "TEXT_VOICEMAN_07505_001282_SALVAGECREWA",
+   "key": "sir",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 224,
+   "text_id": "TEXT_VOICEMAN_07505_001284_SALVAGECREWB",
+   "key": "anchorsaway",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 225,
+   "text_id": "TEXT_VOICEMAN_07505_001290_VISNA",
+   "key": "anchorissecuredcaptain",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 226,
+   "text_id": "TEXT_VOICEMAN_07505_001305_KETILL",
+   "key": "raiseoutputtothewindenginesetcoursefornaglfarcruisingspeed",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 227,
+   "text_id": "TEXT_VOICEMAN_07505_001310_ALPHINAUD",
+   "key": "itcallstomindthebattleagainstbismarckdoesitnot",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 228,
+   "text_id": "TEXT_VOICEMAN_07505_001320_VISNA",
+   "key": "wellwhatdoyouthink",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 229,
+   "text_id": "TEXT_VOICEMAN_07505_001330_VISNA",
+   "key": "theseislesareapreciousresourcetheresalwaysthedangerofbeingattackedbythrallsbuttheriskisworththereward",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 230,
+   "text_id": "TEXT_VOICEMAN_07505_001345_KETILL",
+   "key": "rightthosenotonwatchgogetsomerest",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 231,
+   "text_id": "TEXT_VOICEMAN_07505_001347_VISNA",
+   "key": "allthatsleftistowaituntilwearriverelaxandenjoytheride",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 232,
+   "text_id": "TEXT_VOICEMAN_07505_001348_ALPHINAUD",
+   "key": "inthecourseofthisjourneyiwonderwhatweshallseehearfeelandthink",
+   "disposition": "skipped",
+   "reason": "other_quest",
+   "detail": "KinGml103_05477"
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 233,
+   "text_id": "TEXT_VOICEMAN_07505_001700_GRAHATIA",
+   "key": "thatisquiteataleasyoudisappearedinthesamemannerasbeforewesuspectedtheincantationwassuccessful",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 234,
+   "text_id": "TEXT_VOICEMAN_07505_001710_ALISAIE",
+   "key": "wedidntexpectalphinaudandestinientobetakenwithyouhowever",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 235,
+   "text_id": "TEXT_VOICEMAN_07505_001720_ALISAIE",
+   "key": "sothismeansicangotooyes",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 236,
+   "text_id": "TEXT_VOICEMAN_07505_001730_KRILE",
+   "key": "nomorepleasenomore",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 237,
+   "text_id": "TEXT_VOICEMAN_07505_001740_KRILE",
+   "key": "wehaventevendeterminedhowalphinaudandestiniencanreturnthisisnotapowertobeinvokedlightly",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 238,
+   "text_id": "TEXT_VOICEMAN_07505_001750_YSHTOLA",
+   "key": "krilehastherightofitasinglemisstepandwemayallendupstrandedinthefourth",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 239,
+   "text_id": "TEXT_VOICEMAN_07505_001760_GRAHATIA",
+   "key": "andgiventheentirelydifferentcircumstancesspiritvesselswouldavailusnaught",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 240,
+   "text_id": "TEXT_VOICEMAN_07505_001770_GRAHATIA",
+   "key": "soletusbepatientalisaieandthinkofotherwaystohelp",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 241,
+   "text_id": "TEXT_VOICEMAN_07505_001780_ALISAIE",
+   "key": "alrightalrightilldowhaticanhere",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 242,
+   "text_id": "TEXT_VOICEMAN_07505_001790_ALISAIE",
+   "key": "alphinaudandestiniencanlookafterthemselvesiknowbutkeepaneyeonthemwillyou",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 243,
+   "text_id": "TEXT_VOICEMAN_07505_001800_KRILE",
+   "key": "ifyouwishtokeepbusyperhapsyoumightjoinme",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 244,
+   "text_id": "TEXT_VOICEMAN_07505_001810_KRILE",
+   "key": "iintendtovisittheninthtoseeiftherehavebeenanydevelopmentsfollowingrecenteventswhilethereialsohopetotreatthoseintrenoandelsewherewhosufferfromlevinsickness",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 245,
+   "text_id": "TEXT_VOICEMAN_07505_001820_ALISAIE",
+   "key": "idbegladtocomealongillteachyoueverythingyouneedtoknowaboutporxies",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 246,
+   "text_id": "TEXT_VOICEMAN_07505_001830_YSHTOLA",
+   "key": "ishallreturntothemoonastheonewhoopenedthevoidgateishouldrightlykeepaweathereyeonit",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 247,
+   "text_id": "TEXT_VOICEMAN_07505_001840_THANCRED",
+   "key": "theniwilltakemyselfaroundtoassessvoidsentactivityandseeifaughtunusualisafoot",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 248,
+   "text_id": "TEXT_VOICEMAN_07505_001850_HOARYBOULDER",
+   "key": "shouldyourequireextrafeetonthegroundthenoursareatyourdisposal",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 249,
+   "text_id": "TEXT_VOICEMAN_07505_001860_THANCRED",
+   "key": "theydbemostwelcomewelldiscussthedetailsanon",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 250,
+   "text_id": "TEXT_VOICEMAN_07505_001870_URIANGER",
+   "key": "twouldbehooveustodelveintothenatureofthestarinunravelingnewmysteriesmightwefindtheknowledgetoforestallthesolstice",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 251,
+   "text_id": "TEXT_VOICEMAN_07505_001880_GRAHATIA",
+   "key": "agreed",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 252,
+   "text_id": "TEXT_VOICEMAN_07505_Q6_000_001_NONE_VOICE",
+   "key": "whatwillyousay",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 253,
+   "text_id": "TEXT_VOICEMAN_07505_A6_000_001_NONE_VOICE",
+   "key": "ileaveitinyourcapablehands",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 254,
+   "text_id": "TEXT_VOICEMAN_07505_A6_000_002_NONE_VOICE",
+   "key": "dontoverdoityouhear",
+   "disposition": "skipped",
+   "reason": "choice",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 255,
+   "text_id": "TEXT_VOICEMAN_07505_001890_GRAHATIA",
+   "key": "weshallendeavornottodisappoint",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 256,
+   "text_id": "TEXT_VOICEMAN_07505_001900_GRAHATIA",
+   "key": "youaswellmyfriend",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 257,
+   "text_id": "TEXT_VOICEMAN_07505_001910_TATARU",
+   "key": "glarwasit",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 258,
+   "text_id": "TEXT_VOICEMAN_07505_001920_TATARU",
+   "key": "ihopeitgetstothemothershipswiftly",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 259,
+   "text_id": "TEXT_VOICEMAN_07505_001560_CALYX",
+   "key": "surprisedgaspfalling",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 260,
+   "text_id": "TEXT_VOICEMAN_07505_001570_CALYX",
+   "key": "hittinggroundgruntofpain",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 261,
+   "text_id": "TEXT_VOICEMAN_07505_001575_CALYX",
+   "key": "youaredoingthisonpurpose",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 262,
+   "text_id": "TEXT_VOICEMAN_07505_001580_HALMARUT",
+   "key": "itappearsthewarrioroflighthasarrivedwithtwoofhercomrades",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 263,
+   "text_id": "TEXT_VOICEMAN_07505_001585_HALMARUT",
+   "key": "whatpossessedyoutogosofarastoinvitehertothefourth",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 264,
+   "text_id": "TEXT_VOICEMAN_07505_001590_CALYX",
+   "key": "thereissomethingiwouldascertain",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 265,
+   "text_id": "TEXT_VOICEMAN_07505_001600_CALYX",
+   "key": "manythings",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 266,
+   "text_id": "TEXT_VOICEMAN_07505_001605_CALYX",
+   "key": "haveiviolatedthewintererscovenant",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 267,
+   "text_id": "TEXT_VOICEMAN_07505_001610_HALMARUT",
+   "key": "noyouhavenotthiswasdoubtlessbutapartoffatesgranddesign",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 268,
+   "text_id": "TEXT_VOICEMAN_07505_001612_HALMARUT",
+   "key": "besideswhilethewarriorandhercomradesdonotacttoforestallthesolsticeyouwouldnotknowinglyaidthemunlessyouhadacompellingreason",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 269,
+   "text_id": "TEXT_VOICEMAN_07505_001614_HALMARUT",
+   "key": "neverthelesshadyousharedyourintentionsbeforehandimighthaveofferedmycooperationitwouldhavebeenmoreefficientandsparedmetheshock",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 270,
+   "text_id": "TEXT_VOICEMAN_07505_001620_CALYX",
+   "key": "cooperation",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 271,
+   "text_id": "TEXT_VOICEMAN_07505_001622_CALYX",
+   "key": "iwonderifyouwouldsaythesamewereitnotthefourthforyouareboundtothisworldareyounothalmarut",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 272,
+   "text_id": "TEXT_VOICEMAN_07505_001624_CALYX",
+   "key": "orwouldyoupreferbeingcalledbyyourtruenamehere",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 273,
+   "text_id": "TEXT_VOICEMAN_07505_001630_HALMARUT",
+   "key": "thoughmymotivesmaydifferfromthatoflahabreaandtheotherunsunderedmyobjectiveremainsthesametherejoininghalmarutwillsuffice",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 274,
+   "text_id": "TEXT_VOICEMAN_07505_001632_HALMARUT",
+   "key": "wistfulexhalation",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 275,
+   "text_id": "TEXT_VOICEMAN_07505_001634_HALMARUT",
+   "key": "alwayssocoldhere",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 276,
+   "text_id": "TEXT_VOICEMAN_07505_001636_HALMARUT",
+   "key": "italmostbringsonetotears",
+   "disposition": "translated",
+   "reason": null,
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 277,
+   "text_id": "TEXT_VOICEMAN_07505_000070_URIANGER",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 278,
+   "text_id": "TEXT_VOICEMAN_07505_000080_URIANGER",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 279,
+   "text_id": "TEXT_VOICEMAN_07505_000110_ALISAIE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 280,
+   "text_id": "TEXT_VOICEMAN_07505_000120_GRAHATIA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 281,
+   "text_id": "TEXT_VOICEMAN_07505_000130_GRAHATIA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 282,
+   "text_id": "TEXT_VOICEMAN_07505_000132_ALISAIE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 283,
+   "text_id": "TEXT_VOICEMAN_07505_000134_ALPHINAUD",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 284,
+   "text_id": "TEXT_VOICEMAN_07505_000140_ALISAIE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 285,
+   "text_id": "TEXT_VOICEMAN_07505_000142_ALPHINAUD",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 286,
+   "text_id": "TEXT_VOICEMAN_07505_000144_ALPHINAUD",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 287,
+   "text_id": "TEXT_VOICEMAN_07505_000146_ALPHINAUD",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 288,
+   "text_id": "TEXT_VOICEMAN_07505_000150_ALISAIE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 289,
+   "text_id": "TEXT_VOICEMAN_07505_000173_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 290,
+   "text_id": "TEXT_VOICEMAN_07505_000190_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 291,
+   "text_id": "TEXT_VOICEMAN_07505_000205_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 292,
+   "text_id": "TEXT_VOICEMAN_07505_000210_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 293,
+   "text_id": "TEXT_VOICEMAN_07505_000220_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 294,
+   "text_id": "TEXT_VOICEMAN_07505_000230_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 295,
+   "text_id": "TEXT_VOICEMAN_07505_Q2_000_001_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 296,
+   "text_id": "TEXT_VOICEMAN_07505_A2_000_001_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 297,
+   "text_id": "TEXT_VOICEMAN_07505_A2_000_002_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 298,
+   "text_id": "TEXT_VOICEMAN_07505_000240_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 299,
+   "text_id": "TEXT_VOICEMAN_07505_000250_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 300,
+   "text_id": "TEXT_VOICEMAN_07505_000315_ALPHINAUD",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 301,
+   "text_id": "TEXT_VOICEMAN_07505_000320_ALPHINAUD",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 302,
+   "text_id": "TEXT_VOICEMAN_07505_000350_ESTINIEN",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 303,
+   "text_id": "TEXT_VOICEMAN_07505_000420_ESTINIEN",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 304,
+   "text_id": "TEXT_VOICEMAN_07505_000430_ESTINIEN",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 305,
+   "text_id": "TEXT_VOICEMAN_07505_000710_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 306,
+   "text_id": "TEXT_VOICEMAN_07505_000730_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 307,
+   "text_id": "TEXT_VOICEMAN_07505_000770_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 308,
+   "text_id": "TEXT_VOICEMAN_07505_000790_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 309,
+   "text_id": "TEXT_VOICEMAN_07505_000830_VISNA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 310,
+   "text_id": "TEXT_VOICEMAN_07505_000930_VISNA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 311,
+   "text_id": "TEXT_VOICEMAN_07505_Q4_000_001_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 312,
+   "text_id": "TEXT_VOICEMAN_07505_A4_000_001_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 313,
+   "text_id": "TEXT_VOICEMAN_07505_A4_000_002_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 314,
+   "text_id": "TEXT_VOICEMAN_07505_001120_ESTINIEN",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 315,
+   "text_id": "TEXT_VOICEMAN_07505_001130_ALPHINAUD",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 316,
+   "text_id": "TEXT_VOICEMAN_07505_Q5_000_001_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 317,
+   "text_id": "TEXT_VOICEMAN_07505_A5_000_001_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 318,
+   "text_id": "TEXT_VOICEMAN_07505_A5_000_002_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 319,
+   "text_id": "TEXT_VOICEMAN_07505_001210_VISNA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 320,
+   "text_id": "TEXT_VOICEMAN_07505_001215_VISNA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 321,
+   "text_id": "TEXT_VOICEMAN_07505_001230_VISNA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 322,
+   "text_id": "TEXT_VOICEMAN_07505_001240_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 323,
+   "text_id": "TEXT_VOICEMAN_07505_001250_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 324,
+   "text_id": "TEXT_VOICEMAN_07505_001280_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 325,
+   "text_id": "TEXT_VOICEMAN_07505_001300_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 326,
+   "text_id": "TEXT_VOICEMAN_07505_001340_BJARNI",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 327,
+   "text_id": "TEXT_VOICEMAN_07505_001350_THANCRED",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 328,
+   "text_id": "TEXT_VOICEMAN_07505_001360_ALISAIE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 329,
+   "text_id": "TEXT_VOICEMAN_07505_001370_ALISAIE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 330,
+   "text_id": "TEXT_VOICEMAN_07505_001380_THANCRED",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 331,
+   "text_id": "TEXT_VOICEMAN_07505_001390_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 332,
+   "text_id": "TEXT_VOICEMAN_07505_001400_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 333,
+   "text_id": "TEXT_VOICEMAN_07505_001410_GRAHATIA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 334,
+   "text_id": "TEXT_VOICEMAN_07505_001420_GRAHATIA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 335,
+   "text_id": "TEXT_VOICEMAN_07505_001430_ALISAIE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 336,
+   "text_id": "TEXT_VOICEMAN_07505_001440_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 337,
+   "text_id": "TEXT_VOICEMAN_07505_001450_URIANGER",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 338,
+   "text_id": "TEXT_VOICEMAN_07505_001460_THANCRED",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 339,
+   "text_id": "TEXT_VOICEMAN_07505_001470_HOARYBOULDER",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 340,
+   "text_id": "TEXT_VOICEMAN_07505_001480_HOARYBOULDER",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 341,
+   "text_id": "TEXT_VOICEMAN_07505_001490_TATARU",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 342,
+   "text_id": "TEXT_VOICEMAN_07505_001500_KRILE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 343,
+   "text_id": "TEXT_VOICEMAN_07505_001510_ALISAIE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 344,
+   "text_id": "TEXT_VOICEMAN_07505_001520_YSHTOLA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 345,
+   "text_id": "TEXT_VOICEMAN_07505_001530_GRAHATIA",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 346,
+   "text_id": "TEXT_VOICEMAN_07505_001540_THANCRED",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 347,
+   "text_id": "TEXT_VOICEMAN_07505_001550_SYSTEM_NONE_VOICE",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 348,
+   "text_id": "TEXT_VOICEMAN_07505_001640_CALYX",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 349,
+   "text_id": "TEXT_VOICEMAN_07505_001650_CALYX",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  },
+  {
+   "file": "cut_scene/075/VoiceMan_07505",
+   "row": 350,
+   "text_id": "TEXT_VOICEMAN_07505_001660_CALYX",
+   "key": "",
+   "disposition": "skipped",
+   "reason": "unused",
+   "detail": null
+  }
+ ]
+}

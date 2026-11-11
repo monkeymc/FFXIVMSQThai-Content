@@ -318,7 +318,12 @@
    "key": "accordingtohalmarutitisthefatethatawaitsshouldthereflectionsbeallowedtomergeoftheirownaccordanactofhealingdictatedbythelawsofnature",
    "text_human": "ตามที่ฮาลมารุตบอก มันคือชะตากรรมที่รออยู่หากปล่อยให้เหล่าโลกเงาสะท้อนหลอมรวมกันเองตามครรลอง—การเยียวยาที่กฎแห่งธรรมชาติกำหนดไว้",
    "text_haiku": "ตามคำของอาเชียน ฮัลมารุต หากปล่อยให้เงาสะท้อนรวมตัวกันเองตามธรรมชาติ นั่นคือจุดจบที่รออยู่ เป็นการรักษาตัวเองตามกฎแห่งธรรมชาติ",
-   "flags": []
+   "flags": [
+    {
+     "check": "name",
+     "detail": "Rejoining is การรวมโลกเข้าด้วยกัน in terms.json"
+    }
+   ]
   },
   {
    "text_id": "TEXT_VOICEMAN_07505_000030_ALPHINAUD",

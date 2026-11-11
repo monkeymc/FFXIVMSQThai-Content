@@ -10,14 +10,15 @@ Per quest: the calls of the runs that produced the current output (translate + r
 |---|---|---|---|---|---|---|---|---|---|
 | HeaVnb108_02163 (164 lines) | cli | 8 | 16 | 61205 | 5016 | 112145 | 93354 | 0.068365 | 0.062208 |
 | KinGml101_05475 (96 lines) | cli | 6 | 12 | 34418 | 1254 | 41990 | 31882 | 0.027892 | 0.024197 |
+| KinGml104_05478 (69 lines) | cli | 4 | 8 | 22994 | 1254 | 35328 | 28528 | 0.022276 | 0.019846 |
 | VoiceMan_03008 attribution (33 rows, 3 votes) | cli | 3 | 6 | 26668 | 53336 | 29588 | 29464 | 0.020662 | 0.022612 |
 | VoiceMan_03100 attribution (203 rows, 3 votes) | cli | 3 | 6 | 43833 | 89373 | 48487 | 48038 | 0.033904 | 0.037382 |
 | VoiceMan_03300 attribution (202 rows, 3 votes) | cli | 3 | 6 | 42624 | 86955 | 33441 | 32954 | 0.026115 | 0.029496 |
 | VoiceMan_07400 attribution (508 rows, 3 votes) | cli | 3 | 8 | 61228 | 185960 | 115310 | 114595 | 0.071761 | 0.082192 |
 | VoiceMan_07505 attribution (351 rows, 3 votes) | cli | 3 | 6 | 31626 | 17164 | 25792 | 25473 | 0.019393 | 0.017593 |
-| **total, current outputs** | cli | 29 | 60 | 301602 | 439058 | 406753 | 375760 | 0.268093 | 0.275680 |
+| **total, current outputs** | cli | 33 | 68 | 324596 | 440312 | 442081 | 404288 | 0.290370 | 0.295525 |
 
-All logged calls, including probes, rejected attempts and superseded runs: 52 calls, $1.112769.
+All logged calls, including probes, rejected attempts and superseded runs: 56 calls, $1.135046.
 
 ### Every logged run
 
@@ -55,6 +56,7 @@ Same quest, same prompt: the spread between rows is run-to-run variance, mostly 
 | VoiceMan_03300 | 20261111T024109-4e08e7 | attribute+attribute | high | 23742 | 23408 | 0.012735 | yes |
 | VoiceMan_07400 | 20261111T024250-516591 | attribute+attribute | high | 64161 | 63676 | 0.033935 | yes |
 | VoiceMan_07505 | 20261111T024834-0904a5 | attribute+attribute | high | 18002 | 17794 | 0.012378 | yes |
+| KinGml104_05478 | 20261111T123252-d0889d | translate+review+translate+review | medium | 35328 | 28528 | 0.022276 | yes |
 
 CLI overhead: a probe with a 3-word prompt was billed 610 input tokens, so about that many tokens per call are the CLI harness, and the CLI writes the whole prompt to the 1-hour cache (2x the input price). The API-path estimate removes the harness tokens and prices all input at $0.10/MTok and the same output tokens at $0.50/MTok, without caching. It is an estimate; the API path was not run.
 
@@ -65,7 +67,8 @@ Lines with at least one flag per check. `human` runs the same deterministic lint
 | quest | lines | any flag | empty | forename | name | pronoun | script | length | review | human: any lint |
 |---|---|---|---|---|---|---|---|---|---|---|
 | HeaVnb108_02163 | 164 | 30 | 0 | 4 | 20 | 0 | 0 | 6 | 2 | 4 |
-| KinGml101_05475 | 96 | 14 | 0 | 0 | 3 | 0 | 10 | 1 | 1 | 0 |
+| KinGml101_05475 | 96 | 15 | 0 | 0 | 4 | 0 | 10 | 1 | 1 | 0 |
+| KinGml104_05478 | 69 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
 
 ## Coverage
 
@@ -77,11 +80,14 @@ From `out/coverage/<quest_id>.json`. Every row of every source file is translate
 | HeaVnb108_02163 | `52a72b38aa2f` | cut_scene/031/VoiceMan_03100 | 203 | 75 | other_quest 124, choice 3, not_displayed 1 |
 | KinGml101_05475 | `a67c23b00fe8` | quest/054/KinGml101_05475 | 98 | 30 | empty 38, unused 17, journal 6, todo 4, choice 3 |
 | KinGml101_05475 | `a67c23b00fe8` | cut_scene/075/VoiceMan_07505 | 351 | 66 | other_quest 203, unused 74, choice 7, not_for_translation 1 |
+| KinGml104_05478 | `a67c23b00fe8` | quest/054/KinGml104_05478 | 83 | 28 | empty 42, unused 6, journal 4, todo 2, system 1 |
+| KinGml104_05478 | `a67c23b00fe8` | cut_scene/075/VoiceMan_07505 | 351 | 41 | other_quest 232, unused 74, choice 3, not_for_translation 1 |
 
 | quest | team files | team keys | in output | not in output by reason |
 |---|---|---|---|---|
 | HeaVnb108_02163 | 3.x/as-goes-light-so-goes-darkness.json | 157 | 141 | text_differs 10, not_in_searched_files 3, merged_rows 2, found_elsewhere 1 |
 | KinGml101_05475 | 7.56/a-winters-dream.json, 7.56/cutscenes.json | 102 | 96 | source_row_skipped:choice 6 |
+| KinGml104_05478 | 7.56/cutscenes.json, 7.56/windborne.json | 72 | 69 | source_row_skipped:choice 3 |
 
 ## Cutscene attribution
 
@@ -95,14 +101,15 @@ Which rows of a voiced-cutscene file belong to which quest, from `out/attributio
 
 ## Names
 
-`terms.json` holds 91 renderings.
+`terms.json` holds 100 renderings.
 
 - HeaVnb108_02163: received 23 known names; conflicts with terms.json (not overwritten): [{'en': 'Holy See', 'recorded': 'ศาลศักดิ์สิทธิ์', 'this_run': 'สำนักสันตะปาปา'}].
 - KinGml101_05475: received 16 known names; conflicts with terms.json (not overwritten): [{'en': 'Estinien', 'recorded': 'เอสตินเนียน', 'this_run': 'อิสตินเนียน'}].
+- KinGml104_05478: received 23 known names; conflicts with terms.json (not overwritten): none.
 
 ## Japanese keys
 
-260 rows, 260 distinct `key_ja`. Rows with an empty key: ['TEXT_HEAVNB108_02163_YSHTOLA_000_086']. Keys shared by more than one row: none. `key_ja_vectors.json` holds 21 vectors.
+329 rows, 329 distinct `key_ja`. Rows with an empty key: ['TEXT_HEAVNB108_02163_YSHTOLA_000_086']. Keys shared by more than one row: none. `key_ja_vectors.json` holds 29 vectors.
 
 ## Samples
 
@@ -144,6 +151,14 @@ Three lines per quest: most flags first, then longest.
 - Haiku: ก็อาจเป็นกับดักได้ แต่ถ้าโลกที่สี่ถูกเลือกมาจากบรรดาโลกเงาสะท้อนที่ยังมีอยู่ ก็คงไม่เสียหายที่จะไปดูสักหน่อย
 - Flags: name: Winterer is วินเทอเรอร์ in terms.json; review: ja "ウィンタラーが現存する鏡像世界から選ばれているなら" has the Winterers as the one chosen, but th makes the Fourth World the chosen one ("ถ้าโลกที่สี่ถูกเลือก"), swapping the subject.
 
+**Alphinaud** (`TEXT_VOICEMAN_07505_000020_ALPHINAUD`)
+
+- JA: アシエン・ハルマルトによれば、 それは星の理に則った、さながら自然治癒のような世界統合。
+- EN: According to Halmarut, it is the fate that awaits should the reflections be allowed to merge of their own accord─an act of healing dictated by the laws of nature.
+- Human: ตามที่ฮาลมารุตบอก มันคือชะตากรรมที่รออยู่หากปล่อยให้เหล่าโลกเงาสะท้อนหลอมรวมกันเองตามครรลอง—การเยียวยาที่กฎแห่งธรรมชาติกำหนดไว้
+- Haiku: ตามคำของอาเชียน ฮัลมารุต หากปล่อยให้เงาสะท้อนรวมตัวกันเองตามธรรมชาติ นั่นคือจุดจบที่รออยู่ เป็นการรักษาตัวเองตามกฎแห่งธรรมชาติ
+- Flags: name: Rejoining is การรวมโลกเข้าด้วยกัน in terms.json
+
 **Tataru** (`TEXT_KINGML101_05475_TATARU_000_204`)
 
 - JA: もちろん無事だとは信じていましたが、 安否もわからないと不安だけは募るもの……。 今後は気をつけてほしいのでっす！
@@ -152,10 +167,28 @@ Three lines per quest: most flags first, then longest.
 - Haiku: ฉันเชื่อมั่นว่าคุณต้องปลอดภัยค่ะ แต่พอไม่มีข่าวคราวเลย ก็อดกังวลไม่ได้เลยนะคะ ต่อจากนี้ช่วยพยายามติดต่อกลับมาด้วยนะคะ！
 - Flags: script: untranslated: ！
 
-**Tataru** (`TEXT_KINGML101_05475_TATARU_000_205`)
+### KinGml104_05478
 
-- JA: さてさて……。 エスティニアンさんに経緯をお伝えし次第、 「明日の果て」についての話し合いが再開されるそうでっす。
-- EN: Now then, I shall take a moment to catch Estinien up on events, after which we will reconvene to discuss the Solstice.
-- Human: เอาละ ฉันขอเวลาสักครู่เล่าเหตุการณ์ทั้งหมดให้เอสทิเนียนฟังก่อน จากนั้นค่อยมารวมตัวกันหารือเรื่องโซลสทิซอีกครั้ง
-- Haiku: งั้นละค่ะ เมื่อฉันเล่าเหตุการณ์ให้คุณเอสตินเนียนฟังเสร็จ จะกลับมาคุยเรื่อง「ปลายแห่งวันพรุ่งนี้」กันต่อค่ะ
-- Flags: script: untranslated: 「 」
+**Salvagecrewc** (`TEXT_KINGML104_05478_SALVAGECREWC_000_050`)
+
+- JA: まずは天幕を張りたいところだけど…… さすがにもうちょっと氷が溶けてくれないと、 ペグが刺さらないかなあ？
+- EN: I'd like to pitch a tent, but the stakes won't pierce the ground until the ice has thawed some more...
+- Human: อยากกางเต็นท์อยู่เหมือนกัน แต่ตอกหมุดไม่ลงเลยจนกว่าน้ำแข็งจะละลายมากกว่านี้...
+- Haiku: อยากจะกางเต็นท์ก่อนอยู่หรอก แต่คงต้องรอให้น้ำแข็งละลายไปอีกหน่อย ไม่งั้นหมุดเต็นท์คงปักลงพื้นไม่ได้แน่ๆ
+- Flags: review: The ja ends in a hedged question, 'ペグが刺さらないかなあ？' ('I wonder if the pegs won't go in?'), but the th states it as a certainty with 'แน่ๆ' ('surely can't'), changing the meaning.
+
+**Krile** (`TEXT_VOICEMAN_07505_001810_KRILE`)
+
+- JA: 第九世界側から今回の件を探ってみたいのだけれど…… トレノをはじめ、あっちにはまだ、 雷属性による麻痺症状で苦しんでいる人がいるの。
+- EN: I intend to visit the Ninth to see if there have been any developments following recent events. While there, I also hope to treat those in Treno and elsewhere who suffer from levin sickness.
+- Human: ฉันตั้งใจจะไปเยือนโลกเงาสะท้อนที่เก้า เพื่อดูว่ามีความคืบหน้าอะไรหลังเหตุการณ์ที่ผ่านมาบ้าง แล้วก็หวังจะได้รักษาผู้คนในเทรโนและที่อื่นๆ ที่ป่วยด้วยโรคไข้สายฟ้าไปด้วย
+- Haiku: ฉันอยากลองสืบเรื่องครั้งนี้จากทางโลกที่เก้าดูน่ะ... ที่เทรโนและที่อื่นทางนั้น ยังมีคนที่ทรมานจากอาการเป็นอัมพาตจากธาตุสายฟ้าอยู่เลย
+- Flags: none
+
+**Halmarut** (`TEXT_VOICEMAN_07505_001614_HALMARUT`)
+
+- JA: ですが、考えがあるなら事前に共有していただけた方が、 私もびっくりせずに済みますし、協力できて効率的かと……！
+- EN: Nevertheless, had you shared your intentions beforehand, I might have offered my cooperation. It would have been more efficient─and spared me the shock.
+- Human: กระนั้นก็เถอะ หากท่านบอกเจตนาไว้ล่วงหน้า ข้าคงยื่นมือให้ความร่วมมือได้ มันย่อมมีประสิทธิภาพกว่านี้—แล้วข้าก็คงไม่ต้องตกใจด้วย
+- Haiku: แต่ถ้ามีแผนอยู่ละก็ ช่วยบอกกันล่วงหน้าไว้น่าจะดีกว่านะคะ ฉันจะได้ไม่ตกใจ แล้วร่วมมือกันก็มีประสิทธิภาพกว่าด้วยค่ะ...!
+- Flags: none

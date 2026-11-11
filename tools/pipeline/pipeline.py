@@ -7,13 +7,15 @@ usage:
   pipeline.py --patch X.Y [--at REV]                    old content: the quests of the cut_scene/0XY files
   pipeline.py                                           no model calls: rebuild every stored quest and the report
 options: --force (translate again), --list (print the selection and stop), --probe (measure CLI overhead)
+Run strip_team_overlap.py --apply afterwards so the team's rows do not hide the new lines in the plugin.
 
 A quest's sources are its quest file and the voiced-cutscene (VoiceMan) files that hold its lines. Every row
 of those files ends up translated or skipped with a reason; out/coverage/<quest_id>.json records which, and
 the run stops if a row is unaccounted for. Model calls happen only for rows without a stored translation
 (or with --force) and for cutscene files without a stored attribution. Every run then rewrites
-out/<quest_id>.json (plugin-facing), out/review/<quest_id>.json (pipeline record) and the coverage file from
-the stored translations and the sources, lints and terms.json, then the report.
+haiku/<quest_id>.json (plugin-facing), out/review/<quest_id>.json (pipeline record) and the coverage file from
+the stored translations and the sources, lints and terms.json, then the report. The team's translations are
+read from th/ at TEAM_REV, not from the working tree, because this branch removes team rows that collide.
 """
 import argparse
 import difflib
@@ -24,6 +26,7 @@ import subprocess
 import time
 import uuid
 from collections import Counter
+from functools import cache
 from pathlib import Path
 
 import attribution
@@ -31,10 +34,11 @@ import gamedata
 from key_ja import EDGE_CASES, key_ja
 
 HERE = Path(__file__).resolve().parent
-TEAM = Path(os.environ.get("FFXIV_TEAM_DIR", HERE.parents[1] / "th"))
+ROOT = HERE.parents[1]
+TEAM_REV = os.environ.get("FFXIV_TEAM_REV", "main")
 SHARED_TEAM_FILE = "cutscenes.json"
 OUT = HERE / "out"
-PLUGIN_OUT = Path(os.environ.get("FFXIV_PLUGIN_OUT", HERE.parents[1] / "haiku"))
+PLUGIN_OUT = Path(os.environ.get("FFXIV_PLUGIN_OUT", ROOT / "haiku"))
 COST_LOG = OUT / "cost_log.jsonl"
 REVIEW_DIR = "review"
 COVERAGE_DIR = "coverage"
@@ -129,15 +133,34 @@ def slug(name):
     return re.sub("[^a-z0-9]+", "-", name.lower().replace("'", "").replace("’", "")).strip("-")
 
 
+def team_git(*args):
+    return subprocess.run(["git", "-C", str(ROOT), *args], capture_output=True, text=True, encoding="utf-8", check=True).stdout
+
+
+@cache
+def team_files():
+    """Paths of the team's files at TEAM_REV, relative to th/."""
+    return tuple(line[len("th/"):] for line in team_git("ls-tree", "-r", "--name-only", TEAM_REV, "th/").splitlines() if line.endswith(".json"))
+
+
+@cache
+def read_team(path):
+    """The dialogues of th/<path> at TEAM_REV."""
+    return json.loads(team_git("show", f"{TEAM_REV}:th/{path}"))["dialogues"]
+
+
+def quest_team_files(quest):
+    return sorted(path for path in team_files() if path.count("/") == 1 and path.endswith(f"/{slug(quest['name'])}.json"))
+
+
 def load_team(quest):
     """The team's translations for one quest: its own file(s), and the shared cutscene file(s) next to them.
     {"quest": {path: {key: text}}, "shared": {path: {key: text}}}, paths relative to th/."""
     out = {"quest": {}, "shared": {}}
-    for path in sorted(TEAM.glob(f"*/{slug(quest['name'])}.json")):
-        for kind, file in (("quest", path), ("shared", path.with_name(SHARED_TEAM_FILE))):
-            if file.exists():
-                dialogues = json.loads(file.read_text(encoding="utf-8"))["dialogues"]
-                out[kind][str(file.relative_to(TEAM))] = {d["key"]: d["text"] for d in dialogues}
+    for path in quest_team_files(quest):
+        for kind, file in (("quest", path), ("shared", f"{path.split('/')[0]}/{SHARED_TEAM_FILE}")):
+            if file in team_files():
+                out[kind][file] = {d["key"]: d["text"] for d in read_team(file)}
     return out
 
 
