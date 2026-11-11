@@ -111,7 +111,7 @@ Which rows of a voiced-cutscene file belong to which quest, from `out/attributio
 
 ## Names
 
-`terms.json` holds 2460 Japanese names with their official English, which translations keep (`name` flags above).
+`terms.json` holds 2461 Japanese names with their official English, which translations keep (`name` flags above).
 
 ## Japanese keys
 

@@ -44,7 +44,7 @@ tools/pipeline/.venv/bin/python tools/pipeline/build_terms.py
 
 ตัวเลือกสำหรับไฟล์นี้สร้างด้วย `suggest_terms.py` ซึ่งเขียน `out/terms_suggestions.json` (ดู `README.md`)
 
-ตอนนี้มี 144 ชื่อ 2 ชื่อแรกเขียนด้วยมือ อีก 142 ชื่อผู้ใช้เลือกจาก `out/terms_suggestions.json` (datamining `52a72b38aa2f`) เมื่อ 2026-11-11
+ตอนนี้มี 145 ชื่อ 2 ชื่อแรกเขียนด้วยมือ อีก 143 ชื่อผู้ใช้เลือกจาก `out/terms_suggestions.json` (datamining `52a72b38aa2f`) เมื่อ 2026-11-11
 
 | ja | en | ทำไมหาจาก submodule ไม่ได้ |
 |---|---|---|
@@ -125,6 +125,7 @@ tools/pipeline/.venv/bin/python tools/pipeline/build_terms.py
 | テレポ | Teleport | ไม่มีใน sheet ใดเลย |
 | テロフォロイ | Telophoroi | มีแค่ในชื่อเต็ม (テロフォロイ・ビット) |
 | デミール | Daemir | ไม่มีใน sheet ใดเลย |
+| デュナミス | Dynamis | ไม่มีใน sheet ใดเลย |
 | デュランデル | Durendaire | ไม่มีใน sheet ใดเลย |
 | トゥプシマティ | Tupsimati | ไม่มีใน sheet ใดเลย |
 | トッディア | Toddia | ไม่มีใน sheet ใดเลย |
