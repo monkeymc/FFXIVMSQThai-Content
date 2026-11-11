@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Offline checks: lints catch seeded defects, a line gets only the longest terms.json names it uses, every source row
-and team key is accounted for (and a row that disappears stops the run), both selection modes pick the
-right files, the strip tool removes only colliding target rows, and the API backend parses a Messages response from a local stub (run with .venv/bin/python)."""
+"""Offline checks: lints catch seeded defects, a line gets only the longest terms.json names it uses,
+terms_manual.json cannot repeat a sheet name, every source row and team key is accounted for (and a row that
+disappears stops the run), both selection modes pick the right files, the strip tool removes only colliding
+target rows, and the API backend parses a Messages response from a local stub (run with .venv/bin/python)."""
 import argparse
 import contextlib
 import copy
@@ -16,6 +17,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from pathlib import Path
 
 import attribution
+import build_terms
 import gamedata
 import pipeline
 import strip_team_overlap
@@ -173,6 +175,15 @@ def stops(action, message):
         assert message in str(stop), stop
         return
     raise AssertionError(f"did not stop with {message!r}")
+
+
+sheets = [("ENpcResident", {"ゼノス": "Zenos"}), ("PlaceName", {"ゼノス": "Zenos Place", "暁": "Dawn"})]
+merged, counts = build_terms.merge(sheets, {"暁の血盟": "Scions of the Seventh Dawn"})
+assert merged == {"ゼノス": "Zenos", "暁": "Dawn", "暁の血盟": "Scions of the Seventh Dawn"}, merged
+assert counts == [("ENpcResident", 1), ("PlaceName", 1), ("terms_manual.json", 1)], counts
+stops(lambda: build_terms.merge(sheets, {"暁": "Scions"}), 'terms_manual.json: 暁 is already in PlaceName as "Dawn"; remove it')
+stops(lambda: build_terms.merge(sheets, {"暁": "Dawn"}), "暁 is already in PlaceName")
+print("build terms: ok")
 
 
 with tempfile.TemporaryDirectory() as tmp:

@@ -7,7 +7,8 @@ terms.json maps each Japanese proper noun that main-scenario text uses to its of
 the translation keeps as is (TERMS.md). A sheet name becomes a term when its English starts with a capital
 letter, since the sheets write common nouns (vulture, delivery moogle) in lower case; when its spellings
 agree (spelling()); and when the Japanese appears in a main-scenario quest file or any cut_scene file.
-terms_manual.json adds names that no sheet holds, such as 暁 for the Scions, and wins over the sheets.
+terms_manual.json adds names that no sheet holds, such as 暁 for the Scions; a name a sheet already gives is an
+error, so the two never disagree.
 """
 import argparse
 import json
@@ -53,20 +54,31 @@ def sheet_names(source, sheet, column):
 
 
 def msq_text(source):
-    paths = [gamedata.quest_path(stem) for stem, quest in gamedata.quests(source).items() if quest["msq"]]
-    paths += source.files("cut_scene")
-    return "\n".join(row[2] for path in paths for row in source.table(f"ja/{path}")[1:] if len(row) > 2)
+    return "\n".join(row[2] for path in gamedata.msq_paths(source) for row in source.table(f"ja/{path}")[1:] if len(row) > 2)
+
+
+def merge(sheets, manual):
+    """(terms, counts) from [(sheet, {ja: en})] in SHEETS order and terms_manual.json's {ja: en}. Stops on a manual
+    name that a sheet already gives, whether or not the English agrees."""
+    terms, origin, counts = {}, {}, []
+    for sheet, names in sheets:
+        found = {ja: en for ja, en in names.items() if ja not in terms}
+        terms.update(found)
+        origin.update(dict.fromkeys(found, sheet))
+        counts.append((sheet, len(found)))
+    for ja in manual:
+        if ja in terms:
+            raise SystemExit(f'{MANUAL.name}: {ja} is already in {origin[ja]} as "{terms[ja]}"; remove it from {MANUAL.name}')
+    return dict(sorted({**terms, **manual}.items())), counts + [(MANUAL.name, len(manual))]
 
 
 def build(source):
     text = msq_text(source)
-    terms, counts = {}, []
-    for sheet, column in SHEETS:
-        found = {ja: en for ja, en in sheet_names(source, sheet, column).items() if ja not in terms and ja in text}
-        terms.update(found)
-        counts.append((sheet, len(found)))
-    manual = json.loads(MANUAL.read_text(encoding="utf-8"))
-    return dict(sorted({**terms, **manual}.items())), counts + [(MANUAL.name, len(manual))]
+    sheets = [
+        (sheet, {ja: en for ja, en in sheet_names(source, sheet, column).items() if ja in text})
+        for sheet, column in SHEETS
+    ]
+    return merge(sheets, json.loads(MANUAL.read_text(encoding="utf-8")))
 
 
 def main():
